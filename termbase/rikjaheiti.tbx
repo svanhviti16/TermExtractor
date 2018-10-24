@@ -1,0 +1,3054 @@
+<?xml version='1.0'?>
+<!DOCTYPE martif SYSTEM "TBXcoreStructV02.dtd">
+<martif type="TBX" xml:lang="is">
+ <martifHeader>
+  <fileDesc>
+   <sourceDesc>
+    <p>Ríkjaheiti: Termbase for state names. Originally published in 1997 (ed. Baldur Jónsson, Anton Holt, Ólafur Ísleifsson, Veturliði Óskarsson). Licensed under a CC - BY - SA License.</p>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <p type="XCSURI">http://www.lisa.org/fileadmin/standards/tbx/TBXXCSV02.XCS</p>
+  </encodingDesc>
+ </martifHeader>
+ <text>
+  <body>
+   <termEntry id="eid-ordabanki-rikjaheiti-440662">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440662-is1">Bermúdaeyjar</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440662-en1">Bermuda</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440664">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440664-is1">Brasilía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440664-en1">Brazil</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440665">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440665-is1">Skotland</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440665-en1">Scotland</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440667">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440667-is1">Slóvakía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440667-en1">Slovakia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440668">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440668-is1">Mexíkó</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440668-en1">Mexico</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440669">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440669-is1">Nýja-Kaledónía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440669-en1">New Caledonia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440670">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440670-is1">Marokkó</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440670-en1">Morocco</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440671">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440671-is1">Ítalía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440671-en1">Italy</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440672">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440672-is1">Holland</term>
+     </tig>
+     <tig>
+      <term>Niðurlönd</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440672-en1">Netherlands</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440673">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440673-is1">Kíribatí</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440673-en1">Kiribati</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440674">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440674-is1">Kasakstan</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440674-en1">Kazakhstan</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440675">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440675-is1">Wallis og Futuna</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440675-en1">Wallis and Futuna Islands</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440676">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440676-is1">Smáeyjar Bandaríkjanna</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440676-en1">United States Minor Outlaying Islands</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440677">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440677-is1">Simbabve</term>
+     </tig>
+     <tig>
+      <term>Zimbabwe</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440677-en1">Zimbabwe</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440678">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440678-is1">Víetnam</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440678-en1">Vietnam</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440679">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440679-is1">Saír</term>
+     </tig>
+     <tig>
+      <term>Zaire</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440679-en1">Zaire</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440682">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440682-is1">Erítrea</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440682-en1">Eritrea</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440683">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440683-is1">Finnland</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440683-en1">Finland</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440684">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440684-is1">England</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440684-en1">England</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440685">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440685-is1">Bouveteyja</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440685-en1">Bouvet Island</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440686">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440686-is1">Falklandseyjar</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440686-en1">Falkland Islands</term>
+     </tig>
+     <tig>
+      <term>Malvinas</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440687">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440687-is1">Búrkína Fasó</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440687-en1">Burkina Faso</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440688">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440688-is1">Caymaneyjar</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440688-en1">Cayman Islands</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440689">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440689-is1">Spánn</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440689-en1">Spain</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440691">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440691-is1">Niue</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440691-en1">Niue</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440692">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440692-is1">Afganistan</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440692-en1">Afghanistan</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440693">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440693-is1">Níger</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440693-en1">Niger</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440695">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440695-is1">Noregur</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440695-en1">Norway</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440696">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440696-is1">Liechtenstein</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440696-en1">Liechtenstein</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440697">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440697-is1">Kúveit</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440697-en1">Kuwait</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440698">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440698-is1">Malaví</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440698-en1">Malawi</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440699">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440699-is1">Líbería</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440699-en1">Liberia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440700">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440700-is1">Júgóslavía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440700-en1">Yugoslavia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440701">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440701-is1">Svíþjóð</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440701-en1">Sweden</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440702">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440702-is1">Taíland</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440702-en1">Thailand</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440703">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440703-is1">Svalbarði og Jan Mayen</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440703-en1">Svalbard and Jan Mayen Islands</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440704">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440704-is1">Tadsjikistan</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440704-en1">Tajikistan</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440705">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440705-is1">Franska-Pólýnesía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440705-en1">French Polynesia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440706">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440706-is1">Gana</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440706-en1">Ghana</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440707">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440707-is1">Jólaey (hin ástralska)</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440707-en1">Christmas Island</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440708">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440708-is1">Guam</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440708-en1">Guam</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440709">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440709-is1">Kamerún</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440709-en1">Cameroon</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440710">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440710-is1">Kostaríka</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440710-en1">Costa Rica</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440711">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440711-is1">Síle</term>
+     </tig>
+     <tig>
+      <term>Chile</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440711-en1">Chile</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440712">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440712-is1">Andorra</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440712-en1">Andorra</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440714">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440714-is1">Arúba</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440714-en1">Aruba</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440716">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440716-is1">Madagaskar</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440716-en1">Madagascar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440717">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440717-is1">Púertó Ríkó</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440717-en1">Puerto Rico</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440718">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440718-is1">Argentína</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440718-en1">Argentina</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440720">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440720-is1">Macao</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440720-en1">Macau</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440721">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440721-is1">Moldavía</term>
+     </tig>
+     <tig>
+      <term>Moldóva</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440721-en1">Moldova, Republic of</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440722">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440722-is1">Malí</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440722-en1">Mali</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440723">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440723-is1">Indland</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440723-en1">India</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440724">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440724-is1">Túnis</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440724-en1">Tunisia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440725">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440725-is1">Úkraína</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440725-en1">Ukraine</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440726">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440726-is1">Tonga</term>
+     </tig>
+     <tig>
+      <term>Vináttueyjar </term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440726-en1">Tonga</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440727">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440727-is1">Túvalú</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440727-en1">Tuvalu</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440728">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440728-is1">Guadeloupe</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440728-en1">Guadeloupe</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440729">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440729-is1">Haítí</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440729-en1">Haiti</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440730">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440730-is1">Tékkland</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440730-en1">Czech Republic</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440731">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440731-is1">Kómoreyjar</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440731-en1">Comoros</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440732">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440732-is1">Kúba</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440732-en1">Cuba</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440733">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440733-is1">Barein</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440733-en1">Bahrain</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440734">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440734-is1">Dóminíka</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440734-en1">Dominica</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440735">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440735-is1">Benín</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440735-en1">Benin</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440736">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440736-is1">Rúmenía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440736-en1">Romania</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440737">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440737-is1">Aserbaídsjan</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440737-en1">Azerbaijan</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440738">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440738-is1">Sádi-Arabía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440738-en1">Saudi Arabia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440739">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440739-is1">Belgía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440739-en1">Belgium</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440740">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440740-is1">Singapúr</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440740-en1">Singapore</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440741">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440741-is1">Máritíus</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440741-en1">Mauritius</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440742">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440742-is1">San Marínó</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440742-en1">San Marino</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440743">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440743-is1">Montserrat</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440743-en1">Montserrat</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440744">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440744-is1">Ísrael</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440744-en1">Israel</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440745">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440745-is1">Nepal</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440745-en1">Nepal</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440746">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440746-is1">Kenía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440746-en1">Kenya</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440747">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440747-is1">Írak</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440747-en1">Iraq</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440748">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440748-is1">Úrúgvæ</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440748-en1">Uruguay</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440749">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440749-is1">Jórdanía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440749-en1">Jordan</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440751">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440751-is1">Venesúela</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440751-en1">Venezuela</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440752">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440752-is1">Sankti Pierre og Miquelon</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440752-en1">St. Pierre and Miquelon</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440753">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440753-is1">El Salvador</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440753-en1">El Salvador</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440754">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440754-is1">Botsvana</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440754-en1">Botswana</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440755">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440755-is1">Færeyjar</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440755-en1">Faeroe Islands</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440756">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440756-is1">Búlgaría</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440756-en1">Bulgaria</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440757">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440757-is1">Síerra Leóne</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440757-en1">Sierra Leone</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440758">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440758-is1">Bólivía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440758-en1">Bolivia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440759">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440759-is1">Grænhöfðaeyjar</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440759-en1">Cape Verde</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440760">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440760-is1">Bresku Indlandshafseyjar</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440760-en1">British Indian Ocean Territory</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440761">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440761-is1">Serbía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440761-en1">Serbia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440762">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440762-is1">Nárú</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440762-en1">Nauru</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440763">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440763-is1">Salómonseyjar</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440763-en1">Solomon Islands</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440765">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440765-is1">Suður-Afríka</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440765-en1">South Africa</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440767">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440767-is1">Norður-Írland</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440767-en1">Northern Ireland</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440768">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440768-is1">Japan</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440768-en1">Japan</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440770">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440770-is1">Kórea</term>
+     </tig>
+     <tig>
+      <term>Suður-Kórea</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440770-en1">Korea, Republic of</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440771">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440771-is1">Lesótó</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440771-en1">Lesotho</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440772">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440772-is1">Jemen</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440772-en1">Yemen</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440773">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440773-is1">Svasíland</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440773-en1">Swaziland</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440774">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440774-is1">Súrínam</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440774-en1">Suriname</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440775">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440775-is1">Taívan</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440775-en1">Taiwan, Province of China</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440776">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440776-is1">Franska-Gvæjana</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440776-en1">French Guiana</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440777">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440777-is1">Kanada</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440777-en1">Canada</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440778">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440778-is1">Þýskaland</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440778-en1">Germany</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440779">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440779-is1">Kambódía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440779-en1">Cambodia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440780">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440780-is1">Gambía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440780-en1">Gambia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440781">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440781-is1">Tsjad</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440781-en1">Chad</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440782">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440782-is1">Sankti Helena</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440782-en1">St. Helena</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440783">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440783-is1">Bandaríska Samóa</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440783-en1">American Samoa</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440784">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440784-is1">Armenía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440784-en1">Armenia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440785">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440785-is1">Panama</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440785-en1">Panama</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440786">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440786-is1">Albanía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440786-en1">Albania</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440788">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440788-is1">Pakistan</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440788-en1">Pakistan</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440789">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440789-is1">Portúgal</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440789-en1">Portugal</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440790">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440790-is1">Lúxemborg</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440790-en1">Luxembourg</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440791">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440791-is1">Filippseyjar</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440791-en1">Philippines</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440792">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440792-is1">Maldíveyjar</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440792-en1">Maldives</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440793">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440793-is1">Ísland</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440793-en1">Iceland</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440795">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440795-is1">Tokelau</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440795-en1">Tokelau</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440796">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440796-is1">Turks- og Caicoseyjar</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440796-en1">Turks and Caicos Islands</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440797">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440797-is1">Grenada</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440797-en1">Grenada</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440798">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440798-is1">Gvæjana</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440798-en1">Guyana</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440799">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440799-is1">Grikkland</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440799-en1">Greece</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440800">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440800-is1">Kólumbía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440800-en1">Colombia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440801">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440801-is1">Gínea</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440801-en1">Guinea</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440802">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440802-is1">Króatía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440802-en1">Croatia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440803">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440803-is1">Bahamaeyjar</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440803-en1">Bahamas</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440804">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440804-is1">Djíbútí</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440804-en1">Djibouti</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440805">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440805-is1">Anguilla</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440805-en1">Anguilla</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440806">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440806-is1">Belís</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440806-en1">Belize</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440807">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440807-is1">Austurríki</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440807-en1">Austria</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440808">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440808-is1">Perú</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440808-en1">Peru</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440809">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440809-is1">Hvíta-Rússland</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440809-en1">Belarus</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440810">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440810-is1">Kórea</term>
+     </tig>
+     <tig>
+      <term>Suður-Kórea</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440810-en1">Republic of Korea</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440811">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440811-is1">Máritanía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440811-en1">Mauritania</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440812">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440812-is1">Moldavía</term>
+     </tig>
+     <tig>
+      <term>Moldóva</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440812-en1">Republic of Moldova</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440813">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440813-is1">Mongólía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440813-en1">Mongolia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440814">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440814-is1">Samóa</term>
+     </tig>
+     <tig>
+      <term>Vestur-Samóa</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440814-en1">Samoa</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440815">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440815-is1">Írland</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440815-en1">Ireland</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440816">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440816-is1">Saó Tóme og Prinsípe</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440816-en1">Sao Tome and Principe</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440817">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440817-is1">Íran</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440817-en1">Iran</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440818">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440818-is1">Tansanía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440818-en1">United Republic of Tanzania</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440820">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440820-is1">Úsbekistan</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440820-en1">Uzbekistan</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440821">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440821-is1">Ungverjaland</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440821-en1">Hungary</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440822">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440822-is1">Hondúras</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440822-en1">Honduras</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440823">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440823-is1">Danmörk</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440823-en1">Denmark</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440825">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440825-is1">Bosnía og Hersegóvína</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440825-en1">Bosnia and Herzegovina</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440829">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440829-is1">Bútan</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440829-en1">Bhutan</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440832">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440832-is1">Senegal</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440832-en1">Senegal</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440833">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440833-is1">Namibía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440833-en1">Namibia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440834">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440834-is1">Slóvenía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440834-en1">Slovenia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440835">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440835-is1">Nýja-Sjáland</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440835-en1">New Zealand</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440836">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440836-is1">Sómalía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440836-en1">Somalia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440837">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440837-is1">Mósambík</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440837-en1">Mozambique</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440838">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440838-is1">Norður-Maríanaeyjar</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440838-en1">North Mariana Islands</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440839">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440839-is1">Jamaíka</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440839-en1">Jamaica</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440840">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440840-is1">Hollensku-Antillaeyjar</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440840-en1">Netherlands Antilles</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440841">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440841-is1">Norður-Kórea</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440841-en1">Korea, Democratic People's Republic of</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440842">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440842-is1">Líbanon</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440842-en1">Lebanon</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440843">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440843-is1">Vestur-Sahara</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440843-en1">Western Sahara</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440844">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440844-is1">Meyjaeyjar</term>
+     </tig>
+     <tig>
+      <term>Jómfrúaeyjar</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440844-en1">Virgin Islands</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440845">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440845-is1">Sambía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440845-en1">Zambia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440846">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440846-is1">Súdan</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440846-en1">Sudan</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440847">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440847-is1">Frakkland</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440847-en1">France</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440848">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440848-is1">Miðbaugs-Gínea</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440848-en1">Equatorial Guinea</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440849">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440849-is1">Georgía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440849-en1">Georgia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440852">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440852-is1">Búrúndí</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440852-en1">Burundi</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440853">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440853-is1">Gabon</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440853-en1">Gabon</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440854">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440854-is1">Mið-Afríkulýðveldið</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440854-en1">Central African Republic</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440855">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440855-is1">Srí Lanka</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440855-en1">Sri Lanka</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440856">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440856-is1">Alsír</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440856-en1">Algeria</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440857">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440857-is1">Norfolkeyja</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440857-en1">Norfolk Island</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440859">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440859-is1">Álandseyjar</term>
+     </tig>
+     <tig>
+      <term>Áland</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440859-en1">Aland Islands</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440860">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440860-is1">Nígería</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440860-en1">Nigeria</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440861">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440861-is1">Lettland</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440861-en1">Latvia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440862">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440862-is1">Óman</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440862-en1">Oman</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440863">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440863-is1">Litháen</term>
+     </tig>
+     <tig>
+      <term>Lithá</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440863-en1">Lithuania</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440864">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440864-is1">Pólland</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440864-en1">Poland</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440865">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440865-is1">Malasía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440865-en1">Malaysia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440866">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440866-is1">Sviss</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440866-en1">Switzerland</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440867">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440867-is1">Tógó</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440867-en1">Togo</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440868">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440868-is1">Túrkmenistan</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440868-en1">Turkmenistan</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440869">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440869-is1">Tansanía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440869-en1">Tanzania, United Republic of</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440870">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440870-is1">Grænland</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440870-en1">Greenland</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440871">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440871-is1">Frönsku suðlægu landsvæðin</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440871-en1">French Southern Territories</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440872">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440872-is1">Gínea-Bissá</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440872-en1">Guinea-Bissau</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440873">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440873-is1">Gíbraltar</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440873-en1">Gibraltar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440874">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440874-is1">Kókoseyjar</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440874-en1">Cocos (Keeling) Islands</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440875">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440875-is1">Gvatemala</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440875-en1">Guatemala</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440878">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440878-is1">Kína</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440878-en1">China</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440879">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440879-is1">Angóla</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440879-en1">Angola</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440880">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440880-is1">Cookseyjar</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440880-en1">Cook Islands</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440881">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440881-is1">Ástralía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440881-en1">Australia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440882">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440882-is1">Paragvæ</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440882-en1">Paraguay</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440883">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440883-is1">Katar</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440883-en1">Qatar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440884">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440884-is1">Makedónía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440884-en1">Republic of Macedonia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440885">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440885-is1">Martiník</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440885-en1">Martinique</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440886">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440886-is1">Rúanda</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440886-en1">Rwanda</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440887">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440887-is1">Mónakó</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440887-en1">Monaco</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440888">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440888-is1">Malta</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440888-en1">Malta</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440889">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440889-is1">Míkrónesía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440889-en1">Micronesia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440890">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440890-is1">Indónesía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440890-en1">Indonesia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440891">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440891-is1">Tyrkland</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440891-en1">Turkey</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440892">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440892-is1">Sameinuðu arabísku furstadæmin</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440892-en1">United Arab Emirates</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440893">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440893-is1">Trínidad og Tóbagó</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440893-en1">Trinidad and Tobago</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440894">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440894-is1">Vanúatú</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440894-en1">Vanuatu</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440895">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440895-is1">Úganda</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440895-en1">Uganda</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440896">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440896-is1">Hong Kong</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440896-en1">Hong Kong</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440897">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440897-is1">Heard og McDonaldseyjar</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440897-en1">Heard and McDonald Islands</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440898">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440898-is1">Norður-Kórea</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440898-en1">Democratic People's Republic of Korea</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440899">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440899-is1">Ekvador</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440899-en1">Ecuador</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440901">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440901-is1">Eistland</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440901-en1">Estonia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440902">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440902-is1">Bangladess</term>
+     </tig>
+     <tig>
+      <term>Bengalaland</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440902-en1">Bangladesh</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-440903">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440903-is1">Dóminíska lýðveldið</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-440903-en1">Dominican Republic</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529964">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529964-is1">Antígva og Barbúda</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529964-en1">Antigua and Barbuda</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529965">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529965-is1">Tímor-Leste</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529965-en1">Timor-Leste</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529966">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529966-is1">Bandaríkin</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529966-en1">United States</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529967">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529967-is1">Barbados</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529967-en1">Barbados</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529968">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529968-is1">Bretland</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529968-en1">United Kingdom</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529969">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529969-is1">Brúnei</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529969-en1">Brunei</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529970">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529970-is1">Búrma</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529970-en1">Myanmar (Burma)</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529971">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529971-is1">Egyptaland</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529971-en1">Egypt</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529972">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529972-is1">Eþíópía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529972-en1">Ethiopia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529973">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529973-is1">Fídjíeyjar</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529973-en1">Fiji</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529974">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529974-is1">Fílabeinsströndin</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529974-en1">Côte d'Ivoire</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529975">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529975-is1">Kýpur</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529975-en1">Cyprus</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529976">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529976-is1">Kirgistan</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529976-en1">Kyrgyzstan</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529977">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529977-is1">Kongó</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529977-en1">Democratic Republic of the Congo</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529978">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529978-is1">Lýðveldið Kongó</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529978-en1">Republic of the Congo</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529979">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529979-is1">Kósóvó</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529979-en1">Kosovo</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529980">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529980-is1">Laos</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529980-en1">Laos</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529981">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529981-is1">Líbía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529981-en1">Libya</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529983">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529983-is1">Marshall-eyjar</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529983-en1">Marshall Islands</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529984">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529984-is1">Moldóva</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529984-en1">Moldóva</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529985">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529985-is1">Níkaragva</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529985-en1">Nicaragua</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529986">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529986-is1">Páfastóll</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529986-en1">Holy See</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529987">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529987-is1">Palá</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529987-en1">Palau</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529988">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529988-is1">Papúa Nýja-Gínea</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529988-en1">Papua New Guinea</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529989">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529989-is1">Rússland</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529989-en1">Russia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529990">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529990-is1">Sankti Kitts og Nevis</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529990-en1">Saint Kitts and Nevis</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529991">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529991-is1">Sankti Lúsía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529991-en1">Saint Lucia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529992">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529992-is1">Sankti Vinsent og Grenadíneyjar</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529992-en1">Saint Vincent and the Grenadines</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529993">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529993-is1">Seychelles-eyjar</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529993-en1">Seychelles</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529994">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529994-is1">Suður-Kórea</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529994-en1">Republic of Korea</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529995">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529995-is1">Svartfjallaland</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529995-en1">Montenegro</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529996">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529996-is1">Sýrland</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529996-en1">Syria</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529997">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529997-is1">Vatíkanið</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529997-en1">Vatican City State</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-rikjaheiti-529998">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529998-is1">Makedónía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-rikjaheiti-529998-en1">Macedonia (The former Yugoslav Republic of)</term>
+     </tig>
+    </langSet>
+   </termEntry>
+  </body>
+ </text>
+</martif>

@@ -1,0 +1,2775 @@
+<?xml version='1.0'?>
+<!DOCTYPE martif SYSTEM "TBXcoreStructV02.dtd">
+<martif type="TBX" xml:lang="is">
+ <martifHeader>
+  <fileDesc>
+   <sourceDesc>
+    <p>Gjaldmiðlaheiti: Termbase for currency. Originally published in 1997 (ed. Baldur Jónsson, Anton Holt, Ólafur Ísleifsson, Veturliði Óskarsson). Licensed under a CC - BY - SA License.</p>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <p type="XCSURI">http://www.lisa.org/fileadmin/standards/tbx/TBXXCSV02.XCS</p>
+  </encodingDesc>
+ </martifHeader>
+ <text>
+  <body>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333442">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333442-is1">dalur</term>
+     </tig>
+     <tig>
+      <term>nýsjálenskur dalur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>dollari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333442-en1">New Zealand Dollar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333443">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333443-is1">dalur</term>
+     </tig>
+     <tig>
+      <term>Trínidad og Tóbagó-dalur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>dollari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333443-en1">Trinidad and Tobago Dollar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333444">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333444-is1">núltrum</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333444-en1">Ngultrum</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333445">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333445-is1">ríal</term>
+     </tig>
+     <tig>
+      <term>katarskt ríal</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333445-en1">Qatari Rial</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333446">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333446-is1">rúpía</term>
+     </tig>
+     <tig>
+      <term>srílönsk rúpía</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333446-en1">Sri Lanka Rupee</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333447">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333447-is1">rúpía</term>
+     </tig>
+     <tig>
+      <term>indónesísk rúpía</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333447-en1">Rupiah</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333448">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333448-is1">mark</term>
+     </tig>
+     <tig>
+      <term>þýskt mark</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333448-en1">Deutsche Mark</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333449">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333449-is1">rúpía</term>
+     </tig>
+     <tig>
+      <term>pakistönsk rúpía</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333449-en1">Pakistan Rupee</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333450">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333450-is1">peseti</term>
+     </tig>
+     <tig>
+      <term>spænskur peseti</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333450-en1">Spanish Peseta</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333451">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333451-is1">pataka</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333451-en1">Pataca</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333452">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333452-is1">jen</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333452-en1">Yen</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333453">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333453-is1">kólon</term>
+     </tig>
+     <tig>
+      <term>kostarískt kólon</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333453-en1">Costa Rican Colon</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333454">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333454-is1">gyllini</term>
+     </tig>
+     <tig>
+      <term>súrínamskt gyllini</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333454-en1">Surinam Guilder</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333455">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333455-is1">dalur</term>
+     </tig>
+     <tig>
+      <term>taívanskur dalur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>dollari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333455-en1">New Taiwan Dollar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333456">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333456-is1">kjat</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333456-en1">Kyat</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333457">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333457-is1">denari</term>
+     </tig>
+     <tig>
+      <term>jórdanskur denari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333457-en1">Jordanian Dinar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333458">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333458-is1">denari</term>
+     </tig>
+     <tig>
+      <term>túniskur denari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333458-en1">Tunisian Dinar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333459">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333459-is1">denari</term>
+     </tig>
+     <tig>
+      <term>Bosníu og Hersegóvínu-denari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333459-en1">Dinar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333460">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333460-is1">skildingur</term>
+     </tig>
+     <tig>
+      <term>kenískur skildingur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333460-en1">Kenyan Shilling</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333461">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333461-is1">afgani</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333461-en1">Afghani</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333462">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333462-is1">sérstök dráttarréttindi</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333462-en1">SDR</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333463">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333463-is1">pesi</term>
+     </tig>
+     <tig>
+      <term>kólumbískur pesi</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333463-en1">Colombian Peso</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333464">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333464-is1">skildingur</term>
+     </tig>
+     <tig>
+      <term>úgandskur skildingur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333464-en1">Uganda Shilling</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333465">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333465-is1">pund</term>
+     </tig>
+     <tig>
+      <term>falklenskt pund</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333465-en1">Falkland Islands Pound</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333466">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333466-is1">pesi</term>
+     </tig>
+     <tig>
+      <term>filippseyskur pesi</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333466-en1">Philippine Peso</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333467">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333467-is1">pund</term>
+     </tig>
+     <tig>
+      <term>sterlingspund</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333467-en1">Pound Sterling</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333468">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333468-is1">pesi</term>
+     </tig>
+     <tig>
+      <term>úrúgvæskur pesi</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333468-en1">Peso Uruguayo</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333469">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333469-is1">króna</term>
+     </tig>
+     <tig>
+      <term>eistnesk króna</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333469-en1">Kroon</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333470">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333470-is1">króna</term>
+     </tig>
+     <tig>
+      <term>tékknesk króna</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333470-en1">Czech Koruna</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333471">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333471-is1">drakma</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333471-en1">Drachma</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333472">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333472-is1">lari</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333472-en1">Lari</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333473">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333473-is1">denari</term>
+     </tig>
+     <tig>
+      <term>líbískur denari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333473-en1">Libyan Dinar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333474">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333474-is1">franki</term>
+     </tig>
+     <tig>
+      <term>búrúndískur franki</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333474-en1">Burundi Franc</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333475">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333475-is1">dong</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333475-en1">Dong</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333476">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333476-is1">bólívari</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333476-en1">Bolivar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333477">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333477-is1">fórinta</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333477-en1">Forint</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333478">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333478-is1">dalur</term>
+     </tig>
+     <tig>
+      <term>barbadoskur dalur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>dollari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333478-en1">Barbados Dollar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333479">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333479-is1">som</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333479-en1">Som</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333480">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333480-is1">pund</term>
+     </tig>
+     <tig>
+      <term>líbanskt pund</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333480-en1">Lebanese Pound</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333481">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333481-is1">tengi</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333481-en1">Tenge</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333482">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333482-is1">dalur</term>
+     </tig>
+     <tig>
+      <term>bahamskur dalur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>Bahamadalur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>dollari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333482-en1">Bahamian Dollar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333483">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333483-is1">ríal</term>
+     </tig>
+     <tig>
+      <term>brasilískt ríal</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333483-en1">Brazilian Real</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333484">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333484-is1">pund</term>
+     </tig>
+     <tig>
+      <term>írskt pund</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333484-en1">Irish Pound</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333485">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333485-is1">ríal</term>
+     </tig>
+     <tig>
+      <term>sádiarabískt ríal</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333485-en1">Saudi Riyal</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333486">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333486-is1">rand</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333486-en1">Rand</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333487">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333487-is1">líra</term>
+     </tig>
+     <tig>
+      <term>tyrknesk líra</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333487-en1">Turkish Lira</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333488">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333488-is1">kvesal</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333488-en1">Quetzal</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333489">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333489-is1">lek</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333489-en1">Lek</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333490">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333490-is1">franki</term>
+     </tig>
+     <tig>
+      <term>Lúxemborgarfranki</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333490-en1">Luxembourg Franc</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333491">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333491-is1">flórína</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333491-en1">Florin</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333492">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333492-is1">franki</term>
+     </tig>
+     <tig>
+      <term>Gíneufranki</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333492-en1">Guinea Franc</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333493">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333493-is1">dalur</term>
+     </tig>
+     <tig>
+      <term>fídjeyskur dalur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>dollari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333493-en1">Fiji Dollar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333494">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333494-is1">franki</term>
+     </tig>
+     <tig>
+      <term>rúandskur franki</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333494-en1">Rwanda Franc</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333495">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333495-is1">dalur</term>
+     </tig>
+     <tig>
+      <term>namibískur dalur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333495-en1">Namibia Dollar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333496">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333496-is1">vonn</term>
+     </tig>
+     <tig>
+      <term>suðurkóreskt vonn</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333496-en1">Won</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333497">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333497-is1">dalur</term>
+     </tig>
+     <tig>
+      <term>brúneiskur dalur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>dollari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333497-en1">Brunei Dollar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333498">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333498-is1">dalur</term>
+     </tig>
+     <tig>
+      <term>kanadískur dalur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>Kanadadalur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>dollari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333498-en1">Canadian Dollar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333499">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333499-is1">ríal</term>
+     </tig>
+     <tig>
+      <term>kambódískt ríal</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333499-en1">Riel</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333500">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333500-is1">rúbla</term>
+     </tig>
+     <tig>
+      <term>tadsjiksk rúbla</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333500-en1">Tajik Ruble</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333501">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333501-is1">mark</term>
+     </tig>
+     <tig>
+      <term>finnskt mark</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333501-en1">Finnish Markka</term>
+     </tig>
+     <tig>
+      <term>Markka</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333502">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333502-is1">rúpía</term>
+     </tig>
+     <tig>
+      <term>nepölsk rúpía</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333502-en1">Nepalese Rupee</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333503">
+    <descrip type="explanation">Þar er einnig notaður spænskur peseti (ESP) og franskur franki (FRF).</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333503-is1">peseti</term>
+     </tig>
+     <tig>
+      <term>andorrskur peseti</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>Andorrapeseti</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333503-en1">Andorran Peseta</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333504">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333504-is1">manat</term>
+     </tig>
+     <tig>
+      <term>aserskt manat</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333504-en1">Azerbaijanian Manat</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333505">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333505-is1">panga</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333505-en1">Pa'anga</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333506">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333506-is1">gyllini</term>
+     </tig>
+     <tig>
+      <term>hollenskt gyllini</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333506-en1">Netherlands Guilder</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333507">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333507-is1">dalur</term>
+     </tig>
+     <tig>
+      <term>slóvenskur dalur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>dollari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333507-en1">Tolar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333508">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333508-is1">kína</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333508-en1">Kina</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333509">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333509-is1">denari</term>
+     </tig>
+     <tig>
+      <term>írakskur denari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333509-en1">Iraqi Dinar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333510">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333510-is1">dalur</term>
+     </tig>
+     <tig>
+      <term>simbabveskur dalur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>dollari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333510-en1">Zimbabwe Dollar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333511">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333511-is1">denari</term>
+     </tig>
+     <tig>
+      <term>súdanskur denari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333511-en1">Sudanese Dinar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333512">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333512-is1">denari</term>
+     </tig>
+     <tig>
+      <term>bareinskur denari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333512-en1">Bahraini Dinar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333513">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333513-is1">rúpía</term>
+     </tig>
+     <tig>
+      <term>máritísk rúpía</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333513-en1">Mauritius Rupee</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333514">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333514-is1">sedi</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333514-en1">Cedi</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333515">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333515-is1">pesi</term>
+     </tig>
+     <tig>
+      <term>Gíneu-Bissár-pesi</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333515-en1">Guinea-Bissau Peso</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333516">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333516-is1">skildingur</term>
+     </tig>
+     <tig>
+      <term>tansanískur skildingur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333516-en1">Tanzanian Shilling</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333517">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333517-is1">næra</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333517-en1">Naira</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333518">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333518-is1">pund</term>
+     </tig>
+     <tig>
+      <term>egipskt pund</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333518-en1">Egyptian Pound</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333519">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333519-is1">pesi</term>
+     </tig>
+     <tig>
+      <term>dóminískur pesi</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333519-en1">Dominican Peso</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333520">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333520-is1">pesi</term>
+     </tig>
+     <tig>
+      <term>síleskur pesi</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333520-en1">Chilean Peso</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333521">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333521-is1">króna</term>
+     </tig>
+     <tig>
+      <term>dönsk króna</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333521-en1">Danish Krone</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333522">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333522-is1">denari</term>
+     </tig>
+     <tig>
+      <term>makedónskur denari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333522-en1">Denar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333523">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333523-is1">króna</term>
+     </tig>
+     <tig>
+      <term>sænsk króna</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333523-en1">Swedish Krona</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333524">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333524-is1">denari</term>
+     </tig>
+     <tig>
+      <term>kúveiskur denari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333524-en1">Kuwaiti Dinar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333525">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333525-is1">króna</term>
+     </tig>
+     <tig>
+      <term>norsk króna</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333525-en1">Norwegian Krone</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333526">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333526-is1">dírham</term>
+     </tig>
+     <tig>
+      <term>marokkóskt dírham</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333526-en1">Moroccan Dirham</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333527">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333527-is1">bólivíani</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333527-en1">Boliviano</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333528">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333528-is1">dalur</term>
+     </tig>
+     <tig>
+      <term>Bandaríkjadalur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>dollari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333528-en1">US Dollar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333529">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333529-is1">slot</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333529-en1">Zloty</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333530">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333530-is1">bat</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333530-en1">Baht</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333531">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333531-is1">pund</term>
+     </tig>
+     <tig>
+      <term>kípverskt pund</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333531-en1">Cyprus Pound</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333532">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333532-is1">skúti</term>
+     </tig>
+     <tig>
+      <term>portúgalskur skúti</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333532-en1">Portuguese Escudo</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333533">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333533-is1">tala</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333533-en1">Tala</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333534">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333534-is1">pund</term>
+     </tig>
+     <tig>
+      <term>helenskt pund</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>Helenupund</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333534-en1">St. Helena Pound</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333535">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333535-is1">súm</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333535-en1">Uzbekistan Sum</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333536">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333536-is1">púla</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333536-en1">Pula</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333537">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333537-is1">líra</term>
+     </tig>
+     <tig>
+      <term>maltnesk líra</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333537-en1">Maltese Lira</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333538">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333538-is1">kvansa</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333538-en1">Kwanza Re</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333539">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333539-is1">lei</term>
+     </tig>
+     <tig>
+      <term>rúmenskt lei</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333539-en1">Leu</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333540">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333540-is1">kvaka</term>
+     </tig>
+     <tig>
+      <term>malavísk kvaka</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333540-en1">Kwacha</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333541">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333541-is1">eka</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333541-en1">European Currency Unit</term>
+     </tig>
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333541-en2">ECU</term>
+      <termNote type="abbreviatedFormFor" target="tid-ordabanki-gjaldmidlar-333541-en1">European Currency Unit</termNote>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333542">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333542-is1">lef</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333542-en1">Lev</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333543">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333543-is1">franki</term>
+     </tig>
+     <tig>
+      <term>franskur franki</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333543-en1">French Franc</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333544">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333544-is1">dalur</term>
+     </tig>
+     <tig>
+      <term>caymaneyskur dalur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>dollari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333544-en1">Cayman Islands Dollar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333545">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333545-is1">franki</term>
+     </tig>
+     <tig>
+      <term>pólinesískur franki</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333545-en1">CFP Franc</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333546">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333546-is1">dalur</term>
+     </tig>
+     <tig>
+      <term>austurkarabískur dalur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>dollari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333546-en1">East Caribbean Dollar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333547">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333547-is1">dalur</term>
+     </tig>
+     <tig>
+      <term>líberískur dalur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>dollari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333547-en1">Liberian Dollar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333548">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333548-is1">dalur</term>
+     </tig>
+     <tig>
+      <term>Bermúdadalur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>dollari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333548-en1">Bermudian Dollar</term>
+     </tig>
+     <tig>
+      <term>Bermuda Dollar</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333549">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333549-is1">súkra</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333549-en1">Sucre</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333550">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333550-is1">dalur</term>
+     </tig>
+     <tig>
+      <term>jamaískur dalur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>dollari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333550-en1">Jamaican Dollar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333551">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333551-is1">úgía</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333551-en1">Ouguiya</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333552">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333552-is1">ríal</term>
+     </tig>
+     <tig>
+      <term>jemenskt ríal</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333552-en1">Yemeni Rial</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333553">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333553-is1">vonn</term>
+     </tig>
+     <tig>
+      <term>norðurkóreskt vonn</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333553-en1">North Korean Won</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333554">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333554-is1">rúbla</term>
+     </tig>
+     <tig>
+      <term>rússnesk rúbla</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333554-en1">Russian Ruble</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333555">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333555-is1">manat</term>
+     </tig>
+     <tig>
+      <term>túrkmenskt manat</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333555-en1">Manat</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333556">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333556-is1">loti</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333556-en1">Loti</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333557">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333557-is1">líra</term>
+     </tig>
+     <tig>
+      <term>ítölsk líra</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333557-en1">Italian Lira</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333558">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333558-is1">litas</term>
+     </tig>
+     <tig>
+      <term>lít</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333558-en1">Lithuanian Litas</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333559">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333559-is1">franki</term>
+     </tig>
+     <tig>
+      <term>miðafrískur franki </term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333559-en1">CFA Franc</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333560">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333560-is1">gyllini</term>
+     </tig>
+     <tig>
+      <term>hollenskt Antillugyllini</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333560-en1">Netherlands Antillian Guilder</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333561">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333561-is1">dalur</term>
+     </tig>
+     <tig>
+      <term>singapúrskur dalur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>dollari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333561-en1">Singapore Dollar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333562">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333562-is1">kip</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333562-en1">Kip</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333563">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333563-is1">dalur</term>
+     </tig>
+     <tig>
+      <term>Hong Kong-dalur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>dollari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333563-en1">Hong Kong Dollar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333564">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333564-is1">gúrdi</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333564-en1">Gourde</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333565">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333565-is1">dalur</term>
+     </tig>
+     <tig>
+      <term>salómonseyskur dalur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>dollari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333565-en1">Solomon Islands Dollar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333566">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333566-is1">denari</term>
+     </tig>
+     <tig>
+      <term>alsírskur denari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>Alsírsdenari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333566-en1">Algerian Dinar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333567">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333567-is1">rúpía</term>
+     </tig>
+     <tig>
+      <term>maldíveysk rúpía</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333567-en1">Rufiyaa</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333568">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333568-is1">saír</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333568-en1">New Zaire</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333569">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333569-is1">rúpía</term>
+     </tig>
+     <tig>
+      <term>indversk rúpía</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333569-en1">Indian Rupee</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333570">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333570-is1">skildingur</term>
+     </tig>
+     <tig>
+      <term>sómalískur skildingur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333570-en1">Somali Shilling</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333571">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333571-is1">metikal</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333571-en1">Metical</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333572">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333572-is1">rúpía</term>
+     </tig>
+     <tig>
+      <term>Seychelles(eyja)rúpía</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333572-en1">Seychelles Rupee</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333573">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333573-is1">pesi</term>
+     </tig>
+     <tig>
+      <term>argentínskur pesi</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333573-en1">Argentine Peso</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333574">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333574-is1">pesi</term>
+     </tig>
+     <tig>
+      <term>mexíkóskur pesi</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>Mexíkópesi</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333574-en1">Mexican Peso</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333575">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333575-is1">kólon</term>
+     </tig>
+     <tig>
+      <term>salvadorskt kólon</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333575-en1">El Salvador Colon</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333576">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333576-is1">hrinja</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333576-en1">Hryvnia</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333577">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333577-is1">króna</term>
+     </tig>
+     <tig>
+      <term>slóvakísk króna</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333577-en1">Slovak Koruna</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333578">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333578-is1">kordóva</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333578-en1">Cordoba Oro</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333579">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333579-is1">denari</term>
+     </tig>
+     <tig>
+      <term>júgóslavneskur denari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333579-en1">New Dinar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333580">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333580-is1">króna</term>
+     </tig>
+     <tig>
+      <term>íslensk króna</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333580-en1">Iceland Krona</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333581">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333581-is1">dírham</term>
+     </tig>
+     <tig>
+      <term>arabískt dírham</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333581-en1">UAE Dirham</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333582">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333582-is1">birr</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333582-en1">Ethiopian Birr</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333583">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333583-is1">skildingur</term>
+     </tig>
+     <tig>
+      <term>sillingur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333583-en1">Schilling</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333584">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333584-is1">skúti</term>
+     </tig>
+     <tig>
+      <term>tímorskur skúti</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333584-en1">Timor Escudo</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333585">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333585-is1">balbói</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333585-en1">Balboa</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333586">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333586-is1">sikill</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333586-en1">Shekel</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333587">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333587-is1">pesi</term>
+     </tig>
+     <tig>
+      <term>kúbverskur pesi</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333587-en1">Cuban Peso</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333588">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333588-is1">skúti</term>
+     </tig>
+     <tig>
+      <term>grænhöfðeyskur skúti</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>Cabo Verde-skúti</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333588-en1">Cape Verde Escudo</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333589">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333589-is1">pund</term>
+     </tig>
+     <tig>
+      <term>Gíbraltarspund</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333589-en1">Gibraltar Pound</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333590">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333590-is1">taka</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333590-en1">Taka</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333591">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333591-is1">pund</term>
+     </tig>
+     <tig>
+      <term>sýrlenskt pund</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333591-en1">Syrian Pound</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333592">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333592-is1">kvaka</term>
+     </tig>
+     <tig>
+      <term>sambísk kvaka</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333592-en1">Kwacha</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333593">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333593-is1">króna</term>
+     </tig>
+     <tig>
+      <term>færeysk króna</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333593-en1">Danish Krone</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333594">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333594-is1">lei</term>
+     </tig>
+     <tig>
+      <term>moldavískt lei</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333594-en1">Moldovan Leu</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333595">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333595-is1">kúna</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333595-en1">Kuna</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333596">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333596-is1">dramm</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333596-en1">Armenian Dram</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333597">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333597-is1">lat</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333597-en1">Latvian Lats</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333598">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333598-is1">dalur</term>
+     </tig>
+     <tig>
+      <term>ástralskur dalur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>Ástralíudalur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>dollari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333598-en1">Australian Dollar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333599">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333599-is1">franki</term>
+     </tig>
+     <tig>
+      <term>djíbútískur franki</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333599-en1">Djibouti Franc</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333600">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333600-is1">dóbra</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333600-en1">Dobra</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333601">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333601-is1">dalasi</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333601-en1">Dalasi</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333602">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333602-is1">franki</term>
+     </tig>
+     <tig>
+      <term>belgískur franki</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333602-en1">Belgian Franc</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333603">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333603-is1">dalur</term>
+     </tig>
+     <tig>
+      <term>belískur dalur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>dollari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333603-en1">Belize Dollar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333604">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333604-is1">sól</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333604-en1">Nuevo Sol</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333605">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333605-is1">túríkur</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333605-en1">Tugrik</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333606">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333606-is1">vatú</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333606-en1">Vatu</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333607">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333607-is1">ríal</term>
+     </tig>
+     <tig>
+      <term>íranskt ríal</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333607-en1">Iranian Rial</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333608">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333608-is1">rúbla</term>
+     </tig>
+     <tig>
+      <term>hvítrússnesk rúbla</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333608-en1">Belarussian Ruble</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333609">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333609-is1">ringit</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333609-en1">Malaysian Ringgit</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333610">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333610-is1">ríal</term>
+     </tig>
+     <tig>
+      <term>ómanskt ríal</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333610-en1">Rial Omani</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333611">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333611-is1">ljóna</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333611-en1">Leone</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333612">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333612-is1">lílangeni</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333612-en1">Lilangeni</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333613">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333613-is1">lempíra</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333613-en1">Lempira</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333614">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333614-is1">franki</term>
+     </tig>
+     <tig>
+      <term>Madagaskarsfranki</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333614-en1">Malagasy Franc</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333615">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333615-is1">gvaraní</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333615-en1">Guarani</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333616">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333616-is1">franki</term>
+     </tig>
+     <tig>
+      <term>kómoreyskur franki</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333616-en1">Comoro Franc</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333617">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333617-is1">júan</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333617-en1">Yuan Renminbi</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333618">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333618-is1">dalur</term>
+     </tig>
+     <tig>
+      <term>gvæjanskur dalur</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>dollari</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333618-en1">Guyana Dollar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-gjaldmidlar-333619">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333619-is1">franki</term>
+     </tig>
+     <tig>
+      <term>svissneskur franki</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>Svissfranki</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-gjaldmidlar-333619-en1">Swiss Franc</term>
+     </tig>
+    </langSet>
+   </termEntry>
+  </body>
+ </text>
+</martif>

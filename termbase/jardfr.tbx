@@ -1,0 +1,2129 @@
+<?xml version='1.0'?>
+<!DOCTYPE martif SYSTEM "TBXcoreStructV02.dtd">
+<martif type="TBX" xml:lang="is">
+ <martifHeader>
+  <fileDesc>
+   <sourceDesc>
+    <p>Jarðfræði: Termbase for geology. Originally published in 1997 by the Terminological Committee of the Geoscience Society of Iceland (ed. Jón Eiríksson). Terms in Icelandic, Danish, English and German. Licensed under a CC - BY - SA License.</p>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <p type="XCSURI">http://www.lisa.org/fileadmin/standards/tbx/TBXXCSV02.XCS</p>
+  </encodingDesc>
+ </martifHeader>
+ <text>
+  <body>
+   <termEntry id="eid-ordabanki-jardfr-342253">
+    <descrip type="definition">gígur úr gjósku af hvaða gerð sem er</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342253-is1">gjóskugígur</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342253-en1">tephra crater</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342253-de1">Tephrakrater</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342253-dk1">tephrakrater</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342254">
+    <descrip type="definition">kleprastrýta yfir gasrás í hrauni</descrip>
+    <descrip type="example">Tröllabörn í Lækjarbotnum</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342254-is1">hraundrýli</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342254-de1">Hornito</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342254-en1">hornito</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342254-dk1">hornito</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342255">
+    <descrip type="definition">minni háttar aldursjarðlagafræðileg eining</descrip>
+    <descrip type="explanation">samsvarar tíð í aldursfræði</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342255-is1">jarðlagatíð</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342255-en1">chronozone</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342255-de1">Chronozone</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342255-dk1">kronozone</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342256">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342256-is1">segulskeið</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342256-en1">polarity chron</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342257">
+    <descrip type="definition">lýsing jarðlaga í tilteknu sniði gegnum jarðlagastafla</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342257-is1">jarðlagasnið</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342257-de1">Profil</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342257-en1">stratigraphic section</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342257-dk1">profil</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342258">
+    <descrip type="definition">gígur utan í hlíð eldkeilu eða á láglendi umhverfis</descrip>
+    <descrip type="example">Saxhólar á Snæfellsnesi</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342258-is1">hliðargígur</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342258-de1">Seitenkrater</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342258-en1">parasite crater</term>
+     </tig>
+     <tig>
+      <term>flank crater</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342258-dk1">parasitkrater</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342259">
+    <descrip type="definition">grunneining í bergjarðlagafræðilegri flokkun jarðlaga</descrip>
+    <descrip type="explanation">jarðlagaskipan er alls staðar deilt niður í myndanir, sem greinast hver frá annarri vegna breytinga á gerð jarðlaga</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342259-is1">myndun</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342259-en1">formation</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342259-de1">Formation</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342259-dk1">formation</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342260">
+    <descrip type="definition">sprengigígur með lágum gígrima</descrip>
+    <descrip type="example">Grænavatn í Krísuvík</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342260-is1">ker</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342260-en1">maar</term>
+     </tig>
+     <tig>
+      <term>explosion crater</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342260-de1">Maar</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342260-dk1">maar</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342261">
+    <descrip type="definition">móbergsfjall með hraunhettu</descrip>
+    <descrip type="example">Herðubreið</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342261-is1">stapi</term>
+     </tig>
+     <tig>
+      <term>móbergsstapi</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342261-de1">Tafelberg</term>
+     </tig>
+     <tig>
+      <term>Tuya</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342261-en1">table mountain</term>
+     </tig>
+     <tig>
+      <term>tuya</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342261-dk1">taffelbjerg</term>
+     </tig>
+     <tig>
+      <term>stapi</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>tuya</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342262">
+    <descrip type="definition">hraunkvika sem stendur uppi í gígskál eða lægð</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342262-is1">hrauntjörn</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342262-de1">Lava See</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342262-en1">lava lake</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342262-dk1">lavasø</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342263">
+    <descrip type="definition">stór, nærri hringlaga sigketill í megineldstöð, miklu stærri en einstakir gígar</descrip>
+    <descrip type="example">Askja í Dyngjufjöllum</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342263-is1">askja</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342263-de1">Caldera</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342263-en1">caldera</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342263-dk1">caldera</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342264">
+    <descrip type="definition">næsta þrep fyrir neðan myndun í bergjarðlagafræðilegri flokkun</descrip>
+    <descrip type="explanation">hver syrpa er bergfræðilega eða á annan hátt frábrugðin öðrum hlutum sömu myndunar</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342264-is1">syrpa</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342264-de1">Formationsglied</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342264-en1">member</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342264-dk1">led</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342265">
+    <descrip type="definition">minni háttar eining í aldursfræðilegri flokkun</descrip>
+    <descrip type="explanation">hluti af skeiði</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342265-is1">undirskeið</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342265-en1">subage</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342265-de1">Subalter</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342265-dk1">subalder</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342266">
+    <descrip type="definition">eldstöð, sem er óvirk og gýs ekki lengur</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342266-is1">útkulnuð megineldstöð</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342266-en1">extinct central volcano</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342266-de1">Erloschener Zentralvulkan</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342266-dk1">udslukket centralvulkan</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342267">
+    <descrip type="definition">eldstöð sem gosið hefur mörgum sinnum á löngum tíma</descrip>
+    <descrip type="example">Krafla</descrip>
+    <descrip type="explanation">virkasti hluti eldstöðvakerfis, gosefnin spanna mismunandi samsetningu, yfirleitt frá basalti til rhýólíts, yfirleitt 10-15 km í þvermál</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342267-is1">megineldstöð</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342267-en1">central volcano</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342267-de1">Zentralvulkan</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342267-dk1">centralvulkan</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342268">
+    <descrip type="definition">fræðigreinin um aldursgreiningar og aldursröð jarðlaga</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342268-is1">aldursfræði</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342268-de1">Geochronologie</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342268-en1">geochronology</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342268-dk1">geokronologi</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342269">
+    <descrip type="definition">gjá sem myndast í röð af sprengigígum</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342269-is1">sprengigjá</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342269-en1">explosion fissure</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342269-de1">Explosionsspalte</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342269-dk1">eksplosionsspalte</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342270">
+    <descrip type="definition">fjall eða hæð, sem eldvarp hefur byggt upp í kringum sig</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342270-is1">eldfjall</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342270-en1">volcano</term>
+     </tig>
+     <tig>
+      <term>volcanic mountain</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342270-de1">Vulkan</term>
+     </tig>
+     <tig>
+      <term>Vulkanberg</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342270-dk1">vulkan</term>
+     </tig>
+     <tig>
+      <term>vulkanbjerg</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342271">
+    <descrip type="definition">lengsta eining jarðsögutöflunnar, lengri en öld</descrip>
+    <descrip type="explanation">í jarðsögunni eru þrjú aldabil: arkeíkum, próterósóíkum og fanerósóíkum</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342271-is1">aldabil</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342271-de1">Äon</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342271-en1">eon</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342271-dk1">eon</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342272">
+    <descrip type="definition">staður eða svæði þar sem eldgos verður</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342272-is1">eldstöð</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342272-de1">Vulkan</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342272-en1">volcano</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342272-dk1">vulkan</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342273">
+    <descrip type="definition">keilulagað eldfjall sem hlaðið er upp af hraunum og gjósku</descrip>
+    <descrip type="example">Snæfellsjökull</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342273-is1">eldkeila</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342273-en1">stratovolcano</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342273-de1">Stratovulkan</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342273-dk1">stratovulkan</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342274">
+    <descrip type="definition">efsta þrepið í bergjarðlagafræðilegu flokkunarkerfi</descrip>
+    <descrip type="explanation">tveim eða fleiri myndunum er skipað saman í hóp</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342274-is1">hópur</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342274-en1">group</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342274-de1">Gruppe</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342274-dk1">gruppe</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342275">
+    <descrip type="definition">askja, sem yngra eldfjall situr í</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342275-is1">öskjukeila</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342275-en1">Somma volcano</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342275-de1">Sommavulkan</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342275-dk1">Sommavulkan</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342276">
+    <descrip type="definition">samstæð jarðlög með sérstaka og auðþekkta berggerð</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342276-is1">bergjarðlagaeining</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342276-en1">lithostratigraphic unit</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342276-de1">lithostratigraphische Einheit</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342276-dk1">litostratigrafisk enhed</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342277">
+    <descrip type="definition">hryggur úr gjósku, sem hlaðist hefur upp umhverfis gosop í eldgosi</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342277-is1">gígrimi</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342277-de1">Kraterwall</term>
+     </tig>
+     <tig>
+      <term>Kraterring</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342277-en1">crater rim</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342277-dk1">kraterrand</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342278">
+    <descrip type="definition">jarðlag eða nokkur samstæð jarðlög, sem hafa sérkennandi eiginleika að einhverju leyti</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342278-is1">jarðlagaeining</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342278-de1">stratigraphische Einheit</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342278-en1">stratigraphic unit</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342278-dk1">stratigrafisk enhed</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342279">
+    <descrip type="definition">röð af gjóskugígum á gossprungu</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342279-is1">gjóskugígaröð</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342279-de1">Tephrakraterreihe</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342279-en1">row of tephra craters</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342279-dk1">tephrakraterrække</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342280">
+    <descrip type="definition">gíghóll, sem myndast við gufusprengingar þegar heit gosefni svo sem hraun renna yfir vatnsósa land</descrip>
+    <descrip type="example">Skútustaðagígar</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342280-is1">gervigígur</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342280-en1">rootless vent</term>
+     </tig>
+     <tig>
+      <term>littoral cone</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342280-de1">wurzelloser Förderkanal</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342280-dk1">pseudokrater</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342281">
+    <descrip type="definition">röð af gjallgígum á gossprungu</descrip>
+    <descrip type="example">Vikraborgir</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342281-is1">gjallgígaröð</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342281-de1">Schlackenkraterreihe</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342281-en1">scoria cone row</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342281-dk1">scoriekraterrække</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342282">
+    <descrip type="definition">jarðlög á tilteknum þverskurði í gegnum stafla</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342282-is1">jarðlagasnið</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342282-de1">Profil</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342282-en1">stratigraphic section</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342282-dk1">profil</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342283">
+    <descrip type="definition">landsvæði, þar sem jarðeldur er uppi eða hefur verið uppi</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342283-is1">gosstöðvar</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342283-en1">eruption site</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342283-de1">Ausbruchstelle</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342283-dk1">udbrudsted</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342284">
+    <descrip type="explanation">endaslepp og linsulaga, óformleg eining í bergjarðlagafræðilegri flokkun</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342284-is1">linsa</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342284-de1">Linse</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342284-en1">lentil</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342284-dk1">linse</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342285">
+    <descrip type="definition">víður og hlíðbrattur gjóskugígur</descrip>
+    <descrip type="example">Hverfjall í Mývatnssveit</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342285-is1">hverfjall</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342285-de1">Aschenkegel</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342285-en1">ash ring</term>
+     </tig>
+     <tig>
+      <term>ash cone</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342285-dk1">askevulkan</term>
+     </tig>
+     <tig>
+      <term>tuffring</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342286">
+    <descrip type="definition">ílöng eða hringlaga rás gosefna upp um eldstöð</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342286-is1">gosrás</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342286-de1">Vulkanschlot</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342286-en1">volcanic conduit</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342286-dk1">kraterrør</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342287">
+    <descrip type="definition">ílangt móbergsfjall myndað við sprungugos undir jökli</descrip>
+    <descrip type="example">Kálfstindar í Laugardalsfjöllum</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342287-is1">móbergshryggur</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342287-en1">a ridge consisting of hyaloclastite or palagonite</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342287-de1">Hyaloklastitrücken</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342287-dk1">palagonitryg</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342288">
+    <descrip type="definition">bratt, bungumyndað eldfjall úr mjög seigri kviku</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342288-is1">hraungúll</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342288-de1">Lavadom</term>
+     </tig>
+     <tig>
+      <term>Lavakuppel</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342288-en1">lava dome</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342288-dk1">lavadome</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342289">
+    <descrip type="definition">minni háttar eining í aldursfræðilegri flokkun</descrip>
+    <descrip type="explanation">minni en tími</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342289-is1">skeið</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342289-de1">Alter</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342289-en1">age</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342289-dk1">alder</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342290">
+    <descrip type="definition">stakt eldfjall úr samlímdri gjósku (móbergi), myndað við gos undir vatni, t. d. jökli</descrip>
+    <descrip type="example">Búrfell í Grímsnesi</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342290-is1">móbergsfjall</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342290-en1">a mountain consisting of hyaloclastite or palagonite</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342290-de1">Palagonitberg</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342290-dk1">palagonitbjerg</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342291">
+    <descrip type="explanation">stutt tímabil (oft minna en 100 000 ár) meðan segulsvið jarðar sneri alltaf í svipaða átt (öfugt við skeiðið sem mundin er hluti af)</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342291-is1">undirsegulskeið</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342291-en1">polarity subchron</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342292">
+    <descrip type="definition">gígur úr kleprum</descrip>
+    <descrip type="example">Eldborg við Kóngsfell</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342292-is1">klepragígur</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342292-en1">spatter cone</term>
+     </tig>
+     <tig>
+      <term>spatter ring</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342292-de1">Lava Turm</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342292-dk1">slaggekegle</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342293">
+    <descrip type="explanation">hluti af tímabili, oftast milljónir ára að lengd, og oft kenndur við svæðið þar sem viðkomandi einkennissnið (type section) er að finna</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342293-is1">tími</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342293-de1">Epoche</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342293-en1">epoch</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342293-dk1">epoke</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342294">
+    <descrip type="definition">gígur myndaður við sprengigos</descrip>
+    <descrip type="example">Víti í Öskju</descrip>
+    <descrip type="explanation">gígriminn er yfirleitt lágur</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342294-is1">sprengigígur</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342294-de1">Explosionskrater</term>
+     </tig>
+     <tig>
+      <term>Maar</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342294-en1">explosion crater</term>
+     </tig>
+     <tig>
+      <term>maar</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342294-dk1">eksplosionskrater</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342295">
+    <descrip type="definition">djúpur, hringlaga eldgígur með bröttum veggjum, mynduðum úr þunnum, oft frauðkenndum hraunskánum og kleprum úr basalti</descrip>
+    <descrip type="example">Eldborg í Hnappadal</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342295-is1">eldborg</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342295-en1">lava ring</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342295-de1">Lavaring</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342295-dk1">lava ring</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342296">
+    <descrip type="definition">ílöng gosrás</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342296-is1">eldsprunga</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342296-de1">Eruptionsspalte</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342296-en1">volcanic fissure</term>
+     </tig>
+     <tig>
+      <term>fissure vent</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>eruptive fissure</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342296-dk1">vulkanspalte</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342297">
+    <descrip type="definition">gígur úr gjalli og kleprum</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342297-is1">blandgígur</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342297-en1">spatter-and-scoria cone</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342297-de1">Schlackenava Turm </term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342297-dk1">slaggekrater</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342298">
+    <descrip type="definition">megineldstöð, sem gýs af og til</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342298-is1">virk megineldstöð</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342298-en1">active central volcano</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342298-de1">aktiver Zentralvulkan</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342298-dk1">aktiv centralvulkan</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342299">
+    <descrip type="definition">grein af jarðlagafræði, sem fjallar um aldur jarðlaga og aldursafstöðu</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342299-is1">aldursjarðlagafræði</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342299-de1">Chronostratigraphie</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342299-en1">chronostratigraphy</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342299-dk1">kronostratigrafi</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342300">
+    <descrip type="definition">röð af gígum á gossprungu</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342300-is1">gígaröð</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342300-de1">Kraterreihe</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342300-en1">crater row</term>
+     </tig>
+     <tig>
+      <term>linear vent</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342300-dk1">kraterrække</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342301">
+    <descrip type="definition">samfellt lag í jörðu, sem greinist frá aðliggjandi lögum vegna eiginleika sinna eða uppruna</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342301-is1">jarðlag</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342301-en1">stratum</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342301-de1">Gesteinsschicht</term>
+     </tig>
+     <tig>
+      <term>Schicht</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342301-dk1">lag</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342302">
+    <descrip type="definition">hæð úr gosefnum, hlaðin upp umhverfis gosop</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342302-is1">eldgígur</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342302-en1">crater</term>
+     </tig>
+     <tig>
+      <term>volcanic crater</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342302-de1">Krater</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342302-dk1">vulkankrater</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342303">
+    <descrip type="definition">gígur úr gjalli</descrip>
+    <descrip type="example">Búðaklettur</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342303-is1">gjallgígur</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342303-en1">scoria crater</term>
+     </tig>
+     <tig>
+      <term>scoria cone</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342303-de1">Schlackenkegel</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342303-dk1">scoriekrater</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342304">
+    <descrip type="definition">gíghóll, gígrimi, sem eldgos hefur hlaðið upp umhverfis gosop</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342304-is1">eldvarp</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342304-en1">volcanic cone</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342304-de1">Vulkankegel</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342304-dk1">vulkankegle</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342305">
+    <descrip type="definition">hæð, hóll eða rimi úr gosefnum, hlaðin upp umhverfis gosop</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342305-is1">gígur</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342305-en1">crater</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342305-de1">Krater</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342305-dk1">krater</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342306">
+    <descrip type="definition">lína á grafi af niðurstöðum greininga á geislavirkum samsætum</descrip>
+    <descrip type="explanation">allar niðurstöður, sem falla á línuna, samsvara sama aldri</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342306-is1">jafnaldurslína</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342306-de1">Isochrone</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342306-en1">isochron(e)</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342306-dk1">isokrone</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342307">
+    <descrip type="definition">innbyrðis afstaða jarðlaga á tilteknu svæði</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342307-is1">jarðlagaskipan</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342307-en1">stratigraphy</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342307-de1">Stratigraphischer Bau</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342307-dk1">stratigrafi</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342308">
+    <descrip type="definition">ílöng gosrás</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342308-is1">gossprunga</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342308-de1">Vulkanspalte</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342308-en1">eruptive fissure</term>
+     </tig>
+     <tig>
+      <term>volcanic fissure</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>fissure vent</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342308-dk1">vulkansprække</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342309">
+    <descrip type="definition">útbreitt auðþekkjanlegt jarðlag, sem nýtist við tengingu milli sniða</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342309-is1">leiðarlag</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342309-en1">horizon</term>
+     </tig>
+     <tig>
+      <term>level</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>datum</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>marker</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>marker-bed</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+     <tig>
+      <term>key-bed</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342309-de1">Leitbank</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342309-dk1">horisont</term>
+     </tig>
+     <tig>
+      <term>ledelag</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342310">
+    <descrip type="definition">skálarlaga lægð í eldvarpi eða eldfjalli, minni en askja</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342310-is1">gígur</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342310-en1">crater</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342310-de1">Krater</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342310-dk1">krater</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342311">
+    <descrip type="definition">kort af jarðlagaskipan á tilteknu svæði</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342311-is1">jarðlagakort</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342311-de1">stratigraphische Karte</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342311-en1">stratigraphic map</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342311-dk1">stratigrafisk kort</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342312">
+    <descrip type="definition">efri endi gosrásar, við yfirborð jarðar</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342312-is1">gosop</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342312-en1">eruption vent</term>
+     </tig>
+     <tig>
+      <term>volcanic orifice</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342312-de1">Eruptionsschlot</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342312-dk1">kraterrørsåbning</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342313">
+    <descrip type="definition">gígur eða gosop þar sem hraungos hefur átt sér stað</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342313-is1">hraungígur</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342313-de1">Lavakrater</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342313-en1">lava crater</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342313-dk1">lava krater</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342314">
+    <descrip type="definition">röð jarðlaga með segulstefnu í svipaða átt</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342314-is1">segulstefnubelti</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342314-de1">Polaritätszone</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342314-en1">polarity zone</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342314-dk1">polaritetzone</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342315">
+    <descrip type="definition">niðurstaða um samsvörun í aldri eða öðrum eiginleikum jarðlaga og tenging þeirra milli tveggja eða fleiri staða</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342315-is1">jarðlagatenging</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342315-en1">correlation</term>
+     </tig>
+     <tig>
+      <term>stratigraphic correlation</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342315-de1">Korrelation</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342315-dk1">korrelation</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342316">
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342316-is1">tunga</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342316-en1">tongue</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342316-de1">Zunge</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342316-dk1">tunge</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342317">
+    <descrip type="explanation">stutt tímabil (oft minna en 100 000 ár) meðan segulsvið jarðar sneri alltaf í svipaða átt (öfugt við skeiðið sem mundin er hluti af)</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342317-is1">segulmund</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342317-en1">polarity subchron</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342318">
+    <descrip type="definition">röð af klepragígum á gossprungu</descrip>
+    <descrip type="example">Þrengslaborgir í Mývatnssveit</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342318-is1">klepragígaröð</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342318-de1">Reihe von Lavakegeln</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342318-en1">spatter cone row</term>
+     </tig>
+     <tig>
+      <term>row of spatter rings</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342318-dk1">slaggekeglerække</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342319">
+    <descrip type="explanation">hluti af öld (oftast tugmilljónir ára að lengd), samsvarandi tilteknum einkennandi dýrategundum eða jarðlögum</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342319-is1">tímabil</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342319-en1">period</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342319-de1">Periode</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342319-dk1">periode</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342320">
+    <descrip type="definition">hring- eða sporöskjulaga eldfjall á hafsbotni</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342320-is1">neðansjávareldfjall</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342320-de1">Submariner Vulkan</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342320-en1">seamount</term>
+     </tig>
+     <tig>
+      <term>guyot</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342320-dk1">undersøisk vulkan</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342321">
+    <descrip type="definition">bungubreitt eldfjall úr þunnum blágrýtishraunum</descrip>
+    <descrip type="example">Skjaldbreiður</descrip>
+    <descrip type="explanation">hallinn í dyngjuhlíðum er sjaldan meiri en 10° efst en minnkar niður í 2° við ræturnar</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342321-is1">dyngja</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342321-de1">Schildvulkan</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342321-en1">shield volcano</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342321-dk1">skjoldvulkan</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342322">
+    <descrip type="definition">röð af blandgígum á gossprungu</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342322-is1">blandgígaröð</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342322-en1">spatter- and scoria-cone row</term>
+     </tig>
+     <tig>
+      <term>row of spatter-and-scoria cones</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342322-de1">Reihe von Schlackenlava Türme</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342322-dk1">slaggekraterrække</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342323">
+    <descrip type="definition">stysta eining í aldursfræðilegri skiptingu jarðsögunnar</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342323-is1">tíð</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342323-en1">chron</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342323-de1">Chron</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342323-dk1">tid</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342324">
+    <descrip type="definition">einn þriggja kafla jarðsögunnar síðastliðin 600 milljón ár eða svo</descrip>
+    <descrip type="explanation">hver öld auðkennist af tilteknum ríkjandi dýrategundum</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342324-is1">öld</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342324-de1">Aera</term>
+     </tig>
+     <tig>
+      <term>Zeitalter</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342324-en1">era</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342325">
+    <descrip type="definition">gígur úr vikri</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342325-is1">vikurgígur</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342325-en1">pumice crater</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342325-de1">Bimssteinkrater</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342325-dk1">pimpstenskrater</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342326">
+    <descrip type="definition">ílangt eldfjall, sem hlaðið er upp úr hraunum og gjósku</descrip>
+    <descrip type="example">Hekla</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342326-is1">eldhryggur</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342326-en1">volcanic ridge</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342326-de1">Vulkanrücken</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342326-dk1">vulkanryg</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342327">
+    <descrip type="definition">greining á aldri jarðlags, hluta jarðlags, eða atburðar í sögu jarðlags</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342327-is1">aldursgreining</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342327-en1">dating</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342327-de1">Datierung</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342327-dk1">datering</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342328">
+    <descrip type="definition">stór gígur í hvirfli megineldstöðvar</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342328-is1">toppgígur</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342328-de1">Gipfelkrater</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342328-en1">summit crater</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342328-dk1">topkrater</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342329">
+    <descrip type="definition">lægð með gosopi eða með ummerkjum eftir gosop í botni</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342329-is1">eldgígur</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342329-de1">Krater</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342329-en1">crater</term>
+     </tig>
+     <tig>
+      <term>volcanic crater</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342329-dk1">vulkankrater</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342330">
+    <descrip type="definition">ákvörðun á aldri jarðlags, hluta jarðlags eða atburðar í sögu jarðlags, byggð á aldursgreiningum</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342330-is1">aldursákvörðun</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342330-de1">Datierung</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342330-en1">dating</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342330-dk1">datering</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342331">
+    <descrip type="definition">megineldstöð og tengd sprungukerfi</descrip>
+    <descrip type="example">Krafla og Gjástykki</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342331-is1">eldstöðvakerfi</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342331-en1">volcanic system</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342331-de1">Vulkansystem</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342331-dk1">vulkansystem</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342332">
+    <descrip type="definition">lína á korti sem tengir saman jafngömul jarðlög</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342332-is1">jafnaldurslína</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342332-de1">Isochrone</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342332-en1">isochron(e)</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342332-dk1">isokrone</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342333">
+    <descrip type="definition">minni háttar aldursjarðlagafræðileg eining</descrip>
+    <descrip type="explanation">samsvarar skeiði í aldursfræði</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342333-is1">jarðlagaskeið</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342333-en1">stage</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342333-de1">Stufe</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342333-dk1">etage</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342334">
+    <descrip type="definition">jarðlagafræði, sem byggir á legu og berggerð, steinda- eða efnasamsetningu laganna</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342334-is1">bergjarðlagafræði</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342334-de1">Lithostratigraphie</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342334-en1">lithostratigraphy</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342334-dk1">litostratigrafi</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342335">
+    <descrip type="definition">minnsta formlega einingin í bergjarðlagafræðilegri flokkun</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342335-is1">lag</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342335-de1">Schicht</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342335-en1">bed</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342335-dk1">lag</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342336">
+    <descrip type="definition">skálarlaga lægð í eldvarpi eða eldfjalli, minni en askja</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342336-is1">gígskál</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342336-de1">Krater</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342336-en1">crater bowl</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342336-dk1">krater</term>
+     </tig>
+    </langSet>
+   </termEntry>
+   <termEntry id="eid-ordabanki-jardfr-342337">
+    <descrip type="definition">grein af jarðfræði, sem fjallar um skipan jarðlaga, myndun þeirra, aldur og eiginleika</descrip>
+    <langSet xml:lang="is">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342337-is1">jarðlagafræði</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="de">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342337-de1">Stratigraphie</term>
+     </tig>
+    </langSet>
+    <langSet xml:lang="en">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342337-en1">stratigraphy</term>
+     </tig>
+     <tig>
+      <term>stratigraphic geology</term>
+      <termNote type="termType">synonym</termNote>
+     </tig>
+    </langSet>
+    <langSet xml:lang="dk">
+     <tig>
+      <term id="tid-ordabanki-jardfr-342337-dk1">stratigrafi</term>
+     </tig>
+    </langSet>
+   </termEntry>
+  </body>
+ </text>
+</martif>
