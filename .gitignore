@@ -1,3 +1,6 @@
+#IceNLP files
+IceNLP/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
