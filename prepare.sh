@@ -18,6 +18,6 @@ java -classpath IceNLP/dist/IceNLPCore.jar is.iclt.icenlp.runner.RunLemmald -i o
 # reordering to fit Gullstaðall format
 awk '{print $1 " " $3 " " $2}' output/lemmatized.txt > output/lemmatized_clean.txt
 
-# TODO: þarf eina setningu í línu
+# TODO: þarf eina setningu í línu og láta parser virka
 # parsing the original file using IceParser
 # java -classpath IceNLP/dist/IceNLPCore.jar is.iclt.icenlp.runner.RunIceParser -i $1 -o output/parsed.txt -f -l
