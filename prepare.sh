@@ -13,9 +13,9 @@ java -classpath ../IceNLP/dist/IceNLPCore.jar is.iclt.icenlp.runner.RunIceTagger
 awk '{print $1 " " $2}' output/tagged.txt > output/tagged_clean.txt
 
 # lemmatizing using Lemmald
-java -classpath ../IceNLP/dist/IceNLPCore.jar is.iclt.icenlp.runner.RunLemmald -i output/tagged_clean.txt -o output/lemmatized.txt
+java -classpath ../IceNLP/dist/IceNLPCore.jar is.iclt.icenlp.runner.RunLemmald -i output/tokenized.txt -o output/lemmatized.txt
 
-# reordering to fit Gullstaðall format
+# combining files to fit Gullstaðall format
 awk '{print $1 " " $3 " " $2}' output/lemmatized.txt > output/lemmatized_clean.txt
 
 # PoS tagging the original file sentence by sentence using IceTagger
