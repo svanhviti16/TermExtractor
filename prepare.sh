@@ -18,6 +18,9 @@ java -classpath IceNLP/dist/IceNLPCore.jar is.iclt.icenlp.runner.RunLemmald -i o
 # reordering to fit Gullstaðall format
 awk '{print $1 " " $3 " " $2}' output/lemmatized.txt > output/lemmatized_clean.txt
 
-# TODO: þarf eina setningu í línu og láta parser virka
-# parsing the original file using IceParser
-# java -classpath IceNLP/dist/IceNLPCore.jar is.iclt.icenlp.runner.RunIceParser -i $1 -o output/parsed.txt -f -l
+# PoS tagging the original file sentence by sentence using IceTagger
+# 2 2 stands for input with one sentence per line and output with one sentence per line
+# TODO: try with raw text
+java -classpath IceNLP/dist/IceNLPCore.jar is.iclt.icenlp.runner.RunIceTagger -i $1 -o output/tagged_for_parsing.txt LINE_FORMAT=2 OUTPUT_FORMAT=2 
+# TODO: remove empty lines
+java -classpath IceNLP/dist/IceNLPCore.jar is.iclt.icenlp.runner.RunIceParser -i  output/tagged_for_parsing.txt -o output/parsed.txt -f -l
