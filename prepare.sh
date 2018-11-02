@@ -21,6 +21,6 @@ awk '{print $1 " " $3 " " $2}' output/lemmatized.txt > output/lemmatized_clean.t
 # PoS tagging the original file sentence by sentence using IceTagger
 # 2 2 stands for input with one sentence per line and output with one sentence per line
 # TODO: try with raw text
-java -classpath ../IceNLP/dist/IceNLPCore.jar is.iclt.icenlp.runner.RunIceTagger -i $1 -o output/tagged_for_parsing.txt LINE_FORMAT=2 OUTPUT_FORMAT=2 
+# java -classpath ../IceNLP/dist/IceNLPCore.jar is.iclt.icenlp.runner.RunIceTagger -i output/tokenized.txt -o output/tagged_for_parsing.txt LINE_FORMAT=1 OUTPUT_FORMAT=2 FULL_OUTPUT=no
 # TODO: remove empty lines
-java -classpath ../IceNLP/dist/IceNLPCore.jar is.iclt.icenlp.runner.RunIceParser -i  output/tagged_for_parsing.txt -o output/parsed.txt -f -l
+# java -classpath ../IceNLP/dist/IceNLPCore.jar is.iclt.icenlp.runner.RunIceParser -i  output/tagged_for_parsing.txt -o output/parsed.txt -f -l

@@ -1,9502 +1,4588 @@
-[AdvP Ekki aa ]
+{*SUBJ [NP Búnaðarlög nhfn ] }
 
-[PP í ao ]
+{*TIMEX [NP 1998 ta ] }
 
-[NP dag nkeo ]
+{*SUBJ [NP nr. nhen ] }
 
-. .
+{*TIMEX [NP 70 ta ] }
 
-[AdvP Kannski aa ]
+{*TIMEX [NP 15. ta ] }
 
-[PP á ao ]
+[NP júní nkeo ]
 
-[NP morgun nkeo ]
 
-. .
+{*SUBJ [NP Ferill nken ] }
 
-{*SUBJ [NP Hann nken-s ] }
-
-[VP þyrfti svg3eþ ]
-
-[AdvP líka aa ]
-
-að cn
-
-[VPi skipta sng ]
-
-[PP um ao ]
-
-[NP klæðningu nveo ]
+{*QUAL [NP málsins nheeg ] }
 
 [PP á aþ ]
 
-[NP bragganum nkeþg ]
-
-- -
-
-{*SUBJ [NP bárujárnið nheng ] }
-
-[VPb var sfg3eþ ]
-
-{*COMP [VPp farið sþghen ] }
-
-að cn
-
-[VPi ryðga sng ]
-
-[AdvP í aa ]
-
-[PP gegnum ao ]
-
-[NP málninguna nveog ]
+[NP Alþingi nheþ-s ]
 
 . .
 
-[SCP Þegar c ]
 
-{*SUBJ [NP hann fpken ] }
-
-[VPb var sfg3eþ ]
-
-[AdvP ekki aa ]
-
-að cn
-
-[VPi vinna sng ]
-
-[VP þvældist sfm3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-[PP fyrir aþ ]
-
-[NP sjálfum fbkeþ ]
-
-[NP sér fpkeþ ]
-
-. .
-
-[AdvP Eins aa ]
-
-[CP og c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VPb væri svg3eþ ]
-
-{*COMP [AP óæskilegur lkensf ] }
-
-{*SUBJ [NP aukahlutur nken ] }
-
-[PP í aþ ]
-
-[AP eigin lveþof ]
-
-[AP tómlegu lveþvf ]
-
-[NP tilveru nveþ ]
-
-. .
-
-[AdvP Þannig aa ]
-
-[VP hafði sfg3eþ ]
-
-{*SUBJ [NP það fphen ] }
-
-[AdvP ekki aa ]
-
-[AdvP alltaf aa ]
-
-[VPb verið ssg ]
-
-. .
-
-[SCP Þegar c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VPb var sfg3eþ ]
-
-[PP í aþ ]
-
-[NP námi nheþ ]
-
-, ,
+{*SUBJ [NP Frumvarp nhen ] }
 
 [PP til ae ]
 
-{*QUAL [NP dæmis nhee ] }
-
-, ,
-
-[VP hafði sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VPs notið ssg ]
-
-{*QUAL [NP þess fphee ] }
-
-að cn
-
-[VPi eiga sng ]
-
-[NP frí nheo ]
+{*QUAL [NP laga nhfe ] }
 
 . .
 
-{*SUBJ [NP Hitt fahen ] }
 
-[NP kunningja nkfo ]
+[VP Tóku sfg3fþ ]
 
-[NP sína fekfo ]
+{*SUBJ [NP gildi nhfn ] }
 
-[CP og c ]
+{*TIMEX [NP 24. ta ] }
 
-[NP skólafélaga nkeo ]
+{*SUBJ [NP júní nken ] }
 
-[PP yfir ao ]
-
-[NP kaffi nheo ]
-
-[SCP sem ct ]
-
-[AdvP oft aa ]
-
-[VP vék sfg3eþ ]
-
-[PP fyrir aþ ]
-
-[NP bjórglösum nhfþ ]
-
-[SCP þegar c ]
-
-[VPi líða sng ]
-
-[VP tók sfg3eþ ]
-
-[PP á ao ]
-
-[NP kvöldið nheog ]
+{*TIMEX [NP 1998 ta ] }
 
 . .
 
-[VPs Lesið ssg ]
 
-[NP bækur nvfo ]
-
-[PP um ao ]
-
-[NP myndlist nveo ]
-
-[CP og c ]
-
-[NP verkfræði nveo ]
-
-, ,
-
-[AdvP jafnvel aa ]
-
-{*QUAL [NP líka nvfe ] }
-
-{*SUBJ [NP heimspekirit nhfn ] }
-
-[CP og c ]
-
-[NP skáldsögur nvfo ]
-
-. .
-
-{*SUBJ [NP Það fphen ] }
-
-[VPb var sfg3eþ ]
-
-{*COMP [AP undarleg lvensf ] }
-
-{*SUBJ [NP tilhugsun nven ] }
-
-. .
-
-{*SUBJ [NP Hann nken-s ] }
-
-[VP gat sfg3eþ ]
-
-[AdvP ekki aa ]
+[VPs Breytt ssg ]
 
 [PP með aþ ]
 
-[NP nokkru foheþ ]
+[NP l. nhfþ ]
 
-[NP móti nheþ ]
-
-[VPs sett ssg ]
-
-[NP sig fpkeo ]
-
-[PP í ao ]
-
-[NP spor nhfo ]
-
-{*QUAL [NP þessa fakee ] }
-
-{*QUAL [NP drengs nkee ] }
-
-[SCP sem ct ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP hafði sfg3eþ ]
-
-[NP eitt tfheo ]
-
-[NP sinn nheo ]
-
-[VPb verið ssg ]
-
-. .
-
-[VP Naut sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-[AP raunverulega lkeevf ]
-
-{*QUAL [NP lestursins nkeeg ] }
-
-? ?
-
-[VP Hafði sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VPb verið ssg ]
-
-{*COMP [AP göfugri lkenvm ] }
-
-[PP í ao ]
-
-[NP þá fakfo ]
-
-[NP daga nkfo ]
-
-? ?
-
-[AdvP Hærra aam ]
-
-[PP til ae ]
-
-{*QUAL [NP lofts nhee ] }
-
-[CP og c ]
-
-[AP víðara lheevm ]
-
-[PP til ae ]
-
-{*QUAL [NP veggja nkfe ] }
-
-[PP í aþ ]
-
-[NP hvelfingu nveþ ]
-
-{*QUAL [NP hugans nkeeg ] }
-
-? ?
-
-[CP Eða c ]
-
-[VP hafði sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-[AdvP aðeins aa ]
-
-[VPb verið ssg ]
-
-{*COMP [AP uppfullur lkensf ] }
-
-[PP af aþ ]
-
-[NP metnaði nkeþ ]
-
-[CP og c ]
-
-[NP tilgerð nveþ ]
-
-? ?
-
-[AdvP Kannski aa ]
-
-[VP hafði sfg3eþ ]
-
-[NP hin gven ]
-
-{*COMP [AP óorðaða lvenvf ] }
-
-{*SUBJ [NP forsenda nven ] }
-
-[VPb verið ssg ]
-
-{*SUBJ [NP eitthvað fohen ] }
-
-[PP á ao ]
-
-[NP þessa faveo ]
-
-[NP leið nveo ]
-
-: :
-
-{*SUBJ [NP Ég fp1en ] }
-
-[VP ætla sfg1en ]
-
-[AdvP ekki aa ]
-
-að cn
-
-[VPi gera sng ]
-
-[NP mig fp1eo ]
-
-[PP að aþ ]
-
-[NP fífli nheþ ]
-
-[PP fyrir ao ]
-
-[AdvP framan aa ]
-
-[NP stelpurnar nvfog ]
-
-[PP með aþ ]
-
-[NP því fpheþ ]
-
-að cn
-
-[VPb vera sng ]
-
-[AdvP ekki aa ]
-
-[AdvP með aa ]
-
-[PP á aþ ]
-
-[NP nótunum nvfþg ]
-
-[SCP þegar c ]
-
-{*SUBJ [NP þær fpvfn ] }
-
-[VP vitna sfg3fn ]
-
-[PP í aþ ]
-
-[NP Nietzsche nxeþ-s ]
-
-[CP eða c ]
-
-[NP Susan nkeþ-s ]
-
-[NP Sontag nxeþ-s ]
-
-. .
-
-[CP Og c ]
-
-{*SUBJ [NP ég fp1en ] }
-
-[VP ætla sfg1en ]
-
-[AdvP ekki aa ]
-
-að cn
-
-[VPi verða sng ]
-
-{*COMP [AP einn lkensf ] }
-
-[PP af aþ ]
-
-[NP þessum fakfþ ]
-
-[NP örvitum nkfþ ]
-
-[SCP sem ct ]
-
-[VP vita sfg3fn ]
-
-[AdvP ekki aa ]
-
-[NP neitt foheo ]
-
-[PP um ao ]
-
-[NP neitt foheo ]
-
-[CP og c ]
-
-[VP hugsa sfg3fn ]
-
-[AdvP ekki aa ]
-
-[PP um ao ]
-
-[NP annað foheo ]
-
-[CP en c ]
-
-að cn
-
-[VPi græða sng ]
-
-[NP peninga nkfo ]
-
-. .
-
-[SCP Ef c ]
-
-[AdvP svo aa ]
-
-[VPb var sfg3eþ ]
-
-[VP hafði sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VPs staðið ssg ]
-
-[PP við ao ]
-
-[NP ætlun nveo ]
-
-[NP sína feveo ]
-
-[PP að aþ ]
-
-[NP nokkru foheþ ]
-
-[NP leyti nheþ ]
-
-. .
-
-{*SUBJ [NP Hann nken-s ] }
-
-[VP hafði sfg3eþ ]
-
-[VPb verið ssg ]
-
-{*COMP [AP viðræðuhæft lhensf ] }
-
-{*SUBJ [NP ungmenni nhen ] }
-
-[CP og c ]
-
-[AdvP enn aa ]
-
-[VP hugsaði sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-[NP sama fbkeo ]
-
-[CP og c ]
-
-[NP ekkert foheo ]
-
-[PP um ao ]
-
-[NP peninga nkfo ]
-
-. .
-
-[CP En c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VPb var sfg3eþ ]
-
-{*COMP [AP búinn lkensf ] }
-
-að cn
-
-[VPi gleyma sng ]
-
-[AdvP hér aa ]
-
-[PP um ao ]
-
-[NP bil nheo ]
-
-[NP öllu foheþ ]
-
-[SCP sem ct ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP hafði sfg3eþ ]
-
-[VPs lesið ssg ]
-
-[CP og c ]
-
-[NP leið nveo ]
-
-[AdvP óþægilega aa ]
-
-[AdvP innan aa ]
-
-[PP um ao ]
-
-[AP yfirmáta lheoof ]
-
-[AP vitsmunalegt lheosf ]
-
-[NP fólk nheo ]
-
-, ,
-
-[AdvP ekki aa ]
-
-[AdvP síst aae ]
-
-[SCP ef c ]
-
-{*SUBJ [NP það fphen ] }
-
-[VPb voru sfg3fþ ]
-
-{*SUBJ [NP konur nvfn ] }
-
-. .
-
-{*SUBJ [NP Hann nken-s ] }
-
-[VP hafði sfg3eþ ]
-
-[PP á aþ ]
-
-[NP tilfinningunni nveþg ]
-
-[SCP að c ]
-
-[PP í aþ ]
-
-{*QUAL [NP þeirra fpkfe ] }
-
-[NP augum nhfþ ]
-
-[VPb væri svg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-[AdvP ekki aa ]
-
-{*COMP [AP álitlegur lkensf ] }
-
-{*SUBJ [NP karlkostur nken ] }
-
-, ,
-
-[CP heldur c ]
-
-{*SUBJ [NP eitthvað fohen ] }
-
-[SCP sem ct ]
-
-{*SUBJ [NP þær fpvfn ] }
-
-[VP myndu svg3fþ ]
-
-[VPi kalla sng ]
-
-[NP kjúríositet nhfo ]
-
-[CP og c ]
-
-[VPi skemmta sng ]
-
-[NP sér fpvfþ ]
-
-[PP við ao ]
-
-að cn
-
-[VPi eiga sng ]
-
-[PP um ao ]
-
-[NP hann fpkeo ]
-
-[NP samræður nvfo ]
-
-[SCP sem ct ]
-
-[VPb væru svg3fþ ]
-
-[AdvP eins aa ]
-
-[CP og c ]
-
-[AdvP beint aa ]
-
-[AdvP upp aa ]
-
-[PP úr aþ ]
-
-[NP mynd nveþ ]
-
-[PP eftir aþ ]
-
-[NP Woody nkeþ-s ]
-
-[NP Allen nxeþ-s ]
-
-. .
-
-[PP Eftir aþ ]
-
-að cn
-
-[VPi hafa sng ]
-
-[VPs rætt ssg ]
-
-[PP um ao ]
-
-[NP hann fpkeo ]
-
-[PP í ao ]
-
-[NP þrjú tfhfo ]
-
-[NP korter nhfo ]
-
-[VP myndu svg3fþ ]
-
-{*SUBJ [NP þær fpvfn ] }
-
-[VPi telja sng ]
-
-[NP sig fpvfo ]
-
-[VPi hafa sng ]
-
-[AP meiri lkeovm ]
-
-[NP skilning nkeo ]
-
-[PP á aþ ]
-
-[NP sálarlífi nheþ ]
-
-{*QUAL [NP hans fpkee ] }
-
-[CP en c ]
-
-{*SUBJ [NP hann fpken ] }
-
-{*SUBJ [NP sjálfur fbken ] }
-
-[CP og c ]
-
-{*SUBJ [NP virðing nven ] }
-
-{*QUAL [NP þeirra fpkfe ] }
-
-[PP fyrir aþ ]
-
-[NP honum fpkeþ ]
-
-[VPb væri svg3eþ ]
-
-[PP af aþ ]
-
-[NP sama fbkeþ ]
-
-[NP toga nkeþ ]
-
-[CP og c ]
-
-[PP fyrir aþ ]
-
-[NP frumbyggjum nkfþ ]
-
-{*QUAL [NP Ástralíu nvee-s ] }
-
-[CP eða c ]
-
-[NP kynsystrum nvfþ ]
-
-[SCP sem ct ]
-
-[VP brutust sfm3fþ ]
-
-[PP úr aþ ]
-
-[NP fátækt nveþ ]
-
-[PP með aþ ]
-
-[NP vændi nheþ ]
-
-[CP og c ]
-
-[NP strípidansi nkeþ ]
-
-. .
-
-{*SUBJ [NP Þær fpvfn ] }
-
-[VP myndu svg3fþ ]
-
-[VPi gera sng ]
-
-[NP honum fpkeþ ]
-
-[PP upp ao ]
-
-{*QUAL [NP alls fohee ] }
-
-{*QUAL [NP kyns nhee ] }
-
-{*SUBJ [NP ástæður nvfn ] }
-
-[PP fyrir aþ ]
-
-[NP vali nheþ ]
-
-{*QUAL [NP hans fpkee ] }
-
-[PP á aþ ]
-
-[NP ævistarfi nheþ ]
-
-, ,
-
-{*COMP [AP ómeðvitaðar lvfnsf ] }
-
-{*SUBJ [NP ástæður nvfn ] }
-
-[SCP sem ct ]
-
-[VP ættu svg3fþ ]
-
-[NP rætur nvfo ]
-
-[PP í aþ ]
-
-[NP æsku nveþ ]
-
-{*QUAL [NP hans fpkee ] }
-
-[CP og c ]
-
-[NP tíðarandanum nkeþg ]
-
-[SCP sem ct ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP hlyti svg3eþ ]
-
-að cn
-
-[VPi stjórnast snm ]
-
-[AdvP meira aam ]
-
-[CP og c ]
-
-[VPi minna sng ]
-
-[AdvP af aa ]
-
-, ,
-
-[PP úr aþ ]
-
-[NP því fpheþ ]
-
-[SCP að c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP hefði svg3eþ ]
-
-[AdvP ekki aa ]
-
-[NP forsendur nvfo ]
-
-, ,
-
-{*SUBJ [NP það fphen ] }
-
-[VPb er sfg3en ]
-
-að cn
-
-[VPi segja sng ]
-
-[NP menntun nveo ]
-
-[CP og c ]
-
-[NP gáfur nvfo ]
-
-, ,
-
-[PP til ae ]
-
-að cn
-
-[VPi sjá sng ]
-
-[AdvP í aa ]
-
-[PP gegnum ao ]
-
-[NP sjúkleikann nkeog ]
-
-[PP í aþ ]
-
-[NP norminu nheþg ]
-
-. .
-
-{*SUBJ [NP Síminn nkeng ] }
-
-[VP þröngvaði sfg3eþ ]
-
-[NP sér fpkeþ ]
-
-[AdvP inn aa ]
-
-[PP í ao ]
-
-[NP hugsanir nvfo ]
-
-{*QUAL [NP hans fpkee ] }
-
-- -
-
-{*COMP [VPp upplýstur sþgken ] }
-
-{*SUBJ [NP skjárinn nkeng ] }
-
-[VP gaf sfg3eþ ]
-
-[NP ekkert foheo ]
-
-[PP upp ao ]
-
-[NP annað foheo ]
-
-[CP en c ]
-
-{*COMP [VPp orðið sþghen ] }
-
-{*SUBJ [NP Unknown nxen-s ] }
-
-. .
-
-[InjP Halló au ]
-
-, ,
-
-[VP svaraði sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-. .
-
-[InjP Halló au ]
-
-? ?
-
-{*SUBJ [NP Ekkert fohen ] }
-
-[VP heyrðist sfm3eþ ]
-
-, ,
-
-[AdvP ekki aa ]
-
-[AP einu lveþvf ]
-
-[NP sinni feveþ ]
-
-{*SUBJ [NP andardráttur nken ] }
-
-. .
-
-{*SUBJ [NP Hver fsken ] }
-
-[VPb er sfg3en ]
-
-{*SUBJ [NP þetta fahen ] }
-
-? ?
-
-[VP spurði sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-[AdvP út aa ]
-
-[PP í ao ]
-
-[NP tómið nheog ]
-
-[CP og c ]
-
-{*SUBJ [NP tómið nheng ] }
-
-[VP svaraði sfg3eþ ]
-
-[AdvP ekki aa ]
-
-[NP öðru foheþ ]
-
-[CP en c ]
-
-[NP því fpheþ ]
-
-að cn
-
-[VPi læðast snm ]
-
-[AdvP aftan aa ]
-
-[PP að aþ ]
-
-[NP honum fpkeþ ]
-
-, ,
-
-[VPi læðast snm ]
-
-[AdvP inn aa ]
-
-[PP í aþ ]
-
-[NP hjarta nheþ ]
-
-{*QUAL [NP hans fpkee ] }
-
-[CP og c ]
-
-[NP huga nkeþ ]
-
-[AdvP þar aa ]
-
-[AdvP til aa ]
-
-[NP honum fpkeþ ]
-
-[VPb var sfg3eþ ]
-
-{*COMP [VPp farið sþghen ] }
-
-að cn
-
-[VPi líða sng ]
-
-[AdvP eins aa ]
-
-[CP og c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VPb væri svg3eþ ]
-
-[AdvP ekki aa ]
-
-[AP raunverulega lkeovf ]
-
-[PP á aþ ]
-
-[NP lífi nheþ ]
-
-, ,
-
-[AdvP eins aa ]
-
-[CP og c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VPb væri svg3eþ ]
-
-[AdvP ekki aa ]
-
-{*SUBJ [NP annað fohen ] }
-
-[CP en c ]
-
-[NP hylki nheþ ]
-
-[AdvP utan aa ]
-
-[PP um ao ]
-
-[NP óþægindi nhfo ]
-
-[NP sín fehfo ]
-
-[CP og c ]
-
-[AP smáskítlegar lvfosf ]
-
-[NP sorgir nvfo ]
-
-. .
-
-{*SUBJ [NP Hann nken-s ] }
-
-[VP reyndi sfg3eþ ]
-
-að cn
-
-[VPi ímynda sng ]
-
-[NP sér fpkeþ ]
-
-[NP hlustandann nkeog ]
-
-[NP hinum fahfþ ]
-
-[AdvP megin aa ]
-
-[PP á aþ ]
-
-[NP línunni nveþg ]
-
-[CP og c ]
-
-[VP sá sfg3eþ ]
-
-[AdvP þá aa ]
-
-[NP Lóu nveo-s ]
-
-[PP fyrir aþ ]
-
-[NP sér fpkeþ ]
-
-, ,
-
-[VPg liggjandi slg ]
-
-[AdvP út aa ]
-
-[AdvP af aa ]
-
-[PP í aþ ]
-
-[NP Chesterfield nxeþ ]
-
-{*QUAL [NP leðursófa nkee ] }
-
-[AdvP heima aa ]
-
-[PP hjá aþ ]
-
-[NP sér fpkeþ ]
-
-, ,
-
-[PP á aþ ]
-
-[NP undirkjólnum nkeþg ]
-
-[PP með ao ]
-
-[AP ógreitt lheosf ]
-
-[NP hárið nheog ]
-
-. .
-
-{*COMP [AP Tifandi lkenof ] }
-
-[PP með aþ ]
-
-[NP fingrunum nkfþg ]
-
-[PP á ao ]
-
-[NP sófabakið nheog ]
-
-[CP og c ]
-
-[VPg hlustandi slg ]
-
-[PP á ao ]
-
-[NP hann fpkeo ]
-
-[VPi endurtaka sng ]
-
-[NP sig fpkeo ]
+{*TIMEX [NP 53/2003 ta ] }
 
 ( (
 
-[InjP Halló au ]
+[VP tóku sfg3fþ ]
 
-... ...
+{*SUBJ [NP gildi nhfn ] }
 
-[InjP Halló au ]
+{*TIMEX [NP 7. ta ] }
+
+{*SUBJ [NP apríl nken ] }
+
+{*TIMEX [NP 2003 ta ] }
 
 ) )
 
-[AdvP eins aa ]
+, ,
 
-[CP og c ]
+{*COMP [AP l. lhfnsf ] }
 
-[AP vélknúinn lkeosf ]
+{*TIMEX [NP 79/2004 ta ] }
 
-[NP apa nkeo ]
+( (
 
-[PP í aþ ]
+[VP tóku sfg3fþ ]
 
-[NP skemmtigarði nkeþ ]
+[NP gildi nheo ]
 
-. .
+{*TIMEX [NP 1. ta ] }
 
-{*SUBJ [NP Hvað fshen ] }
+[NP jan. nkeo ]
 
-[VP viltu sfg2en ]
+{*TIMEX [NP 2005 ta ] }
 
-[NP mér fp1eþ ]
+) )
 
 , ,
 
-{*SUBJ [NP manneskja nven ] }
+{*COMP [AP l. lhfnsf ] }
 
-? ?
+{*TIMEX [NP 67/2005 ta ] }
 
-[VP sagði sfg3eþ ]
+( (
 
-[NP hann fpkeo ]
+[VP tóku sfg3fþ ]
 
-[CP og c ]
+[NP gildi nheo ]
 
-[VPb var sfg3eþ ]
+{*TIMEX [NP 1. ta ] }
 
-[PP í ao ]
+[NP sept. nvfo ]
 
-[NP þann fakeo ]
+{*TIMEX [NP 2005 ta ] }
 
-[NP mund nkeo ]
-
-að cn
-
-[VPi nefna sng ]
-
-[NP nafnið nheog ]
-
-{*QUAL [NP hennar fpvee ] }
-
-. .
-
-[VPi Segja sng ]
-
-[NP henni fpveþ ]
-
-[SCP að c ]
-
-{*SUBJ [NP allt fohen ] }
-
-[VPb væri svg3eþ ]
-
-[PP í aþ ]
-
-[NP lagi nheþ ]
-
-. .
-
-[VP Segðu svg3fþ ]
-
-[NP mér fp1eþ ]
-
-[AdvP hvar aa ]
-
-{*SUBJ [NP þú fp2en ] }
-
-[VP býrð sfg2en ]
+) )
 
 , ,
 
-[VP ætlaði sfg3eþ ]
+{*COMP [AP l. lhfnsf ] }
 
-{*SUBJ [NP hann fpken ] }
+{*TIMEX [NP 126/2011 ta ] }
 
-að cn
+( (
 
-[VPi segja sng ]
+[VP tóku sfg3fþ ]
 
-. .
+[NP gildi nheo ]
 
-[VP Segðu svg3fþ ]
+{*TIMEX [NP 30. ta ] }
 
-[NP mér fp1eþ ]
+[NP sept. nvfo ]
 
-[NP heimilisfangið nheog ]
+{*TIMEX [NP 2011 ta ] }
 
-[CP og c ]
-
-[AdvP þá aa ]
-
-[VP kem sfg1en ]
-
-{*SUBJ [NP ég fp1en ] }
-
-[CP og c ]
-
-[VP sæki sfg1en ]
-
-[NP dúkkuna nveog ]
-
-[CP og c ]
-
-[AdvP svo aa ]
-
-[VP gleymum sfg1fn ]
-
-{*SUBJ [NP við fp1fn ] }
-
-[NP þessu faheþ ]
-
-. .
-
-[CP En c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP fann sfg3eþ ]
-
-[PP á aþ ]
-
-[NP sér fpkeþ ]
-
-[SCP að c ]
-
-{*SUBJ [NP enginn foken ] }
-
-[VPb var sfg3eþ ]
-
-að cn
-
-[VPi hlusta sng ]
+) )
 
 , ,
 
-[VP tók sfg3eþ ]
+{*COMP [AP l. lhfnsf ] }
 
-[NP símann nkeog ]
+{*TIMEX [NP 129/2012 ta ] }
 
-[PP frá aþ ]
+( (
 
-[NP eyranu nheþg ]
+[VP tóku sfg3fþ ]
 
-, ,
+[NP gildi nheo ]
 
-[NP leit nveþ ]
+{*TIMEX [NP 1. ta ] }
 
-[PP á ao ]
+[NP jan. nkeo ]
 
-[NP skjáinn nkeog ]
+{*TIMEX [NP 2013 ta ] }
 
-[CP og c ]
-
-[VP sá sfg3eþ ]
-
-[SCP að c ]
-
-{*SUBJ [NP hún fpven ] }
-
-[VP hafði sfg3eþ ]
-
-[VPs rofið ssg ]
-
-[NP sambandið nheog ]
-
-. .
-
-[InjP Nei au ]
+) )
 
 , ,
 
-{*SUBJ [NP hann fpken ] }
+{*COMP [AP l. lhfnsf ] }
 
-[VPb var sfg3eþ ]
+{*TIMEX [NP 113/2015 ta ] }
 
-[AdvP ekki aa ]
+( (
 
-[AdvP beinlínis aa ]
+[VP tóku sfg3fþ ]
 
-{*COMP [AP hræddur lkensf ] }
+[NP gildi nheo ]
 
-, ,
+{*TIMEX [NP 1. ta ] }
 
-[CP en c ]
+[NP júlí nkeo ]
 
-{*COMP [VPp nauðbeygður sþgken ] }
+{*TIMEX [NP 2016 ta ] }
 
-[PP til ae ]
-
-að cn
-
-[VPi horfast snm ]
-
-[PP í ao ]
-
-[NP augu nhfo ]
-
-{*SUBJ [NP við fp1fn ] }
-
-[SCP að c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VPb var sfg3eþ ]
-
-{*COMP [AP búinn lkensf ] }
-
-að cn
-
-[VPi eignast snm ]
-
-[NP sinn fekeo ]
-
-[AP eigin lkeoof ]
-
-[NP stjáklara nkeo ]
+) )
 
 , ,
 
-[AdvP eins aa ]
+{*COMP [AP l. lhfnsf ] }
 
-[CP og c ]
+{*TIMEX [NP 60/2016 ta ] }
 
-{*COMP [AP fræga lhenvf ] }
+( (
 
-{*SUBJ [NP fólkið nheng ] }
+[VP tóku sfg3fþ ]
 
-. .
+[NP gildi nheo ]
 
-{*QUAL [NP Kvenkyns nhee ] }
+{*TIMEX [NP 1. ta ] }
 
-[NP stjáklara nkeþ ]
+[NP júlí nkeo ]
 
-[SCP sem ct ]
-
-[VP sendi sfg3eþ ]
-
-[NP honum fpkeþ ]
-
-[AP nafnlausar lvfosf ]
-
-[NP hótanir nvfo ]
-
-[CP og c ]
-
-[VP hringdi sfg3eþ ]
-
-[PP til ae ]
-
-að cn
-
-[VPi hlusta sng ]
-
-[PP á ao ]
-
-[NP rödd nveo ]
-
-{*QUAL [NP hans fpkee ] }
-
-, ,
-
-[CP eða c ]
-
-[PP til ae ]
-
-að cn
-
-[VPi taka sng ]
-
-[NP hann fpkeo ]
-
-[PP á aþ ]
-
-[NP taugum nvfþ ]
-
-. .
-
-{*SUBJ [NP Það fphen ] }
-
-[VPb var sfg3eþ ]
-
-[AdvP aldeilis aa ]
-
-[SCP að c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP hafði sfg3eþ ]
-
-[VPs skotist ssm ]
-
-[PP upp ao ]
-
-[NP metorðastigann nkeog ]
-
-. .
-
-{*SUBJ [NP Stjáklarar nkfn-s ] }
-
-[VPb voru sfg3fþ ]
-
-{*SUBJ [NP stöðutákn nhen ] }
-
-, ,
-
-[VPb var sfg3eþ ]
-
-{*SUBJ [NP það fphen ] }
-
-[AdvP ekki aa ]
-
-? ?
-
-[CP Og c ]
-
-{*QUAL [NP kvenkyns nhee ] }
-
-{*SUBJ [NP stjáklarar nkfn ] }
-
-[VPb voru sfg3fþ ]
-
-[VP mun sfg3en ]
-
-{*COMP [AP sjaldgæfari lkenvf ] }
-
-[CP og c ]
-
-{*QUAL [NP þess fphee ] }
-
-[PP vegna ae ]
-
-[AP merkilegri lkeevm ]
-
-[CP en c ]
-
-{*SUBJ [NP kollegar nkfn ] }
-
-{*QUAL [NP þeirra fpkfe ] }
-
-[PP af aþ ]
-
-[NP karlkyni nheþ ]
-
-. .
-
-{*SUBJ [NP Hann nken-s ] }
-
-[VP fór sfg3eþ ]
-
-[AdvP aftur aa ]
-
-[PP yfir ao ]
-
-[AP ímyndað lheosf ]
-
-[NP myndskeið nheo ]
-
-[NP sitt feheo ]
-
-[PP af aþ ]
-
-[NP Lóu nveþ-s ]
-
-[PP í aþ ]
-
-[NP Chesterfieldsófanum nkeþgs ]
-
-[CP og c ]
-
-[VP hló sfg3eþ ]
-
-[PP að aþ ]
-
-[NP undirkjólnum nkeþg ]
-
-[SCP sem ct ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP hafði sfg3eþ ]
-
-[NP dubbað nheo ]
-
-[NP hana fpveo ]
-
-[AdvP upp aa ]
-
-[AdvP í aa ]
-
-. .
-
-{*SUBJ [NP Konur nvfn ] }
-
-[VP gengu sfg3fþ ]
-
-[AdvP ekki aa ]
-
-[PP í aþ ]
-
-[NP undirkjólum nkfþ ]
-
-, ,
+{*TIMEX [NP 2016 ta ] }
 
 [SCP nema c ]
 
-[AdvP kannski aa ]
-
-[PP í aþ ]
-
-[AP gömlum lvfþsf ]
-
-[NP bíómyndum nvfþ ]
-
-. .
-
-[PP Næst aþe ]
-
-[NP bæti nheþ ]
-
-{*SUBJ [NP ég fp1en ] }
-
-[PP við ao ]
-
-[NP sígarettu nveo ]
-
-[PP í aþ ]
-
-[NP munnstykki nheþ ]
+{*TIMEX [NP 2. ta ] }
 
 [CP og c ]
 
-[NP augnmálningu nveþ ]
+{*TIMEX [NP 11. ta ] }
+
+{*SUBJ [NP gr. nven ] }
 
 [SCP sem ct ]
 
-[VP teygir sfg3en ]
+[VP tóku sfg3fþ ]
 
-[NP sig fpveo ]
+[NP gildi nheo ]
 
-[AdvP langt aa ]
+{*TIMEX [NP 22. ta ] }
 
-[AdvP út aa ]
+[NP júní nkeo ]
 
-[PP á ao ]
+{*TIMEX [NP 2016 ta ] }
 
-[NP gagnaugun nhfog ]
-
-, ,
-
-[VP hugsaði sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-. .
-
-{*SUBJ [NP Hann nken-s ] }
-
-[VP klæjaði sfg3eþ ]
-
-[PP í ao ]
-
-[NP hársvörðinn nkeog ]
-
-[PP undan aþ ]
-
-[NP draslinu nheþg ]
-
-[PP úr aþ ]
-
-[NP perustæðinu nheþg ]
+) )
 
 [CP og c ]
 
-[VP hugleiddi sfg3eþ ]
+{*QUAL [NP l. nhfe ] }
 
-að cn
+{*TIMEX [NP 102/2016 ta ] }
 
-[VPi fara sng ]
+( (
 
-[AdvP aftur aa ]
+[VP tóku sfg3fþ ]
 
-[PP í ao ]
+{*SUBJ [NP gildi nhfn ] }
 
-[NP sturtu nveo ]
+{*TIMEX [NP 1. ta ] }
 
-. .
-
-[VPb Var sfg3eþ ]
-
-[AdvP ekki aa ]
-
-{*SUBJ [NP eitthvert fohen ] }
-
-{*SUBJ [NP annað fohen ] }
-
-{*SUBJ [NP skítverk nhen ] }
-
-[SCP sem ct ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP gat sfg3eþ ]
-
-[VPs unnið ssg ]
-
-[SCP fyrst c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VPb var sfg3eþ ]
-
-[SCP hvort c ]
-
-[SCP sem c ]
-
-[VPb er sfg3en ]
-
-{*COMP [VPp orðinn sþgken ] }
-
-[AdvP svona aa ]
-
-{*COMP [AP óhreinn lkensf ] }
-
-? ?
-
-[InjP Jú au ]
-
-, ,
-
-{*SUBJ [NP hann fpken ] }
-
-[VP þurfti sfg3eþ ]
-
-að cn
-
-[VPi þrífa sng ]
-
-[NP baðherbergið nheog ]
-
-, ,
-
-[AdvP sérstaklega aa ]
-
-[NP vaskinn nkeog ]
-
-[CP og c ]
-
-{*SUBJ [NP klósettið nheng ] }
-
-. .
-
-[CP En c ]
-
-[AdvP fyrst aae ]
-
-[VPb væri svg3eþ ]
-
-{*SUBJ [NP ráð nhen ] }
-
-að cn
-
-[VPi skipta sng ]
-
-[PP um ao ]
-
-[NP peru nveo ]
-
-[AdvP inni aa ]
-
-[PP í aþ ]
-
-[NP svefnherbergi nheþ ]
-
-, ,
-
-[SCP þótt c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP myndi svg3eþ ]
-
-[AdvP varla aa ]
-
-[PP til ae ]
-
-{*QUAL [NP þess fphee ] }
-
-að cn
-
-[VPi hafa sng ]
-
-[VPs kveikt ssg ]
-
-[AdvP þar aa ]
-
-[AP ljós lhfosf ]
-
-[PP frá aþ ]
-
-[NP því fpheþ ]
-
-[SCP að c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP flutti sfg3eþ ]
-
-[PP í ao ]
-
-[NP húsið nheog ]
-
-. .
-
-[PP Í aþ ]
-
-[NP svefnherberginu nheþg ]
-
-[VPb var sfg3eþ ]
-
-{*SUBJ [NP enginn foken ] }
-
-{*SUBJ [NP stóll nken ] }
-
-[SCP sem ct ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP gat sfg3eþ ]
-
-[VPs stigið ssg ]
-
-[AdvP upp aa ]
-
-[AdvP á aa ]
-
-, ,
-
-[AdvP aðeins aa ]
-
-[AP óhreinatauskarfan lkeosf ]
-
-[AdvP úr aa ]
-
-[VP basti sfg3eþ ]
-
-[SCP sem ct ]
-
-[VP náði sfg3eþ ]
-
-[NP honum fpkeþ ]
-
-[AdvP upp aa ]
-
-[PP á ao ]
-
-[NP mið nheo ]
-
-[VP læri svg3en ]
-
-. .
-
-{*COMP [AP Mjúkur lkensf ] }
-
-{*SUBJ [NP efniviðurinn nkeng ] }
-
-[VP gerði sfg3eþ ]
-
-[PP að aþ ]
-
-[NP verkum nhfþ ]
-
-[SCP að c ]
-
-{*SUBJ [NP hún fpven ] }
-
-[VPb var sfg3eþ ]
-
-[AdvP ekki aa ]
-
-[AdvP mjög aa ]
-
-{*COMP [AP stöðug lvensf ] }
-
-, ,
-
-[CP en c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP hlyti svg3eþ ]
-
-að cn
-
-[VPi geta sng ]
-
-[VPs haldið ssg ]
-
-[NP jafnvægi nheo ]
-
-[SCP ef c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP vandaði svg3eþ ]
-
-[NP sig fpkeo ]
-
-. .
-
-{*SUBJ [NP Hann nken-s ] }
-
-[VP ýtti sfg3eþ ]
-
-[NP nokkrum fohfþ ]
-
-[NP sinnum nhfþ ]
-
-[PP á ao ]
-
-[NP rofann nkeog ]
-
-, ,
-
-[PP án ae ]
-
-{*QUAL [NP þess fphee ] }
-
-að cn
-
-[VPi hafa sng ]
-
-[NP hugmynd nveo ]
-
-[PP um ao ]
-
-[SCP hvort c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VPb væri svg3eþ ]
-
-að cn
-
-[VPi kveikja sng ]
-
-[CP eða c ]
-
-[VPi slökkva sng ]
-
-. .
-
-{*SUBJ [NP Ugla nven ] }
-
-[VP sat sfg3eþ ]
-
-[PP á aþ ]
-
-[NP kvisti nkeþ ]
-
-, ,
-
-[VP tautaði sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-[CP og c ]
-
-[VP slökkti sfg3eþ ]
-
-[CP eða c ]
-
-[VP kveikti sfg3eþ ]
-
-[PP með aþ ]
-
-[NP hverju foheþ ]
-
-[NP orði nheþ ]
-
-. .
-
-[VP Átti sfg3eþ ]
-
-[NP börn nhfo ]
-
-[CP og c ]
-
-[VP missti sfg3eþ ]
-
-; ;
-
-{*SUBJ [NP eitt tfhen ] }
-
-, ,
-
-{*SUBJ [NP tvö tfhfn ] }
-
-, ,
-
-{*SUBJ [NP þrjú tfhfn ] }
-
-[CP og c ]
-
-{*SUBJ [NP það fphen ] }
-
-[VPb varst sfg2eþ ]
-
-{*SUBJ [NP þú fp2en ] }
-
-. .
-
-[AdvP Þá aa ]
-
-[VP stillti sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-[NP körfunni nveþg ]
-
-[AdvP upp aa ]
-
-[PP á aþ ]
-
-[AP miðju lheþsf ]
-
-[NP gólfi nheþ ]
-
-, ,
-
-[VP klofaði sfg3eþ ]
-
-[AdvP upp aa ]
-
-[PP á ao ]
-
-[NP hana fpveo ]
-
-[CP og c ]
-
-{*SUBJ [NP fæturnir nkfng ] }
-
-[VP skulfu sfg3fþ ]
-
-[PP undir aþ ]
-
-[NP honum fpkeþ ]
-
-[AdvP eins aa ]
-
-[CP og c ]
-
-[PP á aþ ]
-
-[AP nýfæddu lheþsf ]
-
-[NP folaldi nheþ ]
-
-[SCP þegar c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP bjóst sfg2eþ ]
-
-[PP til ae ]
-
-að cn
-
-[VPi endurtaka sng ]
-
-[NP leikinn nkeog ]
-
-[PP frá aþ ]
-
-[NP því fpheþ ]
-
-[AdvP áðan aa ]
-
-; ;
-
-[VP styðja sfg3fn ]
-
-[AdvP þétt aa ]
-
-{*SUBJ [NP við fp1fn ] }
-
-{*COMP [AP handónýtt lhensf ] }
-
-{*SUBJ [NP perustæðið nheng ] }
-
-[AdvP á aa ]
-
-[SCP meðan c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP skrúfaði sfg3eþ ]
-
-[NP peruna nveog ]
-
-[AdvP varlega aa ]
-
-[AdvP úr aa ]
-
-. .
-
-{*SUBJ [NP Skrúfgangurinn nkengs ] }
-
-[VPb var sfg3eþ ]
-
-{*COMP [VPp genginn sþgken ] }
-
-{*COMP [AP hálfa lvenvf ] }
-
-{*SUBJ [NP leið nven ] }
-
-[PP niður ao ]
-
-[SCP þegar c ]
-
-{*COMP [AP blár lkensf ] }
-
-{*SUBJ [NP blossi nken ] }
-
-[VP hljóp sfg3eþ ]
-
-[PP undan aþ ]
-
-[NP fingrunum nkfþg ]
-
-[CP og c ]
-
-{*COMP [AP lamandi lhenof ] }
-
-{*SUBJ [NP höggið nheng ] }
-
-[VP barst sfm3eþ ]
-
-[AdvP niður aa ]
-
-[PP eftir aþ ]
-
-[NP handleggnum nkeþg ]
-
-. .
-
-{*SUBJ [NP Hann nken-s ] }
-
-[VP vissi sfg3eþ ]
-
-[AdvP ekki aa ]
-
-[SCP hvort c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP kastaðist sfm3eþ ]
-
-[PP til ae ]
-
-{*QUAL [NP hliðar nvee ] }
-
-[CP eða c ]
-
-[VP féll sfg3eþ ]
-
-[AdvP beint aa ]
-
-[PP af aþ ]
-
-[NP augum nhfþ ]
-
-, ,
-
-[CP en c ]
-
-{*SUBJ [NP gólfið nheng ] }
-
-[VP kom sfg3eþ ]
-
-[VPg æðandi slg ]
-
-[AdvP upp aa ]
-
-[PP að aþ ]
-
-[NP höfðinu nheþg ]
-
-[PP á aþ ]
-
-[NP honum fpkeþ ]
-
-, ,
-
-[AdvP fullkomlega aa ]
-
-[AP óraunverulegt lheosf ]
-
-[NP gólf nheo ]
-
-, ,
-
-[AP hræódýrt lheosf ]
-
-[NP plastparket nheo ]
-
-. .
-
-[NP Hverjum fskeþ ]
-
-[NP þeim fakeþ ]
-
-[SCP sem ct ]
-
-[VP valdi sfg3eþ ]
-
-[NP þetta faheo ]
-
-{*SUBJ [NP gólfefni nhen ] }
-
-[VP hafði sfg3eþ ]
-
-[AdvP greinilega aa ]
-
-[VPb verið ssg ]
-
-{*QUAL [NP hundsama nkee ] }
-
-[PP um ao ]
-
-[NP húsið nheog ]
-
-[CP og c ]
-
-[AdvP sennilega aa ]
-
-[AdvP jafn aa ]
-
-{*QUAL [NP hundsama nkee ] }
-
-[AdvP um aa ]
-
-[NP sér fpheþ ]
-
-{*COMP [AP ókunnugt lhensf ] }
-
-{*SUBJ [NP fífl nhen ] }
-
-[SCP sem ct ]
-
-[VP átti sfg3eþ ]
-
-[AdvP mögulega aa ]
-
-[AdvP eftir aa ]
-
-að cn
-
-[VPi brjóta sng ]
-
-[PP á aþ ]
-
-[NP sér fpheþ ]
-
-[NP nefið nheog ]
-
-[PP með aþ ]
-
-[NP því fpheþ ]
-
-að cn
-
-[VPi stanga sng ]
-
-[NP gólfið nheog ]
-
-[PP með aþ ]
-
-[NP tilþrifum nhfþ ]
-
-. .
-
-{*SUBJ [NP Hann nken-s ] }
-
-[VP hafði sfg3eþ ]
-
-[AdvP ekki aa ]
-
-[NP einu foheþ ]
-
-[NP sinni nheþ ]
-
-{*QUAL [NP rænu nvee ] }
-
-[PP á aþ ]
-
-að cn
-
-[VPi bera sng ]
-
-[PP fyrir ao ]
-
-[NP sig fpvfo ]
-
-[NP hendurnar nvfog ]
-
-[NP því fpheþ ]
-
-{*SUBJ [NP ekkert fohen ] }
-
-[PP af aþ ]
-
-[NP þessu faheþ ]
-
-[VPb var sfg3eþ ]
-
-[AdvP raunverulega aa ]
-
-að cn
-
-[VPi gerast snm ]
-
-, ,
-
-[AdvP ekki aa ]
-
-[AdvP fyrr aam ]
-
-[CP en c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP heyrði sfg3eþ ]
-
-[NP smellinn nkeog ]
-
-[PP í aþ ]
-
-[NP hnénu nheþg ]
-
-[CP og c ]
-
-[NP bylmingshöggið nheog ]
-
-[SCP þegar c ]
-
-{*COMP [AP efri lkenvm ] }
-
-{*SUBJ [NP hluti nken ] }
-
-{*QUAL [NP líkamans nkeeg ] }
-
-[VP lamdist sfm3eþ ]
-
-[PP í ao ]
-
-[NP gólfið nheog ]
-
-. .
-
-{*SUBJ [NP Ennið nheng ] }
-
-[VP skoppaði sfg3eþ ]
-
-[NP einu foheþ ]
-
-[NP sinni nheþ ]
-
-[PP á aþ ]
-
-[AP lökkuðum lkeþsf ]
-
-[NP fletinum nkeþg ]
-
-[CP og c ]
-
-[AdvP síðan aa ]
-
-[VPb varð sfg3eþ ]
-
-{*SUBJ [NP allt fohen ] }
-
-{*COMP [AP hljótt lhensf ] }
-
-. .
-
-[SCP Nema c ]
-
-{*SUBJ [NP mávarnir nkfng ] }
-
-[VP héldu sfg3fþ ]
-
-[AdvP áfram aa ]
-
-að cn
-
-[VPi gjalla sng ]
-
-[PP fyrir ao ]
-
-[AdvP utan aa ]
-
-[NP gluggann nkeog ]
-
-[CP og c ]
-
-[NP það fpheo ]
-
-[VP skrjáfaði sfg3eþ ]
-
-[AdvP örlítið aa ]
-
-[PP í aþ ]
-
-[NP fötunum nhfþg ]
-
-{*QUAL [NP hans fpkee ] }
-
-[SCP þegar c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP reyndi sfg3eþ ]
-
-að cn
-
-[VPi hreyfa sng ]
-
-[NP sig fpkeo ]
-
-. .
-
-[AdvP Smám aa ]
-
-[AdvP saman aa ]
-
-[VP rýmdi sfg3eþ ]
-
-{*SUBJ [NP sjokkið nheng ] }
-
-[PP fyrir aþ ]
-
-[NP sársaukanum nkeþg ]
-
-; ;
-
-[NP öxl nveo ]
-
-[CP og c ]
-
-{*SUBJ [NP hné nhfn ] }
-
-[VPb kölluðust sfm3fþ ]
-
-[AdvP á aa ]
-
-[AdvP eins aa ]
-
-[CP og c ]
-
-[NP morsvélar nvfo ]
-
-[PP úr aþ ]
-
-[AP fyrra lheþvm ]
-
-[NP stríði nheþ ]
-
-[CP og c ]
-
-{*SUBJ [NP höfuðið nheng ] }
-
-[VPb virtist sfm3eþ ]
-
-[VPs klemmt ssg ]
-
-[PP undir aþ ]
-
-[AP þungu lheþsf ]
-
-[NP fargi nheþ ]
-
-. .
-
-[AP Hægri lveevf ]
-
-{*SUBJ [NP höndin nveng ] }
-
-[VPb var sfg3eþ ]
-
-{*COMP [AP stráheil lvensf ] }
-
-[CP og c ]
-
-[PP með aþ ]
-
-[NP henni fpveþ ]
-
-[VP fálmaði sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-[AdvP út aa ]
-
-[PP í ao ]
-
-[NP tómið nheog ]
-
-[PP fyrir ao ]
-
-[AdvP ofan aa ]
-
-[NP höfuðið nheog ]
-
-[PP til ae ]
-
-að cn
-
-[VPi ganga sng ]
-
-[PP úr aþ ]
-
-[NP skugga nkeþ ]
-
-[PP um ao ]
-
-[SCP að c ]
-
-{*SUBJ [NP fataskápurinn nkeng ] }
-
-[VP hefði svg3eþ ]
-
-[AdvP ekki aa ]
-
-[VPs hrunið ssg ]
-
-[PP yfir ao ]
-
-[NP það fpheo ]
-
-, ,
-
-[CP eða c ]
-
-[AdvP jafnvel aa ]
-
-{*SUBJ [NP veggurinn nkeng ] }
-
-, ,
-
-{*SUBJ [NP þakið nheng ] }
-
-, ,
-
-{*SUBJ [NP himinninn nkeng ] }
-
-. .
-
-{*COMP [AP Vinstri lvenvf ] }
-
-{*SUBJ [NP öxlin nveng ] }
-
-[VP hafði sfg3eþ ]
-
-[VPs tvöfaldast ssm ]
-
-[SCP að c ]
-
-[NP stærð nveo ]
-
-, ,
-
-[CP eða c ]
-
-[VP lá sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-[AdvP ofan aa ]
-
-[PP á aþ ]
-
-[NP einhverju foheþ ]
-
-? ?
-
-[PP Með aþ ]
-
-[NP erfiðismunum nkfþ ]
-
-[VP tókst sfm3eþ ]
-
-[NP honum fpkeþ ]
-
-að cn
-
-[VPi snúa sng ]
-
-[NP höfðinu nheþg ]
-
-[AdvP svo aa ]
-
-[SCP að c ]
-
-[NP nefið nheog ]
-
-, ,
-
-{*COMP [AP óbrotið lhensf ] }
-
-[PP með aþ ]
-
-[NP öllu foheþ ]
-
-, ,
-
-[VP nam sfg3eþ ]
-
-[PP við ao ]
-
-[AP þykkan lkeosf ]
-
-[NP bókarkjöl nkeo ]
-
-[CP og c ]
-
-[NP augun nhfog ]
-
-{*COMP [AP strituðu lhfnvf ] }
-
-[PP við ao ]
-
-að cn
-
-[VPi ná sng ]
-
-[AP tvöföldum lkfþsf ]
-
-, ,
-
-[AP þokukenndum lkfþsf ]
-
-[NP bókstöfum nkfþ ]
-
-[PP í ao ]
-
-[NP fókus nkeo ]
-
-[AP r lkeoof ]
-
-... ...
-
-[VP man sfg1en ]
-
-, ,
-
-[VP las sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-. .
-
-[NP Sherman nxeo-s ]
-
-. .
-
-{*SUBJ [NP Þetta fahen ] }
-
-[VPb var sfg3eþ ]
-
-{*COMP [AP þykkur lkensf ] }
-
-{*SUBJ [NP hnullungur nken ] }
-
-[PP með aþ ]
-
-[NP úrvali nheþ ]
-
-[VPi mynda sng ]
-
-[PP eftir ao ]
-
-[NP ljósmyndarann nkeog ]
-
-[NP Cindy nkeo-s ]
-
-[NP Sherman nxeþ-s ]
-
-. .
-
-[NP Bók nveþ ]
-
-[SCP sem ct ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP hafði sfg3eþ ]
-
-[VPs keypt ssg ]
-
-[PP á aþ ]
-
-[NP ferðalagi nheþ ]
-
-[AP mörgum lhfþsf ]
-
-[NP árum nhfþ ]
-
-[AdvP fyrr aam ]
-
-, ,
-
-[VP burðast sfm3en ]
-
-[PP með ao ]
-
-[NP hana fpveo ]
-
-[NP heim nkeo ]
-
-[CP og c ]
-
-[AdvP síðan aa ]
-
-[AdvP varla aa ]
-
-[VPs litið ssg ]
-
-[PP í ao ]
-
-[NP hana fpveo ]
-
-. .
-
-{*SUBJ [NP Hvað fshen ] }
-
-[VPb var sfg3eþ ]
-
-{*SUBJ [NP hún fpven ] }
-
-að cn
-
-[VPi gera sng ]
-
-[PP á aþ ]
-
-[NP gólfinu nheþg ]
-
-? ?
-
-{*SUBJ [NP Þær fpvfn ] }
-
-[SCP sem ct ]
-
-[AdvP ekki aa ]
-
-{*QUAL [NP hryggbrjóta nkfe ] }
-
-[NP mann nkeo ]
-
-[VP sæta sfg3fn ]
-
-{*SUBJ [NP færi nhen ] }
-
-að cn
-
-[VPi viðbeinsbrjóta sng ]
-
-[NP mann nkeo ]
-
-, ,
-
-{*SUBJ [NP sama fbhen ] }
-
-[SCP þótt c ]
-
-{*SUBJ [NP maður nken ] }
-
-[VP þekki svg3en ]
-
-[NP þær fpvfo ]
-
-[AdvP ekki aa ]
-
-[NP neitt foheo ]
-
-, ,
-
-[VP hugsaði sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-, ,
-
-[AdvP gersamlega aa ]
-
-[AdvP út aa ]
-
-[PP í ao ]
-
-[NP hött nkeo ]
-
-. .
-
-{*SUBJ [NP Hann nken-s ] }
-
-[VP vissi sfg3eþ ]
-
-[AdvP ekki aa ]
-
-[AdvP hversu aa ]
-
-[AdvP lengi aa ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP lá sfg3eþ ]
-
-[AdvP þarna aa ]
-
-[AdvP áður aa ]
-
-[CP en c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP reyndi sfg3eþ ]
-
-að cn
-
-[VPi brölta sng ]
-
-[PP á ao ]
-
-[NP fætur nkfo ]
-
-, ,
-
-[CP en c ]
-
-[VP hafði sfg3eþ ]
-
-[PP á aþ ]
-
-[NP tilfinningunni nveþg ]
-
-[SCP að c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP hefði svg3eþ ]
-
-[VPs dreymt ssg ]
-
-[NP fjöldann nkeog ]
-
-[NP allan fokeo ]
-
-[PP af aþ ]
-
-[AP ruglingslegum lkfþsf ]
-
-[NP draumum nkfþ ]
-
-[PP milli ae ]
-
-{*QUAL [NP svefns nkee ] }
-
-[CP og c ]
-
-{*QUAL [NP vöku nvee ] }
-
-[CP og c ]
-
-[VPs gleymt ssg ]
-
-[NP þeim fphfþ ]
-
-[AdvP jafnóðum aa ]
-
-. .
-
-[AdvP Aftur aa ]
-
-[CP og c ]
-
-[AdvP aftur aa ]
-
-[VP reyndi sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-að cn
-
-[VPi tylla sng ]
-
-[PP niður ao ]
-
-[AP hægri lkeþvf ]
-
-[NP fæti nkeþ ]
-
-, ,
-
-[CP en c ]
-
-{*SUBJ [NP sársaukinn nkeng ] }
-
-[VP læsti sfg3eþ ]
-
-[NP sig fpkeo ]
-
-[AdvP upp aa ]
-
-[PP í aþ ]
-
-[NP nára nkeþ ]
-
-[CP og c ]
-
-[VP fyllti sfg3eþ ]
-
-[NP hausinn nkeog ]
-
-[PP af aþ ]
-
-[AP brennheitri lveþsf ]
-
-[NP gufu nveþ ]
-
-- -
-
-[VP lamaði sfg3eþ ]
-
-[NP hugsunina nveog ]
-
-[CP og c ]
-
-[VP gerði sfg3eþ ]
-
-[NP hann fpkeo ]
-
-[AdvP enn aa ]
-
-[AdvP meira aam ]
-
-{*COMP [AP ósjálfbjarga lkenof ] }
-
-. .
-
-[CP Og c ]
-
-[AdvP þarna aa ]
-
-[VP stóð sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-[PP á aþ ]
-
-[NP öðrum fokeþ ]
-
-[NP fæti nkeþ ]
-
-- -
-
-{*COMP [AP búinn lkensf ] }
-
-að cn
-
-[VPi fullvissa sng ]
-
-[NP sig fpvfo ]
-
-[PP um ao ]
-
-[SCP að c ]
-
-{*SUBJ [NP ekkert fohen ] }
-
-[VP þýddi sfg3eþ ]
-
-að cn
-
-[VPi stíga sng ]
-
-[PP í ao ]
-
-[NP hinn fakeo ]
-
-- -
-
-[VP hoppaði sfg3eþ ]
-
-[AdvP eins aa ]
-
-[CP og c ]
-
-[AP hálfa lveosf ]
-
-[NP skreflengd nveo ]
-
-[PP í aþ ]
-
-[NP átt nveþ ]
-
-[PP að aþ ]
-
-[NP dyrunum nvfþg ]
-
-[CP og c ]
-
-[VP sortnaði sfg3eþ ]
-
-[PP fyrir aþ ]
-
-[NP augum nhfþ ]
-
-[PP af aþ ]
-
-[NP sársauka nkeþ ]
-
-[SCP sem ct ]
-
-[PP að aþ ]
-
-[NP þessu faheþ ]
-
-[NP sinni nheþ ]
-
-[VP barði sfg3eþ ]
-
-{*SUBJ [NP herðablaðið nheng ] }
-
-[AdvP eins aa ]
-
-[CP og c ]
-
-[AP stiknandi lheþof ]
-
-[NP trumbu nheþg ]
-
-. .
-
-{*SUBJ [NP Hann nken-s ] }
-
-[VP flýtti sfg3eþ ]
-
-[NP sér fpkeþ ]
-
-að cn
-
-[VPi leggjast snm ]
-
-[AdvP niður aa ]
-
-[AdvP áður aa ]
-
-[CP en c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP missti sfg3eþ ]
-
-[NP jafnvægið nheog ]
-
-[PP að aþ ]
-
-[AP nýju lheþsf ]
-
-, ,
-
-[VP lagðist sfm3eþ ]
-
-[PP á ao ]
-
-[NP gólfið nheog ]
-
-[AdvP gersamlega aa ]
-
-{*COMP [AP viðþolslaus lkensf ] }
-
-[CP og c ]
-
-{*COMP [AP máttlaus lkensf ] }
-
-[CP og c ]
-
-[VP reyndi sfg3eþ ]
-
-að cn
-
-[VPi nota sng ]
-
-[NP höfuðið nheog ]
-
-. .
-
-[VPi Hugsa sng ]
-
-. .
-
-[AdvP Hvar aa ]
-
-[VPb var sfg3eþ ]
-
-{*SUBJ [NP síminn nkeng ] }
-
-? ?
-
-{*SUBJ [NP Síminn nkeng ] }
-
-[VPb var sfg3eþ ]
-
-[PP á aþ ]
-
-[NP eldhúsborðinu nheþg ]
-
-. .
-
-{*SUBJ [NP Hann nken-s ] }
-
-[VP hafði sfg3eþ ]
-
-[VPs tekið ssg ]
-
-[NP hann fpkeo ]
-
-[PP úr aþ ]
-
-[NP rassvasanum nkeþg ]
-
-[PP til ae ]
-
-að cn
-
-[VPi rýma sng ]
-
-[PP fyrir aþ ]
-
-[NP ljósaperunum nvfþg ]
-
-. .
-
-{*COMP [AP Nýja lvenvf ] }
-
-{*SUBJ [NP peran nveng ] }
-
-[PP í ao ]
-
-[NP annan fokeo ]
-
-[NP vasann nkeog ]
-
-, ,
-
-{*QUAL [NP sprungna nvfe ] }
-
-{*SUBJ [NP peran nveng ] }
-
-[PP í ao ]
-
-[NP hinn fakeo ]
-
-. .
-
-[VPb Var sfg3eþ ]
-
-{*SUBJ [NP það fphen ] }
-
-[AdvP ekki aa ]
-
-{*COMP [AP bráðsnjallt lhensf ] }
-
-[PP hjá aþ ]
-
-[NP honum fpkeþ ]
-
-? ?
-
-[AdvP Nú aa ]
-
-[VPb var sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-[AdvP hér aa ]
-
-- -
-
-[VPg veltandi slg ]
-
-[NP sér fpkeþ ]
-
-[PP á aþ ]
-
-[AP rykugu lheþsf ]
-
-[NP gólfinu nheþg ]
-
-[AdvP innan aa ]
-
-[PP um ao ]
-
-[AP óhrein lhfosf ]
-
-[NP föt nhfo ]
-
-[SCP sem ct ]
-
-[VPs oltið ssg ]
-
-[VP höfðu sfg3fþ ]
-
-[PP úr aþ ]
-
-[NP körfunni nveþg ]
-
-[SCP þegar c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP tók sfg3eþ ]
-
-[NP hana fpveo ]
-
-[PP með aþ ]
-
-[NP sér fpkeþ ]
-
-[PP í aþ ]
-
-[NP fallinu nheþg ]
-
-- -
-
-[CP en c ]
-
-{*SUBJ [NP síminn nkeng ] }
-
-[VPb var sfg3eþ ]
-
-[AdvP þar aa ]
-
-, ,
-
-[PP í aþ ]
-
-[NP þessari faveþ ]
-
-{*QUAL [NP líka nvfe ] }
-
-[NP órafjarlægð nveþ ]
-
-. .
-
-{*SUBJ [NP Hann nken-s ] }
-
-[VP reyndi sfg3eþ ]
-
-að cn
-
-[VPi tæma sng ]
-
-[NP hugann nkeog ]
-
-[PP í aþ ]
-
-[NP von nveþ ]
-
-[PP um ao ]
-
-að cn
-
-[VPi geta sng ]
-
-[AdvP þá aa ]
-
-[VPs einbeitt ssg ]
-
-[NP sér fpkeþ ]
-
-[AdvP betur aam ]
-
-, ,
-
-[CP en c ]
-
-{*SUBJ [NP sortinn nkeng ] }
-
-[VP læddist sfm3eþ ]
-
-[PP að aþ ]
-
-[NP augunum nhfþg ]
-
-[CP og c ]
-
-[PP í aþ ]
-
-[NP draumum nkfþ ]
-
-[NP sínum fekfþ ]
-
-[VP dróst sfm3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-[PP með aþ ]
-
-[NP veggjum nkfþ ]
-
-[PP í aþ ]
-
-[AP ókunnugu lheþsf ]
-
-[NP húsi nheþ ]
-
-, ,
-
-{*SUBJ [NP annar foken ] }
-
-{*SUBJ [NP fóturinn nkeng ] }
-
-[AdvP af aa ]
-
-[PP við ao ]
-
-[NP hné nhfo ]
-
-, ,
-
-{*COMP [AP svart lhensf ] }
-
-{*SUBJ [NP blóðið nheng ] }
-
-[VP draup sfg3eþ ]
-
-[PP úr aþ ]
-
-[NP honum fpkeþ ]
-
-[CP og c ]
-
-{*SUBJ [NP handleggurinn nkeng ] }
-
-[AdvP eins aa ]
-
-[CP og c ]
-
-{*QUAL [NP kjötfars nhee ] }
-
-[AdvP innan aa ]
-
-[PP í aþ ]
-
-[AP gegndrepa lveþof ]
-
-[NP skyrtuerminni nveþg ]
-
-[SCP sem ct ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP þorði sfg3eþ ]
-
-[AdvP ekki aa ]
-
-að cn
-
-[VPi bretta sng ]
-
-[AdvP upp aa ]
-
-[AdvP á aa ]
-
-, ,
-
-{*SUBJ [NP hann fpken ] }
-
-[VP þorði sfg3eþ ]
-
-[AdvP ekki aa ]
-
-[NP einu foheþ ]
-
-[NP sinni nheþ ]
-
-að cn
-
-[VPi líta sng ]
-
-[PP í ao ]
-
-[NP áttina nveog ]
-
-[PP að aþ ]
-
-[NP þessu faheþ ]
-
-[NP slytti nheþ ]
-
-[SCP sem ct ]
-
-{*SUBJ [NP lafði nven ] }
-
-[PP við ao ]
-
-[NP síðuna nveog ]
-
-[AdvP eins aa ]
-
-[CP og c ]
-
-{*SUBJ [NP hver foken ] }
-
-{*SUBJ [NP annar foken ] }
-
-{*SUBJ [NP viðbjóður nken ] }
-
-[AdvP utan aa ]
-
-[PP úr aþ ]
-
-[NP geimnum nkeþg ]
-
-. .
-
-{*SUBJ [NP Hann nken-s ] }
-
-[VP langaði sfg3eþ ]
-
-að cn
-
-[VPi slíta sng ]
-
-{*SUBJ [NP hann fpken ] }
-
-[PP af aþ ]
-
-[NP sér fpheþ ]
-
-. .
-
-[AdvP Kannski aa ]
-
-[VPb var sfg3eþ ]
-
-{*SUBJ [NP það fphen ] }
-
-[AdvP þannig aa ]
-
-[SCP sem ct ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP missti sfg3eþ ]
-
-[NP fótinn nkeog ]
-
-. .
-
-{*SUBJ [NP Hann nken-s ] }
-
-[VP hafði sfg3eþ ]
-
-[VPs fengið ssg ]
-
-[NP viðbjóð nkeo ]
-
-[PP á aþ ]
-
-[NP honum fpkeþ ]
-
-[CP og c ]
-
-[VPs losað ssg ]
-
-[NP sig fpheo ]
-
-[PP við ao ]
-
-[NP hann fpkeo ]
-
-. .
-
-{*SUBJ [NP Hvert fohen ] }
-
-[VPb var sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-að cn
-
-[VPi fara sng ]
-
-? ?
-
-[InjP Jú au ]
-
-, ,
-
-{*SUBJ [NP hann fpken ] }
-
-[VPb var sfg3eþ ]
-
-að cn
-
-[VPi leita sng ]
-
-[PP að aþ ]
-
-[NP símanum nkeþg ]
-
-[SCP sem ct ]
-
-[VP hringdi sfg3eþ ]
-
-[AdvP látlaust aa ]
-
-[PP í aþ ]
-
-[NP öðru foheþ ]
-
-[NP herbergi nheþ ]
-
-. .
-
-[CP Eða c ]
-
-[VPi reyna sng ]
-
-að cn
-
-[VPi finna sng ]
-
-[NP baðherbergið nheog ]
-
-. .
-
-{*SUBJ [NP Djöfull nken ] }
-
-[VPb var sfg3eþ ]
-
-[NP honum fpkeþ ]
-
-{*SUBJ [NP mál nhen ] }
-
-að cn
-
-[VPi komast snm ]
-
-[PP á ao ]
-
-[NP klósettið nheog ]
-
-. .
-
-{*SUBJ [NP Hann nken-s ] }
-
-[VP lagði sfg3eþ ]
-
-[NP höndina nveog ]
-
-[PP á ao ]
-
-[NP sig fpkeo ]
-
-[AP miðjan lkeosf ]
-
-[CP og c ]
-
-[VP fann sfg3eþ ]
-
-[SCP að c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VPb var sfg3eþ ]
-
-[NP kviðslitinn nkeog ]
-
-, ,
-
-[VP fann sfg3eþ ]
-
-[PP fyrir aþ ]
-
-[NP iðrunum nhfþg ]
-
-[PP fyrir ao ]
-
-[AdvP innan aa ]
-
-[NP skyrtuna nveog ]
-
-[CP og c ]
-
-[AdvP vonandi aa ]
-
-[NP húðina nveog ]
-
-, ,
-
-[VP reyndi sfg3eþ ]
-
-að cn
-
-[VPi halda sng ]
-
-[PP við ao ]
-
-[NP þau fphfo ]
-
-[PP eftir aþ ]
-
-[AP bestu lveþve ]
-
-[NP getu nveþ ]
-
-[AdvP á aa ]
-
-[SCP meðan c ]
-
-{*SUBJ [NP skelfingin nveng ] }
-
-[VP náði sfg3eþ ]
-
-[AP algerum lvfþsf ]
-
-[NP tökum nvfþ ]
-
-[PP á aþ ]
-
-[NP honum fpkeþ ]
-
-[CP og c ]
-
-[VP máði sfg3eþ ]
-
-[AdvP út aa ]
-
-[NP alla foveo ]
-
-[NP hugsun nveo ]
-
-[SCP nema c ]
-
-[AdvP þá aa ]
-
-[SCP að c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP vildi sfg3eþ ]
-
-[AdvP ekki aa ]
-
-[VPb vera sng ]
-
-{*COMP [AP einn lkensf ] }
-
-. .
-
-[PP Fyrir ao ]
-
-[NP alla fokfo ]
-
-[NP muni nkfo ]
-
-. .
-
-{*SUBJ [NP Dauðinn nkeng ] }
-
-[VP skipti sfg3eþ ]
-
-[NP engu foheþ ]
-
-[NP máli nheþ ]
-
-, ,
-
-[AdvP bara aa ]
-
-[SCP ef c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP þyrfti svg3eþ ]
-
-[AdvP ekki aa ]
-
-að cn
-
-[VPi deyja sng ]
-
-{*COMP [AP einn lkensf ] }
-
-. .
-
-{*QUAL [NP Hvers fshee ] }
-
-[PP vegna ae ]
-
-[VPb var sfg3eþ ]
-
-{*SUBJ [NP enginn foken ] }
-
-[AdvP hér aa ]
-
-[PP til ae ]
-
-að cn
-
-[VPi hjálpa sng ]
-
-[NP honum fpkeþ ]
-
-? ?
-
-... ...
-
-{*COMP [AP búinn lkensf ] }
-
-að cn
-
-[VPi hringja sng ]
-
-[PP á ao ]
-
-[NP sjúkrabíl nkeo ]
-
-, ,
-
-[VP sagði sfg3eþ ]
-
-{*SUBJ [NP einhver foken ] }
-
-[PP með aþ ]
-
-[NP ákefð nveþ ]
-
-[PP í aþ ]
-
-[NP röddinni nveþg ]
-
-[CP og c ]
-
-[VP snerti sfg3eþ ]
-
-[NP ennið nheog ]
-
-[PP á aþ ]
-
-[NP honum fpkeþ ]
-
-, ,
-
-[VP lagði sfg3eþ ]
-
-[NP tvo tfkfo ]
-
-[AP skjálfandi lkfoof ]
-
-[NP fingur nkfo ]
-
-[PP á ao ]
-
-{*QUAL [NP slagæðina nhfeg ] }
-
-[PP á aþ ]
-
-[NP hálsinum nkeþg ]
-
-, ,
-
-[AdvP sjálfsagt aa ]
-
-[PP til ae ]
-
-að cn
-
-[VPi athuga sng ]
-
-[NP púlsinn nkeog ]
-
-. .
-
-{*SUBJ [NP Sveinn nken-s ] }
-
-[VP barði sfg3eþ ]
-
-[PP frá aþ ]
-
-[NP sér fpkeþ ]
-
-[NP þessa faveo ]
-
-[AP káfandi lveoof ]
-
-[NP lúku nveo ]
-
-. .
-
-{*SUBJ [NP Ég fp1en ] }
-
-[VPb er sfg1en ]
-
-[AdvP ekki aa ]
-
-{*COMP [AP dauður lkensf ] }
-
-[AdvP ennþá aa ]
-
-, ,
-
-{*SUBJ [NP helvítið nheng ] }
-
-{*SUBJ [NP þitt fehen ] }
-
-, ,
-
-[VP heyrði sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-[NP sjálfan fbkeo ]
-
-[NP sig fpkeo ]
-
-[VPi segja sng ]
-
-. .
-
-[AdvP Ekki aa ]
-
-[VPi snerta sng ]
-
-[NP mig fp1eo ]
-
-. .
-
-[NP Mér fp1eþ ]
-
-[VP býður sfg3en ]
-
-[PP við aþ ]
-
-[NP þér fp2eþ ]
-
-. .
-
-{*SUBJ [NP Hvað fshen ] }
-
-[VP heitirðu sfg2en ]
-
-? ?
-
-L x
-
-... ...
-
-[NP Lárus nkeo-s ]
-
-, ,
-
-[VP sagði sfg3eþ ]
-
-{*SUBJ [NP drengurinn nkeng ] }
-
-- -
-
-{*SUBJ [NP þessi faken ] }
-
-[SCP sem ct ]
-
-[VP hafði sfg3eþ ]
-
-[VPs gefið ssg ]
-
-[NP sig fpkeo ]
-
-[PP á ao ]
-
-[NP tal nheo ]
-
-[PP við ao ]
-
-[NP hann fpkeo ]
-
-[PP í aþ ]
-
-[NP búðinni nveþg ]
-
-[AdvP fyrr aam ]
-
-[PP um ao ]
-
-[NP daginn nkeog ]
-
-. .
-
-{*SUBJ [NP Bíllinn nkeng ] }
-
-[VPb er sfg3en ]
-
-[PP á aþ ]
-
-[NP leiðinni nveþg ]
-
-. .
-
-[AdvP Ekki aa ]
-
-[VPi hreyfa sng ]
-
-[NP þig fp2eo ]
-
-[CP eða c ]
-
-[VPi tala sng ]
-
-. .
-
-{*SUBJ [NP Hún fpven ] }
-
-[VP sagði sfg3eþ ]
-
-[SCP að c ]
-
-{*SUBJ [NP það fphen ] }
-
-[VP mætti svg3eþ ]
-
-[AdvP ekki aa ]
-
-[VPi hreyfa sng ]
-
-[NP þig fp2eo ]
-
-, ,
-
-{*SUBJ [NP konan nveng ] }
-
-[PP í aþ ]
-
-[NP símanum nkeþg ]
-
-, ,
-
-[VP bætti sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-[AdvP við aa ]
-
-, ,
-
-{*COMP [AP víbrandi lkenof ] }
-
-[PP af aþ ]
-
-[NP einhverju foheþ ]
-
-[SCP sem ct ]
-
-{*SUBJ [NP Sveinn nken-s ] }
-
-[VP kom sfg3eþ ]
-
-[AdvP ekki aa ]
-
-[PP fyrir ao ]
-
-[NP sig fpkeo ]
-
-[CP en c ]
-
-[SCP sem ct ]
-
-[VP gerði sfg3eþ ]
-
-[NP hann fpkeo ]
-
-[AP sjóðandi lkeoof ]
-
-[AP brjálaðan lkeosf ]
-
-. .
-
-[InjP Jú au ]
-
-, ,
-
-{*SUBJ [NP það fphen ] }
-
-[VPb var sfg3eþ ]
-
-{*SUBJ [NP spenna nven ] }
-
-. .
-
-[NP Drengnum nkeþg ]
-
-[VP fannst sfm3eþ ]
-
-{*SUBJ [NP þetta fahen ] }
-
-{*COMP [AP spennandi lhenof ] }
-
-. .
-
-[AdvP Nú aa ]
-
-[VP fékk sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-að cn
-
-[VPi leika sng ]
-
-[NP hetju nveþ ]
-
-. .
-
-[VPi Bjarga sng ]
-
-[NP málunum nhfþg ]
-
-. .
-
-{*SUBJ [NP Hann nken-s ] }
-
-[VP myndi svg3eþ ]
-
-[AdvP sjálfsagt aa ]
-
-[AdvP helst aae ]
-
-[VPi vilja sng ]
-
-[SCP að c ]
-
-{*SUBJ [NP þeir fpkfn ] }
-
-[VPb væru svg3fþ ]
-
-[AdvP úti aa ]
-
-[PP í aþ ]
-
-[NP óbyggðum nvfþ ]
-
-[CP og c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP þyrfti svg3eþ ]
-
-{*SUBJ [NP sjálfur fbken ] }
-
-að cn
-
-[VPi binda sng ]
-
-[PP um ao ]
-
-[NP sárin nhfog ]
-
-. .
-
-[VPi Finna sng ]
-
-[NP trjágrein nveo ]
-
-[PP til ae ]
-
-að cn
-
-[VPi nota sng ]
-
-[PP fyrir ao ]
-
-[NP spelku nveo ]
-
-, ,
-
-[VP rífa sfg3fn ]
-
-[NP skyrtuna nveog ]
-
-[NP sína feveo ]
-
-{*SUBJ [NP niður nken ] }
-
-[PP í ao ]
-
-[NP sárabindi nheo ]
-
-. .
-
-{*SUBJ [NP Það fphen ] }
-
-[VPb var sfg3eþ ]
-
-[AdvP þó aa ]
-
-{*SUBJ [NP bót nven ] }
-
-[PP í aþ ]
-
-[NP máli nheþ ]
-
-[SCP að c ]
-
-{*SUBJ [NP þeir fpkfn ] }
-
-[VPb voru sfg3fþ ]
-
-[AdvP ekki aa ]
-
-[PP í aþ ]
-
-[NP óbyggðum nvfþ ]
-
-[CP heldur c ]
-
-[AdvP hér aa ]
-
-[PP í aþ ]
-
-[NP siðmenningunni nveþg ]
-
-[CP og c ]
-
-{*SUBJ [NP drengurinn nkeng ] }
-
-[VP fengi svg3eþ ]
-
-[AdvP ekki aa ]
-
-að cn
-
-[VPi gera sng ]
-
-[NP sig fpkeo ]
-
-[AP breiðan lkeosf ]
-
-[PP á ao ]
-
-{*QUAL [NP hans fpkee ] }
-
-[NP kostnað nkeo ]
-
-. .
-
-{*COMP [AP Eini lkenvf ] }
-
-{*SUBJ [NP hetjuskapurinn nkeng ] }
-
-[SCP sem ct ]
-
-[NP honum fpkeþ ]
-
-[VP hlotnaðist sfm3eþ ]
-
-[VPb var sfg3eþ ]
-
-að cn
-
-[VPi hringja sng ]
-
-[PP á ao ]
-
-[NP sjúkrabíl nkeo ]
-
-[CP og c ]
-
-[VPi láta sng ]
-
-[NP einhverja foveo ]
-
-[NP símadömu nveo ]
-
-[VPi segja sng ]
-
-[NP sér fpkeþ ]
-
-[PP fyrir aþ ]
-
-[NP verkum nhfþ ]
-
-. .
-
-{*SUBJ [NP Kuldinn nkeng ] }
-
-[CP og c ]
-
-{*SUBJ [NP sársaukinn nkeng ] }
-
-[VP kepptu svg3fþ ]
-
-[PP um ao ]
-
-[NP athygli nveo ]
-
-{*QUAL [NP Sveins nkee-s ] }
-
-. .
-
-[NP Honum fpkeþ ]
-
-[VPb var sfg3eþ ]
-
-[AdvP sérstaklega aa ]
-
-{*COMP [AP kalt lhensf ] }
-
-[PP á aþ ]
-
-[AP neðri lkeþvm ]
-
-[NP helmingi nkeþ ]
-
-{*QUAL [NP líkamans nkeeg ] }
-
-, ,
-
-[AdvP eins aa ]
-
-[CP og c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP lægi svg3eþ ]
-
-{*COMP [AP hálfur lkensf ] }
-
-[PP í aþ ]
-
-[NP snjóskafli nkeþ ]
-
-. .
-
-{*SUBJ [NP Hann nken-s ] }
+{*SUBJ [NP jan. nken ] }
 
-[VP lyfti sfg3eþ ]
+{*TIMEX [NP 2017 ta ] }
 
-[NP höfðinu nheþg ]
+) )
 
-[CP og c ]
-
-[VP fann sfg3eþ ]
-
-[PP um ao ]
-
-[NP leið nveo ]
-
-[SCP að c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VPb var sfg3eþ ]
-
-{*COMP [VPp kominn sþgken ] }
-
-[PP með ao ]
-
-[AP dúndrandi lkfoof ]
-
-[NP hausverk nkfo ]
-
-, ,
-
-[NP leit nveo ]
-
-[AdvP niður aa ]
-
-[PP eftir aþ ]
-
-[NP sér fpkeþ ]
-
-[CP og c ]
-
-[SCP þegar c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP sá sfg3eþ ]
-
-[SCP að c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP hafði sfg3eþ ]
-
-[VPs migið ssg ]
-
-[PP á ao ]
-
-[NP sig fpkeo ]
-
-[VP langaði sfg3eþ ]
-
-[NP hann fpkeo ]
-
-[AdvP helst aae ]
-
-að cn
-
-[VPi gefa sng ]
-
-[PP upp ao ]
-
-[NP öndina nveog ]
-
-. .
-
-{*COMP [AP Einn lkensf ] }
-
-[CP eða c ]
-
-[AdvP ekki aa ]
-
-{*COMP [AP einn lkensf ] }
-
-. .
-
-{*SUBJ [NP Þessi faken ] }
-
-{*SUBJ [NP drengur nken ] }
-
-, ,
-
-[SCP sem ct ]
-
-[VP fór sfg3eþ ]
-
-[AdvP svona aa ]
-
-[AP ósegjanlega lkeosf ]
-
-[PP í ao ]
-
-[NP taugarnar nvfog ]
-
-[PP á aþ ]
-
-[NP honum fpkeþ ]
-
-, ,
-
-[VP taldist sfm3eþ ]
-
-[AdvP eiginlega aa ]
-
-[AdvP ekki aa ]
-
-{*COMP [AP fullgildur lkensf ] }
-
-{*SUBJ [NP félagsskapur nken ] }
-
-. .
-
-[VP Náðu sfg3fþ ]
-
-[AdvP í aa ]
-
-[VP skæri svg3eþ ]
-
-, ,
-
-[VP stundi sfg3eþ ]
-
-{*SUBJ [NP Sveinn nken-s ] }
-
-. .
-
-[AdvP Inni aa ]
-
-[PP í aþ ]
-
-[NP eldhúsi nheþ ]
-
-, ,
-
-{*COMP [AP fljótur lkensf ] }
-
-. .
-
-{*SUBJ [NP Drengurinn nkeng ] }
-
-[VP hlýddi sfg3eþ ]
-
-[AdvP hugsunarlaust aa ]
-
-[CP og c ]
-
-[VP vissi sfg3eþ ]
-
-[AdvP greinilega aa ]
-
-[AdvP hvar aa ]
-
-{*SUBJ [NP eldhúsið nheng ] }
-
-[VPb var sfg3eþ ]
-
-. .
-
-{*SUBJ [NP Hann nken-s ] }
-
-[VP lifði sfg3eþ ]
-
-[NP sig fpkeo ]
-
-[AdvP svo aa ]
-
-[AdvP inn aa ]
-
-[PP í ao ]
-
-[NP hlutverkið nheog ]
-
-[SCP að c ]
-
-[SCP ef c ]
-
-[NP honum fpkeþ ]
-
-[VPb væri svg3eþ ]
-
-{*COMP [VPp sagt sþghen ] }
-
-að cn
-
-[VPi sjóða sng ]
-
-{*SUBJ [NP vatn nhen ] }
-
-[VP myndi svg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VPi sjóða sng ]
-
-[NP vatn nheo ]
-
-, ,
-
-[PP án ae ]
-
-{*QUAL [NP þess fphee ] }
-
-að cn
-
-[VPi spyrja sng ]
-
-[PP til ae ]
-
-{*QUAL [NP hvers fshee ] }
-
-[VP ætti svg3eþ ]
-
-að cn
-
-[VPi nota sng ]
-
-[NP það fpheo ]
-
-. .
-
-{*SUBJ [NP Sveinn nken-s ] }
-
-[VP lá sfg3eþ ]
-
-[PP á aþ ]
-
-[NP bakinu nheþg ]
-
-[PP með aþ ]
-
-[NP Cindy nkeþ-s ]
-
-[NP Sherman nxeþ-s ]
-
-[PP fyrir ao ]
-
-[NP kodda nkfo ]
-
-[CP og c ]
-
-[AP nýju lveovf ]
-
-[NP peruna nveog ]
-
-[AP mölbrotna lveosf ]
-
-[PP í aþ ]
-
-[NP rassvasanum nkeþg ]
-
-[CP og c ]
-
-{*SUBJ [NP draumarnir nkfng ] }
-
-[VP sóttu sfg3fþ ]
-
-[AdvP enn aa ]
-
-[PP að aþ ]
-
-[NP honum fpkeþ ]
-
-. .
-
-{*SUBJ [NP Hann nken-s ] }
-
-[VP vildi sfg3eþ ]
-
-[CP heldur c ]
-
-[VPi dvelja sng ]
-
-{*COMP [AP einsamall lkensf ] }
-
-[PP í aþ ]
-
-[AP blóðugum lvfþsf ]
-
-[NP martröðum nvfþ ]
-
-[NP sínum fevfþ ]
-
-[CP en c ]
-
-[AdvP hér aa ]
-
-, ,
-
-{*COMP [AP hlandblautur lkensf ] }
-
-[PP á aþ ]
-
-[NP valdi nheþ ]
-
-{*QUAL [NP þessa fakee ] }
-
-{*QUAL [NP furðufugls nkee ] }
-
-[SCP sem ct ]
-
-[VPb virtist sfm3eþ ]
-
-[VPi ætla sng ]
-
-að cn
-
-[VPi gera sng ]
-
-[NP það fpheo ]
-
-[PP að aþ ]
-
-[NP vana nkeþ ]
-
-[NP sínum fekeþ ]
-
-að cn
-
-[VPi ráðast snm ]
-
-[PP að aþ ]
-
-[NP honum fpkeþ ]
-
-[PP með ao ]
-
-[NP hjálpsemina nveog ]
-
-[PP á aþ ]
-
-[NP lofti nheþ ]
-
-. .
-
-[AdvP Nú aa ]
-
-, ,
-
-[AdvP þarna aa ]
-
-[VP kom sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VPg hlaupandi slg ]
-
-[PP með ao ]
-
-[NP skærin nhfog ]
-
-. .
-
-[VP Sagði sfg3eþ ]
-
-{*SUBJ [NP mamma nven ] }
-
-{*SUBJ [NP þín feven ] }
-
-[NP þér fp2eþ ]
-
-[AdvP aldrei aa ]
-
-[SCP að c ]
-
-{*SUBJ [NP þú fp2en ] }
-
-[VP ættir svg2eþ ]
-
-[AdvP ekki aa ]
-
-að cn
-
-[VPi hlaupa sng ]
-
-[AdvP með aa ]
-
-[VP skæri svg3eþ ]
-
-? ?
-
-[VP sagði sfg3eþ ]
-
-{*SUBJ [NP Sveinn nken-s ] }
-
-[CP og c ]
-
-[VP reyndi sfg3eþ ]
-
-að cn
-
-[VPi brosa sng ]
-
-[AdvP vingjarnlega aa ]
-
-. .
-
-{*SUBJ [NP Hvað fshen ] }
-
-[VP sagðirðu sfg2eþ ]
-
-? ?
-
-[VP spurði sfg3eþ ]
-
-{*SUBJ [NP drengurinn nkeng ] }
-
-, ,
-
-[AdvP greinilega aa ]
-
-[PP með aþ ]
-
-[NP hellu nveþ ]
-
-[PP fyrir aþ ]
-
-[NP eyrunum nhfþg ]
-
-[PP af aþ ]
-
-[NP æsingi nkeþ ]
-
-[CP og c ]
-
-[VP hvarflaði sfg3eþ ]
-
-[NP augunum nhfþg ]
-
-[AdvP hræðslulega aa ]
-
-[PP um ao ]
-
-[NP herbergið nheog ]
-
-. .
-
-[AdvP Kannski aa ]
-
-[VPb var sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-að cn
-
-[VPi reyna sng ]
-
-að cn
-
-[VPi sjá sng ]
-
-[AdvP fyrir aa ]
-
-[NP sér fpkeþ ]
-
-{*COMP [AP hvernig lhenof ] }
-
-{*SUBJ [NP óhappið nheng ] }
-
-[VP hafði sfg3eþ ]
-
-[VPs viljað ssg ]
-
-[AdvP til aa ]
-
 . .
-
-{*SUBJ [NP Það fphen ] }
-
-[VPb var sfg3eþ ]
-
-[AdvP ekki aa ]
 
-[SCP nema c ]
-
-[NP von nveo ]
-
-[SCP að c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP velti sfg3en ]
-
-[NP því fpheþ ]
-
-[PP fyrir aþ ]
-
-[NP sér fpkeþ ]
-
-. .
 
 [SCP Ef c ]
 
-[VPi marka sng ]
-
-[VP mátti sfg3eþ ]
-
-{*SUBJ [NP dagblöðin nhfng ] }
-
-[VPb urðu sfg3fþ ]
-
-{*COMP [AP flest lhfnse ] }
-
-{*COMP [AP alvarleg lhfnsf ] }
-
-{*SUBJ [NP slys nhfn ] }
-
 [PP í aþ ]
 
-[NP heimahúsum nhfþ ]
+[NP lögum nhfþ ]
 
-, ,
+[NP þessum fahfþ ]
 
-[CP en c ]
+[VPb er sfg3en ]
 
-{*SUBJ [NP þetta fahen ] }
-
-[VP hlaut sfg3eþ ]
-
-að cn
-
-[VPi heita sng ]
-
-[AdvP fullkomlega aa ]
-
-{*COMP [AP fáránlegt lhensf ] }
-
-. .
-
-[SCP Þegar c ]
-
-{*SUBJ [NP Sveinn nken-s ] }
-
-[VP las sfg3eþ ]
+{*COMP [VPp getið sþghen ] }
 
 [PP um ao ]
 
-[NP allan fokeo ]
-
-[NP þennan fakeo ]
-
-[NP fjölda nkeo ]
-
-{*QUAL [NP slysa nhfe ] }
-
-[PP í aþ ]
-
-[NP heimahúsum nhfþ ]
-
-[VP hafði sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VPs séð ssg ]
-
-[PP fyrir aþ ]
-
-[NP sér fpheþ ]
-
-[NP gamalmenni nheþ ]
-
-{*COMP [AP þjáð lvensf ] }
-
-[AdvP af aa ]
-
-[VPi svima sng ]
-
-[CP og c ]
-
-{*SUBJ [NP minnisleysi nhen ] }
-
-[CP og c ]
-
-{*QUAL [NP óvita nkee ] }
-
-[NP börn nhfo ]
-
-- -
-
-[AdvP ekki aa ]
-
-[AdvP sæmilega aa ]
-
-[AP hrausta lkfosf ]
-
-[NP karlmenn nkfo ]
-
-[VPg meiðandi slg ]
-
-[NP sig fpheo ]
-
-[PP á aþ ]
-
-[NP bókum nvfþ ]
-
-. .
-
-{*SUBJ [NP Hvað fshen ] }
-
-[VP ertu sfg2en ]
-
-{*COMP [AP gamall lkensf ] }
-
-, ,
-
-{*SUBJ [NP vinur nken ] }
-
-? ?
-
-[VP spurði sfg3eþ ]
-
-[NP hann fpkeo ]
-
-. .
-
-[NP Nítján tfhfo ]
-
-. .
-
-[NP Klipptu nveo-s ]
-
-[PP af aþ ]
-
-[NP mér fp1eþ ]
-
-[NP buxurnar nvfog ]
-
-, ,
-
-[AdvP svona aa ]
-
-[AdvP eins aa ]
-
-[CP og c ]
-
-[PP í aþ ]
-
-[NP sjónvarpsþáttunum nkfþg ]
-
-[AdvP þarna aa ]
-
-, ,
-
-{*SUBJ [NP Slysavaktin nvengs ] }
+[NP ráðherra nkeo ]
 
 [CP eða c ]
 
-{*SUBJ [NP hvað fshen ] }
-
-{*SUBJ [NP þeir fpkfn ] }
-
-[AdvP nú aa ]
-
-[VPb heita sfg3fn ]
-
-. .
-
-[VP Geturðu sfg2en ]
-
-[NP það fpheo ]
-
-? ?
-
-[InjP Nei au ]
-
-, ,
-
-[VP sagði sfg3eþ ]
-
-{*SUBJ [NP Lárus nken-s ] }
-
-. .
-
-{*SUBJ [NP Ég fp1en ] }
-
-[VP meina sfg1en ]
-
-, ,
-
-{*SUBJ [NP bíllinn nkeng ] }
-
-[VP kemur sfg3en ]
-
-[PP eftir ao ]
-
-[NP tíu tfvfo ]
-
-[NP mínútur nvfo ]
-
-[CP og c ]
-
-{*SUBJ [NP konan nveng ] }
-
-[VP sagði sfg3eþ ]
-
-... ...
-
-{*SUBJ [NP Konan nveng ] }
-
-[VP þarf sfg3en ]
-
-[NP ekkert foheo ]
-
-að cn
-
-[VPi vita sng ]
-
-[PP af aþ ]
-
-[NP þessu faheþ ]
-
-, ,
-
-[VP tók sfg3eþ ]
-
-{*SUBJ [NP Sveinn nken-s ] }
-
-[AdvP fram aa ]
-
-[AdvP í aa ]
-
-. .
-
-{*SUBJ [NP Hún fpven ] }
-
-[CP heldur c ]
-
-[SCP að c ]
-
-{*SUBJ [NP ég fp1en ] }
-
-[VPb sé sfg1en ]
-
-[AP hryggbrotinn lkeosf ]
-
-, ,
-
-{*SUBJ [NP ég fp1en ] }
-
-[VP veit sfg1en ]
-
-[AdvP ekki aa ]
-
-[NP hvað fsheo ]
-
-{*SUBJ [NP þú fp2en ] }
-
-[VP hefur sfg2en ]
-
-[AdvP eiginlega aa ]
-
-[VPs sagt ssg ]
-
-[PP við ao ]
-
-[NP hana fpveo ]
-
-. .
-
-[VP Sjáðu sbg2en ]
-
-, ,
-
-[VP sagði sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-[CP og c ]
-
-[VP ók sfg3eþ ]
-
-[NP sér fpkeþ ]
-
-[SCP þótt c ]
-
-[NP honum fpkeþ ]
-
-[NP liði nheþ ]
-
-[AdvP eins aa ]
-
-[CP og c ]
-
-{*SUBJ [NP skærin nhfng ] }
-
-[VP hefðu svg3fþ ]
-
-[VPs lent ssg ]
-
-[PP á aþ ]
-
-[NP kafi nheþ ]
-
-[PP í aþ ]
-
-[NP öxlinni nveþg ]
-
-[PP á aþ ]
-
-[NP honum fpkeþ ]
-
-. .
-
-[VP Sjáðu sbg2en ]
-
-, ,
-
-{*SUBJ [NP mænan nveng ] }
-
-[VPb er sfg3en ]
-
-[AdvP vandlega aa ]
-
-{*COMP [AP skorðuð lvensf ] }
-
-[PP í aþ ]
-
-[AP fína lheþvf ]
-
-[NP búrinu nheþg ]
-
-[NP sínu feheþ ]
-
-. .
-
-{*SUBJ [NP Hann nken-s ] }
-
-[VP togaði sfg3eþ ]
-
-[AdvP niður aa ]
-
-[NP hálsmálið nheog ]
-
-[PP á aþ ]
-
-[NP skyrtunni nveþg ]
-
-[CP og c ]
-
-[VP sýndi sfg3eþ ]
-
-[AP hvernig lheoof ]
-
-{*SUBJ [NP beinið nheng ] }
-
-[VP bungaði sfg3eþ ]
-
-[AdvP út aa ]
-
-[PP í ao ]
-
-[NP skinnið nheog ]
-
-. .
-
-{*SUBJ [NP Ég fp1en ] }
-
-[VPb er sfg1en ]
-
-{*COMP [AP viðbeinsbrotinn lkensf ] }
-
-[CP og c ]
-
-{*SUBJ [NP það fphen ] }
-
-[VPb er sfg3en ]
-
-{*SUBJ [NP eitthvað fohen ] }
-
-[PP að aþ ]
-
-[NP mér fp1eþ ]
-
-[PP í aþ ]
-
-[NP hnénu nheþg ]
-
-. .
-
-{*SUBJ [NP Það fphen ] }
-
-[VPb er sfg3en ]
-
-{*SUBJ [NP allt fohen ] }
-
-[CP og c ]
-
-{*SUBJ [NP sumt fohen ] }
-
-. .
-
-{*SUBJ [NP Ég fp1en ] }
-
-[VP sver sfg1en ]
-
-{*SUBJ [NP það fphen ] }
-
-. .
-
-[VP Flýttu sbg2en ]
-
-{*SUBJ [NP þér fp2fn ] }
-
-, ,
-
-{*SUBJ [NP vinur nken ] }
-
-. .
-
-[VP Gerðu sfg3fþ ]
-
-[AdvP bara aa ]
-
-[AdvP eins aa ]
-
-[CP og c ]
-
-{*SUBJ [NP ég fp1en ] }
-
-[VP segi sfg1en ]
-
-[NP þér fp2eþ ]
-
-, ,
-
-{*SUBJ [NP þetta fahen ] }
-
-[VPb verður sfg3en ]
-
-{*SUBJ [NP allt fohen ] }
-
-[PP í aþ ]
-
-[NP lagi nheþ ]
-
-. .
-
-{*SUBJ [NP Drengurinn nkeng ] }
-
-[VP fór sfg3eþ ]
-
-[AdvP niður aa ]
-
-[PP á ao ]
-
-[NP hnén nhfog ]
-
-[CP og c ]
-
-[VP byrjaði sfg3eþ ]
-
-að cn
-
-[VPi klippa sng ]
-
-. .
-
-{*SUBJ [NP Hann nken-s ] }
-
-[VPb var sfg3eþ ]
-
-{*COMP [AP fumlaus lkensf ] }
-
-[CP og c ]
-
-{*COMP [AP fljótur lkensf ] }
-
-, ,
-
-{*SUBJ [NP það fphen ] }
-
-[VP mátti sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VPi eiga sng ]
-
-, ,
-
-[SCP þótt c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VPb væri svg3eþ ]
-
-[AdvP ekki aa ]
-
-[SCP nema c ]
-
-{*QUAL [NP nítján tfhfe ] }
-
-{*QUAL [NP ára nhfe ] }
-
-[CP og c ]
-
-[PP af aþ ]
-
-[NP einhverjum fovfþ ]
-
-[AP sárgrætilegum lvfþsf ]
-
-[NP ástæðum nvfþ ]
-
-[AdvP ekki aa ]
-
-[AdvP enn aa ]
-
-{*COMP [VPp kominn sþgken ] }
-
-[PP í ao ]
-
-[NP mútur nvfo ]
-
-. .
-
-[VP Klippti sfg3eþ ]
-
-[CP og c ]
-
-[VP reif sfg3eþ ]
-
-[PP til ae ]
-
-{*QUAL [NP skiptis nhee ] }
-
-[PP frá aþ ]
-
-[NP ökkla nkeþ ]
-
-[CP og c ]
-
-[AdvP upp aa ]
-
-[PP í aþ ]
-
-[NP nára nkeþ ]
-
-[CP og c ]
-
-[VP hjakkaði sfg3eþ ]
-
-[AdvP síðan aa ]
-
-[PP með aþ ]
-
-[NP skærunum nkfþg ]
-
-[PP gegnum ao ]
-
-[NP vasa nkeo ]
-
-[CP og c ]
-
-[AP tvöfalda lveosf ]
-
-[VPi sauma sng ]
-
-[CP og c ]
-
-{*SUBJ [NP allt fohen ] }
-
-[SCP sem ct ]
-
-[AdvP fyrir aa ]
-
-[VPb varð sfg3eþ ]
-
-. .
-
-{*SUBJ [NP Hann nken-s ] }
-
-[VPb var sfg3eþ ]
-
-[AdvP ekki aa ]
-
-[AdvP fyrr aam ]
-
-{*COMP [VPp kominn sþgken ] }
-
-[AdvP í aa ]
-
-[PP gegnum ao ]
-
-[AP seinni lveovm ]
-
-[NP skálmina nveog ]
-
-[CP en c ]
-
-{*SUBJ [NP Sveinn nken-s ] }
-
-[VP þreif sfg3eþ ]
-
-[PP af aþ ]
-
-[NP honum fpkeþ ]
-
-{*SUBJ [NP skærin nveng ] }
-
-, ,
-
-[VP stundi sfg3eþ ]
-
-[PP af aþ ]
-
-[NP sársauka nkeþ ]
-
-[SCP þegar c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP dró sfg3eþ ]
-
-[AP sundurklippt lheosf ]
-
-[NP bómullarefnið nheog ]
-
-[PP undan aþ ]
-
-[NP sér fpkeþ ]
-
-[CP og c ]
-
-[VP hófst sfm3eþ ]
-
-{*SUBJ [NP sjálfur fbken ] }
-
-{*QUAL [NP handa nvfe ] }
-
-[PP við ao ]
-
-að cn
-
-[VPi klippa sng ]
-
-[AdvP sundur aa ]
-
-[AP rennblautar lvfosf ]
-
-[NP nærbuxurnar nvfog ]
-
-. .
-
-{*SUBJ [NP Lárus nken-s ] }
-
-[VP bjóst sfg2eþ ]
-
-[PP til ae ]
-
-að cn
-
-[VPi hjálpa sng ]
-
-[NP honum fpkeþ ]
-
-[CP en c ]
-
-{*SUBJ [NP Sveinn nken-s ] }
-
-[VP stuggaði sfg3eþ ]
-
-[PP við aþ ]
-
-[NP honum fpkeþ ]
-
-[PP með aþ ]
-
-[NP augnaráðinu nheþg ]
-
-[NP einu foheþ ]
-
-[AdvP saman aa ]
-
-[CP og c ]
-
-[VP sagði sfg3eþ ]
-
-: :
-
-{*SUBJ [NP Það fphen ] }
-
-[VPb eru sfg3fn ]
-
-{*SUBJ [NP náttbuxur nvfn ] }
-
-[PP í aþ ]
-
-[NP skápnum nkeþg ]
-
-[AdvP þarna aa ]
-
-. .
-
-[VP Finndu sbg2en ]
-
-[NP þær fpvfo ]
-
-[AdvP snöggvast aae ]
-
-[PP fyrir ao ]
-
-[NP mig fp1eo ]
-
-. .
-
-{*COMP [AP Hvítar lvfnsf ] }
-
-[PP með aþ ]
-
-[NP brúnum nvfþ ]
-
-[CP og c ]
-
-[AP vínrauðum lvfþsf ]
-
-[NP röndum nvfþ ]
-
-. .
-
-{*SUBJ [NP Það fphen ] }
-
-[VPb var sfg3eþ ]
-
-{*COMP [AP erfiðara lhenvm ] }
-
-[CP en c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP bjóst sfg2eþ ]
-
-[PP við aþ ]
-
-að cn
-
-[VPi eiga sng ]
-
-[PP við ao ]
-
-[NP þetta faheo ]
-
-[PP með aþ ]
-
-[NP annarri foveþ ]
-
-[NP hendi nveþ ]
-
-, ,
+[NP ráðuneyti nheo ]
 
 [PP án ae ]
 
 {*QUAL [NP þess fphee ] }
 
-að cn
+[SCP að c ]
 
-[VPi sjá sng ]
+{*SUBJ [NP málefnasvið nhen ] }
 
-[AdvP almennilega aa ]
+[VPb sé svg3en ]
 
-[AdvP til aa ]
+{*COMP [VPp tilgreint sþghen ] }
 
-, ,
+[AdvP sérstaklega aa ]
 
-[VPg liggjandi slg ]
-
-[PP á aþ ]
-
-[NP bakinu nheþg ]
-
-[AdvP eins aa ]
-
-[CP og c ]
-
-{*SUBJ [NP afvelta nven ] }
-
-[NP gamalær nheo ]
-
-, ,
-
-[CP og c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP rispaði sfg3eþ ]
-
-[NP sig fpkeo ]
-
-[AdvP tvisvar aa ]
+[CP eða c ]
 
 [PP til ae ]
 
-{*QUAL [NP blóðs nhee ] }
+{*QUAL [NP þess fphee ] }
+
+{*COMP [VPp vísað sþghen ] }
+
+, ,
+
+[VPb er sfg3en ]
+
+{*COMP [VPp átt sþghen ] }
+
+[PP við ao ]
+
+[NP sjávarútvegs- nkeo ]
 
 [CP og c ]
 
-[VP klippti sfg3eþ ]
+[NP landbúnaðarráðherra nkeo ]
 
-[AP óvart lheosf ]
+[CP eða c ]
 
-[PP í ao ]
-
-[NP vömbina nveog ]
-
-[AdvP þar aa ]
-
-[SCP sem c ]
-
-{*SUBJ [NP hún fpven ] }
-
-[VP bungaði sfg3eþ ]
-
-[PP yfir ao ]
-
-[NP strenginn nkeog ]
-
-. .
-
-{*SUBJ [NP Hann nken-s ] }
-
-[VP fleygði sfg3eþ ]
-
-[NP buxunum nvfþg ]
-
-[AdvP út aa ]
-
-[PP í ao ]
-
-[NP horn nheo ]
+{*SUBJ [NP atvinnuvega- nhen ] }
 
 [CP og c ]
 
-[NP nærbuxnatætlunni nveþg ]
-
-[AdvP á aa ]
-
-[AdvP eftir aa ]
-
-. .
-
-[VP Þreif sfg3eþ ]
-
-[AP óhreinan lkeosf ]
-
-[NP stuttermabol nkeo ]
-
-[PP af aþ ]
-
-[NP gólfinu nheþg ]
-
-[CP og c ]
-
-[VP þurrkaði sfg3eþ ]
-
-[NP bleytuna nveog ]
-
-[PP undan aþ ]
-
-[NP sér fpkeþ ]
-
-[CP og c ]
-
-[AdvP í aa ]
-
-[PP kringum ao ]
-
-[NP sig fpkeo ]
-
-[AdvP áður aa ]
-
-[CP en c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP sendi sfg3eþ ]
-
-[NP bolinn nkeog ]
-
-[AdvP út aa ]
-
-[PP í ao ]
-
-[NP þetta faheo ]
-
-[NP sama fbheo ]
-
-[NP horn nheo ]
-
-. .
-
-[VPb Eru sfg3fn ]
-
-{*SUBJ [NP það fphen ] }
-
-{*SUBJ [NP þessar favfn ] }
-
-? ?
-
-[VP spurði sfg3eþ ]
-
-{*SUBJ [NP Lárus nken-s ] }
-
-[CP og c ]
-
-[VP hélt sfg3eþ ]
-
-[NP einhverju foheþ ]
-
-[PP á aþ ]
-
-[NP lofti nheþ ]
+{*SUBJ [NP nýsköpunarráðuneyti nhen ] }
 
 [SCP sem ct ]
 
-{*SUBJ [NP Sveinn nken-s ] }
-
-, ,
-
-{*COMP [AP úrvinda lvenof ] }
-
-[PP eftir ao ]
-
-[NP áreynsluna nveog ]
-
-, ,
-
-[VP sá sfg3eþ ]
-
-[AdvP ekki aa ]
-
-[SCP nema c ]
-
-[AdvP ógreinilega aa ]
-
-. .
-
-[VP Komdu sbg2en ]
+[VP fer sfg3en ]
 
 [PP með ao ]
 
-[NP þetta faheo ]
+[NP lög nhfo ]
 
-, ,
-
-[VP svaraði sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
+[NP þessi fahfo ]
 
 . .
 
-[VP Hjálpaðu sbg2en ]
 
-[NP mér fp1eþ ]
+{*SUBJ [NP Upplýsingar nvfn ] }
 
-. .
+[PP um ao ]
 
-{*SUBJ [NP Þeir fpkfn ] }
+[NP málefnasvið nheo ]
 
-[VP heyrðu sfg3fþ ]
+{*QUAL [NP ráðuneyta nhfe ] }
 
-[NP bíl nkeo ]
+[PP skv. aþ ]
 
-[VPi renna sng ]
+[NP forsetaúrskurði nkeþ ]
 
-[AdvP hratt aa ]
-
-[AdvP inn aa ]
-
-[PP á ao ]
-
-[NP bílastæðið nheog ]
-
-[CP og c ]
-
-[NP Lárus nkeo-s ]
-
-[VP smokraði sfg3eþ ]
-
-[NP skálmunum nvfþg ]
-
-{*COMP [AP skjálfhentur lkensf ] }
-
-[AdvP upp aa ]
-
-[PP á ao ]
-
-[NP fótleggi nkfo ]
-
-{*QUAL [NP Sveins nkee-s ] }
-
-. .
-
-[AdvP Nú aa ]
-
-[VP heyrðist sfm3eþ ]
-
-{*SUBJ [NP mannamál nhen ] }
-
-, ,
-
-{*SUBJ [NP karl nken ] }
-
-[CP og c ]
-
-{*SUBJ [NP kona nven ] }
-
-[VP töluðu sfg3fþ ]
-
-[AdvP hratt aa ]
-
-[PP í aþ ]
-
-[AP hálfum lhfþsf ]
-
-[NP hljóðum nhfþ ]
-
-[CP og c ]
-
-{*SUBJ [NP það fphen ] }
-
-[VP marraði sfg3eþ ]
-
-[PP í aþ ]
-
-[NP mölinni nveþg ]
-
-[PP undan aþ ]
-
-[NP fótum nkfþ ]
-
-{*QUAL [NP þeirra fpkfe ] }
-
-. .
-
-{*SUBJ [NP Þau fphfn ] }
-
-[VP óðu sfg3fþ ]
-
-[AdvP inn aa ]
-
-[PP í ao ]
-
-[NP forstofu nveo ]
-
-[PP án ae ]
-
-{*QUAL [NP þess fphee ] }
-
-að cn
-
-[VPi banka sng ]
-
-[CP og c ]
-
-[VPb voru sfg3fþ ]
-
-{*COMP [VPp komin sþgven ] }
-
-[NP alla foveo ]
-
-[NP leið nveo ]
-
-[AdvP inn aa ]
-
-[PP í ao ]
-
-[NP eldhús nheo ]
-
-[SCP þegar c ]
-
-{*SUBJ [NP Sveinn nken-s ] }
-
-[VP náði sfg3eþ ]
-
-að cn
-
-[VPi hrifsa sng ]
-
-[NP mittisteygjuna nveog ]
-
-[PP úr aþ ]
-
-[NP höndum nvfþ ]
-
-{*QUAL [NP Lárusar nkee-s ] }
-
-[CP og c ]
-
-[VP smokra sfg3fn ]
-
-[NP henni fpveþ ]
-
-[PP undir ao ]
-
-[NP rassinn nkeog ]
-
-[CP og c ]
-
-[AdvP upp aa ]
-
-[PP fyrir ao ]
-
-{*QUAL [NP helvítis nhee ] }
-
-[NP tittlinginn nkeog ]
-
-. .
-
-{*SUBJ [NP Það fphen ] }
-
-[VP hafðist sfm3eþ ]
-
-[PP hjá aþ ]
-
-[NP okkur fp1fþ ]
-
-, ,
-
-{*SUBJ [NP vinur nken ] }
-
-, ,
-
-[VP sagði sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-[PP til ae ]
-
-að cn
-
-[VPi róa sng ]
-
-{*SUBJ [NP Lárus nken-s ] }
-
-[SCP sem ct ]
-
-[VP stóð sfg3eþ ]
-
-{*COMP [AP skömmustulegur lkensf ] }
-
-[AdvP úti aa ]
-
-[PP á aþ ]
-
-[AP miðju lheþsf ]
-
-[NP gólfi nheþ ]
-
-[CP og c ]
-
-[VP gjóaði sfg3eþ ]
-
-[NP augunum nhfþg ]
-
-[PP úr aþ ]
-
-[NP einu foheþ ]
-
-[NP horni nheþ ]
-
-[PP í ao ]
-
-[NP annað foheo ]
-
-[AdvP eins aa ]
-
-[CP og c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP óttaðist sfm3eþ ]
-
-[SCP að c ]
-
-{*QUAL [NP einhvers fokee ] }
-
-{*QUAL [NP staðar nkee ] }
-
-[VPb væri svg3eþ ]
-
-{*SUBJ [NP eitthvað fohen ] }
+[VPb er sfg3en ]
 
 að cn
 
 [VPi finna sng ]
 
-[SCP sem ct ]
-
-[VP gæti svg3eþ ]
-
-[VPs komið ssg ]
-
-[AdvP upp aa ]
-
-[PP um ao ]
-
-[NP þá fpkfo ]
+[AdvP hér aa ]
 
 . .
 
-{*SUBJ [NP Hann nken-s ] }
 
-[VPb virtist sfm3eþ ]
+{*COMP [AP I. lkensf ] }
 
-[AdvP ekki aa ]
+{*SUBJ [NP kafli nken ] }
 
-[VPi heyra sng ]
+. .
 
-{*SUBJ [NP það fahen ] }
 
-[SCP sem ct ]
+{*COMP [AP Almenn lhfnsf ] }
 
-{*COMP [VPp sagt sþghen ] }
+{*SUBJ [NP ákvæði nhfn ] }
 
-[VPb var sfg3eþ ]
+. .
 
-[PP við ao ]
 
-[NP hann fpkeo ]
+{*TIMEX [NP 1. ta ] }
+
+{*SUBJ [NP gr. nven ] }
+
+
+{*SUBJ [NP Skilgreiningar nvfn ] }
+
+. .
+
+
+{*TIMEX [NP 1 ta ] }
+
+. .
+
+
+{*SUBJ [NP Jarðabætur nvfn ] }
+
+[VPb eru sfg3fn ]
+
+{*QUAL [NP hvers fokee ] }
+
+{*QUAL [NP konar nkee ] }
+
+{*COMP [VPp framkvæmdir sþgkfn ] }
 
 [CP og c ]
 
-[SCP þegar c ]
-
-{*SUBJ [NP sjúkraflutningafólkið nheng ] }
-
-[VP birtist sfm3en ]
-
-[PP í aþ ]
-
-[NP gættinni nveþg ]
-
-, ,
-
-{*COMP [AP búið lhensf ] }
-
-að cn
-
-[VPi kalla sng ]
-
-[InjP halló au ]
-
-[NP nokkrum fohfþ ]
-
-[NP sinnum nhfþ ]
+{*SUBJ [NP umbætur nvfn ] }
 
 [PP á aþ ]
 
-[NP leið nveþ ]
+[NP jörð nveþ ]
 
-[NP sinni feveþ ]
+[SCP sem ct ]
 
-[AdvP inn aa ]
+[VP stuðla sfg3fn ]
 
-[PP eftir aþ ]
+[PP að aþ ]
 
-[NP ganginum nkeþg ]
+[NP framförum nvfþ ]
+
+[PP í aþ ]
+
+[NP búrekstri nkeþ ]
 
 , ,
 
-[VP stóð sfg3eþ ]
+[AdvP þar aa ]
 
-{*SUBJ [NP hann fpken ] }
+[AdvP með aa ]
 
-{*COMP [AP náfölur lkensf ] }
+{*COMP [VPp talin sþgven ] }
 
-[PP yfir aþ ]
+[NP ræktun nveþ ]
 
-[NP Sveini nkeþ-s ]
+[CP og c ]
+
+{*SUBJ [NP aðrar fovfn ] }
+
+{*SUBJ [NP landbætur nvfn ] }
+
+, ,
+
+{*COMP [AP endurheimt lhensf ] }
+
+{*QUAL [NP landgæða nhfe ] }
+
+[CP og c ]
+
+{*SUBJ [NP gerð nven ] }
+
+{*QUAL [NP rekstrarbygginga nvfe ] }
+
+[CP og c ]
+
+{*SUBJ [NP endurbætur nvfn ] }
+
+[PP á aþ ]
+
+[NP þeim fphfþ ]
+
+. .
+
+
+{*TIMEX [NP 2 ta ] }
+
+. .
+
+
+{*SUBJ [NP Búfjárrækt nven ] }
+
+[VPb er sfg3en ]
+
+{*SUBJ [NP starfsemi nven ] }
+
+[SCP sem ct ]
+
+[PP með aþ ]
+
+[AP skipulegu lheþvf ]
+
+[NP kynbótastarfi nheþ ]
+
+[CP og c ]
+
+{*COMP [AP bættri lvenvm ] }
+
+{*SUBJ [NP fóðrun nven ] }
+
+[VP stuðlar sfg3en ]
+
+[PP að aþ ]
+
+[NP framförum nvfþ ]
+
+[PP í aþ ]
+
+[NP búfjárframleiðslu nveþ ]
+
+. .
+
+
+{*TIMEX [NP 3 ta ] }
+
+. .
+
+
+{*SUBJ [NP Búfé nhen ] }
+
+[VPb er sfg3en ]
+
+{*SUBJ [NP hross nhen ] }
+
+, ,
+
+{*SUBJ [NP nautgripir nkfn ] }
+
+, ,
+
+{*SUBJ [NP sauðfé nhen ] }
+
+, ,
+
+{*SUBJ [NP geitur nvfn ] }
+
+, ,
+
+{*SUBJ [NP svín nhen ] }
+
+, ,
+
+{*SUBJ [NP loðdýr nhfn ] }
+
+, ,
+
+{*SUBJ [NP kanínur nvfn ] }
+
+[CP og c ]
+
+{*SUBJ [NP alifuglar nkfn ] }
+
+, ,
+
+[PP auk ae ]
+
+{*QUAL [NP þess fphee ] }
+
+{*SUBJ [NP eldisfiskar nkfn ] }
+
+[CP og c ]
+
+{*SUBJ [NP önnur fohfn ] }
+
+{*SUBJ [NP dýr nhfn ] }
+
+[SCP sem ct ]
+
+{*COMP [VPp haldin sþgven ] }
+
+[VPb eru sfg3fn ]
+
+[PP til ae ]
+
+{*QUAL [NP nytja nvfe ] }
+
+. .
+
+
+[VP Rísi svg3en ]
+
+{*SUBJ [NP ágreiningur nken ] }
+
+[PP um ao ]
+
+[NP hvað fsheo ]
+
+[VPi falla sng ]
+
+[VP skuli svg3en ]
+
+[PP undir ao ]
+
+[NP hugtakið nheog ]
+
+[NP búfé nheo ]
+
+[VP sker sfg3en ]
+
+[ [
+
+[NP ráðherra nkeo ]
+
+] ]
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+[PP úr aþ ]
+
+[NP þeim fakeþ ]
+
+[NP ágreiningi nkeþ ]
+
+. .
+
+
+{*TIMEX [NP 4 ta ] }
+
+. .
+
+
+{*SUBJ [NP Leiðbeiningarmiðstöð nven ] }
+
+[VPb er sfg3en ]
+
+{*SUBJ [NP miðstöð nven ] }
+
+[PP á aþ ]
+
+[NP vegum nkfþ ]
+
+[ [
+
+{*QUAL [NP Bændasamtaka nkfe-s ] }
+
+{*QUAL [NP Íslands nhee-s ] }
+
+] ]
+
+{*TIMEX [NP 2 ta ] }
+
+) )
+
+[AdvP þar aa ]
+
+[SCP sem c ]
+
+[VP starfa sfg3fn ]
+
+{*SUBJ [NP sérfróðir nkfn ] }
+
+{*SUBJ [NP menn nkfn ] }
+
+[PP á aþ ]
+
+[NP ýmsum fohfþ ]
+
+[NP sviðum nhfþ ]
+
+{*QUAL [NP landbúnaðar nkee ] }
+
+[PP við ao ]
+
+[NP leiðbeiningar nvfo ]
+
+[CP og c ]
+
+{*SUBJ [NP önnur fohfn ] }
+
+{*SUBJ [NP verkefni nhfn ] }
+
+{*COMP [VPp tengd sþghfn ] }
+
+[NP framkvæmd nveo ]
+
+{*QUAL [NP laga nhfe ] }
+
+{*QUAL [NP þessara fahfe ] }
+
+. .
+
+
+{*TIMEX [NP 5 ta ] }
+
+. .
+
+
+{*SUBJ [NP Búnaðarfélag nhen ] }
+
+[VPb er sfg3en ]
+
+{*SUBJ [NP félag nhen ] }
+
+{*QUAL [NP bænda nkfe ] }
+
+[PP á aþ ]
+
+[AP ákveðnu lheþsf ]
+
+[NP svæði nheþ ]
+
+, ,
+
+{*COMP [AP óháð lhensf ] }
+
+[NP þeim fakeþ ]
+
+[NP búrekstri nkeþ ]
+
+[SCP sem ct ]
+
+{*SUBJ [NP þeir fpkfn ] }
+
+[VP stunda sfg3fn ]
+
+. .
+
+
+{*TIMEX [NP 6 ta ] }
+
+. .
+
+
+{*SUBJ [NP Búgreinafélag nhen ] }
+
+[VPb er sfg3en ]
+
+{*SUBJ [NP félag nhen ] }
+
+{*QUAL [NP bænda nkfe ] }
+
+[PP á aþ ]
+
+[AP ákveðnu lheþsf ]
+
+[NP svæði nheþ ]
+
+[SCP sem ct ]
+
+[VP stunda sfg3fn ]
+
+[NP sömu fbveo ]
+
+[NP búgrein nveo ]
+
+. .
+
+
+{*TIMEX [NP 7 ta ] }
+
+. .
+
+
+{*SUBJ [NP Búnaðarsamband nhen ] }
+
+[VPb er sfg3en ]
+
+{*COMP [AP svæðisbundið lhensf ] }
+
+{*SUBJ [NP samband nhen ] }
+
+{*QUAL [NP búnaðarfélaga nhfe ] }
+
+, ,
+
+{*QUAL [NP búgreinafélaga nhfe ] }
+
+[CP og c ]
+
+/ /
+
+[CP eða c ]
+
+[AP einstakra lkfesf ]
+
+{*QUAL [NP bænda nkfe ] }
+
+. .
+
+
+{*TIMEX [NP 8 ta ] }
+
+. .
+
+
+{*SUBJ [NP Búgreinasamband nhen ] }
+
+[VPb er sfg3en ]
+
+{*SUBJ [NP landssamband nhen ] }
+
+{*QUAL [NP búgreinafélaga nhfe ] }
+
+[CP eða c ]
+
+[AP einstakra lkfesf ]
+
+{*QUAL [NP bænda nkfe ] }
+
+[SCP sem ct ]
+
+[VP stunda sfg3fn ]
+
+[NP sömu fbveo ]
+
+[NP búgrein nveo ]
+
+. .
+
+
+{*TIMEX [NP 9 ta ] }
+
+. .
+
+
+{*SUBJ [NP Ræktunarstöð nven ] }
+
+[VPb er sfg3en ]
+
+{*SUBJ [NP sæðingarstöð nven ] }
+
+, ,
+
+[ [
+
+[NP einangrunarstöð nveo ]
+
+] ]
+
+, ,
+
+{*TIMEX [NP 3 ta ] }
+
+) )
+
+[NP uppeldisstöð nveo ]
+
+[PP fyrir ao ]
+
+[NP kynbótagripi nkfo ]
+
+[PP af aþ ]
+
+[AP innlendum lkfþsf ]
+
+[CP eða c ]
+
+[AP erlendum lkeþsf ]
+
+[NP stofni nkeþ ]
+
+[CP eða c ]
+
+[NP stofnverndarbú nheo ]
+
+[PP til ae ]
+
+{*QUAL [NP ræktunar nvee ] }
+
+{*QUAL [NP búfjárstofna nkfe ] }
+
+[PP vegna ae ]
+
+[AP sameiginlegs lheesf ]
+
+{*QUAL [NP ræktunarstarfs nhee ] }
+
+{*SUBJ [NP búgreinar nvfn ] }
+
+. .
+
+
+{*TIMEX [NP 10 ta ] }
+
+. .
+
+
+{*SUBJ [NP Fagráð nhen ] }
+
+[VPb er sfg3en ]
+
+{*SUBJ [NP nefnd nven ] }
+
+[SCP sem ct ]
+
+[VP mótar sfg3en ]
+
+[NP stefnu nveo ]
+
+[PP í aþ ]
+
+[NP kynbótum nvfþ ]
+
+, ,
+
+[NP rannsóknum nvfþ ]
+
+, ,
+
+[NP fræðslumálum nhfþ ]
+
+[CP og c ]
+
+[NP þróunarstarfi nheþ ]
+
+{*SUBJ [NP búgreinar nvfn ] }
+
+. .
+
+
+{*SUBJ [NP Fagráð nhen ] }
+
+[VP getur sfg3en ]
+
+[VPs starfað ssg ]
+
+[PP á aþ ]
+
+[NP fagsviði nheþ ]
+
+, ,
+
+[MWE_AdvP t.d. as ]
+
+[NP hagfræði nveo ]
+
+. .
+
+
+[ [
+
+{*TIMEX [NP 11 ta ] }
+
+. .
+
+
+{*SUBJ [NP Landgreiðslur nvfn ] }
+
+[VPb eru sfg3fn ]
+
+{*SUBJ [NP greiðslur nvfn ] }
+
+[SCP sem ct ]
+
+{*COMP [AP greiddar lvfnsf ] }
+
+[VPb eru sfg3fn ]
+
+[AdvP út aa ]
+
+[PP á ao ]
+
+[AP ræktað lheosf ]
+
+[NP land nheo ]
+
+[SCP sem ct ]
+
+{*COMP [AP uppskorið lhensf ] }
+
+[VPb er sfg3en ]
+
+[PP til ae ]
+
+{*QUAL [NP fóðuröflunar nvee ] }
+
+. .
+
+] ]
+
+{*TIMEX [NP 3 ta ] }
+
+) )
+
+[ [
+
+{*TIMEX [NP 12 ta ] }
+
+. .
+
+
+] ]
+
+{*TIMEX [NP 3 ta ] }
+
+) )
+
+[ [
+
+{*SUBJ [NP Landsráðunautur nvfn-s ] }
+
+[CP eða c ]
+
+{*SUBJ [NP fagstjóri nken ] }
+
+[VPb er sfg3en ]
+
+{*SUBJ [NP ráðunautur nken ] }
+
+[SCP sem ct ]
+
+[VP hefur sfg3en ]
+
+[NP yfirumsjón nveo ]
+
+[PP með aþ ]
+
+[NP leiðbeiningum nvfþ ]
+
+[PP á aþ ]
+
+[NP sínu feheþ ]
+
+[NP sviði nheþ ]
+
+[PP á aþ ]
+
+[NP landsvísu nveþ ]
+
+. .
+
+] ]
+
+{*TIMEX [NP 2 ta ] }
+
+) )
+
+[ [
+
+{*TIMEX [NP 13 ta ] }
+
+. .
+
+
+] ]
+
+{*TIMEX [NP 3 ta ] }
+
+) )
+
+{*SUBJ [NP … nhen ] }
+
+{*TIMEX [NP 2 ta ] }
+
+) )
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+{*QUAL [NP L. nhfe ] }
+
+
+{*TIMEX [NP 126/2011 ta ] }
+
+, ,
+
+{*TIMEX [NP 273. ta ] }
+
+[NP gr. nveo ]
+
+{*TIMEX [NP 2 ta ] }
+
+) )
+
+{*QUAL [NP L. nhfe ] }
+
+
+{*TIMEX [NP 129/2012 ta ] }
+
+, ,
+
+{*TIMEX [NP 1. ta ] }
+
+[NP gr. nveo ]
+
+{*TIMEX [NP 3 ta ] }
+
+) )
+
+{*QUAL [NP L. nhfe ] }
+
+
+{*TIMEX [NP 102/2016 ta ] }
+
+, ,
+
+{*TIMEX [NP 43. ta ] }
+
+[NP gr. nveo ]
+
+
+{*TIMEX [NP 2. ta ] }
+
+{*SUBJ [NP gr. nven ] }
+
+
+{*SUBJ [NP Markmið nhen ] }
+
+{*QUAL [NP laganna nhfeg ] }
+
+. .
+
+
+[ [
+
+{*SUBJ [NP Markmið nhen ] }
+
+{*QUAL [NP laga nhfe ] }
+
+{*QUAL [NP þessara fahfe ] }
+
+[VPb er sfg3en ]
+
+[AdvP að aa ]
+
+: :
+
+{*QUAL [NP a. fohee ] }
+
+{*COMP [AP almenn lhfnsf ] }
+
+{*SUBJ [NP starfsskilyrði nhfn ] }
+
+[PP við ao ]
+
+[NP framleiðslu nveo ]
+
+[CP og c ]
+
+[NP vinnslu nveo ]
+
+{*SUBJ [NP búvara nven ] }
+
+[PP ásamt aþ ]
+
+[NP stuðningi nkeþ ]
+
+{*QUAL [NP ríkisins nheeg ] }
+
+[VP stuðli svg3en ]
+
+[PP að aþ ]
+
+[AP áframhaldandi lveþof ]
+
+[NP hagræðingu nveþ ]
+
+, ,
+
+{*COMP [AP bættri lvenvm ] }
+
+{*SUBJ [NP samkeppnishæfni nven ] }
+
+[CP og c ]
+
+[AP fjölbreyttu lheþsf ]
+
+[NP framboði nheþ ]
+
+{*QUAL [NP gæðaafurða nvfe ] }
+
+[PP á aþ ]
+
+[NP sanngjörnu nveþ ]
+
+[VPb verði svg3en ]
+
+, ,
+
+{*SUBJ [NP b. nhen ] }
+
+[VP tryggja sfg3fn ]
+
+[PP að aþ ]
+
+[NP bændum nkfþ ]
+
+[VP standi svg3en ]
+
+[PP til ae ]
+
+{*QUAL [NP boða nhfe ] }
+
+{*QUAL [NP leiðbeiningarþjónusta nvfe ] }
+
+[CP og c ]
+
+{*SUBJ [NP skýrsluhaldshugbúnaður nken ] }
+
+[PP til ae ]
+
+að cn
+
+[VPi styðja sng ]
+
+[PP við ao ]
+
+[NP framgang nkeo ]
+
+{*QUAL [NP markmiða nhfe ] }
+
+{*QUAL [NP samnings nkee ] }
+
+[PP skv. aþ ]
+
+{*TIMEX [NP 3. ta ] }
+
+[NP gr. nveþ ]
+
+, ,
+
+c. x
+
+[PP við ao ]
+
+[NP búvöruframleiðsluna nveog ]
+
+[VPb sé svg3en ]
+
+{*COMP [VPp gætt sþghen ] }
+
+{*QUAL [NP sjónarmiða nhfe ] }
+
+[PP um ao ]
+
+[NP velferð nveo ]
+
+[AP dýra lveosf ]
+
+, ,
+
+[NP heilnæmi nheo ]
+
+{*QUAL [NP afurða nvfe ] }
+
+, ,
+
+[NP umhverfisvernd nveo ]
+
+[CP og c ]
+
+{*QUAL [NP sjálfbæra nkee ] }
+
+[NP landnýtingu nveo ]
+
+, ,
+
+d. x
+
+[VP auka sfg3fn ]
+
+{*COMP [AP vægi lkenvf ] }
+
+{*SUBJ [NP lífrænnar nkeng ] }
+
+{*QUAL [NP framleiðslu nvee ] }
+
+, ,
+
+{*QUAL [NP e. nvee ] }
+
+{*SUBJ [NP stuðningur nken ] }
+
+{*QUAL [NP ríkisins nheeg ] }
+
+[VP stuðli svg3en ]
+
+[PP að aþ ]
+
+[AP áframhaldandi lveþof ]
+
+[NP þróun nveþ ]
+
+[PP í aþ ]
+
+[NP greininni nveþg ]
+
+[CP og c ]
+
+[AP bættri lveþsf ]
+
+[NP afkomu nveþ ]
+
+{*QUAL [NP bænda nkfe ] }
+
+, ,
+
+f. x
+
+[VP auðvelda sfg3fn ]
+
+[NP nýliðun nveþ ]
+
+[AdvP þannig aa ]
+
+[SCP að c ]
+
+{*COMP [AP nauðsynleg lhfnsf ] }
+
+{*SUBJ [NP kynslóðaskipti nhfn ] }
+
+[VP geti svg3en ]
+
+[VPb orðið ssg ]
+
+[PP í aþ ]
+
+[NP hópi nkeþ ]
+
+{*QUAL [NP framleiðenda nkfe ] }
+
+, ,
+
+g x
+
+. .
+
+
+[VPi tryggja sng ]
+
+[SCP að c ]
+
+{*SUBJ [NP stuðningur nken ] }
+
+{*QUAL [NP ríkisins nheeg ] }
+
+[VP nýtist sfm3eþ ]
+
+[AdvP sem aa ]
+
+[AdvP best aae ]
+
+[AP starfandi lkfþof ]
+
+[NP bændum nkfþ ]
+
+. .
+
+] ]
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+{*QUAL [NP L. nhfe ] }
+
+
+{*TIMEX [NP 102/2016 ta ] }
+
+, ,
+
+{*TIMEX [NP 44. ta ] }
+
+[NP gr. nveo ]
+
+
+{*TIMEX [NP 3. ta ] }
+
+{*SUBJ [NP gr. nven ] }
+
+
+{*SUBJ [NP Yfirstjórn nven ] }
+
+[CP og c ]
+
+{*SUBJ [NP fjárframlög nhfn ] }
+
+{*QUAL [NP ríkisins nheeg ] }
+
+. .
+
+
+[ [
+
+{*SUBJ [NP Ráðherra nken ] }
+
+] ]
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+[VP hefur sfg3en ]
+
+[PP á aþ ]
+
+[NP hendi nveþ ]
+
+[NP yfirstjórn nveþ ]
+
+{*QUAL [NP þeirra fpvfe ] }
+
+[VPi mála sng ]
+
+[SCP sem c ]
+
+{*SUBJ [NP lög nhfn ] }
+
+{*SUBJ [NP þessi faven ] }
+
+{*SUBJ [NP taka nven ] }
+
+[AdvP til aa ]
+
+. .
+
+
+{*SUBJ [NP Hann fpken ] }
+
+[VP skal sfg3en ]
+
+[VPi gera sng ]
+
+[NP samning nkeo ]
+
+[PP við ao ]
+
+[NP Bændasamtök nhfo-s ]
+
+{*QUAL [NP Íslands nhee-s ] }
+
+[AdvP til aa ]
+
+[ [
+
+{*QUAL [NP tíu tfhfe ] }
+
+] ]
+
+{*TIMEX [NP 2 ta ] }
+
+) )
+
+{*QUAL [NP ára nhfe ] }
+
+[AdvP í aa ]
+
+[AdvP senn aa ]
+
+[PP um ao ]
+
+[NP verkefni nheo ]
+
+[PP samkvæmt aþ ]
+
+[NP lögum nhfþ ]
+
+[NP þessum fahfþ ]
+
+[CP og c ]
+
+{*SUBJ [NP framlög nhfn ] }
+
+[PP til ae ]
+
+{*QUAL [NP þeirra fphfe ] }
+
+[AdvP þar aa ]
+
+[SCP sem c ]
+
+[MWE_AdvP m.a. as ]
+
+[VP skal sfg3en ]
+
+{*COMP [VPp kveðið sþghen ] }
+
+[AdvP á aa ]
+
+[PP um ao ]
+
+[NP framlög nhfo ]
+
+[PP til ae ]
+
+{*QUAL [NP Framleiðnisjóðs nkee-s ] }
+
+{*QUAL [NP landbúnaðarins nkeeg ] }
+
+[PP vegna ae ]
+
+{*QUAL [NP atvinnuuppbyggingar nvee ] }
+
+[PP í aþ ]
+
+[NP sveitum nvfþ ]
+
+[CP og c ]
+
+{*QUAL [NP verkefna nhfe ] }
+
+[SCP sem ct ]
+
+[VP stuðla sfg3fn ]
+
+[PP að aþ ]
+
+[AP aukinni lveþsf ]
+
+[NP framleiðni nveþ ]
+
+[PP í aþ ]
+
+[AP íslenskum lkeþsf ]
+
+[NP landbúnaði nkeþ ]
+
+. .
+
+
+[ [
+
+{*SUBJ [NP Samningurinn nkeng ] }
+
+[VP skal sfg3en ]
+
+{*COMP [AP endurskoðaður lkensf ] }
+
+[PP á aþ ]
+
+[NP samningstímanum nkeþg ]
+
+. .
+
+] ]
+
+{*TIMEX [NP 2 ta ] }
+
+) )
+
+{*SUBJ [NP Búnaðarþing nken-s ] }
+
+[VP skal sfg3en ]
+
+[VPi fjalla sng ]
+
+[PP um ao ]
+
+[NP samning nkeo ]
+
+[ [
+
+{*SUBJ [NP ráðherra nken ] }
+
+] ]
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+[CP og c ]
+
+{*QUAL [NP Bændasamtaka nkfe-s ] }
+
+{*QUAL [NP Íslands nhee-s ] }
+
+[PP um ao ]
+
+[NP verkefni nheo ]
+
+[CP og c ]
+
+[NP fjármögnun nveo ]
+
+{*QUAL [NP þeirra fphfe ] }
+
+. .
+
+
+[ [
+
+{*SUBJ [NP Ríkissjóður nken ] }
+
+[VP veitir sfg3en ]
+
+[AdvP árlega aa ]
+
+[NP framlög nhfo ]
+
+[PP til ae ]
+
+{*QUAL [NP verkefna nhfe ] }
+
+[PP á aþ ]
+
+[NP sviði nheþ ]
+
+{*QUAL [NP kynbóta nvfe ] }
+
+, ,
+
+{*QUAL [NP þróunar nvee ] }
+
+, ,
+
+{*QUAL [NP jarðabóta nvfe ] }
+
+, ,
+
+{*QUAL [NP landgreiðslna nvfe ] }
+
+, ,
+
+{*QUAL [NP nýliðunar nvee ] }
+
+, ,
+
+{*QUAL [NP lífrænnar nvee ] }
+
+{*QUAL [NP framleiðslu nvee ] }
+
+, ,
+
+{*QUAL [NP varðveislu nvee ] }
+
+{*QUAL [NP búfjárstofna nkfe ] }
+
+, ,
+
+{*QUAL [NP átaksverkefna nhfe ] }
+
+[CP og c ]
+
+{*QUAL [NP leiðbeiningarstarfsemi nvee ] }
+
+[PP samkvæmt aþ ]
+
+[NP lögum nhfþ ]
+
+[NP þessum fahfþ ]
+
+. .
+
+] ]
+
+{*TIMEX [NP 2 ta ] }
+
+) )
+
+[NP Bændasamtök nhfo-s ]
+
+{*QUAL [NP Íslands nhee-s ] }
+
+[VPi hafa sng ]
+
+[PP á aþ ]
+
+[NP hendi nveþ ]
+
+[AdvP faglega aa ]
+
+[CP og c ]
+
+[AdvP fjárhagslega aa ]
+
+[NP umsjón nveo ]
+
+{*QUAL [NP þeirra fahfe ] }
+
+{*QUAL [NP verkefna nhfe ] }
+
+[SCP sem ct ]
+
+[AdvP svo aa ]
+
+[VPb er sfg3en ]
+
+{*COMP [VPp samið sþghen ] }
+
+[AdvP um aa ]
+
+[PP skv. aþ ]
+
+{*TIMEX [NP 1. ta ] }
+
+[NP mgr. nveþ ]
+
+[CP og c ]
+
+{*SUBJ [NP fjárveiting nven ] }
+
+[VP heimilar sfg3en ]
+
+[CP og c ]
+
+[VP annast sfm3en ]
+
+[NP framkvæmd nveo ]
+
+{*QUAL [NP þeirra fpkfe ] }
+
+[SCP nema c ]
+
+[AdvP öðruvísi aa ]
+
+[VPb sé svg3en ]
+
+[AdvP um aa ]
+
+{*COMP [VPp samið sþghen ] }
+
+[CP eða c ]
+
+{*COMP [VPp ákveðið sþghen ] }
+
+[PP með aþ ]
+
+[NP lögum nhfþ ]
+
+, ,
+
+[NP enda nkeþ ]
+
+[VPb sé svg3en ]
+
+{*SUBJ [NP skipulag nhen ] }
+
+{*QUAL [NP þeirra fphfe ] }
+
+[CP og c ]
+
+{*SUBJ [NP starfsreglur nvfn ] }
+
+[PP í aþ ]
+
+[NP samræmi nheþ ]
+
+[PP við ao ]
+
+[NP ákvæði nhfo ]
+
+{*QUAL [NP laganna nhfeg ] }
+
+. .
+
+
+{*SUBJ [NP Bændasamtök nhfn ] }
+
+{*QUAL [NP Íslands nhee-s ] }
+
+, ,
+
+[ [
+
+{*SUBJ [NP félög nhfn ] }
+
+[PP í aþ ]
+
+[AP fullri lveþsf ]
+
+[NP eigu nveþ ]
+
+{*QUAL [NP samtakanna nhfeg ] }
+
+] ]
+
+{*TIMEX [NP 2 ta ] }
+
+) )
+
+[CP og c ]
+
+{*SUBJ [NP önnur fohfn ] }
+
+{*SUBJ [NP samtök nhfn ] }
+
+[SCP sem ct ]
+
+[VP fara sfg3fn ]
+
+[PP með ao ]
+
+[NP verkefni nheo ]
+
+[PP samkvæmt aþ ]
+
+[NP lögum nhfþ ]
+
+[NP þessum fahfþ ]
+
+{*SUBJ [NP geta nven ] }
+
+[VPs tekið ssg ]
+
+[NP gjald nheo ]
+
+[PP fyrir ao ]
+
+[NP þjónustu nveo ]
+
+[NP sína feveo ]
+
+[PP samkvæmt aþ ]
+
+[NP gjaldskrá nveþ ]
+
+[SCP sem ct ]
+
+[ [
+
+{*SUBJ [NP ráðherra nken ] }
+
+] ]
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+[VP staðfestir sfg3en ]
+
+. .
+
+
+[ [
+
+{*SUBJ [NP Þeir fakfn ] }
+
+{*SUBJ [NP framleiðendur nkfn ] }
+
+{*COMP [AP einir lkfnsf ] }
+
+[VP fá sfg3fn ]
+
+[NP greiðslur nvfo ]
+
+[PP í aþ ]
+
+[NP samræmi nheþ ]
+
+[PP við ao ]
+
+[NP samning nkeo ]
+
+[PP skv. aþ ]
+
+{*TIMEX [NP 1. ta ] }
+
+[NP mgr. nveþ ]
+
+[SCP sem ct ]
+
+[VP stunda sfg3fn ]
+
+[NP landbúnað nkeo ]
+
+[PP á aþ ]
+
+[NP lögbýli nheþ ]
+
+[CP eða c ]
+
+[NP garðyrkjubýli nheþ ]
+
+, ,
+
+[VPb eru sfg3fn ]
+
+[PP með ao ]
+
+[NP virðisaukaskattsnúmer nheo ]
+
+[CP og c ]
+
+[NP starfsemi nveo ]
+
+[SCP sem ct ]
+
+[VP fellur sfg3en ]
+
+[PP undir ao ]
+
+[NP atvinnugreinanúmer nheo ]
+
+{*TIMEX [NP 01 ta ] }
+
+[CP og c ]
+
+{*TIMEX [NP 02 ta ] }
+
+[PP í aþ ]
+
+[NP atvinnugreinaflokkun nveþ ]
+
+{*QUAL [NP Hagstofu nvee-s ] }
+
+{*QUAL [NP Íslands nhee-s ] }
+
+, ,
+
+[MWE_AdvP sbr. as ]
+
+
+{*SUBJ [NP ÍSAT2008 nhen ] }
+
+, ,
+
+[AdvP þó aa ]
+
+[AdvP ekki aa ]
+
+[NP starfsemi nveþ ]
+
+[PP í aþ ]
+
+[NP undirflokkum nkfþ ]
+
+{*TIMEX [NP 01.61 ta ] }
+
+, ,
+
+{*TIMEX [NP 01.62 ta ] }
+
+, ,
+
+{*TIMEX [NP 01.63 ta ] }
+
+, ,
+
+{*TIMEX [NP 01.64 ta ] }
+
+, ,
+
+{*TIMEX [NP 01.70 ta ] }
+
+[CP og c ]
+
+{*TIMEX [NP 02.40 ta ] }
+
+. .
+
+
+{*SUBJ [NP Skilyrði nhen ] }
+
+{*SUBJ [NP þetta fahen ] }
+
+[AdvP á aa ]
+
+[AdvP ekki aa ]
+
+{*SUBJ [NP við fp1fn ] }
+
+[PP um ao ]
+
+[NP framlög nhfo ]
+
+[SCP sem ct ]
+
+{*SUBJ [NP Framleiðnisjóður nken-s ] }
+
+{*QUAL [NP landbúnaðarins nkeeg ] }
+
+[VP ráðstafar sfg3en ]
+
+[PP skv. aþ ]
+
+{*TIMEX [NP 1. ta ] }
+
+[NP mgr. nveþ ]
+
+
+[PP Á aþ ]
+
+[NP hverju foheþ ]
+
+[NP lögbýli nheþ ]
+
+[CP eða c ]
+
+[NP garðyrkjubýli nheþ ]
+
+[VP skal sfg3en ]
+
+[AdvP aðeins aa ]
+
+{*SUBJ [NP einn tfken ] }
+
+{*COMP [AP framleiðandi lkenof ] }
+
+[VPb vera sng ]
+
+{*COMP [VPp skráður sþgken ] }
+
+[NP handhafi nkeþ ]
+
+{*QUAL [NP greiðslna nvfe ] }
+
+. .
+
+
+[AdvP Þó aa ]
+
+[VPb er sfg3en ]
+
+[NP einstaklingum nkfþ ]
+
+[PP í aþ ]
+
+[NP hjúskap nkeþ ]
+
+[CP eða c ]
+
+[AP óvígðri lveþsf ]
+
+[NP sambúð nveþ ]
+
+[PP á aþ ]
+
+[NP hverju foheþ ]
+
+[NP lögbýli nheþ ]
+
+{*COMP [AP heimilt lhensf ] }
+
+að cn
+
+[VPi skrá sng ]
+
+[NP tvo tfkfo ]
+
+{*SUBJ [NP framleiðendur nkfn ] }
+
+[SCP sem ct ]
+
+{*QUAL [NP handhafa nkfe ] }
+
+{*QUAL [NP greiðslna nvfe ] }
+
+. .
+
+
+[SCP Þegar c ]
+
+[PP um ao ]
+
+[AP fleiri lkfovm ]
+
+[AP sjálfstæða lkfosf ]
+
+[NP rekstraraðila nkfo ]
+
+[VPb er sfg3en ]
+
+að cn
+
+[VPi ræða sng ]
+
+[PP með ao ]
+
+[AP aðskilinn lkeosf ]
+
+[NP búrekstur nkeo ]
+
+[VP getur sfg3en ]
+
+{*SUBJ [NP hver fsken ] }
+
+[CP og c ]
+
+{*SUBJ [NP einn foken ] }
+
+{*QUAL [NP þeirra fpkfe ] }
+
+[VPb verið ssg ]
+
+[NP handhafi nkeþ ]
+
+{*QUAL [NP greiðslna nvfe ] }
+
+. .
+
+] ]
+
+{*TIMEX [NP 2 ta ] }
+
+) )
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+{*QUAL [NP L. nhfe ] }
+
+
+{*TIMEX [NP 126/2011 ta ] }
+
+, ,
+
+{*TIMEX [NP 273. ta ] }
+
+[NP gr. nveo ]
+
+{*TIMEX [NP 2 ta ] }
+
+) )
+
+{*QUAL [NP L. nhfe ] }
+
+
+{*TIMEX [NP 102/2016 ta ] }
+
+, ,
+
+{*TIMEX [NP 45. ta ] }
+
+[NP gr. nveo ]
+
+
+{*TIMEX [NP 4. ta ] }
+
+{*SUBJ [NP gr. nven ] }
+
+
+{*SUBJ [NP Fagráð nhen ] }
+
+. .
+
+
+{*SUBJ [NP Fagráð nhfn ] }
+
+[VP skulu sfg3fn ]
+
+[VPi starfa sng ]
+
+[PP fyrir ao ]
+
+[NP hverja foveo ]
+
+[NP búgrein nveo ]
+
+[CP og c ]
+
+[PP á aþ ]
+
+[AP einstökum lhfþsf ]
+
+[NP fagsviðum nhfþ ]
+
+. .
+
+
+{*SUBJ [NP Fagráð nhfn ] }
+
+[VP móta sfg3fn ]
+
+[NP stefnu nveo ]
+
+[PP í aþ ]
+
+[NP kynbótum nvfþ ]
+
+[CP og c ]
+
+[NP þróunarstarfi nheþ ]
+
+{*COMP [AP viðkomandi lvfnof ] }
+
+{*SUBJ [NP búgreinar nvfn ] }
+
+, ,
+
+[VP skilgreina sfg3fn ]
+
+{*SUBJ [NP ræktunarmarkmið nhfn ] }
+
+[CP og c ]
+
+[VP setja sfg3fn ]
+
+[NP reglur nvfo ]
+
+[PP um ao ]
+
+[NP framkvæmd nveo ]
+
+{*QUAL [NP meginþátta nkfe ] }
+
+{*QUAL [NP ræktunarstarfsins nheeg ] }
+
+. .
+
+
+[AdvP Enn aa ]
+
+[AdvP fremur aam ]
+
+[VP móta sfg3fn ]
+
+{*SUBJ [NP þau fphfn ] }
+
+[NP tillögur nvfo ]
+
+[PP um ao ]
+
+[NP stefnu nveo ]
+
+[PP í aþ ]
+
+[NP fræðslumálum nhfþ ]
+
+[CP og c ]
+
+[NP rannsóknum nvfþ ]
+
+{*QUAL [NP búgreinarinnar nveeg ] }
+
+[CP og c ]
+
+[VP fjalla sfg3fn ]
+
+[PP um ao ]
+
+[NP önnur fohfo ]
+
+[NP mál nhfo ]
+
+[SCP sem ct ]
+
+{*COMP [VPp vísað sþghen ] }
+
+[VPb er sfg3en ]
+
+[AdvP þangað aa ]
+
+[AdvP til aa ]
+
+{*QUAL [NP umsagnar nvee ] }
+
+[CP og c ]
+
+{*QUAL [NP afgreiðslu nvee ] }
+
+. .
+
+
+[PP Í aþ ]
+
+[NP fagráðum nvfþ ]
+
+[VP skulu sfg3fn ]
+
+[VPi sitja sng ]
+
+{*SUBJ [NP menn nkfn ] }
+
+[PP úr aþ ]
+
+[NP hópi nkeþ ]
+
+[VPg starfandi slg ]
+
+{*QUAL [NP bænda nkfe ] }
+
+[CP og c ]
+
+{*SUBJ [NP einn tfken ] }
+
+{*SUBJ [NP ráðunautur nken ] }
+
+[PP í aþ ]
+
+[AP hlutaðeigandi lveþof ]
+
+[NP búgrein nveþ ]
+
+[CP eða c ]
+
+[NP fagsviði nheþ ]
+
+. .
+
+
+[AdvP Jafnframt aa ]
+
+[VP skulu sfg3fn ]
+
+[VPi sitja sng ]
+
+[PP í aþ ]
+
+[NP fagráðum nvfþ ]
+
+[CP eða c ]
+
+[VPi starfa sng ]
+
+[PP með aþ ]
+
+[NP þeim fphfþ ]
+
+{*SUBJ [NP sérfróðir nkfn ] }
+
+{*SUBJ [NP aðilar nkfn ] }
+
+. .
+
+
+{*SUBJ [NP Fagráð nhfn ] }
+
+[VP skulu sfg3fn ]
+
+[VPi hljóta sng ]
+
+[NP staðfestingu nveþ ]
+
+[ [
+
+{*SUBJ [NP ráðherra nken ] }
+
+] ]
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+[PP að aþ ]
+
+[AP fenginni lveþsf ]
+
+[NP umsögn nveþ ]
+
+{*QUAL [NP Bændasamtaka nkfe-s ] }
+
+{*QUAL [NP Íslands nhee-s ] }
+
+. .
+
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+{*QUAL [NP L. nhfe ] }
+
+
+{*TIMEX [NP 126/2011 ta ] }
+
+, ,
+
+{*TIMEX [NP 273. ta ] }
+
+[NP gr. nveo ]
+
+
+{*TIMEX [NP 5. ta ] }
+
+{*SUBJ [NP gr. nven ] }
+
+
+[PP Um ao ]
+
+[NP félagsaðild nveo ]
+
+{*QUAL [NP bænda nkfe ] }
+
+. .
+
+
+{*SUBJ [NP Hver fsken ] }
+
+{*SUBJ [NP sá faken ] }
+
+[SCP sem ct ]
+
+[VP stundar sfg3en ]
+
+[NP búrekstur nkeo ]
+
+[PP í aþ ]
+
+[NP atvinnuskyni nheþ ]
+
+[PP á ao ]
+
+[NP rétt nkeo ]
+
+[PP á aþ ]
+
+[NP aðild nveþ ]
+
+[PP að aþ ]
+
+[NP búnaðarsambandi nheþ ]
+
+{*QUAL [NP síns fehee ] }
+
+{*QUAL [NP héraðs nhee ] }
+
+[PP gegnum ao ]
+
+[NP búnaðarfélag nheo ]
+
+, ,
+
+[NP búgreinafélag nheo ]
+
+[CP eða c ]
+
+[PP með aþ ]
+
+[AP beinni lveþsf ]
+
+[NP aðild nveþ ]
+
+[PP eftir aþ ]
+
+[NP samþykktum nvfþ ]
+
+[AP viðkomandi lheeof ]
+
+{*QUAL [NP búnaðarsambands nhee ] }
+
+. .
+
+
+{*SUBJ [NP Sama fbhen ] }
+
+{*SUBJ [NP búnaðarsamband nhen ] }
+
+[VP getur sfg3en ]
+
+[VPs náð ssg ]
+
+[PP yfir ao ]
+
+[AP fleiri lhfovm ]
+
+[NP héruð nhfo ]
+
+[CP og c ]
+
+[NP sýslur nvfo ]
+
+. .
+
+
+{*TIMEX [NP II. ta ] }
+
+
+{*SUBJ [NP kafli nken ] }
+
+. .
+
+
+[ [
+
+{*SUBJ [NP Jarðabætur nvfn-s ] }
+
+[CP og c ]
+
+{*SUBJ [NP landgreiðslur nvfn ] }
+
+. .
+
+] ]
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+{*QUAL [NP L. nhfe ] }
+
+
+{*TIMEX [NP 102/2016 ta ] }
+
+, ,
+
+{*TIMEX [NP 48. ta ] }
+
+[NP gr. nveo ]
+
+
+{*TIMEX [NP 6. ta ] }
+
+{*SUBJ [NP gr. nven ] }
+
+
+{*SUBJ [NP Markmið nhen ] }
+
+. .
+
+
+{*SUBJ [NP Jarðabætur nvfn ] }
+
+[SCP sem ct ]
+
+[AdvP hér aa ]
+
+[AdvP um aa ]
+
+[VP ræðir sfg3en ]
+
+[VP skulu sfg3fn ]
+
+[VPi miða sng ]
+
+[PP að aþ ]
+
+[NP því fpheþ ]
+
+að cn
+
+[VPi bæta sng ]
+
+[NP aðstöðu nveo ]
+
+[PP til ae ]
+
+{*SUBJ [NP búskapar nkfn ] }
+
+[PP á aþ ]
+
+[AP viðkomandi lhfþof ]
+
+[NP býlum nhfþ ]
+
+[CP og c ]
+
+[VP stuðla sfg3fn ]
+
+[PP með aþ ]
+
+[NP því fpheþ ]
+
+[SCP að c ]
+
+[NP framförum nvfþ ]
+
+[PP í aþ ]
+
+[NP landbúnaði nkeþ ]
+
+[CP og c ]
+
+[VP auka sfg3fn ]
+
+[NP samkeppnishæfni nveo ]
+
+{*QUAL [NP hans fpkee ] }
+
+. .
+
+
+{*SUBJ [NP Þær fpvfn ] }
+
+[VP skulu sfg3fn ]
+
+[PP auk ae ]
+
+{*QUAL [NP þess fphee ] }
+
+[VPi stuðla sng ]
+
+[PP að aþ ]
+
+[AP sjálfbærri lveþvm ]
+
+[NP landnýtingu nveþ ]
+
+[CP og c ]
+
+[NP verndun nveþ ]
+
+{*QUAL [NP vistkerfa nhfe ] }
+
+, ,
+
+{*QUAL [NP taka nvfe ] }
+
+[NP mið nheo ]
+
+[PP af aþ ]
+
+[NP skuldbindingum nvfþ ]
+
+{*QUAL [NP Íslendinga nkfe-s ] }
+
+[PP um ao ]
+
+[NP varðveislu nveo ]
+
+[AP líffræðilegrar lveesf ]
+
+{*QUAL [NP fjölbreytni nvee ] }
+
+, ,
+
+[NP markmiðum nhfþ ]
+
+{*QUAL [NP þjóðarinnar nveeg ] }
+
+[PP um ao ]
+
+[NP verndun nveo ]
+
+[AdvP umhverfis aa ]
+
+[CP og c ]
+
+{*QUAL [NP sjálfbæra nkee ] }
+
+[NP þróun nveo ]
+
+[CP og c ]
+
+[VP stuðla sfg3fn ]
+
+[SCP að c ]
+
+[NP framþróun nveo ]
+
+{*QUAL [NP vistrænna nvfe ] }
+
+[CP og c ]
+
+{*QUAL [NP lífrænna nvfe ] }
+
+[NP búskaparhátta nkfo ]
+
+. .
+
+
+{*TIMEX [NP 7. ta ] }
+
+{*SUBJ [NP gr. nven ] }
+
+
+{*SUBJ [NP Framkvæmd nven ] }
+
+. .
+
+
+{*SUBJ [NP Skilyrði nhen ] }
+
+{*QUAL [NP þess fphee ] }
+
+[SCP að c ]
+
+{*SUBJ [NP jarðabætur nvfn ] }
+
+[VP njóti svg3fn ]
+
+{*QUAL [NP framlags nhee ] }
+
+[ [
+
+[CP eða c ]
+
+{*QUAL [NP landgreiðslna nvfe ] }
+
+] ]
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+[PP samkvæmt aþ ]
+
+[NP lögum nhfþ ]
+
+[NP þessum fahfþ ]
+
+[VPb eru sfg3fn ]
+
+[SCP að c ]
+
+[PP um ao ]
+
+[NP þær fpvfo ]
+
+[VP hafi svg3fn ]
+
+[VPb verið ssg ]
+
+{*COMP [VPp samið sþghen ] }
 
 [AdvP eins aa ]
 
 [CP og c ]
 
-{*SUBJ [NP hann fpken ] }
+{*COMP [VPp lýst sþghen ] }
 
-[VP bæri svg3eþ ]
+[VPb er sfg3en ]
+
+[PP í aþ ]
+
+{*TIMEX [NP 3. ta ] }
+
+[NP gr. nveo ]
+
+{*QUAL [NP laga nhfe ] }
+
+{*QUAL [NP þessara fahfe ] }
+
+, ,
+
+[SCP að c ]
+
+[PP um ao ]
+
+[NP það fpheo ]
+
+[VP hafi svg3fn ]
+
+[VPb verið ssg ]
+
+{*COMP [VPp sótt sþghen ] }
+
+[CP og c ]
+
+[PP með aþ ]
+
+[AdvP því aa ]
+
+{*COMP [VPp mælt sþghen ] }
+
+[PP af aþ ]
+
+[AP viðkomandi lheþof ]
+
+[NP búnaðarsambandi nheþ ]
+
+[CP eða c ]
+
+[NP leiðbeiningarmiðstöð nveþ ]
+
+. .
+
+
+[ [
+
+{*SUBJ [NP Ráðherra nken ] }
+
+] ]
+
+{*TIMEX [NP 2 ta ] }
+
+) )
+
+[VP setur sfg3en ]
+
+[PP með aþ ]
+
+[NP reglugerð nveþ ]
+
+{*TIMEX [NP 3 ta ] }
+
+) )
+
+{*COMP [AP nánari lhfnvm ] }
+
+{*SUBJ [NP ákvæði nhfn ] }
+
+[PP um ao ]
+
+[NP skilyrði nhfo ]
+
+[PP fyrir aþ ]
+
+[NP framlögum nhfþ ]
+
+[PP til ae ]
+
+{*QUAL [NP jarðabóta nvfe ] }
+
+[ [
+
+[CP og c ]
+
+{*QUAL [NP landgreiðslna nvfe ] }
+
+] ]
+
+, ,
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+[NP fresti nkeþ ]
+
+[PP til ae ]
+
+{*QUAL [NP umsókna nvfe ] }
+
+[CP og c ]
+
+[NP tilhögun nveo ]
+
+{*QUAL [NP greiðslna nvfe ] }
+
+. .
+
+
+{*SUBJ [NP Framlög nhfn ] }
+
+[PP til ae ]
+
+{*QUAL [NP jarðabóta nvfe ] }
+
+[VP geta sfg3fn ]
+
+[VPs náð ssg ]
+
+[PP til ae ]
+
+{*QUAL [NP allra fovfe ] }
+
+{*QUAL [NP jarðeigna nvfe ] }
+
+[AdvP þar aa ]
+
+[SCP sem c ]
+
+{*SUBJ [NP landbúnaður nken ] }
+
+[VPb er sfg3en ]
+
+{*COMP [VPp stundaður sþgken ] }
+
+, ,
+
+[SCP að c ]
+
+[AP undanskildum lvfþsf ]
+
+[NP þeim favfþ ]
+
+[NP jörðum nvfþ ]
+
+[CP og c ]
+
+[NP jarðarhlutum nkfþ ]
+
+[SCP sem ct ]
+
+[VP liggja sfg3fn ]
+
+[PP á aþ ]
+
+[NP svæðum nhfþ ]
+
+[SCP sem ct ]
+
+{*COMP [AP tekin lvensf ] }
+
+[VP hafa sfg3fn ]
+
+[VPb verið ssg ]
+
+[PP úr aþ ]
+
+[NP landbúnaðarnotum nhfþ ]
+
+[CP eða c ]
+
+[VP hafa sfg3fn ]
+
+[VPb verið ssg ]
+
+{*COMP [VPp skipulögð sþghfn ] }
+
+[PP til ae ]
+
+{*QUAL [NP annars fohee ] }
+
+[CP en c ]
+
+{*QUAL [NP landbúnaðar nkee ] }
+
+. .
+
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+{*QUAL [NP L. nhfe ] }
+
+
+{*TIMEX [NP 102/2016 ta ] }
+
+, ,
+
+{*TIMEX [NP 46. ta ] }
+
+[NP gr. nveo ]
+
+{*TIMEX [NP 2 ta ] }
+
+) )
+
+{*QUAL [NP L. nhfe ] }
+
+
+{*TIMEX [NP 126/2011 ta ] }
+
+, ,
+
+{*TIMEX [NP 273. ta ] }
+
+[NP gr. nveo ]
+
+{*TIMEX [NP 3 ta ] }
+
+) )
+
+{*SUBJ [NP Rg nven-s ] }
+
+. .
+
+
+{*TIMEX [NP 322/1999 ta ] }
+
+. .
+
+
+{*TIMEX [NP 8. ta ] }
+
+{*SUBJ [NP gr. nven ] }
+
+
+{*SUBJ [NP Eftirlit nhen ] }
+
+. .
+
+
+[ [
+
+{*SUBJ [NP Matvælastofnun nven-s ] }
+
+] ]
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+[VP annast sfm3en ]
+
+[NP eftirlit nheo ]
+
+[AdvP með aa ]
+
+[SCP að c ]
+
+{*SUBJ [NP jarðabætur nvfn ] }
+
+[VPb séu svg3fn ]
+
+{*COMP [VPp unnar sþgvfn ] }
+
+[PP í aþ ]
+
+[NP samræmi nheþ ]
+
+[PP við ao ]
+
+[AP fyrirliggjandi lveoof ]
+
+[NP áætlun nveo ]
+
+[CP og c ]
+
+[NP aðrar fovfo ]
+
+[NP reglur nvfo ]
+
+[SCP sem ct ]
+
+[VP gilda sfg3fn ]
+
+[PP um ao ]
+
+[NP slíkar fbvfo ]
+
+[NP framkvæmdir nvfo ]
+
+[CP og c ]
+
+[VP annast sfm3fn ]
+
+[NP úttekt nveo ]
+
+[SCP þegar c ]
+
+{*SUBJ [NP framkvæmd nven ] }
+
+[VPb er sfg3en ]
+
+{*COMP [VPp lokið sþghen ] }
+
+. .
+
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+{*QUAL [NP L. nhfe ] }
+
+
+{*TIMEX [NP 102/2016 ta ] }
+
+, ,
+
+{*TIMEX [NP 47. ta ] }
+
+[NP gr. nveo ]
+
+
+{*TIMEX [NP III. ta ] }
+
+
+{*SUBJ [NP kafli nken ] }
+
+. .
+
+
+[ [
+
+{*SUBJ [NP Kynbótaverkefni nken-s ] }
+
+. .
+
+] ]
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+{*QUAL [NP L. nhfe ] }
+
+
+{*TIMEX [NP 102/2016 ta ] }
+
+, ,
+
+{*TIMEX [NP 51. ta ] }
+
+[NP gr. nveo ]
+
+
+{*TIMEX [NP 9. ta ] }
+
+{*SUBJ [NP gr. nven ] }
+
+
+{*SUBJ [NP Markmið nhen ] }
+
+. .
+
+
+{*SUBJ [NP Markmið nhen ] }
+
+[ [
+
+{*QUAL [NP kynbóta nvfe ] }
+
+] ]
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+[VPb er sfg3en ]
+
+að cn
+
+[VPi tryggja sng ]
+
+[NP framfarir nvfo ]
+
+[PP í aþ ]
+
+[NP ræktun nveþ ]
+
+{*QUAL [NP búfjár nhee ] }
+
+[PP í aþ ]
+
+[NP þeim fakeþ ]
+
+[NP tilgangi nkeþ ]
+
+að cn
+
+[VPi auka sng ]
+
+[NP samkeppnishæfni nveo ]
+
+[AP íslensks lheesf ]
+
+{*QUAL [NP búfjár nhee ] }
+
+[CP og c ]
+
+{*QUAL [NP búfjárafurða nvfe ] }
+
+. .
+
+
+[ [
+
+[AdvP Einnig aa ]
+
+[VP skal sfg3en ]
+
+[VPi tryggja sng ]
+
+[NP framfarir nvfo ]
+
+[PP á aþ ]
+
+[NP sviði nheþ ]
+
+{*QUAL [NP stofnræktunar nvee ] }
+
+[CP og c ]
+
+{*QUAL [NP útvalsathugana nvfe ] }
+
+{*QUAL [NP plantna nvfe ] }
+
+. .
+
+
+{*SUBJ [NP Kynbótaverkefni nhfn ] }
+
+[VP skulu sfg3fn ]
+
+[VPi taka sng ]
+
+[NP mið nheo ]
+
+[PP af aþ ]
+
+[NP skuldbindingum nvfþ ]
+
+{*QUAL [NP Íslendinga nkfe-s ] }
+
+[PP um ao ]
+
+[NP varðveislu nveo ]
+
+[AP líffræðilegrar lveesf ]
+
+{*QUAL [NP fjölbreytni nvee ] }
+
+. .
+
+] ]
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+{*QUAL [NP L. nhfe ] }
+
+
+{*TIMEX [NP 102/2016 ta ] }
+
+, ,
+
+{*TIMEX [NP 49. ta ] }
+
+[NP gr. nveo ]
+
+
+{*TIMEX [NP 10. ta ] }
+
+{*SUBJ [NP gr. nven ] }
+
+
+{*SUBJ [NP Skýrsluhald nven ] }
+
+. .
+
+
+{*SUBJ [NP Bændasamtök nhfn ] }
+
+{*QUAL [NP Íslands nhee-s ] }
+
+[VP skulu sfg3fn ]
+
+[VPi sjá sng ]
+
+[PP um ao ]
+
+[NP kynbótaskýrsluhald nveo ]
+
+[PP fyrir ao ]
+
+[NP hverja foveo ]
+
+[NP búgrein nveo ]
+
+[CP og c ]
+
+[VP móta sfg3fn ]
+
+[PP um ao ]
+
+[NP það fpheo ]
+
+[NP reglur nvfo ]
+
+[PP ásamt aþ ]
+
+[NP fagráðum nvfþ ]
+
+[CP og c ]
+
+[VP bera sfg3fn ]
 
 [NP ábyrgð nveo ]
 
 [PP á aþ ]
 
-[NP þessu faheþ ]
-
-[NP öllu foheþ ]
-
-. .
-
-{*COMP [AP Sæl lvensf ] }
-
-[VPb verið ssg ]
-
-{*SUBJ [NP þið fp2fn ] }
-
-, ,
-
-[VP sagði sfg3eþ ]
-
-{*SUBJ [NP Sveinn nken-s ] }
-
-[CP og c ]
-
-[VP hló sfg3eþ ]
-
-{*COMP [AP innra lhenvm ] }
-
-[PP með aþ ]
-
-[NP sér fpkeþ ]
-
-. .
-
-{*SUBJ [NP Náttbuxurnar nvfngs ] }
-
-[VP límdust sfm3fþ ]
-
-[AdvP örlítið aa ]
-
-[PP við ao ]
-
-[NP hann fpkeo ]
-
-[CP en c ]
-
-[VPb voru sfg3fþ ]
-
-[AdvP fyrst aae ]
-
-[CP og c ]
-
-[AdvP fremst aae ]
-
-[AP þurrar lvfosf ]
-
-[CP og c ]
-
-[AP hreinar lvfosf ]
-
-. .
-
-{*SUBJ [NP Trukkalessan nken-s ] }
-
-[CP og c ]
-
-[NP hinn gken ]
-
-{*SUBJ [NP harðjaxlinn nkeng ] }
-
-[VP þurftu sfg3fþ ]
-
-[AdvP ekki aa ]
-
-að cn
-
-[VPi horfa sng ]
-
-[AdvP upp aa ]
-
-[PP á ao ]
-
-[NP hann fpkeo ]
-
-[AP klofblautan lkeosf ]
-
-[AdvP eins aa ]
-
-[CP og c ]
-
-[NP róna nkeþ ]
-
-[PP í aþ ]
-
-[NP ræsinu nheþg ]
-
-[CP og c ]
-
-{*SUBJ [NP þau fphfn ] }
-
-[VP þurftu sfg3fþ ]
-
-[CP heldur c ]
-
-[AdvP ekki aa ]
-
-að cn
-
-[VPi þola sng ]
-
-[NP hann fpkeo ]
-
-[AP viðskotaillan lkeosf ]
-
-[PP af aþ ]
-
-[NP auðmýkingu nveþ ]
-
-. .
-
-{*SUBJ [NP Hann nken-s ] }
-
-[VP fengi svg3eþ ]
-
-að cn
-
-[VPi halda sng ]
-
-[NP virðuleikanum nkeþg ]
-
-[PP í aþ ]
-
-[AP sæmilegum lvfþsf ]
-
-[NP skorðum nvfþ ]
-
-[CP og c ]
-
-[PP í aþ ]
-
-[NP þakklætisskyni nheþ ]
-
-[PP við ao ]
-
-[NP almættið nheog ]
-
-[VP myndi svg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VPi gera sng ]
-
-[NP þessu faheþ ]
-
-[NP fólki nheþ ]
-
-[PP í aþ ]
-
-[AP rauðu lheþsf ]
-
-[CP og c ]
-
-[AP bláu lkfþvf ]
-
-[NP samfestingunum nkfþg ]
-
-[NP ferðina nveog ]
-
-[AdvP eins aa ]
-
-[AdvP þægilega aa ]
-
-[CP og c ]
-
-{*COMP [AP hægt lhensf ] }
-
-[VPb var sfg3eþ ]
-
-. .
-
-{*SUBJ [NP Konan nveng ] }
-
-[VP kraup sfg3eþ ]
-
-[PP við ao ]
-
-[NP hlið nveo ]
-
-{*QUAL [NP hans fpkee ] }
-
-[CP og c ]
-
-[VP mældi sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-[AdvP út aa ]
-
-. .
-
-[VP Sver sfg1en ]
-
-{*SUBJ [NP læri nhen ] }
-
-{*QUAL [NP hennar fpvee ] }
-
-[VP troðfylltu sfg3fþ ]
-
-[AdvP út aa ]
-
-[PP í ao ]
-
-[NP skálmarnar nvfog ]
+[NP kynbótamati nheþ ]
 
 [PP á aþ ]
 
-[NP samfestingnum nkeþg ]
+[NP grundvelli nkeþ ]
 
-[SCP sem ct ]
-
-[VPb var sfg3eþ ]
-
-[AdvP augljóslega aa ]
-
-[AdvP ekki aa ]
-
-{*COMP [VPp hannaður sþgken ] }
-
-[PP fyrir ao ]
-
-[NP kvenlíkama nkeo ]
+{*QUAL [NP þess fphee ] }
 
 . .
 
-{*SUBJ [NP Þráðbeint nken-s ] }
 
-{*COMP [VPp sniðið sþghen ] }
+{*TIMEX [NP 11. ta ] }
 
-[VP fór sfg3eþ ]
+{*SUBJ [NP gr. nven ] }
 
-[NP félaga nkfo ]
 
-{*QUAL [NP hennar fpvee ] }
-
-[VP mun sfg3en ]
-
-[AdvP betur aam ]
+[NP Ræktunarstöðvar nvfo ]
 
 . .
 
-[VP Geturðu sfg2en ]
 
-[VPs staðið ssg ]
+{*SUBJ [NP Hlutverk nhen ] }
 
-{*COMP [AP uppréttur lkensf ] }
+{*QUAL [NP ræktunarstöðva nvfe ] }
 
-? ?
+{*SUBJ [NP … nhen ] }
 
-[VP spurði sfg3eþ ]
+{*TIMEX [NP 1 ta ] }
 
-{*SUBJ [NP hún fpven ] }
-
-. .
-
-{*SUBJ [NP Ég fp1en ] }
-
-[VP gat sfg1eþ ]
-
-[NP það fpheo ]
-
-[AdvP áðan aa ]
-
-[PP að aþ ]
-
-[AP minnsta lkeþve ]
-
-[NP kosti nkeþ ]
-
-, ,
-
-[VP svaraði sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-. .
-
-[VP Geturðu sfg2en ]
-
-[VPs gengið ssg ]
-
-? ?
-
-[InjP Nei au ]
-
-. .
-
-{*SUBJ [NP Hún fpven ] }
-
-[VP þreifaði sfg3eþ ]
-
-[AdvP laust aa ]
-
-[PP á aþ ]
-
-[NP viðbeininu nheþg ]
-
-[SCP sem ct ]
-
-[VP bungaði sfg3eþ ]
-
-[AdvP út aa ]
-
-[PP undir aþ ]
-
-[NP skyrtukraganum nkeþg ]
-
-[CP og c ]
-
-{*SUBJ [NP Sveinn nken-s ] }
-
-[VP þurfti sfg3eþ ]
-
-að cn
-
-[VPi bíta sng ]
-
-[PP á ao ]
-
-[NP jaxlinn nkeog ]
-
-[PP til ae ]
-
-að cn
-
-[VPi kveinka sng ]
-
-[NP sér fpkeþ ]
-
-[AdvP ekki aa ]
-
-. .
-
-[NP Þetta faheo ]
+) )
 
 [VPb er sfg3en ]
 
-[AP ljótt lheosf ]
-
-[NP brot nheo ]
-
-, ,
-
-[VP sagði sfg3eþ ]
-
-{*SUBJ [NP hún fpven ] }
-
-. .
-
-[NP Félagi nheþ-s ]
-
-{*QUAL [NP hennar fpvee ] }
-
-[VP studdi sfg3eþ ]
-
-[NP sig fpveo ]
-
-[PP við ao ]
-
-[AP samanbrotnar lvfosf ]
-
-[NP sjúkrabörurnar nvfog ]
-
-[CP og c ]
-
-[VP flautaði sfg3eþ ]
-
-; ;
-
-{*SUBJ [NP það fphen ] }
-
-[VPb var sfg3eþ ]
-
-{*COMP [AP langur lkensf ] }
-
-[CP og c ]
-
-{*COMP [AP bogadreginn lkensf ] }
-
-{*SUBJ [NP tónn nken ] }
-
-[SCP sem ct ]
-
-[VP gaf sfg3eþ ]
-
-[PP til ae ]
-
-{*QUAL [NP kynna nhfe ] }
-
-[NP undrun nveþ ]
-
-[CP og c ]
-
-[NP aðdáun nveþ ]
-
-. .
-
-[AdvP Hvernig aa ]
-
-[VP fórstu sfg2eþ ]
-
-[PP að aþ ]
-
-[NP þessu faheþ ]
-
-, ,
-
-{*SUBJ [NP kallinn nkeng ] }
-
-{*SUBJ [NP minn feken ] }
-
-? ?
-
-[VP spurði sfg3eþ ]
-
-[NP hann fpkeo ]
-
-. .
-
-{*SUBJ [NP Ég fp1en ] }
-
-[VPb var sfg1eþ ]
-
 að cn
 
-[VPi skipta sng ]
-
-[PP um ao ]
-
-[NP ljósaperu nveo ]
-
-, ,
-
-[VP sagði sfg3eþ ]
-
-{*SUBJ [NP Sveinn nken-s ] }
-
-[CP og c ]
-
-[VP hló sfg3eþ ]
-
-[AP hvellum lkeþsf ]
-
-[NP hlátri nkeþ ]
-
-[SCP þótt c ]
-
-{*SUBJ [NP það fphen ] }
-
-[VP hefði svg3eþ ]
-
-[PP í ao ]
-
-[NP för nveo ]
+[VPi rækta sng ]
 
 [PP með aþ ]
 
-[NP sér fpheþ ]
-
-[SCP að c ]
-
-{*SUBJ [NP kvölin nveng ] }
-
-[VP spryngi sfg3eþ ]
-
-[AdvP út aa ]
-
-[PP við ao ]
-
-[NP herðablaðið nheog ]
-
-[CP og c ]
-
-[VP breiddi sfg3eþ ]
-
-[PP úr aþ ]
-
-[NP sér fpveþ ]
-
-[AdvP eins aa ]
-
-[CP og c ]
-
-[VPs eitrað ssg ]
-
-[NP blóm nhfo ]
-
-. .
-
-[VP Varstu sfg2eþ ]
-
-{*COMP [AP búinn lkensf ] }
-
-að cn
-
-[VPi standa sng ]
-
-[AdvP lengi aa ]
-
-[AdvP uppi aa ]
-
-[PP á aþ ]
-
-[NP þessari faveþ ]
-
-[NP körfu nveþ ]
-
-[CP og c ]
-
-[VPi halda sng ]
-
-[PP við ao ]
-
-[NP peruna nveog ]
-
-[CP og c ]
-
-[VPi bíða sng ]
-
-[PP eftir ao ]
-
-[SCP að c ]
-
-{*SUBJ [NP það fphen ] }
-
-[VP kæmu svg3fþ ]
-
-{*SUBJ [NP níutíu tfhfn ] }
-
-[CP og c ]
-
-{*SUBJ [NP níu tfkfn ] }
-
-{*SUBJ [NP snillingar nkfn ] }
-
-[PP í ao ]
-
-[NP viðbót nveo ]
-
-[PP til ae ]
-
-að cn
-
-[VPi snúa sng ]
-
-[PP fyrir ao ]
-
-[NP þig fp2eo ]
-
-[NP húsinu nheþg ]
-
-? ?
-
-[VP sagði sfg3eþ ]
-
-{*SUBJ [NP sjúkraflutningamaðurinn nkeng ] }
-
-. .
-
-{*SUBJ [NP Sveinn nken-s ] }
-
-[VP lygndi sfg3eþ ]
-
-[AdvP aftur aa ]
-
-[NP augunum nhfþg ]
-
-. .
-
-{*SUBJ [NP Þetta fahen ] }
-
-[VPb var sfg3eþ ]
-
-[AdvP einmitt aa ]
-
-{*SUBJ [NP viðmótið nheng ] }
-
-[SCP sem ct ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP hafði sfg3eþ ]
-
-[VPs búist ssm ]
-
-[AdvP við aa ]
-
-. .
-
-{*SUBJ [NP Sjúkraflutningamenn nkfn-s ] }
-
-[VPb voru sfg3fþ ]
-
-{*COMP [AP harðsnúnasta lhenve ] }
-
-{*SUBJ [NP lið nhen ] }
-
-[PP í aþ ]
-
-[NP veröldinni nveþg ]
-
-. .
-
-[NP Miskunnarlausari nkeþ-s ]
-
-[CP en c ]
-
-{*SUBJ [NP hvítflibbaglæpamenn nkfn ] }
-
-, ,
-
-{*COMP [AP hryssingslegri lkenvm ] }
-
-[CP en c ]
-
-{*SUBJ [NP úthafsaldan nveng ] }
-
-. .
-
-[VP Láttu sbg2en ]
-
-[AdvP ekki aa ]
-
-[AdvP svona aa ]
-
-, ,
-
-{*SUBJ [NP Jónsi nken-s ] }
-
-, ,
-
-[VP sagði sfg3eþ ]
-
-{*SUBJ [NP konan nveng ] }
-
-. .
-
-[VP Komdu sbg2en ]
-
-[PP með ao ]
-
-[NP börurnar nvfog ]
-
-. .
-
-{*SUBJ [NP Hrjúfasti nken-s ] }
-
-{*SUBJ [NP skrápurinn nkeng ] }
-
-[VP sneri sfg3eþ ]
-
-[AdvP þó aa ]
-
-[PP að aþ ]
-
-[NP byttunum nvfþg ]
-
-. .
-
-{*SUBJ [NP Byttur nvfn-s ] }
-
-[VP máttu sfg3fþ ]
-
-[VPi ganga sng ]
-
-{*SUBJ [NP sjálfar fbvfn ] }
-
-[AdvP út aa ]
-
-[PP að aþ ]
-
-[NP bílnum nkeþg ]
-
-[SCP nema c ]
-
-{*SUBJ [NP þær fpvfn ] }
-
-[VPb væru svg3fþ ]
-
-[AP ælandi lheþof ]
-
-[NP blóði nheþ ]
+[NP úrvali nheþ ]
 
 [CP eða c ]
 
-{*SUBJ [NP hjartað nheng ] }
+[NP innflutningi nkeþ ]
 
-[PP í aþ ]
-
-[NP þeim fpvfþ ]
-
-[VPb væri svg3eþ ]
-
-{*SUBJ [NP stopp nhen ] }
-
-- -
+{*QUAL [NP erfðaefnis nhee ] }
 
 [AdvP þá aa ]
 
-[VPb var sfg3eþ ]
+[NP eiginleika nkfo ]
 
-[NP þeim fakeþ ]
+[SCP sem ct ]
 
-{*COMP [AP náðarsamlegast lhense ] }
+{*COMP [VPp taldir sþgkfn ] }
 
-{*COMP [VPp skellt sþghen ] }
+[VPb eru sfg3fn ]
 
-[PP á ao ]
-
-[NP börurnar nvfog ]
+{*COMP [AP eftirsóknarverðir lkfnsf ] }
 
 . .
 
-[SCP Þegar c ]
 
-{*SUBJ [NP hann fpken ] }
+{*SUBJ [NP Ríkissjóður nken ] }
 
-[VPb var sfg3eþ ]
+[VP tekur sfg3en ]
 
-{*COMP [AP lítill lkensf ] }
+[NP þátt nkeo ]
 
-, ,
+[PP í ao ]
 
-[AP skömmu lheþsf ]
-
-[AdvP áður aa ]
-
-[CP en c ]
-
-{*SUBJ [NP móðir nven ] }
-
-{*QUAL [NP hans fpkee ] }
-
-[VP gekk sfg3eþ ]
-
-[PP til ae ]
-
-{*QUAL [NP liðs nhee ] }
-
-[PP við ao ]
-
-[NP Guð nkeo-s ]
+[NP stofnun nveo ]
 
 [CP og c ]
 
-[NP AA-samtökin nhfogs ]
+[NP rekstri nkeþ ]
+
+{*QUAL [NP ræktunarstöðva nvfe ] }
+
+[PP samkvæmt aþ ]
+
+[NP samningi nkeþ ]
+
+[PP við ao ]
+
+[NP Bændasamtök nhfo-s ]
+
+{*QUAL [NP Íslands nhee-s ] }
 
 , ,
 
-[VP hafði sfg3eþ ]
+[MWE_AdvP sbr. as ]
 
-{*SUBJ [NP hann fpken ] }
+{*TIMEX [NP 3. ta ] }
 
-[VPs þurft ssg ]
+[NP gr. nveo ]
+
+{*QUAL [NP laga nhfe ] }
+
+{*QUAL [NP þessara fahfe ] }
+
+. .
+
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+{*QUAL [NP L. nhfe ] }
+
+
+{*TIMEX [NP 102/2016 ta ] }
+
+, ,
+
+{*TIMEX [NP 50. ta ] }
+
+[NP gr. nveo ]
+
+
+{*TIMEX [NP 12. ta ] }
+
+{*QUAL [NP gr. nvee ] }
+
+{*SUBJ [NP … nhen ] }
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+{*QUAL [NP L. nhfe ] }
+
+
+{*TIMEX [NP 67/2005 ta ] }
+
+, ,
+
+{*TIMEX [NP 1. ta ] }
+
+[NP gr. nveo ]
+
+
+{*TIMEX [NP 13. ta ] }
+
+{*SUBJ [NP gr. nven ] }
+
+
+{*SUBJ [NP Búfjársýningar nvfn ] }
+
+[CP og c ]
+
+{*SUBJ [NP búfjármat nhen ] }
+
+. .
+
+
+{*SUBJ [NP Fagráð nhen ] }
+
+{*QUAL [NP hverrar fsvee ] }
+
+{*SUBJ [NP búgreinar nvfn ] }
+
+[VP skal sfg3en ]
+
+[VPi meta sng ]
+
+[NP þörf nveo ]
+
+[PP fyrir ao ]
+
+[NP kynbótadóma nkfo ]
+
+[CP og c ]
+
+[NP sýningar nvfo ]
+
+{*QUAL [NP búfjár nhee ] }
+
+[PP í aþ ]
+
+[AP viðkomandi lveþof ]
+
+[NP búgrein nveþ ]
+
+[CP og c ]
+
+[VPi gera sng ]
+
+[NP tillögur nvfo ]
+
+[PP til ae ]
+
+{*QUAL [NP Bændasamtaka nkfe-s ] }
+
+{*QUAL [NP Íslands nhee-s ] }
+
+[CP og c ]
+
+[AP viðkomandi lhfeof ]
+
+{*QUAL [NP aðildarfélaga nhfe ] }
+
+[PP um ao ]
+
+[NP dómstörf nhfo ]
+
+[CP og c ]
+
+[NP sýningarhald nveo ]
+
+. .
+
+
+[NP Sláturleyfishöfum nhfþ ]
+
+[VPb er sfg3en ]
+
+{*COMP [AP skylt lhensf ] }
 
 að cn
 
-[VPi hringja sng ]
+[VPi láta sng ]
 
-[PP eftir aþ ]
+[PP í aþ ]
+
+[NP té nheþ ]
+
+{*QUAL [NP aðstöðu nvee ] }
+
+[PP til ae ]
+
+{*QUAL [NP þess fphee ] }
+
+að cn
+
+[VPi framkvæma sng ]
+
+[AP nauðsynlegar lvfosf ]
+
+[NP athuganir nvfo ]
+
+[PP á aþ ]
+
+[NP afurðum nvfþ ]
+
+, ,
+
+[NP enda nkeþ ]
+
+[VPb sé sfg1en ]
 
 [NP þeim fphfþ ]
 
-, ,
+{*COMP [VPp gert sþghen ] }
 
-[AdvP þrisvar aa ]
-
-[PP í aþ ]
-
-[NP sömu fbveþ ]
-
-[NP vikunni nveþg ]
-
-, ,
-
-[SCP þegar c ]
-
-{*SUBJ [NP kerlingin nveng ] }
-
-[VP hafði sfg3eþ ]
-
-[VPs kvartað ssg ]
-
-[PP yfir ao ]
-
-[NP verk nkeo ]
-
-[SCP sem ct ]
-
-[VP leiddi sfg3eþ ]
-
-[AdvP út aa ]
-
-[PP í ao ]
-
-[NP handlegginn nkeog ]
-
-[CP og c ]
-
-[NP varir nvfo ]
-
-{*QUAL [NP hennar fpvee ] }
-
-[VP höfðu sfg3fþ ]
-
-[VPs fengið ssg ]
-
-[PP á ao ]
-
-[NP sig fpkeo ]
-
-[AP bláan lkeosf ]
-
-[NP bjarma nkeo ]
-
-. .
-
-[CP Og c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP hafði sfg3eþ ]
-
-[AdvP ekki aa ]
-
-[VPs getað ssg ]
-
-[NP annað foheo ]
-
-[CP en c ]
-
-[VPs litið ssg ]
-
-[AdvP upp aa ]
-
-[PP til ae ]
-
-{*QUAL [NP þeirra fpkfe ] }
-
-[SCP þegar c ]
-
-{*SUBJ [NP þeir fpkfn ] }
-
-[VP klöppuðu sfg3fþ ]
-
-[NP honum fpkeþ ]
-
-[AdvP þétt aa ]
-
-[PP á ao ]
-
-[AP ljósan lkeosf ]
-
-[NP kollinn nkeog ]
-
-- -
-
-{*SUBJ [NP hann fpken ] }
-
-[VPb var sfg3eþ ]
-
-{*COMP [AP ljósskolhærður lkensf ] }
-
-[PP í ao ]
-
-[NP þá fakfo ]
-
-[NP daga nkfo ]
-
-[AdvP eins aa ]
-
-[CP og c ]
-
-{*SUBJ [NP Lárus nken-s ] }
-
-- -
-
-[AdvP áður aa ]
-
-[CP en c ]
-
-{*SUBJ [NP þeir fpkfn ] }
-
-[VP hófust sfm3fþ ]
-
-{*QUAL [NP handa nvfe ] }
-
-[PP við ao ]
-
-að cn
-
-[VPi vekja sng ]
-
-[NP móður nveo ]
-
-{*QUAL [NP hans fpkee ] }
-
-[PP með aþ ]
-
-[AP furðuharkalegum lvfþsf ]
-
-[NP aðferðum nvfþ ]
-
-. .
-
-{*SUBJ [NP Þeir fpkfn ] }
-
-[VP ráku sfg3fþ ]
-
-[NP pennaodd nkeo ]
-
-[PP undir ao ]
-
-[NP neglur nvfo ]
-
-{*QUAL [NP hennar fpvee ] }
-
-, ,
-
-[VP glenntu sfg3fþ ]
-
-[AdvP upp aa ]
-
-[PP á aþ ]
-
-[NP henni fpveþ ]
-
-[NP augun nhfog ]
-
-[CP og c ]
-
-[VP lýstu sfg3fþ ]
-
-[PP í ao ]
-
-[NP þau fphfo ]
-
-[PP með aþ ]
-
-[AP litlu lheþsf ]
-
-[NP vasaljósi nheþ ]
-
-[AdvP þar aa ]
-
-[AdvP til aa ]
-
-{*SUBJ [NP hún fpven ] }
-
-[SCP annaðhvort c ]
-
-[VP kippti sfg3eþ ]
-
-[PP að aþ ]
-
-[NP sér fpveþ ]
-
-[NP hendinni nveþg ]
-
-[CP eða c ]
-
-[VP byrjaði sfg3eþ ]
-
-að cn
-
-[VPi blikka sng ]
-
-[NP augunum nhfþg ]
-
-. .
-
-[AdvP Þá aa ]
-
-[VPb var sfg3eþ ]
-
-{*SUBJ [NP hún fpven ] }
-
-{*COMP [VPp toguð sþgven ] }
-
-[PP á ao ]
-
-[NP fætur nkfo ]
-
-[CP og c ]
-
-{*SUBJ [NP þeir fpkfn ] }
-
-[VP studdu sfg3fþ ]
-
-[NP hana fpveo ]
-
-[AdvP út aa ]
-
-[AdvP á aa ]
-
-[PP milli ae ]
-
-{*QUAL [NP sín fpkfe ] }
-
-. .
-
-[SCP Nema c ]
-
-[PP í aþ ]
-
-[AP þriðja lheþvf ]
-
-[CP og c ]
-
-[AP síðasta lheove ]
-
-[NP skiptið nheog ]
-
-. .
-
-[AdvP Þá aa ]
-
-[VP hlupu sfg3fþ ]
-
-{*SUBJ [NP þeir fpkfn ] }
-
-[PP með ao ]
-
-[NP hana fpveo ]
-
-[PP á aþ ]
-
-[NP börunum nvfþg ]
-
-[CP og c ]
-
-[VP skildu sfg3fþ ]
-
-[NP útidyrnar nvfog ]
-
-[PP eftir ao ]
-
-[AP opnar lvfosf ]
-
-. .
-
-[AdvP Kannski aa ]
-
-[VPb var sfg3eþ ]
-
-{*SUBJ [NP það fphen ] }
-
-[AdvP ekki aa ]
-
-{*SUBJ [NP fyrirlitning nven ] }
-
-[CP heldur c ]
-
-{*SUBJ [NP þreyta nven ] }
-
-[SCP sem ct ]
-
-[VP herti sfg3eþ ]
-
-[NP svip nkeo ]
-
-{*QUAL [NP þeirra fpkfe ] }
-
-, ,
-
-[CP en c ]
-
-{*SUBJ [NP Sveinn nken-s ] }
-
-[VP hafði sfg3eþ ]
-
-[VPs skammast ssm ]
-
-{*QUAL [NP sín fpkee ] }
-
-[AdvP fyrir aa ]
-
-[SCP að c ]
-
-{*SUBJ [NP móðir nven ] }
-
-{*QUAL [NP hans fpkee ] }
-
-[VPb væri svg3eþ ]
-
-[AdvP ekki aa ]
-
-[AdvP raunverulega aa ]
-
-{*COMP [AP veik lvensf ] }
-
-[CP og c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP hafði sfg3eþ ]
-
-[VPs skammast ssm ]
-
-{*QUAL [NP sín fpkee ] }
-
-[PP fyrir ao ]
-
-að cn
-
-[VPb vera sng ]
-
-[AdvP ekki aa ]
-
-{*COMP [AP harður lkensf ] }
-
-[CP og c ]
-
-{*COMP [AP svalur lkensf ] }
-
-[AdvP eins aa ]
-
-[CP og c ]
-
-{*SUBJ [NP þeir fpkfn ] }
-
-, ,
-
-[CP heldur c ]
-
-{*COMP [AP lítið lhensf ] }
-
-{*SUBJ [NP grey nhen ] }
-
-[PP með ao ]
-
-[NP hjartað nheog ]
-
-[PP í aþ ]
-
-[NP kokinu nheþg ]
-
-. .
-
-{*SUBJ [NP Kerlingin nveng ] }
-
-? ?
-
-{*SUBJ [NP Þvílíkt fbhen ] }
-
-[NP rangnefni nheþ ]
-
-. .
-
-{*SUBJ [NP Hún fpven ] }
-
-[VPb var sfg3eþ ]
-
-[AdvP ekki aa ]
-
-[SCP nema c ]
-
-[AdvP rétt aa ]
+[AP viðvart lheosf ]
 
 [PP um ao ]
 
-[AP þrítugt lheosf ]
-
-[SCP þegar c ]
-
-{*SUBJ [NP þetta fahen ] }
-
-[VPb var sfg3eþ ]
-
-. .
-
-{*COMP [AP Hálfgerð lvensf ] }
-
-{*SUBJ [NP stelpa nven ] }
-
-, ,
-
-{*COMP [AP sístrjúkandi lkenof ] }
-
-[PP af aþ ]
-
-[NP spítölum nvfþ ]
-
-[CP og c ]
-
-[NP öðrum fokfþ ]
-
-[NP stofnunum nvfþ ]
-
-. .
-
-{*COMP [AP Óskiljanlegt lhensf ] }
-
-{*SUBJ [NP hvað fshen ] }
-
-{*SUBJ [NP hún fpven ] }
-
-[VPb var sfg3eþ ]
-
-{*COMP [AP gömul lvensf ] }
-
-[CP og c ]
-
-[PP úr aþ ]
-
-[NP sér fpveþ ]
-
-{*COMP [VPp gengin sþgven ] }
-
-[PP í aþ ]
-
-[NP minningunni nveþg ]
-
-. .
-
-[AdvP Núna aa ]
-
-[VPb var sfg3eþ ]
-
-{*SUBJ [NP hún fpven ] }
-
-{*COMP [AP sextugur lkensf ] }
-
-{*SUBJ [NP meðferðarfulltrúi nken ] }
-
-[SCP sem ct ]
-
-[VP gekk sfg3eþ ]
-
-[PP fyrir ao ]
-
-[NP kaffi nheo ]
-
-[CP og c ]
-
-[NP hjálpsemi nveo ]
+[NP þær fpvfo ]
 
 [PP við ao ]
 
-[NP aðra foveo ]
+[NP gerð nveo ]
 
-. .
-
-{*COMP [AP Einn lkensf ] }
-
-, ,
-
-{*SUBJ [NP tveir tfkfn ] }
-
-[CP og c ]
-
-[NP hoppsasa nkeþ ]
-
-, ,
-
-[VP sagði sfg3eþ ]
-
-{*SUBJ [NP konan nveng ] }
-
-[CP og c ]
-
-{*SUBJ [NP þau fphfn ] }
-
-[VP lyftu sfg3fþ ]
-
-[NP honum fpkeþ ]
-
-[PP með aþ ]
-
-[AP samstilltu lheþsf ]
-
-[NP átaki nheþ ]
-
-[CP og c ]
-
-[VP rúlluðu sfg3fþ ]
-
-[NP honum fpkeþ ]
-
-[PP í aþ ]
-
-[NP átt nveþ ]
-
-[PP að aþ ]
-
-[NP dyrunum nvfþg ]
-
-. .
-
-{*SUBJ [NP Konan nveng ] }
-
-[VPb var sfg3eþ ]
-
-{*COMP [AP búin lvensf ] }
-
-að cn
-
-[VPi breiða sng ]
-
-[AdvP ofan aa ]
-
-[PP á ao ]
-
-[NP hann fpkeo ]
-
-[NP teppi nheo ]
-
-, ,
-
-{*COMP [AP þunnt lhensf ] }
-
-[CP en c ]
-
-{*COMP [AP hlýtt lhensf ] }
-
-, ,
-
-[CP og c ]
-
-{*SUBJ [NP þakklæti nhen ] }
-
-{*QUAL [NP hans fpkee ] }
-
-[PP í ao ]
-
-{*QUAL [NP hennar fpvee ] }
-
-[NP garð nkeo ]
-
-[VP risti sfg3eþ ]
-
-[AdvP undarlega aa ]
-
-[AdvP djúpt aa ]
-
-. .
-
-[AdvP Svona aa ]
-
-[VP gerir sfg3en ]
-
-{*SUBJ [NP kvölin nveng ] }
-
-[NP mann nkeo ]
-
-[AP meyran lkeosf ]
-
-, ,
-
-[SCP nema c ]
-
-{*SUBJ [NP það fphen ] }
-
-[VP hafi svg3en ]
-
-[VPb verið ssg ]
-
-{*SUBJ [NP höfuðhöggið nheng ] }
-
-, ,
-
-[VP hugsaði sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-[CP og c ]
-
-[VP mundi svg3eþ ]
-
-[AdvP þá aa ]
-
-{*SUBJ [NP allt fohen ] }
-
-[PP í aþ ]
-
-[AP einu lheþsf ]
-
-[PP eftir aþ ]
-
-[NP eldhættunni nveþg ]
-
-[PP af aþ ]
-
-[NP perunni nveþg ]
-
-[AP hálfri lveþsf ]
-
-[AdvP inni aa ]
-
-[PP í aþ ]
-
-[AP handónýtu lheþsf ]
-
-[NP perustæðinu nheþg ]
-
-[CP og c ]
-
-{*SUBJ [NP straumur nken ] }
-
-[PP á aþ ]
-
-[NP öllu foheþ ]
-
-[NP draslinu nheþg ]
-
-. .
-
-{*SUBJ [NP Lárus nken-s ] }
-
-{*SUBJ [NP minn feken ] }
-
-, ,
-
-[VP sagði sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-[CP og c ]
-
-[VP benti sfg3eþ ]
-
-[PP á ao ]
-
-[NP ljósarofann nkeog ]
-
-. .
-
-[VP Ýttu sfg3fþ ]
-
-[PP á ao ]
-
-[NP takkann nkeog ]
-
-[AdvP þarna aa ]
-
-[PP fyrir ao ]
-
-[NP mig fp1eo ]
-
-. .
-
-{*SUBJ [NP Lárus nken-s ] }
-
-[VP settist sfm3eþ ]
-
-[AdvP aftur aa ]
-
-[PP í ao ]
-
-[NP sjúkrabílinn nkeog ]
-
-[PP án ae ]
-
-{*QUAL [NP þess fphee ] }
-
-að cn
-
-[VPi spyrja sng ]
-
-[NP kóng nkeo ]
-
-[CP eða c ]
-
-[NP prest nkeo ]
-
-[CP og c ]
-
-[VP forðaðist sfm3eþ ]
-
-að cn
-
-[VPi horfast snm ]
-
-[PP í ao ]
-
-[NP augu nhfo ]
-
-[PP við ao ]
-
-[NP Svein nkeo-s ]
-
-, ,
-
-[AdvP eins aa ]
-
-[CP og c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP óttaðist sfm3eþ ]
-
-[SCP að c ]
-
-[SCP ef c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP gæfi svg3eþ ]
-
-[AP minnsta lheþve ]
-
-[NP færi nheþ ]
-
-[PP á aþ ]
-
-[NP sér fpkeþ ]
-
-[VPb yrði svg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-{*COMP [VPp sendur sþgken ] }
-
-[AdvP burt aa ]
-
-. .
-
-[VP Fer sfg3en ]
-
-[AdvP sæmilega aa ]
+{*QUAL [NP áætlana nvfe ] }
 
 [PP um ao ]
 
-[NP þig fp2eo ]
+[NP slátrun nveo ]
 
-? ?
+[PP í aþ ]
 
-[VP spurði sfg3eþ ]
+[AP viðkomandi lheþof ]
 
-{*SUBJ [NP konan nveng ] }
-
-. .
-
-[InjP Já au ]
-
-, ,
-
-{*SUBJ [NP elskan nveng ] }
-
-{*SUBJ [NP mín feven ] }
-
-{*COMP [AP góða lvenvf ] }
-
-, ,
-
-[VP svaraði sfg3eþ ]
-
-{*SUBJ [NP Sveinn nken-s ] }
+[NP húsi nheþ ]
 
 . .
 
-{*COMP [AP Heppinn lkensf ] }
 
-[VP varstu sfg2eþ ]
+{*TIMEX [NP 14. ta ] }
 
-[SCP að c ]
+{*SUBJ [NP gr. nven ] }
 
-{*SUBJ [NP vinur nken ] }
 
-{*SUBJ [NP þinn feken ] }
+{*SUBJ [NP Útflutningur nken ] }
 
-[VP fann sfg3eþ ]
-
-[NP þig fp2eo ]
-
-, ,
-
-[VP sagði sfg3eþ ]
-
-{*SUBJ [NP konan nveng ] }
+{*QUAL [NP búfjár nhee ] }
 
 . .
 
-[AP Bleik lhfosf ]
 
-[NP eyru nhfo ]
+{*SUBJ [NP Útflutningur nken ] }
 
-{*QUAL [NP Lárusar nkee-s ] }
-
-[VPb urðu sfg3fþ ]
-
-[AdvP enn aa ]
-
-{*COMP [AP bleikari lvenvm ] }
-
-. .
-
-[AdvP Vel aa ]
-
-[AdvP á aa ]
-
-{*COMP [VPp minnst sþmhen ] }
-
-, ,
-
-[VP sagði sfg3eþ ]
-
-{*SUBJ [NP Sveinn nken-s ] }
-
-[CP og c ]
-
-[VP sneri sfg3eþ ]
-
-[NP höfðinu nheþg ]
-
-[PP með aþ ]
-
-[NP erfiðismunum nkfþ ]
-
-[PP að aþ ]
-
-[NP Lárusi nkeþ-s ]
-
-. .
-
-{*SUBJ [NP Hvað fshen ] }
-
-[VP varstu sfg2eþ ]
-
-að cn
-
-[VPi gera sng ]
-
-[AdvP heima aa ]
-
-[PP hjá aþ ]
-
-[NP mér fp1eþ ]
-
-? ?
-
-{*SUBJ [NP Konan nveng ] }
-
-[VP kímdi sfg3eþ ]
-
-, ,
-
-[VP færði sfg3eþ ]
-
-[NP sig fpveo ]
-
-[AdvP framar aam ]
-
-[PP í ao ]
-
-[NP bílinn nkeog ]
-
-[CP og c ]
-
-[VP hallaði sfg3eþ ]
-
-[NP sér fpveþ ]
-
-[PP yfir ao ]
-
-[NP framsætið nheog ]
-
-[AdvP eins aa ]
-
-[CP og c ]
-
-{*SUBJ [NP hún fpven ] }
-
-[VP vildi sfg3eþ ]
-
-[AdvP ekki aa ]
-
-[VPi trufla sng ]
-
-[NP einkasamtalið nheog ]
-
-[AdvP aftur aa ]
-
-[AdvP í aa ]
-
-. .
-
-[AdvP Kannski aa ]
-
-[VP leyndi sfg3eþ ]
-
-{*SUBJ [NP hún fpven ] }
-
-[PP á aþ ]
-
-[NP sér fpveþ ]
-
-, ,
-
-[AdvP kannski aa ]
-
-[VPb var sfg3eþ ]
-
-{*SUBJ [NP hún fpven ] }
-
-[SCP hvorki c ]
-
-{*COMP [AP einföld lvensf ] }
-
-[CP né c ]
-
-[VP gróf sfg3eþ ]
-
-[CP heldur c ]
-
-{*COMP [AP ein lvensf ] }
-
-[PP af aþ ]
-
-[NP þessum favfþ ]
-
-[NP konum nvfþ ]
-
-[SCP sem ct ]
-
-[VP þreifa sfg3fn ]
-
-[PP á aþ ]
-
-[NP andrúmsloftinu nheþg ]
-
-[PP með aþ ]
-
-[AP ósýnilegum lkfþsf ]
-
-[NP fálmurum nkfþ ]
-
-[CP og c ]
-
-[VP vita sfg3fn ]
-
-[AdvP nákvæmlega aa ]
-
-[AdvP hvernig aa ]
-
-[NP öllum fovfþ ]
-
-[AP viðstöddum lvfþsf ]
+{*QUAL [NP búfjár nhee ] }
 
 [VPb er sfg3en ]
 
-{*QUAL [NP innanbrjósts nhee ] }
-
-. .
-
-{*SUBJ [NP Ég fp1en ] }
-
-[VPb var sfg1eþ ]
-
-{*COMP [AP búinn lkensf ] }
-
-að cn
-
-[VPi reyna sng ]
-
-[NP nokkrum fohfþ ]
-
-[NP sinnum nhfþ ]
-
-að cn
-
-[VPi hringja sng ]
-
-[PP í ao ]
-
-[NP þig fp2eo ]
-
-, ,
-
-[VP sagði sfg3eþ ]
-
-{*SUBJ [NP Lárus nken-s ] }
-
-{*COMP [AP hraðmæltur lkensf ] }
-
-. .
-
-{*SUBJ [NP Þú fp2en ] }
-
-[VP veist sfg2en ]
-
-, ,
-
-[AdvP út aa ]
-
-[PP af aþ ]
-
-[NP þessu faheþ ]
-
-[SCP sem ct ]
-
-{*SUBJ [NP við fp1fn ] }
-
-[VP töluðum sfg1fþ ]
-
-[AdvP um aa ]
-
-[AdvP áðan aa ]
-
-. .
-
-[CP En c ]
-
-{*SUBJ [NP þú fp2en ] }
-
-[VP svaraðir sfg2eþ ]
-
-[AdvP ekki aa ]
-
-[CP og c ]
-
-{*SUBJ [NP ég fp1en ] }
-
-[VPb var sfg1eþ ]
-
-{*COMP [VPp farinn sþgken ] }
-
-að cn
-
-[VPi halda sng ]
-
-[SCP að c ]
-
-{*SUBJ [NP þú fp2en ] }
-
-[VP hefðir svg2eþ ]
-
-[VPs týnt ssg ]
-
-[NP símanum nkeþg ]
-
-[CP eða c ]
-
-{*SUBJ [NP eitthvað fohen ] }
-
-. .
-
-[AdvP Síðan aa ]
-
-[VP keyrði sfg1eþ ]
-
-{*SUBJ [NP ég fp1en ] }
-
-[AdvP fram aa ]
-
-[AdvP hjá aa ]
-
-[AdvP heima aa ]
-
-[PP hjá aþ ]
-
-[NP þér fp2eþ ]
-
-[CP og c ]
-
-[VP sá sfg3eþ ]
-
-[NP bílinn nkeog ]
-
-[CP og c ]
-
-[VP ákvað sfg1eþ ]
-
-[SCP að c ]
-
-{*SUBJ [NP það fphen ] }
-
-[VP sakaði sfg3eþ ]
-
-[AdvP ekki aa ]
-
-að cn
-
-[VPi berja sng ]
-
-[PP að aþ ]
-
-[NP dyrum nvfþ ]
-
-, ,
-
-[CP en c ]
-
-[SCP þegar c ]
-
-{*SUBJ [NP ég fp1en ] }
-
-[VP gekk sfg1eþ ]
-
-[PP hjá aþ ]
-
-[NP glugganum nkeþg ]
-
-[VP lástu sfg3fþ ]
-
-[AdvP bara aa ]
-
-[AdvP þarna aa ]
-
-[CP og c ]
-
-{*SUBJ [NP ég fp1en ] }
-
-[VP sá sfg1eþ ]
-
-[AdvP strax aa ]
-
-[SCP að c ]
-
-{*SUBJ [NP þetta fahen ] }
-
-[VPb var sfg3eþ ]
-
-{*SUBJ [NP eitthvað fohen ] }
-
-{*COMP [AP skrítið lhensf ] }
-
-[AdvP svo aa ]
-
-{*SUBJ [NP ég fp1en ] }
-
-[VP fór sfg1eþ ]
-
-[AdvP bara aa ]
-
-[AdvP inn aa ]
-
-. .
-
-{*SUBJ [NP Sveinn nken-s ] }
-
-[VP dró sfg3eþ ]
-
-[NP andann nkeog ]
-
-[AdvP eins aa ]
-
-[AdvP djúpt aa ]
-
-[CP og c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP gat sfg3eþ ]
+{*COMP [AP heimill lkensf ] }
 
 [PP án ae ]
 
-{*QUAL [NP þess fphee ] }
+[AP sérstakra lkfesf ]
 
-að cn
-
-[VPi stugga sng ]
-
-[AdvP of aa ]
-
-{*COMP [AP mikið lhensf ] }
-
-[PP við aþ ]
-
-[NP viðbeininu nheþg ]
-
-[CP og c ]
-
-[VP furðaði sfg3eþ ]
-
-[NP sig fpkeo ]
-
-[PP á aþ ]
-
-[NP því fpheþ ]
-
-{*SUBJ [NP hvað fshen ] }
-
-[NP honum fpkeþ ]
-
-[VPb var sfg3eþ ]
-
-{*COMP [VPp misboðið sþghen ] }
-
-. .
-
-{*SUBJ [NP Hann nken-s ] }
-
-[VP átti sfg3eþ ]
-
-að cn
-
-[VPb vera sng ]
-
-{*COMP [AP feginn lkensf ] }
-
-[CP og c ]
-
-{*COMP [AP þakklátur lkensf ] }
-
-[CP en c ]
-
-[AdvP ekki aa ]
-
-{*COMP [AP fullur lkensf ] }
-
-{*QUAL [NP löngunar nvee ] }
-
-[PP til ae ]
-
-að cn
-
-[VPi leggja sng ]
-
-[NP hendur nvfo ]
-
-[PP á ao ]
-
-[NP velgjörðarmann nkeo ]
-
-[NP sinn fekeo ]
-
-. .
-
-[CP Og c ]
-
-{*SUBJ [NP hvað fshen ] }
-
-[VP lá sfg3eþ ]
-
-{*SUBJ [NP þér fp2fn ] }
-
-[AdvP svona aa ]
-
-[PP á aþ ]
-
-að cn
-
-[VPi segja sng ]
-
-[NP mér fp1eþ ]
-
-? ?
-
-[VP sagði sfg3eþ ]
-
-{*SUBJ [NP Sveinn nken-s ] }
-
-[SCP þótt c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP vissi svg3eþ ]
-
-[SCP að c ]
-
-[PP með aþ ]
-
-[NP því fpheþ ]
-
-að cn
-
-[VPi tala sng ]
-
-[AdvP svona aa ]
-
-[AdvP kæruleysislega aa ]
-
-[PP um ao ]
-
-[NP þetta faheo ]
-
-[PP í aþ ]
-
-[NP viðurvist nveþ ]
-
-{*QUAL [NP sjúkraflutningafólksins nheeg ] }
-
-[VP rústaði sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-[AdvP gersamlega aa ]
-
-[NP fantasíu nveo ]
-
-{*QUAL [NP Lárusar nvee-s ] }
-
-[PP um ao ]
-
-[SCP að c ]
-
-{*SUBJ [NP þeir fpkfn ] }
-
-{*SUBJ [NP tveir tfkfn ] }
-
-[VP stæðu svg3fþ ]
-
-[AdvP saman aa ]
-
-[PP í aþ ]
-
-{*QUAL [NP einhvers fokee ] }
-
-{*QUAL [NP konar nkee ] }
-
-[NP leynimakki nheþ ]
-
-. .
-
-[SCP Þegar c ]
-
-{*SUBJ [NP Lárus nken-s ] }
-
-[VP svaraði sfg3eþ ]
-
-[AdvP ekki aa ]
-
-[VP bætti sfg3eþ ]
-
-{*SUBJ [NP hann fpken ] }
-
-[AdvP við aa ]
-
-: :
-
-[VPb Vertu sbg2en ]
-
-[AdvP ekki aa ]
-
-[AdvP svona aa ]
-
-{*COMP [AP dularfullur lkensf ] }
-
-, ,
-
-{*SUBJ [NP við fp1fn ] }
-
-[VPb erum sfg1fn ]
-
-[SCP hvorki c ]
-
-[PP með ao ]
-
-[NP mafíuna nveog ]
-
-[CP né c ]
-
-[NP lögregluna nveog ]
-
-[PP á aþ ]
-
-[NP hælunum nkfþg ]
-
-. .
-
-{*COMP [AP Greinileg lhfnsf ] }
-
-{*SUBJ [NP sárindi nhfn ] }
-
-[VPb var sfg3eþ ]
-
-að cn
-
-[VPi merkja sng ]
-
-[PP í aþ ]
-
-[NP rödd nveþ ]
-
-{*QUAL [NP Lárusar nkee-s ] }
-
-[SCP þegar c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP sagði sfg3eþ ]
-
-: :
-
-[InjP Nei au ]
-
-. .
-
-[CP Og c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP þrjóskaðist sfm3eþ ]
-
-[PP við ao ]
-
-[NP eitt tfheo ]
-
-[NP augnablik nheo ]
-
-[AdvP áður aa ]
-
-[CP en c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP bætti sfg3eþ ]
-
-[AdvP við aa ]
-
-: :
-
-{*SUBJ [NP Ég fp1en ] }
-
-[VPb er sfg1en ]
-
-[AdvP bara aa ]
-
-{*COMP [AP búinn lkensf ] }
-
-að cn
-
-[VPi komast snm ]
-
-[PP að aþ ]
-
-[NP þessu faheþ ]
-
-[SCP sem ct ]
-
-{*SUBJ [NP þú fp2en ] }
-
-[VP þurftir sfg2en ]
-
-að cn
-
-[VPi vita sng ]
-
-. .
-
-{*SUBJ [NP Þú fp2en ] }
-
-[VP getur sfg2en ]
-
-[VPs keyrt ssg ]
-
-[AdvP heim aa ]
-
-[PP til ae ]
-
-{*QUAL [NP hennar fpvee ] }
-
-[PP um ao ]
-
-[NP leið nveo ]
-
-[CP og c ]
-
-{*SUBJ [NP þú fp2en ] }
-
-[VP jafnar sfg3en ]
-
-[NP þig fp2eo ]
-
-[PP í aþ ]
-
-[NP öxlinni nveþg ]
-
-[CP og c ]
-
-[VPs náð ssg ]
-
-[PP í ao ]
-
-[NP þetta faheo ]
-
-[SCP sem ct ]
-
-{*SUBJ [NP hún fpven ] }
-
-[VP stal sfg3eþ ]
-
-[PP frá aþ ]
-
-[NP þér fp2eþ ]
-
-. .
-
-{*SUBJ [NP Þú fp2en ] }
-
-[VPb varst sfg2eþ ]
-
-[AdvP ekki aa ]
-
-[AdvP lengi aa ]
-
-[PP að aþ ]
-
-[NP þessu faheþ ]
-
-, ,
-
-[VP sagði sfg3eþ ]
-
-{*SUBJ [NP Sveinn nken-s ] }
-
-. .
-
-[CP En c ]
-
-{*SUBJ [NP ég fp1en ] }
-
-[VPb var sfg1eþ ]
-
-[AdvP svona aa ]
-
-að cn
-
-[VPi velta sng ]
-
-[NP því fpheþ ]
-
-[PP fyrir aþ ]
-
-[NP mér fp1eþ ]
-
-[SCP hvort c ]
-
-{*SUBJ [NP við fp1fn ] }
-
-[VP ættum svg1fþ ]
-
-[AdvP ekki aa ]
-
-[AdvP bara aa ]
-
-að cn
-
-[VPi leyfa sng ]
-
-[NP henni fpveþ ]
-
-að cn
-
-[VPi eiga sng ]
-
-[NP dúkkuskrattann nkeog ]
-
-[SCP fyrst c ]
-
-[NP hana fpveo ]
-
-[VP langaði sfg3eþ ]
-
-[AdvP svona aa ]
-
-[PP í ao ]
-
-[NP hann fpkeo ]
-
-. .
-
-{*SUBJ [NP Hvað fshen ] }
-
-[VP finnst sfm3en ]
-
-[NP þér fp2eþ ]
-
-, ,
-
-{*SUBJ [NP vinur nken ] }
-
-? ?
-
-{*SUBJ [NP Lárus nken-s ] }
-
-[VP yppti sfg3eþ ]
-
-[NP öxlum nvfþ ]
-
-, ,
-
-[AdvP fullkomlega aa ]
-
-[AdvP miður aam ]
-
-{*QUAL [NP sín fpkee ] }
-
-. .
-
-{*SUBJ [NP Hann nken-s ] }
-
-[VPb virtist sfm3eþ ]
-
-{*COMP [AP þrá lvensf ] }
-
-að cn
-
-[VPi ganga sng ]
-
-[PP í ao ]
-
-[NP augun nhfog ]
-
-[PP á aþ ]
-
-[NP Sveini nkeþ-s ]
-
-, ,
-
-[AdvP helst aae ]
-
-[VPi gera sng ]
-
-[NP sig fpheo ]
-
-[AP ómissandi lheoof ]
-
-. .
-
-{*SUBJ [NP Strákgreyið nheng ] }
-
-[VP vissi sfg3eþ ]
-
-[AdvP ekki aa ]
-
-[SCP að c ]
-
-{*SUBJ [NP það fphen ] }
-
-{*COMP [AP eina lhenvf ] }
-
-[SCP sem ct ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP þurfti sfg3eþ ]
-
-að cn
-
-[VPi gera sng ]
-
-[PP til ae ]
-
-að cn
-
-[VPi eignast snm ]
-
-[NP velþóknun nveo ]
-
-{*QUAL [NP hans fpkee ] }
-
-[VPb var sfg3eþ ]
-
-að cn
-
-[VPi flytja sng ]
-
-[PP í ao ]
-
-[NP annan fokeo ]
-
-[NP landsfjórðung nkeo ]
-
-[CP eða c ]
-
-[VPi detta sng ]
-
-{*SUBJ [NP niður nken ] }
-
-{*COMP [AP dauður lkensf ] }
-
-. .
-
-[NP VIII nxeþ-s ]
-
-{*SUBJ [NP Sunnudagur nken ] }
-
-{*SUBJ [NP Lóa nven-s ] }
-
-[VP stóð sfg3eþ ]
-
-[PP við ao ]
-
-[NP eldhúsvaskinn nkeog ]
-
-[CP og c ]
-
-[VP horfði sfg3eþ ]
-
-[AdvP út aa ]
-
-[PP um ao ]
-
-[NP gluggann nkeog ]
-
-[PP á ao ]
-
-[AP hallandi lhfoof ]
-
-[NP bárujárnsþök nhfo ]
-
-, ,
-
-{*COMP [AP gul lhfnsf ] }
-
-[CP og c ]
-
-{*COMP [AP rauð lvensf ] }
-
-, ,
-
-[CP og c ]
-
-[VPs glænýtt ssg ]
-
-[NP grasið nheog ]
-
-[SCP sem ct ]
-
-[VPb var sfg3eþ ]
-
-{*COMP [VPp farið sþghen ] }
-
-að cn
-
-[VPi gægjast snm ]
-
-[AdvP upp aa ]
-
-[PP úr aþ ]
-
-[NP gulbrúnni nveþg ]
-
-{*QUAL [NP bendu nvee ] }
-
-[PP af aþ ]
-
-[NP frændum nkfþ ]
-
-[NP sínum fekfþ ]
-
-[PP frá aþ ]
-
-[PP í ao ]
-
-[AP fyrra lheovm ]
-
-. .
-
-{*SUBJ [NP Litirnir nkfng ] }
-
-[AdvP ofur aa ]
-
-{*COMP [AP raunverulegir lkfnsf ] }
-
-[PP í aþ ]
-
-[AP skjannahvítri lveþsf ]
-
-[NP birtu nveþ ]
-
-{*QUAL [NP morgunsins nkeeg ] }
-
-. .
-
-[PP Með ao ]
-
-[AP undarlegan lkeosf ]
-
-[NP titring nkeo ]
-
-[PP í aþ ]
-
-[NP höfðinu nheþg ]
-
-[CP og c ]
-
-[NP líkamanum nkeþg ]
-
-, ,
-
-[AdvP eins aa ]
-
-[CP og c ]
-
-{*SUBJ [NP einhver foken ] }
-
-[VPb væri svg3eþ ]
-
-að cn
-
-[VPi spila sng ]
-
-[NP bassatóna nkfo ]
-
-, ,
-
-[AdvP of aa ]
-
-[AP djúpa lveosf ]
-
-[AdvP til aa ]
-
-[SCP að c ]
-
-{*SUBJ [NP eyrað nheng ] }
-
-[VP greindi sfg3eþ ]
-
-[AdvP þá aa ]
-
-. .
-
-{*SUBJ [NP Þetta fahen ] }
-
-[VPb var sfg3eþ ]
-
-{*QUAL [NP alls fohee ] }
-
-[AdvP ekki aa ]
-
-[AP nógu lheþsf ]
-
-{*COMP [AP slæmt lhensf ] }
-
-[PP til ae ]
-
-að cn
-
-[VPi geta sng ]
-
-[VPs kallast ssm ]
-
-{*SUBJ [NP timburmenn nkfn ] }
-
-[CP og c ]
-
-[VP mátti sfg3eþ ]
-
-[AdvP eiginlega aa ]
-
-[VPi heita sng ]
-
-{*COMP [AP góð lvensf ] }
-
-[CP og c ]
-
-{*COMP [AP heimilisleg lvensf ] }
-
-{*SUBJ [NP tilfinning nven ] }
-
-; ;
-
-{*SUBJ [NP taugakerfið nheng ] }
-
-[VP hummmmaði sfg3eþ ]
-
-[AdvP eins aa ]
-
-[CP og c ]
-
-{*COMP [AP mjólkurkælir lkfnsf ] }
-
-[PP í aþ ]
-
-[NP fjósi nheþ ]
-
-[AdvP eftir aa ]
-
-[VP mjaltir sfg2eþ ]
-
-. .
-
-{*SUBJ [NP Hún fpven ] }
-
-[VP þvoði sfg3eþ ]
-
-{*COMP [AP hægt lhensf ] }
-
-[PP upp ao ]
-
-[NP könnuna nveog ]
-
-[PP af aþ ]
-
-[NP blandaranum nkeþg ]
-
-[CP og c ]
-
-[NP snúningshnífinn nkeog ]
-
-. .
-
-{*SUBJ [NP Næringardrykkurinn nkengs ] }
-
-[VP beið sfg3eþ ]
-
-{*QUAL [NP þess fphee ] }
-
-að cn
-
-[VPb vera sng ]
-
-{*COMP [VPp borinn sþgken ] }
-
-[AdvP inn aa ]
-
-[PP til ae ]
-
-{*QUAL [NP Margrétar nvee-s ] }
-
-, ,
-
-[PP í aþ ]
-
-[AP háu lheþsf ]
-
-[NP glasi nheþ ]
-
-[PP úr aþ ]
-
-[AP möttu lvfþvf ]
-
-, ,
-
-[AP rósbleiku lheþsf ]
-
-[NP gleri nheþ ]
-
-[SCP sem ct ]
-
-[VP stóð sfg3eþ ]
-
-[PP við ao ]
-
-[NP hliðina nveog ]
-
-[PP á aþ ]
-
-[NP ávaxtaskálinni nveþg ]
-
-[CP og c ]
-
-[VP minnti sfg3eþ ]
-
-[PP á ao ]
-
-[NP auglýsingu nveo ]
-
-[SCP sem ct ]
-
-{*SUBJ [NP hún fpven ] }
-
-[VP hafði sfg3eþ ]
-
-[NP einu foheþ ]
-
-[NP sinni nheþ ]
-
-[VPs gert ssg ]
-
-[PP fyrir ao ]
-
-[NP Mjólkursamsöluna nveogs ]
-
-, ,
-
-[PP fyrir ao ]
-
-[NP skyrdrykk nkeo ]
-
-[SCP sem ct ]
-
-[AdvP þá aa ]
-
-[VPb var sfg3eþ ]
-
-{*COMP [AP nýkominn lkensf ] }
-
-[PP á ao ]
-
-[NP markaðinn nkeog ]
-
-. .
-
-{*SUBJ [NP Tilhugsunin nveng ] }
-
-[PP um ao ]
-
-[NP vinnuna nveog ]
-
-[VPb var sfg3eþ ]
-
-[AdvP eins aa ]
-
-[CP og c ]
-
-{*COMP [AP ógreinileg lvensf ] }
-
-{*SUBJ [NP minning nven ] }
-
-[PP frá aþ ]
-
-[NP menntaskólaárunum nhfþg ]
-
-[CP og c ]
-
-{*SUBJ [NP skrifstofan nveng ] }
-
-[PP við ao ]
-
-[NP Borgartún nheo-s ]
-
-{*SUBJ [NP tvívíð nven ] }
-
-[PP í aþ ]
-
-[NP huganum nkeþg ]
-
-- -
-
-[AdvP eins aa ]
-
-[CP og c ]
-
-[PP á aþ ]
-
-[NP sjónvarpsskjá nkeþ ]
-
-. .
-
-{*SUBJ [NP Ökuferðirnar nvfngs ] }
-
-[PP með aþ ]
-
-[NP föður nkeþ ]
-
-{*QUAL [NP hennar fpvee ] }
-
-[SCP þegar c ]
-
-{*SUBJ [NP hún fpven ] }
-
-[VPb var sfg3eþ ]
-
-[AdvP of aa ]
-
-{*COMP [AP lítil lvensf ] }
-
-[PP til ae ]
-
-að cn
-
-[VPi tylla sng ]
-
-[NP fótunum nkfþg ]
-
-[PP á ao ]
-
-[NP bílgólfið nheog ]
-
-[VPb voru sfg3fþ ]
-
-[VP mun sfg3en ]
-
-{*COMP [AP greinilegri lvenvm ] }
-
-[PP í aþ ]
-
-[NP hugskotinu nheþg ]
-
-; ;
-
-{*COMP [AP stórar lvfnsf ] }
-
-, ,
-
-[AP kjötmiklar lvfosf ]
-
-[NP hendurnar nvfog ]
-
-[AdvP eins aa ]
-
-[CP og c ]
-
-{*COMP [AP grónar lvfnsf ] }
-
-[PP við ao ]
-
-[NP stýrið nheog ]
-
-, ,
+[VP leyfa sfg3fn ]
 
 [SCP nema c ]
 
 [SCP þegar c ]
 
-{*SUBJ [NP hann fpken ] }
+[AdvP um aa ]
 
-[VP stýrði sfg3eþ ]
+[VPb er sfg3en ]
+
+að cn
+
+[VPi ræða sng ]
+
+[NP úrvalskynbótagripi nkfo ]
+
+. .
+
+
+[ [
+
+{*SUBJ [NP Ráðherra nken ] }
+
+] ]
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+[VP skal sfg3en ]
 
 [PP með aþ ]
 
-[NP blágómunum nkfþg ]
+[NP reglugerð nveþ ]
 
-[PP á ao ]
+[VPi setja sng ]
 
-[NP þumal- nkeþ ]
+[AP nánari lvfovm ]
 
-[CP og c ]
-
-[NP vísifingri nkeþ ]
-
-[PP til ae ]
-
-að cn
-
-[VPi lokka sng ]
-
-[NP hláturinn nkeog ]
-
-[AdvP upp aa ]
-
-[PP úr aþ ]
-
-[NP maga nkeþ ]
-
-{*QUAL [NP hennar fpvee ] }
-
-. .
-
-{*SUBJ [NP Sumir fokfn ] }
-
-{*SUBJ [NP farþegarnir nkfng ] }
-
-[VP tóku sfg3fþ ]
-
-{*QUAL [NP alls fohee ] }
-
-[AdvP ekki aa ]
-
-[PP eftir aþ ]
-
-[NP henni fpveþ ]
-
-[AdvP fyrr aam ]
-
-[CP en c ]
-
-{*SUBJ [NP þeir fpkfn ] }
-
-[VP hölluðu sfg3fþ ]
-
-[NP sér fpkfþ ]
-
-[AdvP fram aa ]
-
-[PP til ae ]
-
-að cn
-
-[VPi borga sng ]
-
-, ,
-
-{*SUBJ [NP hún fpven ] }
-
-[VPb var sfg3eþ ]
-
-[AdvP svo aa ]
-
-{*COMP [AP lág lvensf ] }
-
-[PP í aþ ]
-
-[NP loftinu nheþg ]
-
-[CP og c ]
-
-{*COMP [AP stillt lvensf ] }
-
-. .
-
-[CP Og c ]
-
-{*COMP [AP þögul lvensf ] }
-
-[SCP þegar c ]
-
-{*SUBJ [NP hún fpven ] }
-
-[VP gleymdi sfg3eþ ]
-
-[NP sér fpveþ ]
-
-[PP við ao ]
-
-að cn
-
-[VPi horfa sng ]
-
-[AdvP út aa ]
-
-[PP um ao ]
-
-[NP gluggann nkeog ]
-
-[PP á ao ]
-
-[NP húsin nhfog ]
-
-[CP og c ]
-
-[NP göturnar nvfog ]
-
-, ,
-
-[NP bílana nkfog ]
-
-, ,
-
-[NP fólkið nheog ]
-
-, ,
-
-[NP hundana nkfog ]
-
-[CP og c ]
-
-[NP endurnar nvfog ]
-
-[PP á aþ ]
-
-[NP Tjörninni nveþgs ]
-
-. .
-
-{*SUBJ [NP Aðrir fokfn ] }
-
-{*SUBJ [NP ökumenn nkfn ] }
-
-[VPb virtust sfm3fþ ]
-
-{*COMP [AP óöruggir lkfnsf ] }
-
-[CP og c ]
-
-{*COMP [AP reikandi lkfnof ] }
-
-, ,
-
-[AdvP jafnvel aa ]
-
-{*COMP [AP rammvilltir lkfnsf ] }
-
-[PP í aþ ]
-
-[NP samanburði nkeþ ]
-
-[PP við ao ]
-
-[NP föður nkeo ]
-
-{*QUAL [NP hennar fpvee ] }
-
-[SCP sem ct ]
-
-[VP vissi sfg3eþ ]
-
-[NP götuheitin nhfog ]
-
-[PP í aþ ]
-
-[AP nýjum lkfþsf ]
-
-[NP hverfum nkfþ ]
-
-[SCP þegar c ]
-
-{*SUBJ [NP þau fphfn ] }
-
-[VPb voru sfg3fþ ]
-
-[AdvP ekki aa ]
-
-{*SUBJ [NP annað fohen ] }
-
-[CP en c ]
-
-{*SUBJ [NP moldarflag nhen ] }
-
-[PP með aþ ]
-
-[VP stikuðum sfg1fþ ]
-
-[NP lóðamörkum nhfþ ]
-
-. .
-
-[SCP Þegar c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[VP hafði sfg3eþ ]
-
-[VPs tekið ssg ]
-
-[PP við aþ ]
-
-[NP seðlunum nkfþg ]
-
-[VPb virtust sfm3fþ ]
-
-{*SUBJ [NP þeir fpkfn ] }
-
-{*COMP [AP litlir lkfnsf ] }
-
-[CP og c ]
-
-{*COMP [AP verðlausir lkfnsf ] }
-
-[PP í aþ ]
-
-[NP lúkunum nkfþg ]
-
-[PP á aþ ]
-
-[NP honum fpkeþ ]
-
-, ,
-
-{*SUBJ [NP pappírinn nkeng ] }
-
-{*COMP [AP velktur lkensf ] }
-
-[CP og c ]
-
-{*COMP [AP næfurþunnur lkensf ] }
-
-. .
-
-{*SUBJ [NP Hann nken-s ] }
-
-[VP rétti sfg3eþ ]
-
-[NP henni fpveþ ]
-
-[AdvP þá aa ]
+[NP reglur nvfo ]
 
 [AdvP þar aa ]
 
-[SCP sem c ]
-
-{*SUBJ [NP hún fpven ] }
-
-[VP sat sfg3eþ ]
-
-[PP með ao ]
-
-[NP töskuna nveog ]
-
-[PP á aþ ]
-
-[NP lærunum nhfþg ]
-
-[CP og c ]
-
-{*SUBJ [NP hún fpven ] }
-
-[VPb varð sfg3eþ ]
-
-[AdvP fljótlega aa ]
-
-[AdvP talsvert aa ]
-
-{*COMP [AP fimari lvenvm ] }
-
-[CP en c ]
-
-{*SUBJ [NP hann fpken ] }
-
-[PP við ao ]
-
-að cn
-
-[VPi gefa sng ]
-
-[PP til ae ]
-
-{*QUAL [NP baka nhfe ] }
-
-. .
-
-{*SUBJ [NP Hann nken-s ] }
-
-[VPb var sfg3eþ ]
-
-[AdvP alltaf aa ]
-
-[AdvP lengi aa ]
-
-að cn
-
-[VPi tína sng ]
-
-[AdvP til aa ]
-
-[NP skiptimyntina nveog ]
-
-; ;
-
-{*SUBJ [NP maður nken ] }
-
-[VP fékk sfg3eþ ]
-
-[PP á ao ]
-
-[NP tilfinninguna nveog ]
+[PP um ao ]
 
 [SCP að c ]
 
-{*COMP [AP hvelfd lvensf ] }
+[AP fenginni lveþsf ]
 
-{*SUBJ [NP bringan nveng ] }
+[NP umsögn nveþ ]
 
-[VP byrgði sfg3eþ ]
+[AP viðkomandi lheeof ]
 
-[NP honum fpkeþ ]
-
-[NP sýn nveo ]
-
-[CP og c ]
-
-[SCP að c ]
-
-{*SUBJ [NP taugaboðin nhfng ] }
-
-[SCP sem ct ]
-
-[VP áttu sfg3fþ ]
-
-að cn
-
-[VPi berast snm ]
-
-[AdvP niður aa ]
-
-[PP í ao ]
-
-[NP fingurna nkfog ]
-
-[VP týndust svm3fþ ]
-
-[AdvP í aa ]
-
-[VP flæmi svg3fn ]
-
-{*QUAL [NP herðanna nvfeg ] }
-
-[SCP sem ct ]
-
-[VPb voru sfg3fþ ]
-
-{*COMP [AP breiðari lvfnvm ] }
-
-[CP en c ]
-
-{*SUBJ [NP bílsætið nheng ] }
-
-. .
-
-{*SUBJ [NP Farþegarnir nkfng ] }
-
-[VPb voru sfg3fþ ]
-
-[AdvP alltaf aa ]
-
-að cn
-
-[VPi segja sng ]
-
-[NP henni fpveþ ]
-
-[SCP að c ]
-
-{*SUBJ [NP hún fpven ] }
-
-[VPb væri svg3eþ ]
-
-{*COMP [AP flink lvensf ] }
-
-[PP í aþ ]
-
-[NP hugarreikningi nkeþ ]
+{*QUAL [NP fagráðs nhee ] }
 
 , ,
 
-[SCP að c ]
+[MWE_AdvP m.a. as ]
 
-{*SUBJ [NP hún fpven ] }
+[PP um ao ]
 
-[VP ætti svg3eþ ]
+[NP forkaupsrétt nkeo ]
+
+[AP innlendra lkfesf ]
+
+{*QUAL [NP aðila nkfe ] }
+
+. .
+
+
+[AdvP Þá aa ]
+
+[VP getur sfg3en ]
+
+{*SUBJ [NP hann fpken ] }
+
+[VPs sett ssg ]
+
+[NP skilyrði nhfo ]
+
+[PP um ao ]
+
+[NP ástand nheo ]
+
+[CP og c ]
+
+[NP meðferð nveo ]
+
+{*QUAL [NP búfjárins nkeeg ] }
+
+. .
+
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+{*QUAL [NP L. nhfe ] }
+
+
+{*TIMEX [NP 126/2011 ta ] }
+
+, ,
+
+{*TIMEX [NP 273. ta ] }
+
+[NP gr. nveo ]
+
+
+{*TIMEX [NP 15. ta ] }
+
+{*SUBJ [NP gr. nven ] }
+
+
+{*SUBJ [NP Stofnverndarsjóður nken ] }
+
+. .
+
+
+[VPi Starfrækja sng ]
+
+[VP skal sfg3en ]
+
+[AP sérstakan lkeosf ]
+
+[NP sjóð nkeo ]
+
+, ,
+
+[NP stofnverndarsjóð nkeo ]
+
+, ,
+
+[PP til ae ]
+
+{*QUAL [NP þess fphee ] }
+
+að cn
+
+[VPi veita sng ]
+
+{*SUBJ [NP lán nhen ] }
+
+[CP eða c ]
+
+[NP styrki nkfo ]
+
+[PP til ae ]
+
+{*QUAL [NP kaupa nhfe ] }
+
+[PP á aþ ]
+
+[AP sérstökum lkfþsf ]
+
+[NP úrvalskynbótagripum nkfþ ]
+
+[SCP sem ct ]
+
+[AdvP annars aa ]
+
+[VP kynnu svg3fþ ]
 
 að cn
 
 [VPi verða sng ]
 
-{*SUBJ [NP gjaldkeri nken ] }
+{*COMP [VPp fluttir sþgkfn ] }
 
-[PP í aþ ]
+[PP úr aþ ]
 
-[NP banka nkeþ ]
-
-[SCP þegar c ]
-
-{*SUBJ [NP hún fpven ] }
-
-[VPb yrði svg3eþ ]
-
-{*COMP [AP stór lvensf ] }
+[NP landi nheþ ]
 
 . .
 
-[CP Eða c ]
 
-{*SUBJ [NP bankastjóri nken ] }
+[AdvP Jafnframt aa ]
 
-, ,
+[VP má sfg3en ]
 
-[VP hafði sfg3eþ ]
+[VPi veita sng ]
 
-{*SUBJ [NP faðir nken ] }
+[PP úr aþ ]
 
-{*QUAL [NP hennar fpvee ] }
+[NP sjóðnum nkeþg ]
 
-[NP eitt tfheo ]
-
-[NP sinn nheo ]
-
-[VPs lagt ssg ]
+[NP fé nheo ]
 
 [PP til ae ]
 
-{*QUAL [NP málanna nhfeg ] }
-
-[PP á aþ ]
-
-[AP fallegum lkeþsf ]
-
-, ,
-
-[AP gaddfreðnum lkeþsf ]
-
-[NP sólskinsdegi nkeþ ]
-
-. .
-
-[NP Farþeginn nkeogs ]
-
-, ,
-
-{*COMP [AP hokinn lkensf ] }
-
-{*SUBJ [NP maður nken ] }
+{*QUAL [NP þróunarverkefna nhfe ] }
 
 [PP í aþ ]
 
-[AP brúnum lkeþsf ]
+[AP viðkomandi lvfþof ]
 
-[NP ullarfrakka nkeþ ]
-
-, ,
-
-[VP hafði sfg3eþ ]
-
-[VPs tekið ssg ]
-
-[AdvP hjartanlega aa ]
-
-[AdvP undir aa ]
-
-[PP með aþ ]
-
-[NP honum fpkeþ ]
-
-: :
-
-[AdvP Einmitt aa ]
-
-, ,
-
-[AdvP hvernig aa ]
-
-[VP læt sfg1en ]
-
-{*SUBJ [NP ég fp1en ] }
-
-? ?
-
-{*SUBJ [NP Við fp1fn ] }
-
-[VP fáum sfg1fn ]
-
-[AdvP ekki aa ]
-
-[AP betri lkeovm ]
-
-[NP bankastjóra nkeo ]
-
-[CP en c ]
-
-[NP þessa faveo ]
-
-[AP ungu lveovf ]
-
-[NP konu nveo ]
+[NP búgreinum nvfþ ]
 
 . .
 
-[AdvP Svo aa ]
 
-[VP töluðu sfg3fþ ]
+[NP Sjóðnum nkeþg ]
 
-{*SUBJ [NP þeir fpkfn ] }
+[VP skal sfg3en ]
 
-{*SUBJ [NP eitthvað fohen ] }
-
-[PP um ao ]
-
-[NP þjóðarskútuna nveog ]
-
-[CP og c ]
-
-[NP ástandið nheog ]
-
-[PP í aþ ]
-
-[NP Seðlabankanum nkeþgs ]
-
-[CP og c ]
-
-[VP tóku sfg3fþ ]
-
-[AdvP ekki aa ]
-
-[PP eftir aþ ]
-
-[NP því fpheþ ]
-
-[SCP þegar c ]
-
-{*SUBJ [NP hugur nken ] }
-
-{*QUAL [NP hennar fpvee ] }
-
-[VP flúði sfg3eþ ]
-
-{*COMP [AP óskiljanlegt lhensf ] }
-
-{*SUBJ [NP tal nhen ] }
-
-{*QUAL [NP þeirra fpkfe ] }
-
-[CP og c ]
-
-[VP flögraði sfg1eþ ]
-
-[AdvP hátt aa ]
-
-[AdvP upp aa ]
-
-[PP yfir ao ]
-
-[NP húsþökin nhfog ]
-
-. .
-
-[AdvP Upp aa ]
+{*COMP [AP skipt lhensf ] }
 
 [PP í ao ]
 
-[NP himininn nkeog ]
+[NP deildir nvfo ]
 
-[SCP sem ct ]
+[PP eftir aþ ]
 
-[VPb var sfg3eþ ]
-
-{*SUBJ [NP tærari nken ] }
+[NP búfjártegundum nvfþ ]
 
 [CP og c ]
 
-{*COMP [AP blárri lkenvm ] }
+[VP fer sfg3en ]
 
-[CP en c ]
+[NP fagráð nheo ]
 
-{*SUBJ [NP nokkur foken ] }
+[PP með ao ]
 
-{*SUBJ [NP auglýsingahiminn nken ] }
+[NP stjórn nveo ]
+
+[AP hlutaðeigandi lveeof ]
+
+{*QUAL [NP deildar nvee ] }
 
 . .
 
-{*SUBJ [NP Hún fpven ] }
 
-[VPb var sfg3eþ ]
+{*TIMEX [NP 16. ta ] }
 
-{*COMP [AP góð lvensf ] }
+{*SUBJ [NP gr. nven ] }
+
+[ [
+
+{*SUBJ [NP Erfðanefnd nven-s ] }
+
+{*QUAL [NP landbúnaðarins nkeeg ] }
+
+. .
+
+
+[ [
+
+{*SUBJ [NP Ráðherra nken ] }
+
+] ]
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+[VP skipar sfg3en ]
+
+{*SUBJ [NP sjö tfkfn ] }
+
+{*SUBJ [NP menn nkfn ] }
+
+[CP og c ]
+
+{*COMP [AP jafnmarga lkenof ] }
+
+[PP til ae ]
+
+{*QUAL [NP vara nkee ] }
 
 [PP í aþ ]
+
+[NP erfðanefnd nveþ ]
+
+{*QUAL [NP landbúnaðarins nkeeg ] }
+
+[PP að aþ ]
+
+[NP fengnum nkeþg ]
+
+[NP tilnefningum nvfþ ]
+
+[PP frá aþ ]
+
+[NP Bændasamtökum nhfþ-s ]
+
+{*QUAL [NP Íslands nhee-s ] }
+
+, ,
+
+[ [
+
+[NP Landbúnaðarháskóla nkeo-s ]
+
+{*QUAL [NP Íslands nhee-s ] }
+
+, ,
+
+[SCP sem ct ]
+
+[VP tilnefnir sfg3en ]
+
+[NP tvo tfkfo ]
+
+[NP menn nkfo ]
+
+] ]
+
+, ,
+
+{*TIMEX [NP 2 ta ] }
+
+) )
+
+[ [
+
+[NP Skógræktinni nveþgs ]
+
+] ]
+
+, ,
+
+{*TIMEX [NP 3 ta ] }
+
+) )
+
+[ [
+
+[NP Hafrannsóknastofnun nveo-s ]
+
+] ]
+
+{*TIMEX [NP 4 ta ] }
+
+) )
+
+[CP og c ]
+
+[NP Náttúrufræðistofnun nveo-s ]
+
+{*QUAL [NP Íslands nhee-s ] }
+
+. .
+
+
+{*SUBJ [NP Ráðherra nken ] }
+
+[VP skipar sfg3en ]
+
+[NP formann nkeo ]
+
+{*QUAL [NP nefndarinnar nveeg ] }
+
+[PP án ae ]
+
+{*QUAL [NP tilnefningar nvee ] }
+
+. .
+
+
+{*SUBJ [NP Nefndin nveng ] }
+
+[VP skal sfg3en ]
+
+{*COMP [VPp skipuð sþgven ] }
+
+[PP til ae ]
+
+{*QUAL [NP þriggja tfhfe ] }
+
+[VPi ára sng ]
+
+[AdvP í aa ]
+
+[AdvP senn aa ]
+
+. .
+
+
+{*COMP [AP Helstu lhfnve ] }
+
+{*SUBJ [NP verkefni nhfn ] }
+
+{*QUAL [NP nefndarinnar nveeg ] }
+
+[VPb eru sfg3fn ]
+
+: :
+
+{*QUAL [NP a. fohee ] }
+
+að cn
+
+[VPi annast snm ]
+
+[NP samráð nheo ]
+
+[PP innan ae ]
+
+{*QUAL [NP lands nhee ] }
+
+[PP um ao ]
+
+[NP varðveislu nveo ]
+
+{*QUAL [NP erfðaauðlinda nvfe ] }
+
+[PP í aþ ]
+
+[NP landbúnaði nkeþ ]
+
+, ,
+
+[NP b. nheo ]
+
+að cn
+
+[VPi hvetja sng ]
+
+[PP til ae ]
+
+{*QUAL [NP rannsókna nvfe ] }
+
+[PP á aþ ]
+
+[NP sviði nheþ ]
+
+{*QUAL [NP erfðaauðlinda nvfe ] }
+
+[PP í aþ ]
+
+[NP landbúnaði nkeþ ]
+
+, ,
+
+c. x
+
+að cn
+
+[VPi stuðla sng ]
+
+[PP að aþ ]
+
+[NP miðlun nveþ ]
+
+{*QUAL [NP þekkingar nvee ] }
+
+[PP um ao ]
+
+[NP erfðaauðlindir nvfo ]
+
+[CP og c ]
+
+[NP gildi nheo ]
+
+{*QUAL [NP þeirra fpvfe ] }
+
+, ,
+
+[AdvP jafnt aa ]
+
+[PP með aþ ]
+
+[NP kennslu nveþ ]
+
+[SCP sem ct ]
+
+[NP upplýsingagjöf nveþ ]
+
+[PP til ae ]
+
+{*QUAL [NP almennings nkee ] }
+
+, ,
+
+{*QUAL [NP d. nhee ] }
+
+að cn
+
+[VPi veita sng ]
+
+[NP hagsmunaaðilum nkfþ ]
+
+[CP og c ]
+
+[NP stjórnvöldum nhfþ ]
+
+[NP ráðgjöf nveþ ]
+
+[PP um ao ]
+
+[NP varðveislu nveo ]
+
+[CP og c ]
+
+[NP nýtingu nveo ]
+
+{*QUAL [NP erfðaauðlinda nvfe ] }
+
+[PP í aþ ]
+
+[NP landbúnaði nkeþ ]
+
+, ,
+
+[NP e. nveþ ]
+
+að cn
+
+[VPi annast snm ]
+
+[NP samskipti nhfo ]
+
+[PP við ao ]
+
+[AP erlenda lkfosf ]
+
+[NP aðila nkfo ]
+
+[PP á aþ ]
+
+[NP þessu faheþ ]
+
+[NP sviði nheþ ]
+
+[PP í aþ ]
+
+[NP samstarfi nheþ ]
+
+[PP við ao ]
+
+[NP tengiliði nkfo ]
+
+{*QUAL [NP Íslands nhee-s ] }
+
+[PP hjá aþ ]
+
+[NP alþjóðastofnunum nvfþ ]
+
+. .
+
+
+[ [
+
+{*SUBJ [NP Ráðherra nken ] }
+
+] ]
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+[VP setur sfg3en ]
+
+[NP reglugerð nveo ]
+
+[AdvP þar aa ]
+
+[SCP sem c ]
+
+[AdvP nánar aam ]
+
+[VPb er sfg3en ]
+
+{*COMP [VPp kveðið sþghen ] }
+
+[AdvP á aa ]
+
+[PP um ao ]
+
+[NP verkefni nheo ]
+
+{*QUAL [NP nefndarinnar nveeg ] }
+
+[CP og c ]
+
+{*COMP [AP nauðsynlegar lvfnsf ] }
+
+{*SUBJ [NP ráðstafanir nvfn ] }
+
+[PP til ae ]
+
+{*QUAL [NP framkvæmdar nvee ] }
+
+[PP á aþ ]
+
+[NP ákvæðum nhfþ ]
+
+{*QUAL [NP þessarar favee ] }
+
+{*QUAL [NP greinar nvee ] }
+
+. .
+
+] ]
+
+{*TIMEX [NP 5 ta ] }
+
+) )
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+{*QUAL [NP L. nhfe ] }
+
+
+{*TIMEX [NP 126/2011 ta ] }
+
+, ,
+
+{*TIMEX [NP 273. ta ] }
+
+[NP gr. nveo ]
+
+{*TIMEX [NP 2 ta ] }
+
+) )
+
+{*QUAL [NP L. nhfe ] }
+
+
+{*TIMEX [NP 79/2004 ta ] }
+
+, ,
+
+{*TIMEX [NP 5. ta ] }
+
+[NP gr. nveo ]
+
+{*TIMEX [NP 3 ta ] }
+
+) )
+
+{*QUAL [NP L. nhfe ] }
+
+
+{*TIMEX [NP 60/2016 ta ] }
+
+, ,
+
+{*TIMEX [NP 13. ta ] }
+
+[NP gr. nveo ]
+
+{*TIMEX [NP 4 ta ] }
+
+) )
+
+{*QUAL [NP L. nhfe ] }
+
+
+{*TIMEX [NP 113/2015 ta ] }
+
+, ,
+
+{*TIMEX [NP 3. ta ] }
+
+[NP gr. nveo ]
+
+{*TIMEX [NP 5 ta ] }
+
+) )
+
+{*QUAL [NP L. nhfe ] }
+
+
+{*TIMEX [NP 53/2003 ta ] }
+
+, ,
+
+{*TIMEX [NP 1. ta ] }
+
+[NP gr. nveo ]
+
+
+{*TIMEX [NP IV ta ] }
+
+. .
+
+
+{*SUBJ [NP kafli nken ] }
+
+. .
+
+
+[PP Um ao ]
+
+[NP leiðbeiningarstarfsemi nveo ]
+
+. .
+
+
+{*TIMEX [NP 17. ta ] }
+
+{*SUBJ [NP gr. nven ] }
+
+
+{*SUBJ [NP Markmið nhen ] }
+
+. .
+
+
+{*SUBJ [NP Markmið nhen ] }
+
+{*COMP [AP leiðbeiningarþjónustu lkfnve ] }
+
+[PP samkvæmt aþ ]
+
+[NP lögum nhfþ ]
+
+[NP þessum fahfþ ]
+
+[VPb er sfg3en ]
+
+að cn
+
+[VPi miðla sng ]
+
+[NP upplýsingum nvfþ ]
+
+[PP til ae ]
+
+{*QUAL [NP bænda nkfe ] }
+
+[CP og c ]
+
+[VPi stuðla sng ]
+
+[PP með aþ ]
+
+[NP því fpheþ ]
+
+[SCP að c ]
+
+[AP bættum lkfþsf ]
+
+[NP búskaparháttum nkfþ ]
+
+[CP og c ]
+
+[NP framförum nvfþ ]
+
+[PP í aþ ]
+
+[NP búskap nkeþ ]
+
+, ,
+
+[PP til ae ]
+
+{*QUAL [NP hagsbóta nvfe ] }
+
+[CP og c ]
+
+[AP bættra lhfesf ]
+
+{*QUAL [NP lífskjara nhfe ] }
+
+[PP fyrir ao ]
+
+[NP bændur nkfo ]
+
+[CP og c ]
+
+{*SUBJ [NP neytendur nken ] }
+
+{*QUAL [NP búvara nkee ] }
+
+. .
+
+
+{*SUBJ [NP Hún fpven ] }
+
+[VP skal sfg3en ]
+
+[PP á aþ ]
+
+[NP hverjum fokeþ ]
+
+[VPi tíma sng ]
+
+[NP afla nkeþ ]
+
+[CP og c ]
+
+[VPi miðla sng ]
+
+[AP bestu lveþve ]
+
+[NP þekkingu nveþ ]
+
+[CP og c ]
+
+[NP reynslu nveþ ]
+
+[PP um ao ]
+
+[NP alla foveo ]
+
+[VPb þætti svg3eþ ]
+
+{*SUBJ [NP búrekstrar nkfn ] }
+
+[SCP sem ct ]
+
+{*SUBJ [NP bændur nkfn ] }
+
+[VP leggja sfg3fn ]
+
+[NP stund nveo ]
+
+[AdvP á aa ]
+
+, ,
+
+[PP eftir aþ ]
+
+[NP því faheþ ]
+
+[SCP sem ct ]
+
+{*SUBJ [NP við fp1fn ] }
+
+[VPb verður sfg3en ]
+
+{*COMP [VPp komið sþghen ] }
+
+. .
+
+
+{*SUBJ [NP Hlutverk nhen ] }
+
+{*QUAL [NP leiðbeiningarþjónustunnar nveeg ] }
+
+[VPb er sfg3en ]
+
+[AdvP að aa ]
+
+: :
+
+{*TIMEX [NP 1. ta ] }
+
+[VPi miðla sng ]
+
+[AP líffræðilegri lveþsf ]
+
+, ,
+
+[AP tæknilegri lveþsf ]
+
+[CP og c ]
+
+[AP hagfræðilegri lveþsf ]
+
+[NP þekkingu nveþ ]
+
+[PP til ae ]
+
+{*QUAL [NP allra fovfe ] }
+
+{*QUAL [NP búgreina nvfe ] }
+
+, ,
+
+{*TIMEX [NP 2. ta ] }
+
+[VPi þróa sng ]
+
+[AP hagfræðileg lhfosf ]
+
+[CP og c ]
+
+[AP búfræðileg lhfosf ]
+
+[NP hjálpartæki nhfo ]
+
+[PP fyrir ao ]
+
+[NP leiðbeiningarstarfsemi nveo ]
+
+[CP og c ]
+
+[PP fyrir ao ]
+
+[AP einstaka lkfosf ]
+
+[NP bændur nkfo ]
+
+, ,
+
+[AdvP svo aa ]
+
+[AdvP sem aa ]
+
+[PP með aþ ]
+
+[NP gerð nveþ ]
+
+[AP hentugra lhfesf ]
+
+{*QUAL [NP tölvuforrita nhfe ] }
+
+, ,
+
+{*TIMEX [NP 3. ta ] }
+
+{*QUAL [NP kynna nhfe ] }
+
+[PP fyrir aþ ]
+
+[NP þeim fphfþ ]
+
+[SCP sem ct ]
+
+[VP starfa sfg3fn ]
+
+[PP að aþ ]
+
+[NP landbúnaði nkeþ ]
+
+{*SUBJ [NP stefnumörkun nven ] }
+
+{*QUAL [NP stjórnvalda nhfe ] }
+
+[PP í aþ ]
+
+[NP málefnum nhfþ ]
+
+{*QUAL [NP landbúnaðarins nkeeg ] }
+
+[CP og c ]
+
+[PP á aþ ]
+
+[NP öðrum fohfþ ]
+
+[NP sviðum nhfþ ]
+
+[VPb er sfg3en ]
+
+{*SUBJ [NP hann fpken ] }
+
+[VP snerta sfg3fn ]
+
+, ,
+
+[AdvP svo aa ]
+
+[AdvP sem aa ]
+
+[PP í ao ]
+
+[NP landverndar- nvfo ]
+
+[CP og c ]
+
+[AP umhverfismálum lkfþsf ]
+
+, ,
+
+{*TIMEX [NP 4. ta ] }
+
+[VPb vera sng ]
+
+[NP stjórnvöldum nhfþ ]
+
+[PP til ae ]
+
+{*QUAL [NP aðstoðar nvee ] }
+
+[PP við ao ]
+
+[NP framkvæmd nveo ]
+
+{*SUBJ [NP löggjafar nkfn ] }
+
+[PP eftir aþ ]
+
+[NP því faheþ ]
+
+[SCP sem ct ]
+
+{*SUBJ [NP við fp1fn ] }
+
+[VP getur sfg3en ]
+
+[VPs átt ssg ]
+
+[CP og c ]
+
+[AdvP um aa ]
+
+[VP semst sfm3eþ ]
+
+[PP milli ae ]
+
+{*QUAL [NP aðila nkfe ] }
+
+, ,
+
+{*TIMEX [NP 5. ta ] }
+
+[VPi stuðla sng ]
+
+[SCP bæði c ]
+
+[AdvP faglega aa ]
+
+[CP og c ]
+
+[AdvP félagslega aa ]
+
+[PP að aþ ]
+
+[NP þróun nveþ ]
+
+[AP nýrra lvfesf ]
+
+{*QUAL [NP búgreina nvfe ] }
+
+[CP og c ]
+
+[VPi fylgjast snm ]
+
+[PP með aþ ]
+
+[NP árangri nkeþ ]
+
+{*QUAL [NP frumherja nkee ] }
+
+[PP á aþ ]
+
+[NP því faheþ ]
+
+[NP sviði nheþ ]
+
+, ,
+
+{*TIMEX [NP 6. ta ] }
+
+[VPi stuðla sng ]
+
+[PP að aþ ]
+
+[AP sjálfbærri lveþvm ]
+
+[NP þróun nveþ ]
+
+[PP við ao ]
+
+[NP nýtingu nveo ]
+
+{*QUAL [NP auðlinda nvfe ] }
+
+, ,
+
+{*TIMEX [NP 7. ta ] }
+
+[VPi vinna sng ]
+
+[PP að aþ ]
+
+[NP eflingu nveþ ]
+
+{*SUBJ [NP búrekstrar nkfn ] }
+
+[PP í aþ ]
+
+[NP sveitum nvfþ ]
+
+. .
+
+
+{*SUBJ [NP Leiðbeiningarþjónustan nveng ] }
+
+[VP skal sfg3en ]
+
+[VPi stuðla sng ]
+
+[PP að aþ ]
+
+[NP því fpheþ ]
+
+, ,
+
+[PP eftir aþ ]
 
 [NP því faheþ ]
 
@@ -9504,593 +4590,1359 @@ að cn
 
 {*SUBJ [NP hún fpven ] }
 
-[VP gerði sfg3eþ ]
+[VP hefur sfg3en ]
 
-[CP og c ]
+[NP tök nhfo ]
 
-[PP fyrir aþ ]
-
-[AdvP aðeins aa ]
-
-[AP örfáum lkfþsf ]
-
-[NP mánuðum nkfþ ]
-
-[VP hafði sfg3eþ ]
-
-{*SUBJ [NP vinnan nveng ] }
-
-[VPb verið ssg ]
-
-{*COMP [AP stór lkensf ] }
-
-{*SUBJ [NP hluti nken ] }
-
-[PP af aþ ]
-
-[NP lífi nheþ ]
-
-{*QUAL [NP hennar fpvee ] }
-
-. .
-
-[AdvP Núna aa ]
-
-[VP þurfti sfg3eþ ]
-
-{*SUBJ [NP hún fpven ] }
-
-að cn
-
-[VPi einbeita sng ]
-
-[NP sér fpveþ ]
-
-[PP til ae ]
-
-að cn
-
-[VPi muna sng ]
-
-[PP eftir aþ ]
-
-[NP verkefnunum nhfþg ]
-
-[SCP sem ct ]
-
-{*SUBJ [NP hún fpven ] }
-
-[VP hafði sfg3eþ ]
-
-[VPs hlaupið ssg ]
-
-[PP frá aþ ]
-
-[AP hálfkláruðum lkeþsf ]
-
-[SCP þegar c ]
-
-{*SUBJ [NP hún fpven ] }
-
-[VP tók sfg3eþ ]
-
-[NP sér fpveþ ]
-
-[VP leyfið sfg2fn ]
+[PP á aþ ]
 
 , ,
 
-[CP en c ]
+[SCP að c ]
 
-{*SUBJ [NP sú faven ] }
+{*SUBJ [NP búskapur nken ] }
 
-[VPb var sfg3eþ ]
-
-{*SUBJ [NP tíðin nveng ] }
-
-[PP að aþ ]
-
-[NP henni fpveþ ]
-
-[VP fannst sfm3eþ ]
-
-{*SUBJ [NP hún fpven ] }
-
-[AdvP ekki aa ]
-
-[AdvP almennilega aa ]
-
-{*COMP [AP vakandi lvenof ] }
-
-[SCP nema c ]
-
-{*SUBJ [NP hún fpven ] }
-
-[VPb væri svg3eþ ]
+[VP þróist sfm3en ]
 
 [PP í aþ ]
 
-[NP vinnunni nveþg ]
-
-[CP og c ]
-
-[SCP þegar c ]
-
-{*SUBJ [NP hún fpven ] }
-
-[VPb var sfg3eþ ]
-
-[AdvP þar aa ]
-
-[AdvP ekki aa ]
-
-[VPb var sfg3eþ ]
-
-{*SUBJ [NP hún fpven ] }
-
-[PP með ao ]
-
-[AP hálfan lkeosf ]
-
-[NP hugann nkeog ]
+[NP samræmi nheþ ]
 
 [PP við ao ]
 
-[NP þær favfo ]
+[NP þá faveo ]
 
-[NP hugmyndir nvfo ]
+[NP stefnu nveo ]
 
 [SCP sem ct ]
 
-[VP byltu sfg3fþ ]
+{*COMP [VPp mörkuð sþgven ] }
 
-[NP sér fpvfþ ]
-
-[AP innra lkeþvm ]
+[VPb er sfg3en ]
 
 [PP með aþ ]
 
-[NP henni fpveþ ]
+[NP samningum nkfþ ]
 
-; ;
+[AP samtaka lkfeof ]
 
-{*COMP [AP ljótar lvfnsf ] }
+{*QUAL [NP bænda nkfe ] }
 
-, ,
+[PP við ao ]
 
-{*COMP [AP grófar lvfnsf ] }
-
-[CP og c ]
-
-[AdvP vandræðalega aa ]
-
-{*COMP [AP klénar lvfnsf ] }
-
-[AdvP þar aa ]
-
-[AdvP til aa ]
-
-{*SUBJ [NP aldan nveng ] }
-
-[PP í aþ ]
-
-[NP vitundinni nveþg ]
-
-[VP hafði sfg3eþ ]
-
-[VPs pússað ssg ]
-
-[NP þær fpvfo ]
+[NP ríkisvaldið nheog ]
 
 . .
 
-[CP Og c ]
 
-[AdvP þá aa ]
+[ [
 
-, ,
+{*SUBJ [NP Allir fokfn ] }
 
-[AdvP skínandi aa ]
+{*SUBJ [NP bændur nkfn ] }
 
-{*COMP [AP lýtalausar lvfnsf ] }
-
-, ,
-
-[VP vöktu sfg3fþ ]
-
-{*SUBJ [NP þær fpvfn ] }
-
-[AP þrá lhfosf ]
-
-[PP í aþ ]
-
-[NP hjarta nheþ ]
-
-[AdvP venjulega aa ]
-
-, ,
-
-[AP þreytta lheevf ]
-
-{*QUAL [NP fólksins nheeg ] }
-
-[SCP sem ct ]
-
-[VP langaði sfg3eþ ]
-
-[PP í ao ]
-
-[NP hlutdeild nveo ]
-
-[PP af aþ ]
-
-[AP áreynslulausri lveþsf ]
-
-[NP fegurðinni nveþg ]
-
-. .
-
-[InjP Nei au ]
-
-[AdvP annars aa ]
-
-, ,
-
-{*SUBJ [NP fegurðin nveng ] }
-
-[VPb var sfg3eþ ]
-
-[AdvP ekki aa ]
-
-{*SUBJ [NP annað fohen ] }
-
-[CP en c ]
-
-{*SUBJ [NP dyragætt nven ] }
-
-[CP og c ]
-
-{*SUBJ [NP loforð nhen ] }
-
-[AdvP um aa ]
-
-{*QUAL [NP annars fokee ] }
-
-{*QUAL [NP konar nkee ] }
-
-[NP sælu nveþ ]
-
-, ,
+[VP eiga sfg3fn ]
 
 [AdvP rétt aa ]
 
-[AdvP handan aa ]
-
-[PP við ao ]
-
-[NP dyrnar nvfog ]
-
-. .
-
-{*QUAL [NP Annars fokee ] }
-
-{*QUAL [NP konar nkee ] }
-
-[AP sæla lkeevf ]
-
-, ,
-
-[AdvP hvernig aa ]
-
-? ?
-
-{*QUAL [NP Hennar fpvee ] }
-
-{*SUBJ [NP hlutverk nhen ] }
-
-[VPb var sfg3eþ ]
-
-að cn
-
-[VPi svara sng ]
-
-[NP þeirri faveþ ]
-
-[NP spurningu nveþ ]
-
-[PP til ae ]
-
-[AP hálfs lheesf ]
-
-, ,
-
-[VPi gefa sng ]
-
-[AP óljósa lveosf ]
-
-[NP hugmynd nveo ]
-
-[PP um ao ]
-
-[NP þetta faheo ]
-
-[AP hvernig lheoof ]
-
-. .
-
-[VP Hafði sfg3eþ ]
-
-[VPb verið ssg ]
-
-{*QUAL [NP hennar fpvee ] }
-
-{*SUBJ [NP hlutverk nhen ] }
-
-, ,
-
-[InjP já au ]
-
-, ,
-
-[CP en c ]
-
-[VPb var sfg3eþ ]
-
-{*SUBJ [NP það fphen ] }
-
-[AdvP ekki aa ]
-
-[AdvP lengur aam ]
-
-. .
-
-{*SUBJ [NP Hún fpven ] }
-
-[VP tók sfg3eþ ]
-
-[PP um ao ]
-
-[NP glasið nheog ]
-
-[PP með aþ ]
-
-[NP næringardrykknum nkeþg ]
-
-; ;
-
-{*SUBJ [NP það fphen ] }
-
-[VPb var sfg3eþ ]
-
-{*COMP [VPp orðið sþghen ] }
-
-{*COMP [AP volgt lhensf ] }
-
-. .
-
-{*SUBJ [NP Margrét nven-s ] }
-
-[VP hafði sfg3eþ ]
-
-[NP viðbjóð nkeo ]
-
 [PP á aþ ]
 
-[NP öllu foheþ ]
+[AP leiðbeiningarþjónustu lveþve ]
+
+[PP samkvæmt aþ ]
+
+[NP lögum nhfþ ]
+
+[NP þessum fahfþ ]
+
+. .
+
+] ]
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+{*QUAL [NP L. nhfe ] }
+
+
+{*TIMEX [NP 129/2012 ta ] }
+
+, ,
+
+{*TIMEX [NP 3. ta ] }
+
+[NP gr. nveo ]
+
+
+{*TIMEX [NP 18. ta ] }
+
+{*SUBJ [NP gr. nven ] }
+
+[ [
+
+{*SUBJ [NP Leiðbeiningar nvfn ] }
+
+. .
+
+
+[PP Hjá aþ ]
+
+[NP leiðbeiningarmiðstöð nveþ ]
+
+{*QUAL [NP starfa nhfe ] }
+
+{*SUBJ [NP ráðunautar nkfn ] }
 
 [SCP sem ct ]
 
-[VPb var sfg3eþ ]
+{*QUAL [NP sinna fekfe ] }
 
-{*COMP [AP volgt lhensf ] }
+[AP faglegum lvfþsf ]
+
+[NP leiðbeiningum nvfþ ]
+
+[PP fyrir ao ]
+
+[NP bændur nkfo ]
+
+[PP undir aþ ]
+
+[AP faglegri lveþsf ]
+
+[NP umsjón nveþ ]
+
+{*QUAL [NP Bændasamtaka nkfe-s ] }
+
+{*QUAL [NP Íslands nhee-s ] }
 
 . .
 
-[PP Í aþ ]
 
-[NP frystinum nkeþg ]
+{*SUBJ [NP Þeir fpkfn ] }
 
-[VPb var sfg3eþ ]
+[VP annast sfm3fn ]
 
-{*COMP [AP bleikt lhensf ] }
-
-{*SUBJ [NP klakabox nhfn ] }
+[NP eftirlit nheo ]
 
 [PP með aþ ]
 
-[NP hólfum nhfþ ]
-
-[PP í aþ ]
-
-[NP laginu nheþg ]
-
-[AdvP eins aa ]
+[NP búfjárrækt nveþ ]
 
 [CP og c ]
 
-[NP hjörtu nhfo ]
+[NP kynbótum nvfþ ]
+
+[PP í aþ ]
+
+[NP þeim favfþ ]
+
+[NP greinum nvfþ ]
+
+[SCP sem ct ]
+
+{*SUBJ [NP lög nhfn ] }
+
+{*SUBJ [NP þessi faven ] }
+
+{*SUBJ [NP taka nven ] }
+
+[AdvP til aa ]
 
 . .
 
-{*SUBJ [NP Það fphen ] }
 
-[VPb var sfg3eþ ]
+{*SUBJ [NP Þeir fpkfn ] }
 
-[AdvP næstum aa ]
+[VP annast sfm3fn ]
 
-{*COMP [AP tómt lhensf ] }
+[AdvP einnig aa ]
+
+[NP eftirlit nheo ]
+
+[PP með aþ ]
+
+[NP jarðabótum nvfþ ]
+
+[CP og c ]
+
+[NP úttekt nveþ ]
+
+{*QUAL [NP jarðabóta nvfe ] }
+
+[PP eftir aþ ]
+
+[NP því faheþ ]
+
+[SCP sem ct ]
+
+{*SUBJ [NP við fp1fn ] }
+
+[AdvP á aa ]
 
 , ,
 
-[AdvP aðeins aa ]
+[MWE_AdvP sbr. as ]
 
-[NP tvö tfhfo ]
+{*TIMEX [NP 8. ta ] }
 
-[NP hjörtu nhfo ]
+[NP gr. nveo ]
 
-[AdvP eftir aa ]
+
+{*SUBJ [NP Ráðunautar nkfn ] }
+
+[VP skulu sfg3fn ]
+
+[VPi hafa sng ]
+
+[VPs lokið ssg ]
+
+[NP háskólaprófi nheþ ]
+
+[PP í aþ ]
+
+[NP búvísindum nhfþ ]
+
+[CP eða c ]
+
+[NP öðrum fovfþ ]
+
+[NP fræðigreinum nvfþ ]
+
+[PP eftir aþ ]
+
+[NP því faheþ ]
+
+[SCP sem ct ]
+
+{*SUBJ [NP við fp1fn ] }
+
+[VP getur sfg3en ]
+
+[VPs átt ssg ]
+
+[CP eða c ]
+
+[VPi hafa sng ]
+
+[NP menntun nveo ]
+
+[CP og c ]
+
+[NP starfsreynslu nveo ]
+
+[SCP sem ct ]
+
+[NP stjórn nveþ ]
+
+{*QUAL [NP Bændasamtaka nkfe-s ] }
+
+{*QUAL [NP Íslands nhee-s ] }
+
+[VP metur sfg3en ]
+
+[VPi jafngilda sng ]
+
+. .
+
+
+{*SUBJ [NP Landsráðunautar nkfn ] }
+
+[CP eða c ]
+
+{*SUBJ [NP fagstjórar nkfn ] }
+
+[VP skulu sfg3fn ]
+
+[VPi starfa sng ]
+
+[PP í aþ ]
+
+[AP einstökum lvfþsf ]
+
+[NP búgreinum nvfþ ]
+
+[CP eða c ]
+
+[NP fagsviðum nhfþ ]
+
+[PP eftir aþ ]
+
+[NP því faheþ ]
+
+[SCP sem ct ]
+
+[AdvP um aa ]
+
+[VPb er sfg3en ]
+
+{*COMP [VPp samið sþghen ] }
+
+[PP skv. aþ ]
+
+{*TIMEX [NP 1. ta ] }
+
+[NP mgr. nveþ ]
+
+{*TIMEX [NP 3. ta ] }
+
+[NP gr. nveþ ]
+
+[CP og c ]
+
+{*SUBJ [NP fjárveiting nven ] }
+
+[VP heimilar sfg3en ]
+
+. .
+
+
+{*SUBJ [NP Þeir fpkfn ] }
+
+[VP hafa sfg3fn ]
+
+[NP yfirumsjón nveo ]
+
+[PP með aþ ]
+
+[NP leiðbeiningum nvfþ ]
+
+, ,
+
+[NP kynbótum nvfþ ]
+
+[CP og c ]
+
+[NP ræktun nveþ ]
+
+[PP í aþ ]
+
+[AP viðkomandi lveþof ]
+
+[NP búgrein nveþ ]
+
+. .
+
+
+{*SUBJ [NP Landsráðunautar nkfn ] }
+
+[CP eða c ]
+
+{*SUBJ [NP fagstjórar nkfn ] }
+
+[VP skulu sfg3fn ]
+
+[VPi hafa sng ]
+
+[VPs lokið ssg ]
+
+[NP háskólaprófi nheþ ]
+
+[PP í aþ ]
+
+[NP búfræðum nhfþ ]
+
+[CP og c ]
+
+[VP hafa sfg3fn ]
+
+[VPs lokið ssg ]
+
+[NP sérnámi nheþ ]
+
+[PP á aþ ]
+
+[NP sínu feheþ ]
+
+[NP starfssviði nheþ ]
+
+[CP eða c ]
+
+[VP hafa sfg3fn ]
+
+[NP menntun nveo ]
+
+[CP og c ]
+
+[NP starfsreynslu nveo ]
+
+[SCP sem ct ]
+
+[NP stjórn nveþ ]
+
+{*QUAL [NP Bændasamtaka nkfe-s ] }
+
+{*QUAL [NP Íslands nhee-s ] }
+
+[VP metur sfg3en ]
+
+[VP jafngilda sfg3fn ]
+
+. .
+
+] ]
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+[NP L. nhfþ ]
+
+
+{*TIMEX [NP 129/2012 ta ] }
+
+, ,
+
+{*TIMEX [NP 4. ta ] }
+
+[NP gr. nveo ]
+
+
+[VP V. sfg3en ]
+
+{*SUBJ [NP kafli nken ] }
+
+. .
+
+
+{*SUBJ [NP Ýmis fohfn ] }
+
+{*SUBJ [NP ákvæði nhfn ] }
+
+. .
+
+
+{*TIMEX [NP 19. ta ] }
+
+{*SUBJ [NP gr. nven ] }
+
+
+{*SUBJ [NP Reglur nvfn ] }
+
+[PP um ao ]
+
+[NP framkvæmd nveo ]
+
+{*QUAL [NP laganna nhfeg ] }
+
+. .
+
+
+[ [
+
+{*SUBJ [NP Ráðherra nken ] }
+
+] ]
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+[VP setur sfg3en ]
+
+[PP með aþ ]
+
+[NP reglugerð nveþ ]
+
+{*TIMEX [NP 2 ta ] }
+
+) )
+
+[AP nánari lhfovm ]
+
+[NP fyrirmæli nhfo ]
+
+[PP um ao ]
+
+[NP framkvæmd nveo ]
+
+{*QUAL [NP laga nhfe ] }
+
+{*QUAL [NP þessara fahfe ] }
+
+. .
+
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+{*QUAL [NP L. nhfe ] }
+
+
+{*TIMEX [NP 126/2011 ta ] }
+
+, ,
+
+{*TIMEX [NP 273. ta ] }
+
+[NP gr. nveo ]
+
+{*TIMEX [NP 2 ta ] }
+
+) )
+
+{*SUBJ [NP Rg nven-s ] }
+
+. .
+
+
+{*TIMEX [NP 557/1998 ta ] }
+
+. .
+
+
+[NP Rg nkeo ]
+
+. .
+
+
+{*TIMEX [NP 322/1999 ta ] }
+
+. .
+
+
+[NP Rg nkeo ]
+
+. .
+
+
+{*TIMEX [NP 449/2002 ta ] }
+
+, ,
+
+[MWE_AdvP sbr. as ]
+
+{*TIMEX [NP 677/2002 ta ] }
+
+, ,
+
+{*TIMEX [NP 297/2017 ta ] }
+
+[CP og c ]
+
+{*TIMEX [NP 361/2017 ta ] }
+
+. .
+
+
+[NP Rg nkeo ]
+
+. .
+
+
+{*TIMEX [NP 151/2005 ta ] }
+
+. .
+
+
+[NP Rg nkeo ]
+
+. .
+
+
+{*TIMEX [NP 442/2011 ta ] }
+
+, ,
+
+[MWE_AdvP sbr. as ]
+
+{*TIMEX [NP 476/2018 ta ] }
+
+. .
+
+
+[NP Rg nkeo ]
+
+. .
+
+
+{*TIMEX [NP 1123/2015 ta ] }
+
+. .
+
+
+[NP Rg nkeo ]
+
+. .
+
+
+{*TIMEX [NP 540/2016 ta ] }
+
+. .
+
+
+[NP Rg nkeo ]
+
+. .
+
+
+{*TIMEX [NP 878/2016 ta ] }
+
+. .
+
+
+[NP Rg nkeo ]
+
+. .
+
+
+{*TIMEX [NP 1180/2017 ta ] }
+
+. .
+
+
+[NP Rg nkeo ]
+
+. .
+
+
+{*TIMEX [NP 1183/2017 ta ] }
+
+. .
+
+
+[ [
+
+{*TIMEX [NP 20. ta ] }
+
+{*SUBJ [NP gr. nven ] }
+
+
+{*SUBJ [NP Framkvæmdanefnd nven ] }
+
+{*QUAL [NP búvörusamninga nkfe ] }
+
+. .
+
+
+[NP Framkvæmdanefnd nveþ ]
+
+{*QUAL [NP búvörusamninga nkfe ] }
+
+[VPb er sfg3en ]
+
+{*SUBJ [NP samráðsvettvangur nken ] }
+
+{*QUAL [NP samningsaðila nkfe ] }
+
+[PP um ao ]
+
+[NP framkvæmd nveo ]
+
+{*QUAL [NP samnings nkee ] }
+
+[PP skv. aþ ]
+
+{*TIMEX [NP 3. ta ] }
+
+[NP gr. nveþ ]
+
+
+{*SUBJ [NP Ráðherra nken ] }
+
+[VP skipar sfg3en ]
+
+[NP nefndina nveog ]
+
+[PP samkvæmt aþ ]
+
+[NP ákvæðum nhfþ ]
+
+{*QUAL [NP búvörulaga nhfe ] }
+
+. .
+
+
+{*SUBJ [NP Nefndin nveng ] }
+
+[VPb er sfg3en ]
+
+{*SUBJ [NP ráðherra nken ] }
+
+[PP til ae ]
+
+{*SUBJ [NP ráðgjafar nkfn ] }
+
+[PP við ao ]
+
+[NP framkvæmd nveo ]
+
+{*QUAL [NP samnings nkee ] }
+
+[PP skv. aþ ]
+
+{*TIMEX [NP 3. ta ] }
+
+[NP gr. nveþ ]
+
+
+{*SUBJ [NP Hún fpven ] }
+
+[VP tekur sfg3en ]
+
+[NP ákvarðanir nvfo ]
+
+[PP um ao ]
+
+[NP tilfærslur nvfo ]
+
+{*QUAL [NP framlaga nhfe ] }
+
+[PP milli ae ]
+
+[AP einstakra lhfesf ]
+
+{*QUAL [NP samningsliða nhfe ] }
+
+[CP og c ]
+
+[NP greiðslutilhögun nveo ]
+
+{*QUAL [NP framlaga nhfe ] }
+
+. .
+
+
+{*SUBJ [NP Fundargerðir nvfn ] }
+
+[CP og c ]
+
+{*SUBJ [NP ákvarðanir nvfn ] }
+
+{*QUAL [NP nefndarinnar nveeg ] }
+
+[VP skal sfg3en ]
+
+[VPi birta sng ]
+
+[AdvP opinberlega aa ]
+
+. .
+
+
+{*SUBJ [NP Ákvarðanir nvfn ] }
+
+{*QUAL [NP framkvæmdanefndar nvee ] }
+
+{*QUAL [NP búvörusamninga nkfe ] }
+
+[VPb eru sfg3fn ]
+
+{*COMP [AP endanlegar lvfnsf ] }
+
+[PP á aþ ]
+
+[NP stjórnsýslustigi nheþ ]
+
+. .
+
+] ]
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+{*QUAL [NP L. nhfe ] }
+
+
+{*TIMEX [NP 102/2016 ta ] }
+
+, ,
+
+{*TIMEX [NP 52. ta ] }
+
+[NP gr. nveo ]
+
+
+[ [
+
+{*TIMEX [NP 21. ta ] }
+
+{*SUBJ [NP gr. nven ] }
+
+
+{*SUBJ [NP Þróunarframlög nhfn ] }
+
+. .
+
+
+{*SUBJ [NP Þróunarframlög nhfn ] }
+
+[VPb eru sfg3fn ]
+
+{*COMP [VPp veitt sþghen ] }
+
+[PP til ae ]
+
+að cn
+
+[VPi styðja sng ]
+
+[PP við ao ]
+
+[NP kennslu nveo ]
+
+, ,
+
+[NP rannsóknir nvfo ]
+
+, ,
+
+[NP leiðbeiningar nvfo ]
+
+[CP og c ]
+
+[NP þróun nveo ]
+
+[PP í aþ ]
+
+[NP garðyrkju nveþ ]
+
+, ,
+
+[NP nautgriparækt nveþ ]
+
+[CP og c ]
+
+[NP sauðfjárrækt nveþ ]
+
+[AdvP sem aa ]
+
+[CP og c ]
+
+[NP öðrum fovfþ ]
+
+[NP búgreinum nvfþ ]
+
+. .
+
+
+{*SUBJ [NP Framleiðnisjóður nken ] }
+
+{*QUAL [NP landbúnaðarins nkeeg ] }
+
+[VP ráðstafar sfg3en ]
+
+[NP framlögum nhfþ ]
+
+[PP til ae ]
+
+{*QUAL [NP verkefna nhfe ] }
+
+[PP skv. aþ ]
+
+{*TIMEX [NP 1. ta ] }
+
+[NP mgr. nveþ ]
+
+[PP að aþ ]
+
+[AP fenginni lveþsf ]
+
+[NP umsögn nveþ ]
+
+{*QUAL [NP fagráðs nhee ] }
+
+[PP í aþ ]
+
+[AP viðkomandi lveþof ]
+
+[NP búgrein nveþ ]
+
+. .
+
+] ]
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+{*QUAL [NP L. nhfe ] }
+
+
+{*TIMEX [NP 102/2016 ta ] }
+
+, ,
+
+{*TIMEX [NP 52. ta ] }
+
+[NP gr. nveo ]
+
+
+[ [
+
+{*TIMEX [NP 22. ta ] }
+
+{*SUBJ [NP gr. nven ] }
+
+
+{*SUBJ [NP Aðlögun nven ] }
+
+[PP að aþ ]
+
+[AP lífrænni lveþsf ]
+
+[NP framleiðslu nveþ ]
+
+. .
+
+
+{*SUBJ [NP Framlög nhfn ] }
+
+[VPb eru sfg3fn ]
+
+{*COMP [VPp veitt sþghen ] }
+
+[PP til ae ]
+
+að cn
+
+[VPi greiða sng ]
+
+[PP fyrir ao ]
+
+[NP aðlögun nveo ]
+
+[PP að aþ ]
+
+[AP lífrænum lkfþsf ]
+
+[NP framleiðsluháttum nkfþ ]
+
+[CP og c ]
+
+[VP aðstoða sfg3fn ]
+
+{*SUBJ [NP framleiðendur nkfn ] }
+
+[PP við ao ]
+
+að cn
+
+[VPi uppfylla sng ]
+
+[NP kröfur nvfo ]
+
+[PP um ao ]
+
+[AP lífræna lveosf ]
+
+[NP búvöruframleiðslu nveo ]
+
+. .
+
+] ]
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+{*QUAL [NP L. nhfe ] }
+
+
+{*TIMEX [NP 102/2016 ta ] }
+
+, ,
+
+{*TIMEX [NP 52. ta ] }
+
+[NP gr. nveo ]
+
+
+[ [
+
+{*TIMEX [NP 23. ta ] }
+
+{*SUBJ [NP gr. nven ] }
+
+] ]
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+{*QUAL [NP Gildistaka nkfe-s ] }
+
+. .
+
+
+{*SUBJ [NP Lög nhfn ] }
+
+{*SUBJ [NP þessi faven ] }
+
+{*SUBJ [NP taka nven ] }
+
+[SCP þegar c ]
+
+[VP gildi svg3fn ]
+
+{*SUBJ [NP … nhen ] }
+
+{*TIMEX [NP 1 ta ] }
+
+) )
+
+{*COMP [AP L. lhensf ] }
+
+
+{*TIMEX [NP 102/2016 ta ] }
+
+, ,
+
+{*TIMEX [NP 52. ta ] }
+
+[NP gr. nveo ]
+
+
+{*SUBJ [NP Ákvæði nhfn ] }
+
+[PP til ae ]
+
+{*QUAL [NP bráðabirgða nvfe ] }
+
+. .
+
+
+{*QUAL [NP Landbúnaðarráðherra nkee ] }
+
+[VPb er sfg3en ]
+
+{*COMP [AP heimilt lhensf ] }
+
+að cn
+
+[VPi leita sng ]
+
+[PP eftir aþ ]
+
+[NP samningum nkfþ ]
+
+[PP við ao ]
+
+[NP bændur nkfo ]
+
+[PP um ao ]
+
+[NP greiðslur nvfo ]
+
+[PP á aþ ]
+
+[AP sérstökum lhfþsf ]
+
+[NP framlögum nhfþ ]
+
+[PP vegna ae ]
+
+{*QUAL [NP framkvæmda nvfe ] }
+
+[PP á aþ ]
+
+[NP lögbýlum nhfþ ]
+
+[SCP sem ct ]
+
+{*COMP [VPp teknar sþgvfn ] }
+
+[VPb voru sfg3fþ ]
+
+[AdvP út aa ]
+
+[CP og c ]
+
+{*QUAL [NP samþykktar nvee ] }
+
+[PP af aþ ]
+
+[NP héraðsráðunautum nkfþ ]
+
+[PP á aþ ]
+
+[NP árunum nhfþg ]
+
+{*TIMEX [NP 1992 ta ] }
+
+{*SUBJ [NP – nhen ] }
+
+{*TIMEX [NP 97 ta ] }
 
 , ,
 
 [CP en c ]
 
-{*SUBJ [NP þau fphfn ] }
+{*SUBJ [NP ákvæði nhfn ] }
 
-[VPb urðu sfg3fþ ]
+{*QUAL [NP laga nhfe ] }
 
-að cn
+{*QUAL [NP þessara fahfe ] }
 
-[VPi duga sng ]
-
-. .
-
-{*SUBJ [NP Lófinn nkeng ] }
-
-[VP dofnaði sfg3eþ ]
-
-[PP undan aþ ]
-
-[NP kulda nkeþ ]
-
-{*QUAL [NP þeirra fphfe ] }
-
-[PP á aþ ]
-
-[NP þessari faveþ ]
-
-[AP stuttu lveþvf ]
-
-[NP leið nveþ ]
-
-[PP að aþ ]
-
-[NP glasinu nheþg ]
-
-[CP og c ]
-
-{*SUBJ [NP Lóa nven-s ] }
-
-[VP þurrkaði sfg3eþ ]
-
-[NP vætuna nveog ]
-
-[PP í ao ]
-
-[NP pilsið nheog ]
-
-, ,
-
-[VP hrærði sfg3eþ ]
-
-[AdvP í aa ]
-
-[PP með aþ ]
-
-[NP borðhníf nkeþ ]
-
-[CP og c ]
-
-[VP gekk sfg3eþ ]
-
-[AdvP varlega aa ]
-
-[PP með ao ]
-
-[AP fleytifullt lheosf ]
-
-[NP glasið nheog ]
-
-[AdvP áleiðis aa ]
-
-[PP til ae ]
-
-{*QUAL [NP Margrétar nvee-s ] }
-
-. .
-
-{*COMP [AP Einkennileg lvensf ] }
-
-{*SUBJ [NP þreyta nven ] }
-
-[CP og c ]
-
-[NP stirðleiki nkfo ]
-
-[VP gerðu sfg3fþ ]
-
-[AdvP vart aa ]
-
-[PP við ao ]
-
-[NP sig fpheo ]
-
-[NP bak nheo ]
-
-[PP við ao ]
-
-[NP augun nhfog ]
-
-[CP og c ]
-
-{*SUBJ [NP hún fpven ] }
-
-[VP ranghvolfdi sfg3eþ ]
-
-[NP þeim fphfþ ]
-
-, ,
-
-[VP skældi sfg3eþ ]
-
-{*SUBJ [NP andlitið nheng ] }
-
-[PP til ae ]
-
-að cn
-
-[VPi losa sng ]
+[VP gilda sfg3fn ]
 
 [PP um ao ]
 
-[NP spennuna nveog ]
+[NP framkvæmdir nvfo ]
+
+[SCP sem ct ]
+
+[VP hafa sfg3fn ]
+
+[VPb verið ssg ]
+
+{*COMP [VPp teknar sþgvfn ] }
+
+[AdvP út aa ]
 
 [CP og c ]
 
-[VPi sá sng ]
-
-[NP sig fpheo ]
-
-{*SUBJ [NP allt fohen ] }
-
-[PP í aþ ]
-
-[AP einu lheþsf ]
-
-[PP fyrir aþ ]
-
-[NP sér fpheþ ]
-
-[PP í aþ ]
-
-[NP hlutverki nheþ ]
-
-{*QUAL [NP framreiðsludömunnar nveeg ] }
-
-[AdvP framan aa ]
+{*QUAL [NP samþykktar nvee ] }
 
 [PP á aþ ]
 
-[NP plötuumslagi nheþ ]
+[NP árinu nheþg ]
 
-[NP Supertramp nkeo-s ]
+{*TIMEX [NP 1998 ta ] }
 
-; ;
+. .
 
-{*SUBJ [NP Breakfast nken-s ] }
 
-[FRW in e ]
+[PP Um ao ]
 
-[NP America nheo-s ]
+[NP samninga nkfo ]
+
+[PP við ao ]
+
+[NP bændur nkfo ]
+
+[VPb verði svg3en ]
+
+[AP eftirfarandi lvfþof ]
+
+[NP reglum nvfþ ]
+
+{*COMP [VPp fylgt sþghen ] }
+
+: :
+
+[PP a. aþ ]
+
+
+[VPi Semja sng ]
+
+[VP skal sfg3en ]
+
+[PP um ao ]
+
+[NP greiðslu nveo ]
+
+[AP ákveðins lheesf ]
+
+{*QUAL [NP hlutfalls nhee ] }
+
+[PP af aþ ]
+
+[VP reiknuðu sfg3fþ ]
+
+[NP framlagi nheþ ]
+
+[PP samkvæmt aþ ]
+
+[NP reglugerð nveþ ]
+
+{*SUBJ [NP nr. nhen ] }
+
+{*TIMEX [NP 417/1991 ta ] }
+
+. .
+
+
+{*COMP [AP Heimilt lhensf ] }
+
+[VPb er sfg3en ]
+
+að cn
+
+[VPi greiða sng ]
+
+[NP mishátt nkeo ]
+
+{*SUBJ [NP hlutfall nhen ] }
+
+[PP eftir aþ ]
+
+[NP eðli nheþ ]
+
+{*QUAL [NP framkvæmda nvfe ] }
+
+, ,
+
+[PP samkvæmt aþ ]
+
+[AP nánari lveþvm ]
+
+[NP ákvörðun nveþ ]
+
+{*QUAL [NP landbúnaðarráðherra nkee ] }
+
+. .
+
+
+[NP b. nheo ]
+
+
+[AdvP Skýrt aa ]
+
+[VPb verði svg3en ]
+
+{*COMP [VPp kveðið sþghen ] }
+
+[AdvP á aa ]
+
+[AdvP um aa ]
+
+[PP í aþ ]
+
+[NP samningum nkfþ ]
+
+[NP þessum fakfþ ]
+
+[SCP að c ]
+
+[AdvP um aa ]
+
+[VPb sé svg3en ]
+
+að cn
+
+[VPi ræða sng ]
+
+{*COMP [AP fullnaðaruppgjör lvensf ] }
+
+[PP vegna ae ]
+
+{*QUAL [NP framkvæmda nvfe ] }
+
+[SCP sem ct ]
+
+[VP gátu sfg3fþ ]
+
+[VPs notið ssg ]
+
+{*QUAL [NP framlags nhee ] }
+
+[PP samkvæmt aþ ]
+
+[NP lögum nhfþ ]
+
+{*SUBJ [NP nr. nhen ] }
+
+{*TIMEX [NP 56/1987 ta ] }
+
+, ,
+
+[PP með aþ ]
+
+[AP síðari lvfþvm ]
+
+[NP breytingum nvfþ ]
+
+, ,
+
+[MWE_AdvP sbr. as ]
+
+[AdvP einnig aa ]
+
+[NP reglugerð nveþ ]
+
+{*SUBJ [NP nr. nhen ] }
+
+{*TIMEX [NP 417/1991 ta ] }
+
+. .
+
+
+{*SUBJ [NP Ríkissjóður nken ] }
+
+[VP mun sfg3en ]
+
+[VPi verja sng ]
+
+{*TIMEX [NP 50 ta ] }
+
+{*QUAL [NP millj. tfvfe ] }
+
+{*QUAL [NP kr. nvfe ] }
+
+[NP hvert foheo ]
+
+[NP ár nheo ]
+
+[PP á aþ ]
+
+[NP fjárlögum nhfþ ]
+
+{*QUAL [NP áranna nhfeg ] }
+
+{*TIMEX [NP 1998 ta ] }
+
+, ,
+
+{*TIMEX [NP 1999 ta ] }
+
+[CP og c ]
+
+{*TIMEX [NP 2000 ta ] }
+
+[PP til ae ]
+
+{*QUAL [NP efnda nvfe ] }
+
+[PP á aþ ]
+
+[NP samningum nkfþ ]
+
+{*QUAL [NP landbúnaðarráðherra nkee ] }
+
+[CP og c ]
+
+{*TIMEX [NP 35 ta ] }
+
+{*QUAL [NP millj. tfvfe ] }
+
+{*QUAL [NP kr. nvfe ] }
+
+[PP á aþ ]
+
+[NP árunum nhfþg ]
+
+{*TIMEX [NP 2001 ta ] }
+
+[CP og c ]
+
+{*TIMEX [NP 2002 ta ] }
+
+[SCP hvort c ]
+
+[NP ár nheo ]
 
 . .
 
