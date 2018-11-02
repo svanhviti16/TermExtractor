@@ -16,7 +16,6 @@ files = os.listdir(dir_path)
 file_list = [] 
 
 for f in files:
-    
     file_path =  os.path.join(dir_path, f)
     file_path_str = os.path.basename(file_path)
 
