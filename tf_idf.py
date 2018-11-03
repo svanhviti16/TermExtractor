@@ -3,10 +3,7 @@ from collections import defaultdict
 from operator import itemgetter
 import re, os, math
 
-# Term Frequency, Inverse Document Frequency:
-    # tf = count(word, document) / len(document) – term frequency
-    # idf = log( len(collection) / count(document_containing_term, collection) – inverse document frequency )
-    # tf-idf = tf * idf – term frequency – inverse document frequency
+# tf-idf = Term Frequency, Inverse Document Frequency
 
 # Icelandic stopwords
 with open("stopwords/stopwords_is_extra.txt", "r") as stopwords_file:
@@ -24,8 +21,8 @@ def exclude_stoptokens(corpus_file):
     temp_list = []
     for line in corpus_file:
         if line.strip():
-            #if line not in stopwords_is and line not in punct_list and not re.match(r"[0-9]+|[0-9]+\/[0-9]+|[0-9]+\.|[A-Za-zÞÆÖÐÚÁÍÓÉþæöðúáíóé]+\.", line):
-            temp_list.append(line)
+            if line not in stopwords_is and line not in punct_list and not re.match(r"[0-9]+|[0-9]+\/[0-9]+|[0-9]+\.|[A-Za-zÞÆÖÐÚÁÍÓÉþæöðúáíóé]+\.", line):
+                temp_list.append(line)
     return(temp_list)
 
 
@@ -66,9 +63,9 @@ for path in file_paths:
                 # omitting lines with no lemmas
                 if len(line.split()) is 3:
                     lemma = line.split()[2]
-                #if lemma not in stopwords_is and lemma not in punct_list and not re.match(r"[0-9]+|[0-9]+\/[0-9]+|[0-9]+\.|[A-Za-zÞÆÖÐÚÁÍÓÉþæöðúáíóé]+\.", lemma):
+                if lemma not in stopwords_is and lemma not in punct_list and not re.match(r"[0-9]+|[0-9]+\/[0-9]+|[0-9]+\.|[A-Za-zÞÆÖÐÚÁÍÓÉþæöðúáíóé]+\.", lemma):
                     # adding the lemmas to a list, omitting stopwords and other unwanted tokens
-                total_words.append(lemma)
+                    total_words.append(lemma)
     # registering whether a word appears in the document
     for word in total_words:
         word_idf[word] += 1
@@ -125,4 +122,7 @@ for word in working_set:
     tf_idf_results.append((word, tf_idf(word, working_words)))
 
 tf_idf_results.sort(key=itemgetter(1), reverse=True)
-print(tf_idf_results[:100])
+new_list = [ seq[0] for seq in tf_idf_results[:150] ]
+
+for term in new_list:
+    print(term)
