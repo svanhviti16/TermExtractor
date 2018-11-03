@@ -18,7 +18,6 @@ sumum	fokfþ	sumur
 finnst	sfm3en	finna
 æskilegt	lhensf	æskilegur
 .	.	.
-
 þriðjudagur	nken	þriðjudagur
 27.	ta	27.
 desember	nken	desember
@@ -30,7 +29,6 @@ að	cn	að
 kalla	sng	kalla
 saman	aa	saman
 Alþingi	nheo-s	Alþingi
-
 Halldór	nken-s	Halldór
 Ásgrímsson	nken-s	Ásgrímsson
 lagði	sfg3eþ	leggja
@@ -46,7 +44,6 @@ ræða	sng	ræða
 niðurstöðu	nveo	niðurstaða
 Kjaradóms	nkee-s	Kjaradómur
 .	.	.
-
 Ríkisstjórnin	nveng	ríkisstjórn
 ber	sfg3en	bera
 öll	foven	allur
@@ -55,12 +52,10 @@ ber	sfg3en	bera
 þeirri	faveþ	sá
 ákvörðun	nveþ	ákvörðun
 .	.	.
-
 Ástæðan	nveng	ástæða
 er	sfg3en	vera
 skýr	lvensf	skýr
 .	.	.
-
 Það	fphen	það
 hefur	sfg3en	hafa
 komið	ssg	koma
@@ -86,7 +81,6 @@ umfram	ao	umfram
 almenna	lveosf	almennur
 kjaraþróun	nveo	kjaraþróun
 .	.	.
-
 Þessar	favfn	þessi
 hækkanir	nvfn	hækkun
 eru	sfg3fn	vera
@@ -114,7 +108,6 @@ og	c	og
 við	ao	við
 einstaklinga	nkfo	einstaklingur
 .	.	.
-
 Þessar	favfn	þessi
 hækkanir	nvfn	hækkun
 voru	sfg3fþ	vera
@@ -136,7 +129,6 @@ vel	aa	vel
 fram	aa	fram
 á	aa	á
 .	.	.
-
 Um	ao	um
 leið	nveo	leið
 hefur	sfg3en	hafa
@@ -170,7 +162,6 @@ hálaunahópum	nkfþ	hálaunahópur
 eigin	lkeþof	eigin
 ranni	nkeþ	rannur
 .	.	.
-
 Tilmæli	nhfn	tilmæli
 Halldórs	nkee-s	Halldór
 geta	sfg3fn	geta
@@ -179,7 +170,6 @@ tvenns	lkeesf	tvennur
 konar	nkee	konar
 afleiðingar	nvfo	afleiðing
 .	.	.
-
 Ef	c	ef
 Kjaradómur	nken-s	kjaradómur
 hefur	sfg3en	hafa
@@ -197,7 +187,6 @@ hann	fpken	hann
 af	aþ	af
 sér	fpkeþ	sig
 .	.	.
-
 Þannig	aa	þannig
 myndi	svg3eþ	munu
 hann	fpken	hann
@@ -220,7 +209,6 @@ og	c	og
 forsendur	nvfo	forsenda
 hennar	fpvee	hún
 .	.	.
-
 Hin	faven	hinn
 leiðin	nveng	leið
 ,	,	,
@@ -248,7 +236,6 @@ almenni	lkenvf	almennur
 vinnumarkaðurinn	nkeng	vinnumarkaður
 fær	sfg3en	fá
 .	.	.
-
 Kjaradómur	nken	kjaradómur
 í	aþ	í
 núverandi	lveþof	núverandi
@@ -261,7 +248,6 @@ sem	ct	sem
 er	sfg3en	vera
 farin	sþgven	fara
 .	.	.
-
 Forsætisráðherra	nken	forsætisráðherra
 hefur	sfg3en	hafa
 nefnilega	aa	nefnilega
@@ -278,7 +264,6 @@ laun	nhfo	laun
 þessara	fakfe	þessi
 hópa	nkfe	hópur
 .	.	.
-
 En	c	en
 það	faheo	sá
 vald	nheo	vald
@@ -289,7 +274,6 @@ ekki	aa	ekki
 skv.	as	skv.
 lögum	nhfþ	lag
 .	.	.
-
 Þessvegna	aa	þessvegna
 bar	sfg3eþ	bera
 honum	fpkeþ	hann
@@ -298,7 +282,6 @@ kalla	sng	kalla
 saman	aa	saman
 Alþingi	nheo-s	Alþingi
 .	.	.
-
 Kjaradómur	nken	kjaradómur
 var	sfg3eþ	vera
 aðferð	nven	aðferð
@@ -323,7 +306,6 @@ en	c	en
 ekki	aa	ekki
 forsætisráðherra	nkee	forsætisráðherra
 .	.	.
-
 Úrskurður	nken	úrskurður
 Kjaradóms	nkee-s	Kjaradómur
 var	sfg3eþ	vera
@@ -363,7 +345,6 @@ leitt	ssg	leiða
 í	ao	í
 ljós	nheo	ljós
 .	.	.
-
 Ríkisstjórnin	nveng	ríkisstjórn
 þorði	sfg3eþ	þora
 hins	fakee	hinn
@@ -400,11 +381,9 @@ vildarhópum	nkfþ	vildarhópur
 í	aþ	í
 ríkiskerfinu	nheþg	ríkiskerfi
 .	.	.
-
 Og	c	og
 hananú	au	hananú
 .	.	.
-
 mánudagur	nken	mánudagur
 26.	ta	26.
 desember	nken	desember
@@ -413,7 +392,6 @@ Jóladagur	nken	jóladagur
 í	aþ	í
 lífi	nheþ	líf
 alþingismanns	nkee	alþingismaður
-
 Klukkan	nveng	klukka
 var	sfg3eþ	vera
 8:46	ta	8:46
@@ -431,7 +409,6 @@ kom	sfg1eþ	koma
 til	ae	til
 meðvitundar	nvee	meðvitund
 .	.	.
-
 Slagviðrið	nheng	slagviðri
 lamdi	sfg3eþ	lemja
 Ánanaustin	nhfogs	Ánanaust
@@ -446,7 +423,6 @@ vökunnar	nveeg	vaka
 og	c	og
 draumsins	nkeeg	draumur
 .	.	.
-
 Húsið	nheng	hús
 og	c	og
 borgin	nveng	borg
@@ -459,7 +435,6 @@ eftir	ao	eftir
 langa	lveosf	langur
 jólanótt	nveo	jólanótt
 .	.	.
-
 Ég	fp1en	ég
 fékk	sfg1eþ	fá
 mér	fp1eþ	ég
@@ -483,7 +458,6 @@ sofandi	lvfoof	sofandi
 rúmi	nheþ	rúm
 Birtu	nvee-s	Birta
 .	.	.
-
 Svo	aa	svo
 settist	sfm1eþ	setja
 ég	fp1en	ég
@@ -513,7 +487,6 @@ næstum	aa	næstum
 tvo	tfkfo	tveir
 tíma	nkfo	tími
 .	.	.
-
 Kl.	as	kl.
 10:49	ta	10:49
 hringdi	sfg1eþ	hringja
@@ -524,7 +497,6 @@ G.	as	G.
 Sigurðsson	nkeo-s	Sigurðsson
 alþingismann	nkeo	alþingismaður
 .	.	.
-
 Mig	fp1eo	ég
 vantaði	sfg3eþ	vanta
 upplýsingar	nvfo	upplýsing
@@ -544,7 +516,6 @@ mig	fp1eo	ég
 þessa	fakfo	þessi
 dagana	nkfog	dagur
 .	.	.
-
 Ég	fp1en	ég
 verð	sfg1en	verða
 æ	aa	æ
@@ -556,7 +527,6 @@ RÚV	as	RÚV
 að	aþ	að
 hlutafélagi	nheþ	hlutafélag
 .	.	.
-
 Kl.	as	kl.
 11:01	ta	11:01
 tók	sfg1eþ	taka
@@ -569,7 +539,6 @@ um	ao	um
 Píus	nkeo-s	Píus
 páfa	nkeo	páfi
 XII.	ta	xii.
-
 Hún	fpven	hún
 er	sfg3en	vera
 á	aþ	á
@@ -581,7 +550,6 @@ af	aþ	af
 flóknum	lhfþsf	flókinn
 hugtökum	nhfþ	hugtak
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 verið	ssg	vera
@@ -590,7 +558,6 @@ að	cn	að
 lesa	sng	lesa
 hana	fpveo	hún
 .	.	.
-
 Ég	fp1en	ég
 ræðst	sfm1en	ráða
 ekki	aa	ekki
@@ -608,7 +575,6 @@ undrandi	lkenof	undrandi
 á	aþ	á
 Píusi	nkeþ-s	Píus
 .	.	.
-
 Hann	fpken	hann
 hefur	sfg3en	hafa
 ekki	aa	ekki
@@ -616,7 +582,6 @@ verið	ssg	vera
 félegur	lkensf	félegur
 gripur	nken	gripur
 .	.	.
-
 Ég	fp1en	ég
 fær	x	fá
 ekki	aa	ekki
@@ -654,7 +619,6 @@ reynd	nveþ	reynd
 niður	aa	niður
 störf	nhfo	starf
 .	.	.
-
 Þá	aa	þá
 var	sfg3eþ	vera
 hann	fpken	hann
@@ -667,7 +631,6 @@ eftir	aa	eftir
 í	aþ	í
 Þýskalandi	nheþ-s	Þýskaland
 .	.	.
-
 Píus	nken-s	Píus
 XII	ta	xii
 hefur	sfg3en	hafa
@@ -679,7 +642,6 @@ nefndur	sþgken	nefna
 páfi	nken	páfi
 Hitlers	nkee-s	Hitler
 .	.	.
-
 Klukkan	nveng	klukka
 12:15	ta	12:15
 hófst	sfm1eþ	hefja
@@ -691,7 +653,6 @@ vekja	sng	vekja
 dætur	nvfo	dóttir
 mínar	fevfo	minn
 .	.	.
-
 Þær	fpvfn	hún
 vöknuðu	sfg3fþ	vakna
 úthvíldar	lvfnsf	úthvíldur
@@ -701,7 +662,6 @@ og	c	og
 vildu	sfg3fþ	vilja
 hjala	sng	hjala
 .	.	.
-
 Ég	fp1en	ég
 skreið	sfg1eþ	skríða
 upp	aa	upp
@@ -718,7 +678,6 @@ innan	aa	innan
 í	ao	í
 sængur	nvfo	sæng
 .	.	.
-
 Við	fp1fn	ég
 spjölluðum	sfg1fþ	spjalla
 um	ao	um
@@ -726,7 +685,6 @@ heima	nkfo	heimur
 og	c	og
 geima	nkfo	geimur
 .	.	.
-
 Inga	nven-s	Inga
 sagði	sfg3eþ	segja
 mér	fp1eþ	ég
@@ -744,7 +702,6 @@ datt	sfg3eþ	detta
 um	ao	um
 glugga	nkeo	gluggi
 .	.	.
-
 Ég	fp1en	ég
 hringdi	sfg1eþ	hringja
 svo	aa	svo
@@ -765,7 +722,6 @@ um	ao	um
 knattspyrnudagskrá	nveo	knattspyrnudagskrá
 morgundagsins	nkeeg	morgundagur
 .	.	.
-
 Þá	aa	þá
 munum	sfg1fn	munu
 við	fp1fn	ég
@@ -779,7 +735,6 @@ sínar	fevfo	sinn
 á	aþ	á
 Anfield	e	Anfield
 .	.	.
-
 Uppúr	aþ	uppúr
 hálfeitt	ta	hálfeitt
 tók	sfg1eþ	taka
@@ -798,7 +753,6 @@ menn	nkfn	maður
 gefa	sfg3fn	gefa
 út	aa	út
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 prýðilegt	lhensf	prýðilegur
@@ -818,7 +772,6 @@ stofnun	nveþ	stofnun
 voru	sfg3fþ	vera
 gerð	sþghfn	gera
 .	.	.
-
 Þjóðmál	nhfn-s	Þjóðmál
 eru	sfg3fn	vera
 gefin	sþghfn	gefa
@@ -841,7 +794,6 @@ er	sfg3en	vera
 löngu	lheþsf	langur
 fallin	x	fallinn
 .	.	.
-
 Að	aþ	að
 því	faheþ	sá
 leytinu	nheþg	leyti
@@ -858,14 +810,12 @@ tímaritið	nheng	tímarit
 sé	svg3en	vera
 tímaskekkja	nven	tímaskekkja
 .	.	.
-
 Öfundin	nveng	öfund
 er	sfg3en	vera
 víst	aa	víst
 versta	lvenve	verri
 syndin	nveng	synd
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 syndum	nvfþ	synd
@@ -881,7 +831,6 @@ að	c	að
 yfir	aþ	yfir
 framtakinu	nheþg	framtak
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 greinilega	aa	greinilega
@@ -895,7 +844,6 @@ er	sfg1en	vera
 flestu	lheþse	margur
 ósammála	lkenof	ósammála
 .	.	.
-
 Þó	aa	þó
 var	sfg1eþ	vera
 ég	fp1en	ég
@@ -907,7 +855,6 @@ síra	nkee	síra
 Geirs	nkee-s	Geir
 Waage	nkee-s	Waage
 .	.	.
-
 Fyrir	aa	fyrir
 utan	ao	utan
 að	cn	að
@@ -940,7 +887,6 @@ inn	aa	inn
 guðrækilegum	lkeþsf	guðrækilegur
 umvöndunartóni	nkeþ	umvöndunartónn
 .	.	.
-
 Allir	fokfn	allur
 almennilegir	lkfnsf	almennilegur
 hægri	lkfnvf	hægri
@@ -958,7 +904,6 @@ sé	svg3en	vera
 guðfaðir	nken	guðfaðir
 þess	fphee	það
 .	.	.
-
 Hann	fpken	hann
 skrifar	sfg3en	skrifa
 burðargreinar	nvfo	burðargrein
@@ -970,7 +915,6 @@ komin	sþghfn	koma
 eru	sfg3fn	vera
 út	aa	út
 .	.	.
-
 Guðmundur	nken-s	Guðmundur
 Ólafsson	nken-s	Ólafsson
 hagfræðingur	nken	hagfræðingur
@@ -981,7 +925,6 @@ bók	nveo	bók
 um	ao	um
 kommúnismann	nkeog	kommúnismi
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 þó	aa	þó
@@ -994,7 +937,6 @@ hagfræðilegi	lkenvf	hagfræðilegur
 ráðunautur	nken	ráðunautur
 formannsins	nkeeg	formaður
 .	.	.
-
 Lobbi	nken-s	Lobbi
 er	sfg3en	vera
 bæði	c	bæði
@@ -1013,7 +955,6 @@ ríkisstjórn	nveþ	ríkisstjórn
 Davíðs	nkee-s	Davíð
 Oddssonar	nkee-s	Oddsson
 .	.	.
-
 Dr.	as	Dr.
 Árný	nven-s	Árný
 skaust	sfm3eþ	skjóta
@@ -1022,7 +963,6 @@ bæ	nkeþ	bær
 um	ao	um
 eittleytið	nheog	eittleyti
 .	.	.
-
 Þegar	c	þegar
 telpur	nvfn	telpa
 mínar	fevfn	minn
@@ -1042,7 +982,6 @@ til	aa	til
 í	aþ	í
 slotinu	nheþg	slot
 .	.	.
-
 Öllum	fokeþ	allur
 jólapappír	nkeþ	jólapappír
 -	-	-
@@ -1061,7 +1000,6 @@ jólum	nhfþ	jól
 var	sfg3eþ	vera
 hent	sþghen	henda
 .	.	.
-
 Við	fp1fn	ég
 tókum	sfg1fþ	taka
 til	aa	til
@@ -1076,7 +1014,6 @@ settir	sþgkfn	setja
 sinn	fekeo	sinn
 stað	nkeo	staður
 .	.	.
-
 Svo	aa	svo
 spilaði	sfg3eþ	spila
 Birta	nven-s	Birta
@@ -1100,7 +1037,6 @@ sig	fpveo	sig
 á	ao	á
 Play-Station	e	Play-Station
 .	.	.
-
 Ég	fp1en	ég
 náði	sfg1eþ	ná
 jafntefli	nheþ	jafntefli
@@ -1117,13 +1053,11 @@ býsna	aa	býsna
 með	ao	með
 það	fpheo	það
 .	.	.
-
 Kapítalisminn	nkeng	kapítalismi
 er	sfg3en	vera
 ekki	aa	ekki
 gallalaus	lkensf	gallalaus
 .	.	.
-
 Það	fphen	það
 kom	sfg3eþ	koma
 í	ao	í
@@ -1144,12 +1078,10 @@ fékk	sfg3eþ	fá
 í	ao	í
 jólagjöf	nveo	jólagjöf
 .	.	.
-
 Batteríin	nhfng	batterí
 reyndust	sfm3fþ	reyna
 ónýt	lhfnsf	ónýtur
 .	.	.
-
 Eftir	ao	eftir
 tiltekt	nveo	tiltekt
 og	c	og
@@ -1171,13 +1103,11 @@ eftir	ao	eftir
 James	e	James
 Meek	e	Meek
 .	.	.
-
 Árni	nken-s	Árni
 Óskarsson	nken-s	Óskarsson
 þýddi	sfg3eþ	þýða
 hana	fpveo	hún
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 einhver	foken	einhver
@@ -1187,7 +1117,6 @@ okkar	fp1fe	ég
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Árni	nken-s	Árni
 var	sfg3eþ	vera
 með	aþ	með
@@ -1211,7 +1140,6 @@ háskólanum	nkeþg	háskóli
 í	aþ	í
 Norwich	e	Norwich
 .	.	.
-
 Bradbury	e	Bradbury
 skrifaði	sfg3eþ	skrifa
 bókina	nveog	bók
@@ -1221,7 +1149,6 @@ The	e	The
 History	e	History
 Man	e	man
 .	.	.
-
 Hann	fpken	hann
 framleiddi	sfg3eþ	framleiða
 síðan	aa	síðan
@@ -1238,7 +1165,6 @@ heimsfrægir	lkfnsf	heimsfrægur
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Bók	nven	bók
 Meek	e	Meek
 er	sfg3en	vera
@@ -1255,7 +1181,6 @@ herdeild	nven	herdeild
 dagaði	sfg3eþ	daga
 uppi	aa	uppi
 .	.	.
-
 Ein	foven	einn
 söguhetjan	nveng	söguhetja
 ,	,	,
@@ -1281,7 +1206,6 @@ og	c	og
 verða	sng	verða
 englar	nkfn	engill
 .	.	.
-
 Höfundurinn	nkeng	höfundur
 var	sfg3eþ	vera
 blaðamaður	nken	blaðamaður
@@ -1297,7 +1221,6 @@ um	ao	um
 sérkennilegu	lkfovf	sérkennilegur
 söfnuði	nkfo	söfnuður
 .	.	.
-
 Geldingaenglana	nkfog	geldingaengill
 mátti	sfg3eþ	mega
 finna	sng	finna
@@ -1309,14 +1232,12 @@ fram	aa	fram
 síðustu	lveeve	síðari
 aldar	nvee	öld
 .	.	.
-
 Kanski	aa	kannski
 eru	sfg3fn	vera
 þeir	fpkfn	hann
 ennþá	aa	ennþá
 til	aa	til
 .	.	.
-
 Sagan	nveng	saga
 er	sfg3en	vera
 um	ao	um
@@ -1332,7 +1253,6 @@ ganga	sng	ganga
 nafni	nheþ	nafn
 kærleikans	nkeeg	kærleiki
 .	.	.
-
 Þegar	c	þegar
 ég	fp1en	ég
 lauk	sfg1eþ	ljúka
@@ -1342,7 +1262,6 @@ um	ao	um
 rigndi	sfg3eþ	rigna
 enn	aa	enn
 .	.	.
-
 Ég	fp1en	ég
 dró	sfg1eþ	draga
 á	ao	á
@@ -1361,7 +1280,6 @@ hjólaði	sfg1eþ	hjóla
 í	ao	í
 Gróttu	nveo-s	Grótta
 .	.	.
-
 Ég	fp1en	ég
 kom	sfg1eþ	koma
 hundblautur	lkensf	hundblautur
@@ -1371,7 +1289,6 @@ ríflega	aa	ríflega
 hálftíma	nkeþ	hálftími
 síðar	aam	síðar
 .	.	.
-
 Þá	aa	þá
 gekk	sfg1eþ	ganga
 ég	fp1en	ég
@@ -1389,7 +1306,6 @@ vodka	nkeþ	vodki
 á	aa	á
 eftir	aa	eftir
 .	.	.
-
 Systir	nven	systir
 mín	feven	minn
 ,	,	,
@@ -1399,7 +1315,6 @@ kom	sfg3eþ	koma
 í	ao	í
 heimsókn	nveo	heimsókn
 .	.	.
-
 Hún	fpven	hún
 er	sfg3en	vera
 næstyngst	lvense	næstyngstur
@@ -1407,7 +1322,6 @@ af	aþ	af
 fimm	tfhfþ	fimm
 systkinum	nhfþ	systkin
 .	.	.
-
 Hún	fpven	hún
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -1425,7 +1339,6 @@ býr	sfg3en	búa
 á	aþ	á
 sambýli	nheþ	sambýli
 .	.	.
-
 Líf	nhen	líf
 hennar	fpvee	hún
 hefur	sfg3en	hafa
@@ -1435,7 +1348,6 @@ dans	nken	dans
 á	aþ	á
 rósum	nvfþ	rós
 .	.	.
-
 Hún	fpven	hún
 getur	sfg3en	geta
 verið	ssg	vera
@@ -1448,7 +1360,6 @@ er	sfg3en	vera
 á	aþ	á
 henni	fpveþ	hún
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 það	fphen	það
@@ -1456,7 +1367,6 @@ er	sfg3en	vera
 ekki	aa	ekki
 alltaf	aa	alltaf
 .	.	.
-
 Örlög	nhfn	örlög
 hennar	fpvee	hún
 eru	sfg3fn	vera
@@ -1471,7 +1381,6 @@ lífsleiðinni	nveþg	lífsleið
 til	ae	til
 þessa	fahee	þessi
 .	.	.
-
 Hún	fpven	hún
 hafði	sfg3eþ	hafa
 margt	lheosf	margur
@@ -1486,7 +1395,6 @@ einsog	c	einsog
 vera	sng	vera
 ber	sfg3en	bera
 .	.	.
-
 Sýn	nven	sýn
 hennar	fpvee	hún
 á	ao	á
@@ -1509,7 +1417,6 @@ stjórnmálamenn	nkfo	stjórnmálamaður
 og	c	og
 konur	nvfo	kona
 .	.	.
-
 Svo	aa	svo
 fór	sfg3eþ	fara
 hún	fpven	hún
@@ -1521,7 +1428,6 @@ mínar	fevfn	minn
 í	ao	í
 annað	foheo	annar
 .	.	.
-
 Ég	fp1en	ég
 sat	sfg1eþ	sitja
 eftir	aa	eftir
@@ -1536,7 +1442,6 @@ enormity	e	enormity
 of	e	of
 being	e	being
 «	«	«
-
 einsog	c	einsog
 Dr.	as	Dr.
 Bye	e	Bye
@@ -1555,7 +1460,6 @@ mér	fp1eþ	ég
 þönkum	nkfþ	þanki
 einveruleikans	nkeeg	einveruleiki
 .	.	.
-
 Það	fphen	það
 eru	sfg3fn	vera
 allt	fohen	allur
@@ -1565,7 +1469,6 @@ en	c	en
 þankar	nkfn	þanki
 einmanaleikans	nkeeg	einmanaleiki
 .	.	.
-
 Ég	fp1en	ég
 fór	sfg1eþ	fara
 svo	aa	svo
@@ -1582,7 +1485,6 @@ stundum	aa	stundum
 hálfgert	lhensf	hálfgerður
 lestrarmaraþon	nhen	lestrarmaraþon
 .	.	.
-
 Í	ao	í
 þetta	faheo	þessi
 sinn	nheo	sinn
@@ -1602,7 +1504,6 @@ nafnið	nheog	nafn
 mitt	feheo	minn
 .	.	.
 »	»	»
-
 Ég	fp1en	ég
 greip	sfg1eþ	grípa
 niður	aa	niður
@@ -1618,7 +1519,6 @@ Litla-Hraun	nheo-s	Litla-Hraun
 á	aþ	á
 Þorláksmessu	nveþ-s	Þorláksmessa
 .	.	.
-
 Ég	fp1en	ég
 varð	sfg1eþ	verða
 hugfanginn	lkensf	hugfanginn
@@ -1628,7 +1528,6 @@ hana	fpveo	hún
 á	ao	á
 aðfangadag	nkeo	aðfangadagur
 .	.	.
-
 Hún	fpven	hún
 er	sfg3en	vera
 saga	nven	saga
@@ -1638,7 +1537,6 @@ af	aþ	af
 þjóðarbroti	nheþ	þjóðarbrot
 Svartahafsgríkkja	x	Svartahafsgrikki
 .	.	.
-
 Þeir	fpkfn	hann
 voru	sfg3fþ	vera
 ásamt	aþ	ásamt
@@ -1678,7 +1576,6 @@ hluta	nkeþ	hluti
 síðustu	lveeve	síðari
 aldar	nvee	öld
 .	.	.
-
 Dóttir	nven	dóttir
 söguhetjunnar	nveeg	söguhetja
 skráði	sfg3eþ	skrá
@@ -1686,7 +1583,6 @@ skráði	sfg3eþ	skrá
 mögnuðu	lveovf	magnaður
 sögu	nveo	saga
 .	.	.
-
 Nálægt	aþ	nálægt
 sjö	ta	sjö
 settist	sfm1eþ	setja
@@ -1703,7 +1599,6 @@ Cortes	nkee-s	Cortes
 Stöð	nveþ-s	Stöð
 2	ta	2
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 þó	aa	þó
@@ -1711,7 +1606,6 @@ efni	nhen	efni
 í	ao	í
 stjörnu	nveo	stjarna
 !	!	!
-
 Drengurinn	nkeng	drengur
 er	sfg3en	vera
 svo	aa	svo
@@ -1729,7 +1623,6 @@ horfa	sng	horfa
 hann	fpkeo	hann
 syngja	sng	syngja
 .	.	.
-
 En	c	en
 hann	fpken	hann
 hefur	sfg3en	hafa
@@ -1745,7 +1638,6 @@ góð	lvensf	góður
 og	c	og
 litrík	lvensf	litríkur
 .	.	.
-
 Flott	lhensf	flottur
 prógram	nhen	prógram
 og	c	og
@@ -1755,7 +1647,6 @@ glaðan	lkeosf	glaður
 og	c	og
 reifan	lkeosf	reifur
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 líka	aa	líka
@@ -1767,7 +1658,6 @@ hans	fpkee	hann
 stjórna	sng	stjórna
 hljómsveitinni	nveþg	hljómsveit
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 talsvert	aa	talsvert
@@ -1785,7 +1675,6 @@ uppá	aa	uppá
 á	ao	á
 aðfangadagskvöld	nheo	aðfangadagskvöld
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 ritúalisti	nken	ritúalisti
@@ -1795,7 +1684,6 @@ klassísk	lveosf	klassískur
 á	ao	á
 aðfangadag	nkeo	aðfangadagur
 .	.	.
-
 RÚV	as	RÚV
 sýndi	sfg3eþ	sýna
 okkur	fp1fþ	ég
@@ -1806,7 +1694,6 @@ en	c	en
 ársgömlum	lkfþsf	ársgamall
 tónleikum	nkfþ	tónleikar
 .	.	.
-
 Dívurnar	nvfngs	díva
 eru	sfg3fn	vera
 að	aþ	að
@@ -1815,7 +1702,6 @@ flottar	lvfnsf	flottur
 og	c	og
 raddfagrar	lvfnsf	raddfagur
 .	.	.
-
 Með	aþ	með
 þeim	fpvfþ	hún
 var	sfg3eþ	vera
@@ -1824,7 +1710,6 @@ mas.	as	mas.
 manna	nkfe	maður
 kór	nken	kór
 .	.	.
-
 En	c	en
 þetta	fahen	þessi
 voru	sfg3fþ	vera
@@ -1850,7 +1735,6 @@ með	aþ	með
 vísi	x	vísi
 Dívum	nvfþ-s	díva
 .	.	.
-
 Það	fphen	það
 eitt	lhensf	einn
 hefði	svg3eþ	hafa
@@ -1866,7 +1750,6 @@ uppistaðan	nveng	uppistaða
 á	aþ	á
 aðfangadagskvöldi	nheþ	aðfangadagskvöld
 .	.	.
-
 Hitt	fahen	hinn
 var	sfg3eþ	vera
 þó	aa	þó
@@ -1882,7 +1765,6 @@ neðan	aa	neðan
 allar	fovfo	allur
 hellur	nvfo	hella
 .	.	.
-
 Hvernig	aa	hvernig
 dettur	sfg3en	detta
 RÚV	as	RÚV
@@ -1896,7 +1778,6 @@ svona	lheoof	svona
 á	ao	á
 aðfangadagskvöld	nheo	aðfangadagskvöld
 ?	?	?
-
 Ég	fp1en	ég
 sá	sfg1eþ	sjá
 að	c	að
@@ -1910,14 +1791,12 @@ tekið	ssg	taka
 þetta	faheo	þessi
 upp	aa	upp
 .	.	.
-
 Hvað	fsheo	hver
 ætli	svg3en	ætla
 þetta	fahen	þessi
 hafi	svg3en	hafa
 kostað	ssg	kosta
 ?	?	?
-
 Mér	fp1eþ	ég
 kemur	sfg3en	koma
 ekki	aa	ekki
@@ -1941,7 +1820,6 @@ pólitík	nveo	pólitík
 eða	c	eða
 vinskap	nkeo	vinskapur
 .	.	.
-
 Páll	nken-s	Páll
 Magnússon	nken-s	Magnússon
 er	sfg3en	vera
@@ -1953,7 +1831,6 @@ er	sfg3en	vera
 ekki	aa	ekki
 menntamálaráðherra	nken	menntamálaráðherra
 .	.	.
-
 Hann	fpken	hann
 hefði	svg3eþ	hafa
 sennilega	aa	sennilega
@@ -1984,7 +1861,6 @@ var	sfg3eþ	vera
 fyrir	ao	fyrir
 vikið	nheog	vik
 .	.	.
-
 Kvenleggur	nken	kvenleggur
 Vesturgötuklansins	nheegs	Vesturgötuklanið
 kom	sfg3eþ	koma
@@ -1993,14 +1869,12 @@ heimavígstöðvarnar	nvfog	heimavígstöðvar
 um	ao	um
 hálfátta	ta	hálfátta
 .	.	.
-
 Þá	aa	þá
 loksins	aa	loksins
 borðuðum	sfg1fþ	borða
 við	fp1fn	ég
 möndlugrautinn	nkeog	möndlugrautur
 .	.	.
-
 Það	fphen	það
 kom	sfg3eþ	koma
 mér	fp1eþ	ég
@@ -2014,7 +1888,6 @@ Esperansa	e	Esperansa
 fékk	sfg3eþ	fá
 hana	fpveo	hún
 .	.	.
-
 Dr.	as	Dr.
 Árný	nven-s	Árný
 gætir	sfg3en	gæta
@@ -2039,7 +1912,6 @@ möndluna	nveog	mandla
 ellefu	tfhfo	ellefu
 ár	nhfo	ár
 .	.	.
-
 En	c	en
 þá	aa	þá
 ber	sfg3en	bera
@@ -2053,7 +1925,6 @@ félagsmálaráðherrann	nkeng	félagsmálaráðherra
 eru	sfg3fn	vera
 þremenningar	nkfn	þremenningur
 .	.	.
-
 Klukkan	nveng	klukka
 nákvæmlega	aa	nákvæmlega
 21:00	ta	21:00
@@ -2067,7 +1938,6 @@ Turk	e	Turk
 frá	aþ	frá
 Kolombíu	e	Kolombíu
 .	.	.
-
 Það	fphen	það
 gladdi	sfg3eþ	gleðja
 mig	fp1eo	ég
@@ -2081,7 +1951,6 @@ míns	fekee	minn
 Carlosar	e	Carlosar
 Ferqueira	e	Ferqueira
 .	.	.
-
 Hann	fpken	hann
 hefur	sfg3en	hafa
 lent	ssg	lenda
@@ -2090,7 +1959,6 @@ lent	ssg	lenda
 við	ao	við
 stjórnina	nveog	stjórn
 .	.	.
-
 Þeir	fpkfn	hann
 fara	sfg3fn	fara
 öðru	foheþ	annar
@@ -2116,7 +1984,6 @@ fjallanna	nhfeg	fjall
 norðan	ae	norðan
 Bogota	e	Bogota
 .	.	.
-
 Carlos	e	Carlos
 er	sfg3en	vera
 aðdáandi	nken	aðdáandi
@@ -2155,7 +2022,6 @@ tíma	nkeo	tími
 kringum	ao	kringum
 1960	ta	1960
 .	.	.
-
 Hann	fpken	hann
 sá	sfg3eþ	sjá
 aldrei	aa	aldrei
@@ -2176,7 +2042,6 @@ Gabríels	nkee-s	Gabríel
 Garcia	e	Garcia
 Marquese	e	Marquese
 .	.	.
-
 Skömmu	lheþsf	skammur
 upp	aa	upp
 úr	aþ	úr
@@ -2188,7 +2053,6 @@ aftur	aa	aftur
 í	ao	í
 sátt	nveo	sátt
 .	.	.
-
 Við	fp1fn	ég
 settumst	sfm1fþ	setja
 öll	fohfn	allur
@@ -2216,7 +2080,6 @@ ber	sfg3en	bera
 honum	fpkeþ	hann
 kaffi	nheo	kaffi
 .	.	.
-
 Ég	fp1en	ég
 vona	sfg1en	vona
 að	c	að
@@ -2226,7 +2089,6 @@ gerist	svm3en	gera
 í	aþ	í
 Stjórnarráðinu	nheþgs	Stjórnarráð
 .	.	.
-
 Inn	aa	inn
 í	ao	í
 hana	fpveo	hún
@@ -2254,7 +2116,6 @@ leið	sfg3eþ	líða
 um	ao	um
 skjáinn	nkeog	skjár
 .	.	.
-
 Æ	au	æ
 ,	,	,
 afhverju	aa	afhverju
@@ -2282,7 +2143,6 @@ horfa	sng	horfa
 á	ao	á
 fjölskyldumynd	nveo	fjölskyldumynd
 ?	?	?
-
 Ég	fp1en	ég
 vil	sfg1en	vilja
 fá	sng	fá
@@ -2317,7 +2177,6 @@ vald	nheo	vald
 mínu	feheþ	minn
 heimili	nheþ	heimili
 .	.	.
-
 Ég	fp1en	ég
 hefði	svg1eþ	hafa
 farið	ssg	fara
@@ -2336,7 +2195,6 @@ verið	ssg	vera
 svona	aa	svona
 skemmtileg	lvensf	skemmtilegur
 .	.	.
-
 Á	aa	á
 eftir	aa	eftir
 sat	sfg1eþ	sitja
@@ -2376,7 +2234,6 @@ ef	c	ef
 þær	fpvfn	hún
 vildu	svg3fþ	vilja
 .	.	.
-
 Það	fphen	það
 olli	sfg3eþ	valda
 töluverðri	lveþsf	töluverður
@@ -2390,7 +2247,6 @@ að	c	að
 sofnuðu	sfg3fþ	sofna
 fljótt	aa	fljótt
 .	.	.
-
 Síðan	aa	síðan
 sat	sfg1eþ	sitja
 ég	fp1en	ég
@@ -2445,7 +2301,6 @@ sem	ct	sem
 Ataturk	e	Ataturk
 eyddi	sfg3eþ	eyða
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 hætt	sþghen	hætta
@@ -2462,7 +2317,6 @@ gær	aa	gær
 er	sfg3en	vera
 horfinn	sþgken	hverfa
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ljós	nhen	ljós
@@ -2481,7 +2335,6 @@ tvö	ta	tvö
 nýjum	lkeþsf	nýr
 degi	nkeþ	dagur
 .	.	.
-
 Ég	fp1en	ég
 veit	sfg1en	vita
 ekki	aa	ekki
@@ -2491,14 +2344,12 @@ sofnar	sfg3en	sofna
 í	ao	í
 nótt	nveo	nótt
 .	.	.
-
 sunnudagur	nken	sunnudagur
 25.	ta	25.
 desember	nken	desember
 2005	ta	2005
 Jóladagsprédikun	nven	jóladagsprédikun
 Rafiðnaðarsambandsins	nheegs	rafiðnaðarsamband
-
 Í	aþ	í
 morgunsárinu	nheþg	morgunsár
 -	-	-
@@ -2523,7 +2374,6 @@ athugasemdadálkinn	nkeog	athugasemdadálkur
 síðunni	nveþg	síða
 minni	feveþ	minn
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 frá	aþ	frá
@@ -2532,7 +2382,6 @@ Gunnarssyni	nkeþ-s	Gunnarsson
 formanni	nkeþ	formaður
 Rafiðnaðarsambandsins	nheegs	rafiðnaðarsamband
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 sá	faken	sá
@@ -2546,7 +2395,6 @@ mestan	lkeose	mikill
 dyn	nkeo	dynur
 á	aa	á
 .	.	.
-
 Mér	fp1eþ	ég
 fundust	sfm3fþ	finna
 orð	nhfn	orð
@@ -2556,7 +2404,6 @@ hugvekja	nven	hugvekja
 á	ao	á
 jóladag	nkeo	jóladagur
 .	.	.
-
 Ég	fp1en	ég
 tek	sfg1en	taka
 mér	fp1eþ	ég
@@ -2572,13 +2419,11 @@ fleiri	lkfnvm	margur
 lesi	svg3fn	lesa
 það	fpheo	það
 .	.	.
-
 Orð	nhfn	orð
 í	aþ	í
 tíma	nkeþ	tími
 töluð	sþghfn	tala
 ...	...	...
-
 «	«	«
 Sæll	lkensf	sæll
 ,	,	,
@@ -2597,7 +2442,6 @@ kaffið	nheog	kaffi
 með	aþ	með
 umræðunni	nveþg	umræða
 .	.	.
-
 Þakka	sfg1en	þakka
 Spes	lveoof	spes
 jólakveðjuna	nveog	jólakveðja
@@ -2614,7 +2458,6 @@ stað	nkeþ	staður
 yfir	ao	yfir
 lyklaborðið	nheog	lyklaborð
 .	.	.
-
 Boðskapur	nken	boðskapur
 aðventunnar	nveeg	aðventa
 hvetur	sfg3en	hvetja
@@ -2626,7 +2469,6 @@ samtöðu	nveo	samtaða
 með	aþ	með
 náunganum	nkeþg	náungi
 .	.	.
-
 Tæplega	aa	tæplega
 þrjár	tfvfn	þrír
 milljónir	nvfn	milljón
@@ -2639,7 +2481,6 @@ alnæmi	nheþ	alnæmi
 þessu	faheþ	þessi
 ári	nheþ	ár
 .	.	.
-
 Ef	c	ef
 við	fp1fn	ég
 ætlum	sfg1fn	ætla
@@ -2660,7 +2501,6 @@ að	cn	að
 taka	sng	taka
 ábyrgð	nveo	ábyrgð
 .	.	.
-
 Við	fp1fn	ég
 getum	sfg1fn	geta
 flest	lhfnse	margur
@@ -2677,14 +2517,12 @@ okkar	fp1fe	ég
 minnstu	lkfeve	lítill
 bræðra	nkfe	bróðir
 .	.	.
-
 Utangarðs	aa	utangarðs
 liggja	sfg3fn	liggja
 nokkrir	fokfn	nokkur
 týndir	lkfnsf	týndur
 þjóðfélagsþegnar	nkfn	þjóðfélagsþegn
 .	.	.
-
 Ungt	lhensf	ungur
 fólk	nhen	fólk
 sem	ct	sem
@@ -2703,14 +2541,12 @@ aðkasti	nheþ	aðkast
 og	c	og
 einelti	nheþ	einelti
 .	.	.
-
 Það	fphen	það
 varð	sfg3eþ	verða
 minnimáttar	lhenof	minnimáttar
 og	c	og
 útskúfað	lhensf	útskúfaður
 .	.	.
-
 Við	fp1fn	ég
 höfum	sfg1fn	hafa
 búið	ssg	búa
@@ -2719,7 +2555,6 @@ svo	aa	svo
 miklar	lvfosf	mikill
 þverstæður	nvfo	þverstæða
 .	.	.
-
 Ef	c	ef
 einhver	foken	einhver
 lendir	sfg3en	lenda
@@ -2744,7 +2579,6 @@ honum	fpkeþ	hann
 til	ae	til
 hjálpar	nvee	hjálp
 .	.	.
-
 Ekki	aa	ekki
 er	sfg3en	vera
 horft	sþghen	horfa
@@ -2753,7 +2587,6 @@ kostnað	nkeo	kostnaður
 eða	c	eða
 mannafla	nkeo	mannafli
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 auðvelt	lhensf	auðveldur
@@ -2765,7 +2598,6 @@ villuráfandi	lkfoof	villuráfandi
 sauði	nkfo	sauður
 okkar	fp1fe	ég
 .	.	.
-
 Það	fphen	það
 kostar	sfg3en	kosta
 ekki	aa	ekki
@@ -2780,7 +2612,6 @@ stuttu	lveevf	stuttur
 framtíðar	nvee	framtíð
 þeirra	fpkfe	hann
 .	.	.
-
 Þó	aa	þó
 svo	aa	svo
 tölvunni	nveþg	tölva
@@ -2803,7 +2634,6 @@ undir	aa	undir
 og	c	og
 týnast	sfm3fn	týna
 .	.	.
-
 Við	fp1fn	ég
 eigum	sfg1fn	eiga
 að	cn	að
@@ -2821,7 +2651,6 @@ hlúa	sng	hlúa
 að	aþ	að
 þeim	fpkfþ	hann
 .	.	.
-
 Bush	e	Bush
 og	c	og
 skoðanabræður	nkfn	skoðanabróðir
@@ -2842,7 +2671,6 @@ fjárhæðum	nvfþ	fjárhæð
 í	ao	í
 vopn	nhfo	vopn
 .	.	.
-
 Þeir	fpkfn	hann
 myndu	svg3fþ	munu
 ná	sng	ná
@@ -2873,7 +2701,6 @@ fyrir	aþ	fyrir
 auknum	lhfþsf	aukinn
 réttindum	nhfþ	réttindi
 .	.	.
-
 Staða	nven	staða
 bláfátæks	lheesf	bláfátækur
 fólks	nhee	fólk
@@ -2883,7 +2710,6 @@ vonleysis	nhee	vonleysi
 og	c	og
 reiði	nvee	reiði
 .	.	.
-
 Þar	aa	þar
 skapast	sfm3fn	skapa
 frjósamur	lkensf	frjósamur
@@ -2892,7 +2718,6 @@ fyrir	ao	fyrir
 uppeldi	nheo	uppeldi
 hryðjuverkamanna	nkfe	hryðjuverkamaður
 .	.	.
-
 Þar	aa	þar
 er	sfg3en	vera
 auðvelt	lhensf	auðveldur
@@ -2914,7 +2739,6 @@ nauðsyn	nveo	nauðsyn
 óhugnanlegra	lhfesf	óhugnanlegur
 hryðjuverka	nhfe	hryðjuverk
 .	.	.
-
 Kynlífsþrælkun	nven	kynlífsþrælkun
 ,	,	,
 barnaþrælkun	nven	barnaþrælkun
@@ -2930,7 +2754,6 @@ hinu	gheþ	hinn
 vestræna	lheþvf	vestrænn
 samfélagi	nheþ	samfélag
 .	.	.
-
 Hin	gven	hinn
 blinda	lvenvf	blindur
 auðhyggja	nven	auðhyggja
@@ -2944,7 +2767,6 @@ að	cn	að
 ná	sng	ná
 arði	nkeþ	arður
 .	.	.
-
 Ef	c	ef
 hinn	gken	hinn
 bláfátæki	lkenvf	bláfátækur
@@ -2972,7 +2794,6 @@ atvinnuleysið	nheog	atvinnuleysi
 og	c	og
 örbyrgðina	nveog	örbyrgð
 .	.	.
-
 Okkur	fp1fþ	ég
 ber	sfg3en	bera
 skylda	nven	skylda
@@ -2983,7 +2804,6 @@ ráðast	snm	ráða
 gegn	aþ	gegn
 þessu	faheþ	þessi
 .	.	.
-
 Við	fp1fn	ég
 erum	sfg1fn	vera
 að	cn	að
@@ -3007,7 +2827,6 @@ ekki	aa	ekki
 skó	nkfo	skór
 hans	fpkee	hann
 .	.	.
-
 Eftir	aþ	eftir
 hverju	fsheþ	hver
 er	sfg3en	vera
@@ -3015,7 +2834,6 @@ Guð	nken-s	Guð
 að	cn	að
 bíða	sng	bíða
 ?	?	?
-
 Af	aþ	af
 hverju	fsheþ	hver
 grípur	sfg3en	grípa
@@ -3029,7 +2847,6 @@ segir	sfg3en	segja
 hinn	gken	hinn
 einfaldi	lkenvf	einfaldur
 .	.	.
-
 Guð	nken-s	Guð
 reddar	sfg3en	redda
 þessu	faheþ	þessi
@@ -3040,7 +2857,6 @@ liggur	sfg3en	liggja
 hjá	aþ	hjá
 okkur	fp1fþ	ég
 .	.	.
-
 Það	fphen	það
 erum	sfg1fn	vera
 við	fp1fn	ég
@@ -3050,7 +2866,6 @@ sköpuðum	sfg1fþ	skapa
 ástand	nheo	ástand
 .	.	.
 »	»	»
-
 laugardagur	nken	laugardagur
 24.	ta	24.
 desember	nken	desember
@@ -3062,16 +2877,13 @@ vinir	nkfn	vinur
 og	c	og
 lesendur	nkfn	lesandi
 !	!	!
-
 Kyrrðin	nveng	kyrrð
 ríkir	sfg3en	ríkja
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Loksins	aa	loksins
 .	.	.
-
 Höfuðborgin	nveng	höfuðborg
 er	sfg3en	vera
 orðin	sþgven	verða
@@ -3079,7 +2891,6 @@ einsog	c	einsog
 alþjóðleg	lvensf	alþjóðlegur
 stórborg	nven	stórborg
 .	.	.
-
 Hún	fpven	hún
 iðar	sfg3en	iða
 af	aþ	af
@@ -3088,7 +2899,6 @@ dag	nkeo	dagur
 og	c	og
 nótt	nveo	nótt
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 sjaldgæft	lhensf	sjaldgæfur
@@ -3110,7 +2920,6 @@ ganga	sng	ganga
 í	ao	í
 garð	nkeo	garður
 .	.	.
-
 Seljavegurinn	nkengs	Seljavegur
 sem	ct	sem
 blasir	sfg3en	blasa
@@ -3127,7 +2936,6 @@ mannlaus	lkensf	mannlaus
 og	c	og
 hljóður	lkensf	hljóður
 .	.	.
-
 Hér	aa	hér
 úti	aa	úti
 í	aþ	í
@@ -3136,14 +2944,12 @@ er	sfg3en	vera
 einmana	lkenof	einmana
 hrafn	nken	hrafn
 .	.	.
-
 Hann	fpken	hann
 krúnkar	sfg3en	krúnka
 ekki	aa	ekki
 einu	foheþ	einn
 sinni	nheþ	sinn
 .	.	.
-
 Ég	fp1en	ég
 vildi	svg1eþ	vilja
 ég	fp1en	ég
@@ -3154,20 +2960,17 @@ inn	aa	inn
 í	ao	í
 spjall	nheo	spjall
 .	.	.
-
 Mér	fp1eþ	ég
 liggur	sfg3en	liggja
 margt	lhensf	margur
 á	aþ	á
 hjarta	nheþ	hjarta
 .	.	.
-
 Fyrst	aae	fyrr
 og	c	og
 fremst	aae	fremur
 Spes	nxen-s	Spes
 .	.	.
-
 Hugðarefni	nhen	hugðarefni
 mitt	fehen	minn
 þessa	fakfo	þessi
@@ -3175,7 +2978,6 @@ dagana	nkfog	dagur
 eru	sfg3fn	vera
 Spes-samtökin	nhfngs	Spes-samtökin
 .	.	.
-
 Samtökin	nhfng	samtök
 vinna	sfg3fn	vinna
 aðeins	aa	aðeins
@@ -3183,7 +2985,6 @@ að	aþ	að
 einu	tfheþ	einn
 markmiði	nheþ	markmið
 .	.	.
-
 Við	fp1fn	ég
 byggjum	sfg1fn	byggja
 þorp	nhfo	þorp
@@ -3191,7 +2992,6 @@ fyrir	ao	fyrir
 munaðarlaus	lhfosf	munaðarlaus
 börn	nhfo	barn
 .	.	.
-
 Samtökin	nhfng	samtök
 ,	,	,
 sem	ct	sem
@@ -3208,7 +3008,6 @@ með	ao	með
 fyrsta	lheove	fyrstur
 barnaþorpið	nheog	barnaþorp
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 í	aþ	í
@@ -3216,12 +3015,10 @@ Togo	e	Togo
 í	aþ	í
 Afríku	nveþ-s	Afríka
 .	.	.
-
 Spes	nxen-s	Spes
 þýðir	sfg3en	þýða
 VON	nven	von
 .	.	.
-
 Með	aþ	með
 skjólinu	nheþg	skjól
 sem	ct	sem
@@ -3254,7 +3051,6 @@ erfitt	lhensf	erfiður
 fyrir	ao	fyrir
 þau	fphfo	það
 .	.	.
-
 Í	aþ	í
 þorpinu	nheþg	þorp
 ,	,	,
@@ -3283,7 +3079,6 @@ er	sfg3en	vera
 í	aþ	í
 byggingu	nveþ	bygging
 .	.	.
-
 Þar	aa	þar
 búa	sfg3fn	búa
 nú	aa	nú
@@ -3301,7 +3096,6 @@ starfsmenn	nkfn	starfsmaður
 samtakanna	nhfeg	samtök
 annast	sfm3fn	anna
 .	.	.
-
 Húsin	nhfng	hús
 okkar	fp1fe	ég
 eru	sfg3fn	vera
@@ -3322,7 +3116,6 @@ byggingarhefð	nveþ	byggingarhefð
 frá	aþ	frá
 Norður-Togo	e	Norður-Togo
 .	.	.
-
 Þeir	fakfn	sá
 ,	,	,
 sem	ct	sem
@@ -3361,7 +3154,6 @@ af	aþ	af
 eigin	lveþof	eigin
 raun	nveþ	raun
 .	.	.
-
 Ég	fp1en	ég
 varð	sfg1eþ	verða
 fyrsti	lkenve	fyrstur
@@ -3394,7 +3186,6 @@ stóru	lheþsf	stór
 leyti	nheþ	leyti
 uppi	aa	uppi
 .	.	.
-
 Við	fp1fn	ég
 stofnuðum	sfg1fþ	stofna
 deildina	nveog	deild
@@ -3417,14 +3208,12 @@ fjár	nhee	fé
 í	ao	í
 uppbygginguna	nveog	uppbygging
 .	.	.
-
 Það	fphen	það
 hefur	sfg3en	hafa
 gengið	ssg	ganga
 ótrúlega	aa	ótrúlega
 vel	aa	vel
 .	.	.
-
 Enginn	foken	enginn
 hefur	sfg3en	hafa
 enn	aa	enn
@@ -3434,7 +3223,6 @@ bónleiðan	lkeosf	bónleiður
 til	ae	til
 búðar	nvee	búð
 .	.	.
-
 Til	ae	til
 þessa	fahee	þessi
 hefur	sfg3en	hafa
@@ -3452,7 +3240,6 @@ Baugi	nkeþ-s	Baugur
 !	!	!
 )	)	)
 .	.	.
-
 Ég	fp1en	ég
 sótti	sfg1eþ	sækja
 um	ao	um
@@ -3474,14 +3261,12 @@ við	ao	við
 ágæta	lheovf	ágætur
 fyrirtæki	nheo	fyrirtæki
 .	.	.
-
 Baugur	nken-s	Baugur
 tók	sfg3eþ	taka
 Spes	nxeþ-s	Spes
 opnum	lkfþsf	opinn
 örmum	nkfþ	armur
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 ekki	aa	ekki
@@ -3520,7 +3305,6 @@ sem	ct	sem
 munu	sfg3fn	munu
 búa	sng	búa
 .	.	.
-
 Þegar	c	þegar
 hann	fpken	hann
 afhenti	sfg3eþ	afhenda
@@ -3558,7 +3342,6 @@ seen	e	seen
 nothing	e	nothing
 yet	e	yet
 !	!	!
-
 Allt	fohen	allur
 ,	,	,
 sem	ct	sem
@@ -3569,7 +3352,6 @@ rennur	sfg3en	renna
 í	ao	í
 uppbygginguna	nveog	uppbygging
 .	.	.
-
 Skv.	as	skv.
 reikningum	nkfþ	reikningur
 síðasta	lheeve	síðari
@@ -3581,7 +3363,6 @@ aflafé	x	aflafé
 í	ao	í
 hana	fpveo	hún
 .	.	.
-
 Þessi	fahfn	þessi
 0,6%	tp	0,6%
 sem	ct	sem
@@ -3596,7 +3377,6 @@ póstburðargjöld	nhfo	póstburðargjald
 og	c	og
 slíkt	fbheo	slíkur
 .	.	.
-
 En	c	en
 enginn	foken	enginn
 tekur	sfg3en	taka
@@ -3627,7 +3407,6 @@ annast	snm	anna
 þorpið	nheog	þorp
 sjálft	fbheo	sjálfur
 .	.	.
-
 Þegar	c	þegar
 Spes-félagar	nkfn-s	Spes-félagi
 hafa	sfg3fn	hafa
@@ -3641,7 +3420,6 @@ algerlega	aa	algerlega
 þeirra	fpkfe	hann
 kostnað	nkeo	kostnaður
 .	.	.
-
 Ég	fp1en	ég
 fer	sfg1en	fara
 sjálfur	fbken	sjálfur
@@ -3668,7 +3446,6 @@ og	c	og
 sem	ct	sem
 ráða	sfg3fn	ráða
 ríkinu	nheþg	ríki
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 ráðist	ssm	ráða
@@ -3698,7 +3475,6 @@ mínum	fekeþ	minn
 í	ao	í
 hana	fpveo	hún
 .	.	.
-
 Þá	aa	þá
 ætla	sfg1en	ætla
 ég	fp1en	ég
@@ -3730,7 +3506,6 @@ og	c	og
 hægt	lhensf	hægur
 er	sfg3en	vera
 .	.	.
-
 Við	fp1fn	ég
 höfum	sfg1fn	hafa
 þegar	aa	þegar
@@ -3765,7 +3540,6 @@ fleiri	lvfþvm	margur
 en	c	en
 Afríku	nveþ-s	Afríka
 .	.	.
-
 Ef	c	ef
 einhver	foken	einhver
 ,	,	,
@@ -3793,7 +3567,6 @@ Spes	nxee-s	Spes
 er	sfg3en	vera
 471100-2930	ta	471100-2930
 .	.	.
-
 Allt	fohen	allur
 kemur	sfg3en	koma
 að	aþ	að
@@ -3808,7 +3581,6 @@ innistæðu	nveo	innistæða
 á	aþ	á
 himnum	nkfþ	himinn
 .	.	.
-
 Gleðileg	lhfosf	gleðilegur
 jól	nhfo	jól
 ,	,	,
@@ -3817,7 +3589,6 @@ vinir	nkfn	vinur
 og	c	og
 lesendur	nkfn	lesandi
 .	.	.
-
 föstudagur	nken	föstudagur
 23.	ta	23.
 desember	nken	desember
@@ -3825,7 +3596,6 @@ desember	nken	desember
 Heiðursfélagi	nken	heiðursfélagi
 á	aþ	á
 Litla-Hrauni	nheþ-s	Litla-Hraun
-
 Ég	fp1en	ég
 eyddi	sfg1eþ	eyða
 Þorláksmessu	nveþ-s	Þorláksmessa
@@ -3841,7 +3611,6 @@ Litla-Hrauni	nheþ-s	Litla-Hraun
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Þar	aa	þar
 var	sfg3eþ	vera
 haldið	sþghen	halda
@@ -3866,7 +3635,6 @@ sérlega	aa	sérlega
 skemmtilegri	lveþsf	skemmtilegur
 keppni	nveþ	keppni
 .	.	.
-
 Mótið	nheng	mót
 var	sfg3eþ	vera
 haldið	sþghen	halda
@@ -3882,7 +3650,6 @@ skákfélagið	nheng	skákfélag
 á	aþ	á
 Hrauninu	nheþgs	Hraun
 .	.	.
-
 Í	ao	í
 lok	nhfo	lok
 skákmótsins	nheeg	skákmót
@@ -3929,7 +3696,6 @@ valinn	sþgken	velja
 heiðursfélagi	nken	heiðursfélagi
 Hróksins	nkeegs	Hrókur
 .	.	.
-
 Ég	fp1en	ég
 fékk	sfg1eþ	fá
 afhentan	sþgkeo	afhenda
@@ -3940,7 +3706,6 @@ bikar	nkeo	bikar
 í	aþ	í
 tilefni	nheþ	tilefni
 þessa	fahee	þessi
-
 Hrafn	nken-s	Hrafn
 fór	sfg3eþ	fara
 hlýjum	lhfþsf	hlýr
@@ -3951,7 +3716,6 @@ minn	fekeo	minn
 við	ao	við
 Hrókinn	nkeogs	Hrókur
 .	.	.
-
 Mér	fp1eþ	ég
 þótti	sfg3eþ	þykja
 vænt	lhensf	vænn
@@ -3963,7 +3727,6 @@ en	c	en
 voru	sfg3fþ	vera
 óverðskulduð	lhfnsf	óverðskuldaður
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 verið	ssg	vera
@@ -3988,7 +3751,6 @@ meðal	ae	meðal
 íslenskra	lhfesf	íslenskur
 skólabarna	nhfe	skólabarn
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 því	aa	því
@@ -4003,7 +3765,6 @@ lóð	nheo	lóð
 vogarskálar	nvfo	vogarskál
 félagsins	nheeg	félag
 .	.	.
-
 Mitt	fehen	minn
 hlutverk	nhen	hlutverk
 hefur	sfg3en	hafa
@@ -4036,7 +3797,6 @@ fyrir	ao	fyrir
 góð	lhfosf	góður
 málefni	nhfo	málefni
 .	.	.
-
 Hrókurinn	nkengs	Hrókur
 hefur	sfg3en	hafa
 sinnt	ssg	sinna
@@ -4045,7 +3805,6 @@ föngum	nkfþ	fangi
 Litla-Hrauni	nheþ-s	Litla-Hraun
 vel	aa	vel
 .	.	.
-
 Félagið	nheng	félag
 hefur	sfg3en	hafa
 undir	aþ	undir
@@ -4062,7 +3821,6 @@ halda	sng	halda
 þar	aa	þar
 skákmót	nheo	skákmót
 .	.	.
-
 Einsog	c	einsog
 fyrr	aam	fyrr
 segir	sfg3en	segja
@@ -4089,7 +3847,6 @@ gista	sfg3fn	gista
 á	aþ	á
 Litla-Hrauni	nheþ-s	Litla-Hraun
 .	.	.
-
 Mér	fp1eþ	ég
 þótti	sfg3eþ	þykja
 sérlega	aa	sérlega
@@ -4101,7 +3858,6 @@ deginum	nkeþg	dagur
 félagsskap	nkeþ	félagsskapur
 fanganna	nkfeg	fangi
 .	.	.
-
 Þetta	fahen	þessi
 eru	sfg3fn	vera
 kröftugir	lkfnsf	kröftugur
@@ -4119,7 +3875,6 @@ lífið	nheog	líf
 og	c	og
 tilveruna	nveog	tilvera
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 lærdómsríkt	lhensf	lærdómsríkur
@@ -4155,14 +3910,12 @@ hinn	gkeo	hinn
 nýja	lkeovf	nýr
 heiðursfélaga	nkeo	heiðursfélagi
 .	.	.
-
 Jú	au	jú
 ,	,	,
 köllum	svg1fn	kalla
 Alþingi	nheo-s	Alþingi
 saman	aa	saman
 ...	...	...
-
 Ég	fp1en	ég
 er	sfg1en	vera
 ekki	aa	ekki
@@ -4174,7 +3927,6 @@ Arnbjörnssyni	nkeþ-s	Arnbjörnsson
 framkvæmdastjóra	nkeþ	framkvæmdastjóri
 ASÍ	as	ASÍ
 .	.	.
-
 Mikið	aa	mikið
 skil	sfg1en	skilja
 ég	fp1en	ég
@@ -4200,7 +3952,6 @@ embættismanna	nkfe	embættismaður
 og	c	og
 þingmanna	nkfe	þingmaður
 .	.	.
-
 Hún	fpven	hún
 virkar	sfg3en	virka
 einfaldlega	aa	einfaldlega
@@ -4212,7 +3963,6 @@ andlit	nheo	andlit
 venjulegs	lheesf	venjulegur
 launafólks	nhee	launafólk
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 að	cn	að
@@ -4232,7 +3982,6 @@ heldur	c	heldur
 líka	aa	líka
 hlutfallslega	aa	hlutfallslega
 .	.	.
-
 Garðar	nken-s	Garðar
 Garðarson	nken-s	Garðarson
 formaður	nken	formaður
@@ -4250,7 +3999,6 @@ sem	ct	sem
 Alþingi	nhen-s	Alþingi
 setti	sfg3eþ	setja
 .	.	.
-
 Það	fphen	það
 kemur	sfg3en	koma
 mér	fp1eþ	ég
@@ -4258,7 +4006,6 @@ spánskt	lhensf	spánskur
 fyrir	ao	fyrir
 sjónir	nvfo	sjón
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 rangt	lhensf	rangur
@@ -4280,7 +4027,6 @@ laun	nhfo	laun
 umfram	ao	umfram
 aðra	fokfo	annar
 .	.	.
-
 Það	fphen	það
 kemur	sfg3en	koma
 mér	fp1eþ	ég
@@ -4289,7 +4035,6 @@ spánskt	lhensf	spánskur
 fyrir	ao	fyrir
 sjónir	nvfo	sjón
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 skilið	ssg	skilja
@@ -4314,7 +4059,6 @@ um	ao	um
 sjálfkrafa	lvfoof	sjálfkrafa
 launahækkanir	nvfo	launahækkun
 .	.	.
-
 Hér	aa	hér
 þarf	sfg3en	þurfa
 að	cn	að
@@ -4322,7 +4066,6 @@ taka	sng	taka
 af	aa	af
 tvímæli	nhfo	tvímæli
 .	.	.
-
 Ég	fp1en	ég
 tel	sfg1en	telja
 því	aa	því
@@ -4358,7 +4101,6 @@ kjaraumhverfi	nheo	kjaraumhverfi
 í	aþ	í
 landinu	nheþg	land
 .	.	.
-
 Launahækkanirnar	nvfog	launahækkun
 núna	aa	núna
 ber	sfg3en	bera
@@ -4397,7 +4139,6 @@ að	cn	að
 afnema	sng	afnema
 hátekjuskattinn	nkeog	hátekjuskattur
 .	.	.
-
 Síðasti	lkenve	síðari
 áfanginn	nkeng	áfangi
 í	aþ	í
@@ -4409,7 +4150,6 @@ nú	aa	nú
 um	ao	um
 áramótin	nhfog	áramót
 .	.	.
-
 Þar	aa	þar
 er	sfg3en	vera
 enn	aa	enn
@@ -4418,7 +4158,6 @@ kjarabótin	nveng	kjarabót
 til	ae	til
 hálaunafólks	nhee	hálaunafólk
 .	.	.
-
 Afnám	nhen	afnám
 hátekjuskattsins	nkeeg	hátekjuskattur
 felur	sfg3en	fela
@@ -4435,7 +4174,6 @@ hópanna	nkfeg	hópur
 í	aþ	í
 samfélaginu	nheþg	samfélag
 .	.	.
-
 Þessi	faven	þessi
 umdeilda	lvenvf	umdeildur
 skattbreyting	nven	skattbreyting
@@ -4458,7 +4196,6 @@ hlut	nkeo	hlutur
 en	c	en
 hinum	fakfþ	hinn
 .	.	.
-
 Þau	fahfn	sá
 rök	nhfn	rök
 Einars	nkee-s	Einar
@@ -4509,7 +4246,6 @@ móti	aþ	móti
 slíkum	fbkeþ	slíkur
 skatti	nkeþ	skattur
 .	.	.
-
 Afhverju	aa	afhverju
 bendir	sfg3en	benda
 Einar	nken-s	Einar
@@ -4521,7 +4257,6 @@ ekki	aa	ekki
 augljósu	lveovf	augljós
 staðreynd	nveo	staðreynd
 ?	?	?
-
 Afhverju	aa	afhverju
 ræða	sfg3fn	ræða
 Samtök	nhfn-s	Samtök
@@ -4536,7 +4271,6 @@ hina	gveo	hinn
 umdeildu	lveovf	umdeildur
 hækkun	nveo	hækkun
 ?	?	?
-
 Væntanlega	aa	væntanlega
 er	sfg3en	vera
 það	fphen	það
@@ -4565,7 +4299,6 @@ sinni	feveþ	sinn
 síðustu	lkfove	síðari
 daga	nkfo	dagur
 .	.	.
-
 Sjálfur	fbken	sjálfur
 tel	sfg1en	telja
 ég	fp1en	ég
@@ -4580,7 +4313,6 @@ verður	sfg3en	verða
 kvatt	sþghen	kveðja
 saman	aa	saman
 .	.	.
-
 Kemur	sfg3en	koma
 til	ae	til
 dæmis	nhee	dæmi
@@ -4605,7 +4337,6 @@ aldraðra	lkfesf	aldraður
 og	c	og
 öryrkja	nkfe	öryrki
 ?	?	?
-
 Ég	fp1en	ég
 hlakka	sfg1en	hlakka
 til	ae	til
@@ -4625,7 +4356,6 @@ launamálin	nhfog	launamál
 samfélaginu	nheþg	samfélag
 sérstaklega	aa	sérstaklega
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 því	aa	því
@@ -4674,7 +4404,6 @@ og	c	og
 skattastefnu	nveo	skattastefna
 ríkisins	nheeg	ríki
 .	.	.
-
 Þarsem	c	þarsem
 Samtök	nhfn-s	Samtök
 atvinnurekenda	nkfe	atvinnurekandi
@@ -4719,7 +4448,6 @@ vera	sng	vera
 þeim	fahfþ	sá
 störfum	nhfþ	starf
 .	.	.
-
 Þau	fphfo	það
 þarf	sfg3fn	þurfa
 að	cn	að
@@ -4743,7 +4471,6 @@ ríkir	sfg3en	ríkja
 íslenskan	lkeosf	íslenskur
 mælikvarða	nkeo	mælikvarði
 .	.	.
-
 Já	au	já
 ,	,	,
 köllum	svg1fn	kalla
@@ -4753,7 +4480,6 @@ við	ao	við
 fyrsta	lheove	fyrstur
 tækifæri	nheo	tækifæri
 .	.	.
-
 Höldum	svg1fn	halda
 þing	nheo	þing
 þar	aa	þar
@@ -4794,7 +4520,6 @@ og	c	og
 láglaunastefnu	nveo	láglaunastefna
 SA	as	SA
 .	.	.
-
 Minn	feken	minn
 útgangspunktur	nken	útgangspunktur
 verður	sfg3en	verða
@@ -4814,7 +4539,6 @@ láglaunakvenna	nvfe	láglaunakona
 og	c	og
 umönnunnarstétta	nvfe	umönnunnarstétt
 .	.	.
-
 miðvikudagur	nken	miðvikudagur
 21.	ta	21.
 desember	nken	desember
@@ -4824,7 +4548,6 @@ fyrir	ao	fyrir
 innmúraða	lkfosf	innmúraður
 og	c	og
 innvígða	lkfosf	innvígður
-
 Það	fphen	það
 er	sfg3en	vera
 lofsvert	lhensf	lofsverður
@@ -4841,7 +4564,6 @@ um	ao	um
 hugðarefni	nhfo	hugðarefni
 sín	fehfo	sinn
 .	.	.
-
 Ég	fp1en	ég
 á	sfg1en	eiga
 hér	aa	hér
@@ -4865,7 +4587,6 @@ sem	ct	sem
 eru	sfg3fn	vera
 komin	sþghfn	koma
 .	.	.
-
 Ritstjóri	nken	ritstjóri
 er	sfg3en	vera
 Jakob	nken-s	Jakob
@@ -4885,7 +4606,6 @@ slóðum	nvfþ	slóð
 ritið	nheng	rit
 er	sfg3en	vera
 .	.	.
-
 Jakob	nken-s	Jakob
 er	sfg3en	vera
 eins	aa	eins
@@ -4898,7 +4618,6 @@ og	c	og
 hugsast	ssm	hugsa
 getur	sfg3en	geta
 .	.	.
-
 Öðrum	fokeþ	annar
 þræði	nkeþ	þráður
 virkar	sfg3en	virka
@@ -4920,7 +4639,6 @@ gamli	lkenvf	gamall
 biskupinn	nkeng	biskup
 vitnar	sfg3en	vitna
 .	.	.
-
 Þjóðmál	nhen-s	Þjóðmál
 er	sfg3en	vera
 raunar	aa	raunar
@@ -4935,7 +4653,6 @@ skilið	ssg	skilja
 fyrir	ao	fyrir
 framtakið	nheog	framtak
 .	.	.
-
 Það	fphen	það
 eru	sfg3fn	vera
 100	ta	100
@@ -4950,7 +4667,6 @@ og	c	og
 læsilegu	lheþsf	læsilegur
 letri	nheþ	letur
 .	.	.
-
 Útgáfan	nveng	útgáfa
 er	sfg3en	vera
 einföld	lvensf	einfaldur
@@ -4958,7 +4674,6 @@ og	c	og
 líklega	aa	líklega
 ódýr	lvensf	ódýr
 .	.	.
-
 Ég	fp1en	ég
 hafði	sfg1eþ	hafa
 gaman	nheo	gaman
@@ -4979,7 +4694,6 @@ milli	aa	milli
 um	ao	um
 jólin	nhfog	jól
 .	.	.
-
 Í	aþ	í
 fyrsta	lheþve	fyrstur
 lagi	nheþ	lag

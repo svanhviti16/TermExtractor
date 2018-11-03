@@ -1,5 +1,6 @@
 from string import punctuation
 from collections import defaultdict
+from operator import itemgetter
 import re, os, math
 
 # Term Frequency, Inverse Document Frequency:
@@ -18,101 +19,110 @@ punct_list = list(punctuation)
 # adding Icelandic quotation marks and other punctuation
 punct_list.extend(("„", "“", "…", "«"))
 
-# set of all words (lemmas) after extracting stopwords
-vocabulary = set()
-
-word_idf = defaultdict(lambda: 0)
-
-# Fetching the document to be worked on
-with open("output/lemmatized_clean.txt") as corp_file:
-    corpus_list = []
-    lines = corp_file.readlines()
-    for line in lines:
-        if line.strip():
-            corpus_list.append((list(line.strip().split())))
-
-# Fetching the gold corpus from a local directory and counting the tokens and documents
-file_paths = os.listdir("corpus/MIM-GOLD_0.9/")
-
-# +1 is the input document
-document_count = 2
-
-total_words = []
-for path in file_paths:
-    # file path from the Gold standard, such as "mbl.txt"
-    with open("corpus/MIM-GOLD_0.9/" + path) as g_file:
-    
-        lines = g_file.readlines()
-        for line in lines:
-            if line.strip():
-                lemma = (line.split()[2])
-                if lemma not in stopwords_is and lemma not in punct_list and not re.match(r"[0-9]+|[0-9]+\/[0-9]+|[0-9]+\.|[A-Za-zÞÆÖÐÚÁÍÓÉþæöðúáíóé]+\.", lemma):
-                    total_words.append(lemma)
-    for word in total_words:
-        word_idf[word] += 1
-
-
 # Returns a list where stopwords, punctuation and digits have been removed
 def exclude_stoptokens(corpus_file):
     temp_list = []
     for line in corpus_file:
-        # some lines may contain fewer items, we don't want them
-        if len(line) > 2:
-            if line[2] not in stopwords_is and line[2] not in punct_list and not re.match(r"[0-9]+|[0-9]+\/[0-9]+|[0-9]+\.|[A-Za-zÞÆÖÐÚÁÍÓÉþæöðúáíóé]+\.", line[2]):
-                temp_list.append(line[2])
+        if line.strip():
+            #if line not in stopwords_is and line not in punct_list and not re.match(r"[0-9]+|[0-9]+\/[0-9]+|[0-9]+\.|[A-Za-zÞÆÖÐÚÁÍÓÉþæöðúáíóé]+\.", line):
+            temp_list.append(line)
     return(temp_list)
 
-# excluding all stopwords
-working_words = exclude_stoptokens(corpus_list)
 
+# set of all words (lemmas) after extracting stopwords
+vocabulary = set()
 
-# adding the working words to the total list of tokens we want to look at
-total_words.extend(working_words)
+# we want to store each word's idf in a dictionary
+word_idf = defaultdict(lambda: 0)
 
+# all the (relevant) words in the document we're looking at
+working_words = []
 
-#print(total_words)
+# Fetching the document to be worked on
+with open("output/lemmatized_clean.txt") as corp_file:
+    lines = corp_file.readlines()
+    for line in lines:
+        if line.strip():
+            if len(line.split()) is 3:
+                # only working with lemmas here
+                working_words.append(line.split()[2])
 
-# Filling vocabulary set
+working_words = exclude_stoptokens(working_words)
+
+# Fetching the gold corpus from a local directory and counting the tokens and documents
+file_paths = os.listdir("corpus/GOLD_split/")
+
+# +1 is the document we're looking at, it is added to the corpus
+document_count = len(file_paths) + 1
+
+documents_list = []
+for path in file_paths:
+    total_words = []
+    # file path with ~ 200 files from the Gold standard
+    with open("corpus/GOLD_split/" + path) as g_file:
+        lines = g_file.readlines()
+        for line in lines:
+            if line.strip():
+                # omitting lines with no lemmas
+                if len(line.split()) is 3:
+                    lemma = line.split()[2]
+                #if lemma not in stopwords_is and lemma not in punct_list and not re.match(r"[0-9]+|[0-9]+\/[0-9]+|[0-9]+\.|[A-Za-zÞÆÖÐÚÁÍÓÉþæöðúáíóé]+\.", lemma):
+                    # adding the lemmas to a list, omitting stopwords and other unwanted tokens
+                total_words.append(lemma)
+    # registering whether a word appears in the document
+    for word in total_words:
+        word_idf[word] += 1
+    # adding a list of all lemmas in a document into a list
+    documents_list.append(total_words)
+
+    vocabulary.update(total_words)
+
+# adding the list of working words to the documents list
+documents_list.append(working_words)
+
+# we also want the working_words into the vocabulary
 vocabulary.update(working_words)
-vocabulary.update(total_words)
 
+# and calculate the idf for each word
+for word in working_words:
+    word_idf[word] += 1
+
+# now getting the vocabulary size
 vocabulary = list(vocabulary)
 vocabulary_size = len(vocabulary)
 print("VOCABULARY SIZE: " + str(vocabulary_size))
 
-word_index = {w: idx for idx, w in enumerate(vocabulary)}
-
-for word in working_words:
-    word_idf[word] += 1
 # Calculate idf for all words in the vocabulary
 for word in vocabulary:
-#    print("word_idf variables:")
-#    print("float(1 + word_idf[word]): " + str(float(1 + word_idf[word])))
-#    print(word + " word_idf[word]: " + str(math.log(document_count)))
     word_idf[word] = math.log(document_count / float(1 + word_idf[word]))
     #print(word)
 
-
-print(word_idf["landssamband"])
-
-# 
-print(float(working_words.count("landssamband")) / len(working_words))
-
- 
+# tf = term frequency
+# word frequency in the document divided by the document length
 def word_tf(word, document):
-    print("Word_tf: " + str(float(document.count(word)) / len(document)))
+    print("Word frequency in a document: " + str(float(document.count(word))))
     return float(document.count(word)) / len(document)
  
 def tf_idf(word, document):
- 
-    if word not in word_index:
-        print("not in word_index:" + word)
+    if word not in vocabulary:
         return .0
-
-    print("tf_idf: " + str(word_tf(word, document)))
-    print("word_idf: " + str(word_idf[word]))
-    print("word_idf[word_index[word]]" + str(word_idf[word_index[word]]))
-    return word_tf(word, document) * word_idf[word_index[word]]
+    print("IDF " + str(word_idf[word]))
+    return word_tf(word, document) * word_idf[word]
 
 # testing tf idf function
-print(tf_idf("landssamband", working_words))
+print("Bændasamtök: " + str(tf_idf("Bændasamtök", working_words)))
+print("Bóndi: " + str(tf_idf("bóndi", working_words)))
+print("Skjaldbaka: " + str(tf_idf("skjaldbaka", working_words)))
+print("Búvara: " + str(tf_idf("búvara", working_words)))
+print("Sauðfjárrækt: " + str(tf_idf("sauðfjárrækt", working_words)))
+print("og: " + str(tf_idf("og", working_words)))
+
+working_set = set()
+working_set.update(working_words)
+
+tf_idf_results = []
+for word in working_set:
+    tf_idf_results.append((word, tf_idf(word, working_words)))
+
+tf_idf_results.sort(key=itemgetter(1), reverse=True)
+print(tf_idf_results[:100])

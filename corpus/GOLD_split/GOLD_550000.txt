@@ -1,4 +1,3 @@
-
 1	ta	1
 )	)	)
 [	[	[
@@ -25,7 +24,6 @@ að	aa	að
 tvo	tfkfo	tveir
 mánuði	nkfo	mánuður
 .	.	.
-
 Útgerðarmenn	nkfn	útgerðarmaður
 skulu	sfg3fn	skulu
 greiða	sng	greiða
@@ -33,7 +31,6 @@ iðgjald	nheo	iðgjald
 skv.	as	skv.
 36.	ta	36.
 gr.	as	gr.
-
 Útgerðarmenn	nkfn	útgerðarmaður
 sem	ct	sem
 þess	fphee	það
@@ -58,7 +55,6 @@ næsta	lheeve	næstur
 á	aa	á
 eftir	aa	eftir
 .	.	.
-
 Tilkynning	nven	tilkynning
 um	ao	um
 uppsögn	nveo	uppsögn
@@ -68,7 +64,6 @@ berast	snm	bera
 sjúkratryggingastofnuninni	nveþg	sjúkratryggingastofnun
 ]	]	]
 .	.	.
-
 1	ta	1
 )	)	)
 Eftir	ao	eftir
@@ -97,7 +92,6 @@ slysatrygginga	nvfe	slysatrygging
 almennra	lkfesf	almennur
 launþega	nkfe	launþegi
 .	.	.
-
 Halda	sng	halda
 skal	sfg3en	skulu
 tryggingum	nvfþ	trygging
@@ -113,7 +107,6 @@ starfsemi	nveþ	starfsemi
 sjúkratryggingastofnunarinnar	nveeg	sjúkratryggingastofnun
 ]	]	]
 .	.	.
-
 1	ta	1
 )	)	)
 Dagpeningar	nkfn	dagpeningar
@@ -141,7 +134,6 @@ eiga	sfg3fn	eiga
 sér	fpvfþ	sig
 stað	nkeo	staður
 .	.	.
-
 1	ta	1
 )	)	)
 L.	x	l
@@ -149,10 +141,8 @@ L.	x	l
 ,	,	,
 57.	ta	57.
 gr.	as	gr.
-
 68.	ta	68.
 gr.	as	gr.
-
 Heimilt	lhensf	heimill
 er	sfg3en	vera
 ríkisstjórninni	nveþg	ríkisstjórn
@@ -183,7 +173,6 @@ sem	ct	sem
 almannatryggingar	nvfn	almannatrygging
 veita	sfg3fn	veita
 .	.	.
-
 Í	aþ	í
 slíkum	fbkfþ	slíkur
 samningum	nkfþ	samningur
@@ -221,7 +210,6 @@ eða	c	eða
 annarra	fohfe	annar
 samningsríkja	nhfe	samningsríki
 .	.	.
-
 Enn	aa	enn
 fremur	aam	fremur
 er	sfg3en	vera
@@ -247,7 +235,6 @@ sbr.	as	sbr.
 og	c	og
 58.	ta	58.
 gr.	as	gr.
-
 Í	aþ	í
 samningum	nkfþ	samningur
 skv.	as	skv.
@@ -278,7 +265,6 @@ væri	svg3eþ	vera
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 1	ta	1
 )	)	)
 L.	x	l
@@ -286,10 +272,8 @@ L.	x	l
 ,	,	,
 8.	ta	8.
 gr.	as	gr.
-
 69.	ta	69.
 gr.	as	gr.
-
 Bætur	nvfn	bót
 almannatrygginga	nvfe	almannatrygging
 ,	,	,
@@ -315,7 +299,6 @@ fjárlög	nhfo	fjárlög
 hverju	foheþ	hver
 sinni	nheþ	sinn
 .	.	.
-
 Ákvörðun	nven	ákvörðun
 þeirra	fpvfe	hún
 skal	sfg3en	skulu
@@ -337,7 +320,6 @@ samkvæmt	aþ	samkvæmt
 vísitölu	nveþ	vísitala
 neysluverðs	nhee	neysluverð
 .	.	.
-
 70.	ta	70.
 gr.	as	gr.
 [	[	[
@@ -365,7 +347,6 @@ framkvæmd	nveo	framkvæmd
 laga	nhfe	lag
 þessara	fahfe	þessi
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 [	[	[
@@ -392,7 +373,6 @@ stofnsamnings	nkee	stofnsamningur
 Fríverslunarsamtaka	nhfe-s	Fríverslunarsamtök
 Evrópu	nvee-s	Evrópa
 .	.	.
-
 1	ta	1
 )	)	)
 L.	x	l
@@ -499,7 +479,6 @@ rg.	as	rg.
 rg.	as	rg.
 290/2008	ta	290/2008
 .	.	.
-
 3	ta	3
 )	)	)
 Augl.	as	augl.
@@ -550,15 +529,12 @@ rg.	as	rg.
 rg.	as	rg.
 855/2008	ta	855/2008
 .	.	.
-
 Ákvæði	nhfn	ákvæði
 til	ae	til
 bráðabirgða	nvfe	bráðabirgð
 .	.	.
-
 1	ta	1
 .	.	.
-
 Þeir	fakfn	sá
 sem	ct	sem
 ákveðið	ssg	ákveða
@@ -585,7 +561,6 @@ halda	sng	halda
 rétti	nkeþ	réttur
 sínum	fekeþ	sinn
 .	.	.
-
 Tryggingastofnun	nven-s	Tryggingastofnun
 ríkisins	nheeg	ríki
 skal	sfg3en	skulu
@@ -605,7 +580,6 @@ almannatrygginga	nvfe	almannatrygging
 hverju	foheþ	hver
 sinni	nheþ	sinn
 .	.	.
-
 Nú	aa	nú
 andast	sfm3en	anda
 maður	nken	maður
@@ -656,10 +630,8 @@ rétt	nkeo	réttur
 vegna	ae	vegna
 frestunar	nvee	frestun
 .	.	.
-
 2	ta	2
 .	.	.
-
 Ákvæði	nhfn	ákvæði
 1.	ta	1.
 gr.	as	gr.
@@ -703,10 +675,8 @@ sérstaklega	aa	sérstaklega
 um	ao	um
 það	fpheo	það
 .	.	.
-
 3	ta	3
 .	.	.
-
 Sjúklingar	nkfn	sjúklingur
 sem	ct	sem
 áttu	sfg3fþ	eiga
@@ -736,10 +706,8 @@ kafla	nkeþ	kafli
 þeirra	fahfe	sá
 laga	nhfe	lag
 .	.	.
-
 4	ta	4
 .	.	.
-
 Í	aþ	í
 ákvæðum	nhfþ	ákvæði
 3.	ta	3.
@@ -765,10 +733,8 @@ og	c	og
 árinu	nheþg	ár
 2007	ta	2007
 .	.	.
-
 5	ta	5
 .	.	.
-
 Þrátt	aa	þrátt
 fyrir	ao	fyrir
 ákvæði	nhfo	ákvæði
@@ -799,10 +765,8 @@ tekjutryggingar	nvee	tekjutrygging
 árinu	nheþg	ár
 2007	ta	2007
 .	.	.
-
 6	ta	6
 .	.	.
-
 Þrátt	aa	þrátt
 fyrir	ao	fyrir
 ákvæði	nhfo	ákvæði
@@ -831,9 +795,7 @@ með	aþ	með
 desember	nkeþ	desember
 2007	ta	2007
 .	.	.
-
 7.	ta	7.
-
 Þrátt	aa	þrátt
 fyrir	ao	fyrir
 ákvæði	nhfo	ákvæði
@@ -874,9 +836,7 @@ frá	aþ	frá
 júlí	nkeþ	júlí
 2006	ta	2006
 .	.	.
-
 8.	ta	8.
-
 Á	aþ	á
 tímabilinu	nheþg	tímabil
 1.	ta	1.
@@ -915,7 +875,6 @@ gildistöku	nveo	gildistaka
 þessara	fahfe	þessi
 laga	nhfe	lag
 .	.	.
-
 Ef	c	ef
 samanburðurinn	nkeng	samanburður
 leiðir	sfg3en	leiða
@@ -934,13 +893,10 @@ bæturnar	nvfog	bót
 því	faheþ	sá
 tímabili	nheþ	tímabil
 .	.	.
-
 [	[	[
 9	ta	9
 .	.	.
-
 ...	...	...
-
 1	ta	1
 )	)	)
 ]	]	]
@@ -949,7 +905,6 @@ tímabili	nheþ	tímabil
 [	[	[
 10	ta	10
 .	.	.
-
 Á	aþ	á
 tímabilinu	nheþg	tímabil
 1.	ta	1.
@@ -988,7 +943,6 @@ gildistöku	nveo	gildistaka
 þessara	fahfe	þessi
 laga	nhfe	lag
 .	.	.
-
 Ef	c	ef
 samanburðurinn	nkeng	samanburður
 leiðir	sfg3en	leiða
@@ -1013,7 +967,6 @@ tímabili	nheþ	tímabil
 [	[	[
 11	ta	11
 .	.	.
-
 Þrátt	aa	þrátt
 fyrir	ao	fyrir
 ákvæði	nhfo	ákvæði
@@ -1090,17 +1043,14 @@ L.	x	l
 ,	,	,
 1.	ta	1.
 gr.	as	gr.
-
 Athugasemdir	nvfn	athugasemd
 við	ao	við
 lagafrumvarp	nheo	lagafrumvarp
 þetta	faheo	þessi
 .	.	.
-
 I.	ta	I.
 Inngangur	nken	inngangur
 .	.	.
-
 Lagafrumvarp	nhen	lagafrumvarp
 þetta	fahen	þessi
 ,	,	,
@@ -1116,7 +1066,6 @@ viðskiptaráðherra	nkee	viðskiptaráðherra
 um	ao	um
 Evrópufélög	nhfo-s	Evrópufélag
 .	.	.
-
 Með	aþ	með
 ályktun	nveþ	ályktun
 13.	ta	13.
@@ -1196,7 +1145,6 @@ varðar	sfg3en	varða
 aðild	nveo	aðild
 starfsmanna	nkfe	starfsmaður
 .	.	.
-
 Við	ao	við
 gerð	nveo	gerð
 frumvarpsins	nheeg	frumvarp
@@ -1214,7 +1162,6 @@ tilskipunar	nvee	tilskipun
 nr.	as	nr.
 2001/86/EB	ta	2001/86/eb
 .	.	.
-
 Vegna	ae	vegna
 eðlis	nhee	eðli
 tilskipunarinnar	nveeg	tilskipun
@@ -1256,7 +1203,6 @@ gildi	nheo	gildi
 október	nkeo	október
 2004	ta	2004
 .	.	.
-
 Hefur	sfg3en	hafa
 fulltrúi	nken	fulltrúi
 félagsmálaráðuneytisins	nheeg	félagsmálaráðuneyti
@@ -1271,7 +1217,6 @@ um	ao	um
 innleiðingu	nveo	innleiðing
 tilskipunarinnar	nveeg	tilskipun
 .	.	.
-
 Ráðuneytið	nheng	ráðuneyti
 hefur	sfg3en	hafa
 jafnframt	aa	jafnframt
@@ -1305,7 +1250,6 @@ hennar	fpvee	hún
 íslenskan	lkeosf	íslenskur
 rétt	nkeo	réttur
 .	.	.
-
 Í	ao	í
 stað	nkeo	staður
 þess	fphee	það
@@ -1333,9 +1277,7 @@ efni	nheþ	efni
 og	c	og
 inntaki	nheþ	inntak
 .	.	.
-
 II.	ta	II.
-
 Efni	nhen	efni
 tilskipunar	nvee	tilskipun
 um	ao	um
@@ -1344,7 +1286,6 @@ starfsmanna	nkfe	starfsmaður
 að	aþ	að
 Evrópufélögum	nhfþ-s	Evrópufélag
 .	.	.
-
 Hinn	gkeo	hinn
 8.	ta	8.
 október	nkeo	október
@@ -1367,7 +1308,6 @@ Evrópufélög	nhfo-s	Evrópufélag
 SE	as	SE
 )	)	)
 .	.	.
-
 Jafnhliða	aa	jafnhliða
 var	sfg3eþ	vera
 samþykkt	sþgven	samþykkja
@@ -1387,7 +1327,6 @@ varðar	sfg3en	varða
 aðild	nveo	aðild
 starfsmanna	nkfe	starfsmaður
 .	.	.
-
 Í	aþ	í
 stuttu	lheþsf	stuttur
 máli	nheþ	mál
@@ -1441,7 +1380,6 @@ mynda	sng	mynda
 sameiginleg	lhfosf	sameiginlegur
 dótturfélög	nhfo	dótturfélag
 .	.	.
-
 Á	ao	á
 sama	fbkeo	samur
 hátt	nkeo	háttur
@@ -1485,7 +1423,6 @@ skrifstofa	nven	skrifstofa
 þess	fphee	það
 er	sfg3en	vera
 .	.	.
-
 Nánari	lvenvm	náinn
 grein	nven	grein
 er	sfg3en	vera
@@ -1512,7 +1449,6 @@ fram	aa	fram
 á	aþ	á
 Alþingi	nheþ-s	Alþingi
 .	.	.
-
 Tilskipun	nveþ	tilskipun
 nr.	as	nr.
 2001/86/EB	ta	2001/86/eb
@@ -1537,7 +1473,6 @@ sem	ct	sem
 vinna	sfg3fn	vinna
 hjá	aa	hjá
 .	.	.
-
 Um	ao	um
 önnur	fohfo	annar
 málefni	nhfo	málefni
@@ -1574,7 +1509,6 @@ skilyrðum	nhfþ	skilyrði
 um	ao	um
 hlutafélög	nhfo	hlutafélag
 .	.	.
-
 Miða	sfg3fn	miða
 ákvæði	nhfn	ákvæði
 tilskipunarinnar	nveeg	tilskipun
@@ -1592,7 +1526,6 @@ við	ao	við
 stofnun	nveo	stofnun
 Evrópufélags	nhee-s	Evrópufélag
 .	.	.
-
 Vegna	ae	vegna
 margbreytilegra	lvfesf	margbreytilegur
 reglna	nvfe	regla
@@ -1633,7 +1566,6 @@ fyrir	ao	fyrir
 öll	fohfo	allur
 Evrópufélög	nhfo-s	Evrópufélag
 .	.	.
-
 Tilskipunin	nveng	tilskipun
 leggur	sfg3en	leggja
 hins	fakee	hinn
@@ -1661,7 +1593,6 @@ Evrópufélag	nhen-s	Evrópufélag
 er	sfg3en	vera
 stofnað	sþghen	stofna
 .	.	.
-
 Ef	c	ef
 þátttökuréttur	nken	þátttökuréttur
 er	sfg3en	vera
@@ -1728,7 +1659,6 @@ samkomulag	nheo	samkomulag
 um	ao	um
 annað	foheo	annar
 .	.	.
-
 Ef	c	ef
 vilji	nken	vilji
 er	sfg3en	vera
@@ -1760,7 +1690,6 @@ að	cn	að
 slíkt	fbheo	slíkur
 fyrirkomulag	nheo	fyrirkomulag
 .	.	.
-
 Ef	c	ef
 ekki	aa	ekki
 næst	sfm3en	ná
@@ -1798,7 +1727,6 @@ hefur	sfg3en	hafa
 verið	ssg	vera
 stofnað	sþghen	stofna
 .	.	.
-
 Þessar	favfn	þessi
 almennu	lvfnvf	almennur
 reglur	nvfn	regla
@@ -1839,7 +1767,6 @@ fyrir	ao	fyrir
 stofnun	nveo	stofnun
 þess	fphee	það
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 grundvallarregla	nven	grundvallarregla
@@ -1862,7 +1789,6 @@ taka	sng	taka
 í	aþ	í
 félaginu	nheþg	félag
 .	.	.
-
 Réttindi	nhfn	réttindi
 starfsmanna	nkfe	starfsmaður
 ,	,	,
@@ -1898,7 +1824,6 @@ eftir	aa	eftir
 »	»	»
 )	)	)
 .	.	.
-
 Sú	faven	sá
 regla	nven	regla
 gildir	sfg3en	gilda
@@ -1923,7 +1848,6 @@ fyrir	aþ	fyrir
 af	aþ	af
 skipulagsbreytingunum	nvfþg	skipulagsbreyting
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 ákvæðum	nhfþ	ákvæði
 tilskipunarinnar	nveeg	tilskipun
@@ -1965,7 +1889,6 @@ sín	fpkfe	sig
 á	aa	á
 milli	aa	milli
 .	.	.
-
 Rétt	lhensf	réttur
 er	sfg3en	vera
 að	cn	að
@@ -1997,7 +1920,6 @@ sínar	fevfo	sinn
 samkvæmt	aþ	samkvæmt
 tilskipuninni	nveþg	tilskipun
 .	.	.
-
 Skilyrði	nhfn	skilyrði
 þess	fphee	það
 að	c	að
@@ -2031,13 +1953,10 @@ tilskipunarinnar	nveeg	tilskipun
 landsrétt	nkeo	landsréttur
 sinn	fekeo	sinn
 .	.	.
-
 III.	ta	III.
-
 Efni	nhen	efni
 frumvarpsins	nheeg	frumvarp
 .	.	.
-
 Evrópufélög	nhfn-s	Evrópufélag
 eru	sfg3fn	vera
 nýtt	lhensf	nýr
@@ -2062,7 +1981,6 @@ hér	aa	hér
 á	aþ	á
 landi	nheþ	land
 .	.	.
-
 Erfitt	lhensf	erfiður
 er	sfg3en	vera
 að	cn	að
@@ -2080,7 +1998,6 @@ eða	c	eða
 vinnumarkaðinn	nkeog	vinnumarkaður
 hérlendis	aa	hérlendis
 .	.	.
-
 Þótt	c	þótt
 fyrir	aa	fyrir
 fram	aa	fram
@@ -2124,7 +2041,6 @@ geta	sng	geta
 stofnað	ssg	stofna
 Evrópufélag	nheo-s	Evrópufélag
 .	.	.
-
 Í	aþ	í
 reglugerðinni	nveþg	reglugerð
 er	sfg3en	vera
@@ -2143,7 +2059,6 @@ lágmarki	nheþ	lágmark
 120.000	ta	120.000
 evrur	nvfn	evra
 .	.	.
-
 Eins	aa	eins
 og	c	og
 áður	aa	áður
@@ -2162,7 +2077,6 @@ við	ao	við
 gerð	nveo	gerð
 frumvarpsins	nheeg	frumvarp
 .	.	.
-
 Frumvarpið	nheng	frumvarp
 hefur	sfg3en	hafa
 það	faheo	sá
@@ -2221,7 +2135,6 @@ taka	sfg3fn	taka
 stofnun	nveþ	stofnun
 Evrópufélags	nhee-s	Evrópufélag
 .	.	.
-
 Þar	aa	þar
 sem	ct	sem
 bein	lvensf	beinn
@@ -2254,7 +2167,6 @@ með	aþ	með
 tilkomu	nveþ	tilkoma
 Evrópufélaga	nhfe-s	Evrópufélag
 .	.	.
-
 Þvert	aa	þvert
 á	aa	á
 móti	aa	móti
@@ -2319,7 +2231,6 @@ að	aþ	að
 í	aþ	í
 félaginu	nheþg	félag
 .	.	.
-
 Í	aþ	í
 frumvarpinu	nheþg	frumvarp
 er	sfg3en	vera
@@ -2365,7 +2276,6 @@ starfsmanna	nkfe	starfsmaður
 í	aþ	í
 Evrópufélaginu	nheþgs	Evrópufélag
 .	.	.
-
 Sérstök	lvensf	sérstakur
 samninganefnd	nven	samninganefnd
 er	sfg3en	vera
@@ -2378,7 +2288,6 @@ við	ao	við
 þær	favfo	sá
 viðræður	nvfo	viðræða
 .	.	.
-
 Við	ao	við
 myndun	nveo	myndun
 nefndarinnar	nveeg	nefnd
@@ -2410,7 +2319,6 @@ aðildarríki	nheþ	aðildarríki
 fyrir	ao	fyrir
 sig	fpheo	sig
 .	.	.
-
 Gert	sþghen	gera
 er	sfg3en	vera
 ráð	nhen	ráð
@@ -2457,7 +2365,6 @@ fulltrúa	nkfe	fulltrúi
 í	ao	í
 samninganefndina	nveog	samninganefnd
 .	.	.
-
 Séu	svg3fn	vera
 engir	fokfn	enginn
 trúnaðarmenn	nkfn	trúnaðarmaður
@@ -2480,7 +2387,6 @@ fulltrúa	nkfe	fulltrúi
 í	ao	í
 samninganefndina	nveog	samninganefnd
 .	.	.
-
 Frumvarpið	nheng	frumvarp
 hefur	sfg3en	hafa
 að	cn	að
@@ -2516,7 +2422,6 @@ varða	sfg3fn	varða
 starfsemi	nveo	starfsemi
 félagsins	nheeg	félag
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 kveðið	sþghen	kveða
@@ -2546,7 +2451,6 @@ af	aþ	af
 starfi	nheþ	starf
 nefndarinnar	nveeg	nefnd
 .	.	.
-
 Markmið	nhen	markmið
 samningaviðræðna	nvfe	samningaviðræður
 er	sfg3en	vera
@@ -2571,7 +2475,6 @@ samráðs	nhee	samráð
 og	c	og
 þátttöku	nvee	þátttaka
 .	.	.
-
 Í	aþ	í
 samkomulagi	nheþ	samkomulag
 skal	sfg3en	skulu
@@ -2631,7 +2534,6 @@ skipa	sng	skipa
 slíka	fbveo	slíkur
 fulltrúanefnd	nveo	fulltrúanefnd
 .	.	.
-
 Ef	c	ef
 aðilarnir	nkfng	aðili
 verða	sfg3fn	verða
@@ -2708,7 +2610,6 @@ réttindi	nhfo	réttindi
 þeirra	fpkfe	hann
 ,	,	,
 o.s.frv.	as	o.s.frv.
-
 Samningaviðræður	nvfn	samningaviðræður
 geta	sfg3fn	geta
 að	aþ	að
@@ -2719,7 +2620,6 @@ yfir	aa	yfir
 eitt	tfheo	einn
 ár	nheo	ár
 .	.	.
-
 Aðilar	nkfn	aðili
 geta	sfg3fn	geta
 ákveðið	ssg	ákveða
@@ -2742,7 +2642,6 @@ sem	ct	sem
 við	aa	við
 á	sfg3en	eiga
 .	.	.
-
 Sama	fbheþ	sami
 máli	nheþ	mál
 gegnir	sfg3en	gegna
@@ -2759,7 +2658,6 @@ er	sfg3en	vera
 til	ae	til
 viðræðna	nvfe	viðræða
 .	.	.
-
 Meginreglan	nveng	meginregla
 er	sfg3en	vera
 sú	faven	sá
@@ -2785,7 +2683,6 @@ hreins	lkeesf	hreinn
 meirihluta	nkee	meirihluti
 starfsmanna	nkfe	starfsmaður
 .	.	.
-
 Ef	c	ef
 niðurstaða	nven	niðurstaða
 samningaviðræðna	nvfe	samningaviðræður
@@ -2826,16 +2723,13 @@ frá	aþ	frá
 hlutum	nkfþ	hluti
 fulltrúanna	nkfeg	fulltrúi
 .	.	.
-
 IV	ta	IV
 .	.	.
-
 Tengsl	nhfn	tengsl
 frumvarpsins	nheeg	frumvarp
 við	ao	við
 landsrétt	nkeo	landsréttur
 .	.	.
-
 Ákvæði	nhfn	ákvæði
 frumvarpsins	nheeg	frumvarp
 gilda	sfg3fn	gilda
@@ -2857,7 +2751,6 @@ upplýsinga	nvfe	upplýsing
 og	c	og
 samráðs	nhee	samráð
 .	.	.
-
 Í	aþ	í
 þeim	fahfþ	sá
 tilvikum	nhfþ	tilvik
@@ -2911,7 +2804,6 @@ ekki	aa	ekki
 tekið	sþghen	taka
 fram	aa	fram
 .	.	.
-
 Þetta	fahen	þessi
 þýðir	sfg3en	þýða
 meðal	ae	meðal
@@ -2944,7 +2836,6 @@ eða	c	eða
 dótturfélög	nhfo	dótturfélag
 þess	fphee	það
 .	.	.
-
 Sama	fbheþ	sami
 máli	nheþ	mál
 gegnir	sfg3en	gegna
@@ -2958,7 +2849,6 @@ um	ao	um
 þátttöku	nveo	þátttaka
 starfsmanna	nkfe	starfsmaður
 .	.	.
-
 Rétt	lhensf	réttur
 er	sfg3en	vera
 hins	fakee	hinn
@@ -3001,7 +2891,6 @@ um	ao	um
 brottfall	nheo	brottfall
 hans	fpkee	hann
 .	.	.
-
 Ákvæðin	nhfng	ákvæði
 leiða	sfg3fn	leiða
 því	aa	því
@@ -3048,7 +2937,6 @@ samkomulag	nhen	samkomulag
 III.	lkeevf	III.
 kafla	nkee	kafli
 .	.	.
-
 Að	aþ	að
 öðru	foheþ	annar
 leyti	nheþ	leyti
@@ -3072,19 +2960,16 @@ samkvæmt	aþ	samkvæmt
 gildandi	lvfþof	gildandi
 reglum	nvfþ	regla
 .	.	.
-
 Athugasemdir	nvfn	athugasemd
 við	ao	við
 einstakar	lvfosf	einstakur
 greinar	nvfo	grein
 frumvarpsins	nheeg	frumvarp
 .	.	.
-
 Um	ao	um
 I.	lkeosf	I.
 kafla	nkeo	kafli
 .	.	.
-
 Í	aþ	í
 kaflanum	nkeþg	kafli
 er	sfg3en	vera
@@ -3101,11 +2986,9 @@ skilgreiningar	nvfo	skilgreining
 á	aþ	á
 hugtökum	nhfþ	hugtak
 .	.	.
-
 Um	ao	um
 1.	ta	1.
 gr.	as	gr.
-
 Í	aþ	í
 greininni	nveþg	grein
 er	sfg3en	vera
@@ -3127,7 +3010,6 @@ málum	nhfþ	mál
 og	c	og
 ákvörðunum	nvfþ	ákvörðun
 .	.	.
-
 Í	aþ	í
 þeim	fahfþ	sá
 efnum	nhfþ	efni
@@ -3171,11 +3053,9 @@ tilskipunar	nvee	tilskipun
 nr.	as	nr.
 2001/86/EB	ta	2001/86/eb
 .	.	.
-
 Um	ao	um
 2.	ta	2.
 gr.	as	gr.
-
 Í	aþ	í
 greininni	nveþg	grein
 er	sfg3en	vera
@@ -3214,7 +3094,6 @@ reglugerðarinnar	nveeg	reglugerð
 íslenskan	lkeosf	íslenskur
 rétt	nkeo	réttur
 .	.	.
-
 Er	sfg3en	vera
 í	aþ	í
 frumvarpi	nheþ	frumvarp
@@ -3252,7 +3131,6 @@ taka	sng	taka
 stofnun	nveþ	stofnun
 Evrópufélags	nhee-s	Evrópufélag
 .	.	.
-
 Í	aþ	í
 2.	ta	2.
 mgr.	as	mgr.
@@ -3265,7 +3143,6 @@ um	ao	um
 framkvæmd	nveþ	framkvæmd
 laganna	nhfeg	lag
 .	.	.
-
 Hafa	sng	hafa
 ber	sfg3en	bera
 í	aþ	í
@@ -3298,7 +3175,6 @@ frumkvæðisskyldu	nveo	frumkvæðisskylda
 tiltekins	lkeesf	tiltekinn
 aðila	nkee	aðili
 .	.	.
-
 Má	sfg3en	mega
 í	aþ	í
 því	faheþ	sá
@@ -3318,11 +3194,9 @@ fulltrúum	nkfþ	fulltrúi
 starfsmanna	nkfe	starfsmaður
 upplýsingar	nvfo	upplýsing
 .	.	.
-
 Um	ao	um
 3.	ta	3.
 gr.	as	gr.
-
 Greinin	nveng	grein
 hefur	sfg3en	hafa
 að	cn	að
@@ -3380,7 +3254,6 @@ að	cn	að
 stofna	sng	stofna
 Evrópufélag	nheo-s	Evrópufélag
 .	.	.
-
 Þótt	c	þótt
 nokkrar	fovfn	nokkur
 leiðir	nvfn	leið
@@ -3414,7 +3287,6 @@ félag	nheo	félag
 Evrópska	lheþvf	evrópskur
 efnahagssvæðinu	nheþg	efnahagssvæði
 .	.	.
-
 Til	ae	til
 að	c	að
 þátttaka	nven	þátttaka
@@ -3439,7 +3311,6 @@ að	cn	að
 verða	sng	verða
 hluthafi	nken	hluthafi
 .	.	.
-
 «	«	«
 Dótturfélag	nhen	dótturfélag
 »	»	»
@@ -3456,7 +3327,6 @@ laga	nhfe	lag
 nr.	as	nr.
 61/1999	ta	61/1999
 .	.	.
-
 Sú	faven	sá
 skilgreining	nven	skilgreining
 er	sfg3en	vera
@@ -3486,7 +3356,6 @@ einkahlutafélög	nhfo	einkahlutafélag
 nr.	as	nr.
 138/1994	ta	138/1994
 .	.	.
-
 Ástæða	nven	ástæða
 þess	fphee	það
 að	c	að
@@ -3526,7 +3395,6 @@ lögum	nhfþ	lag
 nr.	as	nr.
 61/1999	ta	61/1999
 .	.	.
-
 Varðandi	slg	varða
 d-lið	nkeo	d-liður
 ,	,	,
@@ -3569,7 +3437,6 @@ og	c	og
 þátttökufélagið	nheng	þátttökufélag
 sjálft	fbhen	sjálfur
 .	.	.
-
 Þegar	c	þegar
 upplýsingar	nvfn	upplýsing
 eru	sfg3fn	vera
@@ -3615,7 +3482,6 @@ hefur	sfg3en	hafa
 verið	ssg	vera
 stofnað	sþghen	stofna
 .	.	.
-
 Í	aþ	í
 k-lið	nkeþ	k-liður
 er	sfg3en	vera
@@ -3632,7 +3498,6 @@ með	aþ	með
 þátttöku	nveþ	þátttaka
 starfsmanna	nkfe	starfsmaður
 .	.	.
-
 Við	ao	við
 túlkun	nveo	túlkun
 verður	sfg3en	verða
@@ -3666,7 +3531,6 @@ og	c	og
 stjórn	nveo	stjórn
 fyrirtækja	nhfe	fyrirtæki
 .	.	.
-
 Samsvarandi	lheþof	samsvarandi
 ákvæði	nheþ	ákvæði
 í	aþ	í
@@ -3703,7 +3567,6 @@ samningum	nkfþ	samningur
 eða	c	eða
 venju	nveþ	venja
 .	.	.
-
 Þetta	fahen	þessi
 víða	lhenvf	víður
 gildissvið	nhen	gildissvið
@@ -3739,12 +3602,10 @@ fyrirkomulagið	nheog	fyrirkomulag
 því	faheþ	sá
 landi	nheþ	land
 .	.	.
-
 Um	ao	um
 II.	lkeosf	II.
 kafla	nkeo	kafli
 .	.	.
-
 Í	aþ	í
 öðrum	lkeþsf	öðr
 kafla	nkeþ	kafli
@@ -3770,7 +3631,6 @@ að	aþ	að
 stofnun	nveþ	stofnun
 Evrópufélags	nhee-s	Evrópufélag
 .	.	.
-
 Skulu	sfg3fn	skulu
 viðræður	nvfn	viðræða
 miða	sng	miða
@@ -3799,11 +3659,9 @@ við	aa	við
 þátttöku	nveo	þátttaka
 starfsmanna	nkfe	starfsmaður
 .	.	.
-
 Um	ao	um
 4.	lveovf	4.
 gr.	as	gr.
-
 Í	aþ	í
 greininni	nveþg	grein
 er	sfg3en	vera
@@ -3845,7 +3703,6 @@ tilhögun	nveo	tilhögun
 aðild	nveþ	aðild
 starfsmanna	nkfe	starfsmaður
 .	.	.
-
 Til	ae	til
 að	c	að
 viðræður	nvfn	viðræða
@@ -3864,7 +3721,6 @@ við	ao	við
 ákvæði	nhfo	ákvæði
 5.	ta	5.
 gr.	as	gr.
-
 Í	aþ	í
 2.	ta	2.
 mgr.	as	mgr.
@@ -3906,7 +3762,6 @@ sæta	nhfe	sæti
 í	aþ	í
 henni	fpveþ	hún
 .	.	.
-
 Jafnframt	aa	jafnframt
 skal	sfg3en	skulu
 veita	sng	veita
@@ -3937,7 +3792,6 @@ atkvæðagreiðslur	nvfo	atkvæðagreiðsla
 sérstöku	lveþvf	sérstakur
 samninganefndinni	nveþg	samninganefnd
 .	.	.
-
 Upplýsingar	nvfn	upplýsing
 þær	favfn	sá
 sem	ct	sem
@@ -3950,7 +3804,6 @@ nýjustu	lvfþve	nýr
 fáanlegum	lvfþsf	fáanlegur
 upplýsingum	nvfþ	upplýsing
 .	.	.
-
 Varðandi	slg	varða
 tölur	nvfo	tala
 um	ao	um
@@ -3984,7 +3837,6 @@ grundvelli	nkeþ	grundvöllur
 tímabundins	lkeesf	tímabundinn
 ráðningarsamnings	nkee	ráðningarsamningur
 .	.	.
-
 Til	ae	til
 að	cn	að
 forða	sng	forða
@@ -4002,7 +3854,6 @@ starfsmanna	nkfe	starfsmaður
 hverjum	fokeþ	hver
 tíma	nkeþ	tími
 .	.	.
-
 Er	sfg3en	vera
 því	aa	því
 um	ao	um
@@ -4038,11 +3889,9 @@ síðustu	lhfþve	síðari
 tveimur	tfhfþ	tveir
 árum	nhfþ	ár
 .	.	.
-
 Um	ao	um
 5.	ta	5.
 gr.	as	gr.
-
 Í	aþ	í
 greininni	nveþg	grein
 er	sfg3en	vera
@@ -4074,7 +3923,6 @@ taki	svg3fn	taka
 stofnun	nveþ	stofnun
 Evrópufélags	nhee-s	Evrópufélag
 .	.	.
-
 Reglur	nvfn	regla
 um	ao	um
 skipun	nveo	skipun
@@ -4116,7 +3964,6 @@ EB	as	EB
 nr.	as	nr.
 2157/2001	ta	2157/2001
 .	.	.
-
 Að	aþ	að
 uppfylltum	lhfþsf	uppfylltur
 nánari	lhfþvm	náinn
@@ -4176,7 +4023,6 @@ hlutafélagi	nheþ	hlutafélag
 í	ao	í
 Evrópufélag	nheo-s	Evrópufélag
 .	.	.
-
 Fulltrúar	nkfn	fulltrúi
 í	aþ	í
 sérstöku	lveþvf	sérstakur
@@ -4193,7 +4039,6 @@ geta	sfg3fn	geta
 orðið	ssg	verða
 þrjátíu	tfkfn	þrjátíu
 .	.	.
-
 Eftir	ao	eftir
 fyrirhugaða	lveosf	fyrirhugaður
 stækkun	nveo	stækkun
@@ -4223,7 +4068,6 @@ umfangsmiklum	lkeþsf	umfangsmikill
 samruna	nkeþ	samruni
 fyrirtækja	nhfe	fyrirtæki
 .	.	.
-
 Ákvæði	nheþ	ákvæði
 a-liðar	nkee	a-liður
 2.	ta	2.
@@ -4268,7 +4112,6 @@ a.m.k.	as	a.m.k.
 einum	tfkeþ	einn
 fulltrúa	nkeþ	fulltrúi
 .	.	.
-
 Fulltrúafjöldi	nken	fulltrúafjöldi
 ræðst	sfm3en	ráða
 að	aþ	að
@@ -4297,7 +4140,6 @@ byrjaðan	lkeosf	byrjaður
 tug	nkeo	tugur
 fulltrúa	nkfe	fulltrúi
 .	.	.
-
 Þannig	aa	þannig
 fær	sfg3en	fá
 til	ae	til
@@ -4315,7 +4157,6 @@ fulltrúa	nkfo	fulltrúi
 í	ao	í
 samninganefndina	nveog	samninganefnd
 .	.	.
-
 Í	aþ	í
 b-lið	nkeþ	b-liður
 2.	ta	2.
@@ -4332,7 +4173,6 @@ myndað	sþghen	mynda
 við	ao	við
 samruna	nkeo	samruni
 .	.	.
-
 Felur	sfg3en	fela
 hún	fpven	hún
 í	aþ	í
@@ -4365,7 +4205,6 @@ Evrópufélagsins	nheegs	Evrópufélag
 tekur	sfg3en	taka
 gildi	nheo	gildi
 .	.	.
-
 Í	aþ	í
 3.	ta	3.
 mgr.	as	mgr.
@@ -4408,7 +4247,6 @@ félaganna	nhfeg	félag
 hverju	foheþ	hver
 aðildarríki	nheþ	aðildarríki
 .	.	.
-
 Í	aþ	í
 4.	ta	4.
 mgr.	as	mgr.
@@ -4433,7 +4271,6 @@ hefur	sfg3en	hafa
 verið	ssg	vera
 skipuð	sþgven	skipa
 .	.	.
-
 Þetta	fahen	þessi
 getur	sfg3en	geta
 til	ae	til
@@ -4471,7 +4308,6 @@ fulltrúa	nkeo	fulltrúi
 nefndinni	nveþg	nefnd
 breytist	svm3en	breyta
 .	.	.
-
 Er	sfg3en	vera
 í	aþ	í
 ákvæðinu	nheþg	ákvæði
@@ -4528,7 +4364,6 @@ að	c	að
 þær	fpvfn	hún
 hefjast	sfm3fn	hefja
 .	.	.
-
 Til	ae	til
 að	cn	að
 útskýra	sng	útskýra
@@ -4555,15 +4390,12 @@ Evrópufélags	nhee-s	Evrópufélag
 við	ao	við
 samruna	nkeo	samruni
 :	:	:
-
 <	<	<
 tafla	nven	tafla
 >	>	>
-
 Um	ao	um
 6.	ta	6.
 gr.	as	gr.
-
 Í	aþ	í
 greininni	nveþg	grein
 er	sfg3en	vera
@@ -4579,7 +4411,6 @@ starfsmanna	nkfe	starfsmaður
 sérstöku	lveovf	sérstakur
 samninganefndina	nveog	samninganefnd
 .	.	.
-
 Gert	sþghen	gera
 er	sfg3en	vera
 ráð	nhen	ráð
@@ -4615,7 +4446,6 @@ tekur	sfg3en	taka
 í	aþ	í
 kjörinu	nheþg	kjör
 .	.	.
-
 Skulu	sfg3fn	skulu
 þessir	fakfn	þessi
 aðilar	nkfn	aðili
@@ -4654,7 +4484,6 @@ eru	sfg3fn	vera
 jafnframt	aa	jafnframt
 kjörgengir	lkfnsf	kjörgengur
 .	.	.
-
 Sérregla	nven	sérregla
 gildir	sfg3en	gilda
 þó	aa	þó
@@ -4690,7 +4519,6 @@ lögaðili	nken	lögaðili
 kjölfar	nheo	kjölfar
 samruna	nkee	samruni
 .	.	.
-
 Eiga	sfg3fn	eiga
 þá	aa	þá
 einungis	aa	einungis
@@ -4705,7 +4533,6 @@ taka	sng	taka
 í	aþ	í
 kosningunni	nveþg	kosning
 .	.	.
-
 Í	aþ	í
 greininni	nveþg	grein
 er	sfg3en	vera
@@ -4747,11 +4574,9 @@ rétt	nkeo	réttur
 til	ae	til
 fulltrúa	nkfe	fulltrúi
 .	.	.
-
 Um	ao	um
 7.	ta	7.
 gr.	as	gr.
-
 Í	aþ	í
 greininni	nveþg	grein
 er	sfg3en	vera
@@ -4783,7 +4608,6 @@ og	c	og
 gang	nkeo	gangur
 stofnunarferlisins	nheeg	stofnunarferli
 .	.	.
-
 Í	aþ	í
 þessu	faheþ	þessi
 felst	sfm3en	fela
@@ -4836,7 +4660,6 @@ hafa	sng	hafa
 samsetningu	nveo	samsetning
 nefndarinnar	nveeg	nefnd
 .	.	.
-
 Í	aþ	í
 greininni	nveþg	grein
 er	sfg3en	vera
@@ -4891,11 +4714,9 @@ sér	fpveþ	sig
 til	ae	til
 aðstoðar	nvee	aðstoð
 .	.	.
-
 Um	ao	um
 8.	ta	8.
 gr.	as	gr.
-
 Í	aþ	í
 greininni	nveþg	grein
 er	sfg3en	vera
@@ -4910,7 +4731,6 @@ samninganefndin	nveng	samninganefnd
 tekur	sfg3en	taka
 ákvarðanir	nvfo	ákvörðun
 .	.	.
-
 Meginreglan	nveng	meginregla
 er	sfg3en	vera
 sú	faven	sá
@@ -4941,7 +4761,6 @@ hins	ghee	hinn
 fyrirhugaða	lheevf	fyrirhugaður
 Evrópufélags	nhee-s	Evrópufélag
 .	.	.
-
 Í	aþ	í
 2.	ta	2.
 mgr.	as	mgr.
@@ -4963,7 +4782,6 @@ við	ao	við
 stofnun	nveo	stofnun
 Evrópufélags	nhee-s	Evrópufélag
 .	.	.
-
 Aukinn	lkeosf	aukinn
 meirihluta	nkeo	meirihluti
 atkvæða	nhfe	atkvæði

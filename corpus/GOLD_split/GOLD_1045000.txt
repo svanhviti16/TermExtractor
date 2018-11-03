@@ -18,7 +18,6 @@ hjálpin	nveng	hjálp
 nái	svg3en	ná
 fram	aa	fram
 .	.	.
-
 Með	aþ	með
 því	fpheþ	það
 að	cn	að
@@ -32,25 +31,21 @@ Vilt	sfg2en	vilja
 hjálpa	sng	hjálpa
 ?	?	?
 »	»	»
-
 getur	sfg2en	geta
 þú	fp2en	þú
 tekið	ssg	taka
 þátt	nkeo	þáttur
 .	.	.
-
 Lydia	nven-s	Lydia
 G.	as	G.
 28/7	ta	28/7
 2006	ta	2006
-
 2	ta	2
 milljónir	nvfn	milljón
 til	ae	til
 neyðaraðstoðar	nvee	neyðaraðstoð
 í	aþ	í
 Líbanon	nheþ-s	Líbanon
-
 Hjálparstarf	nhen	hjálparstarf
 kirkjunnar	nveeg	kirkja
 mun	sfg3en	munu
@@ -69,7 +64,6 @@ gegnum	ao	gegnum
 ACT-Alþjóðaneyðarhjálp	nveo-s	ACT-Alþjóðaneyðarhjálp
 kirkna	nvfe	kirkja
 .	.	.
-
 Markmið	nhen	markmið
 ACT	as	ACT
 á	aþ	á
@@ -97,7 +91,6 @@ Beirut	e	Beirut
 og	c	og
 Beqaa	e	Beqaa
 .	.	.
-
 Aðstoð	nven	aðstoð
 ACT	as	ACT
 felst	sfm3en	fela
@@ -106,7 +99,6 @@ að	cn	að
 deila	sng	deila
 út	aa	út
 :	:	:
-
 Vatn	x	vatn
 ,	,	,
 hreinlætisvörum	nvfþ	hreinlætisvara
@@ -115,7 +107,6 @@ sápu	nveþ	sápa
 ,	,	,
 sótthreinsandi	lheþof	sótthreinsa
 ofl.	as	ofl.
-
 Matarpökkum	nkfþ	matarpakki
 með	aþ	með
 hrísgrjónum	nhfþ	hrísgrjón
@@ -136,25 +127,21 @@ fjölskyldu	nveþ	fjölskylda
 2	ta	2
 vikur	nvfo	vika
 .	.	.
-
 Barnavörum	nvfþ	barnavara
 s.s.	as	s.s.
 bleyjum	nvfþ	bleyja
 og	c	og
 þurrmjólk	nveþ	þurrmjólk
 .	.	.
-
 Skjólefni	nheþ	skjólefni
 ,	,	,
 dýnum	nvfþ	dýna
 og	c	og
 mataráhöldum	nhfþ	mataráhald
 .	.	.
-
 Nauðsynlegustu	lhfþve	nauðsynlegur
 lyfjum	nhfþ	lyf
 .	.	.
-
 Heildafjárbeiðni	nven	heildafjárbeiðni
 ACT	as	ACT
 er	sfg3en	vera
@@ -170,7 +157,6 @@ næstu	lkfove	næstur
 3	ta	3
 mánuði	nkfo	mánuður
 .	.	.
-
 ACT	as	ACT
 á	aþ	á
 svæðinu	nheþg	svæði
@@ -209,7 +195,6 @@ sínum	fekfþ	sinn
 í	aþ	í
 neyð	nveþ	neyð
 .	.	.
-
 Kirkjur	nvfn	kirkja
 í	aþ	í
 landinu	nheþg	land
@@ -222,7 +207,6 @@ fólki	nheþ	fólk
 á	aþ	á
 flótta	nkeþ	flótti
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 opinberum	lvfþsf	opinber
 upplýsingum	nvfþ	upplýsing
@@ -251,7 +235,6 @@ manns	nkee	maður
 undir	aþ	undir
 rústum	nvfþ	rúst
 .	.	.
-
 Talið	sþghen	telja
 er	sfg3en	vera
 að	c	að
@@ -272,7 +255,6 @@ af	aþ	af
 líbönsku	lveþvf	líbanskur
 þjóðinni	nveþg	þjóð
 .	.	.
-
 Í	aþ	í
 óskipulegum	lvfþsf	óskipulegur
 flóttamannabúðum	nvfþ	flóttamannabúð
@@ -288,7 +270,6 @@ mat	nkeo	matur
 og	c	og
 hreinlætisvörur	nvfo	hreinlætisvara
 .	.	.
-
 Skemmdir	nvfn	skemmd
 á	aþ	á
 mannvirkjum	nhfþ	mannvirki
@@ -319,7 +300,6 @@ uppskera	nven	uppskera
 árs	nhee	ár
 er	sfg3en	vera
 töpuð	lvensf	tapaður
-
 Ekki	aa	ekki
 enn	aa	enn
 hægt	lhensf	hægur
@@ -330,7 +310,6 @@ fórnarlamba	nhfe	fórnarlamb
 syðst	aae	sunnar
 í	aþ	í
 landinu	nheþg	land
-
 Mikið	lhensf	mikill
 áhyggjuefni	nhen	áhyggjuefni
 er	sfg3en	vera
@@ -343,7 +322,6 @@ neyðaraðstoðinni	nveþg	neyðaraðstoð
 til	ae	til
 skila	nhfe	skil
 .	.	.
-
 Sameinuðu	lvfnvf	sameinaður
 Þjóðirnar	nvfngs	þjóð
 hafa	sfg3fn	hafa
@@ -366,7 +344,6 @@ ennþá	aa	ennþá
 þeim	fahfþ	sá
 málum	nhfþ	mál
 .	.	.
-
 ACT	as	ACT
 er	sfg3en	vera
 að	cn	að
@@ -391,7 +368,6 @@ syðsta	lkeþve	syðri
 hluta	nkeþ	hluti
 landsins	nheeg	land
 .	.	.
-
 Þar	aa	þar
 hefur	sfg3en	hafa
 fólk	nhen	fólk
@@ -408,18 +384,15 @@ meðan	c	meðan
 árásir	nvfn	árás
 halda	sfg3fn	halda
 áfram	aa	áfram
-
 Lydia	nven-s	Lydia
 G.	as	G.
 21/7	ta	21/7
 2006	ta	2006
-
 Íslandsheimsókn	nven-s	Íslandsheimsókn
 framkvæmdastjóra	nkee	framkvæmdastjóri
 ACT	as	ACT
 í	aþ	í
 Darfúr	nxeþ-s	Darfúr
-
 Staðreyndir	nvfn	staðreynd
 sýna	sfg3fn	sýna
 ,	,	,
@@ -450,7 +423,6 @@ ef	c	ef
 ekki	aa	ekki
 lengur	aam	lengi
 .	.	.
-
 Óstöðugleiki	nken	óstöðugleiki
 og	c	og
 órói	nken	órói
@@ -467,7 +439,6 @@ aukið	ssg	auka
 vanda	nkeo	vandi
 fólks	nhee	fólk
 .	.	.
-
 Tölur	nvfn	tala
 frá	aþ	frá
 Alþjóðaheilbrigðisstofnuninni	nveþgs	Alþjóðaheilbrigðisstofnun
@@ -501,7 +472,6 @@ Vestur-Darfúr	nxeþ-s	Vestur-Darfúr
 árið	nheog	ár
 áður	aa	áður
 .	.	.
-
 Neyðaraðstoð	nven	neyðaraðstoð
 á	aþ	á
 svæðinu	nheþg	svæði
@@ -521,7 +491,6 @@ nærri	aa	nærri
 yfir	ao	yfir
 vandann	nkeog	vandi
 .	.	.
-
 Taugaveiki	nven	taugaveiki
 ,	,	,
 vannæring	nven	vannæring
@@ -532,7 +501,6 @@ eru	sfg3fn	vera
 og	c	og
 viðvarandi	lkfnof	viðvarandi
 .	.	.
-
 Í	aþ	í
 Vestur-Darfúr	nxeþ-s	Vestur-Darfúr
 voru	sfg3fþ	vera
@@ -544,7 +512,6 @@ barna	nhfe	barn
 vegna	ae	vegna
 niðurgangs	nkee	niðurgangur
 .	.	.
-
 Það	fphen	það
 sýnir	sfg3en	sýna
 gríðarlegan	lkeosf	gríðarlegur
@@ -561,14 +528,12 @@ að	cn	að
 viðhafa	sng	viðhafa
 hreinlæti	nheo	hreinlæti
 .	.	.
-
 Anna	nven-s	Anna
 M.	as	M.
 Þ.	as	Þ.
 Ó.	as	Ó.
 21/7	ta	21/7
 2006	ta	2006
-
 Meistarinn	nkengs	Meistari
 gefur	sfg3en	gefa
 250.000	ta	250.000
@@ -577,7 +542,6 @@ til	ae	til
 hjálparstarfs	nhee	hjálparstarf
 á	aþ	á
 Indlandi	nheþ-s	Indland
-
 Hjálparstarf	nhen-s	Hjálparstarf
 kirkjunnar	nveeg	kirkja
 mun	sfg3en	munu
@@ -610,7 +574,6 @@ Tamil	e	Tamil
 Nadu	e	Nadu
 héraði	nheþ	hérað
 .	.	.
-
 Fyrir	ao	fyrir
 framlög	nhfo	framlag
 frá	aþ	frá
@@ -625,7 +588,6 @@ forskóla	nkfo	forskóli
 þorpum	nhfþ	þorp
 dalíta	nkfe	dalíti
 .	.	.
-
 Á	aþ	á
 sl.	as	sl.
 ári	nheþ	ár
@@ -652,7 +614,6 @@ inn	aa	inn
 almenna	lkfosf	almennur
 skóla	nkfo	skóli
 .	.	.
-
 Opinn	lkensf	opinn
 háskóli	nken	háskóli
 er	sfg3en	vera
@@ -667,7 +628,6 @@ kirkjunnar	nveeg	kirkja
 bænum	nkeþg	bær
 Kanchipuram	e	Kanchipuram
 .	.	.
-
 Á	aþ	á
 sl.	as	sl.
 áru	x	ár
@@ -675,7 +635,6 @@ voru	sfg3fþ	vera
 nemendur	nkfn	nemandi
 75	ta	75
 .	.	.
-
 Allir	fokfn	allur
 nemendur	nkfn	nemandi
 læra	sfg3fn	læra
@@ -689,7 +648,6 @@ með	aþ	með
 bóklega	lheþvf	bóklegur
 náminu	nheþg	nám
 .	.	.
-
 Skólinn	nkeng	skóli
 leggur	sfg3en	leggja
 mikið	lheosf	mikill
@@ -699,7 +657,6 @@ tengslum	nhfþ	tengsl
 við	ao	við
 atvinnulífið	nheog	atvinnulíf
 .	.	.
-
 Þannig	aa	þannig
 er	sfg3en	vera
 samráð	nhen	samráð
@@ -725,7 +682,6 @@ að	aþ	að
 námi	nheþ	nám
 loknu	lheþsf	lokinn
 .	.	.
-
 Framlag	nhen	framlag
 Jónasar	nkee-s	Jónas
 Arnars	nkee-s	Arnar
@@ -741,7 +697,6 @@ bakið	nheog	bak
 þessum	fakfþ	þessi
 nemendum	nkfþ	nemandi
 .	.	.
-
 Faðir	nken	faðir
 Jónasar	nkee-s	Jónas
 Arnars	nkee-s	Arnar
@@ -758,12 +713,10 @@ viðstaddir	lkfnsf	viðstaddur
 afhendingu	nveo	afhending
 gjafarinnar	nveeg	gjöf
 .	.	.
-
 Jónas	nken-s	Jónas
 Þ.	as	Þ.
 15/6	ta	15/6
 2006	ta	2006
-
 Ný	lvensf	nýr
 heimasíða	nven	heimasíða
 Social	e	Social
@@ -771,7 +724,6 @@ Action	e	Action
 Movement	e	Movement
 á	aþ	á
 Indlandi	nheþ-s	Indland
-
 Nú	aa	nú
 geta	sfg3fn	geta
 stuðningsaðilar	nkfn	stuðningsaðili
@@ -785,7 +737,6 @@ SAM	as	SAM
 heimasíðu	nveþ	heimasíða
 þeirra	fpkfe	hann
 .	.	.
-
 Þar	aa	þar
 er	sfg3en	vera
 að	cn	að
@@ -798,7 +749,6 @@ upplýsingar	nvfo	upplýsing
 um	ao	um
 starfið	nheog	starf
 .	.	.
-
 27	ta	27
 börn	nhfn	barn
 leyst	sþghfn	leysa
@@ -806,7 +756,6 @@ leyst	sþghfn	leysa
 vinnuánauð	nveþ	vinnuánauð
 hjá	aþ	hjá
 SAM	as	SAM
-
 Á	aþ	á
 sl.	as	sl.
 skólaári	nheþ	skólaár
@@ -847,7 +796,6 @@ og	c	og
 í	aþ	í
 félagsstarfi	nheþ	félagsstarf
 .	.	.
-
 Í	aþ	í
 kvöldskólunum	nkfþg	kvöldskóli
 una	sfg3fn	una
@@ -876,7 +824,6 @@ nám	nheo	nám
 almennum	lkfþsf	almennur
 skólum	nkfþ	skóli
 .	.	.
-
 Börnin	nhfng	barn
 í	aþ	í
 kvöldskólanum	nkeþg	kvöldskóli
@@ -887,7 +834,6 @@ svo	aa	svo
 kölluðu	lheþsf	kallaður
 barnaþingi	nheþ	barnaþing
 .	.	.
-
 Barnaþingin	nhfng	barnaþing
 eru	sfg3fn	vera
 haldinn	x	halda
@@ -898,7 +844,6 @@ börnin	nhfog	barn
 sem	c	sem
 leiðtoga	nkfo	leiðtogi
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 farið	sþghen	fara
@@ -914,7 +859,6 @@ hjá	aþ	hjá
 sem	ct	sem
 stjórna	sfg3fn	stjórna
 .	.	.
-
 Svo	aa	svo
 er	sfg3en	vera
 farið	sþghen	fara
@@ -930,7 +874,6 @@ ráðherra	nkfe	ráðherra
 ,	,	,
 funarstjón	x	fundarstjórn
 ofl.	as	ofl.
-
 Allt	fohen	allur
 þetta	fahen	þessi
 undirbýr	sfg3en	undirbúa
@@ -955,18 +898,15 @@ vel	aa	vel
 móti	aþ	móti
 þeim	fphfþ	það
 .	.	.
-
 Jónas	nken-s	Jónas
 Þ.	as	Þ.
 12/6	ta	12/6
 2006	ta	2006
-
 Rótarýklúbburinn	nkeng	rótarýklúbbur
 Garðar	nkfn-s	Garður
 gefur	sfg3en	gefa
 500.000	ta	500.000
 kr.	as	kr.
-
 Félagar	nkfn	félagi
 úr	aþ	úr
 Rótarýklúbbnum	nkeþgs	Rótarýklúbbur
@@ -988,14 +928,12 @@ framkvæmdastjóra	nkeþ	framkvæmdastjóri
 Hjálparstarfsins	nkeegs	Hjálparstarfur
 framlagið	nheog	framlag
 .	.	.
-
 Anna	nven-s	Anna
 M.	as	M.
 Þ.	as	Þ.
 Ó.	as	Ó.
 18/5	ta	18/5
 2006	ta	2006
-
 Fátækir	lkfnsf	fátækur
 arfleiddir	sþgkfn	arfleiða
 -	-	-
@@ -1003,7 +941,6 @@ Hjálparstarfið	nhengs	Hjálparstarf
 fær	sfg3en	fá
 3,3	ta	3,3
 milljónir	nvfo	milljón
-
 Fanney	nven-s	Fanney
 Jónsdóttir	nven-s	Jónsdóttir
 fæddist	sfm3eþ	fæða
@@ -1013,7 +950,6 @@ lifði	sfg3eþ	lifa
 tímana	nkfog	tími
 tvenna	lkfosf	tvennur
 .	.	.
-
 Hún	fpven	hún
 missti	sfg3eþ	missa
 ung	lvensf	ungur
@@ -1028,7 +964,6 @@ til	ae	til
 og	c	og
 vinafólks	nhee	vinafólk
 .	.	.
-
 Fanney	nven-s	Fanney
 fór	sfg3eþ	fara
 til	ae	til
@@ -1043,7 +978,6 @@ Miðkoti	nheþ-s	Miðkot
 í	aþ	í
 Fljótsdal	nkeþ-s	Fljótsdalur
 .	.	.
-
 Þar	aa	þar
 dvaldi	sfg3eþ	dvelja
 hún	fpven	hún
@@ -1068,7 +1002,6 @@ Guðnastöðum	nkfþ-s	Guðnastaðir
 í	aþ	í
 Landeyjum	nvfþ-s	Landeyjar
 .	.	.
-
 Því	faheþ	sá
 fólki	nheþ	fólk
 bast	sfm3eþ	binda
@@ -1081,7 +1014,6 @@ alla	foveo	allur
 ævi	nveo	ævi
 hennar	fpvee	hún
 .	.	.
-
 Hún	fpven	hún
 fór	sfg3eþ	fara
 18	ta	18
@@ -1105,14 +1037,12 @@ starfsorku	nveo	starfsorka
 alla	foveo	allur
 tíð	nveo	tíð
 .	.	.
-
 Fanney	nven-s	Fanney
 lést	sfm3eþ	láta
 10.	ta	10.
 júní	nkeo	júní
 2005	ta	2005
 .	.	.
-
 Hún	fpven	hún
 hafði	sfg3eþ	hafa
 upplifað	ssg	upplifa
@@ -1131,7 +1061,6 @@ og	c	og
 eftirköst	nhfn	eftirköst
 berklanna	nkfeg	berkill
 .	.	.
-
 Hún	fpven	hún
 þekkti	sfg3eþ	þekkja
 einnig	aa	einnig
@@ -1151,7 +1080,6 @@ einn	lkensf	einn
 á	aþ	á
 báti	nkeþ	bátur
 .	.	.
-
 Með	aþ	með
 því	fpheþ	það
 að	cn	að
@@ -1189,19 +1117,16 @@ annar	foken	annar
 til	ae	til
 hjálpar	nvee	hjálp
 .	.	.
-
 Anna	nven-s	Anna
 M.	as	M.
 Þ.	as	Þ.
 Ó.	as	Ó.
 9/5	ta	9/5
 2006	ta	2006
-
 Næringarríkur	lkensf	næringarríkur
 barnamatur	nken	barnamatur
 til	ae	til
 Eþíópíu	nvee-s	Eþíópía
-
 Rúmlega	aa	rúmlega
 500.000	ta	500.000
 kr.	as	kr.
@@ -1219,7 +1144,6 @@ börn	nhfo	barn
 í	aþ	í
 Suður-Eþiópíu	x	Suður-Eþíópía
 .	.	.
-
 Sr.	as	Sr.
 Helgi	nken-s	Helgi
 Hróbjartsson	nken-s	Hróbjartsson
@@ -1233,7 +1157,6 @@ vann	sfg3eþ	vinna
 um	ao	um
 árabil	nheo	árabil
 .	.	.
-
 Hann	fpken	hann
 stjórnaði	sfg3eþ	stjórna
 neyðaraðstoð	nveþ	neyðaraðstoð
@@ -1252,7 +1175,6 @@ um	ao	um
 milljónir	nvfo	milljón
 króna	nvfe	króna
 .	.	.
-
 Helgi	nken-s	Helgi
 mun	sfg3en	munu
 hafa	sng	hafa
@@ -1261,7 +1183,6 @@ með	aþ	með
 fjármununum	nkfþg	fjármunir
 nú	aa	nú
 .	.	.
-
 Páskasöfnun	nven	páskasöfnun
 fyrir	ao	fyrir
 Malaví	nheo-s	Malaví
@@ -1269,9 +1190,7 @@ komin	lvensf	kominn
 í	ao	í
 8	ta	8
 milljónir	nvfo	milljón
-
 Neyðarbeiðni	nven	neyðarbeiðni
-
 Í	aþ	í
 október	nkeþ	október
 stóða	sfg3eþ	stóð
@@ -1307,7 +1226,6 @@ var	sfg3eþ	vera
 gefin	sþgven	gefa
 út	aa	út
 .	.	.
-
 Beiðnin	nveng	beiðni
 hefur	sfg3en	hafa
 því	aa	því
@@ -1325,7 +1243,6 @@ hana	fpveo	hún
 til	ae	til
 fulls	lheesf	fullur
 .	.	.
-
 Heildarupphæðin	nveng	heildarupphæð
 er	sfg3en	vera
 3.862.486	ta	3.862.486
@@ -1341,7 +1258,6 @@ starfa	sfg3fn	starfa
 í	aþ	í
 landinu	nheþg	land
 .	.	.
-
 Hjálparstarfið	nheng	hjálparstarf
 hefur	sfg3en	hafa
 unnið	ssg	vinna
@@ -1376,7 +1292,6 @@ innan	ae	innan
 ramma	nkee	rammi
 ACT	as	ACT
 .	.	.
-
 Beiðni	nven	beiðni
 ELDS	as	ELDS
 /	/	/
@@ -1404,13 +1319,11 @@ að	aa	að
 framan	aa	framan
 )	)	)
 .	.	.
-
 Ástandið	nheng	ástand
 verra	lhenvm	verri
 en	c	en
 ætlað	sþghen	ætla
 var	sfg3eþ	vera
-
 Til	aa	til
 stóð	sfg3eþ	standa
 að	cn	að
@@ -1431,7 +1344,6 @@ vegna	ae	vegna
 uppskerubrests	nkee	uppskerubrestur
 2005	ta	2005
 .	.	.
-
 Nú	aa	nú
 er	sfg3en	vera
 ljóst	lhensf	ljós
@@ -1462,7 +1374,6 @@ ekki	aa	ekki
 of	aa	of
 snemma	aa	snemma
 .	.	.
-
 Ágætlega	aa	ágætlega
 hefur	sfg3en	hafa
 rignt	ssg	rigna
@@ -1493,7 +1404,6 @@ við	ao	við
 erfiðelikana	x	erfiðleikar
 nú	aa	nú
 .	.	.
-
 Ormafaraldur	nken	ormafaraldur
 og	c	og
 flóð	nhfn	flóð
@@ -1515,7 +1425,6 @@ haft	ssg	hafa
 frjósemi	nveo	frjósemi
 dýranna	nhfeg	dýr
 .	.	.
-
 Verð	nhen	verð
 á	aþ	á
 matvælum	nhfþ	matvæli
@@ -1523,7 +1432,6 @@ hefur	sfg3en	hafa
 hækkað	ssg	hækka
 mikið	aa	mikið
 .	.	.
-
 Allt	fohen	allur
 hefur	sfg3en	hafa
 þetta	fahen	þessi
@@ -1531,7 +1439,6 @@ gert	ssg	gera
 aðstæður	nvfo	aðstæður
 erfiðari	lvfovm	erfiður
 .	.	.
-
 Stjórnvöld	nhfn	stjórnvald
 hafa	sfg3fn	hafa
 brugðist	ssm	bregða
@@ -1553,7 +1460,6 @@ fjölskyldunum	nvfþg	fjölskylda
 á	ao	á
 það	fpheo	það
 .	.	.
-
 Margar	lvfnsf	margur
 þeirra	fpvfe	hún
 hafa	sfg3fn	hafa
@@ -1565,7 +1471,6 @@ að	cn	að
 kaupa	sng	kaupa
 mat	nkeo	matur
 .	.	.
-
 4.400	ta	4.400
 heimili	nhfn	heimili
 fá	sfg3fn	fá
@@ -1573,7 +1478,6 @@ aðstoð	nveo	aðstoð
 fram	aa	fram
 í	ao	í
 júlí	nkeo	júlí
-
 Evangelical	e	Evangelical
 Lutheran	e	Lutheran
 Church	e	Church
@@ -1597,7 +1501,6 @@ Chikwawa	e	Chikwawa
 og	c	og
 Phalombe	e	Phalombe
 .	.	.
-
 Þar	aa	þar
 er	sfg3en	vera
 markmiðið	nheng	markmið
@@ -1619,7 +1522,6 @@ af	aþ	af
 mikilli	lveþsf	mikill
 vannæringu	nveþ	vannæring
 .	.	.
-
 Mæður	nvfn	móðir
 með	ao	með
 börn	nhfo	barn
@@ -1629,7 +1531,6 @@ fá	sfg3fn	fá
 einnig	aa	einnig
 viðbótarnæringu	nveo	viðbótarnæring
 .	.	.
-
 Unnið	sþghen	vinna
 er	sfg3en	vera
 ,	,	,
@@ -1657,7 +1558,6 @@ sáningar	nvee	sáning
 og	c	og
 skepnur	nvfo	skepna
 .	.	.
-
 Þessi	faven	þessi
 aðstoð	nven	aðstoð
 er	sfg3en	vera
@@ -1676,7 +1576,6 @@ júní	nkeþ	júní
 og	c	og
 júlí	nkeþ	júlí
 .	.	.
-
 Einnig	aa	einnig
 eru	sfg3fn	vera
 á	aþ	á
@@ -1699,7 +1598,6 @@ að	cn	að
 ná	sng	ná
 vetraruppskeru	nveþ	vetraruppskera
 .	.	.
-
 Símenntunarnámskeið	nhen	símenntunarnámskeið
 fyrir	ao	fyrir
 starfsfólk	nheo	starfsfólk
@@ -1732,7 +1630,6 @@ gangandi	lkfnof	gangandi
 starfi	nheþ	starf
 ELDS	as	ELDS
 .	.	.
-
 Aðstoðinni	nveþg	aðstoð
 er	sfg3en	vera
 skipt	sþghen	skipta
@@ -1744,7 +1641,6 @@ neyðarfasa	nkeo	neyðarfasi
 og	c	og
 eftirfylgni	nveo	eftirfylgni
 .	.	.
-
 Neyðaraðstoðin	nveng	neyðaraðstoð
 miðast	sfm3en	miða
 við	ao	við
@@ -1768,7 +1664,6 @@ héruðum	nhfþ	hérað
 og	c	og
 viðfangsefni	nheþ	viðfangsefni
 .	.	.
-
 Mataraðstoðin	nveng	mataraðstoð
 í	aþ	í
 hverjum	fokeþ	hver
@@ -1781,7 +1676,6 @@ sér	fpveþ	sig
 kg	as	kg
 af	aþ	af
 maís	nkeþ	maís
-
 10	ta	10
 kg	as	kg
 af	aþ	af
@@ -1790,7 +1684,6 @@ mjöli	nheþ	mjöl
 fyrir	ao	fyrir
 ung	lhfosf	ungur
 börn	nhfo	barn
-
 2,5	ta	2,5
 líter	nkeo	líter
 af	aþ	af
@@ -1800,13 +1693,11 @@ hvert	foheo	hver
 barn	nheo	barn
 í	aþ	í
 fjölskyldunni	nveþg	fjölskylda
-
 Aðgerðir	nvfn	aðgerð
 til	ae	til
 að	cn	að
 efla	sng	efla
 ræktun	nveo	ræktun
-
 Fólkinu	nheþg	fólk
 er	sfg3en	vera
 kynnt	sþghen	kynna
@@ -1817,7 +1708,6 @@ virkjað	sþghen	virkja
 til	ae	til
 þáttttöku	nvee	þáttttaka
 .	.	.
-
 Komið	sþghen	koma
 á	ao	á
 fót	nkeo	fótur
@@ -1846,7 +1736,6 @@ taka	sng	taka
 á	aþ	á
 vandanum	nkeþg	vandi
 .	.	.
-
 Útvega	sng	útvega
 fjölskyldum	nvfþ	fjölskylda
 í	aþ	í
@@ -1865,7 +1754,6 @@ ræktun	nveþ	ræktun
 fyrir	ao	fyrir
 vetraruppskeru	nveo	vetraruppskera
 .	.	.
-
 Námskeið	nhfn	námskeið
 í	aþ	í
 jarðrækt	nveþ	jarðrækt
@@ -1875,7 +1763,6 @@ sem	ct	sem
 snertir	sfg3en	snerta
 vetrarrækt	nveo	vetrarrækt
 .	.	.
-
 Aðgerðir	nvfn	aðgerð
 til	ae	til
 að	cn	að
@@ -1883,7 +1770,6 @@ auka	sng	auka
 fjölbreytni	nveo	fjölbreytni
 í	aþ	í
 skepnuhaldi	nheþ	skepnuhald
-
 Fólkinu	nheþg	fólk
 er	sfg3en	vera
 kynnt	sþghen	kynna
@@ -1894,7 +1780,6 @@ virkjað	sþghen	virkja
 til	ae	til
 þáttttöku	nvee	þáttttaka
 .	.	.
-
 Koma	sng	koma
 á	ao	á
 fót	nkeo	fótur
@@ -1927,7 +1812,6 @@ taka	sng	taka
 á	aþ	á
 vandanum	nkeþg	vandi
 .	.	.
-
 Deila	sng	deila
 út	aa	út
 til	ae	til
@@ -1946,7 +1830,6 @@ auka	sng	auka
 afurðir	nvfo	afurð
 skepnanna	nvfeg	skepna
 .	.	.
-
 Deila	sng	deila
 út	aa	út
 til	ae	til
@@ -1957,7 +1840,6 @@ og	c	og
 2.000	ta	2.000
 hænum	nvfþ	hæna
 .	.	.
-
 Námskeið	nhen	námskeið
 til	ae	til
 að	cn	að
@@ -1983,11 +1865,9 @@ aðgerðir	nvfo	aðgerð
 í	aþ	í
 ræktunarmálum	nhfþ	ræktunarmál
 .	.	.
-
 Námskeið	nhfn	námskeið
 /	/	/
 færni	nven	færni
-
 Öll	fohfn	allur
 námskeið	nhfn	námskeið
 og	c	og
@@ -2004,7 +1884,6 @@ HIV-alnæmivandanum	nkeþgs	HIV-alnæmivandi
 og	c	og
 umhverfisvernd	nveþ	umhverfisvernd
 .	.	.
-
 Útvega	sng	útvega
 leiðbeinendur	nkfo	leiðbeinandi
 og	c	og
@@ -2018,7 +1897,6 @@ og	c	og
 staðsetja	sng	staðsetja
 þau	fphfo	það
 .	.	.
-
 Halda	sfg3fn	halda
 námskeið	nhfo	námskeið
 í	aþ	í
@@ -2028,13 +1906,11 @@ fæðuöryggi	nheo	fæðuöryggi
 -	-	-
 vetrarræktun	nveo	vetrarræktun
 .	.	.
-
 Halda	sng	halda
 námskeið	nhfo	námskeið
 um	ao	um
 skepnuhald	nheo	skepnuhald
 .	.	.
-
 Átta	tfkfn	átta
 ACT-aðilar	nkfn-s	ACT-aðili
 styðja	sfg3fn	styðja
@@ -2050,18 +1926,15 @@ meðal	aa	meðal
 Hjálparstarf	nhen-s	Hjálparstarf
 kirkjunnar	nveeg	kirkja
 .	.	.
-
 Anna	nven-s	Anna
 M.	as	M.
 Þ.	as	Þ.
 Ó.	as	Ó.
 3/4	ta	3/4
 2006	ta	2006
-
 Ályktað	sþghen	álykta
 á	aþ	á
 fulltrúaráðsfundi	nkeþ	fulltrúaráðsfundur
-
 Ályktun	nven	ályktun
 um	ao	um
 skattlagningu	nveo	skattlagning
@@ -2071,7 +1944,6 @@ og	c	og
 stuðning	nkeo	stuðningur
 við	ao	við
 innanlandsaðstoð	nveo	innanlandsaðstoð
-
 Fundur	nken	fundur
 fulltrúaráðs	nhee	fulltrúaráð
 Hjálparstarfs	nhee-s	Hjálparstarf
@@ -2110,7 +1982,6 @@ neyðaraðstoðar	nvee	neyðaraðstoð
 í	aþ	í
 Pakistan	nheþ-s	Pakistan
 .	.	.
-
 Framlagsins	nheeg	framlag
 var	sfg3eþ	vera
 aflað	sþghen	afla
@@ -2121,7 +1992,6 @@ geisladiskinum	nkeþg	geisladiskur
 Hjálpum	svg1fn	hjálpa
 þeim	fphfþ	það
 .	.	.
-
 Allir	fokfn	allur
 sem	ct	sem
 lögðu	sfg3fþ	leggja
@@ -2160,7 +2030,6 @@ og	c	og
 stuðningur	nken	stuðningur
 almennings	nkee	almenningur
 .	.	.
-
 Engin	fohfn	enginn
 rök	nhfn	rök
 eru	sfg3fn	vera
@@ -2173,7 +2042,6 @@ skattleggi	svg3en	skattleggja
 þessa	faveo	þessi
 neyðaraðstoð	nveo	neyðaraðstoð
 .	.	.
-
 Í	aþ	í
 þessu	faheþ	þessi
 sambandi	nheþ	samband
@@ -2216,7 +2084,6 @@ að	aþ	að
 þessu	faheþ	þessi
 sinni	nheþ	sinn
 .	.	.
-
 Á	aþ	á
 sama	fbkeþ	sami
 fundi	nkeþ	fundur
@@ -2266,7 +2133,6 @@ fjölskyldur	nvfo	fjölskylda
 til	ae	til
 sjálfshjálpar	nvee	sjálfshjálp
 .	.	.
-
 Fulltrúaráðsfundurinn	nkeng	fulltrúaráðsfundur
 bendir	sfg3en	benda
 á	ao	á
@@ -2320,20 +2186,17 @@ um	ao	um
 allan	fokeo	allur
 heim	nkeo	heimur
 .	.	.
-
 Anna	nven-s	Anna
 M.	as	M.
 Þ.	as	Þ.
 Ó.	as	Ó.
 13/3	ta	13/3
 2006	ta	2006
-
 Þúsundir	nvfn	þúsund
 flýja	sfg3fn	flýja
 ofbeldi	nheo	ofbeldi
 í	aþ	í
 Suður-Darfúr	nxeþ-s	Suður-Darfúr
-
 Leiðtogar	nkfn	leiðtogi
 fólksins	nheeg	fólk
 segja	sfg3fn	segja
@@ -2353,13 +2216,11 @@ að	c	að
 geti	svg3en	geta
 gerst	ssm	gera
 .	.	.
-
 Fólkið	nheng	fólk
 er	sfg3en	vera
 felmtri	nheþ	felmtur
 slegið	lhensf	sleginn
 .	.	.
-
 ACT	as	ACT
 Alþjóðaneyðarhjálp	nven-s	alþjóðaneyðarhjálp
 kirkna	nvfe	kirkja
@@ -2378,7 +2239,6 @@ hjálparstarf	nheo	hjálparstarf
 kaþólsku	lveevf	kaþólskur
 kirkjunnar	nveeg	kirkja
 .	.	.
-
 ACT-Caritas	e	ACT-Caritas
 hefur	sfg3en	hafa
 metið	ssg	meta
@@ -2395,7 +2255,6 @@ skipulagi	nheþ	skipulag
 á	ao	á
 svæðið	nheog	svæði
 .	.	.
-
 Fólk	nhen	fólk
 hefur	sfg3en	hafa
 fengið	ssg	fá
@@ -2438,7 +2297,6 @@ sjúkdómar	nkfn	sjúkdómur
 breiðist	svm3fn	breiða
 út	aa	út
 .	.	.
-
 Flóttinn	nkeng	flótti
 frá	aþ	frá
 Mershing	e	Mershing
@@ -2455,7 +2313,6 @@ Kele	e	Kele
 í	aþ	í
 nágrenninu	nheþg	nágrenni
 .	.	.
-
 Leiðtogar	nkfn	leiðtogi
 fólksins	nheeg	fólk
 sögðu	sfg3fþ	segja
@@ -2477,7 +2334,6 @@ fylgt	ssg	fylgja
 fyrir	ao	fyrir
 bæjarmörk	nhfo	bæjarmark
 .	.	.
-
 Næstu	lkfove	næstur
 daga	nkfo	dagur
 bárust	sfm3fþ	bera
@@ -2517,7 +2373,6 @@ skotinn	sþgken	skjóta
 til	ae	til
 bana	nkee	bani
 .	.	.
-
 Þann	fakeo	sá
 26.	ta	26.
 gerðu	sfg3fþ	gera
@@ -2540,7 +2395,6 @@ rifflum	nkfþ	riffill
 rænandi	slg	ræna
 búðir	nvfo	búð
 .	.	.
-
 Fréttir	nvfn	frétt
 bárust	sfm3fþ	bera
 af	aþ	af
@@ -2563,7 +2417,6 @@ bása	nkfo	bás
 með	aþ	með
 hömrum	nkfþ	hamar
 .	.	.
-
 Fólk	nhen	fólk
 flúði	sfg3eþ	flýja
 í	aþ	í
@@ -2588,7 +2441,6 @@ stillt	ssg	stilla
 til	ae	til
 friðar	nkee	friður
 .	.	.
-
 ACT	as	ACT
 ásamt	aþ	ásamt
 tveimur	tfvfþ	tveir
@@ -2604,7 +2456,6 @@ Sameinuðu	lvfevf	sameinaður
 Nyala	e	Nyala
 viðvart	lheosf	viðvart
 .	.	.
-
 ACT	as	ACT
 rekur	sfg3en	reka
 búðir	nvfo	búð
@@ -2616,7 +2467,6 @@ heilsugæslu	nveo	heilsugæsla
 þessum	favfþ	þessi
 búðum	nvfþ	búð
 .	.	.
-
 Einnig	aa	einnig
 berast	sfm3fn	bera
 þaðan	aa	þaðan
@@ -2647,7 +2497,6 @@ læra	sng	læra
 að	cn	að
 lesa	sng	lesa
 .	.	.
-
 ACT	as	ACT
 hefur	sfg3en	hafa
 unnið	ssg	vinna
@@ -2680,7 +2529,6 @@ og	c	og
 veitir	sfg3en	veita
 öryggi	nheo	öryggi
 .	.	.
-
 Einingarsamtök	nhfn-s	einingarsamtök
 Afríku	nvee-s	Afríka
 sendu	sfg3fþ	senda
@@ -2698,7 +2546,6 @@ hefur	sfg3en	hafa
 ekki	aa	ekki
 orðið	ssg	verða
 .	.	.
-
 Seinna	aam	seint
 sögðu	sfg3fþ	segja
 þeir	fpkfn	hann
@@ -2730,7 +2577,6 @@ störfum	nhfþ	starf
 Einingarsamtaka	nhfe-s	einingarsamtök
 Afríku	nvee-s	Afríka
 .	.	.
-
 Stjórnvöld	nhfn	stjórnvald
 í	aþ	í
 Súdan	nheþ-s	Súdan
@@ -2745,7 +2591,6 @@ snúi	svg3en	snúa
 aftur	aa	aftur
 heim	aa	heim
 .	.	.
-
 Þau	fphfn	það
 segjast	sfm3fn	segja
 geta	sng	geta
@@ -2759,7 +2604,6 @@ samvinnu	nveþ	samvinna
 við	ao	við
 liðsafla	nkeo	liðsafli
 frá	aþ	frá
-
 Anna	nven-s	Anna
 M.	as	M.
 Þ.	as	Þ.
@@ -2767,14 +2611,11 @@ M.	as	M.
 2/2	ta	2/2
 2006	ta	2006
 .	.	.
-
 23.1.2006	ta	23.1.2006
-
 Falinn	lkensf	falinn
 (	(	(
 Caché	e	Caché
 )	)	)
-
 Á	aþ	á
 frönsku	lveþvf	franskur
 kvikmyndahátíðinni	nveþg	kvikmyndahátíð
@@ -2797,7 +2638,6 @@ Auteuil	e	Auteuil
 í	aþ	í
 aðalhlutverkum	nhfþ	aðalhlutverk
 .	.	.
-
 Myndin	nveng	mynd
 hefur	sfg3en	hafa
 farið	ssg	fara
@@ -2814,7 +2654,6 @@ Cannes	e	Cannes
 síðastliðið	lheosf	síðastliðinn
 vor	nheo	vor
 .	.	.
-
 Hún	fpven	hún
 laut	sfg3eþ	lúta
 í	aþ	í
@@ -2839,7 +2678,6 @@ sérlega	aa	sérlega
 hrifin	lvensf	hrifinn
 af	aa	af
 .	.	.
-
 Caché	e	Caché
 fékk	sfg3eþ	fá
 hins	fakee	hinn
@@ -2858,7 +2696,6 @@ sérstök	lhfosf	sérstakur
 verðlaun	nhfo	verðlaun
 dómnefndar	nvee	dómnefnd
 .	.	.
-
 Hún	fpven	hún
 hlaut	sfg3eþ	hljóta
 auk	ae	auk
@@ -2866,7 +2703,6 @@ auk	ae	auk
 Evrópsku	lhfovf	evrópskur
 kvikmyndaverðlaunin	nhfog	kvikmyndaverðlaun
 .	.	.
-
 Myndin	nveng	mynd
 segir	sfg3en	segja
 frá	aþ	frá
@@ -2884,7 +2720,6 @@ menntaðrar	lveesf	menntaður
 millistéttar	nvee	millistétt
 Parísar	nvee-s	París
 .	.	.
-
 Eru	sfg3fn	vera
 í	aþ	í
 bókmenntaelítunni	nveþg	bókmenntaelíta
@@ -2901,7 +2736,6 @@ vinnur	sfg3en	vinna
 hjá	aþ	hjá
 útgáfu	nveþ	útgáfa
 .	.	.
-
 Lífið	nheng	líf
 fer	sfg3en	fara
 smám	aa	smám
@@ -2928,7 +2762,6 @@ heimili	nheo	heimili
 ógnvænlegum	lvfþsf	ógnvænlegur
 teikningum	nvfþ	teikning
 .	.	.
-
 Smám	aa	smám
 saman	aa	saman
 verða	sfg3fn	verða
@@ -2944,7 +2777,6 @@ hefur	sfg3en	hafa
 Georges	e	Georges
 lengi	aa	lengi
 .	.	.
-
 Leikstjóri	nken	leikstjóri
 myndarinnar	nveeg	mynd
 Michael	e	Michael
@@ -2965,7 +2797,6 @@ og	c	og
 Funny	e	Funny
 Games	e	Games
 .	.	.
-
 Hann	fpken	hann
 hefur	sfg3en	hafa
 einstakt	lheosf	einstakur
@@ -2983,7 +2814,6 @@ koma	sng	koma
 á	ao	á
 óvart	lheosf	óvar
 .	.	.
-
 Það	fpheo	það
 vita	sfg3fn	vita
 þeir	fakfn	sá
@@ -2994,7 +2824,6 @@ fyrri	lvfovm	fyrri
 myndir	nvfo	mynd
 hans	fpkee	hann
 .	.	.
-
 Falinn	lkensf	falinn
 er	sfg3en	vera
 hreint	aa	hreint
@@ -3015,7 +2844,6 @@ kvikuna	nveog	kvika
 en	c	en
 hinar	favfn	hinn
 .	.	.
-
 Tvö	tfhfn	tveir
 blóði	nheþ	blóð
 drifin	sþghfn	drífa
@@ -3048,7 +2876,6 @@ en	c	en
 hún	fpven	hún
 svarar	sfg3en	svara
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 svo	aa	svo
@@ -3080,7 +2907,6 @@ nánar	aam	náið
 við	ao	við
 tækifæri	nheo	tækifæri
 .	.	.
-
 Myndin	nveng	mynd
 er	sfg3en	vera
 tekin	sþgven	taka
@@ -3108,7 +2934,6 @@ Juliette	e	Juliette
 Binoche	e	Binoche
 ógreidd	lvensf	ógreiddur
 .	.	.
-
 Hún	fpven	hún
 er	sfg3en	vera
 ekki	aa	ekki
@@ -3143,7 +2968,6 @@ greiðu	nveþ	greiða
 gegnum	ao	gegnum
 hárið	nheog	hár
 .	.	.
-
 Og	c	og
 úfin	lvensf	úfinn
 eins	aa	eins
@@ -3162,7 +2986,6 @@ fara	sng	fara
 í	ao	í
 klippingu	nveo	klipping
 .	.	.
-
 Hún	fpven	hún
 verður	sfg3en	verða
 líka	aa	líka
@@ -3182,7 +3005,6 @@ Auteuil	e	Auteuil
 hlutverki	nheþ	hlutverk
 eiginmannsins	nkeeg	eiginmaður
 .	.	.
-
 Þau	fphfn	það
 leika	sfg3fn	leika
 bæði	c	bæði
@@ -3197,7 +3019,6 @@ aðra	fokfo	annar
 í	aþ	í
 myndinni	nveþg	mynd
 .	.	.
-
 Ein	tfven	einn
 af	aþ	af
 mörgum	lvfþsf	margur
@@ -3213,7 +3034,6 @@ er	sfg3en	vera
 byrjun	nveþ	byrjun
 myndarinnar	nveeg	mynd
 .	.	.
-
 Strax	aa	strax
 þá	aa	þá
 gerir	sfg3en	gera
@@ -3255,7 +3075,6 @@ eða	c	eða
 myndina	nveog	mynd
 sjálfa	fbveo	sjálfur
 .	.	.
-
 Haneke	e	Haneke
 lætur	sfg3en	láta
 líða	sng	líða
@@ -3272,7 +3091,6 @@ framan	aa	framan
 aðalleikkonu	nveo	aðalleikkona
 myndarinnar	nveeg	mynd
 .	.	.
-
 Juliette	e	Juliette
 Binoche	e	Binoche
 er	sfg3en	vera
@@ -3297,7 +3115,6 @@ hana	fpveo	hún
 frá	aþ	frá
 hlið	nveþ	hlið
 .	.	.
-
 Áhorfandinn	nkeng	áhorfandi
 fær	sfg3en	fá
 þó	aa	þó
@@ -3318,7 +3135,6 @@ fram	aa	fram
 hjá	aþ	hjá
 linsunni	nveþg	linsa
 .	.	.
-
 Allt	fohen	allur
 þetta	fahen	þessi
 lætur	sfg3en	láta
@@ -3338,7 +3154,6 @@ sé	svg3en	vera
 að	cn	að
 njósna	sng	njósna
 .	.	.
-
 Eins	aa	eins
 og	c	og
 þegar	c	þegar
@@ -3360,7 +3175,6 @@ að	cn	að
 vakta	sng	vakta
 svæði	nheo	svæði
 .	.	.
-
 Óþægindin	nhfng	óþægindi
 verða	sfg3fn	verða
 tvenns	lkeesf	tvennur
@@ -3397,7 +3211,6 @@ af	aþ	af
 ókunnugu	lheþsf	ókunnugur
 auga	nheþ	auga
 .	.	.
-
 Svo	aa	svo
 veit	sfg3en	vita
 maður	nken	maður
@@ -3409,7 +3222,6 @@ maður	nken	maður
 að	cn	að
 trúa	sng	trúa
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 oft	aa	oft
@@ -3430,7 +3242,6 @@ fólk	nhen	fólk
 að	cn	að
 brasa	sng	brasa
 .	.	.
-
 Á	aþ	á
 einum	tfkeþ	einn
 stað	nkeþ	staður
@@ -3443,7 +3254,6 @@ sjónvarpinu	nheþg	sjónvarp
 næstum	aa	næstum
 texta	nkeo	texti
 .	.	.
-
 Haneke	e	Haneke
 fjallar	sfg3en	fjalla
 líka	aa	líka
@@ -3464,7 +3274,6 @@ með	aþ	með
 hverju	foheþ	hver
 fótspori	nheþ	fótspor
 .	.	.
-
 En	c	en
 það	fphen	það
 eru	sfg3fn	vera
@@ -3473,7 +3282,6 @@ fletir	nkfn	flötur
 á	aþ	á
 myndinni	nveþg	mynd
 .	.	.
-
 Ekki	aa	ekki
 einungis	aa	einungis
 sá	faken	sá
@@ -3502,7 +3310,6 @@ undan	aþ	undan
 eigin	lveþof	eigin
 samvisku	nveþ	samviska
 .	.	.
-
 Þó	aa	þó
 maður	nken	maður
 reyni	svg3en	reyna
@@ -3518,7 +3325,6 @@ aldrei	aa	aldrei
 frá	aþ	frá
 henni	fpveþ	hún
 .	.	.
-
 Að	c	að
 hvernig	aa	hvernig
 sem	c	sem
@@ -3536,7 +3342,6 @@ aldrei	aa	aldrei
 í	aþ	í
 friði	nkeþ	friður
 .	.	.
-
 Nei	au	nei
 ,	,	,
 það	fphen	það
@@ -3564,7 +3369,6 @@ að	c	að
 sá	sfg1eþ	sjá
 hana	fpveo	hún
 .	.	.
-
 Og	c	og
 nú	aa	nú
 ætla	sfg1en	ætla
@@ -3580,7 +3384,6 @@ að	cn	að
 sjá	sng	sjá
 myndina	nveog	mynd
 .	.	.
-
 Það	fahen	sá
 sem	ct	sem
 ég	fp1en	ég
@@ -3597,7 +3400,6 @@ spillt	ssg	spilla
 fyrir	aþ	fyrir
 upplifuninni	nveþg	upplifun
 .	.	.
-
 Svo	aa	svo
 þeir	fakfn	sá
 sem	ct	sem
@@ -3635,7 +3437,6 @@ heimasíðunni	nveþg	heimasíða
 ,	,	,
 kvika.net	v	kvika.net
 .	.	.
-
 Alla	foveo	allur
 ævi	nveo	ævi
 hefur	sfg3en	hafa
@@ -3671,7 +3472,6 @@ vinnufólks	nhee	vinnufólk
 frá	aþ	frá
 Alsír	nheþ-s	Alsír
 .	.	.
-
 Afdrifaríkan	lkeosf	afdrifaríkur
 dag	nkeo	dagur
 ,	,	,
@@ -3696,7 +3496,6 @@ gegn	aþ	gegn
 nýlenduherrunum	nkfþg	nýlenduherra
 Frökkum	nkfþ-s	Frakki
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 svartur	lkensf	svartur
@@ -3713,7 +3512,6 @@ slátrað	sþghen	slátra
 í	aþ	í
 París	nveþ-s	París
 .	.	.
-
 Í	aþ	í
 myndinni	nveþg	mynd
 kemur	sfg3en	koma
@@ -3732,7 +3530,6 @@ að	cn	að
 ættleiða	sng	ættleiða
 drenginn	nkeog	drengur
 .	.	.
-
 Georges	e	Georges
 er	sfg3en	vera
 sex	tfhfe	sex
@@ -3763,7 +3560,6 @@ upp	aa	upp
 á	ao	á
 Majid	e	Majid
 .	.	.
-
 Alla	foveo	allur
 ævi	nveo	ævi
 hefur	sfg3en	hafa
@@ -3817,7 +3613,6 @@ fá	sng	fá
 góða	lveosf	góður
 menntun	nveo	menntun
 .	.	.
-
 Hann	fpken	hann
 hafi	svg3en	hafa
 jú	au	jú
@@ -3826,7 +3621,6 @@ verið	ssg	vera
 sex	tfhfe	sex
 ára	nhfe	ár
 .	.	.
-
 Georges	e	Georges
 lifir	sfg3en	lifa
 í	aþ	í
@@ -3843,7 +3637,6 @@ til	aa	til
 vill	sfg3en	vilja
 samviskubit	nhen	samviskubit
 .	.	.
-
 Í	ao	í
 lok	nhfo	lok
 myndarinnar	nveeg	mynd
@@ -3877,7 +3670,6 @@ saman	aa	saman
 undir	aþ	undir
 sæng	nveþ	sæng
 .	.	.
-
 Ef	c	ef
 vel	aa	vel
 er	sfg3en	vera
@@ -3892,7 +3684,6 @@ setja	sng	setja
 víðara	lheovm	víður
 samhengi	nheo	samhengi
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 Georges	e	Georges
@@ -3901,7 +3692,6 @@ og	c	og
 Majid	e	Majid
 innflytjendur	nkfn	innflytjandi
 .	.	.
-
 Frakkland	nhen-s	Frakkland
 lokar	sfg3en	loka
 augunum	nhfþg	auga
@@ -3917,12 +3707,10 @@ eins	aa	eins
 og	c	og
 Alsír	nhee-s	Alsír
 .	.	.
-
 Er	sfg3en	vera
 í	aþ	í
 afneitun	nveþ	afneitun
 .	.	.
-
 En	c	en
 það	fphen	það
 hlýtur	sfg3en	hljóta
@@ -3947,7 +3735,6 @@ fyrir	aþ	fyrir
 nokkrum	fokfþ	nokkur
 mánuðum	nkfþ	mánuður
 .	.	.
-
 Það	fphen	það
 þýðir	sfg3en	þýða
 ekki	aa	ekki
@@ -3971,7 +3758,6 @@ einstaklinga	nkfo	einstaklingur
 og	c	og
 þjóðir	nvfo	þjóð
 .	.	.
-
 Sektarkenndin	nveng	sektarkennd
 verður	sfg3en	verða
 heldur	aam	heldur
@@ -3979,7 +3765,6 @@ ekki	aa	ekki
 bæld	sþgven	bæla
 endalaust	aa	endalaust
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 meðal	ae	meðal
@@ -3997,7 +3782,6 @@ Michael	e	Michael
 Haneke	e	Haneke
 Falinn	lkensf	falinn
 .	.	.
-
 Georges	e	Georges
 er	sfg3en	vera
 líka	aa	líka
@@ -4016,7 +3800,6 @@ fyrir	aa	fyrir
 samfélagi	nheþ	samfélag
 þjóðanna	nvfeg	þjóð
 .	.	.
-
 Hrokinn	nkeng	hroki
 ,	,	,
 gamla	lvenvf	gamall
@@ -4028,7 +3811,6 @@ yfir	ao	yfir
 aðra	fokfo	annar
 hafin	sþgven	hefja
 .	.	.
-
 Köld	lvensf	kaldur
 ,	,	,
 virðuleg	lvensf	virðulegur
@@ -4037,7 +3819,6 @@ heldur	sfg3en	halda
 í	ao	í
 hefðirnar	nvfog	hefð
 .	.	.
-
 Ég	fp1en	ég
 gæti	svg1eþ	geta
 eytt	ssg	eyða
@@ -4053,7 +3834,6 @@ hér	aa	hér
 staðar	nkee	staður
 numið	sþghen	nema
 .	.	.
-
 Falinn	lkensf	falinn
 er	sfg3en	vera
 allavega	aa	allavega
@@ -4064,14 +3844,12 @@ mynd	nven	mynd
 um	ao	um
 samvisku	nveo	samviska
 .	.	.
-
 Samvisku	nveo	samviska
 einstaklings	nkee	einstaklingur
 og	c	og
 samvisku	nveo	samviska
 þjóða	nvfe	þjóð
 .	.	.
-
 Spurt	sþghen	spyrja
 er	sfg3en	vera
 á	sfg1en	eiga
@@ -4081,7 +3859,6 @@ gæta	sng	gæta
 bróður	nkee	bróðir
 míns	fekee	minn
 ?	?	?
-
 Alla	foveo	allur
 myndina	nveog	mynd
 heldur	sfg3en	halda
@@ -4100,13 +3877,11 @@ hjónin	nhfng	hjón
 fá	sfg3fn	fá
 send	sþghfo	senda
 .	.	.
-
 En	c	en
 svo	aa	svo
 er	sfg3en	vera
 ekki	aa	ekki
 .	.	.
-
 Michael	e	Michael
 Haneke	e	Haneke
 skilur	sfg3en	skilja
@@ -4134,7 +3909,6 @@ pirrings	nkee	pirringur
 koma	sfg3fn	koma
 heilabrot	nhfn	heilabrot
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 ennþá	aa	ennþá
@@ -4154,20 +3928,16 @@ einn	fokeo	einn
 góðan	lkeosf	góður
 veðurdag	nkeo	veðurdagur
 .	.	.
-
 Pistill	nken	pistill
 í	aþ	í
 Víðsjá	nveþ-s	Víðsjá
 23.	ta	23.
 janúar	nkeo	janúar
 2006	ta	2006
-
 14.8.2005	ta	14.8.2005
-
 Bíótónar	nkfn	bíótónn
 -	-	-
 gulur	lkensf	gulur
-
 Bíótónar	nkfn	bíótónn
 -	-	-
 4.	ta	4.
@@ -4175,14 +3945,12 @@ júní	nkeo	júní
 2005	ta	2005
 -	-	-
 Gulur	lkensf	gulur
-
 Heilir	lkfnsf	heill
 og	c	og
 sælir	lkfnsf	sæll
 hlustendur	nkfn	hlustandi
 góðir	lkfnsf	góður
 !	!	!
-
 Fyrst	aae	fyrr
 voru	sfg3fþ	vera
 kvikmyndir	nvfn	kvikmynd
@@ -4190,13 +3958,11 @@ ekki	aa	ekki
 í	aþ	í
 lit	nkeþ	litur
 .	.	.
-
 Samt	aa	samt
 skiptu	sfg3fþ	skipta
 litir	nkfn	litur
 máli	nheþ	mál
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 hreint	aa	hreint
@@ -4213,7 +3979,6 @@ var	sfg3eþ	vera
 á	ao	á
 litinn	nkeog	litur
 .	.	.
-
 Þeir	fakfn	sá
 sem	ct	sem
 unnu	sfg3fþ	vinna
@@ -4254,7 +4019,6 @@ svart	aa	svart
 hvítri	lveþsf	hvítur
 mynd	nveþ	mynd
 .	.	.
-
 Svo	aa	svo
 litir	nkfn	litur
 hafa	sfg3fn	hafa
@@ -4264,7 +4028,6 @@ máli	nheþ	mál
 í	aþ	í
 kvikmyndum	nvfþ	kvikmynd
 .	.	.
-
 En	c	en
 þeir	fpkfn	hann
 skipta	sfg3fn	skipta
@@ -4276,7 +4039,6 @@ nú	aa	nú
 til	ae	til
 dags	nkee	dagur
 .	.	.
-
 Sumir	fokfn	sumur
 kvikmyndaleikstjórar	nkfn	kvikmyndaleikstjóri
 nota	sfg3fn	nota
@@ -4284,7 +4046,6 @@ liti	nkfo	litur
 mjög	aa	mjög
 meðvitað	aa	meðvitað
 .	.	.
-
 Meðal	ae	meðal
 þeirra	fpkfe	hann
 eru	sfg3fn	vera
@@ -4302,7 +4063,6 @@ leikstjórinn	nkeng	leikstjóri
 Alfonso	e	Alfonso
 Cuarón	e	Cuarón
 .	.	.
-
 Aðrir	fokfn	annar
 nota	sfg3fn	nota
 liti	nkfo	litur
@@ -4316,7 +4076,6 @@ grein	nveo	grein
 fyrir	aþ	fyrir
 því	fpheþ	það
 .	.	.
-
 Oft	aa	oft
 er	sfg3en	vera
 það	fphen	það
@@ -4330,7 +4089,6 @@ noti	svg3fn	nota
 ekki	aa	ekki
 tákn	nhfo	tákn
 .	.	.
-
 En	c	en
 hefðir	nvfn	hefð
 fyrir	aþ	fyrir
@@ -4367,7 +4125,6 @@ eitthvað	fohen	einhver
 svo	aa	svo
 sjálfsagt	aa	sjálfsagt
 .	.	.
-
 Þannig	aa	þannig
 er	sfg3en	vera
 það	fphen	það
@@ -4376,7 +4133,6 @@ suma	fokfo	sumur
 leikstjóra	nkfo	leikstjóri
 líka	aa	líka
 ...	...	...
-
 þeir	fpkfn	hann
 segjast	sfm3fn	segja
 ekki	aa	ekki
@@ -4390,7 +4146,6 @@ gera	sfg3fn	gera
 það	fpheo	það
 ómeðvitað	aa	ómeðvitað
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 stundum	aa	stundum
@@ -4411,7 +4166,6 @@ nái	svg3fn	ná
 til	ae	til
 undirmeðvitundarinnar	nveeg	undirmeðvitund
 .	.	.
-
 Hver	foken	hver
 einasti	lkenvf	einasti
 litur	nken	litur
@@ -4424,7 +4178,6 @@ yfirlýsingu	nveo	yfirlýsing
 til	ae	til
 áhorfandans	nkeeg	áhorfandi
 .	.	.
-
 Hvernig	aa	hvernig
 áhorfandinn	nkeng	áhorfandi
 nemur	sfg3en	nema
@@ -4456,7 +4209,6 @@ haft	ssg	hafa
 á	ao	á
 viðkomandi	lkeoof	viðkomandi
 .	.	.
-
 Lita-sálarfræði	nven	litasálarfræði
 er	sfg3en	vera
 ónákvæm	lvensf	ónákvæmur
@@ -4475,7 +4227,6 @@ sem	ct	sem
 alvarleg	lvensf	alvarlegur
 vísindagrein	nven	vísindagrein
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 hefur	sfg3en	hafa
@@ -4487,7 +4238,6 @@ sú	faven	sá
 allra	fovfe	allur
 vinsælasta	lvenve	vinsæll
 .	.	.
-
 Litir	nkfn	litur
 tengjast	sfm3fn	tengja
 tilfinningum	nvfþ	tilfinning
@@ -4497,7 +4247,6 @@ hafa	sfg3fn	hafa
 á	ao	á
 undirmeðvitundina	nveog	undirmeðvitund
 .	.	.
-
 Flestir	lkfnse	margur
 hafa	sfg3fn	hafa
 heyrt	ssg	heyra
@@ -4536,7 +4285,6 @@ spennandi	lkfnof	spennandi
 og	c	og
 líflegir	lkfnsf	líflegur
 .	.	.
-
 Gulur	lkensf	gulur
 ,	,	,
 rauður	lkensf	rauður
@@ -4559,7 +4307,6 @@ byrja	sfg1en	byrja
 gula	lkeþvf	gulur
 litnum	nkeþg	litur
 .	.	.
-
 Í	aþ	í
 þættinum	nkeþg	þáttur
 ætla	sfg1en	ætla
@@ -4587,7 +4334,6 @@ kvikmyndanna	nvfeg	kvikmynd
 eða	c	eða
 söngvanna	nkfeg	söngur
 .	.	.
-
 Fyrst	aae	fyrr
 er	sfg3en	vera
 það	fphen	það
@@ -4608,7 +4354,6 @@ sem	c	sem
 gul	lvensf	gulur
 kvikmynd	nven	kvikmynd
 .	.	.
-
 Tvöfalt	lhensf	tvöfaldur
 líf	nhen	líf
 Veroníku	e	Veroníku
@@ -4616,7 +4361,6 @@ eftir	ao	eftir
 Krysztof	e	Krysztof
 Kieslowski	e	Kieslowski
 .	.	.
-
 Pólski	lkenvf	pólskur
 leikstjórinn	nkeng	leikstjóri
 Krysztof	e	Krysztof
@@ -4640,7 +4384,6 @@ mars	nkeo	mars
 eftir	ao	eftir
 hjartaaðgerð	nveo	hjartaaðgerð
 .	.	.
-
 Eftir	ao	eftir
 Kieslowski	e	Kieslowski
 liggja	sfg3fn	liggja
@@ -4654,7 +4397,6 @@ og	c	og
 leiknar	lvfnsf	leikinn
 kvikmyndir	nvfn	kvikmynd
 .	.	.
-
 Þær	fpvfn	hún
 myndir	nvfn	mynd
 Kieslowski	e	Kieslowski
@@ -4687,7 +4429,6 @@ líf	nheo	líf
 Veróníku	nvee-s	Veróníka
 »	»	»
 .	.	.
-
 Þó	aa	þó
 Kieslowski	e	Kieslowski
 hafi	svg3en	hafa
@@ -4719,7 +4460,6 @@ umheimsins	nkeeg	umheimur
 á	aþ	á
 honum	fpkeþ	hann
 .	.	.
-
 Myndin	nveng	mynd
 skoðar	sfg3en	skoða
 mannlegt	lheosf	mannlegur
@@ -4747,7 +4487,6 @@ myndataka	nven	myndataka
 Slawomir	e	Slawomir
 Idziak	e	Idziak
 .	.	.
-
 Sagan	nveng	saga
 segir	sfg3en	segja
 frá	aþ	frá
@@ -4766,7 +4505,6 @@ hin	faven	hinn
 í	aþ	í
 Frakklandi	nheþ-s	Frakkland
 .	.	.
-
 Á	ao	á
 óútskýranlegan	lkeosf	óútskýranlegur
 hátt	nkeo	háttur
@@ -4781,7 +4519,6 @@ með	ao	með
 að	cn	að
 skilja	sng	skilja
 .	.	.
-
 Kieslowski	e	Kieslowski
 sagði	sfg3eþ	segja
 um	ao	um
@@ -4799,7 +4536,6 @@ um	ao	um
 viðkvæmt	lheosf	viðkvæmur
 fólk	nheo	fólk
 .	.	.
-
 Yfir	aþ	yfir
 myndinni	nveþg	mynd
 allri	foveþ	allur
@@ -4826,7 +4562,6 @@ leikmynd	nveþ	leikmynd
 og	c	og
 búningum	nkfþ	búningur
 .	.	.
-
 Gulur	lkensf	gulur
 litur	nken	litur
 getur	sfg3en	geta
@@ -4834,7 +4569,6 @@ staðið	ssg	standa
 fyrir	ao	fyrir
 margt	lheosf	margur
 .	.	.
-
 Það	fphen	það
 fer	sfg3en	fara
 mikið	lhensf	mikill
@@ -4851,7 +4585,6 @@ samhengið	nheng	samhengi
 máli	nheþ	mál
 líka	aa	líka
 .	.	.
-
 Allir	fokfn	allur
 litir	nkfn	litur
 hafa	sfg3fn	hafa
@@ -4861,7 +4594,6 @@ og	c	og
 neikvæða	lveosf	neikvæður
 merkingu	nveo	merking
 .	.	.
-
 Jákvæð	lvensf	jákvæður
 merking	nven	merking
 þess	fakee	sá
@@ -4881,7 +4613,6 @@ hugmyndaflugi	nheþ	hugmyndaflug
 og	c	og
 hlýju	nveþ	hlýja
 .	.	.
-
 Og	c	og
 það	fphen	það
 er	sfg3en	vera
@@ -4902,7 +4633,6 @@ er	sfg3en	vera
 litur	nken	litur
 jarðarinnar	nveeg	jörð
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 getur	sfg3en	geta
@@ -4925,7 +4655,6 @@ tvöfeldni	nveo	tvöfeldni
 og	c	og
 heigulshátt	nkeo	heigulsháttur
 .	.	.
-
 Enginn	foken	enginn
 litur	nken	litur
 er	sfg3en	vera
@@ -4949,7 +4678,6 @@ fólk	nheo	fólk
 við	aþ	við
 hættu	nveþ	hætta
 .	.	.
-
 Í	aþ	í
 umferðinni	nveþg	umferð
 eða	c	eða
@@ -4958,7 +4686,6 @@ tengslum	nhfþ	tengsl
 við	ao	við
 eiturefni	nhfo	eiturefni
 .	.	.
-
 Augun	nhfng	auga
 eiga	sfg3fn	eiga
 erfitt	lheosf	erfiður
@@ -4971,7 +4698,6 @@ af	aþ	af
 skærgulum	lkeþsf	skærgulur
 lit	nkeþ	litur
 .	.	.
-
 Gul	lvensf	gulur
 rós	nven	rós
 er	sfg3en	vera
@@ -4985,14 +4711,12 @@ rósir	nvfn	rós
 tákna	sfg3fn	tákna
 ást	nveo	ást
 .	.	.
-
 Guli	lkenvf	gulur
 liturinn	nkeng	litur
 er	sfg3en	vera
 líka	aa	líka
 andlegur	lkensf	andlegur
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 litur	nken	litur

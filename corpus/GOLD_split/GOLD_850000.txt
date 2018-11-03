@@ -33,7 +33,6 @@ mæling	nven	mæling
 fer	sfg3en	fara
 fram	aa	fram
 .	.	.
-
 Það	fphen	það
 gefur	sfg3en	gefa
 skýra	lveosf	skýr
@@ -51,7 +50,6 @@ sér	fpveþ	sig
 raunverulega	aa	raunverulega
 stað	nkeo	staður
 .	.	.
-
 Afstæðiskenningin	nveng	afstæðiskenning
 stendur	sfg3en	standa
 hins	fakee	hinn
@@ -91,7 +89,6 @@ hraða	nkeþ	hraði
 en	c	en
 ljóshraða	nkeþ	ljóshraði
 .	.	.
-
 Þegar	c	þegar
 Bell	e	Bell
 skoðaði	sfg3eþ	skoða
@@ -134,7 +131,6 @@ heldur	c	heldur
 beinlínis	aa	beinlínis
 röng	lvensf	rangur
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 ,	,	,
@@ -161,7 +157,6 @@ vera	sng	vera
 svo	aa	svo
 fráleit	lvensf	fráleitur
 .	.	.
-
 Nú	aa	nú
 eru	sfg3fn	vera
 til	aa	til
@@ -183,7 +178,6 @@ allar	fovfn	allur
 niðurstöður	nvfo	niðurstaða
 skammtafræðinnar	nveeg	skammtafræði
 .	.	.
-
 «	«	«
 Ójafna	nven	ójafna
 Bells	e	Bells
@@ -194,7 +188,6 @@ framtíðarinnar	nveeg	framtíð
 skýr	lhfosf	skýr
 mörk	nhfo	mark
 .	.	.
-
 Hún	fpven	hún
 sýnir	sfg3en	sýna
 betur	aam	vel
@@ -230,7 +223,6 @@ við	aa	við
 skammtafræði	nveþ	skammtafræði
 .	.	.
 '	'	'
-
 Staðfesting	nven	staðfesting
 skammtafræðinnar	nveeg	skammtafræði
 var	sfg3eþ	vera
@@ -239,7 +231,6 @@ töluvert	lhensf	töluverður
 fyrir	ao	fyrir
 vísindasamfélagið	nheog	vísindasamfélag
 .	.	.
-
 Ekki	aa	ekki
 vegna	ae	vegna
 þess	fphee	það
@@ -287,7 +278,6 @@ ekki	aa	ekki
 möguleika	nkeþ	möguleiki
 )	)	)
 .	.	.
-
 Áfallið	nheng	áfall
 kom	sfg3eþ	koma
 til	aa	til
@@ -304,7 +294,6 @@ sjálfri	fbveþ	sjálfur
 sér	fpveþ	sig
 staðlaus	lvensf	staðlaus
 .	.	.
-
 Staðleysa	nven	staðleysa
 í	aþ	í
 formi	nheþ	form
@@ -339,7 +328,6 @@ engar	fovfo	enginn
 efnislegar	lvfosf	efnislegur
 afleiðingar	nvfo	afleiðing
 .	.	.
-
 Sú	faven	sá
 von	nven	von
 er	sfg3en	vera
@@ -359,7 +347,6 @@ og	c	og
 afleiðingum	nvfþ	afleiðing
 hennar	fpvee	hún
 .	.	.
-
 Orsakaáhrif	nhfn	orsakaáhrif
 sem	ct	sem
 ferðast	sfm3fn	ferðast
@@ -407,7 +394,6 @@ vægast	aae	vægt
 sagt	sþghen	segja
 hörmulegt	lhensf	hörmulegur
 .	.	.
-
 Spurningin	nveng	spurning
 er	sfg3en	vera
 því	aa	því
@@ -445,7 +431,6 @@ sem	ct	sem
 geta	sfg3fn	geta
 fylgt	ssg	fylgja
 ?	?	?
-
 Ef	c	ef
 við	fp1fn	ég
 hugum	sfg1fn	huga
@@ -470,7 +455,6 @@ rafeindinni	nveþg	rafeind
 á	ao	á
 jáeindina	nveog	jáeind
 ?	?	?
-
 Vissulega	aa	vissulega
 gerir	sfg3en	gera
 hún	fpven	hún
@@ -485,7 +469,6 @@ samræmið	nheog	samræmi
 í	aþ	í
 niðurstöðunum	nvfþg	niðurstaða
 .	.	.
-
 En	c	en
 orsakar	sfg3en	orsaka
 mæling	nven	mæling
@@ -498,7 +481,6 @@ jáeindin	nveng	jáeind
 yrði	svg3eþ	verða
 mæld	sþgven	mæla
 ?	?	?
-
 Svarið	nheng	svar
 sem	ct	sem
 eðlisfræðingar	nkfn	eðlisfræðingur
@@ -520,7 +502,6 @@ orðsins	nheeg	orð
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 Það	fphen	það
 þarf	sfg3en	þurfa
 því	aa	því
@@ -565,7 +546,6 @@ tveggja	tfhfe	tveir
 aðskildra	lhfesf	aðskilinn
 kerfa	nhfe	kerfi
 .	.	.
-
 Orsakasambönd	nhfn	orsakasamband
 geta	sfg3fn	geta
 ekki	aa	ekki
@@ -590,7 +570,6 @@ að	cn	að
 geta	sng	geta
 það	fpheo	það
 .	.	.
-
 Áhrif	nhfn	áhrif
 hruns	nhee	hrun
 bylgjujöfnunnar	nveeg	bylgjujafna
@@ -622,7 +601,6 @@ veru	nveþ	vera
 ekki	aa	ekki
 stóráfall	nhen	stóráfall
 .	.	.
-
 Jakob	nken-s	Jakob
 Yngvason	nken-s	Yngvason
 segir	sfg3en	segja
@@ -639,7 +617,6 @@ fram	aa	fram
 EPR	as	EPR
 þversögninni	nveþg	þversögn
 .	.	.
-
 Annars	fokee	annar
 vegar	nkee	vegur
 «	«	«
@@ -689,7 +666,6 @@ tilteknum	lhfþsf	tiltekinn
 náttúrufyrirbærum	nhfþ	náttúrufyrirbæri
 .	.	.
 »	»	»
-
 Hann	fpken	hann
 gengur	sfg3en	ganga
 enn	aa	enn
@@ -721,7 +697,6 @@ skilgreiningu	nveo	skilgreining
 of	aa	of
 þrönga	lveosf	þröngur
 .	.	.
-
 3.4	ta	3.4
 KÖTTUR	nken	köttur
 SCHRÖDINGERS	e	SCHRÖDINGERS
@@ -732,7 +707,6 @@ undarleg	lhfosf	undarlegur
 í	aþ	í
 skammtafræði	nveþ	skammtafræði
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 þar	aa	þar
@@ -749,7 +723,6 @@ meðfylgjandi	lhfnof	meðfylgjandi
 vandamál	nhfn	vandamál
 rísa	sfg3fn	rísa
 .	.	.
-
 Án	ae	án
 mælingar	nvee	mæling
 þróast	sfm3en	þróa
@@ -773,7 +746,6 @@ ekkert	fohen	enginn
 við	ao	við
 það	fpheo	það
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 hið	ghen	hinn
@@ -794,13 +766,11 @@ hún	fpven	hún
 hvílir	sfg3en	hvíla
 í	aa	í
 .	.	.
-
 En	c	en
 hvað	fshen	hver
 er	sfg3en	vera
 mæling	nven	mæling
 ?	?	?
-
 Afhverju	aa	afhverju
 er	sfg3en	vera
 hún	fpven	hún
@@ -810,7 +780,6 @@ svona	aa	svona
 eðlisfræðilegum	lvfþsf	eðlisfræðilegur
 framkvæmdum	nvfþ	framkvæmd
 ?	?	?
-
 Hvenær	aa	hvenær
 vitum	sfg1fn	vita
 við	fp1fn	ég
@@ -820,7 +789,6 @@ hefur	sfg3en	hafa
 farið	ssg	fara
 fram	aa	fram
 ?	?	?
-
 Schrödinger	e	Schrödinger
 setti	sfg3eþ	setja
 fram	aa	fram
@@ -847,7 +815,6 @@ inniheldur	sfg3en	innihalda
 geislavirkt	lheosf	geislavirkur
 efni	nheo	efni
 .	.	.
-
 Í	aþ	í
 klefanum	nkeþg	klefi
 er	sfg3en	vera
@@ -859,7 +826,6 @@ flaska	nven	flaska
 af	aþ	af
 blásýru	nveþ	blásýra
 .	.	.
-
 Tíminn	nkeng	tími
 sem	ct	sem
 Geigerteljarinn	nkengs	Geigerteljari
@@ -889,7 +855,6 @@ sér	fpheþ	sig
 á	aþ	á
 tímabilinu	nheþg	tímabil
 .	.	.
-
 Ef	c	ef
 efnið	nheng	efni
 hrörnar	sfg3en	hrörna
@@ -907,7 +872,6 @@ með	aa	með
 drepst	sfm3en	drepa
 kötturinn	nkeng	köttur
 .	.	.
-
 Ef	c	ef
 efnið	nheng	efni
 nær	sfg3en	ná
@@ -928,7 +892,6 @@ og	c	og
 kötturinn	nkeng	köttur
 lifir	sfg3en	lifa
 .	.	.
-
 Fyrir	ao	fyrir
 þá	fakfo	sá
 sem	ct	sem
@@ -950,7 +913,6 @@ kassinn	nkeng	kassi
 er	sfg3en	vera
 opnaður	sþgken	opna
 .	.	.
-
 Á	aþ	á
 þeim	fakeþ	sá
 tímapunkti	nkeþ	tímapunktur
@@ -972,7 +934,6 @@ eða	c	eða
 lifandi	lkenof	lifandi
 köttur	nken	köttur
 .	.	.
-
 Vandamálið	nheng	vandamál
 er	sfg3en	vera
 hins	fakee	hinn
@@ -1001,7 +962,6 @@ af	aþ	af
 báðum	fohfþ	báðir
 gildum	nhfþ	gildi
 .	.	.
-
 Annað	fohen	annar
 og	c	og
 jafnvel	aa	jafnvel
@@ -1029,7 +989,6 @@ hlið	nveþ	hlið
 að	aþ	að
 utanverðu	lheþsf	utanverður
 .	.	.
-
 Nú	aa	nú
 er	sfg3en	vera
 ljóseind	nveþ	ljóseind
@@ -1037,7 +996,6 @@ skotið	sþghen	skjóta
 á	ao	á
 spegilinn	nkeog	spegill
 .	.	.
-
 «	«	«
 Setjum	svg1fn	setja
 svo	aa	svo
@@ -1061,7 +1019,6 @@ inni	aa	inni
 lokuðum	lkeþsf	lokaður
 kassa	nkeþ	kassi
 .	.	.
-
 Ef	c	ef
 ljóseindin	nveng	ljóseind
 speglast	sfm3en	spegla
@@ -1073,7 +1030,6 @@ og	c	og
 kötturinn	nkeng	köttur
 lifir	sfg3en	lifa
 .	.	.
-
 Hin	gven	hinn
 mótsagnakennda	lvenvf	mótsagnakenndur
 niðurstaða	nven	niðurstaða
@@ -1101,7 +1057,6 @@ athugun	nven	athugun
 fer	sfg3en	fara
 fram	aa	fram
 .	.	.
-
 En	c	en
 ef	c	ef
 ljóseindin	nveng	ljóseind
@@ -1124,7 +1079,6 @@ ekki	aa	ekki
 drepa	sng	drepa
 köttinn	nkeog	köttur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 því	aa	því
@@ -1151,7 +1105,6 @@ dauður	lkensf	dauður
 eða	c	eða
 lifandi	lkenof	lifandi
 .	.	.
-
 Og	c	og
 ef	c	ef
 hann	fpken	hann
@@ -1173,7 +1126,6 @@ kíkja	sng	kíkja
 í	ao	í
 kassann	nkeog	kassi
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 augljóslega	aa	augljóslega
@@ -1191,7 +1143,6 @@ vandamálið	nheog	vandamál
 annan	fokeo	annar
 hátt	nkeo	háttur
 .	.	.
-
 Vel	aa	vel
 mætti	svg3eþ	mega
 hugsa	sng	hugsa
@@ -1215,7 +1166,6 @@ bylgjujöfnunni	nveþg	bylgjujafna
 ákveðið	lheosf	ákveðinn
 gildi	nheo	gildi
 .	.	.
-
 En	c	en
 í	aþ	í
 því	faheþ	sá
@@ -1235,7 +1185,6 @@ kannski	aa	kannski
 bara	aa	bara
 einfrumungur	nken	einfrumungur
 ?	?	?
-
 Hvað	fshen	hver
 ef	c	ef
 kettinum	nkeþg	köttur
@@ -1267,7 +1216,6 @@ kattartilraun	nveþ	kattartilraun
 Schrödingers	e	Schrödingers
 )	)	)
 .	.	.
-
 Manneskjan	nveng	manneskja
 getur	sfg3en	geta
 vissulega	aa	vissulega
@@ -1293,7 +1241,6 @@ kassinn	nkeng	kassi
 er	sfg3en	vera
 opnaður	sþgken	opna
 .	.	.
-
 Schrödinger	e	Schrödinger
 sjálfur	fbken	sjálfur
 talaði	sfg3eþ	tala
@@ -1309,7 +1256,6 @@ eru	sfg3fn	vera
 sammála	lkfnof	sammála
 honum	fpkeþ	hann
 .	.	.
-
 «	«	«
 Það	fphen	það
 er	sfg3en	vera
@@ -1333,7 +1279,6 @@ augljóslega	aa	augljóslega
 ólíkum	lhfþsf	ólíkur
 gildum	nhfþ	gildi
 .	.	.
-
 Rafeind	nven	rafeind
 getur	sfg3en	geta
 verið	ssg	vera
@@ -1361,7 +1306,6 @@ eða	c	eða
 dauða	nkeþ	dauði
 .	.	.
 »	»	»
-
 Viðtekna	lvenvf	viðtekinn
 lausnin	nveng	lausn
 á	aþ	á
@@ -1384,7 +1328,6 @@ rannsakandinn	nkeng	rannsakandi
 athugi	svg3en	athuga
 málið	nheog	mál
 .	.	.
-
 Mælingin	nveng	mæling
 á	sfg3en	eiga
 sér	fpveþ	sig
@@ -1404,7 +1347,6 @@ sig	fpheo	sig
 varanleg	lhfosf	varanlegur
 áhrif	nhfo	áhrif
 .	.	.
-
 David	e	David
 J.	as	J.
 Griffith	e	Griffith
@@ -1474,7 +1416,6 @@ mælingar	nvee	mæling
 í	aþ	í
 skammtafræði	nveþ	skammtafræði
 .	.	.
-
 Hluti	nken	hluti
 af	aþ	af
 vandamálinu	nheþg	vandamál
@@ -1491,7 +1432,6 @@ til	ae	til
 mannlegra	lhfesf	mannlegur
 afskipta	nhfe	afskipti
 .	.	.
-
 Heisenberg	e	Heisenberg
 lagði	sfg3eþ	leggja
 til	ae	til
@@ -1528,7 +1468,6 @@ uppi	aa	uppi
 með	ao	með
 það	fpheo	það
 .	.	.
-
 Og	c	og
 þegar	c	þegar
 öllu	foheþ	allur
@@ -1547,7 +1486,6 @@ draug	nkeo	draugur
 niður	aa	niður
 .	.	.
 »	»	»
-
 Þó	aa	þó
 það	fphen	það
 séu	svg3fn	vera
@@ -1582,7 +1520,6 @@ sé	svg3en	vera
 hálfdauði	lkenvf	hálfdauður
 kötturinn	nkeng	köttur
 .	.	.
-
 Þó	aa	þó
 sumum	fovfþ	sumur
 takist	svm3en	taka
@@ -1601,7 +1538,6 @@ sem	ct	sem
 tengist	sfm3en	tengja
 mælingunni	nveþg	mæling
 .	.	.
-
 Þangað	aa	þangað
 til	aa	til
 betri	lvenvm	góður
@@ -1621,7 +1557,6 @@ hluti	nken	hluti
 af	aþ	af
 henni	fpveþ	hún
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 því	aa	því
@@ -1657,7 +1592,6 @@ nálægt	aþ	nálægt
 henni	fpveþ	hún
 .	.	.
 »	»	»
-
 3.5	ta	3.5
 MARGRAHEIMATÚLKUNIN	nveng	margraheimatúlkun
 Margraheimatúlkunin	nveng	margraheimatúlkun
@@ -1680,7 +1614,6 @@ allar	fovfo	allur
 þversagnir	nvfo	þversögn
 skammtafræðinnar	nveeg	skammtafræði
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 hennir	x	hún
 er	sfg3en	vera
@@ -1704,7 +1637,6 @@ sinn	fekeo	sinn
 eigin	lkeoof	eigin
 heim	nkeo	heimur
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 sett	sþgven	setja
@@ -1738,7 +1670,6 @@ mögulegar	lvfnsf	mögulegur
 mælingarinnar	nveeg	mæling
 eru	sfg3fn	vera
 .	.	.
-
 Hver	foven	hver
 möguleg	lvensf	mögulegur
 útkoma	nven	útkoma
@@ -1759,7 +1690,6 @@ að	aþ	að
 öðru	foheþ	annar
 leyti	nheþ	leyti
 .	.	.
-
 Ólík	x	ólíkur
 vísindaskáldsögum	nvfþ	vísindaskáldsaga
 þar	aa	þar
@@ -1792,7 +1722,6 @@ sín	fpkfe	sig
 á	aa	á
 milli	ae	milli
 .	.	.
-
 Þó	aa	þó
 þessi	faven	þessi
 kenning	nven	kenning
@@ -1809,7 +1738,6 @@ um	ao	um
 kött	nkeo	köttur
 Schrödingers	e	Schrödingers
 .	.	.
-
 Í	ao	í
 stað	nkeo	staður
 eins	tfkee	einn
@@ -1829,7 +1757,6 @@ er	sfg3en	vera
 á	aþ	á
 lífi	nheþ	líf
 .	.	.
-
 Þessi	faven	þessi
 kenning	nven	kenning
 leysir	sfg3en	leysa
@@ -1839,7 +1766,6 @@ vandann	nkeog	vandi
 um	ao	um
 mælingu	nveo	mæling
 .	.	.
-
 Ef	c	ef
 alheimurinn	nkeng	alheimur
 margfaldast	sfm3en	margfalda
@@ -1879,7 +1805,6 @@ hér	aa	hér
 að	aa	að
 ofan	aa	ofan
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 vegna	ae	vegna
@@ -1920,7 +1845,6 @@ heimum	nkfþ	heimur
 í	aþ	í
 einu	lheþsf	einn
 .	.	.
-
 Margraheimatúlkunin	nveng	margraheimatúlkun
 hefur	sfg3en	hafa
 ekki	aa	ekki
@@ -1946,7 +1870,6 @@ hægt	lhensf	hægur
 að	cn	að
 staðfesta	sng	staðfesta
 .	.	.
-
 En	c	en
 þrátt	aa	þrátt
 fyrir	ao	fyrir
@@ -1969,7 +1892,6 @@ galin	lvensf	galinn
 nútíma	nkee	nútími
 eðlisfræði	nveþ	eðlisfræði
 .	.	.
-
 Nú	aa	nú
 eru	sfg3fn	vera
 til	aa	til
@@ -2026,7 +1948,6 @@ eru	sfg3fn	vera
 öðru	foheþ	annar
 tilverustigi	nheþ	tilverustig
 .	.	.
-
 3.6	ta	3.6
 SKAMMTASJÁLFSMORÐ	nhen	skammtasjálfsmorð
 Skammtasjálfsmorð	nhen	skammtasjálfsmorð
@@ -2060,7 +1981,6 @@ hvor	foken	hvor
 sínu	feheþ	sinn
 lagi	nheþ	lag
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 þróuð	sþgven	þróa
@@ -2082,7 +2002,6 @@ og	c	og
 Margraheimatúlkunar	nvee-s	margraheimatúlkun
 Everetts	e	Everetts
 .	.	.
-
 Hún	fpven	hún
 er	sfg3en	vera
 tilbrigði	nhen	tilbrigði
@@ -2102,7 +2021,6 @@ frá	aþ	frá
 sjónarhorni	nheþ	sjónarhorn
 kattarins	nkeeg	köttur
 .	.	.
-
 Í	aþ	í
 tilrauninni	nveþg	tilraun
 situr	sfg3en	sitja
@@ -2120,7 +2038,6 @@ tiltekið	lhensf	tiltekinn
 efni	nhen	efni
 hrörnar	sfg3en	hrörna
 .	.	.
-
 Í	ao	í
 hvert	foheo	hver
 skipti	nheo	skipti
@@ -2141,7 +2058,6 @@ og	c	og
 drepi	svg3en	drepa
 eðlisfræðinginn	nkeog	eðlisfræðingur
 .	.	.
-
 Ef	c	ef
 Kaupmannahafnartúlkunin	nvengs	Kaupmannahafnartúlkun
 er	sfg3en	vera
@@ -2159,7 +2075,6 @@ skot	nheo	skot
 og	c	og
 deyja	sng	deyja
 .	.	.
-
 Ef	c	ef
 margraheimatúlkunin	nveng	margraheimatúlkun
 er	sfg3en	vera
@@ -2191,7 +2106,6 @@ hinum	fakeþ	hinn
 lifir	sfg3en	lifa
 hann	fpken	hann
 .	.	.
-
 Þeim	fakeþ	sá
 mun	nkeþ	munur
 oftar	aam	oft
@@ -2206,7 +2120,6 @@ heimar	nkfn	heimur
 verða	sfg3fn	verða
 til	aa	til
 .	.	.
-
 Í	aþ	í
 þeim	fakfþ	sá
 heimum	nkfþ	heimur
@@ -2222,7 +2135,6 @@ að	cn	að
 vera	sng	vera
 til	aa	til
 .	.	.
-
 En	c	en
 frá	aþ	frá
 sjónarhorni	nheþ	sjónarhorn
@@ -2261,7 +2173,6 @@ lifir	sfg3en	lifa
 tilraunina	nveog	tilraun
 af	aa	af
 .	.	.
-
 Það	fphen	það
 þýðir	sfg3en	þýða
 að	c	að
@@ -2280,7 +2191,6 @@ hann	fpken	hann
 deyr	sfg3en	deyja
 aldrei	aa	aldrei
 .	.	.
-
 Því	fpheþ	það
 miður	aam	lítt
 getur	sfg3en	geta
@@ -2315,7 +2225,6 @@ er	sfg3en	vera
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 Útúrdúr	nken	útúrdúr
 við	ao	við
 þessa	faveo	þessi
@@ -2353,7 +2262,6 @@ af	aa	af
 öðrum	fokeþ	annar
 heiminum	nkeþg	heimur
 .	.	.
-
 3.7	ta	3.7
 ENGIN	fohfn	enginn
 VANDAMÁL	nhfn	vandamál
@@ -2373,7 +2281,6 @@ vandamál	nhfn	vandamál
 tengd	sþghfn	tengja
 skammtafræðinni	nveþg	skammtafræði
 .	.	.
-
 Sú	faven	sá
 afstaða	nven	afstaða
 greinist	sfm3en	greina
@@ -2419,7 +2326,6 @@ hjá	aþ	hjá
 öllum	fohfþ	allur
 vandamálum	nhfþ	vandamál
 .	.	.
-
 Jakob	nken-s	Jakob
 Yngvason	nken-s	Yngvason
 er	sfg3en	vera
@@ -2452,7 +2358,6 @@ eru	sfg3fn	vera
 mannanna	nkfeg	maður
 verk	nhfn	verk
 .	.	.
-
 Hann	fpken	hann
 segir	sfg3en	segja
 að	c	að
@@ -2507,7 +2412,6 @@ en	c	en
 kenningum	nvfþ	kenning
 eðlisfræðinnar	nveeg	eðlisfræði
 .	.	.
-
 Þessu	faheþ	þessi
 mótmælir	sfg3en	mótmæla
 hann	fpken	hann
@@ -2543,7 +2447,6 @@ athuganda	nkeþ	athugandi
 »	»	»
 komin	x	koma
 .	.	.
-
 Í	aþ	í
 hinum	gvfþ	hinn
 risavöxnu	lvfþvf	risavaxinn
@@ -2569,7 +2472,6 @@ maður	nken	maður
 komi	svg3en	koma
 nærri	aa	nærri
 .	.	.
-
 Í	aþ	í
 þessum	fahfþ	þessi
 tilvikum	nhfþ	tilvik
@@ -2586,7 +2488,6 @@ minnsta	lhenve	lítill
 við	aa	við
 .	.	.
 »	»	»
-
 Í	aþ	í
 öðru	lheþsf	öðr
 lagi	nheþ	lag
@@ -2605,7 +2506,6 @@ kerfa	nhfe	kerfi
 (	(	(
 «	«	«
 agna	nvfe	ögn
-
 )	)	)
 og	c	og
 að	c	að
@@ -2627,7 +2527,6 @@ athugun	nven	athugun
 fer	sfg3en	fara
 fram	aa	fram
 .	.	.
-
 Hann	fpken	hann
 segir	sfg3en	segja
 að	c	að
@@ -2647,7 +2546,6 @@ athugandans	nkeeg	athugandi
 á	aþ	á
 kerfinu	nheþg	kerfi
 .	.	.
-
 En	c	en
 þekking	nven	þekking
 athugandans	nkeeg	athugandi
@@ -2662,7 +2560,6 @@ við	ao	við
 niðurstöðu	nveo	niðurstaða
 mælingar	nvee	mæling
 .	.	.
-
 Í	aþ	í
 þriðja	lheþvf	þriðji
 lagi	nheþ	lag
@@ -2698,7 +2595,6 @@ er	sfg3en	vera
 að	cn	að
 athuga	sng	athuga
 .	.	.
-
 Óvissulögmál	nhen	óvissulögmál
 Heisenbergs	e	Heisenbergs
 hefur	sfg3en	hafa
@@ -2712,7 +2608,6 @@ af	aþ	af
 eðli	nheþ	eðli
 efnisheimsins	nkeeg	efnisheimur
 .	.	.
-
 Að	aþ	að
 öllu	foheþ	allur
 samanlögðu	lheþsf	samanlagður
@@ -2731,7 +2626,6 @@ skammtafræði	nven	skammtafræði
 er	sfg3en	vera
 túlkuð	sþgven	túlka
 .	.	.
-
 Annars	fokee	annar
 vegar	nkee	vegur
 tölfræðilegu	lveovf	tölfræðilegur
@@ -2749,7 +2643,6 @@ bylgjuföll	nhfo	bylgjufall
 einstakra	lhfesf	einstakur
 kerfa	nhfe	kerfi
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 túlkun	nveo	túlkun
@@ -2767,7 +2660,6 @@ hafi	svg3en	hafa
 ákveðið	ssg	ákveða
 bylgjufall	nheo	bylgjufall
 .	.	.
-
 Þá	aa	þá
 verða	sfg3fn	verða
 menn	nkfn	maður
@@ -2786,7 +2678,6 @@ bylgjupakkans	nkeeg	bylgjupakki
 ...	...	...
 ]	]	]
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 sjálfur	fbken	sjálfur
@@ -2802,7 +2693,6 @@ kostinn	nkeog	kostur
 skynsamlegri	lkeovm	skynsamlegur
 .	.	.
 »	»	»
-
 3.8	ta	3.8
 SKAMMTAFRÆÐI	nven	skammtafræði
 OG	c	og
@@ -2814,7 +2704,6 @@ trúarbragða	nhfe	trúarbrögð
 eru	sfg3fn	vera
 léleg	lhfnsf	lélegur
 .	.	.
-
 Trúarbrögð	nhfn	trúarbrögð
 án	ae	án
 vísinda	nhfe	vísindi
@@ -2822,14 +2711,12 @@ eru	sfg3fn	vera
 blind	lhfnsf	blindur
 .	.	.
 »	»	»
-
 Þetta	faheo	þessi
 sagði	sfg3eþ	segja
 hinn	gken	hinn
 trúaði	lkenvf	trúaður
 Einstein	e	Einstein
 .	.	.
-
 Fyrir	ao	fyrir
 trúaða	lkfosf	trúaður
 má	sfg3en	mega
@@ -2842,7 +2729,6 @@ hlið	nveo	hlið
 á	aþ	á
 Guði	nkeþ-s	Guð
 .	.	.
-
 Hún	fpven	hún
 kynnir	sfg3en	kynna
 til	ae	til
@@ -2870,7 +2756,6 @@ en	c	en
 ekki	aa	ekki
 vissa	nven	vissa
 .	.	.
-
 Nokkuð	fohen	nokkur
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -2927,7 +2812,6 @@ stað	nkeo	staður
 þínum	fekeþ	þinn
 alheimi	nkeþ	alheimur
 '	'	'
-
 Sumir	fokfn	sumur
 ,	,	,
 þar	aa	þar
@@ -2969,7 +2853,6 @@ sem	ct	sem
 Guðlega	lveosf	guðlegur
 íhlutun	nveo	íhlutun
 .	.	.
-
 Allnokkrir	fokfn	allnokkur
 eðlisfræðingar	nkfn	eðlisfræðingur
 hafa	sfg3fn	hafa
@@ -2997,7 +2880,6 @@ Guðs	nkee-s	Guð
 við	ao	við
 náttúruvísindi	nhfo	náttúruvísindi
 .	.	.
-
 Þó	aa	þó
 fylgir	sfg3en	fylgja
 sá	faken	sá
@@ -3026,7 +2908,6 @@ mörgum	lkfþsf	margur
 samstarfsmönnum	nkfþ	samstarfsmaður
 sínu	x	sinn
 .	.	.
-
 Og	c	og
 næstum	aa	næstum
 því	fpheþ	það
@@ -3040,7 +2921,6 @@ heimspekingur	nken	heimspekingur
 í	ao	í
 starfslýsinguna	nveog	starfslýsing
 .	.	.
-
 Því	aa	því
 þora	sfg3fn	þora
 eflaust	aa	eflaust
@@ -3086,7 +2966,6 @@ hinar	gvfo	hinn
 hliðar	nvfo	hlið
 fræðanna	nhfeg	fræði
 .	.	.
-
 Dr.	as	Dr.
 Robert	e	Robert
 Russell	e	Russell
@@ -3106,7 +2985,6 @@ háskóla	nkee	háskóli
 í	aþ	í
 Bandaríkjunum	nhfþgs	Bandaríki
 .	.	.
-
 Hann	fpken	hann
 hefur	sfg3en	hafa
 tengt	ssg	tengja
@@ -3133,7 +3011,6 @@ e.	as	e.
 objective	e	objective
 )	)	)
 .	.	.
-
 «	«	«
 Menn	nkfn	maður
 hafa	sfg3fn	hafa
@@ -3179,7 +3056,6 @@ sköpun	nveo	sköpun
 sína	feveo	sinn
 óáreitta	lveosf	óáreittur
 .	.	.
-
 Sú	faven	sá
 hugmynd	nven	hugmynd
 er	sfg3en	vera
@@ -3193,7 +3069,6 @@ huldi	lkenvf	hulinn
 Guð	nken-s	Guð
 .	.	.
 »	»	»
-
 Nálgun	nven	nálgun
 Dr.	as	Dr.
 Russells	e	Russells
@@ -3226,7 +3101,6 @@ mátt	nkeo	máttur
 sinn	fekeo	sinn
 óbeint	aa	óbeint
 .	.	.
-
 Þessa	faveo	þessi
 afstöðu	nveo	afstaða
 styður	sfg3en	styðja
@@ -3262,7 +3136,6 @@ eigum	svg1fn	eiga
 að	cn	að
 venjast	snm	venja
 .	.	.
-
 Hann	fpken	hann
 segir	sfg3en	segja
 skammtafræði	nveo	skammtafræði
@@ -3278,7 +3151,6 @@ sköpunar	nvee	sköpun
 »	»	»
 rökræðurnar	nvfog	rökræða
 .	.	.
-
 «	«	«
 Frá	aþ	frá
 guðfræðilegu	lheþsf	guðfræðilegur
@@ -3311,7 +3183,6 @@ sé	svg3en	vera
 regla	nven	regla
 skammtaóreiðu	nvee	skammtaóreiða
 .	.	.
-
 Í	ao	í
 stað	nkeo	staður
 þess	fphee	það
@@ -3349,7 +3220,6 @@ skapa	sng	skapa
 eiginleika	nkfo	eiginleiki
 óreiðu	nvee	óreiða
 .	.	.
-
 Það	fphen	það
 væri	svg3eþ	vera
 þá	aa	þá
@@ -3361,7 +3231,6 @@ sköpun	nveo	sköpun
 að	cn	að
 ræða	sng	ræða
 !	!	!
-
 Frægasti	lkenve	frægur
 núlifandi	lkenof	núlifandi
 eðlisfræðingur	nken	eðlisfræðingur
@@ -3379,7 +3248,6 @@ nokkuð	fohen	nokkur
 fyrir	aþ	fyrir
 sér	fpkeþ	sig
 .	.	.
-
 Í	aþ	í
 gríðarlega	aa	gríðarlega
 vinsælli	lveþsf	vinsæll
@@ -3395,7 +3263,6 @@ Guðs	nkee-s	Guð
 í	aþ	í
 nútímavísindum	nhfþ	nútímavísindi
 .	.	.
-
 Hawking	e	Hawking
 hefur	sfg3en	hafa
 helgað	ssg	helga
@@ -3411,7 +3278,6 @@ skammtafræði	nveo	skammtafræði
 líf	nheo	líf
 sitt	feheo	sinn
 .	.	.
-
 Hugmyndin	nveng	hugmynd
 um	ao	um
 eina	tfveo	einn
@@ -3449,7 +3315,6 @@ gerðist	svm3eþ	gera
 í	aþ	í
 heiminum	nkeþg	heimur
 .	.	.
-
 Margir	lkfnsf	margur
 hafa	sfg3fn	hafa
 hafnað	ssg	hafna
@@ -3482,7 +3347,6 @@ hér	aa	hér
 heimi	nkeþ	heimur
 .	.	.
 »	»	»
-
 En	c	en
 Hawking	e	Hawking
 hafnar	sfg3en	hafna
@@ -3514,7 +3378,6 @@ henni	fpveþ	hún
 sínum	fekeþ	sinn
 tíma	nkeþ	tími
 .	.	.
-
 «	«	«
 Tíminn	nkeng	tími
 er	sfg3en	vera
@@ -3533,7 +3396,6 @@ ekki	aa	ekki
 í	aþ	í
 honum	fpkeþ	hann
 .	.	.
-
 Væntanlega	aa	væntanlega
 vissi	sfg3eþ	vita
 hann	fpken	hann
@@ -3546,7 +3408,6 @@ hann	fpken	hann
 skóp	sfg3eþ	skópva
 heiminn	nkeog	heimur
 !	!	!
-
 Hawking	e	Hawking
 leggur	sfg3en	leggja
 til	ae	til
@@ -3576,7 +3437,6 @@ hún	fpven	hún
 neinum	fokeþ	neinn
 tilgangi	nkeþ	tilgangur
 .	.	.
-
 Ef	c	ef
 um	ao	um
 tilgang	nkeo	tilgangur
@@ -3592,7 +3452,6 @@ ekki	aa	ekki
 tilviljanakenndur	lkensf	tilviljanakenndur
 .	.	.
 »	»	»
-
 Þrátt	aa	þrátt
 fyrir	ao	fyrir
 það	fpheo	það
@@ -3635,7 +3494,6 @@ jöfnum	nvfþ	jafna
 og	c	og
 reglum	nvfþ	regla
 .	.	.
-
 '	'	'
 Hvað	fshen	hver
 blæs	sfg3en	blása
@@ -3655,14 +3513,12 @@ lýsa	sng	lýsa
 spyr	sfg3en	spyrja
 hann	fpken	hann
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 önnur	foven	annar
 saga	nven	saga
 .	.	.
 »	»	»
-
 Undir	ao	undir
 lok	nhfo	lok
 bókarinnar	nveeg	bók
@@ -3681,7 +3537,6 @@ starfshætti	nkfo	starfsháttur
 »	»	»
 Guðs	nkee-s	Guð
 .	.	.
-
 «	«	«
 Hefur	sfg3en	hafa
 samþætta	lvenvf	samþættur
@@ -3694,7 +3549,6 @@ skapi	svg3en	skapa
 sig	fpveo	sig
 sjálf	fbven	sjálfur
 ?	?	?
-
 Þarfnast	sfm3en	þarfnast
 hún	fpven	hún
 skapara	nkee	skapari
@@ -3711,14 +3565,12 @@ frekari	lhfovm	frekur
 á	ao	á
 heiminn	nkeog	heimur
 ?	?	?
-
 Og	c	og
 hver	fsken	hver
 skapaði	sfg3eþ	skapa
 skaparann	nkeog	skapari
 ?	?	?
 »	»	»
-
 Þetta	fahen	þessi
 eru	sfg3fn	vera
 óskaplega	aa	óskaplega
@@ -3733,7 +3585,6 @@ sig	fpkfo	sig
 þúsundir	nvfo	þúsund
 ára	nhfe	ár
 .	.	.
-
 Þó	aa	þó
 honum	fpkeþ	hann
 takist	svm3en	taka
@@ -3758,7 +3609,6 @@ samfélagi	nheþ	samfélag
 mannanna	nkfeg	maður
 mikilvægar	lvfnsf	mikilvægur
 .	.	.
-
 3.9	ta	3.9
 NÝJAR	lvfnsf	nýr
 OG	c	og
@@ -3781,7 +3631,6 @@ meðvitund	nveo	meðvitund
 og	c	og
 sálina	nveog	sál
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 gjarnan	aa	gjarnan
@@ -3795,7 +3644,6 @@ eðlisfræðirisa	nkfe	eðlisfræðiris
 Stephen	e	Stephen
 Hawking	e	Hawking
 .	.	.
-
 Báðir	fokfn	báðir
 hafa	sfg3fn	hafa
 þeir	fpkfn	hann
@@ -3814,7 +3662,6 @@ víða	aa	víða
 um	ao	um
 heim	nkeo	heimur
 .	.	.
-
 Hluta	nkeo	hluti
 frægðar	nvee	frægð
 þeirra	fpkfe	hann
@@ -3848,7 +3695,6 @@ og	c	og
 Einstein	e	Einstein
 háðu	sfg3fþ	heyja
 .	.	.
-
 Penrose	e	Penrose
 hefur	sfg3en	hafa
 innan	ae	innan
@@ -3862,7 +3708,6 @@ vísun	nveþ	vísun
 í	ao	í
 skammtafræði	nveo	skammtafræði
 .	.	.
-
 Í	aþ	í
 bók	nveþ	bók
 sinni	feveþ	sinn
@@ -3892,7 +3737,6 @@ sem	ct	sem
 kallast	sfm3en	kalla
 meðvitund	nven	meðvitund
 .	.	.
-
 [	[	[
 ...	...	...
 ]	]	]
@@ -3924,7 +3768,6 @@ hana	fpveo	hún
 tölvu	nveþ	tölva
 .	.	.
 »	»	»
-
 Hann	fpken	hann
 hefur	sfg3en	hafa
 nú	aa	nú
@@ -3945,7 +3788,6 @@ gravity	e	gravity
 effect	e	effect
 )	)	)
 .	.	.
-
 Sé	svg3en	vera
 kenning	nven	kenning
 hans	fpkee	hann
@@ -3995,7 +3837,6 @@ marga	lkfosf	margur
 parta	nkfo	partur
 .	.	.
 »	»	»
-
 Þessari	faveþ	þessi
 niðurstöðu	nveþ	niðurstaða
 komst	sfm3eþ	koma
@@ -4033,7 +3874,6 @@ og	c	og
 stærri	lkfovm	stór
 hluti	nkfo	hlutur
 .	.	.
-
 Rannsóknarspurning	nven	rannsóknarspurning
 hans	fpkee	hann
 var	sfg3eþ	vera
@@ -4060,7 +3900,6 @@ yfir	aþ	yfir
 tvívirkni	nveþ	tvívirkni
 ?	?	?
 »	»	»
-
 Röksemdafærsla	nven	röksemdafærsla
 hans	fpkee	hann
 er	sfg3en	vera
@@ -4085,7 +3924,6 @@ stöðum	nkfþ	staður
 sama	fbkeþ	sami
 tíma	nkeþ	tími
 .	.	.
-
 «	«	«
 Þegar	c	þegar
 öreindin	nveng	öreind
@@ -4106,7 +3944,6 @@ mörgum	lkfþsf	margur
 stöðum	nkfþ	staður
 samtímis	aa	samtímis
 .	.	.
-
 Síðan	aa	síðan
 falla	sfg3fn	falla
 bylgjurnar	nvfng	bylgja
@@ -4115,7 +3952,6 @@ saman	aa	saman
 upprunalega	lveosf	upprunalegur
 öreind	nveo	öreind
 .	.	.
-
 Þetta	fahen	þessi
 hefur	sfg3en	hafa
 ekkert	foheo	enginn
@@ -4134,7 +3970,6 @@ um	ao	um
 birtingarform	nheo	birtingarform
 .	.	.
 »	»	»
-
 Munurinn	nkeng	munur
 á	aþ	á
 manneskju	nveþ	manneskja
@@ -4155,7 +3990,6 @@ massa	nkeþ	massi
 eykst	sfm3en	auka
 þyngdarkrafturinn	nkeng	þyngdarkraftur
 .	.	.
-
 «	«	«
 Stórir	lkfnsf	stór
 hlutir	nkfn	hlutur
@@ -4170,7 +4004,6 @@ en	c	en
 gera	sfg3fn	gera
 það	fpheo	það
 .	.	.
-
 Þar	aa	þar
 sem	ct	sem
 stærð	nven	stærð
@@ -4191,7 +4024,6 @@ hlutlægu	lveþvf	hlutlægur
 ástandssmættun	nveþ	ástandssmættun
 .	.	.
 »	»	»
-
 Orkan	nveng	orka
 eykst	sfm3en	auka
 þegar	c	þegar
@@ -4225,7 +4057,6 @@ skiptist	sfm3en	skipta
 í	ao	í
 tvennt	lheosf	tvennur
 .	.	.
-
 Ólíkir	lkfnsf	ólíkur
 hlutar	nkfn	hluti
 hennar	fpvee	hún
@@ -4253,7 +4084,6 @@ niður	aa	niður
 lægsta	lheove	lágur
 orkuástand	nheo	orkuástand
 .	.	.
-
 Penrose	e	Penrose
 spáir	sfg3en	spá
 því	fpheþ	það
@@ -4280,7 +4110,6 @@ bylgjuformi	nheþ	bylgjuform
 milljónir	nvfo	milljón
 ára	nhfe	ár
 .	.	.
-
 Hvort	fohen	hvor
 tveggja	tfhfe	tveir
 er	sfg3en	vera
@@ -4290,7 +4119,6 @@ við	ao	við
 reynslu	nveo	reynsla
 okkar	fp1fe	ég
 .	.	.
-
 Nýlega	aa	nýlega
 hefur	sfg3en	hafa
 Anton	nkeþ-s	Anton
@@ -4315,7 +4143,6 @@ stöðum	nkfþ	staður
 í	aþ	í
 einu	lheþsf	einn
 .	.	.
-
 Þessi	faken	þessi
 austurríski	lkenvf	austurrískur
 eðlisfræðingur	nken	eðlisfræðingur
@@ -4345,7 +4172,6 @@ samtímis	aa	samtímis
 tvær	tfvfo	tveir
 áttir	nvfo	átt
 .	.	.
-
 Á	aþ	á
 leið	nveþ	leið
 sinni	feveþ	sinn
@@ -4362,7 +4188,6 @@ svonefnt	lheosf	svonefndur
 ofurástand	nheo	ofurástand
 »	»	»
 .	.	.
-
 Þeir	fpkfn	hann
 voru	sfg3fþ	vera
 samtímis	aa	samtímis
@@ -4370,7 +4195,6 @@ samtímis	aa	samtímis
 tveimur	tfkfþ	tveir
 stöðum	nkfþ	staður
 .	.	.
-
 Zeilinger	e	Zeilinger
 telur	sfg3en	telja
 að	c	að
@@ -4416,7 +4240,6 @@ hinna	x	hinn
 almennu	lveevf	almennur
 eðlisfræði	nvee	eðlisfræði
 .	.	.
-
 Markalínan	nveng	markalína
 hljóti	svg3en	hljóta
 þá	aa	þá
@@ -4437,9 +4260,7 @@ hafa	sng	hafa
 á	ao	á
 þá	fpkfo	hann
 .	.	.
-
 Útdráttur	nken	útdráttur
-
 Í	aþ	í
 ritgerðinni	nveþg	ritgerð
 er	sfg3en	vera
@@ -4448,7 +4269,6 @@ um	ao	um
 stjórnsýslu	nveo	stjórnsýsla
 almannavarna	nvfe	almannavarnir
 .	.	.
-
 Á	aþ	á
 Íslandi	nheþ-s	Ísland
 eiga	sfg3fn	eiga
@@ -4457,7 +4277,6 @@ sér	fpvfþ	sig
 skamma	lveosf	skammur
 sögu	nveo	saga
 .	.	.
-
 Til	ae	til
 glöggvunar	nvee	glöggvun
 er	sfg3en	vera
@@ -4489,7 +4308,6 @@ menningu	nveþ	menning
 eða	c	eða
 sögu	nveþ	saga
 .	.	.
-
 Auk	ae	auk
 Íslands	nhee-s	Ísland
 er	sfg3en	vera
@@ -4500,7 +4318,6 @@ Danmörku	nveþ-s	Danmörk
 og	c	og
 Bretlandi	nheþ-s	Bretland
 .	.	.
-
 Stjórnvöld	nhfn	stjórnvald
 í	aþ	í
 Danmörku	nveþ-s	Danmörk
@@ -4522,7 +4339,6 @@ lögum	nhfþ	lag
 var	sfg3eþ	vera
 breytt	sþghen	breyta
 .	.	.
-
 Könnuð	sþgven	kanna
 er	sfg3en	vera
 stjórnsýsla	nven	stjórnsýsla
@@ -4547,7 +4363,6 @@ fornæm	lvensf	fornæmur
 proaktiv	e	proaktiv
 )	)	)
 .	.	.
-
 Tekin	sþghfn	taka
 eru	sfg3fn	vera
 þrjú	tfhfn	þrír
@@ -4563,7 +4378,6 @@ stefnuglugga	nkeo	stefnugluggi
 í	aþ	í
 almannavörnum	nvfþ	almannavarnir
 .	.	.
-
 Þau	fphfn	það
 eru	sfg3fn	vera
 eldgosið	nheng	eldgos
@@ -4582,7 +4396,6 @@ snjóflóðin	nhfng	snjóflóð
 Vestfjörðum	nkfþ-s	Vestfirðir
 1995	ta	1995
 .	.	.
-
 Viðlagasjóður	nken-s	Viðlagasjóður
 og	c	og
 síðar	aam	síðar
@@ -4602,7 +4415,6 @@ gegn	aþ	gegn
 snjóflóðum	nhfþ	snjóflóð
 1995	ta	1995
 .	.	.
-
 Niðurstaðan	nveng	niðurstaða
 er	sfg3en	vera
 sú	faven	sá
@@ -4622,14 +4434,12 @@ beinast	sfm3fn	beina
 hverju	foheþ	hver
 ríki	nheþ	ríki
 .	.	.
-
 Almannavarnir	nvfn	almannavarnir
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 eru	sfg3fn	vera
 viðnæmar	lvfnsf	viðnæmur
 .	.	.
-
 Menning	nven	menning
 virðist	sfm3en	virða
 hafa	sng	hafa
@@ -4639,7 +4449,6 @@ Danmörku	nveþ-s	Danmörk
 og	c	og
 Bretlandi	nheþ-s	Bretland
 .	.	.
-
 Líkindi	nhfn	líkindi
 eru	sfg3fn	vera
 með	aþ	með
@@ -4649,7 +4458,6 @@ grunni	nkeþ	grunnur
 ríkjunum	nhfþg	ríki
 þremur	tfhfþ	þrír
 .	.	.
-
 Bretar	nkfn-s	Breti
 og	c	og
 Danir	nkfn-s	Dani
@@ -4663,7 +4471,6 @@ en	c	en
 í	aþ	í
 stefnumótunarvinnu	nveþ	stefnumótunarvinna
 .	.	.
-
 Kann	sfg3en	kunna
 það	fphen	það
 að	cn	að
@@ -4682,7 +4489,6 @@ fé	nheo	fé
 til	ae	til
 málaflokksins	nkeeg	málaflokkur
 .	.	.
-
 Ísland	nhen-s	Ísland
 getur	sfg3en	geta
 lært	ssg	læra
@@ -4691,7 +4497,6 @@ hinum	fahfþ	hinn
 ríkjunum	nhfþg	ríki
 tveimur	tfhfþ	tveir
 .	.	.
-
 Tímabært	lhensf	tímabær
 er	sfg3en	vera
 að	cn	að
@@ -4714,7 +4519,6 @@ Breta	nkfe-s	Breti
 þeim	fahfþ	sá
 efnum	nhfþ	efni
 .	.	.
-
 Ríkisstjórn	nven	ríkisstjórn
 Íslands	nhee-s	Ísland
 á	sfg3en	eiga
@@ -4725,7 +4529,6 @@ að	aþ	að
 þessu	faheþ	þessi
 starfi	nheþ	starf
 .	.	.
-
 Markmið	nhen	markmið
 þess	fphee	það
 hlýtur	sfg3en	hljóta
@@ -4779,7 +4582,6 @@ eiturefnaslysum	nhfþ	eiturefnaslys
 eða	c	eða
 hryðjuverkum	nhfþ	hryðjuverk
 .	.	.
-
 Stöðugt	aa	stöðugt
 þarf	sfg3en	þurfa
 að	cn	að
@@ -4798,7 +4600,6 @@ með	aþ	með
 tiltækum	lhfþsf	tiltækur
 ráðum	nhfþ	ráð
 .	.	.
-
 Það	fphen	það
 verður	sfg3en	verða
 ekki	aa	ekki
@@ -4807,9 +4608,7 @@ gert	sþghen	gera
 heildstæðrar	lveesf	heildstæður
 stefnu	nvee	stefna
 .	.	.
-
 Formáli	nken	formáli
-
 Í	aþ	í
 þessari	faveþ	þessi
 15	ta	15
@@ -4860,7 +4659,6 @@ og	c	og
 í	aþ	í
 Bretlandi	nheþ-s	Bretland
 .	.	.
-
 Viðfangsefnið	nheng	viðfangsefni
 er	sfg3en	vera
 valið	sþghen	velja
@@ -4896,13 +4694,11 @@ Selfossi	nkeþ-s	Selfoss
 í	aþ	í
 Árnessýslu	nveþ-s	Árnessýsla
 .	.	.
-
 Ísafjarðarsýslur	nvfn-s	Ísafjarðarsýsla
 er	sfg3en	vera
 þekkt	lhensf	þekktur
 snjóflóðasvæði	nhen	snjóflóðasvæði
 .	.	.
-
 Þar	aa	þar
 féllu	sfg3fþ	falla
 á	aþ	á
@@ -4921,7 +4717,6 @@ alls	fohee	allur
 manns	nkee	maður
 lífið	nheog	líf
 .	.	.
-
 Lögreglustjórar	nkfn	lögreglustjóri
 bera	sfg3fn	bera
 ábyrgð	nveo	ábyrgð
@@ -4937,13 +4732,11 @@ reglum	nvfþ	regla
 um	ao	um
 almannavarnir	nvfo	almannavarnir
 .	.	.
-
 Árnessýsla	nven-s	Árnessýsla
 er	sfg3en	vera
 þekkt	lhensf	þekktur
 jarðskjálftasvæði	nhen	jarðskjálftasvæði
 .	.	.
-
 Árið	nheog	ár
 2000	ta	2000
 urðu	sfg3fþ	verða
@@ -4973,7 +4766,6 @@ rúmum	lkfþsf	rúmur
 milljörðum	nkfþ	milljarður
 króna	nvfe	króna
 .	.	.
-
 Enn	aa	enn
 virðist	sfm3en	virða
 ekki	aa	ekki
@@ -4997,4 +4789,3 @@ má	sfg3en	mega
 til	ae	til
 skjálftanna	nkfeg	skjálfti
 .	.	.
-

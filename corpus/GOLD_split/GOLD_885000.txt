@@ -1,7 +1,6 @@
 úr	aþ	úr
 jarðsögunni	nveþg	jarðsaga
 .	.	.
-
 Í	aþ	í
 sjó	nkeþ	sjór
 voru	sfg3fþ	vera
@@ -24,7 +23,6 @@ seratítar	nkfn	seratítur
 Ceratites	e	Ceratites
 )	)	)
 .	.	.
-
 Um	ao	um
 miðbik	nheo	miðbik
 Carnian-tíma	nkee-s	Carnian-tími
@@ -46,7 +44,6 @@ um	aa	um
 ættkvíslir	nvfn	ættkvísl
 seratíta	nkfe	seratítur
 .	.	.
-
 Nokkrum	fovfþ	nokkur
 ármilljónum	nvfþ	ármilljón
 seinna	aam	seint
@@ -67,7 +64,6 @@ um	aa	um
 milljónum	nvfþ	milljón
 ára	nhfe	ár
 .	.	.
-
 Útdauðinn	nkeng	útdauði
 virðist	sfm3en	virða
 þannig	aa	þannig
@@ -76,7 +72,6 @@ tekið	ssg	taka
 nokkrar	fovfo	nokkur
 ármilljónir	nvfo	ármilljón
 .	.	.
-
 Hjá	aþ	hjá
 sæsniglum	nkfþ	sæsnigill
 dóu	sfg3fþ	deyja
@@ -106,7 +101,6 @@ og	c	og
 hjá	aþ	hjá
 svömpum	nkfþ	svampur
 .	.	.
-
 Talið	sþghen	telja
 er	sfg3en	vera
 að	c	að
@@ -142,7 +136,6 @@ minnsta	lkeþve	lítill
 kosti	nkeþ	kostur
 92%	tp	92%
 .	.	.
-
 Hjá	aþ	hjá
 landdýrum	nhfþ	landdýr
 hurfu	sfg3fþ	hverfa
@@ -164,7 +157,6 @@ einnig	aa	einnig
 ættir	nvfn	ætt
 boleðla	nvfe	boleðla
 .	.	.
-
 Hinu	faheþ	hinn
 er	sfg3en	vera
 ekki	aa	ekki
@@ -195,7 +187,6 @@ og	c	og
 á	aþ	á
 landi	nheþ	land
 .	.	.
-
 Nægir	sfg3en	nægja
 þar	aa	þar
 að	cn	að
@@ -206,7 +197,6 @@ flugeðlur	nvfo	flugeðla
 og	c	og
 spendýr	nhfo	spendýr
 .	.	.
-
 Eins	aa	eins
 og	c	og
 bent	sþghen	benda
@@ -244,7 +234,6 @@ meginhrinur	nvfo	meginhrina
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 Flestir	lkfnse	margur
 fræðimenn	nkfn	fræðimaður
 telja	sfg3fn	telja
@@ -288,7 +277,6 @@ gróðurfari	nheþ	gróðurfar
 stórum	lhfþsf	stór
 svæðum	nhfþ	svæði
 .	.	.
-
 Ljóst	lhensf	ljós
 er	sfg3en	vera
 að	c	að
@@ -314,7 +302,6 @@ jarðskorpuhreyfingum	nvfþ	jarðskorpuhreyfing
 og	c	og
 plötureki	nheþ	plöturek
 .	.	.
-
 Við	ao	við
 það	fpheo	það
 drógust	sfm3fþ	draga
@@ -328,7 +315,6 @@ hópa	nkfe	hópur
 fóru	sfg3fþ	fara
 forgörðum	nkfþ	forgarður
 .	.	.
-
 Einnig	aa	einnig
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -353,7 +339,6 @@ fyrir	ao	fyrir
 marga	lkfosf	margur
 dýrahópa	nkfo	dýrahópur
 .	.	.
-
 Kemur	sfg3en	koma
 þetta	fahen	þessi
 meðal	ae	meðal
@@ -370,7 +355,6 @@ verða	sfg3fn	verða
 meira	aam	meira
 áberandi	lhfnof	áberandi
 .	.	.
-
 Á	aþ	á
 landi	nheþ	land
 minnkaði	sfg3eþ	minnka
@@ -403,7 +387,6 @@ dró	sfg3eþ	draga
 úr	aþ	úr
 tegundamyndun	nveþ	tegundamyndun
 .	.	.
-
 Þá	aa	þá
 hefur	sfg3en	hafa
 einnig	aa	einnig
@@ -451,7 +434,6 @@ vera	sng	vera
 milljónir	nvfn	milljón
 ára	nhfe	ár
 .	.	.
-
 Þetta	fahen	þessi
 kann	sfg3en	kunna
 að	cn	að
@@ -482,7 +464,6 @@ risaeðlurnar	nvfng	risaeðla
 dóu	sfg3fþ	deyja
 út	aa	út
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 hefur	sfg3en	hafa
@@ -519,7 +500,6 @@ sprungið	ssg	springa
 við	ao	við
 högg	nhfo	högg
 .	.	.
-
 Því	aa	því
 er	sfg3en	vera
 ekki	aa	ekki
@@ -533,7 +513,6 @@ hafi	svg3en	hafa
 skipt	ssg	skipta
 sköpum	nhfþ	skap
 .	.	.
-
 Hversu	aa	hversu
 stór	lkensf	stór
 eru	sfg3fn	vera
@@ -543,14 +522,12 @@ sem	ct	sem
 hafa	sfg3fn	hafa
 fundist	ssm	finna
 ?	?	?
-
 Útlimir	nkfn	útlimur
 risaeðlanna	nvfeg	risaeðla
 voru	sfg3fþ	vera
 mjög	aa	mjög
 fjölbreytilegir	lkfnsf	fjölbreytilegur
 .	.	.
-
 Flestar	lvfnse	margur
 stóru	lvfnvf	stór
 jurtaæturnar	nvfng	jurtaæta
@@ -571,7 +548,6 @@ og	c	og
 breiðar	lvfosf	breiður
 iljar	nvfo	il
 .	.	.
-
 Hjá	aþ	hjá
 flestum	lvfþse	margur
 þeirra	fpvfe	hún
@@ -582,7 +558,6 @@ stærri	lkfnvm	stór
 en	c	en
 framlimirnir	nkfng	framlimur
 .	.	.
-
 Flestar	lvfnse	margur
 ráneðlurnar	nvfng	ráneðla
 gengu	sfg3fþ	ganga
@@ -612,7 +587,6 @@ meira	aam	meira
 sem	c	sem
 griplimi	nkfo	griplimur
 .	.	.
-
 Afturlimirnir	nkfng	afturlimur
 hjá	aþ	hjá
 ráneðlunum	nvfþg	ráneðla
@@ -634,7 +608,6 @@ eða	c	eða
 hóflaga	lvfþof	hóflaga
 nöglum	nvfþ	nögl
 .	.	.
-
 Fótspor	nhfn	fótspor
 eftir	ao	eftir
 risaeðlur	nvfo	risaeðla
@@ -656,7 +629,6 @@ eftir	ao	eftir
 sig	fphfo	sig
 sporin	nhfog	spor
 .	.	.
-
 Í	aþ	í
 mörgum	lhfþsf	margur
 tilvikum	nhfþ	tilvik
@@ -671,7 +643,6 @@ til	ae	til
 ákveðinnar	lveesf	ákveðinn
 tegundar	nvee	tegund
 .	.	.
-
 Þegar	c	þegar
 það	fphen	það
 er	sfg3en	vera
@@ -697,7 +668,6 @@ skildi	sfg3eþ	skilja
 eftir	ao	eftir
 sig	fpheo	sig
 .	.	.
-
 Í	aþ	í
 nokkrum	fohfþ	nokkur
 tilvikum	nhfþ	tilvik
@@ -732,7 +702,6 @@ stórra	lhfesf	stór
 fullvaxinna	lhfesf	fullvaxinn
 dýra	nhfe	dýr
 .	.	.
-
 Þá	aa	þá
 má	sfg3en	mega
 stundum	aa	stundum
@@ -748,7 +717,6 @@ jafnvel	aa	jafnvel
 fótlengd	nveo	fótlengd
 þess	fphee	það
 .	.	.
-
 Stærstu	lhfnve	stór
 fótspor	nhfn	fótspor
 eftir	ao	eftir
@@ -773,7 +741,6 @@ fótspor	nhfn	fótspor
 Apatosaurus	e	Apatosaurus
 )	)	)
 .	.	.
-
 Farið	nheng	far
 eftir	ao	eftir
 ilina	nveog	il
@@ -799,7 +766,6 @@ og	c	og
 cm	as	cm
 breitt	lhensf	breiður
 .	.	.
-
 Förin	nhfng	far
 eftir	ao	eftir
 afturfæturna	nkfog	afturfótur
@@ -838,7 +804,6 @@ fílum	nkfþ	fíll
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Hjá	aþ	hjá
 ráneðlunum	nvfþg	ráneðla
 ,	,	,
@@ -866,7 +831,6 @@ allar	fovfn	allur
 beittri	lveþsf	beittur
 kló	nveþ	kló
 .	.	.
-
 Fótsporið	nheng	fótspor
 er	sfg3en	vera
 þess	fphee	það
@@ -881,7 +845,6 @@ ekki	aa	ekki
 hafa	sng	hafa
 sundfit	nheo	sundfit
 .	.	.
-
 Lengd	nven	lengd
 iljar	nvee	il
 um	ao	um
@@ -903,13 +866,11 @@ cm	as	cm
 hjá	aþ	hjá
 grameðlu	nveþ	grameðla
 .	.	.
-
 Skoðið	sbg2fn	skoða
 einnig	aa	einnig
 skyld	lhfosf	skyldur
 svör	nhfo	svar
 :	:	:
-
 *	*	*
 Ef	c	ef
 krókódílar	nkfn	krókódíll
@@ -928,13 +889,11 @@ dóu	sfg3fþ	deyja
 ekki	aa	ekki
 út	aa	út
 ?	?	?
-
 eftir	ao	eftir
 Leif	nkeo-s	Leifur
 A.	as	A.
 Símonarson	nkeo-s	Símonarson
 .	.	.
-
 *	*	*
 Er	sfg3en	vera
 vitað	sþghen	vita
@@ -944,12 +903,10 @@ risaeðlur	nvfn	risaeðla
 dóu	sfg3fþ	deyja
 út	aa	út
 ?	?	?
-
 eftir	ao	eftir
 Sigurð	nkeo-s	Sigurður
 Steinþórsson	nkeo-s	Steinþórsson
 .	.	.
-
 *	*	*
 Hvernig	aa	hvernig
 vita	sfg3fn	vita
@@ -975,7 +932,6 @@ Leif	nkeo-s	Leifur
 A.	as	A.
 Símonarson	nkeo-s	Símonarson
 .	.	.
-
 *	*	*
 Af	aþ	af
 hverju	fsheþ	hver
@@ -995,25 +951,21 @@ ennþá	aa	ennþá
 til	aa	til
 risaeðlur	nvfn	risaeðla
 ?	?	?
-
 eftir	ao	eftir
 Þorstein	nkeo-s	Þorsteinn
 Vilhjálmsson	nkeo-s	Vilhjálmsson
 .	.	.
-
 *	*	*
 Hver	fsven	hver
 var	sfg3eþ	vera
 stærsta	lvenve	stór
 risaeðlan	nveng	risaeðla
 ?	?	?
-
 eftir	ao	eftir
 Leif	nkeo-s	Leifur
 A.	as	A.
 Símonarson	nkeo-s	Símonarson
 .	.	.
-
 *	*	*
 Hvernig	aa	hvernig
 varð	sfg3eþ	verða
@@ -1021,13 +973,11 @@ fyrsta	lvenve	fyrstur
 risaeðlan	nveng	risaeðla
 til	aa	til
 ?	?	?
-
 eftir	ao	eftir
 Leif	nkeo-s	Leifur
 A.	as	A.
 Símonarson	nkeo-s	Símonarson
 .	.	.
-
 *	*	*
 Hvað	fshen	hver
 voru	sfg3fþ	vera
@@ -1038,7 +988,6 @@ margar	lvfnsf	margur
 voru	sfg3fþ	vera
 uppi	aa	uppi
 ?	?	?
-
 Eru	sfg3fn	vera
 einhverjar	fovfn	einhver
 núlifandi	lvfnof	núlifandi
@@ -1046,13 +995,11 @@ dýrategundir	nvfn	dýrategund
 náskyldar	lvfnsf	náskyldur
 þeim	fpvfþ	hún
 ?	?	?
-
 eftir	ao	eftir
 Leif	nkeo-s	Leifur
 A.	as	A.
 Símonarson	nkeo-s	Símonarson
 .	.	.
-
 Hvað	fshen	hver
 voru	sfg3fþ	vera
 risaeðlutegundir	nvfn	risaeðlutegund
@@ -1062,7 +1009,6 @@ margar	lvfnsf	margur
 voru	sfg3fþ	vera
 uppi	aa	uppi
 ?	?	?
-
 Eru	sfg3fn	vera
 einhverjar	fovfn	einhver
 núlifandi	lvfnof	núlifandi
@@ -1070,7 +1016,6 @@ dýrategundir	nvfn	dýrategund
 náskyldar	lvfnsf	náskyldur
 þeim	fpvfþ	hún
 ?	?	?
-
 Um	ao	um
 fjölda	nkeo	fjöldi
 risaeðla	nvfe	risaeðla
@@ -1087,7 +1032,6 @@ lýst	sþghen	lýsa
 737	ta	737
 ættkvíslum	nvfþ	ættkvísl
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 er	sfg3en	vera
@@ -1114,7 +1058,6 @@ grafist	svm3fn	grafa
 í	ao	í
 setlög	nhfo	setlag
 .	.	.
-
 Því	aa	því
 má	sfg3en	mega
 gera	sng	gera
@@ -1151,7 +1094,6 @@ kjötið	nheog	kjöt
 af	aþ	af
 beinunum	nhfþg	bein
 .	.	.
-
 Margir	lkfnsf	margur
 telja	sfg3fn	telja
 að	c	að
@@ -1167,7 +1109,6 @@ bilinu	nheþg	bil
 til	ae	til
 1.500	ta	1.500
 .	.	.
-
 Yfirleitt	aa	yfirleitt
 eru	sfg3fn	vera
 sárafáar	lvfnsf	sárafár
@@ -1189,7 +1130,6 @@ fleiri	lvfnvm	margur
 en	c	en
 ættkvíslirnar	nvfng	ættkvísl
 .	.	.
-
 Fyrstu	lvfnve	fyrstur
 risaeðlurnar	nvfng	risaeðla
 komu	sfg3fþ	koma
@@ -1218,7 +1158,6 @@ tók	sfg3eþ	taka
 við	aa	við
 Júratímabil	nhen-s	Júratímabil
 .	.	.
-
 Varla	aa	varla
 verður	sfg3en	verða
 sagt	sþghen	segja
@@ -1231,7 +1170,6 @@ fyrst	aae	fyrr
 á	aþ	á
 Trías	nheþ-s	trías
 .	.	.
-
 Þær	fpvfn	hún
 sækja	sfg3fn	sækja
 ögn	nveo	ögn
@@ -1256,7 +1194,6 @@ tegundafjöldinn	nkeng	tegundafjöldi
 rúmlega	aa	rúmlega
 80	ta	80
 .	.	.
-
 Í	ao	í
 lok	nhfo	lok
 Júratímabils	nhee-s	Júratímabil
@@ -1277,7 +1214,6 @@ líklega	aa	líklega
 tæplega	aa	tæplega
 200	ta	200
 .	.	.
-
 Í	aþ	í
 byrjun	nveþ	byrjun
 síðasta	lkeeve	síðari
@@ -1297,7 +1233,6 @@ sennilega	aa	sennilega
 nálægt	aa	nálægt
 250	ta	250
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 voru	sfg3fþ	vera
@@ -1321,7 +1256,6 @@ samtals	aa	samtals
 12	ta	12
 tegundir	nvfo	tegund
 .	.	.
-
 Rétt	lhensf	réttur
 er	sfg3en	vera
 að	cn	að
@@ -1352,7 +1286,6 @@ fleiri	lvfnvm	margur
 en	c	en
 737	ta	737
 .	.	.
-
 Margir	lkfnsf	margur
 telja	sfg3fn	telja
 að	c	að
@@ -1366,7 +1299,6 @@ séu	svg3fn	vera
 skyldastar	lvfnse	skyldur
 risaeðlum	nvfþ	risaeðla
 .	.	.
-
 Bent	sþghen	benda
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -1411,7 +1343,6 @@ nefnd	sþgven	nefna
 íslenskum	lhfþsf	íslenskur
 ritum	nhfþ	rit
 .	.	.
-
 Öglir	nken	öglir
 var	sfg3eþ	vera
 vissulega	aa	vissulega
@@ -1439,7 +1370,6 @@ fingur	nkfo	fingur
 á	aþ	á
 vænghnúum	nkfþ	vænghnúi
 .	.	.
-
 Hinu	faheþ	hinn
 er	sfg3en	vera
 ekki	aa	ekki
@@ -1469,13 +1399,11 @@ frekar	aam	frekar
 sameiginlegan	lkeosf	sameiginlegur
 uppruna	nkeo	uppruni
 .	.	.
-
 Skoðið	sbg2fn	skoða
 einnig	aa	einnig
 skyld	lhfosf	skyldur
 svör	nhfo	svar
 :	:	:
-
 *	*	*
 Ef	c	ef
 krókódílar	nkfn	krókódíll
@@ -1494,13 +1422,11 @@ dóu	sfg3fþ	deyja
 ekki	aa	ekki
 út	aa	út
 ?	?	?
-
 eftir	ao	eftir
 Leif	nkeo-s	Leifur
 A.	as	A.
 Símonarson	nkeo-s	Símonarson
 .	.	.
-
 *	*	*
 Er	sfg3en	vera
 vitað	sþghen	vita
@@ -1510,12 +1436,10 @@ risaeðlur	nvfn	risaeðla
 dóu	sfg3fþ	deyja
 út	aa	út
 ?	?	?
-
 eftir	ao	eftir
 Sigurð	nkeo-s	Sigurður
 Steinþórsson	nkeo-s	Steinþórsson
 .	.	.
-
 *	*	*
 Hvernig	aa	hvernig
 vita	sfg3fn	vita
@@ -1559,19 +1483,16 @@ ennþá	aa	ennþá
 til	aa	til
 risaeðlur	nvfn	risaeðla
 ?	?	?
-
 eftir	ao	eftir
 Þorstein	nkeo-s	Þorsteinn
 Vilhjálmsson	nkeo-s	Vilhjálmsson
 .	.	.
-
 *	*	*
 Hver	fsven	hver
 var	sfg3eþ	vera
 stærsta	lvenve	stór
 risaeðlan	nveng	risaeðla
 ?	?	?
-
 eftir	ao	eftir
 Leif	nkeo-s	Leifur
 A.	as	A.
@@ -1583,12 +1504,10 @@ fyrsta	lvenve	fyrstur
 risaeðlan	nveng	risaeðla
 til	aa	til
 ?	?	?
-
 eftir	ao	eftir
 Leif	nkeo-s	Leifur
 A.	as	A.
 Símonarson	nkeo-s	Símonarson
-
 Ef	c	ef
 krókódílar	nkfn	krókódíll
 voru	sfg3fþ	vera
@@ -1606,7 +1525,6 @@ dóu	sfg3fþ	deyja
 ekki	aa	ekki
 út	aa	út
 ?	?	?
-
 Allmikið	lhensf	allmikill
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -1628,7 +1546,6 @@ um	aa	um
 milljón	tfhfþ	milljón
 árum	nhfþ	ár
 .	.	.
-
 Margir	lkfnsf	margur
 telja	sfg3fn	telja
 að	c	að
@@ -1649,7 +1566,6 @@ mestan	lkeose	mikill
 þessum	fakeþ	þessi
 útdauða	nkeþ	útdauði
 .	.	.
-
 Í	ao	í
 lok	nhfo	lok
 Krítartímabilsins	nheegs	Krítartímabil
@@ -1675,7 +1591,6 @@ drógust	sfm3fþ	draga
 verulega	aa	verulega
 saman	aa	saman
 .	.	.
-
 Á	aþ	á
 landi	nheþ	land
 mynduðust	sfm3fþ	mynda
@@ -1688,7 +1603,6 @@ plötureks	nhee	plöturek
 yfirborði	nheþ	yfirborð
 jarðar	nvee	jörð
 .	.	.
-
 Áður	aa	áður
 var	sfg3eþ	vera
 land	nhen	land
@@ -1721,7 +1635,6 @@ gróður	nken	gróður
 víðáttumiklum	lhfþsf	víðáttumikill
 svæðum	nhfþ	svæði
 .	.	.
-
 Þegar	c	þegar
 fjallgarðarnir	nkfng	fjallgarður
 mynduðust	sfm3fþ	mynda
@@ -1747,7 +1660,6 @@ loftslagsbelti	nhfo	loftslagsbelti
 en	c	en
 áður	aa	áður
 .	.	.
-
 Þetta	fahen	þessi
 hafði	sfg3eþ	hafa
 áhrif	nhfo	áhrif
@@ -1767,7 +1679,6 @@ dróst	sfm3eþ	draga
 gróðurþekjan	nveng	gróðurþekja
 saman	aa	saman
 .	.	.
-
 Þessar	favfn	þessi
 breytingar	nvfn	breyting
 höfðu	sfg3fþ	hafa
@@ -1787,7 +1698,6 @@ lifðu	sfg3fþ	lifa
 á	aþ	á
 grasbítunum	nkfþg	grasbítur
 .	.	.
-
 Nú	aa	nú
 þurftu	sfg3fþ	þurfa
 dýrin	nhfng	dýr
@@ -1825,7 +1735,6 @@ hæfari	lhfnvm	hæfur
 eða	c	eða
 heppilegri	lhfnvm	heppilegur
 .	.	.
-
 Harðast	aae	hart
 komu	sfg3fþ	koma
 þessar	favfn	þessi
@@ -1849,7 +1758,6 @@ mikið	lheosf	mikill
 að	cn	að
 éta	sng	éta
 .	.	.
-
 Nú	aa	nú
 varð	sfg3eþ	verða
 samkeppni	nven	samkeppni
@@ -1860,7 +1768,6 @@ harðari	lvenvm	harður
 en	c	en
 áður	aa	áður
 .	.	.
-
 Þá	aa	þá
 hefur	sfg3en	hafa
 því	fpheþ	það
@@ -1892,7 +1799,6 @@ rykský	nhen	rykský
 þyrlaðist	sfm3eþ	þyrla
 upp	aa	upp
 .	.	.
-
 Skýið	nheng	ský
 skyggði	sfg3eþ	skyggja
 á	ao	á
@@ -1905,7 +1811,6 @@ ljóstillífun	nven	ljóstillífun
 minnkaði	sfg3eþ	minnka
 stórlega	aa	stórlega
 .	.	.
-
 Það	fphen	það
 hafði	sfg3eþ	hafa
 slæm	lhfosf	slæmur
@@ -1925,7 +1830,6 @@ loks	aa	loks
 á	ao	á
 rándýrin	nhfog	rándýr
 .	.	.
-
 Þegar	c	þegar
 litið	sþghen	líta
 er	sfg3en	vera
@@ -1954,7 +1858,6 @@ sumra	fohfe	sumur
 eldri	lhfevm	gamall
 jarðsögutímabila	nhfe	jarðsögutímabil
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 verður	sfg3en	verða
@@ -1980,7 +1883,6 @@ belemnítar	nkfn	belemníti
 og	c	og
 risaeðlur	nvfn	risaeðla
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 löngu	lheþsf	langur
@@ -1997,7 +1899,6 @@ tölunni	nveþg	tala
 ofanverðu	lheþsf	ofanverður
 Krítartímabilinu	nheþgs	Krítartímabil
 .	.	.
-
 Í	ao	í
 lok	nhfo	lok
 þess	fphee	það
@@ -2018,7 +1919,6 @@ tilheyrt	ssg	tilheyra
 átta	tfvfþ	átta
 ættkvíslum	nvfþ	ættkvísl
 .	.	.
-
 Úr	aþ	úr
 jarðlögum	nhfþ	jarðlag
 frá	aþ	frá
@@ -2055,7 +1955,6 @@ Krítar	nvee-s	Krít
 og	c	og
 Tertíers	e	Tertíers
 .	.	.
-
 Talið	sþghen	telja
 er	sfg3en	vera
 að	c	að
@@ -2070,7 +1969,6 @@ lifandi	lvfnof	lifandi
 á	aþ	á
 mörkunum	nhfþg	mark
 .	.	.
-
 Af	aþ	af
 þessu	faheþ	þessi
 má	sfg3en	mega
@@ -2108,7 +2006,6 @@ erfiðleikum	nkfþ	erfiðleiki
 vegna	ae	vegna
 umhverfisbreytinga	nvfe	umhverfisbreyting
 .	.	.
-
 Þetta	fahen	þessi
 virðist	sfm3en	virða
 hins	fakee	hinn
@@ -2120,7 +2017,6 @@ tilfellið	nheng	tilfelli
 með	ao	með
 krókódíla	nkfo	krókódíll
 .	.	.
-
 Þeir	fpkfn	hann
 voru	sfg3fþ	vera
 ekki	aa	ekki
@@ -2135,7 +2031,6 @@ fæðuval	nheo	fæðuval
 og	c	og
 lífssvæði	nheo	lífssvæði
 .	.	.
-
 Þeir	fpkfn	hann
 lifðu	sfg3fþ	lifa
 og	c	og
@@ -2161,7 +2056,6 @@ blómlegustu	lhfþve	blómlegur
 byrjun	nveþ	byrjun
 Tertíers	e	Tertíers
 .	.	.
-
 Hvað	fshen	hver
 kom	sfg3eþ	koma
 út	aa	út
@@ -2182,7 +2076,6 @@ vera	sng	vera
 af	aþ	af
 hjartardýri	nheþ	hjartardýr
 ?	?	?
-
 Fyrstu	lvfnve	fyrstur
 niðurstöður	nvfn	niðurstaða
 rannsókna	nvfe	rannsókn
@@ -2207,7 +2100,6 @@ Náttúrufræðingnum	nkeþgs	Náttúrufræðingur
 bls.	as	bls.
 189-195	ta	189-195
 .	.	.
-
 Þar	aa	þar
 var	sfg3eþ	vera
 því	fpheþ	það
@@ -2229,7 +2121,6 @@ hjartarætt	nveþ	hjartarætt
 ,	,	,
 Cervidae	e	Cervidae
 .	.	.
-
 Stærsta	lhenve	stór
 beinið	nheng	bein
 er	sfg3en	vera
@@ -2257,7 +2148,6 @@ líklega	aa	líklega
 úr	aþ	úr
 útlimagrind	nveþ	útlimagrind
 .	.	.
-
 Þrjú	tfhfn	þrír
 minni	lhfnvm	lítill
 bein	nhfn	bein
@@ -2275,7 +2165,6 @@ að	cn	að
 greina	sng	greina
 þau	fphfo	það
 .	.	.
-
 Því	fpheþ	það
 miður	aam	lítt
 hefur	sfg3en	hafa
@@ -2289,7 +2178,6 @@ ekki	aa	ekki
 borið	ssg	bera
 árangur	nkeo	árangur
 .	.	.
-
 Steingervingafræðingarnir	nkfng	steingervingafræðingur
 Ella	e	Ella
 Hoch	e	Hoch
@@ -2313,7 +2201,6 @@ og	c	og
 ungu	lheþsf	ungur
 hjartardýri	nheþ	hjartardýr
 .	.	.
-
 En	c	en
 frekari	lvfnvm	frekur
 greiningar	nvfn	greining
@@ -2334,7 +2221,6 @@ enn	aa	enn
 borið	ssg	bera
 árangur	nkeo	árangur
 .	.	.
-
 Mögulegt	lhensf	mögulegur
 er	sfg3en	vera
 að	c	að
@@ -2366,7 +2252,6 @@ og	c	og
 jafnvel	aa	jafnvel
 tegundar	nvee	tegund
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 hins	fakee	hinn
@@ -2387,7 +2272,6 @@ bein	nhfo	bein
 ungu	lheþsf	ungur
 dýri	nheþ	dýr
 .	.	.
-
 Frakkinn	nkengs	Frakki
 Leonard	e	Leonard
 Ginsburg	e	Ginsburg
@@ -2418,7 +2302,6 @@ ljúka	sng	ljúka
 því	faheþ	sá
 verki	nheþ	verk
 .	.	.
-
 Þá	aa	þá
 verður	sfg3en	verða
 ef	c	ef
@@ -2434,7 +2317,6 @@ fannst	sfm3eþ	finna
 í	aþ	í
 Burstarfelli	nheþ-s	Burstarfell
 .	.	.
-
 Hvort	c	hvort
 sem	c	sem
 okkur	fp1fþ	ég
@@ -2473,7 +2355,6 @@ gekk	sfg3eþ	ganga
 í	ao	í
 garð	nkeo	garður
 .	.	.
-
 Þau	fphfn	það
 hafa	sfg3fn	hafa
 að	aþ	að
@@ -2498,7 +2379,6 @@ um	ao	um
 miðbik	nheo	miðbik
 tertíertímans	nkeeg	tertíertími
 .	.	.
-
 Finnast	sfm3fn	finna
 steingerðir	lkfnsf	steingerður
 ammonítar	nkfn	ammoníti
@@ -2506,7 +2386,6 @@ hér	aa	hér
 við	ao	við
 land	nheo	land
 ?	?	?
-
 Ammonítar	nkfn	ammoníti
 eða	c	eða
 ammonshorn	nhen	ammonshorn
@@ -2517,7 +2396,6 @@ af	aþ	af
 flokki	nkeþ	flokkur
 kolkrabba	nkfe	kolkrabbi
 .	.	.
-
 Þeir	fpkfn	hann
 eru	sfg3fn	vera
 með	ao	með
@@ -2529,7 +2407,6 @@ kuðungslaga	lveoof	kuðungslaga
 ytri	lveovm	ytri
 skel	nveo	skel
 .	.	.
-
 Ammonítar	nkfn	ammoníti
 voru	sfg3fþ	vera
 sunddýr	nhfn	sunddýr
@@ -2541,7 +2418,6 @@ mikla	lveosf	mikill
 landfræðilega	lveosf	landfræðilegur
 útbreiðslu	nveo	útbreiðsla
 .	.	.
-
 Ammonítar	nkfn	ammoníti
 þróuðust	sfm3fþ	þróa
 hratt	aa	hratt
@@ -2558,7 +2434,6 @@ einkum	aa	einkum
 á	aþ	á
 miðlífsöld	nveþ	miðlífsöld
 .	.	.
-
 Þeir	fpkfn	hann
 eru	sfg3fn	vera
 því	aa	því
@@ -2566,7 +2441,6 @@ víða	aa	víða
 mikilvægir	lkfnsf	mikilvægur
 einkennissteingervingar	nkfn	einkennissteingervingur
 .	.	.
-
 Það	fphen	það
 verður	sfg3en	verða
 að	cn	að
@@ -2581,7 +2455,6 @@ jarðlögum	nhfþ	jarðlag
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Ammonítar	nkfn	ammoníti
 dóu	sfg3fþ	deyja
 út	aa	út
@@ -2613,7 +2486,6 @@ og	c	og
 miklu	lheþsf	mikill
 yngri	lhfnvm	ungur
 .	.	.
-
 Ammonítar	nkfn	ammoníti
 voru	sfg3fþ	vera
 því	aa	því
@@ -2627,7 +2499,6 @@ hér	aa	hér
 landi	nheþ	land
 mynduðust	sfm3fþ	mynda
 .	.	.
-
 Þegar	c	þegar
 haft	sþghen	hafa
 er	sfg3en	vera
@@ -2665,7 +2536,6 @@ staðar	nkee	staður
 undir	aþ	undir
 landinu	nheþg	land
 .	.	.
-
 Ef	c	ef
 svo	aa	svo
 væri	svg3eþ	vera
@@ -2689,7 +2559,6 @@ bergkviku	nveþ	bergkvika
 í	aþ	í
 eldgosum	nhfþ	eldgos
 .	.	.
-
 Slíkir	fbkfn	slíkur
 hnyðlingar	nkfn	hnyðlingur
 með	aþ	með
@@ -2708,7 +2577,6 @@ víða	aa	víða
 í	aþ	í
 Mýrdalnum	nkeþgs	Mýrdalur
 .	.	.
-
 Þessir	fakfn	þessi
 steingervingar	nkfn	steingervingur
 eru	sfg3fn	vera
@@ -2726,7 +2594,6 @@ en	c	en
 milljón	ta	milljón
 ára	nhfe	ár
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 er	sfg3en	vera
@@ -2757,7 +2624,6 @@ dæmis	nhee	dæmi
 með	aþ	með
 hafís	nkeþ	hafís
 .	.	.
-
 Þar	aa	þar
 hafa	sfg3fn	hafa
 áhafnir	nvfn	áhöfn
@@ -2776,7 +2642,6 @@ um	aa	um
 milljón	ta	milljón
 ára	nhfe	ár
 .	.	.
-
 Þessi	fahfn	þessi
 setbrot	nhfn	setbrot
 eru	sfg3fn	vera
@@ -2790,7 +2655,6 @@ Scoresbysund	nheo-s	Scoresbysund
 á	aþ	á
 Austur-Grænlandi	nheþ-s	Austur-Grænland
 .	.	.
-
 Eins	aa	eins
 og	c	og
 áður	aa	áður
@@ -2809,7 +2673,6 @@ um	aa	um
 milljón	tfhfþ	milljón
 árum	nhfþ	ár
 .	.	.
-
 Fyrir	aþ	fyrir
 tveimur	tfhfþ	tveir
 árum	nhfþ	ár
@@ -2862,7 +2725,6 @@ voru	sfg3fþ	vera
 að	cn	að
 myndast	snm	mynda
 .	.	.
-
 Ef	c	ef
 þetta	fahen	þessi
 mat	nhen	mat
@@ -2886,7 +2748,6 @@ sem	ct	sem
 fundist	ssm	finna
 hafa	sfg3fn	hafa
 .	.	.
-
 Hvar	aa	hvar
 má	sfg3en	mega
 finna	sng	finna
@@ -2896,7 +2757,6 @@ steingervinga	nkfo	steingervingur
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 ?	?	?
-
 <	<	<
 Helstu	lvfnve	heldri
 heimildir	nvfn	heimild
@@ -2908,7 +2768,6 @@ eru	sfg3fn	vera
 líklega	aa	líklega
 þessar	favfn	þessi
 >	>	>
-
 Í	aþ	í
 þessum	fahfþ	þessi
 ritum	nhfþ	rit
@@ -2949,7 +2808,6 @@ bls.	as	bls.
 og	c	og
 252-279	ta	252-279
 .	.	.
-
 Allmargar	lvfnsf	allmargur
 greinar	nvfn	grein
 um	ao	um
@@ -2970,7 +2828,6 @@ náttúrufræðifélag	nhen	náttúrufræðifélag
 gefur	sfg3en	gefa
 út	aa	út
 .	.	.
-
 Hver	fsven	hver
 var	sfg3eþ	vera
 minnsta	lvenve	lítill
@@ -2983,7 +2840,6 @@ andrúmsloftið	nheng	andrúmsloft
 hún	fpven	hún
 lifði	sfg3eþ	lifa
 ?	?	?
-
 Líklega	aa	líklega
 var	sfg3eþ	vera
 stökkfeti	nken	stökkfeti
@@ -3009,7 +2865,6 @@ nafnið	nheng	nafn
 árið	nheog	ár
 1910	ta	1910
 .	.	.
-
 Eðlan	nveng	eðla
 var	sfg3eþ	vera
 tvífætla	nven	tvífætla
@@ -3042,7 +2897,6 @@ verið	ssg	vera
 900	ta	900
 g	as	g
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 var	sfg3eþ	vera
@@ -3090,7 +2944,6 @@ voru	sfg3fþ	vera
 öll	fohfn	allur
 þykkari	lhfnvm	þykkur
 .	.	.
-
 Þannig	aa	þannig
 var	sfg3eþ	vera
 stökkfeti	nken	stökkfeti
@@ -3115,7 +2968,6 @@ nefnd	sþgven	nefna
 íslenskum	lhfþsf	íslenskur
 ritum	nhfþ	rit
 .	.	.
-
 Þar	aa	þar
 sem	c	sem
 60-70	ta	60-70
@@ -3150,7 +3002,6 @@ meiri	lvenvm	mikill
 þvengeðla	nven	þvengeðla
 »	»	»
 .	.	.
-
 Stökkfeti	nken	stökkfeti
 var	sfg3eþ	vera
 smávaxið	lhensf	smávaxinn
@@ -3175,7 +3026,6 @@ af	aþ	af
 lengd	nveþ	lengd
 dýrsins	nheeg	dýr
 .	.	.
-
 Fjórði	lkenvf	fjórði
 og	c	og
 fimmti	lkenvf	fimmti
@@ -3186,7 +3036,6 @@ og	c	og
 frekar	aam	frekar
 litlir	lkfnsf	lítill
 .	.	.
-
 Framlimir	nkfn	framlimur
 voru	sfg3fþ	vera
 um	ao	um
@@ -3197,7 +3046,6 @@ styttri	lkfnvm	stuttur
 en	c	en
 afturlimir	nkfn	afturlimur
 .	.	.
-
 Stökkfeti	nken	stökkfeti
 fannst	sfm3eþ	finna
 í	aþ	í
@@ -3217,7 +3065,6 @@ milljóna	nvfe	milljón
 ára	nhfe	ár
 gömul	lhfnsf	gamall
 .	.	.
-
 Þverhaus	nken	þverhaus
 er	sfg3en	vera
 aftur	aa	aftur
@@ -3244,7 +3091,6 @@ milljóna	nvfe	milljón
 ára	nhfe	ár
 gömul	lhfnsf	gamall
 .	.	.
-
 Dýrið	nheng	dýr
 var	sfg3eþ	vera
 tvífætla	nven	tvífætla
@@ -3264,7 +3110,6 @@ tennur	nvfo	tönn
 í	aþ	í
 kjálkum	nkfþ	kjálki
 .	.	.
-
 Halinn	nkeng	hali
 var	sfg3eþ	vera
 tæplega	aa	tæplega
@@ -3273,7 +3118,6 @@ af	aþ	af
 lengd	nveþ	lengd
 dýrsins	nheeg	dýr
 .	.	.
-
 Þegar	c	þegar
 stökkfeti	nken	stökkfeti
 lifði	sfg3eþ	lifa
@@ -3284,7 +3128,6 @@ mildara	lhenvm	mildur
 en	c	en
 nú	aa	nú
 .	.	.
-
 Enginn	foken	enginn
 ís	nken	ís
 var	sfg3eþ	vera
@@ -3304,7 +3147,6 @@ staðvindasamt	lhensf	staðvindasamur
 monsoonal	e	monsoonal
 )	)	)
 .	.	.
-
 Lofthiti	nken	lofthiti
 var	sfg3eþ	vera
 mun	nkeþ	munur
@@ -3321,7 +3163,6 @@ mjög	aa	mjög
 skiptust	sfm3fþ	skipta
 á	aa	á
 .	.	.
-
 Stökkfeti	nken	stökkfeti
 virðist	sfm3en	virða
 hafa	sng	hafa
@@ -3341,7 +3182,6 @@ að	cn	að
 brotna	sng	brotna
 upp	aa	upp
 .	.	.
-
 Þetta	fahen	þessi
 gríðarstóra	lhenvf	gríðarstór
 meginland	nhen	meginland
@@ -3372,7 +3212,6 @@ við	ao	við
 í	aþ	í
 daladrögum	nhfþ	daladrög
 .	.	.
-
 Á	aþ	á
 þurrari	lhfþvm	þurr
 landsvæðum	nhfþ	landsvæði
@@ -3388,13 +3227,11 @@ hér	aa	hér
 og	c	og
 þar	aa	þar
 .	.	.
-
 Hver	fsven	hver
 var	sfg3eþ	vera
 stærsta	lvenve	stór
 risaeðlan	nveng	risaeðla
 ?	?	?
-
 Almennt	aa	almennt
 er	sfg3en	vera
 talið	sþghen	telja
@@ -3422,7 +3259,6 @@ og	c	og
 m	as	m
 langt	lhensf	langur
 .	.	.
-
 Trölleðla	nven	trölleðla
 (	(	(
 Supersaurus	e	Supersaurus
@@ -3460,7 +3296,6 @@ léttari	lvenvm	léttur
 en	c	en
 finngálknið	nheng	finngálkn
 .	.	.
-
 Af	aa	af
 og	c	og
 til	aa	til
@@ -3479,7 +3314,6 @@ staðist	ssm	standa
 frekari	lvfovm	frekur
 rannsóknir	nvfo	rannsókn
 .	.	.
-
 Þannig	aa	þannig
 má	sfg3en	mega
 nefna	sng	nefna
@@ -3524,7 +3358,6 @@ um	aa	um
 m	as	m
 löng	lvensf	langur
 .	.	.
-
 Mjög	aa	mjög
 stórir	lkfnsf	stór
 en	c	en
@@ -3574,7 +3407,6 @@ nefnt	sþghen	nefna
 Ultrasaurus	e	Ultrasaurus
 )	)	)
 .	.	.
-
 Flestir	lkfnse	margur
 fræðingar	nkfn	fræðingur
 telja	sfg3fn	telja
@@ -3606,7 +3438,6 @@ um	aa	um
 55	ta	55
 tonn	nhfo	tonn
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 samt	aa	samt
@@ -3636,14 +3467,12 @@ yfir	aa	yfir
 7,5	ta	7,5
 tonn	nhfo	tonn
 .	.	.
-
 Hvernig	aa	hvernig
 varð	sfg3eþ	verða
 fyrsta	lvenve	fyrstur
 risaeðlan	nveng	risaeðla
 til	aa	til
 ?	?	?
-
 Hér	aa	hér
 er	sfg3en	vera
 einnig	aa	einnig
@@ -3654,7 +3483,6 @@ við	aþ	við
 eftirfarandi	lvfþof	eftirfarandi
 spurningum	nvfþ	spurning
 :	:	:
-
 Spurning	nven	spurning
 Brynjars	nkee-s	Brynjar
 Arnar	nkee-s	Örn
@@ -3669,7 +3497,6 @@ voru	sfg3fþ	vera
 fyrstu	lvfnve	fyrstur
 risaeðlurnar	nvfng	risaeðla
 ?	?	?
-
 og	c	og
 spurning	nven	spurning
 Dags	nkee-s	Dagur
@@ -3682,7 +3509,6 @@ finna	sng	finna
 margar	lvfosf	margur
 risaeðlutegundir	nvfo	risaeðlutegund
 ?	?	?
-
 Risaeðlur	nvfn	risaeðla
 (	(	(
 Dinosauria	e	Dinosauria
@@ -3710,7 +3536,6 @@ flegla	nkfe	flegill
 Ornithischia	e	Ornithischia
 )	)	)
 .	.	.
-
 Munurinn	nkeng	munur
 á	aþ	á
 þessum	fakfþ	þessi
@@ -3734,7 +3559,6 @@ latnesku	lheþsf	latneskur
 heiti	nheþ	heiti
 þeirra	fpkfe	hann
 .	.	.
-
 Eðlungar	nkfn	eðlungur
 eru	sfg3fn	vera
 með	ao	með
@@ -3750,7 +3574,6 @@ hafa	sfg3fn	hafa
 lendarbyggingu	nveo	lendarbygging
 fugla	nkfe	fugl
 .	.	.
-
 Talið	sþghen	telja
 er	sfg3en	vera
 næsta	aa	næsta
@@ -3777,7 +3600,6 @@ einkum	aa	einkum
 frá	aþ	frá
 Suður-Afríku	nveþ-s	Suður-Afríka
 .	.	.
-
 Boleðlur	nvfn	boleðla
 voru	sfg3fþ	vera
 upp	aa	upp
@@ -3800,7 +3622,6 @@ frekar	aam	frekar
 sem	c	sem
 griplimi	nkfo	griplimur
 .	.	.
-
 Flestar	lvfnse	margur
 voru	sfg3fþ	vera
 því	aa	því
@@ -3813,7 +3634,6 @@ og	c	og
 fyrstu	lvfnve	fyrstur
 risaeðlurnar	nvfng	risaeðla
 .	.	.
-
 Þá	aa	þá
 má	sfg3en	mega
 sjá	sng	sjá
@@ -3837,7 +3657,6 @@ fram	aa	fram
 í	aþ	í
 hauskúpugerð	nveþ	hauskúpugerð
 .	.	.
-
 Fyrstu	lvfnve	fyrstur
 og	c	og
 elstu	lvfnve	gamall
@@ -3857,7 +3676,6 @@ bera	sng	bera
 stækkandi	lhfþof	stækkandi
 líkamsformum	nhfþ	líkamsform
 .	.	.
-
 Fyrstu	lvfnve	fyrstur
 risaeðlurnar	nvfng	risaeðla
 eins	aa	eins
@@ -3888,7 +3706,6 @@ yfir	aa	yfir
 30	ta	30
 kg	as	kg
 .	.	.
-
 Dýrin	nhfng	dýr
 voru	sfg3fþ	vera
 greinilega	aa	greinilega
@@ -3906,7 +3723,6 @@ tönnum	nvfþ	tönn
 í	aþ	í
 kjálkum	nkfþ	kjálki
 .	.	.
-
 Halinn	nkeng	hali
 var	sfg3eþ	vera
 langur	lkensf	langur
@@ -3918,7 +3734,6 @@ af	aþ	af
 lengd	nveþ	lengd
 dýrsins	nheeg	dýr
 .	.	.
-
 Minnstu	lvfnve	lítill
 risaeðlurnar	nvfng	risaeðla
 eins	aa	eins
@@ -3948,7 +3763,6 @@ og	c	og
 3-3,5	ta	3-3,5
 kg	as	kg
 .	.	.
-
 Bent	sþghen	benda
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -3961,7 +3775,6 @@ risavöxt	nkeo	risavöxtur
 þessara	fahfe	þessi
 dýra	nhfe	dýr
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ljóst	lhensf	ljós
@@ -3980,7 +3793,6 @@ rándýrin	nhfng	rándýr
 í	ao	í
 kjölfarið	nheog	kjölfar
 .	.	.
-
 Í	aþ	í
 fyrsta	lheþve	fyrstur
 lagi	nheþ	lag
@@ -4003,7 +3815,6 @@ svæðum	nhfþ	svæði
 á	aþ	á
 miðlífsöld	nveþ	miðlífsöld
 .	.	.
-
 Þá	aa	þá
 eru	sfg3fn	vera
 skriðdýr	nhfn	skriðdýr
@@ -4044,7 +3855,6 @@ en	c	en
 lítil	lhfosf	lítill
 dýr	nhfo	dýr
 .	.	.
-
 Þar	aa	þar
 að	aa	að
 auki	aa	auki
@@ -4070,7 +3880,6 @@ dýri	nheþ	dýr
 en	c	en
 litlu	lheþsf	lítill
 .	.	.
-
 Ýmislegt	lhensf	ýmislegur
 ,	,	,
 eins	aa	eins
@@ -4107,7 +3916,6 @@ höfðu	sfg3fþ	hafa
 sem	c	sem
 ungviði	nhen	ungviði
 .	.	.
-
 Þá	aa	þá
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -4132,7 +3940,6 @@ lífssvæði	nheo	lífssvæði
 og	c	og
 æti	nheo	æti
 .	.	.
-
 Þegar	c	þegar
 lífsbaráttan	nveng	lífsbarátta
 varð	sfg3eþ	verða
@@ -4187,7 +3994,6 @@ við	ao	við
 nýju	lvfovf	nýr
 aðstæður	nvfo	aðstæður
 .	.	.
-
 Um	ao	um
 fjölda	nkeo	fjöldi
 risaeðla	nvfe	risaeðla
@@ -4204,7 +4010,6 @@ lýst	sþghen	lýsa
 737	ta	737
 ættkvíslum	nvfþ	ættkvísl
 .	.	.
-
 Hin	ghfn	hinn
 fyrri	lhfnvm	fyrri
 voru	sfg3fþ	vera
@@ -4227,7 +4032,6 @@ bönnuð	sþghfn	banna
 með	aþ	með
 lögum	nhfþ	lag
 .	.	.
-
 Yngri	lhfnvm	ungur
 samtökin	nhfng	samtök
 voru	sfg3fþ	vera
@@ -4240,7 +4044,6 @@ enn	aa	enn
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Fyrri	lkenvm	fyrri
 hluti	nken	hluti
 nafnsins	nheeg	nafn
@@ -4266,7 +4069,6 @@ hringur	nken	hringur
 hjól	nhen	hjól
 »	»	»
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 einnig	aa	einnig
@@ -4292,7 +4094,6 @@ reiðhjól	nhen	reiðhjól
 »	»	»
 )	)	)
 .	.	.
-
 Íslensku	lhfnvf	íslenskur
 orðin	nhfng	orð
 hjól	nhen	hjól
@@ -4304,7 +4105,6 @@ sama	fbheþ	sami
 gríska	lheþvf	grískur
 orðinu	nheþg	orð
 .	.	.
-
 Talið	sþghen	telja
 er	sfg3en	vera
 að	c	að
@@ -4350,7 +4150,6 @@ oft	aa	oft
 öfgasamtök	nhfn	öfgasamtök
 »	»	»
 .	.	.
-
 Líklegast	lhense	líklegur
 er	sfg3en	vera
 að	c	að
@@ -4361,7 +4160,6 @@ eigi	svg3en	eiga
 við	ao	við
 Klan	e	Klan
 .	.	.
-
 Rithátturinn	nkeng	ritháttur
 með	aþ	með
 K	nheþ	K
@@ -4378,7 +4176,6 @@ fyrri	lkeþvm	fyrri
 hluta	nkeþ	hluti
 nafnsins	nheeg	nafn
 .	.	.
-
 Á	aþ	á
 Vísindavefnum	nkeþgs	Vísindavefur
 er	sfg3en	vera
@@ -4397,24 +4194,20 @@ indjánar	nkfn	indjáni
 í	aþ	í
 Þrælastríðinu	nheþgs	Þrælastríð
 ?	?	?
-
 eftir	ao	eftir
 Skúla	nkeo-s	Skúli
 Sæland	nkeo-s	Sæland
 .	.	.
-
 -	-	-
 Hver	fsken	hver
 var	sfg3eþ	vera
 Marcus	e	Marcus
 Garvey	e	Garvey
 ?	?	?
-
 eftir	ao	eftir
 Björgvin	nkeo-s	Björgvin
 Sigurðsson	nkeo-s	Sigurðsson
 .	.	.
-
 -	-	-
 Hver	fsken	hver
 var	sfg3eþ	vera
@@ -4426,19 +4219,16 @@ Bandaríkjunum	nhfþgs	Bandaríki
 eftir	ao	eftir
 1950	ta	1950
 ?	?	?
-
 eftir	ao	eftir
 Ulriku	e	Ulriku
 Andersson	e	Andersson
 .	.	.
-
 Mynd	nven	mynd
 :	:	:
 Studenterpræstearbejdet	e	Studenterpræstearbejdet
 i	e	i
 Aalborg	e	Aalborg
 .	.	.
-
 Kvenkynsorðið	nheng	kvenkynsorð
 vís	nven	vís
 í	aþ	í
@@ -4478,7 +4268,6 @@ kvenkyni	nheþ	kvenkyn
 og	c	og
 karlkyni	nheþ	karlkyn
 .	.	.
-
 Orðið	nheng	orð
 er	sfg3en	vera
 einnig	aa	einnig
@@ -4490,7 +4279,6 @@ dönsku	nveþ	danska
 sem	c	sem
 vis	e	vis
 .	.	.
-
 Í	aþ	í
 fornensku	nveþ	fornenska
 var	sfg3eþ	vera
@@ -4544,7 +4332,6 @@ eru	sfg3fn	vera
 því	aa	því
 náskyld	lhfnsf	náskyldur
 .	.	.
-
 Elstu	lvfnve	gamall
 heimildir	nvfn	heimild
 um	ao	um
@@ -4565,7 +4352,6 @@ finna	sng	finna
 í	aþ	í
 Landnámu	nveþ-s	Landnáma
 .	.	.
-
 Þótt	c	þótt
 engin	foven	enginn
 vissa	nven	vissa
@@ -4593,7 +4379,6 @@ nafna	nhfe	nafn
 um	ao	um
 aldir	nvfo	öld
 .	.	.
-
 Til	ae	til
 Landnámu	nvee-s	Landnáma
 og	c	og
@@ -4621,7 +4406,6 @@ finna	sng	finna
 ný	lhfosf	nýr
 nöfn	nhfo	nafn
 .	.	.
-
 Þessi	fahfn	þessi
 nöfn	nhfn	nafn
 mynda	sfg3fn	mynda
@@ -4644,7 +4428,6 @@ sem	ct	sem
 tímar	nkfn	tími
 liðu	sfg3fþ	líða
 .	.	.
-
 Í	aþ	í
 raun	nveþ	raun
 er	sfg3en	vera
@@ -4658,7 +4441,6 @@ nöfn	nhfo	nafn
 íslensk	lhfosf	íslenskur
 nöfn	nhfo	nafn
 .	.	.
-
 Þau	fphfn	það
 eru	sfg3fn	vera
 að	aþ	að
@@ -4674,7 +4456,6 @@ með	aþ	með
 norskum	lkfþsf	norskur
 landnámsmönnum	nkfþ	landnámsmaður
 .	.	.
-
 Fáein	fohfn	fáeinir
 eru	sfg3fn	vera
 austurnorræn	lhfnsf	austurnorrænn
@@ -4694,7 +4475,6 @@ Garðar	nken-s	Garðar
 og	c	og
 Vagn	nken-s	Vagn
 .	.	.
-
 Norrænu	lhfnvf	norrænn
 nöfnin	nhfng	nafn
 eiga	sfg3fn	eiga
@@ -4707,7 +4487,6 @@ sameiginlegs	lkeesf	sameiginlegur
 germansks	lkeesf	germanskur
 arfs	nkee	arfur
 .	.	.
-
 Sum	fohfn	sumur
 hafa	sfg3fn	hafa
 borist	ssm	bera
@@ -4725,7 +4504,6 @@ Vilborg	nven-s	Vilborg
 og	c	og
 Hlöðver	nken-s	Hlöðver
 .	.	.
-
 Eins	aa	eins
 og	c	og
 kunnugt	lhensf	kunnugur
@@ -4758,7 +4536,6 @@ Njáll	nken-s	Njáll
 og	c	og
 Melkorka	nven-s	Melkorka
 .	.	.
-
 Eftir	ao	eftir
 kristnitöku	nveo	kristnitaka
 árið	nheog	ár
@@ -4777,7 +4554,6 @@ menn	nkfo	maður
 og	c	og
 konur	nvfo	kona
 .	.	.
-
 Í	aþ	í
 tengslum	nhfþ	tengsl
 við	ao	við
@@ -4796,7 +4572,6 @@ við	ao	við
 innlenda	lkfosf	innlendur
 viðliði	nkfo	viðliður
 .	.	.
-
 Elstu	lhfnve	gamall
 nöfn	nhfn	nafn
 af	aþ	af
@@ -4813,7 +4588,6 @@ frá	aþ	frá
 13.	ta	13.
 öld	nveþ	öld
 .	.	.
-
 Strangt	aa	strangt
 til	aa	til
 tekið	sþghen	taka
@@ -4829,7 +4603,6 @@ eða	c	eða
 annan	fokeo	annar
 hátt	nkeo	háttur
 .	.	.
-
 Íslendingar	nkfn-s	Íslendingur
 hafa	sfg3fn	hafa
 þó	aa	þó
@@ -4870,7 +4643,6 @@ upphafi	nheþ	upphaf
 frá	aþ	frá
 Noregi	nkeþ-s	Noregur
 .	.	.
-
 Mörg	lhfnsf	margur
 nöfn	nhfn	nafn
 eru	sfg3fn	vera
@@ -4879,7 +4651,6 @@ búin	sþghfn	búa
 til	aa	til
 hérlendis	aa	hérlendis
 .	.	.
-
 Á	sfg3en	eiga
 það	fphen	það
 einkum	aa	einkum
@@ -4907,7 +4678,6 @@ afa	nkeþ	afi
 og	c	og
 ömmu	nveþ	amma
 .	.	.
-
 Þannig	aa	þannig
 mun	sfg3en	munu
 Feldís	nven-s	Feldís
@@ -4930,7 +4700,6 @@ Einari	nkeþ-s	Einar
 og	c	og
 Þórdísi	nveþ-s	Þórdís
 .	.	.
-
 Dæmi	nhfn	dæmi
 um	ao	um
 samsett	lhfosf	samsettur
@@ -4961,7 +4730,6 @@ sem	ct	sem
 öðrum	fohfþ	annar
 nöfnum	nhfþ	nafn
 .	.	.
-
 Sólbrá	nven-s	Sólbrá
 og	c	og
 Sólbrún	nven-s	Sólbrún
@@ -4970,7 +4738,6 @@ vera	sng	vera
 íslenskar	lvfnsf	íslenskur
 nýmyndanir	nvfn	nýmyndun
 .	.	.
-
 Sóllilja	nven-s	Sóllilja
 er	sfg3en	vera
 einnig	aa	einnig
@@ -4992,7 +4759,6 @@ Sóllilju	nveþ-s	Sóllilja
 Sjálfstæðu	lheþsf	sjálfstæður
 fólki	nheþ	fólk
 .	.	.
-
 Þetta	fahen	þessi
 eru	sfg3fn	vera
 aðeins	aa	aðeins

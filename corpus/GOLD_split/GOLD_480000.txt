@@ -5,7 +5,6 @@ gagnvart	aþ	gagnvart
 svona	lkeþof	svona
 manni	nkeþ	maður
 .	.	.
-
 Að	c	að
 þetta	fahen	þessi
 skuli	svg3en	skulu
@@ -20,7 +19,6 @@ og	c	og
 í	aþ	í
 bíó	nheþ	bíó
 .	.	.
-
 Menn	nkfn	maður
 eru	sfg3fn	vera
 í	aþ	í
@@ -33,7 +31,6 @@ af	aþ	af
 þessu	faheþ	þessi
 máli	nheþ	mál
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 fé	nhen	fé
@@ -46,7 +43,6 @@ sýsla	sng	sýsla
 með	aa	með
 .	.	.
 »	»	»
-
 Ingimar	nken-s	Ingimar
 skilaði	sfg3eþ	skila
 lyklum	nkfþ	lykill
@@ -56,7 +52,6 @@ fjórðungssambandsins	nheeg	fjórðungssamband
 í	aa	í
 gær	aa	gær
 .	.	.
-
 Hann	fpken	hann
 baðst	sfm3eþ	biðja
 afsökunar	nvee	afsökun
@@ -77,7 +72,6 @@ sem	ct	sem
 eftir	aa	eftir
 stóðu	sfg3fþ	standa
 .	.	.
-
 Ákveðið	sþghen	ákveða
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -85,7 +79,6 @@ að	cn	að
 kæra	sng	kæra
 framkvæmdastjórann	nkeog	framkvæmdastjóri
 .	.	.
-
 Forveri	nken	forveri
 Ingimars	nkee-s	Ingimar
 í	aþ	í
@@ -99,7 +92,6 @@ fjárdrætti	nkeþ	fjárdráttur
 árið	nheog	ár
 2001	ta	2001
 .	.	.
-
 Ákveðið	sþghen	ákveða
 var	sfg3eþ	vera
 að	cn	að
@@ -117,7 +109,6 @@ endurgreiðslu	nveo	endurgreiðsla
 hluta	nkee	hluti
 fjárins	nheeg	fé
 .	.	.
-
 Sambandið	nheng	samband
 tapaði	sfg3eþ	tapa
 tveimur	tfvfþ	tveir
@@ -125,7 +116,6 @@ milljónum	nvfþ	milljón
 á	aþ	á
 málinu	nheþg	mál
 .	.	.
-
 Á	aþ	á
 fjórðungsþingi	nheþ	fjórðungsþing
 um	ao	um
@@ -144,7 +134,6 @@ Vestfjarða	nkfe-s	Vestfirðir
 verður	sfg3en	verða
 aukin	sþgven	auka
 .	.	.
-
 Verði	svg3fn	verða
 fyrirliggjandi	lkfnof	fyrirliggjandi
 samningar	nkfn	samningur
@@ -171,9 +160,7 @@ ráða	sng	ráða
 nýjan	lkeosf	nýr
 framkvæmdastjóra	nkeo	framkvæmdastjóri
 .	.	.
-
 jtr@frettabladid.is	v	jtr@frettabladid.is
-
 Drekkti	sfg3eþ	drekkja
 syni	nkeþ	sonur
 sínum	fekeþ	sinn
@@ -202,7 +189,6 @@ morð	nheo	morð
 og	c	og
 morðtilraun	nveo	morðtilraun
 .	.	.
-
 Wilhelm	e	Wilhelm
 drekkti	sfg3eþ	drekkja
 í	ao	í
@@ -233,7 +219,6 @@ sínum	fekeþ	sinn
 ára	nhfe	ár
 gömlum	lkeþsf	gamall
 .	.	.
-
 Wilhelm	e	Wilhelm
 var	sfg3eþ	vera
 greind	sþgven	greina
@@ -256,7 +241,6 @@ miskunn	nveo	miskunn
 í	aþ	í
 málinu	nheþg	mál
 .	.	.
-
 «	«	«
 Hún	fpven	hún
 á	ao	á
@@ -271,7 +255,6 @@ sínum	fekfþ	sinn
 tveimur	tfkfþ	tveir
 ,	,	,
 »	»	»
-
 sagði	sfg3eþ	segja
 Patrick	e	Patrick
 McGrath	e	McGrath
@@ -282,7 +265,6 @@ kvað	sfg3eþ	kveða
 upp	aa	upp
 dóminn	nkeog	dómur
 .	.	.
-
 KÝR	nvfn	kýr
 Á	aþ	á
 BEIT	nveþ	beit
@@ -298,7 +280,6 @@ en	c	en
 árið	nheog	ár
 áður	aa	áður
 .	.	.
-
 Umframframleiðsla	nven	umframframleiðsla
 er	sfg3en	vera
 þó	aa	þó
@@ -307,7 +288,6 @@ síðustu	lhfove	síðari
 tíu	tfhfo	tíu
 árin	nhfog	ár
 .	.	.
-
 Mjólkurframleiðsla	nven	mjólkurframleiðsla
 :	:	:
 Milljónir	nvfn	milljón
@@ -327,7 +307,6 @@ mjólkurafurðum	nvfþ	mjólkurafurð
 á	aþ	á
 næstunni	nveþg	næsta
 .	.	.
-
 Um	ao	um
 er	sfg3en	vera
 að	cn	að
@@ -364,7 +343,6 @@ nota	sng	nota
 hana	fpveo	hún
 hér	aa	hér
 .	.	.
-
 Pálmi	nken-s	Pálmi
 Vilhjálmsson	nken-s	Vilhjálmsson
 ,	,	,
@@ -393,7 +371,6 @@ geri	svg3fn	gera
 þessa	faveo	þessi
 umframframleiðslu	nveo	umframframleiðsla
 .	.	.
-
 «	«	«
 Þetta	fahen	þessi
 er	sfg3en	vera
@@ -416,7 +393,6 @@ smjöri	nheþ	smjör
 segir	sfg3en	segja
 Pálmi	nken-s	Pálmi
 .	.	.
-
 Bændur	nkfn	bóndi
 fá	sfg3fn	fá
 engar	fovfo	enginn
@@ -424,7 +400,6 @@ beingreiðslur	nvfo	beingreiðsla
 með	aþ	með
 umframframleiðslu	nveþ	umframframleiðsla
 .	.	.
-
 SMAUG	sfg3eþ	smjúga
 FRAMHJÁ	aþ	framhjá
 HEILANUM	nkeþg	heili
@@ -440,7 +415,6 @@ sem	ct	sem
 segja	sng	segja
 þarf	sfg3en	þurfa
 .	.	.
-
 Læknar	nkfn	læknir
 tóku	sfg3fþ	taka
 þá	faveo	sá
@@ -453,7 +427,6 @@ rólega	aa	rólega
 höfði	nheþ	höfuð
 Hunts	e	Hunts
 .	.	.
-
 Auga	nheþ	auga
 hans	fpkee	hann
 varð	sfg3eþ	verða
@@ -469,7 +442,6 @@ við	ao	við
 varanlegan	lkeosf	varanlegur
 skaða	nkeo	skaði
 .	.	.
-
 HEIMKOMAN	nveng	heimkoma
 Björgunarþyrlurnar	nvfng	björgunarþyrla
 komnar	sþgvfn	koma
@@ -485,7 +457,6 @@ Leone	e	Leone
 og	c	og
 Líberíu	nveþ-s	Líbería
 .	.	.
-
 Þreyttir	lkfnsf	þreyttur
 en	c	en
 glaðir	lkfnsf	glaður
@@ -493,7 +464,6 @@ glaðir	lkfnsf	glaður
 Heim	aa	heim
 frá	aþ	frá
 Afríku	nveþ-s	Afríka
-
 Þrjár	tfvfn	þrír
 björgunarþyrlur	nvfn	björgunarþyrla
 varnarliðsins	nheeg	varnarlið
@@ -520,7 +490,6 @@ Keflavíkurflugvallar	nkee-s	Keflavíkurflugvöllur
 síðastliðinn	lkeosf	síðastliðinn
 mánudag	nkeo	mánudagur
 .	.	.
-
 Þar	aa	þar
 veitti	sfg3eþ	veita
 björgunarsveitin	nveng	björgunarsveit
@@ -538,7 +507,6 @@ dvölinni	nveþg	dvöl
 þar	aa	þar
 stóð	sfg3eþ	standa
 .	.	.
-
 Varnarliðsmennirnir	nkfng	varnarliðsmaður
 sögðust	sfm3fþ	segja
 fegnir	lkfnsf	feginn
@@ -567,7 +535,6 @@ heilu	lheþsf	heill
 og	c	og
 höldnu	lheþsf	haldinn
 .	.	.
-
 Gripaflutningabíll	nken	gripaflutningabíll
 :	:	:
 Furðuleg	lvensf	furðulegur
@@ -605,7 +572,6 @@ dýralækni	nkeo	dýralæknir
 eftir	aþ	eftir
 honum	fpkeþ	hann
 .	.	.
-
 Fyrsta	lhenve	fyrstur
 smáskífulagið	nheng	smáskífulag
 ,	,	,
@@ -631,7 +597,6 @@ stjarna	nven	stjarna
 var	sfg3eþ	vera
 fædd	sþgven	fæða
 .	.	.
-
 Platan	nveng	plata
 kom	sfg3eþ	koma
 út	aa	út
@@ -648,7 +613,6 @@ Shortlist-tónlistarverðlaunin	nhfogs	Shortlist-tónlistarverðlaun
 árið	nheog	ár
 eftir	aa	eftir
 .	.	.
-
 Honum	fpkeþ	hann
 til	ae	til
 aðstoðar	nvee	aðstoð
@@ -672,7 +636,6 @@ sellóleikarinn	nkeng	sellóleikari
 Vyvienne	e	Vyvienne
 Long	e	Long
 .	.	.
-
 Voru	sfg3fþ	vera
 þær	fpvfn	hún
 honum	fpkeþ	hann
@@ -693,7 +656,6 @@ fallega	lkfosf	fallegur
 tóna	nkfo	tónn
 Rice	e	Rice
 .	.	.
-
 Rice	e	Rice
 hefur	sfg3en	hafa
 einnig	aa	einnig
@@ -713,7 +675,6 @@ bera	sfg3fn	bera
 vott	nkeo	vottur
 um	aa	um
 .	.	.
-
 Hefur	sfg3en	hafa
 hann	fpken	hann
 m.a.	as	m.a.
@@ -739,7 +700,6 @@ vegna	ae	vegna
 stjórnmálaskoðana	nvfe	stjórnmálaskoðun
 sinna	fevfe	sinn
 .	.	.
-
 Rice	e	Rice
 gaf	sfg3eþ	gefa
 út	aa	út
@@ -762,7 +722,6 @@ frelsi	nheþ	frelsi
 Suu	e	Suu
 Kyi	e	Kyi
 .	.	.
-
 Fyrsta	lhenve	fyrstur
 smáskífulag	nhen	smáskífulag
 9	ta	9
@@ -770,7 +729,6 @@ heitir	sfg3en	heita
 9	ta	9
 Crimes	e	Crimes
 .	.	.
-
 Á	aþ	á
 plötunni	nveþg	plata
 eru	sfg3fn	vera
@@ -782,7 +740,6 @@ hvert	fohen	hver
 öðru	foheþ	annar
 betra	lhenvm	góður
 .	.	.
-
 Er	sfg3en	vera
 ljóst	lhensf	ljós
 að	c	að
@@ -810,7 +767,6 @@ fyrr	aam	fyrr
 í	aþ	í
 fyrirrúmi	nheþ	fyrirrúm
 .	.	.
-
 Til	ae	til
 að	cn	að
 fylgja	sng	fylgja
@@ -828,7 +784,6 @@ nóvember	nkeþ	nóvember
 og	c	og
 desember	nkeþ	desember
 .	.	.
-
 Hann	fpken	hann
 mun	sfg3en	munu
 jafnframt	aa	jafnframt
@@ -858,7 +813,6 @@ O	e	O
 '	'	'
 Brien	e	Brien
 .	.	.
-
 Eftir	ao	eftir
 áramót	nhfo	áramót
 má	sfg3en	mega
@@ -869,7 +823,6 @@ tónleikaferð	nveþ	tónleikaferð
 um	ao	um
 Evrópu	nveo-s	Evrópa
 .	.	.
-
 Fyrir	aþ	fyrir
 nokkrum	fohfþ	nokkur
 árum	nhfþ	ár
@@ -890,7 +843,6 @@ leið	nveo	leið
 og	c	og
 breikdansinn	nkeng	breikdans
 .	.	.
-
 Hefðin	nveng	hefð
 á	aþ	á
 klakanum	nkeþg	klaki
@@ -924,7 +876,6 @@ kynnt	sþghen	kynna
 til	ae	til
 sögunnar	nveeg	saga
 .	.	.
-
 Það	fphen	það
 hefur	sfg3en	hafa
 farið	ssg	fara
@@ -953,7 +904,6 @@ bóla	nven	bóla
 sem	ct	sem
 sprakk	sfg3eþ	springa
 .	.	.
-
 Staðreyndin	nveng	staðreynd
 er	sfg3en	vera
 hins	fakee	hinn
@@ -979,7 +929,6 @@ eins	aa	eins
 og	c	og
 London	e	London
 .	.	.
-
 Þannig	aa	þannig
 hafði	sfg1eþ	hafa
 ég	fp1en	ég
@@ -1016,7 +965,6 @@ lífi	nheþ	líf
 höfuðborg	nveþ	höfuðborg
 Bretlands	nhee-s	Bretland
 .	.	.
-
 Ekki	aa	ekki
 bara	aa	bara
 það	fphen	það
@@ -1042,13 +990,11 @@ og	c	og
 stærstu	lkfnve	stór
 klúbbarnir	nkfng	klúbbur
 .	.	.
-
 Þar	aa	þar
 hafið	sfg2fn	hafa
 þið	fp2fn	þú
 það	fpheo	það
 .	.	.
-
 Pendulum	e	Pendulum
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -1075,7 +1021,6 @@ frumraun	nven	frumraun
 kom	sfg3eþ	koma
 út	aa	út
 .	.	.
-
 Ég	fp1en	ég
 held	sfg1en	halda
 að	c	að
@@ -1120,7 +1065,6 @@ vel	aa	vel
 til	ae	til
 mín	fp1ee	ég
 .	.	.
-
 Miðað	sþghen	miða
 hversu	aa	hversu
 hröð	lvensf	hraður
@@ -1150,7 +1094,6 @@ upp	aa	upp
 yfirborð	nheo	yfirborð
 meginstraumsins	nkeeg	meginstraumur
 .	.	.
-
 Þessi	faven	þessi
 plata	nven	plata
 hér	aa	hér
@@ -1161,7 +1104,6 @@ burði	nkfo	burður
 til	ae	til
 þess	fphee	það
 .	.	.
-
 Þó	aa	þó
 hljóðheimur	nken	hljóðheimur
 þessarar	favee	þessi
@@ -1202,7 +1144,6 @@ erindi	nheo	erindi
 í	ao	í
 útvarpsspilun	nveo	útvarpsspilun
 .	.	.
-
 Kynnið	sbg2fn	kynna
 ykkur	fp2fþ	þú
 bara	aa	bara
@@ -1218,7 +1159,6 @@ trúið	sfg2fn	trúa
 mér	fp1eþ	ég
 ekki	aa	ekki
 .	.	.
-
 Hið	ghen	hinn
 angurværa	lhenvf	angurvær
 titillag	nhen	titillag
@@ -1247,7 +1187,6 @@ hluta	nkeo	hluti
 síðasta	lkeeve	síðari
 áratugar	nkee	áratugur
 .	.	.
-
 Án	ae	án
 efa	nkee	efi
 ein	tfven	einn
@@ -1255,13 +1194,11 @@ af	aþ	af
 plötum	nvfþ	plata
 ársins	nheeg	ár
 .	.	.
-
 Breikbítið	nheng	breikbít
 fór	sfg3eþ	fara
 aldrei	aa	aldrei
 neitt	foheo	neinn
 !	!	!
-
 Leikarinn	nkeng	leikari
 Russel	e	Russel
 Crowe	e	Crowe
@@ -1291,7 +1228,6 @@ heimalandi	nheþ	heimaland
 hans	fpkee	hann
 Ástralíu	nveþ-s	Ástralía
 .	.	.
-
 Crowe	e	Crowe
 ,	,	,
 sem	ct	sem
@@ -1315,7 +1251,6 @@ júní	nkeþ	júní
 í	ao	í
 fyrra	lheovm	fyrri
 .	.	.
-
 Crowe	e	Crowe
 er	sfg3en	vera
 ósáttur	lkensf	ósáttur
@@ -1330,7 +1265,6 @@ að	cn	að
 misnota	sng	misnota
 það	fpheo	það
 .	.	.
-
 «	«	«
 Í	aþ	í
 mínu	feheþ	minn
@@ -1372,7 +1306,6 @@ til	ae	til
 eiginkonu	nveo	eiginkona
 sína	feveo	sinn
 .	.	.
-
 Crowe	e	Crowe
 er	sfg3en	vera
 þekktur	lkensf	þekktur
@@ -1388,7 +1321,6 @@ grein	nveo	grein
 fyrir	aþ	fyrir
 því	fpheþ	það
 .	.	.
-
 «	«	«
 Já	au	já
 ,	,	,
@@ -1399,7 +1331,6 @@ skap	nheo	skap
 engin	foven	enginn
 spurning	nven	spurning
 .	.	.
-
 En	c	en
 veistu	sfg2en	vita
 hvað	fshen	hver
@@ -1410,7 +1341,6 @@ hefur	sfg2en	hafa
 það	fpheo	það
 ekki	aa	ekki
 ?	?	?
-
 Einn	fokeo	einn
 dag	nkeo	dagur
 þegar	c	þegar
@@ -1432,10 +1362,8 @@ um	aa	um
 sagði	sfg3eþ	segja
 hann	fpken	hann
 .	.	.
-
 Lélegt	lhensf	lélegur
 dómskerfi	nhen	dómskerfi
-
 Vel	aa	vel
 gerð	lvensf	gerður
 og	c	og
@@ -1464,7 +1392,6 @@ O.C.	as	O.C.
 þættirnir	nkfng	þáttur
 )	)	)
 ofl.	as	ofl.
-
 Frá	aþ	frá
 handritshöfundi	nkeþ	handritshöfundur
 «	«	«
@@ -1476,7 +1403,6 @@ og	c	og
 «	«	«
 Crash	e	Crash
 »	»	»
-
 «	«	«
 Ég	fp1en	ég
 er	sfg1en	vera
@@ -1515,7 +1441,6 @@ Ungverjalandi	nheþ-s	Ungverjaland
 í	aþ	í
 meistaradeildinni	nveþg	meistaradeild
 .	.	.
-
 Ciudad	e	Ciudad
 vann	sfg3eþ	vinna
 tiltölulega	aa	tiltölulega
@@ -1528,7 +1453,6 @@ skoraði	sfg3eþ	skora
 þrjú	tfhfo	þrír
 mörk	nhfo	mark
 .	.	.
-
 Fyrir	aþ	fyrir
 nokkrum	fovfþ	nokkur
 vikum	nvfþ	vika
@@ -1563,7 +1487,6 @@ horfði	sfg3eþ	horfa
 öðruvísi	aa	öðruvísi
 við	aa	við
 .	.	.
-
 «	«	«
 Ég	fp1en	ég
 finn	sfg1en	finna
@@ -1577,7 +1500,6 @@ er	sfg3en	vera
 alveg	aa	alveg
 eðlilegt	lhensf	eðlilegur
 .	.	.
-
 Miðað	sþghen	miða
 við	ao	við
 allt	foheo	allur
@@ -1590,7 +1512,6 @@ liði	svg3eþ	líða
 mjög	aa	mjög
 vel	aa	vel
 .	.	.
-
 Öxlin	nveng	öxl
 virðist	sfm3en	virða
 vera	sng	vera
@@ -1606,7 +1527,6 @@ er	sfg3en	vera
 mikill	lkensf	mikill
 léttir	nken	léttir
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 rosalega	aa	rosalega
@@ -1619,11 +1539,9 @@ völlinn	nkeog	völlur
 aftur	aa	aftur
 ,	,	,
 »	»	»
-
 sagði	sfg3eþ	segja
 Ólafur	nken-s	Ólafur
 .	.	.
-
 «	«	«
 Læknarnir	nkfng	læknir
 komust	sfm3fþ	koma
@@ -1637,7 +1555,6 @@ raun	nveþ	raun
 tveir	tfkfn	tveir
 kvillar	nkfn	kvilli
 .	.	.
-
 Annars	fokee	annar
 vegar	nkee	vegur
 slitgigt	nven	slitgigt
@@ -1668,7 +1585,6 @@ að	cn	að
 hreyfa	sng	hreyfa
 öxlina	nveog	öxl
 .	.	.
-
 Bólgan	nveng	bólga
 í	aþ	í
 öxlinni	nveþg	öxl
@@ -1707,7 +1623,6 @@ liðka	sng	liðka
 gigt	nveo	gigt
 til	aa	til
 .	.	.
-
 Þessi	faven	þessi
 áætlun	nven	áætlun
 virðist	sfm3en	virða
@@ -1716,7 +1631,6 @@ gengið	ssg	ganga
 upp	aa	upp
 .	.	.
 »	»	»
-
 Ólafur	nken-s	Ólafur
 segir	sfg3en	segja
 að	c	að
@@ -1747,13 +1661,11 @@ bólgueyðandi	lheoof	bólgueyðandi
 fyrir	ao	fyrir
 leikinn	nkeog	leikur
 .	.	.
-
 «	«	«
 Nei	au	nei
 ,	,	,
 nei	au	nei
 .	.	.
-
 Það	fphen	það
 varð	sfg3eþ	verða
 að	cn	að
@@ -1778,7 +1690,6 @@ eins	aa	eins
 og	c	og
 venjulega	aa	venjulega
 .	.	.
-
 Hann	fpken	hann
 kveðst	sfm3en	kveða
 ekki	aa	ekki
@@ -1792,7 +1703,6 @@ sérstaklega	aa	sérstaklega
 í	aþ	í
 leiknum	nkeþg	leikur
 .	.	.
-
 «	«	«
 Ég	fp1en	ég
 fann	sfg1eþ	finna
@@ -1806,7 +1716,6 @@ háði	sfg3eþ	há
 mér	fp1eþ	ég
 ekkert	fohen	enginn
 .	.	.
-
 Ég	fp1en	ég
 held	sfg1en	halda
 ég	fp1en	ég
@@ -1819,7 +1728,6 @@ gamli	lkenvf	gamall
 góði	lkenvf	góður
 Óli	nken-s	Óli
 .	.	.
-
 Tíðindin	nhfng	tíðindi
 eru	sfg3fn	vera
 mikil	lhfnsf	mikill
@@ -1851,7 +1759,6 @@ um	aa	um
 þrjá	tfkfo	þrír
 mánuði	nkfo	mánuður
 .	.	.
-
 Því	fpheþ	það
 fer	sfg3en	fara
 þó	aa	þó
@@ -1869,7 +1776,6 @@ sínum	fekeþ	sinn
 Talent	e	Talent
 Dujshebaev	e	Dujshebaev
 .	.	.
-
 Sá	faken	sá
 ætlar	sfg3en	ætla
 honum	fpkeþ	hann
@@ -1892,7 +1798,6 @@ Portland	e	Portland
 San	e	San
 Antonio	e	Antonio
 .	.	.
-
 «	«	«
 Það	fphen	það
 verður	sfg3en	verða
@@ -1918,7 +1823,6 @@ leikinn	nkeog	leikur
 á	ao	á
 miðvikudag	nkeo	miðvikudagur
 .	.	.
-
 Ég	fp1en	ég
 held	sfg1en	halda
 að	c	að
@@ -1928,7 +1832,6 @@ sýnt	ssg	sýna
 það	fpheo	það
 .	.	.
 »	»	»
-
 Landsliðsfyrirliðinn	nkeng	landsliðsfyrirliði
 Ólafur	nken-s	Ólafur
 Stefánsson	nken-s	Stefánsson
@@ -1955,7 +1858,6 @@ Evrópu	nvee-s	Evrópa
 í	aþ	í
 handbolta	nkeþ	handbolti
 .	.	.
-
 Ólafur	nken-s	Ólafur
 kenndi	sfg3eþ	kenna
 sér	fpkeþ	sig
@@ -1974,7 +1876,6 @@ bak	nheo	bak
 og	c	og
 burt	aa	burt
 .	.	.
-
 Hjálmar	nken-s	Hjálmar
 Þórarinsson	nken-s	Þórarinsson
 ,	,	,
@@ -2013,7 +1914,6 @@ annað	foheo	annar
 2-1	ta	2-1
 sigri	nkeþ	sigur
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 fyrsta	lhenve	fyrstur
@@ -2031,7 +1931,6 @@ Raith	e	Raith
 frá	aþ	frá
 Hearts	e	Hearts
 .	.	.
-
 «	«	«
 Ég	fp1en	ég
 er	sfg1en	vera
@@ -2040,7 +1939,6 @@ fyrir	ao	fyrir
 hönd	nveo	hönd
 Hjálmars	nkee-s	Hjálmar
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 ungur	lkensf	ungur
@@ -2058,7 +1956,6 @@ sig	fpkeo	sig
 alveg	aa	alveg
 frábærlega	aa	frábærlega
 .	.	.
-
 Hann	fpken	hann
 leggur	sfg3en	leggja
 sig	fpkeo	sig
@@ -2080,12 +1977,10 @@ Kirk	e	Kirk
 heimasíðu	nveþ	heimasíða
 Raith	e	Raith
 .	.	.
-
 Hjálmar	nken-s	Hjálmar
 hefur	sfg3en	hafa
 verið	ssg	vera
 frábær	lkensf	frábær
-
 Held	sfg1en	halda
 ég	fp1en	ég
 hafi	svg1en	hafa
@@ -2133,7 +2028,6 @@ og	c	og
 hálft	lheosf	hálfur
 ár	nheo	ár
 .	.	.
-
 Kjartan	nken-s	Kjartan
 Henry	nken-s	Henry
 byrjaði	sfg3eþ	byrja
@@ -2169,7 +2063,6 @@ varamaður	nken	varamaður
 síðari	lkeþvm	síðari
 hálfleik	nkeþ	hálfleikur
 .	.	.
-
 Í	aþ	í
 leik	nkeþ	leikur
 gegn	aþ	gegn
@@ -2202,7 +2095,6 @@ lokakaflanum	nkeþg	lokakafli
 2-0	ta	2-0
 sigri	nkeþ	sigur
 .	.	.
-
 Sú	faven	sá
 frammistaða	nven	frammistaða
 varð	sfg3eþ	verða
@@ -2219,7 +2111,6 @@ hrósaði	sfg3eþ	hrósa
 honum	fpkeþ	hann
 sérstaklega	aa	sérstaklega
 .	.	.
-
 «	«	«
 Strachan	e	Strachan
 kom	sfg3eþ	koma
@@ -2238,7 +2129,6 @@ staðið	ssg	standa
 mig	fp1eo	ég
 vel	aa	vel
 .	.	.
-
 Hann	fpken	hann
 sagði	sfg3eþ	segja
 mér	fp1eþ	ég
@@ -2293,7 +2183,6 @@ að	cn	að
 sanna	sng	sanna
 sig	fpkeo	sig
 .	.	.
-
 «	«	«
 Ég	fp1en	ég
 er	sfg1en	vera
@@ -2317,7 +2206,6 @@ upp	aa	upp
 á	ao	á
 síðkastið	nheog	síðkastið
 .	.	.
-
 Draumurinn	nkeng	draumur
 væri	svg3eþ	vera
 að	cn	að
@@ -2338,7 +2226,6 @@ eru	sfg3fn	vera
 bikarleikjunum	nkfþg	bikarleikur
 ,	,	,
 »	»	»
-
 segir	sfg3en	segja
 Kjartan	nken-s	Kjartan
 ,	,	,
@@ -2347,7 +2234,6 @@ augljóslega	aa	augljóslega
 stefnir	sfg3en	stefna
 hátt	aa	hátt
 .	.	.
-
 «	«	«
 Það	fphen	það
 þýðir	sfg3en	þýða
@@ -2363,7 +2249,6 @@ ekki	aa	ekki
 há	lhfosf	hár
 markmið	nhfo	markmið
 .	.	.
-
 Ég	fp1en	ég
 tel	sfg1en	telja
 að	c	að
@@ -2386,12 +2271,10 @@ stefni	sfg1en	stefna
 það	fpheo	það
 ,	,	,
 »	»	»
-
 segir	sfg3en	segja
 Kjartan	nken-s	Kjartan
 Henry	nken-s	Henry
 .	.	.
-
 NBA-deildin	nvengs	NBA-deild
 fór	sfg3eþ	fara
 af	aþ	af
@@ -2408,7 +2291,6 @@ við	ao	við
 fyrstu	lkfove	fyrstur
 leikina	nkfog	leikur
 .	.	.
-
 Í	ao	í
 fyrrinótt	nveo	fyrrinótt
 átti	sfg3eþ	eiga
@@ -2439,7 +2321,6 @@ Dallas	e	Dallas
 Mavericks	e	Mavericks
 107-76	ta	107-76
 .	.	.
-
 «	«	«
 Til	ae	til
 að	cn	að
@@ -2467,7 +2348,6 @@ og	c	og
 geta	sfg3fn	geta
 best	aae	vel
 .	.	.
-
 Yao	e	Yao
 gerði	sfg3eþ	gera
 það	fpheo	það
@@ -2478,7 +2358,6 @@ sannarlega	aa	sannarlega
 leik	nkeþ	leikur
 ,	,	,
 »	»	»
-
 sagði	sfg3eþ	segja
 Jeff	e	Jeff
 Van	e	Van
@@ -2487,7 +2366,6 @@ Gundy	e	Gundy
 þjálfari	nken	þjálfari
 Houston	e	Houston
 .	.	.
-
 Liðið	nheng	lið
 hefur	sfg3en	hafa
 leikið	ssg	leika
@@ -2502,7 +2380,6 @@ sínum	fekeþ	sinn
 fyrsta	lkeþve	fyrstur
 leik	nkeþ	leikur
 .	.	.
-
 Dallas	e	Dallas
 fer	sfg3en	fara
 illa	aa	illa
@@ -2515,7 +2392,6 @@ báðum	fokfþ	báðir
 leikjum	nkfþ	leikur
 sínum	fekfþ	sinn
 .	.	.
-
 Stuðningsmenn	nkfn	stuðningsmaður
 Utah	e	Utah
 Jazz	e	Jazz
@@ -2538,7 +2414,6 @@ alla	fokfo	allur
 leiki	nkfo	leikur
 sína	fekfo	sinn
 .	.	.
-
 Eftir	ao	eftir
 að	cn	að
 hafa	sng	hafa
@@ -2562,7 +2437,6 @@ Warriors	e	Warriors
 í	aþ	í
 fyrrinótt	nveþ	fyrrinótt
 .	.	.
-
 Mehmet	e	Mehmet
 Okur	e	Okur
 skoraði	sfg3eþ	skora
@@ -2593,7 +2467,6 @@ að	cn	að
 landa	sng	landa
 sigri	nkeþ	sigur
 .	.	.
-
 «	«	«
 Aðalmunurinn	nkeng	aðalmunur
 á	aþ	á
@@ -2615,7 +2488,6 @@ orðin	sþgven	verða
 mun	nkeþ	munur
 meiri	lvenvm	mikill
 .	.	.
-
 Ef	c	ef
 einhver	foken	einhver
 spilar	sfg3en	spila
@@ -2644,7 +2516,6 @@ leik	nkeþ	leikur
 okkar	fp1fe	ég
 minnki	svg3fn	minnka
 .	.	.
-
 Þannig	aa	þannig
 fá	sfg3fn	fá
 menn	nkfn	maður
@@ -2662,7 +2533,6 @@ Boozer	e	Boozer
 eftir	ao	eftir
 sigurinn	nkeog	sigur
 .	.	.
-
 Golden	e	Golden
 State	e	State
 hefur	sfg3en	hafa
@@ -2674,7 +2544,6 @@ fyrstu	lkfþve	fyrstur
 leikjum	nkfþ	leikur
 sínum	fekfþ	sinn
 .	.	.
-
 Meðal	ae	meðal
 annarra	fohfe	annar
 úrslita	nhfe	úrslit
@@ -2694,7 +2563,6 @@ Phoenix	e	Phoenix
 Suns	e	Suns
 114-108	ta	114-108
 .	.	.
-
 Góð	lvensf	góður
 frammistaða	nven	frammistaða
 í	aþ	í
@@ -2721,7 +2589,6 @@ sigur	nkeo	sigur
 í	aþ	í
 leikhlutanum	nkeþg	leikhluti
 .	.	.
-
 «	«	«
 Þessi	faken	þessi
 sigur	nken	sigur
@@ -2755,7 +2622,6 @@ fyrstu	lkfþve	fyrstur
 leikjum	nkfþ	leikur
 sínum	fekfþ	sinn
 .	.	.
-
 Gilbert	e	Gilbert
 Arenas	e	Arenas
 hjá	aþ	hjá
@@ -2771,14 +2637,12 @@ unnu	sfg3fþ	vinna
 Boston	e	Boston
 124-117	ta	124-117
 .	.	.
-
 Utah	e	Utah
 byrjar	sfg3en	byrja
 tímabilið	nheog	tímabil
 af	aþ	af
 miklum	lkeþsf	mikill
 krafti	nkeþ	kraftur
-
 Náðum	sfg1fþ	ná
 ekki	aa	ekki
 að	cn	að
@@ -2787,7 +2651,6 @@ haus	nkeþ	haus
 til	ae	til
 loka	nhfe	lok
 leiks	nkee	leikur
-
 Eiður	nken-s	Eiður
 Smári	nken-s	Smári
 Guðjohnsen	nken-s	Guðjohnsen
@@ -2835,7 +2698,6 @@ og	c	og
 geti	svg3fn	geta
 best	aae	vel
 .	.	.
-
 Þetta	faheo	þessi
 segir	sfg3en	segja
 Eiður	nken-s	Eiður
@@ -2845,7 +2707,6 @@ við	ao	við
 heimasíðuna	nveog	heimasíða
 Icons.com	v	icons.com
 .	.	.
-
 Eiður	nken-s	Eiður
 segir	sfg3en	segja
 að	c	að
@@ -2874,7 +2735,6 @@ og	c	og
 síðustu	lveþve	síðari
 leiktíð	nveþ	leiktíð
 .	.	.
-
 «	«	«
 Hvernig	aa	hvernig
 er	sfg3en	vera
@@ -2884,7 +2744,6 @@ spila	sng	spila
 í	aþ	í
 augnablikinu	nheþg	augnablik
 ?	?	?
-
 Ég	fp1en	ég
 veit	sfg1en	vita
 ekki	aa	ekki
@@ -2905,7 +2764,6 @@ ekki	aa	ekki
 svo	aa	svo
 vel	aa	vel
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 spilað	ssg	spila
@@ -2917,7 +2775,6 @@ svo	aa	svo
 stuttan	lkeosf	stuttur
 tíma	nkeo	tími
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 hins	fakee	hinn
@@ -2947,7 +2804,6 @@ rétta	lheovf	réttur
 form	nheo	form
 .	.	.
 »	»	»
-
 Eiður	nken-s	Eiður
 segir	sfg3en	segja
 að	c	að
@@ -2967,7 +2823,6 @@ rétt	aa	rétt
 á	aþ	á
 sér	fpveþ	sig
 .	.	.
-
 «	«	«
 Það	fphen	það
 er	sfg3en	vera
@@ -2981,7 +2836,6 @@ heldur	c	heldur
 allt	fohen	allur
 liðið	nheng	lið
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 líka	aa	líka
@@ -2990,7 +2844,6 @@ að	cn	að
 gagnrýna	sng	gagnrýna
 mig	fp1eo	ég
 .	.	.
-
 Við	fp1fn	ég
 tökum	sfg1fn	taka
 þessari	faveþ	þessi
@@ -3008,7 +2861,6 @@ taflinu	nheþg	tafl
 innan	ae	innan
 skamms	lheesf	skammur
 .	.	.
-
 Við	fp1fn	ég
 erum	sfg1fn	vera
 ekki	aa	ekki
@@ -3023,7 +2875,6 @@ hjálpar	sfg3en	hjálpa
 engum	fokeþ	enginn
 .	.	.
 »	»	»
-
 Eiður	nken-s	Eiður
 stiklar	sfg3en	stikla
 á	aþ	á
@@ -3049,7 +2900,6 @@ leikina	nkfog	leikur
 gegn	aþ	gegn
 Chelsea	e	Chelsea
 .	.	.
-
 «	«	«
 Og	c	og
 þá	aa	þá
@@ -3076,14 +2926,12 @@ sagði	sfg3eþ	segja
 Eiður	nken-s	Eiður
 Smári	nken-s	Smári
 .	.	.
-
 Tímaspursmál	nhen	tímaspursmál
 hvenær	aa	hvenær
 við	fp1fn	ég
 komumst	sfm1fn	koma
 í	ao	í
 gang	nkeo	gangur
-
 Enska	lhenvf	enskur
 götublaðið	nheng	götublað
 People	e	People
@@ -3116,7 +2964,6 @@ nýju	lheþsf	nýr
 í	aþ	í
 janúar	nkeþ	janúar
 .	.	.
-
 Blaðið	nheng	blað
 fullyrðir	sfg3en	fullyrða
 að	c	að
@@ -3149,7 +2996,6 @@ fyrir	ao	fyrir
 íslenska	lkeovf	íslenskur
 landsliðsfyrirliðann	nkeog	landsliðsfyrirliði
 .	.	.
-
 Enn	aa	enn
 fremur	aam	fremur
 heldur	sfg3en	halda
@@ -3195,7 +3041,6 @@ tækifæri	nhen	tækifæri
 gefst	sfm3en	gefa
 til	aa	til
 .	.	.
-
 Á	aþ	á
 leið	nveþ	leið
 til	ae	til
@@ -3203,7 +3048,6 @@ Newcastle	e	Newcastle
 í	aþ	í
 janúar	nkeþ	janúar
 ?	?	?
-
 Guðjón	nken-s	Guðjón
 Þórðarson	nken-s	Þórðarson
 ,	,	,
@@ -3233,7 +3077,6 @@ heima	aa	heima
 að	aþ	að
 undanförnu	lheþsf	undanfarinn
 .	.	.
-
 Guðjón	nken-s	Guðjón
 sagið	x	segja
 við	ao	við
@@ -3262,7 +3105,6 @@ kost	nkeo	kostur
 að	cn	að
 bjóða	sng	bjóða
 .	.	.
-
 «	«	«
 Við	fp1fn	ég
 ræddum	sfg1fþ	ræða
@@ -3299,7 +3141,6 @@ er	sfg3en	vera
 hvergi	aa	hvergi
 betri	lvenvm	góður
 .	.	.
-
 Síðan	aa	síðan
 hófst	sfm3eþ	hefja
 samkeppnin	nveng	samkeppni
@@ -3321,7 +3162,6 @@ setjum	sfg1fn	setja
 okkur	fp1fþ	ég
 .	.	.
 »	»	»
-
 Guðjón	nken-s	Guðjón
 kveðst	sfm3en	kveða
 þó	aa	þó
@@ -3333,7 +3173,6 @@ leggja	sng	leggja
 í	ao	í
 bát	nkeo	bátur
 .	.	.
-
 «	«	«
 Það	fphen	það
 þarf	sfg3en	þurfa
@@ -3377,13 +3216,11 @@ við	ao	við
 heimasíðu	nveo	heimasíða
 ÍA	as	ÍA
 .	.	.
-
 Tökum	sfg1fn	taka
 ekki	aa	ekki
 þátt	nkeo	þáttur
 í	aþ	í
 verðstríði	nheþ	verðstríð
-
 Áhugi	nken	áhugi
 erlendra	lkfesf	erlendur
 fjárfesta	nkfe	fjárfestir
@@ -3431,7 +3268,6 @@ fyrir	ao	fyrir
 London	e	London
 2012	ta	2012
 .	.	.
-
 Eins	aa	eins
 og	c	og
 kunnugt	lhensf	kunnugur
@@ -3456,7 +3292,6 @@ Ham	e	Ham
 síðustu	lvfove	síðari
 vikur	nvfo	vika
 .	.	.
-
 Möguleikinn	nkeng	möguleiki
 á	sfg3en	eiga
 að	cn	að
@@ -3489,7 +3324,6 @@ fyrir	ao	fyrir
 umtalsverðar	lvfosf	umtalsverður
 fjárhæðir	nvfo	fjárhæð
 .	.	.
-
 Coe	e	Coe
 sagði	sfg3eþ	segja
 í	aa	í
@@ -3513,7 +3347,6 @@ punda	nhfe	pund
 í	ao	í
 framkvæmdina	nveog	framkvæmd
 .	.	.
-
 Þess	fphee	það
 má	sfg3en	mega
 geta	sng	geta
@@ -3545,13 +3378,11 @@ og	c	og
 West	e	West
 Ham	e	Ham
 .	.	.
-
 Fær	sfg3en	fá
 ekki	aa	ekki
 afnot	nhfo	afnot
 af	aþ	af
 ÓL-leikvangi	nkeþ-s	ÓL-leikvangur
-
 Snæfell	nhen-s	Snæfell
 gerði	sfg3eþ	gera
 sér	fpkeþ	sig
@@ -3571,7 +3402,6 @@ Stykkishólmi	nkeþ-s	Stykkishólmur
 í	aa	í
 gær	aa	gær
 .	.	.
-
 Gestirnir	nkfng	gestur
 áttu	sfg3fþ	eiga
 aldrei	aa	aldrei
@@ -3605,7 +3435,6 @@ vörn	nveþ	vörn
 sem	c	sem
 sókn	nveþ	sókn
 .	.	.
-
 Í	aþ	í
 hálfleik	nkeþ	hálfleikur
 var	sfg3eþ	vera
@@ -3624,7 +3453,6 @@ Njarðvíkinga	nkfo-s	Njarðvíkingur
 síðari	lkeþvm	síðari
 hálfleik	nkeþ	hálfleikur
 .	.	.
-
 Hann	fpken	hann
 átti	sfg3eþ	eiga
 þó	aa	þó
@@ -3650,7 +3478,6 @@ eftir	aa	eftir
 á	aþ	á
 lokakaflanum	nkeþg	lokakafli
 .	.	.
-
 Magni	nken-s	Magni
 Hafsteinsson	nken-s	Hafsteinsson
 átti	sfg3eþ	eiga
@@ -3674,7 +3501,6 @@ með	ao	með
 18	ta	18
 stig	nhfo	stig
 .	.	.
-
 Miklu	lheþsf	mikill
 munaði	sfg3eþ	muna
 um	ao	um
@@ -3717,7 +3543,6 @@ stig	nhfo	stig
 í	aþ	í
 leiknum	nkeþg	leikur
 .	.	.
-
 Í	aþ	í
 Keflavík	nveþ-s	Keflavík
 unnu	sfg3fþ	vinna
@@ -3729,7 +3554,6 @@ sigur	nkeo	sigur
 ,	,	,
 95-72	ta	95-72
 .	.	.
-
 Gestirnir	nkfng	gestur
 úr	aþ	úr
 Breiðholtinu	nheþgs	Breiðholt
@@ -3744,7 +3568,6 @@ vel	aa	vel
 í	aþ	í
 heimamönnum	nkfþ	heimamaður
 .	.	.
-
 Á	aþ	á
 endanum	nkeþg	endi
 sýndi	sfg3eþ	sýna
@@ -3765,7 +3588,6 @@ tuttugu	tfhfe	tuttugu
 stiga	nhfe	stig
 sigri	nkeþ	sigur
 .	.	.
-
 Keflavík	nven-s	Keflavík
 var	sfg3eþ	vera
 með	ao	með
@@ -3782,7 +3604,6 @@ framúr	aa	framúr
 þeim	fakeþ	sá
 síðari	lkeþvm	síðari
 .	.	.
-
 «	«	«
 Við	fp1fn	ég
 spiluðum	sfg1fþ	spila
@@ -3801,7 +3622,6 @@ sérstaklega	aa	sérstaklega
 fyrri	lkeþvm	fyrri
 hálfleiknum	nkeþg	hálfleikur
 .	.	.
-
 Í	aþ	í
 byrjun	nveþ	byrjun
 seinni	lkeevm	seinn
@@ -3828,7 +3648,6 @@ Keflavíkur	nvee-s	Keflavík
 eftir	ao	eftir
 leikinn	nkeog	leikur
 .	.	.
-
 ÍR-ingar	nkfn-s	ÍR-ingur
 mættu	sfg3fþ	mæta
 aðeins	aa	aðeins
@@ -3842,7 +3661,6 @@ meiðsli	nhfn	meiðsli
 hrjá	sfg3fn	hrjá
 liðið	nheog	lið
 .	.	.
-
 Þeir	fpkfn	hann
 þurftu	sfg3fþ	þurfa
 því	aa	því
@@ -3863,7 +3681,6 @@ en	c	en
 í	aa	í
 gær	aa	gær
 .	.	.
-
 Með	aþ	með
 sigrinum	nkeþg	sigur
 í	aa	í
@@ -3886,7 +3703,6 @@ Njarðvík	nven-s	Njarðvík
 toppi	nkeþ	toppur
 deildarinnar	nveeg	deild
 .	.	.
-
 Sigur	nken	sigur
 Keflvíkinga	nkfe-s	Keflvíkingur
 kemur	sfg3en	koma
@@ -3906,7 +3722,6 @@ með	aþ	með
 fjórum	tfkfþ	fjórir
 leikjum	nkfþ	leikur
 .	.	.
-
 Chelsea	e	Chelsea
 og	c	og
 Arsenal	e	Arsenal
@@ -3949,7 +3764,6 @@ Chelsea	e	Chelsea
 í	ao	í
 heimsókn	nveo	heimsókn
 .	.	.
-
 Báðir	fokfn	báðir
 leikirnir	nkfng	leikur
 reyndust	sfm3fþ	reyna
@@ -3968,7 +3782,6 @@ leikmönnum	nkfþ	leikmaður
 slíkum	fbhfþ	slíkur
 nágrannaslögum	nkfþ	nágrannaslagur
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 hinn	gken	hinn
@@ -3999,7 +3812,6 @@ glæsilegu	lheþsf	glæsilegur
 vinstri-fótar	nkee	vinstri-fótur
 skoti	nheþ	skot
 .	.	.
-
 Áður	aa	áður
 hafði	sfg3eþ	hafa
 Claude	e	Claude
@@ -4018,7 +3830,6 @@ fyrstu	lvfþve	fyrstur
 mínútum	nvfþ	mínúta
 leiksins	nkeeg	leikur
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 fyrsti	lkenve	fyrstur
@@ -4043,7 +3854,6 @@ verið	ssg	vera
 til	ae	til
 leiksloka	nhfe	leikslok
 .	.	.
-
 John	e	John
 Terry	e	Terry
 fékk	sfg3eþ	fá
@@ -4064,7 +3874,6 @@ spjald	nheo	spjald
 fyrir	ao	fyrir
 kjaftbrúk	nheo	kjaftbrúk
 .	.	.
-
 Litlu	lheþsf	lítill
 munaði	sfg3eþ	muna
 að	c	að
@@ -4102,7 +3911,6 @@ gær	aa	gær
 89.	ta	89.
 mínútu	nveþ	mínúta
 .	.	.
-
 Wenger	e	Wenger
 og	c	og
 Pardew	e	Pardew
@@ -4117,7 +3925,6 @@ franski	lkenvf	franskur
 hrinti	sfg3eþ	hrinda
 Pardew	e	Pardew
 .	.	.
-
 Stjórarnir	nkfng	stjóri
 hnakkrifust	sfm3fþ	hnakkrífast
 en	c	en
@@ -4132,7 +3939,6 @@ fóru	sfg3fþ	fara
 á	ao	á
 loft	nheo	loft
 .	.	.
-
 Pardew	e	Pardew
 sá	sfg3eþ	sjá
 þó	aa	þó
@@ -4149,7 +3955,6 @@ afsökunar	nvee	afsökun
 framferði	nheþ	framferði
 sínu	feheþ	sinn
 .	.	.
-
 «	«	«
 Mér	fp1eþ	ég
 þykir	sfg3en	þykja
@@ -4159,7 +3964,6 @@ að	c	að
 hafi	svg3en	hafa
 gerst	ssm	gera
 .	.	.
-
 Ég	fp1en	ég
 var	sfg1eþ	vera
 einfaldlega	aa	einfaldlega
@@ -4178,7 +3982,6 @@ mig	fp1eo	ég
 eitthvað	fohen	einhver
 vitlaust	aa	vitlaust
 .	.	.
-
 Ég	fp1en	ég
 meinti	sfg1eþ	meina
 ekkert	foheo	enginn
@@ -4192,7 +3995,6 @@ persónulegt	lhensf	persónulegur
 gagnvart	aþ	gagnvart
 Wenger	e	Wenger
 .	.	.
-
 Ef	c	ef
 ég	fp1en	ég
 hef	sfg1en	hafa
@@ -4206,7 +4008,6 @@ afsökunar	nvee	afsökun
 sagði	sfg3eþ	segja
 Pardew	e	Pardew
 .	.	.
-
 Sigur	nken	sigur
 West	e	West
 Ham	e	Ham
@@ -4223,7 +4024,6 @@ sitt	feheo	sinn
 rétta	lheovf	réttur
 andlit	nheo	andlit
 .	.	.
-
 Úrslit	nhfn	úrslit
 gærdagsins	nkeeg	gærdagur
 þýða	sfg3fn	þýða
@@ -4244,7 +4044,6 @@ meira	lheovm	mikill
 en	c	en
 Chelsea	e	Chelsea
 .	.	.
-
 Aston	e	Aston
 Villa	e	Villa
 komst	sfm3eþ	koma
@@ -4274,13 +4073,11 @@ sigrinum	nkeþg	sigur
 í	aa	í
 gær	aa	gær
 .	.	.
-
 Mikill	lkensf	mikill
 hasar	nken	hasar
 í	aþ	í
 leikjum	nkfþ	leikur
 gærdagsins	nkeeg	gærdagur
-
 Árangur	nken	árangur
 kvennasveitar	nvee	kvennasveit
 Gerplu	nvee-s	Gerpla
@@ -4311,7 +4108,6 @@ silfurverðlauna	nhfe	silfurverðlaun
 á	aþ	á
 mótinu	nheþg	mót
 .	.	.
-
 Að	aþ	að
 sögn	nveþ	sögn
 Jóns	nkee-s	Jón
@@ -4349,7 +4145,6 @@ hjá	aþ	hjá
 öðrum	fovfþ	annar
 Norðurlandaþjóðum	nvfþ-s	Norðurlandaþjóð
 .	.	.
-
 «	«	«
 Það	fphen	það
 að	c	að
@@ -4380,7 +4175,6 @@ aðrar	fovfn	annar
 á	aþ	á
 mótinu	nheþg	mót
 .	.	.
-
 Við	fp1fn	ég
 stefndum	sfg1fþ	stefna
 á	ao	á
@@ -4397,7 +4191,6 @@ og	c	og
 nokkur	foven	nokkur
 bjartsýni	nven	bjartsýni
 .	.	.
-
 Við	fp1fn	ég
 lítum	sfg1fn	líta
 því	aa	því
@@ -4419,7 +4212,6 @@ starfinu	nheþg	starf
 Gerplu	nveþ-s	Gerpla
 ,	,	,
 »	»	»
-
 sagði	sfg3eþ	segja
 Jón	nken-s	Jón
 við	ao	við
@@ -4442,7 +4234,6 @@ að	c	að
 yrði	svg3eþ	verða
 endurtekinn	sþgken	endurtaka
 .	.	.
-
 «	«	«
 Þetta	fahen	þessi
 eru	sfg3fn	vera
@@ -4456,7 +4247,6 @@ hliðstæðu	nveo	hliðstæða
 Íslandi	nheþ-s	Ísland
 .	.	.
 »	»	»
-
 Stúlkurnar	nvfng	stúlka
 sem	ct	sem
 skipuðu	sfg3fþ	skipa
@@ -4525,12 +4315,10 @@ og	c	og
 Þórunn	nven-s	Þórunn
 Arnardóttir	nven-s	Arnardóttir
 .	.	.
-
 Gerpla	nven-s	Gerpla
 vekur	sfg3en	vekja
 mikla	lveosf	mikill
 athygli	nveo	athygli
-
 Elfsborg	e	Elfsborg
 tryggði	sfg3eþ	tryggja
 sér	fpveþ	sig
@@ -4565,7 +4353,6 @@ gær	aa	gær
 ,	,	,
 1-0	ta	1-0
 .	.	.
-
 AIK	as	AIK
 varð	sfg3eþ	verða
 í	aþ	í
@@ -4595,10 +4382,8 @@ að	aþ	að
 þessu	faheþ	þessi
 sinni	nheþ	sinn
 .	.	.
-
 Elfsborg	e	Elfsborg
 vann	sfg3eþ	vinna
-
 «	«	«
 Við	fp1fn	ég
 lentum	sfg1fþ	lenda
@@ -4617,7 +4402,6 @@ við	fp1fn	ég
 hana	fpveo	hún
 niður	aa	niður
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 jákvætt	lhensf	jákvæður
@@ -4648,7 +4432,6 @@ Fram	aa	fram
 í	aa	í
 gær	aa	gær
 .	.	.
-
 «	«	«
 Við	fp1fn	ég
 höfum	sfg1fn	hafa
@@ -4669,7 +4452,6 @@ sigri	nkeþ	sigur
 þessum	fakeþ	þessi
 leik	nkeþ	leikur
 .	.	.
-
 Sigurviljinn	nkeng	sigurvilji
 var	sfg3eþ	vera
 svo	aa	svo
@@ -4685,7 +4467,6 @@ komum	sfg1fþ	koma
 leik	nkeo	leikur
 .	.	.
 »	»	»
-
 Markús	nken-s	Markús
 var	sfg3eþ	vera
 markahæstur	lkense	markahár
@@ -4703,7 +4484,6 @@ fimm	tfhfn	fimm
 úr	aþ	úr
 vítaskotum	nhfþ	vítaskot
 .	.	.
-
 Þessi	faken	þessi
 leikur	nken	leikur
 var	sfg3eþ	vera
@@ -4724,7 +4504,6 @@ mörkin	nhfng	mark
 voru	sfg3fþ	vera
 þeirra	fpkfe	hann
 .	.	.
-
 Þá	aa	þá
 vöknuðu	sfg3fþ	vakna
 Framarar	nkfn-s	Framari
@@ -4738,7 +4517,6 @@ allan	fokeo	allur
 fyrri	lkeovm	fyrri
 hálfleikinn	nkeog	hálfleikur
 .	.	.
-
 Rétt	aa	rétt
 fyrir	ao	fyrir
 hálfleik	nkeo	hálfleikur
@@ -4756,7 +4534,6 @@ forystu	nveo	forysta
 í	aþ	í
 hálfleik	nkeþ	hálfleikur
 .	.	.
-
 Sóknir	nvfn	sókn
 Vals	nkee-s	Valur
 voru	sfg3fþ	vera
@@ -4773,7 +4550,6 @@ sitt	feheo	sinn
 að	cn	að
 segja	sng	segja
 .	.	.
-
 Hart	aa	hart
 var	sfg3eþ	vera
 barist	sþmhen	berja
@@ -4784,7 +4560,6 @@ mikið	lhensf	mikill
 um	ao	um
 brottvísanir	nvfo	brottvísun
 .	.	.
-
 Forysta	nven	forysta
 Vals	nkee-s	Valur
 var	sfg3eþ	vera
@@ -4812,7 +4587,6 @@ sigur	nkeo	sigur
 ,	,	,
 30-25	ta	30-25
 .	.	.
-
 Liðið	nheng	lið
 er	sfg3en	vera
 því	aa	því
@@ -4833,7 +4607,6 @@ voru	sfg3fþ	vera
 til	ae	til
 þess	fphee	það
 .	.	.
-
 «	«	«
 Við	fp1fn	ég
 ætlum	sfg1fn	ætla
@@ -4851,7 +4624,6 @@ gerum	sfg1fn	gera
 til	ae	til
 okkar	fp1fe	ég
 .	.	.
-
 Við	fp1fn	ég
 vorum	sfg1fþ	vera
 á	aþ	á
@@ -4889,7 +4661,6 @@ sagði	sfg3eþ	segja
 Markús	nken-s	Markús
 Máni	nken-s	Máni
 .	.	.
-
 Hjá	aþ	hjá
 Fram	aa	fram
 var	sfg3eþ	vera
@@ -4908,7 +4679,6 @@ alls	fohee	allur
 ellefu	tfhfo	ellefu
 mörk	nhfo	mark
 .	.	.
-
 Hann	fpken	hann
 skoraði	sfg3eþ	skora
 þar	aa	þar
@@ -4922,7 +4692,6 @@ Framliðsins	nheegs	Framlið
 fyrri	lkeþvm	fyrri
 hálfleik	nkeþ	hálfleikur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ljóst	lhensf	ljós
@@ -4951,7 +4720,6 @@ sem	ct	sem
 af	aa	af
 er	sfg3en	vera
 .	.	.
-
 Liðið	nheng	lið
 er	sfg3en	vera
 sem	ct	sem
@@ -4966,7 +4734,6 @@ stig	nhfo	stig
 fjórum	tfkfþ	fjórir
 leikjum	nkfþ	leikur
 .	.	.
-
 Valur	nken-s	Valur
 komst	sfm3eþ	koma
 aftur	aa	aftur
@@ -4991,7 +4758,6 @@ Laugardalshöll	nveþ-s	Laugardalshöll
 í	aa	í
 gær	aa	gær
 .	.	.
-
 Valsmenn	nkfn-s	Valsmaður
 voru	sfg3fþ	vera
 mun	nkeþ	munur

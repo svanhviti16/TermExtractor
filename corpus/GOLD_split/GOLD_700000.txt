@@ -8,7 +8,6 @@ skorin	sþghfn	skera
 í	ao	í
 teninga	nkfo	teningur
 .	.	.
-
 Salti	nheþ	salt
 og	c	og
 pipar	nkeþ	pipar
@@ -26,7 +25,6 @@ eru	sfg3fn	vera
 settar	sþgvfn	setja
 inn	aa	inn
 .	.	.
-
 Saumað	sþghen	sauma
 er	sfg3en	vera
 fyrir	aa	fyrir
@@ -36,7 +34,6 @@ lokað	sþghen	loka
 með	aþ	með
 tannstönglum	nkfþ	tannstöngull
 .	.	.
-
 Salti	nheþ	salt
 og	c	og
 pipar	nkeþ	pipar
@@ -54,7 +51,6 @@ saman	aa	saman
 með	aþ	með
 girni	nheþ	girni
 .	.	.
-
 Öndin	nveng	önd
 er	sfg3en	vera
 steikt	sþgven	steikja
@@ -78,7 +74,6 @@ gyllt	lvensf	gylltur
 á	ao	á
 litinn	nkeog	litur
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 hún	fpven	hún
@@ -92,7 +87,6 @@ lækkaður	sþgken	lækka
 í	ao	í
 150°C	ta	150°c
 .	.	.
-
 Heildartími	nken	heildartími
 í	aþ	í
 ofni	nkeþ	ofn
@@ -103,7 +97,6 @@ og	c	og
 hálf	lvensf	hálfur
 klukkustund	nven	klukkustund
 .	.	.
-
 Talsverð	lvensf	talsverður
 fita	nven	fita
 lekur	sfg3en	leka
@@ -120,7 +113,6 @@ fuglinn	nkeog	fugl
 með	aþ	með
 fitunni	nveþg	fita
 .	.	.
-
 Sósa	nven	sósa
 vængir	nkfn	vængur
 50	ta	50
@@ -139,7 +131,6 @@ um	aa	um
 2	ta	2
 msk	as	msk
 .	.	.
-
 hveiti	nhen	hveiti
 3	ta	3
 dl	as	dl
@@ -164,7 +155,6 @@ smjörsins	nheeg	smjör
 ásamt	aþ	ásamt
 vængjum	nkfþ	vængur
 .	.	.
-
 Vatni	nheþ	vatn
 hellt	sþghen	hella
 yfir	aa	yfir
@@ -175,7 +165,6 @@ sjóða	sng	sjóða
 30	ta	30
 mínútur	nvfo	mínúta
 .	.	.
-
 Soðið	nheng	soð
 er	sfg3en	vera
 sigtað	sþghen	sigta
@@ -190,7 +179,6 @@ sjóða	sng	sjóða
 5-10	ta	5-10
 mínútur	nvfo	mínúta
 .	.	.
-
 Rjóma	nkeþ	rjómi
 bætt	sþghen	bæta
 út	aa	út
@@ -202,7 +190,6 @@ síðan	aa	síðan
 með	aþ	með
 smjörbollu	nveþ	smjörbolla
 .	.	.
-
 Hún	fpven	hún
 er	sfg3en	vera
 gerð	sþgven	gera
@@ -212,7 +199,6 @@ um	aa	um
 2	ta	2
 msk	as	msk
 .	.	.
-
 af	aþ	af
 smjöri	nheþ	smjör
 eru	sfg3fn	vera
@@ -235,7 +221,6 @@ til	aa	til
 verður	sfg3en	verða
 bolla	nven	bolla
 .	.	.
-
 Hluta	nkeþ	hluti
 smjörbollunnar	nveeg	smjörbolla
 er	sfg3en	vera
@@ -246,7 +231,6 @@ sósuna	nveog	sósa
 í	aþ	í
 einu	foheþ	einn
 .	.	.
-
 Hræra	sng	hræra
 þarf	sfg3en	þurfa
 vel	aa	vel
@@ -263,7 +247,6 @@ kemur	sfg3en	koma
 aftur	aa	aftur
 upp	aa	upp
 .	.	.
-
 Í	ao	í
 sósuna	nveog	sósa
 má	sfg3en	mega
@@ -281,7 +264,6 @@ kryddtegundum	nvfþ	kryddtegund
 ef	c	ef
 vill	sfg3en	vilja
 .	.	.
-
 Öfugt	lhensf	öfugur
 við	ao	við
 marga	lkfosf	margur
@@ -310,7 +292,6 @@ Gauksmýri	nveþ-s	Gauksmýri
 Húnaþingi	nheþ-s	Húnaþing
 vestra	lheþvm	vestri
 .	.	.
-
 Ég	fp1en	ég
 hengi	sfg1en	hengja
 fyrst	aae	fyrr
@@ -338,7 +319,6 @@ stússast	snm	stússa
 í	aþ	í
 eldhúsinu	nheþg	eldhús
 .	.	.
-
 Svo	aa	svo
 fer	sfg1en	fara
 ég	fp1en	ég
@@ -353,7 +333,6 @@ baka	sfg1en	baka
 nokkrar	fovfo	nokkur
 smákökutegundir	nvfo	smákökutegund
 .	.	.
-
 Maðurinn	nkeng	maður
 minn	feken	minn
 ,	,	,
@@ -380,7 +359,6 @@ og	c	og
 skreyta	sng	skreyta
 það	fpheo	það
 .	.	.
-
 Annars	aa	annars
 er	sfg3en	vera
 það	fphen	það
@@ -397,7 +375,6 @@ til	aa	til
 á	aþ	á
 aðventunni	nveþg	aðventa
 .	.	.
-
 Móðir	nven	móðir
 mín	feven	minn
 ,	,	,
@@ -431,7 +408,6 @@ jólanna	nhfeg	jól
 barnæsku	nveþ	barnæska
 minni	feveþ	minn
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 ekki	aa	ekki
@@ -446,7 +422,6 @@ alls	fohee	allur
 ekki	aa	ekki
 marsipan	nheo	marsipan
 .	.	.
-
 Ætli	svg3en	ætla
 það	fphen	það
 hafi	svg3en	hafa
@@ -464,7 +439,6 @@ verið	ssg	vera
 til	ae	til
 kartöflur	nvfn	kartafla
 .	.	.
-
 Mamma	nven	mamma
 var	sfg3eþ	vera
 húsmæðraskólagengin	lvensf	húsmæðraskólagenginn
@@ -480,7 +454,6 @@ uppskriftina	nveog	uppskrift
 sinni	feveþ	sinn
 tíð	nveþ	tíð
 .	.	.
-
 Sigríður	nven-s	Sigríður
 segir	sfg3en	segja
 að	c	að
@@ -504,7 +477,6 @@ nota	sng	nota
 ýmis	fohfo	ýmis
 bragðefni	nhfo	bragðefni
 .	.	.
-
 Bestu	lvfnve	góður
 flatkökur	nvfn	flatkaka
 á	aþ	á
@@ -541,7 +513,6 @@ parta	nkfo	partur
 og	c	og
 laufabrauð	nheo	laufabrauð
 .	.	.
-
 Við	fp1fn	ég
 erum	sfg1fn	vera
 með	ao	með
@@ -573,7 +544,6 @@ frá	aþ	frá
 móður	nveþ	móðir
 minni	feveþ	minn
 .	.	.
-
 Á	aþ	á
 Gauksmýri	nveþ-s	Gauksmýri
 er	sfg3en	vera
@@ -602,7 +572,6 @@ heyið	nheng	hey
 handa	aþ	handa
 þeim	fpkfþ	hann
 .	.	.
-
 Banani	nken	banani
 á	ao	á
 aðfangadagskvöld	nheo	aðfangadagskvöld
@@ -626,7 +595,6 @@ er	sfg3en	vera
 algengt	lhensf	algengur
 föndurefni	nhen	föndurefni
 .	.	.
-
 Henni	fpveþ	hún
 tekst	sfm3en	taka
 meira	lheovm	mikill
@@ -637,7 +605,6 @@ gera	sng	gera
 gaddavírinn	nkeog	gaddavír
 jólalegan	lkeosf	jólalegur
 .	.	.
-
 Fyrir	aþ	fyrir
 þremur	tfhfþ	þrír
 árum	nhfþ	ár
@@ -654,7 +621,6 @@ af	aþ	af
 ónýtri	lveþsf	ónýtur
 girðingu	nveþ	girðing
 .	.	.
-
 Það	fphen	það
 pirraði	sfg3eþ	pirra
 mig	fp1eo	ég
@@ -694,7 +660,6 @@ græða	sng	græða
 á	aþ	á
 honum	fpkeþ	hann
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 ekki	aa	ekki
@@ -717,7 +682,6 @@ vinir	nkfn	vinur
 hafa	sfg3fn	hafa
 fengið	ssg	fá
 .	.	.
-
 Nú	aa	nú
 er	sfg3en	vera
 svo	aa	svo
@@ -738,11 +702,8 @@ kallast	sfm3en	kalla
 hér	aa	hér
 í	aþ	í
 sveitinni	nveþg	sveit
-
 Siggugull	nhen-s	Siggugull
-
 .	.	.
-
 Ég	fp1en	ég
 nota	sfg1en	nota
 gaddavírinn	nkeog	gaddavír
@@ -764,7 +725,6 @@ nota	sfg3fn	nota
 trjágreinar	nvfo	trjágrein
 í	aa	í
 .	.	.
-
 Sigríður	nven-s	Sigríður
 skreytir	sfg3en	skreyta
 kransana	nkfog	krans
@@ -777,7 +737,6 @@ með	aþ	með
 gömlum	lvfþsf	gamall
 skeifum	nvfþ	skeifa
 .	.	.
-
 Þegar	c	þegar
 kemur	sfg3en	koma
 aðventunni	nveþg	aðventa
@@ -795,7 +754,6 @@ gylltum	lkeþsf	gylltur
 eða	c	eða
 jólaskrauti	nheþ	jólaskraut
 .	.	.
-
 Ég	fp1en	ég
 reyni	sfg1en	reyna
 að	cn	að
@@ -818,7 +776,6 @@ hvað	fsheo	hver
 eftir	aþ	eftir
 árstíðum	nvfþ	árstíð
 .	.	.
-
 Sigríður	nven-s	Sigríður
 gerir	sfg3en	gera
 líka	aa	líka
@@ -840,7 +797,6 @@ og	c	og
 vinum	nkfþ	vinur
 afraksturinn	nkeog	afrakstur
 .	.	.
-
 Hún	fpven	hún
 sagar	sfg3en	saga
 líka	aa	líka
@@ -861,7 +817,6 @@ snjókarla	nkfo	snjókarl
 og	c	og
 jólatré	nhfo	jólatré
 .	.	.
-
 Siðir	nkfn	siður
 úr	aþ	úr
 barnæsku	nveþ	barnæska
@@ -879,7 +834,6 @@ við	aa	við
 um	ao	um
 jólin	nhfog	jól
 .	.	.
-
 Á	ao	á
 aðfangadag	nkeo	aðfangadagur
 þegar	c	þegar
@@ -905,7 +859,6 @@ fá	sng	fá
 sér	fpkeþ	sig
 banana	nkeo	banani
 .	.	.
-
 Það	fphen	það
 situr	sfg3en	sitja
 í	aþ	í
@@ -928,7 +881,6 @@ að	cn	að
 fá	sng	fá
 ávexti	nkfo	ávöxtur
 .	.	.
-
 Fyrstu	lhfove	fyrstur
 búskaparárin	nhfog	búskaparár
 okkar	fp1fe	ég
@@ -959,7 +911,6 @@ fái	svg3en	fá
 sér	fpkeþ	sig
 banana	nkeo	banani
 .	.	.
-
 Sigríður	nven-s	Sigríður
 heldur	sfg3en	halda
 mikið	aa	mikið
@@ -978,7 +929,6 @@ jólanna	nhfeg	jól
 hjá	aþ	hjá
 sér	fpveþ	sig
 .	.	.
-
 Ég	fp1en	ég
 verð	sfg1en	verða
 alltaf	aa	alltaf
@@ -995,7 +945,6 @@ af	aþ	af
 því	fpheþ	það
 ilminn	nkeog	ilmur
 .	.	.
-
 Þegar	c	þegar
 ég	fp1en	ég
 var	sfg1eþ	vera
@@ -1012,7 +961,6 @@ greni	nheo	greni
 á	ao	á
 aðfangadagsmorgun	nkeo	aðfangadagsmorgunn
 .	.	.
-
 Þar	aa	þar
 bjó	sfg3eþ	búa
 einsetumaður	nken	einsetumaður
@@ -1024,7 +972,6 @@ hann	fpkeo	hann
 um	ao	um
 jólin	nhfog	jól
 .	.	.
-
 Þá	aa	þá
 vorum	sfg1fþ	vera
 við	fp1fn	ég
@@ -1038,7 +985,6 @@ niðursoðna	lkfosf	niðursoðinn
 og	c	og
 grenigrein	nveo	grenigrein
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 gamall	lkensf	gamall
@@ -1062,7 +1008,6 @@ barnanna	nhfeg	barn
 dálítið	aa	dálítið
 ógnvænlegur	lkensf	ógnvænlegur
 .	.	.
-
 Það	fphen	það
 tók	sfg3eþ	taka
 því	aa	því
@@ -1087,7 +1032,6 @@ voru	sfg3fþ	vera
 að	cn	að
 koma	sng	koma
 .	.	.
-
 Sigríður	nven-s	Sigríður
 segist	sfm3en	segja
 hafa	sng	hafa
@@ -1115,7 +1059,6 @@ eru	sfg3fn	vera
 að	cn	að
 koma	sng	koma
 .	.	.
-
 Þetta	fahen	þessi
 eru	sfg3fn	vera
 ekki	aa	ekki
@@ -1135,7 +1078,6 @@ er	sfg3en	vera
 að	cn	að
 gleðja	sng	gleðja
 .	.	.
-
 Hrísgrjónagrautur	nken	hrísgrjónagrautur
 1	ta	1
 lítri	nken	lítri
@@ -1168,7 +1110,6 @@ vatni	nheþ	vatn
 og	c	og
 mjólk	nveþ	mjólk
 .	.	.
-
 Hann	fpken	hann
 þarf	sfg3en	þurfa
 að	cn	að
@@ -1178,7 +1119,6 @@ og	c	og
 látinn	sþgken	láta
 kólna	sng	kólna
 .	.	.
-
 Þeyttum	lkeþsf	þeyttur
 rjóma	nkeþ	rjómi
 og	c	og
@@ -1194,7 +1134,6 @@ bætt	sþghen	bæta
 út	aa	út
 í	aa	í
 .	.	.
-
 Grauturinn	nkeng	grautur
 er	sfg3en	vera
 síðan	aa	síðan
@@ -1212,7 +1151,6 @@ fram	aa	fram
 með	aþ	með
 sveskjusafa	nkeþ	sveskjusafi
 .	.	.
-
 Sveskjusafi	nken	sveskjusafi
 sveskjur	nvfn	sveskja
 vanilludropar	nkfn	vanilludropar
@@ -1227,7 +1165,6 @@ vanilludropum	nkfþ	vanilludropar
 og	c	og
 sykri	nkeþ	sykur
 .	.	.
-
 Safinn	nkeng	safi
 er	sfg3en	vera
 síðan	aa	síðan
@@ -1236,7 +1173,6 @@ geymdur	sþgken	geyma
 köldum	lkeþsf	kaldur
 stað	nkeþ	staður
 .	.	.
-
 Mandlan	nveng	mandla
 er	sfg3en	vera
 sett	sþgven	setja
@@ -1250,7 +1186,6 @@ er	sfg3en	vera
 borinn	sþgken	bera
 fram	aa	fram
 .	.	.
-
 Kartöflukonfekt	nhen	kartöflukonfekt
 Í	aþ	í
 raun	nveþ	raun
@@ -1265,7 +1200,6 @@ kartöflukonfekti	nheþ	kartöflukonfekt
 mínum	fekeþ	minn
 bæ	nkeþ	bær
 .	.	.
-
 Hún	fpven	hún
 er	sfg3en	vera
 líka	aa	líka
@@ -1283,7 +1217,6 @@ er	sfg3en	vera
 hverju	foheþ	hver
 sinni	nheþ	sinn
 .	.	.
-
 1	ta	1
 meðalstór	lvensf	meðalstór
 kartafla	nven	kartafla
@@ -1311,7 +1244,6 @@ að	cn	að
 hjúpa	sng	hjúpa
 með	aa	með
 .	.	.
-
 Kartaflan	nveng	kartafla
 er	sfg3en	vera
 stöppuð	sþgven	stappa
@@ -1327,7 +1259,6 @@ og	c	og
 hrærð	sþgven	hræra
 vel	aa	vel
 .	.	.
-
 Flórsykri	nkeþ	flórsykur
 er	sfg3en	vera
 bætt	sþghen	bæta
@@ -1342,7 +1273,6 @@ er	sfg3en	vera
 álitlegur	lkensf	álitlegur
 massi	nken	massi
 .	.	.
-
 Bragðefni	nhfn	bragðefni
 eru	sfg3fn	vera
 sett	sþghfn	setja
@@ -1361,7 +1291,6 @@ kúlur	nvfn	kúla
 úr	aþ	úr
 massanum	nkeþg	massi
 .	.	.
-
 Þær	fpvfn	hún
 eru	sfg3fn	vera
 settar	sþgvfn	setja
@@ -1377,7 +1306,6 @@ yfir	aþ	yfir
 heitu	lheþsf	heitur
 vatnsbaði	nheþ	vatnsbað
 .	.	.
-
 Stundum	aa	stundum
 litar	sfg3en	lita
 Sigríður	nven-s	Sigríður
@@ -1390,7 +1318,6 @@ hún	fpven	hún
 hjúpar	sfg3en	hjúpa
 þær	fpvfo	hún
 .	.	.
-
 Að	aþ	að
 lokum	nhfþ	lok
 er	sfg3en	vera
@@ -1407,7 +1334,6 @@ eða	c	eða
 sem	ct	sem
 vill	sfg3en	vilja
 .	.	.
-
 Kúlurnar	nvfng	kúla
 eru	sfg3fn	vera
 settar	sþgvfn	setja
@@ -1428,7 +1354,6 @@ eru	sfg3fn	vera
 bornar	sþgvfn	bera
 fram	aa	fram
 .	.	.
-
 Sigríður	nven-s	Sigríður
 segir	sfg3en	segja
 að	c	að
@@ -1450,7 +1375,6 @@ draga	sfg3fn	draga
 sig	fpvfo	sig
 bragð	nheo	bragð
 .	.	.
-
 Flatbrauðið	nheng	flatbrauð
 hennar	fpvee	hún
 Erlu	nvee-s	Erla
@@ -1468,7 +1392,6 @@ Skógum	nkfþ-s	Skógur
 undir	aþ	undir
 Eyjafjöllum	nhfþ-s	Eyjafjöll
 .	.	.
-
 Sigríður	nven-s	Sigríður
 segir	sfg3en	segja
 Erlu	nveo-s	Erla
@@ -1478,7 +1401,6 @@ flatkökur	nvfo	flatkaka
 í	aþ	í
 heimi	nkeþ	heimur
 .	.	.
-
 3	ta	3
 bollar	nkfn	bolli
 hveiti	nhen	hveiti
@@ -1505,7 +1427,6 @@ af	aþ	af
 sjóðandi	lheþof	sjóðandi
 vatni	nheþ	vatn
 .	.	.
-
 Þurrefnin	nhfng	þurrefni
 sett	sþghfn	setja
 í	ao	í
@@ -1520,7 +1441,6 @@ af	aþ	af
 sjóðandi	lheþof	sjóðandi
 vatni	nheþ	vatn
 .	.	.
-
 Hrært	sþghen	hræra
 saman	aa	saman
 í	aþ	í
@@ -1531,7 +1451,6 @@ að	aþ	að
 því	fpheþ	það
 búnu	lheþsf	búinn
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 svolítið	aa	svolítið
@@ -1556,7 +1475,6 @@ sér	fpkeþ	sig
 hnoðað	sþghen	hnoða
 er	sfg3en	vera
 .	.	.
-
 Klumpinum	nkeþg	klumpur
 er	sfg3en	vera
 skipt	sþghen	skipta
@@ -1579,7 +1497,6 @@ megin	aa	megin
 á	ao	á
 kökurnar	nvfog	kaka
 .	.	.
-
 Að	aþ	að
 þessu	faheþ	þessi
 búnu	lheþsf	búinn
@@ -1599,7 +1516,6 @@ skapi	svg3en	skapa
 æfingin	nveng	æfing
 meistarann	nkeog	meistari
 .	.	.
-
 Hún	fpven	hún
 bendir	sfg3en	benda
 á	ao	á
@@ -1617,14 +1533,12 @@ meðan	c	meðan
 er	sfg3en	vera
 heitt	lhensf	heitur
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 komið	sþghen	koma
 að	aþ	að
 steikingunni	nveþg	steiking
 .	.	.
-
 Steikt	sþghen	steikja
 er	sfg3en	vera
 á	aþ	á
@@ -1640,7 +1554,6 @@ snúa	sng	snúa
 ört	aa	ört
 við	aþ	við
 .	.	.
-
 Við	ao	við
 baksturinn	nkeog	bakstur
 þarf	sfg3en	þurfa
@@ -1664,7 +1577,6 @@ brunalykt	nven	brunalykt
 myndist	svm3en	mynda
 ekki	aa	ekki
 .	.	.
-
 Þegar	c	þegar
 búið	lhensf	búinn
 er	sfg3en	vera
@@ -1683,7 +1595,6 @@ sér	fpveþ	sig
 hæsta	lkeþve	hár
 straumi	nkeþ	straumur
 .	.	.
-
 Slökkt	sþghen	slökkva
 er	sfg3en	vera
 á	aþ	á
@@ -1706,7 +1617,6 @@ af	aþ	af
 hellunni	nveþg	hella
 sjálfri	fbveþ	sjálfur
 .	.	.
-
 Það	fphen	það
 má	sfg3en	mega
 á	ao	á
@@ -1726,7 +1636,6 @@ festist	sfm3en	festa
 á	aþ	á
 hellunni	nveþg	hella
 .	.	.
-
 Jólahnetusteik	nven	jólahnetusteik
 300	ta	300
 g	as	g
@@ -1811,7 +1720,6 @@ grænn	lkensf	grænn
 1	ta	1
 msk	as	msk
 .	.	.
-
 smjör	nhen	smjör
 1	ta	1
 bolli	nken	bolli
@@ -1823,7 +1731,6 @@ eggin	nhfog	egg
 stórri	lveþsf	stór
 skál	nveþ	skál
 .	.	.
-
 Blandið	sbg2fn	blanda
 síðan	aa	síðan
 öllu	foheþ	allur
@@ -1839,7 +1746,6 @@ er	sfg3en	vera
 vel	aa	vel
 blandað	lhensf	blandaður
 .	.	.
-
 Ef	c	ef
 blandan	nveng	blanda
 er	sfg3en	vera
@@ -1859,7 +1765,6 @@ verði	svg3en	verða
 dálítið	aa	dálítið
 blautari	lvenvm	blautur
 .	.	.
-
 Kryddið	sbg2fn	krydda
 eftir	aþ	eftir
 smekk	nkeþ	smekkur
@@ -1872,7 +1777,6 @@ Grill	e	Grill
 kryddery	e	kryddery
 )	)	)
 .	.	.
-
 Geymið	sbg2fn	geyma
 í	aþ	í
 ísskáp	nkeþ	ísskápur
@@ -1882,7 +1786,6 @@ um	ao	um
 bil	nheo	bil
 sólarhring	nkeo	sólarhringur
 .	.	.
-
 Notið	sbg2fn	nota
 kökuform	nheo	kökuform
 frá	aþ	frá
@@ -1902,7 +1805,6 @@ kirsuberjum	nhfþ	kirsuber
 í	ao	í
 botninn	nkeog	botn
 .	.	.
-
 Ananasinn	nkeog	ananas
 má	sfg3en	mega
 bita	sng	bita
@@ -1916,7 +1818,6 @@ mynda	sng	mynda
 megi	svg3en	mega
 skraut	nheo	skraut
 .	.	.
-
 Kirsuberin	nhfng	kirsuber
 eru	sfg3fn	vera
 skorin	sþghfn	skera
@@ -1928,7 +1829,6 @@ innan	aa	innan
 um	ao	um
 ananasinn	nkeog	ananas
 .	.	.
-
 Setjið	sbg2fn	setja
 hráefnið	nheog	hráefni
 varlega	aa	varlega
@@ -1941,7 +1841,6 @@ nota	sng	nota
 bara	aa	bara
 hendurnar	nvfog	hönd
 .	.	.
-
 Setjið	sbg2fn	setja
 ananas	nkeo	ananas
 og	c	og
@@ -1950,7 +1849,6 @@ upp	aa	upp
 með	aþ	með
 hliðunum	nvfþg	hlið
 .	.	.
-
 Skiljið	sbg2fn	skilja
 eftir	aa	eftir
 eins	tfkee	einn
@@ -1959,19 +1857,16 @@ brún	nveo	brún
 fyrir	ao	fyrir
 soðið	nheog	soð
 .	.	.
-
 Þrýstið	sbg2fn	þrýsta
 varlega	aa	varlega
 og	c	og
 jafnið	sbg2fn	jafna
 yfirborðið	nheog	yfirborð
 .	.	.
-
 Hellið	sbg2fn	hella
 soðinu	nheþg	soð
 yfir	aa	yfir
 .	.	.
-
 Hitið	sbg2fn	hita
 ofninn	nkeog	ofn
 í	ao	í
@@ -1983,13 +1878,11 @@ formið	nheog	form
 miðjan	lkeosf	miður
 ofninn	nkeog	ofn
 .	.	.
-
 Bakið	sbg2fn	baka
 í	ao	í
 60-80	ta	60-80
 mínútur	nvfo	mínúta
 .	.	.
-
 Gott	lhensf	góður
 er	sfg3en	vera
 að	cn	að
@@ -2006,7 +1899,6 @@ líður	sfg3en	líða
 í	aþ	í
 miðjunni	nveþg	miðja
 .	.	.
-
 Þegar	c	þegar
 steikin	nveng	steik
 er	sfg3en	vera
@@ -2032,7 +1924,6 @@ opna	sng	opna
 svolitla	lveosf	svolítill
 rifu	nveo	rifa
 .	.	.
-
 Látið	sbg2fn	láta
 steikina	nveog	steik
 jafna	sng	jafna
@@ -2040,7 +1931,6 @@ sig	fpveo	sig
 í	aþ	í
 forminu	nheþg	form
 .	.	.
-
 Berið	sbg2fn	bera
 fram	aa	fram
 með	aþ	með
@@ -2060,7 +1950,6 @@ og	c	og
 brúnuðum	lvfþsf	brúnaður
 kartöflum	nvfþ	kartafla
 .	.	.
-
 Ábending	nven	ábending
 :	:	:
 Sem	c	sem
@@ -2086,7 +1975,6 @@ sitt	fehen	sinn
 hvorn	fokeo	hvor
 pokann	nkeog	poki
 .	.	.
-
 Einnig	aa	einnig
 5	ta	5
 Grain	e	Grain
@@ -2100,7 +1988,6 @@ sitt	feheo	sinn
 hvorn	fokeo	hvor
 pokann	nkeog	poki
 .	.	.
-
 Ef	c	ef
 þetta	fahen	þessi
 fæst	sfm3en	fá
@@ -2114,7 +2001,6 @@ jurtaborgaraduft	nheo	jurtaborgaraduft
 sem	ct	sem
 er	sfg3en	vera
 .	.	.
-
 Hangikjöt	nhen	hangikjöt
 Nokkuð	fohen	nokkur
 misjafnt	lhensf	misjafn
@@ -2136,7 +2022,6 @@ virðast	sfm3fn	virða
 þeim	fahfþ	sá
 efnum	nhfþ	efni
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 sagt	sþghen	segja
@@ -2149,7 +2034,6 @@ virðast	sfm3fn	virða
 vera	sng	vera
 algengastar	lvfnse	algengur
 .	.	.
-
 Leið	nven	leið
 1	ta	1
 Hangikjöt	nhen	hangikjöt
@@ -2164,7 +2048,6 @@ látið	sþghen	láta
 fljóta	sng	fljóta
 yfir	aa	yfir
 .	.	.
-
 Eftir	ao	eftir
 að	cn	að
 suða	nven	suða
@@ -2180,7 +2063,6 @@ hita	nkeo	hiti
 í	ao	í
 klukkutíma	nkeo	klukkutími
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 síðan	aa	síðan
@@ -2198,7 +2080,6 @@ er	sfg3en	vera
 tekið	sþghen	taka
 upp	aa	upp
 .	.	.
-
 Kjötið	nheng	kjöt
 er	sfg3en	vera
 ýmist	c	ýmist
@@ -2207,7 +2088,6 @@ heitt	lhensf	heitur
 eða	c	eða
 kalt	lhensf	kaldur
 .	.	.
-
 Leið	nven	leið
 2	ta	2
 Suða	nven	suða
@@ -2221,7 +2101,6 @@ vatni	nheþ	vatn
 stórum	lkeþsf	stór
 potti	nkeþ	pottur
 .	.	.
-
 Hangikjötið	nheng	hangikjöt
 er	sfg3en	vera
 sett	sþghen	setja
@@ -2239,7 +2118,6 @@ hita	nkeo	hiti
 11/2	ta	11/2
 klukkutíma	nkeo	klukkutími
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 það	fphen	það
@@ -2260,7 +2138,6 @@ skorið	sþghen	skera
 og	c	og
 framreitt	sþghen	framreiða
 .	.	.
-
 Leið	nven	leið
 3	ta	3
 Hangikjöt	nhen	hangikjöt
@@ -2275,7 +2152,6 @@ látið	sþghen	láta
 fljóta	sng	fljóta
 yfir	aa	yfir
 .	.	.
-
 Vægur	lkensf	vægur
 straumur	nken	straumur
 er	sfg3en	vera
@@ -2290,7 +2166,6 @@ er	sfg3en	vera
 slökkt	sþghen	slökkva
 undir	aa	undir
 .	.	.
-
 Kjötið	nheng	kjöt
 er	sfg3en	vera
 látið	sþghen	láta
@@ -2301,7 +2176,6 @@ soðinu	nheþg	soð
 nokkrar	fovfo	nokkur
 klukkustundir	nvfo	klukkustund
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 það	fphen	það
@@ -2325,7 +2199,6 @@ kalt	lhensf	kaldur
 daginn	nkeog	dagur
 eftir	aa	eftir
 .	.	.
-
 Veisluborð	nhfn	veisluborð
 landsmanna	nkfe	landsmaður
 eru	sfg3fn	vera
@@ -2336,7 +2209,6 @@ meðlæti	nheþ	meðlæti
 yfir	ao	yfir
 hátíðarnar	nvfog	hátíð
 .	.	.
-
 Hver	fsken	hver
 hefur	sfg3en	hafa
 sinn	fekeo	sinn
@@ -2357,7 +2229,6 @@ leiðum	nvfþ	leið
 við	ao	við
 matreiðsluna	nveog	matreiðsla
 .	.	.
-
 Hér	aa	hér
 birtast	sfm3fn	birta
 rjúkandi	lhfnof	rjúkandi
@@ -2371,7 +2242,6 @@ borg	nveþ	borg
 og	c	og
 bæ	nkeþ	bær
 .	.	.
-
 Angélica	e	Angélica
 Cantú	e	Cantú
 Dávila	e	Dávila
@@ -2392,7 +2262,6 @@ eiga	sfg3fn	eiga
 að	cn	að
 venjast	snm	venja
 .	.	.
-
 Þær	fpvfn	hún
 eru	sfg3fn	vera
 báðar	fovfn	báðir
@@ -2417,7 +2286,6 @@ mjög	aa	mjög
 ólíkar	lvfosf	ólíkur
 jólahátíðir	nvfo	jólahátíð
 .	.	.
-
 Kemur	sfg3en	koma
 þar	aa	þar
 einnig	aa	einnig
@@ -2438,7 +2306,6 @@ frá	aþ	frá
 norðurhluta	nkeþ	norðurhluti
 Mexíkó	nhee-s	Mexíkó
 .	.	.
-
 Vinkonurnar	nvfng	vinkona
 kynntust	sfm3fþ	kynna
 á	aþ	á
@@ -2449,7 +2316,6 @@ báðar	fovfn	báðir
 feikigóða	lveosf	feikigóður
 íslensku	nveo	íslenska
 .	.	.
-
 Hilda	nven-s	Hilda
 er	sfg3en	vera
 spænskukennari	nken	spænskukennari
@@ -2480,7 +2346,6 @@ mundir	nvfo	mund
 í	aþ	í
 barnsburðarleyfi	nheþ	barnsburðarleyfi
 .	.	.
-
 Ávextir	nkfn	ávöxtur
 slegnir	sþgkfn	slá
 úr	aþ	úr
@@ -2498,7 +2363,6 @@ jólakomuna	nveog	jólakoma
 kaþólskri	lveþsf	kaþólskur
 trú	nveþ	trú
 .	.	.
-
 Tímabilið	nheng	tímabil
 16.-24.	ta	16.-24.
 desember	nkeo	desember
@@ -2515,7 +2379,6 @@ heimilisteiti	nhfn	heimilisteiti
 hverju	foheþ	hver
 kvöldi	nheþ	kvöld
 .	.	.
-
 Við	fp1fn	ég
 höldum	sfg1fn	halda
 partí	nhfo	partí
@@ -2539,7 +2402,6 @@ nágranna	nkfe	nágranni
 segir	sfg3en	segja
 Hilda	nven-s	Hilda
 .	.	.
-
 Ein	foven	einn
 fjölskylda	nven	fjölskylda
 tekur	sfg3en	taka
@@ -2557,7 +2419,6 @@ meðal	ae	meðal
 annars	fohee	annar
 upp	aa	upp
 á	ao	á
-
 Ponche	e	Ponche
 Navideño	e	Navideño
 sem	ct	sem
@@ -2566,7 +2427,6 @@ jólaglögg	nhen	jólaglögg
 með	aþ	með
 ávöxtum	nkfþ	ávöxtur
 .	.	.
-
 Í	aa	í
 kringum	ao	kringum
 heimsóknirnar	nvfog	heimsókn
@@ -2598,7 +2458,6 @@ komu	sfg3fþ	koma
 til	ae	til
 Betlehem	nxee-s	Betlehem
 .	.	.
-
 Fólkið	nheng	fólk
 syngur	sfg3en	syngja
 lög	nhfo	lag
@@ -2627,7 +2486,6 @@ gestirnir	nkfng	gestur
 séu	svg3fn	vera
 velkomnir	lkfnsf	velkominn
 .	.	.
-
 Þá	aa	þá
 eru	sfg3fn	vera
 dyrnar	nvfng	dyr
@@ -2646,7 +2504,6 @@ og	c	og
 á	aþ	á
 vörum	nvfþ	vör
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 mjög	aa	mjög
@@ -2668,7 +2525,6 @@ fögnum	sfg1fn	fagna
 komu	nveþ	koma
 jólanna	nhfeg	jól
 .	.	.
-
 Posada-teitin	nhfn-s	Posada-teiti
 standa	sfg3fn	standa
 fram	aa	fram
@@ -2687,7 +2543,6 @@ stemmningu	nveþ	stemmning
 hvert	foheo	hver
 sinn	nheo	sinn
 .	.	.
-
 Ýmiss	fokee	ýmis
 konar	nkee	konar
 réttir	nkfn	réttur
@@ -2717,7 +2572,6 @@ hafa	sfg3fn	hafa
 orku	nveo	orka
 til	aa	til
 .	.	.
-
 En	c	en
 fyrst	lhensf	fyrstur
 af	aþ	af
@@ -2750,7 +2604,6 @@ blóm	nhfn	blóm
 eða	c	eða
 dýr	nhfn	dýr
 .	.	.
-
 Börnin	nhfng	barn
 slá	sfg3fn	slá
 í	ao	í
@@ -2780,7 +2633,6 @@ jólasælgæti	nheþ	jólasælgæti
 yfir	ao	yfir
 hópinn	nkeog	hópur
 .	.	.
-
 Allir	fokfn	allur
 reyna	sfg3fn	reyna
 að	cn	að
@@ -2811,7 +2663,6 @@ sameinist	svm3fn	sameina
 í	aþ	í
 posada-veislunum	nvfþg	posada-veisla
 .	.	.
-
 Stundum	aa	stundum
 eru	sfg3fn	vera
 þessar	favfn	þessi
@@ -2827,7 +2678,6 @@ kannski	aa	kannski
 allt	fohen	allur
 hverfið	nheog	hverfi
 .	.	.
-
 En	c	en
 umfang	nhen	umfang
 veislunnar	nveeg	veisla
@@ -2838,7 +2688,6 @@ fjölskyldunnar	nveeg	fjölskylda
 og	c	og
 þjóðfélagsstöðu	nveþ	þjóðfélagsstaða
 .	.	.
-
 Hinir	gkfn	hinn
 fátækari	lkfnvm	fátækur
 halda	sfg3fn	halda
@@ -2859,7 +2708,6 @@ hús	nheo	hús
 í	aþ	í
 sveit	nveþ	sveit
 .	.	.
-
 Glaðningur	nken	glaðningur
 í	aþ	í
 brauðinu	nheþg	brauð
@@ -2879,7 +2727,6 @@ auk	ae	auk
 annarra	fokfe	annar
 rétta	nkfe	réttur
 .	.	.
-
 Helst	aae	heldur
 ber	sfg3en	bera
 þar	aa	þar
@@ -2898,7 +2745,6 @@ er	sfg3en	vera
 sérstakur	lkensf	sérstakur
 hátíðarréttur	nken	hátíðarréttur
 .	.	.
-
 En	c	en
 við	fp1fn	ég
 getum	sfg1fn	geta
@@ -2924,7 +2770,6 @@ hér	aa	hér
 segir	sfg3en	segja
 Angélica	e	Angélica
 .	.	.
-
 Spænskir	lkfnsf	spænskur
 siðir	nkfn	siður
 setja	sfg3fn	setja
@@ -2946,7 +2791,6 @@ að	aþ	að
 sögn	nveþ	sögn
 vinkvennanna	nvfeg	vinkona
 .	.	.
-
 Á	aþ	á
 landsbyggðinni	nveþg	landsbyggð
 í	aþ	í
@@ -2967,7 +2811,6 @@ tekið	ssg	taka
 sér	fpkeþ	sig
 bólfestu	nveo	bólfesta
 .	.	.
-
 Þegar	c	þegar
 ég	fp1en	ég
 var	sfg1eþ	vera
@@ -2982,7 +2825,6 @@ aðfangadag	nkeo	aðfangadagur
 segir	sfg3en	segja
 Hilda	nven-s	Hilda
 .	.	.
-
 Jólagjafir	nvfn	jólagjöf
 eru	sfg3fn	vera
 hins	fakee	hinn
@@ -3000,7 +2842,6 @@ sem	ct	sem
 best	aae	vel
 veit	sfg1en	vita
 .	.	.
-
 En	c	en
 í	aþ	í
 minni	feveþ	minn
@@ -3021,7 +2862,6 @@ að	aþ	að
 henni	fpveþ	hún
 lokinni	lveþsf	lokinn
 .	.	.
-
 Angélica	e	Angélica
 bendir	sfg3en	benda
 á	ao	á
@@ -3043,7 +2883,6 @@ skóinn	nkeog	skór
 6.	ta	6.
 janúar	nkeo	janúar
 .	.	.
-
 Því	fpheþ	það
 sé	svg3en	vera
 trúað	sþghen	trúa
@@ -3059,7 +2898,6 @@ deili	svg3fn	deila
 til	ae	til
 barnanna	nhfeg	barn
 .	.	.
-
 Og	c	og
 fleira	lhenvm	margur
 gerist	sfm3en	gera
@@ -3077,7 +2915,6 @@ og	c	og
 Angélica	e	Angélica
 lýsir	sfg3en	lýsa
 .	.	.
-
 Sjötta	lkeovf	sjötti
 janúar	nkeo	janúar
 bökum	sfg1fn	baka
@@ -3092,7 +2929,6 @@ sem	ct	sem
 þýðir	sfg3en	þýða
 Konungshringurinn	nkengs	konungshringur
 .	.	.
-
 Þetta	fahen	þessi
 brauð	nhen	brauð
 er	sfg3en	vera
@@ -3110,7 +2946,6 @@ stórt	lhensf	stór
 og	c	og
 veglegt	lhensf	veglegur
 .	.	.
-
 Inn	aa	inn
 í	ao	í
 brauðið	nheog	brauð
@@ -3133,7 +2968,6 @@ dúkku	nveo	dúkka
 sneiðinni	nveþg	sneið
 sinni	feveþ	sinn
 .	.	.
-
 Þeir	fakfn	sá
 sem	ct	sem
 lenda	sfg3fn	lenda
@@ -3158,7 +2992,6 @@ bætir	sfg3en	bæta
 við	aa	við
 hlæjandi	lvenof	hlæjandi
 :	:	:
-
 Eins	aa	eins
 og	c	og
 sjá	sng	sjá
@@ -3183,7 +3016,6 @@ og	c	og
 halda	sng	halda
 partí	nhfo	partí
 .	.	.
-
 Að	cn	að
 borða	sng	borða
 saman	aa	saman
@@ -3195,12 +3027,10 @@ okkar	fp1fe	ég
 daglega	lheþvf	daglegur
 lífi	nheþ	líf
 .	.	.
-
 Sinn	feken	sinn
 er	sfg3en	vera
 siður	nken	siður
 ...	...	...
-
 Angélica	e	Angélica
 bendir	sfg3en	benda
 á	ao	á
@@ -3221,7 +3051,6 @@ sið	nkeþ	siður
 eða	c	eða
 kaþólskum	lkeþsf	kaþólskur
 .	.	.
-
 Hjá	aþ	hjá
 okkur	fp1fþ	ég
 er	sfg3en	vera
@@ -3252,7 +3081,6 @@ hann	fpken	hann
 var	sfg3eþ	vera
 trúboði	nken	trúboði
 .	.	.
-
 Honum	fpkeþ	hann
 til	ae	til
 heiðurs	nkee	heiður
@@ -3279,7 +3107,6 @@ borðuðum	sfg1fþ	borða
 um	ao	um
 kvöldið	nheog	kvöld
 .	.	.
-
 Að	aþ	að
 öðru	foheþ	annar
 leyti	nheþ	leyti
@@ -3292,7 +3119,6 @@ upp	aa	upp
 fæðingu	nveo	fæðing
 Jesú	nkee-s	Jesús
 .	.	.
-
 Á	aþ	á
 mínu	feheþ	minn
 heimili	nheþ	heimili
@@ -3315,7 +3141,6 @@ stífur	lkensf	stífur
 á	aþ	á
 siðunum	nkfþg	siður
 .	.	.
-
 Einu	foheþ	einn
 sinni	nheþ	sinn
 var	sfg3eþ	vera
@@ -3333,7 +3158,6 @@ pabbi	nken	pabbi
 sagði	sfg3eþ	segja
 nei	au	nei
 .	.	.
-
 Mér	fp1eþ	ég
 fannst	sfm3eþ	finna
 það	fphen	það
@@ -3346,7 +3170,6 @@ bara	aa	bara
 átta	tfhfe	átta
 ára	nhfe	ár
 .	.	.
-
 Nú	aa	nú
 er	sfg1en	vera
 ég	fp1en	ég
@@ -3376,7 +3199,6 @@ dagana	nkfog	dagur
 fyrir	ao	fyrir
 jól	nhfo	jól
 .	.	.
-
 Margir	lkfnsf	margur
 foreldrar	nkfn	foreldrar
 ,	,	,
@@ -3405,7 +3227,6 @@ slíkar	fbvfo	slíkur
 veislur	nvfo	veisla
 sjálfir	fbkfn	sjálfur
 .	.	.
-
 Angélica	e	Angélica
 hefur	sfg3en	hafa
 búið	ssg	búa
@@ -3424,7 +3245,6 @@ og	c	og
 eins	tfhee	einn
 árs	nhee	ár
 .	.	.
-
 Ég	fp1en	ég
 fæ	sfg1en	fá
 engan	fokeo	enginn
@@ -3449,7 +3269,6 @@ hér	aa	hér
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Þess	fphee	það
 vegna	ae	vegna
 eru	sfg3fn	vera
@@ -3476,7 +3295,6 @@ við	fp1fn	ég
 íslensk	lhfosf	íslenskur
 jól	nhfo	jól
 .	.	.
-
 Eina	lvenvf	einn
 undantekningin	nveng	undantekning
 er	sfg3en	vera
@@ -3513,7 +3331,6 @@ svínakjöt	nheo	svínakjöt
 til	ae	til
 munns	nkee	munnur
 .	.	.
-
 Reyndar	aa	reyndar
 vil	sfg1en	vilja
 ég	fp1en	ég
@@ -3545,7 +3362,6 @@ mig	fp1eo	ég
 á	aþ	á
 jólunum	nhfþg	jól
 .	.	.
-
 Mér	fp1eþ	ég
 fannst	sfm3eþ	finna
 það	fphen	það
@@ -3570,7 +3386,6 @@ og	c	og
 siði	nkfo	siður
 annarra	fokfe	annar
 .	.	.
-
 Hilda	nven-s	Hilda
 á	sfg3en	eiga
 einnig	aa	einnig
@@ -3587,7 +3402,6 @@ sex	tfhfe	sex
 gamla	lkfosf	gamall
 stráka	nkfo	strákur
 .	.	.
-
 Hún	fpven	hún
 heldur	sfg3en	halda
 íslensk	lhfosf	íslenskur
@@ -3625,7 +3439,6 @@ Suður-Evrópu	nveþ-s	Suður-Evrópa
 og	c	og
 víðar	aam	víða
 .	.	.
-
 Vinkonunum	nvfþg	vinkona
 finnst	sfm3en	finna
 báðum	fovfþ	báðir
@@ -3647,7 +3460,6 @@ Grýlu	nveo-s	Grýla
 og	c	og
 Leppalúða	nkeo-s	Leppalúði
 .	.	.
-
 Það	fphen	það
 sem	ct	sem
 okkur	fp1fþ	ég
@@ -3667,7 +3479,6 @@ hér	aa	hér
 á	aþ	á
 landi	nheþ	land
 .	.	.
-
 Á	aa	á
 móti	aa	móti
 láta	sfg3fn	láta
@@ -3682,7 +3493,6 @@ finnst	sfm3en	finna
 okkur	fp1fþ	ég
 skrýtið	lhensf	skrýtinn
 .	.	.
-
 Íslendingar	nkfn-s	Íslendingur
 eru	sfg3fn	vera
 sífellt	aa	sífellt
@@ -3717,7 +3527,6 @@ siða	nkfe	siður
 í	aþ	í
 alþýðumenningu	nveþ	alþýðumenning
 .	.	.
-
 Dalvík	nven-s	Dalvík
 er	sfg3en	vera
 jólabær	nken	jólabær
@@ -3727,7 +3536,6 @@ og	c	og
 gerast	sfm3fn	gera
 sannastir	lkfnse	sannur
 .	.	.
-
 Þar	aa	þar
 deila	sfg3fn	deila
 jólasveinarnir	nkfng	jólasveinn
@@ -3751,7 +3559,6 @@ er	sfg3en	vera
 boði	nheþ	boð
 Kaupfélagsins	nheegs	Kaupfélag
 .	.	.
-
 Ja	au	ja
 ,	,	,
 kannski	aa	kannski
@@ -3792,7 +3599,6 @@ upp	aa	upp
 á	aþ	á
 nýjum	lkfþsf	nýr
 .	.	.
-
 Svo	aa	svo
 áratugum	nkfþ	áratugur
 skiptir	sfg3en	skipta
@@ -3830,7 +3636,6 @@ mikinn	lkeosf	mikill
 fögnuð	nkeo	fögnuður
 viðstaddra	lkfesf	viðstaddur
 .	.	.
-
 Engin	fohfn	enginn
 dádýr	nhfn	dádýr
 á	aþ	á
@@ -3846,7 +3651,6 @@ sinnar	fevee	sinn
 á	aþ	á
 Dalvík	nveþ-s	Dalvík
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 jólabarn	nhen	jólabarn
@@ -3872,7 +3676,6 @@ jólahaldið	nheog	jólahald
 á	aþ	á
 Dalvík	nveþ-s	Dalvík
 .	.	.
-
 Hér	aa	hér
 hefur	sfg3en	hafa
 lengi	aa	lengi
@@ -3888,7 +3691,6 @@ bæjarbúa	nkfe	bæjarbúi
 er	sfg3en	vera
 sterk	lvensf	sterkur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 eflaust	aa	eflaust
@@ -3918,7 +3720,6 @@ hópandans	nkeeg	hópandi
 á	aþ	á
 jólaföstunni	nveþg	jólafasta
 .	.	.
-
 Sjálfur	fbken	sjálfur
 segist	sfm3en	segja
 hann	fpken	hann
@@ -3939,12 +3740,10 @@ gefi	svg3en	gefa
 tilefni	nheo	tilefni
 til	aa	til
 .	.	.
-
 Snjórinn	nkeng	snjór
 er	sfg3en	vera
 lykilatriði	nhen	lykilatriði
 .	.	.
-
 Ég	fp1en	ég
 segi	sfg1en	segja
 ekki	aa	ekki
@@ -3980,7 +3779,6 @@ sem	ct	sem
 maður	nken	maður
 þekkir	sfg3en	þekkja
 .	.	.
-
 Jólaskapið	nheng	jólaskap
 er	sfg3en	vera
 þannig	aa	þannig
@@ -4007,7 +3805,6 @@ aðventunni	nveþg	aðventa
 fyrir	aa	fyrir
 sunnan	aa	sunnan
 .	.	.
-
 Nú	aa	nú
 hefur	sfg3en	hafa
 Júlíus	nken-s	Júlíus
@@ -4024,7 +3821,6 @@ inn	aa	inn
 á	ao	á
 Netið	nheogs	Net
 .	.	.
-
 Mánuði	nkeþ	mánuður
 fyrir	ao	fyrir
 jólin	nhfog	jól
@@ -4050,7 +3846,6 @@ og	c	og
 hundruð	nhfo	hundrað
 bréfa	nhfe	bréf
 .	.	.
-
 Vefurinn	nkeng	vefur
 geymir	sfg3en	geyma
 jóladagatal	nheo	jóladagatal
@@ -4074,7 +3869,6 @@ jólasíður	nvfo	jólasíða
 og	c	og
 fleira	lheovm	margur
 .	.	.
-
 Viðbrögðin	nhfng	viðbragð
 voru	sfg3fþ	vera
 ævintýraleg	lhfnsf	ævintýralegur
@@ -4087,7 +3881,6 @@ var	sfg3eþ	vera
 ekkert	fohen	enginn
 auglýstur	sþgken	auglýsa
 .	.	.
-
 Ég	fp1en	ég
 sendi	sfg1eþ	senda
 bara	aa	bara
@@ -4102,7 +3895,6 @@ spurðist	sfm3eþ	spyrja
 þetta	fahen	þessi
 út	aa	út
 .	.	.
-
 Einhver	foken	einhver
 sá	sfg3eþ	sjá
 og	c	og
@@ -4113,7 +3905,6 @@ eins	aa	eins
 og	c	og
 gengur	sfg3en	ganga
 .	.	.
-
 Ég	fp1en	ég
 fékk	sfg1eþ	fá
 tugi	nkfo	tugur
@@ -4128,7 +3919,6 @@ getraunum	nvfþ	getraun
 og	c	og
 þakkarbréf	nhfo	þakkarbréf
 .	.	.
-
 Allir	fokfn	allur
 sem	ct	sem
 höfðu	sfg3fþ	hafa
@@ -4154,7 +3944,6 @@ kom	sfg3eþ	koma
 með	ao	með
 kvörtun	nveo	kvörtun
 .	.	.
-
 Í	aþ	í
 bakgrunninum	nkeþg	bakgrunnur
 á	aþ	á
@@ -4175,7 +3964,6 @@ dádýr	nhfn	dádýr
 á	aþ	á
 Dalvík	nveþ-s	Dalvík
 !	!	!
-
 Svo	aa	svo
 nú	aa	nú
 hef	sfg1en	hafa
@@ -4185,7 +3973,6 @@ inn	aa	inn
 nýjar	lvfosf	nýr
 myndir	nvfo	mynd
 .	.	.
-
 Á	aþ	á
 vefnum	nkeþg	vefur
 í	ao	í
@@ -4211,7 +3998,6 @@ um	ao	um
 bernskujólin	nhfog	bernskujól
 nyrðra	aam	nyrðra
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 nefnilega	aa	nefnilega
@@ -4223,7 +4009,6 @@ og	c	og
 gömlum	lkeþsf	gamall
 tíma	nkeþ	tími
 .	.	.
-
 Í	aþ	í
 þessum	favfþ	þessi
 lýsingum	nvfþ	lýsing
@@ -4236,7 +4021,6 @@ fyrir	ao	fyrir
 fábrotin	lhfosf	fábrotinn
 hátíðahöld	nhfo	hátíðahald
 .	.	.
-
 Hlýja	nven	hlýja
 í	aþ	í
 litlu	lheþsf	lítill
@@ -4259,7 +4043,6 @@ og	c	og
 fremst	aae	fremur
 tilfinning	nven	tilfinning
 .	.	.
-
 Jólaseríur	nvfn	jólasería
 seldust	sfm3fþ	selja
 upp	aa	upp
@@ -4297,7 +4080,6 @@ snemma	aa	snemma
 orðið	ssg	verða
 heimsþekktur	lkensf	heimsþekktur
 .	.	.
-
 Gestirnir	nkfng	gestur
 á	aþ	á
 vefnum	nkeþg	vefur
@@ -4312,7 +4094,6 @@ vefurinn	nkeng	vefur
 öllum	fokfþ	allur
 ætlaður	sþgken	ætla
 .	.	.
-
 En	c	en
 sérstökustu	lhfnve	sérstakur
 viðbrögðin	nhfng	viðbragð
@@ -4331,7 +4112,6 @@ að	cn	að
 fylgjast	snm	fylgja
 með	aa	með
 .	.	.
-
 Þeir	fpkfn	hann
 hefðu	svg3fþ	hafa
 sennilega	aa	sennilega
@@ -4346,7 +4126,6 @@ náð	ssg	ná
 til	ae	til
 mín	fp1ee	ég
 .	.	.
-
 Svo	aa	svo
 vissi	sfg1eþ	vita
 ég	fp1en	ég
@@ -4372,7 +4151,6 @@ brauðin	nhfng	brauð
 voru	sfg3fþ	vera
 skorin	lhfnsf	skorinn
 .	.	.
-
 Í	ao	í
 ár	nheo	ár
 hyggst	sfm3en	hyggja
@@ -4408,7 +4186,6 @@ sem	ct	sem
 desember	nkeo	desember
 líður	sfg3en	líða
 .	.	.
-
 Þannig	aa	þannig
 geti	svg3en	geta
 fólk	nhen	fólk
@@ -4421,7 +4198,6 @@ breytist	sfm3en	breyta
 á	aþ	á
 aðventunni	nveþg	aðventa
 .	.	.
-
 Og	c	og
 hann	fpken	hann
 viðurkennir	sfg3en	viðurkenna
@@ -4433,7 +4209,6 @@ veikur	lkensf	veikur
 fyrir	aþ	fyrir
 ljósaskreytingum	nvfþ	ljósaskreyting
 .	.	.
-
 Sem	ct	sem
 gutti	nken	gutti
 gerði	sfg1eþ	gera
@@ -4449,7 +4224,6 @@ og	c	og
 telja	sng	telja
 aðventuljós	nhfo	aðventuljós
 .	.	.
-
 Þetta	fahen	þessi
 þróaðist	sfm3eþ	þróa
 svo	aa	svo
@@ -4475,7 +4249,6 @@ töldum	sfg1fþ	telja
 saman	aa	saman
 aðventuljósin	nhfog	aðventuljós
 .	.	.
-
 Þá	aa	þá
 athugaði	sfg1eþ	athuga
 ég	fp1en	ég
@@ -4511,7 +4284,6 @@ dæmi	nhfn	dæmi
 séu	svg3fn	vera
 tekin	sþghfn	taka
 .	.	.
-
 Ég	fp1en	ég
 var	sfg1eþ	vera
 ekki	aa	ekki
@@ -4526,7 +4298,6 @@ komið	sþghen	koma
 sinn	fekeo	sinn
 stað	nkeo	staður
 .	.	.
-
 Svo	aa	svo
 var	sfg3eþ	vera
 það	fphen	það
@@ -4549,7 +4320,6 @@ húsanna	nhfeg	hús
 í	aþ	í
 bænum	nkeþg	bær
 .	.	.
-
 Mig	fp1eo	ég
 langaði	sfg3eþ	langa
 til	ae	til
@@ -4572,7 +4342,6 @@ viðbrögð	nhfn	viðbragð
 voru	sfg3fþ	vera
 geysileg	lhfnsf	geysilegur
 .	.	.
-
 Seríur	nvfn	sería
 seldust	sfm3fþ	selja
 upp	aa	upp
@@ -4583,7 +4352,6 @@ og	c	og
 í	aþ	í
 nágrannabyggðum	nvfþ	nágrannabyggð
 .	.	.
-
 Jólaljósasalar	nkfn	jólaljósasali
 á	aþ	á
 Akureyri	nveþ-s	Akureyri
@@ -4604,7 +4372,6 @@ gerast	snm	gera
 á	aþ	á
 Dalvík	nveþ-s	Dalvík
 !	!	!
-
 Það	fahen	sá
 árið	nheng	ár
 var	sfg3eþ	vera
@@ -4636,7 +4403,6 @@ magn	nheo	magn
 heldur	c	heldur
 gæði	nhfo	gæði
 .	.	.
-
 Við	fp1fn	ég
 dæmum	sfg1fn	dæma
 nefnilega	aa	nefnilega
@@ -4657,7 +4423,6 @@ og	c	og
 svo	aa	svo
 framvegis	aa	framvegis
 .	.	.
-
 Nú	aa	nú
 eru	sfg3fn	vera
 margir	lkfnsf	margur
@@ -4698,12 +4463,10 @@ samkeppninni	nveþg	samkeppni
 verið	ssg	vera
 náð	sþghen	ná
 .	.	.
-
 Með	ao	með
 kortin	nhfog	kort
 í	ao	í
 sveinana	nkfog	sveinn
-
 Aðeins	aa	aðeins
 einu	foheþ	einn
 sinni	nheþ	sinn
@@ -4724,7 +4487,6 @@ föstum	lkeþsf	fastur
 dalvískri	lveþsf	dalvískur
 aðventu	nveþ	aðventa
 .	.	.
-
 Jólasveinarnir	nkfng	jólasveinn
 koma	sfg3fn	koma
 yfirleitt	aa	yfirleitt
@@ -4749,7 +4511,6 @@ upp	aa	upp
 úr	aþ	úr
 hádegi	nheþ	hádegi
 .	.	.
-
 Mesti	lkenve	mikill
 spenningurinn	nkeng	spenningur
 er	sfg3en	vera
@@ -4785,7 +4546,6 @@ veðri	nheþ	veður
 og	c	og
 færð	nveþ	færð
 .	.	.
-
 Á	aþ	á
 svölunum	nvfþg	svalir
 syngja	sfg3fn	syngja
@@ -4802,7 +4562,6 @@ og	c	og
 dreifa	sfg3fn	dreifa
 eplum	nhfþ	epli
 .	.	.
-
 Og	c	og
 þetta	fahen	þessi
 eru	sfg3fn	vera
@@ -4843,7 +4602,6 @@ upp	aa	upp
 úr	aþ	úr
 því	fpheþ	það
 .	.	.
-
 Í	aþ	í
 bænum	nkeþg	bær
 fara	sfg3fn	fara
@@ -4871,7 +4629,6 @@ gegn	aþ	gegn
 vægri	lveþsf	vægur
 greiðslu	nveþ	greiðsla
 .	.	.
-
 Þetta	fahen	þessi
 kostar	sfg3en	kosta
 smápening	nkeo	smápeningur
@@ -4890,7 +4647,6 @@ orðið	sþghen	verða
 mjög	aa	mjög
 gott	lhensf	góður
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 örugglega	aa	örugglega
@@ -4898,7 +4654,6 @@ jólapóstinum	nkeþg	jólapóstur
 að	cn	að
 þakka	sng	þakka
 .	.	.
-
 Tekið	sþghen	taka
 er	sfg3en	vera
 á	aa	á
@@ -4919,7 +4674,6 @@ kortin	nhfog	kort
 í	ao	í
 sveinana	nkfog	sveinn
 .	.	.
-
 Svo	aa	svo
 mæta	sfg3fn	mæta
 krakkarnir	nkfng	krakki
@@ -4949,7 +4703,6 @@ sem	ct	sem
 skipta	sfg3fn	skipta
 þúsundum	nhfþ	þúsund
 .	.	.
-
 Jólasveinapóstur	nken	jólasveinapóstur
 var	sfg3eþ	vera
 fyrst	aae	fyrr
@@ -4960,7 +4713,6 @@ Dalvík	nveþ-s	Dalvík
 árið	nheog	ár
 1938	ta	1938
 .	.	.
-
 Hugmyndina	nveog	hugmynd
 átti	sfg3eþ	eiga
 Ásgeir	nken-s	Ásgeir
@@ -4987,9 +4739,7 @@ undir	aþ	undir
 stjórn	nveþ	stjórn
 skólastjóra	nkee	skólastjóri
 og	c	og
-
 Grýlu	nvee-s	Grýla
-
 (	(	(
 Jóhönnu	nvee-s	Jóhanna
 Skaftadóttur	nvee-s	Skaftadóttir

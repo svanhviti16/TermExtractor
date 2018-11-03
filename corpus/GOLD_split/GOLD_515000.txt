@@ -8,7 +8,6 @@ Austfirðinga	nkfe-s	Austfirðingur
 er	sfg3en	vera
 staðsett	lhensf	staðsettur
 .	.	.
-
 Í	aþ	í
 hláku	nveþ	hláka
 er	sfg3en	vera
@@ -40,7 +39,6 @@ koma	sng	koma
 í	ao	í
 sjúkraflugvél	nveo	sjúkraflugvél
 .	.	.
-
 Við	ao	við
 fjölgun	nveo	fjölgun
 í	aþ	í
@@ -88,7 +86,6 @@ landsmanna	nkfe	landsmaður
 treystir	sfg3en	treysta
 á	aa	á
 .	.	.
-
 Nú	aa	nú
 er	sfg3en	vera
 skynsamlegt	lhensf	skynsamlegur
@@ -125,20 +122,17 @@ fyrir	ao	fyrir
 þyrluflota	nkeo	þyrlufloti
 Landhelgisgæslunnar	nveegs	Landhelgisgæsla
 .	.	.
-
 Höfundur	nken	höfundur
 er	sfg3en	vera
 þingmaður	nken	þingmaður
 Frjálslynda	lkeevf	frjálslyndur
 flokksins	nkeeg	flokkur
 .	.	.
-
 Sjúkraflug	nhen	sjúkraflug
 og	c	og
 þyrlur	nvfn	þyrla
 á	aþ	á
 Akureyri	nveþ-s	Akureyri
-
 Landsframleiðsla	nven	landsframleiðsla
 er	sfg3en	vera
 hvergi	aa	hvergi
@@ -147,7 +141,6 @@ en	c	en
 á	aþ	á
 Suðurnesjum	nhfþ-s	Suðurnes
 .	.	.
-
 Þar	aa	þar
 hangir	sfg3en	hanga
 efnahagurinn	nkeng	efnahagur
@@ -178,7 +171,6 @@ að	cn	að
 tala	sng	tala
 um	aa	um
 .	.	.
-
 Það	fphen	það
 eru	sfg3fn	vera
 1820	ta	1820
@@ -211,7 +203,6 @@ fyrir	ao	fyrir
 þetta	faheo	þessi
 svæði	nheo	svæði
 .	.	.
-
 Eina	lvenvf	einn
 leiðin	nveng	leið
 sem	ct	sem
@@ -248,7 +239,6 @@ og	c	og
 minni	lkfovm	lítill
 dagróðrabáta	nkfo	dagróðrabátur
 .	.	.
-
 Tryggt	sþghen	tryggja
 verði	svg3en	verða
 í	aþ	í
@@ -281,7 +271,6 @@ dagatakmörkunum	nvfþ	dagatakmörkun
 og	c	og
 veiðarfærastýringu	nveþ	veiðarfærastýring
 .	.	.
-
 Stærri	lhfnvm	stór
 skip	nhfn	skip
 ,	,	,
@@ -310,7 +299,6 @@ langvinna	lheþvf	langvinnur
 í	aþ	í
 þjóðfélaginu	nheþg	þjóðfélag
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 eina	lvenvf	einn
@@ -370,7 +358,6 @@ að	aþ	að
 12	ta	12
 sjómílum	nvfþ	sjómíla
 .	.	.
-
 Eitt	tfhen	einn
 er	sfg3en	vera
 víst	lhensf	vís
@@ -381,7 +368,6 @@ Suðurnesja	nhfe-s	Suðurnes
 enga	foveo	enginn
 bið	nveo	bið
 .	.	.
-
 Það	fphen	það
 eru	sfg3fn	vera
 komnar	sþgvfn	koma
@@ -416,7 +402,6 @@ milli	aa	milli
 í	ao	í
 dag	nkeo	dagur
 !	!	!
-
 Höfundur	nken	höfundur
 er	sfg3en	vera
 stýrimaður	nken	stýrimaður
@@ -425,11 +410,9 @@ hópferðabílstjóri	nken	hópferðabílstjóri
 í	aþ	í
 Reykjanesbæ	nkeþ-s	Reykjanesbær
 .	.	.
-
 Landsframleiðsla	nven	landsframleiðsla
 hvergi	aa	hvergi
 minni	lvenvm	lítill
-
 «	«	«
 Eingöngu	aa	eingöngu
 þeir	fakfn	sá
@@ -440,14 +423,12 @@ engin	fohfo	enginn
 mistök	nhfo	mistök
 .	.	.
 »	»	»
-
 Alþingi	nhen-s	Alþingi
 samþykkir	sfg3en	samþykkja
 aðild	nveo	aðild
 Íslands	nhee-s	Ísland
 að	aþ	að
 NATO	nxeþ-s	NATO
-
 Jón	nken-s	Jón
 Hnefill	nken-s	Hnefill
 Aðalsteinsson	nken-s	Aðalsteinsson
@@ -473,7 +454,6 @@ heiðurs	nkee	heiður
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Jón	nken-s	Jón
 Hnefill	nken-s	Hnefill
 er	sfg3en	vera
@@ -485,7 +465,6 @@ Hrafnkelsdal	nkeþ-s	Hrafnkelsdalur
 árið	nheog	ár
 1927	ta	1927
 .	.	.
-
 Hann	fpken	hann
 varð	sfg3eþ	verða
 stúdent	nken	stúdent
@@ -515,7 +494,6 @@ trúarsálarfræði	nveo	trúarsálarfræði
 við	ao	við
 Stokkhólmsháskóla	nkeo-s	Stokkhólmsháskóli
 .	.	.
-
 Hann	fpken	hann
 lauk	sfg3eþ	ljúka
 guðfræðiprófi	nheþ	guðfræðipróf
@@ -545,7 +523,6 @@ Uppsalaháskóla	nkeþ-s	Uppsalaháskóli
 árið	nheog	ár
 1979	ta	1979
 .	.	.
-
 Jón	nken-s	Jón
 Hnefill	nken-s	Hnefill
 á	sfg3en	eiga
@@ -607,7 +584,6 @@ stefnur	nvfo	stefna
 í	aþ	í
 faginu	nheþg	fag
 .	.	.
-
 Hann	fpken	hann
 varð	sfg3eþ	verða
 fyrstur	lkeose	fyrstur
@@ -623,7 +599,6 @@ fjórum	tfhfþ	fjórir
 árum	nhfþ	ár
 síðar	aam	síðar
 .	.	.
-
 «	«	«
 Mér	fp1eþ	ég
 finnst	sfm3en	finna
@@ -657,7 +632,6 @@ sínum	fehfþ	sinn
 þessum	fahfþ	þessi
 tímamótum	nhfþ	tímamót
 .	.	.
-
 Hann	fpken	hann
 segist	sfm3en	segja
 hafa	sng	hafa
@@ -677,7 +651,6 @@ innan	ae	innan
 íslenska	lheevf	íslenskur
 fræðasamfélagsins	nheeg	fræðasamfélag
 .	.	.
-
 «	«	«
 Þetta	fahen	þessi
 gengur	sfg3en	ganga
@@ -704,7 +677,6 @@ verka	nhfe	verk
 segir	sfg3en	segja
 hann	fpken	hann
 .	.	.
-
 Jón	nken-s	Jón
 Hnefill	nken-s	Hnefill
 er	sfg3en	vera
@@ -721,7 +693,6 @@ starfinu	nheþg	starf
 af	aþ	af
 áhuga	nkeþ	áhugi
 .	.	.
-
 Jón	nken-s	Jón
 Hnefill	nken-s	Hnefill
 hefur	sfg3en	hafa
@@ -754,7 +725,6 @@ hér	aa	hér
 á	aþ	á
 landi	nheþ	land
 .	.	.
-
 Áhugaefni	nhfn	áhugaefni
 hans	fpkee	hann
 eru	sfg3fn	vera
@@ -785,7 +755,6 @@ eitthvað	fohen	einhver
 sé	svg3en	vera
 nefnt	sþghen	nefna
 .	.	.
-
 Hann	fpken	hann
 hefur	sfg3en	hafa
 langt	aa	langt
@@ -821,7 +790,6 @@ og	c	og
 þýsku	lheþsf	þýskur
 fagtímariti	nheþ	fagtímarit
 .	.	.
-
 Á	aþ	á
 málþinginu	nheþg	málþing
 sem	ct	sem
@@ -852,7 +820,6 @@ fjölbreytt	lhfosf	fjölbreyttur
 þjóðfræðileg	lhfosf	þjóðfræðilegur
 efni	nhfo	efni
 .	.	.
-
 Málþing	nhen	málþing
 þetta	fahen	þessi
 er	sfg3en	vera
@@ -883,7 +850,6 @@ grínefni	nheo	grínefni
 íslenskum	lkfþsf	íslenskur
 fjölmiðlum	nkfþ	fjölmiðill
 .	.	.
-
 Elskulegur	lkensf	elskulegur
 faðir	nken	faðir
 okkar	fp1fe	ég
@@ -4530,7 +4496,6 @@ við	ao	við
 lagafrumvarp	nheo	lagafrumvarp
 þetta	faheo	þessi
 .	.	.
-
 Í	aþ	í
 3.	ta	3.
 mgr.	as	mgr.
@@ -4566,7 +4531,6 @@ velferð	nven	velferð
 þeirra	fphfe	það
 krefst	sfm3en	krefja
 .	.	.
-
 Í	aþ	í
 greinargerðinni	nveþg	greinargerð
 með	aþ	með
@@ -4641,7 +4605,6 @@ velferð	nven	velferð
 þeirra	fphfe	það
 krefst	sfm3en	krefja
 .	.	.
-
 Með	aþ	með
 þessu	faheþ	þessi
 ákvæði	nheþ	ákvæði
@@ -4698,7 +4661,6 @@ börnum	nhfþ	barn
 fyrrnefnda	lveosf	fyrrnefndur
 tryggingu	nveo	trygging
 .	.	.
-
 Þetta	fahen	þessi
 ákvæði	nhen	ákvæði
 getur	sfg3en	geta
@@ -4739,7 +4701,6 @@ til	ae	til
 verndar	nvee	vernd
 börnum	nhfþ	barn
 .	.	.
-
 Sem	c	sem
 dæmi	nheo	dæmi
 um	ao	um
@@ -4821,7 +4782,6 @@ skorður	nvfn	skorða
 hátt	nkeo	háttur
 .	.	.
 »	»	»
-
 Í	aþ	í
 samræmi	nheþ	samræmi
 við	ao	við
@@ -4847,7 +4807,6 @@ verndar	nvee	vernd
 velferð	nveþ	velferð
 barna	nhfe	barn
 .	.	.
-
 Sú	faven	sá
 ritskoðun	nven	ritskoðun
 sem	ct	sem
@@ -4878,7 +4837,6 @@ með	aþ	með
 tilkomu	nveþ	tilkoma
 veraldarvefsins	nkeeg	veraldarvefur
 .	.	.
-
 Ný	lvensf	nýr
 miðlunartækni	nven	miðlunartækni
 hefur	sfg3en	hafa
@@ -4903,7 +4861,6 @@ eða	c	eða
 horfir	sfg3en	horfa
 á	aa	á
 .	.	.
-
 Því	aa	því
 hefur	sfg3en	hafa
 aukist	ssm	auka
@@ -4952,7 +4909,6 @@ sinna	fehfe	sinn
 framangreindu	lheþsf	framangreindur
 efni	nheþ	efni
 .	.	.
-
 Hlutverk	nhen	hlutverk
 löggjafans	nkeeg	löggjafi
 og	c	og

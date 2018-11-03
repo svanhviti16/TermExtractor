@@ -3,7 +3,6 @@ til	ae	til
 framtíðar	nvee	framtíð
 .	.	.
 »	»	»
-
 Valgerður	nven-s	Valgerður
 :	:	:
 «	«	«
@@ -32,7 +31,6 @@ bregðast	snm	bregða
 við	aa	við
 ?	?	?
 »	»	»
-
 Þorgerður	nven-s	Þorgerður
 Katrín	nven-s	Katrín
 Gunnarsdóttir	nven-s	Gunnarsdóttir
@@ -119,11 +117,9 @@ hér	aa	hér
 landi	nheþ	land
 .	.	.
 »	»	»
-
 Meirihluti	nken	meirihluti
 vill	sfg3en	vilja
 þjóðaratkvæðagreiðslu	nveo	þjóðaratkvæðagreiðsla
-
 Sjö	tfkfn	sjö
 af	aþ	af
 hverjum	fokeþ	hver
@@ -142,7 +138,6 @@ birtir	sfg3en	birta
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Formaður	nken	formaður
 allsherjarnefndar	nvee	allsherjarnefnd
 Alþingis	nhee-s	Alþingi
@@ -166,7 +161,6 @@ ekki	aa	ekki
 notið	ssg	njóta
 sannmælis	nhee	sannmæli
 .	.	.
-
 Spurt	sþghen	spyrja
 var	sfg3eþ	vera
 hvort	c	hvort
@@ -187,7 +181,6 @@ skjóta	sng	skjóta
 til	ae	til
 þjóðaratkvæðagreiðslu	nvee	þjóðaratkvæðagreiðsla
 .	.	.
-
 Sjötíu	tfhen	sjötíu
 og	c	og
 eitt	tfhen	einn
@@ -204,7 +197,6 @@ nei	au	nei
 sögðu	sfg3fþ	segja
 29%	tp	29%
 .	.	.
-
 Nærri	aa	nærri
 87%	tp	87%
 telja	sfg3fn	telja
@@ -229,7 +221,6 @@ eignarhald	nheo	eignarhald
 á	aþ	á
 fjölmiðlum	nkfþ	fjölmiðill
 .	.	.
-
 Bjarna	nkeþ-s	Bjarni
 Benediktssyni	nkeþ-s	Benediktsson
 ,	,	,
@@ -241,7 +232,6 @@ nokkuð	fohen	nokkur
 á	ao	á
 óvart	lheosf	óvar
 .	.	.
-
 Bjarni	nken-s	Bjarni
 Benediktsson	nken-s	Benediktsson
 ,	,	,
@@ -271,7 +261,6 @@ raun	nven	raun
 ber	sfg3en	bera
 vitni	nheo	vitni
 .	.	.
-
 Mér	fp1eþ	ég
 finnst	sfm3en	finna
 þó	aa	þó
@@ -301,7 +290,6 @@ skoðun	nven	skoðun
 á	aþ	á
 því	fpheþ	það
 .	.	.
-
 Varðandi	slg	varða
 þetta	faheo	þessi
 um	ao	um
@@ -334,7 +322,6 @@ fara	sng	fara
 þessa	faveo	þessi
 leið	nveo	leið
 .	.	.
-
 Í	aþ	í
 fyrsta	lheþve	fyrstur
 lagi	nheþ	lag
@@ -367,7 +354,6 @@ málið	nheog	mál
 þessi	faven	þessi
 niðurstaða	nven	niðurstaða
 .	.	.
-
 Sérstaklega	aa	sérstaklega
 kemur	sfg3en	koma
 þetta	fahen	þessi
@@ -449,7 +435,6 @@ fyrir	ao	fyrir
 þjóðaratkvæði	nheo	þjóðaratkvæði
 .	.	.
 »	»	»
-
 Valgerður	nven-s	Valgerður
 Jóhannsdóttir	nven-s	Jóhannsdóttir
 :	:	:
@@ -464,7 +449,6 @@ dagskrá	nveþ	dagskrá
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Gerir	sfg2en	gera
 þú	fp2en	þú
 ráð	nheo	ráð
@@ -480,7 +464,6 @@ lok	nhfo	lok
 vikunnar	nveeg	vika
 ?	?	?
 »	»	»
-
 Bjarni	nken-s	Bjarni
 Benediktsson	nken-s	Benediktsson
 :	:	:
@@ -493,7 +476,6 @@ fyrir	aþ	fyrir
 ,	,	,
 já	au	já
 .	.	.
-
 Þessi	faven	þessi
 niðurstaða	nven	niðurstaða
 breytir	sfg3en	breyta
@@ -504,9 +486,7 @@ sannfæringu	nveþ	sannfæring
 málinu	nheþg	mál
 .	.	.
 »	»	»
-
 Bankarán	nhen	bankarán
-
 Landsbankaútibúið	nhengs	Landsbankaútibú
 við	ao	við
 Gullinbrú	nveo-s	Gullinbrú
@@ -522,7 +502,6 @@ tímanum	nkeþg	tími
 í	ao	í
 morgun	nkeo	morgunn
 .	.	.
-
 Ræninginn	nkeng	ræningi
 sem	ct	sem
 var	sfg3eþ	vera
@@ -537,7 +516,6 @@ skömmu	lheþsf	skammur
 eftir	ao	eftir
 ránið	nheog	rán
 .	.	.
-
 Ræninginn	nkeng	ræningi
 huldi	sfg3eþ	hylja
 andlit	nheo	andlit
@@ -549,7 +527,6 @@ næst	aae	nærri
 verður	sfg3en	verða
 komist	sþmhen	koma
 .	.	.
-
 Hann	fpken	hann
 kom	sfg3eþ	koma
 inn	aa	inn
@@ -558,7 +535,6 @@ bankann	nkeog	banki
 um	ao	um
 hálfellefuleytið	nheog	hálfellefuleyti
 .	.	.
-
 5	ta	5
 starfsmenn	nkfn	starfsmaður
 voru	sfg3fþ	vera
@@ -574,7 +550,6 @@ heilir	lkfnsf	heill
 á	aþ	á
 húfi	nkeþ	húfur
 .	.	.
-
 Ræninginn	nkeng	ræningi
 ógnaði	sfg3eþ	ógna
 starfsfólki	nheþ	starfsfólk
@@ -589,7 +564,6 @@ eitthvað	foheo	einhver
 af	aþ	af
 peningum	nkfþ	peningur
 .	.	.
-
 Ekki	aa	ekki
 er	sfg3en	vera
 vitað	sþghen	vita
@@ -598,7 +572,6 @@ miklu	lheþsf	mikill
 hann	fpken	hann
 náði	sfg3eþ	ná
 .	.	.
-
 Viðskiptavinurinn	nkeng	viðskiptavinur
 mun	sfg3en	munu
 hafa	sng	hafa
@@ -607,7 +580,6 @@ hlaupið	ssg	hlaupa
 eftir	aþ	eftir
 ræningjanum	nkeþg	ræningi
 .	.	.
-
 Lögregla	nven	lögregla
 var	sfg3eþ	vera
 skjót	lvensf	skjótur
@@ -629,7 +601,6 @@ fannst	sfm3eþ	finna
 við	ao	við
 Frostafold	nveo-s	Frostafold
 .	.	.
-
 Ræninginn	nkeng	ræningi
 er	sfg3en	vera
 nú	aa	nú
@@ -640,7 +611,6 @@ og	c	og
 bíður	sfg3en	bíða
 yfirheyrslu	nvee	yfirheyrsla
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 á	aþ	á
@@ -657,7 +627,6 @@ m.a.	as	m.a.
 vegna	ae	vegna
 auðgunarbrota	nhfe	auðgunarbrot
 .	.	.
-
 Lögreglan	nveng	lögregla
 útilokar	sfg3en	útiloka
 ekki	aa	ekki
@@ -667,7 +636,6 @@ eigi	svg3en	eiga
 sér	fpkeþ	sig
 vitorðsmenn	nkfo	vitorðsmaður
 .	.	.
-
 Starfsfólkið	nheng	starfsfólk
 þiggur	sfg3en	þiggja
 nú	aa	nú
@@ -675,7 +643,6 @@ nú	aa	nú
 hjá	aþ	hjá
 sálfræðingum	nkfþ	sálfræðingur
 .	.	.
-
 Litlar	lvfnsf	lítill
 skemmdir	nvfn	skemmd
 virðast	sfm3fn	virða
@@ -692,12 +659,10 @@ eftir	aa	eftir
 lifir	sfg3en	lifa
 dags	nkee	dagur
 .	.	.
-
 Reglur	nvfn	regla
 um	ao	um
 umboðsmann	nkeo	umboðsmaður
 Alþingis	nhee-s	Alþingi
-
 Umboðsmaður	nken	umboðsmaður
 Alþingis	nhee-s	Alþingi
 ætlar	sfg3en	ætla
@@ -722,7 +687,6 @@ hans	fpkee	hann
 og	c	og
 stjórnvalda	nhfe	stjórnvald
 .	.	.
-
 Þetta	fahen	þessi
 kom	sfg3eþ	koma
 fram	aa	fram
@@ -739,7 +703,6 @@ Alþingis	nhee-s	Alþingi
 í	ao	í
 morgun	nkeo	morgunn
 .	.	.
-
 Tilefni	nhen	tilefni
 fundarins	nkeeg	fundur
 var	sfg3eþ	vera
@@ -763,7 +726,6 @@ um	ao	um
 skipan	nveo	skipan
 hæstaréttardómara	nkfe	hæstaréttardómari
 .	.	.
-
 Gert	sþghen	gera
 er	sfg3en	vera
 ráð	nhen	ráð
@@ -792,11 +754,9 @@ eigi	svg3en	eiga
 að	cn	að
 vera	sng	vera
 .	.	.
-
 Vís	nxen-s	VÍS
 kaupir	sfg3en	kaupa
 Lyfju	nveo-s	Lyfja
-
 Vátryggingafélag	nhen-s	Vátryggingafélag
 Íslands	nhee-s	Ísland
 hefur	sfg3en	hafa
@@ -809,7 +769,6 @@ Högum	nkfþ-s	Hagur
 verslanakeðju	nveþ	verslanakeðja
 Baugs	nkee-s	Baugur
 .	.	.
-
 Lyfja	nven-s	Lyfja
 rekur	sfg3en	reka
 34	ta	34
@@ -823,7 +782,6 @@ Lyfju	nvee-s	Lyfja
 og	c	og
 Apóteksins	nheegs	Apótek
 .	.	.
-
 Vátryggingafélagið	nhengs	Vátryggingafélag
 ætlar	sfg3en	ætla
 ekki	aa	ekki
@@ -839,7 +797,6 @@ króna	nvfe	króna
 í	ao	í
 Lyfju	nveo-s	Lyfja
 .	.	.
-
 Afgangur	nken	afgangur
 kaupverðsins	nheeg	kaupverð
 kemur	sfg3en	koma
@@ -847,7 +804,6 @@ frá	aþ	frá
 öðrum	fokfþ	annar
 fjárfestum	nkfþ	fjárfestir
 .	.	.
-
 Finnur	nken-s	Finnur
 Ingólfsson	nken-s	Ingólfsson
 ,	,	,
@@ -866,7 +822,6 @@ séu	svg3fn	vera
 á	aþ	á
 ferð	nveþ	ferð
 .	.	.
-
 Vátryggingafélagið	nhengs	Vátryggingafélag
 átti	sfg3eþ	eiga
 fyrir	aa	fyrir
@@ -882,7 +837,6 @@ fyrirferðamikið	lhensf	fyrirferðamikill
 á	aþ	á
 smásölumarkaði	nkeþ	smásölumarkaður
 .	.	.
-
 Jón	nken-s	Jón
 Björnsson	nken-s	Björnsson
 ,	,	,
@@ -917,7 +871,6 @@ að	aþ	að
 fjárfestingum	nvfþ	fjárfesting
 erlendis	aa	erlendis
 .	.	.
-
 Jón	nken-s	Jón
 Björnsson	nken-s	Björnsson
 ,	,	,
@@ -952,7 +905,6 @@ viðskiptalegs	lheesf	viðskiptalegur
 eðlis	nhee	eðli
 algjörlega	aa	algjörlega
 .	.	.
-
 Kaupverðið	nheng	kaupverð
 er	sfg3en	vera
 trúnaðarmál	nhen	trúnaðarmál
@@ -976,7 +928,6 @@ grundvöllur	nken	grundvöllur
 sölu	nvee	sala
 .	.	.
 »	»	»
-
 Guðmundur	nken-s	Guðmundur
 Hörður	nken-s	Hörður
 Guðmundsson	nken-s	Guðmundsson
@@ -993,7 +944,6 @@ ykkur	fp2fþ	þú
 næstunni	nveþg	næsta
 ?	?	?
 »	»	»
-
 Jón	nken-s	Jón
 Björnsson	nken-s	Björnsson
 :	:	:
@@ -1018,7 +968,6 @@ von	nveo	von
 því	fpheþ	það
 .	.	.
 »	»	»
-
 Hagar	nkfn-s	Hagi
 eiga	sfg3fn	eiga
 enn	aa	enn
@@ -1032,7 +981,6 @@ og	c	og
 í	aþ	í
 Svíþjóð	nveþ-s	Svíþjóð
 .	.	.
-
 Þar	aa	þar
 á	aa	á
 meðal	aa	meðal
@@ -1045,7 +993,6 @@ og	c	og
 ýmsar	fovfo	ýmis
 tískuvöruverslanir	nvfo	tískuvöruverslun
 .	.	.
-
 Í	aþ	í
 fréttatilkynningu	nveþ	fréttatilkynning
 frá	aþ	frá
@@ -1079,12 +1026,10 @@ takast	snm	taka
 við	ao	við
 framtíðaruppbyggingu	nveo	framtíðaruppbygging
 .	.	.
-
 Fölsuð	lhfnsf	falsaður
 málverk	nhfn	málverk
 í	aþ	í
 umferð	nveþ	umferð
-
 Menntamálaráðherra	nken	menntamálaráðherra
 segir	sfg3en	segja
 óumdeilt	lheosf	óumdeildur
@@ -1104,7 +1049,6 @@ verði	svg3en	verða
 að	cn	að
 bregðast	snm	bregða
 .	.	.
-
 Rannsókn	nven	rannsókn
 ríkislögreglustjóraembættisins	nheeg	ríkislögreglustjóraembætti
 á	aþ	á
@@ -1117,7 +1061,6 @@ Alþingi	nheþ-s	Alþingi
 í	ao	í
 morgun	nkeo	morgunn
 .	.	.
-
 Sýknudómur	nken	sýknudómur
 Hæstaréttar	nkee-s	Hæstiréttur
 yfir	aþ	yfir
@@ -1138,7 +1081,6 @@ vakið	ssg	vekja
 mikla	lveosf	mikill
 athygli	nveo	athygli
 .	.	.
-
 Í	aþ	í
 ályktun	nveþ	ályktun
 sem	ct	sem
@@ -1163,7 +1105,6 @@ fyrir	ao	fyrir
 íslenskt	lheosf	íslenskur
 myndlistarlíf	nheo	myndlistarlíf
 .	.	.
-
 Áslaug	nven-s	Áslaug
 Thorlacius	nven-s	Thorlacius
 ,	,	,
@@ -1191,7 +1132,6 @@ að	cn	að
 njóta	sng	njóta
 vafans	nkeeg	vafi
 .	.	.
-
 Áslaug	nven-s	Áslaug
 Thorlacius	nven-s	Thorlacius
 ,	,	,
@@ -1244,7 +1184,6 @@ aftur	aa	aftur
 umferð	nveo	umferð
 .	.	.
 »	»	»
-
 Stjórn	nven	stjórn
 Sambands	nhee-s	Samband
 myndlistarmanna	nkfe	myndlistarmaður
@@ -1264,7 +1203,6 @@ verkunum	nhfþg	verk
 úr	aþ	úr
 umferð	nveþ	umferð
 .	.	.
-
 Þorgerður	nven-s	Þorgerður
 Katrín	nven-s	Katrín
 Gunnarsdóttir	nven-s	Gunnarsdóttir
@@ -1302,7 +1240,6 @@ og	c	og
 með	aa	með
 listasöguna	nveog	listasaga
 .	.	.
-
 Sýknudómur	nken	sýknudómur
 Hæstaréttar	nkee-s	Hæstiréttur
 breyti	svg3en	breyta
@@ -1310,7 +1247,6 @@ engu	foheþ	enginn
 um	ao	um
 þetta	faheo	þessi
 .	.	.
-
 Þorgerður	nven-s	Þorgerður
 Katrín	nven-s	Katrín
 Gunnarsdóttir	nven-s	Gunnarsdóttir
@@ -1366,7 +1302,6 @@ hér	aa	hér
 á	aþ	á
 landi	nheþ	land
 .	.	.
-
 Hvort	c	hvort
 sem	c	sem
 að	c	að
@@ -1400,7 +1335,6 @@ hér	aa	hér
 landi	nheþ	land
 .	.	.
 »	»	»
-
 Þingmenn	nkfn	þingmaður
 fögnuðu	sfg3fþ	fagna
 viðbrögðum	nhfþ	viðbragð
@@ -1410,7 +1344,6 @@ Alþingi	nheþ-s	Alþingi
 í	ao	í
 morgun	nkeo	morgunn
 .	.	.
-
 Lúðvík	nken-s	Lúðvík
 Bergvinsson	nken-s	Bergvinsson
 ,	,	,
@@ -1438,7 +1371,6 @@ að	aþ	að
 annarri	foveþ	annar
 niðurstöðu	nveþ	niðurstaða
 .	.	.
-
 Lúðvík	nken-s	Lúðvík
 Bergvinsson	nken-s	Bergvinsson
 ,	,	,
@@ -1464,7 +1396,6 @@ vel	aa	vel
 fyrir	ao	fyrir
 sig	fpkfo	sig
 .	.	.
-
 Í	aþ	í
 þessu	faheþ	þessi
 tilviki	nheþ	tilvik
@@ -1498,7 +1429,6 @@ nú	aa	nú
 situr	sfg3en	sitja
 .	.	.
 »	»	»
-
 Og	c	og
 það	fphen	það
 vantaði	sfg3eþ	vanta
@@ -1528,7 +1458,6 @@ höggi	nheþ	högg
 á	ao	á
 ríkislögreglustjóra	nkeo	ríkislögreglustjóri
 .	.	.
-
 Davíð	nken-s	Davíð
 Oddsson	nken-s	Oddsson
 ,	,	,
@@ -1551,7 +1480,6 @@ háttvirtum	lkeþsf	háttvirtur
 þingmanni	nkeþ	þingmaður
 vakir	sfg3en	vaka
 .	.	.
-
 Það	fphen	það
 hefur	sfg3en	hafa
 ekkert	fohen	enginn
@@ -1578,10 +1506,8 @@ hálfu	nveþ	hálfa
 ríkislögreglustjóraembættisins	nheeg	ríkislögreglustjóraembætti
 .	.	.
 »	»	»
-
 Stóra	lhenvf	stór
 málverkafölsunarmálið	nheng	málverkafölsunarmál
-
 Bæði	c	bæði
 Hæstiréttur	nken-s	Hæstiréttur
 og	c	og
@@ -1613,7 +1539,6 @@ að	c	að
 væru	svg3fþ	vera
 vanhæf	lhfnsf	vanhæfur
 .	.	.
-
 Meðal	ae	meðal
 vitnanna	nhfeg	vitni
 voru	sfg3fþ	vera
@@ -1638,7 +1563,6 @@ kærenda	nkfe	kærandi
 í	aþ	í
 málinu	nheþg	mál
 .	.	.
-
 Annar	foken	annar
 sakborninga	nkfe	sakborningur
 í	aþ	í
@@ -1660,7 +1584,6 @@ vitni	nhfo	vitni
 fyrir	ao	fyrir
 réttinn	nkeog	réttur
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 m.a.	as	m.a.
@@ -1695,7 +1618,6 @@ leið	nveo	leið
 sérfræðivitni	nhfo	sérfræðivitni
 sakborninga	nkfe	sakborningur
 .	.	.
-
 Vitnin	nhfng	vitni
 væru	svg3fþ	vera
 í	aþ	í
@@ -1709,7 +1631,6 @@ raksakendur	x	ransakandi
 og	c	og
 kærendur	nkfo	kærandi
 .	.	.
-
 Eitt	fohen	einn
 þeirra	fphfe	það
 ,	,	,
@@ -1733,7 +1654,6 @@ verka	nhfe	verk
 eigu	nveþ	eiga
 safnsins	nheeg	safn
 .	.	.
-
 Héraðsdómur	nken	héraðsdómur
 hafnaði	sfg3eþ	hafna
 hins	fakee	hinn
@@ -1742,7 +1662,6 @@ kröfu	nveþ	krafa
 Péturs	nkee-s	Pétur
 Þórs	nkee-s	Þór
 .	.	.
-
 Ekki	aa	ekki
 yrði	svg3eþ	verða
 t.d.	as	t.d.
@@ -1757,7 +1676,6 @@ haldið	sþghen	halda
 væri	svg3eþ	vera
 fram	aa	fram
 .	.	.
-
 Framburður	nken	framburður
 vitnanna	nhfeg	vitni
 gæti	svg3eþ	geta
@@ -1788,7 +1706,6 @@ meta	sng	meta
 skýrslu	nveo	skýrsla
 þeirra	fphfe	það
 .	.	.
-
 Það	fphen	það
 væri	svg3eþ	vera
 og	c	og
@@ -1801,7 +1718,6 @@ reifa	sng	reifa
 málflutningi	nkeþ	málflutningur
 sínum	fekeþ	sinn
 .	.	.
-
 Þetta	fahen	þessi
 gæti	svg3eþ	geta
 ekki	aa	ekki
@@ -1825,7 +1741,6 @@ efnis	nhee	efni
 var	sfg3eþ	vera
 synjað	sþghen	synja
 .	.	.
-
 Hæstiréttur	nken-s	Hæstiréttur
 staðfesti	sfg3eþ	staðfesta
 þessa	faveo	þessi
@@ -1838,7 +1753,6 @@ sitt	feheo	sinn
 í	aþ	í
 héraði	nheþ	hérað
 .	.	.
-
 Meirihluti	nken	meirihluti
 Hæstaréttar	nkee-s	Hæstiréttur
 telur	sfg3en	telja
@@ -1875,7 +1789,6 @@ kærenda	nkfe	kærandi
 Listasafni	nheþ-s	Listasafn
 Íslands	nhee-s	Ísland
 .	.	.
-
 Þetta	faheo	þessi
 telja	sfg3fn	telja
 lögreglu-	nhen	lögregluvald
@@ -1916,7 +1829,6 @@ vitnanna	nhfeg	vitni
 væru	svg3fþ	vera
 metnar	sþgvfn	meta
 .	.	.
-
 Ákæruvaldið	nheng	ákæruvald
 er	sfg3en	vera
 ósátt	lhensf	ósáttur
@@ -1946,9 +1858,7 @@ málsmeðferðin	nveng	málsmeðferð
 yrði	svg3eþ	verða
 réttlát	lvensf	réttlátur
 .	.	.
-
 Málskotsrétturinn	nkeng	málskotsréttur
-
 Mikill	lkensf	mikill
 meirihluti	nken	meirihluti
 þjóðarinnar	nveeg	þjóð
@@ -1973,7 +1883,6 @@ skjóta	sng	skjóta
 til	ae	til
 þjóðarinnar	nveeg	þjóð
 .	.	.
-
 7	ta	7
 af	aþ	af
 hverjum	fokfþ	hver
@@ -1990,7 +1899,6 @@ fjölmiðlafrumvarpið	nheng	fjölmiðlafrumvarp
 að	aþ	að
 lögum	nhfþ	lag
 .	.	.
-
 Þetta	fahen	þessi
 kemur	sfg3en	koma
 fram	aa	fram
@@ -2004,7 +1912,6 @@ var	sfg3eþ	vera
 í	aa	í
 gær	aa	gær
 .	.	.
-
 Fyrst	aae	fyrr
 var	sfg3eþ	vera
 spurt	sþghen	spyrja
@@ -2017,7 +1924,6 @@ andvígt	lhensf	andvígur
 fjölmiðlafrumvarpi	nheþ	fjölmiðlafrumvarp
 ríkisstjórnarinnar	nveeg	ríkisstjórn
 .	.	.
-
 4	ta	4
 af	aþ	af
 hverjum	fokfþ	hver
@@ -2030,7 +1936,6 @@ er	sfg3en	vera
 fylgjandi	lkenof	fylgjandi
 frumvarpinu	nheþg	frumvarp
 .	.	.
-
 Ívíð	aa	ívíð
 fleiri	lvfnvm	margur
 konur	nvfn	kona
@@ -2046,7 +1951,6 @@ munur	nken	munur
 eftir	aþ	eftir
 búsetu	nveþ	búseta
 .	.	.
-
 Þá	aa	þá
 var	sfg3eþ	vera
 spurt	sþghen	spyrja
@@ -2067,7 +1971,6 @@ skjóta	sng	skjóta
 til	ae	til
 þjóðarinnar	nveeg	þjóð
 .	.	.
-
 Tæp	lhfnsf	tæpur
 87%	tp	87%
 telja	sfg3fn	telja
@@ -2075,7 +1978,6 @@ forsetann	nkeog	forseti
 hafa	sng	hafa
 valdið	nheog	vald
 .	.	.
-
 Hvorki	c	hvorki
 er	sfg3en	vera
 munur	nken	munur
@@ -2084,7 +1986,6 @@ kyni	nheþ	kyn
 ná	x	né
 búsetu	nveþ	búseta
 .	.	.
-
 Loks	aa	loks
 var	sfg3eþ	vera
 spurt	sþghen	spyrja
@@ -2103,7 +2004,6 @@ skjóta	sng	skjóta
 til	ae	til
 þjóðarinnar	nveeg	þjóð
 .	.	.
-
 71%	tp	71%
 telur	sfg3en	telja
 hann	fpkeo	hann
@@ -2118,7 +2018,6 @@ eru	sfg3fn	vera
 öðru	foheþ	annar
 máli	nheþ	mál
 .	.	.
-
 Heldur	aam	heldur
 fleiri	lvfnvm	margur
 konur	nvfn	kona
@@ -2145,7 +2044,6 @@ búsetu	nveþ	búseta
 samkvæmt	aþ	samkvæmt
 Fréttablaðinu	nheþgs	Fréttablað
 .	.	.
-
 Séu	svg3fn	vera
 niðurstöður	nvfn	niðurstaða
 könnunarinnar	nveeg	könnun
@@ -2183,7 +2081,6 @@ hverjum	fokfþ	hver
 andvígir	lkfnsf	andvígur
 frumvarpinu	nheþg	frumvarp
 .	.	.
-
 Í	aþ	í
 könnun	nveþ	könnun
 Fréttablaðsins	nheegs	Fréttablað
@@ -2201,7 +2098,6 @@ hátt	lhensf	hár
 hlutfall	nhen	hlutfall
 svaraði	sfg3eþ	svara
 .	.	.
-
 Skorað	sþghen	skora
 á	ao	á
 þingmenn	nkfo	þingmaður
@@ -2209,7 +2105,6 @@ að	cn	að
 skoða	sng	skoða
 hug	nkeo	hugur
 sinn	fekeo	sinn
-
 Bæjarstjórn	nven	bæjarstjórn
 Ísafjarðar	nkee-s	Ísafjörður
 samþykkti	sfg3eþ	samþykkja
@@ -2240,7 +2135,6 @@ afgreiðslu	nveo	afgreiðsla
 fjölmiðlafrumvarps	nhee	fjölmiðlafrumvarp
 forsætisráðherra	nkee	forsætisráðherra
 .	.	.
-
 Bæjarstjórn	nven	bæjarstjórn
 Ísafjarðarbæjar	nkee-s	Ísafjarðarbær
 harmar	sfg3en	harma
@@ -2261,7 +2155,6 @@ við	ao	við
 meðferð	nveo	meðferð
 fjölmiðlafrumvarpsins	nheeg	fjölmiðlafrumvarp
 .	.	.
-
 Þau	fahfn	sá
 vinnubrögð	nhfn	vinnubrögð
 séu	svg3fn	vera
@@ -2278,7 +2171,6 @@ hinu	gheþ	hinn
 háa	lheþvf	hár
 Alþingi	nheþ-s	Alþingi
 .	.	.
-
 Við	ao	við
 lagasetningu	nveo	lagasetning
 sem	ct	sem
@@ -2294,7 +2186,6 @@ náist	svm3en	ná
 þverpólitísk	lvensf	þverpólitískur
 sátt	nven	sátt
 .	.	.
-
 Tillagan	nveng	tillaga
 var	sfg3eþ	vera
 samþykkt	sþgven	samþykkja
@@ -2304,7 +2195,6 @@ atkvæðum	nhfþ	atkvæði
 gegn	aþ	gegn
 einu	tfheþ	einn
 .	.	.
-
 Einn	tfken	einn
 bæjarfulltrúi	nken	bæjarfulltrúi
 Sjálfstæðisflokks	nkee-s	Sjálfstæðisflokkur
@@ -2318,9 +2208,7 @@ hjá	aa	hjá
 við	ao	við
 afgreiðsluna	nveog	afgreiðsla
 .	.	.
-
 Heilbrigðisþjónustan	nveng	heilbrigðisþjónusta
-
 Jón	nken-s	Jón
 Kristjánsson	nken-s	Kristjánsson
 ,	,	,
@@ -2336,7 +2224,6 @@ skýrslu	nveþ	skýrsla
 kanadísku	lveevf	kanadískur
 Fraser-stofnunarinnar	nveegs	Fraserstofnun
 .	.	.
-
 Í	aþ	í
 skýrslunni	nveþg	skýrsla
 er	sfg3en	vera
@@ -2374,7 +2261,6 @@ heilbrigðiskerfi	nhen	heilbrigðiskerfi
 í	aþ	í
 heimi	nkeþ	heimur
 .	.	.
-
 Jón	nken-s	Jón
 Kristjánsson	nken-s	Kristjánsson
 ,	,	,
@@ -2383,7 +2269,6 @@ segir	sfg3en	segja
 þetta	faheo	þessi
 rangt	lheosf	rangur
 .	.	.
-
 Jón	nken-s	Jón
 Kristjánsson	nken-s	Kristjánsson
 ,	,	,
@@ -2421,7 +2306,6 @@ og	c	og
 útgjöld	nhfn	útgjöld
 notenda	nkfe	notandi
 .	.	.
-
 Ef	c	ef
 að	c	að
 einungis	aa	einungis
@@ -2436,7 +2320,6 @@ við	fp1fn	ég
 2.	ta	2.
 sæti	nheþ	sæti
 .	.	.
-
 En	c	en
 það	fphen	það
 er	sfg3en	vera
@@ -2450,7 +2333,6 @@ heilbrigðiskerfi	nheo	heilbrigðiskerfi
 af	aþ	af
 skattpeningum	nkfþ	skattpeningur
 .	.	.
-
 Langdýrasta	lhenve	langdýr
 heilbrigðiskerfi	nhen	heilbrigðiskerfi
 í	aþ	í
@@ -2468,7 +2350,6 @@ hluta	nkeþ	hluti
 af	aþ	af
 notendum	nkfþ	notandi
 .	.	.
-
 Þannig	aa	þannig
 að	c	að
 þessar	favfn	þessi
@@ -2482,7 +2363,6 @@ eru	sfg3fn	vera
 rangar	lvfnsf	rangur
 .	.	.
 »	»	»
-
 Jón	nken-s	Jón
 segir	sfg3en	segja
 það	fpheo	það
@@ -2499,7 +2379,6 @@ en	c	en
 annars	fokee	annar
 staðar	nkee	staður
 .	.	.
-
 Það	fphen	það
 hafi	svg3en	hafa
 batnað	ssg	batna
@@ -2530,7 +2409,6 @@ lægsti	lkenve	lágur
 í	aþ	í
 heimi	nkeþ	heimur
 .	.	.
-
 Einn	tfken	einn
 höfunda	nkfe	höfundur
 skýrslunnar	nveeg	skýrsla
@@ -2546,7 +2424,6 @@ heilbrigðiskerfa	nhfe	heilbrigðiskerfi
 þurfi	svg3en	þurfa
 samkeppni	nveo	samkeppni
 .	.	.
-
 Hann	fpken	hann
 segir	sfg3en	segja
 að	c	að
@@ -2563,7 +2440,6 @@ meira	lhenvm	mikill
 fyrir	ao	fyrir
 peningana	nkfog	peningur
 .	.	.
-
 Þess	fphee	það
 má	sfg3en	mega
 geta	sng	geta
@@ -2582,12 +2458,10 @@ markaðslausnir	nvfo	markaðslausn
 opinberum	lkeþsf	opinber
 rekstri	nkeþ	rekstur
 .	.	.
-
 Ólöglegar	lvfnsf	ólöglegur
 framkvæmdir	nvfn	framkvæmd
 við	ao	við
 Þingvallavatn	nheo-s	Þingvallavatn
-
 Sigurður	nken-s	Sigurður
 Oddsson	nken-s	Oddsson
 ,	,	,
@@ -2613,7 +2487,6 @@ telur	sfg3en	telja
 vera	sng	vera
 ólöglegar	lvfosf	ólöglegur
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 í	ao	í
@@ -2632,7 +2505,6 @@ framkvæmda	nvfe	framkvæmd
 við	ao	við
 vatnið	nheog	vatn
 .	.	.
-
 Framkvæmdunum	nvfþg	framkvæmd
 er	sfg3en	vera
 lokið	sþghen	ljúka
@@ -2655,7 +2527,6 @@ skýrslur	nvfn	skýrsla
 vegna	ae	vegna
 málsins	nheeg	mál
 .	.	.
-
 Sigurður	nken-s	Sigurður
 Oddsson	nken-s	Oddsson
 ,	,	,
@@ -2688,7 +2559,6 @@ grjótgarðar	nkfn	grjótgarður
 í	ao	í
 vatnið	nheog	vatn
 .	.	.
-
 Hann	fpken	hann
 segir	sfg3en	segja
 að	c	að
@@ -2709,7 +2579,6 @@ sem	c	sem
 ábyrgð	nveo	ábyrgð
 þingvallanefndar	nvee	þingvallanefnd
 .	.	.
-
 Hann	fpken	hann
 segir	sfg3en	segja
 að	c	að
@@ -2733,7 +2602,6 @@ færð	sþgven	færa
 fyrra	lheovm	fyrri
 horf	nheo	horf
 .	.	.
-
 Sigurður	nken-s	Sigurður
 Oddsson	nken-s	Oddsson
 ,	,	,
@@ -2748,7 +2616,6 @@ eru	sfg3fn	vera
 kolólöglegar	lvfnsf	kolólöglegur
 framkvæmdir	nvfn	framkvæmd
 .	.	.
-
 Í	aþ	í
 fyrsta	lheþve	fyrstur
 lagi	nheþ	lag
@@ -2774,7 +2641,6 @@ standi	svg3fn	standa
 við	ao	við
 vatnið	nheog	vatn
 .	.	.
-
 Síðan	aa	síðan
 er	sfg3en	vera
 ekki	aa	ekki
@@ -2816,7 +2682,6 @@ landheimild	nven	landheimild
 til	aa	til
 .	.	.
 »	»	»
-
 Arnar	nken-s	Arnar
 Páll	nken-s	Páll
 Hauksson	nken-s	Hauksson
@@ -2829,7 +2694,6 @@ gert	sþghen	gera
 núna	aa	núna
 ?	?	?
 »	»	»
-
 Sigurður	nken-s	Sigurður
 Oddsson	nken-s	Oddsson
 :	:	:
@@ -2840,7 +2704,6 @@ gengið	sþghen	ganga
 í	ao	í
 málið	nheog	mál
 .	.	.
-
 Ég	fp1en	ég
 mun	sfg1en	munu
 ræða	sng	ræða
@@ -2861,9 +2724,7 @@ tekið	sþghen	taka
 máli	nheþ	mál
 .	.	.
 »	»	»
-
 Forsetaframboð	nhen	forsetaframboð
-
 Framboðsfrestur	nken	framboðsfrestur
 vegna	ae	vegna
 forsetakosninganna	nvfeg	forsetakosning
@@ -2874,7 +2735,6 @@ rennur	sfg3en	renna
 á	aþ	á
 miðnætti	nheþ	miðnætti
 .	.	.
-
 Dómsmálaráðuneyti	nhen	dómsmálaráðuneyti
 úrskurðar	sfg3en	úrskurða
 væntanlega	aa	væntanlega
@@ -2885,7 +2745,6 @@ framboð	nhfn	framboð
 teljast	sfm3fn	telja
 gild	lhfnsf	gildur
 .	.	.
-
 Þrír	tfkfn	þrír
 hafa	sfg3fn	hafa
 tilkynnt	ssg	tilkynna
@@ -2900,7 +2759,6 @@ til	ae	til
 embættis	nhee	embætti
 forseta	nkee	forseti
 .	.	.
-
 Ólafur	nken-s	Ólafur
 Ragnar	nken-s	Ragnar
 Grímsson	nken-s	Grímsson
@@ -2922,7 +2780,6 @@ stofnandi	nken	stofnandi
 Friðar	nkee-s	Friður
 2000	ta	2000
 .	.	.
-
 En	c	en
 hvaða	fshfþ	hvaða
 gögnum	nhfþ	gagn
@@ -2945,7 +2802,6 @@ framboðsrennur	x	framboðsrennur
 á	aþ	á
 miðnætti	nheþ	miðnætti
 .	.	.
-
 Anna	nven-s	Anna
 Sigríður	nven-s	Sigríður
 Arnardóttir	nven-s	Arnardóttir
@@ -2965,7 +2821,6 @@ kosningabærni	nheo	kosningabærni
 meðmælenda	nkfe	meðmælandi
 sinna	fekfe	sinn
 .	.	.
-
 Þeir	fpkfn	hann
 skila	sfg3fn	skila
 inn	aa	inn
@@ -2991,7 +2846,6 @@ framboðanna	nhfeg	framboð
 sinn	x	sinn
 .	.	.
 »	»	»
-
 Segir	sfg3en	segja
 Anna	nven-s	Anna
 Sigríður	nven-s	Sigríður
@@ -3001,7 +2855,6 @@ lögfræðingur	nken	lögfræðingur
 í	aþ	í
 dómsmálaráðuneytinu	nheþg	dómsmálaráðuneyti
 .	.	.
-
 Hún	fpven	hún
 segir	sfg3en	segja
 að	c	að
@@ -3015,7 +2868,6 @@ fram	aa	fram
 til	ae	til
 miðnættis	nhee	miðnætti
 .	.	.
-
 En	c	en
 hvenær	aa	hvenær
 verður	sfg3en	verða
@@ -3036,7 +2888,6 @@ gild	lhfnsf	gildur
 og	c	og
 lögleg	lhfnsf	löglegur
 ?	?	?
-
 Anna	nven-s	Anna
 Sigríður	nven-s	Sigríður
 Arnardóttir	nven-s	Arnardóttir
@@ -3077,11 +2928,9 @@ verði	svg3fn	verða
 kjöri	nheþ	kjör
 .	.	.
 »	»	»
-
 Helgi	nken-s	Helgi
 óskar	sfg3en	óska
 upplýsinga	nvfe	upplýsing
-
 Fundur	nken	fundur
 umboðsmanns	nkee	umboðsmaður
 Alþingis	nhee-s	Alþingi
@@ -3100,7 +2949,6 @@ viðstaddur	lkensf	viðstaddur
 er	sfg3en	vera
 trúnaðarmál	nhen	trúnaðarmál
 .	.	.
-
 Fundurinn	nkeng	fundur
 var	sfg3eþ	vera
 haldinn	sþgken	halda
@@ -3118,7 +2966,6 @@ sín	fehfo	sinn
 við	ao	við
 stjórnvöld	nhfo	stjórnvald
 .	.	.
-
 Tilefnið	nheng	tilefni
 er	sfg3en	vera
 símtal	nhen	símtal
@@ -3130,7 +2977,6 @@ hann	fpkeo	hann
 4.	ta	4.
 maí	nkeo	maí
 .	.	.
-
 Helgi	nken-s	Helgi
 Hjörvar	nken-s	Hjörvar
 ,	,	,
@@ -3154,7 +3000,6 @@ tiltal	nheo	tiltal
 eða	c	eða
 ekki	aa	ekki
 .	.	.
-
 Símtalið	nheng	símtal
 var	sfg3eþ	vera
 sama	fbkeo	samur
@@ -3165,7 +3010,6 @@ umboðsmanns	nkee	umboðsmaður
 varð	sfg3eþ	verða
 opinbert	lhensf	opinber
 .	.	.
-
 Halldór	nken-s	Halldór
 Blöndal	nken-s	Blöndal
 ,	,	,
@@ -3189,7 +3033,6 @@ morgun	nkeo	morgunn
 á	aþ	á
 fundi	nkeþ	fundur
 .	.	.
-
 Í	aþ	í
 frétt	nveþ	frétt
 Alþingis	nhee-s	Alþingi
@@ -3208,7 +3051,6 @@ að	aa	að
 opinberum	lkeþsf	opinber
 vettvangi	nkeþ	vettvangur
 .	.	.
-
 Og	c	og
 það	fphen	það
 var	sfg3eþ	vera
@@ -3227,7 +3069,6 @@ trúnaðarmönnum	nkfþ	trúnaðarmaður
 þess	fakee	sá
 síðarnefnda	lkeevf	síðarnefndur
 .	.	.
-
 En	c	en
 Helgi	nken-s	Helgi
 Hjörvar	nken-s	Hjörvar
@@ -3241,7 +3082,6 @@ upp	aa	upp
 sama	fbkeo	samur
 dag	nkeo	dagur
 .	.	.
-
 Enginn	foken	enginn
 þeirra	fpkfe	hann
 fjögurra	tfkfe	fjórir
@@ -3263,7 +3103,6 @@ greinir	sfg3en	greina
 frétt	nveþ	frétt
 þingsins	nheeg	þing
 .	.	.
-
 Fundurinn	nkeng	fundur
 er	sfg3en	vera
 trúnaðarmál	nhen	trúnaðarmál
@@ -3272,7 +3111,6 @@ sem	ct	sem
 hann	fpkeo	hann
 sátu	sfg3fþ	sitja
 .	.	.
-
 Guðmundur	nken-s	Guðmundur
 Árni	nken-s	Árni
 Stefánsson	nken-s	Stefánsson
@@ -3288,7 +3126,6 @@ niðurstaðan	nveng	niðurstaða
 sé	svg3en	vera
 góð	lvensf	góður
 .	.	.
-
 Einar	nken-s	Einar
 K.	as	K.
 Guðfinnsson	nken-s	Guðfinnsson
@@ -3311,7 +3148,6 @@ DV	as	DV
 um	ao	um
 daginn	nkeog	dagur
 .	.	.
-
 Helgi	nken-s	Helgi
 telur	sfg3en	telja
 fundinn	nkeog	fundur
@@ -3329,7 +3165,6 @@ af	aþ	af
 störfum	nhfþ	starf
 umboðsmanns	nkee	umboðsmaður
 .	.	.
-
 Augljóslega	aa	augljóslega
 hafi	svg3en	hafa
 honum	fpkeþ	hann
@@ -3354,7 +3189,6 @@ eitt	lhensf	einn
 og	c	og
 sér	lhenof	sér
 .	.	.
-
 Helgi	nken-s	Helgi
 Hjörvar	nken-s	Hjörvar
 ,	,	,
@@ -3397,7 +3231,6 @@ eftir	aþ	eftir
 gengið	sþghen	ganga
 .	.	.
 »	»	»
-
 Helgi	nken-s	Helgi
 segir	sfg3en	segja
 forsætisráðherra	nkeo	forsætisráðherra
@@ -3427,7 +3260,6 @@ við	ao	við
 umboðsmann	nkeo	umboðsmaður
 Alþingis	nhee-s	Alþingi
 .	.	.
-
 Helgi	nken-s	Helgi
 Hjörvar	nken-s	Hjörvar
 :	:	:
@@ -3470,7 +3302,6 @@ verið	ssg	vera
 efni	nhen	efni
 samtalsins	nheeg	samtal
 .	.	.
-
 En	c	en
 því	fpheþ	það
 miður	aam	lítt
@@ -3512,10 +3343,8 @@ grafalvarlegt	lhensf	grafalvarlegur
 mál	nhen	mál
 .	.	.
 »	»	»
-
 Samningaviðræðum	nvfþ	samningaviðræður
 frestað	sþghen	fresta
-
 Ríkissáttasemjari	nken	ríkissáttasemjari
 ætlar	sfg3en	ætla
 að	aþ	að
@@ -3535,7 +3364,6 @@ en	c	en
 í	aþ	í
 ágúst	nkeþ	ágúst
 .	.	.
-
 Varaformaður	nken	varaformaður
 Sjómannasambands	nhee-s	Sjómannasamband
 Íslands	nhee-s	Ísland
@@ -3550,7 +3378,6 @@ gagnrýnir	sfg3en	gagnrýna
 útvegsmenn	nkfo	útvegsmaður
 harðlega	aa	harðlega
 .	.	.
-
 Kjarasamningar	nkfn	kjarasamningur
 sjómanna	nkfe	sjómaður
 hafa	sfg3fn	hafa
@@ -3562,7 +3389,6 @@ nema	c	nema
 hjá	aþ	hjá
 vélstjórum	nkfþ	vélstjóri
 .	.	.
-
 Konráð	nken-s	Konráð
 Alfreðsson	nken-s	Alfreðsson
 ,	,	,
@@ -3604,7 +3430,6 @@ um	ao	um
 framvindu	nveo	framvinda
 mála	nhfe	mál
 .	.	.
-
 Konráð	nken-s	Konráð
 Alfreðsson	nken-s	Alfreðsson
 ,	,	,
@@ -3638,7 +3463,6 @@ aftur	aa	aftur
 í	aþ	í
 ágúst	nkeþ	ágúst
 .	.	.
-
 Hann	fpken	hann
 sagðist	sfm3eþ	segja
 ekki	aa	ekki
@@ -3651,7 +3475,6 @@ menn	nkfn	maður
 sætu	svg3fþ	sitja
 lengur	aam	lengi
 .	.	.
-
 Við	fp1fn	ég
 vísuðum	sfg1fþ	vísa
 deilunni	nveþg	deila
@@ -3682,7 +3505,6 @@ fyrir	ao	fyrir
 mikinn	lkeosf	mikill
 vilja	nkeo	vilji
 .	.	.
-
 Ég	fp1en	ég
 tel	sfg1en	telja
 að	c	að
@@ -3738,7 +3560,6 @@ ekki	aa	ekki
 vilja	sng	vilja
 semja	sng	semja
 .	.	.
-
 Ég	fp1en	ég
 held	sfg1en	halda
 að	c	að
@@ -3756,7 +3577,6 @@ við	ao	við
 okkur	fp1fo	ég
 núna	aa	núna
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 að	cn	að
@@ -3773,7 +3593,6 @@ hátíðisdagur	nken	hátíðisdagur
 í	aþ	í
 leiðinni	nveþg	leið
 .	.	.
-
 Við	fp1fn	ég
 munum	sfg1fn	munu
 funda	sng	funda
@@ -3803,7 +3622,6 @@ samstaða	nven	samstaða
 meðal	ae	meðal
 sjómanna	nkfe	sjómaður
 .	.	.
-
 Þeir	fpkfn	hann
 hafa	sfg3fn	hafa
 sýnt	ssg	sýna
@@ -3820,11 +3638,9 @@ saman	aa	saman
 sjómenn	nkfn	sjómaður
 .	.	.
 »	»	»
-
 Sérfróðir	lkfnsf	sérfróður
 og	c	og
 óháðir	lkfnsf	óháður
-
 Eiríkur	nken-s	Eiríkur
 Tómasson	nken-s	Tómasson
 ,	,	,
@@ -3852,7 +3668,6 @@ að	cn	að
 vera	sng	vera
 dómkvaddir	lkfnsf	dómkvaddur
 .	.	.
-
 Því	aa	því
 hefði	svg3eþ	hafa
 ákæruvaldið	nheng	ákæruvald
@@ -3863,7 +3678,6 @@ fram	aa	fram
 á	ao	á
 það	fpheo	það
 .	.	.
-
 Slíkir	fbkfn	slíkur
 sérfróðir	lkfnsf	sérfróður
 matsmenn	nkfn	matsmaður
@@ -3881,7 +3695,6 @@ eða	c	eða
 óbeinum	lkeþsf	óbeinn
 hætti	nkeþ	háttur
 .	.	.
-
 Það	fphen	það
 sé	svg3en	vera
 skilyrði	nhen	skilyrði
@@ -3889,7 +3702,6 @@ skilyrði	nhen	skilyrði
 íslenskum	lvfþsf	íslenskur
 réttarfarslögum	nhfþ	réttarfarslög
 .	.	.
-
 Rætt	sþghen	ræða
 verður	sfg3en	verða
 við	ao	við
@@ -3899,12 +3711,10 @@ Speglinum	nkeþgs	Spegill
 eftir	ao	eftir
 fréttir	nvfo	frétt
 .	.	.
-
 Landslag	nhen	landslag
 leikið	sþghen	leika
 á	ao	á
 hörpu	nveo	harpa
-
 Héraðsdómur	nken-s	Héraðsdómur
 Reykjaness	nhee-s	Reykjanes
 hefur	sfg3en	hafa
@@ -3949,7 +3759,6 @@ var	sfg3eþ	vera
 Jóhannesi	nkeþ-s	Jóhannes
 Kjarval	nkeþ-s	Kjarval
 .	.	.
-
 Pétur	nken-s	Pétur
 Þór	nken-s	Þór
 var	sfg3eþ	vera
@@ -3964,7 +3773,6 @@ stóra	lheþvf	stór
 málverkafölsunarmálinu	nheþg	málverkafölsunarmál
 svokallaða	lheþvf	svokallaður
 .	.	.
-
 Guðrún	nven-s	Guðrún
 Kjarval	nven-s	Kjarval
 fer	sfg3en	fara
@@ -3992,7 +3800,6 @@ situr	sfg3en	sitja
 búi	nheþ	bú
 þeirra	fpkfe	hann
 .	.	.
-
 Eigandi	nken	eigandi
 málverksins	nheeg	málverk
 sem	ct	sem
@@ -4023,7 +3830,6 @@ Kaupmannahöfn	nveþ-s	Kaupmannahöfn
 mars	nkeo	mars
 síðastliðinn	lkeosf	síðastliðinn
 .	.	.
-
 Ólafur	nken-s	Ólafur
 Ingi	nken-s	Ingi
 Jónsson	nken-s	Jónsson
@@ -4053,7 +3859,6 @@ uppi	aa	uppi
 í	aþ	í
 ráðherrabústaðnum	nkeþg	ráðherrabústaður
 .	.	.
-
 Niels	e	Niels
 Kirschberg	e	Kirschberg
 hafði	sfg3eþ	hafa
@@ -4070,7 +3875,6 @@ Borg	nveþ-s	Borg
 árið	nheog	ár
 1994	ta	1994
 .	.	.
-
 Í	aþ	í
 lýsingu	nveþ	lýsing
 málsatvika	nhfe	málsatvik
@@ -4105,7 +3909,6 @@ málarann	nkeog	málari
 Mogens	e	Mogens
 Hoff	e	Hoff
 .	.	.
-
 Til	ae	til
 að	cn	að
 mála	sng	mála
@@ -4127,7 +3930,6 @@ Kjarval	nken-s	Kjarval
 ekki	aa	ekki
 notað	ssg	nota
 .	.	.
-
 Þessa	faveo	þessi
 mynd	nveo	mynd
 Mogens	e	Mogens
@@ -4153,7 +3955,6 @@ samkvæmt	aþ	samkvæmt
 gögnum	nhfþ	gagn
 hússins	nheeg	hús
 .	.	.
-
 Þegar	c	þegar
 þetta	fahen	þessi
 komst	sfm3eþ	koma
@@ -4178,7 +3979,6 @@ sinni	nheþ	sinn
 keypt	ssg	kaupa
 myndina	nveog	mynd
 .	.	.
-
 Dómþing	nhen	dómþing
 í	aþ	í
 máli	nheþ	mál
@@ -4202,7 +4002,6 @@ varna	nvfe	vörn
 í	aþ	í
 málinu	nheþg	mál
 .	.	.
-
 Dómurinn	nkeng	dómur
 féllst	sfm3eþ	falla
 í	aþ	í
@@ -4219,7 +4018,6 @@ miskabætur	nvfo	miskabætur
 auk	ae	auk
 vaxta	nkfe	vöxtur
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 einkamálalögum	nhfþ	einkamálalög
 á	sfg3en	eiga
@@ -4234,13 +4032,11 @@ fram	aa	fram
 endurupptöku	nveo	endurupptaka
 málsins	nheeg	mál
 .	.	.
-
 Seldar	sþgvfn	selja
 í	aþ	í
 góðri	lveþsf	góður
 trú	nveþ	trú
 ?	?	?
-
 Eftir	ao	eftir
 að	c	að
 sýknudómur	nken	sýknudómur
@@ -4273,7 +4069,6 @@ refsað	sþghen	refsa
 fyrir	ao	fyrir
 það	fpheo	það
 .	.	.
-
 Þetta	faheo	þessi
 segir	sfg3en	segja
 Ólafur	nken-s	Ólafur
@@ -4281,7 +4076,6 @@ Ingi	nken-s	Ingi
 Jónsson	nken-s	Jónsson
 forvörður	nken	forvörður
 .	.	.
-
 Ólafur	nken-s	Ólafur
 segir	sfg3en	segja
 það	fpheo	það
@@ -4292,7 +4086,6 @@ um	ao	um
 myndirnar	nvfog	mynd
 verður	sfg3en	verða
 .	.	.
-
 Fjallað	sþghen	fjalla
 var	sfg3eþ	vera
 um	ao	um
@@ -4305,7 +4098,6 @@ og	c	og
 í	aþ	í
 héraðsdómi	nkeþ	héraðsdómur
 .	.	.
-
 Ólafur	nken-s	Ólafur
 segir	sfg3en	segja
 mörg	lhfosf	margur
@@ -4337,7 +4129,6 @@ nefnir	sfg3en	nefna
 nýlegt	lheosf	nýlegur
 dæmi	nheo	dæmi
 .	.	.
-
 Ólafur	nken-s	Ólafur
 Ingi	nken-s	Ingi
 Jónsson	nken-s	Jónsson
@@ -4368,7 +4159,6 @@ síðan	aa	síðan
 milljón	nveo	milljón
 krónur	nvfo	króna
 .	.	.
-
 Það	fphen	það
 átti	sfg3eþ	eiga
 síðan	aa	síðan
@@ -4392,7 +4182,6 @@ verðmetið	sþghen	verðmeta
 1,5	ta	1,5
 milljón	nveo	milljón
 .	.	.
-
 Einstaklingurinn	nkeng	einstaklingur
 sem	ct	sem
 selur	sfg3en	selja
@@ -4408,7 +4197,6 @@ væri	svg3eþ	vera
 falsað	lhensf	falsaður
 .	.	.
 »	»	»
-
 Og	c	og
 nú	aa	nú
 er	sfg3en	vera
@@ -4419,7 +4207,6 @@ segir	sfg3en	segja
 Ólafur	nken-s	Ólafur
 Ingi	nken-s	Ingi
 .	.	.
-
 Þarna	aa	þarna
 er	sfg3en	vera
 verið	sþghen	vera
@@ -4454,7 +4241,6 @@ vitund	nveþ	vitund
 segir	sfg3en	segja
 Ólafur	nken-s	Ólafur
 .	.	.
-
 En	c	en
 hver	fshfn	hver
 hafa	sfg3fn	hafa
@@ -4464,7 +4250,6 @@ af	aþ	af
 málarekstri	nkeþ	málarekstur
 verið	ssg	vera
 ?	?	?
-
 Ólafur	nken-s	Ólafur
 Ingi	nken-s	Ingi
 Jónsson	nken-s	Jónsson
@@ -4503,7 +4288,6 @@ markaði	nkeþ	markaður
 fölsuð	lhfnsf	falsaður
 verk	nhfn	verk
 .	.	.
-
 Starfsemin	nveng	starfsemi
 var	sfg3eþ	vera
 í	aþ	í
@@ -4516,11 +4300,9 @@ allmennt	x	almennt
 viðurkennt	sþghen	viðurkenna
 .	.	.
 »	»	»
-
 Umræður	nvfn	umræða
 standa	sfg3fn	standa
 enn	aa	enn
-
 Enn	aa	enn
 stendur	sfg3en	standa
 yfir	aa	yfir
@@ -4538,7 +4320,6 @@ eru	sfg3fn	vera
 á	aþ	á
 mælendaskrá	nveþ	mælendaskrá
 .	.	.
-
 Halldór	nken-s	Halldór
 Blöndal	nken-s	Blöndal
 ,	,	,
@@ -4566,7 +4347,6 @@ nú	aa	nú
 rétt	aa	rétt
 áðan	aa	áðan
 .	.	.
-
 Ætlunin	nveng	ætlun
 mun	sfg3en	munu
 vera	sng	vera
@@ -4587,7 +4367,6 @@ eða	c	eða
 á	ao	á
 morgun	nkeo	morgunn
 .	.	.
-
 Stjórnarandstaðan	nveng	stjórnarandstaða
 kveðst	sfm3en	kveða
 ekki	aa	ekki
@@ -4600,7 +4379,6 @@ neitt	foheo	neinn
 því	faheþ	sá
 máli	nheþ	mál
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 samkvæmt	aþ	samkvæmt
@@ -4616,7 +4394,6 @@ eldhúsdagsumræður	nvfo	eldhúsdagsumræða
 á	ao	á
 mánudagskvöld	nheo	mánudagskvöld
 .	.	.
-
 Ef	c	ef
 svo	aa	svo
 er	sfg3en	vera
@@ -4648,7 +4425,6 @@ réttindi	nhfo	réttindi
 og	c	og
 skyldur	nvfo	skylda
 .	.	.
-
 En	c	en
 hugsanlega	aa	hugsanlega
 er	sfg3en	vera
@@ -4665,11 +4441,9 @@ sem	ct	sem
 enn	aa	enn
 stendur	sfg3en	standa
 .	.	.
-
 Ólga	nven	ólga
 í	aþ	í
 Framsókn	nveþ-s	Framsókn
-
 Varaformaður	nken	varaformaður
 Framsóknarflokks	nkee-s	Framsóknarflokkur
 segir	sfg3en	segja
@@ -4681,7 +4455,6 @@ flokknum	nkeþg	flokkur
 vegna	ae	vegna
 fjölmiðlafrumvarpsins	nheeg	fjölmiðlafrumvarp
 .	.	.
-
 Formaður	nken	formaður
 flokksins	nkeeg	flokkur
 segir	sfg3en	segja
@@ -4707,7 +4480,6 @@ við	ao	við
 erfið	lhfosf	erfiður
 mál	nhfo	mál
 .	.	.
-
 Formaður	nken	formaður
 og	c	og
 varaformaður	nken	varaformaður
@@ -4724,7 +4496,6 @@ ljár	nken	ljár
 í	aþ	í
 þúfu	nveþ	þúfa
 .	.	.
-
 Halldór	nken-s	Halldór
 Ásgrímsson	nken-s	Ásgrímsson
 ,	,	,
@@ -4747,7 +4518,6 @@ beitt	sþgven	beita
 vegna	ae	vegna
 fjölmiðlafrumvarpsins	nheeg	fjölmiðlafrumvarp
 .	.	.
-
 Halldór	nken-s	Halldór
 Ásgrímsson	nken-s	Ásgrímsson
 ,	,	,
@@ -4788,7 +4558,6 @@ eða	c	eða
 morgun	nkeo	morgunn
 .	.	.
 »	»	»
-
 Ólöf	nven-s	Ólöf
 Rún	nven-s	Rún
 Skúladóttir	nven-s	Skúladóttir
@@ -4800,7 +4569,6 @@ komið	ssg	koma
 fram	aa	fram
 gagnrýnisraddir	nvfn	gagnrýnisrödd
 .	.	.
-
 Vísarðu	sfg2en	vísa
 þeim	fpvfþ	hún
 á	ao	á
@@ -4822,7 +4590,6 @@ gerast	snm	gera
 flokki	nkeþ	flokkur
 ?	?	?
 »	»	»
-
 Halldór	nken-s	Halldór
 Ásgrímsson	nken-s	Ásgrímsson
 :	:	:
@@ -4834,7 +4601,6 @@ gagnrýni	nveþ	gagnrýni
 á	ao	á
 bug	nkeo	bugur
 .	.	.
-
 Mér	fp1eþ	ég
 finnst	sfm3en	finna
 það	fphen	það
@@ -4874,7 +4640,6 @@ erfið	lhfosf	erfiður
 mál	nhfo	mál
 .	.	.
 »	»	»
-
 Guðni	nken-s	Guðni
 Ágústsson	nken-s	Ágústsson
 ,	,	,
@@ -4893,7 +4658,6 @@ hafi	svg3fn	hafa
 risið	ssg	rísa
 hátt	aa	hátt
 .	.	.
-
 Guðni	nken-s	Guðni
 Ágústsson	nken-s	Ágústsson
 ,	,	,
@@ -4926,7 +4690,6 @@ verið	ssg	vera
 í	aþ	í
 þjóðfélaginu	nheþg	þjóðfélag
 .	.	.
-
 Enda	aa	enda
 hefur	sfg3en	hafa
 málið	nheng	mál
@@ -4962,7 +4725,6 @@ hvað	fsheo	hver
 málið	nheng	mál
 snýst	sfm3en	snúa
 .	.	.
-
 Þannig	aa	þannig
 að	c	að
 ég	fp1en	ég

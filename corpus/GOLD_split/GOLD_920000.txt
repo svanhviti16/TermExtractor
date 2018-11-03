@@ -25,7 +25,6 @@ T	x	t
 Kelvingráðum	nhfþ-s	Kelvingráða
 )	)	)
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 þessu	faheþ	þessi
 er	sfg3en	vera
@@ -70,7 +69,6 @@ við	ao	við
 stærð	nveo	stærð
 þeirra	fpvfe	hún
 .	.	.
-
 Þessa	faveo	þessi
 staðhæfingu	nveo	staðhæfing
 má	sfg3en	mega
@@ -99,7 +97,6 @@ ber	sfg3en	bera
 með	aþ	með
 sér	fpveþ	sig
 .	.	.
-
 Þegar	c	þegar
 grannt	aa	grannt
 er	sfg3en	vera
@@ -144,7 +141,6 @@ virka	sfg3fn	virka
 veikir	lkfnsf	veikur
 kraftar	nkfn	kraftur
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 kjörgaslögmálinu	nheþg	kjörgaslögmál
 hér	aa	hér
@@ -184,13 +180,11 @@ einum	tfkeþ	einn
 þrýstingi	nkeþ	þrýstingur
 ,	,	,
 eða	c	eða
-
 1	ta	1
 =	=	=
 PVm0	x	pvm0
 /	/	/
 RT	x	rt
-
 Ef	c	ef
 á	ao	á
 hinn	fakeo	hinn
@@ -243,7 +237,6 @@ stærðar	nvee	stærð
 viðkomandi	lvfeof	viðkomandi
 einda	nvfe	eind
 .	.	.
-
 Þetta	fahen	þessi
 sést	sfm3en	sjá
 fyrir	ao	fyrir
@@ -274,7 +267,6 @@ háð	lkensf	háður
 P	x	p
 )	)	)
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 til	ae	til
@@ -289,7 +281,6 @@ fyrir	ao	fyrir
 tilgreindar	lvfosf	tilgreindur
 gastegundir	nvfo	gastegund
 .	.	.
-
 Í	ao	í
 ljós	nheo	ljós
 kemur	sfg3en	koma
@@ -309,7 +300,6 @@ með	aþ	með
 auknum	lkeþsf	aukinn
 gasþrýstingi	nkeþ	gasþrýstingur
 .	.	.
-
 Því	aa	því
 er	sfg3en	vera
 réttara	lhenvm	réttur
@@ -346,7 +336,6 @@ kjörgaslögmálið	nheng	kjörgaslögmál
 gildi	svg3en	gilda
 »	»	»
 .	.	.
-
 Heimildir	nvfn	heimild
 :	:	:
 o	x	o
@@ -371,24 +360,18 @@ Paula	e	Paula
 ,	,	,
 Julio	e	Julio
 .	.	.
-
 Physical	e	Physical
 Chemistry	e	Chemistry
 .	.	.
-
 2002	ta	2002
 .	.	.
-
 Oxford	e	Oxford
 University	e	University
 Press	e	Press
 .	.	.
-
 Súrálsduft	nhen	súrálsduft
-
 Súrálsduft	nhen	súrálsduft
 .	.	.
-
 Súrál	nhen	súrál
 er	sfg3en	vera
 efnasamband	nhen	efnasamband
@@ -400,7 +383,6 @@ jafnframt	aa	jafnframt
 nefnist	sfm3en	nefna
 áloxíð	nhen	áloxíð
 .	.	.
-
 Efnaformúla	nven	efnaformúla
 þess	fphee	það
 er	sfg3en	vera
@@ -429,7 +411,6 @@ tveir	tfkfn	tveir
 móti	aþ	móti
 þremur	tfkfþ	þrír
 .	.	.
-
 Súrál	nhen	súrál
 er	sfg3en	vera
 hvítt	lhensf	hvítur
@@ -449,7 +430,6 @@ og	c	og
 í	aþ	í
 Straumsvík	nveþ-s	Straumsvík
 .	.	.
-
 Súrál	nhen	súrál
 er	sfg3en	vera
 framleitt	sþghen	framleiða
@@ -472,7 +452,6 @@ Karíbahafinu	nheþgs	Karíbahaf
 og	c	og
 Afríku	nveþ-s	Afríka
 .	.	.
-
 Súrál	nhen	súrál
 sem	ct	sem
 notað	sþghen	nota
@@ -484,7 +463,6 @@ fengið	sþghen	fá
 frá	aþ	frá
 Ástralíu	nveþ-s	Ástralía
 .	.	.
-
 Í	aþ	í
 álverinu	nheþg	álver
 er	sfg3en	vera
@@ -502,7 +480,6 @@ nefnist	sfm3en	nefna
 daglegu	lheþsf	daglegur
 tali	nheþ	tal
 .	.	.
-
 Þegar	c	þegar
 sterkum	lkeþsf	sterkur
 rafstraumi	nkeþ	rafstraumur
@@ -524,7 +501,6 @@ sig	fpheo	sig
 frá	aþ	frá
 súrálinu	nheþg	súrál
 .	.	.
-
 Heimildir	nvfn	heimild
 :	:	:
 o	x	o
@@ -536,7 +512,6 @@ framleiðslu	nveo	framleiðsla
 heimasíðu	nveþ	heimasíða
 Alcan	e	Alcan
 .	.	.
-
 o	x	o
 Upplýsingar	nvfn	upplýsing
 um	ao	um
@@ -545,7 +520,6 @@ um	ao	um
 heimasíðu	nveþ	heimasíða
 Alcoa	e	Alcoa
 .	.	.
-
 Mynd	nven	mynd
 :	:	:
 o	x	o
@@ -555,10 +529,8 @@ upplýsingasíða	nven	upplýsingasíða
 um	ao	um
 áliðnað	nkeo	áliðnaður
 .	.	.
-
 Yiannis	e	Yiannis
 Kouros	e	Kouros
-
 Yiannis	e	Yiannis
 Kouros	e	Kouros
 ,	,	,
@@ -572,7 +544,6 @@ fór	sfg3eþ	fara
 303,5	ta	303,5
 km	as	km
 .	.	.
-
 Afleiðingar	nvfn	afleiðing
 þess	fphee	það
 að	cn	að
@@ -591,7 +562,6 @@ aðstæðum	nvfþ	aðstæður
 við	ao	við
 hlaupið	nheog	hlaup
 .	.	.
-
 Illa	aa	illa
 þjálfuðum	lkeþsf	þjálfaður
 einstaklingi	nkeþ	einstaklingur
@@ -622,7 +592,6 @@ fallið	ssg	falla
 í	ao	í
 yfirlið	nheo	yfirlið
 .	.	.
-
 Þess	fphee	það
 eru	sfg3fn	vera
 þó	aa	þó
@@ -656,7 +625,6 @@ er	sfg3en	vera
 ekki	aa	ekki
 einhlítt	lhensf	einhlítur
 .	.	.
-
 Langhlaup	nhfn	langhlaup
 sem	aa	sem
 og	c	og
@@ -668,7 +636,6 @@ verulega	aa	verulega
 líkamlegt	lheosf	líkamlegur
 atgervi	nheo	atgervi
 .	.	.
-
 Hlaupari	nken	hlaupari
 þarf	sfg3en	þurfa
 orku	nveo	orka
@@ -689,7 +656,6 @@ við	ao	við
 bruna	nkeo	bruni
 bensíns	nhee	bensín
 .	.	.
-
 «	«	«
 Eldsneyti	nhen	eldsneyti
 »	»	»
@@ -705,7 +671,6 @@ geymt	sþghen	geyma
 vefjum	nkfþ	vefur
 líkamans	nkeeg	líkami
 .	.	.
-
 Orkan	nveng	orka
 losnar	sfg3en	losna
 úr	aþ	úr
@@ -719,7 +684,6 @@ efna	nhfe	efni
 frumum	nvfþ	fruma
 líkamans	nkeeg	líkami
 .	.	.
-
 Sá	faken	sá
 bruni	nken	bruni
 gerist	sfm3en	gera
@@ -734,7 +698,6 @@ okkur	fp1fþ	ég
 í	aþ	í
 sífellu	nveþ	sífella
 .	.	.
-
 Hæfni	nven	hæfni
 hlaupara	nkfe	hlaupari
 til	ae	til
@@ -764,7 +727,6 @@ meðan	c	meðan
 hlaupi	nheþ	hlaup
 stendur	sfg3en	standa
 .	.	.
-
 Vel	aa	vel
 þjálfaður	lkensf	þjálfaður
 langhlaupari	nken	langhlaupari
@@ -780,7 +742,6 @@ hámarkar	sfg3en	hámarka
 þessa	faveo	þessi
 getu	nveo	geta
 .	.	.
-
 Þó	aa	þó
 eru	sfg3fn	vera
 því	fpheþ	það
@@ -804,7 +765,6 @@ farartækjum	nhfþ	farartæki
 er	sfg3en	vera
 takmarkaður	lkensf	takmarkaður
 .	.	.
-
 Margra	lvfesf	margur
 klukkustunda	nvfe	klukkustund
 langhlaup	nhfn	langhlaup
@@ -817,7 +777,6 @@ meðan	c	meðan
 hlaupi	nheþ	hlaup
 stendur	sfg3en	standa
 .	.	.
-
 Þess	fphee	það
 vegna	ae	vegna
 er	sfg3en	vera
@@ -839,7 +798,6 @@ löngu	lheþsf	langur
 hlaupi	nheþ	hlaup
 stendur	sfg3en	standa
 .	.	.
-
 Þar	aa	þar
 að	aa	að
 auki	aa	auki
@@ -857,7 +815,6 @@ vökvatap	nheo	vökvatap
 vegna	ae	vegna
 svita	nkee	sviti
 .	.	.
-
 Með	aþ	með
 réttri	lveþsf	réttur
 þjálfun	nveþ	þjálfun
@@ -879,7 +836,6 @@ geta	sfg3fn	geta
 margar	lvfosf	margur
 klukkustundir	nvfo	klukkustund
 .	.	.
-
 Til	ae	til
 marks	nhee	mark
 um	ao	um
@@ -897,7 +853,6 @@ af	aþ	af
 fjöldamörgum	lkfþsf	fjöldamargur
 áhugahlaupurum	nkfþ	áhugahlaupari
 .	.	.
-
 Maraþonhlaup	nhen	maraþonhlaup
 er	sfg3en	vera
 samtals	aa	samtals
@@ -917,7 +872,6 @@ oft	aa	oft
 klst.	as	klst.
 )	)	)
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 er	sfg3en	vera
@@ -944,7 +898,6 @@ en	c	en
 hefðbundin	lhfnsf	hefðbundinn
 maraþonhlaup	nhfn	maraþonhlaup
 .	.	.
-
 Þekktasta	lhenve	þekktur
 hlaup	nhen	hlaup
 af	aþ	af
@@ -970,7 +923,6 @@ leið	nveo	leið
 í	aþ	í
 fjalllendi	nheþ	fjalllendi
 .	.	.
-
 Venjulega	aa	venjulega
 tekur	sfg3en	taka
 slíkt	fbhen	slíkur
@@ -980,7 +932,6 @@ um	aa	um
 -	-	-
 10	ta	10
 klst.	as	klst.
-
 Víða	aa	víða
 erlendis	aa	erlendis
 eru	sfg3fn	vera
@@ -1011,7 +962,6 @@ vegalengd	nveo	vegalengd
 þeim	fakeþ	sá
 tíma	nkeþ	tími
 .	.	.
-
 Önnur	fohfn	annar
 algeng	lhfnsf	algengur
 ofurmaraþonhlaup	nhfn	ofurmaraþonhlaup
@@ -1044,7 +994,6 @@ eitthvað	fohen	einhver
 sé	svg3en	vera
 nefnt	sþghen	nefna
 .	.	.
-
 Lengsta	lhenve	langur
 skráða	lhenvf	skráður
 keppnishlaup	nhen	keppnishlaup
@@ -1084,7 +1033,6 @@ enn	aa	enn
 lengri	lhfovm	langur
 hlaup	nhfo	hlaup
 !	!	!
-
 Heimildir	nvfn	heimild
 :	:	:
 o	x	o
@@ -1106,10 +1054,8 @@ Human	e	Human
 Kinetics	e	Kinetics
 Publishers	e	Publishers
 .	.	.
-
 2002	ta	2002
 .	.	.
-
 Demantur	nken	demantur
 hefur	sfg3en	hafa
 hæsta	lheove	hár
@@ -1120,7 +1066,6 @@ efna	nhfe	efni
 ,	,	,
 3547°C	ta	3547°c
 .	.	.
-
 Það	fphen	það
 þýðir	sfg3en	þýða
 að	c	að
@@ -1142,7 +1087,6 @@ formi	nheþ	form
 í	ao	í
 vökvaform	nheo	vökvaform
 .	.	.
-
 Demantur	nken	demantur
 er	sfg3en	vera
 annað	fohen	annar
@@ -1159,7 +1103,6 @@ s	x	s
 )	)	)
 )	)	)
 .	.	.
-
 Hitt	fahen	hinn
 formið	nheng	form
 er	sfg3en	vera
@@ -1189,12 +1132,10 @@ kolamola	nkeþ	kolamoli
 og	c	og
 demanti	nkeþ	demantur
 ?	?	?
-
 hér	aa	hér
 á	aþ	á
 Vísindavefnum	nkeþgs	Vísindavefur
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 að	cn	að
@@ -1213,7 +1154,6 @@ mörgu	lheþsf	margur
 öðru	foheþ	annar
 leyti	nheþ	leyti
 .	.	.
-
 Demantur	nken	demantur
 er	sfg3en	vera
 harðastur	lkense	harður
@@ -1233,7 +1173,6 @@ en	c	en
 önnur	fohfn	annar
 efni	nhfn	efni
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 frumeindum	nvfþ	frumeind
@@ -1250,7 +1189,6 @@ nokkru	foheþ	nokkur
 þekktu	lheþsf	þekktur
 efni	nheþ	efni
 .	.	.
-
 Í	aþ	í
 demanti	nkeþ	demantur
 tengist	sfm3en	tengja
@@ -1274,7 +1212,6 @@ skýrir	sfg3en	skýra
 styrkleika	nkeo	styrkleiki
 efnisins	nheeg	efni
 .	.	.
-
 Þetta	faheo	þessi
 má	sfg3en	mega
 sjá	sng	sjá
@@ -1284,7 +1221,6 @@ hér	aa	hér
 að	aa	að
 neðan	aa	neðan
 .	.	.
-
 Heimildir	nvfn	heimild
 :	:	:
 o	x	o
@@ -1295,7 +1231,6 @@ hjá	aþ	hjá
 Amethyst	e	Amethyst
 Galleries	e	Galleries
 .	.	.
-
 o	x	o
 Umfjöllun	nven	umfjöllun
 um	ao	um
@@ -1305,7 +1240,6 @@ Ask	e	Ask
 a	e	a
 scientist	e	scientist
 .	.	.
-
 o	x	o
 F.	as	F.
 A.	as	A.
@@ -1314,7 +1248,6 @@ Cotton	e	Cotton
 G.	as	G.
 Wilkinson	e	Wilkinson
 .	.	.
-
 Advanced	e	Advanced
 inorganic	e	inorganic
 chemistry	e	chemistry
@@ -1323,12 +1256,10 @@ A	e	a
 comprehensice	e	comprehensice
 text	e	text
 .	.	.
-
 Wiley-Interscience	e	Wiley-Interscience
 ,	,	,
 1999	ta	1999
 .	.	.
-
 o	x	o
 Hvað	fshen	hver
 er	sfg3en	vera
@@ -1340,11 +1271,9 @@ kolamola	nkeþ	kolamoli
 og	c	og
 demanti	nkeþ	demantur
 ?	?	?
-
 eftir	ao	eftir
 EÖÞ	as	EÖÞ
 .	.	.
-
 o	x	o
 Hver	fsken	hver
 er	sfg3en	vera
@@ -1355,12 +1284,10 @@ demanti	nkeþ	demantur
 og	c	og
 iðnaðardemanti	nkeþ	iðnaðardemantur
 ?	?	?
-
 eftir	ao	eftir
 Svein	nkeo-s	Sveinn
 Ólafsson	nkeo-s	Ólafsson
 .	.	.
-
 Efni	nhfn	efni
 teljast	sfm3fn	telja
 gegnsæ	lhfnsf	gegnsær
@@ -1395,13 +1322,11 @@ eru	sfg3fn	vera
 í	aþ	í
 gleri	nheþ	gler
 ?	?	?
-
 eftir	ao	eftir
 sama	fbkeo	samur
 höfund	nkeo	höfundur
 )	)	)
 .	.	.
-
 Helsta	lvenve	heldri
 orsök	nven	orsök
 ógegnsæis	nhee	ógegnsæi
@@ -1410,7 +1335,6 @@ er	sfg3en	vera
 ljósgleypni	nven	ljósgleypni
 þeirra	fphfe	það
 .	.	.
-
 Slík	fbven	slíkur
 ljósgleypni	nven	ljósgleypni
 á	sfg3en	eiga
@@ -1429,7 +1353,6 @@ sameindir	nvfo	sameind
 )	)	)
 efnisins	nheeg	efni
 .	.	.
-
 Þegar	c	þegar
 hluti	nken	hluti
 hins	ghee	hinn
@@ -1447,7 +1370,6 @@ hluti	nken	hluti
 gegnum	ao	gegnum
 efnið	nheog	efni
 .	.	.
-
 Sá	faken	sá
 sem	ct	sem
 horfir	sfg3en	horfa
@@ -1477,7 +1399,6 @@ lit	nkeo	litur
 og	c	og
 ógegnsæi	nheo	ógegnsæi
 .	.	.
-
 Andrúmsloftið	nheng	andrúmsloft
 í	aþ	í
 neðri	lkeþvm	neðri
@@ -1498,7 +1419,6 @@ súrefni	nheþ	súrefni
 O2	x	o2
 )	)	)
 .	.	.
-
 Við	ao	við
 yfirborð	nheo	yfirborð
 jarðar	nvee	jörð
@@ -1515,7 +1435,6 @@ súrefni	nhen	súrefni
 um	aa	um
 21%	tp	21%
 .	.	.
-
 Í	aþ	í
 efri	lkfþvm	efri
 hlutum	nkfþ	hlutur
@@ -1535,7 +1454,6 @@ O	x	o
 )	)	)
 eykst	sfm3en	auka
 .	.	.
-
 Auk	ae	auk
 þeirra	fpvfe	hún
 fyrirfinnst	sfm3en	fyrirfinna
@@ -1577,7 +1495,6 @@ frá	aþ	frá
 yfirborði	nheþ	yfirborð
 jarðar	nvee	jörð
 .	.	.
-
 Þessum	favfþ	þessi
 lofttegundum	nvfþ	lofttegund
 er	sfg3en	vera
@@ -1600,7 +1517,6 @@ andrúmsloftið	nheng	andrúmsloft
 er	sfg3en	vera
 gegnsætt	lhensf	gegnsær
 .	.	.
-
 Þó	aa	þó
 skal	sfg3en	skulu
 þess	fphee	það
@@ -1617,7 +1533,6 @@ sveigt	ssg	sveigja
 af	aþ	af
 braut	nveþ	braut
 .	.	.
-
 Slík	fbven	slíkur
 sveigja	nven	sveigja
 er	sfg3en	vera
@@ -1627,7 +1542,6 @@ háð	lvensf	háður
 lit	nkeþ	litur
 ljóssins	nheeg	ljós
 .	.	.
-
 Þannig	aa	þannig
 sveigir	sfg3en	sveigja
 bláa	lhenvf	blár
@@ -1646,7 +1560,6 @@ himinninn	nkeng	himinn
 er	sfg3en	vera
 blár	lkensf	blár
 .	.	.
-
 Heimildir	nvfn	heimild
 og	c	og
 lesefni	nhen	lesefni
@@ -1670,12 +1583,10 @@ of	e	of
 the	e	the
 Atmosphere	e	Atmosphere
 .	.	.
-
 Wiley	e	Wiley
 ,	,	,
 1975	ta	1975
 .	.	.
-
 o	x	o
 Svar	nhen	svar
 við	aþ	við
@@ -1692,12 +1603,10 @@ eru	sfg3fn	vera
 í	aþ	í
 gleri	nheþ	gler
 ?	?	?
-
 eftir	ao	eftir
 Ágúst	nkeo-s	Ágúst
 Kvaran	nkeo-s	Kvaran
 .	.	.
-
 o	x	o
 Svar	nhen	svar
 við	aþ	við
@@ -1708,12 +1617,10 @@ er	sfg3en	vera
 himinninn	nkeng	himinn
 blár	lkensf	blár
 ?	?	?
-
 eftir	ao	eftir
 Ara	nkeo-s	Ari
 Ólafsson	nkeo-s	Ólafsson
 .	.	.
-
 Frumeindir	nvfn	frumeind
 (	(	(
 atóm	nhfn	atóm
@@ -1732,7 +1639,6 @@ sveimi	nheþ	sveim
 umhverfis	ao	umhverfis
 kjarnana	nkfog	kjarni
 .	.	.
-
 Frumeindakjarnar	nkfn	frumeindakjarni
 samanstanda	sfg3fn	samanstanda
 ennfremur	aa	ennfremur
@@ -1744,7 +1650,6 @@ og	c	og
 óhlöðnum	lvfþsf	óhlaðinn
 nifteindum	nvfþ	nifteind
 .	.	.
-
 Fjöldi	nken	fjöldi
 róteinda	nvfe	róteind
 segir	sfg3en	segja
@@ -1778,7 +1683,6 @@ lotukerfið	nheng	lotukerfi
 ?	?	?
 )	)	)
 .	.	.
-
 Frumeindir	nvfn	frumeind
 ákveðins	lheesf	ákveðinn
 frumefnis	nhee	frumefni
@@ -1789,13 +1693,11 @@ haft	ssg	hafa
 mismargar	lvfosf	mismargur
 nifteindir	nvfo	nifteind
 .	.	.
-
 Slíkar	fbvfn	slíkur
 frumeindir	nvfn	frumeind
 nefnast	sfm3fn	nefna
 samsætur	nvfn	samsæta
 .	.	.
-
 Dæmi	nhfn	dæmi
 um	ao	um
 slíkt	fbheo	slíkur
@@ -1809,7 +1711,6 @@ einungis	aa	einungis
 eina	tfveo	einn
 róteind	nveo	róteind
 .	.	.
-
 Algengasta	lvenve	algengur
 samsæta	nven	samsæta
 vetnis	nhee	vetni
@@ -1826,7 +1727,6 @@ hefur	sfg3en	hafa
 einkennistáknið	nheog	einkennistákn
 1H1	ta	1h1
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 eru	sfg3fn	vera
@@ -1859,7 +1759,6 @@ eða	c	eða
 T	x	t
 )	)	)
 .	.	.
-
 Hávísirinn	nkeng	hávísir
 (	(	(
 e.	as	e.
@@ -1883,7 +1782,6 @@ tilgreinir	sfg3en	tilgreina
 fjölda	nkeo	fjöldi
 róteinda	nvfe	róteind
 .	.	.
-
 Vatn	nhen	vatn
 (	(	(
 sameindatákn	nhen	sameindatákn
@@ -1923,7 +1821,6 @@ er	sfg3en	vera
 það	fphen	það
 notað	sþghen	nota
 ?	?	?
-
 Heimildir	nvfn	heimild
 :	:	:
 o	x	o
@@ -1933,14 +1830,12 @@ háskólanum	nkeþg	háskóli
 í	aþ	í
 Colorado	e	Colorado
 .	.	.
-
 o	x	o
 Samsætur	nvfn	samsæta
 hjá	aþ	hjá
 Berkeley	e	Berkeley
 háskóla	nkeþ	háskóli
 .	.	.
-
 o	x	o
 Hvað	fshen	hver
 er	sfg3en	vera
@@ -1949,7 +1844,6 @@ eftir	ao	eftir
 Ágúst	nkeo-s	Ágúst
 Kvaran	nkeo-s	Kvaran
 .	.	.
-
 o	x	o
 Hvað	fshen	hver
 er	sfg3en	vera
@@ -1962,12 +1856,10 @@ er	sfg3en	vera
 það	fphen	það
 notað	sþghen	nota
 ?	?	?
-
 eftir	ao	eftir
 Finnboga	nkeo-s	Finnbogi
 Óskarsson	nkeo-s	Óskarsson
 .	.	.
-
 Sjálflýsandi	lhfnof	sjálflýsandi
 armbönd	nhfn	armband
 og	c	og
@@ -1989,7 +1881,6 @@ sameindum	nvfþ	sameind
 eða	c	eða
 frumeindum	nvfþ	frumeind
 .	.	.
-
 Slíkt	fbhen	slíkur
 nefnist	sfm3en	nefna
 hvarfljómun	nven	hvarfljómun
@@ -1998,7 +1889,6 @@ e.	as	e.
 chemiluminescence	e	chemiluminescence
 )	)	)
 .	.	.
-
 Svonefnd	lhfnsf	svonefndur
 útvermin	lhfnsf	útverminn
 (	(	(
@@ -2013,7 +1903,6 @@ sem	c	sem
 nýmyndun	nveþ	nýmyndun
 efna	nhfe	efni
 .	.	.
-
 Dæmi	nhen	dæmi
 um	ao	um
 slík	fbhfo	slíkur
@@ -2037,7 +1926,6 @@ skynjum	sfg1fn	skynja
 sem	c	sem
 hita	nkeo	hiti
 .	.	.
-
 Til	aa	til
 er	sfg3en	vera
 fjöldi	nken	fjöldi
@@ -2054,7 +1942,6 @@ vegar	nkee	vegur
 formi	nheþ	form
 ljósorku	nvee	ljósorka
 .	.	.
-
 Undanfari	nken	undanfari
 ljósorkulosunar	nvee	ljósorkulosun
 í	aþ	í
@@ -2071,7 +1958,6 @@ frumeinda	nvfe	frumeind
 orkuríku	lheþsf	orkuríkur
 formi	nheþ	form
 .	.	.
-
 Slíkar	fbvfn	slíkur
 eindir	nvfn	eind
 eru	sfg3fn	vera
@@ -2085,12 +1971,10 @@ skjótt	aa	skjótt
 formi	nheþ	form
 ljósorku	nvee	ljósorka
 .	.	.
-
 Þetta	fahen	þessi
 nefnist	sfm3en	nefna
 hvarfljómun	nven	hvarfljómun
 .	.	.
-
 Ýmis	fohfn	ýmis
 efnahvörf	nhfn	efnahvarf
 sem	ct	sem
@@ -2105,7 +1989,6 @@ dæmi	nhfn	dæmi
 um	ao	um
 slíkt	fbheo	slíkur
 .	.	.
-
 Ljósorkan	nveng	ljósorka
 sem	ct	sem
 þá	aa	þá
@@ -2115,7 +1998,6 @@ okkur	fp1fþ	ég
 sem	c	sem
 logi	nken	logi
 .	.	.
-
 [	[	[
 Glóstautar	nkfn	glóstautur
 ]	]	]
@@ -2140,7 +2022,6 @@ byggja	sfg3fn	byggja
 á	aþ	á
 hvarfljómun	nveþ	hvarfljómun
 .	.	.
-
 Ljómunin	nveng	ljómun
 er	sfg3en	vera
 gjarnan	aa	gjarnan
@@ -2159,7 +2040,6 @@ inni	aa	inni
 í	aþ	í
 plasthulsum	nvfþ	plasthulsa
 .	.	.
-
 Til	ae	til
 dæmis	nhee	dæmi
 samanstendur	sfg3en	samanstanda
@@ -2176,7 +2056,6 @@ sjá	sng	sjá
 mynd	nveo	mynd
 )	)	)
 .	.	.
-
 Þegar	c	þegar
 plasthulsan	nveng	plasthulsa
 er	sfg3en	vera
@@ -2188,7 +2067,6 @@ lausnirnar	nvfng	lausn
 tvær	tfvfn	tveir
 blandast	sfm3fn	blanda
 .	.	.
-
 Efnin	nhfng	efni
 í	aþ	í
 lausnunum	nvfþg	lausn
@@ -2200,7 +2078,6 @@ hvarfljómunin	nveng	hvarfljómun
 verður	sfg3en	verða
 sýnileg	lvensf	sýnilegur
 .	.	.
-
 Litur	nken	litur
 hvarfljómunarinnar	nveeg	hvarfljómun
 er	sfg3en	vera
@@ -2208,7 +2085,6 @@ háður	lkensf	háður
 efnasamsetningu	nveþ	efnasamsetning
 lausnanna	nvfeg	lausn
 .	.	.
-
 Þegar	c	þegar
 efni	nhfn	efni
 í	aþ	í
@@ -2237,7 +2113,6 @@ C	x	c
 *	*	*
 )	)	)
 .	.	.
-
 Þessar	favfn	þessi
 orkuríku	lvfnvf	orkuríkur
 eindir	nvfn	eind
@@ -2259,7 +2134,6 @@ skynjar	sfg3en	skynja
 sem	c	sem
 lit	nkeo	litur
 .	.	.
-
 Þetta	faheo	þessi
 má	sfg3en	mega
 tákna	sng	tákna
@@ -2268,7 +2142,6 @@ með	aþ	með
 eftirfarandi	lkeþof	eftirfarandi
 hætti	nkeþ	háttur
 :	:	:
-
 A	x	A
 +	+	+
 B	x	b
@@ -2283,7 +2156,6 @@ C	x	c
 C	x	c
 +	+	+
 ljós	nhen	ljós
-
 Meðal	ae	meðal
 efna	nhfe	efni
 sem	ct	sem
@@ -2306,7 +2178,6 @@ og	c	og
 lífræn	lhfnsf	lífrænn
 litarefni	nhfn	litarefni
 .	.	.
-
 Viðkomandi	lhfnof	viðkomandi
 efnahvörf	nhfn	efnahvarf
 losa	sfg3fn	losa
@@ -2325,7 +2196,6 @@ sem	ct	sem
 þvínæst	aa	þvínátt
 ljóma	sfg3fn	ljóma
 .	.	.
-
 Litur	nken	litur
 ljómunarinnar	nveeg	ljómun
 ræðst	sfm3en	ráða
@@ -2334,7 +2204,6 @@ af	aþ	af
 samsetningu	nveþ	samsetning
 litarefnasameindanna	nvfeg	litarefnasameind
 .	.	.
-
 Heimildir	nvfn	heimild
 og	c	og
 myndir	nvfn	mynd
@@ -2346,7 +2215,6 @@ S	e	S
 THAT	e	THAT
 STUFF	e	STUFF
 ?	?	?
-
 o	x	o
 Encylopædia	e	Encylopædia
 Britannica	e	Britannica
@@ -2355,7 +2223,6 @@ The	e	The
 Chemiluminescence	e	Chemiluminescence
 Home	e	Home
 Page	e	Page
-
 Efnatengi	nhen	efnatengi
 (	(	(
 e.	as	e.
@@ -2369,7 +2236,6 @@ atóma	nhfe	atóm
 í	aþ	í
 sameind	nveþ	sameind
 .	.	.
-
 Sameindir	nvfn	sameind
 eru	sfg3fn	vera
 samsafn	nhen	samsafn
@@ -2384,7 +2250,6 @@ saman	aa	saman
 með	aþ	með
 efnatengjum	nhfþ	efnatengi
 .	.	.
-
 Efnatengi	nhfn	efnatengi
 milli	ae	milli
 atóma	nhfe	atóm
@@ -2412,7 +2277,6 @@ orka	nven	orka
 stakra	lhfesf	stakur
 atómanna	nhfeg	atóm
 .	.	.
-
 Þegar	c	þegar
 tvö	tfhfn	tveir
 atóm	nhfn	atóm
@@ -2433,7 +2297,6 @@ rafeinda	nvfe	rafeind
 )	)	)
 atómanna	nhfeg	atóm
 .	.	.
-
 Ef	c	ef
 aðdráttarkrafturinn	nkeng	aðdráttarkraftur
 vegur	sfg3en	vega
@@ -2465,7 +2328,6 @@ fyrir	aa	fyrir
 neðan	aa	neðan
 )	)	)
 .	.	.
-
 Þegar	c	þegar
 nálægð	nven	nálægð
 atómanna	nhfeg	atóm
@@ -2488,7 +2350,6 @@ hlaðinna	lvfesf	hlaðinn
 rafeinda	nvfe	rafeind
 atómanna	nhfeg	atóm
 .	.	.
-
 Þar	aa	þar
 sem	c	sem
 fráhrindi-	nkfn	fráhrindikraftur
@@ -2504,7 +2365,6 @@ orkan	nveng	orka
 nær	sfg3en	ná
 lágmarki	nheþ	lágmark
 .	.	.
-
 Tilsvarandi	lvenof	tilsvarandi
 fjarlægð	nven	fjarlægð
 milli	ae	milli
@@ -2522,7 +2382,6 @@ sjá	sng	sjá
 mynd	nveo	mynd
 )	)	)
 .	.	.
-
 Rafeindaskipan	nven	rafeindaskipan
 gildisrafeinda	nvfe	gildisrafeind
 atóma	nhfe	atóm
@@ -2532,10 +2391,8 @@ við	ao	við
 ofangreindan	lkeosf	ofangreindur
 samruna	nkeo	samruni
 .	.	.
-
 1	ta	1
 .	.	.
-
 Þegar	c	þegar
 atóm	nhfn	atóm
 sömu	fbvee	sami
@@ -2553,7 +2410,6 @@ milli	ae	milli
 beggja	fohfe	báðir
 atóma	nhfe	atóm
 .	.	.
-
 Slík	fbhfn	slíkur
 efnatengi	nhfn	efnatengi
 nefnast	sfm3fn	nefna
@@ -2580,10 +2436,8 @@ súrefnissameind	nveþ	súrefnissameind
 O2	x	o2
 )	)	)
 .	.	.
-
 2	ta	2
 .	.	.
-
 Ef	c	ef
 atóm	nhfn	atóm
 eða	c	eða
@@ -2601,7 +2455,6 @@ atóma	nhfe	atóm
 í	aþ	í
 efnatenginu	nheþg	efnatengi
 .	.	.
-
 Þá	aa	þá
 myndast	sfm3fn	mynda
 skautuð	lhfnsf	skautaður
@@ -2612,7 +2465,6 @@ polar	e	polar
 bonds	e	bonds
 )	)	)
 .	.	.
-
 Dæmi	nhen	dæmi
 um	ao	um
 slíkt	fbheo	slíkur
@@ -2622,12 +2474,10 @@ vetnisflúoríð-sameindin	nveng	vetnisflúoríð-sameind
 HF	as	HF
 )	)	)
 .	.	.
-
 Táknmynd	nven	táknmynd
 á	aþ	á
 forminu	nheþg	form
 :	:	:
-
 vísar	sfg3en	vísa
 til	ae	til
 þess	fphee	það
@@ -2647,10 +2497,8 @@ og	c	og
 viðkomandi	lhfþof	viðkomandi
 atómum	nhfþ	atóm
 .	.	.
-
 3	ta	3
 .	.	.
-
 Einnig	aa	einnig
 geta	sfg3fn	geta
 rafeindir	nvfn	rafeind
@@ -2663,7 +2511,6 @@ jónir	nvfo	jón
 og	c	og
 jónatengi	nhfo	jónatengi
 .	.	.
-
 Dæmi	nhen	dæmi
 um	ao	um
 slíkt	fbheo	slíkur
@@ -2685,10 +2532,8 @@ Na	x	NA
 Cl-	x	Cl-
 }	}	}
 .	.	.
-
 4	ta	4
 .	.	.
-
 Loks	aa	loks
 má	sfg3en	mega
 nefna	sng	nefna
@@ -2710,7 +2555,6 @@ og	c	og
 mynda	sfg3fn	mynda
 málmtengi	nhfo	málmtengi
 .	.	.
-
 Heimildir	nvfn	heimild
 :	:	:
 +	+	+
@@ -2720,7 +2564,6 @@ HyperPhysics	e	HyperPhysics
 +	+	+
 Cyberspace	e	Cyberspace
 Chemistry	e	Chemistry
-
 Bræðslumark	nhen	bræðslumark
 er	sfg3en	vera
 það	fahen	sá
@@ -2739,7 +2582,6 @@ vökvafasa	nkee	vökvafasi
 viðkomandi	lheeof	viðkomandi
 efnis	nhee	efni
 .	.	.
-
 Bræðslumark	nhen	bræðslumark
 er	sfg3en	vera
 háð	lhensf	háður
@@ -2748,7 +2590,6 @@ sem	ct	sem
 umleikur	sfg3en	umleika
 efnið	nheog	efni
 .	.	.
-
 Storka	nven	storka
 eða	c	eða
 fast	lhensf	fastur
@@ -2766,7 +2607,6 @@ frumeinda	nvfe	frumeind
 í	aþ	í
 kristallsgrind	nveþ	kristallsgrind
 .	.	.
-
 Slík	fbven	slíkur
 kristallögun	nven	kristallögun
 helst	sfm3fn	hel
@@ -2783,7 +2623,6 @@ lægra	lheovm	lágur
 en	c	en
 bræðslumark	nheo	bræðslumark
 .	.	.
-
 Ef	c	ef
 kristallur	nken	kristallur
 er	sfg3en	vera
@@ -2793,7 +2632,6 @@ eykst	sfm3en	auka
 hreyfiorka	nven	hreyfiorka
 efniseindanna	nvfeg	efniseind
 .	.	.
-
 Þegar	c	þegar
 bræðslumarki	nheþ	bræðslumark
 er	sfg3en	vera
@@ -2816,7 +2654,6 @@ og	c	og
 myndað	ssg	mynda
 vökvafasa	nkeo	vökvafasi
 .	.	.
-
 Við	ao	við
 hitastig	nheo	hitastig
 umfram	ao	umfram
@@ -2831,7 +2668,6 @@ suðumarki	nheþ	suðumark
 er	sfg3en	vera
 náð	sþghen	ná
 .	.	.
-
 Fasalínurit	nhen	fasalínurit
 fyrir	ao	fyrir
 hreint	lheosf	hreinn
@@ -2849,7 +2685,6 @@ ríkir	sfg3en	ríkja
 milli	ae	milli
 efnafasa	nkfe	efnafas
 .	.	.
-
 Telja	sng	telja
 má	sfg3en	mega
 ,	,	,
@@ -2880,7 +2715,6 @@ að	cn	að
 hafa	sng	hafa
 kynmök	nhfo	kynmök
 .	.	.
-
 Ýmsar	fovfn	ýmis
 rannsóknir	nvfn	rannsókn
 hafa	sfg3fn	hafa
@@ -2914,7 +2748,6 @@ Miller	e	Miller
 2002	ta	2002
 )	)	)
 .	.	.
-
 Eftir	aþ	eftir
 því	faheþ	sá
 sem	ct	sem
@@ -2941,7 +2774,6 @@ að	cn	að
 hafa	sng	hafa
 kynmök	nhfo	kynmök
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 því	aa	því
@@ -2967,7 +2799,6 @@ mikilvæg	lhfosf	mikilvægur
 atriði	nhfo	atriði
 kynfræðslunnar	nveeg	kynfræðsla
 .	.	.
-
 Það	fphen	það
 virðist	sfm3en	virða
 oft	aa	oft
@@ -2985,7 +2816,6 @@ með	ao	með
 fyrstu	lhfove	fyrstur
 kynmök	nhfo	kynmök
 .	.	.
-
 Hitt	fahen	hinn
 virðist	sfm3en	virða
 vega	sng	vega
@@ -3017,7 +2847,6 @@ að	cn	að
 stunda	sng	stunda
 kynlíf	nheo	kynlíf
 .	.	.
-
 Varðandi	slg	varða
 lagalegan	lkeosf	lagalegur
 ramma	nkeo	rammi
@@ -3044,7 +2873,6 @@ gr.	as	gr.
 202	ta	202
 )	)	)
 .	.	.
-
 Hærri	lhfnvm	hár
 aldursmörk	nhfn	aldursmark
 gilda	sfg3fn	gilda
@@ -3077,7 +2905,6 @@ nr.	as	nr.
 1992	ta	1992
 )	)	)
 .	.	.
-
 Getur	sfg3en	geta
 kynlíf	nhen	kynlíf
 fyrir	ao	fyrir
@@ -3086,7 +2913,6 @@ leitt	ssg	leiða
 til	ae	til
 ófrjósemi	nvee	ófrjósemi
 ?	?	?
-
 Hér	aa	hér
 er	sfg3en	vera
 spurning	nven	spurning
@@ -3099,7 +2925,6 @@ lögð	sþgven	leggja
 hugtakið	nheog	hugtak
 kynlíf	nheo	kynlíf
 .	.	.
-
 Það	fphen	það
 hefur	sfg3en	hafa
 í	aþ	í
@@ -3116,7 +2941,6 @@ samband	nhen	samband
 tveggja	tfkfe	tveir
 einstaklinga	nkfe	einstaklingur
 .	.	.
-
 Kynmökin	nhfng	kynmök
 eru	sfg3fn	vera
 aðeins	aa	aðeins
@@ -3134,7 +2958,6 @@ Young	e	Young
 1986	ta	1986
 )	)	)
 .	.	.
-
 Ef	c	ef
 átt	sþghen	eiga
 er	sfg3en	vera
@@ -3148,7 +2971,6 @@ ekki	aa	ekki
 til	ae	til
 ófrjósemi	nvee	ófrjósemi
 .	.	.
-
 Að	cn	að
 verða	sng	verða
 hrifinn	lkensf	hrifinn
@@ -3166,7 +2988,6 @@ ekki	aa	ekki
 til	ae	til
 ófrjósemi	nvee	ófrjósemi
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 gegnir	sfg3en	gegna
@@ -3186,7 +3007,6 @@ leitt	ssg	leiða
 til	ae	til
 ófrjósemi	nvee	ófrjósemi
 .	.	.
-
 Mun	sfg1en	munu
 ég	fp1en	ég
 ganga	sng	ganga
@@ -3196,7 +3016,6 @@ frá	aþ	frá
 skilningi	nkeþ	skilningur
 hér	aa	hér
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 mikilvægt	lhensf	mikilvægur
@@ -3209,7 +3028,6 @@ við	ao	við
 með	aþ	með
 ófrjósemi	nveþ	ófrjósemi
 .	.	.
-
 Almenn	lvensf	almennur
 skilgreining	nven	skilgreining
 á	aþ	á
@@ -3250,7 +3068,6 @@ Zalar	e	Zalar
 1989	ta	1989
 )	)	)
 .	.	.
-
 Stúlka	nven	stúlka
 sem	ct	sem
 hefur	sfg3en	hafa
@@ -3272,7 +3089,6 @@ sem	ct	sem
 er	sfg3en	vera
 smitaður	lkensf	smitaður
 .	.	.
-
 Það	fphen	það
 skiptir	sfg3en	skipta
 ekki	aa	ekki
@@ -3298,7 +3114,6 @@ hennar	fpvee	hún
 síðar	aam	síðar
 meir	aam	meir
 .	.	.
-
 Undir	aþ	undir
 öllum	fovfþ	allur
 venjulegum	lvfþsf	venjulegur
@@ -3314,7 +3129,6 @@ eggjaleiðara	nkeo	eggjaleiðari
 og	c	og
 eggjastokka	nkfo	eggjastokkur
 .	.	.
-
 Öll	fohfn	allur
 þessi	fahfn	þessi
 líffæri	nhfn	líffæri
@@ -3361,7 +3175,6 @@ Neinstein	e	Neinstein
 1991	ta	1991
 )	)	)
 .	.	.
-
 Varðandi	slg	varða
 frjósemina	nveog	frjósemi
 skipta	sfg3fn	skipta
@@ -3375,7 +3188,6 @@ eggjaleiðararnir	nkfng	eggjaleiðari
 einkum	aa	einkum
 mikilvægir	lkfnsf	mikilvægur
 .	.	.
-
 Þeir	fpkfn	hann
 eru	sfg3fn	vera
 eins	fokee	einn
@@ -3387,7 +3199,6 @@ eggjastokka	nkfe	eggjastokkur
 og	c	og
 legs	nhee	leg
 .	.	.
-
 Eggjastokkarnir	nkfng	eggjastokkur
 framleiða	sfg3fn	framleiða
 egg	nhfo	egg
@@ -3399,7 +3210,6 @@ sinni	nheþ	sinn
 í	aþ	í
 tíðahring	nkeþ	tíðahringur
 .	.	.
-
 Ef	c	ef
 frjóvgun	nven	frjóvgun
 ,	,	,
@@ -3428,7 +3238,6 @@ Zalar	e	Zalar
 1989	ta	1989
 )	)	)
 .	.	.
-
 Ein	tfven	einn
 af	aþ	af
 ástæðum	nvfþ	ástæða
@@ -3458,7 +3267,6 @@ DeLamater	e	DeLamater
 2000	ta	2000
 )	)	)
 .	.	.
-
 Það	fahen	sá
 sem	ct	sem
 getur	sfg3en	geta
@@ -3475,7 +3283,6 @@ breiðist	svm3en	breiða
 til	ae	til
 eggjaleiðara	nkee	eggjaleiðari
 .	.	.
-
 Þar	aa	þar
 getur	sfg3en	geta
 hún	fpven	hún
@@ -3505,7 +3312,6 @@ að	c	að
 geta	sfg3fn	geta
 lokast	ssm	loka
 .	.	.
-
 Ef	c	ef
 lokunin	nveng	lokun
 verður	sfg3en	verða
@@ -3528,7 +3334,6 @@ inni	aa	inni
 í	aþ	í
 eggjaleiðurunum	nkfþg	eggjaleiðari
 .	.	.
-
 Sáðfrumur	nvfn	sáðfruma
 komast	sfm3fn	koma
 heldur	aam	heldur
@@ -3545,7 +3350,6 @@ geta	sng	geta
 frjóvgað	ssg	frjóvga
 það	fpheo	það
 .	.	.
-
 Undir	aþ	undir
 þessum	favfþ	þessi
 kringumstæðum	nvfþ	kringumstæður
@@ -3555,7 +3359,6 @@ leitt	ssg	leiða
 til	ae	til
 ófrjósemi	nvee	ófrjósemi
 .	.	.
-
 Meta	sng	meta
 þarf	sfg3en	þurfa
 hverju	foheþ	hver
@@ -3576,7 +3379,6 @@ geti	svg3en	geta
 orðið	ssg	verða
 þunguð	lvensf	þungaður
 .	.	.
-
 Af	aþ	af
 hverju	fsheþ	hver
 er	sfg3en	vera
@@ -3587,7 +3389,6 @@ Bandaríkjunum	nhfþgs	Bandaríki
 en	c	en
 Evrópu	nveþ-s	Evrópa
 ?	?	?
-
 Spurningin	nveng	spurning
 í	aþ	í
 heild	nveþ	heild
@@ -3595,7 +3396,6 @@ sinni	feveþ	sinn
 hljóðaði	sfg3eþ	hljóða
 svona	aa	svona
 :	:	:
-
 Hvaða	fsvfn	hvaða
 breytur	nvfn	breyta
 hafa	sfg3fn	hafa
@@ -3604,7 +3404,6 @@ a	x	á
 tíðni	nveo	tíðni
 unglingaóléttu	nvee	unglingaólétta
 ?	?	?
-
 Af	aþ	af
 hverju	fsheþ	hver
 er	sfg3en	vera
@@ -3616,7 +3415,6 @@ Bandaríkjunum	nhfþgs	Bandaríki
 en	c	en
 Evrópu	nveþ-s	Evrópa
 ?	?	?
-
 Tíðni	nveo	tíðni
 þungana	nvfe	þungun
 unglingsstúlkna	nvfe	unglingsstúlka
@@ -3635,7 +3433,6 @@ fjölskyldunni	nveþg	fjölskylda
 og	c	og
 unglingnum	nkeþg	unglingur
 .	.	.
-
 Samfélagssjónarhornið	nheng	samfélagssjónarhorn
 kemur	sfg3en	koma
 inn	aa	inn
@@ -3655,7 +3452,6 @@ kynfræðslu	nveo	kynfræðsla
 og	c	og
 kynheilbrigðisþjónustu	nveo	kynheilbrigðisþjónusta
 .	.	.
-
 Það	fphen	það
 hefur	sfg3en	hafa
 til	ae	til
@@ -3708,7 +3504,6 @@ ráðstafanir	nvfo	ráðstöfun
 þessu	faheþ	þessi
 sviði	nheþ	svið
 .	.	.
-
 Bæði	c	bæði
 Holland	nhen-s	Holland
 og	c	og
@@ -3733,7 +3528,6 @@ McCarthy	e	McCarthy
 1999	ta	1999
 )	)	)
 .	.	.
-
 Í	aþ	í
 Bandaríkjunum	nhfþgs	Bandaríki
 hefur	sfg3en	hafa
@@ -3758,7 +3552,6 @@ Svíþjóð	nveþ-s	Svíþjóð
 og	c	og
 Hollandi	nheþ-s	Holland
 .	.	.
-
 Bandarísk	lhfnsf	bandarískur
 ungmenni	nhfn	ungmenni
 fá	sfg3fn	fá
@@ -3794,7 +3587,6 @@ að	cn	að
 hafa	sng	hafa
 kynmök	nhfo	kynmök
 .	.	.
-
 Þannig	aa	þannig
 standa	sfg3fn	standa
 unglingar	nkfn	unglingur
@@ -3818,7 +3610,6 @@ séu	svg3fn	vera
 í	aþ	í
 hættu	nveþ	hætta
 .	.	.
-
 Stjórnvöld	nhfn	stjórnvald
 hafa	sfg3fn	hafa
 sett	ssg	setja
@@ -3838,7 +3629,6 @@ kynfræðslu	nveþ	kynfræðsla
 og	c	og
 kynheilbrigðisþjónustu	nveþ	kynheilbrigðisþjónusta
 .	.	.
-
 Þau	fphfn	það
 leggja	sfg3fn	leggja
 ríka	lveosf	ríkur
@@ -3854,7 +3644,6 @@ ekki	aa	ekki
 notkun	nveo	notkun
 getnaðarvarna	nvfe	getnaðarvörn
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 berjast	sfm3fn	berja
@@ -3895,7 +3684,6 @@ kynlíf	nheo	kynlíf
 og	c	og
 getnaðarvarnir	nvfo	getnaðarvörn
 .	.	.
-
 Víða	aa	víða
 í	aþ	í
 Bandaríkjunum	nhfþgs	Bandaríki
@@ -3915,13 +3703,11 @@ McCarthy	e	McCarthy
 1999	ta	1999
 )	)	)
 .	.	.
-
 Þar	aa	þar
 skiptir	sfg3en	skipta
 margt	lhensf	margur
 máli	nheþ	mál
 .	.	.
-
 Má	sfg3en	mega
 þar	aa	þar
 til	ae	til
@@ -3949,7 +3735,6 @@ um	ao	um
 trúnað	nkeo	trúnaður
 heilbrigðisstarfsmanns	nkee	heilbrigðisstarfsmaður
 .	.	.
-
 Jafnframt	aa	jafnframt
 var	sfg3eþ	vera
 fæðu-	nhen	fæðueftirlit
@@ -3987,7 +3772,6 @@ hana	fpveo	hún
 sem	c	sem
 fóstureyðingu	nveo	fóstureyðing
 .	.	.
-
 Innan	ae	innan
 fjölskyldunnar	nveeg	fjölskylda
 geta	sfg3fn	geta
@@ -4000,7 +3784,6 @@ skýrt	ssg	skýra
 tíðni	nveo	tíðni
 þungana	nvfe	þungun
 .	.	.
-
 Talið	sþghen	telja
 er	sfg3en	vera
 að	c	að
@@ -4019,7 +3802,6 @@ félags-	aa	félagslega
 og	c	og
 fjárhagslega	aa	fjárhagslega
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 talið	sþghen	telja
@@ -4051,7 +3833,6 @@ náms-	nhfo	námstækifæri
 og	c	og
 starfstækifæri	nhfo	starfstækifæri
 .	.	.
-
 Hvað	fshen	hver
 varðar	sfg3en	varða
 unglinginn	nkeog	unglingur
@@ -4085,7 +3866,6 @@ sambandi	nheþ	samband
 eða	c	eða
 ekki	aa	ekki
 .	.	.
-
 Samanburðarrannsóknir	nvfn	samanburðarrannsókn
 hafa	sfg3fn	hafa
 komið	ssg	koma
@@ -4110,7 +3890,6 @@ Frost	e	Frost
 2001	ta	2001
 )	)	)
 .	.	.
-
 Rannsókn	nven	rannsókn
 Darroch	e	Darroch
 og	c	og
@@ -4136,7 +3915,6 @@ Frakklandi	nheþ-s	Frakkland
 og	c	og
 Svíþjóð	nveþ-s	Svíþjóð
 .	.	.
-
 Í	ao	í
 ljós	nheo	ljós
 kom	sfg3eþ	koma
@@ -4170,7 +3948,6 @@ en	c	en
 hinum	fahfþ	hinn
 löndunum	nhfþg	land
 .	.	.
-
 Það	fahen	sá
 sem	ct	sem
 greinir	sfg3en	greina
@@ -4216,7 +3993,6 @@ er	sfg3en	vera
 að	aþ	að
 kynheilbrigðisþjónustu	nveþ	kynheilbrigðisþjónusta
 .	.	.
-
 Allt	fohen	allur
 vinnur	sfg3en	vinna
 þetta	fahen	þessi
@@ -4230,7 +4006,6 @@ líkur	nvfo	líkur
 þungunum	nvfþ	þungun
 unglingsstúlkna	nvfe	unglingsstúlka
 .	.	.
-
 Í	aþ	í
 Bandaríkjunum	nhfþgs	Bandaríki
 velja	sfg3fn	velja
@@ -4260,7 +4035,6 @@ Frost	e	Frost
 2001	ta	2001
 )	)	)
 .	.	.
-
 Hver	fsven	hver
 er	sfg3en	vera
 staða	nven	staða
@@ -4273,7 +4047,6 @@ við	ao	við
 önnur	fohfo	annar
 Norðurlönd	nhfo-s	Norðurlönd
 ?	?	?
-
 Hugtakið	nheng	hugtak
 óráðgerð	lvensf	óráðgerður
 þungun	nven	þungun
@@ -4300,7 +4073,6 @@ unwanted	e	unwanted
 pregnancy	e	pregnancy
 )	)	)
 .	.	.
-
 Þungun	nven	þungun
 er	sfg3en	vera
 skilgreind	sþgven	skilgreina
@@ -4321,7 +4093,6 @@ að	cn	að
 eignast	snm	eigna
 barn	nheo	barn
 .	.	.
-
 Þungun	nven	þungun
 er	sfg3en	vera
 óvelkomin	lvensf	óvelkominn
@@ -4341,7 +4112,6 @@ Westoff	e	Westoff
 1980	ta	1980
 )	)	)
 .	.	.
-
 Heimildir	nvfn	heimild
 eru	sfg3fn	vera
 iðulega	aa	iðulega
@@ -4366,7 +4136,6 @@ við	ao	við
 hverju	foheþ	hver
 sinni	nheþ	sinn
 .	.	.
-
 Jafnframt	aa	jafnframt
 eru	sfg3fn	vera
 þau	fahfn	sá
@@ -4380,7 +4149,6 @@ breytileg	lhfnsf	breytilegur
 og	c	og
 flókin	lhfnsf	flókinn
 .	.	.
-
 Óráðgerð	lvensf	óráðgerður
 þungun	nven	þungun
 í	aþ	í
@@ -4396,7 +4164,6 @@ líður	sfg3en	líða
 á	ao	á
 þungunina	nveog	þungun
 .	.	.
-
 Hér	aa	hér
 á	aþ	á
 landi	nheþ	land
@@ -4420,7 +4187,6 @@ konum	nvfþ	kona
 á	aþ	á
 frjósemisskeiði	nheþ	frjósemisskeið
 .	.	.
-
 Sænsk	lvensf	sænskur
 rannsókn	nven	rannsókn
 sýndi	sfg3eþ	sýna
@@ -4453,7 +4219,6 @@ við	ao	við
 þungun	nveo	þungun
 )	)	)
 .	.	.
-
 Þó	aa	þó
 að	c	að
 45%	tp	45%
@@ -4473,7 +4238,6 @@ ekki	aa	ekki
 neina	foveo	neinn
 getnaðarvörn	nveo	getnaðarvörn
 .	.	.
-
 Af	aþ	af
 þessum	fakeþ	þessi
 hópi	nkeþ	hópur
@@ -4501,7 +4265,6 @@ Uddenberg	e	Uddenberg
 1993	ta	1993
 )	)	)
 .	.	.
-
 Um	ao	um
 helmingur	nken	helmingur
 þungana	nvfe	þungun
@@ -4512,7 +4275,6 @@ taldar	sþgvfn	telja
 vera	sng	vera
 óráðgerðar	lvfnsf	óráðgerður
 .	.	.
-
 Hjá	aþ	hjá
 unglingum	nkfþ	unglingur
 er	sfg3en	vera
@@ -4529,7 +4291,6 @@ Henshaw	e	Henshaw
 1998	ta	1998
 )	)	)
 .	.	.
-
 Þær	favfn	sá
 konur	nvfn	kona
 sem	ct	sem
@@ -4556,7 +4317,6 @@ endi	nkeo	endir
 á	ao	á
 þungunina	nveog	þungun
 .	.	.
-
 Óvíst	lhensf	óvís
 er	sfg3en	vera
 hvert	fohen	hver
@@ -4573,7 +4333,6 @@ innan	ae	innan
 þessa	fakee	þessi
 hóps	nkee	hópur
 .	.	.
-
 Ef	c	ef
 eingöngu	aa	eingöngu
 er	sfg3en	vera
@@ -4633,7 +4392,6 @@ tíðni	nveo	tíðni
 en	c	en
 Íslendingar	nkfn-s	Íslendingur
 .	.	.
-
 Frá	aþ	frá
 þeim	fakeþ	sá
 tíma	nkeþ	tími
@@ -4652,7 +4410,6 @@ Gissler	e	Gissler
 1999	ta	1999
 )	)	)
 .	.	.
-
 Hefur	sfg3en	hafa
 þróunin	nveng	þróun
 verið	ssg	vera
@@ -4670,7 +4427,6 @@ síðustu	lkfove	síðari
 1976-99	ta	1976-99
 )	)	)
 .	.	.
-
 Á	aþ	á
 Íslandi	nheþ-s	Ísland
 hefur	sfg3en	hafa
@@ -4699,7 +4455,6 @@ fækkandi	slg	fækka
 hinum	fahfþ	hinn
 Norðurlöndunum	nhfþgs	Norðurlönd
 .	.	.
-
 Árið	nheog	ár
 2000	ta	2000
 var	sfg3eþ	vera
@@ -4747,13 +4502,11 @@ Welfare	e	Welfare
 2001	ta	2001
 )	)	)
 .	.	.
-
 Til	ae	til
 hvers	fshee	hver
 er	sfg3en	vera
 meyjarhaft	nhen	meyjarhaft
 ?	?	?
-
 Masters	e	Masters
 ,	,	,
 Johnson	e	Johnson
@@ -4775,7 +4528,6 @@ engu	foheþ	enginn
 sérstöku	lheþsf	sérstakur
 hlutverki	nheþ	hlutverk
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 hafi	svg3en	hafa
@@ -4797,7 +4549,6 @@ með	aþ	með
 óspjölluðu	lheþsf	óspjallaður
 meyjarhafti	nheþ	meyjarhaft
 .	.	.
-
 Segja	sng	segja
 má	sfg3en	mega
 að	c	að
@@ -4814,7 +4565,6 @@ við	ao	við
 fyrstu	lvfove	fyrstur
 samfarir	nvfo	samfarir
 .	.	.
-
 Í	aþ	í
 ritinu	nheþg	rit
 Kynferðislífið	nhengs	Kynferðislíf
@@ -4844,7 +4594,6 @@ eða	c	eða
 meydómurinn	nkeng	meydómur
 »	»	»
 .	.	.
-
 Í	aþ	í
 ritinu	nheþg	rit
 er	sfg3en	vera
@@ -4866,7 +4615,6 @@ tvígata	lhenof	tvígatur
 og	c	og
 sáldlaga	lhenof	sáldlaga
 .	.	.
-
 Himnan	nveng	himna
 er	sfg3en	vera
 bæði	c	bæði
@@ -4884,7 +4632,6 @@ blæðing	nven	blæðing
 hún	fpven	hún
 rifnar	sfg3en	rifna
 .	.	.
-
 Hún	fpven	hún
 getur	sfg3en	geta
 verið	ssg	vera
@@ -4908,7 +4655,6 @@ við	ao	við
 rof	nheo	rof
 hennar	fpvee	hún
 .	.	.
-
 Haftið	nheng	haft
 getur	sfg3en	geta
 í	aþ	í
@@ -4925,7 +4671,6 @@ fyrirstöðu	nveo	fyrirstaða
 við	ao	við
 samfarir	nvfo	samfarir
 .	.	.
-
 Það	fphen	það
 getur	sfg3en	geta
 einnig	aa	einnig
@@ -4934,7 +4679,6 @@ við	ao	við
 margvíslega	lveosf	margvíslegur
 áreynslu	nveo	áreynsla
 .	.	.
-
 Því	aa	því
 getur	sfg3en	geta
 verið	ssg	vera
@@ -4952,12 +4696,10 @@ fyrir	aþ	fyrir
 óspjölluðum	lkeþsf	óspjallaður
 meydómi	nkeþ	meydómur
 .	.	.
-
 Hvað	fshen	hver
 er	sfg3en	vera
 kynlíf	nhen	kynlíf
 ?	?	?
-
 Hér	aa	hér
 á	aþ	á
 landi	nheþ	land
@@ -4975,7 +4717,6 @@ hugtök	nhfo	hugtak
 sviði	nheþ	svið
 kynlífs	nhee	kynlíf
 .	.	.
-
 Þetta	fahen	þessi
 sést	sfm3en	sjá
 til	ae	til
@@ -4993,7 +4734,6 @@ kynlíf	nhen	kynlíf
 Orðabók	nveþ-s	Orðabók
 Menningarsjóðs	nkee-s	Menningarsjóður
 .	.	.
-
 Þar	aa	þar
 er	sfg3en	vera
 engin	foven	enginn

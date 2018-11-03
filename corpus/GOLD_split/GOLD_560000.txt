@@ -19,7 +19,6 @@ og	c	og
 nú	aa	nú
 er	sfg3en	vera
 .	.	.
-
 Hámark	nhen	hámark
 ,	,	,
 70%	tp	70%
@@ -27,9 +26,7 @@ Hámark	nhen	hámark
 er	sfg3en	vera
 óbreytt	lhensf	óbreyttur
 .	.	.
-
 b.	x	b.
-
 Réttindaávinnsla	nven	réttindaávinnsla
 ráðherra	nkfe	ráðherra
 er	sfg3en	vera
@@ -64,9 +61,7 @@ og	c	og
 nú	aa	nú
 er	sfg3en	vera
 .	.	.
-
 c.	x	c
-
 Almennur	lkensf	almennur
 lífeyrisaldur	nken	lífeyrisaldur
 fyrir	ao	fyrir
@@ -81,7 +76,6 @@ er	sfg3en	vera
 65	ta	65
 ár	nhfn	ár
 .	.	.
-
 Sérregla	nven	sérregla
 hefur	sfg3en	hafa
 gilt	ssg	gilda
@@ -99,7 +93,6 @@ hætta	sng	hætta
 árs	nhee	ár
 aldur	nkeo	aldur
 .	.	.
-
 Það	fahen	sá
 aldursmark	nhen	aldursmark
 er	sfg3en	vera
@@ -119,9 +112,7 @@ láta	sfg3fn	láta
 af	aþ	af
 störfum	nhfþ	starf
 .	.	.
-
 d.	x	d
-
 Hin	gven	hinn
 svokallaða	lvenvf	svokallaður
 «	«	«
@@ -145,9 +136,7 @@ kveður	sfg3en	kveða
 á	aa	á
 um	aa	um
 .	.	.
-
 e.	x	e
-
 Myndaður	sþgken	mynda
 er	sfg3en	vera
 sérstakur	lkensf	sérstakur
@@ -192,7 +181,6 @@ starfs	nhee	starf
 á	aþ	á
 vinnumarkaði	nkeþ	vinnumarkaður
 .	.	.
-
 Eru	sfg3fn	vera
 mörkin	nhfng	mark
 sett	sþghfn	setja
@@ -218,7 +206,6 @@ a.m.k.	as	a.m.k.
 sex	tfhfo	sex
 ár	nhfo	ár
 .	.	.
-
 Ljóst	lhensf	ljós
 er	sfg3en	vera
 að	c	að
@@ -237,7 +224,6 @@ sem	ct	sem
 nýtur	sfg3en	njóta
 lífeyrisgreiðslna	nvfe	lífeyrisgreiðsla
 .	.	.
-
 Jafnframt	aa	jafnframt
 eru	sfg3fn	vera
 sett	sþghfn	setja
@@ -261,7 +247,6 @@ við	aþ	við
 öðru	foheþ	annar
 starfi	nheþ	starf
 .	.	.
-
 Er	sfg3en	vera
 m.a.	as	m.a.
 haft	sþghen	hafa
@@ -302,9 +287,7 @@ starfsferli	nkeþ	starfsferill
 viðunandi	lkeoof	viðunandi
 hátt	nkeo	háttur
 .	.	.
-
 f.	x	f
-
 Sett	sþghfn	setja
 eru	sfg3fn	vera
 sérákvæði	nhfn	sérákvæði
@@ -312,7 +295,6 @@ um	ao	um
 eftirlaun	nhfo	eftirlaun
 forsætisráðherra	nkfe	forsætisráðherra
 .	.	.
-
 Réttindaávinnsla	nven	réttindaávinnsla
 og	c	og
 hlutfall	nhen	hlutfall
@@ -336,10 +318,8 @@ hjá	aþ	hjá
 öðrum	fokfþ	annar
 ráðherrum	nkfþ	ráðherra
 .	.	.
-
 g	x	g
 .	.	.
-
 Í	aþ	í
 frumvarpinu	nheþg	frumvarp
 eru	sfg3fn	vera
@@ -381,7 +361,6 @@ hafi	svg3fn	hafa
 ,	,	,
 50%	tp	50%
 .	.	.
-
 Ráðherralaun	nhfn	ráðherralaun
 ,	,	,
 sem	ct	sem
@@ -395,7 +374,6 @@ tæp	lhfnsf	tæpur
 af	aþ	af
 þingfararkaupinu	nheþg	þingfararkaup
 .	.	.
-
 Formenn	nkfn	formaður
 þingflokka	nkfe	þingflokkur
 ,	,	,
@@ -422,9 +400,7 @@ hækkar	sfg3en	hækka
 í	ao	í
 20%	tp	20%
 .	.	.
-
 h.	x	h
-
 Sett	sþghfn	setja
 eru	sfg3fn	vera
 almenn	lhfnsf	almennur
@@ -433,7 +409,6 @@ um	ao	um
 eftirlaunarétt	nkeo	eftirlaunaréttur
 hæstaréttardómara	nkfe	hæstaréttardómari
 .	.	.
-
 Þau	fphfn	það
 fela	sfg3fn	fela
 m.a.	as	m.a.
@@ -467,7 +442,6 @@ hefur	sfg3en	hafa
 verið	ssg	vera
 tíðkað	sþghen	tíðka
 .	.	.
-
 Flestir	lkfnse	margur
 dómarar	nkfn	dómari
 Hæstaréttar	nkee-s	Hæstiréttur
@@ -514,7 +488,6 @@ túlkun	nveþ	túlkun
 gr.	as	gr.
 stjórnarskrárinnar	nveeg	stjórnarskrá
 .	.	.
-
 Með	aþ	með
 þessu	faheþ	þessi
 frumvarpi	nheþ	frumvarp
@@ -535,7 +508,6 @@ ekki	aa	ekki
 njóta	sfg3fn	njóta
 hennar	fpvee	hún
 .	.	.
-
 Eftirlaunaréttur	nken	eftirlaunaréttur
 þeirra	fakfe	sá
 sem	ct	sem
@@ -560,7 +532,6 @@ en	c	en
 almennt	aa	almennt
 tíðkast	sfm3en	tíðka
 .	.	.
-
 Á	sfg3en	eiga
 það	fphen	það
 sér	fpheþ	sig
@@ -581,7 +552,6 @@ vandasöm	lhfnsf	vandasamur
 eftir	aþ	eftir
 því	fpheþ	það
 .	.	.
-
 Forseti	nken	forseti
 Íslands	nhee-s	Ísland
 og	c	og
@@ -607,7 +577,6 @@ fjögurra	tfhfe	fjórir
 ára	nhfe	ár
 fresti	nkeþ	frestur
 .	.	.
-
 Sama	fbhen	sami
 gildir	sfg3en	gilda
 í	aþ	í
@@ -617,7 +586,6 @@ veru	nveþ	vera
 um	ao	um
 ráðherra	nkfo	ráðherra
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 því	aa	því
@@ -676,7 +644,6 @@ fjárhagslegri	lveþsf	fjárhagslegur
 afkomu	nveþ	afkoma
 sinni	feveþ	sinn
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 líka	aa	líka
@@ -713,7 +680,6 @@ störf	nhfn	starf
 á	aþ	á
 vinnumarkaði	nkeþ	vinnumarkaður
 .	.	.
-
 Á	aþ	á
 þessum	fahfþ	þessi
 sjónarmiðum	nhfþ	sjónarmið
@@ -729,7 +695,6 @@ er	sfg3en	vera
 í	aþ	í
 gildi	nheþ	gildi
 .	.	.
-
 Svo	aa	svo
 virðist	sfm3en	virða
 sem	c	sem
@@ -754,7 +719,6 @@ meiri	lvenvm	mikill
 og	c	og
 skarpari	lvenvm	skarpur
 .	.	.
-
 Við	aþ	við
 því	fpheþ	það
 er	sfg3en	vera
@@ -798,7 +762,6 @@ seint	aa	seint
 á	aþ	á
 starfsævinni	nveþg	starfsævi
 .	.	.
-
 Frumvarp	nhen	frumvarp
 þetta	fahen	þessi
 er	sfg3en	vera
@@ -826,7 +789,6 @@ stjórnmálahefðum	nvfþ	stjórnmálahefð
 og	c	og
 stjórnskipan	nveþ	stjórnskipan
 .	.	.
-
 Á	sfg3en	eiga
 það	fphen	það
 einkum	aa	einkum
@@ -846,7 +808,6 @@ eftir	ao	eftir
 langan	lkeosf	langur
 feril	nkeo	ferill
 .	.	.
-
 Skipan	nven	skipan
 eftirlaunamála	nhfe	eftirlaunamál
 stjórnmálamanna	nkfe	stjórnmálamaður
@@ -857,7 +818,6 @@ mismunandi	lvenof	mismunandi
 þessum	fahfþ	þessi
 löndum	nhfþ	land
 .	.	.
-
 Í	aþ	í
 Svíþjóð	nveþ-s	Svíþjóð
 og	c	og
@@ -881,7 +841,6 @@ eftir	ao	eftir
 sex	tfhfo	sex
 ár	nhfo	ár
 .	.	.
-
 Aðallega	aa	aðallega
 er	sfg3en	vera
 þó	aa	þó
@@ -895,7 +854,6 @@ gildir	sfg3en	gilda
 í	aþ	í
 Þýskalandi	nheþ-s	Þýskaland
 .	.	.
-
 Almennt	lhensf	almennur
 aldursmark	nhen	aldursmark
 eftirlauna	nhfe	eftirlaun
@@ -924,7 +882,6 @@ en	c	en
 55	ta	55
 ár	nhfn	ár
 .	.	.
-
 Ráðherrar	nkfn	ráðherra
 ,	,	,
 sem	ct	sem
@@ -943,7 +900,6 @@ niður	aa	niður
 55	ta	55
 ár	nhfo	ár
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 upplýsingum	nvfþ	upplýsing
 ríkisbókhalds	nhee	ríkisbókhald
@@ -967,7 +923,6 @@ kr.	as	kr.
 árinu	nheþg	ár
 2002	ta	2002
 .	.	.
-
 Skiptust	sfm3fþ	skipta
 þær	fpvfn	hún
 þannig	aa	þannig
@@ -1004,7 +959,6 @@ hæstaréttardómara	nkfe	hæstaréttardómari
 52,4	ta	52,4
 millj.	as	millj.
 kr.	as	kr.
-
 Greiðslum	nvfþ	greiðsla
 til	ae	til
 fyrrverandi	lkfeof	fyrrverandi
@@ -1027,7 +981,6 @@ notuð	sþghfn	nota
 til	ae	til
 eignamyndunar	nvee	eignamyndun
 .	.	.
-
 Ljóst	lhensf	ljós
 er	sfg3en	vera
 því	aa	því
@@ -1048,7 +1001,6 @@ felur	sfg3en	fela
 í	aþ	í
 sér	fpheþ	sig
 .	.	.
-
 Framlag	nhen	framlag
 ríkissjóðs	nkee	ríkissjóður
 til	ae	til
@@ -1066,7 +1018,6 @@ beint	aa	beint
 á	ao	á
 ríkissjóð	nkeo	ríkissjóður
 .	.	.
-
 Breytingar	nvfn	breyting
 sem	ct	sem
 í	aþ	í
@@ -1080,18 +1031,15 @@ fram	aa	fram
 löngum	lkeþsf	langur
 tíma	nkeþ	tími
 .	.	.
-
 Athugasemdir	nvfn	athugasemd
 við	ao	við
 einstakar	lvfosf	einstakur
 greinar	nvfo	grein
 frumvarpsins	nheeg	frumvarp
 .	.	.
-
 Um	ao	um
 1.	ta	1.
 gr.	as	gr.
-
 Eins	aa	eins
 og	c	og
 fram	aa	fram
@@ -1134,7 +1082,6 @@ beint	aa	beint
 úr	aþ	úr
 ríkissjóði	nkeþ	ríkissjóður
 .	.	.
-
 Eðlilegt	lhensf	eðlilegur
 þykir	sfg3en	þykja
 að	c	að
@@ -1160,7 +1107,6 @@ réttur	nken	réttur
 er	sfg3en	vera
 betri	lkenvm	góður
 .	.	.
-
 Er	sfg3en	vera
 iðgjaldahlutfallið	nheng	iðgjaldahlutfall
 ákveðið	sþghen	ákveða
@@ -1172,7 +1118,6 @@ LSR	as	LSR
 er	sfg3en	vera
 4%	tp	4%
 .	.	.
-
 Mótframlag	nhen	mótframlag
 ríkissjóðs	nkee	ríkissjóður
 er	sfg3en	vera
@@ -1190,7 +1135,6 @@ LSR	as	LSR
 nú	aa	nú
 11,5%	tp	11,5%
 .	.	.
-
 Með	aþ	með
 iðgjaldagreiðslum	nvfþ	iðgjaldagreiðsla
 þessum	favfþ	þessi
@@ -1212,7 +1156,6 @@ eftirlaunum	nhfþ	eftirlaun
 úr	aþ	úr
 ríkissjóði	nkeþ	ríkissjóður
 .	.	.
-
 Þar	aa	þar
 sem	c	sem
 iðgjald	nhen	iðgjald
@@ -1276,7 +1219,6 @@ samkvæmt	aþ	samkvæmt
 reglum	nvfþ	regla
 sjóðsins	nkeeg	sjóður
 .	.	.
-
 Iðgjöld	nhfn	iðgjald
 eru	sfg3fn	vera
 miðuð	sþghfn	miða
@@ -1290,7 +1232,6 @@ er	sfg3en	vera
 A-deild	nveþ-s	a-deild
 LSR	as	LSR
 .	.	.
-
 Það	fphen	það
 felur	sfg3en	fela
 í	aþ	í
@@ -1314,7 +1255,6 @@ verða	sfg3fn	verða
 stofn	nken	stofn
 iðgjaldagreiðslu	nvee	iðgjaldagreiðsla
 .	.	.
-
 Iðgjaldagreiðslur	nvfn	iðgjaldagreiðsla
 ríkissjóðs	nkee	ríkissjóður
 (	(	(
@@ -1351,7 +1291,6 @@ nú	aa	nú
 stað	nkeo	staður
 6%	tp	6%
 .	.	.
-
 Ekki	aa	ekki
 verður	sfg3en	verða
 þó	aa	þó
@@ -1384,7 +1323,6 @@ A-deild	nveþ-s	a-deild
 þ.e.	as	þ.e.
 11,5%	tp	11,5%
 .	.	.
-
 Forseti	nken	forseti
 Íslands	nhee-s	Ísland
 hefur	sfg3en	hafa
@@ -1410,7 +1348,6 @@ verður	sfg3en	verða
 samkvæmt	aþ	samkvæmt
 frumvarpinu	nheþg	frumvarp
 .	.	.
-
 Sú	faven	sá
 skipan	nven	skipan
 kemst	sfm3en	koma
@@ -1431,7 +1368,6 @@ mgr.	as	mgr.
 gr.	as	gr.
 stjórnarskrár	nvee	stjórnarskrá
 .	.	.
-
 Hæstaréttardómarar	nkfn	hæstaréttardómari
 ,	,	,
 sem	ct	sem
@@ -1448,7 +1384,6 @@ eða	c	eða
 B-deild	nveo-s	b-deild
 LSR	as	LSR
 .	.	.
-
 Í	aþ	í
 3.	ta	3.
 mgr.	as	mgr.
@@ -1478,7 +1413,6 @@ eru	sfg3fn	vera
 í	aþ	í
 starfi	nheþ	starf
 .	.	.
-
 Eins	aa	eins
 og	c	og
 getið	sþghen	geta
@@ -1507,7 +1441,6 @@ makalífeyris	nkee	makalífeyrir
 og	c	og
 örorkulífeyris	nkee	örorkulífeyrir
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 meginstefna	nven	meginstefna
@@ -1540,7 +1473,6 @@ iðgjaldagreiðslum	nvfþ	iðgjaldagreiðsla
 samkvæmt	aþ	samkvæmt
 frumvarpinu	nheþg	frumvarp
 .	.	.
-
 Því	aa	því
 gildir	sfg3en	gilda
 sú	faven	sá
@@ -1575,7 +1507,6 @@ falla	sfg3fn	falla
 á	ao	á
 ríkissjóð	nkeo	ríkissjóður
 .	.	.
-
 Það	fphen	það
 eru	sfg3fn	vera
 þó	aa	þó
@@ -1614,11 +1545,9 @@ fyrir	ao	fyrir
 önnur	fohfo	annar
 störf	nhfo	starf
 .	.	.
-
 Um	ao	um
 2.	ta	2.
 gr.	as	gr.
-
 Greinin	nveng	grein
 er	sfg3en	vera
 efnislega	aa	efnislega
@@ -1660,7 +1589,6 @@ laga	nhfe	lag
 falli	svg3en	falla
 brott	aa	brott
 .	.	.
-
 Í	aþ	í
 3.	ta	3.
 mgr.	as	mgr.
@@ -1688,7 +1616,6 @@ stöðu	nveþ	staða
 þjónustu	nveþ	þjónusta
 ríkisins	nheeg	ríki
 .	.	.
-
 Ekki	aa	ekki
 hefur	sfg3en	hafa
 reynt	ssg	reyna
@@ -1704,7 +1631,6 @@ að	c	að
 svo	aa	svo
 verði	svg3en	verða
 .	.	.
-
 Í	aþ	í
 því	faheþ	sá
 falli	nheþ	fall
@@ -1722,7 +1648,6 @@ við	ao	við
 vissar	lvfosf	viss
 aðstæður	nvfo	aðstæður
 .	.	.
-
 Rétt	lhensf	réttur
 er	sfg3en	vera
 að	cn	að
@@ -1773,7 +1698,6 @@ skattfrelsi	nheo	skattfrelsi
 forseta	nkee	forseti
 Íslands	nhee-s	Ísland
 .	.	.
-
 Miðast	sfm3fn	miða
 eftirlaun	nhfn	eftirlaun
 nú	aa	nú
@@ -1785,11 +1709,9 @@ en	c	en
 áður	aa	áður
 var	sfg3eþ	vera
 .	.	.
-
 Um	ao	um
 3.	ta	3.
 gr.	as	gr.
-
 1.	ta	1.
 mgr.	as	mgr.
 greinarinnar	nveeg	grein
@@ -1830,7 +1752,6 @@ hann	fpken	hann
 fellur	sfg3en	falla
 frá	aa	frá
 .	.	.
-
 Um	ao	um
 rétt	nkeo	réttur
 maka	nkeo	maki
@@ -1851,7 +1772,6 @@ fjallað	sþghen	fjalla
 mgr.	as	mgr.
 greinarinnar	nveeg	grein
 .	.	.
-
 Rétturinn	nkeng	réttur
 fer	sfg3en	fara
 þá	aa	þá
@@ -1885,7 +1805,6 @@ hann	fpken	hann
 er	sfg3en	vera
 greiddur	sþgken	greiða
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ekki	aa	ekki
@@ -1894,7 +1813,6 @@ frá	aþ	frá
 gildandi	lhfþof	gildandi
 ákvæðum	nhfþ	ákvæði
 .	.	.
-
 Í	aþ	í
 greininni	nveþg	grein
 er	sfg3en	vera
@@ -1927,7 +1845,6 @@ frá	aþ	frá
 gildandi	lhfþof	gildandi
 lögum	nhfþ	lag
 .	.	.
-
 Ákvæði	nhen	ákvæði
 2.	ta	2.
 mgr.	as	mgr.
@@ -1972,11 +1889,9 @@ ef	c	ef
 svo	aa	svo
 er	sfg3en	vera
 .	.	.
-
 Um	ao	um
 4.	lveovf	4.
 gr.	as	gr.
-
 Eftir	aþ	eftir
 gildandi	lhfþof	gildandi
 lögum	nhfþ	lag
@@ -2011,7 +1926,6 @@ a.m.k.	as	a.m.k.
 eitt	tfheo	einn
 ár	nheo	ár
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 frumvarpinu	nheþg	frumvarp
 er	sfg3en	vera
@@ -2023,7 +1937,6 @@ eftirlauna	nhfe	eftirlaun
 rýmkaður	sþgken	rýmka
 nokkuð	fohen	nokkur
 .	.	.
-
 Sem	c	sem
 fyrr	aam	fyrr
 er	sfg3en	vera
@@ -2049,7 +1962,6 @@ sbr.	as	sbr.
 tölul.	as	tölul.
 greinarinnar	nveeg	grein
 .	.	.
-
 Í	aþ	í
 2.	ta	2.
 tölul.	as	tölul.
@@ -2070,7 +1982,6 @@ af	aþ	af
 vettvangi	nkeþ	vettvangur
 stjórnmála	nhfe	stjórnmál
 .	.	.
-
 Er	sfg3en	vera
 það	fphen	það
 til	ae	til
@@ -2086,7 +1997,6 @@ alþingismenn	nkfo	alþingismaður
 sbr.	as	sbr.
 8.	ta	8.
 gr.	as	gr.
-
 Loks	aa	loks
 er	sfg3en	vera
 í	aþ	í
@@ -2112,7 +2022,6 @@ samtals	aa	samtals
 sex	tfhfo	sex
 ár	nhfo	ár
 .	.	.
-
 Er	sfg3en	vera
 það	fphen	það
 í	aþ	í
@@ -2150,7 +2059,6 @@ að	aþ	að
 eðlilegri	lveþsf	eðlilegur
 endurnýjun	nveþ	endurnýjun
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 ,	,	,
@@ -2165,7 +2073,6 @@ forustumenn	nkfo	forustumaður
 að	cn	að
 tefla	sng	tefla
 .	.	.
-
 Með	aþ	með
 ákvæðinu	nheþg	ákvæði
 er	sfg3en	vera
@@ -2198,7 +2105,6 @@ a.m.k.	as	a.m.k.
 ellefu	tfhfo	ellefu
 ár	nhfo	ár
 .	.	.
-
 Ráðherra	nken	ráðherra
 sem	ct	sem
 gegnt	ssg	gegna
@@ -2216,7 +2122,6 @@ við	ao	við
 ára	nhfe	ár
 aldur	nkeo	aldur
 .	.	.
-
 Þess	fphee	það
 er	sfg3en	vera
 jafnframt	aa	jafnframt
@@ -2235,7 +2140,6 @@ embættisári	nheþ	embættisár
 samkvæmt	aþ	samkvæmt
 frumvarpinu	nheþg	frumvarp
 .	.	.
-
 Þegar	c	þegar
 réttur	nken	réttur
 skv.	as	skv.
@@ -2261,7 +2165,6 @@ aldursmarkið	nheng	aldursmark
 60	ta	60
 ár	nhfn	ár
 .	.	.
-
 Með	aþ	með
 hliðsjón	nveþ	hliðsjón
 af	aþ	af
@@ -2324,7 +2227,6 @@ en	c	en
 sex	tfhfo	sex
 ár	nhfo	ár
 .	.	.
-
 Réttindi	nhfn	réttindi
 skv.	as	skv.
 3.	ta	3.
@@ -2353,7 +2255,6 @@ og	c	og
 skv.	as	skv.
 2.	ta	2.
 tölul.	as	tölul.
-
 Þannig	aa	þannig
 getur	sfg3en	geta
 fyrrverandi	lkenof	fyrrverandi
@@ -2400,11 +2301,9 @@ sér	fpkeþ	sig
 þennan	fakeo	þessi
 rétt	nkeo	réttur
 .	.	.
-
 Um	ao	um
 5.	ta	5.
 gr.	as	gr.
-
 Í	aþ	í
 greininni	nveþg	grein
 eru	sfg3fn	vera
@@ -2414,7 +2313,6 @@ um	ao	um
 réttindaávinnslu	nveo	réttindaávinnsla
 ráðherra	nkfe	ráðherra
 .	.	.
-
 Er	sfg3en	vera
 hún	fpven	hún
 hin	gven	hinn
@@ -2438,7 +2336,6 @@ hluta	nkeo	hluti
 úr	aþ	úr
 ári	nheþ	ár
 .	.	.
-
 Í	aþ	í
 gildandi	lhfþof	gildandi
 lögum	nhfþ	lag
@@ -2456,7 +2353,6 @@ breytt	sþghen	breyta
 í	aþ	í
 frumvarpinu	nheþg	frumvarp
 .	.	.
-
 Hið	ghen	hinn
 fyrra	lhenvm	fyrri
 er	sfg3en	vera
@@ -2486,7 +2382,6 @@ en	c	en
 þykir	sfg3en	þykja
 óeðlilegt	lhensf	óeðlilegur
 .	.	.
-
 Hið	ghen	hinn
 síðara	lhenvm	síðari
 er	sfg3en	vera
@@ -2507,7 +2402,6 @@ fyrir	ao	fyrir
 önnur	fohfo	annar
 störf	nhfo	starf
 .	.	.
-
 Þykir	sfg3en	þykja
 því	aa	því
 eðlilegra	lhenvm	eðlilegur
@@ -2523,7 +2417,6 @@ fyrir	ao	fyrir
 þ.e.	as	þ.e.
 70%	tp	70%
 .	.	.
-
 Núverandi	lheþof	núverandi
 hámarki	nheþ	hámark
 ná	sfg3fn	ná
@@ -2554,7 +2447,6 @@ nærri	aþ	nærri
 þrjú	tfhfn	þrír
 kjörtímabil	nhfn	kjörtímabil
 .	.	.
-
 Þess	fphee	það
 eru	sfg3fn	vera
 ýmis	fohfn	ýmis
@@ -2579,7 +2471,6 @@ auka	sng	auka
 réttindi	nhfo	réttindi
 sín	fehfo	sinn
 .	.	.
-
 Þess	fphee	það
 er	sfg3en	vera
 rétt	lhensf	réttur
@@ -2610,7 +2501,6 @@ sínu	feheþ	sinn
 jafnframt	aa	jafnframt
 þingfararkaups	nhee	þingfararkaup
 .	.	.
-
 Óbreytt	lhensf	óbreyttur
 er	sfg3en	vera
 frá	aþ	frá
@@ -2664,7 +2554,6 @@ sbr.	as	sbr.
 gr.	as	gr.
 frumvarpsins	nheeg	frumvarp
 .	.	.
-
 Fyrrverandi	lkenof	fyrrverandi
 ráðherra	nken	ráðherra
 sem	ct	sem
@@ -2691,7 +2580,6 @@ hans	fpkee	hann
 þingi	nheþ	þing
 lýkur	sfg3en	ljúka
 .	.	.
-
 Fossavatnsgangan	nvengs	Fossavatnsganga
 á	aþ	á
 Ísafirði	nkeþ-s	Ísafjörður
@@ -2719,7 +2607,6 @@ með	ao	með
 100-150	ta	100-150
 þátttakendur	nkfo	þátttakandi
 .	.	.
-
 Komin	sþgven	koma
 er	sfg3en	vera
 hefð	nven	hefð
@@ -2742,7 +2629,6 @@ hér	aa	hér
 á	aþ	á
 landi	nheþ	land
 .	.	.
-
 Að	aþ	að
 þessu	faheþ	þessi
 sinni	nheþ	sinn
@@ -2754,7 +2640,6 @@ hinn	gkeo	hinn
 30.	ta	30.
 apríl	nkeo	apríl
 .	.	.
-
 Göngunni	nveþg	ganga
 er	sfg3en	vera
 ætlað	sþghen	ætla
@@ -2784,7 +2669,6 @@ byrjendur	nkfn	byrjandi
 eða	c	eða
 börn	nhfn	barn
 .	.	.
-
 Allir	fokfn	allur
 geta	sfg3fn	geta
 valið	ssg	velja
@@ -2826,7 +2710,6 @@ svigna	sfg3fn	svigna
 undan	aþ	undan
 kaffikrásunum	nvfþg	kaffikrás
 .	.	.
-
 Mikill	lkensf	mikill
 fjöldi	nken	fjöldi
 Íslendinga	nkfe-s	Íslendingur
@@ -2851,7 +2734,6 @@ Baldursdóttur	nveþ-s	Baldursdóttir
 á	aþ	á
 Klörubar	nkeþ-s	Klörubar
 .	.	.
-
 Klara	nven-s	Klara
 hefur	sfg3en	hafa
 ásamt	aþ	ásamt
@@ -2879,7 +2761,6 @@ enn	aa	enn
 á	aþ	á
 sér	fpveþ	sig
 .	.	.
-
 Yndislegt	lhensf	yndislegur
 sé	svg3en	vera
 að	cn	að
@@ -2903,7 +2784,6 @@ aldrei	aa	aldrei
 of	aa	of
 kalt	lhensf	kaldur
 .	.	.
-
 Það	fphen	það
 má	sfg3en	mega
 því	aa	því
@@ -2914,7 +2794,6 @@ veðráttuna	nveog	veðrátta
 og	c	og
 loftslagið	nheog	loftslag
 .	.	.
-
 Við	fp1fn	ég
 hjónin	nhfng	hjón
 komum	sfg1fþ	koma
@@ -2933,7 +2812,6 @@ hér	aa	hér
 þrjá	tfkfo	þrír
 mánuði	nkfo	mánuður
 .	.	.
-
 Síðan	aa	síðan
 er	sfg3en	vera
 liðið	sþghen	líða
@@ -2950,7 +2828,6 @@ að	aþ	að
 aflokinni	lveþsf	aflokinn
 páskatörninni	nveþg	páskatörn
 .	.	.
-
 Klörubar	nken-s	Klörubar
 er	sfg3en	vera
 í	aþ	í
@@ -2964,7 +2841,6 @@ verslunarmiðstöðin	nveng	verslunarmiðstöð
 á	aþ	á
 svæðinu	nheþg	svæði
 .	.	.
-
 Síðastliðið	lheosf	síðastliðinn
 haust	nheo	haust
 losnaði	sfg3eþ	losna
@@ -2985,7 +2861,6 @@ sér	fpveþ	sig
 stækkun	nveo	stækkun
 staðarins	nkeeg	staður
 .	.	.
-
 Stækkunin	nveng	stækkun
 breytir	sfg3en	breyta
 heilmiklu	lheþsf	heilmikill
@@ -3006,7 +2881,6 @@ sem	ct	sem
 hingað	aa	hingað
 kemur	sfg3en	koma
 .	.	.
-
 Ég	fp1en	ég
 náði	sfg1eþ	ná
 að	cn	að
@@ -3030,7 +2904,6 @@ og	c	og
 nýr	lkensf	nýr
 bar	nken	bar
 .	.	.
-
 Út	aa	út
 úr	aþ	úr
 stækkuninni	nveþg	stækkun
@@ -3053,7 +2926,6 @@ með	aþ	með
 góðu	lheþsf	góður
 móti	nheþ	mót
 .	.	.
-
 Það	fphen	það
 hafa	sfg3fn	hafa
 þó	aa	þó
@@ -3107,7 +2979,6 @@ tilheyri	svg3fn	tilheyra
 gjarnan	aa	gjarnan
 hátíðarmatseðlunum	nkfþg	hátíðarmatseðill
 .	.	.
-
 Sumarfrí	nhen	sumarfrí
 í	aþ	í
 maí	nkeþ	maí
@@ -3144,7 +3015,6 @@ pöntuð	sþgven	panta
 og	c	og
 skipulögð	sþgven	skipuleggja
 .	.	.
-
 Því	aa	því
 er	sfg3en	vera
 óhætt	lhensf	óhætt
@@ -3161,7 +3031,6 @@ hátíðarmatinn	nkeog	hátíðarmatur
 á	aþ	á
 Klörubar	nkeþ-s	Klörubar
 .	.	.
-
 Hjá	aþ	hjá
 Klöru	nveþ-s	Klara
 starfa	sfg3fn	starfa
@@ -3191,7 +3060,6 @@ júní	nkeþ	júní
 ár	nheo	ár
 hvert	foheo	hver
 .	.	.
-
 Sjálf	fbven	sjálfur
 ætla	sfg1en	ætla
 ég	fp1en	ég
@@ -3222,7 +3090,6 @@ restina	nveog	rest
 af	aþ	af
 fríinu	nheþg	frí
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 svo	aa	svo
@@ -3238,7 +3105,6 @@ vikur	nvfo	vika
 í	aþ	í
 júlí	nkeþ	júlí
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 ekki	aa	ekki
@@ -3288,7 +3154,6 @@ fluttum	sfg1fþ	flytja
 til	ae	til
 Kanaríeyja	nvfe-s	Kanaríeyjar
 .	.	.
-
 Þá	aa	þá
 eigum	sfg1fn	eiga
 við	fp1fn	ég
@@ -3297,9 +3162,7 @@ notalega	lkfosf	notalegur
 daga	nkfo	dagur
 saman	aa	saman
 .	.	.
-
 join@mbl.is	v	join@mbl.is
-
 Heimavöllur	nken	heimavöllur
 knattspyrnuliðsins	nheeg	knattspyrnulið
 Real	e	Real
@@ -3318,7 +3181,6 @@ koma	sfg3fn	koma
 til	ae	til
 Spánar	nkee-s	Spánn
 .	.	.
-
 Sama	fbkeo	samur
 dag	nkeo	dagur
 og	c	og
@@ -3367,7 +3229,6 @@ kemur	sfg3en	koma
 fréttabréfinu	nheþg	fréttabréf
 Spaniabulletinen	e	Spaniabulletinen
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 boðið	sþghen	bjóða
@@ -3397,17 +3258,14 @@ leikmönnum	nkfþ	leikmaður
 Real	e	Real
 Madrid	e	Madrid
 .	.	.
-
 Nánari	lvfnvm	náinn
 upplýsingar	nvfn	upplýsing
 á	aþ	á
 www.realmadrid.es	v	www.realmadrid.es
-
 Hvers	fshee	hver
 vegna	ae	vegna
 Húnavatnssýslan	nvengs	Húnavatnssýsla
 ?	?	?
-
 Það	fphen	það
 var	sfg3eþ	vera
 útlit	nhen	útlit
@@ -3427,7 +3285,6 @@ að	cn	að
 fara	sng	fara
 þangað	aa	þangað
 .	.	.
-
 Elín	nven-s	Elín
 er	sfg3en	vera
 ákaflega	aa	ákaflega
@@ -3441,7 +3298,6 @@ best	lhense	góður
 að	cn	að
 fara	sng	fara
 .	.	.
-
 Aðstaðan	nveng	aðstaða
 á	aþ	á
 tjaldsvæðinu	nheþg	tjaldsvæði
@@ -3470,7 +3326,6 @@ eldunar	nvee	eldun
 og	c	og
 borðhalds	nhee	borðhald
 .	.	.
-
 Þar	aa	þar
 eru	sfg3fn	vera
 líka	aa	líka
@@ -3482,7 +3337,6 @@ er	sfg3en	vera
 á	aþ	á
 tjaldsvæðinu	nheþg	tjaldsvæði
 .	.	.
-
 Svo	aa	svo
 er	sfg3en	vera
 endalaust	aa	endalaust
@@ -3499,7 +3353,6 @@ skoða	sng	skoða
 á	aþ	á
 svæðinu	nheþg	svæði
 .	.	.
-
 Í	aþ	í
 Hindisvík	nveþ-s	Hindisvík
 ,	,	,
@@ -3521,7 +3374,6 @@ logn	nhen	logn
 annan	fokeo	annar
 sumardag	nkeo	sumardagur
 .	.	.
-
 Við	fp1fn	ég
 ætluðum	sfg1fþ	ætla
 varla	aa	varla
@@ -3530,7 +3382,6 @@ geta	sng	geta
 farið	ssg	fara
 þaðan	aa	þaðan
 .	.	.
-
 Annars	aa	annars
 var	sfg3eþ	vera
 hitinn	nkeng	hiti
@@ -3549,7 +3400,6 @@ núllið	nheog	núll
 á	aþ	á
 nóttunni	nveþg	nótt
 .	.	.
-
 Eruð	sfg2fn	vera
 þið	fp2fn	þú
 búin	lhfnsf	búinn
@@ -3557,7 +3407,6 @@ að	cn	að
 fara	sng	fara
 víða	aa	víða
 ?	?	?
-
 Við	fp1fn	ég
 erum	sfg1fn	vera
 farin	sþghfn	fara
@@ -3580,7 +3429,6 @@ og	c	og
 með	aþ	með
 stækkunargleri	nheþ	stækkunargler
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 endalaust	aa	endalaust
@@ -3600,7 +3448,6 @@ fyrir	aa	fyrir
 um	ao	um
 þá	fpkfo	hann
 .	.	.
-
 Sem	c	sem
 betur	aam	vel
 fer	sfg3en	fara
@@ -3616,7 +3463,6 @@ og	c	og
 gera	sng	gera
 kort	nhfo	kort
 .	.	.
-
 Manni	nkeþ	maður
 endist	sfm3en	endast
 ekki	aa	ekki
@@ -3629,14 +3475,12 @@ fallega	lheovf	fallegur
 land	nheo	land
 okkar	fp1fe	ég
 .	.	.
-
 Ferðist	sfm2fn	ferðast
 þið	fp2fn	þú
 alltaf	aa	alltaf
 tvö	tfhfn	tveir
 saman	aa	saman
 ?	?	?
-
 Litla	lhenvf	lítill
 ferðafélagið	nheng	ferðafélag
 er	sfg3en	vera
@@ -3661,7 +3505,6 @@ verið	ssg	vera
 frá	aþ	frá
 upphafi	nheþ	upphaf
 .	.	.
-
 Við	fp1fn	ég
 förum	sfg1fn	fara
 einnig	aa	einnig
@@ -3676,7 +3519,6 @@ lengi	aa	lengi
 er	sfg3en	vera
 haldið	sþghen	halda
 út	aa	út
-
 Við	fp1fn	ég
 hjónin	nhfng	hjón
 náum	sfg1fn	ná
@@ -3692,7 +3534,6 @@ nætur	nvfo	nótt
 á	aþ	á
 ári	nheþ	ár
 .	.	.
-
 Fyrir	aþ	fyrir
 tveimur	tfhfþ	tveir
 árum	nhfþ	ár
@@ -3705,7 +3546,6 @@ okkur	fp1fþ	ég
 þótti	sfg3eþ	þykja
 afbragð	nhen	afbragð
 .	.	.
-
 Í	ao	í
 ár	nheo	ár
 og	c	og
@@ -3726,7 +3566,6 @@ en	c	en
 í	aþ	í
 maí	nkeþ	maí
 .	.	.
-
 Vorið	nheng	vor
 er	sfg3en	vera
 skemmtilegur	lkensf	skemmtilegur
@@ -3742,7 +3581,6 @@ er	sfg3en	vera
 í	aþ	í
 hámarki	nheþ	hámark
 .	.	.
-
 Á	ao	á
 haustin	nhfog	haust
 er	sfg3en	vera
@@ -3765,7 +3603,6 @@ stjörnurnar	nvfog	stjarna
 og	c	og
 norðurljósin	nhfog	norðurljós
 .	.	.
-
 Fólk	nhen	fólk
 getur	sfg3en	geta
 notið	ssg	njóta
@@ -3777,7 +3614,6 @@ betur	aam	vel
 en	c	en
 gerir	sfg3en	gera
 .	.	.
-
 Útilegutíminn	nkeng	útilegutími
 er	sfg3en	vera
 í	aþ	í
@@ -3785,7 +3621,6 @@ raun	nveþ	raun
 fimm	tfkfn	fimm
 mánuðir	nkfn	mánuður
 .	.	.
-
 Eitt	fohen	einn
 sem	ct	sem
 þarf	sfg3en	þurfa
@@ -3824,7 +3659,6 @@ inn	aa	inn
 á	ao	á
 tjaldstæðin	nhfog	tjaldstæði
 .	.	.
-
 Maður	nken	maður
 verður	sfg3en	verða
 að	cn	að
@@ -3835,7 +3669,6 @@ veðri	nheþ	veður
 og	c	og
 aðstæðum	nvfþ	aðstæður
 .	.	.
-
 Farið	sfg2fn	fara
 þið	fp2fn	þú
 þá	aa	þá
@@ -3845,7 +3678,6 @@ til	ae	til
 á	ao	á
 sumrin	nhfog	sumar
 ?	?	?
-
 Við	fp1fn	ég
 erum	sfg1fn	vera
 bæði	c	bæði
@@ -3864,7 +3696,6 @@ okkar	fp1fe	ég
 yfir	ao	yfir
 sumarið	nheog	sumar
 .	.	.
-
 Þótt	c	þótt
 það	fphen	það
 sé	svg3en	vera
@@ -3886,7 +3717,6 @@ en	c	en
 íslensku	lheþsf	íslenskur
 sumri	nheþ	sumar
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ekkert	fohen	enginn
@@ -3896,7 +3726,6 @@ jafnast	sfm3en	jafna
 við	ao	við
 það	fpheo	það
 .	.	.
-
 Við	fp1fn	ég
 höfum	sfg1fn	hafa
 verið	ssg	vera
@@ -3916,7 +3745,6 @@ heilsu	nveþ	heilsa
 og	c	og
 hreyfingu	nveþ	hreyfing
 .	.	.
-
 Fyrirtækið	nheng	fyrirtæki
 sem	ct	sem
 við	fp1fn	ég
@@ -3932,7 +3760,6 @@ líka	aa	líka
 við	ao	við
 náttúruna	nveog	náttúra
 .	.	.
-
 En	c	en
 við	fp1fn	ég
 framleiðum	sfg1fn	framleiða
@@ -3941,7 +3768,6 @@ náttúruvörur	nvfo	náttúruvörur
 íslenskri	lveþsf	íslenskur
 ætihvönn	nveþ	ætihvönn
 .	.	.
-
 Ferðinni	nveþg	ferð
 er	sfg3en	vera
 því	aa	því
@@ -3955,7 +3781,6 @@ hvönnin	nveng	hvönn
 er	sfg3en	vera
 mest	lvense	mikill
 .	.	.
-
 Við	fp1fn	ég
 hjónin	nhfng	hjón
 erum	sfg1fn	vera
@@ -3968,7 +3793,6 @@ og	c	og
 vinnu	nveo	vinna
 saman	aa	saman
 .	.	.
-
 Hvenær	aa	hvenær
 á	sfg3en	eiga
 svo	aa	svo
@@ -3977,7 +3801,6 @@ næst	aae	nærri
 í	ao	í
 útilegu	nveo	útilega
 ?	?	?
-
 Næsta	lvenve	næstur
 útilega	nven	útilega
 verður	sfg3en	verða
@@ -3986,7 +3809,6 @@ um	ao	um
 komandi	lveoof	komandi
 helgi	nveo	helgi
 .	.	.
-
 Við	fp1fn	ég
 erum	sfg1fn	vera
 byrjuð	sþghfn	byrja
@@ -4012,7 +3834,6 @@ og	c	og
 sæmilega	aa	sæmilega
 hlýtt	lhensf	hlýr
 .	.	.
-
 Það	fphen	það
 eiga	sfg3fn	eiga
 allir	fokfn	allur
@@ -4036,7 +3857,6 @@ en	c	en
 það	fphen	það
 gerir	sfg3en	gera
 .	.	.
-
 Svo	aa	svo
 er	sfg3en	vera
 til	aa	til
@@ -4046,7 +3866,6 @@ af	aþ	af
 fallegum	lhfþsf	fallegur
 tjaldstæðum	nhfþ	tjaldstæði
 .	.	.
-
 Nú	aa	nú
 er	sfg3en	vera
 bara	aa	bara
@@ -4071,7 +3890,6 @@ eins	aa	eins
 og	c	og
 undanfarin	lhfosf	undanfarinn
 ár	nhfo	ár
-
 Eftir	ao	eftir
 Jóhönnu	nveo-s	Jóhanna
 Ingvarsdóttur	nveo-s	Ingvarsdóttir
@@ -4083,7 +3901,6 @@ er	sfg3en	vera
 29.	ta	29.
 aldursári	nheþ	aldursár
 .	.	.
-
 Ég	fp1en	ég
 flutti	sfg1eþ	flytja
 í	ao	í
@@ -4098,7 +3915,6 @@ Garðbæingur	nken-s	Garðbæingur
 ef	c	ef
 spurð	sþgven	spyrja
 .	.	.
-
 Ég	fp1en	ég
 myndi	svg1eþ	munu
 hvergi	aa	hvergi
@@ -4115,7 +3931,6 @@ væri	svg1eþ	vera
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Bærinn	nkeng	bær
 er	sfg3en	vera
 yndislegur	lkensf	yndislegur
@@ -4140,7 +3955,6 @@ júní	nkeþ	júní
 árið	nheog	ár
 2003	ta	2003
 .	.	.
-
 Hún	fpven	hún
 starfaði	sfg3eþ	starfa
 hjá	aþ	hjá
@@ -4162,7 +3976,6 @@ hún	fpven	hún
 til	ae	til
 Mallorka	e	Mallorka
 .	.	.
-
 -	-	-
 Hvað	fshen	hver
 varð	sfg3eþ	verða
@@ -4177,7 +3990,6 @@ til	aa	til
 í	aþ	í
 lífinu	nheþg	líf
 ?	?	?
-
 Ég	fp1en	ég
 myndi	svg1eþ	munu
 ekki	aa	ekki
@@ -4190,7 +4002,6 @@ lögfræðistéttina	nveog	lögfræðistétt
 nema	c	nema
 tímabundið	aa	tímabundið
 .	.	.
-
 Mig	fp1eo	ég
 hefur	sfg3en	hafa
 langað	ssg	langa
@@ -4215,7 +4026,6 @@ að	cn	að
 stunda	sng	stunda
 lögfræðistörf	nhfo	lögfræðistarf
 .	.	.
-
 En	c	en
 ég	fp1en	ég
 hef	sfg1en	hafa
@@ -4236,7 +4046,6 @@ takast	snm	taka
 á	aa	á
 við	aa	við
 .	.	.
-
 Aðdragandi	nken	aðdragandi
 þess	fphee	það
 að	c	að
@@ -4276,7 +4085,6 @@ skemmtistað	nkeþ	skemmtistaður
 yfir	ao	yfir
 sumarið	nheog	sumar
 .	.	.
-
 Við	fp1fn	ég
 fórum	sfg1fþ	fara
 einnig	aa	einnig
@@ -4292,7 +4100,6 @@ vinna	sng	vinna
 sama	fbkeþ	sami
 stað	nkeþ	staður
 .	.	.
-
 Árin	nhfog	ár
 2000	ta	2000
 og	c	og
@@ -4319,7 +4126,6 @@ sinnum	nhfþ	sinn
 í	ao	í
 heimsókn	nveo	heimsókn
 .	.	.
-
 Það	fphen	það
 má	sfg3en	mega
 því	aa	því
@@ -4356,7 +4162,6 @@ flytjast	snm	flytja
 nóvember	nkeþ	nóvember
 2003	ta	2003
 .	.	.
-
 Veitingahúsakaupin	nhfng	veitingahúsakaup
 komu	sfg3fþ	koma
 aftur	aa	aftur
@@ -4379,7 +4184,6 @@ nýgræðingur	nken	nýgræðingur
 í	aþ	í
 faginu	nheþg	fag
 .	.	.
-
 Ætli	svg3en	ætla
 mér	fp1eþ	ég
 hafi	svg3en	hafa
@@ -4397,12 +4201,10 @@ takast	snm	taka
 á	aa	á
 við	aa	við
 .	.	.
-
 Fallegasti	lkenve	fallegur
 staðurinn	nkeng	staður
 á	aþ	á
 eyjunni	nveþg	eyja
-
 Restaurant	e	Restaurant
 Deia	e	Deia
 er	sfg3en	vera
@@ -4410,7 +4212,6 @@ er	sfg3en	vera
 samnefndum	lkeþsf	samnefndur
 bæ	nkeþ	bær
 .	.	.
-
 Þegar	c	þegar
 ég	fp1en	ég
 var	sfg1eþ	vera
@@ -4450,7 +4251,6 @@ er	sfg3en	vera
 hreint	aa	hreint
 stórfenglegt	lhensf	stórfenglegur
 .	.	.
-
 Ég	fp1en	ég
 tók	sfg1eþ	taka
 í	ao	í
@@ -4468,7 +4268,6 @@ ekki	aa	ekki
 aftur	aa	aftur
 snúið	sþghen	snúa
 .	.	.
-
 -	-	-
 Hvernig	aa	hvernig
 hefur	sfg3en	hafa
@@ -4482,7 +4281,6 @@ sig	fpkeo	sig
 spænskum	lkeþsf	spænskur
 veitingahúsarekstri	nkeþ	veitingahúsarekstur
 ?	?	?
-
 Það	fphen	það
 hefur	sfg3en	hafa
 gengið	ssg	ganga
@@ -4508,7 +4306,6 @@ upp	aa	upp
 hafa	sfg3fn	hafa
 komið	ssg	koma
 .	.	.
-
 Hjá	aþ	hjá
 mér	fp1eþ	ég
 starfa	sfg3fn	starfa
@@ -4529,7 +4326,6 @@ fram	aa	fram
 stækkun	nveo	stækkun
 staðarins	nkeeg	staður
 .	.	.
-
 Ég	fp1en	ég
 keypti	sfg1eþ	kaupa
 íbúð	nveo	íbúð
@@ -4551,7 +4347,6 @@ rými	nheo	rými
 næsta	lkeþve	næstur
 mánuði	nkeþ	mánuður
 .	.	.
-
 Ég	fp1en	ég
 neita	sfg1en	neita
 því	fpheþ	það
@@ -4572,7 +4367,6 @@ tíma	nkfo	tími
 á	ao	á
 dag	nkeo	dagur
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 í	ao	í
@@ -4600,7 +4394,6 @@ tileinkað	ssg	tileinka
 mér	fp1eþ	ég
 þolinmæði	nveo	þolinmæði
 .	.	.
-
 Spænskt	lhensf	spænskur
 þjóðfélag	nhen	þjóðfélag
 er	sfg3en	vera
@@ -4624,7 +4417,6 @@ smátt	aa	smátt
 og	c	og
 smátt	aa	smátt
 .	.	.
-
 Hjá	aþ	hjá
 mér	fp1eþ	ég
 vinnur	sfg3en	vinna
@@ -4648,7 +4440,6 @@ að	aþ	að
 betra	lheþvm	góður
 lífi	nheþ	líf
 .	.	.
-
 Eftir	ao	eftir
 að	cn	að
 hafa	sng	hafa
@@ -4676,7 +4467,6 @@ hafa	sfg3fn	hafa
 rauninni	nveþg	raun
 gott	lheosf	góður
 .	.	.
-
 Ferskt	lhensf	ferskur
 hráefni	nhen	hráefni
 af	aþ	af
@@ -4690,7 +4480,6 @@ og	c	og
 veitingastaðnum	nkeþg	veitingastaður
 þínum	fekeþ	þinn
 ?	?	?
-
 Deia	e	Deia
 er	sfg3en	vera
 í	aþ	í
@@ -4716,7 +4505,6 @@ hundruð	tfkfþ	hundrað
 öðrum	fokfþ	annar
 íbúum	nkfþ	íbúi
 .	.	.
-
 Deia	e	Deia
 er	sfg3en	vera
 mjög	aa	mjög
@@ -4738,7 +4526,6 @@ sér	fpkeþ	sig
 mikla	lveosf	mikill
 menningarsögu	nveo	menningarsaga
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 mjög	aa	mjög
@@ -4769,7 +4556,6 @@ bíllyklana	nkfog	bíllykill
 úr	aþ	úr
 bílunum	nkfþg	bíll
 .	.	.
-
 Sjálfur	fbken	sjálfur
 veitingastaðurinn	nkeng	veitingastaður
 er	sfg3en	vera
@@ -4784,7 +4570,6 @@ rómantískt	lhensf	rómantískur
 og	c	og
 rólegt	lhensf	rólegur
 .	.	.
-
 Staðurinn	nkeng	staður
 tekur	sfg3en	taka
 95	ta	95
@@ -4830,7 +4615,6 @@ saltfiskurinn	nkeng	saltfiskur
 er	sfg3en	vera
 íslenskur	lkensf	íslenskur
 .	.	.
-
 Ég	fp1en	ég
 býð	sfg1en	bjóða
 svo	aa	svo
@@ -4847,7 +4631,6 @@ frá	aþ	frá
 ýmsum	fohfþ	ýmis
 löndum	nhfþ	land
 .	.	.
-
 Frægt	lhensf	frægur
 fólk	nhen	fólk
 í	aþ	í
@@ -4858,7 +4641,6 @@ eru	sfg3fn	vera
 helstu	lkfnve	heldri
 viðskiptavinir	nkfn	viðskiptavinur
 ?	?	?
-
 Helstu	lkfnve	heldri
 viðskiptavinirnir	nkfng	viðskiptavinur
 eru	sfg3fn	vera
@@ -4900,7 +4682,6 @@ eða	c	eða
 nánasta	lheþve	náinn
 nágrenni	nheþ	nágrenni
 .	.	.
-
 Nefna	sng	nefna
 má	sfg3en	mega
 leikarahjónin	nhfog	leikarahjón
@@ -4932,7 +4713,6 @@ uppboðshaldarann	nkeog	uppboðshaldari
 Simon	e	Simon
 Finch	e	Finch
 .	.	.
-
 -	-	-
 Ertu	sfg2en	vera
 farin	sþgven	fara
@@ -4942,7 +4722,6 @@ rótum	nvfþ	rót
 á	aþ	á
 Mallorka	e	Mallorka
 ?	?	?
-
 Enginn	foken	enginn
 veit	sfg3en	vita
 sína	feveo	sinn
@@ -4973,7 +4752,6 @@ og	c	og
 úr	aþ	úr
 lögfræðinni	nveþg	lögfræði
 .	.	.
-
 Auðvitað	aa	auðvitað
 saknar	sfg3en	sakna
 maður	nken	maður

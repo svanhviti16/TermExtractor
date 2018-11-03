@@ -23,7 +23,6 @@ reynslu	nvee	reynsla
 og	c	og
 þróunar	nvee	þróun
 .	.	.
-
 Sifjalaganefnd	nveþ	sifjalaganefnd
 varð	sfg3eþ	verða
 ljóst	lhensf	ljós
@@ -86,7 +85,6 @@ tilefni	nheþ	tilefni
 fyrirhugaðrar	lveesf	fyrirhugaður
 endurskoðunar	nvee	endurskoðun
 .	.	.
-
 Þeir	fpkfn	hann
 sem	ct	sem
 nefndin	nveng	nefnd
@@ -152,7 +150,6 @@ og	c	og
 umboðsmaður	nken	umboðsmaður
 barna	nhfe	barn
 .	.	.
-
 Þeir	fakfn	sá
 sem	ct	sem
 létu	sfg3fþ	láta
@@ -193,7 +190,6 @@ og	c	og
 umboðsmaður	nken	umboðsmaður
 barna	nhfe	barn
 .	.	.
-
 Þá	aa	þá
 bárust	sfm3fþ	bera
 og	aa	og
@@ -202,7 +198,6 @@ frá	aþ	frá
 Tryggingastofnun	nveþ-s	Tryggingastofnun
 ríkisins	nheeg	ríki
 .	.	.
-
 Um	ao	um
 sumt	foheo	sumur
 voru	sfg3fþ	vera
@@ -216,7 +211,6 @@ voru	sfg3fþ	vera
 sjónarmið	nhfn	sjónarmið
 ósamræmanleg	lhfnsf	ósamræmanlegur
 .	.	.
-
 Sifjalaganefnd	nven	sifjalaganefnd
 tók	sfg3eþ	taka
 allar	fovfo	allur
@@ -240,7 +234,6 @@ til	ae	til
 fjölmargra	lvfesf	fjölmargur
 þeirra	fpvfe	hún
 .	.	.
-
 Þá	aa	þá
 hefur	sfg3en	hafa
 nefndin	nveng	nefnd
@@ -268,7 +261,6 @@ málefni	nhfo	málefni
 sviði	nheþ	svið
 barnaréttar	nkee	barnaréttur
 .	.	.
-
 Sérstaklega	aa	sérstaklega
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -293,7 +285,6 @@ samstarfs	nhee	samstarf
 sviði	nheþ	svið
 sifjaréttar	nkee	sifjaréttur
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 og	c	og
@@ -352,7 +343,6 @@ við	ao	við
 þær	favfo	sá
 meginreglur	nvfo	meginregla
 .	.	.
-
 Sifjalaganefnd	nven	sifjalaganefnd
 fékk	sfg3eþ	fá
 Jóhönnu	nveo-s	Jóhanna
@@ -385,7 +375,6 @@ er	sfg3en	vera
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 Var	sfg3eþ	vera
 litið	sþghen	líta
 til	ae	til
@@ -407,7 +396,6 @@ I	ta	I
 með	aþ	með
 frumvarpinu	nheþg	frumvarp
 .	.	.
-
 Við	ao	við
 samningu	nveo	samning
 frumvarpsins	nheeg	frumvarp
@@ -441,7 +429,6 @@ að	cn	að
 fram	aa	fram
 umgengni	nveo	umgengni
 o.fl.	as	o.fl.
-
 Við	ao	við
 samningu	nveo	samning
 frumvarpsins	nheeg	frumvarp
@@ -479,7 +466,6 @@ barns	nhee	barn
 og	c	og
 feðrun	nveþ	feðrun
 .	.	.
-
 Þótt	c	þótt
 ljóst	lhensf	ljós
 væri	svg3eþ	vera
@@ -519,7 +505,6 @@ til	ae	til
 nýrra	lhfesf	nýr
 barnalaga	nhfe	barnalag
 .	.	.
-
 Eftir	aþ	eftir
 því	faheþ	sá
 sem	ct	sem
@@ -550,7 +535,6 @@ auk	ae	auk
 margvíslegra	lvfesf	margvíslegur
 breytinga	nvfe	breyting
 .	.	.
-
 Þegar	c	þegar
 fyrir	aa	fyrir
 lá	sfg3eþ	liggja
@@ -604,7 +588,6 @@ sig	fpkfo	sig
 efni	nheþ	efni
 þess	fphee	það
 .	.	.
-
 Sú	faven	sá
 athugun	nven	athugun
 leiddi	sfg3eþ	leiða
@@ -630,7 +613,6 @@ en	c	en
 hin	gven	hinn
 eldri	lvenvm	gamall
 .	.	.
-
 Þegar	c	þegar
 sifjalaganefnd	nven	sifjalaganefnd
 hafði	sfg3eþ	hafa
@@ -669,7 +651,6 @@ sína	feveo	sinn
 um	ao	um
 þau	fphfo	það
 .	.	.
-
 Athugasemdir	nvfn	athugasemd
 bárust	sfm3fþ	bera
 frá	aþ	frá
@@ -714,7 +695,6 @@ og	c	og
 umboðsmanni	nkeþ	umboðsmaður
 barna	nhfe	barn
 .	.	.
-
 Flestir	lkfnse	margur
 þessara	fakfe	þessi
 umsagnaraðila	nkfe	umsagnaraðili
@@ -743,7 +723,6 @@ við	ao	við
 samningu	nveo	samning
 frumvarpsins	nheeg	frumvarp
 .	.	.
-
 Eftir	ao	eftir
 að	c	að
 umsagnir	nvfn	umsögn
@@ -792,7 +771,6 @@ aðila	nkee	aðili
 slíku	fbheþ	slíkur
 máli	nheþ	mál
 .	.	.
-
 Leitað	sþghen	leita
 var	sfg3eþ	vera
 til	ae	til
@@ -825,7 +803,6 @@ með	aþ	með
 frumvarpi	nheþ	frumvarp
 þessu	faheþ	þessi
 .	.	.
-
 Niðurstaða	nven	niðurstaða
 skýrsluhöfunda	nkfe	skýrsluhöfundur
 var	sfg3eþ	vera
@@ -850,7 +827,6 @@ um	ao	um
 VI.	lkeovf	VI.
 kafla	nkeo	kafli
 .	.	.
-
 Verða	sfg3fn	verða
 nú	aa	nú
 helstu	lhfnve	heldri
@@ -872,14 +848,11 @@ einstökum	lkfþsf	einstakur
 köflum	nkfþ	kafli
 frumvarpsins	nheeg	frumvarp
 .	.	.
-
 II.	ta	II.
-
 Helstu	lhfnve	heldri
 nýmæli	nhfn	nýmæli
 frumvarpsins	nheeg	frumvarp
 .	.	.
-
 Í	aþ	í
 frumvarpi	nheþ	frumvarp
 þessu	faheþ	þessi
@@ -889,7 +862,6 @@ finna	sng	finna
 mörg	lhfosf	margur
 nýmæli	nhfo	nýmæli
 .	.	.
-
 Rétt	lhensf	réttur
 þykir	sfg3en	þykja
 að	cn	að
@@ -924,7 +896,6 @@ sem	ct	sem
 við	aa	við
 á	sfg3en	eiga
 .	.	.
-
 Nýmæla	nhfe	nýmæli
 frumvarpsins	nheeg	frumvarp
 er	sfg3en	vera
@@ -942,10 +913,8 @@ fram	aa	fram
 í	aþ	í
 frumvarpinu	nheþg	frumvarp
 .	.	.
-
 1	ta	1
 .	.	.
-
 Skylda	nven	skylda
 móður	nvee	móðir
 til	ae	til
@@ -953,7 +922,6 @@ að	cn	að
 feðra	sng	feðra
 barn	nheo	barn
 .	.	.
-
 Í	aþ	í
 gildandi	lhfþof	gildandi
 barnalögum	nhfþ	barnalag
@@ -974,7 +942,6 @@ feðra	sng	feðra
 barn	nheo	barn
 sitt	feheo	sinn
 .	.	.
-
 Þrátt	aa	þrátt
 fyrir	ao	fyrir
 augljósa	lkfosf	augljós
@@ -1015,7 +982,6 @@ mikilvæga	lheovf	mikilvægur
 skref	nheo	skref
 nú	aa	nú
 .	.	.
-
 Með	aþ	með
 þessu	faheþ	þessi
 er	sfg3en	vera
@@ -1048,7 +1014,6 @@ barnsins	nheeg	barn
 sé	svg3en	vera
 virtur	sþgken	virða
 .	.	.
-
 Þrátt	aa	þrátt
 fyrir	ao	fyrir
 að	c	að
@@ -1089,7 +1054,6 @@ að	cn	að
 feðra	sng	feðra
 barn	nheo	barn
 .	.	.
-
 Bæði	c	bæði
 þykir	sfg3en	þykja
 hið	ghen	hinn
@@ -1150,10 +1114,8 @@ beita	sng	beita
 slíkum	fbhfþ	slíkur
 úrræðum	nhfþ	úrræði
 .	.	.
-
 2	ta	2
 .	.	.
-
 Reglur	nvfn	regla
 um	ao	um
 feðrun	nveo	feðrun
@@ -1161,7 +1123,6 @@ barns	nhee	barn
 verða	sfg3fn	verða
 einfaldaðar	sþgvfn	einfalda
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 gildandi	lhfþof	gildandi
 barnalögum	nhfþ	barnalag
@@ -1178,7 +1139,6 @@ er	sfg3en	vera
 hjúskap	nkeþ	hjúskapur
 þeirra	fphfe	það
 .	.	.
-
 Hið	ghen	hinn
 sama	fbhen	sami
 á	sfg3en	eiga
@@ -1202,7 +1162,6 @@ eða	c	eða
 ótvíræðum	lhfþsf	ótvíræður
 gögnum	nhfþ	gagn
 .	.	.
-
 Lagt	sþghen	leggja
 er	sfg3en	vera
 til	ae	til
@@ -1236,16 +1195,13 @@ um	ao	um
 sambúð	nveo	sambúð
 sína	feveo	sinn
 .	.	.
-
 3	ta	3
 .	.	.
-
 Móðerni	nhen	móðerni
 barns	nhee	barn
 við	ao	við
 tæknifrjóvgun	nveo	tæknifrjóvgun
 .	.	.
-
 Lagt	sþghen	leggja
 er	sfg3en	vera
 til	ae	til
@@ -1269,7 +1225,6 @@ teljist	svm3en	telja
 móðir	nven	móðir
 þess	fphee	það
 .	.	.
-
 Á	aþ	á
 síðari	lhfþvm	síðari
 árum	nhfþ	ár
@@ -1292,7 +1247,6 @@ að	cn	að
 eignast	snm	eigna
 barn	nheo	barn
 .	.	.
-
 Með	aþ	með
 því	fpheþ	það
 að	cn	að
@@ -1332,14 +1286,11 @@ og	c	og
 elur	sfg3en	ala
 það	fpheo	það
 .	.	.
-
 4	ta	4
 .	.	.
-
 Réttarstaða	nven	réttarstaða
 sæðisgjafa	nkfe	sæðisgjafi
 .	.	.
-
 Í	aþ	í
 frumvarpinu	nheþg	frumvarp
 er	sfg3en	vera
@@ -1393,7 +1344,6 @@ laga	nhfe	lag
 um	ao	um
 tæknifrjóvgun	nveo	tæknifrjóvgun
 .	.	.
-
 Gefi	svg3en	gefa
 maður	nken	maður
 sæði	nheo	sæði
@@ -1419,7 +1369,6 @@ við	ao	við
 almennar	lvfosf	almennur
 faðernisreglur	nvfo	faðernisregla
 .	.	.
-
 Sambærileg	lhfosf	sambærilegur
 ákvæði	nhfo	ákvæði
 er	sfg3en	vera
@@ -1430,16 +1379,13 @@ finna	sng	finna
 gildandi	lhfþof	gildandi
 lögum	nhfþ	lag
 .	.	.
-
 5	ta	5
 .	.	.
-
 Skráning	nven	skráning
 barns	nhee	barn
 í	ao	í
 þjóðskrá	nveo	þjóðskrá
 .	.	.
-
 Þykir	sfg3en	þykja
 rétt	lhensf	réttur
 að	c	að
@@ -1472,7 +1418,6 @@ skráð	sþghen	skrá
 eftir	ao	eftir
 fæðingu	nveo	fæðing
 .	.	.
-
 Með	aþ	með
 því	fpheþ	það
 að	cn	að
@@ -1504,10 +1449,8 @@ viðurkennd	sþgven	viðurkenna
 vera	sng	vera
 tryggður	sþgken	tryggja
 .	.	.
-
 6	ta	6
 .	.	.
-
 Heimild	nven	heimild
 manns	nkee	maður
 sem	ct	sem
@@ -1520,7 +1463,6 @@ að	cn	að
 höfða	sng	höfða
 faðernismál	nheo	faðernismál
 .	.	.
-
 Í	aþ	í
 dómi	nkeþ	dómur
 Hæstaréttar	nkee-s	Hæstiréttur
@@ -1548,7 +1490,6 @@ sé	svg3en	vera
 faðir	nken	faðir
 barns	nhee	barn
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 gildandi	lhfþof	gildandi
 barnalögum	nhfþ	barnalag
@@ -1561,7 +1502,6 @@ eða	c	eða
 móðir	nven	móðir
 þess	fphee	það
 .	.	.
-
 Í	aþ	í
 framangreindu	lheþsf	framangreindur
 máli	nheþ	mál
@@ -1584,7 +1524,6 @@ viðurkenningar	nvee	viðurkenning
 á	aþ	á
 því	fpheþ	það
 .	.	.
-
 Héraðsdómur	nken-s	Héraðsdómur
 hafði	sfg3eþ	hafa
 vísað	ssg	vísa
@@ -1604,7 +1543,6 @@ aðild	nveo	aðild
 að	aþ	að
 faðernismáli	nheþ	faðernismál
 .	.	.
-
 Niðurstaða	nven	niðurstaða
 Hæstaréttar	nkee-s	Hæstiréttur
 var	sfg3eþ	vera
@@ -1635,7 +1573,6 @@ um	ao	um
 efniskröfur	nvfo	efniskrafa
 sínar	fevfo	sinn
 .	.	.
-
 Ákvæði	nhfn	ákvæði
 barnalaga	nhfe	barnalag
 voru	sfg3fþ	vera
@@ -1649,7 +1586,6 @@ gegn	aþ	gegn
 gr.	as	gr.
 stjórnarskrárinnar	nveeg	stjórnarskrá
 .	.	.
-
 Í	aþ	í
 ljósi	nheþ	ljós
 þessa	fakee	þessi
@@ -1692,7 +1628,6 @@ geti	svg3en	geta
 höfðað	ssg	höfða
 faðernismál	nheo	faðernismál
 .	.	.
-
 Ákvæði	nhen	ákvæði
 frumvarpsins	nheeg	frumvarp
 er	sfg3en	vera
@@ -1708,9 +1643,7 @@ lagalega	lveosf	lagalegur
 stöðu	nveo	staða
 barns	nhee	barn
 .	.	.
-
 7.	ta	7.
-
 Málsvari	nken	málsvari
 í	aþ	í
 faðernismálum	nhfþ	faðernismál
@@ -1723,7 +1656,6 @@ til	ae	til
 á	aþ	á
 faðernisviðurkenningu	nveþ	faðernisviðurkenning
 .	.	.
-
 Lagt	sþghen	leggja
 er	sfg3en	vera
 til	ae	til
@@ -1753,7 +1685,6 @@ finna	sng	finna
 gildandi	lhfþof	gildandi
 lögum	nhfþ	lag
 .	.	.
-
 Hliðstætt	lheosf	hliðstæður
 ákvæði	nheo	ákvæði
 er	sfg3en	vera
@@ -1777,7 +1708,6 @@ málsvara	nkeo	málsvari
 í	aþ	í
 hjúskaparmáli	nheþ	hjúskaparmál
 .	.	.
-
 Einkum	aa	einkum
 eru	sfg3fn	vera
 höfð	sþghfn	hafa
@@ -1811,7 +1741,6 @@ varðandi	slg	varða
 mannerfðafræðilegar	lvfosf	mannerfðafræðilegur
 rannsóknir	nvfo	rannsókn
 .	.	.
-
 Málsvari	nken	málsvari
 ,	,	,
 sem	ct	sem
@@ -1848,7 +1777,6 @@ tengslum	nhfþ	tengsl
 við	ao	við
 málið	nheog	mál
 .	.	.
-
 Sömu	fbvfn	sami
 heimildir	nvfn	heimild
 til	ae	til
@@ -1866,9 +1794,7 @@ til	ae	til
 á	aþ	á
 faðernisviðurkenningu	nveþ	faðernisviðurkenning
 .	.	.
-
 8.	ta	8.
-
 Vernd	nven	vernd
 barna	nhfe	barn
 gegn	aþ	gegn
@@ -1876,7 +1802,6 @@ ofbeldi	nheþ	ofbeldi
 meðal	ae	meðal
 forsjárskyldna	nvfe	forsjárskylda
 .	.	.
-
 Í	aþ	í
 frumvarpinu	nheþg	frumvarp
 er	sfg3en	vera
@@ -1900,7 +1825,6 @@ er	sfg3en	vera
 gildandi	lhfþof	gildandi
 lögum	nhfþ	lag
 .	.	.
-
 Nýmæli	nhen	nýmæli
 er	sfg3en	vera
 að	c	að
@@ -1927,7 +1851,6 @@ annarri	foveþ	annar
 vanvirðandi	lveþof	vanvirðandi
 háttsemi	nveþ	háttsemi
 .	.	.
-
 Þótt	c	þótt
 vissulega	aa	vissulega
 megi	svg3en	mega
@@ -1956,9 +1879,7 @@ orðum	nhfþ	orð
 í	ao	í
 barnalög	nhfo	barnalag
 .	.	.
-
 9.	ta	9.
-
 Sjálfvirkri	lveþsf	sjálfvirkur
 forsjá	nveþ	forsjá
 stjúpforeldris	nhee	stjúpforeldri
@@ -1967,7 +1888,6 @@ sambúðarmaka	nkee	sambúðarmaki
 verður	sfg3en	verða
 breytt	sþghen	breyta
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 gildandi	lhfþof	gildandi
 barnalögum	nhfþ	barnalag
@@ -2000,7 +1920,6 @@ hjúskapar	nkee	hjúskapur
 eða	c	eða
 sambúðar	nvee	sambúð
 .	.	.
-
 Gildir	sfg3en	gilda
 þetta	fahen	þessi
 jafnvel	aa	jafnvel
@@ -2020,7 +1939,6 @@ forsjáin	nveng	forsjá
 sé	svg3en	vera
 sameiginleg	lvensf	sameiginlegur
 .	.	.
-
 Með	aþ	með
 þessu	faheþ	þessi
 móti	nheþ	mót
@@ -2030,7 +1948,6 @@ barns	nhee	barn
 orðið	ssg	verða
 fjórir	tfkfn	fjórir
 .	.	.
-
 Engin	fohfn	enginn
 rök	nhfn	rök
 þykja	sfg3fn	þykja
@@ -2067,10 +1984,8 @@ eitt	lhensf	einn
 með	ao	með
 forsjá	nveo	forsjá
 .	.	.
-
 10	ta	10
 .	.	.
-
 Forsjá	nven	forsjá
 sambúðarmaka	nkee	sambúðarmaki
 verður	sfg3en	verða
@@ -2080,7 +1995,6 @@ við	ao	við
 stofnun	nveo	stofnun
 sambúðar	nvee	sambúð
 .	.	.
-
 Auk	ae	auk
 þeirra	favfe	sá
 takmarkana	nvfe	takmörkun
@@ -2117,7 +2031,6 @@ sambúðar	nvee	sambúð
 í	ao	í
 þjóðskrá	nveo	þjóðskrá
 .	.	.
-
 Það	fphen	það
 verða	sfg3fn	verða
 því	aa	því
@@ -2142,7 +2055,6 @@ foreldris	nhee	foreldri
 og	c	og
 stjúpforeldris	nhee	stjúpforeldri
 .	.	.
-
 Hjúskapur	nken	hjúskapur
 og	c	og
 sambúð	nven	sambúð
@@ -2178,10 +2090,8 @@ laga	nhfe	lag
 um	ao	um
 ættleiðingar	nvfo	ættleiðing
 .	.	.
-
 11	ta	11
 .	.	.
-
 Yfirlýsing	nven	yfirlýsing
 um	ao	um
 forsjárskipan	nveo	forsjárskipan
@@ -2190,7 +2100,6 @@ eftir	ao	eftir
 andlát	nheo	andlát
 forsjárforeldra	nkfe	forsjárforeldri
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 gildandi	lhfþof	gildandi
 lögum	nhfþ	lag
@@ -2206,7 +2115,6 @@ foreldrum	nkfþ	foreldrar
 þess	fphee	það
 látnum	lkfþsf	látinn
 .	.	.
-
 Lagt	sþghen	leggja
 er	sfg3en	vera
 til	ae	til
@@ -2238,7 +2146,6 @@ að	aþ	að
 þeim	fpkfþ	hann
 látnum	lkfþsf	látinn
 .	.	.
-
 Rétt	lhensf	réttur
 er	sfg3en	vera
 að	cn	að
@@ -2277,7 +2184,6 @@ við	ao	við
 hagsmuni	nkfo	hagsmunir
 barns	nhee	barn
 .	.	.
-
 Ákvæðið	nheng	ákvæði
 helst	sfm3en	halda
 í	ao	í
@@ -2311,7 +2217,6 @@ vera	sng	vera
 fjárhaldsmaður	nken	fjárhaldsmaður
 barns	nhee	barn
 .	.	.
-
 Ákvæði	nhfn	ákvæði
 lögræðislaga	nhfe	lögræðislög
 fjalla	sfg3fn	fjalla
@@ -2363,7 +2268,6 @@ barns	nhee	barn
 ,	,	,
 forsjár	nvee	forsjá
 .	.	.
-
 Tillaga	nven	tillaga
 sifjalaganefndar	nvee	sifjalaganefnd
 nú	aa	nú
@@ -2397,15 +2301,12 @@ gildi	nheo	gildi
 að	aþ	að
 lögum	nhfþ	lag
 .	.	.
-
 12.	ta	12.
-
 Tímabundnir	lkfnsf	tímabundinn
 samningar	nkfn	samningur
 um	ao	um
 forsjá	nveo	forsjá
 .	.	.
-
 Lagt	sþghen	leggja
 er	sfg3en	vera
 til	ae	til
@@ -2434,7 +2335,6 @@ finna	sng	finna
 gildandi	lhfþof	gildandi
 barnalögum	nhfþ	barnalag
 .	.	.
-
 Margvíslegar	lvfnsf	margvíslegur
 ástæður	nvfn	ástæða
 geta	sfg3fn	geta
@@ -2465,10 +2365,8 @@ heimila	sng	heimila
 slíka	fbkfo	slíkur
 samninga	nkfo	samningur
 .	.	.
-
 13	ta	13
 .	.	.
-
 Aðeins	aa	aðeins
 dómstólar	nkfn	dómstóll
 leysa	sfg3fn	leysa
@@ -2477,7 +2375,6 @@ leysa	sfg3fn	leysa
 um	ao	um
 forsjá	nveo	forsjá
 .	.	.
-
 Heimild	nven	heimild
 dómsmálaráðuneytisins	nheeg	dómsmálaráðuneyti
 til	ae	til
@@ -2493,7 +2390,6 @@ frumvarp	nhen	frumvarp
 að	aþ	að
 lögum	nhfþ	lag
 .	.	.
-
 Við	ao	við
 setningu	nveo	setning
 gildandi	lhfeof	gildandi
@@ -2530,7 +2426,6 @@ af	aþ	af
 slíkra	fbhfe	slíkur
 mála	nhfe	mál
 .	.	.
-
 Af	aþ	af
 hálfu	nveþ	hálfa
 sifjalaganefndar	nvee	sifjalaganefnd
@@ -2573,7 +2468,6 @@ framhald	nhen	framhald
 þeirra	favfe	sá
 fyrirætlana	nvfe	fyrirætlun
 .	.	.
-
 Ekki	aa	ekki
 verður	sfg3en	verða
 séð	sþghen	sjá
@@ -2598,7 +2492,6 @@ og	c	og
 í	aþ	í
 dómsmálaráðuneytinu	nheþg	dómsmálaráðuneyti
 .	.	.
-
 Til	ae	til
 skýringar	nvee	skýring
 má	sfg3en	mega
@@ -2628,7 +2521,6 @@ upp	aa	upp
 2	ta	2
 úrskurðir	nkfn	úrskurður
 .	.	.
-
 Á	aþ	á
 árinu	nheþg	ár
 2001	ta	2001
@@ -2652,10 +2544,8 @@ forsjármáli	nheþ	forsjármál
 í	aþ	í
 ráðuneytinu	nheþg	ráðuneyti
 .	.	.
-
 14	ta	14
 .	.	.
-
 Heimild	nven	heimild
 dómara	nkfe	dómari
 til	ae	til
@@ -2669,7 +2559,6 @@ umgengni	nveo	umgengni
 í	aþ	í
 forsjármálum	nhfþ	forsjármál
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 gildandi	lhfþof	gildandi
 lögum	nhfþ	lag
@@ -2683,7 +2572,6 @@ einvörðungu	aa	einvörðungu
 höndum	nvfþ	hönd
 stjórnvalda	nhfe	stjórnvald
 .	.	.
-
 Þegar	c	þegar
 ákvörðun	nven	ákvörðun
 um	ao	um
@@ -2716,7 +2604,6 @@ um	ao	um
 þessa	fakfo	þessi
 þætti	nkfo	þáttur
 .	.	.
-
 Foreldrar	nkfn	foreldrar
 þurfa	sfg3fn	þurfa
 einnig	aa	einnig
@@ -2754,7 +2641,6 @@ staðfestir	sþgkfn	staðfesta
 af	aþ	af
 sýslumanni	nkeþ	sýslumaður
 .	.	.
-
 Sifjalaganefnd	nven	sifjalaganefnd
 leggur	sfg3en	leggja
 til	ae	til
@@ -2775,7 +2661,6 @@ meðlag	nheo	meðlag
 og	c	og
 umgengni	nveo	umgengni
 .	.	.
-
 Úrlausnarvald	nhen	úrlausnarvald
 dómstóla	nkfe	dómstóll
 verði	svg3en	verða
@@ -2802,7 +2687,6 @@ faðerni	nheo	faðerni
 sbr.	as	sbr.
 síðar	aam	síðar
 .	.	.
-
 Áður	aa	áður
 en	c	en
 dómari	nken	dómari
@@ -2824,7 +2708,6 @@ högum	nkfþ	hagur
 og	c	og
 foreldranna	nkfeg	foreldrar
 .	.	.
-
 Nauðsynlegar	lvfnsf	nauðsynlegur
 upplýsingar	nvfn	upplýsing
 liggja	sfg3fn	liggja
@@ -2853,7 +2736,6 @@ atriði	nhfn	atriði
 efnislega	aa	efnislega
 samofin	lhfnsf	samofinn
 .	.	.
-
 Það	fphen	það
 þykir	sfg3en	þykja
 því	aa	því
@@ -2880,7 +2762,6 @@ til	ae	til
 forsjár	nvee	forsjá
 barns	nhee	barn
 .	.	.
-
 Áréttað	sþghen	árétta
 er	sfg3en	vera
 að	c	að
@@ -2907,7 +2788,6 @@ meðferðar	nvee	meðferð
 fyrir	aþ	fyrir
 dómi	nkeþ	dómur
 .	.	.
-
 Í	aþ	í
 öllum	fohfþ	allur
 öðrum	fohfþ	annar
@@ -2921,10 +2801,8 @@ meðlagsmáli	nheþ	meðlagsmál
 til	ae	til
 sýslumanns	nkee	sýslumaður
 .	.	.
-
 15	ta	15
 .	.	.
-
 Heimild	nven	heimild
 dómara	nkfe	dómari
 til	ae	til
@@ -2944,7 +2822,6 @@ forsjá	nveo	forsjá
 er	sfg3en	vera
 rekið	sþghen	reka
 .	.	.
-
 Lagt	sþghen	leggja
 er	sfg3en	vera
 til	ae	til
@@ -2986,7 +2863,6 @@ til	ae	til
 lykta	nvfe	lykt
 leitt	sþghen	leiða
 .	.	.
-
 Dómari	nken	dómari
 getur	sfg3en	geta
 þá	aa	þá
@@ -3008,7 +2884,6 @@ skiptis	nhee	skipti
 hjá	aþ	hjá
 þeim	fpkfþ	hann
 .	.	.
-
 Ákvæðin	nhfng	ákvæði
 eru	sfg3fn	vera
 til	ae	til
@@ -3059,10 +2934,8 @@ beggja	fokfe	báðir
 foreldra	nkfe	foreldrar
 sinna	fekfe	sinn
 .	.	.
-
 16	ta	16
 .	.	.
-
 Heimild	nven	heimild
 dómara	nkfe	dómari
 til	ae	til
@@ -3074,7 +2947,6 @@ stefnda	lkeovf	stefndur
 í	aþ	í
 forsjármáli	nheþ	forsjármál
 .	.	.
-
 Reglur	nvfn	regla
 einkamálalaga	nhfe	einkamálalög
 um	ao	um
@@ -3095,7 +2967,6 @@ til	ae	til
 hagsmuna	nkfe	hagsmunir
 barns	nhee	barn
 .	.	.
-
 Vísast	sþmhen	vísa
 að	aþ	að
 öðru	foheþ	annar
@@ -3112,10 +2983,8 @@ hér	aa	hér
 að	aa	að
 framan	aa	framan
 .	.	.
-
 17	ta	17
 .	.	.
-
 Réttur	nken	réttur
 barns	nhee	barn
 til	ae	til
@@ -3132,7 +3001,6 @@ við	ao	við
 aldur	nkeo	aldur
 barns	nhee	barn
 .	.	.
-
 Réttur	nken	réttur
 barns	nhee	barn
 til	ae	til
@@ -3169,7 +3037,6 @@ við	ao	við
 aldur	nkeo	aldur
 barns	nhee	barn
 .	.	.
-
 Nýmæli	nhen	nýmæli
 þetta	fahen	þessi
 styðst	sfm3en	styðja
@@ -3186,10 +3053,8 @@ fskj.	as	fskj.
 með	aþ	með
 frumvarpinu	nheþg	frumvarp
 .	.	.
-
 18	ta	18
 .	.	.
-
 Staðfesting	nven	staðfesting
 sýslumanns	nkee	sýslumaður
 á	aþ	á
@@ -3197,7 +3062,6 @@ samningum	nkfþ	samningur
 um	ao	um
 umgengni	nveo	umgengni
 .	.	.
-
 Unnt	lhensf	unnt
 verður	sfg3en	verða
 að	cn	að
@@ -3212,10 +3076,8 @@ og	c	og
 um	ao	um
 umgengni	nveo	umgengni
 .	.	.
-
 19	ta	19
 .	.	.
-
 Sýslumaður	nken	sýslumaður
 getur	sfg3en	geta
 úrskurðað	ssg	úrskurða
@@ -3226,7 +3088,6 @@ forsjá	nven	forsjá
 er	sfg3en	vera
 sameiginleg	lvensf	sameiginlegur
 .	.	.
-
 Rétt	lhensf	réttur
 þykir	sfg3en	þykja
 að	cn	að
@@ -3262,7 +3123,6 @@ höndum	nvfþ	hönd
 beggja	fokfe	báðir
 foreldra	nkfe	foreldrar
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 gildandi	lhfþof	gildandi
 lögum	nhfþ	lag
@@ -3301,7 +3161,6 @@ forsjár	nvee	forsjá
 teljast	sfm3fn	telja
 brostnar	lvfnsf	brostinn
 .	.	.
-
 Þykir	sfg3en	þykja
 það	fphen	það
 samræmast	snm	samræma
@@ -3332,7 +3191,6 @@ verði	svg3en	verða
 áfram	aa	áfram
 sameiginleg	lvensf	sameiginlegur
 .	.	.
-
 Af	aþ	af
 þessu	faheþ	þessi
 leiðir	sfg3en	leiða
@@ -3366,10 +3224,8 @@ höndum	nvfþ	hönd
 annars	fohee	annar
 foreldris	nhee	foreldri
 .	.	.
-
 20	ta	20
 .	.	.
-
 Ný	lhfnsf	nýr
 þvingunarúrræði	nhfn	þvingunarúrræði
 vegna	ae	vegna
@@ -3377,7 +3233,6 @@ brota	nhfe	brot
 á	aþ	á
 umgengnisrétti	nkeþ	umgengnisréttur
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 gildandi	lhfþof	gildandi
 barnalögum	nhfþ	barnalag
@@ -3396,7 +3251,6 @@ umgengni	nveo	umgengni
 álagning	nven	álagning
 dagsekta	nvfe	dagsekt
 .	.	.
-
 Lagt	sþghen	leggja
 er	sfg3en	vera
 til	ae	til
@@ -3433,7 +3287,6 @@ ekki	aa	ekki
 viðunandi	lkeþof	viðunandi
 árangri	nkeþ	árangur
 .	.	.
-
 Mikilvægi	nhen	mikilvægi
 þess	fphee	það
 að	c	að
@@ -3464,7 +3317,6 @@ hætti	nkeþ	háttur
 frumvarpi	nheþ	frumvarp
 þessu	faheþ	þessi
 .	.	.
-
 Tillaga	nven	tillaga
 sifjalaganefndar	nvee	sifjalaganefnd
 um	ao	um
@@ -3481,7 +3333,6 @@ er	sfg3en	vera
 í	aþ	í
 því	fpheþ	það
 .	.	.
-
 Rétt	lhensf	réttur
 er	sfg3en	vera
 að	cn	að
@@ -3507,7 +3358,6 @@ með	aþ	með
 frumvarpi	nheþ	frumvarp
 þessu	faheþ	þessi
 .	.	.
-
 Þá	aa	þá
 má	sfg3en	mega
 einnig	aa	einnig
@@ -3557,7 +3407,6 @@ endurheimt	nveo	endurheimt
 forsjár	nvee	forsjá
 barna	nhfe	barn
 .	.	.
-
 Því	aa	því
 hefur	sfg3en	hafa
 um	ao	um
@@ -3577,7 +3426,6 @@ er	ct	er
 þvingunarúrræði	nhfo	þvingunarúrræði
 varðar	sfg3en	varða
 .	.	.
-
 Nái	svg3en	ná
 fyrrgreind	lvensf	fyrrgreindur
 tillaga	nven	tillaga
@@ -3591,7 +3439,6 @@ bætt	sþghen	bæta
 því	faheþ	sá
 ósamræmi	nheþ	ósamræmi
 .	.	.
-
 Þá	aa	þá
 eru	sfg3fn	vera
 og	c	og
@@ -3609,9 +3456,7 @@ umgengni	nven	umgengni
 er	sfg3en	vera
 tálmað	sþghen	tálma
 .	.	.
-
 21.	ta	21.
-
 Sýslumaður	nken	sýslumaður
 getur	sfg3en	geta
 úrskurðað	ssg	úrskurða
@@ -3622,7 +3467,6 @@ forsjá	nven	forsjá
 er	sfg3en	vera
 sameiginleg	lvensf	sameiginlegur
 .	.	.
-
 Eins	aa	eins
 og	c	og
 vikið	sþghen	víkja
@@ -3653,7 +3497,6 @@ barns	nhee	barn
 samkvæmt	aþ	samkvæmt
 samningi	nkeþ	samningur
 .	.	.
-
 Með	aþ	með
 sömu	fbhfþ	sami
 rökum	nhfþ	rök
@@ -3686,7 +3529,6 @@ sé	svg3en	vera
 höndum	nvfþ	hönd
 beggja	fokfe	báðir
 .	.	.
-
 Hið	ghen	hinn
 sama	fbhen	sami
 gildir	sfg3en	gilda
@@ -3703,10 +3545,8 @@ fermingar	nvee	ferming
 og	c	og
 tannréttinga	nvfe	tannrétting
 .	.	.
-
 22	ta	22
 .	.	.
-
 Dómarar	nkfn	dómari
 fá	sfg3fn	fá
 heimildir	nvfo	heimild
@@ -3719,7 +3559,6 @@ meðlagsgreiðslur	nvfo	meðlagsgreiðsla
 í	aþ	í
 faðernismálum	nhfþ	faðernismál
 .	.	.
-
 Með	aþ	með
 skírskotun	nveþ	skírskotun
 til	ae	til
@@ -3770,7 +3609,6 @@ með	ao	með
 meðlagskröfu	nveo	meðlagskrafa
 sína	feveo	sinn
 .	.	.
-
 Ekki	aa	ekki
 þykja	sfg3fn	þykja
 hníga	sng	hníga
@@ -3792,19 +3630,16 @@ föður	nkee	faðir
 og	c	og
 barns	nhee	barn
 .	.	.
-
 Athugasemdir	nvfn	athugasemd
 við	ao	við
 einstakar	lvfosf	einstakur
 greinar	nvfo	grein
 frumvarpsins	nheeg	frumvarp
 .	.	.
-
 Um	ao	um
 I.	lkeosf	I.
 kafla	nkeo	kafli
 .	.	.
-
 Áður	aa	áður
 en	c	en
 nánar	aam	náið
@@ -3844,7 +3679,6 @@ um	ao	um
 gildissvið	nheo	gildissvið
 laganna	nhfeg	lag
 .	.	.
-
 Í	aþ	í
 því	fpheþ	það
 felst	sfm3en	fela
@@ -3857,7 +3691,6 @@ breytingar	nvfo	breyting
 gildandi	lkeþof	gildandi
 rétti	nkeþ	réttur
 .	.	.
-
 Í	aþ	í
 ættleiðingarlögum	nhfþ	ættleiðingarlög
 ,	,	,
@@ -3907,7 +3740,6 @@ við	ao	við
 kynforeldra	nkfo	kynforeldrar
 þess	fphee	það
 .	.	.
-
 Það	fphen	það
 leiðir	sfg3en	leiða
 samkvæmt	aþ	samkvæmt
@@ -3925,7 +3757,6 @@ kjörbarns	nhee	kjörbarn
 og	c	og
 kjörforeldris	nhee	kjörforeldri
 .	.	.
-
 Þá	aa	þá
 þykir	sfg3en	þykja
 það	fphen	það
@@ -3965,7 +3796,6 @@ gr.	as	gr.
 gildandi	lhfeof	gildandi
 laga	nhfe	lag
 .	.	.
-
 Að	aþ	að
 því	fpheþ	það
 er	ct	er
@@ -4023,7 +3853,6 @@ framfærslu	nveþ	framfærsla
 skuli	svg3en	skulu
 háttað	sþghen	hátta
 .	.	.
-
 Í	aþ	í
 2.	ta	2.
 mgr.	as	mgr.
@@ -4049,7 +3878,6 @@ mæli	svg3fn	mæla
 annan	fokeo	annar
 veg	nkeo	vegur
 .	.	.
-
 Sifjalaganefnd	nven	sifjalaganefnd
 telur	sfg3en	telja
 rétt	nkeo	réttur
@@ -4089,7 +3917,6 @@ sérstaklega	aa	sérstaklega
 í	aþ	í
 frumvarpinu	nheþg	frumvarp
 .	.	.
-
 Í	aþ	í
 því	faheþ	sá
 sambandi	nheþ	samband
@@ -4151,7 +3978,6 @@ af	aþ	af
 nokkru	foheþ	nokkur
 tagi	nheþ	tag
 .	.	.
-
 Þykir	sfg3en	þykja
 því	aa	því
 ekki	aa	ekki
@@ -4168,7 +3994,6 @@ lund	nveo	lund
 í	aþ	í
 barnalögum	nhfþ	barnalag
 .	.	.
-
 I.	lkensf	I.
 kafli	nken	kafli
 frumvarpsins	nheeg	frumvarp
@@ -4181,7 +4006,6 @@ faðerni	nheo	faðerni
 barns	nhee	barn
 »	»	»
 .	.	.
-
 Þar	aa	þar
 er	sfg3en	vera
 skipað	sþghen	skipa
@@ -4218,7 +4042,6 @@ sem	ct	sem
 er	sfg3en	vera
 nýmæli	nhen	nýmæli
 .	.	.
-
 Í	aþ	í
 kaflanum	nkeþg	kafli
 er	sfg3en	vera
@@ -4248,7 +4071,6 @@ einstökum	lhfþsf	einstakur
 ákvæðum	nhfþ	ákvæði
 kaflans	nkeeg	kafli
 .	.	.
-
 Í	aþ	í
 fyrsta	lheþve	fyrstur
 lagi	nheþ	lag
@@ -4264,7 +4086,6 @@ finna	sng	finna
 upphafsákvæði	nheþ	upphafsákvæði
 frumvarpsins	nheeg	frumvarp
 .	.	.
-
 Í	aþ	í
 ákvæðinu	nheþg	ákvæði
 er	sfg3en	vera
@@ -4278,7 +4099,6 @@ feðra	sng	feðra
 barn	nheo	barn
 sitt	feheo	sinn
 .	.	.
-
 Þótt	c	þótt
 ákvæði	nhen	ákvæði
 gildandi	lhfeof	gildandi
@@ -4348,7 +4168,6 @@ feðra	sng	feðra
 barn	nheo	barn
 sitt	feheo	sinn
 .	.	.
-
 Á	aþ	á
 síðari	lhfþvm	síðari
 árum	nhfþ	ár
@@ -4387,7 +4206,6 @@ við	ao	við
 þau	fphfo	það
 bæði	fohfo	báðir
 .	.	.
-
 Má	sfg3en	mega
 m.a.	as	m.a.
 sérstaklega	aa	sérstaklega
@@ -4425,7 +4243,6 @@ sem	ct	sem
 unnt	lhensf	unnt
 sé	svg3en	vera
 .	.	.
-
 Hið	ghen	hinn
 nýja	lhenvf	nýr
 ákvæði	nhen	ákvæði
@@ -4438,7 +4255,6 @@ við	ao	við
 þessi	fahfo	þessi
 sjónarmið	nhfo	sjónarmið
 .	.	.
-
 Í	aþ	í
 öðru	lheþsf	öðr
 lagi	nheþ	lag
@@ -4463,7 +4279,6 @@ kemur	sfg3en	koma
 til	ae	til
 framkvæmda	nvfe	framkvæmd
 .	.	.
-
 «	«	«
 Pater	e	Pater
 est	e	est
@@ -4487,7 +4302,6 @@ faðir	nken	faðir
 barns	nhee	barn
 hennar	fpvee	hún
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 með	aþ	með
@@ -4525,7 +4339,6 @@ svo	aa	svo
 stendur	sfg3en	standa
 á	aa	á
 .	.	.
-
 Sérstök	lhfnsf	sérstakur
 vandamál	nhfn	vandamál
 skapast	sfm3fn	skapa
@@ -4551,7 +4364,6 @@ við	ao	við
 fæðingu	nveo	fæðing
 barns	nhee	barn
 .	.	.
-
 Í	aþ	í
 skýrslu	nveþ	skýrsla
 vinnuhóps	nkee	vinnuhópur
@@ -4591,7 +4403,6 @@ svona	aa	svona
 stendur	sfg3en	standa
 á	aa	á
 .	.	.
-
 Sifjalaganefnd	nveþ	sifjalaganefnd
 þykja	sfg3fn	þykja
 ákvæði	nhfn	ákvæði
@@ -4614,7 +4425,6 @@ tekið	sþghen	taka
 þessu	faheþ	þessi
 álitaefni	nheþ	álitaefni
 .	.	.
-
 Lagt	sþghen	leggja
 er	sfg3en	vera
 til	ae	til
@@ -4651,7 +4461,6 @@ svona	aa	svona
 háttar	sfg3en	hátta
 til	aa	til
 .	.	.
-
 Sú	faven	sá
 tillaga	nven	tillaga
 þykir	sfg3en	þykja
@@ -4677,7 +4486,6 @@ er	sfg3en	vera
 byggður	sþgken	byggja
 á	aa	á
 .	.	.
-
 Í	aþ	í
 málinu	nheþg	mál
 hélt	sfg3eþ	halda
@@ -4702,7 +4510,6 @@ með	aþ	með
 öðrum	fokeþ	annar
 manni	nkeþ	maður
 .	.	.
-
 Dómstóllinn	nkeng	dómstóll
 komst	sfm3eþ	koma
 að	aþ	að
@@ -4733,7 +4540,6 @@ hvað	fshen	hver
 teldist	svm3eþ	telja
 fjölskyldulíf	nhen	fjölskyldulíf
 .	.	.
-
 Það	fphen	það
 hafi	svg3en	hafa
 verið	ssg	vera
@@ -4763,7 +4569,6 @@ viðurkennda	lveosf	viðurkenndur
 líffræðilega	lveosf	líffræðilegur
 staðreynd	nveo	staðreynd
 .	.	.
-
 Rétt	lhensf	réttur
 er	sfg3en	vera
 að	cn	að
@@ -4786,7 +4591,6 @@ sjálfkrafa	lveoof	sjálfkrafa
 feðrun	nveo	feðrun
 barns	nhee	barn
 .	.	.
-
 Faðerni	nhen	faðerni
 barns	nhee	barn
 sem	ct	sem
@@ -4810,7 +4614,6 @@ vefengingarmál	nhfo	vefengingarmál
 sbr.	as	sbr.
 kafla	nkeo	kafli
 III.	ta	III.
-
 Fleiri	lvfnvm	margur
 breytingar	nvfn	breyting
 eru	sfg3fn	vera
@@ -4825,7 +4628,6 @@ gr.	as	gr.
 gildandi	lhfeof	gildandi
 laga	nhfe	lag
 .	.	.
-
 Að	aþ	að
 mati	nheþ	mat
 sifjalaganefndar	nvee	sifjalaganefnd
@@ -4847,7 +4649,6 @@ barnalögum	nhfþ	barnalag
 of	aa	of
 víðtæk	lvensf	víðtækur
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 henni	fpveþ	hún
 telst	sfm3en	telja
@@ -4870,7 +4671,6 @@ faðir	nken	faðir
 barns	nhee	barn
 hennar	fpvee	hún
 .	.	.
-
 Lagt	sþghen	leggja
 er	sfg3en	vera
 til	ae	til
@@ -4897,7 +4697,6 @@ sambúð	nveþ	sambúð
 með	aþ	með
 móður	nveþ	móðir
 .	.	.
-
 Til	ae	til
 þess	fphee	það
 að	c	að
@@ -4918,7 +4717,6 @@ verið	ssg	vera
 tilkynnt	sþgven	tilkynna
 Þjóðskrá	nveþ-s	Þjóðskrá
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 tillögum	nvfþ	tillaga
 nefndarinnar	nveeg	nefnd
@@ -4970,7 +4768,6 @@ gr.	as	gr.
 frumvarps	nhee	frumvarp
 þessa	fahee	þessi
 .	.	.
-
 Í	aþ	í
 þessu	faheþ	þessi
 sambandi	nheþ	samband
@@ -4992,7 +4789,6 @@ tilkynningu	nveþ	tilkynning
 til	ae	til
 Hagstofunnar	nveegs	Hagstofa
 .	.	.
-
 Sú	faven	sá
 tilkynning	nven	tilkynning
 verður	sfg3en	verða

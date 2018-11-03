@@ -1,6 +1,5 @@
 ganga	sng	ganga
 .	.	.
-
 Lagabreytingartillögur	nvfo	lagabreytingartillaga
 þarf	sfg3en	þurfa
 að	cn	að
@@ -19,7 +18,6 @@ reglulegt	lhensf	reglulegur
 er	sfg3en	vera
 haldið	sþghen	halda
 .	.	.
-
 Lagabreytingartillögur	nvfo	lagabreytingartillaga
 sem	ct	sem
 stjórn	nven	stjórn
@@ -36,7 +34,6 @@ en	c	en
 er	sfg3en	vera
 auglýst	sþghen	auglýsa
 .	.	.
-
 Lög	nhfn	lag
 þessi	fahfn	þessi
 voru	sfg3fþ	vera
@@ -50,11 +47,9 @@ Neytendasamtakanna	nhfegs	Neytendasamtök
 september	nkeo	september
 2002	ta	2002
 .	.	.
-
 Leiðbeiningar-	nveng	leiðbeiningaþjónusta
 og	c	og
 kvörtunarþjónustan	nveng	kvörtunarþjónusta
-
 Ef	c	ef
 þú	fp2en	þú
 þarft	sfg2en	þurfa
@@ -73,13 +68,11 @@ til	ae	til
 kvörtunarþjónustu	nvee	kvörtunarþjónusta
 NS	as	NS
 .	.	.
-
 Hverjir	fskfn	hver
 geta	sfg3fn	geta
 notað	ssg	nota
 þjónustuna	nveog	þjónusta
 ?	?	?
-
 Allir	fokfn	allur
 neytendur	nkfn	neytandi
 sem	ct	sem
@@ -106,7 +99,6 @@ og	c	og
 kvörtunarþjónustu	nveþ	kvörtunarþjónusta
 Neytendasamtakanna	nhfegs	Neytendasamtök
 .	.	.
-
 Neytandi	nken	neytandi
 þarf	sfg3en	þurfa
 þó	aa	þó
@@ -128,7 +120,6 @@ mál	nheo	mál
 til	ae	til
 meðferðar	nvee	meðferð
 .	.	.
-
 Neytendur	nkfn	neytandi
 ,	,	,
 kynnið	sbg2fn	kynna
@@ -143,12 +134,10 @@ troða	sng	troða
 á	aþ	á
 honum	fpkeþ	hann
 .	.	.
-
 Hvað	fsheo	hver
 kostar	sfg3en	kosta
 þjónustan	nveng	þjónusta
 ?	?	?
-
 Þjónustan	nveng	þjónusta
 er	sfg3en	vera
 innifalin	lvensf	innifalinn
@@ -186,11 +175,9 @@ grunngjald	nheo	grunngjald
 fyrir	ao	fyrir
 aðstoð	nveo	aðstoð
 .	.	.
-
 Íslenskir	lkfnsf	íslenskur
 neytendur	nkfn	neytandi
 erlendis	aa	erlendis
-
 Neytendasamtökin	nhfng	neytendasamtök
 sjá	sfg3fn	sjá
 um	ao	um
@@ -199,10 +186,8 @@ ENA	as	ENA
 -	-	-
 Evrópska	lvenvf	evrópskur
 neytendaaðstoðin	nveng	neytendaaðstoð
-
 Sjá	sbg2en	sjá
 verðskrá	nveo	verðskrá
-
 Sjá	sng	sjá
 aðstoð	nveo	aðstoð
 og	c	og
@@ -211,28 +196,23 @@ annarra	fokfe	annar
 aðila	nkfe	aðili
 en	c	en
 Neytendasamtakanna	nhfegs	Neytendasamtök
-
 Sjá	sng	sjá
 aðildarform	nheo	aðildarform
-
 21.	ta	21.
 ágúst	nkeo	ágúst
 2003	ta	2003
-
 Ársskýrsla	nven	ársskýrsla
 fyrir	ao	fyrir
 leiðbeininga-	nveo	leiðbeiningaþjónusta
 og	c	og
 kvörtunarþjónustu	nveo	kvörtunarþjónusta
 2002	ta	2002
-
 Almennt	aa	almennt
 um	ao	um
 leiðbeininga-	nveo	leiðbeiningaþjónusta
 og	c	og
 kvörtunarþjónustu	nveo	kvörtunarþjónusta
 Neytendasamtakanna	nhfegs	Neytendasamtök
-
 Leiðbeininga-	nven	leiðbeiningaþjónusta
 og	c	og
 kvörtunarþjónusta	nven	kvörtunarþjónusta
@@ -255,13 +235,11 @@ sem	ct	sem
 þeir	fpkfn	hann
 búa	sfg3fn	búa
 .	.	.
-
 Rekstur	nken	rekstur
 er	sfg3en	vera
 þjónustunnar	nveeg	þjónusta
 tvískiptur	lkensf	tvískiptur
 :	:	:
-
 Annars	fokee	annar
 vegar	nkee	vegur
 svara	sfg3fn	svara
@@ -276,7 +254,6 @@ afskipta	nhfe	afskipti
 af	aþ	af
 málinu	nheþg	mál
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 hafa	sfg3fn	hafa
@@ -300,7 +277,6 @@ sanngjarnri	lveþsf	sanngjarn
 úrlausn	nveþ	úrlausn
 kvörtunarmálsins	nheeg	kvörtunarmál
 .	.	.
-
 Þjónusta	nven	þjónusta
 leiðbeininga-	nveeg	leiðbeiningaþjónusta
 og	c	og
@@ -323,7 +299,6 @@ milligöngu	nveo	milliganga
 í	aþ	í
 kvörtunarmáli	nheþ	kvörtunarmál
 .	.	.
-
 Þúsundir	nvfn	þúsund
 fyrirspurna	nvfe	fyrirspurn
 -	-	-
@@ -343,7 +318,6 @@ tekið	sþghen	taka
 til	ae	til
 notkunar	nvee	notkun
 .	.	.
-
 Tilkoma	nven	tilkoma
 Yfirsýnar	nvee-s	Yfirsýn
 er	sfg3en	vera
@@ -362,7 +336,6 @@ rafrænt	aa	rafrænt
 einn	tfkeo	einn
 stað	nkeo	staður
 .	.	.
-
 Mánuðina	nkfog	mánuður
 tvo	tfkfo	tveir
 sem	ct	sem
@@ -378,7 +351,6 @@ skráðar	sþgvfn	skrá
 1.212	ta	1.212
 fyrirspurnir	nvfn	fyrirspurn
 .	.	.
-
 Fyrir	ao	fyrir
 daga	nkfo	dagur
 Yfirsýnar	nvee	yfirsýn
@@ -415,7 +387,6 @@ sem	ct	sem
 berast	sfm3fn	bera
 Neytendasamtökunum	nhfþgs	Neytendasamtök
 .	.	.
-
 Skráning	nven	skráning
 fyrirspurna	nvfe	fyrirspurn
 á	aþ	á
@@ -424,7 +395,6 @@ fyrirspurna	nvfe	fyrirspurn
 misfórst	sfg3fþ	misfarast
 nokkuð	fohen	nokkur
 .	.	.
-
 Framan	aa	framan
 af	aþ	af
 ári	nheþ	ár
@@ -440,7 +410,6 @@ skráningarblöð	nhfn	skráningarblað
 nokkurra	fokfe	nokkur
 mánaða	nkfe	mánuður
 .	.	.
-
 Í	aþ	í
 ársskýrslunni	nveþg	ársskýrsla
 var	sfg3eþ	vera
@@ -464,7 +433,6 @@ skráða	lveosf	skráður
 af	aþ	af
 Yfirsýn	nveþ-s	Yfirsýn
 .	.	.
-
 Mest	aae	mikið
 var	sfg3eþ	vera
 spurt	sþghen	spyrja
@@ -477,7 +445,6 @@ og	c	og
 eða	c	eða
 hugbúnaðar	nkee	hugbúnaður
 .	.	.
-
 Spurningar	nvfn	spurning
 vegna	ae	vegna
 bifreiða	nvfe	bifreið
@@ -487,7 +454,6 @@ voru	sfg3fþ	vera
 sömuleiðis	aa	sömuleiðis
 áberandi	lvfnof	áberandi
 .	.	.
-
 Sjá	sng	sjá
 nánar	aam	náið
 um	ao	um
@@ -496,12 +462,10 @@ fyrirspurna	nvfe	fyrirspurn
 í	aþ	í
 Ítarlegri	lveþsf	ítarlegur
 ársskýrslu	nveþ	ársskýrsla
-
 254	ta	254
 kvörtunarmál	nhfn	kvörtunarmál
 árið	nheog	ár
 2002	ta	2002
-
 Á	aþ	á
 árinu	nheþg	ár
 2002	ta	2002
@@ -524,14 +488,12 @@ skráð	sþghfn	skrá
 mál	nhfn	mál
 515	ta	515
 .	.	.
-
 Ástæða	nven	ástæða
 fækkunarinnar	nveeg	fækkun
 er	sfg3en	vera
 einkum	aa	einkum
 tvíþætt	lvensf	tvíþættur
 .	.	.
-
 Vegna	ae	vegna
 mikils	lheesf	mikill
 álags	nhee	álag
@@ -564,7 +526,6 @@ ráðleggingum	nvfþ	ráðlegging
 frá	aþ	frá
 leiðbeiningaþjónustunni	nveþg	leiðbeiningaþjónusta
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 virðast	sfm3fn	virða
@@ -584,7 +545,6 @@ til	ae	til
 ábendinga	nvfe	ábending
 Neytendasamtakanna	nhfegs	Neytendasamtök
 .	.	.
-
 Flest	lhfnse	margur
 kvörtunarmál	nhfn	kvörtunarmál
 eru	sfg3fn	vera
@@ -593,7 +553,6 @@ fatnaðar	nkee	fatnaður
 og	c	og
 ferðalaga	nhfe	ferðalag
 .	.	.
-
 Aðrir	fokfn	annar
 áberandi	lkfnof	áberandi
 málaflokkar	nkfn	málaflokkur
@@ -609,7 +568,6 @@ og	c	og
 eða	c	eða
 hugbúnað	nkeo	hugbúnaður
 .	.	.
-
 Sjá	sng	sjá
 nánar	aam	náið
 um	ao	um
@@ -618,12 +576,10 @@ kvörtunarmála	nhfe	kvörtunarmál
 í	aþ	í
 Ítarlegri	lveþsf	ítarlegur
 ársskýrslu	nveþ	ársskýrsla
-
 Sex	tfvfn	sex
 kvörtunar-	nvfn	kvörtunarnefnd
 og	c	og
 úrskurðarnefndir	nvfn	úrskurðarnefnd
-
 Neytendasamtökin	nhfng	neytendasamtök
 eiga	sfg3fn	eiga
 aðild	nveo	aðild
@@ -636,7 +592,6 @@ um	ao	um
 ýmis	fohfo	ýmis
 málefni	nhfo	málefni
 .	.	.
-
 Langflest	lhfnse	langflestur
 mál	nhfn	mál
 komu	sfg3fþ	koma
@@ -648,7 +603,6 @@ vátryggingamálum	nhfþ	vátryggingamál
 eða	c	eða
 2292	ta	2292
 .	.	.
-
 Annir	nvfn	önn
 úrskurðarnefndar	nvee	úrskurðarnefnd
 um	ao	um
@@ -662,7 +616,6 @@ gríðarlega	aa	gríðarlega
 síðustu	lhfþve	síðari
 árum	nhfþ	ár
 .	.	.
-
 Nefndin	nveng	nefnd
 fjallaði	sfg3eþ	fjalla
 um	ao	um
@@ -671,7 +624,6 @@ mál	nhfo	mál
 í	ao	í
 fyrra	lheovm	fyrri
 .	.	.
-
 Fjallað	sþghen	fjalla
 var	sfg3eþ	vera
 um	ao	um
@@ -684,7 +636,6 @@ og	c	og
 Félags	nhee-s	Félag
 efnalaugaeigenda	nkfe	efnalaugaeigandi
 .	.	.
-
 Tvö	tfhfn	tveir
 mál	nhfn	mál
 komu	sfg3fþ	koma
@@ -698,7 +649,6 @@ Félags	nhee-s	Félag
 íslenskra	lvfesf	íslenskur
 ferðaskrifstofa	nvfe	ferðaskrifstofa
 .	.	.
-
 Í	aþ	í
 nóvember	nkeþ	nóvember
 2002	ta	2002
@@ -710,7 +660,6 @@ Tannlæknafélags	nhee-s	Tannlæknafélag
 Íslands	nhee-s	Ísland
 störf	nhfo	starf
 .	.	.
-
 Neytendasamtökin	nhfng	neytendasamtök
 fagna	sfg3fn	fagna
 þessari	faveþ	þessi
@@ -727,7 +676,6 @@ neytenda	nkfe	neytandi
 verði	svg3en	verða
 farsælt	lhensf	farsæll
 .	.	.
-
 Sjá	sng	sjá
 nánar	aam	náið
 um	ao	um
@@ -738,11 +686,9 @@ störf	nhfo	starf
 í	aþ	í
 Ítarlegri	lveþsf	ítarlegur
 ársskýrslu	nveþ	ársskýrsla
-
 10.	ta	10.
 ágúst	nkeo	ágúst
 2005	ta	2005
-
 Ársskýrsla	nven	ársskýrsla
 Leiðbeininga-	nvee	leiðbeiningaþjónusta
 og	c	og
@@ -753,7 +699,6 @@ fyrir	ao	fyrir
 2004	ta	2004
 1	ta	1
 .	.	.
-
 Skipulag	nhen	skipulag
 þjónustunnar	nveeg	þjónusta
 Leiðbeininga-	nven	leiðbeiningaþjónusta
@@ -778,7 +723,6 @@ sem	ct	sem
 þeir	fpkfn	hann
 búa	sfg3fn	búa
 .	.	.
-
 Í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 eru	sfg3fn	vera
@@ -797,10 +741,8 @@ starfsmaður	nken	starfsmaður
 hálfu	lheþsf	hálfur
 starfi	nheþ	starf
 .	.	.
-
 2	ta	2
 .	.	.
-
 Starfsemin	nveng	starfsemi
 Starfsmenn	nkfn	starfsmaður
 leiðbeininga-	nveeg	leiðbeiningaþjónusta
@@ -823,7 +765,6 @@ starfsfólkinu	nheþg	starfsfólk
 en	c	en
 utanfélagsmenn	nkfn	utanfélagsmaður
 .	.	.
-
 Leiðbeiningar	nvfn	leiðbeining
 eru	sfg3fn	vera
 aðallega	aa	aðallega
@@ -849,7 +790,6 @@ og	c	og
 eftir	aþ	eftir
 ráðleggingum	nvfþ	ráðlegging
 .	.	.
-
 Þurfi	svg3en	þurfa
 neytandi	nken	neytandi
 á	aþ	á
@@ -876,7 +816,6 @@ vörunnar	nveeg	vara
 /	/	/
 þjónustunnar	nveeg	þjónusta
 .	.	.
-
 Aðstoð	nven	aðstoð
 kvörtunarþjónustunnar	nveeg	kvörtunarþjónusta
 er	sfg3en	vera
@@ -886,7 +825,6 @@ innifalin	lvensf	innifalinn
 félagsmanna	nkfe	félagsmaður
 Neytendasamtakanna	nhfegs	Neytendasamtök
 .	.	.
-
 Þeir	fakfn	sá
 neytendur	nkfn	neytandi
 sem	ct	sem
@@ -910,10 +848,8 @@ er	sfg3en	vera
 slíkri	fbveþ	slíkur
 milligöngu	nveþ	milliganga
 .	.	.
-
 3	ta	3
 .	.	.
-
 Kostnaður	nken	kostnaður
 við	ao	við
 rekstur	nkeo	rekstur
@@ -948,7 +884,6 @@ Neytendasamtökunum	nhfþgs	Neytendasamtök
 eða	c	eða
 ekki	aa	ekki
 .	.	.
-
 Á	aþ	á
 árinu	nheþg	ár
 2004	ta	2004
@@ -963,7 +898,6 @@ um	aa	um
 milljónir	nvfo	milljón
 króna	nvfe	króna
 .	.	.
-
 Stjórnvöld	nhfn	stjórnvald
 greiddu	sfg3fþ	greiða
 á	aþ	á
@@ -983,7 +917,6 @@ vegna	ae	vegna
 þessarar	favee	þessi
 starfsemi	nvee	starfsemi
 .	.	.
-
 Neytendasamtökin	nhfngs	Neytendasamtök
 verða	sfg3fn	verða
 því	aa	því
@@ -1000,10 +933,8 @@ til	ae	til
 árgjöld	nhfo	árgjald
 félagsmanna	nkfe	félagsmaður
 .	.	.
-
 4	ta	4
 .	.	.
-
 Skráning	nven	skráning
 erinda	nhfe	erindi
 árið	nheog	ár
@@ -1023,7 +954,6 @@ sem	ct	sem
 berast	sfm3fn	bera
 samtökunum	nhfþg	samtök
 .	.	.
-
 Skráð	sþghen	skrá
 er	sfg3en	vera
 hvernig	aa	hvernig
@@ -1045,7 +975,6 @@ samtökunum	nhfþg	samtök
 eða	c	eða
 ekki	aa	ekki
 .	.	.
-
 Árið	nheog	ár
 2004	ta	2004
 voru	sfg3fþ	vera
@@ -1054,7 +983,6 @@ skráð	sþghfn	skrá
 9.967	ta	9.967
 erindi	nhfn	erindi
 .	.	.
-
 Þar	aa	þar
 af	aa	af
 svaraði	sfg3eþ	svara
@@ -1070,10 +998,8 @@ erindi	nhfn	erindi
 voru	sfg3fþ	vera
 3.225	ta	3.225
 .	.	.
-
 5	ta	5
 .	.	.
-
 Fyrirspurnir	nvfn	fyrirspurn
 árið	nheog	ár
 2004	ta	2004
@@ -1095,7 +1021,6 @@ afskipta	nhfe	afskipti
 af	aþ	af
 málinu	nheþg	mál
 .	.	.
-
 Langflestar	lvfnse	langflestur
 fyrirspurnir	nvfn	fyrirspurn
 berast	sfm3fn	bera
@@ -1114,7 +1039,6 @@ gegnum	ao	gegnum
 tölvupóst	nkeo	tölvupóstur
 fjölgað	ssg	fjölga
 .	.	.
-
 Á	aþ	á
 árinu	nheþg	ár
 bárust	sfm3fþ	bera
@@ -1134,7 +1058,6 @@ fyrirspurnir	nvfn	fyrirspurn
 hverjum	fokeþ	hver
 málaflokki	nkeþ	málaflokkur
 .	.	.
-
 Sömuleiðis	aa	sömuleiðis
 bárust	sfm3fþ	bera
 margar	lvfnsf	margur
@@ -1154,10 +1077,8 @@ bárust	sfm3fþ	bera
 hverjum	fokeþ	hver
 málaflokki	nkeþ	málaflokkur
 .	.	.
-
 6	ta	6
 .	.	.
-
 Kvörtunarmál	nhfn	kvörtunarmál
 árið	nheog	ár
 2004	ta	2004
@@ -1184,7 +1105,6 @@ og	c	og
 sanngjarnri	lveþsf	sanngjarn
 lausn	nveþ	lausn
 .	.	.
-
 Slík	fbven	slíkur
 milliganga	nven	milliganga
 fer	sfg3en	fara
@@ -1208,7 +1128,6 @@ málin	nhfng	mál
 leyst	sþghfn	leysa
 símleiðis	aa	símleiðis
 .	.	.
-
 Málum	nhfþ	mál
 er	sfg3en	vera
 einnig	aa	einnig
@@ -1229,7 +1148,6 @@ dómstóla	nkfo	dómstóll
 einstaka	lheþof	einstaka
 tilviki	nheþ	tilvik
 .	.	.
-
 Árið	nheog	ár
 2004	ta	2004
 annaðist	sfm3eþ	anna
@@ -1237,7 +1155,6 @@ kvörtunarþjónustan	nveng	kvörtunarþjónusta
 198	ta	198
 kvörtunarmál	nhfo	kvörtunarmál
 .	.	.
-
 Kvörtunarmálin	nhfng	kvörtunarmál
 skiptast	sfm3fn	skipta
 í	ao	í
@@ -1255,7 +1172,6 @@ tiltekinn	sþgken	tiltaka
 aftasta	lkeþve	aftari
 dálkinum	nkeþg	dálkur
 :	:	:
-
 Flest	lhfnse	margur
 kvörtunarmálin	nhfng	kvörtunarmál
 á	aþ	á
@@ -1269,7 +1185,6 @@ alls	fohee	allur
 27	ta	27
 mál	nhfn	mál
 .	.	.
-
 Aðrir	fokfn	annar
 stórir	lkfnsf	stór
 málaflokkar	nkfn	málaflokkur
@@ -1285,7 +1200,6 @@ mál	nhfn	mál
 hvorum	fokeþ	hvor
 flokki	nkeþ	flokkur
 .	.	.
-
 Einnig	aa	einnig
 var	sfg3eþ	vera
 mikið	lhensf	mikill
@@ -1296,9 +1210,7 @@ bifreiða	nvfe	bifreið
 og	c	og
 tölva	nvfe	tölva
 .	.	.
-
 7.	ta	7.
-
 Starfsemi	nven	starfsemi
 kvörtunar-	nvfe	kvörtunarnefnd
 og	c	og
@@ -1323,7 +1235,6 @@ kvörtunar-	nvfþ	kvörtunarnefnd
 og	c	og
 úrskurðarnefndum	nvfþ	úrskurðarnefnd
 .	.	.
-
 Fjárhagslegir	lkfnsf	fjárhagslegur
 hagsmunir	nkfn	hagsmunir
 í	aþ	í
@@ -1346,7 +1257,6 @@ málin	nhfog	mál
 fyrir	ao	fyrir
 dómstóla	nkfo	dómstóll
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 mikilvægt	lhensf	mikilvægur
@@ -1368,7 +1278,6 @@ og	c	og
 fljótlegur	lkensf	fljótlegur
 kostur	nken	kostur
 .	.	.
-
 Til	ae	til
 að	c	að
 kvörtunarmál	nhen	kvörtunarmál
@@ -1385,7 +1294,6 @@ að	cn	að
 greiða	sng	greiða
 málskotsgjald	nheo	málskotsgjald
 .	.	.
-
 Málskotsgjald	nhen	málskotsgjald
 er	sfg3en	vera
 misjafnlega	aa	misjafnlega
@@ -1419,7 +1327,6 @@ endurgreitt	sþgheo	endurgreiða
 frá	aþ	frá
 seljandanum	nkeþg	seljandi
 .	.	.
-
 Neytandinn	nkeng	neytandi
 getur	sfg3en	geta
 alltaf	aa	alltaf
@@ -1437,7 +1344,6 @@ við	ao	við
 úrskurð	nkeo	úrskurður
 nefndarinnar	nveeg	nefnd
 .	.	.
-
 Kvörtunar-	nvfn	kvörtunarnefnd
 og	c	og
 úrskurðarnefndir	nvfn	úrskurðarnefnd
@@ -1449,13 +1355,11 @@ að	aa	að
 eru	sfg3fn	vera
 eftirtaldar	lvfnsf	eftirtalinn
 :	:	:
-
 Kvörtunarnefnd	nven	kvörtunarnefnd
 Neytendasamtakanna	nhfegs	Neytendasamtök
 og	c	og
 Félags	nhee-s	Félag
 efnalaugaeigenda	nkfe	efnalaugaeigandi
-
 Nefndina	nveog	nefnd
 skipa	sfg3fn	skipa
 þrír	tfkfn	þrír
@@ -1485,17 +1389,14 @@ jafnframt	aa	jafnframt
 formaður	nken	formaður
 nefndarinnar	nveeg	nefnd
 .	.	.
-
 Málskotsgjald	nhen	málskotsgjald
 er	sfg3en	vera
 kr.	as	kr.
 1000	ta	1000
 .	.	.
-
 Úrskurðarnefnd	nven	úrskurðarnefnd
 í	aþ	í
 ferðamálum	nhfþ	ferðamál
-
 Nefndina	nveog	nefnd
 skipa	sfg3fn	skipa
 þrír	tfkfn	þrír
@@ -1525,18 +1426,15 @@ jafnframt	aa	jafnframt
 formaður	nken	formaður
 nefndarinnar	nveeg	nefnd
 .	.	.
-
 Málskotsgjald	nhen	málskotsgjald
 er	sfg3en	vera
 kr.	as	kr.
 3.500	ta	3.500
 .	.	.
-
 Úrskurðarnefnd	nven	úrskurðarnefnd
 um	ao	um
 þjónustu	nveo	þjónusta
 iðnaðarmanna	nkfe	iðnaðarmaður
-
 Nefndin	nveng	nefnd
 er	sfg3en	vera
 fullskipuð	lvensf	fullskipaður
@@ -1556,7 +1454,6 @@ fulltrúar	nkfn	fulltrúi
 sitja	sfg3fn	sitja
 fundi	nkfo	fundur
 .	.	.
-
 Einn	tfken	einn
 fulltrúi	nken	fulltrúi
 er	sfg3en	vera
@@ -1601,17 +1498,14 @@ jafnframt	aa	jafnframt
 formaður	nken	formaður
 nefndarinnar	nveeg	nefnd
 .	.	.
-
 Málskotsgjald	nhen	málskotsgjald
 er	sfg3en	vera
 kr.	as	kr.
 5.000	ta	5.000
 .	.	.
-
 Úrskurðarnefnd	nven	úrskurðarnefnd
 í	aþ	í
 vátryggingamálum	nhfþ	vátryggingamál
-
 Nefndina	nveog	nefnd
 skipa	sfg3fn	skipa
 þrír	tfkfn	þrír
@@ -1622,7 +1516,6 @@ skulu	sfg3fn	skulu
 vera	sng	vera
 löglærðir	lkfnsf	löglærður
 .	.	.
-
 Einn	tfken	einn
 er	sfg3en	vera
 tilnefndur	sþgken	tilnefna
@@ -1645,19 +1538,16 @@ jafnframt	aa	jafnframt
 formaður	nken	formaður
 nefndarinnar	nveeg	nefnd
 .	.	.
-
 Málskotsgjald	nhen	málskotsgjald
 er	sfg3en	vera
 kr.	as	kr.
 5.000	ta	5.000
 .	.	.
-
 Úrskurðarnefnd	nven	úrskurðarnefnd
 um	ao	um
 viðskipti	nhfo	viðskipti
 við	ao	við
 fjármálafyrirtæki	nhfo	fjármálafyrirtæki
-
 Nefndina	nveog	nefnd
 skipa	sfg3fn	skipa
 fimm	tfkfn	fimm
@@ -1682,19 +1572,16 @@ jafnframt	aa	jafnframt
 formaður	nken	formaður
 nefndarinnar	nveeg	nefnd
 .	.	.
-
 Málskotsgjald	nhen	málskotsgjald
 er	sfg3en	vera
 kr.	as	kr.
 5.000	ta	5.000
 .	.	.
-
 Úrskurðarnefnd	nven	úrskurðarnefnd
 Neytendasamtakanna	nhfegs	Neytendasamtök
 og	c	og
 Tannlæknafélags	nhee-s	Tannlæknafélag
 Íslands	nhee-s	Ísland
-
 Nefndina	nveog	nefnd
 skipa	sfg3fn	skipa
 þrír	tfkfn	þrír
@@ -1720,13 +1607,11 @@ jafnframt	aa	jafnframt
 formaður	nken	formaður
 nefndarinnar	nveeg	nefnd
 .	.	.
-
 Málskotsgjald	nhen	málskotsgjald
 er	sfg3en	vera
 kr.	as	kr.
 5.000	ta	5.000
 .	.	.
-
 Úrskurðarnefnd	nven	úrskurðarnefnd
 í	aþ	í
 vátryggingamálum	nhfþ	vátryggingamál
@@ -1745,7 +1630,6 @@ aðrar	fovfn	annar
 hjá	aþ	hjá
 Neytendasamtökunum	nhfþgs	Neytendasamtök
 .	.	.
-
 Kvörtunar-	nvfn	kvörtunarnefnd
 og	c	og
 úrskurðarnefndir	nvfn	úrskurðarnefnd
@@ -1754,50 +1638,40 @@ mála	nhfe	mál
 á	aþ	á
 árinu	nheþg	ár
 2004	ta	2004
-
 Kvörtunarnefnd	nven	kvörtunarnefnd
 Neytendasamtakanna	nhfegs	Neytendasamtök
 og	c	og
 2	ta	2
-
 Félags	nhee-s	Félag
 efnalaugaeigenda	nkfe	efnalaugaeigandi
-
 Kvörtunarnefnd	nven	kvörtunarnefnd
 Neytendasamtakanna	nhfegs	Neytendasamtök
 og	c	og
 5	ta	5
-
 Félags	nhee-s	Félag
 íslenskra	lvfesf	íslenskur
 ferðaskrifstofa	nvfe	ferðaskrifstofa
-
 Úrskurðarnefnd	nven	úrskurðarnefnd
 um	ao	um
 þjónustu	nveo	þjónusta
 iðnaðarmanna	nkfe	iðnaðarmaður
 1	ta	1
-
 Úrskurðarnefnd	nven	úrskurðarnefnd
 í	aþ	í
 vátryggingarmálum	nhfþ	vátryggingarmál
 258	ta	258
-
 Úrskurðarnefnd	nven	úrskurðarnefnd
 um	ao	um
 viðskipti	nhfo	viðskipti
 við	ao	við
 fjármálafyrirtæki	nhfo	fjármálafyrirtæki
 28	ta	28
-
 Úrskurðarnefnd	nven	úrskurðarnefnd
 Neytendasamtakanna	nhfegs	Neytendasamtök
 og	c	og
 2	ta	2
-
 Tannlæknafélags	nhee-s	tannlæknafélag
 Íslands	nhee-s	Ísland
-
 Langflest	lhfnse	langflestur
 mál	nhfn	mál
 koma	sfg3fn	koma
@@ -1806,7 +1680,6 @@ fyrir	ao	fyrir
 í	aþ	í
 vátryggingamálum	nhfþ	vátryggingamál
 .	.	.
-
 Stærsti	lkenve	stór
 hluti	nken	hluti
 málanna	nhfeg	mál
@@ -1824,7 +1697,6 @@ málafjöldinn	nkeng	málafjöldi
 sé	svg3en	vera
 mikill	lkensf	mikill
 .	.	.
-
 Úrskurðarnefnd	nven	úrskurðarnefnd
 um	ao	um
 viðskipti	nhfo	viðskipti
@@ -1839,7 +1711,6 @@ töluvert	aa	töluvert
 færri	lhfovm	fár
 mál	nhfo	mál
 .	.	.
-
 Fjöldi	nken	fjöldi
 mála	nhfe	mál
 í	aþ	í
@@ -1865,7 +1736,6 @@ nefndir	nvfn	nefnd
 séu	svg3fn	vera
 starfræktar	sþgvfn	starfrækja
 .	.	.
-
 Kvörtunarþjónustan	nveng	kvörtunarþjónusta
 nær	sfg3en	ná
 að	cn	að
@@ -1893,7 +1763,6 @@ skýring	nven	skýring
 litlum	lkeþsf	lítill
 málafjölda	nkeþ	málafjöldi
 .	.	.
-
 Í	ao	í
 lok	nhfo	lok
 umfjöllunar	nvee	umfjöllun
@@ -1920,7 +1789,6 @@ er	sfg3en	vera
 hjá	aþ	hjá
 viðskiptaráðuneytinu	nheþg	viðskiptaráðuneyti
 .	.	.
-
 Í	aþ	í
 henni	fpveþ	hún
 sitja	sfg3fn	sitja
@@ -1936,7 +1804,6 @@ tilnefningu	nveþ	tilnefning
 frá	aþ	frá
 Neytendasamtökunum	nhfþgs	Neytendasamtök
 .	.	.
-
 Til	ae	til
 kærunefndarinnar	nveeg	kærunefnd
 geta	sfg3fn	geta
@@ -1964,9 +1831,7 @@ eftir	aþ	eftir
 um	ao	um
 ágreiningsefnið	nheog	ágreiningsefni
 .	.	.
-
 8.	ta	8.
-
 Evrópska	lvenvf	evrópskur
 neytendaaðstoðin	nveng	neytendaaðstoð
 (	(	(
@@ -2005,7 +1870,6 @@ húsa	nhfe	hús
 í	aþ	í
 viðskiptaráðuneytinu	nheþg	viðskiptaráðuneyti
 .	.	.
-
 Hlutverk	nhen	hlutverk
 ENA	as	ENA
 er	sfg3en	vera
@@ -2026,7 +1890,6 @@ landamæri	nhfo	landamæri
 innan	ae	innan
 Evrópu	nvee-s	Evrópa
 .	.	.
-
 Helsta	lhenve	heldri
 verkefni	nhen	verkefni
 Evrópsku	lveevf	evrópskur
@@ -2046,7 +1909,6 @@ við	ao	við
 erlend	lhfosf	erlendur
 fyrirtæki	nhfo	fyrirtæki
 .	.	.
-
 ENA	as	ENA
 aðstoðar	sfg3en	aðstoða
 við	ao	við
@@ -2065,7 +1927,6 @@ afdrifum	nhfþ	afdrif
 málsins	nheeg	mál
 erlendis	aa	erlendis
 .	.	.
-
 Sömuleiðis	aa	sömuleiðis
 annast	sfm3en	anna
 Evrópska	lvenvf	evrópskur
@@ -2088,7 +1949,6 @@ löndum	nhfþ	land
 á	aþ	á
 EES-svæðinu	nheþgs	EES-svæði
 .	.	.
-
 Á	aþ	á
 árinu	nheþg	ár
 2004	ta	2004
@@ -2100,7 +1960,6 @@ til	ae	til
 Evrópsku	lveevf	evrópskur
 neytendaaðstoðarinnar	nveeg	neytendaaðstoð
 .	.	.
-
 Líklegt	lhensf	líklegur
 er	sfg3en	vera
 að	c	að
@@ -2133,7 +1992,6 @@ við	ao	við
 Evrópsku	lveovf	evrópskur
 neytendaaðstoðina	nveog	neytendaaðstoð
 .	.	.
-
 Kvörtunarmál	nhfn	kvörtunarmál
 hjá	aþ	hjá
 Evrópsku	lveþvf	evrópskur
@@ -2144,11 +2002,9 @@ voru	sfg3fþ	vera
 árinu	nheþg	ár
 2004	ta	2004
 .	.	.
-
 14.	ta	14.
 júlí	nkeo	júlí
 2006	ta	2006
-
 Ársskýrsla	nven	ársskýrsla
 Leiðbeininga-	nvee	leiðbeiningaþjónusta
 og	c	og
@@ -2157,7 +2013,6 @@ Neytendasamtakanna	nhfegs	Neytendasamtök
 2005	ta	2005
 1	ta	1
 .	.	.
-
 Starfsemin	nveng	starfsemi
 Leiðbeininga-	nven	leiðbeiningaþjónusta
 og	c	og
@@ -2181,7 +2036,6 @@ sem	ct	sem
 þeir	fpkfn	hann
 búa	sfg3fn	búa
 .	.	.
-
 Í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 eru	sfg3fn	vera
@@ -2200,7 +2054,6 @@ starfsmaður	nken	starfsmaður
 hálfu	lheþsf	hálfur
 starfi	nheþ	starf
 .	.	.
-
 Starfsmenn	nkfn	starfsmaður
 leiðbeininga-	nveeg	leiðbeiningaþjónusta
 og	c	og
@@ -2222,7 +2075,6 @@ starfsfólkinu	nheþg	starfsfólk
 en	c	en
 utanfélagsmenn	nkfn	utanfélagsmaður
 .	.	.
-
 Leiðbeiningar	nvfn	leiðbeining
 eru	sfg3fn	vera
 aðallega	aa	aðallega
@@ -2248,7 +2100,6 @@ og	c	og
 eftir	aþ	eftir
 ráðleggingum	nvfþ	ráðlegging
 .	.	.
-
 Þurfi	svg3en	þurfa
 neytandi	nken	neytandi
 á	aþ	á
@@ -2275,7 +2126,6 @@ vörunnar	nveeg	vara
 /	/	/
 þjónustunnar	nveeg	þjónusta
 .	.	.
-
 Aðstoð	nven	aðstoð
 kvörtunarþjónustunnar	nveeg	kvörtunarþjónusta
 er	sfg3en	vera
@@ -2285,7 +2135,6 @@ innifalin	lvensf	innifalinn
 félagsmanna	nkfe	félagsmaður
 Neytendasamtakanna	nhfegs	Neytendasamtök
 .	.	.
-
 Þeir	fakfn	sá
 neytendur	nkfn	neytandi
 sem	ct	sem
@@ -2309,10 +2158,8 @@ er	sfg3en	vera
 slíkri	fbveþ	slíkur
 milligöngu	nveþ	milliganga
 .	.	.
-
 2	ta	2
 .	.	.
-
 Kostnaður	nken	kostnaður
 við	ao	við
 rekstur	nkeo	rekstur
@@ -2347,7 +2194,6 @@ Neytendasamtökunum	nhfþgs	Neytendasamtök
 eða	c	eða
 ekki	aa	ekki
 .	.	.
-
 Á	aþ	á
 árinu	nheþg	ár
 2005	ta	2005
@@ -2368,7 +2214,6 @@ Leiðbeininga-	nveeg	leiðbeiningaþjónusta
 og	c	og
 kvörtunarþjónustunnar	nveeg	kvörtunarþjónusta
 .	.	.
-
 Neytendasamtökin	nhfng	neytendasamtök
 verða	sfg3fn	verða
 því	aa	því
@@ -2385,7 +2230,6 @@ til	ae	til
 árgjöld	nhfo	árgjald
 félagsmanna	nkfe	félagsmaður
 .	.	.
-
 Neytendasamtökin	nhfngs	Neytendasamtök
 vinna	sfg3fn	vinna
 ötullega	aa	ötullega
@@ -2401,7 +2245,6 @@ og	c	og
 mikilvægi	nheo	mikilvægi
 neytendamála	nhfe	neytendamál
 .	.	.
-
 Vonin	nveng	von
 er	sfg3en	vera
 að	c	að
@@ -2433,14 +2276,10 @@ af	aþ	af
 þjónustusamningnum	nkeþg	þjónustusamningur
 hlýst	sfm3en	hljóta
 .	.	.
-
 3	ta	3
 .	.	.
-
 Félagsaðild	nven	félagsaðild
-
 3.1.	ta	3.1.
-
 Af	aþ	af
 hverju	fsheþ	hver
 að	cn	að
@@ -2452,7 +2291,6 @@ greiða	sng	greiða
 til	ae	til
 Neytendasamtakanna	nhfegs	Neytendasamtök
 ?	?	?
-
 Því	fpheþ	það
 er	sfg3en	vera
 í	aþ	í
@@ -2471,7 +2309,6 @@ leiti	nheþ	leiti
 á	aþ	á
 félagsgjöldum	nhfþ	félagsgjald
 .	.	.
-
 Neytendasamtökin	nhfngs	Neytendasamtök
 eru	sfg3fn	vera
 ekki	aa	ekki
@@ -2492,7 +2329,6 @@ nemur	sfg3en	nema
 tekna	nvfe	tekja
 þeirra	fphfe	það
 .	.	.
-
 Starfsmenn	nkfn	starfsmaður
 Neytendasamtakanna	nhfegs	Neytendasamtök
 verða	sfg3fn	verða
@@ -2513,15 +2349,12 @@ frá	aþ	frá
 hinu	gheþ	hinn
 opinbera	lheþvf	opinber
 .	.	.
-
 3.2.	ta	3.2.
-
 Fleiri	lkfnvm	margur
 félagsmenn	nkfn	félagsmaður
 -	-	-
 öflugri	lhfnvm	öflugur
 samtök	nhfn	samtök
-
 Það	fphen	það
 er	sfg3en	vera
 ástæða	nven	ástæða
@@ -2541,7 +2374,6 @@ hve	aa	hve
 Neytendasamtökin	nhfngs	Neytendasamtök
 eru	sfg3fn	vera
 .	.	.
-
 Þeir	fakfn	sá
 sem	ct	sem
 vilja	sfg3fn	vilja
@@ -2552,7 +2384,6 @@ gerast	sfm3fn	gera
 einfaldlega	aa	einfaldlega
 félagsmenn	nkfn	félagsmaður
 .	.	.
-
 Því	fpheþ	það
 fleiri	lkfnvm	margur
 félagsmenn	nkfn	félagsmaður
@@ -2562,7 +2393,6 @@ geta	sfg3fn	geta
 samtökin	nhfng	samtök
 gert	ssg	gera
 .	.	.
-
 Oft	aa	oft
 eru	sfg3fn	vera
 samtökin	nhfng	samtök
@@ -2582,7 +2412,6 @@ einhverjum	fohfþ	einhver
 tilfellum	nhfþ	tilfelli
 réttmæt	lvensf	réttmætur
 .	.	.
-
 En	c	en
 það	fphen	það
 er	sfg3en	vera
@@ -2623,16 +2452,13 @@ gjarnan	aa	gjarnan
 vildum	svg1fþ	vilja
 sinna	sng	sinna
 .	.	.
-
 3.3.	ta	3.3.
-
 Hvað	fsheo	hver
 fá	sfg3fn	fá
 félagsmenn	nkfn	félagsmaður
 fyrir	ao	fyrir
 árgjaldið	nheog	árgjald
 ?	?	?
-
 Félagsmenn	nkfn	félagsmaður
 fá	sfg3fn	fá
 Neytendablaðið	nheogs	neytendablað
@@ -2646,7 +2472,6 @@ fróðleik	nkeþ	fróðleikur
 fyrir	ao	fyrir
 neytendur	nkfo	neytandi
 .	.	.
-
 Í	aþ	í
 öðru	lheþsf	öðr
 lagi	nheþ	lag
@@ -2678,7 +2503,6 @@ krónur	nvfo	króna
 í	ao	í
 málsskotsgjald	nheo	málsskotsgjald
 .	.	.
-
 Í	aþ	í
 þriðja	lheþvf	þriðji
 lagi	nheþ	lag
@@ -2702,7 +2526,6 @@ og	c	og
 hentugt	lhensf	hentugur
 heimilisbókhald	nhen	heimilisbókhald
 .	.	.
-
 Í	aþ	í
 fjórða	lheþvf	fjórði
 lagi	nheþ	lag
@@ -2724,7 +2547,6 @@ gæði	nhfo	gæði
 á	aþ	á
 vörum	nvfþ	vara
 .	.	.
-
 Í	aþ	í
 fimmta	lheþvf	fimmti
 og	c	og
@@ -2753,7 +2575,6 @@ aðhaldi	nheþ	aðhald
 á	aþ	á
 markaði	nkeþ	markaður
 .	.	.
-
 Fyrir	ao	fyrir
 allt	foheo	allur
 þetta	faheo	þessi
@@ -2767,15 +2588,12 @@ krónur	nvfo	króna
 í	ao	í
 árgjald	nheo	árgjald
 .	.	.
-
 4	ta	4
 .	.	.
-
 Skráning	nven	skráning
 erinda	nhfe	erindi
 árið	nheog	ár
 2005	ta	2005
-
 Neytendasamtökin	nhfngs	Neytendasamtök
 nota	sfg3fn	nota
 tölvuforritið	nheog	tölvuforrit
@@ -2791,7 +2609,6 @@ sem	ct	sem
 berast	sfm3fn	bera
 samtökunum	nhfþg	samtök
 .	.	.
-
 Skráð	sþghen	skrá
 er	sfg3en	vera
 hvernig	aa	hvernig
@@ -2813,7 +2630,6 @@ samtökunum	nhfþg	samtök
 eða	c	eða
 ekki	aa	ekki
 .	.	.
-
 Árið	nheog	ár
 2005	ta	2005
 voru	sfg3fþ	vera
@@ -2822,7 +2638,6 @@ skráð	sþghfn	skrá
 9.229	ta	9.229
 erindi	nhfn	erindi
 .	.	.
-
 Þar	aa	þar
 af	aa	af
 svaraði	sfg3eþ	svara
@@ -2838,21 +2653,16 @@ erindi	nhfn	erindi
 voru	sfg3fþ	vera
 2.820	ta	2.820
 .	.	.
-
 4.1.	ta	4.1.
-
 Hvernig	aa	hvernig
 bárust	sfm3fþ	bera
 erindin	nhfng	erindi
 ?	?	?
-
 5	ta	5
 .	.	.
-
 Fyrirspurnir	nvfn	fyrirspurn
 árið	nheog	ár
 2005	ta	2005
-
 Fyrirspurnir	nvfn	fyrirspurn
 eru	sfg3fn	vera
 spurningar	nvfn	spurning
@@ -2871,7 +2681,6 @@ afskipta	nhfe	afskipti
 af	aþ	af
 málinu	nheþg	mál
 .	.	.
-
 Langflestar	lvfnse	langflestur
 fyrirspurnir	nvfn	fyrirspurn
 berast	sfm3fn	bera
@@ -2890,7 +2699,6 @@ gegnum	ao	gegnum
 tölvupóst	nkeo	tölvupóstur
 fjölgað	ssg	fjölga
 .	.	.
-
 Fyrirspurnirnar	nvfng	fyrirspurn
 skiptust	sfm3fþ	skipta
 í	ao	í
@@ -2908,7 +2716,6 @@ tiltekinn	sþgken	tiltaka
 aftasta	lkeþve	aftari
 dálkinum	nkeþg	dálkur
 :	:	:
-
 Á	aþ	á
 árinu	nheþg	ár
 bárust	sfm3fþ	bera
@@ -2921,7 +2728,6 @@ yfir	aa	yfir
 400	ta	400
 fyrirspurnir	nvfn	fyrirspurn
 .	.	.
-
 Fyrirspurnir	nvfn	fyrirspurn
 vegna	ae	vegna
 inneignarnóta	nvfe	inneignarnóta
@@ -2938,7 +2744,6 @@ fyrirspurnir	nvfn	fyrirspurn
 hverjum	fokeþ	hver
 málaflokki	nkeþ	málaflokkur
 .	.	.
-
 Þá	aa	þá
 leituðu	sfg3fþ	leita
 margir	lkfnsf	margur
@@ -2960,14 +2765,11 @@ skráðar	sþgvfn	skrá
 hverjum	fokeþ	hver
 flokki	nkeþ	flokkur
 .	.	.
-
 6	ta	6
 .	.	.
-
 Kvörtunarmál	nhfn	kvörtunarmál
 árið	nheog	ár
 2005	ta	2005
-
 Í	aþ	í
 kvörtunarmálum	nhfþ	kvörtunarmál
 hefur	sfg3en	hafa
@@ -2991,7 +2793,6 @@ og	c	og
 sanngjarnri	lveþsf	sanngjarn
 lausn	nveþ	lausn
 .	.	.
-
 Slík	fbven	slíkur
 milliganga	nven	milliganga
 fer	sfg3en	fara
@@ -3015,7 +2816,6 @@ málin	nhfng	mál
 leyst	sþghfn	leysa
 símleiðis	aa	símleiðis
 .	.	.
-
 Málum	nhfþ	mál
 er	sfg3en	vera
 einnig	aa	einnig
@@ -3040,7 +2840,6 @@ dómstóla	nkfo	dómstóll
 einstaka	lheþof	einstaka
 tilviki	nheþ	tilvik
 .	.	.
-
 Árið	nheog	ár
 2005	ta	2005
 annaðist	sfm3eþ	anna
@@ -3048,7 +2847,6 @@ kvörtunarþjónustan	nveng	kvörtunarþjónusta
 233	ta	233
 kvörtunarmál	nhfo	kvörtunarmál
 .	.	.
-
 Kvörtunarmálin	nhfng	kvörtunarmál
 skiptast	sfm3fn	skipta
 í	ao	í
@@ -3066,7 +2864,6 @@ tiltekinn	sþgken	tiltaka
 aftasta	lkeþve	aftari
 dálkinum	nkeþg	dálkur
 :	:	:
-
 Flest	lhfnse	margur
 kvörtunarmálin	nhfng	kvörtunarmál
 á	aþ	á
@@ -3078,7 +2875,6 @@ alls	fohee	allur
 28	ta	28
 mál	nhfn	mál
 .	.	.
-
 Einnig	aa	einnig
 fjallaði	sfg3eþ	fjalla
 kvörtunarþjónustan	nveng	kvörtunarþjónusta
@@ -3095,16 +2891,13 @@ húsgögn	nhfo	húsgagn
 og	c	og
 iðnaðarmenn	nkfo	iðnaðarmaður
 .	.	.
-
 7.	ta	7.
-
 Starfsemi	nven	starfsemi
 kvörtunar-	nvfe	kvörtunarnefnd
 og	c	og
 úrskurðarnefnda	nvfe	úrskurðarnefnd
 árið	nheog	ár
 2005	ta	2005
-
 Neytendasamtökin	nhfngs	Neytendasamtök
 hafa	sfg3fn	hafa
 lengi	aa	lengi
@@ -3123,7 +2916,6 @@ kvörtunar-	nvfþ	kvörtunarnefnd
 og	c	og
 úrskurðarnefndum	nvfþ	úrskurðarnefnd
 .	.	.
-
 Fjárhagslegir	lkfnsf	fjárhagslegur
 hagsmunir	nkfn	hagsmunir
 í	aþ	í
@@ -3146,7 +2938,6 @@ málin	nhfog	mál
 fyrir	ao	fyrir
 dómstóla	nkfo	dómstóll
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 mikilvægt	lhensf	mikilvægur
@@ -3168,7 +2959,6 @@ og	c	og
 fljótlegur	lkensf	fljótlegur
 kostur	nken	kostur
 .	.	.
-
 Til	ae	til
 að	c	að
 kvörtunarmál	nhen	kvörtunarmál
@@ -3185,7 +2975,6 @@ að	cn	að
 greiða	sng	greiða
 málskotsgjald	nheo	málskotsgjald
 .	.	.
-
 Málskotsgjald	nhen	málskotsgjald
 er	sfg3en	vera
 misjafnlega	aa	misjafnlega
@@ -3219,7 +3008,6 @@ endurgreitt	sþgheo	endurgreiða
 frá	aþ	frá
 seljandanum	nkeþg	seljandi
 .	.	.
-
 Neytandinn	nkeng	neytandi
 getur	sfg3en	geta
 alltaf	aa	alltaf
@@ -3237,7 +3025,6 @@ við	ao	við
 úrskurð	nkeo	úrskurður
 nefndarinnar	nveeg	nefnd
 .	.	.
-
 Kvörtunar-	nvfn	kvörtunarnefnd
 og	c	og
 úrskurðarnefndir	nvfn	úrskurðarnefnd
@@ -3249,13 +3036,11 @@ að	aa	að
 eru	sfg3fn	vera
 eftirtaldar	lvfnsf	eftirtalinn
 :	:	:
-
 Kvörtunarnefnd	nven	kvörtunarnefnd
 Neytendasamtakanna	nhfegs	Neytendasamtök
 og	c	og
 Félags	nhee-s	Félag
 efnalaugaeigenda	nkfe	efnalaugaeigandi
-
 Nefndina	nveog	nefnd
 skipa	sfg3fn	skipa
 þrír	tfkfn	þrír
@@ -3285,17 +3070,14 @@ jafnframt	aa	jafnframt
 formaður	nken	formaður
 nefndarinnar	nveeg	nefnd
 .	.	.
-
 Málskotsgjald	nhen	málskotsgjald
 er	sfg3en	vera
 kr.	as	kr.
 1.000	ta	1.000
 .	.	.
-
 Úrskurðarnefnd	nven	úrskurðarnefnd
 í	aþ	í
 ferðamálum	nhfþ	ferðamál
-
 Nefndina	nveog	nefnd
 skipa	sfg3fn	skipa
 þrír	tfkfn	þrír
@@ -3325,18 +3107,15 @@ jafnframt	aa	jafnframt
 formaður	nken	formaður
 nefndarinnar	nveeg	nefnd
 .	.	.
-
 Málskotsgjald	nhen	málskotsgjald
 er	sfg3en	vera
 kr.	as	kr.
 3.500	ta	3.500
 .	.	.
-
 Úrskurðarnefnd	nven	úrskurðarnefnd
 um	ao	um
 þjónustu	nveo	þjónusta
 iðnaðarmanna	nkfe	iðnaðarmaður
-
 Nefndin	nveng	nefnd
 er	sfg3en	vera
 fullskipuð	lvensf	fullskipaður
@@ -3356,7 +3135,6 @@ fulltrúar	nkfn	fulltrúi
 sitja	sfg3fn	sitja
 fundi	nkfo	fundur
 .	.	.
-
 Einn	tfken	einn
 fulltrúi	nken	fulltrúi
 er	sfg3en	vera
@@ -3401,17 +3179,14 @@ jafnframt	aa	jafnframt
 formaður	nken	formaður
 nefndarinnar	nveeg	nefnd
 .	.	.
-
 Málskotsgjald	nhen	málskotsgjald
 er	sfg3en	vera
 kr.	as	kr.
 5.000	ta	5.000
 .	.	.
-
 Úrskurðarnefnd	nven	úrskurðarnefnd
 í	aþ	í
 vátryggingamálum	nhfþ	vátryggingamál
-
 Nefndina	nveog	nefnd
 skipa	sfg3fn	skipa
 þrír	tfkfn	þrír
@@ -3422,7 +3197,6 @@ skulu	sfg3fn	skulu
 vera	sng	vera
 löglærðir	lkfnsf	löglærður
 .	.	.
-
 Einn	tfken	einn
 er	sfg3en	vera
 tilnefndur	sþgken	tilnefna
@@ -3445,19 +3219,16 @@ jafnframt	aa	jafnframt
 formaður	nken	formaður
 nefndarinnar	nveeg	nefnd
 .	.	.
-
 Málskotsgjald	nhen	málskotsgjald
 er	sfg3en	vera
 kr.	as	kr.
 6.000	ta	6.000
 .	.	.
-
 Úrskurðarnefnd	nven	úrskurðarnefnd
 um	ao	um
 viðskipti	nhfo	viðskipti
 við	ao	við
 fjármálafyrirtæki	nhfo	fjármálafyrirtæki
-
 Nefndina	nveog	nefnd
 skipa	sfg3fn	skipa
 fimm	tfkfn	fimm
@@ -3482,19 +3253,16 @@ jafnframt	aa	jafnframt
 formaður	nken	formaður
 nefndarinnar	nveeg	nefnd
 .	.	.
-
 Málskotsgjald	nhen	málskotsgjald
 er	sfg3en	vera
 kr.	as	kr.
 5.000	ta	5.000
 .	.	.
-
 Úrskurðarnefnd	nven	úrskurðarnefnd
 Neytendasamtakanna	nhfegs	Neytendasamtök
 og	c	og
 Tannlæknafélags	nhee-s	Tannlæknafélag
 Íslands	nhee-s	Ísland
-
 Nefndina	nveog	nefnd
 skipa	sfg3fn	skipa
 þrír	tfkfn	þrír
@@ -3520,13 +3288,11 @@ jafnframt	aa	jafnframt
 formaður	nken	formaður
 nefndarinnar	nveeg	nefnd
 .	.	.
-
 Málskotsgjald	nhen	málskotsgjald
 er	sfg3en	vera
 kr.	as	kr.
 5.000	ta	5.000
 .	.	.
-
 Úrskurðarnefnd	nven	úrskurðarnefnd
 í	aþ	í
 vátryggingamálum	nhfþ	vátryggingamál
@@ -3545,13 +3311,11 @@ aðrar	fovfn	annar
 hjá	aþ	hjá
 Neytendasamtökunum	nhfþgs	Neytendasamtök
 .	.	.
-
 Fjöldi	nken	fjöldi
 mála	nhfe	mál
 á	aþ	á
 árinu	nheþg	ár
 2005	ta	2005
-
 Kvörtunarnefnd	nven	kvörtunarnefnd
 Neytendasamtakanna	nhfegs	Neytendasamtök
 og	c	og
@@ -3559,26 +3323,22 @@ Félags	nhee-s	Félag
 efnalaugaeigenda	nkfe	efnalaugaeigandi
 3	ta	3
 mál	nhfn	mál
-
 Úrskuðarnefnd	nven	úrskuðarnefnd
 í	aþ	í
 ferðamálum	nhfþ	ferðamál
 5	ta	5
 mál	nhfn	mál
-
 Úrskurðarnefnd	nven	úrskurðarnefnd
 um	ao	um
 þjónustu	nveo	þjónusta
 iðnaðarmanna	nkfe	iðnaðarmaður
 ekkert	fohen	enginn
 mál	nhen	mál
-
 Úrskurðarnefnd	nven	úrskurðarnefnd
 í	aþ	í
 vátryggingarmálum	nhfþ	vátryggingarmál
 225	ta	225
 mál	nhfn	mál
-
 Úrskurðarnefnd	nven	úrskurðarnefnd
 um	ao	um
 viðskipti	nhfo	viðskipti
@@ -3586,7 +3346,6 @@ við	ao	við
 fjármálafyrirtæki	nhfo	fjármálafyrirtæki
 14	ta	14
 mál	nhfn	mál
-
 Úrskurðarnefnd	nven	úrskurðarnefnd
 Neytendasamtakanna	nhfegs	Neytendasamtök
 og	c	og
@@ -3594,7 +3353,6 @@ Tannlæknafélags	nhee-s	Tannlæknafélag
 Íslands	nhee-s	Ísland
 1	ta	1
 mál	nhen	mál
-
 Langflest	lhfnse	langflestur
 mál	nhfn	mál
 koma	sfg3fn	koma
@@ -3603,7 +3361,6 @@ fyrir	ao	fyrir
 í	aþ	í
 vátryggingamálum	nhfþ	vátryggingamál
 .	.	.
-
 Stærsti	lkenve	stór
 hluti	nken	hluti
 málanna	nhfeg	mál
@@ -3621,7 +3378,6 @@ málafjöldinn	nkeng	málafjöldi
 sé	svg3en	vera
 mikill	lkensf	mikill
 .	.	.
-
 Úrskurðarnefnd	nven	úrskurðarnefnd
 um	ao	um
 viðskipti	nhfo	viðskipti
@@ -3636,7 +3392,6 @@ töluvert	aa	töluvert
 færri	lhfovm	fár
 mál	nhfo	mál
 .	.	.
-
 Fjöldi	nken	fjöldi
 mála	nhfe	mál
 í	aþ	í
@@ -3662,7 +3417,6 @@ nefndir	nvfn	nefnd
 séu	svg3fn	vera
 starfræktar	sþgvfn	starfrækja
 .	.	.
-
 Kvörtunarþjónustan	nveng	kvörtunarþjónusta
 nær	sfg3en	ná
 að	cn	að
@@ -3690,7 +3444,6 @@ skýring	nven	skýring
 litlum	lkeþsf	lítill
 málafjölda	nkeþ	málafjöldi
 .	.	.
-
 Í	ao	í
 lok	nhfo	lok
 umfjöllunar	nvee	umfjöllun
@@ -3717,7 +3470,6 @@ er	sfg3en	vera
 hjá	aþ	hjá
 Neytendastofu	nveþ-s	Neytendastofa
 .	.	.
-
 Í	aþ	í
 henni	fpveþ	hún
 sitja	sfg3fn	sitja
@@ -3733,7 +3485,6 @@ tilnefningu	nveþ	tilnefning
 frá	aþ	frá
 Neytendasamtökunum	nhfþgs	Neytendasamtök
 .	.	.
-
 Til	ae	til
 kærunefndarinnar	nveeg	kærunefnd
 geta	sfg3fn	geta
@@ -3761,9 +3512,7 @@ eftir	aþ	eftir
 um	ao	um
 ágreiningsefnið	nheog	ágreiningsefni
 .	.	.
-
 8.	ta	8.
-
 Evrópska	lvenvf	evrópskur
 neytendaaðstoðin	nveng	neytendaaðstoð
 (	(	(
@@ -3802,7 +3551,6 @@ húsa	nhfe	hús
 í	aþ	í
 viðskiptaráðuneytinu	nheþg	viðskiptaráðuneyti
 .	.	.
-
 Hlutverk	nhen	hlutverk
 ENA	as	ENA
 er	sfg3en	vera
@@ -3823,7 +3571,6 @@ landamæri	nhfo	landamæri
 innan	ae	innan
 Evrópu	nvee-s	Evrópa
 .	.	.
-
 Helsta	lhenve	heldri
 verkefni	nhen	verkefni
 Evrópsku	lveevf	evrópskur
@@ -3843,7 +3590,6 @@ við	ao	við
 erlend	lhfosf	erlendur
 fyrirtæki	nhfo	fyrirtæki
 .	.	.
-
 ENA	as	ENA
 aðstoðar	sfg3en	aðstoða
 við	ao	við
@@ -3862,7 +3608,6 @@ afdrifum	nhfþ	afdrif
 málsins	nheeg	mál
 erlendis	aa	erlendis
 .	.	.
-
 Sömuleiðis	aa	sömuleiðis
 annast	sfm3en	anna
 Evrópska	lvenvf	evrópskur
@@ -3885,7 +3630,6 @@ löndum	nhfþ	land
 á	aþ	á
 EES-svæðinu	nheþgs	EES-svæði
 .	.	.
-
 Á	aþ	á
 árinu	nheþg	ár
 2005	ta	2005
@@ -3897,7 +3641,6 @@ til	ae	til
 Evrópsku	lveevf	evrópskur
 neytendaaðstoðarinnar	nveeg	neytendaaðstoð
 .	.	.
-
 Kvörtunarmál	nhfn	kvörtunarmál
 hjá	aþ	hjá
 Evrópsku	lveþvf	evrópskur
@@ -3908,18 +3651,15 @@ voru	sfg3fþ	vera
 árinu	nheþg	ár
 2005	ta	2005
 .	.	.
-
 Reykjavík	nveþ-s	Reykjavík
 ,	,	,
 13.	ta	13.
 júlí	nkeo	júlí
 2006	ta	2006
-
 Úrskurðarnefndir	nvfn	úrskurðarnefnd
 NS	as	NS
 og	c	og
 samstarfsaðila	nkfe	samstarfsaðili
-
 Á	aþ	á
 vegum	nkfþ	vegur
 NS	as	NS
@@ -3939,7 +3679,6 @@ seljenda	nkfe	seljandi
 ýmsum	fohfþ	ýmis
 sviðum	nhfþ	svið
 .	.	.
-
 Eiga	sfg3fn	eiga
 samtökin	nhfng	samtök
 aðild	nveo	aðild
@@ -3949,7 +3688,6 @@ kvörtunar-	nvfþ	kvörtunarnefnd
 og	c	og
 úrskurðarnefndum	nvfþ	úrskurðarnefnd
 .	.	.
-
 Þessar	favfn	þessi
 nefndir	nvfn	nefnd
 eru	sfg3fn	vera
@@ -3971,7 +3709,6 @@ málum	nhfþ	mál
 fyrir	ao	fyrir
 nefndirnar	nvfog	nefnd
 .	.	.
-
 Sameiginlegt	lhensf	sameiginlegur
 er	sfg3en	vera
 með	aþ	með
@@ -3997,7 +3734,6 @@ mishátt	lhensf	mishár
 eftir	aþ	eftir
 nefndum	nvfþ	nefnd
 .	.	.
-
 Vinni	svg3en	vinna
 neytandi	nken	neytandi
 mál	nheo	mál
@@ -4015,7 +3751,6 @@ endurgreitt	sþgheo	endurgreiða
 frá	aþ	frá
 seljanda	nkeþ	seljandi
 .	.	.
-
 Sé	svg3en	vera
 neytandi	nken	neytandi
 ósáttur	lkensf	ósáttur
@@ -4030,9 +3765,7 @@ málið	nheog	mál
 til	ae	til
 dómstóla	nkfe	dómstóll
 .	.	.
-
 Vátryggingar	nvfn	vátrygging
-
 Úrskurðarnefnd	nven	úrskurðarnefnd
 í	aþ	í
 samvinnu	nveþ	samvinna
@@ -4065,7 +3798,6 @@ hér	aa	hér
 á	aþ	á
 landi	nheþ	land
 .	.	.
-
 Nefndina	nveog	nefnd
 skipa	sfg3fn	skipa
 þrír	tfkfn	þrír
@@ -4076,7 +3808,6 @@ skulu	sfg3fn	skulu
 vera	sng	vera
 löglærðir	lkfnsf	löglærður
 .	.	.
-
 Einn	tfken	einn
 er	sfg3en	vera
 tilnefndur	sþgken	tilnefna
@@ -4099,16 +3830,13 @@ jafnframt	aa	jafnframt
 formaður	nken	formaður
 nefndarinnar	nveeg	nefnd
 .	.	.
-
 Úrskurðarnefndin	nveng	úrskurðarnefnd
 er	sfg3en	vera
 vistuð	sþgven	vista
 hjá	aþ	hjá
 Fjármálaeftirlitinu	nheþgs	Fjármálaeftirlit
 .	.	.
-
 Fjármálamarkaður	nken	fjármálamarkaður
-
 Úrskurðarnefnd	nven	úrskurðarnefnd
 í	aþ	í
 samvinnu	nveþ	samvinna
@@ -4142,7 +3870,6 @@ og	c	og
 dótturfyrirtæki	nhfo	dótturfyrirtæki
 þeirra	fphfe	það
 .	.	.
-
 Nefndina	nveog	nefnd
 skipa	sfg3fn	skipa
 fimm	tfkfn	fimm
@@ -4167,18 +3894,15 @@ jafnframt	aa	jafnframt
 formaður	nken	formaður
 nefndarinnar	nveeg	nefnd
 .	.	.
-
 úrskurðarnefndin	nveng	úrskurðarnefnd
 er	sfg3en	vera
 vistuð	sþgven	vista
 hjá	aþ	hjá
 Fjármálaeftirlitinu	nheþgs	Fjármálaeftirlit
 .	.	.
-
 Efnalaugar	nvfn	efnalaug
 og	c	og
 þvottahús	nhfn	þvottahús
-
 Úrskurðarnefnd	nven	úrskurðarnefnd
 NS	as	NS
 og	c	og
@@ -4193,7 +3917,6 @@ efnalauga	nvfe	efnalaug
 og	c	og
 þvottahúsa	nhfe	þvottahús
 .	.	.
-
 Nefndina	nveog	nefnd
 skipa	sfg3fn	skipa
 þrír	tfkfn	þrír
@@ -4223,16 +3946,13 @@ jafnframt	aa	jafnframt
 formaður	nken	formaður
 nefndarinnar	nveeg	nefnd
 .	.	.
-
 Úrskurðarnefndin	nveng	úrskurðarnefnd
 er	sfg3en	vera
 vistuð	sþgven	vista
 hjá	aþ	hjá
 Neytendendasamtökunum	nhfþgs	neytendendasamtök
 .	.	.
-
 Ferðalög	nhfn	ferðalag
-
 Úrskurðarnefndin	nveng	úrskurðarnefnd
 fjallar	sfg3en	fjalla
 um	ao	um
@@ -4248,7 +3968,6 @@ ferðaskrifstofum	nvfþ	ferðaskrifstofa
 samtökum	nhfþ	samtök
 ferðaþjónustunnar	nveeg	ferðaþjónusta
 .	.	.
-
 Nefndina	nveog	nefnd
 skipa	sfg3fn	skipa
 þrír	tfkfn	þrír
@@ -4278,17 +3997,14 @@ jafnframt	aa	jafnframt
 formaður	nken	formaður
 nefndarinnar	nveeg	nefnd
 .	.	.
-
 Úrskurðarnefndin	nveng	úrskurðarnefnd
 er	sfg3en	vera
 vistuð	sþgven	vista
 hjá	aþ	hjá
 Neytendasamtökunum	nhfþgs	Neytendasamtök
 .	.	.
-
 Þjónusta	nven	þjónusta
 iðnaðarmanna	nkfe	iðnaðarmaður
-
 Úrskurðarnefnd	nven	úrskurðarnefnd
 í	aþ	í
 samvinnu	nveþ	samvinna
@@ -4321,7 +4037,6 @@ kaupa	nhfe	kaup
 á	aþ	á
 þjónustu	nveþ	þjónusta
 iðnaðarmanna	nkfe	iðnaðarmaður
-
 Nefndina	nveog	nefnd
 skipa	sfg3fn	skipa
 fimm	tfkfn	fimm
@@ -4364,16 +4079,13 @@ jafnframt	aa	jafnframt
 formaður	nken	formaður
 nefndarinnar	nveeg	nefnd
 .	.	.
-
 Úrskurðarnefndin	nveng	úrskurðarnefnd
 er	sfg3en	vera
 vistuð	sþgven	vista
 hjá	aþ	hjá
 Neytendasamtökunum	nhfþgs	Neytendasamtök
 .	.	.
-
 Tannlækningar	nvfn	tannlækningar
-
 Úrskurðarnefnd	nven	úrskurðarnefnd
 í	aþ	í
 samvinnu	nveþ	samvinna
@@ -4391,7 +4103,6 @@ kaupa	nhfe	kaup
 þjónustu	nveþ	þjónusta
 tannlækna	nkfe	tannlæknir
 .	.	.
-
 Nefndina	nveog	nefnd
 skipa	sfg3fn	skipa
 þrír	tfkfn	þrír
@@ -4417,18 +4128,15 @@ jafnframt	aa	jafnframt
 formaður	nken	formaður
 nefndarinnar	nveeg	nefnd
 .	.	.
-
 Úrskurðarnefndin	nveng	úrskurðarnefnd
 er	sfg3en	vera
 vistuð	sþgven	vista
 hjá	aþ	hjá
 Neytendasamtökunum	nhfþgs	Neytendasamtök
 .	.	.
-
 Lausafjár-	nhfn	lausafjárkaup
 og	c	og
 þjónustukaup	nhfn	þjónustukaup
-
 Kærunefnd	nven	kærunefnd
 lausafjár-	nhfe	lausafjárkaup
 og	c	og
@@ -4458,7 +4166,6 @@ neytendakaup	nhfo	neytendakaup
 nr.	as	nr.
 48/2003	ta	48/2003
 .	.	.
-
 Nefndin	nveng	nefnd
 var	sfg3eþ	vera
 skipuð	sþgven	skipa
@@ -4469,7 +4176,6 @@ loka	nhfe	lok
 ársins	nheeg	ár
 2005	ta	2005
 .	.	.
-
 Hún	fpven	hún
 hefur	sfg3en	hafa
 nú	aa	nú
@@ -4488,12 +4194,10 @@ Borgartúni	nheþ-s	Borgartún
 105	ta	105
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Velkomin	lhfnsf	velkominn
 til	ae	til
 Evrópsku	lveevf	evrópskur
 neytendaaðstoðarinnar	nveeg	neytendaaðstoð
-
 Hjá	aþ	hjá
 okkur	fp1fþ	ég
 getur	sfg2en	geta
@@ -4509,7 +4213,6 @@ neytandi	nken	neytandi
 löndum	nhfþ	land
 Evrópu	nvee-s	Evrópa
 .	.	.
-
 Við	fp1fn	ég
 getum	sfg1fn	geta
 líka	aa	líka
@@ -4525,7 +4228,6 @@ seljanda	nkee	seljandi
 öðru	foheþ	annar
 Evrópulandi	nheþ-s	Evrópuland
 .	.	.
-
 Evrópska	lvenvf	evrópskur
 neytendaaðstoðin	nveng	neytendaaðstoð
 er	sfg3en	vera
@@ -4539,7 +4241,6 @@ Consumer	e	Consumer
 Centre	e	Centre
 Net	e	Net
 .	.	.
-
 Skrifstofa	nven	skrifstofa
 okkar	fp1fe	ég
 er	sfg3en	vera
@@ -4556,9 +4257,7 @@ og	c	og
 Framkvæmdastjórnar	nvee-s	Framkvæmdastjórn
 Evrópu-sambandsins	nheegs	Evrópusamband
 .	.	.
-
 Opnunartími	nken	opnunartími
-
 Skrifstofan	nveng	skrifstofa
 er	sfg3en	vera
 opin	lvensf	opinn
@@ -4570,7 +4269,6 @@ alla	fokfo	allur
 virka	lkfosf	virkur
 daga	nkfo	dagur
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 hægt	lhensf	hægur
@@ -4591,16 +4289,13 @@ eða	c	eða
 senda	sng	senda
 tölvupóst	nkeo	tölvupóstur
 .	.	.
-
 Fréttir	nvfn	frétt
-
 Annríki	nhen	annríki
 í	aþ	í
 sjúkraflutningum	nkfþ	sjúkraflutningur
 |	|	|
 04-01-2007	ta	04-01-2007
 |	|	|
-
 Mikið	lhensf	mikill
 annríki	nhen	annríki
 var	sfg3eþ	vera
@@ -4637,7 +4332,6 @@ jóladagana	nkfog	jóladagur
 og	c	og
 áramótin	nhfog	áramót
 .	.	.
-
 Þá	aa	þá
 var	sfg3eþ	vera
 nokkuð	fohen	nokkur
@@ -4672,7 +4366,6 @@ slys	nhfo	slys
 vegna	ae	vegna
 flugelda	nkfe	flugeldur
 .	.	.
-
 Samtals	aa	samtals
 var	sfg3eþ	vera
 óskað	sþghen	óska
@@ -4684,7 +4377,6 @@ sinnum	nhfþ	sinn
 í	aþ	í
 desember	nkeþ	desember
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 nokkur	foven	nokkur
@@ -4698,7 +4390,6 @@ sjúkraflutningar	nkfn	sjúkraflutningur
 voru	sfg3fþ	vera
 1969	ta	1969
 .	.	.
-
 Nokkur	fohfn	nokkur
 útköll	nhfn	útkall
 urðu	sfg3fþ	verða
@@ -4726,7 +4417,6 @@ ruslatunnum	nvfþ	ruslatunna
 og	c	og
 slíkt	fbhen	slíkur
 .	.	.
-
 Þó	aa	þó
 var	sfg3eþ	vera
 allt	fohen	allur
@@ -4746,13 +4436,11 @@ klæðningu	nveþ	klæðning
 í	aþ	í
 Rimaskóla	nkeþ-s	Rimaskóli
 .	.	.
-
 Töluverðar	lvfnsf	töluverður
 skemmdir	nvfn	skemmd
 urðu	sfg3fþ	verða
 þar	aa	þar
 .	.	.
-
 Samtals	aa	samtals
 urðu	sfg3fþ	verða
 útköll	nhfn	útkall
@@ -4761,7 +4449,6 @@ slökkvibíla	nkfe	slökkvibíll
 desember	nkeþ	desember
 153	ta	153
 .	.	.
-
 Það	fphen	það
 eru	sfg3fn	vera
 næstum	aa	næstum
@@ -4786,7 +4473,6 @@ desember	nkeþ	desember
 voru	sfg3fþ	vera
 121	ta	121
 .	.	.
-
 Undanfarin	lhfosf	undanfarinn
 ár	nhfo	ár
 hefur	sfg3en	hafa
@@ -4808,7 +4494,6 @@ jólin	nhfog	jól
 í	aþ	í
 forvarnaskyni	nheþ	forvarnaskyn
 .	.	.
-
 Að	aþ	að
 þessu	faheþ	þessi
 sinni	nheþ	sinn
@@ -4831,7 +4516,6 @@ málum	nhfþ	mál
 inná	aþ	inná
 heimilunum	nhfþg	heimili
 .	.	.
-
 Eins	aa	eins
 og	c	og
 áður	aa	áður
@@ -4875,7 +4559,6 @@ brennum	nvfþ	brenna
 þennan	fakeo	þessi
 dag	nkeo	dagur
 .	.	.
-
 Brennurnar	nvfng	brenna
 voru	sfg3fþ	vera
 sautján	tfvfn	sautján
@@ -4883,7 +4566,6 @@ að	aþ	að
 þessu	faheþ	þessi
 sinni	nheþ	sinn
 .	.	.
-
 Þá	aa	þá
 skoðaði	sfg3eþ	skoða
 forvarnadeildin	nveng	forvarnadeild
@@ -4902,14 +4584,12 @@ samstarfi	nheþ	samstarf
 við	ao	við
 lögreglu	nveo	lögregla
 .	.	.
-
 Merkum	lkeþsf	merkur
 áfanga	nkeþ	áfangi
 náð	sþghen	ná
 |	|	|
 29-12-2006	ta	29-12-2006
 |	|	|
-
 Vinnuferlar	nkfn	vinnuferill
 fyrir	ao	fyrir
 sjúkraflutningamenn	nkfo	sjúkraflutningamaður
@@ -4933,7 +4613,6 @@ frekar	aam	frekar
 sjúkraflutningaþjónustu	nveo	sjúkraflutningaþjónusta
 landsmanna	nkfe	landsmaður
 .	.	.
-
 Vinnuferlarnir	nkfng	vinnuferill
 taka	sfg3fn	taka
 á	aþ	á
@@ -4959,7 +4638,6 @@ betri	lveovm	góður
 við	ao	við
 sjúklinga	nkfo	sjúklingur
 .	.	.
-
 Vinnuferlarnir	nkfng	vinnuferill
 eru	sfg3fn	vera
 þannig	aa	þannig
@@ -4996,5 +4674,4 @@ sérmenntun	nven	sérmenntun
 EMT-P	x	EMT-P
 )	)	)
 .	.	.
-
 Það	fphen	það

@@ -12,7 +12,6 @@ tekur	sfg3en	taka
 mið	nheo	mið
 af	aa	af
 .	.	.
-
 Í	aþ	í
 skýrslunni	nveþg	skýrsla
 hvetur	sfg3en	hvetja
@@ -43,7 +42,6 @@ við	ao	við
 úthlutun	nveo	úthlutun
 kvóta	nkee	kvóti
 .	.	.
-
 Í	aþ	í
 frétt	nveþ	frétt
 Morgunblaðsins	nheegs	Morgunblað
@@ -92,7 +90,6 @@ afstöðu	nveo	afstaða
 er	sfg3en	vera
 óljós	lvensf	óljós
 .	.	.
-
 Þar	aa	þar
 með	aa	með
 er	sfg3en	vera
@@ -121,7 +118,6 @@ sjálfa	fbveo	sjálfur
 sig	fpveo	sig
 .	.	.
 »	»	»
-
 Þann	fakeo	sá
 9.	ta	9.
 febrúar	nkeo	febrúar
@@ -140,7 +136,6 @@ vísað	sþghen	vísa
 fyrri	lveovm	fyrri
 greinina	nveog	grein
 .	.	.
-
 Í	aþ	í
 seinni	lveþvm	seinn
 greininni	nveþg	grein
@@ -159,7 +154,6 @@ sé	svg3en	vera
 sprelllifandi	lkenof	sprelllifandi
 »	»	»
 .	.	.
-
 Hudghton	e	Hudghton
 fullyrðir	sfg3en	fullyrða
 að	c	að
@@ -175,7 +169,6 @@ kjölfar	nheo	kjölfar
 grænbókar	nvee	grænbók
 framkvæmdastjórnarinnar	nveeg	framkvæmdastjórn
 .	.	.
-
 Margir	lkfnsf	margur
 þingmenn	nkfn	þingmaður
 sátu	sfg3fþ	sitja
@@ -195,7 +188,6 @@ að	cn	að
 opinbera	sng	opinbera
 grænbókina	nveog	grænbók
 .	.	.
-
 Stór	lkensf	stór
 hluti	nken	hluti
 þingheims	nkee	þingheimur
@@ -212,7 +204,6 @@ dóm	nkeo	dómur
 um	ao	um
 málið	nheog	mál
 .	.	.
-
 Hudghton	e	Hudghton
 bætir	sfg3en	bæta
 því	fpheþ	það
@@ -233,7 +224,6 @@ látið	ssg	láta
 veðri	nheþ	veður
 vaka	sng	vaka
 .	.	.
-
 Vissulega	aa	vissulega
 vilja	sfg3fn	vilja
 sumir	fokfn	sumur
@@ -248,7 +238,6 @@ Portúgal	nheþ-s	Portúgal
 hann	fpkeo	hann
 feigan	lkeosf	feigur
 .	.	.
-
 Afstaða	nven	afstaða
 breskra	lkfesf	breskur
 og	c	og
@@ -273,7 +262,6 @@ breytingar	nvfo	breyting
 á	aþ	á
 honum	fpkeþ	hann
 .	.	.
-
 Þessi	faven	þessi
 afstaða	nven	afstaða
 endurspeglast	sfm3en	endurspegla
@@ -305,7 +293,6 @@ eiga	sfg3fn	eiga
 undir	aþ	undir
 sjávarútvegi	nkeþ	sjávarútvegur
 .	.	.
-
 Í	aþ	í
 skýrslunni	nveþg	skýrsla
 er	sfg3en	vera
@@ -319,7 +306,6 @@ dregin	sþgven	draga
 í	ao	í
 efa	nkeo	efi
 .	.	.
-
 Hér	aa	hér
 ber	sfg3en	bera
 að	cn	að
@@ -332,7 +318,6 @@ ekki	aa	ekki
 hlutfallslega	lkeevf	hlutfallslegur
 stöðugleikans	nkeeg	stöðugleiki
 .	.	.
-
 Ákvarðanatökuvaldið	nheng	ákvarðanatökuvald
 er	sfg3en	vera
 á	aþ	á
@@ -346,7 +331,6 @@ sátt	nven	sátt
 um	ao	um
 stöðugleikann	nkeog	stöðugleiki
 .	.	.
-
 Í	aþ	í
 frétt	nveþ	frétt
 Morgunblaðsins	nheegs	Morgunblað
@@ -379,7 +363,6 @@ yfirstandandi	lveoof	yfirstandandi
 endurskoðun	nveo	endurskoðun
 sjávarútvegsstefnunnar	nveeg	sjávarútvegsstefna
 .	.	.
-
 Þetta	fahen	þessi
 innskot	nhen	innskot
 Árna	nkee-s	Árni
@@ -387,7 +370,6 @@ er	sfg3en	vera
 afar	aa	afar
 athyglisvert	lhensf	athyglisverður
 .	.	.
-
 Stuttu	lheþsf	stuttur
 áður	aa	áður
 en	c	en
@@ -421,7 +403,6 @@ að	c	að
 frumkvæði	nheþ	frumkvæði
 Íslendinga	nkfe-s	Íslendingur
 .	.	.
-
 Á	aþ	á
 ráðstefnunni	nveþg	ráðstefna
 ,	,	,
@@ -459,7 +440,6 @@ frá	aþ	frá
 sjávarútvegsnefnd	nveþ	sjávarútvegsnefnd
 Evrópuþingsins	nheegs	Evrópuþing
 .	.	.
-
 Á	aþ	á
 ráðstefnunni	nveþg	ráðstefna
 greindi	sfg3eþ	greina
@@ -478,7 +458,6 @@ frá	aþ	frá
 efni	nheþ	efni
 skýrslunnar	nveeg	skýrsla
 .	.	.
-
 Í	aþ	í
 máli	nheþ	mál
 hans	fpkee	hann
@@ -497,7 +476,6 @@ við	aþ	við
 hlutfallslega	lkeþvf	hlutfallslegur
 stöðugleikanum	nkeþg	stöðugleiki
 .	.	.
-
 Þrátt	aa	þrátt
 fyrir	ao	fyrir
 að	c	að
@@ -537,7 +515,6 @@ febrúar	nkeo	febrúar
 2001	ta	2001
 )	)	)
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 því	aa	því
@@ -558,7 +535,6 @@ stendur	sfg3en	standa
 traustum	lkfþsf	traustur
 fótum	nkfþ	fótur
 .	.	.
-
 Morgunblaðið	nhengs	Morgunblað
 er	sfg3en	vera
 aftur	aa	aftur
@@ -575,7 +551,6 @@ stöðugleikans	nkeeg	stöðugleiki
 maí	nkeo	maí
 2001	ta	2001
 .	.	.
-
 Í	ao	í
 þetta	faheo	þessi
 skiptið	nheog	skipti
@@ -589,7 +564,6 @@ blaðinu	nheþg	blað
 Sunday	e	Sunday
 Times	e	Times
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 skemmst	aae	skammt
@@ -617,7 +591,6 @@ maí	nkeo	maí
 2001	ta	2001
 )	)	)
 .	.	.
-
 Í	aþ	í
 grænbók	nveþ	grænbók
 framkvæmdastjórnarinnar	nveeg	framkvæmdastjórn
@@ -646,7 +619,6 @@ ríkjakvóta	nkee	ríkjakvóti
 til	ae	til
 aðildarlandanna	nhfeg	aðildarland
 .	.	.
-
 Í	aþ	í
 skýrslunni	nveþg	skýrsla
 segir	sfg3en	segja
@@ -677,7 +649,6 @@ sátt	nven	sátt
 ríkti	svg3eþ	ríkja
 um	aa	um
 .	.	.
-
 Samráðsferlið	nheng	samráðsferli
 leiddi	sfg3eþ	leiða
 í	ao	í
@@ -692,7 +663,6 @@ allra	fohfe	allur
 aðildarríkja	nhfe	aðildarríki
 sambandsins	nheeg	samband
 .	.	.
-
 Þar	aa	þar
 af	aa	af
 leiðandi	slg	leiða
@@ -705,7 +675,6 @@ umbylta	sng	umbylta
 núverandi	lheþof	núverandi
 kerfi	nheþ	kerfi
 .	.	.
-
 Þegar	c	þegar
 skipulagsvandi	nken	skipulagsvandi
 sjávarútvegsins	nkeeg	sjávarútvegur
@@ -801,7 +770,6 @@ fiskveiðistefnu	nveþ	fiskveiðistefna
 ESB	as	ESB
 »	»	»
 .	.	.
-
 Hann	fpken	hann
 sagði	sfg3eþ	segja
 einnig	aa	einnig
@@ -819,7 +787,6 @@ stöðugleika	nkeþ	stöðugleiki
 sé	svg3en	vera
 ógnað	sþghen	ógna
 .	.	.
-
 Þá	aa	þá
 þyrfti	svg3eþ	þurfa
 að	cn	að
@@ -848,7 +815,6 @@ nóvember	nkeo	nóvember
 2000	ta	2000
 )	)	)
 .	.	.
-
 Hvað	fshen	hver
 felst	sfm3en	fela
 hins	fakee	hinn
@@ -885,7 +851,6 @@ er	sfg3en	vera
 að	cn	að
 segja	sng	segja
 .	.	.
-
 Öll	fohfn	allur
 ríkin	nhfng	ríki
 vilja	sfg3fn	vilja
@@ -924,7 +889,6 @@ hagsmunum	nkfþ	hagsmunir
 aðlægra	lhfesf	aðlægur
 strandhéraða	nhfe	strandhérað
 .	.	.
-
 Jafnframt	aa	jafnframt
 vilja	sfg3fn	vilja
 Írar	nkfn-s	Íri
@@ -951,7 +915,6 @@ veiðireynslu	nvee	veiðireynsla
 undangenginna	lhfesf	undangenginn
 ára	nhfe	ár
 .	.	.
-
 Hugsanlega	aa	hugsanlega
 og	c	og
 mögulega	aa	mögulega
@@ -966,7 +929,6 @@ að	cn	að
 miðla	sng	miðla
 málum	nhfþ	mál
 .	.	.
-
 Tólf	tfvfe	tólf
 mílna	nvfe	míla
 ákvæðið	nheng	ákvæði
@@ -978,7 +940,6 @@ að	aþ	að
 Norðursjó	nkeþ-s	Norðursjór
 eftir	aa	eftir
 2002	ta	2002
-
 Tólf	tfvfe	tólf
 mílna	nvfe	míla
 ákvæðið	nheng	ákvæði
@@ -1019,7 +980,6 @@ flestöllum	fohfþ	flestallur
 ríkjum	nhfþ	ríki
 sambandsins	nheeg	samband
 .	.	.
-
 Ekkert	fohen	enginn
 bendir	sfg3en	benda
 til	ae	til
@@ -1042,7 +1002,6 @@ festa	sng	festa
 í	aþ	í
 sessi	nkeþ	sess
 .	.	.
-
 Uppi	aa	uppi
 hafa	sfg3fn	hafa
 verið	ssg	vera
@@ -1061,7 +1020,6 @@ að	aa	að
 24	ta	24
 mílur	nvfo	míla
 .	.	.
-
 Slíkar	fbvfn	slíkur
 kröfur	nvfn	krafa
 hafa	sfg3fn	hafa
@@ -1081,7 +1039,6 @@ að	aþ	að
 mati	nheþ	mat
 framkvæmdastjórnarinnar	nveeg	framkvæmdastjórn
 .	.	.
-
 Svipaða	lveosf	svipaður
 sögu	nveo	saga
 má	sfg3en	mega
@@ -1110,7 +1067,6 @@ veitt	sþgven	veita
 svipuðum	lvfþsf	svipaður
 forsendum	nvfþ	forsenda
 .	.	.
-
 Engar	fovfn	enginn
 forsendur	nvfn	forsenda
 hafa	sfg3fn	hafa
@@ -1122,7 +1078,6 @@ breytingu	nveo	breyting
 þar	aa	þar
 á	aa	á
 .	.	.
-
 Lögbundnar	lvfnsf	lögbundinn
 hömlur	nvfn	hamla
 á	ao	á
@@ -1155,7 +1110,6 @@ yfir	aa	yfir
 vegna	ae	vegna
 þess	fphee	það
 .	.	.
-
 Sá	faken	sá
 ótti	nken	ótti
 er	sfg3en	vera
@@ -1165,7 +1119,6 @@ að	aþ	að
 mestu	lheþse	mikill
 ástæðulaus	lkensf	ástæðulaus
 .	.	.
-
 Eins	aa	eins
 og	c	og
 kemur	sfg3en	koma
@@ -1190,7 +1143,6 @@ grundvallast	sfm3fn	grundvalla
 á	aþ	á
 veiðireynslu	nveþ	veiðireynsla
 .	.	.
-
 Hér	aa	hér
 eftir	aa	eftir
 sem	c	sem
@@ -1210,7 +1162,6 @@ nú	aa	nú
 hafa	sfg3fn	hafa
 kvóta	nkeo	kvóti
 .	.	.
-
 Ríkin	nhfng	ríki
 sem	ct	sem
 um	ao	um
@@ -1239,7 +1190,6 @@ miðum	nhfþ	mið
 í	aþ	í
 Norðursjó	nkeþ-s	Norðursjór
 .	.	.
-
 Slíkt	fbhen	slíkur
 er	sfg3en	vera
 hins	fakee	hinn
@@ -1269,9 +1219,7 @@ sóknarmynstri	nheþ	sóknarmynstur
 í	aþ	í
 Norðursjó	nkeþ-s	Norðursjór
 .	.	.
-
 Flotastýring	nven	flotastýring
-
 Það	fphen	það
 er	sfg3en	vera
 mat	nhen	mat
@@ -1296,7 +1244,6 @@ verið	ssg	vera
 til	ae	til
 þessa	fahee	þessi
 .	.	.
-
 Sem	c	sem
 fyrr	aam	fyrr
 er	sfg3en	vera
@@ -1314,7 +1261,6 @@ fram	aa	fram
 í	ao	í
 tímann	nkeog	tími
 .	.	.
-
 Að	aa	að
 auki	aa	auki
 er	sfg3en	vera
@@ -1344,7 +1290,6 @@ aukinnar	lveesf	aukinn
 veiðigetu	nvee	veiðigeta
 flotans	nkeeg	floti
 .	.	.
-
 Lögð	sþgven	leggja
 er	sfg3en	vera
 áhersla	nven	áhersla
@@ -1354,7 +1299,6 @@ og	c	og
 gegnsæja	lveosf	gegnsær
 stefnu	nveo	stefna
 .	.	.
-
 Þörf	nven	þörf
 er	sfg3en	vera
 á	aþ	á
@@ -1380,7 +1324,6 @@ við	ao	við
 samþykkta	lveosf	samþykktur
 áætlun	nveo	áætlun
 .	.	.
-
 Endanlegt	lhensf	endanlegur
 markmið	nhen	markmið
 er	sfg3en	vera
@@ -1402,7 +1345,6 @@ og	c	og
 afrakstursgetu	nvee	afrakstursgeta
 fiskistofnanna	nkfeg	fiskistofn
 .	.	.
-
 Í	aþ	í
 grænbókinni	nveþg	grænbók
 er	sfg3en	vera
@@ -1428,7 +1370,6 @@ um	ao	um
 ákvörðun	nveo	ákvörðun
 hámarksafla	nkee	hámarksafli
 .	.	.
-
 Slíkt	fbhen	slíkur
 samræmi	nhen	samræmi
 er	sfg3en	vera
@@ -1449,7 +1390,6 @@ hagkvæmni	nveo	hagkvæmni
 í	aþ	í
 greininni	nveþg	grein
 .	.	.
-
 Framkvæmdastjórnin	nveng	framkvæmdastjórn
 gerir	sfg3en	gera
 sér	fpveþ	sig
@@ -1474,7 +1414,6 @@ stundar	sfg3en	stunda
 blandaðar	lvfosf	blandaður
 veiðar	nvfo	veiði
 .	.	.
-
 Bróðurparti	nkeþ	bróðurpartur
 styrkja	nkfe	styrkur
 ESB	as	ESB
@@ -1497,7 +1436,6 @@ hagræðingar	nvee	hagræðing
 og	c	og
 kvótaleysis	nhee	kvótaleysi
 .	.	.
-
 Jafnframt	aa	jafnframt
 er	sfg3en	vera
 unnt	lhensf	unnt
@@ -1513,7 +1451,6 @@ tækjabúnaði	nkeþ	tækjabúnaður
 í	aþ	í
 fiskvinnslu	nveþ	fiskvinnsla
 .	.	.
-
 Nú	aa	nú
 vill	sfg3en	vilja
 framkvæmdastjórnin	nveng	framkvæmdastjórn
@@ -1565,7 +1502,6 @@ og	c	og
 annarra	fohfe	annar
 tækja	nhfe	tæki
 .	.	.
-
 Vilji	nken	vilji
 er	sfg3en	vera
 þó	aa	þó
@@ -1588,13 +1524,11 @@ að	aþ	að
 einhverju	foheþ	einhver
 marki	nheþ	mark
 .	.	.
-
 Krafa	nven	krafa
 um	ao	um
 skilvirkari	lveovm	skilvirkur
 stjórnun	nveo	stjórnun
 sjávarútvegsstefnunnar	nveeg	sjávarútvegsstefna
-
 Áríðandi	lhenof	áríðandi
 er	sfg3en	vera
 að	c	að
@@ -1610,7 +1544,6 @@ og	c	og
 hugsast	ssm	hugsa
 getur	sfg3en	geta
 .	.	.
-
 Hún	fpven	hún
 þarf	sfg3en	þurfa
 á	ao	á
@@ -1626,7 +1559,6 @@ við	aþ	við
 ólíkum	lvfþsf	ólíkur
 aðstæðum	nvfþ	aðstæður
 .	.	.
-
 Til	ae	til
 að	cn	að
 ná	sng	ná
@@ -1647,7 +1579,6 @@ bein	lhfosf	beinn
 áhrif	nhfo	áhrif
 hagsmunaaðila	nkfe	hagsmunaaðili
 .	.	.
-
 -	-	-
 Að	c	að
 ríkt	lhensf	ríkur
@@ -1668,7 +1599,6 @@ við	ao	við
 ákveðnar	lvfosf	ákveðinn
 aðstæður	nvfo	aðstæður
 .	.	.
-
 -	-	-
 Að	c	að
 vísindalegri	lveþsf	vísindalegur
@@ -1681,7 +1611,6 @@ höfði	nheþ	höfuð
 í	aþ	í
 ákvarðanatökuferlinu	nheþg	ákvarðanatökuferli
 .	.	.
-
 Þrátt	aa	þrátt
 fyrir	ao	fyrir
 að	c	að
@@ -1721,7 +1650,6 @@ hinu	gheþ	hinn
 formlega	lheþvf	formlegur
 ákvarðanatökuferli	nheþ	ákvarðanatökuferli
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 kemur	sfg3en	koma
@@ -1747,7 +1675,6 @@ innan	ae	innan
 sjávarútvegsstefnunnar	nveeg	sjávarútvegsstefna
 varðar	sfg3en	varða
 .	.	.
-
 Að	aþ	að
 mati	nheþ	mat
 framkvæmdastjórnarinnar	nveeg	framkvæmdastjórn
@@ -1769,7 +1696,6 @@ virkan	lkeosf	virkur
 í	aþ	í
 fiskveiðistjórnuninni	nveþg	fiskveiðistjórnun
 .	.	.
-
 Nefndirnar	nvfng	nefnd
 gætu	svg3fþ	geta
 verið	ssg	vera
@@ -1799,7 +1725,6 @@ dæmi	nhfn	dæmi
 séu	svg3fn	vera
 tekin	sþghfn	taka
 .	.	.
-
 Þessir	fakfn	þessi
 aðilar	nkfn	aðili
 yrðu	svg3fþ	verða
@@ -1815,7 +1740,6 @@ en	c	en
 nú	aa	nú
 er	sfg3en	vera
 .	.	.
-
 Til	ae	til
 að	cn	að
 bæta	sng	bæta
@@ -1838,7 +1762,6 @@ verndunaraðgerða	nvfe	verndunaraðgerð
 til	ae	til
 aðildarríkjanna	nhfeg	aðildarríki
 .	.	.
-
 Framkvæmdastjórnin	nveng	framkvæmdastjórn
 myndi	svg3eþ	munu
 þó	aa	þó
@@ -1872,7 +1795,6 @@ augljósan	lkeosf	augljós
 hátt	nkeo	háttur
 )	)	)
 .	.	.
-
 Stefnumótun	nven	stefnumótun
 þarf	sfg3en	þurfa
 síðan	aa	síðan
@@ -1891,7 +1813,6 @@ félagsvísinda	nhfe	félagsvísindi
 og	c	og
 hagfræði	nvee	hagfræði
 .	.	.
-
 Framkvæmdastjórnin	nveng	framkvæmdastjórn
 mun	sfg3en	munu
 beita	sng	beita
@@ -1940,12 +1861,10 @@ og	c	og
 faglegri	lveþsf	faglegur
 stefnumótun	nveþ	stefnumótun
 .	.	.
-
 Eftirlit	nhen	eftirlit
 og	c	og
 framkvæmd	nven	framkvæmd
 stefnunnar	nveeg	stefna
-
 Endurskoðunin	nveng	endurskoðun
 býður	sfg3en	bjóða
 upp	aa	upp
@@ -1976,7 +1895,6 @@ við	ao	við
 sambærilegar	lvfosf	sambærilegur
 aðstæður	nvfo	aðstæður
 .	.	.
-
 Með	aþ	með
 því	fpheþ	það
 er	sfg3en	vera
@@ -1993,7 +1911,6 @@ um	ao	um
 meiri	lveovm	mikill
 skilvirkni	nveo	skilvirkni
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 mat	nhen	mat
@@ -2023,7 +1940,6 @@ sem	c	sem
 eru	sfg3fn	vera
 framin	sþghfn	fremja
 .	.	.
-
 Til	ae	til
 að	cn	að
 ná	sng	ná
@@ -2052,7 +1968,6 @@ eftirlits-	nkfe	eftirlitsaðili
 og	c	og
 dómsaðila	nkfe	dómsaðili
 .	.	.
-
 Þannig	aa	þannig
 ættu	svg3fþ	eiga
 öll	fohfn	allur
@@ -2083,7 +1998,6 @@ og	c	og
 annarra	fohfe	annar
 aðildarríkja	nhfe	aðildarríki
 .	.	.
-
 Í	aþ	í
 grænbókinni	nveþg	grænbók
 er	sfg3en	vera
@@ -2111,7 +2025,6 @@ aðildarríkjanna	nhfeg	aðildarríki
 og	c	og
 framkvæmdastjórnarinnar	nveeg	framkvæmdastjórn
 .	.	.
-
 Á	aþ	á
 slíkum	fbkeþ	slíkur
 vettvangi	nkeþ	vettvangur
@@ -2140,7 +2053,6 @@ upplýsinga	nvfe	upplýsing
 og	c	og
 stjórntækja	nhfe	stjórntæki
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 í	aþ	í
@@ -2162,7 +2074,6 @@ staðinn	sþgken	standa
 að	aþ	að
 verki	nheþ	verk
 .	.	.
-
 Engar	fovfn	enginn
 slíkar	fbvfn	slíkur
 vinnureglur	nvfn	vinnuregla
@@ -2196,12 +2107,10 @@ fer	sfg3en	fara
 með	ao	með
 eftirlitið	nheog	eftirlit
 .	.	.
-
 Nýjar	lvfnsf	nýr
 áherslur	nvfn	áhersla
 í	aþ	í
 efnahagsstjórnun	nveþ	efnahagsstjórnun
-
 Það	fphen	það
 verður	sfg3en	verða
 ekki	aa	ekki
@@ -2227,7 +2136,6 @@ för	nveþ	för
 með	aþ	með
 sér	fpveþ	sig
 .	.	.
-
 Sú	faven	sá
 staðreynd	nven	staðreynd
 að	aþ	að
@@ -2257,7 +2165,6 @@ nýjar	lvfosf	nýr
 í	aþ	í
 greininni	nveþg	grein
 .	.	.
-
 Draga	sng	draga
 þarf	sfg3en	þurfa
 verulega	aa	verulega
@@ -2269,7 +2176,6 @@ gera	sng	gera
 hann	fpkeo	hann
 nútímalegri	lkeovm	nútímalegur
 .	.	.
-
 Víða	aa	víða
 er	sfg3en	vera
 verið	sþghen	vera
@@ -2288,7 +2194,6 @@ né	c	né
 öryggi	nheo	öryggi
 starfsmanna	nkfe	starfsmaður
 .	.	.
-
 Til	ae	til
 að	cn	að
 bregðast	snm	bregða
@@ -2320,7 +2225,6 @@ sína	feveo	sinn
 á	aþ	á
 sjávarútvegi	nkeþ	sjávarútvegur
 .	.	.
-
 Að	aþ	að
 öðrum	fokeþ	annar
 kosti	nkeþ	kostur
@@ -2332,7 +2236,6 @@ að	aþ	að
 stórkostlegri	lveþsf	stórkostlegur
 byggðaröskun	nveþ	byggðaröskun
 .	.	.
-
 Í	aþ	í
 þessu	faheþ	þessi
 sambandi	nheþ	samband
@@ -2347,7 +2250,6 @@ og	c	og
 umhverfisvænna	lvfesf	umhverfisvænn
 strandveiða	nvfe	strandveiði
 .	.	.
-
 Eins	aa	eins
 og	c	og
 komið	ssg	koma
@@ -2383,7 +2285,6 @@ og	c	og
 afrakstursgetu	nveo	afrakstursgeta
 fiskistofna	nkfe	fiskistofn
 .	.	.
-
 Jafnframt	aa	jafnframt
 er	sfg3en	vera
 talið	sþghen	telja
@@ -2417,7 +2318,6 @@ bakið	nheog	bak
 slíkum	fbvfþ	slíkur
 veiðum	nvfþ	veiði
 .	.	.
-
 Skilgreina	sng	skilgreina
 þarf	sfg3en	þurfa
 vandlega	aa	vandlega
@@ -2429,7 +2329,6 @@ honum	fpkeþ	hann
 skýrar	lvfosf	skýr
 vinnuregur	x	vinnurega
 .	.	.
-
 Áhrif	nhfn	áhrif
 slíkra	fbvfe	slíkur
 veiða	nvfe	veiði
@@ -2447,7 +2346,6 @@ en	c	en
 stórtækari	lvfevm	stórtækur
 veiðiaðferða	nvfe	veiðiaðferð
 .	.	.
-
 Ef	c	ef
 vel	aa	vel
 tekst	sfm3en	taka
@@ -2477,7 +2375,6 @@ síst	aae	síður
 sviði	nheþ	svið
 ferðaþjónustu	nvee	ferðaþjónusta
 .	.	.
-
 Eins	aa	eins
 og	c	og
 komið	sþghen	koma
@@ -2506,7 +2403,6 @@ notaðar	sþgvfn	nota
 í	aþ	í
 aðildarríkjunum	nhfþg	aðildarríki
 .	.	.
-
 Lagt	sþghen	leggja
 er	sfg3en	vera
 til	ae	til
@@ -2527,7 +2423,6 @@ reglnanna	nvfeg	regla
 verði	svg3en	verða
 rannsakaðar	sþgvfn	rannsaka
 .	.	.
-
 Í	aþ	í
 því	faheþ	sá
 sambandi	nheþ	samband
@@ -2543,7 +2438,6 @@ Markaðslausnir	nvfo	markaðslausn
 við	ao	við
 kvótaúthlutun	nveo	kvótaúthlutun
 .	.	.
-
 Þeim	fpvfþ	hún
 má	sfg3en	mega
 ná	sng	ná
@@ -2580,7 +2474,6 @@ upp	aa	upp
 frjálsum	lkeþsf	frjáls
 markaði	nkeþ	markaður
 .	.	.
-
 Hvort	fohen	hvor
 tveggja	tfhfe	tveir
 skapar	sfg3en	skapa
@@ -2611,7 +2504,6 @@ tíma	nkee	tími
 er	sfg3en	vera
 litið	sþghen	líta
 .	.	.
-
 -	-	-
 Aðgangsgjald	nhen	aðgangsgjald
 fyrir	ao	fyrir
@@ -2627,7 +2519,6 @@ vissa	lkfosf	viss
 hluta	nkfo	hluti
 fiskveiðiflotans	nkeeg	fiskveiðifloti
 .	.	.
-
 -	-	-
 Blandað	lheosf	blandaður
 stjórnunarkerfi	nheo	stjórnunarkerfi
@@ -2638,7 +2529,6 @@ co-management	e	co-management
 systems	e	systems
 )	)	)
 .	.	.
-
 Framkvæmdastjórnin	nveng	framkvæmdastjórn
 mælir	sfg3en	mæla
 eindregið	aa	eindregið
@@ -2662,7 +2552,6 @@ um	ao	um
 ofangreindar	lvfosf	ofangreindur
 úthlutunaraðferðir	nvfo	úthlutunaraðferð
 .	.	.
-
 Lagt	sþghen	leggja
 er	sfg3en	vera
 til	ae	til
@@ -2695,9 +2584,7 @@ og	c	og
 þurfa	sng	þurfa
 þykir	sfg3en	þykja
 .	.	.
-
 Samantekt	nven	samantekt
-
 Á	aþ	á
 blaðamannafundi	nkeþ	blaðamannafundur
 ,	,	,
@@ -2741,7 +2628,6 @@ er	sfg3en	vera
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Í	aþ	í
 máli	nheþ	mál
 hans	fpkee	hann
@@ -2771,7 +2657,6 @@ ef	c	ef
 nauðsynlegt	lhensf	nauðsynlegur
 væri	svg3eþ	vera
 .	.	.
-
 Slík	fbven	slíkur
 héraðavæðing	nven	héraðavæðing
 (	(	(
@@ -2783,7 +2668,6 @@ skilvirkni	nveo	skilvirkni
 og	c	og
 hagkvæmni	nveo	hagkvæmni
 .	.	.
-
 Sjávarútvegsstefnan	nveng	sjávarútvegsstefna
 þyrfti	svg3eþ	þurfa
 ,	,	,
@@ -2802,7 +2686,6 @@ og	c	og
 ákveðnum	lkeþsf	ákveðinn
 lagaramma	nkeþ	lagarammi
 .	.	.
-
 Að	aþ	að
 mati	nheþ	mat
 Fischlers	e	Fischlers
@@ -2826,7 +2709,6 @@ við	ao	við
 ólík	lhfosf	ólíkur
 skilyrði	nhfo	skilyrði
 .	.	.
-
 «	«	«
 Ef	c	ef
 við	fp1fn	ég
@@ -2861,7 +2743,6 @@ betri	lkeþvm	góður
 sagði	sfg3eþ	segja
 Fischler	e	Fischler
 .	.	.
-
 Hann	fpken	hann
 bætti	sfg3eþ	bæta
 við	aa	við
@@ -2890,7 +2771,6 @@ og	c	og
 árangursríka	lveosf	árangursríkur
 fiskveiðistefnu	nveo	fiskveiðistefna
 .	.	.
-
 Það	fphen	það
 væri	svg3eþ	vera
 hægt	lhensf	hægur
@@ -2916,7 +2796,6 @@ mars	nkeo	mars
 2001	ta	2001
 )	)	)
 .	.	.
-
 Í	aþ	í
 grænbókinni	nveþg	grænbók
 er	sfg3en	vera
@@ -2931,7 +2810,6 @@ breytingar	nvfn	breyting
 hlutfallslega	lkeþvf	hlutfallslegur
 stöðugleikanum	nkeþg	stöðugleiki
 .	.	.
-
 Aðspurður	lkensf	aðspurður
 um	aa	um
 hvort	c	hvort
@@ -2974,7 +2852,6 @@ vandamál	nheo	vandamál
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 Hlutfallslegi	lkenvf	hlutfallslegur
 stöðugleikinn	nkeng	stöðugleiki
 væri	svg3eþ	vera
@@ -3001,7 +2878,6 @@ umræðu	nvee	umræða
 við	ao	við
 heildarendurskoðunina	nveog	heildarendurskoðun
 .	.	.
-
 Hann	fpken	hann
 sagði	sfg3eþ	segja
 vandamálið	nheog	vandamál
@@ -3015,7 +2891,6 @@ Spánverja	nkfe-s	Spánverji
 og	c	og
 Portúgala	nkfe-s	Portúgali
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 hins	fakee	hinn
@@ -3048,7 +2923,6 @@ honum	fpkeþ	hann
 fyrir	ao	fyrir
 róða	nkeo	róði
 .	.	.
-
 Ég	fp1en	ég
 stóð	sfg1eþ	standa
 andstutt	lvensf	andstuttur
@@ -3068,21 +2942,18 @@ stofuna	nveog	stofa
 Þarna	aa	þarna
 ertu	sfg2en	vera
 !	!	!
-
 Hvar	aa	hvar
 er	sfg3en	vera
 pabbi	nken	pabbi
 þinn	feken	þinn
 ?	?	?
 »	»	»
-
 «	«	«
 Hann	fpken	hann
 kom	sfg3eþ	koma
 snemma	aa	snemma
 heim	aa	heim
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 svo	aa	svo
@@ -3100,20 +2971,17 @@ sjálfa	fbveo	sjálfur
 mig	fp1eo	ég
 segja	sng	segja
 .	.	.
-
 Mamma	nven	mamma
 horfði	sfg3eþ	horfa
 rannsakandi	aa	rannsakandi
 á	ao	á
 mig	fp1eo	ég
 .	.	.
-
 «	«	«
 Þú	fp2en	þú
 ert	sfg2en	vera
 rám	lvensf	rámur
 .	.	.
-
 Vonandi	aa	vonandi
 verður	sfg2en	verða
 þú	fp2en	þú
@@ -3122,12 +2990,10 @@ líka	aa	líka
 veik	lvensf	veikur
 .	.	.
 »	»	»
-
 Ég	fp1en	ég
 ræskti	sfg1eþ	ræskja
 mig	fp1eo	ég
 .	.	.
-
 «	«	«
 Nei	au	nei
 ,	,	,
@@ -3142,7 +3008,6 @@ eitthvað	fohen	einhver
 illa	aa	illa
 .	.	.
 »	»	»
-
 Var	sfg3eþ	vera
 það	fphen	það
 ekki	aa	ekki
@@ -3151,13 +3016,11 @@ sem	ct	sem
 hafði	sfg3eþ	hafa
 gerst	ssm	gera
 ?	?	?
-
 Það	fphen	það
 hlaut	sfg3eþ	hljóta
 að	cn	að
 vera	sng	vera
 .	.	.
-
 Stóllinn	nkeng	stóll
 leit	sfg3eþ	líta
 að	aþ	að
@@ -3177,7 +3040,6 @@ með	ao	með
 opinn	lkeosf	opinn
 faðminn	nkeog	faðmur
 .	.	.
-
 «	«	«
 Já	au	já
 ,	,	,
@@ -3200,7 +3062,6 @@ athuga	sng	athuga
 með	ao	með
 pabba	nkeo	pabbi
 .	.	.
-
 Ég	fp1en	ég
 hlammaði	sfg1eþ	hlamma
 mér	fp1eþ	ég
@@ -3215,7 +3076,6 @@ ná	sng	ná
 mér	fp1eþ	ég
 hrollinum	nkeþg	hrollur
 .	.	.
-
 Ég	fp1en	ég
 teygði	sfg1eþ	teygja
 mig	fp1eo	ég
@@ -3228,12 +3088,10 @@ utan	aa	utan
 um	ao	um
 mig	fp1eo	ég
 .	.	.
-
 Mamma	nven	mamma
 kom	sfg3eþ	koma
 aftur	aa	aftur
 .	.	.
-
 «	«	«
 Hann	fpken	hann
 er	sfg3en	vera
@@ -3250,14 +3108,12 @@ vill	sfg3en	vilja
 bara	aa	bara
 sofa	sng	sofa
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 örugglega	aa	örugglega
 ekki	aa	ekki
 neitt	fohen	neinn
 .	.	.
-
 Vonandi	aa	vonandi
 fæst	sfm3en	fá
 einhver	foken	einhver
@@ -3267,7 +3123,6 @@ kenna	sng	kenna
 fyrir	ao	fyrir
 hann	fpkeo	hann
 .	.	.
-
 Jæja	au	jæja
 ,	,	,
 ég	fp1en	ég
@@ -3277,13 +3132,11 @@ fara	sng	fara
 að	cn	að
 elda	sng	elda
 .	.	.
-
 Ég	fp1en	ég
 keypti	sfg1eþ	kaupa
 fisk	nkeo	fiskur
 .	.	.
 »	»	»
-
 Venjulega	aa	venjulega
 dundaði	sfg1eþ	dunda
 ég	fp1en	ég
@@ -3305,7 +3158,6 @@ stökk	sfg1eþ	stökkva
 eftir	aþ	eftir
 henni	fpveþ	hún
 .	.	.
-
 Ég	fp1en	ég
 skar	sfg1eþ	skera
 niður	aa	niður
@@ -3320,7 +3172,6 @@ tók	sfg1eþ	taka
 fram	aa	fram
 sojasósu	nveo	sojasósa
 .	.	.
-
 Á	aa	á
 meðan	c	meðan
 sagði	sfg3eþ	segja
@@ -3351,7 +3202,6 @@ horni	nheþ	horn
 til	ae	til
 hádegis	nhee	hádegi
 .	.	.
-
 «	«	«
 Það	fphen	það
 eru	sfg3fn	vera
@@ -3366,7 +3216,6 @@ og	c	og
 næsta	lkeeve	næstur
 hárgreiðslumanns	nkee	hárgreiðslumaður
 .	.	.
-
 Sjálfri	fbveþ	sjálfur
 finnst	sfm3en	finna
 henni	fpveþ	hún
@@ -3393,7 +3242,6 @@ harkalega	aa	harkalega
 í	ao	í
 vaskinn	nkeog	vaskur
 .	.	.
-
 Ef	c	ef
 hún	fpven	hún
 missir	sfg3en	missa
@@ -3417,7 +3265,6 @@ ekki	aa	ekki
 í	aþ	í
 henni	fpveþ	hún
 .	.	.
-
 Strax	aa	strax
 klukkan	nveng	klukka
 ellefu	ta	ellefu
@@ -3432,7 +3279,6 @@ hvers	fokee	hver
 manns	nkee	maður
 hugljúfi	nken	hugljúfi
 .	.	.
-
 Hvernig	aa	hvernig
 gengur	sfg3en	ganga
 annars	aa	annars
@@ -3441,12 +3287,10 @@ nýja	lkeþvf	nýr
 skólanum	nkeþg	skóli
 ?	?	?
 »	»	»
-
 «	«	«
 Bara	aa	bara
 vel	aa	vel
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 strax	aa	strax
@@ -3464,7 +3308,6 @@ bara	aa	bara
 fínar	lvfnsf	fínn
 .	.	.
 »	»	»
-
 «	«	«
 Gott	lhensf	góður
 ,	,	,
@@ -3478,7 +3321,6 @@ vel	aa	vel
 hjá	aþ	hjá
 þér	fp2eþ	þú
 .	.	.
-
 Þú	fp2en	þú
 kemur	sfg2en	koma
 alltaf	aa	alltaf
@@ -3487,14 +3329,12 @@ standandi	slg	standa
 ,	,	,
 Eyja	nven-s	Eyja
 .	.	.
-
 Þú	fp2en	þú
 ert	sfg2en	vera
 bara	aa	bara
 þannig	aa	þannig
 .	.	.
 »	»	»
-
 Ég	fp1en	ég
 tók	sfg1eþ	taka
 fram	aa	fram
@@ -3513,7 +3353,6 @@ og	c	og
 var	sfg1eþ	vera
 vön	lvensf	vanur
 .	.	.
-
 «	«	«
 Vertu	sbg2en	vera
 ekkert	fohen	enginn
@@ -3528,7 +3367,6 @@ pabba	nkeo	pabbi
 sagði	sfg3eþ	segja
 mamma	nven	mamma
 .	.	.
-
 Í	aþ	í
 röddinni	nveþg	rödd
 var	sfg3eþ	vera
@@ -3541,7 +3379,6 @@ heyrt	ssg	heyra
 þar	aa	þar
 áður	aa	áður
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 ekki	aa	ekki
@@ -3564,12 +3401,10 @@ hvað	fshen	hver
 það	fphen	það
 var	sfg3eþ	vera
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 ótti	nken	ótti
 .	.	.
-
 VI	ta	vi
 Anna	nven-s	Anna
 og	c	og
@@ -3579,13 +3414,11 @@ ekki	aa	ekki
 í	aþ	í
 dansi	nkeþ	dans
 .	.	.
-
 Þær	fpvfn	hún
 voru	sfg3fþ	vera
 í	aþ	í
 fimleikum	nkfþ	fimleikur
 .	.	.
-
 «	«	«
 Vilt	sfg2en	vilja
 þú	fp2en	þú
@@ -3605,7 +3438,6 @@ hvernig	aa	hvernig
 finnst	sfm3en	finna
 ?	?	?
 »	»	»
-
 spurðu	sfg3fþ	spyrja
 þær	fpvfn	hún
 og	c	og
@@ -3620,7 +3452,6 @@ til	aa	til
 og	c	og
 frá	aa	frá
 .	.	.
-
 Mikið	lhensf	mikill
 sem	c	sem
 fólk	nhen	fólk
@@ -3631,7 +3462,6 @@ mína	fekfo	minn
 þessum	fakeþ	þessi
 skóla	nkeþ	skóli
 .	.	.
-
 Í	aþ	í
 gamla	lkeþvf	gamall
 skólanum	nkeþg	skóli
@@ -3648,7 +3478,6 @@ fannst	sfm3eþ	finna
 alveg	aa	alveg
 nóg	lhensf	nógur
 .	.	.
-
 Ég	fp1en	ég
 útskýrði	sfg1eþ	útskýra
 fyrir	aþ	fyrir
@@ -3671,13 +3500,11 @@ færi	svg1eþ	fara
 í	ao	í
 tíma	nkeo	tími
 .	.	.
-
 «	«	«
 Á	aþ	á
 hverjum	fokeþ	hver
 degi	nkeþ	dagur
 ?	?	?
-
 Og	c	og
 finnst	sfm3en	finna
 þér	fp2eþ	þú
@@ -3686,18 +3513,15 @@ ekki	aa	ekki
 leiðinlegt	lhensf	leiðinlegur
 ?	?	?
 »	»	»
-
 spurði	sfg3eþ	spyrja
 Anna	nven-s	Anna
 .	.	.
-
 «	«	«
 Nei	au	nei
 ,	,	,
 alls	fohee	allur
 ekki	aa	ekki
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 svo	aa	svo
@@ -3705,7 +3529,6 @@ skemmtilegt	lhensf	skemmtilegur
 að	cn	að
 spila	sng	spila
 .	.	.
-
 Að	cn	að
 hugsa	sng	hugsa
 sér	fpkeþ	sig
@@ -3736,7 +3559,6 @@ geti	svg1en	geta
 leikið	ssg	leika
 hana	fpveo	hún
 .	.	.
-
 Ég	fp1en	ég
 meina	sfg1en	meina
 ,	,	,
@@ -3755,7 +3577,6 @@ og	c	og
 Telemann	e	Telemann
 .	.	.
 »	»	»
-
 «	«	«
 Telemann	e	Telemann
 ,	,	,
@@ -3764,7 +3585,6 @@ sagði	sfg3eþ	segja
 Hrönn	nven-s	Hrönn
 hugsi	lvenof	hugsi
 .	.	.
-
 «	«	«
 Minnir	sfg3en	minna
 mig	fp1eo	ég
@@ -3781,7 +3601,6 @@ bæinn	nkeog	bær
 eftir	ao	eftir
 skóla	nkeo	skóli
 .	.	.
-
 Hún	fpven	hún
 ætlar	sfg3en	ætla
 að	cn	að
@@ -3792,13 +3611,11 @@ síma	nkeo	sími
 í	ao	í
 afmælisgjöf	nveo	afmælisgjöf
 .	.	.
-
 Minn	feken	minn
 er	sfg3en	vera
 alveg	aa	alveg
 glataður	lkensf	glataður
 .	.	.
-
 Ekkert	fohen	enginn
 hægt	lhensf	hægur
 að	cn	að
@@ -3809,7 +3626,6 @@ eigin	lveoof	eigin
 hringingu	nveo	hringing
 .	.	.
 »	»	»
-
 Allt	fohen	allur
 í	aþ	í
 einu	lheþsf	einn
@@ -3823,7 +3639,6 @@ Hrannar	nvee-s	Hrönn
 og	c	og
 Önnu	nvee-s	Anna
 .	.	.
-
 Voru	sfg3fþ	vera
 þær	fpvfn	hún
 líka	aa	líka
@@ -3831,7 +3646,6 @@ alveg	aa	alveg
 eins	aa	eins
 klæddar	lvfnsf	klæddur
 ?	?	?
-
 Það	fphen	það
 hafði	sfg3eþ	hafa
 fryst	ssm	frysta
@@ -3844,7 +3658,6 @@ skólalóðinni	nveþg	skólalóð
 hafði	sfg3eþ	hafa
 lagt	ssg	leggja
 .	.	.
-
 Það	fphen	það
 kom	sfg3eþ	koma
 samt	aa	samt
@@ -3858,7 +3671,6 @@ hjóluðu	sfg3fþ	hjóla
 yfir	ao	yfir
 hann	fpkeo	hann
 .	.	.
-
 Nú	aa	nú
 var	sfg3eþ	vera
 tilgangurinn	nkeng	tilgangur
@@ -3881,7 +3693,6 @@ duttu	sfg3fþ	detta
 mestu	lveove	mikill
 aðdáunina	nveog	aðdáun
 .	.	.
-
 Þegar	c	þegar
 hringt	sþghen	hringja
 var	sfg3eþ	vera
@@ -3903,7 +3714,6 @@ tánni	nveþg	tá
 kulnuðu	lheþsf	kulnaður
 grasinu	nheþg	gras
 .	.	.
-
 Ég	fp1en	ég
 fór	sfg1eþ	fara
 til	ae	til
@@ -3918,14 +3728,12 @@ leita	sng	leita
 að	aþ	að
 einhverju	foheþ	einhver
 .	.	.
-
 «	«	«
 Já	au	já
 ,	,	,
 lyklunum	nkfþg	lykill
 mínum	fekfþ	minn
 .	.	.
-
 Þeir	fpkfn	hann
 duttu	sfg3fþ	detta
 úr	aþ	úr
@@ -3935,7 +3743,6 @@ vasanum	nkeþg	vasi
 svaraði	sfg3eþ	svara
 Ása	nven-s	Ása
 .	.	.
-
 Röddin	nveng	rödd
 var	sfg3eþ	vera
 svo	aa	svo
@@ -3950,7 +3757,6 @@ væri	svg3eþ	vera
 alltaf	aa	alltaf
 hress	lvensf	hress
 .	.	.
-
 Kannski	aa	kannski
 var	sfg3eþ	vera
 hún	fpven	hún
@@ -3966,7 +3772,6 @@ týnt	ssg	týna
 lyklunum	nkfþg	lykill
 sínum	fekfþ	sinn
 .	.	.
-
 Þótt	c	þótt
 hinir	fakfn	hinn
 krakkarnir	nkfng	krakki
@@ -3988,7 +3793,6 @@ einu	lheþsf	einn
 á	ao	á
 lyklakippuna	nveog	lyklakippa
 .	.	.
-
 «	«	«
 Ég	fp1en	ég
 verð	sfg1en	verða
@@ -4002,7 +3806,6 @@ upp	aa	upp
 dótið	nheog	dót
 mitt	feheo	minn
 .	.	.
-
 Mér	fp1eþ	ég
 finnst	sfm3en	finna
 ég	fp1en	ég
@@ -4021,7 +3824,6 @@ rétti	sfg1eþ	rétta
 henni	fpveþ	hún
 kippuna	nveog	kippa
 .	.	.
-
 Við	fp1fn	ég
 lögðum	sfg1fþ	leggja
 af	aþ	af
@@ -4053,14 +3855,12 @@ upp	aa	upp
 að	aþ	að
 markstöng	nveþ	markstöng
 .	.	.
-
 Toppurinn	nkeng	toppur
 féll	sfg3eþ	falla
 yfir	ao	yfir
 hægra	lheovf	hægri
 augað	nheog	auga
 .	.	.
-
 Mér	fp1eþ	ég
 fannst	sfm3eþ	finna
 ég	fp1en	ég
@@ -4080,7 +3880,6 @@ að	cn	að
 fara	sng	fara
 inn	aa	inn
 .	.	.
-
 Kannski	aa	kannski
 var	sfg3eþ	vera
 ekki	aa	ekki
@@ -4092,7 +3891,6 @@ skrópi	nheþ	skróp
 þessum	fakeþ	þessi
 skóla	nkeþ	skóli
 .	.	.
-
 Það	fphen	það
 voru	sfg3fþ	vera
 ekki	aa	ekki
@@ -4134,7 +3932,6 @@ hafa	sng	hafa
 með	aþ	með
 kvöldmatnum	nkeþg	kvöldmatur
 .	.	.
-
 Nú	aa	nú
 var	sfg3eþ	vera
 hún	fpven	hún
@@ -4153,7 +3950,6 @@ mér	fp1eþ	ég
 með	aþ	með
 nafni	nheþ	nafn
 .	.	.
-
 Eftir	ao	eftir
 að	cn	að
 hafa	sng	hafa
@@ -4188,7 +3984,6 @@ Stínu	nveþ-s	Stína
 í	ao	í
 matarboð	nheo	matarboð
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 kominn	sþgken	koma
@@ -4201,7 +3996,6 @@ nýju	lveovf	nýr
 íbúðina	nveog	íbúð
 okkar	fp1fe	ég
 .	.	.
-
 Maríu	nveþ-s	María
 ,	,	,
 bestu	lveþve	góður
@@ -4220,7 +4014,6 @@ tíramísú	nheo	tíramísú
 í	aþ	í
 heimi	nkeþ	heimur
 .	.	.
-
 «	«	«
 Við	fp1fn	ég
 eldum	sfg1fn	elda
@@ -4236,7 +4029,6 @@ með	aþ	með
 góðri	lveþsf	góður
 olíu	nveþ	olía
 .	.	.
-
 Kannski	aa	kannski
 maður	nken	maður
 reiði	svg3en	reiða
@@ -4244,7 +4036,6 @@ líka	aa	líka
 fram	aa	fram
 rauðvín	nheo	rauðvín
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ekkert	fohen	enginn
@@ -4259,7 +4050,6 @@ Stínu	nveo-s	Stína
 sagði	sfg3eþ	segja
 pabbi	nken	pabbi
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 kominn	sþgken	koma
@@ -4282,7 +4072,6 @@ að	cn	að
 kaupa	sng	kaupa
 inn	aa	inn
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 því	aa	því
@@ -4301,7 +4090,6 @@ honum	fpkeþ	hann
 með	aþ	með
 nafni	nheþ	nafn
 .	.	.
-
 Afi	nken	afi
 dó	sfg3eþ	deyja
 þegar	c	þegar
@@ -4318,7 +4106,6 @@ fékk	sfg3eþ	fá
 amma	nven	amma
 slag	nheo	slag
 .	.	.
-
 Hún	fpven	hún
 varð	sfg3eþ	verða
 að	cn	að
@@ -4333,7 +4120,6 @@ fyrir	aþ	fyrir
 fáeinum	fohfþ	fáeinir
 árum	nhfþ	ár
 .	.	.
-
 Sautján	tfhfe	sautján
 ára	nhfe	ár
 gamall	lkensf	gamall
@@ -4351,7 +4137,6 @@ búa	sng	búa
 hjá	aþ	hjá
 þeim	fphfþ	það
 .	.	.
-
 Pabbi	nken	pabbi
 lærði	sfg3eþ	læra
 sagnfræði	nveo	sagnfræði
@@ -4362,7 +4147,6 @@ um	ao	um
 spænsku	lveovf	spænskur
 veikina	nveog	veiki
 .	.	.
-
 Þegar	c	þegar
 ritgerðinni	nveþg	ritgerð
 var	sfg3eþ	vera
@@ -4394,7 +4178,6 @@ orðin	sþgven	verða
 löggildur	lkensf	löggildur
 hárgreiðslumeistari	nken	hárgreiðslumeistari
 .	.	.
-
 «	«	«
 Það	fphen	það
 var	sfg3eþ	vera
@@ -4420,13 +4203,11 @@ rifjaði	sfg3eþ	rifja
 þetta	faheo	þessi
 upp	aa	upp
 .	.	.
-
 «	«	«
 Algjör	lkensf	algjör
 grís	nken	grís
 .	.	.
 »	»	»
-
 Og	c	og
 ég	fp1en	ég
 rýtti	sfg1eþ	rýta
@@ -4451,7 +4232,6 @@ góða	lheovf	góður
 á	aþ	á
 Kaffibarnum	nkeþgs	Kaffibar
 .	.	.
-
 Ég	fp1en	ég
 var	sfg1eþ	vera
 bleik	lvensf	bleikur
@@ -4469,7 +4249,6 @@ að	cn	að
 verða	sng	verða
 þráðbeint	lhensf	þráðbeinn
 .	.	.
-
 Hárið	nheng	hár
 hefur	sfg3en	hafa
 hins	fakee	hinn
@@ -4478,7 +4257,6 @@ alltaf	aa	alltaf
 verið	ssg	vera
 liðað	lhensf	liðaður
 .	.	.
-
 Hörður	nken-s	Hörður
 frændi	nken	frændi
 minn	feken	minn
@@ -4493,7 +4271,6 @@ líka	aa	líka
 í	ao	í
 matarboðið	nheog	matarboð
 .	.	.
-
 Sævar	nken-s	Sævar
 telst	sfm3en	telja
 hávaxinn	lkensf	hávaxinn
@@ -4504,7 +4281,6 @@ er	sfg3en	vera
 samt	aa	samt
 hærri	lkenvm	hár
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 mjög	aa	mjög
@@ -4521,7 +4297,6 @@ yrði	svg3eþ	verða
 enn	aa	enn
 stærri	lkenvm	stór
 .	.	.
-
 Það	fphen	það
 munar	sfg3en	muna
 fáeinum	fokfþ	fáeinir
@@ -4531,7 +4306,6 @@ honum	fpkeþ	hann
 og	c	og
 pabba	nkeþ	pabbi
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 pabbi	nken	pabbi
@@ -4544,7 +4318,6 @@ hann	fpken	hann
 var	sfg3eþ	vera
 lítill	lkensf	lítill
 .	.	.
-
 Ég	fp1en	ég
 held	sfg1en	halda
 að	c	að
@@ -4562,7 +4335,6 @@ við	fp1fn	ég
 hittum	sfg1fn	hitta
 hann	fpkeo	hann
 .	.	.
-
 «	«	«
 Ég	fp1en	ég
 gekk	sfg1eþ	ganga
@@ -4583,7 +4355,6 @@ maganum	nkeþg	magi
 ,	,	,
 greyinu	nheþg	grey
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 ekki	aa	ekki
@@ -4606,7 +4377,6 @@ fór	sfg3eþ	fara
 að	cn	að
 róast	snm	róa
 .	.	.
-
 Það	fphen	það
 þarf	sfg3en	þurfa
 ekki	aa	ekki
@@ -4615,7 +4385,6 @@ að	cn	að
 gefa	sng	gefa
 lyf	nhfo	lyf
 .	.	.
-
 Stundum	aa	stundum
 nægir	sfg3en	nægja
 að	cn	að
@@ -4638,7 +4407,6 @@ bara	aa	bara
 að	aþ	að
 honum	fpkeþ	hann
 .	.	.
-
 Hörður	nken-s	Hörður
 er	sfg3en	vera
 á	aþ	á
@@ -4648,7 +4416,6 @@ Fjölbrautaskólanum	nkeþgs	Fjölbrautaskóli
 í	aþ	í
 Garðabæ	nkeþ-s	Garðabær
 .	.	.
-
 Hann	fpken	hann
 tók	sfg3eþ	taka
 þátt	nkeo	þáttur
@@ -4668,7 +4435,6 @@ komst	sfm3eþ	koma
 í	ao	í
 sjónvarpið	nheog	sjónvarp
 .	.	.
-
 Pabbi	nken	pabbi
 táraðist	sfm3eþ	tárast
 af	aþ	af
@@ -4687,7 +4453,6 @@ ort	ssg	yrkja
 ljóðið	nheog	ljóð
 Vökumenn	nkfo-s	Vökumaður
 .	.	.
-
 Honum	fpkeþ	hann
 dugði	sfg3eþ	duga
 að	cn	að
@@ -4701,11 +4466,9 @@ var	sfg3eþ	vera
 svarið	nheng	svar
 komið	sþghen	koma
 .	.	.
-
 Davíð	nken-s	Davíð
 Stefánsson	nken-s	Stefánsson
 !	!	!
-
 Mamma	nven	mamma
 sagði	sfg3eþ	segja
 Stínu	nveþ-s	Stína
@@ -4724,7 +4487,6 @@ minnst	aae	lítið
 úr	aþ	úr
 þessu	faheþ	þessi
 .	.	.
-
 «	«	«
 Þú	fp2en	þú
 ert	sfg2en	vera
@@ -4733,7 +4495,6 @@ svolítið	aa	svolítið
 þreytulegur	lkensf	þreytulegur
 samt	aa	samt
 .	.	.
-
 Þú	fp2en	þú
 hefur	sfg2en	hafa
 bara	aa	bara
@@ -4750,7 +4511,6 @@ niður	aa	niður
 sagði	sfg3eþ	segja
 Stína	nven-s	Stína
 .	.	.
-
 Pabbi	nken	pabbi
 lofaði	sfg3eþ	lofa
 því	fpheþ	það
@@ -4767,7 +4527,6 @@ að	cn	að
 mæla	sng	mæla
 sig	fpkeo	sig
 .	.	.
-
 «	«	«
 Jæja	au	jæja
 ,	,	,
@@ -4779,7 +4538,6 @@ svo	aa	svo
 íbúðina	nveog	íbúð
 ?	?	?
 »	»	»
-
 spurði	sfg3eþ	spyrja
 hann	fpken	hann
 til	ae	til
@@ -4788,7 +4546,6 @@ skipta	sng	skipta
 um	ao	um
 umræðuefni	nheo	umræðuefni
 .	.	.
-
 «	«	«
 Þetta	fahen	þessi
 er	sfg3en	vera
@@ -4824,7 +4581,6 @@ er	sfg3en	vera
 flott	lhensf	flottur
 .	.	.
 »	»	»
-
 Mamma	nven	mamma
 strauk	sfg3eþ	strjúka
 borðplötuna	nveog	borðplata
@@ -4832,7 +4588,6 @@ borðplötuna	nveog	borðplata
 á	ao	á
 svip	nkeo	svipur
 .	.	.
-
 «	«	«
 Heyrðu	sbg2en	heyra
 ,	,	,
@@ -4840,7 +4595,6 @@ Heyrðu	sbg2en	heyra
 sagði	sfg3eþ	segja
 Hörður	nken-s	Hörður
 .	.	.
-
 «	«	«
 Ætlarðu	sfg2en	ætla
 ekki	aa	ekki
@@ -4852,7 +4606,6 @@ okkur	fp1fo	ég
 eftir	aa	eftir
 ?	?	?
 »	»	»
-
 Gleraugun	nhfng	glerauga
 runnu	sfg3fþ	renna
 fram	aa	fram
@@ -4865,14 +4618,12 @@ hann	fpken	hann
 aftur	aa	aftur
 upp	aa	upp
 .	.	.
-
 Ég	fp1en	ég
 leit	sfg1eþ	líta
 spyrjandi	aa	spyrjandi
 á	ao	á
 mömmu	nveo	mamma
 .	.	.
-
 «	«	«
 Jú	au	jú
 ,	,	,
@@ -4891,7 +4642,6 @@ sagði	sfg3eþ	segja
 hún	fpven	hún
 brosandi	lvenof	brosandi
 .	.	.
-
 Í	ao	í
 fyrra	lheovm	fyrri
 þegar	c	þegar
@@ -4909,7 +4659,6 @@ fyrir	ao	fyrir
 vinkonur	nvfo	vinkona
 sínar	fevfo	sinn
 .	.	.
-
 María	nven-s	María
 mætti	sfg3eþ	mæta
 auðvitað	aa	auðvitað
@@ -4924,7 +4673,6 @@ spilaði	svg1eþ	spila
 fyrir	ao	fyrir
 þær	fpvfo	hún
 .	.	.
-
 Það	fphen	það
 hefði	svg3eþ	hafa
 getað	ssg	geta
@@ -4941,7 +4689,6 @@ með	ao	með
 að	cn	að
 hætta	sng	hætta
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 ekki	aa	ekki
@@ -4972,7 +4719,6 @@ verið	ssg	vera
 óþarflega	aa	óþarflega
 löng	lvensf	langur
 .	.	.
-
 «	«	«
 Frábært	lhensf	frábær
 ,	,	,

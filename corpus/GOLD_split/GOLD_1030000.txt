@@ -1,5 +1,4 @@
 .	.	.
-
 Árlegt	lhensf	árlegur
 vorferðalag	nhen	vorferðalag
 Daufblindrafélags	nhee-s	Daufblindrafélag
@@ -10,7 +9,6 @@ sunnudaginn	nkeog	sunnudagur
 30.	ta	30.
 apríl	nkeo	apríl
 n.k.	as	n.k.
-
 Lagt	sþghen	leggja
 verður	sfg3en	verða
 af	aþ	af
@@ -28,7 +26,6 @@ baka	aa	baka
 um	ao	um
 kvöldmatarleitið	nheog	kvöldmatarleyti
 .	.	.
-
 Að	aþ	að
 þessu	faheþ	þessi
 sinni	nheþ	sinn
@@ -61,7 +58,6 @@ og	c	og
 drukkið	sþghen	drekka
 kaffi	nhen	kaffi
 .	.	.
-
 Ferðin	nvengs	Ferð
 er	sfg3en	vera
 öll	foven	allur
@@ -87,7 +83,6 @@ að	cn	að
 gleðjast	snm	gleðja
 saman	aa	saman
 .	.	.
-
 Endilega	aa	endilega
 látið	sbg2fn	láta
 vita	sng	vita
@@ -100,7 +95,6 @@ að	cn	að
 vera	sng	vera
 með	aa	með
 .	.	.
-
 Hlökkum	sfg1fn	hlakka
 til	ae	til
 að	cn	að
@@ -108,26 +102,20 @@ sjá	sng	sjá
 sem	c	sem
 flesta	lkfose	margur
 J	x	J
-
 Bestu	lvfnve	góður
 kveðjur	nvfn	kveðja
-
 F.	as	f.
 hönd	nveo	hönd
 stjórnar	nvee	stjórn
-
 Þórey	nven-s	Þórey
-
 Láta	sng	láta
 vita	sng	vita
 sem	aa	sem
 fyrst	aae	fyrr
 .	.	.
-
 Gleðilega	lkfosf	gleðilegur
 Páska	nkfo-s	páskar
 !	!	!
-
 Aðalfundur	nken	aðalfundur
 Daufblindrafélags	nhee-s	Daufblindrafélag
 Íslands	nhee-s	Ísland
@@ -149,32 +137,25 @@ Hamrahlíð	nveþ-s	Hamrahlíð
 hæð	nveþ	hæð
 )	)	)
 .	.	.
-
 Dagskrá	nven	dagskrá
 :	:	:
-
 1	ta	1
 .	.	.
-
 Venjuleg	lhfnsf	venjulegur
 aðalfundarstörf	nhfn	aðalfundarstörf
-
 a	x	a
 )	)	)
 Formaður	nken	formaður
 setur	sfg3en	setja
 fund	nkeo	fundur
-
 b	x	b
 )	)	)
 Kosning	nven	kosning
 fundarstjóra	nkee	fundarstjóri
-
 c	x	c
 )	)	)
 Kosning	nven	kosning
 ritara	nkee	ritari
-
 d	x	d
 )	)	)
 Ritari	nken	ritari
@@ -182,7 +163,6 @@ les	sfg3en	lesa
 fundargerð	nveo	fundargerð
 síðasta	lkeeve	síðari
 aðalfundar	nkee	aðalfundur
-
 e	x	e
 )	)	)
 Endurskoðaðir	lkfnsf	endurskoðaður
@@ -193,14 +173,12 @@ lagðir	sþgkfn	leggja
 fram	aa	fram
 til	ae	til
 samþykktar	nvee	samþykkt
-
 f	x	f
 )	)	)
 Formaður	nken	formaður
 les	sfg3en	lesa
 skýrslu	nveo	skýrsla
 stjórnar	nvee	stjórn
-
 g	x	g
 )	)	)
 Ákveðið	ssg	ákveða
@@ -208,7 +186,6 @@ félagsgjald	nhen	félagsgjald
 og	c	og
 gjalddagi	nken	gjalddagi
 þess	fphee	það
-
 h	x	h
 )	)	)
 Lagabreytingar	nvfn	lagabreyting
@@ -225,11 +202,9 @@ og	c	og
 5.	ta	5.
 gr.	as	gr.
 laganna	nhfeg	lag
-
 i	x	i
 )	)	)
 Stjórnarkjör	nhen	stjórnarkjör
-
 j	x	J
 )	)	)
 Tilnefning	nven	tilnefning
@@ -237,18 +212,15 @@ fulltrúa	nkfe	fulltrúi
 í	aþ	í
 stjórn	nveþ	stjórn
 ÖBÍ	as	ÖBÍ
-
 k	x	k
 )	)	)
 Önnur	fohfn	annar
 mál	nhfn	mál
-
 Kaffiveitingar	nvfn	kaffiveitingar
 verða	sfg3fn	verða
 í	aþ	í
 boði	nheþ	boð
 félagsins	nheeg	félag
-
 Mætum	svg1fn	mæta
 öll	fohfn	allur
 með	ao	með
@@ -257,34 +229,27 @@ skapið	nheog	skap
 og	c	og
 góðar	lvfosf	góður
 hugmyndir	nvfo	hugmynd
-
 Ekkert	fohen	enginn
 um	ao	um
 okkur	fp1fo	ég
 án	ae	án
 okkar	fp1fe	ég
 J	x	J
-
 Bestu	lvfnve	góður
 kveðjur	nvfn	kveðja
-
 Fyrir	ao	fyrir
 hönd	nveo	hönd
 stjórnar	nvee	stjórn
 :	:	:
-
 Guðlaug	nven-s	Guðlaug
 Erlendsdóttir	nven-s	Erlendsdóttir
 formaður	nken	formaður
-
 Þórey	nven-s	Þórey
 Ólafsdóttir	nven-s	Ólafsdóttir
 daufblindraráðgjafi	nken	daufblindraráðgjafi
-
 Námskeið	nhen	námskeið
 í	aþ	í
 vefnaði	nkeþ	vefnaður
-
 Blindrafélagið	nhengs	Blindrafélagið
 mun	sfg3en	munu
 bjóða	sng	bjóða
@@ -303,7 +268,6 @@ mánudaginn	nkeog	mánudagur
 24.	ta	24.
 apríl	nkeo	apríl
 .	.	.
-
 Vefnaður	nken	vefnaður
 er	sfg3en	vera
 mjög	aa	mjög
@@ -318,7 +282,6 @@ hentar	sfg3en	henta
 aldurshópum	nkfþ	aldurshópur
 vel	aa	vel
 .	.	.
-
 Skráning	nven	skráning
 fer	sfg3en	fara
 fram	aa	fram
@@ -330,12 +293,10 @@ föstudaginn	nkeog	föstudagur
 21.	ta	21.
 apríl	nkeo	apríl
 .	.	.
-
 Verð	nhen	verð
 kr.	as	kr.
 6000	ta	6000
 .	.	.
-
 Nánari	lvfovm	náinn
 upplýsingar	nvfo	upplýsing
 um	ao	um
@@ -345,14 +306,11 @@ Sigríður	nven-s	Sigríður
 Sólrún	nven-s	Sólrún
 Jónsdóttir	nven-s	Jónsdóttir
 .	.	.
-
 Blindrafélagið	nhengs	Blindrafélagið
 .	.	.
-
 Golf	nhen	golf
 fyrir	ao	fyrir
 fatlaða	lkfosf	fatlaður
-
 Nú	aa	nú
 líður	sfg3en	líða
 að	aþ	að
@@ -384,7 +342,6 @@ við	aa	við
 allan	fokeo	allur
 vetur	nkeo	vetur
 .	.	.
-
 Ég	fp1en	ég
 ætla	sfg1en	ætla
 mér	fp1eþ	ég
@@ -417,7 +374,6 @@ golfið	nheog	golf
 með	aþ	með
 mér	fp1eþ	ég
 .	.	.
-
 Það	fphen	það
 kostar	sfg3en	kosta
 ekkert	foheo	enginn
@@ -433,7 +389,6 @@ kennari	nken	kennari
 á	aþ	á
 svæðinu	nheþg	svæði
 .	.	.
-
 Ekki	aa	ekki
 hefur	sfg3en	hafa
 tímasetning	nven	tímasetning
@@ -449,7 +404,6 @@ eða	c	eða
 um	ao	um
 fimmleytið	nheog	fimmleyti
 .	.	.
-
 Þeir	fakfn	sá
 sem	ct	sem
 hafa	sfg3fn	hafa
@@ -473,18 +427,14 @@ blinda	lkfosf	blindur
 og	c	og
 sjónskerta	lkfosf	sjónskertur
 .	.	.
-
 Einar	nken-s	Einar
 Lee	nken-s	Lee
-
 Auglýst	sþghen	auglýsa
 eftir	aþ	eftir
 bókara	nkeþ	bókari
 .	.	.
-
 Bókari	nken	bókari
 óskast	sfm3en	óska
-
 Blindrafélagið	nhengs	Blindrafélagið
 óskar	sfg3en	óska
 eftir	aþ	eftir
@@ -495,7 +445,6 @@ bókara	nkeo	bókari
 100%	tp	100%
 starf	nheo	starf
 .	.	.
-
 Um	ao	um
 er	sfg3en	vera
 að	cn	að
@@ -517,7 +466,6 @@ viðskiptamanna	nkfe	viðskiptamaður
 og	c	og
 birgðabókhaldi	nheþ	birgðabókhald
 .	.	.
-
 Bókari	nken	bókari
 þarf	sfg3en	þurfa
 að	cn	að
@@ -532,7 +480,6 @@ uppgjörum	nhfþ	uppgjör
 til	ae	til
 endurskoðanda	nkee	endurskoðandi
 .	.	.
-
 Leitað	sþghen	leita
 er	sfg3en	vera
 að	aþ	að
@@ -561,7 +508,6 @@ eða	c	eða
 Navision	e	Navision
 tölvukerfum	nhfþ	tölvukerfi
 .	.	.
-
 Bókarinn	nkeng	bókari
 þarf	sfg3en	þurfa
 að	cn	að
@@ -569,7 +515,6 @@ geta	sng	geta
 unnið	ssg	vinna
 sjálfstætt	aa	sjálfstætt
 .	.	.
-
 Starfið	nheng	starf
 er	sfg3en	vera
 auglýst	sþghen	auglýsa
@@ -580,7 +525,6 @@ til	ae	til
 21.	ta	21.
 apríl	nkee	apríl
 .	.	.
-
 Eftir	ao	eftir
 það	fpheo	það
 verður	sfg3en	verða
@@ -589,7 +533,6 @@ leitað	sþghen	leita
 almennum	lkeþsf	almennur
 markaði	nkeþ	markaður
 .	.	.
-
 Nánari	lvfovm	náinn
 upplýsingar	nvfo	upplýsing
 um	ao	um
@@ -601,18 +544,14 @@ Haraldsson	nken-s	Haraldsson
 framkvæmdastjóri	nken	framkvæmdastjóri
 Blindrafélagsins	nheegs	Blindrafélagið
 .	.	.
-
 7.	ta	7.
 apríl	nkeo	apríl
 2006	ta	2006
-
 fh.	as	fh.
 Blindrafélagsins	nheeg	blindrafélagið
 ,	,	,
-
 Ólafur	nken-s	Ólafur
 Haraldsson	nken-s	Haraldsson
-
 Aðalfundur	nken	aðalfundur
 Blindrafélagsins	nheegs	Blindrafélagið
 13.	ta	13.
@@ -620,7 +559,6 @@ maí	nkeo	maí
 -	-	-
 Tilkynning	nven	tilkynning
 .	.	.
-
 Tilkynning	nven	tilkynning
 frá	aþ	frá
 stjórn	nveþ	stjórn
@@ -633,7 +571,6 @@ laugardaginn	nkeog	laugardagur
 maí	nkeo	maí
 2005	ta	2005
 .	.	.
-
 Aðalfundur	nken	aðalfundur
 Blindrafélagsins	nheegs	Blindrafélagið
 verður	sfg3en	verða
@@ -649,19 +586,16 @@ kl.	as	kl.
 10:00	ta	10:00
 árdegis	aa	árdegis
 .	.	.
-
 Á	aþ	á
 dagskrá	nveþ	dagskrá
 verða	sfg3fn	verða
 venjuleg	lhfnsf	venjulegur
 aðalfundarstörf	nhfn	aðalfundarstörf
 .	.	.
-
 Nánar	aam	náið
 auglýst	sþghen	auglýsa
 síðar	aam	síðar
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 lögum	nhfþ	lag
 Blindrafélagsins	nheegs	Blindrafélagið
@@ -680,7 +614,6 @@ varamenn	nkfn	varamaður
 í	ao	í
 stjórn	nveo	stjórn
 .	.	.
-
 Minnt	sþghen	minna
 er	sfg3en	vera
 á	ao	á
@@ -714,7 +647,6 @@ laugardaginn	nkeog	laugardagur
 22.	ta	22.
 apríl	nkeo	apríl
 nk.	as	nk.
-
 Vakin	sþgven	vekja
 er	sfg3en	vera
 athygli	nven	athygli
@@ -743,7 +675,6 @@ kjöri	nheþ	kjör
 sem	ct	sem
 aðalmaður	nken	aðalmaður
 .	.	.
-
 Því	aa	því
 þarf	sfg3en	þurfa
 að	cn	að
@@ -763,7 +694,6 @@ sér	fpkeþ	sig
 sem	c	sem
 varamaður	nken	varamaður
 .	.	.
-
 Framboðum	nhfþ	framboð
 má	sfg3en	mega
 skila	sng	skila
@@ -778,7 +708,6 @@ snældu	nveþ	snælda
 eða	c	eða
 geisladiski	nkeþ	geisladiskur
 .	.	.
-
 Einnig	aa	einnig
 má	sfg3en	mega
 senda	sng	senda
@@ -796,7 +725,6 @@ Haraldssonar	nkee-s	Haraldsson
 framkvæmdastjóra	nkee	framkvæmdastjóri
 Blindrafélagsins	nheegs	Blindrafélagið
 .	.	.
-
 Tillögum	nvfþ	tillaga
 til	ae	til
 breytinga	nvfe	breyting
@@ -812,18 +740,14 @@ fyrir	ao	fyrir
 sama	fbkeo	samur
 tíma	nkeo	tími
 .	.	.
-
 Stjórn	nven	stjórn
 Blindrafélagsins	nheegs	Blindrafélagið
-
 Atvinnumálafulltrúi	nken	atvinnumálafulltrúi
 -	-	-
 sumarstörf	nhfn	sumarstarf
-
 Frá	aþ	frá
 atvinnumálafulltrúa	nkeþ	atvinnumálafulltrúi
 .	.	.
-
 Ég	fp1en	ég
 hvet	sfg1en	hvetja
 námsfólk	nheo	námsfólk
@@ -854,7 +778,6 @@ tíma	nkeo	tími
 sé	svg3en	vera
 tekið	sþghen	taka
 .	.	.
-
 Einnig	aa	einnig
 hvet	sfg1en	hvetja
 ég	fp1en	ég
@@ -880,7 +803,6 @@ nám	nheo	nám
 eða	c	eða
 starf	nheo	starf
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 við	aa	við
@@ -896,7 +818,6 @@ fyrir	ao	fyrir
 hádegi	nheo	hádegi
 á	aþ	á
 föstudögum	nkfþ	föstudagur
-
 Með	aþ	með
 bestu	lveþve	góður
 kveðju	nveþ	kveðja
@@ -915,7 +836,6 @@ sveitarfélög	nhfn	sveitarfélag
 bætast	sfm3fn	bæta
 við	aa	við
 .	.	.
-
 Nú	aa	nú
 nýlega	aa	nýlega
 hefur	sfg3en	hafa
@@ -956,7 +876,6 @@ upp	aa	upp
 á	aa	á
 vantar	sfg3en	vanta
 .	.	.
-
 Samningarnir	nkfng	samningur
 miða	sfg3fn	miða
 við	ao	við
@@ -971,7 +890,6 @@ ferðir	nvfo	ferð
 á	aþ	á
 mánuðu	x	mánuður
 .	.	.
-
 Þá	aa	þá
 hafa	sfg3fn	hafa
 öll	fohfn	allur
@@ -1004,58 +922,48 @@ nám	nheo	nám
 á	aþ	á
 höfuðborgarsvæðinu	nheþg	höfuðborgarsvæði
 .	.	.
-
 Fundur	nken	fundur
 ,	,	,
 bingó	nhen	bingó
 ,	,	,
 ferð	nven	ferð
 .	.	.
-
 -	-	-
 Ýmsar	fovfn	ýmis
 tilkynningar	nvfn	tilkynning
 .	.	.
-
 Yfirlit	nhen	yfirlit
-
 Typur	x	typur
 og	c	og
 matarræði	nhen	matarræði
 -	-	-
 kvennadeild	nven	kvennadeild
 .	.	.
-
 Páskabingó	nhen	páskabingó
 lfundur	x	lfundur
 RP	as	RP
 deildar	nvee	deild
-
 Skemmtiferð	nven	skemmtiferð
 til	ae	til
 Danmörku	nvee-s	Danmarka
 .	.	.
-
 Styrkir	nkfn	styrkur
 til	ae	til
 náms	nhee	nám
 í	aþ	í
 fötlunarfræðum	nhfþ	fötlunarfræði
 .	.	.
-
 Typur	x	typur
 og	c	og
 matarræði	nhen	matarræði
 -	-	-
 kvennadeild	nven	kvennadeild
 .	.	.
-
 Kæru	lvfnvf	kær
 konur	nvfn	kona
 í	aþ	í
 Kvennadeildinni	nveþgs	Kvennadeild
 .	.	.
-
 Nú	aa	nú
 er	sfg3en	vera
 komið	sþghen	koma
@@ -1082,14 +990,12 @@ vanda	nkeþ	vandi
 kl.	as	kl.
 16.30	ta	16.30
 .	.	.
-
 Fyrirlesarinn	nkeng	fyrirlesari
 er	sfg3en	vera
 Birgitta	nven-s	Birgitta
 Jónsdóttir	nven-s	Jónsdóttir
 Klasen	nven-s	Klasen
 .	.	.
-
 Mun	sfg3en	munu
 hún	fpven	hún
 fræða	sng	fræða
@@ -1112,7 +1018,6 @@ sólartýpur	nvfn	sólartýpa
 eða	c	eða
 tungltýpur	nvfn	tungltýpa
 .	.	.
-
 Einnig	aa	einnig
 mun	sfg3en	munu
 hún	fpven	hún
@@ -1121,12 +1026,10 @@ okkur	fp1fo	ég
 um	ao	um
 þrýstipunktanudd	nheo	þrýstipunktanudd
 .	.	.
-
 Spennandi	lhenof	spennandi
 en	c	en
 dularfullt	lhensf	dularfullur
 .	.	.
-
 Þær	favfn	sá
 sem	ct	sem
 hafa	sfg3fn	hafa
@@ -1160,15 +1063,12 @@ kennitölu	nveþ	kennitala
 skrifstofu	nveþ	skrifstofa
 félagsins	nheeg	félag
 .	.	.
-
 Léttar	lvfnsf	léttur
 veitingar	nvfn	veiting
 í	aþ	í
 boði	nheþ	boð
 .	.	.
-
 Páskabingó	nhen	páskabingó
-
 Sunnudaginn	nkeog	sunnudagur
 2.	ta	2.
 apríl	nkeo	apríl
@@ -1193,7 +1093,6 @@ allt	fohen	allur
 í	aþ	í
 Páskastemningu	nkeþ	páskastemming
 .	.	.
-
 Mætum	svg1fn	mæta
 öll	fohfn	allur
 og	c	og
@@ -1206,14 +1105,11 @@ vandamenn	nkfn	vandamaður
 velkomnir	lkfnsf	velkominn
 með	aa	með
 .	.	.
-
 Tómstundanefnd	nven	tómstundanefnd
-
 Kæru	lkfnvf	kær
 félagsmenn	nkfn	félagsmaður
 RP	as	RP
 .	.	.
-
 Aðalfundur	nken	aðalfundur
 RP	as	RP
 deildar	nvee	deild
@@ -1229,25 +1125,19 @@ kl.	as	kl.
 10.30	ta	10.30
 stundvíslega	aa	stundvíslega
 .	.	.
-
 Fundar	nkee	fundur
 efni	nhen	efni
 :	:	:
-
 Skýrsla	nven	skýrsla
 lesin	sþgven	lesa
 ,	,	,
-
 Lagt	sþghen	leggja
 fram	aa	fram
 bókhald	nhen	bókhald
 ,	,	,
-
 Kosning	nven	kosning
 stjórnar	nvee	stjórn
-
 Fyrirlestur	nken	fyrirlestur
-
 Fyrri	lvenvm	fyrri
 stjórn	nven	stjórn
 gefur	sfg3en	gefa
@@ -1266,13 +1156,11 @@ er	sfg3en	vera
 vel	aa	vel
 þegið	sþghen	þiggja
 .	.	.
-
 Fyrirlesari	nken	fyrirlesari
 er	sfg3en	vera
 Ævar	nken-s	Ævar
 Jóhannesson	nken-s	Jóhannesson
 .	.	.
-
 Mun	sfg3en	munu
 hann	fpken	hann
 ræða	sng	ræða
@@ -1284,7 +1172,6 @@ bláberja	x	bláber
 og	c	og
 lúpínusafa	nkeo	lúpínusafi
 .	.	.
-
 Sagt	sþghen	segja
 hefur	sfg3en	hafa
 að	c	að
@@ -1295,7 +1182,6 @@ fyrir	ao	fyrir
 augun	nhfog	auga
 okkar	fp1fe	ég
 .	.	.
-
 Þennan	fakeo	þessi
 sama	fbkeo	samur
 dag	nkeo	dagur
@@ -1356,14 +1242,12 @@ fimmtudaginn	nkeog	fimmtudagur
 30.	ta	30.
 mars	nkeo	mars
 .	.	.
-
 (	(	(
 síðasta	lheþve	síðari
 lagi	nheþ	lag
 30.	ta	30.
 mars	nkeo	mars
 )	)	)
-
 Fundurinn	nkeng	fundur
 verður	sfg3en	verða
 að	aþ	að
@@ -1377,7 +1261,6 @@ Hamrahlíð	nveþ-s	Hamrahlíð
 ,	,	,
 2	ta	2
 hæð	nveþ	hæð
-
 Ef	c	ef
 þið	fp2fn	þú
 ætlið	sfg2fn	ætla
@@ -1392,12 +1275,10 @@ að	cn	að
 skrá	sng	skrá
 sig	fpkeo	sig
 .	.	.
-
 Skemmtiferð	nven	skemmtiferð
 til	ae	til
 Danmörku	nvee-s	Danmarka
 .	.	.
-
 Dagana	nkfog	dagur
 22.	ta	22.
 til	aa	til
@@ -1409,7 +1290,6 @@ fyrir	aþ	fyrir
 skemmtiferð	nveþ	skemmtiferð
 til	ae	til
 Danmerkur	nvee-s	Danmörk
-
 Dvalið	sþghen	dvelja
 verður	sfg3en	verða
 í	aþ	í
@@ -1445,7 +1325,6 @@ við	ao	við
 í	aþ	í
 ferðinni	nveþg	ferð
 .	.	.
-
 Verðið	nheng	verð
 er	sfg3en	vera
 aðeins	aa	aðeins
@@ -1463,7 +1342,6 @@ fæði	nhen	fæði
 allan	fokeo	allur
 tímann	nkeog	tími
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 ferð	nven	ferð
@@ -1472,7 +1350,6 @@ hentar	sfg3en	henta
 öllum	fokfþ	allur
 félagsmönnum	nkfþ	félagsmaður
 .	.	.
-
 Þeir	fakfn	sá
 sem	ct	sem
 áhuga	nkeo	áhugi
@@ -1487,7 +1364,6 @@ hjá	aþ	hjá
 Sigurjóni	nkeþ-s	Sigurjón
 Einarssyni	nkeþ-s	Einarsson
 .	.	.
-
 Tekið	sþghen	taka
 skal	sfg3en	skulu
 fram	aa	fram
@@ -1510,7 +1386,6 @@ gistirými	nhfn	gistirými
 fengust	sfm3fþ	fá
 ekki	aa	ekki
 .	.	.
-
 Því	aa	því
 eru	sfg3fn	vera
 þeir	fakfn	sá
@@ -1528,7 +1403,6 @@ sig	fpkfo	sig
 sem	aa	sem
 fyrst	aae	fyrr
 .	.	.
-
 Skráning	nven	skráning
 er	sfg3en	vera
 hafin	sþgven	hefja
@@ -1547,16 +1421,13 @@ föstudaginn	nkeog	föstudagur
 17.	ta	17.
 mars	nkeo	mars
 .	.	.
-
 Ferðanefnd	nven	ferðanefnd
-
 Styrkir	nkfn	styrkur
 til	ae	til
 náms	nhee	nám
 í	aþ	í
 fötlunarfræðum	nhfþ	fötlunarfræði
 .	.	.
-
 Umsóknafrestur	nken	umsóknafrestur
 í	aþ	í
 MA	as	MA
@@ -1574,14 +1445,12 @@ til	ae	til
 júní	nkee	júní
 2006	ta	2006
 .	.	.
-
 Umsóknareyðublað	nheo	umsóknareyðublað
 má	sfg3en	mega
 nálgasta	x	nálgast
 á	aþ	á
 heimasíðu	nveþ	heimasíða
 félagsvísindadeildar	nvee	félagsvísindadeild
-
 Nánari	lvfnvm	náinn
 upplýsingar	nvfn	upplýsing
 um	ao	um
@@ -1591,7 +1460,6 @@ eru	sfg3fn	vera
 vefsetri	nheþ	vefsetur
 í	aþ	í
 fötlunarfræðum	nhfþ	fötlunarfræði
-
 Upplýsingar	nvfo	upplýsing
 má	sfg3en	mega
 einnig	aa	einnig
@@ -1614,7 +1482,6 @@ Eggertsdóttur	nveþ-s	Eggertsdóttir
 deildarstjóra	nkeþ	deildarstjóri
 framhaldsnáms	nhee	framhaldsnám
 .	.	.
-
 Vinsamlegast	aae	vinsamlega
 sendið	sbg2fn	senda
 þessar	favfo	þessi
@@ -1624,7 +1491,6 @@ til	ae	til
 starfsfólks	nhee	starfsfólk
 /	/	/
 félagsmanna	nkfe	félagsmaður
-
 Með	aþ	með
 kveðju	nveþ	kveðja
 ,	,	,
@@ -1634,17 +1500,14 @@ og	c	og
 Hrefna	nven-s	Hrefna
 K.	as	K.
 Óskarsdóttir	nven-s	Óskarsdóttir
-
 Félgasvísindadeild	nven	félgasvísindadeild
 Háskóla	nkee-s	Háskóli
 Íslands	nhee-s	Ísland
-
 Fjölmennur	lkensf	fjölmennur
 baráttufundur	nken	baráttufundur
 í	aþ	í
 Blindrafélaginu	nheþgs	Blindrafélagið
 .	.	.
-
 Mjög	aa	mjög
 fjölmennur	lkensf	fjölmennur
 félagsfundur	nken	félagsfundur
@@ -1675,7 +1538,6 @@ og	c	og
 talmeinastöðvar	nvee	talmeinastöð
 Íslands	nhee-s	Ísland
 .	.	.
-
 Þungur	lkensf	þungur
 undirtónn	nken	undirtónn
 var	sfg3eþ	vera
@@ -1688,7 +1550,6 @@ voru	sfg3fþ	vera
 ákaflega	aa	ákaflega
 málefnalegar	lvfnsf	málefnalegur
 .	.	.
-
 Megininntak	nhen	megininntak
 sjónarmiða	nhfe	sjónarmið
 þeirra	fpkfe	hann
@@ -1701,7 +1562,6 @@ hér	aa	hér
 fyrir	aa	fyrir
 neðan	aa	neðan
 .	.	.
-
 Nýr	lkensf	nýr
 heilbrigðis-	nken	heilbrigðisráðherra
 og	c	og
@@ -1714,7 +1574,6 @@ fundinn	nkeog	fundur
 ásamt	aþ	ásamt
 aðstoðarfólki	nheþ	aðstoðarfólk
 .	.	.
-
 Þá	aa	þá
 mætti	sfg3eþ	mæta
 Sigursteinn	nken-s	Sigursteinn
@@ -1728,7 +1587,6 @@ fréttamanna	nkfe	fréttamaður
 og	c	og
 ljósmyndara	nkfe	ljósmyndari
 .	.	.
-
 Margir	lkfnsf	margur
 lýstu	sfg3fþ	lýsa
 því	fpheþ	það
@@ -1745,7 +1603,6 @@ sambærilegar	lvfosf	sambærilegur
 stofnanir	nvfo	stofnun
 ríkisins	nheeg	ríki
 .	.	.
-
 Sjónstöðin	nveng	sjónstöð
 var	sfg3eþ	vera
 sett	sþgven	setja
@@ -1756,7 +1613,6 @@ eftir	ao	eftir
 baráttu	nveo	barátta
 félagsins	nheeg	félag
 .	.	.
-
 Menn	nkfn	maður
 óttuðust	sfm3fþ	óttast
 að	c	að
@@ -1778,7 +1634,6 @@ að	cn	að
 fækka	sng	fækka
 fólki	nheþ	fólk
 .	.	.
-
 Þá	aa	þá
 töldu	sfg3fþ	telja
 menn	nkfn	maður
@@ -1824,7 +1679,6 @@ Sjónstöð	nveþ-s	Sjónstöð
 í	aþ	í
 leiðinni	nveþg	leið
 .	.	.
-
 Háttvirtur	lkensf	háttvirtur
 heilbrigðis-	nken	heilbrigðisráðherra
 og	c	og
@@ -1833,7 +1687,6 @@ skýrði	sfg3eþ	skýra
 sjónarmið	nheo	sjónarmið
 ráðuneytisins	nheeg	ráðuneyti
 .	.	.
-
 Siv	nven-s	Siv
 sagði	sfg3eþ	segja
 að	c	að
@@ -1858,7 +1711,6 @@ með	aþ	með
 sömu	fbvfþ	sami
 fjárveitingum	nvfþ	fjárveiting
 .	.	.
-
 Nefndi	sfg3eþ	nefna
 hún	fpven	hún
 nokkrar	fovfo	nokkur
@@ -1874,7 +1726,6 @@ taka	sng	taka
 þeim	fpvfþ	hún
 ábyrgð	nveo	ábyrgð
 .	.	.
-
 Sagði	sfg3eþ	segja
 hún	fpven	hún
 frá	aþ	frá
@@ -1893,7 +1744,6 @@ stöðvarinnar	nveeg	stöð
 algjörlega	aa	algjörlega
 ófullnægjandi	lheþof	ófullnægjandi
 .	.	.
-
 Eftir	ao	eftir
 nærri	aa	nærri
 tveggja	tfkfe	tveir
@@ -1914,7 +1764,6 @@ skýra	sng	skýra
 aðdraganda	nkeo	aðdragandi
 frumvarpsins	nheeg	frumvarp
 .	.	.
-
 Ágúst	x	Ágústa
 Eir	nven-s	Eir
 Gunnarsdóttir	nven-s	Gunnarsdóttir
@@ -1935,16 +1784,13 @@ sem	c	sem
 ályktun	nven	ályktun
 fundarins	nkeeg	fundur
 .	.	.
-
 Reykjavík	nveþ-s	Reykjavík
 ,	,	,
 09.03.2006	ta	09.03.2006
 .	.	.
-
 Ályktun	nven	ályktun
 félagsfundar	nkee	félagsfundur
 Blindrafélagsins	nheegs	Blindrafélagið
-
 «	«	«
 Félagsfundur	nken	félagsfundur
 Blindrafélagsins	nheegs	Blindrafélagið
@@ -1975,7 +1821,6 @@ og	c	og
 Sjónstöðvar	nvee-s	Sjónstöð
 Íslands	nhee-s	Ísland
 .	.	.
-
 Þrátt	aa	þrátt
 fyrir	ao	fyrir
 vilyrði	nheo	vilyrði
@@ -2004,7 +1849,6 @@ Blindrafélagsins	nheegs	Blindrafélagið
 lagði	sfg3eþ	leggja
 fram	aa	fram
 .	.	.
-
 Inntak	nhen	inntak
 frumvarpsins	nheeg	frumvarp
 er	sfg3en	vera
@@ -2019,7 +1863,6 @@ kynnt	sþghfn	kynna
 í	aþ	í
 október	nkeþ	október
 sl.	as	sl.
-
 Ummælum	nhfþ	ummæli
 aðstoðarmanns	nkee	aðstoðarmaður
 ráðherra	nkee	ráðherra
@@ -2041,7 +1884,6 @@ vísað	sþghen	vísa
 til	ae	til
 föðurhúsanna	nhfeg	föðurhús
 .	.	.
-
 Ljóst	lhensf	ljós
 er	sfg3en	vera
 að	c	að
@@ -2070,7 +1912,6 @@ blinda	lkfosf	blindur
 og	c	og
 sjónskerta	lkfosf	sjónskertur
 .	.	.
-
 Félagsfundur	nken	félagsfundur
 Blindrafélagsins	nheegs	Blindrafélagið
 skorar	sfg3en	skora
@@ -2092,7 +1933,6 @@ félög	nhfo	félag
 notenda	nkfe	notandi
 .	.	.
 »	»	»
-
 Samþykkt	sþghen	samþykkja
 á	aþ	á
 félagsfundi	nkeþ	félagsfundur
@@ -2106,7 +1946,6 @@ mars	nkeo	mars
 að	aþ	að
 Hamrahlíð	nveþ-s	Hamrahlíð
 17	ta	17
-
 Tómstundir	nvfn	tómstund
 ,	,	,
 sjóðir	nkfn	sjóður
@@ -2119,9 +1958,7 @@ tilkynningar	nvfn	tilkynning
 mars	nkeþ	mars
 2006	ta	2006
 .	.	.
-
 Yfirlit	nhen	yfirlit
-
 ÚTHLUTUN	nven	úthlutun
 ÚR	aþ	úr
 NÁMSSJÓÐI	nkeþ	námssjóður
@@ -2129,25 +1966,20 @@ BLINDRAFÉLAGSINS	nheegs	Blindrafélagið
 FYRIR	ao	fyrir
 VORÖNN	nveo	vorönn
 2006	ta	2006
-
 Körfugerð	nven	körfugerð
 .	.	.
-
 Félagsfundur	nken	félagsfundur
 Blindrafélagsins	nheegs	Blindrafélagið
 .	.	.
-
 Skemmtiferð	nven	skemmtiferð
 til	ae	til
 Danmerkur	nvee-s	Danmörk
 .	.	.
-
 Sjóðurinn	nkeng	sjóður
 Blind	lhfnsf	blindur
 börn	nhfn	barn
 á	aþ	á
 Íslandi	nheþ-s	Ísland
-
 ÚTHLUTUN	nven	úthlutun
 ÚR	aþ	úr
 NÁMSSJÓÐI	nkeþ	námssjóður
@@ -2155,7 +1987,6 @@ BLINDRAFÉLAGSINS	nheegs	Blindrafélagið
 FYRIR	ao	fyrir
 VORÖNN	nveo	vorönn
 2006	ta	2006
-
 Námssjóður	nken	námssjóður
 Blindrafélagsins	nheegs	Blindrafélagið
 auglýsir	sfg3en	auglýsa
@@ -2170,7 +2001,6 @@ fyrir	ao	fyrir
 vorönn	nveo	vorönn
 2006	ta	2006
 .	.	.
-
 Sjóðnum	nkeþg	sjóður
 er	sfg3en	vera
 ætlað	sþghen	ætla
@@ -2183,7 +2013,6 @@ eru	sfg3fn	vera
 viðurkenndu	lheþsf	viðurkenndur
 námi	nheþ	nám
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -2202,7 +2031,6 @@ frammi	aa	frammi
 á	aþ	á
 skrifstofunni	nveþg	skrifstofa
 .	.	.
-
 Þeir	fakfn	sá
 sem	ct	sem
 óska	sfg3fn	óska
@@ -2227,7 +2055,6 @@ eða	c	eða
 með	aþ	með
 netpósti	nkeþ	netpóstur
 .	.	.
-
 Öllum	fokfþ	allur
 þeim	fakfþ	sá
 sem	ct	sem
@@ -2237,16 +2064,13 @@ verða	sfg3fn	verða
 send	sþghfn	senda
 umsóknareyðublöð	nhfn	umsóknareyðublað
 .	.	.
-
 Umsóknarfrestur	nken	umsóknarfrestur
 er	sfg3en	vera
 til	ae	til
 1.apríl	nkee	1.apríl
 næstkomandi	lkeeof	næstkomandi
-
 Meðfylgjandi	lhfnof	meðfylgjandi
 gögn	nhfn	gagn
-
 Umsókninni	nveþg	umsókn
 skal	sfg3en	skulu
 fylgja	sng	fylgja
@@ -2266,10 +2090,8 @@ til	ae	til
 áframhaldandi	lheeof	áframhaldandi
 náms	nhee	nám
 .	.	.
-
 Körfugerð	nven	körfugerð
 .	.	.
-
 Þann	fakeo	sá
 21.	ta	21.
 mars	nkeo	mars
@@ -2287,7 +2109,6 @@ námskeið	nhen	námskeið
 í	aþ	í
 körfugerð	nveþ	körfugerð
 .	.	.
-
 Um	ao	um
 er	sfg3en	vera
 að	cn	að
@@ -2314,7 +2135,6 @@ kl.	as	kl.
 Hamrahlíð	nveþ-s	Hamrahlíð
 17	ta	17
 .	.	.
-
 Kennari	nken	kennari
 verður	sfg3en	verða
 Margrét	nven-s	Margrét
@@ -2336,7 +2156,6 @@ og	c	og
 skemmtileg	lhfosf	skemmtilegur
 verkefni	nhfo	verkefni
 .	.	.
-
 Gert	sþghen	gera
 er	sfg3en	vera
 ráð	nhen	ráð
@@ -2374,7 +2193,6 @@ matarolíuflöskuna	nveog	matarolíuflaska
 á	aþ	á
 heimilinu	nheþg	heimili
 .	.	.
-
 Margrét	nven-s	Margrét
 verður	sfg3en	verða
 með	ao	með
@@ -2391,7 +2209,6 @@ getur	sfg3en	geta
 valið	ssg	velja
 um	aa	um
 .	.	.
-
 Námskeiðsgjald	nhen	námskeiðsgjald
 er	sfg3en	vera
 kr.	as	kr.
@@ -2415,7 +2232,6 @@ föstudaginn	nkeog	föstudagur
 17.	ta	17.
 mars	nkeo	mars
 .	.	.
-
 Athugið	sbg2fn	athuga
 að	c	að
 aðeins	aa	aðeins
@@ -2436,27 +2252,22 @@ sig	fpkeo	sig
 sem	aa	sem
 fyrst	aae	fyrr
 .	.	.
-
 Með	aþ	með
 bestu	lveþve	góður
 kveðju	nveþ	kveðja
 ,	,	,
 Tómstundanefnd	nven	tómstundanefnd
 .	.	.
-
 Sæl	lhfnsf	sæll
 verið	sbg2fn	vera
 þið	fp2fn	þú
 .	.	.
-
 Félagsfundur	nken	félagsfundur
 Blindrafélagsins	nheegs	Blindrafélagið
 .	.	.
-
 Ágæti	lkenvf	ágætur
 félagsmaður	nken	félagsmaður
 !	!	!
-
 Stjórn	nven	stjórn
 Blindrafélagsins	nheegs	Blindrafélagið
 mun	sfg3en	munu
@@ -2474,7 +2285,6 @@ Hamrahlíð	nveþ-s	Hamrahlíð
 annarri	lveþsf	annar
 hæð	nveþ	hæð
 .	.	.
-
 Aðalmál	nhen	aðalmál
 fundarins	nkeeg	fundur
 er	sfg3en	vera
@@ -2487,7 +2297,6 @@ og	c	og
 Sjónstöðvar	nvee-s	Sjónstöð
 Íslands	nhee-s	Ísland
 .	.	.
-
 Heilbrigðisráðherra	nken	heilbrigðisráðherra
 hefur	sfg3en	hafa
 lagt	ssg	leggja
@@ -2508,7 +2317,6 @@ og	c	og
 trygginganefndar	nvee	trygginganefnd
 Alþingis	nhee-s	Alþingi
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 um	ao	um
@@ -2527,7 +2335,6 @@ að	aþ	að
 hins	ghee	hinn
 opinbera	lheevf	opinber
 .	.	.
-
 Vill	sfg3en	vilja
 því	aa	því
 stjórn	nven	stjórn
@@ -2541,25 +2348,20 @@ mæta	sng	mæta
 á	ao	á
 fundinn	nkeog	fundur
 .	.	.
-
 Dagskrá	nven	dagskrá
 :	:	:
-
 Formaður	nken	formaður
 setur	sfg3en	setja
 fund	nkeo	fundur
 .	.	.
-
 Kosning	nven	kosning
 fundarstjóra	nkee	fundarstjóri
 og	c	og
 fundarritara	nkee	fundarritari
 .	.	.
-
 Kynning	nven	kynning
 viðstaddra	lkfesf	viðstaddur
 .	.	.
-
 Fundargerð	nven	fundargerð
 síðasta	lkeeve	síðari
 félagsfundar	nkee	félagsfundur
@@ -2571,7 +2373,6 @@ upp	aa	upp
 til	ae	til
 samþykktar	nvee	samþykkt
 .	.	.
-
 Sameining	nven	sameining
 Sjónstöðvar	nvee-s	Sjónstöð
 Íslands	nhee-s	Ísland
@@ -2587,14 +2388,11 @@ umræður	nvfn	umræða
 um	ao	um
 málið	nheog	mál
 .	.	.
-
 Önnur	fohfn	annar
 mál	nhfn	mál
-
 Fundi	nkeþ	fundur
 slitið	sþghen	slíta
 .	.	.
-
 Með	aþ	með
 félagskveðju	nveþ	félagskveðja
 f.h.	as	f.h.
@@ -2605,12 +2403,10 @@ Sævar	nken-s	Sævar
 Guðbergsson	nken-s	Guðbergsson
 ,	,	,
 formaður	nken	formaður
-
 Skemmtiferð	nven	skemmtiferð
 til	ae	til
 Danmerkur	nvee-s	Danmörk
 .	.	.
-
 Nú	aa	nú
 er	sfg3en	vera
 tímabært	lhensf	tímabær
@@ -2649,7 +2445,6 @@ til	aa	til
 26.	ta	26.
 mars	nkeo	mars
 n.k.	as	n.k.
-
 Verð	nhen	verð
 kr.	as	kr.
 13.000	ta	13.000
@@ -2667,7 +2462,6 @@ máltíð	nven	máltíð
 báða	fokfo	báðir
 dagana	nkfog	dagur
 .	.	.
-
 Skráning	nven	skráning
 fer	sfg3en	fara
 fram	aa	fram
@@ -2675,15 +2469,12 @@ fram	aa	fram
 skrifstofu	nveþ	skrifstofa
 Blindrafélagsins	nheegs	Blindrafélagið
 .	.	.
-
 Eða	c	eða
 hjá	aþ	hjá
 Steinunni	nveþ-s	Steinunn
-
 Ágætu	lkfnvf	ágætur
 félagar	nkfn	félagi
 !	!	!
-
 Dagana	nkfog	dagur
 22.	ta	22.
 til	aa	til
@@ -2695,7 +2486,6 @@ fyrir	aþ	fyrir
 skemmtiferð	nveþ	skemmtiferð
 til	ae	til
 Danmerkur	nvee-s	Danmörk
-
 Dvalið	sþghen	dvelja
 verður	sfg3en	verða
 í	aþ	í
@@ -2731,7 +2521,6 @@ við	ao	við
 í	aþ	í
 ferðinni	nveþg	ferð
 .	.	.
-
 Verðið	nheng	verð
 er	sfg3en	vera
 aðeins	aa	aðeins
@@ -2749,7 +2538,6 @@ fæði	nhen	fæði
 allan	fokeo	allur
 tímann	nkeog	tími
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 ferð	nven	ferð
@@ -2758,7 +2546,6 @@ hentar	sfg3en	henta
 öllum	fokfþ	allur
 félagsmönnum	nkfþ	félagsmaður
 .	.	.
-
 Þeir	fakfn	sá
 sem	ct	sem
 áhuga	nkeo	áhugi
@@ -2773,7 +2560,6 @@ hjá	aþ	hjá
 Sigurjóni	nkeþ-s	Sigurjón
 Einarssyni	nkeþ-s	Einarsson
 .	.	.
-
 Tekið	sþghen	taka
 skal	sfg3en	skulu
 fram	aa	fram
@@ -2796,7 +2582,6 @@ gistirými	nhfn	gistirými
 fengust	sfm3fþ	fá
 ekki	aa	ekki
 .	.	.
-
 Því	aa	því
 eru	sfg3fn	vera
 þeir	fakfn	sá
@@ -2814,7 +2599,6 @@ sig	fpkfo	sig
 sem	aa	sem
 fyrst	aae	fyrr
 .	.	.
-
 Skráning	nven	skráning
 er	sfg3en	vera
 hafin	sþgven	hefja
@@ -2833,9 +2617,7 @@ föstudaginn	nkeog	föstudagur
 17.	ta	17.
 mars	nkeo	mars
 .	.	.
-
 Ferðanefnd	nven	ferðanefnd
-
 Sjóðurinn	nkeng	sjóður
 Blind	lhfnsf	blindur
 börn	nhfn	barn
@@ -2856,7 +2638,6 @@ að	aþ	að
 ára	nhfe	ár
 aldri	nkeþ	aldur
 .	.	.
-
 Sjóðurinn	nkeng	sjóður
 veitir	sfg3en	veita
 einungis	aa	einungis
@@ -2894,7 +2675,6 @@ blindra	lhfesf	blindur
 og	c	og
 sjónskertra	lhfesf	sjónskertur
 barna	nhfe	barn
-
 Úthlutað	sþghen	úthluta
 verður	sfg3en	verða
 styrkjum	nkfþ	styrkur
@@ -2908,7 +2688,6 @@ er	sfg3en	vera
 20.apríl	nkeo	20.apríl
 næstkomandi	lkeoof	næstkomandi
 .	.	.
-
 Umsóknir	nvfn	umsókn
 um	ao	um
 styrki	nkfo	styrkur
@@ -2922,11 +2701,9 @@ en	c	en
 1.apríl	nkee	1.apríl
 ´	´	´
 06	ta	06
-
 Leikjasíða	nven	leikjasíða
 fyrir	ao	fyrir
 börnin	nhfog	barn
-
 SORPA	nven-s	Sorpa
 hefur	sfg3en	hafa
 opnað	ssg	opna
@@ -2937,7 +2714,6 @@ yngstu	lkfove	ungur
 viðskiptavini	nkfo	viðskiptavinur
 sína	fekfo	sinn
 .	.	.
-
 Þar	aa	þar
 geta	sfg3fn	geta
 börnin	nhfng	barn
@@ -2957,7 +2733,6 @@ flokkun	nveo	flokkun
 og	c	og
 endurvinnslu	nveo	endurvinnsla
 .	.	.
-
 Á	aþ	á
 síðunni	nveþg	síða
 er	sfg3en	vera
@@ -2995,10 +2770,8 @@ lúðu	nveþ	lúða
 frá	aþ	frá
 mengun	nveþ	mengun
 .	.	.
-
 Fræðslustarf	nhen	fræðslustarf
 SORPU	nvee-s	Sorpa
-
 SORPA	nven-s	Sorpa
 hefur	sfg3en	hafa
 um	ao	um
@@ -3020,7 +2793,6 @@ börn	nhfo	barn
 leikskólum	nkfþ	leikskóli
 höfuðborgarsvæðisins	nheeg	höfuðborgarsvæði
 .	.	.
-
 Á	ao	á
 sumrin	nhfog	sumar
 er	sfg3en	vera
@@ -3042,7 +2814,6 @@ nemendum	nkfþ	nemandi
 ár	nheo	ár
 hvert	foheo	hver
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 hægt	lhensf	hægur
@@ -3054,14 +2825,12 @@ kynna	sng	kynna
 sér	fpkeþ	sig
 fræðsluna	nveog	fræðsla
 .	.	.
-
 Laus	lhfnsf	laus
 störf	nhfn	starf
 í	aþ	í
 boði	nheþ	boð
 hjá	aþ	hjá
 SORPU	nveþ-s	Sorpa
-
 Nú	aa	nú
 um	ao	um
 þessar	favfo	þessi
@@ -3074,7 +2843,6 @@ boði	nheþ	boð
 hjá	aþ	hjá
 SORPU	nveþ-s	Sorpa
 .	.	.
-
 Áhugasamir	lkfnsf	áhugasamur
 geta	sfg3fn	geta
 kynnt	ssg	kynna
@@ -3091,7 +2859,6 @@ hér	aa	hér
 að	aa	að
 neðan	aa	neðan
 .	.	.
-
 Starfsmaður	nken	starfsmaður
 í	aþ	í
 Góða	lkeþvf	góður
@@ -3099,7 +2866,6 @@ hirðinum	nkeþg	hirðir
 ,	,	,
 framtíðarstarf	nhen	framtíðarstarf
 .	.	.
-
 Sumarstarf	nhen	sumarstarf
 á	aþ	á
 endurvinnslustöðvum	nvfþ	endurvinnslustöð
@@ -3107,14 +2873,12 @@ endurvinnslustöðvum	nvfþ	endurvinnslustöð
 fullt	lhensf	fullur
 starf	nhen	starf
 .	.	.
-
 Starfsmaður	nken	starfsmaður
 á	ao	á
 endurvinnslustöðvar	nvfo	endurvinnslustöð
 -	-	-
 framtíðarstarf	nhen	framtíðarstarf
 .	.	.
-
 Starfsmaður	nken	starfsmaður
 í	aþ	í
 móttökustöð	nveþ	móttökustöð
@@ -3126,10 +2890,8 @@ laust	lhensf	laus
 ágúst	nkeþ	ágúst
 )	)	)
 .	.	.
-
 Ný	lvensf	nýr
 Flokkunartafla	nven-s	flokkunartafla
-
 Nú	aa	nú
 hefur	sfg3en	hafa
 flokkunartafla	nven	flokkunartafla
@@ -3139,7 +2901,6 @@ endurbætt	sþgven	endurbæta
 og	c	og
 uppfærð	sþgven	uppfæra
 .	.	.
-
 Þú	fp2en	þú
 getur	sfg2en	geta
 prentað	ssg	prenta
@@ -3158,7 +2919,6 @@ senda	sþgveo	senda
 í	aþ	í
 pósti	nkeþ	póstur
 .	.	.
-
 Ef	c	ef
 þú	fp2en	þú
 óskar	sfg2en	óska
@@ -3180,17 +2940,14 @@ nafn	nhen	nafn
 og	c	og
 heimilisfang	nhen	heimilisfang
 .	.	.
-
 Flokkunartafla	nven	flokkunartafla
 fyrir	ao	fyrir
 heimili	nhfo	heimili
-
 Flokkunartafla	nven	flokkunartafla
 fyrir	ao	fyrir
 fyrirtæki	nhfo	fyrirtæki
 og	c	og
 stofnanir	nvfo	stofnun
-
 Þegar	c	þegar
 garðaúrgangi	nkeþ	garðaúrgangur
 er	sfg3en	vera
@@ -3207,7 +2964,6 @@ vegu	nkfo	vegur
 :	:	:
 1	ta	1
 .	.	.
-
 Trjágreinar	nvfn	trjágrein
 (	(	(
 efnið	nheng	efni
@@ -3219,10 +2975,8 @@ nýtt	sþghen	nýta
 moltugerð	nveo	moltugerð
 )	)	)
 .	.	.
-
 2	ta	2
 .	.	.
-
 Gras	nhen	gras
 (	(	(
 efnið	nheng	efni
@@ -3232,10 +2986,8 @@ nýtt	sþghen	nýta
 moltugerð	nveo	moltugerð
 )	)	)
 .	.	.
-
 3	ta	3
 .	.	.
-
 Annar	foken	annar
 garðaúrgangur	nken	garðaúrgangur
 ,	,	,
@@ -3253,15 +3005,12 @@ er	sfg3en	vera
 ónýtanlegt	lhensf	ónýtanlegur
 )	)	)
 .	.	.
-
 4	ta	4
 .	.	.
-
 Grjót	nhen	grjót
 og	c	og
 jarðvegur	nken	jarðvegur
 .	.	.
-
 Athugið	sbg2fn	athuga
 að	c	að
 ekki	aa	ekki
@@ -3303,7 +3052,6 @@ Sævarhöfða	nkeo-s	Sævarhöfði
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Þegar	c	þegar
 garðurinn	nkeng	garður
 er	sfg3en	vera
@@ -3331,7 +3079,6 @@ leynist	sfm3en	leyna
 undir	aþ	undir
 laufhrúgu	nveþ	laufhrúga
 .	.	.
-
 Við	fp1fn	ég
 getum	sfg1fn	geta
 flest	lhfnse	margur
@@ -3351,7 +3098,6 @@ til	ae	til
 lítillar	lveesf	lítill
 prýði	nvee	prýði
 .	.	.
-
 Við	fp1fn	ég
 getum	sfg1fn	geta
 lagt	ssg	leggja
@@ -3384,7 +3130,6 @@ stað	nkeo	staður
 í	ao	í
 ruslatunnuna	nveog	ruslatunna
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 sameiginleg	lvensf	sameiginlegur
@@ -3403,7 +3148,6 @@ meiri	lkenvm	mikill
 en	c	en
 fyrirhöfnin	nveng	fyrirhöfn
 .	.	.
-
 Það	fphen	það
 munar	sfg3en	muna
 nefnilega	aa	nefnilega
@@ -3417,7 +3161,6 @@ munar	sfg3en	muna
 fyrir	ao	fyrir
 umhverfið	nheog	umhverfi
 !	!	!
-
 Frá	aþ	frá
 1.	ta	1.
 mars	nkeþ	mars
@@ -3436,7 +3179,6 @@ fernum	nvfþ	ferna
 í	ao	í
 grenndargáma	nkfo	grenndargámur
 .	.	.
-
 Nú	aa	nú
 er	sfg3en	vera
 hægt	lhensf	hægur
@@ -3446,24 +3188,18 @@ plastumbúðum	nvfþ	plastumbúð
 til	ae	til
 endurvinnslu	nvee	endurvinnsla
 !	!	!
-
 Plastumbúðir	nvfn	plastumbúð
 frá	aþ	frá
 heimilum	nhfþ	heimili
-
 Plastumbúðir	nvfn	plastumbúð
 frá	aþ	frá
 fyrirtækjum	nhfþ	fyrirtæki
-
 Filmuplast	nhen	filmuplast
 frá	aþ	frá
 fyrirtækjum	nhfþ	fyrirtæki
-
 Almennur	lkensf	almennur
 afgreiðslutími	nken	afgreiðslutími
-
 Endurvinnslustöðvar	nvfn	endurvinnslustöð
-
 Stöðvar	nvfn	stöð
 við	ao	við
 :	:	:
@@ -3471,25 +3207,20 @@ Jafnasel	nheo-s	Jafnasel
 8	ta	8
 ,	,	,
 Reykjavík	nveþ-s	Reykjavík
-
 Dalveg	nkeo-s	Dalvegur
 1	ta	1
 ,	,	,
 Kópavogi	nkeþ-s	Kópavogur
-
 Blíðubakka	nkeo-s	Blíðubakki
 ,	,	,
 Mosfellsbæ	nkeþ-s	Mosfellsbær
-
 Ánanaust	nhfo-s	Ánanaust
 ,	,	,
 Reykjavík	nveþ-s	Reykjavík
-
 Sævarhöfða	nkeo-s	Sævarhöfði
 21	ta	21
 ,	,	,
 Reykjavík	nveþ-s	Reykjavík
-
 Miðhraun	nheo-s	Miðhraun
 ,	,	,
 Garðabæ	nkeþ-s	Garðabær
@@ -3509,7 +3240,6 @@ kl.	as	kl.
 10:00	ta	10:00
 -	-	-
 18:30	ta	18:30
-
 Endurvinnslustöð	nven	endurvinnslustöð
 SORPU	nvee-s	Sorpa
 á	aþ	á
@@ -3519,7 +3249,6 @@ Norðurgrund	nveo-s	Norðurgrund
 er	sfg3en	vera
 opin	lvensf	opinn
 :	:	:
-
 Sunnudaga	nkfo	sunnudagur
 ,	,	,
 miðvikudaga	nkfo	miðvikudagur
@@ -3530,23 +3259,18 @@ kl.	as	kl.
 14:30	ta	14:30
 -	-	-
 19:30	ta	19:30
-
 Umsjónarmenn	nkfn	umsjónarmaður
 endurvinnslustöðva	nvfe	endurvinnslustöð
 eru	sfg3fn	vera
 :	:	:
-
 Steinunn	nven-s	Steinunn
 Jónsdóttir	nven-s	Jónsdóttir
-
 Stefán	nken-s	Stefán
 Örn	nken-s	Örn
 Einarsson	nken-s	Einarsson
-
 Móttökustöðin	nveng	móttökustöð
 í	aþ	í
 Gufunesi	nheþ-s	Gufunes
-
 Móttökustöðin	nveng	móttökustöð
 er	sfg3en	vera
 opin	lvensf	opinn
@@ -3562,18 +3286,15 @@ Laugardaga	nkfo	laugardagur
 10:00	ta	10:00
 -	-	-
 18:00	ta	18:00
-
 -	-	-
 Efnamóttakan	nveng	efnamóttakan
 hf.	as	hf.
 í	aþ	í
 Gufunesi	nheþ-s	Gufunes
 .	.	.
-
 Urðunarstaðurinn	nkeng	urðunarstaður
 í	aþ	í
 Álfsnesi	nheþ-s	Álfsnes
-
 Urðunarstaðurinn	nkeng	urðunarstaður
 í	aþ	í
 Álfsnesi	nheþ-s	Álfsnes
@@ -3591,7 +3312,6 @@ Laugardaga	nkfo	laugardagur
 8:00	ta	8:00
 -	-	-
 16:00	ta	16:00
-
 Yfir	ao	yfir
 sumartímann	nkeog	sumartími
 eða	c	eða
@@ -3609,7 +3329,6 @@ kl.	as	kl.
 10:00	ta	10:00
 -	-	-
 14:00	ta	14:00
-
 Góði	lkenvf	góður
 hirðirinn	nkeng	hirðir
 -	-	-
@@ -3634,7 +3353,6 @@ alla	fokfo	allur
 virka	lkfosf	virkur
 daga	nkfo	dagur
 .	.	.
-
 Skrifstofan	nveng	skrifstofa
 í	aþ	í
 Gufunesi	nheþ-s	Gufunes
@@ -3649,16 +3367,12 @@ alla	fokfo	allur
 virka	lkfosf	virkur
 daga	nkfo	dagur
 .	.	.
-
 SORPA	nven-s	Sorpa
-
 SORPA	nven-s	Sorpa
 bs	as	bs
-
 Gufunesi	nheþ-s	Gufunes
 112	ta	112
 Reykjavík	nveþ-s	Reykjavík
-
 Fyrirtækið	nheng	fyrirtæki
 er	sfg3en	vera
 skráð	lhensf	skráður
@@ -3671,7 +3385,6 @@ fyrirtækjaskrá	nveþ	fyrirtækjaskrá
 og	c	og
 þjóðskrá	nveþ	þjóðskrá
 .	.	.
-
 Hér	aa	hér
 má	sfg3en	mega
 skoða	sng	skoða
@@ -3681,15 +3394,12 @@ SORPU	nvee-s	Sorpa
 á	aþ	á
 korti	nheþ	kort
 .	.	.
-
 Starfsleyfi	nhen	starfsleyfi
-
 SORPA	nven-s	Sorpa
 er	sfg3en	vera
 starfsleyfisskylt	lhensf	starfsleyfisskyldur
 fyrirtæki	nhen	fyrirtæki
 .	.	.
-
 Starfsleyfisskylda	nven	starfsleyfisskylda
 fyrirtækja	nhfe	fyrirtæki
 byggir	sfg3en	byggja
@@ -3720,7 +3430,6 @@ samkvæmt	aþ	samkvæmt
 ofanskráðum	lhfþsf	ofanskráður
 lögum	nhfþ	lag
 .	.	.
-
 Starfsleyfi	nhen	starfsleyfi
 nær	sfg3en	ná
 til	ae	til
@@ -3731,7 +3440,6 @@ og	c	og
 umsvifa	nhfe	umsvif
 starfseminnar	nveeg	starfsemi
 .	.	.
-
 Starfsleyfi	nhen	starfsleyfi
 fyrir	ao	fyrir
 móttöku	nveo	móttaka
@@ -3745,7 +3453,6 @@ urðunarstaðinn	nkeog	urðunarstaður
 Álfsnesi	nheþ-s	Álfsnes
 veitir	sfg3en	veita
 :	:	:
-
 Umhverfisstofnun	nven-s	Umhverfisstofnun
 og	c	og
 eftirlit	nheo	eftirlit
@@ -3757,7 +3464,6 @@ og	c	og
 heilbrigðisstofa	nven	heilbrigðisstofa
 Reykjavíkur	nvee-s	Reykjavík
 .	.	.
-
 Starfsleyfi	nheo	starfsleyfi
 og	c	og
 eftirlit	nheo	eftirlit
@@ -3766,7 +3472,6 @@ endurvinnustöðvum	nvfþ	endurvinnustöð
 SORPU	nvee-s	Sorpa
 veita	sfg3fn	veita
 :	:	:
-
 Í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 :	:	:
@@ -3775,7 +3480,6 @@ og	c	og
 heilbrigðisstofa	nven	heilbrigðisstofa
 Reykjavíkur	nvee-s	Reykjavík
 .	.	.
-
 Í	aþ	í
 Kópavogi	nkeþ-s	Kópavogur
 og	c	og
@@ -3786,24 +3490,20 @@ Hafnarfjarðar-	nhee-s	Hafnarfjarðarsvæði
 og	c	og
 Kópavogssvæðis	nhee-s	Kópavogssvæði
 .	.	.
-
 Í	aþ	í
 Mosfellsbæ	nkeþ-s	Mosfellsbær
 :	:	:
 Heilbrigðiseftirlit	nhen-s	Heilbrigðiseftirlit
 Kjósarsvæðis	nhee-s	Kjósarsvæði
 .	.	.
-
 Byggðasamlagið	nheng	byggðasamlag
 SORPA	nven-s	Sorpa
-
 Móttöku-	nven	móttökustöð
 og	c	og
 flokkunarstöð	nven	flokkunarstöð
 SORPU	nvee-s	Sorpa
 í	aþ	í
 Gufunesi	nheþ-s	Gufunes
-
 Árið	nheog	ár
 1988	ta	1988
 var	sfg3eþ	vera
@@ -3811,7 +3511,6 @@ byggðasamlagið	nheng	byggðasamlag
 SORPA	nven-s	Sorpa
 stofnað	sþghen	stofna
 .	.	.
-
 Fyrir	ao	fyrir
 þann	fakeo	sá
 tíma	nkeo	tími
@@ -3839,7 +3538,6 @@ löndunum	nhfþg	land
 kringum	ao	kringum
 okkur	fp1fo	ég
 .	.	.
-
 Öllum	fokeþ	allur
 úrgangi	nkeþ	úrgangur
 sem	ct	sem
@@ -3853,7 +3551,6 @@ hent	sþghen	henda
 opna	lkfosf	opinn
 hauga	nkfo	haugur
 .	.	.
-
 Stofnun	nven	stofnun
 fyrirtækis	nhee	fyrirtæki
 sem	ct	sem
@@ -3871,7 +3568,6 @@ og	c	og
 raun	nveþ	raun
 kærkomin	lvensf	kærkominn
 .	.	.
-
 Í	ao	í
 stað	nkeo	staður
 opinna	lkfesf	opinn
@@ -3900,7 +3596,6 @@ starfsemi	nveo	starfsemi
 maí	nkeþ	maí
 1991	ta	1991
 .	.	.
-
 Á	aþ	á
 sama	fbkeþ	sami
 tíma	nkeþ	tími
@@ -3915,7 +3610,6 @@ urðunarstaður	nken	urðunarstaður
 á	aþ	á
 Kjalarnesi	nheþ-s	Kjalarnes
 .	.	.
-
 Allt	fohen	allur
 frá	aþ	frá
 upphafi	nheþ	upphaf
@@ -3932,7 +3626,6 @@ af	aþ	af
 ýmsum	fokeþ	ýmis
 toga	nkeþ	togi
 .	.	.
-
 Unnið	sþghen	vinna
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -3983,7 +3676,6 @@ tengist	sfm3en	tengja
 þessum	fakeþ	þessi
 málaflokki	nkeþ	málaflokkur
 .	.	.
-
 Rekstrar-	nken	rekstrarkostnaður
 og	c	og
 fjárfestingarkostnaður	nken	fjárfestingarkostnaður
@@ -3995,7 +3687,6 @@ notendum	nkfþ	notandi
 samkvæmt	aþ	samkvæmt
 gjaldskrá	nveþ	gjaldskrá
 .	.	.
-
 Eigendur	nkfn	eigandi
 SORPU	nvee-s	Sorpa
 eru	sfg3fn	vera
@@ -4004,22 +3695,14 @@ sveitarfélögin	nhfng	sveitarfélag
 á	aþ	á
 höfuðborgarsvæðinu	nheþg	höfuðborgarsvæði
 :	:	:
-
 Reykjavík	nven-s	Reykjavík
-
 Garðabær	nken-s	Garðabær
-
 Kópavogur	nken-s	Kópavogur
-
 Hafnarfjörður	nken-s	Hafnarfjörður
-
 Mosfellsbær	nken-s	Mosfellsbær
-
 Seltjarnarnes	nhen-s	Seltjarnarnes
-
 Sveitarfélagið	nheng	sveitarfélag
 Álftanes	nhen-s	Álftanes
-
 Eignarhlutfallið	nheng	eignarhlutfall
 skiptist	sfm3en	skipta
 í	aþ	í
@@ -4032,9 +3715,7 @@ sveitarfélagi	nheþ	sveitarfélag
 fyrir	ao	fyrir
 sig	fpheo	sig
 .	.	.
-
 Verkefni	nhfn	verkefni
-
 Í	aþ	í
 stofnsamningi	nkeþ	stofnsamningur
 SORPU	nvee-s	Sorpa
@@ -4066,14 +3747,12 @@ stofnaðilar	nkfn	stofnaðili
 að	aþ	að
 því	fpheþ	það
 .	.	.
-
 Verkefni	nhfn	verkefni
 byggðasamlagsins	nheeg	byggðasamlag
 eru	sfg3fn	vera
 m.a.	as	m.a.
 eftirfarandi	lhfnof	eftirfarandi
 :	:	:
-
 Að	cn	að
 útvega	sng	útvega
 og	c	og
@@ -4082,20 +3761,17 @@ urðunarstað	nkeo	urðunarstaður
 fyrir	ao	fyrir
 sorp	nheo	sorp
 .	.	.
-
 Bygging	nven	bygging
 og	c	og
 rekstur	nken	rekstur
 móttökustöðva	nvfe	móttökustöð
 .	.	.
-
 Flutningur	nken	flutningur
 á	aþ	á
 sorpi	nheþ	sorp
 frá	aþ	frá
 móttökustöðvum	nvfþ	móttökustöð
 .	.	.
-
 Framleiðsla	nven	framleiðsla
 og	c	og
 sala	nven	sala
@@ -4111,7 +3787,6 @@ sem	ct	sem
 hagkvæmt	lhensf	hagkvæmur
 þykir	sfg3en	þykja
 .	.	.
-
 Vinnsla	nven	vinnsla
 og	c	og
 sala	nven	sala
@@ -4127,7 +3802,6 @@ sem	ct	sem
 hagkvæmt	lhensf	hagkvæmur
 þykir	sfg3en	þykja
 .	.	.
-
 Samstarf	nhen	samstarf
 og	c	og
 viðskipti	nhfn	viðskipti
@@ -4145,7 +3819,6 @@ sem	ct	sem
 hagkvæmt	lhensf	hagkvæmur
 þykir	sfg3en	þykja
 .	.	.
-
 Að	cn	að
 fylgjast	snm	fylgja
 með	aþ	með
@@ -4156,7 +3829,6 @@ sorpeyðingar	nvee	sorpeyðing
 og	c	og
 endurvinnslu	nvee	endurvinnsla
 .	.	.
-
 Að	cn	að
 sjá	sng	sjá
 um	ao	um
@@ -4164,7 +3836,6 @@ eyðingu	nveo	eyðing
 hættulegra	lhfesf	hættulegur
 úrgangsefna	nhfe	úrgangsefni
 .	.	.
-
 Að	cn	að
 þróa	sng	þróa
 nýjar	lvfosf	nýr
@@ -4177,7 +3848,6 @@ verðmæti	nhfo	verðmæti
 úr	aþ	úr
 úrgangsefnum	nhfþ	úrgangsefni
 .	.	.
-
 Að	cn	að
 sinna	sng	sinna
 kynningu	nveþ	kynning
@@ -4192,7 +3862,6 @@ við	ao	við
 meðhöndlun	nveo	meðhöndlun
 sorps	nhee	sorp
 .	.	.
-
 Gera	sng	gera
 svæðisáætlanir	nvfo	svæðisáætlun
 sbr.	as	sbr.
@@ -4200,7 +3869,6 @@ lagakröfur	nvfo	lagakrafa
 hverju	foheþ	hver
 sinni	nheþ	sinn
 .	.	.
-
 Önnur	fohfn	annar
 verkefni	nhfn	verkefni
 sem	ct	sem
@@ -4209,25 +3877,20 @@ fela	sfg3fn	fela
 byggðasamlaginu	nheþg	byggðasamlag
 sérstaklega	aa	sérstaklega
 .	.	.
-
 Skoða	sng	skoða
 stofnsamning	nkeo	stofnsamningur
-
 Rekstur	nken	rekstur
 og	c	og
 gjaldtaka	nven	gjaldtaka
-
 Meðhöndlun	nven	meðhöndlun
 úrgangs	nkee	úrgangur
 kostar	sfg3en	kosta
 peninga	nkfo	peningur
 ...	...	...
-
 Sá	faken	sá
 greiðir	sfg3en	greiða
 sem	ct	sem
 veldur	sfg3en	valda
-
 Rekstrar-	nken	rekstrarkostnaður
 og	c	og
 fjárfestingarkostnaður	nken	fjárfestingarkostnaður
@@ -4239,7 +3902,6 @@ notendum	nkfþ	notandi
 samkvæmt	aþ	samkvæmt
 gjaldskrá	nveþ	gjaldskrá
 .	.	.
-
 Fyrirtæki	nhfn	fyrirtæki
 greiða	sfg3fn	greiða
 fyrir	ao	fyrir
@@ -4252,7 +3914,6 @@ fellur	sfg3en	falla
 undir	ao	undir
 Úrvinnslusjóð	nkeo-s	Úrvinnslusjóður
 .	.	.
-
 Almenningur	nken	almenningur
 greiðir	sfg3en	greiða
 fyrir	ao	fyrir
@@ -4272,7 +3933,6 @@ innheimt	sþghfn	innheimta
 með	aþ	með
 fasteignagjöldum	nhfþ	fasteignagjald
 .	.	.
-
 Það	fahen	sá
 sem	ct	sem
 ekki	aa	ekki
@@ -4300,7 +3960,6 @@ gólfefni	nhen	gólfefni
 og	c	og
 þessháttar	lhenof	þessháttar
 .	.	.
-
 úrgangur	nken	úrgangur
 frá	aþ	frá
 bifreiðaviðgerðum	nvfþ	bifreiðaviðgerð
@@ -4313,7 +3972,6 @@ húsakaup	nhfo	húsakaup
 úrgangur	nken	úrgangur
 vegna	ae	vegna
 húsdýrahalds	nhee	húsdýrahald
-
 Í	aþ	í
 móttökustöð	nveþ	móttökustöð
 er	sfg3en	vera
@@ -4332,7 +3990,6 @@ einkaaðilum	nkfþ	einkaaðili
 fyrirtækjum	nhfþ	fyrirtæki
 )	)	)
 .	.	.
-
 Gjaldið	nheng	gjald
 er	sfg3en	vera
 ákveðið	sþghen	ákveða
@@ -4361,7 +4018,6 @@ afskriftir	nvfo	afskrift
 af	aþ	af
 búnaði	nkeþ	búnaður
 .	.	.
-
 Söluverð	nhen	söluverð
 efna	nhfe	efni
 úr	aþ	úr
@@ -4382,7 +4038,6 @@ hefur	sfg3en	hafa
 á	ao	á
 móttökugjöld	nhfo	móttökugjald
 .	.	.
-
 Því	aa	því
 eru	sfg3fn	vera
 móttökugjöld	nhfn	móttökugjald
@@ -4404,7 +4059,6 @@ blandaðan	lkeosf	blandaður
 til	ae	til
 förgunar	nvee	förgun
 .	.	.
-
 Stjórn	nven	stjórn
 byggðasamlagsins	nheeg	byggðasamlag
 er	sfg3en	vera
@@ -4429,7 +4083,6 @@ eða	c	eða
 framkvæmdastjóri	nken	framkvæmdastjóri
 sveitarfélags	nhee	sveitarfélag
 .	.	.
-
 Sömu	fbhfn	sami
 skilyrði	nhfn	skilyrði
 gilda	sfg3fn	gilda
@@ -4440,7 +4093,6 @@ hver	foven	hver
 sveitarstjórn	nven	sveitarstjórn
 tilnefnir	sfg3en	tilnefna
 .	.	.
-
 Ákvæði	nhfn	ákvæði
 til	ae	til
 bráðabirgða	nvfe	bráðabirgð
@@ -4460,7 +4112,6 @@ stjórninni	nveþg	stjórn
 án	ae	án
 atkvæðisréttar	nkee	atkvæðisréttur
 .	.	.
-
 Ákvæði	nhen	ákvæði
 þetta	fahen	þessi
 gildir	sfg3en	gilda
@@ -4469,7 +4120,6 @@ loka	nhfe	lok
 yfirstandandi	lheeof	yfirstandandi
 kjörtímabils	nhee	kjörtímabil
 .	.	.
-
 Kjörtímabil	nhen	kjörtímabil
 stjórnar	nvee	stjórn
 er	sfg3en	vera
@@ -4481,7 +4131,6 @@ upphafi	nheþ	upphaf
 kjörtímabils	nhee	kjörtímabil
 sveitarstjórna	nvfe	sveitarstjórn
 .	.	.
-
 Stjórnin	nveng	stjórn
 skiptir	sfg3en	skipta
 sjálf	fbven	sjálfur
@@ -4496,7 +4145,6 @@ skiptast	snm	skipta
 milli	ae	milli
 aðildarfélaganna	nhfeg	aðildarfélag
 .	.	.
-
 Stjórnarmenn	nkfn	stjórnarmaður
 fara	sfg3fn	fara
 með	ao	með
@@ -4514,7 +4162,6 @@ eru	sfg3fn	vera
 fulltrúar	nkfn	fulltrúi
 fyrir	aa	fyrir
 .	.	.
-
 Atkvæðavægi	nhen	atkvæðavægi
 endurskoðast	sfm3en	endurskoða
 í	aþ	í
@@ -4532,7 +4179,6 @@ desember	nkeo	desember
 á	aa	á
 undan	aa	undan
 .	.	.
-
 Stjórnin	nveng	stjórn
 heldur	sfg3en	halda
 fundi	nkfo	fundur
@@ -4552,11 +4198,9 @@ sinni	nheþ	sinn
 í	aþ	í
 mánuði	nkeþ	mánuður
 .	.	.
-
 Skoða	sng	skoða
 fundargerðir	nvfo	fundargerð
 .	.	.
-
 Ný	lvensf	nýr
 stjórn	nven	stjórn
 tók	sfg3eþ	taka
@@ -4566,70 +4210,57 @@ afloknum	lvfþsf	aflokinn
 sveitarstjórnarkosningum	nvfþ	sveitarstjórnarkosning
 2006	ta	2006
 .	.	.
-
 Hana	fpveo	hún
 skipa	sfg3fn	skipa
 eftirtaldir	lkfnsf	eftirtalinn
 aðilar	nkfn	aðili
 :	:	:
-
 Páll	nken-s	Páll
 Hilmarsson	nken-s	Hilmarsson
 ,	,	,
 formaður	nken	formaður
 -	-	-
 Garðabæ	nkeþ-s	Garðabær
-
 Herdís	nven-s	Herdís
 Sigurjónsdóttir	nven-s	Sigurjónsdóttir
 ,	,	,
 varaformaður	nken	varaformaður
 -	-	-
 Mosfellsbæ	nkeþ-s	Mosfellsbær
-
 Björn	nken-s	Björn
 Ingi	nken-s	Ingi
 Hrafnsson	nken-s	Hrafnsson
 -	-	-
 Reykjavík	nveþ-s	Reykjavík
-
 Ómar	nken-s	Ómar
 Stefánsson	nken-s	Stefánsson
 -	-	-
 Kópavogi	nkeþ-s	Kópavogur
-
 Margrét	nven-s	Margrét
 Gauja	nven-s	Gauja
 Magnúsdóttir	nven-s	Magnúsdóttir
 -	-	-
 Hafnarfirði	nkeþ-s	Hafnarfjörður
-
 Kristján	nken-s	Kristján
 Sveinbjörnsson	nken-s	Sveinbjörnsson
 -	-	-
 Sveitarfélaginu	nheþgs	Sveitarfélag
 Álftanesi	nheþ-s	Álftanes
-
 Þór	nken-s	Þór
 Sigurgeirsson	nken-s	Sigurgeirsson
 -	-	-
 Seltjarnarnesi	nheþ-s	Seltjarnarnes
-
 Sjá	sng	sjá
 skipurit	nheo	skipurit
-
 Dótturfyrirtæki	nhen	dótturfyrirtæki
-
 Efnamóttakan	nvengs	Efnamóttakan
 hf.	as	hf.
 býður	sfg3en	bjóða
 upp	aa	upp
 á	ao	á
 söfnunarþjónustu	nveo	söfnunarþjónusta
-
 Efnamóttakan	nvengs	Efnamóttakan
 hf.	as	hf.
-
 Þann	fakeo	sá
 1.	ta	1.
 janúar	nkeo	janúar
@@ -4646,7 +4277,6 @@ hún	fpven	hún
 nú	aa	nú
 Efnamóttakan	nvengs	Efnamóttakan
 hf.	as	hf.
-
 Efnamóttakan	nvengs	Efnamóttakan
 hf.	as	hf.
 sér	sfg3en	sjá
@@ -4666,7 +4296,6 @@ eru	sfg3fn	vera
 skaðleg	lhfnsf	skaðlegur
 umhverfinu	nheþg	umhverfi
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 lögum	nhfþ	lag
 er	sfg3en	vera
@@ -4704,7 +4333,6 @@ Gufunesi	nheþ-s	Gufunes
 fyrirtæki	nhfn	fyrirtæki
 )	)	)
 .	.	.
-
 Starfsmenn	nkfn	starfsmaður
 Efnamóttökunnar	nveegs	Efnamóttakan
 hf.	as	hf.
@@ -4731,14 +4359,12 @@ erlendis	aa	erlendis
 eða	c	eða
 innanlands	aa	innanlands
 .	.	.
-
 Hluti	nken	hluti
 efnanna	nhfeg	efni
 fer	sfg3en	fara
 til	ae	til
 endurvinnslu	nvee	endurvinnsla
 .	.	.
-
 Reglulegt	lhensf	reglulegur
 eftirlit	nhen	eftirlit
 er	sfg3en	vera
@@ -4751,7 +4377,6 @@ eftirlitsmenn	nkfn	eftirlitsmaður
 um	ao	um
 það	fpheo	það
 .	.	.
-
 Slóð	nven	slóð
 heimasíðu	nvee	heimasíða
 Efnamóttökunnar	nveegs	Efnamóttakan
@@ -4759,24 +4384,20 @@ hf	as	hf
 er	sfg3en	vera
 :	:	:
 www.efnamottakan.is	v	www.efnamottakan.is
-
 Hreinsistöð	nven	hreinsistöð
 Metan	nhee-s	metan
 hf.	as	hf.
 í	aþ	í
 Álfsnesi	nheþ-s	Álfsnes
 .	.	.
-
 Metan	nhen-s	Metan
 hf.	as	hf.
-
 Metan	nhen-s	Metan
 hf.	as	hf.
 er	sfg3en	vera
 dótturfyrirtæki	nhen	dótturfyrirtæki
 SORPU	nvee-s	Sorpa
 .	.	.
-
 Tilgangur	nken	tilgangur
 félagsins	nheeg	félag
 er	sfg3en	vera
@@ -4800,7 +4421,6 @@ og	c	og
 skyld	lvensf	skyldur
 starfsemi	nven	starfsemi
 .	.	.
-
 Stofnendur	nkfn	stofnandi
 félagsins	nheeg	félag
 eru	sfg3fn	vera
@@ -4808,7 +4428,6 @@ SORPA	nven-s	Sorpa
 og	c	og
 Aflvaki	nken-s	Aflvaki
 .	.	.
-
 Heimili	nhen	heimili
 félagsins	nheeg	félag
 er	sfg3en	vera
@@ -4824,22 +4443,18 @@ skrifstofu	nveþ	skrifstofa
 með	aþ	með
 SORPU	nveþ-s	Sorpa
 .	.	.
-
 Framkvæmdastjóri	nken	framkvæmdastjóri
 er	sfg3en	vera
 Björn	nken-s	Björn
 H.	as	H.
 Halldórsson	nken-s	Halldórsson
-
 Slóð	nven	slóð
 heimasíðu	nvee	heimasíða
 Metans	nhee-s	Metan
 hf.	as	hf.
 er	sfg3en	vera
 www.metan.is	v	www.metan.is
-
 Endurvinnslustöðvar	nvfn	endurvinnslustöð
-
 Endurvinnslustöðvarnar	nvfng	endurvinnslustöð
 eru	sfg3fn	vera
 sjö	tfvfn	sjö
@@ -4855,7 +4470,6 @@ sjá	sbg2en	sjá
 kort	nheo	kort
 )	)	)
 .	.	.
-
 Þar	aa	þar
 gefst	sfm3en	gefa
 almenningi	nkeþ	almenningur
@@ -4876,9 +4490,7 @@ og	c	og
 eða	c	eða
 eyðingar	nvee	eyðing
 .	.	.
-
 Gjaldskylda	nven	gjaldskylda
-
 Fyrirtæki	nhfn	fyrirtæki
 greiða	sfg3fn	greiða
 fyrir	ao	fyrir
@@ -4889,7 +4501,6 @@ losun	nveo	losun
 samkvæmt	aþ	samkvæmt
 gjaldskrá	nveþ	gjaldskrá
 .	.	.
-
 Almenningur	nken	almenningur
 notar	sfg3en	nota
 þessar	favfo	þessi
@@ -4902,7 +4513,6 @@ með	ao	með
 almennan	lkeosf	almennur
 heimilisúrgang	nkeo	heimilisúrgangur
 .	.	.
-
 Það	fahen	sá
 sem	ct	sem
 hinsvegar	aa	hinsvegar
@@ -4937,14 +4547,12 @@ múrbrot	nhen	múrbrot
 og	c	og
 þessháttar	lhenof	þessháttar
 .	.	.
-
 úrgangur	nken	úrgangur
 frá	aþ	frá
 bifreiðaviðgerðum	nvfþ	bifreiðaviðgerð
 úrgangur	nken	úrgangur
 vegna	ae	vegna
 húsdýrahalds	nhee	húsdýrahald
-
 Athugið	sbg2fn	athuga
 að	c	að
 hámark	nhen	hámark
@@ -4955,7 +4563,6 @@ eru	sfg3fn	vera
 2	ta	2
 m3	ta	m3
 .	.	.
-
 Úrgangur	nken	úrgangur
 skal	sfg3en	skulu
 vera	sng	vera
@@ -4969,7 +4576,6 @@ og	c	og
 er	sfg3en	vera
 kostur	nken	kostur
 .	.	.
-
 Góð	lvensf	góður
 flokkun	nven	flokkun
 og	c	og
@@ -4979,12 +4585,10 @@ til	ae	til
 lægra	lheevm	lágur
 verðs	nhee	verð
 .	.	.
-
 Flokkun	nven	flokkun
 úrgangs	nkee	úrgangur
 og	c	og
 endurvinnsla	nven	endurvinnsla
-
 Forsenda	nven	forsenda
 endurvinnslu	nvee	endurvinnsla
 er	sfg3en	vera

@@ -6,7 +6,6 @@ er	sfg3en	vera
 á	ao	á
 endurvinnslustöð	nveo	endurvinnslustöð
 .	.	.
-
 Styttir	sfg3en	stytta
 það	fphen	það
 dvöl	nveo	dvöl
@@ -19,7 +18,6 @@ og	c	og
 hindrar	sfg3en	hindra
 biðraðamyndun	nveo	biðraðamyndun
 .	.	.
-
 Þegar	c	þegar
 komið	sþghen	koma
 er	sfg3en	vera
@@ -44,7 +42,6 @@ allir	fokfn	allur
 vel	aa	vel
 merktir	lkfnsf	merktur
 .	.	.
-
 Það	fphen	það
 verður	sfg3en	verða
 að	cn	að
@@ -71,7 +68,6 @@ veldur	sfg3en	valda
 öðrum	fovfþ	annar
 skemmdum	nvfþ	skemmd
 .	.	.
-
 Aðskotahlutur	nken	aðskotahlutur
 er	sfg3en	vera
 eitthvað	fohen	einhver
@@ -85,7 +81,6 @@ gám	x	gámur
 eða	c	eða
 umhverfi	nheþ	umhverfi
 .	.	.
-
 Plast	nhen	plast
 í	aþ	í
 pappírsgámi	nkeþ	pappírsgámur
@@ -101,7 +96,6 @@ garðaúrgangi	nkeþ	garðaúrgangur
 brýtur	sfg3en	brjóta
 greinatætarann	nkeog	greinatætari
 o.s.frv.	as	o.s.frv.
-
 Því	aa	því
 er	sfg3en	vera
 mikilvægt	lhensf	mikilvægur
@@ -112,7 +106,6 @@ og	c	og
 flokka	sng	flokka
 rétt	aa	rétt
 !	!	!
-
 Starfsmenn	nkfn	starfsmaður
 stöðvanna	nvfeg	stöð
 veita	sfg3fn	veita
@@ -134,7 +127,6 @@ sína	feveo	sinn
 Endurvinnslustöðvar	nvfo-s	endurvinnslustöð
 SORPU	nvee-s	Sorpa
 .	.	.
-
 Þar	aa	þar
 má	sfg3en	mega
 einnig	aa	einnig
@@ -144,7 +136,6 @@ um	ao	um
 flokkun	nveo	flokkun
 úrgangs	nkee	úrgangur
 .	.	.
-
 SORPA	nven-s	Sorpa
 gefur	sfg3en	gefa
 út	aa	út
@@ -159,7 +150,6 @@ flokkun	nveo	flokkun
 til	ae	til
 endurvinnslu	nvee	endurvinnsla
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -172,16 +162,13 @@ liðnum	nkeþg	liður
 skjöl	nhfn	skjal
 »	»	»
 .	.	.
-
 Upplýsingar	nvfn	upplýsing
 um	ao	um
 flokkun	nveo	flokkun
 úrgans	x	úrgangur
-
 Endurvinnslustöðin	nveng	endurvinnslustöð
 við	ao	við
 Ánanaust	nhfo-s	Ánanaust
-
 Stöðin	nveng	stöð
 er	sfg3en	vera
 í	aþ	í
@@ -190,7 +177,6 @@ Reykjavíkur	nvee-s	Reykjavík
 við	ao	við
 Ánanaust	nhfo-s	Ánanaust
 .	.	.
-
 Afgreiðslutími	nken	afgreiðslutími
 stöðvarinnar	nveeg	stöð
 er	sfg3en	vera
@@ -198,7 +184,6 @@ sem	ct	sem
 hér	aa	hér
 segir	sfg3en	segja
 :	:	:
-
 VIRKA	lkfosf	virkur
 DAGA	nkfo	dagur
 :	:	:
@@ -206,7 +191,6 @@ Frá	aa	frá
 12:30	ta	12:30
 -	-	-
 19:30	ta	19:30
-
 HELGAR	nvfn	helgi
 :	:	:
 Frá	aa	frá
@@ -214,23 +198,18 @@ kl.	as	kl.
 10:00	ta	10:00
 -	-	-
 18:30	ta	18:30
-
 Umsjónarmenn	nkfn	umsjónarmaður
 endurvinnslustöðva	nvfe	endurvinnslustöð
 eru	sfg3fn	vera
 :	:	:
-
 Steinunn	nven-s	Steinunn
 Jónsdóttir	nven-s	Jónsdóttir
-
 Stefán	nken-s	Stefán
 Örn	nken-s	Örn
 Einarsson	nken-s	Einarsson
-
 Endurvinnslustöðin	nveng	endurvinnslustöð
 við	ao	við
 Jafnasel	nheo-s	Jafnasel
-
 Stöðin	nveng	stöð
 er	sfg3en	vera
 í	aþ	í
@@ -239,7 +218,6 @@ Breiðholti	nheþ-s	Breiðholt
 Jafnaseli	nheþ-s	Jafnasel
 8	ta	8
 .	.	.
-
 Afgreiðslutími	nken	afgreiðslutími
 stöðvarinnar	nveeg	stöð
 er	sfg3en	vera
@@ -247,7 +225,6 @@ sem	ct	sem
 hér	aa	hér
 segir	sfg3en	segja
 :	:	:
-
 VIRKA	lkfosf	virkur
 DAGA	nkfo	dagur
 :	:	:
@@ -255,7 +232,6 @@ Frá	aa	frá
 12:30	ta	12:30
 -	-	-
 19:30	ta	19:30
-
 HELGAR	nvfn	helgi
 :	:	:
 Frá	aa	frá
@@ -263,23 +239,18 @@ kl.	as	kl.
 10:00	ta	10:00
 -	-	-
 18:30	ta	18:30
-
 Umsjónarmenn	nkfn	umsjónarmaður
 endurvinnslustöðva	nvfe	endurvinnslustöð
 eru	sfg3fn	vera
 :	:	:
-
 Steinunn	nven-s	Steinunn
 Jónsdóttir	nven-s	Jónsdóttir
-
 Stefán	nken-s	Stefán
 Örn	nken-s	Örn
 Einarsson	nken-s	Einarsson
-
 Endurvinnslustöðin	nveng	endurvinnslustöð
 við	ao	við
 Sævarhöfða	nkeo-s	Sævarhöfði
-
 Stöðin	nveng	stöð
 er	sfg3en	vera
 staðsett	lvensf	staðsettur
@@ -291,7 +262,6 @@ að	aþ	að
 Sævarhöfða	nkeþ-s	Sævarhöfði
 21	ta	21
 .	.	.
-
 Afgreiðslutími	nken	afgreiðslutími
 stöðvarinnar	nveeg	stöð
 er	sfg3en	vera
@@ -299,7 +269,6 @@ sem	ct	sem
 hér	aa	hér
 segir	sfg3en	segja
 :	:	:
-
 VIRKA	lkfosf	virkur
 DAGA	nkfo	dagur
 :	:	:
@@ -307,7 +276,6 @@ Frá	aa	frá
 12:30	ta	12:30
 -	-	-
 19:30	ta	19:30
-
 HELGAR	nvfn	helgi
 :	:	:
 Frá	aa	frá
@@ -315,23 +283,18 @@ kl.	as	kl.
 10:00	ta	10:00
 -	-	-
 18:30	ta	18:30
-
 Umsjónarmenn	nkfn	umsjónarmaður
 endurvinnslustöðva	nvfe	endurvinnslustöð
 eru	sfg3fn	vera
 :	:	:
-
 Steinunn	nven-s	Steinunn
 Jónsdóttir	nven-s	Jónsdóttir
-
 Stefán	nken-s	Stefán
 Örn	nken-s	Örn
 Einarsson	nken-s	Einarsson
-
 Endurvinnslustöðin	nveng	endurvinnslustöð
 við	ao	við
 Norðurgrund	nveo-s	Norðurgrund
-
 Stöðin	nveng	stöð
 er	sfg3en	vera
 á	aþ	á
@@ -340,7 +303,6 @@ Kjalarnesi	nheþ-s	Kjalarnes
 við	ao	við
 Norðurgrund	nveo-s	Norðurgrund
 .	.	.
-
 Afgreiðslutími	nken	afgreiðslutími
 stöðvarinnar	nveeg	stöð
 er	sfg3en	vera
@@ -348,7 +310,6 @@ sem	ct	sem
 hér	aa	hér
 segir	sfg3en	segja
 :	:	:
-
 Sunnudaga	nkfo	sunnudagur
 ,	,	,
 miðvikudaga	nkfo	miðvikudagur
@@ -359,23 +320,18 @@ frá	aa	frá
 -	-	-
 19:30	ta	19:30
 .	.	.
-
 Umsjónarmenn	nkfn	umsjónarmaður
 endurvinnslustöðva	nvfe	endurvinnslustöð
 eru	sfg3fn	vera
 :	:	:
-
 Steinunn	nven-s	Steinunn
 Jónsdóttir	nven-s	Jónsdóttir
-
 Stefán	nken-s	Stefán
 Örn	nken-s	Örn
 Einarsson	nken-s	Einarsson
-
 Endurvinnslustöðin	nveng	endurvinnslustöð
 við	ao	við
 Miðhraun	nheo-s	Miðhraun
-
 Stöðin	nveng	stöð
 er	sfg3en	vera
 staðsett	lvensf	staðsettur
@@ -385,7 +341,6 @@ Garðabæ	nkeþ-s	Garðabær
 Miðhrauni	nheþ-s	Miðhraun
 20	ta	20
 .	.	.
-
 Opnunartími	nken	opnunartími
 stöðvarinnar	nveeg	stöð
 er	sfg3en	vera
@@ -393,7 +348,6 @@ sem	ct	sem
 hér	aa	hér
 segir	sfg3en	segja
 :	:	:
-
 VIRKA	lkfosf	virkur
 DAGA	nkfo	dagur
 :	:	:
@@ -401,7 +355,6 @@ Frá	aa	frá
 12:30	ta	12:30
 -	-	-
 19:30	ta	19:30
-
 HELGAR	nvfn	helgi
 :	:	:
 Frá	aa	frá
@@ -409,23 +362,18 @@ kl.	as	kl.
 10:00	ta	10:00
 -	-	-
 18:30	ta	18:30
-
 Umsjónarmenn	nkfn	umsjónarmaður
 endurvinnslustöðva	nvfe	endurvinnslustöð
 eru	sfg3fn	vera
 :	:	:
-
 Steinunn	nven-s	Steinunn
 Jónsdóttir	nven-s	Jónsdóttir
-
 Stefán	nken-s	Stefán
 Örn	nken-s	Örn
 Einarsson	nken-s	Einarsson
-
 Endurvinnslustöðin	nveng	endurvinnslustöð
 við	ao	við
 Dalveg	nkeo-s	Dalvegur
-
 Stöðin	nveng	stöð
 er	sfg3en	vera
 í	aþ	í
@@ -434,7 +382,6 @@ Kópavogi	nkeþ-s	Kópavogur
 Dalveg	nkeþ-s	Dalvegur
 1	ta	1
 .	.	.
-
 Afgreiðslutími	nken	afgreiðslutími
 stöðvarinnar	nveeg	stöð
 er	sfg3en	vera
@@ -442,7 +389,6 @@ sem	ct	sem
 hér	aa	hér
 segir	sfg3en	segja
 :	:	:
-
 VIRKA	lkfosf	virkur
 DAGA	nkfo	dagur
 :	:	:
@@ -450,7 +396,6 @@ Frá	aa	frá
 12:30	ta	12:30
 -	-	-
 19:30	ta	19:30
-
 HELGAR	nvfn	helgi
 :	:	:
 Frá	aa	frá
@@ -458,23 +403,18 @@ kl.	as	kl.
 10:00	ta	10:00
 -	-	-
 18:30	ta	18:30
-
 Umsjónarmenn	nkfn	umsjónarmaður
 endurvinnslustöðva	nvfe	endurvinnslustöð
 eru	sfg3fn	vera
 :	:	:
-
 Steinunn	nven-s	Steinunn
 Jónsdóttir	nven-s	Jónsdóttir
-
 Stefán	nken-s	Stefán
 Örn	nken-s	Örn
 Einarsson	nken-s	Einarsson
-
 Endurvinnslustöð	nven	endurvinnslustöð
 við	ao	við
 Blíðubakka	nkeo-s	Blíðubakki
-
 Stöðin	nveng	stöð
 er	sfg3en	vera
 í	aþ	í
@@ -484,7 +424,6 @@ Blíðubakka	nkeþ-s	Blíðubakki
 við	ao	við
 hesthúsbyggð	nveo	hesthúsbyggð
 .	.	.
-
 Afgreiðslutími	nken	afgreiðslutími
 stöðvarinnar	nveeg	stöð
 er	sfg3en	vera
@@ -492,7 +431,6 @@ sem	ct	sem
 hér	aa	hér
 segir	sfg3en	segja
 :	:	:
-
 VIRKA	lkfosf	virkur
 DAGA	nkfo	dagur
 :	:	:
@@ -500,7 +438,6 @@ Frá	aa	frá
 12:30	ta	12:30
 -	-	-
 19:30	ta	19:30
-
 HELGAR	nvfn	helgi
 :	:	:
 Frá	aa	frá
@@ -508,23 +445,18 @@ kl.	as	kl.
 10:00	ta	10:00
 -	-	-
 18:30	ta	18:30
-
 Umsjónarmenn	nkfn	umsjónarmaður
 endurvinnslustöðva	nvfe	endurvinnslustöð
 eru	sfg3fn	vera
 :	:	:
-
 Steinunn	nven-s	Steinunn
 Jónsdóttir	nven-s	Jónsdóttir
-
 Stefán	nken-s	Stefán
 Örn	nken-s	Örn
 Einarsson	nken-s	Einarsson
-
 Móttökustöðin	nveng	móttökustöð
 í	aþ	í
 Gufunesi	nheþ-s	Gufunes
-
 Afgreiðslutími	nken	afgreiðslutími
 er	sfg3en	vera
 frá	aþ	frá
@@ -538,7 +470,6 @@ frá	aþ	frá
 á	aþ	á
 laugardögum	nkfþ	laugardagur
 .	.	.
-
 Móttökustöð	nven	móttökustöð
 SORPU	nvee-s	Sorpa
 er	sfg3en	vera
@@ -556,7 +487,6 @@ móti	aþ	móti
 frá	aþ	frá
 höfuðborgarsvæðinu	nheþg	höfuðborgarsvæði
 .	.	.
-
 Má	sfg3en	mega
 þar	aa	þar
 fyrst	aae	fyrr
@@ -575,7 +505,6 @@ húsasorp	nhen	húsasorp
 eða	c	eða
 heimilissorp	nhen	heimilissorp
 .	.	.
-
 Einnig	aa	einnig
 berst	sfm3en	bera
 til	ae	til
@@ -587,7 +516,6 @@ iðnaðarúrgangur	x	iðnaðarúrgangur
 frá	aþ	frá
 fyrirtækjum	nhfþ	fyrirtæki
 .	.	.
-
 Þess	fphee	það
 má	sfg3en	mega
 geta	sng	geta
@@ -605,7 +533,6 @@ af	aþ	af
 gegnum	ao	gegnum
 stöðina	nveog	stöð
 .	.	.
-
 Allur	foken	allur
 þessi	faken	þessi
 úrgangur	nken	úrgangur
@@ -629,7 +556,6 @@ stærstan	lkeose	stór
 hluta	nkeo	hluti
 hans	fpkee	hann
 .	.	.
-
 Fyrirtækin	nhfng	fyrirtæki
 sem	aa	sem
 og	c	og
@@ -641,7 +567,6 @@ losun	nveo	losun
 samkvæmt	aþ	samkvæmt
 gjaldskrá	nveþ	gjaldskrá
 .	.	.
-
 Starfsemi	nven	starfsemi
 stöðvarinnar	nveeg	stöð
 framfylgir	sfg3en	framfylgja
@@ -668,7 +593,6 @@ leitt	sþghen	leiða
 til	ae	til
 sjávar	nkee	sjár
 .	.	.
-
 Mengun	nven	mengun
 hefur	sfg3en	hafa
 aldrei	aa	aldrei
@@ -685,7 +609,6 @@ tekin	sþghfn	taka
 þar	aa	þar
 reglulega	aa	reglulega
 .	.	.
-
 Móttökustöðin	nveng	móttökustöð
 er	sfg3en	vera
 einnig	aa	einnig
@@ -699,7 +622,6 @@ inn	aa	inn
 til	ae	til
 endurvinnslustöðvanna	nvfeg	endurvinnslustöð
 .	.	.
-
 Skref	nhen	skref
 fyrir	ao	fyrir
 skref	nheo	skref
@@ -710,7 +632,6 @@ og	c	og
 flokkunarstöðina	nveog	flokkunarstöð
 í	aþ	í
 Gufunesi	nheþ-s	Gufunes
-
 Leiðbeiningar	nvfn	leiðbeining
 um	ao	um
 hvernig	aa	hvernig
@@ -719,7 +640,6 @@ bera	sng	bera
 sig	fpkeo	sig
 að	aa	að
 :	:	:
-
 1	ta	1
 )	)	)
 Komið	sþghen	koma
@@ -731,7 +651,6 @@ móttökustöðina	nveog	móttökustöð
 í	aþ	í
 Gufunesi	nheþ-s	Gufunes
 .	.	.
-
 Áður	aa	áður
 en	c	en
 komið	sþghen	koma
@@ -754,7 +673,6 @@ vigt	nveo	vigt
 í	aþ	í
 einu	lheþsf	einn
 .	.	.
-
 Nýir	lkfnsf	nýr
 viðskiptavinir	nkfn	viðskiptavinur
 og	c	og
@@ -773,7 +691,6 @@ við	ao	við
 starfsmann	nkeo	starfsmaður
 vigtar	nvee	vigt
 .	.	.
-
 Þeir	fpkfn	hann
 fá	sfg3fn	fá
 afhent	ssg	afhenda
@@ -791,7 +708,6 @@ inn	aa	inn
 þyngd	nveo	þyngd
 bílsins	nkeeg	bíll
 .	.	.
-
 Starfsmaður	nken	starfsmaður
 veitir	sfg3en	veita
 svo	aa	svo
@@ -802,7 +718,6 @@ skal	sfg3en	skulu
 losa	sng	losa
 úrganginn	nkeog	úrgangur
 .	.	.
-
 Aðilar	nkfn	aðili
 í	aþ	í
 föstum	lhfþsf	fastur
@@ -819,13 +734,11 @@ lesara	nkeo	lesari
 á	aþ	á
 vigt	nveþ	vigt
 .	.	.
-
 Þetta	fahen	þessi
 ferli	nhen	ferli
 er	sfg3en	vera
 sjálfvirkt	lhensf	sjálfvirkur
 .	.	.
-
 2	ta	2
 )	)	)
 Bíll	nken	bíll
@@ -844,7 +757,6 @@ starfsmanni	nkeþ	starfsmaður
 vigtar	nvee	vigt
 )	)	)
 .	.	.
-
 3	ta	3
 )	)	)
 Starfsmaður	nken	starfsmaður
@@ -862,7 +774,6 @@ leiðbeinir	sfg3en	leiðbeina
 um	ao	um
 losun	nveo	losun
 .	.	.
-
 Stafsmaður	nken	stafsmaður
 tekur	sfg3en	taka
 viðskipta-	nheog	viðskiptakort
@@ -891,7 +802,6 @@ eða	c	eða
 á	aþ	á
 plani	nheþ	plan
 .	.	.
-
 Þegar	c	þegar
 búið	lhensf	búinn
 er	sfg3en	vera
@@ -913,7 +823,6 @@ vigtaður	sþgken	vigta
 á	aþ	á
 útleið	nveþ	útleið
 .	.	.
-
 Þar	aa	þar
 skila	sfg3fn	skila
 þeir	fpkfn	hann
@@ -936,7 +845,6 @@ greiðslu	nveo	greiðsla
 fyrir	ao	fyrir
 losun	nveo	losun
 .	.	.
-
 Aðilar	nkfn	aðili
 með	ao	með
 viðskiptakort	nhfo	viðskiptakort
@@ -952,7 +860,6 @@ ferlið	nheng	ferli
 er	sfg3en	vera
 sjálfvirkt	lhensf	sjálfvirkur
 .	.	.
-
 Þar	aa	þar
 renna	sfg3fn	renna
 þeir	fpkfn	hann
@@ -964,9 +871,7 @@ og	c	og
 fá	sng	fá
 kvittun	nveo	kvittun
 .	.	.
-
 Urðunarstaður	nken	urðunarstaður
-
 Urðunarstaður	nken	urðunarstaður
 SORPU	nvee-s	Sorpa
 er	sfg3en	vera
@@ -983,7 +888,6 @@ Móttökustöðinni	nveþgs	Móttökustöð
 á	aþ	á
 Gufunesi	nheþ-s	Gufunes
 .	.	.
-
 Þangað	aa	þangað
 eru	sfg3fn	vera
 flutt	sþghfn	flytja
@@ -1008,7 +912,6 @@ af	aþ	af
 óbagganlegu	lheþsf	óbagganlegur
 sorpi	nheþ	sorp
 .	.	.
-
 Sorpbaggarnir	nkfng	sorpbaggi
 eru	sfg3fn	vera
 fluttir	sþgkfn	flytja
@@ -1018,7 +921,6 @@ móttökustöðinni	nveþg	móttökustöð
 sérstökum	lkfþsf	sérstakur
 vögnum	nkfþ	vagn
 .	.	.
-
 Í	aþ	í
 Álfsnesi	nheþ-s	Álfsnes
 vinna	sfg3fn	vinna
@@ -1035,15 +937,10 @@ starfseminni	nveþg	starfsemi
 megin	aa	megin
 hluta	nkeo	hluti
 :	:	:
-
 URÐUN	nven	urðun
-
 MOLTUGERÐ	nven	moltugerð
-
 GASSÖFNUN	nven	gassöfnun
-
 Urðun	nven	urðun
-
 Sorpurðunin	nveng	sorpurðun
 fer	sfg3en	fara
 fram	aa	fram
@@ -1052,7 +949,6 @@ mjög	aa	mjög
 skipulagðan	lkeosf	skipulagður
 hátt	nkeo	háttur
 .	.	.
-
 Urðunarsvæðinu	nheþg	urðunarsvæði
 er	sfg3en	vera
 skipt	sþghen	skipta
@@ -1072,7 +968,6 @@ rein	nveo	rein
 í	aþ	í
 einu	lheþsf	einn
 .	.	.
-
 Sorpböggunum	nkfþg	sorpbaggi
 er	sfg3en	vera
 raðað	sþghen	raða
@@ -1088,7 +983,6 @@ upp	aa	upp
 í	ao	í
 26	ta	26
 m.	as	m.
-
 Að	aþ	að
 lokum	nhfþ	lok
 er	sfg3en	vera
@@ -1105,7 +999,6 @@ lagi	nheþ	lag
 af	aþ	af
 jarðvegi	nkeþ	jarðvegur
 .	.	.
-
 Þegar	c	þegar
 lokið	sþghen	ljúka
 er	sfg3en	vera
@@ -1121,7 +1014,6 @@ sáð	sþghen	sá
 í	ao	í
 landið	nheog	land
 .	.	.
-
 Í	aþ	í
 framtíðinn	x	framtíð
 er	sfg3en	vera
@@ -1136,7 +1028,6 @@ trjám	nhfþ	tré
 topp	nkeo	toppur
 urðunarsvæðisins	nheeg	urðunarsvæði
 .	.	.
-
 Við	aa	við
 og	c	og
 á	aþ	á
@@ -1149,15 +1040,10 @@ að	aþ	að
 fjórum	tfhfþ	fjórir
 umhverfisatriðum	nhfþ	umhverfisatriði
 :	:	:
-
 Sigvatni	nheþ	sigvatn
-
 Gasmyndun	nven	gasmyndun
-
 Foki	nheþ	fok
-
 Meindýrum	nhfþ	meindýr
-
 Sigvatn	nhen	sigvatn
 kemur	sfg3en	koma
 aðallega	aa	aðallega
@@ -1165,7 +1051,6 @@ frá	aþ	frá
 tveimur	tfvfþ	tveir
 uppsprettum	nvfþ	uppspretta
 .	.	.
-
 Í	aþ	í
 fyrsta	lheþve	fyrstur
 lagi	nheþ	lag
@@ -1189,7 +1074,6 @@ sigið	ssg	síga
 gegnum	ao	gegnum
 sorpið	nheog	sorp
 .	.	.
-
 Lítill	lkensf	lítill
 hluti	nken	hluti
 getur	sfg3en	geta
@@ -1210,7 +1094,6 @@ frá	aþ	frá
 nánasta	lheþve	náinn
 umhverfi	nheþ	umhverfi
 .	.	.
-
 Sigvatninu	nheþg	sigvatn
 þarf	sfg3en	þurfa
 að	cn	að
@@ -1226,7 +1109,6 @@ verið	ssg	vera
 í	aþ	í
 sigvatninu	nheþg	sigvatn
 .	.	.
-
 SORPA	nven-s	Sorpa
 hefur	sfg3en	hafa
 frá	aþ	frá
@@ -1251,7 +1133,6 @@ valdið	ssg	valda
 getur	sfg3en	geta
 áhyggjum	nvfþ	áhyggja
 .	.	.
-
 Einnig	aa	einnig
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -1264,7 +1145,6 @@ utan	aa	utan
 við	ao	við
 Álfsnes	nheo-s	Álfsnes
 .	.	.
-
 Niðurstöður	nvfo	niðurstaða
 allra	fovfe	allur
 þessara	favfe	þessi
@@ -1275,7 +1155,6 @@ finna	sng	finna
 ársskýrslum	nvfþ	ársskýrsla
 SORPU	nvee-s	Sorpa
 .	.	.
-
 Einnig	aa	einnig
 má	sfg3en	mega
 finna	sng	finna
@@ -1292,16 +1171,13 @@ frá	aþ	frá
 árinu	nheþg	ár
 2005	ta	2005
 .	.	.
-
 Gasmyndun	nven	gasmyndun
-
 Á	aþ	á
 öllum	fohfþ	allur
 urðunarsvæðum	nhfþ	urðunarsvæði
 myndast	sfm3en	mynda
 hauggas	nhen	hauggas
 .	.	.
-
 Hauggas	nhen	hauggas
 myndast	sfm3en	mynda
 við	ao	við
@@ -1318,7 +1194,6 @@ niðurbrot	nheo	niðurbrot
 lífrænna	lhfesf	lífrænn
 efna	nhfe	efni
 .	.	.
-
 Hauggas	nhen	hauggas
 er	sfg3en	vera
 blanda	nven	blanda
@@ -1344,7 +1219,6 @@ lítill	lkensf	lítill
 hluti	nken	hluti
 snefilgasa	nhfe	snefilgas
 .	.	.
-
 Metan	nhen	metan
 er	sfg3en	vera
 21	ta	21
@@ -1354,7 +1228,6 @@ gróðurhúsalofttegund	nven	gróðurhúsalofttegund
 en	c	en
 koltvísýrlingur	nken	koltvísýrlingur
 .	.	.
-
 Því	aa	því
 er	sfg3en	vera
 í	aþ	í
@@ -1378,7 +1251,6 @@ en	c	en
 annars	aa	annars
 brennt	sþghen	brenna
 .	.	.
-
 Ástæða	nven	ástæða
 þessa	fahee	þessi
 að	c	að
@@ -1399,7 +1271,6 @@ koltvísýrlíngur	nken	koltvísýrlíngur
 og	c	og
 vatnsgufa	nven	vatnsgufa
 .	.	.
-
 Þannig	aa	þannig
 eru	sfg3fn	vera
 gróðurhúsaáhrif	nhfn	gróðurhúsaáhrif
@@ -1409,7 +1280,6 @@ urðunarstaðarins	nkeeg	urðunarstaður
 í	aþ	í
 lágmarki	nheþ	lágmark
 .	.	.
-
 Til	ae	til
 að	cn	að
 uppfylla	sng	uppfylla
@@ -1432,7 +1302,6 @@ líkur	sfg3en	líkur
 hverri	foveþ	hver
 rein	nveþ	rein
 .	.	.
-
 Borað	sþghen	bora
 er	sfg3en	vera
 með	aþ	með
@@ -1453,7 +1322,6 @@ eru	sfg3fn	vera
 miðlægri	lveþsf	miðlægur
 dælustöð	nveþ	dælustöð
 .	.	.
-
 Sjá	sng	sjá
 nánar	aam	náið
 um	ao	um
@@ -1463,9 +1331,7 @@ nýtingu	nveo	nýting
 metans	nhee	metan
 hér	aa	hér
 .	.	.
-
 Fok	nhen	fok
-
 Mikill	lkensf	mikill
 meirihluti	nken	meirihluti
 þess	fahee	sá
@@ -1480,7 +1346,6 @@ er	sfg3en	vera
 baggaður	lkensf	baggaður
 úrgangur	nken	úrgangur
 .	.	.
-
 Það	fahen	sá
 sem	ct	sem
 ekki	aa	ekki
@@ -1495,7 +1360,6 @@ sökum	ae	sökum
 eiginleika	nkfe	eiginleiki
 efnisins	nheeg	efni
 .	.	.
-
 Þetta	fahen	þessi
 á	sfg3en	eiga
 t.d.	as	t.d.
@@ -1513,7 +1377,6 @@ bobbinga	nkfo	bobbingur
 ,	,	,
 dýrahræ	nhfo	dýrahræ
 o.s.frv.	as	o.s.frv.
-
 Því	aa	því
 er	sfg3en	vera
 reynt	sþghen	reyna
@@ -1528,7 +1391,6 @@ sé	svg3en	vera
 á	aþ	á
 foki	nheþ	fok
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 er	sfg3en	vera
@@ -1541,7 +1403,6 @@ allt	fohen	allur
 getur	sfg3en	geta
 fokið	ssg	fjúka
 .	.	.
-
 Verði	svg3en	verða
 vindstyrkur	nken	vindstyrkur
 of	aa	of
@@ -1564,7 +1425,6 @@ fyrir	ao	fyrir
 óþarfa	lheoof	óþarfur
 fok	nheo	fok
 .	.	.
-
 Umhverfis	ao	umhverfis
 svæðið	nheog	svæði
 eru	sfg3fn	vera
@@ -1592,9 +1452,7 @@ og	c	og
 þær	fpvfn	hún
 hreinsaðar	sþgvfn	hreinsa
 .	.	.
-
 Meindýr	nhfn	meindýr
-
 Í	aþ	í
 úrgangi	nkeþ	úrgangur
 er	sfg3en	vera
@@ -1616,7 +1474,6 @@ og	c	og
 aðra	fokfo	annar
 fugla	nkfo	fugl
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 er	sfg3en	vera
@@ -1633,7 +1490,6 @@ frið	nkeo	friður
 til	ae	til
 athafna	nvfe	athöfn
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 t.d.	as	t.d.
@@ -1645,7 +1501,6 @@ við	aa	við
 á	aþ	á
 urðunarsvæðinu	nheþg	urðunarsvæði
 .	.	.
-
 Helstu	lvfnve	heldri
 plágurnar	nvfng	plága
 eru	sfg3fn	vera
@@ -1671,7 +1526,6 @@ og	c	og
 á	ao	á
 veturnar	x	veturnar
 .	.	.
-
 Reynt	sþghen	reyna
 er	sfg3en	vera
 eftir	aþ	eftir
@@ -1683,9 +1537,7 @@ meindýrum	nhfþ	meindýr
 í	aþ	í
 lágmarki	nheþ	lágmark
 .	.	.
-
 Gassöfnun	nven	gassöfnun
-
 Skoðaðu	sbg2en	skoða
 söfnun	nveo	söfnun
 og	c	og
@@ -1696,7 +1548,6 @@ máli	nheþ	mál
 og	c	og
 myndum	nvfþ	mynd
 .	.	.
-
 Í	aþ	í
 sorphaugum	nkfþ	sorphaugur
 myndast	sfm3en	mynda
@@ -1715,7 +1566,6 @@ metani	nheþ	metan
 CH4	ta	ch4
 )	)	)
 .	.	.
-
 Hauggasið	nheng	hauggas
 myndast	sfm3en	mynda
 við	ao	við
@@ -1733,7 +1583,6 @@ og	c	og
 mynda	sfg3fn	mynda
 hauggasblöndu	nveo	hauggasblanda
 .	.	.
-
 Þessar	favfn	þessi
 bakteríur	nvfn	baktería
 eru	sfg3fn	vera
@@ -1752,7 +1601,6 @@ er	sfg3en	vera
 til	ae	til
 staðar	nkee	staður
 .	.	.
-
 Slíkar	fbvfn	slíkur
 aðstæður	nvfn	aðstæður
 myndast	sfm3fn	mynda
@@ -1766,14 +1614,12 @@ einnig	aa	einnig
 í	aþ	í
 mýrum	nvfþ	mýri
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 því	aa	því
 náttúrulegt	lhensf	náttúrulegur
 niðurbrotsferli	nhen	niðurbrotsferli
 .	.	.
-
 Metanið	nheng	metan
 í	aþ	í
 hauggasinu	nheþg	hauggas
@@ -1785,7 +1631,6 @@ einnig	aa	einnig
 slæm	lvensf	slæmur
 gróðurhúsalofttegund	nven	gróðurhúsalofttegund
 .	.	.
-
 Því	aa	því
 er	sfg3en	vera
 gasi	nheþ	gas
@@ -1795,7 +1640,6 @@ safnað	sþghen	safna
 nútímalegum	lkfþsf	nútímalegur
 urðunarstöðum	nkfþ	urðunarstaður
 .	.	.
-
 Mjög	aa	mjög
 misjafnt	lhensf	misjafn
 er	sfg3en	vera
@@ -1818,7 +1662,6 @@ sóun	nven	sóun
 á	aþ	á
 orku	nveþ	orka
 .	.	.
-
 Gasinu	nheþg	gas
 í	aþ	í
 Álfsnesi	nheþ-s	Álfsnes
@@ -1831,7 +1674,6 @@ bora	sng	bora
 í	ao	í
 hauginn	nkeog	haugur
 .	.	.
-
 Boraðar	sþgvfn	bora
 eru	sfg3fn	vera
 holur	nvfn	hola
@@ -1852,7 +1694,6 @@ sjá	sng	sjá
 mynd	nveo	mynd
 )	)	)
 .	.	.
-
 Efst	aae	ofar
 í	ao	í
 rör	nheo	rör
@@ -1871,7 +1712,6 @@ tengd	sþgven	tengja
 við	ao	við
 dælustöð	nveo	dælustöð
 .	.	.
-
 Frá	aþ	frá
 dælustöðinni	nveþg	dælustöð
 liggja	sfg3fn	liggja
@@ -1890,7 +1730,6 @@ rafstöð	nveo	rafstöð
 Orkuveitu	nvee-s	Orkuveita
 Reykjavíkur	nvee-s	Reykjavík
 .	.	.
-
 Um	aa	um
 1,4	ta	1,4
 milljónir	nvfn	milljón
@@ -1906,7 +1745,6 @@ frá	aþ	frá
 árinu	nheþg	ár
 1991	ta	1991
 .	.	.
-
 Búið	lhensf	búinn
 er	sfg3en	vera
 að	cn	að
@@ -1932,7 +1770,6 @@ Nm3	ta	Nm3
 klst	as	klst
 )	)	)
 .	.	.
-
 Á	aþ	á
 næstu	lkfþve	næstur
 mánuðum	nkfþ	mánuður
@@ -1958,7 +1795,6 @@ um	aa	um
 Nm3	ta	Nm3
 /	/	/
 klst.	as	klst.
-
 Ef	c	ef
 miðað	sþghen	miða
 er	sfg3en	vera
@@ -1984,7 +1820,6 @@ nái	svg3en	ná
 hámarki	nheþ	hámark
 2016	ta	2016
 .	.	.
-
 Ef	c	ef
 allt	fohen	allur
 metanið	nheng	metan
@@ -2004,7 +1839,6 @@ um	aa	um
 2000-3000	ta	2000-3000
 smábíla	nkfo	smábíll
 .	.	.
-
 Orkuinnihald	nhen	orkuinnihald
 metans	nhee	metan
 samsvarar	sfg3en	samsvara
@@ -2015,7 +1849,6 @@ bensín	nhen	bensín
 Nm3	ta	Nm3
 metan	nhen	metan
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 eru	sfg3fn	vera
@@ -2026,13 +1859,11 @@ metanbílar	nkfn	metanbíll
 götum	nvfþ	gata
 höfuðborgarsvæðisins	nheeg	höfuðborgarsvæði
 .	.	.
-
 Metanbílar	nkfn	metanbíll
 -	-	-
 hreinna	lhenvm	hreinn
 loft	nhen	loft
 !	!	!
-
 Metan	nhen-s	Metan
 hf	as	hf
 ,	,	,
@@ -2060,7 +1891,6 @@ nýtingarmöguleika	nkeo	nýtingarmöguleiki
 fyrir	ao	fyrir
 það	fpheo	það
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -2083,7 +1913,6 @@ iðnaði	nkeþ	iðnaður
 stað	nkeo	staður
 jarðefnaeldsneytis	nhee	jarðefnaeldsneyti
 .	.	.
-
 Nánar	aam	náið
 er	sfg3en	vera
 fjallað	sþghen	fjalla
@@ -2098,9 +1927,7 @@ Metans	nhee-s	Metan
 hf.	as	hf.
 www.metan.is	v	www.metan.is
 .	.	.
-
 Moltugerð	nven	moltugerð
-
 Í	aþ	í
 Álfsnesi	nheþ-s	Álfsnes
 fer	sfg3en	fara
@@ -2114,7 +1941,6 @@ hefur	sfg3en	hafa
 nafnið	nheog	nafn
 MOLTA	nven	molta
 .	.	.
-
 Molta	nven	molta
 er	sfg3en	vera
 hágæða	lkensf	hágæða
@@ -2129,7 +1955,6 @@ og	c	og
 kurluðum	lvfþsf	kurlaður
 trjágreinum	nvfþ	trjágrein
 .	.	.
-
 Við	ao	við
 vinnsluna	nveog	vinnsla
 er	sfg3en	vera
@@ -2148,7 +1973,6 @@ lagt	sþghen	leggja
 í	ao	í
 múga	nkfo	múgi
 .	.	.
-
 Múgunum	nkfþg	múgi
 er	sfg3en	vera
 síðan	aa	síðan
@@ -2168,7 +1992,6 @@ fyrir	aþ	fyrir
 niðurbroti	nheþ	niðurbrot
 þess	fphee	það
 .	.	.
-
 Vinnslan	nveng	vinnsla
 tekur	sfg3en	taka
 um	aa	um
@@ -2190,7 +2013,6 @@ fram	aa	fram
 næsta	lheove	næstur
 vor	nheo	vor
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 efnið	nheng	efni
@@ -2213,7 +2035,6 @@ mómold	nveþ	mómold
 og	c	og
 Moltu	nveþ-s	Molta
 .	.	.
-
 Íbúar	nkfn	íbúi
 höfuðborgarsvæðisins	nheeg	höfuðborgarsvæði
 geta	sfg3fn	geta
@@ -2240,7 +2061,6 @@ moka	sng	moka
 á	ao	á
 kerrur	nvfo	kerra
 .	.	.
-
 Ef	c	ef
 óskað	sþghen	óska
 er	sfg3en	vera
@@ -2254,7 +2074,6 @@ sendið	sbg2fn	senda
 okkur	fp1fþ	ég
 tölvupóst	nkeo	tölvupóstur
 .	.	.
-
 Góði	lkenvf	góður
 hirðirinn	nkeng	hirðir
 -	-	-
@@ -2262,7 +2081,6 @@ nytjamarkaður	nken	nytjamarkaður
 SORPU	nvee-s	Sorpa
 og	c	og
 líknarfélaga	nhfe	líknarfélag
-
 Góði	lkenvf	góður
 hirðirinn	nkeng	hirðir
 er	sfg3en	vera
@@ -2282,7 +2100,6 @@ alla	fokfo	allur
 virka	lkfosf	virkur
 daga	nkfo	dagur
 .	.	.
-
 Í	aþ	í
 Góða	lkeþvf	góður
 hirðinum	nkeþg	hirðir
@@ -2293,16 +2110,13 @@ himins	nkee	himinn
 og	c	og
 jarðar	nvee	jörð
 .	.	.
-
 FLEIRI	lvfnvm	margur
 MYNDIR	nvfn	mynd
-
 Forðum	svg1fn	forða
 góðri	lveþsf	góður
 sögu	nveþ	saga
 frá	aþ	frá
 urðun	nveþ	urðun
-
 Markmið	nhen	markmið
 Góða	lkeevf	góður
 hirðisins	nkeeg	hirðir
@@ -2325,7 +2139,6 @@ rennur	sfg3en	renna
 til	ae	til
 góðgerðarmála	nhfe	góðgerðarmál
 .	.	.
-
 Hver	foken	hver
 hlutur	nken	hlutur
 er	sfg3en	vera
@@ -2340,14 +2153,12 @@ hjá	aþ	hjá
 nýjum	lkfþsf	nýr
 eigendum	nkfþ	eigandi
 .	.	.
-
 Garganið	nheng	gargan
 mitt	fehen	minn
 er	sfg3en	vera
 gull	nhen	gull
 fyrir	ao	fyrir
 þig	fp2eo	þú
-
 Í	aþ	í
 Góða	lkeþvf	góður
 hirðinum	nkeþg	hirðir
@@ -2386,11 +2197,9 @@ koma	sfg3fn	koma
 til	ae	til
 okkar	fp1fe	ég
 .	.	.
-
 Endurvinnslustöðvar	nvfn	endurvinnslustöð
 -	-	-
 nytjagámar	nkfn	nytjagámur
-
 Á	aþ	á
 öllum	fovfþ	allur
 endurvinnslustöðvum	nvfþ	endurvinnslustöð
@@ -2413,7 +2222,6 @@ hætt	sþghen	hætta
 að	cn	að
 nota	sng	nota
 .	.	.
-
 Við	fp1fn	ég
 tökum	sfg1fn	taka
 við	aþ	við
@@ -2427,7 +2235,6 @@ og	c	og
 tilheyra	sfg3fn	tilheyra
 heimilshaldi	nheþ	heimilshald
 .	.	.
-
 Við	fp1fn	ég
 tökum	sfg1fn	taka
 ekki	aa	ekki
@@ -2450,7 +2257,6 @@ fyrst	aae	fyrr
 við	ao	við
 verslunarstjóra	nkeo	verslunarstjóri
 .	.	.
-
 Ekki	aa	ekki
 er	sfg3en	vera
 tekið	sþghen	taka
@@ -2469,13 +2275,11 @@ fatagáma	nkfo	fatagámur
 á	aþ	á
 endurvinnslustöðvum	nvfþ	endurvinnslustöð
 .	.	.
-
 Allur	foken	allur
 ágóði	nken	ágóði
 rennur	sfg3en	renna
 til	ae	til
 góðgerðarmála	nhfe	góðgerðarmál
-
 1999	ta	1999
 var	sfg3eþ	vera
 600	ta	600
@@ -2486,7 +2290,6 @@ veittur	sþgken	veita
 Þjónustusetrinu	nheþgs	Þjónustusetrið
 Tryggvagötu	nveþ-s	Tryggvagata
 26	ta	26
-
 2000	ta	2000
 var	sfg3eþ	vera
 500	ta	500
@@ -2496,7 +2299,6 @@ styrkur	nken	styrkur
 veittur	sþgken	veita
 Daufblindrafélagi	nheþ-s	Daufblindrafélag
 Íslands	nhee-s	Ísland
-
 2001	ta	2001
 var	sfg3eþ	vera
 500	ta	500
@@ -2507,7 +2309,6 @@ veittur	sþgken	veita
 félagasamtökum	nhfþ	félagasamtök
 Einstakra	lhfesf	einstakur
 barna	nhfe	barn
-
 2002	ta	2002
 var	sfg3eþ	vera
 900	ta	900
@@ -2525,7 +2326,6 @@ celebral	e	celebral
 palsy	e	palsy
 )	)	)
 .	.	.
-
 2003	ta	2003
 var	sfg3eþ	vera
 þriggja	tfvfe	þrír
@@ -2541,7 +2341,6 @@ handverkstæði	nheþ	handverkstæði
 og	c	og
 Foreldrahúsi	nheþ-s	foreldrahús
 .	.	.
-
 2004	ta	2004
 var	sfg3eþ	vera
 þriggja	tfvfe	þrír
@@ -2559,7 +2358,6 @@ Hjálpræðishernum	nkeþgs	Hjálpræðisher
 og	c	og
 Mæðrastyrksnefnd	nveþ-s	Mæðrastyrksnefnd
 .	.	.
-
 2005	ta	2005
 var	sfg3eþ	vera
 fimm	tfvfe	fimm
@@ -2578,7 +2376,6 @@ Framtíðarsjóði	nkeþ-s	framtíðarsjóður
 Hjálparstarfs	nhee-s	Hjálparstarf
 kirkjunnar	nveeg	kirkja
 .	.	.
-
 MS-	nhfngs	MS félag
 ,	,	,
 MND-	nhfngs	MND félag
@@ -2597,11 +2394,9 @@ hlaut	sfg3eþ	hljóta
 2	ta	2
 milljónir	nvfo	milljón
 .	.	.
-
 Saga	nven	saga
 Góða	lkeevf	góður
 hirðisins	nkeeg	hirðir
-
 Árið	nheog	ár
 1993	ta	1993
 fór	sfg3eþ	fara
@@ -2620,7 +2415,6 @@ færu	svg3fþ	fara
 í	ao	í
 urðun	nveo	urðun
 .	.	.
-
 Þessi	fahfn	þessi
 líknarfélög	nhfn	líknarfélag
 eru	sfg3fn	vera
@@ -2634,7 +2428,6 @@ og	c	og
 Rauði	lkenvf	rauður
 krossinn	nkeng	kross
 .	.	.
-
 SORPA	nven-s	Sorpa
 sá	sfg3eþ	sjá
 um	ao	um
@@ -2656,7 +2449,6 @@ húsmuni	nkfo	húsmunir
 til	ae	til
 bágstaddra	lkfesf	bágstaddur
 .	.	.
-
 Rekstrarformið	nheng	rekstrarform
 breyttist	sfm3eþ	breyta
 árið	nheog	ár
@@ -2670,7 +2462,6 @@ að	aþ	að
 Bolholti	nheþ-s	Bolholt
 6	ta	6
 .	.	.
-
 Árið	nheog	ár
 1997	ta	1997
 tók	sfg3eþ	taka
@@ -2693,7 +2484,6 @@ SORPU	nvee-s	Sorpa
 og	c	og
 líknarfélaga	nhfe	líknarfélag
 .	.	.
-
 Er	sfg3en	vera
 það	fphen	það
 orðaleikur	nken	orðaleikur
@@ -2707,11 +2497,9 @@ fólk	nheo	fólk
 og	c	og
 náttúru	nveo	náttúra
 .	.	.
-
 Kaffihorn	nhen	kaffihorn
 og	c	og
 barnahorn	nhen	barnahorn
-
 Það	fphen	það
 er	sfg3en	vera
 markmið	nhen	markmið
@@ -2724,7 +2512,6 @@ vel	aa	vel
 Góða	lkeþvf	góður
 hirðinum	nkeþg	hirðir
 .	.	.
-
 Við	fp1fn	ég
 erum	sfg1fn	vera
 með	ao	með
@@ -2755,7 +2542,6 @@ meðan	c	meðan
 foreldrarnir	nkfng	foreldrar
 versla	sfg3fn	versla
 .	.	.
-
 28.11.2002	ta	28.11.2002
 Endurnýtt	lhfnsf	endurnýttur
 húsgögn	nhfn	húsgagn
@@ -2767,7 +2553,6 @@ takast	snm	taka
 á	aa	á
 við	ao	við
 lífið	nheog	líf
-
 Góði	lkenvf	góður
 hirðirinn	nkeng	hirðir
 ,	,	,
@@ -2787,7 +2572,6 @@ tæpa	lveosf	tæpur
 milljón	nveo	milljón
 króna	nvfe	króna
 .	.	.
-
 Fimmtudaginn	nkeog	fimmtudagur
 28.	ta	28.
 nóvember	nkeo	nóvember
@@ -2837,7 +2621,6 @@ samvinnu	nveþ	samvinna
 við	ao	við
 líknarfélög	nhfo	líknarfélag
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 fjórða	lhenvf	fjórði
@@ -2851,7 +2634,6 @@ styrk	nkeþ	styrkur
 til	ae	til
 líknarstarfs	nhee	líknarstarf
 .	.	.
-
 CP	as	CP
 félagið	nheng	félag
 (	(	(
@@ -2876,7 +2658,6 @@ lítilla	lkfesf	lítill
 opinberra	lkfesf	opinber
 styrkja	nkfe	styrkur
 .	.	.
-
 Fyrir	ao	fyrir
 hönd	nveo	hönd
 CP	as	CP
@@ -2896,7 +2677,6 @@ sínum	fekeþ	sinn
 styrknum	nkeþg	styrkur
 móttöku	nveo	móttaka
 .	.	.
-
 Fyrir	ao	fyrir
 hönd	nveo	hönd
 Tourette	e	Tourette
@@ -2924,7 +2704,6 @@ er	sfg3en	vera
 með	ao	með
 Tourette	e	Tourette
 .	.	.
-
 Bæði	fohfn	báðir
 félögin	nhfng	félag
 munu	sfg3fn	munu
@@ -2942,7 +2721,6 @@ skilning	nkeo	skilningur
 starfsemi	nveþ	starfsemi
 sinni	feveþ	sinn
 .	.	.
-
 Með	aþ	með
 þeim	fphfþ	það
 á	aþ	á
@@ -2952,7 +2730,6 @@ Hjörtur	nken-s	Hjörtur
 Már	nken-s	Már
 Ingvarsson	nken-s	Ingvarsson
 .	.	.
-
 Fötlun	nven	fötlun
 af	aþ	af
 þessu	faheþ	þessi
@@ -2967,7 +2744,6 @@ og	c	og
 fjölskyldur	nvfo	fjölskylda
 þeirra	fpkfe	hann
 .	.	.
-
 Markmið	nhen	markmið
 félaganna	nhfeg	félag
 er	sfg3en	vera
@@ -3003,7 +2779,6 @@ almenning	nkeo	almenningur
 um	ao	um
 sjúkdómana	nkfog	sjúkdómur
 .	.	.
-
 Allt	fohen	allur
 starf	nhen	starf
 sem	ct	sem
@@ -3017,7 +2792,6 @@ unnið	sþghen	vinna
 í	aþ	í
 sjálfboðavinnu	nveþ	sjálfboðavinna
 .	.	.
-
 Félagsgjöld	nhfn	félagsgjald
 ,	,	,
 sala	nven	sala
@@ -3033,7 +2807,6 @@ daglegum	lkeþsf	daglegur
 rekstri	nkeþ	rekstur
 félagsins	nheeg	félag
 .	.	.
-
 CP	as	CP
 félagið	nheng	félag
 (	(	(
@@ -3050,7 +2823,6 @@ hreyfifötlun	nveo	hreyfifötlun
 að	cn	að
 stríða	sng	stríða
 .	.	.
-
 Hugtakið	nheng	hugtak
 CP	as	CP
 er	sfg3en	vera
@@ -3068,7 +2840,6 @@ rekja	sng	rekja
 til	ae	til
 heilaskemmda	nvfe	heilaskemmd
 .	.	.
-
 CP	as	CP
 er	sfg3en	vera
 margskonar	lvenof	margskonar
@@ -3102,7 +2873,6 @@ eða	c	eða
 önnur	foven	annar
 fylgifötlun	nven	fylgifötlun
 .	.	.
-
 Meðal	ae	meðal
 meginmarkmiða	nhfe	meginmarkmið
 CP	as	CP
@@ -3125,7 +2895,6 @@ aðstandenda	nkfe	aðstandandi
 og	c	og
 fagaðila	nkfe	fagaðili
 .	.	.
-
 Tourette	e	Tourette
 samtökin	nhfng	samtök
 eru	sfg3fn	vera
@@ -3138,7 +2907,6 @@ og	c	og
 fjölskyldna	nvfe	fjölskylda
 þeirra	fpkfe	hann
 .	.	.
-
 Meginmarkmið	nhen	meginmarkmið
 samtakanna	nhfeg	samtök
 er	sfg3en	vera
@@ -3174,7 +2942,6 @@ með	ao	með
 þennan	fakeo	þessi
 sjúkdóm	nkeo	sjúkdómur
 .	.	.
-
 Góði	lkenvf	góður
 hirðirinn	nkeng	hirðir
 er	sfg3en	vera
@@ -3186,7 +2953,6 @@ samvinnu	nveþ	samvinna
 við	ao	við
 líknarfélög	nhfo	líknarfélag
 .	.	.
-
 Endurvinnslustöðvar	nvfn	endurvinnslustöð
 SORPU	nvee-s	Sorpa
 sjá	sfg3fn	sjá
@@ -3211,7 +2977,6 @@ allur	foken	allur
 til	ae	til
 líknarmála	nhfe	líknarmál
 .	.	.
-
 Með	aþ	með
 þessu	faheþ	þessi
 fá	sfg3fn	fá
@@ -3224,7 +2989,6 @@ notagildi	nheo	notagildi
 nýtt	lheosf	nýr
 hlutverk	nheo	hlutverk
 .	.	.
-
 Jafnframt	aa	jafnframt
 njóta	sfg3fn	njóta
 líknarfélögin	nhfng	líknarfélag
@@ -3241,7 +3005,6 @@ sérafslátt	nkeo	sérafsláttur
 í	aþ	í
 versluninni	nveþg	verslun
 .	.	.
-
 Allar	fovfn	allur
 vindhraðatölur	nvfn	vindhraðatala
 á	aþ	á
@@ -3258,7 +3021,6 @@ m	as	m
 s	as	s
 )	)	)
 .	.	.
-
 Nánari	lvfovm	náinn
 upplýsingar	nvfo	upplýsing
 um	ao	um
@@ -3269,7 +3031,6 @@ finna	sng	finna
 hjá	aþ	hjá
 Veðurstofunni	nveþgs	Veðurstofa
 .	.	.
-
 Upplýsingar	nvfn	upplýsing
 um	ao	um
 færð	nveo	færð
@@ -3305,7 +3066,6 @@ nánast	aae	náið
 um	ao	um
 leið	nveo	leið
 .	.	.
-
 Utan	ae	utan
 þessa	fakee	þessi
 tíma	nkee	tími
@@ -3322,7 +3082,6 @@ eru	sfg3fn	vera
 hreinsaðar	sþgvfn	hreinsa
 út	aa	út
 .	.	.
-
 Veðurupplýsingarnar	nvfng	veðurupplýsing
 koma	sfg3fn	koma
 hins	fakee	hinn
@@ -3337,7 +3096,6 @@ uppfærast	sfm3fn	uppfæra
 allan	fokeo	allur
 sólarhringinn	nkeog	sólarhringur
 .	.	.
-
 [	[	[
 Færð	nven	færð
 um	ao	um
@@ -3368,7 +3126,6 @@ um	ao	um
 land	nheo	land
 allt	foheo	allur
 ]	]	]
-
 Vegagerðin	nvengs	Vegagerð
 ábyrgist	sfm3en	ábyrgjast
 ekki	aa	ekki
@@ -3387,7 +3144,6 @@ aðgengileg	lhfnsf	aðgengilegur
 og	c	og
 uppfærð	lhfnsf	uppfærður
 .	.	.
-
 Vegagerðin	nvengs	Vegagerð
 er	sfg3en	vera
 ekki	aa	ekki
@@ -3409,7 +3165,6 @@ upplýsinga	nvfe	upplýsing
 vefþjóni	nkeþ	vefþjónn
 hennar	fpvee	hún
 .	.	.
-
 Fá	sng	fá
 má	sfg3en	mega
 kort	nheo	kort
@@ -3443,7 +3198,6 @@ smella	sng	smella
 mitt	lheosf	miður
 kortið	nheog	kort
 .	.	.
-
 Á	aþ	á
 kortunum	nhfþg	kort
 eru	sfg3fn	vera
@@ -3455,7 +3209,6 @@ skýringar	nvfn	skýring
 eru	sfg3fn	vera
 hér	aa	hér
 .	.	.
-
 Ef	c	ef
 gömul	lvensf	gamall
 dagsetning	nven	dagsetning
@@ -3489,7 +3242,6 @@ hefur	sfg3en	hafa
 samskipti	nhfo	samskipti
 við	aa	við
 .	.	.
-
 Í	aþ	í
 því	faheþ	sá
 tilviki	nheþ	tilvik
@@ -3516,7 +3268,6 @@ Internet	e	Internet
 Explorer	e	Explorer
 )	)	)
 .	.	.
-
 Þegar	c	þegar
 það	fphen	það
 er	sfg3en	vera
@@ -3548,12 +3299,10 @@ Reload	e	Reload
 /	/	/
 Refresh	e	Refresh
 .	.	.
-
 Upplýsingar	nvfn	upplýsing
 frá	aþ	frá
 sjálfvirkum	lvfþsf	sjálfvirkur
 veðurstöðvum	nvfþ	veðurstöð
-
 Skýringar	nvfn	skýring
 :	:	:
 Vindhraði	nken	vindhraði
@@ -3574,7 +3323,6 @@ tvær	tfvfn	tveir
 tölur	nvfn	tala
 gefnar	sþgvfn	gefa
 .	.	.
-
 Sú	faven	sá
 fyrri	lvenvm	fyrri
 er	sfg3en	vera
@@ -3592,7 +3340,6 @@ innan	ae	innan
 þess	fahee	sá
 tímabils	nhee	tímabil
 .	.	.
-
 Fyrir	ao	fyrir
 umferð	nveo	umferð
 eru	sfg3fn	vera
@@ -3615,7 +3362,6 @@ umferð	nven	umferð
 frá	aþ	frá
 miðnætti	nheþ	miðnætti
 .	.	.
-
 Ef	c	ef
 smellt	sþghen	smella
 er	sfg3en	vera
@@ -3630,7 +3376,6 @@ veðrið	nheog	veður
 síðustu	lvfove	síðari
 48	ta	48
 klst.	as	klst.
-
 Þessi	fahfn	þessi
 gögn	nhfn	gagn
 eru	sfg3fn	vera
@@ -3644,7 +3389,6 @@ villuleituð	sþghfn	villuleita
 af	aþ	af
 tölvu	nveþ	tölva
 .	.	.
-
 Ekki	aa	ekki
 er	sfg3en	vera
 þó	aa	þó
@@ -3654,7 +3398,6 @@ að	cn	að
 einhverjar	fovfo	einhver
 villur	nvfo	villa
 .	.	.
-
 Með	aþ	með
 sumarþjónustu	nveþ	sumarþjónusta
 er	sfg3en	vera
@@ -3708,7 +3451,6 @@ og	c	og
 almennt	lheosf	almennur
 umferðaröryggi	nheo	umferðaröryggi
 .	.	.
-
 Vegakerfinu	nheþg	vegakerfi
 er	sfg3en	vera
 skipt	sþghen	skipta
@@ -3727,7 +3469,6 @@ vegur	nken	vegur
 er	sfg3en	vera
 í	aa	í
 .	.	.
-
 Flokkunin	nveng	flokkun
 byggist	sfm3en	byggja
 að	aþ	að
@@ -3766,13 +3507,11 @@ og	c	og
 mikilvæga	lkfosf	mikilvægur
 ferðamannastaði	nkfo	ferðamannastaður
 .	.	.
-
 Flokkarnir	nkfng	flokkur
 eru	sfg3fn	vera
 skilgreindir	sþgkfn	skilgreina
 þannig	aa	þannig
 :	:	:
-
 Þjónustuflokkur	nken	þjónustuflokkur
 1	ta	1
 :	:	:
@@ -3791,7 +3530,6 @@ og	c	og
 umferðarþyngstu	lkfnvf	umferðarþungur
 vegirnir	nkfng	vegur
 .	.	.
-
 Þjónustuflokkur	nken	þjónustuflokkur
 2	ta	2
 :	:	:
@@ -3815,7 +3553,6 @@ og	c	og
 umferðarþungir	lkfnsf	umferðarþungur
 vegir	nkfn	vegur
 .	.	.
-
 Þjónustuflokkur	nken	þjónustuflokkur
 3	ta	3
 :	:	:
@@ -3835,7 +3572,6 @@ vegum	nkfþ	vegur
 þjónustuflokki	nkeþ	þjónustuflokkur
 2	ta	2
 .	.	.
-
 Þjónustuflokkur	nken	þjónustuflokkur
 4	ta	4
 :	:	:
@@ -3843,12 +3579,10 @@ Aðrir	fokfn	annar
 stofn-	nkfn	stofnvegur
 og	c	og
 tengivegir	nkfn	tengivegur
-
 Helstu	lhfnve	heldri
 þjónustuverkefni	nhfn	þjónustuverkefni
 eru	sfg3fn	vera
 :	:	:
-
 Afvötnun	nven	afvötnun
 ,	,	,
 hreinsun	nven	hreinsun
@@ -3889,9 +3623,7 @@ yfirborðsmerkingar	nvfn	yfirborðsmerking
 þjónusta	nven	þjónusta
 jarðganga	nhfe	jarðgöng
 o.fl.	as	o.fl.
-
 Færð	nven	færð
-
 Á	aþ	á
 Suður-	nheþ-s	Suðurland
 og	c	og
@@ -3901,7 +3633,6 @@ hálka	nven	hálka
 eða	c	eða
 hálkublettir	nkfn	hálkublettur
 .	.	.
-
 Á	aþ	á
 Vesturlandi	nheþ-s	Vesturland
 ,	,	,
@@ -3913,7 +3644,6 @@ hálka	nven	hálka
 eða	c	eða
 hálkublettir	nkfn	hálkublettur
 .	.	.
-
 Á	aþ	á
 Norðaustur-	nheþ-s	Norðausturland
 ,	,	,
@@ -3927,7 +3657,6 @@ snjóþekja	nven	snjóþekja
 og	c	og
 éljagangur	nken	éljagangur
 .	.	.
-
 Þungfært	lhensf	þungfær
 og	c	og
 óveður	nhen	óveður
@@ -3939,7 +3668,6 @@ og	c	og
 um	ao	um
 Öxi	nveo-s	Öxi
 .	.	.
-
 11.01.2007	ta	11.01.2007
 kl.	as	kl.
 07:17	ta	07:17
@@ -3953,7 +3681,6 @@ hálka	nven	hálka
 eða	c	eða
 hálkublettir	nkfn	hálkublettur
 .	.	.
-
 Á	aþ	á
 Vesturlandi	nheþ-s	Vesturland
 ,	,	,
@@ -3965,7 +3692,6 @@ hálka	nven	hálka
 eða	c	eða
 hálkublettir	nkfn	hálkublettur
 .	.	.
-
 Á	aþ	á
 Norðaustur-	nheþ-s	Norðausturland
 og	c	og
@@ -3977,7 +3703,6 @@ snjóþekja	nven	snjóþekja
 og	c	og
 éljagangur	nken	éljagangur
 .	.	.
-
 10.01.2007	ta	10.01.2007
 kl.	as	kl.
 16:48	ta	16:48
@@ -3989,7 +3714,6 @@ hálka	nven	hálka
 eða	c	eða
 snjóþekja	nven	snjóþekja
 .	.	.
-
 Á	aþ	á
 Vesturlandi	nheþ-s	Vesturland
 og	c	og
@@ -4000,7 +3724,6 @@ hálka	nven	hálka
 eða	c	eða
 hálkublettir	nkfn	hálkublettur
 .	.	.
-
 Á	aþ	á
 Norðurlandi	nheþ-s	Norðurland
 vestra	lheþvm	vestri
@@ -4009,7 +3732,6 @@ hálka	nven	hálka
 og	c	og
 hálkublettir	nkfn	hálkublettur
 .	.	.
-
 Á	aþ	á
 Norðausturlandi	nheþ-s	Norðausturland
 er	sfg3en	vera
@@ -4024,7 +3746,6 @@ er	sfg3en	vera
 með	aþ	með
 ströndinni	nveþg	strönd
 .	.	.
-
 Á	aþ	á
 Austur	nheþ-s	Austur
 og	c	og
@@ -4034,7 +3755,6 @@ hálka	nven	hálka
 og	c	og
 snjóþekja	nven	snjóþekja
 .	.	.
-
 10.01.2007	ta	10.01.2007
 kl.	as	kl.
 11:42	ta	11:42
@@ -4047,7 +3767,6 @@ hálka	nven	hálka
 eða	c	eða
 snjóþekja	nven	snjóþekja
 .	.	.
-
 Á	aþ	á
 Vesturlandi	nheþ-s	Vesturland
 og	c	og
@@ -4058,7 +3777,6 @@ hálka	nven	hálka
 eða	c	eða
 hálkublettir	nkfn	hálkublettur
 .	.	.
-
 Á	aþ	á
 Norðurlandi	nheþ-s	Norðurland
 er	sfg3en	vera
@@ -4069,7 +3787,6 @@ er	sfg3en	vera
 með	aþ	með
 Norðausturströndinni	nveþgs	Norðausturströnd
 .	.	.
-
 Á	aþ	á
 Austurlandi	nheþ-s	Austurland
 er	sfg3en	vera
@@ -4077,7 +3794,6 @@ hálka	nven	hálka
 eða	c	eða
 hálkublettir	nkfn	hálkublettur
 .	.	.
-
 Á	aþ	á
 Suðausturlandi	nheþ-s	Suðausturland
 eru	sfg3fn	vera
@@ -4087,7 +3803,6 @@ snjóþekja	nven	snjóþekja
 og	c	og
 éljagangur	nken	éljagangur
 .	.	.
-
 10.01.2007	ta	10.01.2007
 kl.	as	kl.
 09:24	ta	09:24
@@ -4103,7 +3818,6 @@ snjóþekja	nven	snjóþekja
 og	c	og
 skafrenningur	nken	skafrenningur
 .	.	.
-
 Á	aþ	á
 Vesturlandi	nheþ-s	Vesturland
 og	c	og
@@ -4114,7 +3828,6 @@ hálka	nven	hálka
 eða	c	eða
 hálkublettir	nkfn	hálkublettur
 .	.	.
-
 Á	aþ	á
 Norðurlandi	nheþ-s	Norðurland
 er	sfg3en	vera
@@ -4125,7 +3838,6 @@ er	sfg3en	vera
 með	aþ	með
 Norðausturströndinni	nveþgs	Norðausturströnd
 .	.	.
-
 Á	aþ	á
 Austurlandi	nheþ-s	Austurland
 er	sfg3en	vera
@@ -4133,7 +3845,6 @@ hálka	nven	hálka
 eða	c	eða
 hálkublettir	nkfn	hálkublettur
 .	.	.
-
 Á	aþ	á
 Suðausturlandi	nheþ-s	Suðausturland
 eru	sfg3fn	vera
@@ -4143,7 +3854,6 @@ snjóþekja	nven	snjóþekja
 og	c	og
 éljagangur	nken	éljagangur
 .	.	.
-
 10.01.2007	ta	10.01.2007
 kl.	as	kl.
 07:20	ta	07:20
@@ -4159,7 +3869,6 @@ snjóþekja	nven	snjóþekja
 og	c	og
 skafrenningur	nken	skafrenningur
 .	.	.
-
 Á	aþ	á
 Vesturlandi	nheþ-s	Vesturland
 og	c	og
@@ -4170,7 +3879,6 @@ hálka	nven	hálka
 eða	c	eða
 hálkublettir	nkfn	hálkublettur
 .	.	.
-
 Á	aþ	á
 Norðurlandi	nheþ-s	Norðurland
 er	sfg3en	vera
@@ -4181,7 +3889,6 @@ er	sfg3en	vera
 með	aþ	með
 Norðausturströndinni	nveþgs	Norðausturströnd
 .	.	.
-
 Á	aþ	á
 Austurlandi	nheþ-s	Austurland
 er	sfg3en	vera
@@ -4189,14 +3896,12 @@ hálka	nven	hálka
 eða	c	eða
 hálkublettir	nkfn	hálkublettur
 .	.	.
-
 Á	aþ	á
 Suðausturlandi	nheþ-s	Suðausturland
 eru	sfg3fn	vera
 víða	aa	víða
 hálkublettir	nkfn	hálkublettur
 .	.	.
-
 09.01.2007	ta	09.01.2007
 kl.	as	kl.
 20:55	ta	20:55
@@ -4208,7 +3913,6 @@ hálka	nven	hálka
 eða	c	eða
 hálkublettir	nkfn	hálkublettur
 .	.	.
-
 Á	aþ	á
 Vesturlandi	nheþ-s	Vesturland
 eru	sfg3fn	vera
@@ -4225,7 +3929,6 @@ hálka	nven	hálka
 og	c	og
 skafrenningur	nken	skafrenningur
 .	.	.
-
 Á	aþ	á
 Vestfjörðum	nkfþ-s	Vestfirðir
 eru	sfg3fn	vera
@@ -4247,7 +3950,6 @@ og	c	og
 á	aþ	á
 Ströndum	nvfþ-s	Strönd
 .	.	.
-
 Á	aþ	á
 Norðurlandi	nheþ-s	Norðurland
 er	sfg3en	vera
@@ -4257,13 +3959,11 @@ og	c	og
 víðast	aae	víða
 hvar	aa	hvar
 .	.	.
-
 Ófært	lhensf	ófær
 er	sfg3en	vera
 um	ao	um
 Lágheiði	nveo-s	Lágheiði
 .	.	.
-
 Á	aþ	á
 Austurlandi	nheþ-s	Austurland
 eru	sfg3fn	vera
@@ -4283,7 +3983,6 @@ skafrenningur	nken	skafrenningur
 á	aþ	á
 Öxi	nveþ-s	Öxi
 .	.	.
-
 Á	aþ	á
 Suðausturlandi	nheþ-s	Suðausturland
 eru	sfg3fn	vera
@@ -4292,7 +3991,6 @@ hálkublettir	nkfn	hálkublettur
 eða	c	eða
 hálka	nven	hálka
 .	.	.
-
 09.01.2007	ta	09.01.2007
 kl.	as	kl.
 17:15	ta	17:15
@@ -4307,7 +4005,6 @@ Suður-	nheþ-s	Suðurland
 og	c	og
 Vesturlandi	nheþ-s	Vesturland
 .	.	.
-
 Á	aþ	á
 Vestfjörðum	nkfþ-s	Vestfirðir
 eru	sfg3fn	vera
@@ -4329,7 +4026,6 @@ og	c	og
 á	aþ	á
 Ströndum	nvfþ-s	Strönd
 .	.	.
-
 Á	aþ	á
 Norðurlandi	nheþ-s	Norðurland
 er	sfg3en	vera
@@ -4339,13 +4035,11 @@ og	c	og
 víðast	aae	víða
 hvar	aa	hvar
 .	.	.
-
 Ófært	lhensf	ófær
 er	sfg3en	vera
 um	ao	um
 Lágheiði	nveo-s	Lágheiði
 .	.	.
-
 Á	aþ	á
 Austurlandi	nheþ-s	Austurland
 eru	sfg3fn	vera
@@ -4357,7 +4051,6 @@ hálka	nven	hálka
 á	aþ	á
 Breiðdalsheiði	nveþ-s	Breiðdalsheiði
 .	.	.
-
 Á	aþ	á
 Suðausturlandi	nheþ-s	Suðausturland
 eru	sfg3fn	vera
@@ -4366,7 +4059,6 @@ hálkublettir	nkfn	hálkublettur
 eða	c	eða
 hálka	nven	hálka
 .	.	.
-
 09.01.2007	ta	09.01.2007
 kl.	as	kl.
 14:43	ta	14:43
@@ -4381,7 +4073,6 @@ Suður-	nheþ-s	Suðurland
 og	c	og
 Vesturlandi	nheþ-s	Vesturland
 .	.	.
-
 Hálka	nven	hálka
 og	c	og
 éljagangur	nken	éljagangur
@@ -4389,7 +4080,6 @@ er	sfg3en	vera
 á	aþ	á
 Holtavörðuheiði	nveþ-s	Holtavörðuheiði
 .	.	.
-
 Á	aþ	á
 Vestfjörðum	nkfþ-s	Vestfirðir
 eru	sfg3fn	vera
@@ -4411,7 +4101,6 @@ og	c	og
 á	aþ	á
 Ströndum	nvfþ-s	Strönd
 .	.	.
-
 Á	aþ	á
 Norðurlandi	nheþ-s	Norðurland
 er	sfg3en	vera
@@ -4421,13 +4110,11 @@ og	c	og
 víðast	aae	víða
 hvar	aa	hvar
 .	.	.
-
 Ófært	lhensf	ófær
 er	sfg3en	vera
 um	ao	um
 Lágheiði	nveo-s	Lágheiði
 .	.	.
-
 Á	aþ	á
 Austurlandi	nheþ-s	Austurland
 eru	sfg3fn	vera
@@ -4444,7 +4131,6 @@ og	c	og
 á	aþ	á
 Breiðdalsheiði	nveþ-s	Breiðdalsheiði
 .	.	.
-
 Á	aþ	á
 Suðausturlandi	nheþ-s	Suðausturland
 eru	sfg3fn	vera
@@ -4453,7 +4139,6 @@ hálkublettir	nkfn	hálkublettur
 eða	c	eða
 hálka	nven	hálka
 .	.	.
-
 09.01.2007	ta	09.01.2007
 kl.	as	kl.
 08:57	ta	08:57
@@ -4468,7 +4153,6 @@ Suður-	nheþ-s	Suðurland
 og	c	og
 Vesturlandi	nheþ-s	Vesturland
 .	.	.
-
 Á	aþ	á
 Vestfjörðum	nkfþ-s	Vestfirðir
 er	sfg3en	vera
@@ -4478,7 +4162,6 @@ Hrafseyrar-	nveo	Hrafnseyrarheiði
 og	c	og
 Dynjandisheiði	nveo-s	Dynjandisheiði
 .	.	.
-
 Að	aþ	að
 öðru	foheþ	annar
 leyti	nheþ	leyti
@@ -4489,7 +4172,6 @@ hálka	nven	hálka
 eða	c	eða
 snjóþekja	nven	snjóþekja
 .	.	.
-
 Hálka	nven	hálka
 ,	,	,
 snjóþekja	nven	snjóþekja
@@ -4501,7 +4183,6 @@ Norður-	nheþ-s	Norðurland
 og	c	og
 Austurlandi	nheþ-s	Austurland
 .	.	.
-
 Ófært	lhensf	ófær
 er	sfg3en	vera
 um	ao	um
@@ -4513,7 +4194,6 @@ og	c	og
 á	aþ	á
 Breiðdalsheiði	nveþ-s	Breiðdalsheiði
 .	.	.
-
 Á	aþ	á
 Suðausturlandi	nheþ-s	Suðausturland
 eru	sfg3fn	vera
@@ -4522,7 +4202,6 @@ hákublettir	nkfn	hákublettur
 eða	c	eða
 hálka	nven	hálka
 .	.	.
-
 Meginmarkmið	nhen	meginmarkmið
 Umferðareftirlits	nhee-s	Umferðareftirlit
 er	sfg3en	vera
@@ -4536,7 +4215,6 @@ og	c	og
 réttlátu	lheþsf	réttlátur
 umferðareftirliti	nheþ	umferðareftirlit
 .	.	.
-
 Verkefni	nhfn	verkefni
 Umferðareftirlits	nhee-s	Umferðareftirlit
 :	:	:
@@ -4584,7 +4262,6 @@ og	c	og
 hvíldartíma	nkeþ	hvíldartími
 ökumanna	nkfe	ökumaður
 .	.	.
-
 Starfsmarkmið	nhfn	starfsmarkmið
 :	:	:
 að	cn	að
@@ -4608,7 +4285,6 @@ bæta	sng	bæta
 samkeppnistöðu	nveo	samkeppnistaða
 aðila	nkfe	aðili
 .	.	.
-
 að	cn	að
 sinna	sng	sinna
 eftirliti	nheþ	eftirlit
@@ -4623,7 +4299,6 @@ sem	ct	sem
 minnstri	lveþse	lítill
 truflun	nveþ	truflun
 .	.	.
-
 að	cn	að
 hafa	sng	hafa
 gott	lheosf	góður
@@ -4638,7 +4313,6 @@ eftirlit	nheo	eftirlit
 þetta	faheo	þessi
 falla	sfg3fn	falla
 .	.	.
-
 Vegagerðin	nvengs	Vegagerð
 gerir	sfg3en	gera
 út	aa	út
@@ -4665,14 +4339,12 @@ sbr.	as	sbr.
 skilgreind	lhfosf	skilgreindur
 markmið	nhfo	markmið
 .	.	.
-
 Bifreiðarnar	nvfng	bifreið
 eru	sfg3fn	vera
 mannaðar	sþgvfn	manna
 2	ta	2
 eftirlitsmönnum	nkfþ	eftirlitsmaður
 .	.	.
-
 Sjá	sbg2en	sjá
 nánar	aam	náið
 :	:	:
@@ -4683,13 +4355,11 @@ sem	ct	sem
 varða	sfg3fn	varða
 starfsemi	nveo	starfsemi
 Umferðareftirlits	nhee-s	Umferðareftirlit
-
 Heimildir	nvfo	heimild
 Umferðareftirlits	nhee-s	Umferðareftirlit
 Vegagerðarinar	x	Vegagerðarin
 til	ae	til
 eftirlitsaðgerða	nvfe	eftirlitsaðgerð
-
 Vegagerðin	nvengs	Vegagerð
 hefur	sfg3en	hafa
 sett	ssg	setja
@@ -4711,7 +4381,6 @@ staða	nkfe	staður
 á	aþ	á
 landinu	nheþg	land
 .	.	.
-
 Þessir	fakfn	þessi
 umferðargreinar	nkfn	umferðargreinir
 mæla	sfg3fn	mæla
@@ -4723,7 +4392,6 @@ bil	nheo	bil
 milli	ae	milli
 bíla	nkfe	bíll
 .	.	.
-
 Hér	aa	hér
 má	sfg3en	mega
 sjá	sng	sjá
@@ -4742,7 +4410,6 @@ bil	nheo	bil
 milli	ae	milli
 bíla	nkfe	bíll
 .	.	.
-
 Umferðar-	nhfn	umferðarmál
 og	c	og
 umferðaröryggismál	nhfn	umferðaröryggismál
@@ -4753,7 +4420,6 @@ veigamikill	lkensf	veigamikill
 starfsemi	nveþ	starfsemi
 Vegagerðarinnar	nveegs	Vegagerð
 .	.	.
-
 Aðkoma	nven	aðkoma
 Vegagerðarinnar	nveegs	Vegagerð
 að	aþ	að
@@ -4780,7 +4446,6 @@ og	c	og
 ástand	nheo	ástand
 vega	nkfe	vegur
 .	.	.
-
 Vegagerðin	nvengs	Vegagerð
 fær	sfg3en	fá
 upplýsingar	nvfo	upplýsing
@@ -4798,7 +4463,6 @@ grundvelli	nkeþ	grundvöllur
 þeirra	fahfe	sá
 gagna	nhfe	gagn
 .	.	.
-
 Slysakort	nhfn	slysakort
 gera	sfg3fn	gera
 kleift	lheosf	kleifur
@@ -4809,7 +4473,6 @@ staði	nkfo	staður
 á	aþ	á
 vegakerfinu	nheþg	vegakerfi
 .	.	.
-
 Jafnframt	aa	jafnframt
 reiknar	sfg3en	reikna
 Vegagerðin	nvengs	Vegagerð
@@ -4825,12 +4488,10 @@ milljón	nveo	milljón
 ekinna	lkfesf	ekinn
 km	as	km
 .	.	.
-
 Stefna	nven	stefna
 Vegagerðarinnar	nveegs	Vegagerð
 í	aþ	í
 umferðaröryggismálum	nhfþ	umferðaröryggismál
-
 Vegagerðin	nvengs	Vegagerð
 hefur	sfg3en	hafa
 ákveðið	ssg	ákveða
@@ -4853,7 +4514,6 @@ fyrir	ao	fyrir
 alla	fokfo	allur
 vegfarendur	nkfo	vegfarandi
 .	.	.
-
 Við	ao	við
 stefnumótun	nveo	stefnumótun
 sína	feveo	sinn
@@ -4879,7 +4539,6 @@ tekur	sfg3en	taka
 til	ae	til
 umferðaröryggis	nhee	umferðaröryggi
 .	.	.
-
 Vegagerðin	nvengs	Vegagerð
 mun	sfg3en	munu
 vinna	sng	vinna
@@ -4902,7 +4561,6 @@ Alþingi	nhen-s	Alþingi
 hverju	foheþ	hver
 sinni	nheþ	sinn
 .	.	.
-
 Rannsóknir	nvfn	rannsókn
 er	ct	er
 varða	sfg3fn	varða
@@ -4911,7 +4569,6 @@ hafa	sfg3fn	hafa
 verið	ssg	vera
 stórefldar	sþgvfn	stórefla
 .	.	.
-
 Rannsóknarnefnd	nven	rannsóknarnefnd
 umferðarslysa	nhfe	umferðarslys
 hefur	sfg3en	hafa
@@ -4935,7 +4592,6 @@ verða	sfg3fn	verða
 á	aþ	á
 landinu	nheþg	land
 .	.	.
-
 Rannsóknir	nvfn	rannsókn
 á	aþ	á
 sviði	nheþ	svið
@@ -4945,7 +4601,6 @@ verið	ssg	vera
 auknar	sþgvfn	auka
 verulega	aa	verulega
 .	.	.
-
 Vegagerðin	nvengs	Vegagerð
 hefur	sfg3en	hafa
 ásamt	aþ	ásamt
@@ -4960,11 +4615,9 @@ umferðaröryggismála	nhfe	umferðaröryggismál
 RANNUM	nxeþ-s	RANNUM
 )	)	)
 .	.	.
-
 Umferðargreinar	nkfn	umferðargreinir
 og	c	og
 umferðarteljarar	nkfn	umferðarteljari
-
 Vegagerðin	nvengs	Vegagerð
 hefur	sfg3en	hafa
 sett	ssg	setja
@@ -4983,7 +4636,6 @@ bil	nheo	bil
 milli	ae	milli
 bíla	nkfe	bíll
 .	.	.
-
 Tæki	nhfn	tæki
 þessi	fahfn	þessi
 telja	sfg3fn	telja

@@ -10,7 +10,6 @@ USA	as	USA
 ágúst	nkeþ	ágúst
 2005	ta	2005
 .	.	.
-
 Marrit	e	Marrit
 Meintema	e	Meintema
 hlaut	sfg3eþ	hljóta
@@ -30,7 +29,6 @@ Hollandi	nheþ-s	Holland
 vorið	nheog	vor
 2005	ta	2005
 .	.	.
-
 Stofnaður	sþgken	stofna
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -52,7 +50,6 @@ og	c	og
 Umsjónarfélagi	nheþ-s	Umsjónarfélag
 einhverfra	lkfesf	einhverfur
 .	.	.
-
 Stofnfé	nhen	stofnfé
 hans	fpkee	hann
 er	sfg3en	vera
@@ -75,7 +72,6 @@ haldin	sþgven	halda
 apríl	nkeþ	apríl
 2004	ta	2004
 .	.	.
-
 Skipulagsskrá	nven	skipulagsskrá
 sjóðsins	nkeeg	sjóður
 var	sfg3eþ	vera
@@ -85,7 +81,6 @@ stofnfundi	nkeþ	stofnfundur
 2.	ta	2.
 júní	nkeo	júní
 sl.	as	sl.
-
 Í	aþ	í
 stjórn	nveþ	stjórn
 eru	sfg3fn	vera
@@ -114,13 +109,11 @@ Gunnarsdóttir	nven-s	Gunnarsdóttir
 Fjölskyldudeild	nveþ-s	Fjölskyldudeild
 Akureyrarbæjar	nkee-s	Akureyrarbær
 .	.	.
-
 Formaður	nken	formaður
 er	sfg3en	vera
 Bryndís	nven-s	Bryndís
 Halldórsdóttir	nven-s	Halldórsdóttir
 .	.	.
-
 Markmið	nhen	markmið
 fræðslusjóðsins	nkeeg	fræðslusjóður
 er	sfg3en	vera
@@ -144,7 +137,6 @@ hér	aa	hér
 á	aþ	á
 landi	nheþ	land
 .	.	.
-
 Tilgangur	nken	tilgangur
 hans	fpkee	hann
 er	sfg3en	vera
@@ -163,7 +155,6 @@ af	aþ	af
 viðurkenndum	lkfþsf	viðurkenndur
 aðilum	nkfþ	aðili
 .	.	.
-
 Ennfremur	aa	ennfremur
 er	sfg3en	vera
 hlutverk	nhen	hlutverk
@@ -182,7 +173,6 @@ styrkja	sng	styrkja
 á	aþ	á
 fræðsluefni	nheþ	fræðsluefni
 .	.	.
-
 Verkefni	nhfn	verkefni
 sem	ct	sem
 eru	sfg3fn	vera
@@ -197,7 +187,6 @@ styrkveitingar	nvfo	styrkveiting
 úr	aþ	úr
 sjóðnum	nkeþg	sjóður
 .	.	.
-
 Stjórn	nven	stjórn
 sjóðsins	nkeeg	sjóður
 hefur	sfg3en	hafa
@@ -209,7 +198,6 @@ tillögur	nvfo	tillaga
 að	aþ	að
 verkefnum	nhfþ	verkefni
 .	.	.
-
 Úthlutun	nven	úthlutun
 sjóðsins	nkeeg	sjóður
 verður	sfg3en	verða
@@ -219,7 +207,6 @@ tilkynnt	sþgven	tilkynna
 15.	ta	15.
 nóvember	nkeo	nóvember
 .	.	.
-
 Auglýst	sþghen	auglýsa
 verður	sfg3en	verða
 eftir	aþ	eftir
@@ -237,7 +224,6 @@ fyrir	ao	fyrir
 15.	ta	15.
 október	nkeo	október
 .	.	.
-
 Í	aþ	í
 umsókn	nveþ	umsókn
 skal	sfg3en	skulu
@@ -253,20 +239,16 @@ markmiðum	nhfþ	markmið
 og	c	og
 markhópi	nkeþ	markhópur
 .	.	.
-
 XX	ta	xx
 .	.	.
-
 vornámskeið	nhen	vornámskeið
 Greiningarstöðvar	nvee-s	Greiningarstöð
 12	ta	12
 .	.	.
-
 -13.	ta	-13.
 maí	nkeo	maí
 2005	ta	2005
 .	.	.
-
 Þroskaraskanir	nvfn	þroskaröskun
 barna	nhfe	barn
 -	-	-
@@ -274,7 +256,6 @@ Hvað	fshen	hver
 hefur	sfg3en	hafa
 áunnist	ssm	ávinna
 ?	?	?
-
 Glærur	nvfn	glæra
 til	ae	til
 að	cn	að
@@ -293,7 +274,6 @@ skoða	sng	skoða
 ,	,	,
 ,	,	,
 ,	,	,
-
 Hér	aa	hér
 fyrir	aa	fyrir
 neðan	aa	neðan
@@ -303,7 +283,6 @@ tilbúið	lhensf	tilbúinn
 til	ae	til
 útprentunar	nvee	útprentun
 :	:	:
-
 Fimmtudagur	nken	fimmtudagur
 12.	ta	12.
 maí	nken	maí
@@ -316,13 +295,11 @@ atferli	nheþ	atferli
 efling	nven	efling
 heilsugæslunnar	nveeg	heilsugæsla
 .	.	.
-
 Atli	nken-s	Atli
 Árnason	nken-s	Árnason
 ,	,	,
 heilsugæslulæknir	nken	heilsugæslulæknir
 .	.	.
-
 Leikskóli	nken	leikskóli
 fyrir	ao	fyrir
 öll	fohfo	allur
@@ -333,7 +310,6 @@ börn	nhfo	barn
 með	ao	með
 sérþarfir	nvfo	sérþörf
 .	.	.
-
 Anna	nven-s	Anna
 Karen	nven-s	Karen
 Ásgeirsdóttir	nven-s	Ásgeirsdóttir
@@ -341,20 +317,17 @@ Karen	nven-s	Karen
 sérkennslufulltrúi	nken	sérkennslufulltrúi
 leikskóla	nkee	leikskóli
 .	.	.
-
 Íhlutun	nven	íhlutun
 vegna	ae	vegna
 þroskahamlana	nvfe	þroskahamall
 -	-	-
 gagnreyndar	lvfnsf	gagnreyndur
 aðferðir	nvfn	aðferð
-
 Ýr	nven-s	Ýr
 Sigurðardóttir	nven-s	Sigurðardóttir
 ,	,	,
 barnalæknir	nken	barnalæknir
 .	.	.
-
 Internetið	nheng	internet
 -	-	-
 til	ae	til
@@ -362,13 +335,11 @@ gagns	nhee	gagn
 eða	c	eða
 ofgnótt	nven	ofgnótt
 upplýsinga	nvfe	upplýsing
-
 Ingólfur	nken-s	Ingólfur
 Einarsson	nken-s	Einarsson
 ,	,	,
 barnalæknir	nken	barnalæknir
 .	.	.
-
 Greining	nven	greining
 á	aþ	á
 þroskahömlun	nveþ	þroskahömlun
@@ -376,27 +347,23 @@ Greining	nven	greining
 meira	lhenvm	mikill
 en	c	en
 greindarmat	nhen	greindarmat
-
 Dr.	as	Dr.
 Tryggvi	nken-s	Tryggvi
 Sigurðsson	nken-s	Sigurðsson
 ,	,	,
 sálfræðingur	nken	sálfræðingur
 .	.	.
-
 Einhverfurófið	nheng	einhverfuróf
 -	-	-
 ekki	aa	ekki
 bara	aa	bara
 einhverfa	nven	einhverfa
 .	.	.
-
 Evald	nken-s	Evald
 Sæmundsen	nken-s	Sæmundsen
 ,	,	,
 sálfræðingur	nken	sálfræðingur
 .	.	.
-
 Greining	nven	greining
 hreyfihamlana	nvfe	hreyfihömlun
 -	-	-
@@ -406,31 +373,26 @@ að	aþ	að
 starfrænu	lheþsf	starfrænn
 mati	nheþ	mat
 .	.	.
-
 Solveig	nven-s	Solveig
 Sigurðardóttir	nven-s	Sigurðardóttir
 ,	,	,
 barnalæknir	nken	barnalæknir
 .	.	.
-
 Fötlunarfræði	nven	fötlunarfræði
 -	-	-
 ný	lhfnsf	nýr
 viðhorf	nhfn	viðhorf
 til	ae	til
 fatlaðra	lkfesf	fatlaður
-
 Dr.	as	Dr.
 Rannveig	nven-s	Rannveig
 Traustadóttir	nven-s	Traustadóttir
 ,	,	,
 prófessor	nken	prófessor
 .	.	.
-
 Föstudagur	nken	föstudagur
 13.	ta	13.
 maí	nken	maí
-
 Ísland	nhen-s	Ísland
 í	ao	í
 dag	nkeo	dagur
@@ -438,13 +400,11 @@ dag	nkeo	dagur
 staða	nven	staða
 fjölskyldunnar	nveeg	fjölskylda
 .	.	.
-
 María	nven-s	María
 Játvarðardóttir	nven-s	Játvarðardóttir
 ,	,	,
 félagsráðgjafi	nken	félagsráðgjafi
 .	.	.
-
 Fjölskyldur	nvfn	fjölskylda
 fatlaðra	lhfesf	fatlaður
 barna	nhfe	barn
@@ -454,7 +414,6 @@ barna	nhfe	barn
 21.	ta	21.
 öldinni	nveþg	öld
 .	.	.
-
 Gerður	nven-s	Gerður
 Árnadóttir	nven-s	Árnadóttir
 ,	,	,
@@ -462,20 +421,17 @@ heilsugæslulæknir	nken	heilsugæslulæknir
 og	c	og
 foreldri	nhen	foreldri
 .	.	.
-
 Geðraskanir	nvfn	geðröskun
 barna	nhfe	barn
 -	-	-
 nýr	lkensf	nýr
 faraldur	nken	faraldur
 ?	?	?
-
 Kristján	nken-s	Kristján
 Magnússon	nken-s	Magnússon
 ,	,	,
 sálfræðingur	nken	sálfræðingur
 .	.	.
-
 Geðraskanir	nvfn	geðröskun
 hjá	aþ	hjá
 fötluðum	lkfþsf	fatlaður
@@ -483,24 +439,20 @@ fötluðum	lkfþsf	fatlaður
 viðurkenndur	lkensf	viðurkenndur
 vandi	nken	vandi
 ?	?	?
-
 Ólafur	nken-s	Ólafur
 Guðmundsson	nken-s	Guðmundsson
 ,	,	,
 barnageðlæknir	nken	barnageðlæknir
-
 Sjónarhóll	nken-s	Sjónarhóll
 -	-	-
 nýr	lkensf	nýr
 samherji	nken	samherji
 .	.	.
-
 Þorgerður	nven-s	Þorgerður
 Ragnarsdóttir	nven-s	Ragnarsdóttir
 ,	,	,
 forstöðumaður	nken	forstöðumaður
 .	.	.
-
 Börn	nhfn	barn
 innflytjenda	nkfe	innflytjandi
 -	-	-
@@ -508,24 +460,20 @@ menningarmunur	nken	menningarmunur
 eða	c	eða
 þroskafrávik	nhfn	þroskafrávik
 ?	?	?
-
 Gerður	nven-s	Gerður
 Gestsdóttir	nven-s	Gestsdóttir
 ,	,	,
 verkefnisstjóri	nken	verkefnisstjóri
 fræðsludeildar	nvee	fræðsludeild
 Alþjóðahúss	nhee-s	Alþjóðahús
-
 Friðhelgi	nven	friðhelgi
 einkalífsins	nheeg	einkalíf
 .	.	.
-
 Salvör	nven-s	Salvör
 Nordal	nven-s	Nordal
 ,	,	,
 heimspekingur	nken	heimspekingur
 .	.	.
-
 Takið	sbg2fn	taka
 frá	aa	frá
 dagana	nkfog	dagur
@@ -538,10 +486,8 @@ fræðslu	nveo	fræðsla
 og	c	og
 samveru	nveo	samvera
 !	!	!
-
 XX	ta	xx
 .	.	.
-
 vornámskeið	nhen	vornámskeið
 á	aþ	á
 20.	ta	20.
@@ -561,7 +507,6 @@ föstudaginn	nkeog	föstudagur
 13.	ta	13.
 maí	nkeo	maí
 n.k.	as	n.k.
-
 Námskeiðið	nheng	námskeið
 ber	sfg3en	bera
 yfirskriftina	nveog	yfirskrift
@@ -573,7 +518,6 @@ hvað	fshen	hver
 hefur	sfg3en	hafa
 áunnist	ssm	ávinna
 ?	?	?
-
 Farið	sþghen	fara
 verður	sfg3en	verða
 vítt	aa	vítt
@@ -603,7 +547,6 @@ aðrar	fovfo	annar
 alvarlegar	lvfosf	alvarlegur
 þroskaraskanir	nvfo	þroskaröskun
 .	.	.
-
 Meðal	ae	meðal
 þess	fphee	það
 ,	,	,
@@ -637,7 +580,6 @@ nýjungar	nvfn	nýjung
 og	c	og
 þjálfun	nveþ	þjálfun
 .	.	.
-
 Fjallað	sþghen	fjalla
 verður	sfg3en	verða
 um	ao	um
@@ -656,7 +598,6 @@ embætti	nheo	embætti
 umboðsmanns	nkee	umboðsmaður
 barna	nhfe	barn
 .	.	.
-
 Þá	aa	þá
 verða	sfg3fn	verða
 fluttir	sþgkfn	flytja
@@ -681,7 +622,6 @@ og	c	og
 fjölskyldur	nvfo	fjölskylda
 þeirra	fphfe	það
 .	.	.
-
 Móttaka	nven	móttaka
 með	aþ	með
 léttum	lvfþsf	léttur
@@ -696,7 +636,6 @@ námskeiðsgesti	nkfo	námskeiðsgestur
 og	c	og
 fyrirlesara	nkfo	fyrirlesari
 .	.	.
-
 Vornámskeið	nhfn	vornámskeið
 Greiningarstöðvar	nvee-s	Greiningarstöð
 hafa	sfg3fn	hafa
@@ -720,7 +659,6 @@ tuttugasta	lhenvf	tuttugasti
 starfsár	nhen	starfsár
 stöðvarinnar	nveeg	stöð
 .	.	.
-
 Námskeiðin	nhfng	námskeið
 hafa	sfg3fn	hafa
 verið	ssg	vera
@@ -742,7 +680,6 @@ fatlanir	nvfo	fötlun
 öllu	foheþ	allur
 landinu	nheþg	land
 .	.	.
-
 Þau	fphfn	það
 hafa	sfg3fn	hafa
 skapað	ssg	skapa
@@ -766,7 +703,6 @@ saman	aa	saman
 bækur	nvfo	bók
 sínar	fevfo	sinn
 .	.	.
-
 Í	aþ	í
 tilefni	nheþ	tilefni
 afmælis	nhee	afmæli
@@ -780,7 +716,6 @@ hvað	fshen	hver
 hefur	sfg3en	hafa
 áunnist	ssm	ávinna
 .	.	.
-
 Farið	sþghen	fara
 verður	sfg3en	verða
 vítt	aa	vítt
@@ -810,7 +745,6 @@ aðrar	fovfo	annar
 alvarlegar	lvfosf	alvarlegur
 þroskaraskanir	nvfo	þroskaröskun
 .	.	.
-
 Hegðunar-	nken	hegðunarvandi
 og	c	og
 tilfinningavandi	nken	tilfinningavandi
@@ -821,22 +755,18 @@ heilalömun	nveo	heilalömun
 CP	as	CP
 )	)	)
 .	.	.
-
 Lengd	nven	lengd
 námskeiðs	nhee	námskeið
 :	:	:
 8	ta	8
-
 Verð	nhen	verð
 námskeiðs	nhee	námskeið
 :	:	:
 Verð	nhen	verð
 10.800	ta	10.800
 .	.	.
-
 Námskeiðslýsing	nven	námskeiðslýsing
 :	:	:
-
 Hegðunar-	nken	hegðunarvandi
 og	c	og
 tilfinningavandi	nken	tilfinningavandi
@@ -847,13 +777,11 @@ heilalömun	nveo	heilalömun
 CP	as	CP
 )	)	)
 .	.	.
-
 Hvað	fshen	hver
 er	sfg3en	vera
 til	ae	til
 ráða	nhfe	ráð
 ?	?	?
-
 Námskeiðið	nheng	námskeið
 verður	sfg3en	verða
 haldið	sþghen	halda
@@ -867,7 +795,6 @@ kl.	as	kl.
 Hverjum	fskfþ	hver
 ætlað	sþghen	ætla
 ?	?	?
-
 Námskeiðið	nheng	námskeið
 er	sfg3en	vera
 ætlað	sþghen	ætla
@@ -890,18 +817,15 @@ börnum	nhfþ	barn
 með	ao	með
 heilalömun	nveo	heilalömun
 .	.	.
-
 Efni	nhen	efni
 og	c	og
 vinnulag	nhen	vinnulag
-
 Meginþema	nhen	meginþema
 námskeiðsins	nheeg	námskeið
 eru	sfg3fn	vera
 fylgiraskanir	nvfn	fylgiröskun
 heilalömunar	nvee	heilalömun
 .	.	.
-
 Áhersla	nven	áhersla
 verður	sfg3en	verða
 lögð	sþgven	leggja
@@ -920,7 +844,6 @@ og	c	og
 félagslega	lkfosf	félagslegur
 erfiðleika	nkfo	erfiðleiki
 .	.	.
-
 Fjallað	sþghen	fjalla
 verður	sfg3en	verða
 um	ao	um
@@ -947,7 +870,6 @@ fylgt	ssg	fylgja
 þeim	fpvfþ	hún
 eftir	aa	eftir
 .	.	.
-
 Fræðsluefnið	nheng	fræðsluefni
 «	«	«
 Uppeldi	nhen	uppeldi
@@ -989,7 +911,6 @@ líkum	nvfþ	líkur
 hegðunarerfiðleikum	nkfþ	hegðunarerfiðleiki
 síðar	aam	síðar
 .	.	.
-
 Einnig	aa	einnig
 verður	sfg3en	verða
 fjallað	sþghen	fjalla
@@ -1008,7 +929,6 @@ lyfjameðferð	nveþ	lyfjameðferð
 við	aþ	við
 hegðunarerfiðleikum	nkfþ	hegðunarerfiðleiki
 .	.	.
-
 Fjallað	sþghen	fjalla
 verður	sfg3en	verða
 um	ao	um
@@ -1032,7 +952,6 @@ barna	nhfe	barn
 með	ao	með
 heilalömun	nveo	heilalömun
 .	.	.
-
 Þroskaþjálfi	nken	þroskaþjálfi
 í	aþ	í
 leikskóla	nkeþ	leikskóli
@@ -1059,9 +978,7 @@ frá	aþ	frá
 sinni	feveþ	sinn
 reynslu	nveþ	reynsla
 .	.	.
-
 Markmið	nhen	markmið
-
 Auka	sng	auka
 þekkingu	nveo	þekking
 á	aþ	á
@@ -1082,7 +999,6 @@ barna	nhfe	barn
 með	ao	með
 heilalömun	nveo	heilalömun
 .	.	.
-
 Skapa	sng	skapa
 vettvang	nkeo	vettvangur
 fyrir	ao	fyrir
@@ -1097,9 +1013,7 @@ við	ao	við
 sambærileg	lhfosf	sambærilegur
 verkefni	nhfo	verkefni
 .	.	.
-
 Dagskrá	nven	dagskrá
-
 8:50	ta	8:50
 -9	ta	-9
 :	:	:
@@ -1117,12 +1031,10 @@ Ekki	aa	ekki
 bara	aa	bara
 hreyfihömlun	nven	hreyfihömlun
 .	.	.
-
 Stefán	nken-s	Stefán
 J.	as	J.
 Hreiðarsson	nken-s	Hreiðarsson
 sérfr.	as	sérfr.
-
 í	aþ	í
 fötlunum	nvfþ	fötlun
 barna	nhfe	barn
@@ -1137,7 +1049,6 @@ tilfinningaraskanir	nvfn	tilfinningaröskun
 Hvers	fshee	hver
 vegna	ae	vegna
 ?	?	?
-
 Solveig	nven-s	Solveig
 Sigurðardóttir	nven-s	Sigurðardóttir
 sérfr.	as	sérfr.
@@ -1151,13 +1062,11 @@ Kaffi	nhen	kaffi
 Byrgjum	sfg1fn	byrgja
 brunninn	nkeog	brunnur
 .	.	.
-
 -	-	-
 Uppeldi	nhen	uppeldi
 sem	ct	sem
 virkar	sfg3en	virka
 .	.	.
-
 Gyða	nven-s	Gyða
 Haraldsdóttir	nven-s	Haraldsdóttir
 ,	,	,
@@ -1173,16 +1082,13 @@ gerum	sfg1fn	gera
 við	fp1fn	ég
 svo	aa	svo
 ?	?	?
-
 Jákvæð	lvensf	jákvæður
 hegðunarmótun	nven	hegðunarmótun
 Katrín	nven-s	Katrín
 Einarsdóttir	nven-s	Einarsdóttir
 ,	,	,
 sálfræðingur	nken	sálfræðingur
-
 Hádegishlé	nhen	hádegishlé
-
 13:00	ta	13:00
 -13	ta	-13
 :	:	:
@@ -1191,7 +1097,6 @@ Mér	fp1eþ	ég
 líður	sfg3en	líða
 illa	aa	illa
 !	!	!
-
 Praktísk	lhfnsf	praktískur
 ráð	nhfn	ráð
 við	aþ	við
@@ -1203,7 +1108,6 @@ byggð	sþghfn	byggja
 hugrænni	lveþsf	hugrænn
 atferlismeðferð	nveþ	atferlismeðferð
 .	.	.
-
 Inga	nven-s	Inga
 Hrefna	nven-s	Hrefna
 Jónsdóttir	nven-s	Jónsdóttir
@@ -1217,19 +1121,16 @@ Viltu	sfg2en	vilja
 vera	sng	vera
 með	aa	með
 ?	?	?
-
 Hvernig	aa	hvernig
 gerum	sfg1fn	gera
 við	fp1fn	ég
 á	aþ	á
 Múlaborg	nveþ-s	Múlaborg
 .	.	.
-
 Brynhildur	nven-s	Brynhildur
 Guðmundsdóttir	nven-s	Guðmundsdóttir
 ,	,	,
 þroskaþjálfi	nken	þroskaþjálfi
-
 Kaffi	nhen	kaffi
 14:35	ta	14:35
 -15	ta	-15
@@ -1239,7 +1140,6 @@ Umhverfið	nheng	umhverfi
 skiptir	sfg3en	skipta
 máli	nheþ	mál
 .	.	.
-
 Þórunn	nven-s	Þórunn
 R.	as	R.
 Þórarinsdóttir	nven-s	Þórarinsdóttir
@@ -1255,11 +1155,9 @@ við	fp1fn	ég
 að	aþ	að
 því	fpheþ	það
 ?	?	?
-
 Reynsla	nven	reynsla
 foreldris	nhee	foreldri
 .	.	.
-
 Klara	nven-s	Klara
 Geirsdóttir	nven-s	Geirsdóttir
 15:25	ta	15:25
@@ -1270,7 +1168,6 @@ Lyfjameðferð	nven	lyfjameðferð
 við	aþ	við
 hegðunarerfiðleikum	nkfþ	hegðunarerfiðleiki
 .	.	.
-
 Stefán	nken-s	Stefán
 J.	as	J.
 Hreiðarsson	nken-s	Hreiðarsson
@@ -1285,9 +1182,7 @@ barna	nhfe	barn
 Umræður	nvfn	umræða
 og	c	og
 ráðstefnuslit	nhfn	ráðstefnuslit
-
 Umsjón	nven	umsjón
-
 Solveig	nven-s	Solveig
 Sigurðardóttir	nven-s	Sigurðardóttir
 ,	,	,
@@ -1298,13 +1193,11 @@ sérfr.	as	sérfr.
 fötlunum	nvfþ	fötlun
 barna	nhfe	barn
 .	.	.
-
 Katrín	nven-s	Katrín
 Einarsdóttir	nven-s	Einarsdóttir
 ,	,	,
 sálfræðingur	nken	sálfræðingur
 .	.	.
-
 Organization	e	Organization
 for	e	for
 Autism	e	Autism
@@ -1328,7 +1221,6 @@ einhverfu	nveþ	einhverfa
 og	c	og
 fleiru	lheþvm	fleiru
 .	.	.
-
 Féttabréf	nhen	fréttabréf
 með	aþ	með
 greinum	nvfþ	grein
@@ -1349,7 +1241,6 @@ kennara	nkfo	kennari
 og	c	og
 fleiri	lkfovm	margur
 .	.	.
-
 Bæklingur	nken	bæklingur
 um	ao	um
 Aspergersheilkenni	nheo-s	Aspergersheilkenni
@@ -1363,7 +1254,6 @@ kemur	sfg3en	koma
 á	aþ	á
 næstunni	nveþg	næsta
 .	.	.
-
 Meðferðarteymi	nheþ	meðferðarteymi
 vegna	ae	vegna
 geðraskana	nvfe	geðröskun
@@ -1374,7 +1264,6 @@ komið	sþghen	koma
 fót	nkeo	fótur
 í	aþ	í
 Grafarvogi	nkeþ-s	Grafarvogur
-
 Komið	sþghen	koma
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -1411,7 +1300,6 @@ fréttatilkynningu	nveþ	fréttatilkynning
 frá	aþ	frá
 heilbrigðisráðuneytinu	nheþg	heilbrigðisráðuneyti
 .	.	.
-
 Í	aþ	í
 tilkynningunni	nveþg	tilkynning
 segir	sfg3en	segja
@@ -1455,7 +1343,6 @@ sviði	nheþ	svið
 skorti	svg3en	skorta
 meðferðarúrræði	nhfo	meðferðarúrræði
 .	.	.
-
 Heilsugæslustöðin	nveng	heilsugæslustöð
 í	aþ	í
 Grafarvogi	nkeþ-s	Grafarvogur
@@ -1471,7 +1358,6 @@ fjölmennasta	lheþve	fjölmennur
 barnahverfi	nheþ	barnahverfi
 landsins	nheeg	land
 .	.	.
-
 «	«	«
 Meðferðarteymið	nhengs	meðferðarteymi
 verður	sfg3en	verða
@@ -1488,7 +1374,6 @@ Hverfisheilsugæslunnar	nveegs	hverfisheilsugæsla
 í	aþ	í
 Grafarvogi	nkeþ-s	Grafarvogur
 .	.	.
-
 Sérstök	lvensf	sérstakur
 áhersla	nven	áhersla
 verður	sfg3en	verða
@@ -1510,7 +1395,6 @@ og	c	og
 sem	c	sem
 yngst	lhfose	ungur
 .	.	.
-
 Er	sfg3en	vera
 þetta	fahen	þessi
 gert	sþghen	gera
@@ -1527,7 +1411,6 @@ enn	aa	enn
 sérhæfðari	lveovm	sérhæfður
 þjónustu	nveo	þjónusta
 .	.	.
-
 Með	aþ	með
 því	fpheþ	það
 að	cn	að
@@ -1571,7 +1454,6 @@ unglingageðdeildina	nveog	unglingageðdeild
 BUGL	nxen-s	BUGL
 )	)	)
 .	.	.
-
 Jafnframt	aa	jafnframt
 hefur	sfg3en	hafa
 mönnum	nkfþ	maður
@@ -1603,7 +1485,6 @@ foreldrana	nkfog	foreldrar
 þeim	fahfþ	sá
 efnum	nhfþ	efni
 .	.	.
-
 Í	aþ	í
 meðferðarteyminu	nheþg	meðferðarteymi
 eru	sfg3fn	vera
@@ -1637,14 +1518,12 @@ teymið	nheog	teymi
 að	cn	að
 halda	sng	halda
 .	.	.
-
 Teymið	nheng	teymi
 starfar	sfg3en	starfa
 á	aþ	á
 lækningasviði	nheþ	lækningasvið
 stöðvarinnar	nveeg	stöð
 .	.	.
-
 Hlutverk	nhen	hlutverk
 þess	fphee	það
 verður	sfg3en	verða
@@ -1664,7 +1543,6 @@ aðrar	fovfo	annar
 fagstéttir	nvfo	fagstétt
 stöðvarinnar	nveeg	stöð
 .	.	.
-
 Aðrir	fokfn	annar
 helstu	lkfnve	heldri
 samstarfsaðilar	nkfn	samstarfsaðili
@@ -1696,7 +1574,6 @@ Heilsugæslunnar	nveegs	Heilsugæsla
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Að	aþ	að
 undanförnu	lheþsf	undanfarinn
 hefur	sfg3en	hafa
@@ -1707,7 +1584,6 @@ mikil	lvensf	mikill
 námskeiðum	nhfþ	námskeið
 Greiningarstöðvar	nvee-s	Greiningarstöð
 .	.	.
-
 Þegar	aa	þegar
 er	sfg3en	vera
 að	cn	að
@@ -1725,7 +1601,6 @@ haldið	sþghen	halda
 19.	ta	19.
 janúar	nkeo	janúar
 .	.	.
-
 Í	aþ	í
 febrúar	nkeþ	febrúar
 verður	sfg3en	verða
@@ -1746,7 +1621,6 @@ kennsla	nven	kennsla
 og	c	og
 vinnubrögð	nhfn	vinnubrögð
 .	.	.
-
 Tvö	tfhfn	tveir
 ný	lhfnsf	nýr
 námskeið	nhfn	námskeið
@@ -1758,7 +1632,6 @@ en	c	en
 það	fphen	það
 er	sfg3en	vera
 .	.	.
-
 Þann	fakeo	sá
 11.	ta	11.
 febrúar	nkeo	febrúar
@@ -1796,7 +1669,6 @@ við	ao	við
 Kennaraháskóla	nkeo-s	Kennaraháskóli
 Íslands	nhee-s	Ísland
 .	.	.
-
 Opin	lhfnsf	opinn
 námskeið	nhfn	námskeið
 á	aþ	á
@@ -1808,7 +1680,6 @@ nánar	aam	náið
 á	aþ	á
 námskeiðssíðunni	nveþg	námskeiðssíða
 hér	aa	hér
-
 Um	aa	um
 fjórðungur	nken	fjórðungur
 lítilla	lkfesf	lítill
@@ -1842,7 +1713,6 @@ við	ao	við
 umtalsverð	lhfosf	umtalsverður
 þroskafrávik	nhfo	þroskafrávik
 .	.	.
-
 Til	ae	til
 þess	fphee	það
 að	cn	að
@@ -1868,7 +1738,6 @@ kennslu	nveo	kennsla
 í	aþ	í
 grunnskóla	nkeþ	grunnskóli
 .	.	.
-
 Þetta	fahen	þessi
 kemur	sfg3en	koma
 fram	aa	fram
@@ -1899,7 +1768,6 @@ Læknablaðið	nhengs	Læknablað
 2004/90	ta	2004/90
 )	)	)
 .	.	.
-
 Greinin	nveng	grein
 er	sfg3en	vera
 eftir	ao	eftir
@@ -1919,7 +1787,6 @@ fyrirburum	nkfþ	fyrirburi
 árunum	nhfþg	ár
 1996-2001	ta	1996-2001
 .	.	.
-
 Tilgangur	nken	tilgangur
 þessa	fakee	þessi
 hlutar	nkee	hlutur
@@ -1955,7 +1822,6 @@ við	ao	við
 fullburða	lkfoof	fullburða
 jafnaldra	nkfo	jafnaldri
 .	.	.
-
 Börnin	nhfng	barn
 gengust	sfm3fþ	ganga
 undir	ao	undir
@@ -1974,7 +1840,6 @@ um	ao	um
 atferli	nheo	atferli
 þeirra	fpkfe	hann
 .	.	.
-
 Niðurstöður	nvfn	niðurstaða
 rannsóknarinnar	nveeg	rannsókn
 gefa	sfg3fn	gefa
@@ -1999,7 +1864,6 @@ nú	aa	nú
 er	sfg3en	vera
 gert	sþghen	gera
 .	.	.
-
 Greinina	nveog	grein
 rituðu	sfg3fþ	rita
 Ingibjörg	nven-s	Ingibjörg
@@ -2038,7 +1902,6 @@ barna-	nvfþ	barnalækning
 og	c	og
 nýburalækningum	nvfþ	nýburalækning
 .	.	.
-
 Námstefna	nven	námstefna
 um	ao	um
 skimun	nveo	skimun
@@ -2055,7 +1918,6 @@ Hóteli	nheþ-s	Hótel
 mars	nkeo	mars
 2005	ta	2005
 .	.	.
-
 Aðalfyrirlesari	nken	aðalfyrirlesari
 verður	sfg3en	verða
 Tony	e	Tony
@@ -2075,7 +1937,6 @@ Neuroscience	e	Neuroscience
 í	aþ	í
 London	nxeþ-s	London
 .	.	.
-
 Námstefnan	nveng	námstefna
 er	sfg3en	vera
 samstarfsverkefni	nhen	samstarfsverkefni
@@ -2087,7 +1948,6 @@ Miðstöðvar	nvee-s	Miðstöð
 heilsuverndar	nvee	heilsuvernd
 barna	nhfe	barn
 .	.	.
-
 Ráðstefna	nven	ráðstefna
 :	:	:
 Alvarlegar	lvfnsf	alvarlegur
@@ -2116,7 +1976,6 @@ kl	as	kl
 :	:	:
 00	ta	00
 .	.	.
-
 Á	aþ	á
 ráðstefnunni	nveþg	ráðstefna
 verður	sfg3en	verða
@@ -2134,7 +1993,6 @@ koma	sfg3fn	koma
 til	ae	til
 aðgreiningar	nvee	aðgreining
 .	.	.
-
 Markmiðið	nheng	markmið
 er	sfg3en	vera
 að	cn	að
@@ -2163,7 +2021,6 @@ með	ao	með
 alvarlegar	lvfosf	alvarlegur
 þroskaraskanir	nvfo	þroskaröskun
 .	.	.
-
 Íhlutun	nven	íhlutun
 sem	ct	sem
 er	sfg3en	vera
@@ -2189,7 +2046,6 @@ verið	ssg	vera
 til	ae	til
 framtíðar	nvee	framtíð
 .	.	.
-
 Ráðstefnan	nveng	ráðstefna
 er	sfg3en	vera
 ætluð	sþgven	ætla
@@ -2224,7 +2080,6 @@ sem	ct	sem
 hafa	sfg3fn	hafa
 áhuga	nkeo	áhugi
 .	.	.
-
 Ráðstefna	nven	ráðstefna
 :	:	:
 Þjónusta	nven	þjónusta
@@ -2236,12 +2091,10 @@ CP	as	CP
 Cerebral	e	Cerebral
 palsy	e	palsy
 )	)	)
-
 Skipulagning	nven	skipulagning
 og	c	og
 samvinna	nven	samvinna
 .	.	.
-
 Haldin	sþgven	halda
 í	aþ	í
 Hringssal	nkeþ-s	Hringssalur
@@ -2253,12 +2106,10 @@ október	nkeo	október
 kl.	as	kl.
 8.30-16.30	ta	8.30-16.30
 Dagskrá	nven	dagskrá
-
 Nánari	lvfnvm	náinn
 upplýsingar	nvfn	upplýsing
 og	c	og
 skráning	nven	skráning
-
 Endurmenntun	nven	endurmenntun
 Háskóla	nkee-s	Háskóli
 Íslands	nhee-s	Ísland
@@ -2281,7 +2132,6 @@ Styrktarfélag	nheo-s	Styrktarfélag
 lamaðra	lkfesf	lamaður
 og	c	og
 fatlaðra	lkfesf	fatlaður
-
 Starfsfólk	nhen	starfsfólk
 Greiningar-	nvee-s	greiningarstöð
 og	c	og
@@ -2297,7 +2147,6 @@ miðvikudaginn	nkeog	miðvikudagur
 8.	ta	8.
 september	nkeo	september
 .	.	.
-
 Tilefnið	nheng	tilefni
 var	sfg3eþ	vera
 stækkun	nven	stækkun
@@ -2310,7 +2159,6 @@ rýmis	nhee	rými
 fagsviðs	nhee	fagsvið
 þroskahamlana	nvfe	þroskahamall
 .	.	.
-
 Á	aþ	á
 dagskrá	nveþ	dagskrá
 var	sfg3eþ	vera
@@ -2328,14 +2176,12 @@ stjórn	nveþ	stjórn
 Valgerðar	nvee-s	Valgerður
 Jónsdóttur	nvee-s	Jónsdóttir
 .	.	.
-
 Landssamtökin	nhfngs	Landssamtök
 Þroskahjálp	nven-s	Þroskahjálp
 færðu	sfg3fþ	færa
 stofnuninni	nveþg	stofnun
 gjöf	nveo	gjöf
 .	.	.
-
 Að	aþ	að
 lokinni	lveþsf	lokinn
 dagskrá	nveþ	dagskrá
@@ -2356,7 +2202,6 @@ fjölbreyttri	lveþsf	fjölbreyttur
 starfsemi	nveþ	starfsemi
 stofnunarinnar	nveeg	stofnun
 .	.	.
-
 Í	aþ	í
 ávarpi	nheþ	ávarp
 félagsmálaráðherra	nkee	félagsmálaráðherra
@@ -2387,7 +2232,6 @@ næstu	lhfþve	næstur
 fjórum	tfhfþ	fjórir
 árum	nhfþ	ár
 .	.	.
-
 Á	aþ	á
 þeim	fakeþ	sá
 tíma	nkeþ	tími
@@ -2399,7 +2243,6 @@ til	aa	til
 ný	lhfnsf	nýr
 stöðugildi	nhfn	stöðugildi
 .	.	.
-
 Fyrsta	lhenve	fyrstur
 skrefið	nheng	skref
 var	sfg3eþ	vera
@@ -2428,7 +2271,6 @@ að	aþ	að
 þjónustu	nveþ	þjónusta
 hennar	fpvee	hún
 .	.	.
-
 Vandann	nkeog	vandi
 má	sfg3en	mega
 rekja	sng	rekja
@@ -2458,7 +2300,6 @@ ráðgjöf	nveþ	ráðgjöf
 vegna	ae	vegna
 grunnskólabarna	nhfe	grunnskólabarn
 .	.	.
-
 Hún	fpven	hún
 hefur	sfg3en	hafa
 haft	ssg	hafa
@@ -2479,7 +2320,6 @@ verði	svg3en	verða
 við	aa	við
 unað	sþghen	una
 .	.	.
-
 Alls	aa	alls
 njóta	sfg3fn	njóta
 um	aa	um
@@ -2503,7 +2343,6 @@ berast	sfm3fn	bera
 þangað	aa	þangað
 árlega	aa	árlega
 .	.	.
-
 Starfsfólk	nhen	starfsfólk
 Greiningar-	nvee-s	greiningarstöð
 og	c	og
@@ -2519,7 +2358,6 @@ miðvikudaginn	nkeog	miðvikudagur
 8.	ta	8.
 september	nkeo	september
 .	.	.
-
 Tilefnið	nheng	tilefni
 var	sfg3eþ	vera
 stækkun	nven	stækkun
@@ -2532,7 +2370,6 @@ rýmis	nhee	rými
 fagsviðs	nhee	fagsvið
 þroskahamlana	nvfe	þroskahamall
 .	.	.
-
 Á	aþ	á
 dagskrá	nveþ	dagskrá
 var	sfg3eþ	vera
@@ -2552,7 +2389,6 @@ stjórn	nveþ	stjórn
 Valgerðar	nvee-s	Valgerður
 Jónsdóttur	nvee-s	Jónsdóttir
 .	.	.
-
 Að	aþ	að
 lokinni	lveþsf	lokinn
 dagskrá	nveþ	dagskrá
@@ -2587,7 +2423,6 @@ og	c	og
 fagsviði	nheþ	fagsvið
 þroskahamlana	nvfe	þroskahamall
 .	.	.
-
 Hlutverk	nhen	hlutverk
 Greiningarstöðvar	nvee-s	Greiningarstöð
 er	sfg3en	vera
@@ -2620,7 +2455,6 @@ draga	sng	draga
 afleiðingum	nvfþ	afleiðing
 röskunarinnar	nveeg	röskun
 .	.	.
-
 Í	aþ	í
 nýjum	lhfþsf	nýr
 lögum	nhfþ	lag
@@ -2656,7 +2490,6 @@ og	c	og
 til	ae	til
 rannsókna	nvfe	rannsókn
 .	.	.
-
 Verkefnum	nhfþ	verkefni
 stofnunarinnar	nveeg	stofnun
 og	c	og
@@ -2669,7 +2502,6 @@ verulega	aa	verulega
 undaförnum	lhfþsf	undafarinn
 árum	nhfþ	ár
 .	.	.
-
 Opnun	nven	opnun
 nýs	lheesf	nýr
 húsnæðis	nhee	húsnæði
@@ -2698,7 +2530,6 @@ meðal	ae	meðal
 annarra	fovfe	annar
 þjóða	nvfe	þjóð
 .	.	.
-
 Höskuldur	nken-s	Höskuldur
 Baldursson	nken-s	Baldursson
 ,	,	,
@@ -2719,7 +2550,6 @@ börnum	nhfþ	barn
 með	aþ	með
 hreyfihömlunum	nvfþ	hreyfihömlun
 .	.	.
-
 Hann	fpken	hann
 hefur	sfg3en	hafa
 hitt	ssg	hitta
@@ -2746,7 +2576,6 @@ kemur	sfg3en	koma
 mánaða	nkfe	mánuður
 fresti	nkeþ	frestur
 .	.	.
-
 Höskuldur	nken-s	Höskuldur
 hefur	sfg3en	hafa
 gert	ssg	gera
@@ -2774,7 +2603,6 @@ fagfólkið	nheog	fagfólk
 á	aþ	á
 Greiningarstöðinni	nveþgs	Greiningarstöð
 .	.	.
-
 Höskuldi	nkeþ-s	Höskuldur
 ,	,	,
 sem	ct	sem
@@ -2798,19 +2626,16 @@ Greiningarstöðinni	nveþgs	Greiningarstöð
 17.	ta	17.
 ágúst	nkeo	ágúst
 .	.	.
-
 Franskur	lkensf	franskur
 faraldursfræðingur	nken	faraldursfræðingur
 fjallar	sfg3en	fjalla
 um	ao	um
 geðraskanir	nvfo	geðröskun
 barna	nhfe	barn
-
 Einhverfugreiningum	nvfþ	einhverfugreining
 hefur	sfg3en	hafa
 fjölgað	ssg	fjölga
 umtalsvert	aa	umtalsvert
-
 GREINDUM	lhfþsf	greindur
 tilfellum	nhfþ	tilfelli
 einhverfu	nvee	einhverfa
@@ -2826,14 +2651,11 @@ að	aþ	að
 því	fpheþ	það
 tólffalt	aa	tólffalt
 .	.	.
-
 Prófessor	nken	prófessor
 Eric	e	Eric
 Fombonne	e	Fombonne
-
 Ljósmynd	nven	ljósmynd
 RAX	as	RAX
-
 GREINDUM	lhfþsf	greindur
 tilfellum	nhfþ	tilfelli
 einhverfu	nvee	einhverfa
@@ -2849,7 +2671,6 @@ að	aþ	að
 því	fpheþ	það
 tólffalt	aa	tólffalt
 .	.	.
-
 Stór	lkensf	stór
 hluti	nken	hluti
 þessarar	favee	þessi
@@ -2888,7 +2709,6 @@ vegna	ae	vegna
 einhverra	fokfe	einhver
 umhverfisþátta	nkfe	umhverfisþáttur
 .	.	.
-
 Þetta	fahen	þessi
 kom	sfg3eþ	koma
 fram	aa	fram
@@ -2926,7 +2746,6 @@ greinaskrif	nhfo	greinaskrif
 sviði	nheþ	svið
 faraldsfræði	nvee	faraldsfræði
 .	.	.
-
 Á	aþ	á
 sjöunda	lkeþvf	sjöundi
 áratugnum	nkeþg	áratugur
@@ -2959,7 +2778,6 @@ hverjum	fohfþ	hver
 tíu	to	tíu
 þúsund	tfhfþ	þúsund
 .	.	.
-
 «	«	«
 Faraldursfræði	nven	faraldursfræði
 einhverfu	nvee	einhverfa
@@ -3024,7 +2842,6 @@ margir	lkfnsf	margur
 aðrir	fokfn	annar
 erfðasjúkdómar	nkfn	erfðasjúkdómur
 .	.	.
-
 «	«	«
 Eftirspurn	nven	eftirspurn
 eftir	aþ	eftir
@@ -3039,7 +2856,6 @@ aukist	ssm	auka
 til	ae	til
 muna	nkfe	munur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 mjög	aa	mjög
@@ -3076,7 +2892,6 @@ með	aþ	með
 réttri	lveþsf	réttur
 meðferð	nveþ	meðferð
 .	.	.
-
 Þannig	aa	þannig
 er	sfg3en	vera
 hægt	lhensf	hægur
@@ -3119,7 +2934,6 @@ verið	ssg	vera
 betri	lveþvm	góður
 stöðu	nveþ	staða
 .	.	.
-
 Við	fp1fn	ég
 getum	sfg1fn	geta
 haft	ssg	hafa
@@ -3129,7 +2943,6 @@ mikil	lhfosf	mikill
 útkomu	nveo	útkoma
 einhverfunnar	nveeg	einhverfa
 .	.	.
-
 Margir	lkfnsf	margur
 einhverfir	lkfnsf	einhverfur
 geta	sfg3fn	geta
@@ -3148,7 +2961,6 @@ er	sfg3en	vera
 viðeigandi	lveoof	viðeigandi
 meðferð	nveo	meðferð
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ekki	aa	ekki
@@ -3173,7 +2985,6 @@ lifa	sng	lifa
 samfélaginu	nheþg	samfélag
 .	.	.
 »	»	»
-
 Snemmbúin	lvensf	snemmbúinn
 greining	nven	greining
 og	c	og
@@ -3181,7 +2992,6 @@ meðferð	nven	meðferð
 spara	sfg3fn	spara
 gríðarlega	lkfosf	gríðarlegur
 fjármuni	nkfo	fjármunir
-
 Prófessor	nken	prófessor
 Fombonne	e	Fombonne
 segir	sfg3en	segja
@@ -3211,7 +3021,6 @@ efni	nhfo	efni
 í	aþ	í
 umhverfi	nheþ	umhverfi
 .	.	.
-
 «	«	«
 Þó	aa	þó
 hafa	sfg3fn	hafa
@@ -3231,7 +3040,6 @@ undir	ao	undir
 tilgátur	nvfo	tilgáta
 .	.	.
 »	»	»
-
 Í	aa	í
 gær	aa	gær
 hélt	sfg3eþ	halda
@@ -3250,7 +3058,6 @@ stofu	nveþ	stofa
 í	aþ	í
 Lögbergi	nheþ-s	Lögberg
 .	.	.
-
 Hann	fpken	hann
 segir	sfg3en	segja
 þær	favfo	sá
@@ -3284,7 +3091,6 @@ velferð	nveo	velferð
 fjölskyldna	nvfe	fjölskylda
 þeirra	fphfe	það
 .	.	.
-
 «	«	«
 Áður	aa	áður
 fyrr	aam	fyrr
@@ -3328,7 +3134,6 @@ segir	sfg3en	segja
 prófessor	nken	prófessor
 Fombonne	e	Fombonne
 .	.	.
-
 «	«	«
 Ef	c	ef
 við	fp1fn	ég
@@ -3347,7 +3152,6 @@ haft	ssg	hafa
 farveg	nkeo	farvegur
 barnanna	nhfeg	barn
 .	.	.
-
 Það	fphen	það
 hefur	sfg3en	hafa
 sýnt	ssg	sýna
@@ -3381,7 +3185,6 @@ festast	snm	festa
 sessi	nkeþ	sess
 .	.	.
 »	»	»
-
 Prófessor	nken	prófessor
 Fombonne	e	Fombonne
 segir	sfg3en	segja
@@ -3415,7 +3218,6 @@ og	c	og
 hjálpa	sng	hjálpa
 börnunum	nhfþg	barn
 .	.	.
-
 «	«	«
 Ef	c	ef
 hægt	lhensf	hægur
@@ -3458,7 +3260,6 @@ Fombonne	e	Fombonne
 að	aþ	að
 lokum	nhfþ	lok
 .	.	.
-
 Eric	e	Eric
 Fombonne	e	Fombonne
 ,	,	,
@@ -3496,7 +3297,6 @@ og	c	og
 Íslenskrar	lveesf	íslenskur
 erfðagreiningar	nvee	erfðagreining
 .	.	.
-
 Eric	e	Eric
 Fombonne	e	Fombonne
 var	sfg3eþ	vera
@@ -3529,7 +3329,6 @@ Kanada	nheþ-s	Kanada
 árið	nheog	ár
 2002	ta	2002
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 heimsþekktur	lkensf	heimsþekktur
@@ -3541,7 +3340,6 @@ greinaskrif	nhfo	greinaskrif
 í	aþ	í
 faraldsfræði	nveþ	faraldsfræði
 .	.	.
-
 Nánari	lvfovm	náinn
 upplýsingar	nvfo	upplýsing
 er	sfg3en	vera
@@ -3551,7 +3349,6 @@ finna	sng	finna
 vef	nkeþ	vefur
 :	:	:
 McGillháskóla	nkee-s	Mcgillháskóli
-
 Styrktarsjóður	nken-s	Styrktarsjóður
 Greiningar-	nvee-s	greiningarstöð
 og	c	og
@@ -3580,14 +3377,12 @@ orðið	ssg	verða
 ára	nhfe	ár
 gamall	lkensf	gamall
 .	.	.
-
 Hann	fpken	hann
 lést	sfm3eþ	láta
 20.	ta	20.
 janúar	nkeo	janúar
 1995	ta	1995
 .	.	.
-
 Frumkvöðlar	nkfn	frumkvöðull
 að	aþ	að
 stofnun	nveþ	stofnun
@@ -3621,7 +3416,6 @@ einnig	aa	einnig
 til	aa	til
 stofnfé	nheo	stofnfé
 .	.	.
-
 Skipulagsskrá	nven	skipulagsskrá
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -3629,13 +3423,11 @@ staðfest	sþghen	staðfesta
 af	aþ	af
 Dómsmálaráðuneytinu	nheþgs	Dómsmálaráðuneyti
 .	.	.
-
 Árlega	aa	árlega
 veitt	sþghen	veita
 úr	aþ	úr
 sjóðnum	nkeþg	sjóður
 .	.	.
-
 Markmið	nhen	markmið
 styrktarsjóðsins	nkeeg	styrktarsjóður
 er	sfg3en	vera
@@ -3659,7 +3451,6 @@ framhaldsmenntunar	nvee	framhaldsmenntun
 og	c	og
 rannsóknarstarfa	nhfe	rannsóknarstarf
 .	.	.
-
 Veitt	sþghen	veita
 er	sfg3en	vera
 árlega	aa	árlega
@@ -3674,7 +3465,6 @@ Helga	nkee-s	Helgi
 8.	ta	8.
 júní	nkeo	júní
 .	.	.
-
 Hefur	sfg3en	hafa
 starfsfólk	nhen	starfsfólk
 Greiningar-	nvee-s	greiningarstöð
@@ -3689,7 +3479,6 @@ styrkjum	nkfþ	styrkur
 úr	aþ	úr
 sjóðnum	nkeþg	sjóður
 .	.	.
-
 Að	aþ	að
 þessu	faheþ	þessi
 sinnu	nveþ	sinna
@@ -3724,7 +3513,6 @@ Childhood	e	Childhood
 Disability	e	Disability
 )	)	)
 .	.	.
-
 Ráðstefnan	nveng	ráðstefna
 verður	sfg3en	verða
 haldin	sþgven	halda
@@ -3734,7 +3522,6 @@ Edinborg	nveþ-s	Edinborg
 Skotlandi	nheþ-s	Skotland
 7	ta	7
 .	.	.
-
 -10.	ta	-10.
 október	nkeo	október
 2004	ta	2004
@@ -3750,7 +3537,6 @@ hinar	gvfo	hinn
 ýmsu	fovfo	ýmis
 fatlanir	nvfo	fötlun
 .	.	.
-
 María	nven-s	María
 Játvarðardóttir	nven-s	Játvarðardóttir
 og	c	og
@@ -3764,7 +3550,6 @@ hönd	nveo	hönd
 starfsmanna	nkfe	starfsmaður
 sviðsins	nheeg	svið
 .	.	.
-
 Á	aþ	á
 myndinni	nveþg	mynd
 eru	sfg3fn	vera
@@ -3785,7 +3570,6 @@ og	c	og
 Þórarinsdóttir	nven-s	Þórarinsdóttir
 iðjuþjálfi	nken	iðjuþjálfi
 .	.	.
-
 Sjóðnum	nkeþg	sjóður
 hefur	sfg3en	hafa
 borist	ssm	bera
@@ -3818,7 +3602,6 @@ og	c	og
 annarra	fovfe	annar
 minningargjafa	nvfe	minningargjöf
 .	.	.
-
 Athugið	sfg2fn	athuga
 :	:	:
 Efnið	nheng	efni
@@ -3827,20 +3610,17 @@ tilbúið	lhensf	tilbúinn
 til	ae	til
 útprentunar	nvee	útprentun
 .	.	.
-
 Efni	nhen	efni
 frá	aþ	frá
 fyrirlesurum	nkfþ	fyrirlesari
 XIX	ta	xix
 .	.	.
-
 vornámskeiðs	nhee	vornámskeið
 Greiningarstöðvar	nvee-s	Greiningarstöð
 :	:	:
 Fimmtudagur	nken	fimmtudagur
 13.	ta	13.
 maí	nken	maí
-
 Frumgreining	nven	frumgreining
 ,	,	,
 greining	nven	greining
@@ -3854,7 +3634,6 @@ hvar	aa	hvar
 og	c	og
 hvernig	aa	hvernig
 ?	?	?
-
 Stefán	nken-s	Stefán
 J.	as	J.
 Hreiðarsson	nken-s	Hreiðarsson
@@ -3863,7 +3642,6 @@ forstöðumaður	nken	forstöðumaður
 ,	,	,
 Greiningarstöð	nveþ-s	Greiningarstöð
 .	.	.
-
 Flutningur	nken	flutningur
 þjónustu	nvee	þjónusta
 til	ae	til
@@ -3881,7 +3659,6 @@ vil	sfg1en	vilja
 ég	fp1en	ég
 skal	sfg1en	skulu
 .	.	.
-
 Soffía	nven-s	Soffía
 Gísladóttir	nven-s	Gísladóttir
 ,	,	,
@@ -3892,7 +3669,6 @@ og	c	og
 skólaþjónusta	nven	skólaþjónusta
 Þingeyinga	nkfe-s	Þingeyingur
 .	.	.
-
 Faraldsfræði	nven	faraldsfræði
 raskana	nvfe	röskun
 á	aþ	á
@@ -3902,7 +3678,6 @@ er	sfg3en	vera
 fjölgunin	nveng	fjölgun
 raunveruleg	lvensf	raunverulegur
 ?	?	?
-
 Evald	nken-s	Evald
 Sæmundsen	nken-s	Sæmundsen
 ,	,	,
@@ -3910,10 +3685,8 @@ sálfræðingur	nken	sálfræðingur
 ,	,	,
 Greiningarstöð	nveþ-s	greiningarstöð
 .	.	.
-
 Helstu	lvfnve	heldri
 heimildir	nvfn	heimild
-
 Þroskahömlun	nven	þroskahömlun
 og	c	og
 geðraskanir	nvfn	geðröskun
@@ -3924,7 +3697,6 @@ nýjar	lvfnsf	nýr
 Tvöföld	lvensf	tvöfaldur
 greining	nven	greining
 .	.	.
-
 Dr.	as	Dr.
 Tryggvi	nken-s	Tryggvi
 Sigurðsson	nken-s	Sigurðsson
@@ -3933,14 +3705,12 @@ sálfræðingur	nken	sálfræðingur
 ,	,	,
 Greiningarstöð	nveþ-s	greiningarstöð
 .	.	.
-
 Nýir	lkfnsf	nýr
 greiningar-	nkfn	greiningarlisti
 og	c	og
 matslistar	nkfn	matslisti
 hegðunar	nvee	hegðun
 .	.	.
-
 Páll	nken-s	Páll
 Magnússon	nken-s	Magnússon
 ,	,	,
@@ -3948,10 +3718,8 @@ sálfræðingur	nken	sálfræðingur
 ,	,	,
 BUGL	nxen-s	BUGL
 .	.	.
-
 Nokkrar	fovfn	nokkur
 heimildir	nvfn	heimild
-
 Staða	nven	staða
 stöðlunar	nvee	stöðlun
 Wechsler	e	Wechsler
@@ -3959,7 +3727,6 @@ greindarprófa	nhfe	greindarpróf
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Sigurgrímur	nken-s	Sigurgrímur
 Skúlason	nken-s	Skúlason
 ,	,	,
@@ -3967,7 +3734,6 @@ sviðsstjóri	nken	sviðsstjóri
 ,	,	,
 Námsmatsstofnun	nveþ-s	Námsmatsstofnun
 .	.	.
-
 Flokkun	nven	flokkun
 fatlana	nvfe	fötlun
 og	c	og
@@ -3977,7 +3743,6 @@ nýtt	lhensf	nýr
 kerfi	nhen	kerfi
 Alþjóðaheilbrigðismálastofnunar	nvee-s	Alþjóðaheilbrigðismálastofnun
 .	.	.
-
 Valgerður	nven-s	Valgerður
 Gunnarsdóttir	nven-s	Gunnarsdóttir
 ,	,	,
@@ -3987,7 +3752,6 @@ Heilsugæslan	nvengs	heilsugæsla
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Heilsa	nven	heilsa
 ,	,	,
 hegðun	nven	hegðun
@@ -4002,17 +3766,14 @@ kynning	nven	kynning
 á	aþ	á
 rannsókn	nveþ	rannsókn
 .	.	.
-
 Steingerður	nven-s	Steingerður
 Sigurbjörnsdóttir	nven-s	Sigurbjörnsdóttir
 ,	,	,
 barnalæknir	nken	barnalæknir
 .	.	.
-
 Föstudagur	nken	föstudagur
 14.	ta	14.
 maí	nken	maí
-
 Orsakir	nvfn	orsök
 þroskaraskana	nvfe	þroskaröskun
 -	-	-
@@ -4021,7 +3782,6 @@ rannsókn	nven	rannsókn
 erfðum	nvfþ	erfð
 einhverfu	nvee	einhverfa
 .	.	.
-
 Kristleifur	nken-s	Kristleifur
 Kristjánsson	nken-s	Kristjánsson
 ,	,	,
@@ -4030,12 +3790,10 @@ barnalæknir	nken	barnalæknir
 Íslensk	lvensf	íslenskur
 erfðagreining	nven	erfðagreining
 .	.	.
-
 Nýjungar	nvfn	nýjung
 í	aþ	í
 fósturgreiningu	nveþ	fósturgreining
 .	.	.
-
 Hildur	nven-s	Hildur
 Harðardóttir	nven-s	Harðardóttir
 ,	,	,
@@ -4043,14 +3801,12 @@ kvensjúkdómalæknir	nken	kvensjúkdómalæknir
 ,	,	,
 LSH	as	LSH
 .	.	.
-
 Lyfjameðferð	nven	lyfjameðferð
 hegðunar	nvee	hegðun
 -	-	-
 nýir	lkfnsf	nýr
 valkostir	nkfn	valkostur
 .	.	.
-
 Guðrún	nven-s	Guðrún
 Guðmundsdóttir	nven-s	Guðmundsdóttir
 ,	,	,
@@ -4060,13 +3816,11 @@ unglingageðlæknir	nken	unglingageðlæknir
 ,	,	,
 BUGL	nxen-s	BUGL
 .	.	.
-
 Nýjungar	nvfn	nýjung
 í	aþ	í
 meðferð	nveþ	meðferð
 hreyfihamlana	nvfe	hreyfihömlun
 .	.	.
-
 Solveig	nven-s	Solveig
 Sigurðardóttir	nven-s	Sigurðardóttir
 ,	,	,
@@ -4074,7 +3828,6 @@ barnalæknir	nken	barnalæknir
 ,	,	,
 Greiningarstöð	nveþ-s	Greiningarstöð
 .	.	.
-
 Heildstæð	lvensf	heildstæður
 leikskólastefna	nven	leikskólastefna
 og	c	og
@@ -4082,7 +3835,6 @@ börn	nhfn	barn
 með	ao	með
 sérþarfir	nvfo	sérþörf
 .	.	.
-
 Erla	nven-s	Erla
 Stefanía	nven-s	Stefanía
 Magnúsdóttir	nven-s	Magnúsdóttir
@@ -4092,7 +3844,6 @@ leikskólasérkennari	nken	leikskólasérkennari
 Fræðsluskrifstofa	nven-s	fræðsluskrifstofa
 Kópavogs	nkee-s	Kópavogur
 .	.	.
-
 Samstarf	nhen	samstarf
 um	ao	um
 snemmtæka	lveosf	snemmtækur
@@ -4102,7 +3853,6 @@ leikskólum	nkfþ	leikskóli
 :	:	:
 Þróunarverkefni	nhen	þróunarverkefni
 .	.	.
-
 Sigrún	nven-s	Sigrún
 Kristjánsdóttir	nven-s	Kristjánsdóttir
 ,	,	,
@@ -4111,12 +3861,10 @@ Kristjánsdóttir	nven-s	Kristjánsdóttir
 Leikskólar	nkfn-s	Leikskóli
 Reykjavíkur	nvee-s	Reykjavík
 .	.	.
-
 Útdráttur	nken	útdráttur
 úr	aþ	úr
 erindi	nheþ	erindi
 Þuríðar	nvee-s	Þuríður
-
 Mat	nhen	mat
 á	aþ	á
 gæðum	nhfþ	gæði
@@ -4128,14 +3876,12 @@ snemmtækri	lveþsf	snemmtækur
 EISAS	as	EISAS
 matslisti	nken	matslisti
 .	.	.
-
 Þuríður	nven-s	Þuríður
 Pétursdóttir	nven-s	Pétursdóttir
 ,	,	,
 sálfræðingur	nken	sálfræðingur
 ,	,	,
 Greiningarstöð	nveþ-s	Greiningarstöð
-
 Kostnaður	nken	kostnaður
 og	c	og
 ábati	nken	ábati
@@ -4148,7 +3894,6 @@ börn	nhfo	barn
 með	ao	með
 einhverfu	nveo	einhverfa
 .	.	.
-
 Haukur	nken-s	Haukur
 Gylfason	nken-s	Gylfason
 ,	,	,
@@ -4161,7 +3906,6 @@ lektor	nken	lektor
 viðskiptafræði	nveþ	viðskiptafræði
 H.Í	as	H.Í
 .	.	.
-
 Hátt	aa	hátt
 á	ao	á
 þriðja	lheovf	þriðji
@@ -4185,7 +3929,6 @@ og	c	og
 næst	x	næst
 komandi	x	næstkomandi
 .	.	.
-
 Þátttakendur	nkfn	þátttakandi
 eru	sfg3fn	vera
 bæði	c	bæði
@@ -4196,7 +3939,6 @@ af	aþ	af
 öllu	foheþ	allur
 landinu	nheþg	land
 .	.	.
-
 Fyrirlesarar	nkfn	fyrirlesari
 eru	sfg3fn	vera
 tveir	tfkfn	tveir
@@ -4213,7 +3955,6 @@ Lone	e	Lone
 Gammeltoft	e	Gammeltoft
 talmeinafræðingur	nken	talmeinafræðingur
 .	.	.
-
 Á	aþ	á
 undanförnum	lhfþsf	undanfarinn
 árum	nhfþ	ár
@@ -4229,7 +3970,6 @@ einhverfurófi	nheþ	einhverfuróf
 aukist	ssm	auka
 verulega	aa	verulega
 .	.	.
-
 Nýjar	lvfnsf	nýr
 faraldsfræðilegar	lvfnsf	faraldsfræðilegur
 rannsóknir	nvfn	rannsókn
@@ -4247,7 +3987,6 @@ fjölgun	nveo	fjölgun
 greindra	lhfesf	greindur
 tilvika	nhfe	tilvik
 .	.	.
-
 Þannig	aa	þannig
 greinast	sfm3fn	greina
 a.m.k.	as	a.m.k.
@@ -4262,7 +4001,6 @@ og	c	og
 skyldar	lvfosf	skyldur
 raskanir	nvfo	röskun
 .	.	.
-
 Gríðarlegur	lkensf	gríðarlegur
 áhugi	nken	áhugi
 og	c	og
@@ -4293,7 +4031,6 @@ af	aþ	af
 góðu	lveþvf	góður
 þátttöku	nveþ	þátttaka
 .	.	.
-
 Á	aþ	á
 námstefnunni	nveþg	námstefna
 verður	sfg3en	verða
@@ -4301,7 +4038,6 @@ félagsfærnin	nveng	félagsfærni
 í	aþ	í
 brennidepli	nkeþ	brennidepill
 .	.	.
-
 Börn	nhfn	barn
 með	ao	með
 einhverfu	nveo	einhverfa
@@ -4321,7 +4057,6 @@ af	aþ	af
 fötlun	nveþ	fötlun
 þeirra	fphfe	það
 .	.	.
-
 Þau	fphfn	það
 ná	sfg3fn	ná
 því	aa	því
@@ -4352,7 +4087,6 @@ efla	sng	efla
 félagsfærni	nveo	félagsfærni
 sína	feveo	sinn
 .	.	.
-
 Á	aþ	á
 námstefnunni	nveþg	námstefna
 verður	sfg3en	verða
@@ -4381,7 +4115,6 @@ félagsþroska	nkeo	félagsþroski
 og	c	og
 hegðun	nveo	hegðun
 .	.	.
-
 Fyrirlesarar	nkfn	fyrirlesari
 eru	sfg3fn	vera
 tveir	tfkfn	tveir
@@ -4398,7 +4131,6 @@ Lone	e	Lone
 Gammeltoft	e	Gammeltoft
 talmeinafræðingur	nken	talmeinafræðingur
 .	.	.
-
 Jannik	e	Jannik
 hefur	sfg3en	hafa
 átt	ssg	eiga
@@ -4419,7 +4151,6 @@ raskanir	nvfo	röskun
 í	aþ	í
 Danmörku	nveþ-s	Danmörk
 .	.	.
-
 Hann	fpken	hann
 gegnir	sfg3en	gegna
 nú	aa	nú
@@ -4434,7 +4165,6 @@ for	e	for
 Autisme	e	Autisme
 »	»	»
 .	.	.
-
 Lone	e	Lone
 starfar	sfg3en	starfa
 sem	ct	sem
@@ -4455,7 +4185,6 @@ raskanir	nvfo	röskun
 á	aþ	á
 einhverfurófi	nheþ	einhverfuróf
 .	.	.
-
 Þau	fphfn	það
 hafa	sfg3fn	hafa
 bæði	fohfn	báðir
@@ -4480,7 +4209,6 @@ raskanir	nvfo	röskun
 á	aþ	á
 einverfurófi	nheþ	einhverfuróf
 .	.	.
-
 Námstefnan	nveng	námstefna
 er	sfg3en	vera
 ætluð	sþgven	ætla
@@ -4511,7 +4239,6 @@ frávik	nhfo	frávik
 mál-	nkeþ	málþroski
 og	c	og
 félagsþroska	nkeþ	félagsþroski
-
 Námstefnan	nveng	námstefna
 er	sfg3en	vera
 samstarfsverkefni	nhen	samstarfsverkefni
@@ -4529,7 +4256,6 @@ og	c	og
 ráðgjafarstöðvar	nvee	ráðgjafarstöð
 ríkisins	nheeg	ríki
 .	.	.
-
 Hún	fpven	hún
 er	sfg3en	vera
 haldið	x	halda
@@ -4552,12 +4278,10 @@ Styrktarsjóði	nkeþ-s	Styrktarsjóður
 Evrópuárs	nhee-s	Evrópuár
 fatlaðra	lkfesf	fatlaður
 .	.	.
-
 Ársfundur	nken-s	Ársfundur
 Byggðastofnunar	nvee-s	Byggðastofnun
 2006	ta	2006
 14.6.2006	ta	14.6.2006
-
 Síðastliðinn	lkeosf	síðastliðinn
 föstudag	nkeo	föstudagur
 ,	,	,
@@ -4574,7 +4298,6 @@ haldinn	sþgken	halda
 á	aþ	á
 Snæfellsnesi	nheþ-s	Snæfellsnes
 .	.	.
-
 Á	aþ	á
 fundinum	nkeþg	fundur
 fóru	sfg3fþ	fara
@@ -4582,7 +4305,6 @@ fram	aa	fram
 hefðbundin	lhfnsf	hefðbundinn
 ársfundarstörf	nhfn	ársfundarstarf
 .	.	.
-
 Fundarstjóri	nken	fundarstjóri
 var	sfg3eþ	vera
 Kristinn	nken-s	Kristinn
@@ -4592,7 +4314,6 @@ bæjarstjóri	nken	bæjarstjóri
 í	aþ	í
 Snæfellsbæ	nkeþ-s	Snæfellsbær
 .	.	.
-
 Iðnaðarráðherra	nken	iðnaðarráðherra
 ,	,	,
 Valgerður	nven-s	Valgerður
@@ -4622,7 +4343,6 @@ hér	aa	hér
 að	aa	að
 neðan	aa	neðan
 .	.	.
-
 Ársfundargestum	nkfþ	ársfundargestur
 var	sfg3eþ	vera
 kynnt	sþgven	kynna
@@ -4653,7 +4373,6 @@ að	aþ	að
 vistvænu	lheþsf	vistvænn
 ferðamannasvæði	nheþ	ferðamannasvæði
 .	.	.
-
 Í	aþ	í
 almennum	lvfþsf	almennur
 umræðum	nvfþ	umræða
@@ -4679,7 +4398,6 @@ fyrir	ao	fyrir
 árin	nhfog	ár
 2006-2009	ta	2006-2009
 .	.	.
-
 Voru	sfg3fþ	vera
 þessar	favfn	þessi
 breytingartillögur	nvfn	breytingartillaga
@@ -4698,13 +4416,11 @@ hennar	fpvee	hún
 framkvæmd	nveþ	framkvæmd
 áætlunarinnar	nveeg	áætlun
 .	.	.
-
 Alþingi	nhen-s	Alþingi
 samþykkti	sfg3eþ	samþykkja
 breytingartillögurnar	nvfog	breytingartillaga
 samhljóða	aa	samhljóða
 .	.	.
-
 Byggðaáætlun	nven	byggðaáætlun
 2006-2009	ta	2006-2009
 verður	sfg3en	verða
@@ -4724,7 +4440,6 @@ hjá	aþ	hjá
 skrifstofu	nveþ	skrifstofa
 Alþingis	nhee-s	Alþingi
 .	.	.
-
 Ávarp	nhen	ávarp
 Valgerðar	nvee-s	Valgerður
 Sverrisdóttur	nvee-s	Sverrisdóttir
@@ -4735,7 +4450,6 @@ viðskiptaráðherra	nkee	viðskiptaráðherra
 -	-	-
 smella	sng	smella
 hér	aa	hér
-
 Ávarp	nhen	ávarp
 Herdísar	nvee-s	Herdís
 Sæmundardóttur	nvee-s	Sæmundardóttir
@@ -4745,7 +4459,6 @@ Byggðastofnunar	nvee-s	Byggðastofnun
 -	-	-
 smella	sng	smella
 hér	aa	hér
-
 Ávarp	nhen	ávarp
 Aðlasteins	nkeo-s	Aðalsteinn
 Þorsteinsson	x	Þorsteinsson
@@ -4755,16 +4468,13 @@ Byggðastofnun	x	byggðarstofnun
 -	-	-
 smella	sng	smella
 hér	aa	hér
-
 Ársfundur	nken	ársfundur
 Byggðastofnunar	nvee-s	Byggðastofnun
 2006	ta	2006
 7.6.2006	ta	7.6.2006
-
 Ársfundur	nken	ársfundur
 Byggðastofnunar	nvee-s	Byggðastofnun
 2006	ta	2006
-
 verður	sfg3en	verða
 haldinn	sþgken	halda
 föstudaginn	nkeog	föstudagur
@@ -4777,7 +4487,6 @@ Klifi	nheþ-s	Klif
 ,	,	,
 Ólafsvík	nveþ-s	Ólafsvík
 .	.	.
-
 Fundurinn	nkeng	fundur
 hefst	sfm3en	hefja
 kl.	as	kl.
@@ -4789,16 +4498,13 @@ eru	sfg3fn	vera
 kl.	as	kl.
 13:00	ta	13:00
 .	.	.
-
 Dagskráin	nveng	dagskrá
 verður	sfg3en	verða
 sem	ct	sem
 hér	aa	hér
 segir	sfg3en	segja
 :	:	:
-
 Kl.	as	kl.
-
 10:00	ta	10:00
 Setning	nven	setning
 fundarins	nkeeg	fundur
@@ -4810,9 +4516,7 @@ formaður	nken	formaður
 stjórnar	nvee	stjórn
 Byggðastofnunar	nvee-s	Byggðastofnun
 .	.	.
-
 Kl.	as	kl.
-
 10:05	ta	10:05
 Valgerður	nven-s	Valgerður
 Sverrisdóttir	nven-s	Sverrisdóttir
@@ -4822,9 +4526,7 @@ iðnaðar-	nkee	iðnaðarráðherra
 og	c	og
 viðskiptaráðherra	nkee	viðskiptaráðherra
 .	.	.
-
 Kl.	as	kl.
-
 10:20	ta	10:20
 Herdís	nven-s	Herdís
 Sæmundardóttir	nven-s	Sæmundardóttir
@@ -4834,9 +4536,7 @@ formanns	nkee	formaður
 stjórnar	nvee	stjórn
 Byggðastofnunar	nvee-s	Byggðastofnun
 .	.	.
-
 Kl.	as	kl.
-
 10:40	ta	10:40
 Aðalsteinn	nken-s	Aðalsteinn
 Þorsteinsson	nken-s	Þorsteinsson
@@ -4845,29 +4545,23 @@ skýrsla	nven	skýrsla
 forstjóra	nkee	forstjóri
 Byggðastofnunar	nvee-s	Byggðastofnun
 .	.	.
-
 Kl.	as	kl.
-
 10:50	ta	10:50
 Umræður	nvfn	umræða
 og	c	og
 fyrirspurnir	nvfn	fyrirspurn
 .	.	.
-
 Vaxtarbroddar	nkfn	vaxtarbroddur
 og	c	og
 nýsköpun	nven	nýsköpun
 í	aþ	í
 atvinnulífi	nheþ	atvinnulíf
-
 Kl.	as	kl.
-
 11:00	ta	11:00
 Snæfellsnes	nhen-s	Snæfellsnes
 vistvænt	lhensf	vistvænn
 ferðamannasvæði	nhen	ferðamannasvæði
 .	.	.
-
 Róbert	nken-s	Róbert
 Arnar	nken-s	Arnar
 Stefánsson	nken-s	Stefánsson
@@ -4876,22 +4570,18 @@ forstöðumaður	nken	forstöðumaður
 Náttúrustofu	nvee-s	Náttúrustofa
 Vesturlands	nhee-s	Vesturland
 .	.	.
-
 Kl.	as	kl.
-
 11:20	ta	11:20
 Vatnsútflutningur	nken-s	Vatnsútflutningur
 frá	aþ	frá
 Snæfellsbæ	nkeþ-s	Snæfellsbær
 .	.	.
-
 Birgir	nken-s	Birgir
 V.	as	V.
 Halldórsson	nken-s	Halldórsson
 frá	aþ	frá
 Icelandia	e	Icelandia
 .	.	.
-
 Fundarstjóri	nken	fundarstjóri
 verður	sfg3en	verða
 Kristinn	nken-s	Kristinn
@@ -4901,7 +4591,6 @@ bæjarstjóri	nken	bæjarstjóri
 í	aþ	í
 Snæfellsbæ	nkeþ-s	Snæfellsbær
 .	.	.
-
 Að	aþ	að
 fundi	nkeþ	fundur
 loknum	lkeþsf	lokinn
@@ -4915,7 +4604,6 @@ hádegisverð	nkeo	hádegisverður
 boði	nheþ	boð
 Byggðastofnunar	nvee-s	Byggðastofnun
 .	.	.
-
 Vinsamlega	aa	vinsamlega
 tilkynnið	sbg2fn	tilkynna
 þátttöku	nveo	þátttaka
@@ -4931,7 +4619,6 @@ miðvikudaginn	nkeog	miðvikudagur
 8.	ta	8.
 júní	nkee	júní
 nk.	as	nk.
-
 Alþjóðleg	lvensf	alþjóðlegur
 ráðstefna	nven	ráðstefna
 á	aþ	á
@@ -4939,7 +4626,6 @@ Sauðárkróki	nkeþ-s	Sauðárkrókur
 um	ao	um
 upplýsingatækni	nveo	upplýsingatækni
 6.6.2006	ta	6.6.2006
-
 Föstudaginn	nkeog	föstudagur
 16.	ta	16.
 júní	nkeo	júní
@@ -4967,7 +4653,6 @@ Remote	e	Remote
 Areas	e	Areas
 )	)	)
 .	.	.
-
 Á	aþ	á
 ráðstefnunni	nveþg	ráðstefna
 verður	sfg3en	verða
@@ -4984,7 +4669,6 @@ til	ae	til
 eflingar	nvee	efling
 búsetu	nvee	búseta
 .	.	.
-
 Gerð	sþgven	gera
 verður	sfg3en	verða
 grein	nven	grein

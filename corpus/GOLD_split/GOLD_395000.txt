@@ -8,13 +8,11 @@ ekki	aa	ekki
 hann	fpkeo	hann
 best	aae	vel
 .	.	.
-
 Hilmar	nken-s	Hilmar
 er	sfg3en	vera
 hérna	aa	hérna
 frammi	aa	frammi
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 frá	aþ	frá
@@ -37,7 +35,6 @@ sig	fpkeo	sig
 í	aþ	í
 bænum	nkeþg	bær
 .	.	.
-
 Það	fphen	það
 eru	sfg3fn	vera
 ákveðnar	lvfnsf	ákveðinn
@@ -55,7 +52,6 @@ athvarf	nheo	athvarf
 í	aþ	í
 borginni	nveþg	borg
 .	.	.
-
 Svaf	sfg3eþ	sofa
 hann	fpken	hann
 hjá	aþ	hjá
@@ -66,7 +62,6 @@ helgina	nveog	helgi
 veistu	sfg2en	vita
 það	fpheo	það
 ?	?	?
-
 Nei	au	nei
 ,	,	,
 hann	fpken	hann
@@ -76,7 +71,6 @@ vinna	sng	vinna
 fyrir	aa	fyrir
 austan	aa	austan
 .	.	.
-
 En	c	en
 kannski	aa	kannski
 hann	fpken	hann
@@ -88,7 +82,6 @@ um	ao	um
 hina	faveo	hinn
 helgina	nveog	helgi
 .	.	.
-
 Geturðu	sfg2en	geta
 ímyndað	ssg	ímynda
 þér	fp2eþ	þú
@@ -98,7 +91,6 @@ viljað	ssg	vilja
 Holberg	nkeþ-s	Holberg
 illt	lheosf	illur
 ?	?	?
-
 Einhverjar	fovfn	einhver
 erjur	nvfn	erja
 hér	aa	hér
@@ -106,7 +98,6 @@ hér	aa	hér
 vinnustaðnum	nkeþg	vinnustaður
 eða	c	eða
 ...	...	...
-
 Nei	au	nei
 ,	,	,
 nei	au	nei
@@ -121,7 +112,6 @@ púff	au	púff
 ,	,	,
 púff	au	púff
 .	.	.
-
 Manninum	nkeþg	maður
 gekk	sfg3eþ	ganga
 illa	aa	illa
@@ -131,7 +121,6 @@ glóðinni	nveþg	glóð
 í	aþ	í
 vindlinum	nkeþg	vindill
 .	.	.
-
 Talaðu	sbg2en	tala
 við	aa	við
 ,	,	,
@@ -141,14 +130,12 @@ Hilmar	nkeo-s	Hilmar
 ,	,	,
 vinur	nken	vinur
 .	.	.
-
 Hann	fpken	hann
 getur	sfg3en	geta
 kannski	aa	kannski
 hjálpað	ssg	hjálpa
 þér	fp2eþ	þú
 .	.	.
-
 Sigurður	nken-s	Sigurður
 Óli	nken-s	Óli
 fann	sfg3eþ	finna
@@ -157,7 +144,6 @@ eftir	aþ	eftir
 leiðbeiningum	nvfþ	leiðbeining
 verkstjórans	nkeeg	verkstjóri
 .	.	.
-
 Hann	fpken	hann
 stóð	sfg3eþ	standa
 við	ao	við
@@ -173,7 +159,6 @@ að	cn	að
 afferma	sng	afferma
 vörubíl	nkeo	vörubíll
 .	.	.
-
 Hilmar	nken-s	Hilmar
 var	sfg3eþ	vera
 mikill	lkensf	mikill
@@ -200,13 +185,11 @@ fram	aa	fram
 úr	aþ	úr
 stuttermabol	nkeþ	stuttermabolur
 .	.	.
-
 Virtist	sfm3eþ	virða
 vera	sng	vera
 um	ao	um
 fimmtugt	lheosf	fimmtugur
 .	.	.
-
 Gamaldags	lhfnof	gamaldags
 ,	,	,
 blá	lhfnsf	blár
@@ -216,7 +199,6 @@ uppi	aa	uppi
 snjáðum	lvfþsf	snjáður
 gallabuxum	nvfþ	gallabuxur
 .	.	.
-
 Lítill	lkensf	lítill
 gaffallyftari	nken	gaffallyftari
 var	sfg3eþ	vera
@@ -227,7 +209,6 @@ að	cn	að
 afferma	sng	afferma
 vörubílinn	nkeog	vörubíll
 .	.	.
-
 Verið	sþghen	vera
 var	sfg3eþ	vera
 að	cn	að
@@ -259,7 +240,6 @@ jusu	sfg3fþ	ausa
 sér	fpkfþ	sig
 svívirðingum	nvfþ	svívirðing
 .	.	.
-
 Sigurður	nken-s	Sigurður
 Óli	nken-s	Óli
 gekk	sfg3eþ	ganga
@@ -280,7 +260,6 @@ hans	fpkee	hann
 ekki	aa	ekki
 var	lkensf	var
 .	.	.
-
 Hann	fpken	hann
 bankaði	sfg3eþ	banka
 fastar	aam	fast
@@ -292,7 +271,6 @@ sér	fpkeþ	sig
 að	aþ	að
 honum	fpkeþ	hann
 .	.	.
-
 Hann	fpken	hann
 sá	sfg3eþ	sjá
 Sigurð	nkeo-s	Sigurður
@@ -315,7 +293,6 @@ hann	fpkeo	hann
 sljóum	lhfþsf	sljór
 augum	nhfþ	auga
 .	.	.
-
 Sigurður	nken-s	Sigurður
 Óli	nken-s	Óli
 hækkaði	sfg3eþ	hækka
@@ -326,7 +303,6 @@ kom	sfg3eþ	koma
 fyrir	aa	fyrir
 ekki	aa	ekki
 .	.	.
-
 Hann	fpken	hann
 hækkaði	sfg3eþ	hækka
 enn	aa	enn
@@ -343,7 +319,6 @@ en	c	en
 var	sfg3eþ	vera
 missýning	nven	missýning
 .	.	.
-
 Hilmar	nken-s	Hilmar
 hristi	sfg3eþ	hrista
 bara	aa	bara
@@ -355,7 +330,6 @@ eyrun	nhfog	eyra
 á	aþ	á
 sér	fpkeþ	sig
 .	.	.
-
 Sigurður	nken-s	Sigurður
 Óli	nken-s	Óli
 færðist	sfm3eþ	færa
@@ -406,9 +380,7 @@ SVAFST	sfg2eþ	sofa
 HJÁ	aþ	hjá
 HOLBERG	nkeþ-s	Holberg
 ?	?	?
-
 10	ta	10
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 að	cn	að
@@ -424,7 +396,6 @@ kom	sfg3eþ	koma
 að	aþ	að
 honum	fpkeþ	hann
 .	.	.
-
 Leit	sfg3eþ	líta
 ekki	aa	ekki
 upp	aa	upp
@@ -444,13 +415,11 @@ hægum	lvfþsf	hægur
 hreyfingum	nvfþ	hreyfing
 gamalmennisins	nheeg	gamalmenni
 .	.	.
-
 Þurrkaði	sfg3eþ	þurrka
 sultardropa	nkeo	sultardropi
 úr	aþ	úr
 nefinu	nheþg	nef
 .	.	.
-
 Það	fphen	það
 virtist	sfm3eþ	virða
 engu	foheþ	enginn
@@ -468,7 +437,6 @@ að	cn	að
 fást	snm	fá
 við	aa	við
 .	.	.
-
 Hann	fpken	hann
 fór	sfg3eþ	fara
 sér	fpkeþ	sig
@@ -491,21 +459,18 @@ hrúgur	nvfo	hrúga
 úr	aþ	úr
 því	fpheþ	það
 .	.	.
-
 Hann	fpken	hann
 bjó	sfg3eþ	búa
 ennþá	aa	ennþá
 í	aþ	í
 Keflavík	nveþ-s	Keflavík
 .	.	.
-
 Var	sfg3eþ	vera
 borinn	lkensf	borinn
 þar	aa	þar
 og	c	og
 barnfæddur	lkensf	barnfæddur
 .	.	.
-
 Erlendur	nken-s	Erlendur
 bað	sfg3eþ	biðja
 Elínborgu	nveo-s	Elínborg
@@ -571,7 +536,6 @@ sína	feveo	sinn
 máli	nheþ	mál
 sérstaklega	aa	sérstaklega
 .	.	.
-
 Hún	fpven	hún
 hringdi	sfg3eþ	hringja
 aftur	aa	aftur
@@ -586,7 +550,6 @@ snæðingi	nkeþ	snæðingur
 í	aþ	í
 Keflavík	nveþ-s	Keflavík
 .	.	.
-
 Hann	fpken	hann
 íhugaði	sfg3eþ	íhuga
 hvort	c	hvort
@@ -619,7 +582,6 @@ aftur	aa	aftur
 vitlausu	lheþsf	vitlaus
 veðri	nheþ	veður
 .	.	.
-
 Maðurinn	nkeng	maður
 var	sfg3eþ	vera
 klæddur	lkensf	klæddur
@@ -631,7 +593,6 @@ hafnaboltahúfu	nveo	hafnaboltahúfa
 á	aþ	á
 höfði	nheþ	höfuð
 .	.	.
-
 Hvítar	lvfnsf	hvítur
 ,	,	,
 beinaberar	lvfnsf	beinaber
@@ -640,7 +601,6 @@ héldu	sfg3fþ	halda
 um	ao	um
 hrífuskaftið	nheog	hrífuskaft
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 hávaxinn	lkensf	hávaxinn
@@ -668,7 +628,6 @@ sultardropa	nkfo	sultardropi
 í	aþ	í
 nefinu	nheþg	nef
 .	.	.
-
 Erlendur	nken-s	Erlendur
 horfði	sfg3eþ	horfa
 á	ao	á
@@ -684,7 +643,6 @@ bak	nheo	bak
 við	ao	við
 hús	nheo	hús
 .	.	.
-
 Maðurinn	nkeng	maður
 leit	sfg3eþ	líta
 ekki	aa	ekki
@@ -697,7 +655,6 @@ honum	fpkeþ	hann
 enga	foveo	enginn
 athygli	nveo	athygli
 .	.	.
-
 Þannig	aa	þannig
 leið	sfg3eþ	líða
 góð	lvensf	góður
@@ -711,7 +668,6 @@ til	ae	til
 skarar	nvee	skör
 skríða	sng	skríða
 .	.	.
-
 Hvers	fshee	hver
 vegna	ae	vegna
 vill	sfg3en	vilja
@@ -721,7 +677,6 @@ tala	sng	tala
 við	ao	við
 mig	fp1eo	ég
 ?	?	?
-
 sagði	sfg3eþ	segja
 hann	fpken	hann
 og	c	og
@@ -731,31 +686,25 @@ manninn	nkeog	maður
 hrökkva	sng	hrökkva
 upp	aa	upp
 .	.	.
-
 Ha	au	ha
 ?	?	?
-
 Hvað	fshen	hver
 var	sfg3eþ	vera
 þetta	fahen	þessi
 ?	?	?
-
 Maðurinn	nkeng	maður
 leit	sfg3eþ	líta
 upp	aa	upp
 frá	aþ	frá
 verkinu	nheþg	verk
 .	.	.
-
 Hver	fsken	hver
 ert	sfg2en	vera
 þú	fp2en	þú
 ?	?	?
-
 spurði	sfg3eþ	spyrja
 hann	fpken	hann
 .	.	.
-
 Hvernig	aa	hvernig
 tókuð	sfg2fþ	taka
 þið	fp2fn	þú
@@ -770,11 +719,9 @@ kæruna	nveog	kæra
 til	ae	til
 ykkar	fp2fe	þú
 ?	?	?
-
 spurði	sfg3eþ	spyrja
 Erlendur	nken-s	Erlendur
 .	.	.
-
 Gamli	lkenvf	gamall
 maðurinn	nkeng	maður
 horfði	sfg3eþ	horfa
@@ -798,39 +745,32 @@ nefinu	nheþg	nef
 með	aþ	með
 handarbakinu	nheþg	handarbak
 .	.	.
-
 Hann	fpken	hann
 horfði	sfg3eþ	horfa
 niður	aa	niður
 eftir	aþ	eftir
 Erlendi	nkeþ-s	Erlendur
 .	.	.
-
 Þekki	sfg1en	þekkja
 ég	fp1en	ég
 þig	fp2eo	þú
 ?	?	?
-
 sagði	sfg3eþ	segja
 hann	fpken	hann
 .	.	.
-
 Um	ao	um
 hvað	fsheo	hver
 ertu	sfg2en	vera
 að	cn	að
 tala	sng	tala
 ?	?	?
-
 Hver	fsken	hver
 ertu	sfg2en	vera
 ?	?	?
-
 Ég	fp1en	ég
 heiti	sfg1en	heita
 Erlendur	nken-s	Erlendur
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 að	cn	að
@@ -844,7 +784,6 @@ Holberg	nken-s	Holberg
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 kærður	sþgken	kæra
@@ -855,13 +794,11 @@ næstum	aa	næstum
 fjörutíu	tfhfþ	fjörutíu
 árum	nhfþ	ár
 .	.	.
-
 Þú	fp2en	þú
 stjórnaðir	sfg2eþ	stjórna
 rannsókn	nveþ	rannsókn
 málsins	nheeg	mál
 .	.	.
-
 Hún	fpven	hún
 hét	sfg3eþ	heita
 Kolbrún	nven-s	Kolbrún
@@ -869,12 +806,10 @@ sem	ct	sem
 var	sfg3eþ	vera
 nauðgað	sþghen	nauðga
 .	.	.
-
 Hún	fpven	hún
 er	sfg3en	vera
 látin	sþgven	láta
 .	.	.
-
 Systir	nven	systir
 hennar	fpvee	hún
 talar	sfg3en	tala
@@ -893,7 +828,6 @@ grafast	snm	grafa
 fyrir	aa	fyrir
 um	aa	um
 .	.	.
-
 Hún	fpven	hún
 sagði	sfg3eþ	segja
 við	ao	við
@@ -906,7 +840,6 @@ sem	ct	sem
 gerðuð	sfg2fþ	gera
 henni	fpveþ	hún
 .	.	.
-
 Mig	fp1eo	ég
 langar	sfg3en	langa
 til	ae	til
@@ -923,7 +856,6 @@ við	fp1fn	ég
 gerðum	sfg1fþ	gera
 henni	fpveþ	hún
 .	.	.
-
 Maðurinn	nkeng	maður
 horfði	sfg3eþ	horfa
 á	ao	á
@@ -934,7 +866,6 @@ að	cn	að
 segja	sng	segja
 orð	nheo	orð
 .	.	.
-
 Horfði	sfg3eþ	horfa
 í	ao	í
 augu	nhfo	auga
@@ -942,7 +873,6 @@ hans	fpkee	hann
 og	c	og
 þagði	sfg3eþ	þegja
 .	.	.
-
 Hvað	fshen	hver
 var	sfg3eþ	vera
 það	fahen	sá
@@ -951,22 +881,18 @@ við	fp1fn	ég
 gerðum	sfg1fþ	gera
 henni	fpveþ	hún
 ?	?	?
-
 endurtók	sfg3eþ	endurtaka
 Erlendur	nken-s	Erlendur
 .	.	.
-
 Ég	fp1en	ég
 man	sfg1en	muna
 ekki	aa	ekki
 ...	...	...
-
 hvaða	fsheo	hvaða
 leyfi	nheo	leyfi
 hefur	sfg2en	hafa
 þú	fp2en	þú
 ?	?	?
-
 Hvers	fskee	hver
 konar	nkee	konar
 dónaskapur	nken	dónaskapur
@@ -974,12 +900,10 @@ er	sfg3en	vera
 þetta	fahen	þessi
 eiginlega	aa	eiginlega
 ?	?	?
-
 Röddin	nveng	rödd
 titraði	sfg3eþ	titra
 lítillega	aa	lítillega
 .	.	.
-
 Viltu	sfg2en	vilja
 koma	sng	koma
 þér	fp2eþ	þú
@@ -993,7 +917,6 @@ hringi	sfg1en	hringja
 á	ao	á
 lögregluna	nveog	lögregla
 .	.	.
-
 Nei	au	nei
 ,	,	,
 sjáðu	sbg2en	sjá
@@ -1005,7 +928,6 @@ Rúnar	nken-s	Rúnar
 er	sfg1en	vera
 lögreglan	nveng	lögregla
 .	.	.
-
 Og	c	og
 ég	fp1en	ég
 má	sfg1en	mega
@@ -1016,19 +938,16 @@ neinu	foheþ	neinn
 helvítis	nhee	helvíti
 kjaftæði	nheþ	kjaftæði
 .	.	.
-
 Maðurinn	nkeng	maður
 hugsaði	sfg3eþ	hugsa
 sig	fpkeo	sig
 um	aa	um
 .	.	.
-
 Er	sfg3en	vera
 þetta	fahen	þessi
 nýja	lvenvf	nýr
 aðferðin	nveng	aðferð
 ?	?	?
-
 Ráðast	snm	ráða
 á	ao	á
 fólk	nheo	fólk
@@ -1037,7 +956,6 @@ dylgjum	nvfþ	dylgja
 og	c	og
 dónaskap	nkeþ	dónaskapur
 ?	?	?
-
 Gott	lhensf	góður
 að	c	að
 þú	fp2en	þú
@@ -1050,7 +968,6 @@ dónaskap	nkeo	dónaskapur
 sagði	sfg3eþ	segja
 Erlendur	nken-s	Erlendur
 .	.	.
-
 Þú	fp2en	þú
 fékkst	sfm2eþ	fá
 á	aþ	á
@@ -1070,7 +987,6 @@ hrottaskap	nkeo	hrottaskapur
 á	aa	á
 meðal	aa	meðal
 .	.	.
-
 Ég	fp1en	ég
 veit	sfg1en	vita
 ekki	aa	ekki
@@ -1105,10 +1021,8 @@ lögreglunni	nveþg	lögregla
 með	aþ	með
 skömm	nveþ	skömm
 .	.	.
-
 Rekinn	sþgken	reka
 ...	...	...
-
 Haltu	sbg2en	halda
 kjafti	nkeþ	kjaftur
 ,	,	,
@@ -1120,13 +1034,10 @@ leit	sfg3eþ	líta
 kringum	ao	kringum
 sig	fpkeo	sig
 .	.	.
-
 Hvernig	aa	hvernig
 vogarðu	sfg2en	voga
 ...	...	...
-
 ...	...	...
-
 fyrir	ao	fyrir
 margítrekaða	lveosf	margítrekaður
 og	c	og
@@ -1134,7 +1045,6 @@ grófa	lveosf	grófur
 kynferðislega	lveosf	kynferðislegur
 áreitni	nveo	áreitni
 .	.	.
-
 Hvítu	lvfnvf	hvítur
 ,	,	,
 beinaberu	lvfnvf	beinaber
@@ -1155,7 +1065,6 @@ komu	sfg3fþ	koma
 í	ao	í
 ljós	nheo	ljós
 .	.	.
-
 Andlitið	nheng	andlit
 lokaðist	sfm3eþ	loka
 með	aþ	með
@@ -1172,7 +1081,6 @@ lokuðust	sfm3fþ	loka
 til	ae	til
 hálfs	lheesf	hálfur
 .	.	.
-
 Erlendur	nken-s	Erlendur
 hafði	sfg3eþ	hafa
 velt	ssg	velta
@@ -1224,7 +1132,6 @@ maður	nken	maður
 öðrum	fokeþ	annar
 tíma	nkeþ	tími
 .	.	.
-
 Erlendur	nken-s	Erlendur
 hafði	sfg3eþ	hafa
 verið	ssg	vera
@@ -1247,13 +1154,11 @@ sem	ct	sem
 hann	fpken	hann
 skapaði	sfg3eþ	skapa
 .	.	.
-
 Hann	fpken	hann
 mundi	sfg3eþ	muna
 eftir	aþ	eftir
 Rúnari	nkeþ-s	Rúnar
 .	.	.
-
 Hann	fpken	hann
 hafði	sfg3eþ	hafa
 hitt	ssg	hitta
@@ -1295,7 +1200,6 @@ garðinn	nkeog	garður
 til	ae	til
 hans	fpkee	hann
 .	.	.
-
 Sögurnar	nvfng	saga
 um	ao	um
 Rúnar	nkeo-s	Rúnar
@@ -1304,7 +1208,6 @@ enn	aa	enn
 innan	ae	innan
 lögreglunnar	nveeg	lögregla
 .	.	.
-
 Erlendur	nken-s	Erlendur
 hafði	sfg3eþ	hafa
 einu	foheþ	einn
@@ -1320,7 +1223,6 @@ hann	fpken	hann
 skildi	sfg3eþ	skilja
 það	fpheo	það
 .	.	.
-
 Hann	fpken	hann
 skildi	sfg3eþ	skilja
 að	c	að
@@ -1330,7 +1232,6 @@ og	c	og
 mennirnir	nkfng	maður
 líka	aa	líka
 .	.	.
-
 En	c	en
 hann	fpken	hann
 var	sfg3eþ	vera
@@ -1341,7 +1242,6 @@ að	cn	að
 út	aa	út
 fortíðina	nveog	fortíð
 .	.	.
-
 Þeir	fpkfn	hann
 stóðu	sfg3fþ	standa
 í	aþ	í
@@ -1351,33 +1251,27 @@ hvor	foken	hvor
 móti	aþ	móti
 öðrum	fokeþ	annar
 .	.	.
-
 Hvað	fshen	hver
 með	ao	með
 Kolbrúnu	nveo-s	Kolbrún
 ?	?	?
-
 sagði	sfg3eþ	segja
 Erlendur	nken-s	Erlendur
 .	.	.
-
 Hypjaðu	sbg2en	hypja
 þig	fp2eo	þú
 !	!	!
-
 Fyrst	aae	fyrr
 segirðu	sfg2en	segja
 mér	fp1eþ	ég
 frá	aþ	frá
 Kolbrúnu	nveþ-s	Kolbrún
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 helvítis	nhee	helvíti
 mella	nven	mella
 !	!	!
-
 sagði	sfg3eþ	segja
 maðurinn	nkeng	maður
 allt	fohen	allur
@@ -1388,7 +1282,6 @@ milli	ae	milli
 samanbitinna	lvfesf	samanbitinn
 tannanna	nvfeg	tönn
 .	.	.
-
 Og	c	og
 hafðu	sbg2en	hafa
 það	fpheo	það
@@ -1397,7 +1290,6 @@ burtu	aa	burtu
 með	ao	með
 þig	fp2eo	þú
 !	!	!
-
 Allt	fohen	allur
 sem	ct	sem
 hún	fpven	hún
@@ -1408,19 +1300,16 @@ var	sfg3eþ	vera
 helvítis	nhee	helvíti
 lygi	nven	lygi
 .	.	.
-
 Var	sfg3eþ	vera
 engin	foven	enginn
 andskotans	nkeeg	andskoti
 nauðgun	nven	nauðgun
 .	.	.
-
 Hún	fpven	hún
 laug	sfg3eþ	ljúga
 allan	fokeo	allur
 tímann	nkeog	tími
 !	!	!
-
 Erlendur	nken-s	Erlendur
 sá	sfg3eþ	sjá
 Kolbrúnu	nveo-s	Kolbrún
@@ -1439,7 +1328,6 @@ hún	fpven	hún
 kærði	sfg3eþ	kæra
 nauðgunina	nveog	nauðgun
 .	.	.
-
 Hann	fpken	hann
 ímyndaði	sfg3eþ	ímynda
 sér	fpkeþ	sig
@@ -1501,7 +1389,6 @@ jafnheil	lvensf	jafnheill
 og	c	og
 áður	aa	áður
 .	.	.
-
 En	c	en
 hún	fpven	hún
 mundi	svg3eþ	munu
@@ -1511,13 +1398,11 @@ jafnheil	lvensf	jafnheill
 og	c	og
 áður	aa	áður
 .	.	.
-
 Hún	fpven	hún
 hafði	sfg3eþ	hafa
 verið	ssg	vera
 saurguð	sþgven	saurga
 .	.	.
-
 Það	fphen	það
 hafði	sfg3eþ	hafa
 verið	ssg	vera
@@ -1533,7 +1418,6 @@ inn	aa	inn
 í	ao	í
 hana	fpveo	hún
 ...	...	...
-
 Hún	fpven	hún
 kom	sfg3eþ	koma
 þremur	tfkfþ	þrír
@@ -1553,14 +1437,12 @@ maðurinn	nkeng	maður
 við	ao	við
 Erlend	nkeo-s	Erlendur
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 ekki	aa	ekki
 mjög	aa	mjög
 sannfærandi	lhenof	sannfærandi
 .	.	.
-
 Og	c	og
 þú	fp2en	þú
 hentir	sfg2eþ	henda
@@ -1571,12 +1453,10 @@ aftur	aa	aftur
 sagði	sfg3eþ	segja
 Erlendur	nken-s	Erlendur
 .	.	.
-
 Hún	fpven	hún
 laug	sfg3eþ	ljúga
 því	fpheþ	það
 .	.	.
-
 Og	c	og
 hlóst	sfg2eþ	hlæja
 að	aþ	að
@@ -1593,7 +1473,6 @@ að	cn	að
 gleyma	sng	gleyma
 þessu	faheþ	þessi
 .	.	.
-
 En	c	en
 hún	fpven	hún
 gleymdi	sfg3eþ	gleyma
@@ -1603,7 +1482,6 @@ ekki	aa	ekki
 var	sfg3eþ	vera
 það	fphen	það
 ?	?	?
-
 Gamli	lkenvf	gamall
 maðurinn	nkeng	maður
 leit	sfg3eþ	líta
@@ -1612,7 +1490,6 @@ augum	nhfþ	auga
 á	ao	á
 Erlend	nkeo-s	Erlendur
 .	.	.
-
 Hún	fpven	hún
 fór	sfg3eþ	fara
 til	ae	til
@@ -1622,17 +1499,14 @@ var	sfg3eþ	vera
 það	fphen	það
 ekki	aa	ekki
 ?	?	?
-
 sagði	sfg3eþ	segja
 Erlendur	nken-s	Erlendur
 .	.	.
-
 Holberg	nken-s	Holberg
 var	sfg3eþ	vera
 aldrei	aa	aldrei
 dæmdur	sþgken	dæma
 .	.	.
-
 Og	c	og
 hverjum	fokeþ	hver
 er	sfg3en	vera
@@ -1642,7 +1516,6 @@ að	cn	að
 ,	,	,
 heldurðu	sfg2en	halda
 ?	?	?
-
 Erlendur	nken-s	Erlendur
 sá	sfg3eþ	sjá
 Kolbrúnu	nveo-s	Kolbrún
@@ -1654,16 +1527,13 @@ Rúnar	nkeo-s	Rúnar
 á	aþ	á
 skrifstofunni	nveþg	skrifstofa
 .	.	.
-
 Þrefa	sng	þrefa
 við	ao	við
 hann	fpkeo	hann
 !	!	!
-
 Þennan	fakeo	þessi
 mann	nkeo	maður
 !	!	!
-
 Þrefa	sng	þrefa
 um	ao	um
 það	faheo	sá
@@ -1674,7 +1544,6 @@ gengið	ssg	ganga
 í	aa	í
 gegnum	ao	gegnum
 .	.	.
-
 Reyna	sng	reyna
 að	cn	að
 sannfæra	sng	sannfæra
@@ -1694,7 +1563,6 @@ dómari	nken	dómari
 hennar	fpvee	hún
 máli	nheþ	mál
 .	.	.
-
 Hún	fpven	hún
 þurfti	sfg3eþ	þurfa
 á	aþ	á
@@ -1721,14 +1589,12 @@ var	sfg3eþ	vera
 of	aa	of
 hræðilegt	lhensf	hræðilegur
 .	.	.
-
 Hún	fpven	hún
 gat	sfg3eþ	geta
 ekki	aa	ekki
 lýst	ssg	lýsa
 því	fpheþ	það
 .	.	.
-
 Gat	sfg3eþ	geta
 ekki	aa	ekki
 sagt	ssg	segja
@@ -1742,7 +1608,6 @@ viðbjóðslegt	lhensf	viðbjóðslegur
 ,	,	,
 afskræmt	lhensf	afskræmdur
 .	.	.
-
 Einhvern	fokeo	einhver
 veginn	nkeog	vegur
 tókst	sfm3eþ	taka
@@ -1752,12 +1617,10 @@ ljúka	sng	ljúka
 slitróttri	lveþsf	slitróttur
 frásögninni	nveþg	frásögn
 .	.	.
-
 Var	sfg3eþ	vera
 þetta	fahen	þessi
 glott	nhen	glott
 ?	?	?
-
 Hún	fpven	hún
 áttaði	sfg3eþ	átta
 sig	fpveo	sig
@@ -1769,7 +1632,6 @@ vegna	ae	vegna
 lögreglumaðurinn	nkeng	lögreglumaður
 glotti	sfg3eþ	glotta
 .	.	.
-
 Henni	fpveþ	hún
 sýndist	sfm3eþ	sýna
 það	fphen	það
@@ -1781,7 +1643,6 @@ gat	sfg3eþ	geta
 ekki	aa	ekki
 verið	ssg	vera
 .	.	.
-
 Svo	aa	svo
 fór	sfg3eþ	fara
 hann	fpken	hann
@@ -1792,7 +1653,6 @@ hana	fpveo	hún
 í	ao	í
 smáatriðin	nhfog	smáatriði
 .	.	.
-
 Segðu	sbg2en	segja
 mér	fp1eþ	ég
 hvernig	aa	hvernig
@@ -1800,13 +1660,11 @@ hvernig	aa	hvernig
 var	sfg3eþ	vera
 nákvæmlega	aa	nákvæmlega
 .	.	.
-
 Hún	fpven	hún
 horfði	sfg3eþ	horfa
 á	ao	á
 hann	fpkeo	hann
 .	.	.
-
 Séra	nken	séra
 Jakob	nken-s	Jakob
 ,	,	,
@@ -1824,7 +1682,6 @@ dreift	ssg	dreifa
 um	ao	um
 kirkjuna	nveog	kirkja
 .	.	.
-
 Það	fphen	það
 ríkti	sfg3eþ	ríkja
 því	aa	því
@@ -1833,7 +1690,6 @@ hátíðarstemming	nven	hátíðarstemming
 messan	nveng	messa
 byrjaði	sfg3eþ	byrja
 .	.	.
-
 Bjúgað	nheng	bjúga
 olli	sfg3eþ	valda
 mér	fp1eþ	ég
@@ -1857,7 +1713,6 @@ iði	nheþ	ið
 á	aþ	á
 kirkjubekknum	nkeþg	kirkjubekkur
 .	.	.
-
 Faðir	nken	faðir
 okkar	fp1fe	ég
 hnippti	sfg3eþ	hnippa
@@ -1873,7 +1728,6 @@ var	sfg3eþ	vera
 einum	fokeþ	einn
 lagið	lhensf	laginn
 .	.	.
-
 Ég	fp1en	ég
 notaði	sfg1eþ	nota
 því	aa	því
@@ -1908,7 +1762,6 @@ máttum	sfg1fþ	mega
 setjast	snm	setja
 aftur	aa	aftur
 .	.	.
-
 Mér	fp1eþ	ég
 leið	sfg3eþ	líða
 strax	aa	strax
@@ -1931,7 +1784,6 @@ verið	ssg	vera
 til	ae	til
 einskis	fohee	enginn
 .	.	.
-
 Sterk	lvensf	sterkur
 lyktin	nveng	lykt
 af	aþ	af
@@ -1964,7 +1816,6 @@ dreymnir	lkfnsf	dreyminn
 á	ao	á
 svip	nkeo	svipur
 .	.	.
-
 Messan	nveng	messa
 leið	sfg3eþ	líða
 áfram	aa	áfram
@@ -1989,7 +1840,6 @@ ermina	nveog	ermi
 úlpunni	nveþg	úlpa
 minni	feveþ	minn
 .	.	.
-
 Messunni	nveþg	messa
 lauk	sfg3eþ	ljúka
 og	c	og
@@ -2011,7 +1861,6 @@ og	c	og
 gleðilegra	lhfesf	gleðilegur
 jóla	nhfe	jól
 .	.	.
-
 Þá	aa	þá
 gerði	sfg3eþ	gera
 faðir	nken	faðir
@@ -2019,7 +1868,6 @@ okkar	fp1fe	ég
 dálítið	lheosf	dálítill
 óvænt	lheosf	óvæntur
 .	.	.
-
 Hann	fpken	hann
 rak	sfg3eþ	reka
 okkur	fp1fo	ég
@@ -2046,7 +1894,6 @@ og	c	og
 gleðilegra	lhfesf	gleðilegur
 jóla	nhfe	jól
 .	.	.
-
 Honum	fpkeþ	hann
 hefur	sfg3en	hafa
 sjálfsagt	aa	sjálfsagt
@@ -2077,7 +1924,6 @@ og	c	og
 guðhrædd	lvensf	guðhræddur
 fjölskylda	nven	fjölskylda
 .	.	.
-
 Hann	fpken	hann
 kynnti	sfg3eþ	kynna
 okkur	fp1fo	ég
@@ -2108,7 +1954,6 @@ lófann	nkeog	lófi
 á	aþ	á
 prestinum	nkeþg	prestur
 .	.	.
-
 Við	fp1fn	ég
 héldum	sfg1fþ	halda
 um	ao	um
@@ -2129,7 +1974,6 @@ en	c	en
 ég	fp1en	ég
 óttasleginn	lkensf	óttasleginn
 .	.	.
-
 Að	aþ	að
 síðustu	lveþve	síðari
 sleppti	sfg1eþ	sleppa
@@ -2142,7 +1986,6 @@ lyfti	sfg3eþ	lyfta
 því	fpheþ	það
 upp	aa	upp
 .	.	.
-
 Faðir	nken	faðir
 okkar	fp1fe	ég
 varð	sfg3eþ	verða
@@ -2159,7 +2002,6 @@ hlæja	sng	hlæja
 eða	c	eða
 gráta	sng	gráta
 .	.	.
-
 Sá	faken	sá
 yngsti	lkenve	ungur
 leit	sfg3eþ	líta
@@ -2188,7 +2030,6 @@ við	fp1fn	ég
 kæmum	svg1fþ	koma
 heim	aa	heim
 .	.	.
-
 «	«	«
 Þakka	sng	þakka
 þér	fp2eþ	þú
@@ -2208,7 +2049,6 @@ sér	fpkeþ	sig
 klesst	lheosf	klesstur
 bjúgað	nheog	bjúga
 .	.	.
-
 Hann	fpken	hann
 leit	sfg3eþ	líta
 á	ao	á
@@ -2230,7 +2070,6 @@ er	sfg3en	vera
 jólagjöf	nven	jólagjöf
 .	.	.
 »	»	»
-
 Séra	nken	séra
 Jakob	nken-s	Jakob
 beygði	sfg3eþ	beygja
@@ -2255,7 +2094,6 @@ gáfu	sfg3fþ	gefa
 jólabarninu	nheþg	jólabarn
 gjafir	nvfo	gjöf
 .	.	.
-
 Með	aþ	með
 því	fpheþ	það
 að	cn	að
@@ -2270,7 +2108,6 @@ minningu	nveo	minning
 þess	fphee	það
 .	.	.
 »	»	»
-
 Hann	fpken	hann
 rétti	sfg3eþ	rétta
 úr	aþ	úr
@@ -2293,7 +2130,6 @@ við	ao	við
 hlið	nveo	hlið
 .	.	.
 »	»	»
-
 «	«	«
 Lítinn	lkeosf	lítill
 vitleysing	nkeo	vitleysingur
@@ -2314,7 +2150,6 @@ hann	fpkeo	hann
 í	ao	í
 upphandlegginn	nkeog	upphandleggur
 .	.	.
-
 Skyndilega	aa	skyndilega
 var	sfg3eþ	vera
 allt	fohen	allur
@@ -2322,7 +2157,6 @@ baðað	sþghen	baða
 skæru	lheþsf	skær
 ljósi	nheþ	ljós
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 sem	c	sem
@@ -2338,7 +2172,6 @@ hálfrökkrið	nheog	hálfrökkur
 í	aþ	í
 kirkjunni	nveþg	kirkja
 .	.	.
-
 Guð	nken-s	Guð
 var	sfg3eþ	vera
 búinn	lkensf	búinn
@@ -2346,13 +2179,11 @@ að	cn	að
 fyrirgefa	sng	fyrirgefa
 mér	fp1eþ	ég
 .	.	.
-
 Rafmagnið	nheng	rafmagn
 var	sfg3eþ	vera
 komið	sþghen	koma
 á	aa	á
 .	.	.
-
 Fólk	nhen	fólk
 var	sfg3eþ	vera
 nú	aa	nú
@@ -2363,7 +2194,6 @@ að	cn	að
 kringum	ao	kringum
 okkur	fp1fo	ég
 .	.	.
-
 Það	fphen	það
 vildi	sfg3eþ	vilja
 líka	aa	líka
@@ -2376,7 +2206,6 @@ hraða	sng	hraða
 sér	fpheþ	sig
 heimleiðis	aa	heimleiðis
 .	.	.
-
 Við	fp1fn	ég
 kvöddum	sfg1fþ	kveðja
 því	fpheþ	það
@@ -2388,7 +2217,6 @@ heim	aa	heim
 á	ao	á
 leið	nveo	leið
 .	.	.
-
 Faðir	nken	faðir
 okkar	fp1fe	ég
 horfði	sfg3eþ	horfa
@@ -2397,7 +2225,6 @@ mig	fp1eo	ég
 með	aþ	með
 furðusvip	nkeþ	furðusvipur
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 stórundarlegur	lkensf	stórundarlegur
@@ -2416,7 +2243,6 @@ eftir	ao	eftir
 allt	foheo	allur
 saman	aa	saman
 .	.	.
-
 Sjálfur	fbken	sjálfur
 velti	sfg1eþ	velta
 ég	fp1en	ég
@@ -2449,11 +2275,9 @@ til	ae	til
 dæmis	nhee	dæmi
 bjúgu	nhfo	bjúga
 .	.	.
-
 Fýlar	nkfn	fýll
 og	c	og
 fjöll	nhfn	fjall
-
 Guðfinnur	nken-s	Guðfinnur
 leit	sfg3eþ	líta
 í	aa	í
@@ -2463,7 +2287,6 @@ sig	fpkeo	sig
 nýju	lveþvf	nýr
 skrifstofunni	nveþg	skrifstofa
 .	.	.
-
 Býsna	aa	býsna
 gott	lhensf	góður
 ,	,	,
@@ -2476,7 +2299,6 @@ settist	sfm3eþ	setja
 í	ao	í
 skrifstofustólinn	nkeog	skrifstofustóll
 .	.	.
-
 Hann	fpken	hann
 lék	sfg3eþ	leika
 sér	fpkeþ	sig
@@ -2490,7 +2312,6 @@ sér	fpkeþ	sig
 nokkra	fokfo	nokkur
 hringi	nkfo	hringur
 .	.	.
-
 Síðan	aa	síðan
 ók	sfg3eþ	aka
 hann	fpken	hann
@@ -2510,7 +2331,6 @@ tók	sfg3eþ	taka
 upp	aa	upp
 bók	nveo	bók
 .	.	.
-
 Hann	fpken	hann
 spyrnti	sfg3eþ	spyrna
 síðan	aa	síðan
@@ -2532,7 +2352,6 @@ við	ao	við
 einn	fokeo	einn
 vegginn	nkeog	veggur
 .	.	.
-
 Guðfinnur	nken-s	Guðfinnur
 stillti	sfg3eþ	stilla
 bókinni	nveþg	bók
@@ -2563,7 +2382,6 @@ sér	fpkeþ	sig
 um	ao	um
 stund	nveo	stund
 .	.	.
-
 Ef	c	ef
 það	fphen	það
 væri	svg3eþ	vera
@@ -2583,7 +2401,6 @@ yfir	aþ	yfir
 eigin	lveþof	eigin
 fyndni	nveþ	fyndni
 .	.	.
-
 Hann	fpken	hann
 renndi	sfg3eþ	renna
 sér	fpkeþ	sig
@@ -2603,7 +2420,6 @@ aftur	aa	aftur
 að	aþ	að
 hillunum	nvfþg	hilla
 .	.	.
-
 Guðfinnur	nken-s	Guðfinnur
 dundaði	sfg3eþ	dunda
 sér	fpkeþ	sig
@@ -2628,7 +2444,6 @@ sér	fpkeþ	sig
 í	ao	í
 kaffi	nheo	kaffi
 .	.	.
-
 Allsstaðar	aa	allsstaðar
 í	aa	í
 kringum	ao	kringum
@@ -2644,7 +2459,6 @@ koma	sng	koma
 sér	fpkfþ	sig
 fyrir	aa	fyrir
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 ys	nken	ys
@@ -2655,7 +2469,6 @@ skvaldur	nhen	skvaldur
 og	c	og
 hlátrasköll	nhfn	hlátrasköll
 .	.	.
-
 Þeir	fpkfn	hann
 voru	sfg3fþ	vera
 eins	aa	eins
@@ -2675,7 +2488,6 @@ og	c	og
 spennandi	lveosf	spennandi
 bið	nveo	bið
 .	.	.
-
 Guðfinnur	nken-s	Guðfinnur
 gekk	sfg3eþ	ganga
 til	aa	til
@@ -2689,7 +2501,6 @@ með	ao	með
 rjúkandi	lkeoof	rjúkandi
 kaffibollann	nkeog	kaffibolli
 .	.	.
-
 Fyrirtækinu	nheþg	fyrirtæki
 hafði	sfg3eþ	hafa
 vegnað	ssg	vegna
@@ -2710,7 +2521,6 @@ laun	nhfo	laun
 erfiðis	nhee	erfiði
 síns	fehee	sinn
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 orðinn	sþgken	verða
@@ -2734,11 +2544,9 @@ til	ae	til
 tveggja	tfvfe	tveir
 átta	nvfe	átt
 .	.	.
-
 Þvílíkur	fbken	þvílíkur
 lúxus	nken	lúxus
 .	.	.
-
 Guðfinnur	nken-s	Guðfinnur
 stóð	sfg3eþ	standa
 keikur	lkensf	keikur
@@ -2749,7 +2557,6 @@ og	c	og
 horfði	sfg3eþ	horfa
 út	aa	út
 .	.	.
-
 Við	aa	við
 blasti	sfg3eþ	blasa
 Esjan	nvengs	Esja
@@ -2758,7 +2565,6 @@ Skarðsheiðin	nvengs	Skarðsheiðin
 og	c	og
 Akrafjallið	nhengs	Akrafjall
 .	.	.
-
 Ef	c	ef
 hann	fpken	hann
 teygði	svg3eþ	teygja
@@ -2771,7 +2577,6 @@ Móskarðshnúka	nkfo-s	Móskarðshnúkar
 og	c	og
 Skálafell	nheo-s	Skálafell
 .	.	.
-
 Guðfinnur	nken-s	Guðfinnur
 snéri	sfg3eþ	snúa
 sér	fpkeþ	sig
@@ -2797,21 +2602,18 @@ sem	ct	sem
 blöstu	sfg3fþ	blasa
 við	aa	við
 .	.	.
-
 Honum	fpkeþ	hann
 varð	sfg3eþ	verða
 starsýnt	lhensf	starsýnn
 á	ao	á
 Snæfellsjökul	nkeo-s	Snæfellsjökull
 .	.	.
-
 Flott	lhensf	flottur
 fjall	nhen	fjall
 ,	,	,
 hugsaði	sfg3eþ	hugsa
 hann	fpken	hann
 .	.	.
-
 Það	fphen	það
 væri	svg3eþ	vera
 synd	nven	synd
@@ -2824,7 +2626,6 @@ hlýnun	nveþ	hlýnun
 að	aþ	að
 bráð	nveþ	bráð
 .	.	.
-
 Nesið	nheng	nes
 myndi	svg3eþ	munu
 missa	sng	missa
@@ -2832,7 +2633,6 @@ allan	fokeo	allur
 sinn	fekeo	sinn
 sjarma	nkeo	sjarmi
 .	.	.
-
 Ekkert	fohen	enginn
 mál	nhen	mál
 ,	,	,
@@ -2850,7 +2650,6 @@ væri	svg3eþ	vera
 tignarlegri	lvenvm	tignarlegur
 fjallasýn	nven	fjallasýn
 .	.	.
-
 Fjöll	nhfn	fjall
 eru	sfg3fn	vera
 merkilegt	lhensf	merkilegur
@@ -2863,7 +2662,6 @@ fjöllum	nhfþ	fjall
 verðugt	lhensf	verðugur
 rannsóknarefni	nhen	rannsóknarefni
 .	.	.
-
 Guðfinnur	nken-s	Guðfinnur
 hafði	sfg3eþ	hafa
 heyrt	ssg	heyra
@@ -2885,7 +2683,6 @@ ekki	aa	ekki
 til	ae	til
 sjávar	nkee	sjár
 .	.	.
-
 Sennilegri	lvenvm	sennilegur
 skýring	nven	skýring
 var	sfg3eþ	vera
@@ -2911,7 +2708,6 @@ flugbraut	nveo	flugbraut
 hafflötinn	nkeog	hafflötur
 allan	fokeo	allur
 .	.	.
-
 Hann	fpken	hann
 gat	sfg3eþ	geta
 líka	aa	líka
@@ -2931,7 +2727,6 @@ uppstreymið	nheog	uppstreymi
 taka	sng	taka
 sig	fpkeo	sig
 .	.	.
-
 En	c	en
 ef	c	ef
 hann	fpken	hann
@@ -2975,7 +2770,6 @@ sem	ct	sem
 nálgaðist	sfm3eþ	nálgast
 hann	fpkeo	hann
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 svo	aa	svo
@@ -3003,7 +2797,6 @@ hann	fpkeo	hann
 ,	,	,
 óvinir	nkfn	óvinur
 .	.	.
-
 Hann	fpken	hann
 gat	sfg3eþ	geta
 ekki	aa	ekki
@@ -3018,7 +2811,6 @@ illt	lheosf	illur
 eða	c	eða
 gott	lheosf	góður
 .	.	.
-
 En	c	en
 þjóðtrúin	nveng	þjóðtrú
 var	sfg3eþ	vera
@@ -3038,7 +2830,6 @@ sig	fpkeo	sig
 til	ae	til
 flugs	nhee	flug
 .	.	.
-
 Var	sfg3eþ	vera
 það	fphen	það
 kannski	aa	kannski
@@ -3048,7 +2839,6 @@ eins	aa	eins
 og	c	og
 fýlinn	nkeog	fýll
 ?	?	?
-
 Þurftu	sfg3fþ	þurfa
 þeir	fpkfn	hann
 að	cn	að
@@ -3062,7 +2852,6 @@ geta	sng	geta
 tekið	ssg	taka
 flugið	nheog	flug
 ?	?	?
-
 Urðu	sfg3fþ	verða
 þeir	fpkfn	hann
 sinnulausir	lkfnsf	sinnulaus
@@ -3075,7 +2864,6 @@ hefðu	svg3fþ	hafa
 ekki	aa	ekki
 fjallasýn	nveo	fjallasýn
 ?	?	?
-
 Guðfinnur	nken-s	Guðfinnur
 saup	sfg3eþ	súpa
 á	aþ	á
@@ -3111,7 +2899,6 @@ fjalla	nhfe	fjall
 af	aþ	af
 hlaðinu	nheþg	hlað
 .	.	.
-
 Hefðbundinn	lkensf	hefðbundinn
 búskapur	nken	búskapur
 var	sfg3eþ	vera
@@ -3119,7 +2906,6 @@ var	sfg3eþ	vera
 löngu	lheþsf	langur
 aflagður	sþgken	afleggja
 .	.	.
-
 Fólk	nhen	fólk
 hafði	sfg3eþ	hafa
 náttúrlega	aa	náttúrlega
@@ -3148,7 +2934,6 @@ dottið	ssg	detta
 úr	aþ	úr
 kúm	nvfþ	kýr
 .	.	.
-
 Einu	foheþ	einn
 sinni	nheþ	sinn
 hafði	sfg3eþ	hafa
@@ -3161,7 +2946,6 @@ Jersey	e	Jersey
 í	aþ	í
 Bandaríkjunum	nhfþgs	Bandaríki
 .	.	.
-
 Landslagið	nheng	landslag
 í	aa	í
 kringum	ao	kringum
@@ -3180,7 +2964,6 @@ flatt	lhensf	flatur
 og	c	og
 óyndislegt	lhensf	óyndislegur
 .	.	.
-
 Vissulega	aa	vissulega
 var	sfg3eþ	vera
 umhverfið	nheng	umhverfi
@@ -3207,7 +2990,6 @@ stóð	sfg3eþ	standa
 á	aþ	á
 bílastæðinu	nheþg	bílastæði
 .	.	.
-
 Fyrirtækið	nheng	fyrirtæki
 var	sfg3eþ	vera
 í	aþ	í
@@ -3232,7 +3014,6 @@ gluggar	nkfn	gluggi
 á	aþ	á
 húsinu	nheþg	hús
 .	.	.
-
 Þegar	c	þegar
 inn	aa	inn
 var	sfg3eþ	vera
@@ -3252,7 +3033,6 @@ afmarkaðir	lkfnsf	afmarkaður
 með	aþ	með
 skilrúmum	nhfþ	skilrúm
 .	.	.
-
 Þarna	aa	þarna
 hafði	sfg3eþ	hafa
 hver	foken	hver
@@ -3270,7 +3050,6 @@ varla	aa	varla
 nokkuð	foheo	nokkur
 annað	foheo	annar
 .	.	.
-
 Sumir	fokfn	sumur
 höfðu	sfg3fþ	hafa
 reynt	ssg	reyna
@@ -3294,7 +3073,6 @@ skilrúmsveggina	nkfog	skilrúmsveggur
 eða	c	eða
 landslagsmyndir	nvfo	landslagsmynd
 .	.	.
-
 Það	fahen	sá
 fyrsta	lhenve	fyrstur
 sem	ct	sem
@@ -3316,7 +3094,6 @@ eins	aa	eins
 og	c	og
 fjós	nhen	fjós
 .	.	.
-
 «	«	«
 Af	aþ	af
 hverju	fsheþ	hver
@@ -3327,7 +3104,6 @@ gluggar	nkfn	gluggi
 húsinu	nheþg	hús
 ?	?	?
 »	»	»
-
 hafði	sfg3eþ	hafa
 hann	fpken	hann
 spurt	ssg	spyrja
@@ -3358,7 +3134,6 @@ að	cn	að
 vinna	sng	vinna
 .	.	.
 »	»	»
-
 Málið	nheng	mál
 var	sfg3eþ	vera
 útrætt	lhensf	útræddur
@@ -3398,7 +3173,6 @@ hefðu	svg3fþ	hafa
 ekki	aa	ekki
 fjallasýn	nveo	fjallasýn
 .	.	.
-
 Guðfinnur	nken-s	Guðfinnur
 kláraði	sfg3eþ	klára
 úr	aþ	úr
@@ -3411,7 +3185,6 @@ húsið	nheog	hús
 handan	ae	handan
 götunnar	nveeg	gata
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 dæmigerð	lvensf	dæmigerður
@@ -3423,7 +3196,6 @@ með	aþ	með
 mörgum	lkfþsf	margur
 gluggum	nkfþ	gluggi
 .	.	.
-
 Rimlagluggatjöld	nhfn	rimlagluggatjald
 voru	sfg3fþ	vera
 fyrir	aþ	fyrir
@@ -3436,7 +3208,6 @@ rifuð	lhfnsf	rifaður
 eða	c	eða
 uppdregin	lhfnsf	uppdreginn
 .	.	.
-
 Fólkið	nheng	fólk
 vill	sfg3en	vilja
 náttúrulega	aa	náttúrulega
@@ -3453,11 +3224,9 @@ eins	aa	eins
 og	c	og
 ég	fp1en	ég
 .	.	.
-
 Aumingja	nkee	aumingi
 fólkið	nheng	fólk
 .	.	.
-
 Guðfinnur	nken-s	Guðfinnur
 hló	sfg3eþ	hlæja
 með	aþ	með
@@ -3470,7 +3239,6 @@ glugga	nkeo	gluggi
 úr	aþ	úr
 glugga	nkeþ	gluggi
 .	.	.
-
 Honum	fpkeþ	hann
 varð	sfg3eþ	verða
 starsýnt	lhensf	starsýnn
@@ -3491,7 +3259,6 @@ nálægt	aþ	nálægt
 suðurenda	nkeþ	suðurendi
 byggingarinnar	nveeg	bygging
 .	.	.
-
 Sá	faken	sá
 hafði	sfg3eþ	hafa
 komið	ssg	koma
@@ -3513,7 +3280,6 @@ dyrunum	nvfþg	dyr
 skrifstofu	nveþ	skrifstofa
 hans	fpkee	hann
 .	.	.
-
 Maðurinn	nkeng	maður
 húkti	sfg3eþ	húka
 fyrir	ao	fyrir
@@ -3528,7 +3294,6 @@ fylgjast	snm	fylgja
 með	aþ	með
 honum	fpkeþ	hann
 .	.	.
-
 Af	aa	af
 og	c	og
 til	aa	til
@@ -3548,7 +3313,6 @@ starði	sfg3eþ	stara
 á	ao	á
 skjáinn	nkeog	skjár
 .	.	.
-
 Sá	faken	sá
 er	sfg3en	vera
 duglegur	lkensf	duglegur
@@ -3574,7 +3338,6 @@ nýju	lveþvf	nýr
 skrifstofunni	nveþg	skrifstofa
 sinni	feveþ	sinn
 .	.	.
-
 Guðfinnur	nken-s	Guðfinnur
 hafði	sfg3eþ	hafa
 pantað	ssg	panta
@@ -3599,7 +3362,6 @@ við	ao	við
 samstarfsmenn	nkfo	samstarfsmaður
 sína	fekfo	sinn
 .	.	.
-
 Um	ao	um
 hálfeittleytið	nheog	hálfeittleyti
 bætti	sfg3eþ	bæta
@@ -3615,7 +3377,6 @@ inn	aa	inn
 á	ao	á
 skrifstofuna	nveog	skrifstofa
 .	.	.
-
 Hann	fpken	hann
 þyrfti	svg3eþ	þurfa
 að	cn	að
@@ -3634,7 +3395,6 @@ aftur	aa	aftur
 eðlilegt	lheosf	eðlilegur
 horf	nheo	horf
 .	.	.
-
 Hann	fpken	hann
 fór	sfg3eþ	fara
 að	cn	að
@@ -3653,7 +3413,6 @@ litið	sþghen	líta
 um	ao	um
 gluggann	nkeog	gluggi
 .	.	.
-
 Þarna	aa	þarna
 sat	sfg3eþ	sitja
 hann	fpken	hann
@@ -3663,7 +3422,6 @@ maðurinn	nkeng	maður
 við	ao	við
 tölvuna	nveog	tölva
 .	.	.
-
 Hvað	fsheo	hver
 var	sfg3eþ	vera
 hann	fpken	hann
@@ -3674,14 +3432,12 @@ var	sfg3eþ	vera
 svona	aa	svona
 merkilegt	lhensf	merkilegur
 ?	?	?
-
 Fór	sfg3eþ	fara
 hann	fpken	hann
 ekki	aa	ekki
 í	ao	í
 hádegismat	nkeo	hádegismatur
 ?	?	?
-
 Guðfinnur	nken-s	Guðfinnur
 fór	sfg3eþ	fara
 að	cn	að
@@ -3691,13 +3447,11 @@ manninum	nkeþg	maður
 við	ao	við
 tölvuna	nveog	tölva
 .	.	.
-
 Hann	fpken	hann
 hreyfði	sfg3eþ	hreyfa
 sig	fpkeo	sig
 varla	aa	varla
 .	.	.
-
 Þurfti	sfg3eþ	þurfa
 hann	fpken	hann
 aldrei	aa	aldrei
@@ -3706,7 +3460,6 @@ fara	sng	fara
 á	ao	á
 klósettið	nheog	klósett
 ?	?	?
-
 Af	aþ	af
 hverju	fsheþ	hver
 stóð	sfg3eþ	standa
@@ -3719,7 +3472,6 @@ sér	fpkeþ	sig
 í	ao	í
 kaffi	nheo	kaffi
 ?	?	?
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 ekki	aa	ekki
@@ -3739,7 +3491,6 @@ nýtt	lhensf	nýr
 skrifstofuhaldi	nheþ	skrifstofuhald
 landsmanna	nkfe	landsmaður
 .	.	.
-
 Guðfinnur	nken-s	Guðfinnur
 velti	sfg3eþ	velta
 þessu	faheþ	þessi
@@ -3774,13 +3525,11 @@ að	cn	að
 fara	sng	fara
 .	.	.
 »	»	»
-
 Hvað	fshen	hver
 var	sfg3eþ	vera
 klukkan	nveng	klukka
 eiginlega	aa	eiginlega
 ?	?	?
-
 Hafði	sfg3eþ	hafa
 hann	fpken	hann
 eytt	ssg	eyða
@@ -3798,10 +3547,8 @@ vinna	sng	vinna
 við	ao	við
 tölvu	nveo	tölva
 ?	?	?
-
 Djöfulsins	nkeeg	djöfull
 !	!	!
-
 Maðurinn	nkeng	maður
 við	ao	við
 tölvuna	nveog	tölva
@@ -3815,7 +3562,6 @@ vinnu	nvee	vinna
 daginn	nkeog	dagur
 eftir	aa	eftir
 .	.	.
-
 Hann	fpken	hann
 grúfði	sfg3eþ	grúfa
 sig	fpkeo	sig
@@ -3830,7 +3576,6 @@ tölvuna	nveog	tölva
 allan	fokeo	allur
 morguninn	nkeog	morgunn
 .	.	.
-
 Hann	fpken	hann
 sat	sfg3eþ	sitja
 við	ao	við
@@ -3847,7 +3592,6 @@ kom	sfg3eþ	koma
 úr	aþ	úr
 mat	nkeþ	matur
 .	.	.
-
 Maðurinn	nkeng	maður
 sat	sfg3eþ	sitja
 við	ao	við
@@ -3884,7 +3628,6 @@ kom	sfg3eþ	koma
 til	ae	til
 baka	nhfe	bak
 .	.	.
-
 Hvern	fskeo	hver
 fjandann	nkeog	fjandi
 var	sfg3eþ	vera
@@ -3896,14 +3639,12 @@ var	sfg3eþ	vera
 svona	aa	svona
 mikilvægt	lhensf	mikilvægur
 ?	?	?
-
 Var	sfg3eþ	vera
 hann	fpken	hann
 í	aþ	í
 stanslausu	lheþsf	stanslaus
 verðbréfabraski	nheþ	verðbréfabrask
 ?	?	?
-
 Var	sfg3eþ	vera
 þetta	fahen	þessi
 kannski	aa	kannski
@@ -3913,7 +3654,6 @@ sem	ct	sem
 sendi	sfg3eþ	senda
 ruslpóstinn	nkeog	ruslpóstur
 ?	?	?
-
 Nóg	lhensf	nógur
 var	sfg3eþ	vera
 af	aþ	af
@@ -3928,13 +3668,11 @@ honum	fpkeþ	hann
 af	aþ	af
 elju	nveþ	elja
 ?	?	?
-
 Var	sfg3eþ	vera
 hann	fpken	hann
 kannski	aa	kannski
 dauður	lkensf	dauður
 ?	?	?
-
 Guðfinnur	nken-s	Guðfinnur
 hafði	sfg3eþ	hafa
 einhvern	fokeo	einhver
@@ -3963,7 +3701,6 @@ hvers	fohee	hver
 kyns	nhee	kyn
 var	sfg3eþ	vera
 .	.	.
-
 Enginn	foken	enginn
 hafði	sfg3eþ	hafa
 haft	ssg	hafa
@@ -3993,14 +3730,12 @@ aðrir	fokfn	annar
 fóru	sfg3fþ	fara
 heim	aa	heim
 .	.	.
-
 En	c	en
 hann	fpken	hann
 var	sfg3eþ	vera
 einfaldlega	aa	einfaldlega
 dauður	lkensf	dauður
 .	.	.
-
 Guðfinni	nkeþ-s	Guðfinnur
 varð	sfg3eþ	verða
 ekkert	fohen	enginn
@@ -4025,7 +3760,6 @@ manninum	nkeþg	maður
 við	ao	við
 tölvuna	nveog	tölva
 .	.	.
-
 Guðfinnur	nken-s	Guðfinnur
 var	sfg3eþ	vera
 pirraður	lkensf	pirraður
@@ -4046,7 +3780,6 @@ hvað	fshen	hver
 hrjáði	sfg3eþ	hrjá
 hann	fpkeo	hann
 .	.	.
-
 Guðfinnur	nken-s	Guðfinnur
 hafði	sfg3eþ	hafa
 verið	ssg	vera
@@ -4064,7 +3797,6 @@ fyrir	ao	fyrir
 hans	fpkee	hann
 hönd	nveo	hönd
 .	.	.
-
 Framundan	aa	framundan
 var	sfg3eþ	vera
 betri	lvenvm	góður
@@ -4084,7 +3816,6 @@ bónusar	nkfn	bónus
 og	c	og
 kaupréttarsamningar	nkfn	kaupréttarsamningur
 .	.	.
-
 Af	aþ	af
 hverju	fsheþ	hver
 var	sfg3eþ	vera
@@ -4092,7 +3823,6 @@ hann	fpken	hann
 svona	aa	svona
 hvefsinn	lkensf	hvefsinn
 ?	?	?
-
 Hún	fpven	hún
 reyndi	sfg3eþ	reyna
 að	cn	að
@@ -4129,7 +3859,6 @@ inni	aa	inni
 kontórnum	nkeþg	kontór
 sínum	fekeþ	sinn
 .	.	.
-
 Þar	aa	þar
 rótaði	sfg3eþ	róta
 hann	fpken	hann
@@ -4148,7 +3877,6 @@ að	aa	að
 öflugan	lkeosf	öflugur
 kíki	nkeo	kíkir
 .	.	.
-
 Nú	aa	nú
 skal	sfg1en	skulu
 ég	fp1en	ég
@@ -4161,7 +3889,6 @@ er	sfg3en	vera
 að	cn	að
 bralla	sng	bralla
 .	.	.
-
 Guðfinnur	nken-s	Guðfinnur
 var	sfg3eþ	vera
 spenntur	lkensf	spenntur
@@ -4173,7 +3900,6 @@ vinnu	nvee	vinna
 morguninn	nkeog	morgunn
 eftir	aa	eftir
 .	.	.
-
 Hann	fpken	hann
 henti	sfg3eþ	henda
 frakkanum	nkeþg	frakki
@@ -4188,7 +3914,6 @@ rakleiðis	aa	rakleiðis
 að	aþ	að
 glugganum	nkeþg	gluggi
 .	.	.
-
 Maðurinn	nkeng	maður
 við	ao	við
 tölvuna	nveog	tölva
@@ -4199,7 +3924,6 @@ starði	sfg3eþ	stara
 á	ao	á
 skjáinn	nkeog	skjár
 .	.	.
-
 Guðfinnur	nken-s	Guðfinnur
 brá	sfg3eþ	bregða
 kíkinum	nkeþg	kíkir
@@ -4213,7 +3937,6 @@ rýndi	sfg3eþ	rýna
 í	ao	í
 kíkinn	nkeog	kíkir
 .	.	.
-
 En	c	en
 hann	fpken	hann
 sá	sfg3eþ	sjá
@@ -4226,7 +3949,6 @@ birgði	sfg3eþ	birgja
 honum	fpkeþ	hann
 sýn	nveo	sýn
 .	.	.
-
 Hann	fpken	hann
 virti	sfg3eþ	virða
 fyrir	aþ	fyrir
@@ -4234,7 +3956,6 @@ sér	fpkeþ	sig
 baksvip	nkeo	baksvipur
 mannsins	nkeeg	maður
 .	.	.
-
 Hárið	nheng	hár
 var	sfg3eþ	vera
 farið	sþghen	fara
@@ -4252,7 +3973,6 @@ að	aþ	að
 öðru	foheþ	annar
 leyti	nheþ	leyti
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 í	aþ	í
@@ -4267,7 +3987,6 @@ bindi	nheo	bindi
 undir	aþ	undir
 kraganum	nkeþg	kragi
 .	.	.
-
 Guðfinnur	nken-s	Guðfinnur
 giskaði	sfg3eþ	giska
 á	ao	á
@@ -4303,7 +4022,6 @@ framan	aa	framan
 í	ao	í
 hann	fpkeo	hann
 .	.	.
-
 Guðfinnur	nken-s	Guðfinnur
 lét	sfg3eþ	láta
 augun	nhfog	auga
@@ -4314,7 +4032,6 @@ skrifstofu	nveþ	skrifstofa
 til	ae	til
 annarrar	fovee	annar
 .	.	.
-
 Alls	fokee	allur
 staðar	nkee	staður
 var	sfg3eþ	vera
@@ -4334,7 +4051,6 @@ manninum	nkeþg	maður
 við	ao	við
 tölvuna	nveog	tölva
 .	.	.
-
 Sumsstaðar	aa	sumsstaðar
 kom	sfg3eþ	koma
 einhver	foken	einhver
@@ -4367,7 +4083,6 @@ ráfa	sng	ráfa
 um	ao	um
 fyrirtækið	nheog	fyrirtæki
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 heimsótti	sfg3eþ	heimsækja
@@ -4383,7 +4098,6 @@ stöðugt	aa	stöðugt
 á	ao	á
 skjáinn	nkeog	skjár
 .	.	.
-
 Af	aa	af
 og	c	og
 til	aa	til
@@ -4408,7 +4122,6 @@ en	c	en
 án	ae	án
 árangurs	nkee	árangur
 .	.	.
-
 Hvern	fokeo	hver
 andskotann	nkeog	andskoti
 var	sfg3eþ	vera
@@ -4416,7 +4129,6 @@ hann	fpken	hann
 að	cn	að
 gera	sng	gera
 ?	?	?
-
 Guðfinnur	nken-s	Guðfinnur
 hafði	sfg3eþ	hafa
 fengið	ssg	fá
@@ -4426,13 +4138,11 @@ tölvuna	nveog	tölva
 á	ao	á
 heilann	nkeog	heili
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 sem	c	sem
 andsetinn	lkensf	andsetinn
 .	.	.
-
 Þriðji	lkenvf	þriðji
 dagurinn	nkeng	dagur
 leið	sfg3eþ	líða
@@ -4450,7 +4160,6 @@ sína	feveo	sinn
 á	aþ	á
 starfsfólkinu	nheþg	starfsfólk
 .	.	.
-
 Galsi	nken	galsi
 og	c	og
 tilhlökkun	nven	tilhlökkun
@@ -4461,7 +4170,6 @@ leiða	nkeþ	leiði
 og	c	og
 kvíða	nkeþ	kvíði
 .	.	.
-
 Þeir	fpkfn	hann
 skildu	sfg3fþ	skilja
 ekki	aa	ekki
@@ -4483,7 +4191,6 @@ sín	fehfo	sinn
 væru	svg3fþ	vera
 brýn	lhfnsf	brýnn
 .	.	.
-
 Að	aþ	að
 lokum	nhfþ	lok
 fór	sfg3eþ	fara
@@ -4515,14 +4222,12 @@ eitthvað	fohen	einhver
 að	aa	að
 ?	?	?
 »	»	»
-
 «	«	«
 Hvað	fsheo	hver
 áttu	sfg2en	eiga
 við	ao	við
 ?	?	?
 »	»	»
-
 «	«	«
 Þú	fp2en	þú
 ert	sfg2en	vera
@@ -4537,11 +4242,9 @@ skapi	nheþ	skap
 undanfarið	aa	undanfarið
 .	.	.
 »	»	»
-
 «	«	«
 Ég	fp1en	ég
 ?	?	?
-
 Það	fphen	það
 er	sfg3en	vera
 bara	aa	bara
@@ -4551,7 +4254,6 @@ að	cn	að
 gera	sng	gera
 .	.	.
 »	»	»
-
 Guðfinni	nkeþ-s	Guðfinnur
 var	sfg3eþ	vera
 hlýtt	aa	hlýtt
@@ -4576,7 +4278,6 @@ en	c	en
 mörg	lhfnsf	margur
 hinna	fahfe	hinn
 .	.	.
-
 «	«	«
 Af	aþ	af
 hverju	fsheþ	hver
@@ -4586,11 +4287,9 @@ svona	aa	svona
 fúll	lkensf	fúll
 ?	?	?
 »	»	»
-
 spurði	sfg3eþ	spyrja
 Guðlaug	nven-s	Guðlaug
 .	.	.
-
 Guðfinnur	nken-s	Guðfinnur
 starði	sfg3eþ	stara
 á	ao	á
@@ -4608,13 +4307,11 @@ hvert	fohen	hver
 erindið	nheng	erindi
 var	sfg3eþ	vera
 .	.	.
-
 Þessu	faheþ	þessi
 varð	sfg3eþ	verða
 að	cn	að
 linna	sng	linna
 .	.	.
-
 Hann	fpken	hann
 varð	sfg3eþ	verða
 að	cn	að
@@ -4622,7 +4319,6 @@ taka	sng	taka
 sér	fpkeþ	sig
 tak	nheo	tak
 .	.	.
-
 Hann	fpken	hann
 varð	sfg3eþ	verða
 að	cn	að
@@ -4638,7 +4334,6 @@ var	sfg3eþ	vera
 að	cn	að
 gera	sng	gera
 .	.	.
-
 Þegar	c	þegar
 hann	fpken	hann
 kæmist	svm3eþ	koma
@@ -4656,7 +4351,6 @@ að	cn	að
 reka	sng	reka
 fyrirtækið	nheog	fyrirtæki
 .	.	.
-
 Hann	fpken	hann
 kreisti	sfg3eþ	kreista
 fram	aa	fram
@@ -4676,7 +4370,6 @@ engar	fovfo	enginn
 Guðlaug	nven-s	Guðlaug
 mín	feven	minn
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 bara	aa	bara
@@ -4695,7 +4388,6 @@ að	cn	að
 leysast	snm	leysa
 .	.	.
 »	»	»
-
 Guðfinnur	nken-s	Guðfinnur
 hikaði	sfg3eþ	hika
 augnablik	nheo	augnablik
@@ -4719,14 +4411,12 @@ hvenær	aa	hvenær
 ég	fp1en	ég
 kem	sfg1en	koma
 .	.	.
-
 Viltu	sfg2en	vilja
 láta	sng	láta
 hin	fahfo	hinn
 vita	sng	vita
 ?	?	?
 »	»	»
-
 «	«	«
 Allt	fohen	allur
 í	aþ	í
@@ -4746,7 +4436,6 @@ og	c	og
 gekk	sfg3eþ	ganga
 út	aa	út
 .	.	.
-
 Guðfinnur	nken-s	Guðfinnur
 fór	sfg3eþ	fara
 í	ao	í
@@ -4756,7 +4445,6 @@ púss	nheo	púss
 daginn	nkeog	dagur
 eftir	aa	eftir
 .	.	.
-
 Nú	aa	nú
 ætlaði	sfg3eþ	ætla
 hann	fpken	hann
@@ -4766,7 +4454,6 @@ til	ae	til
 skarar	nvee	skör
 skríða	sng	skríða
 .	.	.
-
 Hann	fpken	hann
 skyldi	svg3eþ	skulu
 komast	snm	koma
@@ -4781,7 +4468,6 @@ að	cn	að
 fást	snm	fá
 við	ao	við
 .	.	.
-
 Hann	fpken	hann
 lagði	sfg3eþ	leggja
 bílnum	nkeþg	bíll
@@ -4811,7 +4497,6 @@ manninn	nkeog	maður
 við	ao	við
 tölvuna	nveog	tölva
 .	.	.
-
 Hann	fpken	hann
 kom	sfg3eþ	koma
 inn	aa	inn
@@ -4819,7 +4504,6 @@ inn	aa	inn
 glæsilega	lveosf	glæsilegur
 móttöku	nveo	móttaka
 .	.	.
-
 Tvær	tfvfn	tveir
 miðaldra	lvfnof	miðaldra
 konur	nvfn	kona
@@ -4839,7 +4523,6 @@ masaði	sfg3eþ	masa
 í	ao	í
 símann	nkeog	sími
 .	.	.
-
 Öflugur	lkensf	öflugur
 talnalás	nken	talnalás
 lokaði	sfg3eþ	loka
@@ -4849,7 +4532,6 @@ innar	aam	innar
 í	ao	í
 húsið	nheog	hús
 .	.	.
-
 Hann	fpken	hann
 leit	sfg3eþ	líta
 augnablik	nheo	augnablik
@@ -4866,7 +4548,6 @@ var	sfg3eþ	vera
 í	aþ	í
 húsinu	nheþg	hús
 .	.	.
-
 «	«	«
 Schwartz	e	Schwartz
 &	c	&
@@ -4875,7 +4556,6 @@ Witz	e	Witz
 endurskoðendur	nkfn	endurskoðandi
 ?	?	?
 »	»	»
-
 Guðfinnur	nken-s	Guðfinnur
 áttaði	sfg3eþ	átta
 sig	fpkeo	sig
@@ -4899,7 +4579,6 @@ uppgjör	nhfn	uppgjör
 gangi	nkeþ	gangur
 núna	aa	núna
 .	.	.
-
 Hvern	fokeo	hver
 fjandann	nkeog	fjandi
 er	sfg3en	vera
@@ -4908,7 +4587,6 @@ eiginlega	aa	eiginlega
 að	cn	að
 gera	sng	gera
 ?	?	?
-
 Konan	nveng	kona
 í	aþ	í
 símanum	nkeþg	sími
@@ -4934,7 +4612,6 @@ fyrir	ao	fyrir
 þig	fp2eo	þú
 ?	?	?
 »	»	»
-
 Guðfinnur	nken-s	Guðfinnur
 varð	sfg3eþ	verða
 hálfhvumsa	lkenof	hálfhvumsa
@@ -4955,12 +4632,10 @@ hitta	sng	hitta
 mann	nkeo	maður
 .	.	.
 »	»	»
-
 «	«	«
 Hvern	fskeo	hver
 ?	?	?
 »	»	»
-
 spurði	sfg3eþ	spyrja
 konan	nveng	kona
 og	c	og
@@ -4969,12 +4644,10 @@ enn	aa	enn
 um	ao	um
 tólið	nheog	tól
 .	.	.
-
 Guðfinnur	nken-s	Guðfinnur
 varð	sfg3eþ	verða
 hugsi	lkenof	hugsi
 .	.	.
-
 Hvaða	fshfo	hvaða
 vandræði	nhfo	vandræði
 var	sfg3eþ	vera
@@ -4986,7 +4659,6 @@ koma	sng	koma
 sér	fpkeþ	sig
 í	aa	í
 .	.	.
-
 «	«	«
 Æ	au	æ
 ,	,	,

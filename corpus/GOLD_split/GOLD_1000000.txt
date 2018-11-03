@@ -30,7 +30,6 @@ félagasamtök	nhfo	félagasamtök
 á	aþ	á
 staðnum	nkeþg	staður
 .	.	.
-
 Að	cn	að
 veita	sng	veita
 mat	nkeo	matur
@@ -76,7 +75,6 @@ aftur	aa	aftur
 fyrir	aþ	fyrir
 sér	fpheþ	sig
 .	.	.
-
 Margir	lkfnsf	margur
 hafa	sfg3fn	hafa
 ,	,	,
@@ -103,7 +101,6 @@ sem	ct	sem
 nú	aa	nú
 býðst	sfm3en	bjóða
 .	.	.
-
 Hjálparsamtökin	nhfng	hjálparsamtök
 fimm	tfhfn	fimm
 kynna	sfg3fn	kynna
@@ -119,7 +116,6 @@ ein	fohfn	einn
 hafa	sfg3fn	hafa
 unnið	ssg	vinna
 .	.	.
-
 Einstaklingar	nkfn	einstaklingur
 á	aþ	á
 Íslandi	nheþ-s	Ísland
@@ -128,7 +124,6 @@ frumkvæði	nheo	frumkvæði
 að	aþ	að
 söfnuninni	nveþg	söfnun
 .	.	.
-
 Fjölmiðlar	nkfn	fjölmiðill
 gerðu	sfg3fþ	gera
 hana	fpveo	hún
@@ -139,7 +134,6 @@ umfangi	nheþ	umfang
 sem	ct	sem
 varð	sfg3eþ	verða
 .	.	.
-
 Fyrirtæki	nhfn	fyrirtæki
 og	c	og
 einstaklingar	nkfn	einstaklingur
@@ -147,7 +141,6 @@ lögðu	sfg3fþ	leggja
 henni	fpveþ	hún
 lið	nheo	lið
 .	.	.
-
 Úr	aa	úr
 varð	sfg3eþ	verða
 stærsta	lvenve	stór
@@ -162,12 +155,10 @@ til	ae	til
 hjálpar	nvee	hjálp
 erlendis	aa	erlendis
 .	.	.
-
 122	ta	122
 milljónir	nvfn	milljón
 söfnuðust	sfm3fþ	safna
 .	.	.
-
 Hjálparsamtökin	nhfng	hjálparsamtök
 þakka	sfg3fn	þakka
 landsmönnum	nkfþ	landsmaður
@@ -192,12 +183,10 @@ mesta	lveose	mikill
 hjálp	nveo	hjálp
 þurfa	sfg3fn	þurfa
 .	.	.
-
 Verkið	nheng	verk
 heldur	sfg3en	halda
 áfram	aa	áfram
 .	.	.
-
 Frá	aþ	frá
 hjálparstarfi	nheþ	hjálparstarf
 Save	e	Save
@@ -207,15 +196,12 @@ Children	e	Children
 Sri	e	Sri
 Lanka	e	Lanka
 .	.	.
-
 Ljósm.	as	ljósm.
 Karin	e	Karin
 Beate	e	Beate
 Nøsterud	e	Nøsterud
 .	.	.
-
 2.12.	ta	2.12.
-
 2005	ta	2005
 Stöðuskýrsla	nven	stöðuskýrsla
 Save	e	Save
@@ -225,7 +211,6 @@ um	ao	um
 hjálparstarf	nheo	hjálparstarf
 á	aþ	á
 flóðasvæðunum	nhfþg	flóðasvæði
-
 Senn	aa	senn
 er	sfg3en	vera
 liðið	sþghen	líða
@@ -244,7 +229,6 @@ jólaleytið	nheog	jólaleyti
 í	ao	í
 fyrra	lheovm	fyrri
 .	.	.
-
 Yfir	aa	yfir
 200.000	ta	200.000
 manns	nkee	maður
@@ -261,7 +245,6 @@ lifibrauð	nheo	lifibrauð
 og	c	og
 ástvini	nkfo	ástvinur
 .	.	.
-
 Save	e	Save
 the	e	the
 Children-samtökin	nhfngs	Childrensamtök
@@ -291,7 +274,6 @@ hjálparstarf	nheo	hjálparstarf
 í	ao	í
 stað	nkeo	staður
 .	.	.
-
 Á	aþ	á
 svæðum	nhfþ	svæði
 þeim	fahfþ	sá
@@ -312,7 +294,6 @@ fimm	tfhfo	fimm
 hið	gheo	hinn
 minnsta	lheove	lítill
 .	.	.
-
 Markmiðið	nheng	markmið
 er	sfg3en	vera
 að	cn	að
@@ -350,7 +331,6 @@ dag	nkeo	dagur
 2.	ta	2.
 desember	nkeo	desember
 .	.	.
-
 Framlög	nhfn	framlag
 til	ae	til
 Save	e	Save
@@ -379,7 +359,6 @@ byr	nkeo	byr
 í	ao	í
 seglin	nhfog	segl
 .	.	.
-
 Save	e	Save
 the	e	the
 Children-samtökin	nhfngs	Childrensamtök
@@ -400,7 +379,6 @@ hamförunum	nvfþg	hamför
 við	ao	við
 Indlandshaf	nheo-s	Indlandshaf
 .	.	.
-
 Þúsundir	nvfn	þúsund
 barna	nhfe	barn
 hafa	sfg3fn	hafa
@@ -413,7 +391,6 @@ vandamönnum	nkfþ	vandamaður
 að	aþ	að
 nýju	lheþsf	nýr
 .	.	.
-
 Börnum	nhfþ	barn
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -429,7 +406,6 @@ og	c	og
 hægt	lhensf	hægur
 er	sfg3en	vera
 .	.	.
-
 Unnið	sþghen	vinna
 er	sfg3en	vera
 að	aþ	að
@@ -444,7 +420,6 @@ og	c	og
 byggja	sng	byggja
 skólastofur	nvfo	skólastofa
 .	.	.
-
 Með	aþ	með
 dreifingu	nveþ	dreifing
 matar	nkee	matur
@@ -458,7 +433,6 @@ sjúkdómum	nkfþ	sjúkdómur
 og	c	og
 dauðsföllum	nhfþ	dauðsfall
 .	.	.
-
 Daglegt	lhensf	daglegur
 líf	nhen	líf
 barna	nhfe	barn
@@ -475,7 +449,6 @@ leiksvæðum	nhfþ	leiksvæði
 og	c	og
 götueldhúsum	nhfþ	götueldhús
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 er	sfg3en	vera
@@ -488,7 +461,6 @@ að	aþ	að
 endurbyggingu	nveþ	endurbygging
 sjúkrahúsa	nhfe	sjúkrahús
 .	.	.
-
 Tekið	sþghen	taka
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -501,7 +473,6 @@ gegnum	ao	gegnum
 markvisst	lheosf	markviss
 skólastarf	nheo	skólastarf
 .	.	.
-
 Þar	aa	þar
 eru	sfg3fn	vera
 leikir	nkfn	leikur
@@ -519,7 +490,6 @@ bug	nkeo	bugur
 á	aþ	á
 óttanum	nkeþg	ótti
 .	.	.
-
 Þessari	faveþ	þessi
 aðferð	nveþ	aðferð
 hefur	sfg3en	hafa
@@ -545,7 +515,6 @@ nú	aa	nú
 september	nkeþ	september
 síðastliðnum	lkeþsf	síðastliðinn
 .	.	.
-
 Fyrsta	lheþve	fyrstur
 stigi	nheþ	stig
 hjálpar	nvee	hjálp
@@ -559,7 +528,6 @@ blasa	sfg3fn	blasa
 við	aa	við
 áfram	aa	áfram
 .	.	.
-
 Megináherslan	nveng	megináhersla
 verður	sfg3en	verða
 lögð	sþgven	leggja
@@ -578,7 +546,6 @@ haldið	ssg	halda
 hjálparstarfinu	nheþg	hjálparstarf
 áfram	aa	áfram
 .	.	.
-
 Á	aþ	á
 sumum	fohfþ	sumur
 svæðum	nhfþ	svæði
@@ -592,7 +559,6 @@ er	sfg3en	vera
 stjórnmálaástandið	nheng	stjórnmálaástand
 ótryggt	lhensf	ótryggur
 .	.	.
-
 Í	aþ	í
 Indónesíu	nveþ-s	Indónesía
 ,	,	,
@@ -608,7 +574,6 @@ jarðskjálftar	nkfn	jarðskjálfti
 enn	aa	enn
 tíðir	lkfnsf	tíður
 .	.	.
-
 Samgöngur	nvfn	samgöngur
 og	c	og
 fjarskipti	nhfn	fjarskipti
@@ -623,7 +588,6 @@ af	aþ	af
 austurströnd	nveþ	austurströnd
 Indlands	nhee-s	Indland
 .	.	.
-
 Frá	aþ	frá
 því	fpheþ	það
 náttúruhamfarirnar	nvfng	náttúruhamfarir
@@ -642,7 +606,6 @@ og	c	og
 er	sfg3en	vera
 kunnugt	lhensf	kunnugur
 .	.	.
-
 Fellibyljirnir	nkfng	fellibylur
 við	ao	við
 Mexíkóflóa	nkeo-s	Mexíkóflói
@@ -664,7 +627,6 @@ og	c	og
 sunnanverðri	lveþsf	sunnanverður
 Afríku	nveþ-s	Afríka
 .	.	.
-
 Á	aþ	á
 öllum	fohfþ	allur
 þessum	fahfþ	þessi
@@ -681,7 +643,6 @@ tafarlaust	aa	tafarlaust
 til	ae	til
 hjálpar	nvee	hjálp
 .	.	.
-
 Þeir	fakfn	sá
 sem	ct	sem
 áhuga	nkeo	áhugi
@@ -714,14 +675,12 @@ að	cn	að
 smella	sng	smella
 hér	aa	hér
 .	.	.
-
 Sjá	sng	sjá
 stöðuskýrsluna	nveog	stöðuskýrsla
 á	aþ	á
 pdf-formi	nheþ	pdf-form
 hér	aa	hér
 .	.	.
-
 NÁTTÚRUHAMFARIR	nvfn	náttúruhamfarir
 Í	aþ	í
 SUÐUR-ASÍU	nveþ-s	SUÐUR-ASÍA
@@ -734,13 +693,11 @@ SÖFNUNARSÍMI	nken	söfnunarsími
 -	-	-
 STYÐJUM	svg1fn	styðja
 BÖRNIN	nhfog	barn
-
 Ljósmynd	nven	ljósmynd
 :	:	:
 Reuters	e	Reuters
 /	/	/
 Alternet	e	Alternet
-
 Barnaheill	nhfn-s	Barnaheill
 -	-	-
 Save	e	Save
@@ -755,7 +712,6 @@ hamfarasvæðum	nhfþ	hamfarasvæði
 Suður-Asíu	nveþ-s	Suður-Asía
 og	c	og
 Mið-Ameríku	nveþ-s	Mið-Ameríka
-
 Hundruð	nhfn	hundrað
 þúsunda	nvfe	þúsund
 barna	nhfe	barn
@@ -782,7 +738,6 @@ Guatemala	e	Guatemala
 síðustu	lveþve	síðari
 viku	nveþ	vika
 .	.	.
-
 Talið	sþghen	telja
 er	sfg3en	vera
 að	c	að
@@ -815,7 +770,6 @@ undir	aþ	undir
 berum	lkeþsf	ber
 himni	nkeþ	himinn
 .	.	.
-
 Í	aþ	í
 Mið-Ameríku	nveþ-s	Mið-Ameríka
 eru	sfg3fn	vera
@@ -824,7 +778,6 @@ fellibylsins	nkeeg	fellibylur
 Stan	e	Stan
 hörmulegar	lvfnsf	hörmulegur
 .	.	.
-
 Barnaheill	nhfn-s	Barnaheill
 -	-	-
 Save	e	Save
@@ -842,7 +795,6 @@ börnum	nhfþ	barn
 þessum	fahfþ	þessi
 hamfarasvæðum	nhfþ	hamfarasvæði
 .	.	.
-
 Öllu	foheþ	allur
 fé	nheþ	fé
 sem	ct	sem
@@ -877,7 +829,6 @@ neyðaraðstoð	nveo	neyðaraðstoð
 í	ao	í
 stað	nkeo	staður
 .	.	.
-
 Þeir	fakfn	sá
 sem	ct	sem
 vilja	sfg3fn	vilja
@@ -914,15 +865,12 @@ krónur	nvfn	króna
 símareikning	nkeo	símareikningur
 viðkomandi	lkeeof	viðkomandi
 .	.	.
-
 22.12.	ta	22.12.
-
 2005	ta	2005
 Hátíð	nven	hátíð
 trjánna	nhfeg	tré
 2005	ta	2005
 :	:	:
-
 Um	aa	um
 tíu	tfvfn	tíu
 milljónir	nvfn	milljón
@@ -957,7 +905,6 @@ trjánna	nhfeg	tré
 desember	nkeo	desember
 síðastliðinn	lkeoof	síðastliðinn
 .	.	.
-
 Hátíðin	nveng	hátíð
 var	sfg3eþ	vera
 haldin	sþgven	halda
@@ -981,7 +928,6 @@ eftir	ao	eftir
 þrettán	tfkfo	þrettán
 listamenn	nkfo	listamaður
 .	.	.
-
 Barnaheill	nhfn-s	Barnaheill
 -	-	-
 Save	e	Save
@@ -1030,9 +976,7 @@ sína	feveo	sinn
 þágu	nveo	þága
 málefnisins	nheeg	málefni
 .	.	.
-
 7.12.	ta	7.12.
-
 2005	ta	2005
 Áskorun	nven	áskorun
 stjórnar	nvee	stjórn
@@ -1046,7 +990,6 @@ Children	e	Children
 -	-	-
 til	ae	til
 Alþingis	nhee-s	Alþingi
-
 Stjórn	nven	stjórn
 Barnaheilla	nhfe-s	Barnaheill
 skorar	sfg3en	skora
@@ -1071,7 +1014,6 @@ ekki	aa	ekki
 neinn	foken	neinn
 stuðningur	nken	stuðningur
 .	.	.
-
 Í	aþ	í
 áskoruninni	nveþg	áskorun
 segir	sfg3en	segja
@@ -1088,7 +1030,6 @@ félagasamtökum	nhfþ	félagasamtök
 júní	nkeo	júní
 1994	ta	1994
 .	.	.
-
 Hún	fpven	hún
 hefur	sfg3en	hafa
 undanfarin	lhfosf	undanfarinn
@@ -1121,7 +1062,6 @@ fyrir	ao	fyrir
 Íslands	nhee-s	Ísland
 hönd	nveo	hönd
 .	.	.
-
 Stjórn	nven	stjórn
 Barnaheilla	nhfe-s	Barnaheill
 harmar	sfg3en	harma
@@ -1150,7 +1090,6 @@ alvarleg	lhfosf	alvarlegur
 starfsemi	nveo	starfsemi
 skrifstofunnar	nveeg	skrifstofa
 .	.	.
-
 Gert	sþghen	gera
 er	sfg3en	vera
 ráð	nhen	ráð
@@ -1170,7 +1109,6 @@ til	ae	til
 ákveðinna	lhfesf	ákveðinn
 verkefna	nhfe	verkefni
 .	.	.
-
 Með	aþ	með
 þessari	faveþ	þessi
 ráðstöfun	nveþ	ráðstöfun
@@ -1202,7 +1140,6 @@ til	ae	til
 hennar	fpvee	hún
 verða	sfg3fn	verða
 .	.	.
-
 Styrkveitingar	nvfn	styrkveiting
 til	ae	til
 einstakra	lhfesf	einstakur
@@ -1218,7 +1155,6 @@ beint	aa	beint
 frá	aþ	frá
 Alþingi	nheþ-s	Alþingi
 .	.	.
-
 Ísland	nhen-s	Ísland
 á	sfg3en	eiga
 aðild	nveo	aðild
@@ -1247,7 +1183,6 @@ mannréttindum	nhfþ	mannréttindi
 heildstæðan	lkeosf	heildstæður
 hátt	nkeo	háttur
 .	.	.
-
 Mannréttindafulltrúar	nkfn	mannréttindafulltrúi
 Sameinuðu	lvfevf	sameinaður
 þjóðanna	nvfeg	þjóð
@@ -1268,7 +1203,6 @@ eftirlitsnefndir	nvfn	eftirlitsnefnd
 Sameinuðu	lvfevf	sameinaður
 þjóðanna	nvfeg	þjóð
 .	.	.
-
 Í	aþ	í
 nágrannalöndum	nhfþ	nágrannaland
 okkar	fp1fe	ég
@@ -1289,7 +1223,6 @@ hér	aa	hér
 á	aþ	á
 landi	nheþ	land
 .	.	.
-
 Stjórn	nven	stjórn
 Barnaheilla	nhfe-s	Barnaheill
 hvetur	sfg3en	hvetja
@@ -1330,7 +1263,6 @@ og	c	og
 erlendis	aa	erlendis
 .	.	.
 »	»	»
-
 Barnaheill	nhfn-s	Barnaheill
 þakka	sfg3fn	þakka
 stuðning	nkeo	stuðningur
@@ -1348,9 +1280,7 @@ heillaríks	lheesf	heillaríkur
 komandi	lheeof	komandi
 árs	nhee	ár
 .	.	.
-
 1.12.	ta	1.12.
-
 2005	ta	2005
 Fyrirlestur	nken	fyrirlestur
 um	ao	um
@@ -1385,7 +1315,6 @@ Suðurlandsbraut	nveþ-s	Suðurlandsbraut
 3.	ta	3.
 hæð	nveþ	hæð
 .	.	.
-
 Fyrirlesturinn	nkeng	fyrirlestur
 er	sfg3en	vera
 liður	nken	liður
@@ -1397,13 +1326,10 @@ gegn	aþ	gegn
 kynbundnu	lheþsf	kynbundinn
 ofbeldi	nheþ	ofbeldi
 .	.	.
-
 Allir	fokfn	allur
 velkomnir	lkfnsf	velkominn
 .	.	.
-
 20.11.	ta	20.11.
-
 2005	ta	2005
 Ólafur	nken-s	Ólafur
 Ó.	as	Ó.
@@ -1438,7 +1364,6 @@ Guðmundsson	nken-s	Guðmundsson
 yfirlæknir	nken	yfirlæknir
 BUGL	nxee-s	BUGL
 .	.	.
-
 Viðurkenningin	nveng	viðurkenning
 var	sfg3eþ	vera
 veitt	sþgven	veita
@@ -1450,7 +1375,6 @@ athöfn	nveo	athöfn
 í	aþ	í
 Þjóðmenningarhúsinu	nheþgs	Þjóðmenningarhúsið
 .	.	.
-
 Stjórn	nven	stjórn
 Barnaheilla	nhfe-s	Barnaheill
 ákvað	sfg3eþ	ákveða
@@ -1471,7 +1395,6 @@ Barnasáttmálans	nkeegs	barnasáttmáli
 20.	ta	20.
 nóvember	nkeo	nóvember
 .	.	.
-
 Á	aþ	á
 þeim	fakeþ	sá
 degi	nkeþ	dagur
@@ -1485,7 +1408,6 @@ allsherjarþingi	nheþ	allsherjarþing
 Sameinuðu	lvfevf	sameinaður
 þjóðanna	nvfeg	þjóð
 .	.	.
-
 Barnaheill	nhfn-s	Barnaheill
 -	-	-
 Save	e	Save
@@ -1514,7 +1436,6 @@ leiðarljósi	nheþ	leiðarljós
 sínu	feheþ	sinn
 starfi	nheþ	starf
 .	.	.
-
 Áður	aa	áður
 hafa	sfg3fn	hafa
 Barnahús	nhen-s	Barnahús
@@ -1529,9 +1450,7 @@ hlotið	ssg	hljóta
 viðurkenningu	nveo	viðurkenning
 Barnaheilla	nhfe-s	Barnaheill
 .	.	.
-
 Meira	lhenvm	mikill
-
 Jólakort	nhfn	jólakort
 Barnaheilla	nhfe-s	Barnaheill
 -	-	-
@@ -1541,7 +1460,6 @@ Children	e	Children
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 2005	ta	2005
-
 Jólakort	nhfn	jólakort
 Barnaheilla	nhfe-s	Barnaheill
 2005	ta	2005
@@ -1550,7 +1468,6 @@ komin	lhfnsf	kominn
 í	ao	í
 sölu	nveo	sala
 .	.	.
-
 Í	ao	í
 ár	nheo	ár
 eru	sfg3fn	vera
@@ -1566,7 +1483,6 @@ send	sþghfn	senda
 styrktarfélögum	nkfþ	styrktarfélagi
 samtakanna	nhfeg	samtök
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 hægt	lhensf	hægur
@@ -1603,7 +1519,6 @@ hér	aa	hér
 að	aa	að
 ofan	aa	ofan
 .	.	.
-
 Ólafur	nken-s	Ólafur
 Ó.	as	Ó.
 Guðmundsson	nken-s	Guðmundsson
@@ -1637,7 +1552,6 @@ Guðmundsson	nken-s	Guðmundsson
 yfirlæknir	nken	yfirlæknir
 BUGL	nxee-s	BUGL
 .	.	.
-
 Viðurkenningin	nveng	viðurkenning
 var	sfg3eþ	vera
 veitt	sþgven	veita
@@ -1649,7 +1563,6 @@ athöfn	nveo	athöfn
 í	aþ	í
 Þjóðmenningarhúsinu	nheþgs	Þjóðmenningarhúsið
 .	.	.
-
 Stjórn	nven	stjórn
 Barnaheilla	nhfe-s	Barnaheill
 ákvað	sfg3eþ	ákveða
@@ -1670,7 +1583,6 @@ Barnasáttmálans	nkeegs	barnasáttmáli
 20.	ta	20.
 nóvember	nkeo	nóvember
 .	.	.
-
 Á	aþ	á
 þeim	fakeþ	sá
 degi	nkeþ	dagur
@@ -1684,7 +1596,6 @@ allsherjarþingi	nheþ	allsherjarþing
 Sameinuðu	lvfevf	sameinaður
 þjóðanna	nvfeg	þjóð
 .	.	.
-
 Barnaheill	nhfn-s	Barnaheill
 -	-	-
 Save	e	Save
@@ -1713,7 +1624,6 @@ leiðarljósi	nheþ	leiðarljós
 sínu	feheþ	sinn
 starfi	nheþ	starf
 .	.	.
-
 Áður	aa	áður
 hafa	sfg3fn	hafa
 Barnahús	nhen-s	Barnahús
@@ -1728,7 +1638,6 @@ hlotið	ssg	hljóta
 viðurkenningu	nveo	viðurkenning
 Barnaheilla	nhfe-s	Barnaheill
 .	.	.
-
 Guðbjörg	nven-s	Guðbjörg
 Björnsdóttir	nven-s	Björnsdóttir
 ,	,	,
@@ -1768,7 +1677,6 @@ Sigrúnu	nveþ-s	Sigrún
 í	aþ	í
 Bergvík	nveþ-s	Bergvík
 .	.	.
-
 Guðbjörg	nven-s	Guðbjörg
 heldur	sfg3en	halda
 á	aþ	á
@@ -1777,7 +1685,6 @@ Barnasáttmála	nkeþ-s	barnasáttmáli
 Sameinuðu	lvfevf	sameinaður
 þjóðanna	nvfeg	þjóð
 .	.	.
-
 Barnaheill	nhfn-s	Barnaheill
 veita	sfg3fn	veita
 Ólafi	nkeþ-s	Ólafur
@@ -1803,7 +1710,6 @@ geðheilbrigðisþjónustu	nveþ	geðheilbrigðisþjónusta
 að	cn	að
 halda	sng	halda
 .	.	.
-
 Hann	fpken	hann
 hefur	sfg3en	hafa
 sýnt	ssg	sýna
@@ -1824,7 +1730,6 @@ sterkur	lkensf	sterkur
 málsvari	nken	málsvari
 hans	fpkee	hann
 .	.	.
-
 Ólafur	nken-s	Ólafur
 hefur	sfg3en	hafa
 ítrekað	aa	ítrekað
@@ -1861,7 +1766,6 @@ t.d.	as	t.d.
 á	aþ	á
 heilsugæslustöðvum	nvfþ	heilsugæslustöð
 .	.	.
-
 Þannig	aa	þannig
 sé	svg3en	vera
 best	aae	vel
@@ -1879,7 +1783,6 @@ er	sfg3en	vera
 á	aþ	á
 landinu	nheþg	land
 .	.	.
-
 Ólafur	nken-s	Ólafur
 hefur	sfg3en	hafa
 bent	ssg	benda
@@ -1921,7 +1824,6 @@ orðar	sfg3en	orða
 það	fpheo	það
 sjálfur	fbken	sjálfur
 .	.	.
-
 Barnaheill	nhfn-s	Barnaheill
 vilja	sfg3fn	vilja
 með	aþ	með
@@ -1941,7 +1843,6 @@ hans	fpkee	hann
 standa	sfg3fn	standa
 fyrir	aa	fyrir
 .	.	.
-
 Ólafur	nken-s	Ólafur
 lauk	sfg3eþ	ljúka
 kandídatsprófi	nheþ	kandídatspróf
@@ -1952,7 +1853,6 @@ Háskóla	nkee-s	Háskóli
 árið	nheog	ár
 1986	ta	1986
 .	.	.
-
 Næstu	lhfove	næstur
 fjögur	tfhfo	fjórir
 árin	nhfog	ár
@@ -1969,7 +1869,6 @@ hér	aa	hér
 á	aþ	á
 landi	nheþ	land
 .	.	.
-
 Að	aþ	að
 þeim	fakeþ	sá
 tíma	nkeþ	tími
@@ -1992,7 +1891,6 @@ Lundi	nkeþ-s	Lundur
 Svíþjóð	nveþ-s	Svíþjóð
 1990-1994	ta	1990-1994
 .	.	.
-
 Sömu	fbveo	sami
 sérgrein	nveo	sérgrein
 lagði	sfg3eþ	leggja
@@ -2008,7 +1906,6 @@ Englandi	nheþ-s	England
 árið	nheog	ár
 1995-1996	ta	1995-1996
 .	.	.
-
 Ólafur	nken-s	Ólafur
 lauk	sfg3eþ	ljúka
 einnig	aa	einnig
@@ -2025,7 +1922,6 @@ Háskóla	nkee-s	Háskóli
 árið	nheog	ár
 1999	ta	1999
 .	.	.
-
 Hann	fpken	hann
 vann	sfg3eþ	vinna
 sem	c	sem
@@ -2051,7 +1947,6 @@ við	ao	við
 læknadeild	nveo	læknadeild
 HÍ	as	HÍ
 .	.	.
-
 Hann	fpken	hann
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -2061,7 +1956,6 @@ frá	aþ	frá
 árinu	nheþg	ár
 1997	ta	1997
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 einnig	aa	einnig
@@ -2074,7 +1968,6 @@ sérfræðingur	nken	sérfræðingur
 og	c	og
 2001-2003	ta	2001-2003
 .	.	.
-
 Ólafur	nken-s	Ólafur
 er	sfg3en	vera
 einn	foken	einn
@@ -2106,7 +1999,6 @@ og	c	og
 fjölskyldna	nvfe	fjölskylda
 þeirra	fphfe	það
 .	.	.
-
 Hann	fpken	hann
 hefur	sfg3en	hafa
 einnig	aa	einnig
@@ -2131,7 +2023,6 @@ lífsgæði	nhfo	lífsgæði
 og	c	og
 erfðarannsóknir	nvfo	erfðarannsókn
 .	.	.
-
 Barnaheill	nhfn-s	Barnaheill
 ætla	sfg3fn	ætla
 áfram	aa	áfram
@@ -2163,7 +2054,6 @@ og	c	og
 öðrum	fohfþ	annar
 verkefnum	nhfþ	verkefni
 .	.	.
-
 Einn	foken	einn
 liður	nken	liður
 í	aþ	í
@@ -2186,7 +2076,6 @@ SAS	as	SAS
 Hótel	nhee-s	hótel
 Sögu	nvee-s	Saga
 .	.	.
-
 VIÐURKENNING	nven	viðurkenning
 BARNAHEILLA	nhfe-s	Barnaheill
 fyrir	ao	fyrir
@@ -2201,7 +2090,6 @@ réttinda	nhfe	réttindi
 20.	ta	20.
 nóvember	nkeo	nóvember
 2005	ta	2005
-
 Guðbjörg	nven-s	Guðbjörg
 Björnsdóttir	nven-s	Björnsdóttir
 ,	,	,
@@ -2212,7 +2100,6 @@ flytur	sfg3en	flytja
 ávarp	nheo	ávarp
 sitt	feheo	sinn
 .	.	.
-
 Við	ao	við
 háborðið	nheog	háborð
 sitja	sfg3fn	sitja
@@ -2245,10 +2132,8 @@ og	c	og
 verndari	nken	verndari
 Barnaheilla	nhfe-s	Barnaheill
 .	.	.
-
 LÝÐHEILSUSTÖÐ	nven-s	Lýðheilsustöð
 20.4.2004	ta	20.4.2004
-
 Lýðheilsustöð	nven-s	Lýðheilsustöð
 tók	sfg3eþ	taka
 til	ae	til
@@ -2262,7 +2147,6 @@ lögum	nhfþ	lag
 nr.	as	nr.
 18/2003	ta	18/2003
 .	.	.
-
 Lýðheilsustöð	nven-s	Lýðheilsustöð
 tilheyrir	sfg3en	tilheyra
 heilbrigðiskerfi	nheþ	heilbrigðiskerfi
@@ -2275,10 +2159,8 @@ heilbrigðis-	nhee	heilbrigðisráðuneyti
 og	c	og
 tryggingamálaráðuneytis	nhee	tryggingamálaráðuneyti
 .	.	.
-
 Um	ao	um
 Lýðheilsustöð	nveo-s	Lýðheilsustöð
-
 Með	aþ	með
 starfsemi	nveþ	starfsemi
 sinni	feveþ	sinn
@@ -2330,7 +2212,6 @@ almennings	nkee	almenningur
 þessu	faheþ	þessi
 sviði	nheþ	svið
 .	.	.
-
 Lýðheilsustöð	nven-s	Lýðheilsustöð
 er	sfg3en	vera
 stjórnvöldum	nhfþ	stjórnvald
@@ -2359,7 +2240,6 @@ starfa	sfg3fn	starfa
 sviði	nheþ	svið
 lýðheilsu	nvee	lýðheilsa
 .	.	.
-
 Frá	aþ	frá
 stofnun	nveþ	stofnun
 Lýðheilsustöðvar	nvee-s	Lýðheilsustöð
@@ -2402,7 +2282,6 @@ hreyfing	nven	hreyfing
 og	c	og
 skólafæðsla	nven	skólafæðsla
 .	.	.
-
 Unnið	sþghen	vinna
 er	sfg3en	vera
 sams	fbkee	samur
@@ -2421,7 +2300,6 @@ einnig	aa	einnig
 mörgum	lhfþsf	margur
 nýjum	lhfþsf	nýr
 .	.	.
-
 Helsti	lkenve	heldri
 ávinningurinn	nkeng	ávinningur
 er	sfg3en	vera
@@ -2439,7 +2317,6 @@ forvörnum	nvfþ	forvörn
 þessum	fahfþ	þessi
 sviðum	nhfþ	svið
 .	.	.
-
 Einkennismerki	nhen	einkennismerki
 Lýðheilsustöðvar	nvee-s	Lýðheilsustöð
 var	sfg3eþ	vera
@@ -2456,7 +2333,6 @@ sér	fpveþ	sig
 í	ao	í
 hring	nkeo	hringur
 .	.	.
-
 Merkið	nheng	merki
 á	sfg3en	eiga
 að	cn	að
@@ -2482,7 +2358,6 @@ hafa	sfg3fn	hafa
 eigin	lveoof	eigin
 heilbrigði	nheo	heilbrigði
 .	.	.
-
 Lýðheilsa	nven	lýðheilsa
 er	sfg3en	vera
 hugtak	nhen	hugtak
@@ -2493,7 +2368,6 @@ heilsufar	nheo	heilsufar
 eða	c	eða
 þjóðfélagshóps	nkee	þjóðfélagshópur
 .	.	.
-
 Lýðheilsustarf	nhen	lýðheilsustarf
 miðar	nkfn	miði
 að	aþ	að
@@ -2513,7 +2387,6 @@ samfélagslegri	lveþsf	samfélagslegur
 á	aþ	á
 heilbrigði	nheþ	heilbrigði
 .	.	.
-
 Starfið	nheng	starf
 byggir	sfg3en	byggja
 á	aþ	á
@@ -2529,7 +2402,6 @@ og	c	og
 félagslegra	lkfesf	félagslegur
 áhrifaþátta	nkfe	áhrifaþáttur
 .	.	.
-
 Starfsfólk	nhen	starfsfólk
 Lýðheilsustöðvar	nvee-s	Lýðheilsustöð
 getur	sfg3en	geta
@@ -2542,11 +2414,9 @@ og	c	og
 starfsemi	nveo	starfsemi
 stöðvarinnar	nveeg	stöð
 .	.	.
-
 Staðsetning	nven	staðsetning
 Lýðheilsustöðvar	nvee-s	Lýðheilsustöð
 22.3.2004	ta	22.3.2004
-
 Lýðheilsustöð	nven-s	Lýðheilsustöð
 er	sfg3en	vera
 til	ae	til
@@ -2561,7 +2431,6 @@ hæð	nveþ	hæð
 105	ta	105
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Opið	lhensf	opinn
 er	sfg3en	vera
 frá	aþ	frá
@@ -2573,7 +2442,6 @@ og	c	og
 virka	lkfosf	virkur
 daga	nkfo	dagur
 .	.	.
-
 Lýðheilsustöð	nven-s	Lýðheilsustöð
 er	sfg3en	vera
 við	ao	við
@@ -2586,16 +2454,13 @@ mjög	aa	mjög
 margra	lvfesf	margur
 strætisvagnaleiða	nvfe	strætisvagnaleið
 .	.	.
-
 Sjá	sbg2en	sjá
 upplýsingar	nvfo	upplýsing
 Strætó	nkee-s	strætó
 .	.	.
-
 Stefna	nven	stefna
 Lýðheilsustöðvar	nvee-s	Lýðheilsustöð
 29.6.2004	ta	29.6.2004
-
 Lýðheilsustöð	nven-s	Lýðheilsustöð
 tók	sfg3eþ	taka
 til	ae	til
@@ -2616,7 +2481,6 @@ heilbrigðis-	nheog	heilbrigðisráðuneyti
 og	c	og
 tryggingamálaráðuneytið	nheog	tryggingamálaráðuneyti
 .	.	.
-
 Lýðheilsa	nven	lýðheilsa
 er	sfg3en	vera
 hugtak	nhen	hugtak
@@ -2627,7 +2491,6 @@ heilsufar	nheo	heilsufar
 eða	c	eða
 þjóðfélagshóps	nkee	þjóðfélagshópur
 .	.	.
-
 Lýðheilsustarf	nhen	lýðheilsustarf
 miðar	sfg3en	miða
 að	aþ	að
@@ -2647,7 +2510,6 @@ samfélagslegri	lveþsf	samfélagslegur
 á	aþ	á
 heilbrigði	nheþ	heilbrigði
 .	.	.
-
 Starfið	nheng	starf
 byggist	sfm3en	byggja
 á	aþ	á
@@ -2664,10 +2526,8 @@ umhverfis-	nhfe	umhverfismál
 og	c	og
 efnahagsmála	nhfe	efnahagsmál
 .	.	.
-
 Framtíðarsýn	nven	framtíðarsýn
 Lýðheilsustöðvar	nvee-s	Lýðheilsustöð
-
 Árið	nheog	ár
 2008	ta	2008
 :	:	:
@@ -2702,7 +2562,6 @@ talsmanna	nkfe	talsmaður
 lýðheilsu	nvee	lýðheilsa
 í	aþ	í
 samfélaginu	nheþg	samfélag
-
 er	sfg3en	vera
 Lýðheilsustöð	nven-s	Lýðheilsustöð
 í	aþ	í
@@ -2718,7 +2577,6 @@ rannsóknum	nvfþ	rannsókn
 á	aþ	á
 sviði	nheþ	svið
 lýðheilsu	nvee	lýðheilsa
-
 gengst	sfm3en	ganga
 Lýðheilsustöð	nven-s	Lýðheilsustöð
 reglulega	aa	reglulega
@@ -2735,7 +2593,6 @@ niðurstöður	nvfo	niðurstaða
 lýðheilsustarfi	nheþ	lýðheilsustarf
 og	c	og
 stefnumótun	nveþ	stefnumótun
-
 hefur	sfg3en	hafa
 grunnur	nken	grunnur
 verið	ssg	vera
@@ -2750,14 +2607,12 @@ eru	sfg3fn	vera
 stjórnvaldsaðgerða	nvfe	stjórnvaldsaðgerð
 á	ao	á
 heilsu	nveo	heilsa
-
 er	sfg3en	vera
 Lýðheilsustöð	nven-s	Lýðheilsustöð
 í	aþ	í
 fjölþættu	lheþsf	fjölþættur
 alþjóðlegu	lheþsf	alþjóðlegur
 samstarfi	nheþ	samstarf
-
 hefur	sfg3en	hafa
 Lýðheilsustöð	nven-s	Lýðheilsustöð
 skapað	ssg	skapa
@@ -2771,7 +2626,6 @@ byggist	sfm3en	byggja
 trausti	nheþ	traust
 og	c	og
 trúverðugleika	nkeþ	trúverðugleiki
-
 er	sfg3en	vera
 markvisst	aa	markvisst
 unnið	sþghen	vinna
@@ -2785,11 +2639,9 @@ skilgreindum	lkfþsf	skilgreindur
 heilsuvísum	nkfþ	heilsuvísir
 »	»	»
 .	.	.
-
 Ársskýrsla	nven	ársskýrsla
 Lýðheilsustöðvar	nvee-s	Lýðheilsustöð
 29.6.2004	ta	29.6.2004
-
 Fyrsta	lvenve	fyrstur
 ársskýrsla	nven	ársskýrsla
 Lýðheilsustöðvar	nvee-s	Lýðheilsustöð
@@ -2811,7 +2663,6 @@ stöðarinnar	x	stöð
 árið	nheog	ár
 2004	ta	2004
 .	.	.
-
 Þar	aa	þar
 koma	sfg3fn	koma
 m.a.	as	m.a.
@@ -2831,11 +2682,9 @@ og	c	og
 gildi	nhfo	gildi
 starfsmanna	nkfe	starfsmaður
 .	.	.
-
 Skipurit	nhen	skipurit
 Lýðheilsustöðvar	nvee-s	Lýðheilsustöð
 23.3.2004	ta	23.3.2004
-
 Skipurit	nhen	skipurit
 Lýðheilsustöðvar	nvee-s	Lýðheilsustöð
 var	sfg3eþ	vera
@@ -2847,7 +2696,6 @@ tryggingamálaráðuneytinu	nheþg	tryggingamálaráðuneyti
 áramótin	nhfog	áramót
 2003-2004	ta	2003-2004
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 skipuritinu	nheþg	skipurit
 stýrir	sfg3en	stýra
@@ -2869,7 +2717,6 @@ og	c	og
 og	c	og
 samskiptasviði	nheþ	samskiptasvið
 .	.	.
-
 Á	aþ	á
 þessum	fahfþ	þessi
 sviðum	nhfþ	svið
@@ -2881,7 +2728,6 @@ að	aþ	að
 verkefnum	nhfþ	verkefni
 Lýðheilsustöðvar	nvee-s	Lýðheilsustöð
 .	.	.
-
 Landsnefnd	nven	landsnefnd
 um	ao	um
 lýðheilsu	nveo	lýðheilsa
@@ -2898,11 +2744,9 @@ að	aþ	að
 starfsemi	nveþ	starfsemi
 Lýðheilsustöðvar	nvee-s	Lýðheilsustöð
 .	.	.
-
 Áfengis-	nvfn	áfengisvörn
 og	c	og
 vímuvarnir	nvfn	vímuvarnir
-
 Hnapparnir	nkfng	hnappur
 til	ae	til
 vinstri	lveevf	vinstri
@@ -2916,7 +2760,6 @@ tengist	sfm3en	tengja
 og	c	og
 vímuvörnum	nvfþ	vímuvarnir
 .	.	.
-
 Fliparnir	nkfng	flipi
 fyrir	aa	fyrir
 ofan	aa	ofan
@@ -2934,13 +2777,11 @@ heyra	sfg3fn	heyra
 undir	ao	undir
 Lýðheilsustöð	nveo-s	Lýðheilsustöð
 .	.	.
-
 Verkefnisstjóri	nken	verkefnisstjóri
 :	:	:
 Rafn	nken-s	Rafn
 M.	as	M.
 Jónsson	nken-s	Jónsson
-
 Öll	foven	allur
 starfsemi	nven	starfsemi
 sem	ct	sem
@@ -2955,7 +2796,6 @@ flust	ssm	flytja
 til	ae	til
 Lýðheilsustöðvar	nvee-s	Lýðheilsustöð
 .	.	.
-
 Ráðið	nheng	ráð
 starfar	sfg3en	starfa
 áfram	aa	áfram
@@ -2971,7 +2811,6 @@ málaflokk	nkeo	málaflokkur
 hjá	aþ	hjá
 Lýðheilsustöð	nveþ-s	Lýðheilsustöð
 .	.	.
-
 Starfsemi	nven	starfsemi
 Lýðheilsustöðvar	nvee-s	Lýðheilsustöð
 á	aþ	á
@@ -2994,7 +2833,6 @@ styrkveitingar	nvfo	styrkveiting
 úr	aþ	úr
 Forvarnasjóði	nkeþ-s	forvarnasjóður
 .	.	.
-
 Lýðheilsustöð	nven-s	Lýðheilsustöð
 er	sfg3en	vera
 miðstöð	nven	miðstöð
@@ -3002,7 +2840,6 @@ vímuvarna	nvfe	vímuvarnir
 í	aþ	í
 landinu	nheþg	land
 .	.	.
-
 Stöðin	nveng	stöð
 vinnur	sfg3en	vinna
 fræðsluefni	nheo	fræðsluefni
@@ -3029,7 +2866,6 @@ vinna	sfg3fn	vinna
 að	aþ	að
 vímuvörnum	nvfþ	vímuvarnir
 .	.	.
-
 Á	aþ	á
 vegum	nkfþ	vegur
 Lýðheilsustöðvar	nvee-s	Lýðheilsustöð
@@ -3042,7 +2878,6 @@ og	c	og
 vímuefnaneyslu	nveþ	vímuefnaneysla
 landsmanna	nkfe	landsmaður
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 safnað	sþghen	safna
@@ -3064,7 +2899,6 @@ afleiðingar	nvfo	afleiðing
 þeirrar	favee	sá
 neyslu	nvee	neysla
 .	.	.
-
 Lýðheilsustöð	nven-s	Lýðheilsustöð
 á	sfg3en	eiga
 í	aþ	í
@@ -3086,9 +2920,7 @@ sviði	nheþ	svið
 og	c	og
 vímuvarna	nvfe	vímuvarnir
 .	.	.
-
 Slysavarnir	nvfn	slysavörn
-
 Hnapparnir	nkfng	hnappur
 til	ae	til
 vinstri	lveevf	vinstri
@@ -3102,7 +2934,6 @@ sem	ct	sem
 tengist	sfm3en	tengja
 slysavörnum	nvfþ	slysavörn
 .	.	.
-
 Lituðu	lkfnvf	litaður
 fliparnir	nkfng	flipi
 hér	aa	hér
@@ -3122,14 +2953,12 @@ heyra	sfg3fn	heyra
 undir	ao	undir
 Lýðheilsustöð	nveo-s	Lýðheilsustöð
 .	.	.
-
 Verkefnisstjóri	nken	verkefnisstjóri
 :	:	:
 Jóhanna	nven-s	Jóhanna
 Rósa	nven-s	Rósa
 Þorsteinsdóttir	nven-s	Þorsteinsdóttir
 .	.	.
-
 Starfsemi	nven	starfsemi
 Lýðheilsustöðvar	nvee-s	Lýðheilsustöð
 á	aþ	á
@@ -3147,7 +2976,6 @@ vinnu	nveþ	vinna
 við	ao	við
 forvarnaverkefni	nhfo	forvarnaverkefni
 .	.	.
-
 Lýðheilsustöð	nven	lýðheilsustöð
 er	sfg3en	vera
 faglegur	lkensf	faglegur
@@ -3156,7 +2984,6 @@ stjórnvalda	nhfe	stjórnvald
 um	ao	um
 slysavarnir	nvfo	slysavörn
 .	.	.
-
 Markmiðið	nheng	markmið
 er	sfg3en	vera
 að	cn	að
@@ -3169,7 +2996,6 @@ af	aþ	af
 völdum	nhfþ	vald
 slysa	nhfe	slys
 .	.	.
-
 Sérstaklega	aa	sérstaklega
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -3189,7 +3015,6 @@ undir	ao	undir
 starfsemi	nveo	starfsemi
 Lýðheilsustöðvar	nvee-s	Lýðheilsustöð
 .	.	.
-
 Unnið	sþghen	vinna
 er	sfg3en	vera
 fræðsluefni	nhen	fræðsluefni
@@ -3206,7 +3031,6 @@ heilsugæslustöðvum	nvfþ	heilsugæslustöð
 og	c	og
 víðar	aam	víða
 .	.	.
-
 Lýðheilsustöð	nven-s	Lýðheilsustöð
 er	sfg3en	vera
 í	aþ	í
@@ -3222,7 +3046,6 @@ samtök	nhfo	samtök
 sviði	nheþ	svið
 slysavarna	nvfe	slysavörn
 .	.	.
-
 Slysavarnaráð	nhen	slysavarnaráð
 fellur	sfg3en	falla
 undir	ao	undir
@@ -3236,7 +3059,6 @@ af	aþ	af
 sérfræðiráðum	nhfþ	sérfræðiráð
 stöðvarinnar	nveeg	stöð
 .	.	.
-
 Með	aþ	með
 lögum	nhfþ	lag
 nr.	as	nr.
@@ -3268,7 +3090,6 @@ skráning	nven	skráning
 sé	svg3en	vera
 samræmd	sþgven	samræma
 .	.	.
-
 Landlæknisembættið	nheng	landlæknisembættið
 og	c	og
 slysavarnaráð	nhen	slysavarnaráð
@@ -3292,7 +3113,6 @@ er	sfg3en	vera
 hjá	aþ	hjá
 Landlæknisembættinu	nheþgs	Landlæknisembættið
 .	.	.
-
 (	(	(
 smellið	sbg2fn	smella
 á	ao	á
@@ -3304,7 +3124,6 @@ að	cn	að
 skoða	sng	skoða
 slysaskrána	nveog	slysaskrá
 )	)	)
-
 Árvekni	nven-s	Árvekni
 Um	ao	um
 upphaf	nheo	upphaf
@@ -3312,7 +3131,6 @@ og	c	og
 hlutverk	nheo	hlutverk
 Árvekni	nvee-s	Árvekni
 22.3.2004	ta	22.3.2004
-
 Ríkisstjórn	nven	ríkisstjórn
 Íslands	nhee-s	Ísland
 samþykkti	sfg3eþ	samþykkja
@@ -3340,7 +3158,6 @@ börnum	nhfþ	barn
 og	c	og
 unglingum	nkfþ	unglingur
 .	.	.
-
 Aðdraganda	nkeo	aðdragandi
 þess	fahee	sá
 verkefnis	nhee	verkefni
@@ -3363,7 +3180,6 @@ barnaslysavarnafulltrúa	nkee	barnaslysavarnafulltrúi
 Slysavarnafélags	nhee-s	Slysavarnafélag
 Íslands	nhee-s	Ísland
 .	.	.
-
 Í	aþ	í
 samvinnu	nveþ	samvinna
 við	ao	við
@@ -3387,7 +3203,6 @@ barna	nhfe	barn
 og	c	og
 unglinga	nkfe	unglingur
 .	.	.
-
 Tillögur	nvfn	tillaga
 um	ao	um
 slíkt	fbheo	slíkur
@@ -3399,7 +3214,6 @@ júlí	nkeþ	júlí
 kynntar	sþgvfn	kynna
 heilbrigðisráðherra	nkeþ	heilbrigðisráðherra
 .	.	.
-
 Eftir	ao	eftir
 samþykkt	nveo	samþykkt
 ríkisstjórnar	nvee	ríkisstjórn
@@ -3420,7 +3234,6 @@ framhaldi	nheþ	framhald
 af	aþ	af
 því	fpheþ	það
 .	.	.
-
 Verkefnisstjórn	nven	verkefnisstjórn
 er	sfg3en	vera
 skipuð	lvensf	skipaður
@@ -3435,7 +3248,6 @@ Sambandi	nheþ-s	Samband
 íslenskra	lhfesf	íslenskur
 sveitarfélaga	nhfe	sveitarfélag
 .	.	.
-
 Síðla	ae	síðla
 árs	nhee	ár
 1998	ta	1998
@@ -3455,7 +3267,6 @@ desember	nkeo	desember
 það	faheo	sá
 ár	nheo	ár
 .	.	.
-
 Talið	sþghen	telja
 var	sfg3eþ	vera
 rétt	lhensf	réttur
@@ -3479,7 +3290,6 @@ nafnið	nheng	nafn
 fyrir	aþ	fyrir
 valinu	nheþg	val
 .	.	.
-
 Verkefnisstjórn	nven	verkefnisstjórn
 starfar	sfg3en	starfa
 samkvæmt	aþ	samkvæmt
@@ -3532,7 +3342,6 @@ aðgerðir	nvfn	aðgerð
 forvörnum	nvfþ	forvörn
 eru	sfg3fn	vera
 .	.	.
-
 Í	aþ	í
 þessu	faheþ	þessi
 skyni	nheþ	skyn
@@ -3560,7 +3369,6 @@ fræðslu	nvee	fræðsla
 og	c	og
 forvarna	nvfe	forvörn
 .	.	.
-
 Einnig	aa	einnig
 verður	sfg3en	verða
 veitt	sþgven	veita
@@ -3580,7 +3388,6 @@ tilkynningum	nvfþ	tilkynning
 um	ao	um
 slys	nhfo	slys
 .	.	.
-
 Til	ae	til
 verkefnisins	nheeg	verkefni
 hefur	sfg3en	hafa
@@ -3597,12 +3404,10 @@ króna	nvfe	króna
 til	aa	til
 2002	ta	2002
 .	.	.
-
 Ársskýrsla	nven	ársskýrsla
 Árvekni	nvee-s	Árvekni
 1999	ta	1999
 22.3.2004	ta	22.3.2004
-
 Ríkisstjórn	nven	ríkisstjórn
 Íslands	nhee-s	Ísland
 samþykkti	sfg3eþ	samþykkja
@@ -3630,7 +3435,6 @@ börnum	nhfþ	barn
 og	c	og
 unglingum	nkfþ	unglingur
 .	.	.
-
 Aðdraganda	nkeo	aðdragandi
 þessa	fahee	þessi
 verkefnis	nhee	verkefni
@@ -3653,7 +3457,6 @@ barnaslysavarnafulltrúa	nkee	barnaslysavarnafulltrúi
 Slysavarnafélags	nhee-s	Slysavarnafélag
 Íslands	nhee-s	Ísland
 .	.	.
-
 Í	aþ	í
 samvinnu	nveþ	samvinna
 við	ao	við
@@ -3677,7 +3480,6 @@ barna	nhfe	barn
 og	c	og
 unglinga	nkfe	unglingur
 .	.	.
-
 Tillögur	nvfn	tillaga
 um	ao	um
 slíkt	fbheo	slíkur
@@ -3689,7 +3491,6 @@ júlí	nkeþ	júlí
 kynntar	sþgvfn	kynna
 heilbrigðismálaráðherra	nkeþ	heilbrigðismálaráðherra
 .	.	.
-
 Eftir	ao	eftir
 samþykkt	nveo	samþykkt
 ríkisstjórnar	nvee	ríkisstjórn
@@ -3710,7 +3511,6 @@ framhaldi	nheþ	framhald
 af	aþ	af
 því	fpheþ	það
 .	.	.
-
 Verkefnisstjórn	nven	verkefnisstjórn
 er	sfg3en	vera
 skipuð	lvensf	skipaður
@@ -3725,7 +3525,6 @@ Sambandi	nheþ-s	Samband
 íslenskra	lhfesf	íslenskur
 sveitarfélaga	nhfe	sveitarfélag
 .	.	.
-
 Síðla	ae	síðla
 árs	nhee	ár
 1998	ta	1998
@@ -3745,7 +3544,6 @@ desember	nkeo	desember
 það	faheo	sá
 ár	nheo	ár
 .	.	.
-
 Talið	sþghen	telja
 var	sfg3eþ	vera
 rétt	lhensf	réttur
@@ -3769,10 +3567,8 @@ nafnið	nheng	nafn
 fyrir	aþ	fyrir
 valinu	nheþg	val
 .	.	.
-
 Ársskýrsla	nven	ársskýrsla
 1999	ta	1999
-
 Verkefnisstjórn	nven	verkefnisstjórn
 starfar	sfg3en	starfa
 samkvæmt	aþ	samkvæmt
@@ -3825,7 +3621,6 @@ aðgerðir	nvfn	aðgerð
 forvörnum	nvfþ	forvörn
 eru	sfg3fn	vera
 .	.	.
-
 Í	aþ	í
 þessu	faheþ	þessi
 skyni	nheþ	skyn
@@ -3853,7 +3648,6 @@ fræðslu	nvee	fræðsla
 og	c	og
 forvarna	nvfe	forvörn
 .	.	.
-
 Einnig	aa	einnig
 verður	sfg3en	verða
 veitt	sþgven	veita
@@ -3873,7 +3667,6 @@ tilkynningum	nvfþ	tilkynning
 um	ao	um
 slys	nhfo	slys
 .	.	.
-
 Til	ae	til
 verkefnisins	nheeg	verkefni
 er	sfg3en	vera
@@ -3893,9 +3686,7 @@ króna	nvfe	króna
 til	aa	til
 2001	ta	2001
 .	.	.
-
 Verkefnisstjórn	nven	verkefnisstjórn
-
 Í	aþ	í
 verkefnisstjórn	nveþ	verkefnisstjórn
 um	ao	um
@@ -3922,47 +3713,38 @@ formaður	nken	formaður
 Heilbrigðis-	nhen	heilbrigðisráðuneyti
 og	c	og
 tryggingamálaráðuneyti	nhen	tryggingamálaráðuneyti
-
 Birna	nven-s	Birna
 Hreiðarsdóttir	nven-s	Hreiðarsdóttir
 Viðskipta-	nhen	viðskiptaráðuneyti
 og	c	og
 iðnaðarráðuneyti	nhen	iðnaðarráðuneyti
-
 Bragi	nken-s	Bragi
 Guðbrandsson	nken-s	Guðbrandsson
 Félagsmálaráðuneyti	nhen	félagsmálaráðuneyti
-
 Hrafn	nken-s	Hrafn
 Hallgrímsson	nken-s	Hallgrímsson
 Umhverfisráðuneyti	nhen	umhverfisráðuneyti
-
 Jónína	nven-s	Jónína
 Bjartmarz	nven-s	Bjartmarz
 Menntamálaráðuneyti	nhen	menntamálaráðuneyti
-
 María	nven-s	María
 Finnsdóttir	nven-s	Finnsdóttir
 Dóms-	nhen	dómsmálaráðuneyti
 og	c	og
 kirkjumálaráðuneyti	nhen	kirkjumálaráðuneyti
-
 Sólveig	nven-s	Sólveig
 Guðmundsdóttir	nven-s	Guðmundsdóttir
 Heilbrigðis-	nhen	heilbrigðisráðuneyti
 og	c	og
 tryggingamálaráðuneyti	nheþ	tryggingamálaráðuneyti
-
 Steinunn	nven-s	Steinunn
 Valdís	nven-s	Valdís
 Óskarsdóttir	nven-s	Óskarsdóttir
 Samband	nhen-s	Samband
 íslenskra	lhfesf	íslenskur
 sveitarfélaga	nhfe	sveitarfélag
-
 Fundir	nkfn	fundur
 verkefnisstjórnar	nvee	verkefnisstjórn
-
 Verkefnisstjórn	nven	verkefnisstjórn
 hélt	sfg3eþ	halda
 21	ta	21
@@ -3970,7 +3752,6 @@ fund	nkeo	fundur
 á	aþ	á
 árinu	nheþg	ár
 .	.	.
-
 Á	aþ	á
 árinu	nheþg	ár
 1998	ta	1998
@@ -3988,7 +3769,6 @@ frá	aþ	frá
 ráðningu	nveþ	ráðning
 framkvæmdastjóra	nkee	framkvæmdastjóri
 .	.	.
-
 Fundir	nkfn	fundur
 eru	sfg3fn	vera
 nú	aa	nú
@@ -4006,7 +3786,6 @@ er	sfg3en	vera
 til	ae	til
 húsa	nhfe	hús
 .	.	.
-
 Mestur	lkense	mikill
 tími	nken	tími
 stjórnar	nvee	stjórn
@@ -4021,7 +3800,6 @@ skilgreina	sng	skilgreina
 brýnustu	lhfove	brýnn
 verkefni	nhfo	verkefni
 .	.	.
-
 Skipaðir	sþgkfn	skipa
 voru	sfg3fþ	vera
 vinnuhópar	nkfn	vinnuhópur
@@ -4038,7 +3816,6 @@ að	aa	að
 neðan	aa	neðan
 )	)	)
 .	.	.
-
 Undir	ao	undir
 lok	nhfo	lok
 ársins	nheeg	ár
@@ -4062,7 +3839,6 @@ mánaðar	nkee	mánuður
 að	aþ	að
 jafnaði	nkeþ	jafnaður
 .	.	.
-
 Á	aþ	á
 fundi	nkeþ	fundur
 stjórnar	nvee	stjórn
@@ -4077,7 +3853,6 @@ sem	ct	sem
 tengjast	sfm3fn	tengja
 slysavörnum	nvfþ	slysavörn
 .	.	.
-
 Má	sfg3en	mega
 þar	aa	þar
 nefna	sng	nefna
@@ -4121,10 +3896,8 @@ frá	aþ	frá
 Slysavarnafélagi	nheþ-s	Slysavarnafélag
 Íslands	nhee-s	Ísland
 .	.	.
-
 Vinnuhópar	nkfn	vinnuhópur
 verkefnisstjórnar	nvee	verkefnisstjórn
-
 Stjórnin	nveng	stjórn
 skipti	sfg3eþ	skipta
 með	aþ	með
@@ -4175,11 +3948,9 @@ ná	sng	ná
 fram	aa	fram
 úrbótum	nvfþ	úrbót
 .	.	.
-
 Hópur	nken	hópur
 1	ta	1
 .	.	.
-
 Íþróttir	nvfn	íþrótt
 ,	,	,
 skipulagðar	lvfnsf	skipulagður
@@ -4187,7 +3958,6 @@ tómstundir	nvfn	tómstund
 og	c	og
 frítími	nken	frítími
 .	.	.
-
 Steinunn	nven-s	Steinunn
 Valdís	nven-s	Valdís
 Óskarsdóttir	nven-s	Óskarsdóttir
@@ -4200,24 +3970,20 @@ Herdís	nven-s	Herdís
 L.	as	L.
 Storgaard	nven-s	Storgaard
 .	.	.
-
 Haldnir	sþgkfn	halda
 voru	sfg3fþ	vera
 tveir	tfkfn	tveir
 fundir	nkfn	fundur
 .	.	.
-
 Hópur	nken	hópur
 2	ta	2
 .	.	.
-
 Umferðarmál	nhfn	umferðarmál
 ,	,	,
 landbúnaðar-	nhfn	landbúnaðarslys
 og	c	og
 vinnuslys	nhfn	vinnuslys
 .	.	.
-
 María	nven-s	María
 Finnsdóttir	nven-s	Finnsdóttir
 formaður	nken	formaður
@@ -4230,24 +3996,20 @@ Herdís	nven-s	Herdís
 L.	as	L.
 Storgaard	nven-s	Storgaard
 .	.	.
-
 Haldnir	sþgkfn	halda
 voru	sfg3fþ	vera
 fjórir	tfkfn	fjórir
 fundir	nkfn	fundur
 .	.	.
-
 Hópur	nken	hópur
 3	ta	3
 .	.	.
-
 Skólar	nkfn	skóli
 ,	,	,
 leikskólar	nkfn	leikskóli
 og	c	og
 barnagæsla	nven	barnagæsla
 .	.	.
-
 Jónína	nven-s	Jónína
 Bjartmarz	nven-s	Bjartmarz
 formaður	nken	formaður
@@ -4259,17 +4021,14 @@ Herdís	nven-s	Herdís
 L.	as	L.
 Storgaard	nven-s	Storgaard
 .	.	.
-
 Haldinn	sþgken	halda
 var	sfg3eþ	vera
 einn	tfken	einn
 fundur	nken	fundur
 .	.	.
-
 Hópur	nken	hópur
 4	ta	4
 .	.	.
-
 Heimili	nhen	heimili
 ,	,	,
 vöruöryggi	nhen	vöruöryggi
@@ -4279,7 +4038,6 @@ og	c	og
 frágangur	nken	frágangur
 þeirra	fpvfe	hún
 .	.	.
-
 Birna	nven-s	Birna
 Hreiðarsdóttir	nven-s	Hreiðarsdóttir
 formaður	nken	formaður
@@ -4291,13 +4049,11 @@ Herdís	nven-s	Herdís
 L.	as	L.
 Storgaard	nven-s	Storgaard
 .	.	.
-
 Haldnir	sþgkfn	halda
 voru	sfg3fþ	vera
 þrír	tfkfn	þrír
 fundir	nkfn	fundur
 .	.	.
-
 Hver	foken	hver
 vinnuhópur	nken	vinnuhópur
 skilaði	sfg3eþ	skila
@@ -4314,7 +4070,6 @@ verður	sfg3en	verða
 byggt	sþghen	byggja
 á	aa	á
 .	.	.
-
 Nokkur	fohfn	nokkur
 afmörkuð	lhfnsf	afmarkaður
 verkefni	nhfn	verkefni
@@ -4328,12 +4083,10 @@ veginn	nkeog	vegur
 að	cn	að
 hefjast	snm	hefja
 .	.	.
-
 Kynning	nven	kynning
 á	aþ	á
 slysavarnarátakinu	nheþg	slysavarnarátak
 Árvekni	nveþ-s	Árvekni
-
 Auglýsingastofa	nven	auglýsingastofa
 var	sfg3eþ	vera
 ráðin	sþgven	ráða
@@ -4350,7 +4103,6 @@ að	cn	að
 auðvelda	sng	auðvelda
 kynningu	nveo	kynning
 .	.	.
-
 Er	sfg3en	vera
 ætlunin	nveng	ætlun
 að	c	að
@@ -4365,7 +4117,6 @@ frá	aþ	frá
 verkefninu	nheþg	verkefni
 kemur	sfg3en	koma
 .	.	.
-
 Einnig	aa	einnig
 var	sfg3eþ	vera
 prentað	sþghen	prenta
@@ -4375,7 +4126,6 @@ umslög	nhfn	umslag
 með	aþ	með
 merkinu	nheþg	merki
 .	.	.
-
 Í	aþ	í
 framhaldi	nheþ	framhald
 af	aþ	af
@@ -4413,7 +4163,6 @@ og	c	og
 barnadeilda	nvfe	barnadeild
 sjúkrahúsanna	nhfeg	sjúkrahús
 .	.	.
-
 Er	sfg3en	vera
 þessu	faheþ	þessi
 kynningarbréfi	nheþ	kynningarbréf
@@ -4434,7 +4183,6 @@ tengjast	sfm3fn	tengja
 málefnum	nhfþ	málefni
 barna	nhfe	barn
 .	.	.
-
 Prentað	sþghen	prenta
 var	sfg3eþ	vera
 kynningarspjald	nhen	kynningarspjald
@@ -4443,7 +4191,6 @@ sem	ct	sem
 er	sfg3en	vera
 almenningi	nkeþ	almenningur
 .	.	.
-
 Á	aþ	á
 því	fpheþ	það
 eru	sfg3fn	vera
@@ -4459,7 +4206,6 @@ húsa	nhfe	hús
 og	c	og
 símanúmer	nhen	símanúmer
 .	.	.
-
 Fólki	nheþ	fólk
 er	sfg3en	vera
 gefinn	sþgken	gefa
@@ -4488,7 +4234,6 @@ börnum	nhfþ	barn
 og	c	og
 unglingum	nkfþ	unglingur
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 boðið	sþghen	bjóða
@@ -4502,7 +4247,6 @@ upplýsingar	nvfo	upplýsing
 um	ao	um
 öryggismál	nhfo	öryggismál
 .	.	.
-
 Kynningarspjaldinu	nheþg	kynningarspjald
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -4524,7 +4268,6 @@ slysadeild	nveo	slysadeild
 Sjúkrahúss	nhee-s	Sjúkrahús
 Reykjavíkur	nvee-s	Reykjavík
 .	.	.
-
 Talsvert	lhensf	talsverður
 samstarf	nhen	samstarf
 hefur	sfg3en	hafa
@@ -4534,7 +4277,6 @@ fjölmiðla	nkfo	fjölmiðill
 á	aþ	á
 árinu	nheþg	ár
 .	.	.
-
 Tengist	sfm3en	tengja
 það	fphen	það
 þeim	fahfþ	sá
@@ -4569,7 +4311,6 @@ um	ao	um
 barna	nhfe	barn
 almennt	aa	almennt
 .	.	.
-
 Gott	lhensf	góður
 samstarf	nhen	samstarf
 hefur	sfg3en	hafa
@@ -4592,7 +4333,6 @@ birtar	sþgvfn	birta
 þar	aa	þar
 reglulega	aa	reglulega
 .	.	.
-
 Einnig	aa	einnig
 hefur	sfg3en	hafa
 ritstjóri	nken	ritstjóri
@@ -4611,7 +4351,6 @@ um	ao	um
 og	c	og
 slysavarnir	nvfo	slysavörn
 .	.	.
-
 Samið	sþghen	semja
 var	sfg3eþ	vera
 um	ao	um
@@ -4624,7 +4363,6 @@ birtast	snm	birta
 hverju	foheþ	hver
 blaði	nheþ	blað
 .	.	.
-
 Alls	aa	alls
 birtist	sfm3en	birta
 efni	nhen	efni
@@ -4636,12 +4374,10 @@ sinnum	nhfþ	sinn
 tímaritinu	nheþg	tímarit
 Uppeldi	nheþ-s	Uppeldi
 .	.	.
-
 Yfirlit	nhen	yfirlit
 yfir	ao	yfir
 störf	nhfo	starf
 framkvæmdastjóra	nkee	framkvæmdastjóri
-
 I.	ta	I.
 Fyrirlestrar	nkfn	fyrirlestur
 um	ao	um
@@ -4651,7 +4387,6 @@ kynning	nven	kynning
 á	aþ	á
 Árvekni	nveþ-s	Árvekni
 .	.	.
-
 Talsvert	aa	talsvert
 er	sfg3en	vera
 leitað	sþghen	leita
@@ -4667,7 +4402,6 @@ og	c	og
 um	ao	um
 fyrirlestrahald	nheo	fyrirlestrahald
 .	.	.
-
 Á	aþ	á
 árinu	nheþg	ár
 1999	ta	1999
@@ -4693,7 +4427,6 @@ kynningu	nveþ	kynning
 á	aþ	á
 Árvekni	nveþ-s	Árvekni
 .	.	.
-
 Skipting	nven	skipting
 þessara	fakfe	þessi
 fyrirlestra	nkfe	fyrirlestur
@@ -4702,52 +4435,42 @@ sem	c	sem
 hér	aa	hér
 segir	sfg3en	segja
 :	:	:
-
 Staður	nken	staður
 /	/	/
 markhópur	nken	markhópur
 Fyrirlestrar	nkfn	fyrirlestur
-
 Foreldrar	nkfn	foreldrar
 og	c	og
 starfsfólk	nhen	starfsfólk
 leikskóla	nkfe	leikskóli
 20	ta	20
-
 Foreldrar	nkfn	foreldrar
 og	c	og
 starfsfólk	nhen	starfsfólk
 grunnskóla	nkfe	grunnskóli
 9	ta	9
-
 Hjúkrunarfræðingar	nkfn	hjúkrunarfræðingur
 í	aþ	í
 heilsugæslu	nveþ	heilsugæsla
 og	c	og
 ungbarnaeftirliti	nheþ	ungbarnaeftirlit
 7	ta	7
-
 Dagmæður	nvfn	dagmóðir
 5	ta	5
-
 Mömmumorgnar	nkfn	mömmumorgunn
 í	aþ	í
 kirkjum	nvfþ	kirkja
 4	ta	4
-
 Nemar	nkfn	nemi
 í	aþ	í
 framhaldsskólum	nkfþ	framhaldsskóli
 4	ta	4
-
 Leiðbeinendur	nkfn	leiðbeinandi
 á	aþ	á
 leikjanámskeiðum	nhfþ	leikjanámskeið
 3	ta	3
-
 Annað	fohen	annar
 9	ta	9
-
 Tveir	tfkfn	tveir
 fyrirlestrar	nkfn	fyrirlestur
 voru	sfg3fþ	vera
@@ -4758,7 +4481,6 @@ og	c	og
 einn	tfken	einn
 erlendis	aa	erlendis
 .	.	.
-
 Nánari	lvfovm	náinn
 upplýsingar	nvfo	upplýsing
 er	sfg3en	vera
@@ -4767,16 +4489,13 @@ finna	sng	finna
 í	aþ	í
 fylgiskjali	nheþ	fylgiskjal
 I.	ta	I.
-
 II.	ta	II.
-
 Erindi	nhfn	erindi
 sem	ct	sem
 bárust	sfm3fþ	bera
 á	aþ	á
 árinu	nheþg	ár
 .	.	.
-
 Margs	lkeesf	margur
 konar	nkee	konar
 erindi	nhfn	erindi
@@ -4796,7 +4515,6 @@ og	c	og
 opinberum	lkfþsf	opinber
 aðilum	nkfþ	aðili
 .	.	.
-
 Í	aþ	í
 öllum	fohfþ	allur
 tilvikum	nhfþ	tilvik
@@ -4827,7 +4545,6 @@ að	cn	að
 snúa	sng	snúa
 sér	fpheþ	sig
 .	.	.
-
 Eitt	tfhen	einn
 símtal	nhen	símtal
 getur	sfg3en	geta
@@ -4848,7 +4565,6 @@ tengst	ssm	tengja
 slíkra	fbhfe	slíkur
 erinda	nhfe	erindi
 .	.	.
-
 Almennt	aa	almennt
 má	sfg3en	mega
 segja	sng	segja
@@ -4864,7 +4580,6 @@ barna	nhfe	barn
 í	aþ	í
 bílum	nkfþ	bíll
 .	.	.
-
 Spurt	sþghen	spyrja
 er	sfg3en	vera
 um	ao	um
@@ -4877,7 +4592,6 @@ skipta	sng	skipta
 um	ao	um
 bílstóla	nkfo	bílstóll
 o.s.frv.	as	o.s.frv.
-
 Einnig	aa	einnig
 eru	sfg3fn	vera
 ábendingar	nvfn	ábending
@@ -4895,7 +4609,6 @@ slysagildrur	nvfo	slysagildra
 í	aþ	í
 umhverfinu	nheþg	umhverfi
 .	.	.
-
 Talsvert	aa	talsvert
 er	sfg3en	vera
 um	ao	um
@@ -4916,7 +4629,6 @@ einatt	aa	einatt
 viðkvæm	lhfnsf	viðkvæmur
 samtöl	nhfn	samtal
 .	.	.
-
 Reynt	sþghen	reyna
 er	sfg3en	vera
 að	cn	að
@@ -4942,7 +4654,6 @@ til	aa	til
 um	ao	um
 slysið	nheog	slys
 .	.	.
-
 Foreldrar	nkfn	foreldrar
 spyrja	sfg3fn	spyrja
 mikið	aa	mikið
@@ -4965,7 +4676,6 @@ reynast	sfm3fn	reyna
 í	aþ	í
 ólagi	nheþ	ólag
 .	.	.
-
 Hvert	fohen	hver
 símtal	nhen	símtal
 getur	sfg3en	geta
@@ -4986,7 +4696,6 @@ að	cn	að
 svara	sng	svara
 viðkomandi	lkeþof	viðkomandi
 .	.	.
-
 Í	aþ	í
 sumum	fohfþ	sumur
 tilvikum	nhfþ	tilvik

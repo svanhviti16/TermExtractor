@@ -12,7 +12,6 @@ gyðingum	nkfþ	gyðingur
 í	aþ	í
 Egyptalandi	nheþ-s	Egyptaland
 .	.	.
-
 Í	aþ	í
 latnesku	lveþvf	latneskur
 bíblíuþýðingunni	nveþg	biblíuþýðing
@@ -32,14 +31,12 @@ orðið	nheng	orð
 ritað	sþghen	rita
 alleluia	e	alleluia
 .	.	.
-
 Vulgata	e	Vulgata
 er	sfg3en	vera
 bíblía	nven	biblía
 rómversk-kaþólsku	lveevf	rómversk-kaþólskur
 kirkjunnar	nveeg	kirkja
 .	.	.
-
 Fagnaðarákallið	nheng	fagnaðarákall
 halelúja	nhen	halelúja
 var	sfg3eþ	vera
@@ -47,7 +44,6 @@ notað	sþghen	nota
 í	aþ	í
 frumkristni	nveþ	frumkristni
 .	.	.
-
 Halelúja	nhen	halelúja
 kemur	sfg3en	koma
 nú	aa	nú
@@ -76,11 +72,9 @@ barn	nhen	barn
 oss	fp1fþ	vér
 fætt	sþghen	fæða
 .	.	.
-
 <	<	<
 Heimildir	nvfn	heimild
 >	>	>
-
 Vissulega	aa	vissulega
 var	sfg3eþ	vera
 það	fphen	það
@@ -91,7 +85,6 @@ að	cn	að
 krossfesta	sng	krossfesta
 Jesú	nkeo-s	Jesús
 .	.	.
-
 Fólkinu	nheþg	fólk
 -	-	-
 eða	c	eða
@@ -113,7 +106,6 @@ honum	fpkeþ	hann
 úr	aþ	úr
 vegi	nkeþ	vegur
 .	.	.
-
 Krossfesting	nven	krossfesting
 var	sfg3eþ	vera
 andstyggileg	lvensf	andstyggilegur
@@ -132,7 +124,6 @@ blóðugri	lveþsf	blóðugur
 sögu	nveþ	saga
 sinni	feveþ	sinn
 .	.	.
-
 Í	aþ	í
 Rómaveldi	nheþ-s	Rómaveldi
 var	sfg3eþ	vera
@@ -163,7 +154,6 @@ sem	ct	sem
 veldi	nheþ	veldi
 Rómverja	nkfe-s	Rómverji
 .	.	.
-
 Með	aþ	með
 því	fpheþ	það
 að	cn	að
@@ -185,7 +175,6 @@ sem	ct	sem
 völdin	nhfog	vald
 hefði	svg3eþ	hafa
 .	.	.
-
 Og	c	og
 það	fphen	það
 þótti	sfg3eþ	þykja
@@ -199,7 +188,6 @@ Jesú	nkeo-s	Jesús
 til	ae	til
 krossfestingar	nvee	krossfesting
 .	.	.
-
 Að	aþ	að
 kristnum	lkeþsf	kristinn
 skilningi	nkeþ	skilningur
@@ -210,7 +198,6 @@ vegar	nkee	vegur
 þveröfugt	aa	þveröfugt
 farið	sþghen	fara
 .	.	.
-
 Sá	faken	sá
 sem	ct	sem
 sigraði	sfg3eþ	sigra
@@ -224,7 +211,6 @@ hinn	gken	hinn
 krossfesti	lkenvf	krossfestur
 Jesús	nken-s	Jesús
 .	.	.
-
 Sá	faken	sá
 sigur	nken	sigur
 kom	sfg3eþ	koma
@@ -237,7 +223,6 @@ hans	fpkee	hann
 þriðja	lkeþvf	þriðji
 degi	nkeþ	dagur
 .	.	.
-
 Hún	fpven	hún
 birti	sfg3eþ	birta
 að	c	að
@@ -247,7 +232,6 @@ Messías	nken-s	Messías
 ,	,	,
 Kristur	nken-s	Kristur
 .	.	.
-
 Um	ao	um
 leið	nveo	leið
 leiðir	sfg3en	leiða
@@ -277,7 +261,6 @@ vald	nhen	vald
 í	aþ	í
 heimi	nkeþ	heimur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 annað	fohen	annar
@@ -296,7 +279,6 @@ Guðs	nkee-s	Guð
 vald	nhen	vald
 kærleikans	nkeeg	kærleiki
 .	.	.
-
 Handtaka	nven	handtaka
 Jesú	nkee-s	Jesús
 og	c	og
@@ -310,7 +292,6 @@ orðum	nhfþ	orð
 tvær	tfvfo	tveir
 hliðar	nvfo	hlið
 .	.	.
-
 Ytri	lvenvm	ytri
 hliðin	nveng	hlið
 snertir	sfg3en	snerta
@@ -323,7 +304,6 @@ honum	fpkeþ	hann
 úr	aþ	úr
 vegi	nkeþ	vegur
 .	.	.
-
 Innri	lvenvm	innri
 hliðin	nveng	hlið
 lýtur	sfg3en	lúta
@@ -333,7 +313,6 @@ Jesú	nkee-s	Jesús
 og	c	og
 Guðs	nkee-s	Guð
 .	.	.
-
 Að	aþ	að
 kristnum	lkeþsf	kristinn
 skilningi	nkeþ	skilningur
@@ -364,7 +343,6 @@ kapituli	nken	kapituli
 1-14	ta	1-14
 )	)	)
 .	.	.
-
 Guð	nken-s	Guð
 sendi	sfg3eþ	senda
 son	nkeo	sonur
@@ -386,7 +364,6 @@ kapitula	nkeþ	kapituli
 16.	ta	16.
 versi	nheþ	vers
 .	.	.
-
 Kristnir	lkfnsf	kristinn
 menn	nkfn	maður
 játa	sfg3fn	játa
@@ -408,7 +385,6 @@ hafi	svg3fn	hafa
 afneitað	ssg	afneita
 honum	fpkeþ	hann
 .	.	.
-
 Sennilega	aa	sennilega
 hefði	svg3eþ	hafa
 Guð	nken-s	Guð
@@ -429,7 +405,6 @@ kvöl	nveþ	kvöl
 og	c	og
 dauða	nkeþ	dauði
 .	.	.
-
 Það	fpheo	það
 gerði	sfg3eþ	gera
 hann	fpken	hann
@@ -475,7 +450,6 @@ Rómverjabréfið	nheogs	Rómverjabréf
 8.31-39	ta	8.31-39
 )	)	)
 .	.	.
-
 Í	aþ	í
 þeim	fakeþ	sá
 skilningi	nkeþ	skilningur
@@ -489,7 +463,6 @@ sér	fpkeþ	sig
 vegna	ae	vegna
 okkar	fp1fe	ég
 .	.	.
-
 Þegar	c	þegar
 við	fp1fn	ég
 því	aa	því
@@ -510,7 +483,6 @@ Guðs	nkee-s	Guð
 og	c	og
 manna	nkfe	maður
 .	.	.
-
 Þess	fphee	það
 vegna	ae	vegna
 er	sfg3en	vera
@@ -529,7 +501,6 @@ einingu	nveþ	eining
 meðal	ae	meðal
 manna	nkfe	maður
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 sú	faven	sá
@@ -551,12 +522,10 @@ ljósi	nheþ	ljós
 upprisu	nvee	upprisa
 Jesú	nkee-s	Jesús
 .	.	.
-
 <	<	<
 Frekara	lhenvm	frekur
 lesefni	nhen	lesefni
 >	>	>
-
 Orðið	nheng	orð
 sakramenti	nhen	sakramenti
 er	sfg3en	vera
@@ -572,7 +541,6 @@ helgur	lkensf	helgur
 dómur	nken	dómur
 »	»	»
 .	.	.
-
 Í	aþ	í
 kirkjunni	nveþg	kirkja
 er	sfg3en	vera
@@ -590,7 +558,6 @@ skýrgreint	sþghen	skýrgreina
 þennan	fakeo	þessi
 hátt	nkeo	háttur
 :	:	:
-
 Sakramenti	nhen	sakramenti
 er	sfg3en	vera
 heilög	lvensf	heilagur
@@ -618,7 +585,6 @@ samkvæmt	aþ	samkvæmt
 orði	nheþ	orð
 sínu	feheþ	sinn
 .	.	.
-
 Að	aþ	að
 skilningi	nkeþ	skilningur
 þjóðkirkjunnar	nveeg	þjóðkirkja
@@ -648,7 +614,6 @@ kvöldmáltíð	nven	kvöldmáltíð
 eða	c	eða
 altarissakramentið	nheng	altarissakramenti
 .	.	.
-
 Skírnina	nveog	skírn
 stofnsetti	sfg3eþ	stofnsetja
 Jesús	nken-s	Jesús
@@ -695,7 +660,6 @@ kapitula	nkeþ	kapituli
 versunum	nhfþg	vers
 18-20	ta	18-20
 .	.	.
-
 Þau	fahfn	sá
 orð	nhfn	orð
 eru	sfg3fn	vera
@@ -720,7 +684,6 @@ er	sfg3en	vera
 í	aþ	í
 kirkjunni	nveþg	kirkja
 .	.	.
-
 Jesús	nken-s	Jesús
 stofnsetti	sfg3eþ	stofnsetja
 altarissakramentið	nheog	altarissakramenti
@@ -751,7 +714,6 @@ yður	fp2fo	þér
 er	sfg3en	vera
 gefinn	sþgken	gefa
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 kaleikur	nken	kaleikur
@@ -777,7 +739,6 @@ segir	sfg3en	segja
 innsetningarorðum	nhfþ	innsetningarorð
 altarissakramentisins	nheeg	altarissakramenti
 .	.	.
-
 Rómversk-kaþólska	lvenvf	Rómversk-kaþólskur
 kirkjan	nveng	kirkja
 og	c	og
@@ -810,7 +771,6 @@ prestsvígsla	nven	prestsvígsla
 og	c	og
 hjónaband	nhen	hjónaband
 .	.	.
-
 Stofnun	nven	stofnun
 þeirra	fphfe	það
 var	sfg3eþ	vera
@@ -830,7 +790,6 @@ og	c	og
 var	sfg3eþ	vera
 orðað	sþghen	orða
 .	.	.
-
 Í	aþ	í
 þeim	favfþ	sá
 deilum	nvfþ	deila
@@ -879,7 +838,6 @@ skriftir	nvfn	skrift
 prestsvígsla	nven	prestsvígsla
 )	)	)
 .	.	.
-
 En	c	en
 athafnirnar	nvfng	athöfn
 sem	ct	sem
@@ -911,7 +869,6 @@ skýrgreina	sng	skýrgreina
 sem	c	sem
 sakramenti	nhfo	sakramenti
 .	.	.
-
 <	<	<
 Ábendingar	nvfn	ábending
 um	ao	um
@@ -927,7 +884,6 @@ trú	nveo	trú
 frá	aþ	frá
 lúterskri	lveþsf	lúterskur
 ?	?	?
-
 Skírn	nven	skírn
 er	sfg3en	vera
 ekki	aa	ekki
@@ -937,7 +893,6 @@ heldur	c	heldur
 kristin	lvensf	kristinn
 trúarathöfn	nven	trúarathöfn
 .	.	.
-
 Orðið	nheng	orð
 skírn	nven	skírn
 þýðir	sfg3en	þýða
@@ -976,7 +931,6 @@ að	aþ	að
 ríki	nheþ	ríki
 sínu	feheþ	sinn
 .	.	.
-
 Ríki	nhen	ríki
 Krists	nkee-s	Kristur
 er	sfg3en	vera
@@ -994,7 +948,6 @@ inngönguathöfn	nven	inngönguathöfn
 í	ao	í
 kirkjuna	nveog	kirkja
 .	.	.
-
 Kristnir	lkfnsf	kristinn
 menn	nkfn	maður
 trúa	sfg3fn	trúa
@@ -1025,7 +978,6 @@ leiða	sng	leiða
 og	c	og
 hjálpa	sng	hjálpa
 .	.	.
-
 Í	aþ	í
 skírninni	nveþg	skírn
 veitir	sfg3en	veita
@@ -1033,14 +985,12 @@ Guð	nken-s	Guð
 náð	nveo	náð
 sína	feveo	sinn
 .	.	.
-
 Náð	nven	náð
 merkir	sfg3en	merkja
 gæsku	nveo	gæska
 ,	,	,
 góðvild	nveo	góðvild
 .	.	.
-
 Náð	nven	náð
 er	sfg3en	vera
 ætíð	aa	ætíð
@@ -1059,7 +1009,6 @@ unnið	ssg	vinna
 til	ae	til
 hennar	fpvee	hún
 .	.	.
-
 Úr	aþ	úr
 því	fpheþ	það
 að	c	að
@@ -1085,7 +1034,6 @@ kristnir	lkfnsf	kristinn
 menn	nkfn	maður
 ungabörn	nhfo	ungabarn
 .	.	.
-
 Um	ao	um
 barnaskírn	nveo	barnaskírn
 ríkir	sfg3en	ríkja
@@ -1128,7 +1076,6 @@ játa	sng	játa
 hana	fpveo	hún
 sjálft	fbhen	sjálfur
 .	.	.
-
 Þannig	aa	þannig
 er	sfg3en	vera
 ástandið	nheng	ástand
@@ -1145,7 +1092,6 @@ boðuð	sþgven	boða
 fyrsta	lheove	fyrstur
 sinn	nheo	sinn
 .	.	.
-
 Þá	aa	þá
 eru	sfg3fn	vera
 flestir	lkfnse	margur
@@ -1153,7 +1099,6 @@ skírnþegar	nkfn	skírnþegi
 fullorðið	lhensf	fullorðinn
 fólk	nhen	fólk
 .	.	.
-
 Nafngjöf	nven	nafngjöf
 getur	sfg3en	geta
 tengst	ssm	tengja
@@ -1196,7 +1141,6 @@ trú	nveo	trú
 og	c	og
 skírast	sfm3fn	skíra
 .	.	.
-
 Ef	c	ef
 til	aa	til
 vill	sfg3en	vilja
@@ -1216,7 +1160,6 @@ varð	sfg3eþ	verða
 postulinn	nkeng	postuli
 Páll	nken-s	Páll
 .	.	.
-
 Enn	aa	enn
 þann	fakeo	sá
 dag	nkeo	dagur
@@ -1244,7 +1187,6 @@ siður	nken	siður
 hliðstæðum	lvfþsf	hliðstæður
 kenndum	nvfþ	kennd
 .	.	.
-
 Þegar	c	þegar
 barnaskírn	nven	barnaskírn
 er	sfg3en	vera
@@ -1282,7 +1224,6 @@ og	c	og
 er	sfg3en	vera
 skírt	sþghen	skíra
 .	.	.
-
 Þar	aa	þar
 kemur	sfg3en	koma
 fram	aa	fram
@@ -1328,7 +1269,6 @@ Kristi	nkeþ-s	Kristur
 í	aþ	í
 skírninni	nveþg	skírn
 .	.	.
-
 Fólk	nhen	fólk
 vildi	sfg3eþ	vilja
 ekki	aa	ekki
@@ -1362,7 +1302,6 @@ og	c	og
 nafn	nheo	nafn
 þess	fphee	það
 .	.	.
-
 Þessi	faven	þessi
 kennd	nven	kennd
 var	sfg3eþ	vera
@@ -1399,7 +1338,6 @@ til	aa	til
 var	sfg3eþ	vera
 skírt	sþghen	skíra
 .	.	.
-
 Þannig	aa	þannig
 hvílir	sfg3en	hvíla
 áherslan	nveng	áhersla
@@ -1413,7 +1351,6 @@ en	c	en
 guðfræðilegri	lveþsf	guðfræðilegur
 túlkun	nveþ	túlkun
 .	.	.
-
 En	c	en
 vissulega	aa	vissulega
 verður	sfg3en	verða
@@ -1438,7 +1375,6 @@ hún	fpven	hún
 byggist	sfm3en	byggja
 á	aa	á
 .	.	.
-
 Það	fphen	það
 leiddi	sfg3eþ	leiða
 hins	fakee	hinn
@@ -1470,7 +1406,6 @@ skip	nhfo	skip
 og	c	og
 flugvélar	nvfo	flugvél
 .	.	.
-
 Að	aþ	að
 minni	feveþ	minn
 hyggju	nveþ	hyggja
@@ -1507,7 +1442,6 @@ að	cn	að
 heita	sng	heita
 ?	?	?
 »	»	»
-
 hafa	sfg3fn	hafa
 þeir	fpkfn	hann
 spurt	ssg	spyrja
@@ -1519,7 +1453,6 @@ nafn	nhen	nafn
 barnsins	nheeg	barn
 ?	?	?
 »	»	»
-
 eða	c	eða
 :	:	:
 «	«	«
@@ -1528,7 +1461,6 @@ heitir	sfg3en	heita
 barnið	nheng	barn
 ?	?	?
 »	»	»
-
 Með	aþ	með
 þeim	fakeþ	sá
 hætti	nkeþ	háttur
@@ -1549,13 +1481,11 @@ opinberlega	aa	opinberlega
 við	ao	við
 skírnina	nveog	skírn
 .	.	.
-
 <	<	<
 Ábendingar	nvfn	ábending
 um	ao	um
 lesefni	nheo	lesefni
 >	>	>
-
 Biblía	nven	biblía
 er	sfg3en	vera
 grískt	lhensf	grískur
@@ -1566,7 +1496,6 @@ og	c	og
 bækur	nvfn	bók
 »	»	»
 .	.	.
-
 Biblían	nvengs	Biblía
 telur	sfg3en	telja
 líka	aa	líka
@@ -1587,7 +1516,6 @@ eru	sfg3fn	vera
 taldar	sþgvfn	telja
 með	aa	með
 .	.	.
-
 Þessar	favfn	þessi
 bækur	nvfn	bók
 eru	sfg3fn	vera
@@ -1602,7 +1530,6 @@ fjölbreyttar	lvfnsf	fjölbreyttur
 að	aþ	að
 innihaldi	nheþ	innihald
 .	.	.
-
 Kristnir	lkfnsf	kristinn
 menn	nkfn	maður
 skipta	sfg3fn	skipta
@@ -1632,7 +1559,6 @@ og	c	og
 þýðir	sfg3en	þýða
 sáttmáli	nken	sáttmáli
 .	.	.
-
 Gamla	lhenvf	gamall
 testamentið	nheng	testamenti
 er	sfg3en	vera
@@ -1650,7 +1576,6 @@ kristnir	lkfnsf	kristinn
 menn	nkfn	maður
 einir	lkfnsf	einn
 .	.	.
-
 Kristnir	lkfnsf	kristinn
 menn	nkfn	maður
 nefna	sfg3fn	nefna
@@ -1681,7 +1606,6 @@ mannkyns	nhee	mannkyn
 mundi	svg3eþ	munu
 koma	sng	koma
 .	.	.
-
 Nýja	lhenvf	nýr
 testamentið	nheng	testamenti
 er	sfg3en	vera
@@ -1691,7 +1615,6 @@ nefnt	sþghen	nefna
 hin	ghfn	hinn
 postullegu	lhfnvf	postullegur
 rit	nhfn	rit
-
 ,	,	,
 því	fpheþ	það
 að	c	að
@@ -1705,7 +1628,6 @@ eða	c	eða
 lærisveinum	nkfþ	lærisveinn
 þeirra	fpkfe	hann
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 skrifað	sþghen	skrifa
@@ -1733,7 +1655,6 @@ sé	svg3en	vera
 kominn	sþgken	koma
 fram	aa	fram
 .	.	.
-
 Hugtakið	nheng	hugtak
 orð	nhen	orð
 Guðs	nkee-s	Guð
@@ -1741,7 +1662,6 @@ merkir	sfg3en	merkja
 sköpunarmátt	nkeo	sköpunarmáttur
 Guðs	nkee-s	Guð
 .	.	.
-
 Orð	nhen	orð
 Guðs	nkee-s	Guð
 er	sfg3en	vera
@@ -1753,7 +1673,6 @@ skapaði	sfg3eþ	skapa
 heiminn	nkeog	heimur
 með	aa	með
 .	.	.
-
 Þetta	fahen	þessi
 orð	nhen	orð
 Guðs	nkee-s	Guð
@@ -1781,7 +1700,6 @@ gefið	sþghen	gefa
 nafnið	nheng	nafn
 Jesús	nken-s	Jesús
 .	.	.
-
 Mennirnir	nkfng	maður
 afneituðu	sfg3fþ	afneita
 Jesú	nkeþ-s	Jesús
@@ -1791,7 +1709,6 @@ hann	fpkeo	hann
 á	aþ	á
 krossi	nkeþ	kross
 .	.	.
-
 En	c	en
 Guð	nken-s	Guð
 afneitaði	sfg3eþ	afneita
@@ -1804,7 +1721,6 @@ upp	aa	upp
 frá	aþ	frá
 dauðum	lkfþsf	dauður
 .	.	.
-
 Því	aa	því
 hélt	sfg3eþ	halda
 saga	nven	saga
@@ -1838,7 +1754,6 @@ vinir	nkfn	vinur
 og	c	og
 samverkamenn	nkfn	samverkamaður
 .	.	.
-
 Boðskapur	nken	boðskapur
 kristinnar	lveesf	kristinn
 trúar	nvee	trú
@@ -1862,7 +1777,6 @@ frið	nkeo	friður
 við	ao	við
 Guð	nkeo-s	Guð
 .	.	.
-
 Orð	nhen	orð
 Guðs	nkee-s	Guð
 merkir	sfg3en	merkja
@@ -1871,7 +1785,6 @@ frá	aþ	frá
 þessu	faheþ	þessi
 þrennt	lheosf	þrennur
 .	.	.
-
 Í	aþ	í
 fyrsta	lheþve	fyrstur
 lagi	nheþ	lag
@@ -1889,7 +1802,6 @@ er	sfg3en	vera
 Jesús	nken-s	Jesús
 Kristur	nken-s	Kristur
 .	.	.
-
 Í	aþ	í
 öðru	lheþsf	öðr
 lagi	nheþ	lag
@@ -1912,7 +1824,6 @@ segja	sng	segja
 í	aþ	í
 Biblíunni	nveþgs	Biblía
 .	.	.
-
 Í	aþ	í
 þriðja	lheþvf	þriðji
 lagi	nheþ	lag
@@ -1940,13 +1851,11 @@ til	ae	til
 þessa	fakee	þessi
 dags	nkee	dagur
 .	.	.
-
 Biblían	nvengs	Biblía
 hefur	sfg3en	hafa
 tvær	tfvfo	tveir
 víddir	nvfo	vídd
 .	.	.
-
 Önnur	foven	annar
 vídd	nven	vídd
 hennar	fpvee	hún
@@ -1957,7 +1866,6 @@ hin	faven	hinn
 er	sfg3en	vera
 andleg	lvensf	andlegur
 .	.	.
-
 Þegar	c	þegar
 horft	sþghen	horfa
 er	sfg3en	vera
@@ -1986,7 +1894,6 @@ sem	ct	sem
 mótar	sfg3en	móta
 hana	fpveo	hún
 .	.	.
-
 Það	fphen	það
 má	sfg3en	mega
 sjá	sng	sjá
@@ -2000,7 +1907,6 @@ einstakra	lhfesf	einstakur
 rita	nhfe	rit
 hennar	fpvee	hún
 .	.	.
-
 Hún	fpven	hún
 féll	sfg3eþ	falla
 ekki	aa	ekki
@@ -2024,7 +1930,6 @@ og	c	og
 mannlegum	lhfþsf	mannlegur
 fyrirbærum	nhfþ	fyrirbæri
 .	.	.
-
 Hún	fpven	hún
 er	sfg3en	vera
 að	aþ	að
@@ -2065,7 +1970,6 @@ fyrstu	lkfeve	fyrstur
 kristnu	lkfevf	kristinn
 manna	nkfe	maður
 .	.	.
-
 Undanfarnar	lvfosf	undanfarinn
 tvær	tfvfo	tveir
 aldir	nvfo	öld
@@ -2078,7 +1982,6 @@ mjög	aa	mjög
 gagnrýninn	lkeosf	gagnrýninn
 hátt	nkeo	háttur
 .	.	.
-
 Biblíurannsóknirnar	nvfngs	Biblíurannsókn
 hafa	sfg3fn	hafa
 leitt	ssg	leiða
@@ -2098,7 +2001,6 @@ og	c	og
 umhverfi	nheo	umhverfi
 hennar	fpvee	hún
 .	.	.
-
 Andleg	lvensf	andlegur
 vídd	nven	vídd
 Biblíunnar	nveegs	Biblía
@@ -2121,7 +2023,6 @@ um	ao	um
 kristna	lveosf	kristinn
 kenningu	nveo	kenning
 .	.	.
-
 Samfélag	nhen	samfélag
 kristinna	lkfesf	kristinn
 manna	nkfe	maður
@@ -2152,7 +2053,6 @@ eða	c	eða
 Heilaga	lveosf	heilagur
 ritningu	nveo	ritning
 .	.	.
-
 Andleg	lvensf	andlegur
 vídd	nven	vídd
 Biblíunnar	nveegs	Biblía
@@ -2160,7 +2060,6 @@ er	sfg3en	vera
 vídd	nven	vídd
 trúarinnar	nveeg	trú
 .	.	.
-
 Þegar	c	þegar
 Biblían	nvengs	Biblía
 er	sfg3en	vera
@@ -2194,7 +2093,6 @@ um	ao	um
 sögu	nveo	saga
 okkar	fp1fe	ég
 .	.	.
-
 Í	aþ	í
 þeirri	faveþ	sá
 vídd	nveþ	vídd
@@ -2238,7 +2136,6 @@ Krists	nkee-s	Kristur
 í	ao	í
 heiminn	nkeog	heimur
 .	.	.
-
 Atburðir	nkfn	atburður
 þeir	fakfn	sá
 sem	ct	sem
@@ -2287,7 +2184,6 @@ bæn	nveþ	bæn
 og	c	og
 trú	nveþ	trú
 .	.	.
-
 Efni	nheþ	efni
 Biblíunnar	nveegs	Biblía
 var	sfg3eþ	vera
@@ -2313,7 +2209,6 @@ spámanna	nkfe	spámaður
 og	c	og
 postula	nkfe	postuli
 .	.	.
-
 Þegar	c	þegar
 við	fp1fn	ég
 lesum	sfg1fn	lesa
@@ -2344,7 +2239,6 @@ hvert	foheo	hver
 og	c	og
 eitt	foheo	einn
 .	.	.
-
 Og	c	og
 þessi	faken	þessi
 ákveðni	lkenvf	ákveðinn
@@ -2353,7 +2247,6 @@ hennar	fpvee	hún
 er	sfg3en	vera
 þessi	faven	þessi
 :	:	:
-
 Það	fphen	það
 er	sfg3en	vera
 hugur	nken	hugur
@@ -2363,7 +2256,6 @@ stýrir	sfg3en	stýra
 heimi	nkeþ	heimur
 öllum	fokeþ	allur
 .	.	.
-
 Sífellt	aa	sífellt
 berast	sfm3fn	bera
 fréttir	nvfn	frétt
@@ -2387,7 +2279,6 @@ verði	svg3en	verða
 fljótlega	aa	fljótlega
 úrelt	lhensf	úreldur
 .	.	.
-
 Nýlegar	lvfnsf	nýlegur
 uppgötvanir	nvfn	uppgötvun
 eru	sfg3fn	vera
@@ -2412,7 +2303,6 @@ til	ae	til
 okkar	fp1fe	ég
 eigin	lvfeof	eigin
 .	.	.
-
 Stjörnufræðingar	nkfn	stjörnufræðingur
 í	aþ	í
 Ástralíu	nveþ-s	Ástralía
@@ -2427,7 +2317,6 @@ Tau	e	Tau
 1	ta	1
 Gruis	e	Gruis
 .	.	.
-
 Tau	e	Tau
 1	ta	1
 Gruis	e	Gruis
@@ -2445,7 +2334,6 @@ er	sfg3en	vera
 ljósára	nhfe	ljósár
 fjarlægð	nveþ	fjarlægð
 .	.	.
-
 Reikistjarnan	nveng	reikistjarna
 sem	ct	sem
 fannst	sfm3eþ	finna
@@ -2468,7 +2356,6 @@ frá	aþ	frá
 sól	nveþ	sól
 sinni	feveþ	sinn
 .	.	.
-
 Í	aþ	í
 okkar	fp1fe	ég
 sólkerfi	nheþ	sólkerfi
@@ -2485,7 +2372,6 @@ Mars	nkee-s	Mars
 og	c	og
 Júpíters	nkee-s	Júpíter
 .	.	.
-
 Vitað	sþghen	vita
 er	sfg3en	vera
 að	c	að
@@ -2512,7 +2398,6 @@ er	sfg3en	vera
 2,5	ta	2,5
 ár	nhfn	ár
 .	.	.
-
 Það	fahen	sá
 sem	ct	sem
 er	sfg3en	vera
@@ -2528,7 +2413,6 @@ hún	fpven	hún
 er	sfg3en	vera
 í	aa	í
 .	.	.
-
 Gamma	e	Gamma
 Cephei	e	Cephei
 er	sfg3en	vera
@@ -2553,7 +2437,6 @@ og	c	og
 plánetan	nveng	pláneta
 Úranus	nken-s	Úranus
 .	.	.
-
 Á	aa	á
 meðan	c	meðan
 þessar	favfn	þessi
@@ -2575,7 +2458,6 @@ um	ao	um
 stærri	lveovm	stór
 stjörnuna	nveog	stjarna
 .	.	.
-
 Plánetan	nveng	pláneta
 fannst	sfm3eþ	finna
 eftir	ao	eftir
@@ -2598,7 +2480,6 @@ fjarlægð	nveþ	fjarlægð
 stjörnumerkinu	nheþg	stjörnumerki
 Sefeusi	e	Sefeusi
 .	.	.
-
 Á	aþ	á
 braut	nveþ	braut
 um	ao	um
@@ -2616,7 +2497,6 @@ sem	ct	sem
 umlykur	sfg3en	umlykja
 stjörnuna	nveog	stjarna
 .	.	.
-
 Fomalhaut	e	Fomalhaut
 er	sfg3en	vera
 17.	ta	17.
@@ -2634,7 +2514,6 @@ fjarlægð	nveþ	fjarlægð
 stjörnumerkinu	nheþg	stjörnumerki
 Suðurfiskunum	nkfþgs	Suðurfiskur
 .	.	.
-
 Stjarnan	nveng	stjarna
 er	sfg3en	vera
 ung	lvensf	ungur
@@ -2659,7 +2538,6 @@ fundið	ssg	finna
 nýja	lveosf	nýr
 reikistjörnu	nveo	reikistjarna
 .	.	.
-
 Á	aþ	á
 myndum	nvfþ	mynd
 sést	sfm3en	sjá
@@ -2686,7 +2564,6 @@ sem	ct	sem
 mótar	sfg3en	móta
 rykskífuna	nveog	rykskífa
 .	.	.
-
 Stjarneðlisfræðingar	nkfn	stjarneðlisfræðingur
 telja	sfg3fn	telja
 að	c	að
@@ -2697,7 +2574,6 @@ stærð	nveo	stærð
 við	ao	við
 Satúrnus	nkeo-s	Satúrnus
 .	.	.
-
 Þegar	c	þegar
 þetta	fahen	þessi
 er	sfg3en	vera
@@ -2711,7 +2587,6 @@ reikistjörnur	nvfn	reikistjarna
 öðrum	fohfþ	annar
 sólkerfum	nhfþ	sólkerfi
 .	.	.
-
 Þær	fpvfn	hún
 hafa	sfg3fn	hafa
 aðeins	aa	aðeins
@@ -2726,7 +2601,6 @@ að	cn	að
 ljósmynda	sng	ljósmynda
 þær	fpvfo	hún
 .	.	.
-
 Það	fphen	það
 eru	sfg3fn	vera
 mjög	aa	mjög
@@ -2759,11 +2633,9 @@ einhverjum	fovfþ	einhver
 þessara	favfe	þessi
 reikistjarna	nvfe	reikistjarna
 ?	?	?
-
 <	<	<
 Heimildir	nvfn	heimild
 >	>	>
-
 Fiskamerkið	nheng	fiskamerki
 er	sfg3en	vera
 líklega	aa	líklega
@@ -2789,7 +2661,6 @@ frá	aþ	frá
 skrímslinu	nheþg	skrímsli
 Týfún	nxeþ-s	Týfún
 .	.	.
-
 Allar	fovfn	allur
 stjörnur	nvfn	stjarna
 merkisins	nheeg	merki
@@ -2801,7 +2672,6 @@ merkið	nheng	merki
 því	aa	því
 ógreinilegt	lhensf	ógreinilegur
 .	.	.
-
 Sé	svg3en	vera
 hins	fakee	hinn
 vegar	nkee	vegur
@@ -2826,12 +2696,10 @@ við	ao	við
 hlið	nveo	hlið
 Pegasusar	nkee-s	Pegasus
 .	.	.
-
 Bjartasta	lvenve	bjartur
 stjarnan	nveng	stjarna
 er	sfg3en	vera
 ?	?	?
-
 (	(	(
 eta	x	eta
 )	)	)
@@ -2850,14 +2718,12 @@ eru	sfg3fn	vera
 þessu	faheþ	þessi
 merki	nheþ	merki
 .	.	.
-
 Smellið	sbg2fn	smella
 til	ae	til
 að	cn	að
 skoða	sng	skoða
 stærri	lveovm	stór
 útgáfu	nveo	útgáfa
-
 Það	fphen	það
 eru	sfg3fn	vera
 ekki	aa	ekki
@@ -2867,19 +2733,16 @@ fyrirbæri	nhfn	fyrirbæri
 í	aþ	í
 merkinu	nheþg	merki
 .	.	.
-
 Við	fp1fn	ég
 getum	sfg1fn	geta
 þó	aa	þó
 nefnt	ssg	nefna
 nokkur	fohfo	nokkur
 .	.	.
-
 Til	ae	til
 dæmis	nhee	dæmi
 er	sfg3en	vera
 ?	?	?
-
 (	(	(
 Al	e	Al
 Rischa	e	Rischa
@@ -2892,7 +2755,6 @@ birtustigum	nhfþ	birtustig
 og	c	og
 5,1	ta	5,1
 .	.	.
-
 Þær	fpvfo	hún
 má	sfg3en	mega
 naumlega	aa	naumlega
@@ -2916,7 +2778,6 @@ aðra	foveo	annar
 933	ta	933
 árum	nhfþ	ár
 .	.	.
-
 Eitt	tfhen	einn
 Messier-fyrirbæri	nhen-s	Messier-fyrirbæri
 er	sfg3en	vera
@@ -2947,7 +2808,6 @@ fyrirbærið	nheng	fyrirbæri
 skrá	nveþ	skrá
 Messiers	e	Messiers
 .	.	.
-
 Nokkur	fohfn	nokkur
 NGC-fyrirbæri	nhfn-s	NGC-fyrirbæri
 eru	sfg3fn	vera
@@ -2971,11 +2831,9 @@ að	cn	að
 skoða	sng	skoða
 þau	fphfo	það
 .	.	.
-
 <	<	<
 Heimildir	nvfn	heimild
 >	>	>
-
 Krabbamerkið	nheng	krabbamerki
 er	sfg3en	vera
 eitt	fohen	einn
@@ -2983,7 +2841,6 @@ eitt	fohen	einn
 merki	nhen	merki
 Dýrahringsins	nkeegs	Dýrahringur
 .	.	.
-
 Merkið	nheng	merki
 táknar	sfg3en	tákna
 krabbann	nkeog	krabbi
@@ -3012,7 +2869,6 @@ við	ao	við
 hetjuna	nveog	hetja
 Herkúles	nkeo-s	Herkúles
 .	.	.
-
 Það	fphen	það
 kemur	sfg3en	koma
 ef	c	ef
@@ -3048,7 +2904,6 @@ himinfestinguna	nveog	himinfesting
 meðal	ae	meðal
 stjarnanna	nvfeg	stjarna
 .	.	.
-
 Önnur	foven	annar
 goðsögn	nven	goðsögn
 segir	sfg3en	segja
@@ -3072,7 +2927,6 @@ að	aa	að
 líkömum	nkfþ	líkami
 mannanna	nkfeg	maður
 .	.	.
-
 Krabbamerkið	nheng	krabbamerki
 er	sfg3en	vera
 sem	c	sem
@@ -3086,11 +2940,9 @@ af	aþ	af
 fimm	tfvfþ	fimm
 meginstjörnum	nvfþ	meginstjarna
 .	.	.
-
 Meginformið	nheng	meginform
 mynda	sfg3fn	mynda
 ?	?	?
-
 (	(	(
 beta	nven	beta
 )	)	)
@@ -3104,7 +2956,6 @@ birtustigi	nheþ	birtustig
 3,52	ta	3,52
 ;	;	;
 ?	?	?
-
 (	(	(
 Alfa	nven-s	Alfa
 )	)	)
@@ -3116,7 +2967,6 @@ birtustigi	nheþ	birtustig
 4,25	ta	4,25
 ;	;	;
 ?	?	?
-
 (	(	(
 delta	nven	delta
 )	)	)
@@ -3128,7 +2978,6 @@ birtustig	nhen	birtustig
 3,94	ta	3,94
 ;	;	;
 ?	?	?
-
 (	(	(
 jota	e	jota
 )	)	)
@@ -3137,7 +2986,6 @@ jota	e	jota
 )	)	)
 og	c	og
 ?	?	?
-
 (	(	(
 Chi	e	Chi
 )	)	)
@@ -3145,7 +2993,6 @@ Chi	e	Chi
 5,1	ta	5,1
 )	)	)
 .	.	.
-
 Krabbinn	nkeng	krabbi
 liggur	sfg3en	liggja
 milli	ae	milli
@@ -3182,7 +3029,6 @@ Regúlus	nxen-s	Regúlus
 Ljóninu	nheþgs	Ljón
 mynda	sfg3fn	mynda
 .	.	.
-
 Nokkur	fohfn	nokkur
 áhugaverð	lhfnsf	áhugaverður
 fyrirbæri	nhfn	fyrirbæri
@@ -3192,7 +3038,6 @@ eru	sfg3fn	vera
 smáa	lheþvf	smár
 merki	nheþ	merki
 .	.	.
-
 Til	ae	til
 að	cn	að
 mynda	sng	mynda
@@ -3206,14 +3051,12 @@ sjást	sfm3fn	sjá
 með	aþ	með
 handsjónauka	nkeþ	handsjónauki
 .	.	.
-
 Stjarnan	nveng	stjarna
 X	nxen-s	X
 Cancri	e	Cancri
 ,	,	,
 nálægt	aa	nálægt
 ?	?	?
-
 (	(	(
 delta	nven	delta
 )	)	)
@@ -3234,13 +3077,11 @@ liturinn	nkeng	litur
 er	sfg3en	vera
 greinilegur	lkensf	greinilegur
 .	.	.
-
 R	x	r
 Cancri	e	Cancri
 ,	,	,
 við	aa	við
 ?	?	?
-
 (	(	(
 beta	nven	beta
 )	)	)
@@ -3264,9 +3105,7 @@ upp	aa	upp
 daga	nkfe	dagur
 fresti	nkeþ	frestur
 .	.	.
-
 ?	?	?
-
 (	(	(
 Xi	x	xi
 )	)	)
@@ -3277,7 +3116,6 @@ Tagmine	e	Tagmine
 er	sfg3en	vera
 fjölstirni	nhen	fjölstirni
 .	.	.
-
 Tvær	tfvfn	tveir
 björtustu	lvfnve	bjartur
 stjörnurnar	nvfng	stjarna
@@ -3288,7 +3126,6 @@ birtustigi	nheþ	birtustig
 og	c	og
 6,2	ta	6,2
 .	.	.
-
 Bjartari	lvenvm	bjartur
 stjarnan	nveng	stjarna
 er	sfg3en	vera
@@ -3302,7 +3139,6 @@ er	sfg3en	vera
 þriðja	lvenvf	þriðji
 stjarnan	nveng	stjarna
 .	.	.
-
 M44	x	m44
 Krabbamerkið	nheng	krabbamerki
 inniheldur	sfg3en	innihalda
@@ -3311,7 +3147,6 @@ tvær	tfvfo	tveir
 fallegar	lvfosf	fallegur
 lausþyrpingar	nvfo	lausþyrping
 .	.	.
-
 M44	x	m44
 eða	c	eða
 Jatan	nvengs	Jata
@@ -3334,11 +3169,9 @@ sjónauka	nkeo	sjónauki
 staðsett	lvensf	staðsettur
 milli	aa	milli
 ?	?	?
-
 og	c	og
 ?	?	?
 .	.	.
-
 Stundum	aa	stundum
 er	sfg3en	vera
 Jötuþyrpingin	nvengs	Jötuþyrping
@@ -3357,7 +3190,6 @@ heitið	nheog	heiti
 þeir	fpkfn	hann
 nota	sfg3fn	nota
 .	.	.
-
 Forn-Kínverjar	nkfn-s	Forn-Kínverji
 nefndu	sfg3fþ	nefna
 þessa	faveo	þessi
@@ -3370,7 +3202,6 @@ samansöfnuðu	lhfevf	samansafnaður
 mannslíka	nhfe	mannslík
 »	»	»
 .	.	.
-
 M67	x	m67
 Önnur	foven	annar
 stjörnuþyrping	nven	stjörnuþyrping
@@ -3382,7 +3213,6 @@ M67	x	m67
 nærri	aa	nærri
 ?	?	?
 .	.	.
-
 Hún	fpven	hún
 er	sfg3en	vera
 á	aþ	á
@@ -3405,7 +3235,6 @@ hana	fpveo	hún
 gegnum	ao	gegnum
 handsjónauka	nkeo	handsjónauki
 .	.	.
-
 Þessi	faven	þessi
 þyrping	nven	þyrping
 er	sfg3en	vera
@@ -3429,7 +3258,6 @@ en	c	en
 ljósára	nhfe	ljósár
 fjarlægð	nveþ	fjarlægð
 .	.	.
-
 Hún	fpven	hún
 inniheldur	sfg3en	innihalda
 líklega	aa	líklega
@@ -3451,11 +3279,9 @@ er	sfg3en	vera
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 <	<	<
 Heimildir	nvfn	heimild
 >	>	>
-
 Myndin	nveng	mynd
 af	aþ	af
 krabbamerkinu	nheþg	krabbamerki
@@ -3467,7 +3293,6 @@ forritsins	nheeg	forrit
 Starry	e	Starry
 Night	e	Night
 .	.	.
-
 Fyrir	ao	fyrir
 um	aa	um
 1500	ta	1500
@@ -3490,7 +3315,6 @@ af	aþ	af
 ýmsu	foheþ	ýmis
 tagi	nheþ	tag
 .	.	.
-
 Hver	fsken	hver
 vildi	svg3eþ	vilja
 ekki	aa	ekki
@@ -3511,7 +3335,6 @@ tungllendingunni	nveþg	tungllending
 árið	nheog	ár
 1969	ta	1969
 ?	?	?
-
 Er	sfg3en	vera
 slíkt	fbhen	slíkur
 gylliboð	nhen	gylliboð
@@ -3523,7 +3346,6 @@ að	cn	að
 vera	sng	vera
 satt	lhensf	sannur
 ?	?	?
-
 Þegar	c	þegar
 grannt	aa	grannt
 er	sfg3en	vera
@@ -3559,7 +3381,6 @@ sólina	nveog	sól
 eða	c	eða
 Mars	nkeo-s	Mars
 .	.	.
-
 Staðreyndin	nveng	staðreynd
 er	sfg3en	vera
 nefnilega	aa	nefnilega
@@ -3589,7 +3410,6 @@ færu	svg3fþ	fara
 fyrstir	lkfnse	fyrstur
 manna	nkfe	maður
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 samþykkt	nveþ	samþykkt
 Sameinuðu	lvfevf	sameinaður
@@ -3608,7 +3428,6 @@ eign	nven	eign
 allra	fokfe	allur
 jarðarbúa	nkfe	jarðarbúi
 .	.	.
-
 Samþykktin	nveng	samþykkt
 var	sfg3eþ	vera
 einmitt	aa	einmitt
@@ -3637,7 +3456,6 @@ svo	aa	svo
 á	sfg3en	eiga
 aldrei	aa	aldrei
 .	.	.
-
 Í	aþ	í
 raun	nveþ	raun
 gildir	sfg3en	gilda
@@ -3653,7 +3471,6 @@ selja	sng	selja
 fólki	nheþ	fólk
 stjörnur	nvfo	stjarna
 .	.	.
-
 Það	fphen	það
 á	sfg3en	eiga
 enginn	foken	enginn
@@ -3665,7 +3482,6 @@ hnettina	nkfog	hnöttur
 í	aþ	í
 sólkerfinu	nheþg	sólkerfi
 .	.	.
-
 Nánar	aam	náið
 er	sfg3en	vera
 hægt	lhensf	hægur
@@ -3681,7 +3497,6 @@ að	cn	að
 smella	sng	smella
 hér	aa	hér
 .	.	.
-
 Þrátt	aa	þrátt
 fyrir	ao	fyrir
 að	c	að
@@ -3711,7 +3526,6 @@ að	cn	að
 blekkja	sng	blekkja
 fólk	nheo	fólk
 .	.	.
-
 Alveg	aa	alveg
 eins	aa	eins
 er	sfg3en	vera
@@ -3730,7 +3544,6 @@ lóðir	nvfo	lóð
 öðrum	fokfþ	annar
 hnöttum	nkfþ	hnöttur
 .	.	.
-
 Best	lhense	góður
 væri	svg3eþ	vera
 þó	aa	þó
@@ -3752,7 +3565,6 @@ komast	snm	koma
 yfir	ao	yfir
 þá	fpkfo	hann
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 einnig	aa	einnig
@@ -3760,7 +3572,6 @@ svarað	sþghen	svara
 eftirfarandi	lveþof	eftirfarandi
 spurningu	nveþ	spurning
 :	:	:
-
 Ef	c	ef
 efnisklumpur	nken	efnisklumpur
 brennur	sfg3en	brenna
@@ -3777,7 +3588,6 @@ sólin	nveng	sól
 einn	tfken	einn
 allsherjarbruni	nken	allsherjarbruni
 ?	?	?
-
 Í	aþ	í
 svari	nheþ	svar
 Þorsteins	nkee-s	Þorsteinn
@@ -3798,18 +3608,15 @@ jafnvel	aa	jafnvel
 nokkrar	fovfo	nokkur
 sekúndur	nvfo	sekúnda
 ?	?	?
-
 Flýtur	sfg3en	fljóta
 eldur	nken	eldur
 í	aþ	í
 þyngdarleysi	nheþ	þyngdarleysi
 ?	?	?
-
 segir	sfg3en	segja
 meðal	ae	meðal
 annars	fohee	annar
 :	:	:
-
 Það	fphen	það
 sem	ct	sem
 við	fp1fn	ég
@@ -3839,7 +3646,6 @@ ný	lhfnsf	nýr
 efnasambönd	nhfn	efnasamband
 myndast	sfm3fn	mynda
 .	.	.
-
 Við	ao	við
 venjulegar	lvfosf	venjulegur
 aðstæður	nvfo	aðstæður
@@ -3859,7 +3665,6 @@ hér	aa	hér
 á	aþ	á
 jörðinni	nveþg	jörð
 .	.	.
-
 Ef	c	ef
 við	fp1fn	ég
 erum	sfg1fn	vera
@@ -3888,7 +3693,6 @@ af	aþ	af
 efni	nheþ	efni
 yfirleitt	aa	yfirleitt
 .	.	.
-
 Efnisklumpur	nken	efnisklumpur
 gæti	svg3eþ	geta
 því	aa	því
@@ -3905,7 +3709,6 @@ hér	aa	hér
 á	aþ	á
 jörðinni	nveþg	jörð
 .	.	.
-
 Eflaust	aa	eflaust
 þarf	sfg3en	þurfa
 engan	fokeo	enginn
@@ -3944,7 +3747,6 @@ ekki	aa	ekki
 án	ae	án
 súrefnis	nhee	súrefni
 .	.	.
-
 Þessi	faven	þessi
 spurning	nven	spurning
 er	sfg3en	vera
@@ -3963,7 +3765,6 @@ vegna	ae	vegna
 stjörnurnar	nvfng	stjarna
 skíni	svg3fn	skína
 .	.	.
-
 Við	fp1fn	ég
 erum	sfg1fn	vera
 tiltölulega	aa	tiltölulega
@@ -3988,7 +3789,6 @@ stjarnanna	nvfeg	stjarna
 core	e	core
 )	)	)
 .	.	.
-
 Hugtakið	nheng	hugtak
 «	«	«
 bruni	nken	bruni
@@ -4020,7 +3820,6 @@ eldur	nken	eldur
 jörðinni	nveþg	jörð
 brennur	sfg3en	brenna
 .	.	.
-
 Innst	aae	innar
 í	aþ	í
 kjarna	nkeþ	kjarni
@@ -4035,7 +3834,6 @@ sömuleiðis	aa	sömuleiðis
 gífurlega	aa	gífurlega
 mikill	lkensf	mikill
 .	.	.
-
 Sólin	nveng	sól
 fær	sfg3en	fá
 orku	nveo	orka
@@ -4066,12 +3864,10 @@ mynda	sfg3fn	mynda
 þyngri	lhfovm	þungur
 frumefni	nhfo	frumefni
 .	.	.
-
 Þar	aa	þar
 myndast	sfm3en	mynda
 sólarorkan	nveng	sólarorka
 .	.	.
-
 Í	aþ	í
 kjarna	nkeþ	kjarni
 sólar	nvee	sól
@@ -4095,7 +3891,6 @@ hér	aa	hér
 á	aþ	á
 jörðinni	nveþg	jörð
 .	.	.
-
 Við	ao	við
 þessar	favfo	þessi
 aðstæður	nvfo	aðstæður
@@ -4116,7 +3911,6 @@ nuclear	e	nuclear
 fusion	e	fusion
 )	)	)
 .	.	.
-
 Hann	fpken	hann
 leiðir	sfg3en	leiða
 til	ae	til
@@ -4138,7 +3932,6 @@ alfa-eind	nven	alfaeind
 eða	c	eða
 helínkjarni	nken	helínkjarni
 .	.	.
-
 Í	aþ	í
 helínkjarnanum	nkeþg	helínkjarni
 eru	sfg3fn	vera
@@ -4157,7 +3950,6 @@ en	c	en
 róteindirnar	nvfng	róteind
 fjórar	tfvfn	fjórir
 .	.	.
-
 Massamunurinn	nkeng	massamunur
 kemur	sfg3en	koma
 fram	aa	fram
@@ -4178,7 +3970,6 @@ varmaflutningi	nkeþ	varmaflutningur
 vegna	ae	vegna
 hitamunar	nkee	hitamunur
 .	.	.
-
 Þar	aa	þar
 sleppur	sfg3en	sleppa
 orkan	nveng	orka
@@ -4197,7 +3988,6 @@ við	aa	við
 hverjum	fokeþ	hver
 degi	nkeþ	dagur
 .	.	.
-
 Orkan	nveng	orka
 sem	ct	sem
 myndast	sfm3en	mynda
@@ -4224,7 +4014,6 @@ yfir	aa	yfir
 í	ao	í
 helíum	nheo	helíum
 .	.	.
-
 Fimm	to	fimm
 milljón	tfhfn	milljón
 tonn	nhfn	tonn
@@ -4243,7 +4032,6 @@ að	c	að
 sólin	nveng	sól
 léttist	sfm3en	létta
 .	.	.
-
 Sólin	nveng	sól
 er	sfg3en	vera
 engu	foheþ	enginn
@@ -4260,7 +4048,6 @@ um	aa	um
 milljarða	nkfo	milljarður
 ára	nhfe	ár
 .	.	.
-
 Hún	fpven	hún
 er	sfg3en	vera
 nú	aa	nú
@@ -4284,7 +4071,6 @@ hún	fpven	hún
 léttist	svm3en	létta
 dálítið	aa	dálítið
 .	.	.
-
 Sólin	nveng	sól
 getur	sfg3en	geta
 þannig	aa	þannig
@@ -4327,7 +4113,6 @@ vera	sng	vera
 venjulegur	lkensf	venjulegur
 bruni	nken	bruni
 .	.	.
-
 Í	aþ	í
 sem	ct	sem
 stystu	lheþse	stuttur
@@ -4346,7 +4131,6 @@ vitum	sfg1fn	vita
 ekki	aa	ekki
 »	»	»
 .	.	.
-
 Um	ao	um
 þessar	favfo	þessi
 mundir	nvfo	mund
@@ -4379,7 +4163,6 @@ Títans	nxee-s	Títan
 árið	nheog	ár
 2005	ta	2005
 .	.	.
-
 Títan	nxen-s	Títan
 hefur	sfg3en	hafa
 þykkan	lkeosf	þykkur
@@ -4397,7 +4180,6 @@ að	cn	að
 geta	sng	geta
 numið	ssg	nema
 .	.	.
-
 Tiltölulega	aa	tiltölulega
 stutt	lhensf	stuttur
 er	sfg3en	vera
@@ -4415,13 +4197,11 @@ finnast	snm	finna
 á	aþ	á
 Títan	nxeþ-s	Títan
 .	.	.
-
 Títan	nxen-s	Títan
 er	sfg3en	vera
 draumastaður	nken	draumastaður
 stjörnulíffræðings	nkee	stjörnulíffræðingur
 .	.	.
-
 Lofthjúpurinn	nkeng	lofthjúpur
 er	sfg3en	vera
 úr	aþ	úr
@@ -4432,7 +4212,6 @@ köfnunarefni	nheþ	köfnunarefni
 og	c	og
 metangasi	nheþ	metangas
 .	.	.
-
 Útfjólublátt	lhensf	útfjólublár
 ljós	nhen	ljós
 frá	aþ	frá
@@ -4458,7 +4237,6 @@ til	ae	til
 dæmis	nhee	dæmi
 amínósýra	nvfe	amínósýra
 .	.	.
-
 Kolefnissambönd	nhfn	kolefnissamband
 eru	sfg3fn	vera
 fyrsta	lhenve	fyrstur
@@ -4475,7 +4253,6 @@ hér	aa	hér
 á	aþ	á
 jörðinni	nveþg	jörð
 .	.	.
-
 Lífið	nheng	líf
 sjálft	fbhen	sjálfur
 byggist	sfm3en	byggja
@@ -4489,7 +4266,6 @@ til	ae	til
 dæmis	nhee	dæmi
 DNA	as	DNA
 .	.	.
-
 Sumir	fokfn	sumur
 vísindamenn	nkfn	vísindamaður
 telja	sfg3fn	telja
@@ -4521,7 +4297,6 @@ um	aa	um
 milljónum	nvfþ	milljón
 ára	nhfe	ár
 .	.	.
-
 Rannsóknir	nvfn	rannsókn
 Huygens	e	Huygens
 á	aþ	á
@@ -4539,7 +4314,6 @@ myndaðist	sfm3eþ	mynda
 á	aþ	á
 jörðinni	nveþg	jörð
 .	.	.
-
 Eitt	fohen	einn
 það	fahen	sá
 helsta	lhenve	heldri
@@ -4564,7 +4338,6 @@ myndast	ssm	mynda
 lofthjúpi	nkeþ	lofthjúpur
 Títans	nxee-s	Títan
 .	.	.
-
 Löng	lvensf	langur
 leið	nven	leið
 er	sfg3en	vera
@@ -4575,7 +4348,6 @@ efnasamböndum	nhfþ	efnasamband
 til	ae	til
 lífs	nhee	líf
 .	.	.
-
 Engin	foven	enginn
 ein	tfven	einn
 nákvæm	lvensf	nákvæmur
@@ -4596,7 +4368,6 @@ hún	fpven	hún
 að	cn	að
 vera	sng	vera
 .	.	.
-
 Þegar	c	þegar
 við	fp1fn	ég
 leitum	sfg1fn	leita
@@ -4621,7 +4392,6 @@ að	cn	að
 viðhalda	sng	viðhalda
 efnaskiptum	nhfþ	efnaskipti
 .	.	.
-
 Plöntur	nvfn	planta
 nota	sfg3fn	nota
 til	ae	til
@@ -4641,7 +4411,6 @@ efnasamböndum	nhfþ	efnasamband
 í	aþ	í
 fæðunni	nveþg	fæða
 .	.	.
-
 Þetta	fahen	þessi
 flækist	sfm3en	flækja
 nokkuð	fohen	nokkur
@@ -4653,7 +4422,6 @@ jörðinni	nveþg	jörð
 ,	,	,
 örverunum	nvfþg	örvera
 .	.	.
-
 Örverur	nvfn	örvera
 eru	sfg3fn	vera
 einfrumungar	nkfn	einfrumungur
@@ -4664,7 +4432,6 @@ orku	nveo	orka
 ólífrænum	lhfþsf	ólífrænn
 efnahvörfum	nhfþ	efnahvarf
 .	.	.
-
 Slík	fbhfn	slíkur
 efnaskipti	nhfn	efnaskipti
 eru	sfg3fn	vera
@@ -4704,7 +4471,6 @@ og	c	og
 á	aþ	á
 Títan	nxeþ-s	Títan
 .	.	.
-
 Það	fahen	sá
 sem	ct	sem
 meira	lhenvm	mikill
@@ -4733,7 +4499,6 @@ myndast	ssm	mynda
 á	aþ	á
 Títan	nxeþ-s	Títan
 .	.	.
-
 Ef	c	ef
 einhvers	fokee	einhver
 konar	nkee	konar
@@ -4755,7 +4520,6 @@ hér	aa	hér
 á	aþ	á
 jörðinni	nveþg	jörð
 .	.	.
-
 Á	aþ	á
 Títan	nxeþ-s	Títan
 er	sfg3en	vera
@@ -4777,7 +4541,6 @@ fljótandi	lhenof	fljótandi
 vatn	nhen	vatn
 ekki	aa	ekki
 .	.	.
-
 «	«	«
 Jarð	x	jarð
 »	»	»
@@ -4807,7 +4570,6 @@ athugana	nvfe	athugun
 hugsanlegu	lheþsf	hugsanlegur
 lífi	nheþ	líf
 .	.	.
-
 Rannsóknir	nvfn	rannsókn
 á	aþ	á
 Títan	nxeþ-s	Títan
@@ -4825,7 +4587,6 @@ verur	nvfo	vera
 frá	aþ	frá
 dauðum	lkfþsf	dauður
 .	.	.
-
 Þegar	c	þegar
 við	fp1fn	ég
 komumst	sfm1fn	koma
@@ -4840,11 +4601,9 @@ skilgreina	sng	skilgreina
 líf	nheo	líf
 nákvæmar	aam	nákvæmt
 .	.	.
-
 <	<	<
 Heimildir	nvfn	heimild
 >	>	>
-
 Edwin	e	Edwin
 Powell	e	Powell
 Hubble	e	Hubble
@@ -4861,7 +4620,6 @@ Bandaríkjunum	nhfþgs	Bandaríki
 nóvember	nkeo	nóvember
 1889	ta	1889
 .	.	.
-
 Árið	nheog	ár
 1898	ta	1898
 fluttist	sfm3eþ	flytja
@@ -4878,7 +4636,6 @@ hann	fpken	hann
 skólagöngu	nveo	skólaganga
 sína	feveo	sinn
 .	.	.
-
 Hubble	e	Hubble
 heillaðist	sfm3eþ	heilla
 snemma	aa	snemma
@@ -4902,7 +4659,6 @@ Henry	e	Henry
 Rider	e	Rider
 Haggard	e	Haggard
 .	.	.
-
 Edwin	e	Edwin
 Hubble	e	Hubble
 var	sfg3eþ	vera
@@ -4927,7 +4683,6 @@ Illinois	e	Illinois
 í	aþ	í
 hástökki	nheþ	hástökk
 .	.	.
-
 Í	aþ	í
 háskóla	nkeþ	háskóli
 hélt	sfg3eþ	halda
@@ -4955,7 +4710,6 @@ stærð-	nveþ	stærðfræði
 og	c	og
 stjörnufræði	nveþ	stjörnufræði
 .	.	.
-
 Um	ao	um
 1910	ta	1910
 hélt	sfg3eþ	halda
@@ -4980,7 +4734,6 @@ stund	nveo	stund
 á	ao	á
 laganám	nheo	laganám
 .	.	.
-
 Árið	nheog	ár
 1913	ta	1913
 sneri	sfg3eþ	snúa

@@ -40,7 +40,6 @@ des	e	des
 .	.	.
 Jahrhunderts	e	Jahrhunderts
 .	.	.
-
 Symposium	e	Symposium
 aus	e	aus
 Anlaß	e	Anlaß
@@ -52,17 +51,14 @@ von	e	von
 Halldór	nken-s	Halldór
 Laxness	nken-s	Laxness
 .	.	.
-
 Erlangen	e	Erlangen
 ,	,	,
 2.-	ta	2.-
 4	ta	4
 .	.	.
-
 Mai	e	Mai
 2002	ta	2002
 .	.	.
-
 Herausgegeben	e	Herausgegeben
 von	e	von
 Hubert	e	Hubert
@@ -71,29 +67,22 @@ und	e	und
 Kolbrún	nven-s	Kolbrún
 Haraldsdóttir	nven-s	Haraldsdóttir
 .	.	.
-
 Erlanger	e	Erlanger
 Forschungen	e	Forschungen
 .	.	.
-
 Reihe	e	Reihe
 A.	as	A.
 Geisteswissenschaften	e	Geisteswissenschaften
 .	.	.
-
 Band	e	Band
 102	ta	102
 .	.	.
-
 Erlangen	e	Erlangen
 2004	ta	2004
 .	.	.
-
 Bls.	as	bls.
-
 13-34	ta	13-34
 .	.	.
-
 Stytt	lvensf	styttur
 gerð	nven	gerð
 var	sfg3eþ	vera
@@ -121,7 +110,6 @@ kant	x	kantur
 ljúga	sng	ljúga
 »	»	»
 .	.	.
-
 Lygi	nven	lygi
 og	c	og
 sannleikur	nken	sannleikur
@@ -143,7 +131,6 @@ stendur	sfg3en	standa
 réttum	lkeþsf	réttur
 stað	nkeþ	staður
 .	.	.
-
 Um	ao	um
 ævi	nveo	ævi
 og	c	og
@@ -151,29 +138,22 @@ verk	nhfo	verk
 Halldórs	nkee-s	Halldór
 Laxness	nkee-s	Laxness
 .	.	.
-
 Ritstj.	as	ritstj.
-
 Jón	nken-s	Jón
 Ólafsson	nken-s	Ólafsson
 .	.	.
-
 Reykjavík	nveþ-s	Reykjavík
 2002	ta	2002
 .	.	.
-
 Bls.	as	bls.
-
 182-90	ta	182-90
 .	.	.
-
 Í	aþ	í
 sveiflunni	nveþg	sveifla
 milli	ae	milli
 tveggja	tfvfe	tveir
 andstæðra	lvfesf	andstæður
 tíða	nvfe	tíð
-
 Úr	aþ	úr
 formála	nkeþ	formáli
 að	aþ	að
@@ -181,13 +161,10 @@ Kvæðum	nhfþ-s	kvæði
 Ólafs	nkee-s	Ólafur
 Jóhanns	nkee-s	Jóhann
 Sigurðssonar	nkee-s	Sigurðsson
-
 I	ta	I
-
 <	<	<
 tilvitnun	nven	tilvitnun
 >	>	>
-
 Ólafur	nken-s	Ólafur
 Jóhann	nken-s	Jóhann
 Sigurðsson	nken-s	Sigurðsson
@@ -200,7 +177,6 @@ tíða	nvfe	tíð
 tveggja	tfkfe	tveir
 heima	nkfe	heimur
 .	.	.
-
 Annar	foken	annar
 var	sfg3eþ	vera
 heimur	nken	heimur
@@ -228,7 +204,6 @@ mennta-	nvee	menntahefð
 og	c	og
 mannúðarhefðar	nvee	mannúðarhefð
 .	.	.
-
 Hinn	faken	hinn
 var	sfg3eþ	vera
 tæknivæddur	lkensf	tæknivæddur
@@ -248,7 +223,6 @@ er	sfg3en	vera
 forsenda	nven	forsenda
 hans	fpkee	hann
 .	.	.
-
 Ólafur	nken-s	Ólafur
 Jóhann	nken-s	Jóhann
 unni	sfg3eþ	unna
@@ -281,7 +255,6 @@ annmarka	nkfo	annmarki
 sveitasamfélagsins	nheeg	sveitasamfélag
 gamla	lheevf	gamall
 .	.	.
-
 Hann	fpken	hann
 hafði	sfg3eþ	hafa
 ímugust	nkeo	ímugustur
@@ -309,7 +282,6 @@ samhljóm	nkeþ	samhljómur
 við	ao	við
 náttúruna	nveog	náttúra
 .	.	.
-
 En	c	en
 hann	fpken	hann
 missti	sfg3eþ	missa
@@ -342,7 +314,6 @@ sem	c	sem
 var	sfg3eþ	vera
 ógnað	sþghen	ógna
 .	.	.
-
 Kvæði	nhfn	kvæði
 hans	fpkee	hann
 eru	sfg3fn	vera
@@ -369,7 +340,6 @@ vernda	sfg3fn	vernda
 gegn	aþ	gegn
 eyðingu	nveþ	eyðing
 .	.	.
-
 Hann	fpken	hann
 hlustaði	sfg3eþ	hlusta
 eftir	aþ	eftir
@@ -394,7 +364,6 @@ sem	ct	sem
 gátu	sfg3fþ	geta
 numið	ssg	nema
 .	.	.
-
 Aftur	aa	aftur
 og	c	og
 aftur	aa	aftur
@@ -422,11 +391,9 @@ sínum	fehfþ	sinn
 í	aþ	í
 von	nveþ	von
 :	:	:
-
 <	<	<
 ljóð	nhen	ljóð
 >	>	>
-
 Ólafur	nken-s	Ólafur
 Jóhann	nken-s	Jóhann
 stóð	sfg3eþ	standa
@@ -439,7 +406,6 @@ heima	nkfe	heimur
 bókmenntalegum	lkeþsf	bókmenntalegur
 skilningi	nkeþ	skilningur
 .	.	.
-
 Íslensk	lvensf	íslenskur
 bókmenntahefð	nven	bókmenntahefð
 var	sfg3eþ	vera
@@ -468,7 +434,6 @@ fjarri	aþ	fjarri
 öllum	fokeþ	allur
 heimaalningshætti	nkeþ	heimaalningsháttur
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 vel	aa	vel
@@ -490,7 +455,6 @@ til	ae	til
 íslenskra	lvfesf	íslenskur
 bókmennta	nvfe	bókmennt
 .	.	.
-
 Sem	c	sem
 ljóðskáld	nhen	ljóðskáld
 tilheyrir	sfg3en	tilheyra
@@ -514,7 +478,6 @@ ljóðhefð	nveo	ljóðhefð
 og	c	og
 evrópska	lveosf	evrópskur
 .	.	.
-
 Fjölvíða	aa	fjölvíða
 í	aþ	í
 kvæðum	nhfþ	kvæði
@@ -554,7 +517,6 @@ laufferjum	nvfþ	laufferja
 samnefndri	lveþsf	samnefndur
 bók	nveþ	bók
 .	.	.
-
 Þar	aa	þar
 fer	sfg3en	fara
 saman	aa	saman
@@ -569,7 +531,6 @@ hins	gkee	hinn
 meðvitaða	lkeevf	meðvitaður
 skáldsnillings	nkee	skáldsnillingur
 .	.	.
-
 Upphafi	nheþ	upphaf
 ferðalags	nhee	ferðalag
 og	c	og
@@ -600,7 +561,6 @@ milli	ae	milli
 skara	nvfe	skör
 .	.	.
 »	»	»
-
 Farkosturinn	nkeng	farkostur
 ,	,	,
 eina	lvenvf	einn
@@ -633,7 +593,6 @@ kvöldhimins	nkee	kvöldhiminn
 titra	sfg3fn	titra
 .	.	.
 »	»	»
-
 En	c	en
 skáldið	nheng	skáld
 heldur	sfg3en	halda
@@ -669,7 +628,6 @@ yfir	aa	yfir
 99	ta	99
 )	)	)
 .	.	.
-
 Líf	nhen	líf
 hans	fpkee	hann
 var	sfg3eþ	vera
@@ -679,7 +637,6 @@ af	aþ	af
 þessari	faveþ	þessi
 trú	nveþ	trú
 .	.	.
-
 II	ta	II
 Ólafur	nken-s	Ólafur
 Jóhann	nken-s	Jóhann
@@ -695,7 +652,6 @@ Garðahverfi	nheþ-s	Garðahverfi
 á	aþ	á
 Álftanesi	nheþ-s	Álftanes
 .	.	.
-
 Foreldrar	nkfn	foreldrar
 hans	fpkee	hann
 voru	sfg3fþ	vera
@@ -706,14 +662,12 @@ og	c	og
 Ingibjörg	nven-s	Ingibjörg
 Jónsdóttir	nven-s	Jónsdóttir
 .	.	.
-
 Ólafur	nken-s	Ólafur
 var	sfg3eþ	vera
 næstyngstur	lkense	næstyngstur
 átta	tfhfe	átta
 systkina	nhfe	systkin
 .	.	.
-
 Þegar	c	þegar
 hann	fpken	hann
 var	sfg3eþ	vera
@@ -746,7 +700,6 @@ síðan	aa	síðan
 að	aþ	að
 Torfastöðum	nkfþ-s	Torfastaðir
 .	.	.
-
 Samband	nhen	samband
 Ólafs	nkee-s	Ólafur
 Jóhanns	nkee-s	Jóhann
@@ -762,7 +715,6 @@ gott	lhensf	góður
 á	aþ	á
 bernskuárum	nhfþ	bernskuár
 .	.	.
-
 Hann	fpken	hann
 minnist	sfm3en	minna
 þeirra	fpkfe	hann
@@ -771,7 +723,6 @@ allvíða	aa	allvíða
 ljóðum	nhfþ	ljóð
 sínum	fehfþ	sinn
 .	.	.
-
 Mætti	svg3eþ	mega
 nefna	sng	nefna
 upphafskvæðin	nhfog	upphafskvæði
@@ -787,7 +738,6 @@ Virkjum	nhfþ-s	Virki
 og	c	og
 vötnum	nhfþ	vatn
 .	.	.
-
 Um	ao	um
 skólagöngu	nveo	skólaganga
 var	sfg3eþ	vera
@@ -805,7 +755,6 @@ mánuði	nkfo	mánuður
 á	aþ	á
 vetri	nkeþ	vetur
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 tók	sfg3eþ	taka
@@ -827,7 +776,6 @@ og	c	og
 þýddar	lvfosf	þýddur
 bækur	nvfo	bók
 .	.	.
-
 Snemma	aa	snemma
 mun	sfg3en	munu
 hann	fpkeo	hann
@@ -859,7 +807,6 @@ og	c	og
 vel	aa	vel
 viðraði	sfg3eþ	viðra
 .	.	.
-
 Haustið	nheog	haust
 1933	ta	1933
 fór	sfg3eþ	fara
@@ -877,7 +824,6 @@ hélt	sfg3eþ	halda
 til	ae	til
 Reykjavíkur	nvee-s	Reykjavík
 .	.	.
-
 Þá	aa	þá
 þegar	c	þegar
 var	sfg3eþ	vera
@@ -888,7 +834,6 @@ að	cn	að
 gerast	snm	gera
 rithöfundur	nken	rithöfundur
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 í	aþ	í
@@ -955,7 +900,6 @@ kom	sfg3eþ	koma
 árið	nheog	ár
 1935	ta	1935
 .	.	.
-
 Sögurnar	nvfng	saga
 urðu	sfg3fþ	verða
 vinsælar	lvfnsf	vinsæll
@@ -969,7 +913,6 @@ einkum	aa	einkum
 fyrra	lhenvm	fyrri
 safnið	nheng	safn
 .	.	.
-
 Þegar	c	þegar
 hér	aa	hér
 var	sfg3eþ	vera
@@ -1030,7 +973,6 @@ Andrésson	nkeo-s	Andrésson
 broddi	nkeþ	broddur
 fylkingar	nvee	fylking
 .	.	.
-
 Velgengni	nven	velgengni
 fyrstu	lvfeve	fyrstur
 bókanna	nvfeg	bók
@@ -1064,7 +1006,6 @@ og	c	og
 smásagnasafn	nheo	smásagnasafn
 1942	ta	1942
 .	.	.
-
 Jafnframt	aa	jafnframt
 hélt	sfg3eþ	halda
 hann	fpken	hann
@@ -1085,7 +1026,6 @@ rithöfundi	nkeþ	rithöfundur
 var	sfg3eþ	vera
 nauðsyn	nven	nauðsyn
 .	.	.
-
 Í	aþ	í
 því	faheþ	sá
 skyni	nheþ	skyn
@@ -1107,7 +1047,6 @@ um	ao	um
 skeið	nheo	skeið
 1943-1944	ta	1943-1944
 .	.	.
-
 Þar	aa	þar
 sótti	sfg3eþ	sækja
 hann	fpken	hann
@@ -1126,7 +1065,6 @@ af	aþ	af
 þeirri	faveþ	sá
 vist	nveþ	vist
 .	.	.
-
 Árið	nheog	ár
 1943	ta	1943
 gekk	sfg3eþ	ganga
@@ -1146,7 +1084,6 @@ hans	fpkee	hann
 Valgerðar	nvee-s	Valgerður
 Sveinsdóttur	nvee-s	Sveinsdóttir
 .	.	.
-
 Þau	fahfn	sá
 hjón	nhfn	hjón
 voru	sfg3fþ	vera
@@ -1168,7 +1105,6 @@ lífi	nheþ	líf
 Ólafs	nkee-s	Ólafur
 Jóhanns	nkee-s	Jóhann
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 það	fphen	það
@@ -1189,7 +1125,6 @@ hans	fpkee	hann
 og	c	og
 ljóðum	nhfþ	ljóð
 .	.	.
-
 Ólafur	nken-s	Ólafur
 Jóhann	nken-s	Jóhann
 var	sfg3eþ	vera
@@ -1215,7 +1150,6 @@ prentuðum	lvfþsf	prentaður
 bókum	nvfþ	bók
 hans	fpkee	hann
 .	.	.
-
 Allan	fokeo	allur
 sinn	fekeo	sinn
 búskap	nkeo	búskapur
@@ -1236,7 +1170,6 @@ námunda	nkeþ	námundi
 við	ao	við
 Tjörnina	nveogs	Tjörn
 .	.	.
-
 Þau	fphfn	það
 unnu	sfg3fþ	vinna
 sín	fehfo	sinn
@@ -1255,7 +1188,6 @@ syni	nkfo	sonur
 sína	fekfo	sinn
 tvo	tfkfo	tveir
 .	.	.
-
 Þegar	c	þegar
 þau	fphfn	það
 voru	sfg3fþ	vera
@@ -1273,7 +1205,6 @@ skyndilega	aa	skyndilega
 30.	ta	30.
 júlí	nkeo	júlí
 .	.	.
-
 Anna	nven-s	Anna
 lifði	sfg3eþ	lifa
 mann	nkeo	maður
@@ -1282,7 +1213,6 @@ tæp	lhfosf	tæpur
 sjö	tfhfo	sjö
 ár	nhfo	ár
 .	.	.
-
 Svo	aa	svo
 mátti	sfg3eþ	mega
 virðast	snm	virða
@@ -1327,7 +1257,6 @@ sársauka	nkee	sársauki
 og	c	og
 vonar	nvee	von
 .	.	.
-
 III	ta	III
 Ólafur	nken-s	Ólafur
 Jóhann	nken-s	Jóhann
@@ -1355,7 +1284,6 @@ voru	sfg3fþ	vera
 í	aþ	í
 algleymingi	nkeþ	algleymingur
 .	.	.
-
 Kornungur	lkensf	kornungur
 tók	sfg3eþ	taka
 hann	fpken	hann
@@ -1388,7 +1316,6 @@ fyrirmynd	nveo	fyrirmynd
 og	c	og
 viðmiðun	nveo	viðmiðun
 .	.	.
-
 Þess	fphee	það
 sér	sfg3en	sjá
 ýmis	fohfo	ýmis
@@ -1407,7 +1334,6 @@ og	c	og
 lengri	lvfþvm	langur
 sögum	nvfþ	saga
 .	.	.
-
 En	c	en
 furðu	nvee	furða
 fljótt	aa	fljótt
@@ -1423,7 +1349,6 @@ sem	ct	sem
 honum	fpkeþ	hann
 hentuðu	sfg3fþ	henta
 .	.	.
-
 Þá	aa	þá
 kom	sfg3eþ	koma
 skýrt	aa	skýrt
@@ -1443,7 +1368,6 @@ máli	nheþ	mál
 lýrískt	lhensf	lýrískur
 sagnaskáld	nhen	sagnaskáld
 .	.	.
-
 Að	aþ	að
 eigin	lveþof	eigin
 sögn	nveþ	sögn
@@ -1467,7 +1391,6 @@ hagmælskunni	nveþg	hagmælska
 trútt	lheosf	trúr
 vitni	nheo	vitni
 .	.	.
-
 Ekki	aa	ekki
 þarf	sfg3en	þurfa
 heldur	aam	heldur
@@ -1489,7 +1412,6 @@ alla	foveo	allur
 tíð	nveo	tíð
 síðan	aa	síðan
 .	.	.
-
 En	c	en
 ljóðagerð	nven	ljóðagerð
 var	sfg3eþ	vera
@@ -1509,7 +1431,6 @@ gildi	nheo	gildi
 og	c	og
 sagnagerðin	nveng	sagnagerð
 .	.	.
-
 Þó	aa	þó
 kom	sfg3eþ	koma
 þar	aa	þar
@@ -1531,7 +1452,6 @@ fleira	lheovm	margur
 árið	nheog	ár
 1952	ta	1952
 .	.	.
-
 Nafnið	nheng	nafn
 er	sfg3en	vera
 hógvært	lhensf	hógvær
@@ -1560,7 +1480,6 @@ kverið	nheog	kver
 frá	aþ	frá
 sér	fpheþ	sig
 .	.	.
-
 Þarf	sfg3en	þurfa
 ekki	aa	ekki
 annað	foheo	annar
@@ -1599,7 +1518,6 @@ jarðarinnar	nveeg	jörð
 osfr.	as	osfr.
 )	)	)
 .	.	.
-
 Þó	aa	þó
 þarf	sfg3en	þurfa
 ekki	aa	ekki
@@ -1620,7 +1538,6 @@ höndum	nvfþ	hönd
 til	ae	til
 verka	nhfe	verk
 .	.	.
-
 Ljóðin	nhfng	ljóð
 eru	sfg3fn	vera
 fáguð	lhfnsf	fágaður
@@ -1650,7 +1567,6 @@ eða	c	eða
 á	aþ	á
 þrítugsaldri	nkeþ	þrítugsaldur
 .	.	.
-
 Þegar	c	þegar
 bókin	nveng	bók
 var	sfg3eþ	vera
@@ -1679,7 +1595,6 @@ var	sfg3eþ	vera
 16	ta	16
 ára	nhfe	ár
 .	.	.
-
 Hvort	c	hvort
 sem	c	sem
 það	fphen	það
@@ -1699,7 +1614,6 @@ hvörfum	nhfþ	hvarf
 í	aþ	í
 rithöfundarferlinum	nkeþg	rithöfundarferill
 .	.	.
-
 Árið	nheog	ár
 1951	ta	1951
 hafði	sfg3eþ	hafa
@@ -1726,7 +1640,6 @@ sögu	nveþ	saga
 Herdísar	nvee-s	Herdís
 Hermannsdóttur	nvee-s	Hermannsdóttir
 .	.	.
-
 Það	fphen	það
 voru	sfg3fþ	vera
 einmitt	aa	einmitt
@@ -1765,7 +1678,6 @@ tón	nkeo	tónn
 verkum	nhfþ	verk
 hans	fpkee	hann
 .	.	.
-
 Þrísaga	nven	þrísaga
 þessi	faven	þessi
 átti	sfg3eþ	eiga
@@ -1799,7 +1711,6 @@ fullmótaður	lkensf	fullmótaður
 huga	nkeþ	hugi
 hans	fpkee	hann
 .	.	.
-
 En	c	en
 þetta	fahen	þessi
 framhald	nhen	framhald
@@ -1819,7 +1730,6 @@ Páls	nkee-s	Páll
 sögu	nveþ	saga
 Jónssonar	nkee-s	Jónsson
 .	.	.
-
 Gangvirkið	nheng	gangvirki
 kom	sfg3eþ	koma
 út	aa	út
@@ -1835,7 +1745,6 @@ og	c	og
 smáfuglar	nkfn	smáfugl
 1983	ta	1983
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 eins	aa	eins
@@ -1881,7 +1790,6 @@ um	ao	um
 sagnagerð	nveo	sagnagerð
 sína	feveo	sinn
 .	.	.
-
 Ljóðagerðin	nveng	ljóðagerð
 hefur	sfg3en	hafa
 þá	aa	þá
@@ -1910,7 +1818,6 @@ honum	fpkeþ	hann
 andleg	lvensf	andlegur
 hvíld	nven	hvíld
 .	.	.
-
 Ljóðin	nhfng	ljóð
 í	aþ	í
 Nokkrum	fovfþ	nokkur
@@ -1931,7 +1838,6 @@ beint	aa	beint
 til	ae	til
 samtímans	nkeeg	samtími
 .	.	.
-
 Í	aþ	í
 Gangvirkinu	nheþgs	Gangvirki
 koma	sfg3fn	koma
@@ -1946,7 +1852,6 @@ við	ao	við
 hin	ghfo	hinn
 gömlu	lhfovf	gamall
 .	.	.
-
 Af	aþ	af
 einhverjum	fovfþ	einhver
 ástæðum	nvfþ	ástæða
@@ -1967,7 +1872,6 @@ hófst	sfm3eþ	hefja
 með	aþ	með
 Gangvirkinu	nheþgs	Gangvirki
 .	.	.
-
 Meira	lhenvm	mikill
 en	c	en
 tveir	tfkfn	tveir
@@ -2000,7 +1904,6 @@ sem	ct	sem
 hafði	sfg3eþ	hafa
 verið	ssg	vera
 .	.	.
-
 Samtímis	aþ	samtímis
 fyrri	lvfþvm	fyrri
 skáldsögum	nvfþ	skáldsaga
@@ -2023,7 +1926,6 @@ fáeinar	fovfn	fáeinir
 stuttar	lvfnsf	stuttur
 sögur	nvfn	saga
 .	.	.
-
 Þá	aa	þá
 kom	sfg3eþ	koma
 skyndilega	aa	skyndilega
@@ -2106,7 +2008,6 @@ og	c	og
 framtíð	nveo	framtíð
 mannsins	nkeeg	maður
 .	.	.
-
 Frá	aþ	frá
 þessu	faheþ	þessi
 ári	nheþ	ár
@@ -2136,7 +2037,6 @@ um	ao	um
 Pál	nkeo-s	Páll
 Jónsson	nkeo-s	Jónsson
 .	.	.
-
 Þrjár	tfvfn	þrír
 ljóðabækur	nvfn	ljóðabók
 bættust	sfm3fþ	bæta
@@ -2181,7 +2081,6 @@ að	aþ	að
 honum	fpkeþ	hann
 látnum	lkeþsf	látinn
 .	.	.
-
 Ljóðabækur	nvfn	ljóðabók
 þessar	favfn	þessi
 segja	sfg3fn	segja
@@ -2222,7 +2121,6 @@ eru	sfg3fn	vera
 náskyldir	lkfnsf	náskyldur
 ljóðagerðinni	nveþg	ljóðagerð
 .	.	.
-
 Þótt	c	þótt
 Ólafur	nken-s	Ólafur
 Jóhann	nken-s	Jóhann
@@ -2266,12 +2164,10 @@ og	c	og
 Að	aþ	að
 brunnum	nkfþ	brunnur
 .	.	.
-
 IV	ta	IV
 <	<	<
 tilvitnun	nven	tilvitnun
 >	>	>
-
 Ljóðabækur	nvfn	ljóðabók
 Ólafs	nkee-s	Ólafur
 Jóhanns	nkee-s	Jóhann
@@ -2295,7 +2191,6 @@ mun	sfg3en	munu
 koma	sng	koma
 fram	aa	fram
 .	.	.
-
 Hugur	nken	hugur
 skáldsins	nheeg	skáld
 leitar	sfg3en	leita
@@ -2307,7 +2202,6 @@ friði	nkeþ	friður
 stormasamri	lveþsf	stormasamur
 tíð	nveþ	tíð
 .	.	.
-
 Leiðin	nveng	leið
 til	ae	til
 þess	fphee	það
@@ -2337,7 +2231,6 @@ sóst	sþmhen	sækja
 er	sfg3en	vera
 eftir	aa	eftir
 .	.	.
-
 Skáldið	nheng	skáld
 þráir	sfg3en	þrá
 þetta	faheo	þessi
@@ -2360,7 +2253,6 @@ fyrir	ao	fyrir
 eigin	lveoof	eigin
 hönd	nveo	hönd
 .	.	.
-
 Leiðin	nveng	leið
 liggur	sfg3en	liggja
 í	aþ	í
@@ -2369,7 +2261,6 @@ skilningi	nkeþ	skilningur
 um	ao	um
 náttúruna	nveog	náttúra
 .	.	.
-
 Í	aþ	í
 samlífi	nheþ	samlíf
 við	ao	við
@@ -2395,7 +2286,6 @@ uppi	aa	uppi
 kveðskap	nkeo	kveðskapur
 hans	fpkee	hann
 .	.	.
-
 Leitin	nveng	leit
 að	aþ	að
 jafnvægi	nheþ	jafnvægi
@@ -2404,7 +2294,6 @@ speglast	sfm3en	spegla
 formi	nheþ	form
 ljóðanna	nhfeg	ljóð
 .	.	.
-
 Stundum	aa	stundum
 endurspegla	sfg3fn	endurspegla
 þau	fphfn	það
@@ -2437,7 +2326,6 @@ mark	nheo	mark
 á	ao	á
 formið	nheog	form
 .	.	.
-
 Þessi	faven	þessi
 meginstefna	nven	meginstefna
 skáldsins	nheeg	skáld
@@ -2452,7 +2340,6 @@ hætti	nkeþ	háttur
 einstökum	lvfþsf	einstakur
 bókum	nvfþ	bók
 .	.	.
-
 Meðal	ae	meðal
 annarra	fohfe	annar
 ljóða	nhfe	ljóð
@@ -2485,7 +2372,6 @@ bókarinnar	nveeg	bók
 áratugum	nkfþ	áratugur
 seinna	aam	seint
 .	.	.
-
 Á	aþ	á
 þeim	fphfþ	það
 sést	sfm3en	sjá
@@ -2515,7 +2401,6 @@ sótt	sþghen	sækja
 til	ae	til
 náttúrunnar	nveeg	náttúra
 .	.	.
-
 Tæknin	nveng	tækni
 er	sfg3en	vera
 eins	aa	eins
@@ -2529,7 +2414,6 @@ kveða	sfg3fn	kveða
 þeim	fahfþ	sá
 árum	nhfþ	ár
 .	.	.
-
 En	c	en
 þessi	fahfo	þessi
 æskukvæði	nhfo	æskukvæði
@@ -2544,7 +2428,6 @@ yrkisefnum	nhfþ	yrkisefni
 og	c	og
 hrynjandi	nveþ	hrynjandi
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ekki	aa	ekki
@@ -2559,7 +2442,6 @@ svo	aa	svo
 ungu	lheþsf	ungur
 skáldi	nheþ	skáld
 .	.	.
-
 En	c	en
 fljótlega	aa	fljótlega
 vex	sfg3en	vaxa
@@ -2568,7 +2450,6 @@ skáldsins	nheeg	skáld
 og	c	og
 sjálfstæði	nhen	sjálfstæði
 .	.	.
-
 Í	aþ	í
 kvæðinu	nheþg	kvæði
 Fljótið	nhengs	Fljót
@@ -2599,7 +2480,6 @@ Sigurjónssyni	nkeþ-s	Sigurjónsson
 og	c	og
 Steini	nkeþ-s	Steinn
 .	.	.
-
 Erfitt	lhensf	erfiður
 er	sfg3en	vera
 að	cn	að
@@ -2626,7 +2506,6 @@ bókin	nveng	bók
 kom	sfg3eþ	koma
 út	aa	út
 .	.	.
-
 Í	aþ	í
 athugasemd	nveþ	athugasemd
 ,	,	,
@@ -2669,7 +2548,6 @@ annað	foheo	annar
 slagið	nheog	slag
 .	.	.
 »	»	»
-
 Þess	fphee	það
 vegna	ae	vegna
 er	sfg3en	vera
@@ -2699,7 +2577,6 @@ mikið	lhensf	mikill
 um	ao	um
 það	fpheo	það
 .	.	.
-
 Hér	aa	hér
 eru	sfg3fn	vera
 þó	aa	þó
@@ -2752,7 +2629,6 @@ fylgir	sfg3en	fylgja
 þér	fp2eþ	þú
 .	.	.
 »	»	»
-
 Meiri	lkenvm	mikill
 samhljómur	nken	samhljómur
 og	c	og
@@ -2797,11 +2673,9 @@ hver	foven	hver
 í	ao	í
 aðra	foveo	annar
 :	:	:
-
 <	<	<
 ljóð	nhen	ljóð
 >	>	>
-
 Fegur	aam	fegur
 yrkja	sfg3fn	yrkja
 þeir	fpkfn	hann
@@ -2829,7 +2703,6 @@ sambærilegum	lkeþsf	sambærilegur
 kveðskap	nkeþ	kveðskapur
 samtímans	nkeeg	samtími
 .	.	.
-
 Svo	aa	svo
 er	sfg3en	vera
 að	cn	að
@@ -2851,7 +2724,6 @@ bókin	nveng	bók
 kom	sfg3eþ	koma
 út	aa	út
 .	.	.
-
 Hvort	fohen	hvor
 tveggja	tfhfe	tveir
 er	sfg3en	vera
@@ -2897,7 +2769,6 @@ Svo	aa	svo
 kölluðum	lkeþsf	kallaður
 atómkveðskap	nkeþ	atómkveðskapur
 .	.	.
-
 Vinir	nkfn	vinur
 hins	ghee	hinn
 hefðbundna	lheevf	hefðbundinn
@@ -2923,7 +2794,6 @@ en	c	en
 Ólafur	nken-s	Ólafur
 Jóhann	nken-s	Jóhann
 .	.	.
-
 Þegar	c	þegar
 Að	aþ	að
 laufferjum	nvfþ	laufferja
@@ -2946,7 +2816,6 @@ litu	sfg3fþ	líta
 upp	aa	upp
 undrandi	lkfnof	undrandi
 .	.	.
-
 Reyndar	aa	reyndar
 var	sfg3eþ	vera
 ekki	aa	ekki
@@ -2976,7 +2845,6 @@ höfð	sþgven	hafa
 af	aþ	af
 ritdómurum	nkfþ	ritdómari
 .	.	.
-
 Vafalaust	aa	vafalaust
 eru	sfg3fn	vera
 ljóðin	nhfng	ljóð
@@ -3006,7 +2874,6 @@ vísur	nvfn	vísa
 komu	sfg3fþ	koma
 út	aa	út
 .	.	.
-
 Í	aþ	í
 skrifuðu	lheþsf	skrifaður
 vísnakveri	nheþ	vísnakver
@@ -3022,7 +2889,6 @@ upphafskvæðið	nheog	upphafskvæði
 ,	,	,
 Minningu	nveo-s	Minning
 .	.	.
-
 Með	aþ	með
 leiðréttingum	nvfþ	leiðrétting
 og	c	og
@@ -3044,7 +2910,6 @@ stendur	sfg3en	standa
 og	c	og
 1972	ta	1972
 .	.	.
-
 Kvæðið	nheng	kvæði
 er	sfg3en	vera
 ástúðlegt	lhensf	ástúðlegur
@@ -3068,7 +2933,6 @@ Fengir	svg2eþ	fá
 að	cn	að
 koma	sng	koma
 .	.	.
-
 Í	aþ	í
 fyrra	lheþvm	fyrri
 kvæðinu	nheþg	kvæði
@@ -3097,11 +2961,9 @@ ljóðum	nhfþ	ljóð
 Ólafs	nkee-s	Ólafur
 Jóhanns	nkee-s	Jóhann
 :	:	:
-
 <	<	<
 ljóð	nhen	ljóð
 >	>	>
-
 Hér	aa	hér
 hefur	sfg3en	hafa
 áður	aa	áður
@@ -3132,7 +2994,6 @@ sögu	nvee	saga
 og	c	og
 kvæða	nhfe	kvæði
 .	.	.
-
 Þegar	c	þegar
 litið	sþghen	líta
 er	sfg3en	vera
@@ -3151,7 +3012,6 @@ myndmál	nhen	myndmál
 mesta	lveose	mikill
 athygli	nveo	athygli
 .	.	.
-
 Formið	nheng	form
 er	sfg3en	vera
 að	aþ	að
@@ -3177,7 +3037,6 @@ notað	sþghen	nota
 eftir	aþ	eftir
 hentugleikum	nkfþ	hentugleiki
 .	.	.
-
 En	c	en
 skáldið	nheng	skáld
 hefur	sfg3en	hafa
@@ -3227,11 +3086,9 @@ t.d.	as	t.d.
 kvæðinu	nheþg	kvæði
 Fiðrildi	nheþ-s	Fiðrildi
 :	:	:
-
 <	<	<
 ljóð	nhen	ljóð
 >	>	>
-
 Einn	tfken	einn
 stuðull	nken	stuðull
 er	sfg3en	vera
@@ -3277,7 +3134,6 @@ fremst	aae	framar
 í	aþ	í
 línu	nveþ	lína
 .	.	.
-
 Með	aþ	með
 þessu	faheþ	þessi
 tekst	sfm3en	taka
@@ -3303,7 +3159,6 @@ og	c	og
 allir	fokfn	allur
 vita	sfg3fn	vita
 .	.	.
-
 Í	aþ	í
 næsta	lheþve	næstur
 kvæði	nheþ	kvæði
@@ -3326,7 +3181,6 @@ hrynjandi	nven	hrynjandi
 mjög	aa	mjög
 reglubundin	lvensf	reglubundinn
 .	.	.
-
 Forliður	nken	forliður
 og	c	og
 stýfður	lkensf	stýfður
@@ -3345,7 +3199,6 @@ sér	fpkfþ	sig
 í	ao	í
 raðir	nvfo	röð
 .	.	.
-
 Í	aþ	í
 næsta	lheþve	næstur
 kvæði	nheþ	kvæði
@@ -3377,7 +3230,6 @@ opnar	sfg3en	opna
 nýja	lveosf	nýr
 sýn	nveo	sýn
 .	.	.
-
 Ekkert	fohen	enginn
 væri	svg3eþ	vera
 auðveldara	lhenvm	auðveldur
@@ -3415,7 +3267,6 @@ sá	faken	sá
 leikur	nken	leikur
 eftir	aa	eftir
 .	.	.
-
 Rétt	lhensf	réttur
 er	sfg3en	vera
 þó	aa	þó
@@ -3435,7 +3286,6 @@ að	aþ	að
 þessu	faheþ	þessi
 leyti	nheþ	leyti
 .	.	.
-
 Aðeins	aa	aðeins
 þrjú	tfhfn	þrír
 kvæði	nhfn	kvæði
@@ -3458,7 +3308,6 @@ biðlunduðu	lkfevf	biðlundaður
 og	c	og
 Turnmerki	nhen-s	Turnmerki
 .	.	.
-
 Tvö	tfhfn	tveir
 þau	fphfn	það
 síðar	aam	síðar
@@ -3475,14 +3324,12 @@ tökin	nhfog	tak
 nokkra	foveo	nokkur
 sérstöðu	nveo	sérstaða
 .	.	.
-
 Að	aþ	að
 laufferjum	nvfþ	laufferja
 hefur	sfg3en	hafa
 bjart	lheosf	bjartur
 yfirbragð	nheo	yfirbragð
 .	.	.
-
 Bjartar	lvfnsf	bjartur
 náttúrumyndir	nvfn	náttúrumynd
 og	c	og
@@ -3512,7 +3359,6 @@ ljóðum	nhfþ	ljóð
 Ólafs	nkee-s	Ólafur
 Jóhanns	nkee-s	Jóhann
 .	.	.
-
 Skáldið	nheng	skáld
 skynjar	sfg3en	skynja
 náttúruna	nveog	náttúra
@@ -3534,7 +3380,6 @@ skynjun	nveþ	skynjun
 til	ae	til
 lesandans	nkeeg	lesandi
 .	.	.
-
 Mörg	lhfnsf	margur
 kvæðanna	nhfeg	kvæði
 í	aþ	í
@@ -3555,7 +3400,6 @@ fagna	sng	fagna
 dýrð	nveþ	dýrð
 náttúrunnar	nveeg	náttúra
 .	.	.
-
 Tilfinning	nven	tilfinning
 fyrir	aþ	fyrir
 hverfulleika	nkeþ	hverfulleiki
@@ -3589,7 +3433,6 @@ ljóðabókum	nvfþ	ljóðabók
 Ólafs	nkee-s	Ólafur
 Jóhanns	nkee-s	Jóhann
 .	.	.
-
 Fullkomna	lveosf	fullkominn
 andstæðu	nveo	andstæða
 við	ao	við
@@ -3605,7 +3448,6 @@ Ræða	nven	ræða
 hinna	gkfe	hinn
 biðlunduðu	lkfevf	biðlundaður
 .	.	.
-
 Formið	nheng	form
 er	sfg3en	vera
 óhefðbundið	lhensf	óhefðbundinn
@@ -3627,7 +3469,6 @@ fullt	lhensf	fullur
 af	aþ	af
 andstæðum	nvfþ	andstæða
 .	.	.
-
 Kvæðið	nheng	kvæði
 er	sfg3en	vera
 í	aa	í
@@ -3650,11 +3491,9 @@ Darraðarljóð	nheo-s	Darraðarljóð
 Njáls	nkee-s	Njáll
 sögu	nvee	saga
 :	:	:
-
 <	<	<
 ljóð	nhen	ljóð
 >	>	>
-
 Hitt	fahen	hinn
 móderníska	lhenvf	módernískur
 kvæðið	nheng	kvæði
@@ -3675,7 +3514,6 @@ og	c	og
 áhrifamiklu	lheþsf	áhrifamikill
 myndmáli	nheþ	myndmál
 .	.	.
-
 Ljóðabókin	nveng	ljóðabók
 Að	aþ	að
 brunnum	nkfþ	brunnur
@@ -3731,7 +3569,6 @@ kveðnar	sþgvfn	kveða
 1944	ta	1944
 »	»	»
 .	.	.
-
 Í	aþ	í
 þessari	faveþ	þessi
 athugagrein	nveþ	athugagrein
@@ -3749,7 +3586,6 @@ séu	svg3fn	vera
 eitt	tfhen	einn
 safn	nhen	safn
 ...	...	...
-
 í	aþ	í
 tveimur	tfkfþ	tveir
 hlutum	nkfþ	hluti
@@ -3767,13 +3603,11 @@ stíl	nkeþ	stíll
 og	c	og
 yrkisefnum	nhfþ	yrkisefni
 .	.	.
-
 Þó	aa	þó
 er	sfg3en	vera
 munur	nken	munur
 á	aa	á
 .	.	.
-
 Að	aþ	að
 brunnum	nkfþ	brunnur
 er	sfg3en	vera
@@ -3781,7 +3615,6 @@ samstæðari	lvenvm	samstæður
 og	c	og
 samfelldari	lvenvm	samfelldur
 .	.	.
-
 Hér	aa	hér
 eru	sfg3fn	vera
 engin	fohfn	enginn
@@ -3800,7 +3633,6 @@ biðlunduðu	lkfevf	biðlundaður
 eða	c	eða
 Turnmerki	nheo-s	Turnmerki
 .	.	.
-
 Skáldið	nheng	skáld
 styðst	sfm3en	styðja
 ævinlega	aa	ævinlega
@@ -3833,7 +3665,6 @@ fullkomnu	lheþsf	fullkominn
 listrænu	lheþsf	listrænn
 öryggi	nheþ	öryggi
 .	.	.
-
 Kunnur	lkensf	kunnur
 skáldskaparfræðingur	nken	skáldskaparfræðingur
 ,	,	,
@@ -3850,7 +3681,6 @@ hins	gkee	hinn
 lýríska	lkeevf	lýrískur
 stíls	nkee	stíll
 .	.	.
-
 Þetta	fahen	þessi
 á	sfg3en	eiga
 afar	aa	afar
@@ -3861,7 +3691,6 @@ ljóðin	nhfog	ljóð
 Að	aþ	að
 brunnum	nkfþ	brunnur
 .	.	.
-
 Í	aþ	í
 enn	aa	enn
 meira	lkeþvm	mikill
@@ -3883,7 +3712,6 @@ er	sfg3en	vera
 þessari	faveþ	þessi
 bók	nveþ	bók
 .	.	.
-
 Að	aþ	að
 vísu	lheþsf	vís
 eru	sfg3fn	vera
@@ -3915,7 +3743,6 @@ náttúrumyndirnar	nvfng	náttúrumynd
 tengdar	sþgvfn	tengja
 minningunni	nveþg	minning
 .	.	.
-
 Þetta	fahen	þessi
 kemur	sfg3en	koma
 fram	aa	fram
@@ -3952,7 +3779,6 @@ kvæðunum	nhfþg	kvæði
 þennan	fakeo	þessi
 minningarblæ	nkeo	minningarblær
 .	.	.
-
 Í	aþ	í
 ljóðrænni	lveþsf	ljóðrænn
 minningu	nveþ	minning
@@ -3970,7 +3796,6 @@ endurheimt	nveþ	endurheimt
 hins	ghee	hinn
 liðna	lheevf	liðinn
 .	.	.
-
 Í	aþ	í
 kveðskap	nkeþ	kveðskapur
 Ólafs	nkee-s	Ólafur
@@ -3985,7 +3810,6 @@ síður	aam	síður
 en	c	en
 fortíð	nveþ	fortíð
 .	.	.
-
 Ljóðin	nhfng	ljóð
 festa	sfg3fn	festa
 eitt	tfheo	einn
@@ -4015,7 +3839,6 @@ fram	aa	fram
 í	ao	í
 tímann	nkeog	tími
 .	.	.
-
 Kvæðin	nhfng	kvæði
 eru	sfg3fn	vera
 einatt	aa	einatt
@@ -4057,7 +3880,6 @@ hönd	nveo	hönd
 ókominna	lvfesf	ókominn
 kynslóða	nvfe	kynslóð
 .	.	.
-
 Þessi	faven	þessi
 grunnkennd	nven	grunnkennd
 í	aþ	í
@@ -4078,7 +3900,6 @@ Gæti	svg1eþ	geta
 ég	fp1en	ég
 -	-	-
 .	.	.
-
 Skáldið	nheng	skáld
 lýsir	sfg3en	lýsa
 hvernig	aa	hvernig
@@ -4092,7 +3913,6 @@ hljóma	sfg3fn	hljóma
 huga	nkeþ	hugi
 hans	fpkee	hann
 .	.	.
-
 Náttúran	nveng	náttúra
 birtist	sfm3en	birta
 í	aþ	í
@@ -4126,11 +3946,9 @@ ljós	nheo	ljós
 síðustu	lveþve	síðari
 vísunni	nveþg	vísa
 :	:	:
-
 <	<	<
 ljóð	nhen	ljóð
 >	>	>
-
 Þótt	c	þótt
 bjartir	lkfnsf	bjartur
 tónar	nkfn	tónn
@@ -4157,7 +3975,6 @@ skugga	nkee	skuggi
 og	c	og
 andstæðna	nvfe	andstæða
 .	.	.
-
 En	c	en
 ótti	nken	ótti
 við	ao	við
@@ -4174,7 +3991,6 @@ hátt	nkeo	háttur
 táknrænu	lheþsf	táknrænn
 formi	nheþ	form
 .	.	.
-
 Sem	c	sem
 dæmi	nheo	dæmi
 má	sfg3en	mega
@@ -4182,7 +3998,6 @@ taka	sng	taka
 kvæðið	nheog	kvæði
 Hella	nkfo-s	Hellir
 .	.	.
-
 Á	aþ	á
 yfirborði	nheþ	yfirborð
 er	sfg3en	vera
@@ -4227,11 +4042,9 @@ leið	nveo	leið
 skírskotun	nveo	skírskotun
 kvæðisins	nheeg	kvæði
 :	:	:
-
 <	<	<
 ljóð	nhen	ljóð
 >	>	>
-
 Aðferðin	nveng	aðferð
 er	sfg3en	vera
 dæmigerð	lvensf	dæmigerður
@@ -4246,7 +4059,6 @@ boðskap	nkeo	boðskapur
 að	cn	að
 flytja	sng	flytja
 .	.	.
-
 Hin	gven	hinn
 lokaða	lvenvf	lokaður
 táknræna	lvenvf	táknrænn
@@ -4277,7 +4089,6 @@ með	aþ	með
 hófstilltum	lvfþsf	hófstilltur
 aðferðum	nvfþ	aðferð
 .	.	.
-
 Enn	aa	enn
 skýrari	lkenvm	skýr
 er	sfg3en	vera
@@ -4286,13 +4097,11 @@ boðskapurinn	nkeng	boðskapur
 kvæðinu	nheþg	kvæði
 Gesti	nkeþ-s	Gestur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 einnig	aa	einnig
 bernskuminning	nven	bernskuminning
 .	.	.
-
 Drengur	nken	drengur
 sér	sfg3en	sjá
 örn	nkeo	örn
@@ -4319,11 +4128,9 @@ læsist	sfm3en	læsa
 hugskot	nheo	hugskot
 hans	fpkee	hann
 :	:	:
-
 <	<	<
 ljóð	nhen	ljóð
 >	>	>
-
 Annars	fohee	annar
 eðlis	nhee	eðli
 er	sfg3en	vera
@@ -4356,7 +4163,6 @@ af	aþ	af
 skugga	nkeþ	skuggi
 .	.	.
 »	»	»
-
 Athugagrein	nven	athugagrein
 sú	faven	sá
 sem	ct	sem
@@ -4398,7 +4204,6 @@ gefi	svg1en	gefa
 kveðskap	nkeo	kveðskapur
 .	.	.
 »	»	»
-
 Önnur	foven	annar
 varð	sfg3eþ	verða
 þó	aa	þó
@@ -4429,7 +4234,6 @@ vötn	nhfn	vötn
 kom	sfg3eþ	koma
 út	aa	út
 .	.	.
-
 Yfirlýsinguna	nveog	yfirlýsing
 ber	sfg3en	bera
 vafalaust	aa	vafalaust
@@ -4456,7 +4260,6 @@ um	ao	um
 Pál	nkeo-s	Páll
 Jónsson	nkeo-s	Jónsson
 .	.	.
-
 Enn	aa	enn
 hefur	sfg3en	hafa
 hann	fpken	hann
@@ -4499,7 +4302,6 @@ hvað	fshen	hver
 tæki	svg3eþ	taka
 við	aa	við
 .	.	.
-
 En	c	en
 ljóðadísin	nveng	ljóðadís
 hefur	sfg3en	hafa
@@ -4524,7 +4326,6 @@ sem	ct	sem
 hug	nkeþ	hugur
 hans	fpkee	hann
 .	.	.
-
 Aftan	aa	aftan
 við	ao	við
 Virki	nhfo-s	Virki
@@ -4552,11 +4353,9 @@ upp	aa	upp
 í	aþ	í
 heild	nveþ	heild
 :	:	:
-
 <	<	<
 tilvitnun	nven	tilvitnun
 >	>	>
-
 Virki	nhfn-s	Virki
 og	c	og
 vötn	nhfn	vötn
@@ -4575,7 +4374,6 @@ ráða	sng	ráða
 af	aþ	af
 nafninu	nheþg	nafn
 .	.	.
-
 Einnig	aa	einnig
 má	sfg3en	mega
 af	aþ	af
@@ -4589,7 +4387,6 @@ en	c	en
 þær	fpvfn	hún
 fyrri	lvfnvm	fyrri
 .	.	.
-
 Virki	nhfn	virki
 eru	sfg3fn	vera
 reist	sþghfn	reisa
@@ -4610,7 +4407,6 @@ en	c	en
 lygn	lhfosf	lygn
 stöðuvötn	nhfo	stöðuvatn
 .	.	.
-
 Bókin	nveng	bók
 skiptist	sfm3en	skipta
 í	ao	í
@@ -4643,7 +4439,6 @@ eru	sfg3fn	vera
 Að	aþ	að
 brunnum	nkfþ	brunnur
 .	.	.
-
 Þar	aa	þar
 eru	sfg3fn	vera
 ma.	as	ma.
@@ -4657,7 +4452,6 @@ og	c	og
 Þorstein	nkeo-s	Þorsteinn
 Valdimarsson	nkeo-s	Valdimarsson
 .	.	.
-
 Í	aþ	í
 öðrum	fokeþ	annar
 kafla	nkeþ	kafli
@@ -4691,7 +4485,6 @@ Ræðu	nveþ-s	Ræða
 hinna	gkfe	hinn
 biðlunduðu	lkfevf	biðlundaður
 .	.	.
-
 Þriðji	lkenvf	þriðji
 hlutinn	nkeng	hluti
 er	sfg3en	vera
@@ -4707,7 +4500,6 @@ af	aþ	af
 ýmsu	foheþ	ýmis
 tagi	nheþ	tag
 .	.	.
-
 Engar	fovfn	enginn
 meginbreytingar	nvfn	meginbreyting
 verða	sfg3fn	verða
@@ -4750,7 +4542,6 @@ víða	aa	víða
 annars	fokee	annar
 staðar	nkee	staður
 .	.	.
-
 Eins	aa	eins
 og	c	og
 fyrr	aam	fyrr
@@ -4765,7 +4556,6 @@ Virkja	nhfe-s	Virki
 og	c	og
 vatna	nhfe	vötn
 .	.	.
-
 Ádeilan	nveng	ádeila
 er	sfg3en	vera
 beinskeytt	lvensf	beinskeyttur
@@ -4827,7 +4617,6 @@ lognu	lhfþvf	loginn
 viðbrögðum	nhfþ	viðbragð
 umhverfisins	nheeg	umhverfi
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 greinilega	aa	greinilega
@@ -4858,7 +4647,6 @@ glatar	sfg3en	glata
 lífsmætti	nkeþ	lífsmáttur
 sínum	fekeþ	sinn
 .	.	.
-
 Lítt	aa	lítt
 dulin	lvensf	dulinn
 ádeila	nven	ádeila
@@ -4874,7 +4662,6 @@ kvæðinu	nheþg	kvæði
 Úr	aþ	úr
 virki	nheþ	virki
 .	.	.
-
 Þar	aa	þar
 er	sfg3en	vera
 eins	aa	eins
@@ -4906,7 +4693,6 @@ gegn	aþ	gegn
 hinu	gheþ	hinn
 illa	lheþvf	illur
 .	.	.
-
 Enn	aa	enn
 sem	c	sem
 fyrr	aam	fyrr
@@ -4920,11 +4706,9 @@ verða	sfg3fn	verða
 skáldinu	nheþg	skáld
 styrkur	nken	styrkur
 :	:	:
-
 <	<	<
 ljóð	nhen	ljóð
 >	>	>
-
 Í	aþ	í
 ádeilukvæðum	nhfþ	ádeilukvæði
 Ólafs	nkee-s	Ólafur
@@ -4961,7 +4745,6 @@ um	ao	um
 björgun	nveo	björgun
 þess	fphee	það
 .	.	.
-
 Þessi	fahfn	þessi
 stef	nhfn	stef
 eru	sfg3fn	vera
@@ -4973,7 +4756,6 @@ aftur	aa	aftur
 nýjum	lvfþsf	nýr
 myndum	nvfþ	mynd
 .	.	.
-
 Í	aþ	í
 kvæðinu	nheþg	kvæði
 Úr	aþ	úr
@@ -4996,5 +4778,4 @@ til	ae	til
 hinna	gkfe	hinn
 ungu	lkfevf	ungur
 :	:	:
-
 <	<	<

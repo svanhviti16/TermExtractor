@@ -1,7 +1,6 @@
 áhuga	nkeo	áhugi
 á	aþ	á
 .	.	.
-
 Það	fahen	sá
 fyrsta	lhenve	fyrstur
 sem	ct	sem
@@ -11,7 +10,6 @@ hugann	nkeog	hugi
 var	sfg3eþ	vera
 söngurinn	nkeng	söngur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 áhugamál	nhen	áhugamál
@@ -23,7 +21,6 @@ hef	sfg1en	hafa
 gaman	nheo	gaman
 að	aa	að
 .	.	.
-
 En	c	en
 þá	aa	þá
 er	sfg3en	vera
@@ -44,7 +41,6 @@ við	aa	við
 í	aþ	í
 framtíðinni	nveþg	framtíð
 ?	?	?
-
 Hugsanlega	aa	hugsanlega
 en	c	en
 ég	fp1en	ég
@@ -63,7 +59,6 @@ vil	sfg1en	vilja
 eitthvað	foheo	einhver
 meira	lheovm	mikill
 .	.	.
-
 Mig	fp1eo	ég
 langar	sfg3en	langa
 til	ae	til
@@ -76,7 +71,6 @@ svokölluðum	lvfþsf	svokallaður
 bóklegum	lvfþsf	bóklegur
 greinum	nvfþ	grein
 .	.	.
-
 Ég	fp1en	ég
 hafði	sfg1eþ	hafa
 þó	aa	þó
@@ -89,7 +83,6 @@ fara	sng	fara
 áframhaldandi	lheoof	áframhaldandi
 viðskiptanám	nheo	viðskiptanám
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 óáhugavert	lhensf	óáhugaverður
@@ -99,7 +92,6 @@ mér	fp1eþ	ég
 alls	fohee	allur
 ekki	aa	ekki
 .	.	.
-
 Næst	aae	nærri
 hugsaði	sfg1eþ	hugsa
 ég	fp1en	ég
@@ -122,7 +114,6 @@ voru	sfg3fþ	vera
 nokkrar	fovfn	nokkur
 viðskiptagreinar	nvfn	viðskiptagrein
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 stjórnun	nven	stjórnun
@@ -141,7 +132,6 @@ mig	fp1eo	ég
 best	aae	vel
 í	aa	í
 .	.	.
-
 Þetta	fahen	þessi
 hefði	svg3eþ	hafa
 mér	fp1eþ	ég
@@ -164,7 +154,6 @@ viðskiptafræði	nveo	viðskiptafræði
 í	aþ	í
 háskóla	nkeþ	háskóli
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 búin	lvensf	búinn
@@ -182,7 +171,6 @@ hentaði	svg3eþ	henta
 mér	fp1eþ	ég
 ekki	aa	ekki
 .	.	.
-
 En	c	en
 það	fphen	það
 er	sfg3en	vera
@@ -211,7 +199,6 @@ svo	aa	svo
 gífurlega	aa	gífurlega
 mikið	lhensf	mikill
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ekki	aa	ekki
@@ -234,7 +221,6 @@ og	c	og
 velja	sng	velja
 undirgreinar	nvfo	undirgrein
 .	.	.
-
 Það	fphen	það
 þarf	sfg3en	þurfa
 að	cn	að
@@ -258,7 +244,6 @@ að	cn	að
 gera	sng	gera
 mistök	nhfo	mistök
 .	.	.
-
 Loks	aa	loks
 velti	sfg1eþ	velta
 ég	fp1en	ég
@@ -272,7 +257,6 @@ mig	fp1eo	ég
 miklu	lheþsf	mikill
 máli	nheþ	mál
 .	.	.
-
 Hvort	c	hvort
 ég	fp1en	ég
 ætti	svg1eþ	eiga
@@ -282,7 +266,6 @@ að	cn	að
 verða	sng	verða
 tannlæknir	nken	tannlæknir
 .	.	.
-
 Jú	au	jú
 jú	au	jú
 auðvitað	aa	auðvitað
@@ -309,7 +292,6 @@ er	sfg3en	vera
 og	c	og
 gaman	nhen	gaman
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ekki	aa	ekki
@@ -333,7 +315,6 @@ ert	sfg2en	vera
 að	cn	að
 gera	sng	gera
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 ekki	aa	ekki
@@ -354,7 +335,6 @@ hentar	sfg3en	henta
 mér	fp1eþ	ég
 ekki	aa	ekki
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 búin	lvensf	búinn
@@ -378,7 +358,6 @@ sér	fpkeþ	sig
 réttan	lkeosf	réttur
 farveg	nkeo	farvegur
 .	.	.
-
 Nú	aa	nú
 er	sfg1en	vera
 ég	fp1en	ég
@@ -412,18 +391,15 @@ fá	sng	fá
 útúr	aþ	útúr
 lífinu	nheþg	líf
 .	.	.
-
 Verslóritgerðir	nvfn-s	Verslóritgerðir
 2006	ta	2006
 ,	,	,
 strákar	nkfn	strákur
-
 Lítið	aa	lítið
 stoðar	sfg3en	stoða
 auður	lkensf	auður
 án	ae	án
 yndis	nhee	yndi
-
 Það	fphen	það
 er	sfg3en	vera
 ekki	aa	ekki
@@ -434,7 +410,6 @@ hamingju	nveo	hamingja
 með	aþ	með
 peningum	nkfþ	peningur
 .	.	.
-
 Þó	aa	þó
 svo	aa	svo
 að	c	að
@@ -469,7 +444,6 @@ aðrar	fovfo	annar
 efnislegar	lvfosf	efnislegur
 eignir	nvfo	eign
 .	.	.
-
 Þannig	aa	þannig
 að	c	að
 auður	nken	auður
@@ -482,7 +456,6 @@ ekki	aa	ekki
 á	ao	á
 hamingju	nveo	hamingja
 .	.	.
-
 Þetta	faheo	þessi
 vita	sfg3fn	vita
 allir	fokfn	allur
@@ -493,7 +466,6 @@ verður	sfg3en	verða
 seint	aa	seint
 deilt	sþghen	deila
 .	.	.
-
 En	c	en
 þótt	c	þótt
 peningar	nkfn	peningur
@@ -514,7 +486,6 @@ og	c	og
 við	fp1fn	ég
 getum	sfg1fn	geta
 ?	?	?
-
 Ættum	svg1fþ	eiga
 við	fp1fn	ég
 kannski	aa	kannski
@@ -543,7 +514,6 @@ að	cn	að
 lifa	sng	lifa
 af	aa	af
 .	.	.
-
 Það	fphen	það
 ætti	svg3eþ	eiga
 nú	aa	nú
@@ -570,7 +540,6 @@ hamingjusöm	lhfnsf	hamingjusamur
 ekki	aa	ekki
 satt	lhensf	sannur
 ?	?	?
-
 Eða	c	eða
 gæti	svg3eþ	geta
 verið	ssg	vera
@@ -581,7 +550,6 @@ eitthvað	foheo	einhver
 af	aþ	af
 peningum	nkfþ	peningur
 ?	?	?
-
 Gæti	svg3eþ	geta
 verið	ssg	vera
 að	c	að
@@ -605,7 +573,6 @@ hitt	fahen	hinn
 á	aa	á
 móti	aa	móti
 ?	?	?
-
 Hér	aa	hér
 á	aa	á
 eftir	aa	eftir
@@ -623,7 +590,6 @@ hamingju	nvee	hamingja
 og	c	og
 peninga	nkfe	peningur
 .	.	.
-
 Jón	nken-s	Jón
 ,	,	,
 Gunnar	nken-s	Gunnar
@@ -632,7 +598,6 @@ Trausti	nken-s	Trausti
 eru	sfg3fn	vera
 þríburar	nkfn	þríburi
 .	.	.
-
 Foreldrar	nkfn	foreldrar
 þeirra	fpkfe	hann
 eru	sfg3fn	vera
@@ -644,7 +609,6 @@ arf	nkeo	arfur
 eftir	ao	eftir
 sig	fpkfo	sig
 .	.	.
-
 Bræðurnir	nkfng	bróðir
 hafa	sfg3fn	hafa
 valið	ssg	velja
@@ -658,14 +622,12 @@ skoðanir	nvfo	skoðun
 á	aþ	á
 lífinu	nheþg	líf
 .	.	.
-
 Bræðurnir	nkfng	bróðir
 eru	sfg3fn	vera
 35	ta	35
 ára	nhfe	ár
 gamlir	lkfnsf	gamall
 .	.	.
-
 Jón	nken-s	Jón
 býr	sfg3en	búa
 í	aþ	í
@@ -674,7 +636,6 @@ kjallaraíbúð	nveþ	kjallaraíbúð
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Hann	fpken	hann
 býr	sfg3en	búa
 þar	aa	þar
@@ -688,7 +649,6 @@ elskar	sfg3en	elska
 af	aþ	af
 lífinu	nheþg	líf
 .	.	.
-
 Þau	fphfn	það
 eiga	sfg3fn	eiga
 einn	tfkeo	einn
@@ -703,7 +663,6 @@ sem	ct	sem
 geta	sfg3fn	geta
 fyrir	aa	fyrir
 .	.	.
-
 Jón	nken-s	Jón
 starfar	sfg3en	starfa
 sem	c	sem
@@ -715,7 +674,6 @@ vinnur	sfg3en	vinna
 við	ao	við
 ræstingar	nvfo	ræsting
 .	.	.
-
 Jón	nken-s	Jón
 þarf	sfg3en	þurfa
 oft	aa	oft
@@ -750,7 +708,6 @@ fara	sng	fara
 í	ao	í
 frí	nheo	frí
 .	.	.
-
 Jón	nken-s	Jón
 á	sfg3en	eiga
 ekki	aa	ekki
@@ -763,7 +720,6 @@ vinnuna	nveog	vinna
 forláta	lheþof	forláta
 reiðhjóli	nheþ	reiðhjól
 .	.	.
-
 Jón	nken-s	Jón
 þarf	sfg3en	þurfa
 að	cn	að
@@ -790,7 +746,6 @@ undir	ao	undir
 lok	nhfo	lok
 mánaðarins	nkeeg	mánuður
 .	.	.
-
 Jón	nken-s	Jón
 segir	sfg3en	segja
 bræðrum	nkfþ	bróðir
@@ -811,7 +766,6 @@ sér	fpkeþ	sig
 betri	lveovm	góður
 vinnu	nveo	vinna
 .	.	.
-
 Hann	fpken	hann
 sé	svg3en	vera
 hamingjusamur	lkensf	hamingjusamur
@@ -833,12 +787,10 @@ sem	ct	sem
 hann	fpken	hann
 þarf	sfg3en	þurfa
 .	.	.
-
 Gunnar	nken-s	Gunnar
 býr	sfg3en	búa
 einn	lkensf	einn
 .	.	.
-
 Hann	fpken	hann
 býr	sfg3en	búa
 í	aþ	í
@@ -860,7 +812,6 @@ og	c	og
 meira	lheovm	mikill
 til	aa	til
 .	.	.
-
 Gunnar	nken-s	Gunnar
 er	sfg3en	vera
 lærður	lkensf	lærður
@@ -870,7 +821,6 @@ starfar	sfg3en	starfa
 sem	c	sem
 slíkur	fbken	slíkur
 .	.	.
-
 Hann	fpken	hann
 keyrir	sfg3en	keyra
 um	aa	um
@@ -884,7 +834,6 @@ vera	sng	vera
 með	ao	með
 bílinn	nkeog	bíll
 .	.	.
-
 Hann	fpken	hann
 segist	sfm3en	segja
 vera	sng	vera
@@ -896,7 +845,6 @@ hann	fpken	hann
 búi	svg3en	búa
 einn	lkensf	einn
 .	.	.
-
 Gunnar	nken-s	Gunnar
 segist	sfm3en	segja
 ánægður	lkensf	ánægður
@@ -941,7 +889,6 @@ að	aþ	að
 hamingjusömum	lkeþsf	hamingjusamur
 manni	nkeþ	maður
 .	.	.
-
 Gunnar	nken-s	Gunnar
 segist	sfm3en	segja
 ekkert	fohen	enginn
@@ -957,7 +904,6 @@ að	cn	að
 vera	sng	vera
 hamingjusamur	lkensf	hamingjusamur
 .	.	.
-
 Trausti	nken-s	Trausti
 býr	sfg3en	búa
 í	aþ	í
@@ -966,7 +912,6 @@ einbýlishúsi	nheþ	einbýlishús
 á	aþ	á
 Arnarnesi	nheþ-s	Arnarnes
 .	.	.
-
 Trausti	nken-s	Trausti
 er	sfg3en	vera
 giftur	lkensf	giftur
@@ -983,7 +928,6 @@ frá	aþ	frá
 fyrra	lheþvm	fyrri
 hjónabandi	nheþ	hjónaband
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 á	sfg3en	eiga
@@ -996,7 +940,6 @@ sínu	feheþ	sinn
 fyrra	lheþvm	fyrri
 hjónabandi	nheþ	hjónaband
 .	.	.
-
 Þrátt	aa	þrátt
 fyrir	ao	fyrir
 þessa	faveo	þessi
@@ -1014,7 +957,6 @@ og	c	og
 bræður	nkfn	bróðir
 sínir	fekfn	sinn
 .	.	.
-
 Trausti	nken-s	Trausti
 er	sfg3en	vera
 yfirmaður	nken	yfirmaður
@@ -1028,7 +970,6 @@ hefur	sfg3en	hafa
 góðar	lvfosf	góður
 tekjur	nvfo	tekja
 .	.	.
-
 Konan	nveng	kona
 hans	fpkee	hann
 vinnur	sfg3en	vinna
@@ -1040,7 +981,6 @@ bara	aa	bara
 um	ao	um
 börnin	nhfog	barn
 .	.	.
-
 Hjónin	nhfng	hjón
 eiga	sfg3fn	eiga
 bæði	fohfn	báðir
@@ -1052,7 +992,6 @@ af	aþ	af
 sinni	feveþ	sinn
 uppáhaldstegund	nveþ	uppáhaldstegund
 .	.	.
-
 Fjölskyldan	nveng	fjölskylda
 hefur	sfg3en	hafa
 oft	aa	oft
@@ -1072,7 +1011,6 @@ til	ae	til
 skemmtunnar	nveeg	skemmta
 innanlands	aa	innanlands
 .	.	.
-
 Börnin	nhfng	barn
 fá	sfg3fn	fá
 allt	foheo	allur
@@ -1086,7 +1024,6 @@ mörgum	lkfþsf	margur
 nóg	lhensf	nógur
 um	aa	um
 .	.	.
-
 Trausti	nken-s	Trausti
 á	sfg3en	eiga
 marga	lkfosf	margur
@@ -1096,7 +1033,6 @@ er	sfg3en	vera
 mikill	lkensf	mikill
 hestamaður	nken	hestamaður
 .	.	.
-
 Trausti	nken-s	Trausti
 hefur	sfg3en	hafa
 nægt	lheosf	nægur
@@ -1123,7 +1059,6 @@ frí	nheo	frí
 í	aþ	í
 vinnunni	nveþg	vinna
 .	.	.
-
 Bræðurnir	nkfng	bróðir
 allir	fokfn	allur
 segjast	sfm3fn	segja
@@ -1146,7 +1081,6 @@ af	aþ	af
 efnislegum	lvfþsf	efnislegur
 eigum	nvfþ	eiga
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 greinilega	aa	greinilega
@@ -1166,7 +1100,6 @@ og	c	og
 eiga	sng	eiga
 peninga	nkfo	peningur
 .	.	.
-
 Gunnar	nken-s	Gunnar
 er	sfg3en	vera
 í	aþ	í
@@ -1193,7 +1126,6 @@ peningum	nkfþ	peningur
 og	c	og
 tíma	nkeþ	tími
 .	.	.
-
 Trausti	nken-s	Trausti
 er	sfg3en	vera
 í	aþ	í
@@ -1222,7 +1154,6 @@ hvað	fsheo	hver
 hlutirnir	nkfng	hlutur
 kosta	sfg3fn	kosta
 .	.	.
-
 Jón	nken-s	Jón
 hefur	sfg3en	hafa
 þó	aa	þó
@@ -1246,7 +1177,6 @@ eiga	sng	eiga
 sér	fpkeþ	sig
 áhugamál	nhfo	áhugamál
 .	.	.
-
 Flestir	lkfnse	margur
 geta	sfg3fn	geta
 tekið	ssg	taka
@@ -1275,7 +1205,6 @@ skorts	nkee	skortur
 á	aþ	á
 fjármagni	nheþ	fjármagn
 .	.	.
-
 Annað	fohen	annar
 dæmi	nhen	dæmi
 í	aþ	í
@@ -1285,7 +1214,6 @@ er	sfg3en	vera
 t.d.	as	t.d.
 matur	nken	matur
 .	.	.
-
 Gunnar	nken-s	Gunnar
 og	c	og
 Trausti	nken-s	Trausti
@@ -1316,7 +1244,6 @@ efni	nhfo	efni
 hverju	foheþ	hver
 sinni	nheþ	sinn
 .	.	.
-
 Allir	fokfn	allur
 þurfa	sfg3fn	þurfa
 að	cn	að
@@ -1340,7 +1267,6 @@ hér	aa	hér
 mikill	lkensf	mikill
 ókostur	nken	ókostur
 .	.	.
-
 Jón	nken-s	Jón
 og	c	og
 unnasta	x	unnasta
@@ -1349,7 +1275,6 @@ rífast	sfm3fn	rífa
 öðru	foheþ	annar
 hvoru	foheþ	hvor
 .	.	.
-
 Um	ao	um
 daginn	nkeog	dagur
 rifust	sfm3fþ	rífa
@@ -1372,7 +1297,6 @@ barn	nheo	barn
 í	aþ	í
 tískubúð	nveþ	tískubúð
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 rifrildi	nhen	rifrildi
@@ -1392,7 +1316,6 @@ hvað	fshen	hver
 þá	aa	þá
 Gunnar	nken-s	Gunnar
 .	.	.
-
 Trausti	nken-s	Trausti
 rífst	sfm3en	rífa
 hins	fakee	hinn
@@ -1428,7 +1351,6 @@ að	cn	að
 rífast	snm	rífa
 um	aa	um
 .	.	.
-
 Sama	fbheo	sami
 kvöld	nheo	kvöld
 og	c	og
@@ -1473,7 +1395,6 @@ sumarbústaðinn	nkeog	sumarbústaður
 á	aþ	á
 Þingvöllum	nkfþ-s	Þingvellir
 .	.	.
-
 Gunnar	nken-s	Gunnar
 sleppur	sfg3en	sleppa
 að	aþ	að
@@ -1499,7 +1420,6 @@ bátakaup	nhfo	bátakaup
 á	aþ	á
 næstunni	nveþg	næsta
 .	.	.
-
 Við	fp1fn	ég
 sjáum	sfg1fn	sjá
 að	c	að
@@ -1528,7 +1448,6 @@ og	c	og
 konu	nveþ	kona
 hans	fpkee	hann
 .	.	.
-
 Eftir	ao	eftir
 nokkra	fokfo	nokkur
 mánuði	nkfo	mánuður
@@ -1545,7 +1464,6 @@ verður	sfg3en	verða
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Hvernig	aa	hvernig
 eru	sfg3fn	vera
 bræðurnir	nkfng	bróðir
@@ -1553,7 +1471,6 @@ búnir	lkfnsf	búinn
 undir	ao	undir
 kreppuna	nveog	kreppa
 ?	?	?
-
 Kærasta	nven	kærasta
 Jóns	nkee-s	Jón
 missir	sfg3en	missa
@@ -1572,7 +1489,6 @@ að	cn	að
 spara	sng	spara
 peninga	nkfo	peningur
 .	.	.
-
 Fjölskyldan	nveng	fjölskylda
 hefur	sfg3en	hafa
 varla	aa	varla
@@ -1598,7 +1514,6 @@ peninga	nkfo	peningur
 fyrir	aþ	fyrir
 mat	nkeþ	matur
 .	.	.
-
 Gunnar	nken-s	Gunnar
 lætur	sfg3en	láta
 þetta	faheo	þessi
@@ -1628,7 +1543,6 @@ með	aþ	með
 vinum	nkfþ	vinur
 sínum	fekfþ	sinn
 .	.	.
-
 Trausti	nken-s	Trausti
 er	sfg3en	vera
 það	fphen	það
@@ -1645,7 +1559,6 @@ kreppuna	nveog	kreppa
 sig	fpkeo	sig
 fá	sng	fá
 .	.	.
-
 Hann	fpken	hann
 þarf	sfg3en	þurfa
 mjög	aa	mjög
@@ -1663,7 +1576,6 @@ haldið	ssg	halda
 sínu	feheþ	sinn
 striki	nheþ	strik
 .	.	.
-
 Þó	aa	þó
 að	c	að
 Jón	nken-s	Jón
@@ -1704,7 +1616,6 @@ hans	fpkee	hann
 erfiðu	lkfþvf	erfiður
 tímum	nkfþ	tími
 .	.	.
-
 Eftir	aþ	eftir
 því	faheþ	sá
 sem	ct	sem
@@ -1717,7 +1628,6 @@ meiri	lvenvm	mikill
 verður	sfg3en	verða
 hamingjan	nveng	hamingja
 .	.	.
-
 En	c	en
 hver	fsken	hver
 er	sfg3en	vera
@@ -1726,7 +1636,6 @@ hamingjusamastur	lkense	hamingjusamur
 þeirra	fakfe	sá
 bræðra	nkfe	bróðir
 ?	?	?
-
 Getum	sfg1fn	geta
 við	fp1fn	ég
 dæmt	ssg	dæma
@@ -1739,7 +1648,6 @@ sem	ct	sem
 við	fp1fn	ég
 höfum	sfg1fn	hafa
 ?	?	?
-
 Nei	au	nei
 ,	,	,
 það	fpheo	það
@@ -1747,7 +1655,6 @@ getum	sfg1fn	geta
 við	fp1fn	ég
 ekki	aa	ekki
 .	.	.
-
 Þó	aa	þó
 svo	aa	svo
 að	c	að
@@ -1782,7 +1689,6 @@ og	c	og
 magns	nhee	magn
 hamingju	nvee	hamingja
 .	.	.
-
 Hamingja	nven	hamingja
 þríburanna	nkfeg	þríburi
 fer	sfg3en	fara
@@ -1794,7 +1700,6 @@ halda	sfg3fn	halda
 á	aþ	á
 spilunum	nhfþg	spil
 .	.	.
-
 Hver	fsken	hver
 veit	sfg3en	vita
 nema	c	nema
@@ -1808,7 +1713,6 @@ en	c	en
 þeir	fpkfn	hann
 leysa	sfg3fn	leysa
 ?	?	?
-
 Er	sfg3en	vera
 Gunnar	nken-s	Gunnar
 kannski	aa	kannski
@@ -1834,7 +1738,6 @@ og	c	og
 barni	nheþ	barn
 líka	aa	líka
 ?	?	?
-
 Er	sfg3en	vera
 annað	fohen	annar
 barn	nhen	barn
@@ -1858,7 +1761,6 @@ fjárhagsáhyggjurnar	nvfng	fjárhagsáhyggjur
 gleymast	sfm3fn	gleyma
 nánast	aae	náið
 ?	?	?
-
 Peningar	nkfn	peningur
 og	c	og
 hamingja	nven	hamingja
@@ -1871,7 +1773,6 @@ leyti	nheþ	leyti
 ótengd	lhfnsf	ótengdur
 fyrirbæri	nhfn	fyrirbæri
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 rétt	lhensf	réttur
@@ -1909,7 +1810,6 @@ en	c	en
 þeir	fpkfn	hann
 leysa	sfg3fn	leysa
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 allt	fohen	allur
@@ -1918,7 +1818,6 @@ okkur	fp1fþ	ég
 sjálfum	fbhfþ	sjálfur
 komið	lhensf	kominn
 .	.	.
-
 Hvernig	aa	hvernig
 við	fp1fn	ég
 vinnum	sfg1fn	vinna
@@ -1928,7 +1827,6 @@ sem	ct	sem
 við	fp1fn	ég
 höfum	sfg1fn	hafa
 .	.	.
-
 Við	fp1fn	ég
 eigum	sfg1fn	eiga
 öll	fohfn	allur
@@ -1947,7 +1845,6 @@ vinnunni	nveþg	vinna
 eða	c	eða
 fjölskyldulífinu	nheþg	fjölskyldulíf
 .	.	.
-
 Meira	lheovm	mikill
 getum	sfg1fn	geta
 við	fp1fn	ég
@@ -1955,7 +1852,6 @@ einfaldlega	aa	einfaldlega
 ekki	aa	ekki
 gert	ssg	gera
 .	.	.
-
 Þegar	c	þegar
 við	fp1fn	ég
 leggjum	sfg1fn	leggja
@@ -2004,18 +1900,15 @@ smjöri	nheþ	smjör
 og	c	og
 osti	nkeþ	ostur
 .	.	.
-
 Verslóritgerðir	nvfn-s	Verslóritgerðir
 2007	ta	2007
 ,	,	,
 stelpur	nvfn	stelpa
-
 Áhrif	nhfn	áhrif
 innflytjenda	nkfe	innflytjandi
 á	ao	á
 íslenskt	lheosf	íslenskur
 samfélag	nheo	samfélag
-
 Þessa	fakfo	þessi
 daganna	x	dagur
 er	sfg3en	vera
@@ -2028,7 +1921,6 @@ sé	svg3en	vera
 í	aþ	í
 tísku	nveþ	tíska
 .	.	.
-
 Ferðamenn	nkfn	ferðamaður
 streyma	sfg3fn	streyma
 til	ae	til
@@ -2067,7 +1959,6 @@ okkur	fp1fþ	ég
 í	aþ	í
 Laugardalslauginni	nveþgs	Laugardalslaug
 .	.	.
-
 En	c	en
 það	fphen	það
 eru	sfg3fn	vera
@@ -2088,7 +1979,6 @@ fast	aa	fast
 á	aa	á
 eftir	aa	eftir
 .	.	.
-
 Þeir	fpkfn	hann
 sjá	sfg3fn	sjá
 Ísland	nheo-s	Ísland
@@ -2108,7 +1998,6 @@ en	c	en
 þeirra	fpkfe	hann
 heimalandi	nheþ	heimaland
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 eflaust	aa	eflaust
@@ -2132,7 +2021,6 @@ grænna	lhenvm	grænn
 hinum	fahfþ	hinn
 megin	aa	megin
 .	.	.
-
 Þeir	fakfn	sá
 sem	ct	sem
 eru	sfg3fn	vera
@@ -2145,7 +2033,6 @@ dag	nkeo	dagur
 eru	sfg3fn	vera
 Pólverjar	nkfn-s	Pólverji
 .	.	.
-
 Þar	aa	þar
 af	aa	af
 leiðandi	slg	leiða
@@ -2167,7 +2054,6 @@ oftast	aae	oft
 niðrandi	lkeoof	niðrandi
 hátt	nkeo	háttur
 .	.	.
-
 Fólki	nheþ	fólk
 finnst	sfm3en	finna
 vera	sng	vera
@@ -2191,7 +2077,6 @@ mæli	nkeþ	mælir
 en	c	en
 áður	aa	áður
 .	.	.
-
 Þar	aa	þar
 sem	c	sem
 Pólverjar	nkfn-s	Pólverji
@@ -2225,7 +2110,6 @@ ráða	sfg3fn	ráða
 til	ae	til
 starfa	nhfe	starf
 .	.	.
-
 Þar	aa	þar
 af	aa	af
 leiðandi	slg	leiða
@@ -2244,7 +2128,6 @@ eru	sfg3fn	vera
 í	aþ	í
 lágmarki	nheþ	lágmark
 .	.	.
-
 En	c	en
 það	fphen	það
 að	cn	að
@@ -2267,7 +2150,6 @@ gott	lhensf	góður
 fyrir	ao	fyrir
 viðskiptin	nhfog	viðskipti
 .	.	.
-
 Um	ao	um
 daginn	nkeog	dagur
 þurfti	sfg3eþ	þurfa
@@ -2280,7 +2162,6 @@ upp	aa	upp
 í	ao	í
 Grafarvog	nkeo-s	Grafarvogur
 .	.	.
-
 Þar	aa	þar
 sem	ct	sem
 hún	fpven	hún
@@ -2298,7 +2179,6 @@ leið	nveo	leið
 hann	fpken	hann
 færi	svg3eþ	fara
 .	.	.
-
 Bílstjórinn	nkeng	bílstjóri
 horfði	sfg3eþ	horfa
 á	ao	á
@@ -2315,7 +2195,6 @@ loks	aa	loks
 da	e	da
 »	»	»
 .	.	.
-
 Amma	nven	amma
 hélt	sfg3eþ	halda
 að	c	að
@@ -2329,7 +2208,6 @@ endurtók	sfg3eþ	endurtaka
 hana	fpveo	hún
 því	aa	því
 .	.	.
-
 En	c	en
 aftur	aa	aftur
 fékk	sfg3eþ	fá
@@ -2341,7 +2219,6 @@ svarið	nheog	svar
 da	e	da
 »	»	»
 .	.	.
-
 Á	aþ	á
 þessu	x	þessi
 tímapunkti	nkeþ	tímapunktur
@@ -2362,7 +2239,6 @@ orð	nheo	orð
 í	aþ	í
 íslensku	nveþ	íslenska
 .	.	.
-
 Hún	fpven	hún
 ákvað	sfg3eþ	ákveða
 því	aa	því
@@ -2375,7 +2251,6 @@ hann	fpkeo	hann
 á	aþ	á
 ensku	nveþ	enska
 .	.	.
-
 Það	fphen	það
 fór	sfg3eþ	fara
 alveg	aa	alveg
@@ -2399,7 +2274,6 @@ var	sfg3eþ	vera
 da	e	da
 »	»	»
 .	.	.
-
 Þar	aa	þar
 sem	ct	sem
 hún	fpven	hún
@@ -2437,7 +2311,6 @@ allir	fokfn	allur
 farþegar	nkfn	farþegi
 strætisvagnsins	nkeeg	strætisvagn
 .	.	.
-
 Á	aþ	á
 endanum	nkeþg	endi
 strunsaði	sfg3eþ	strunsa
@@ -2448,7 +2321,6 @@ hringdi	sfg3eþ	hringja
 á	ao	á
 leigubíl	nkeo	leigubíll
 .	.	.
-
 Ég	fp1en	ég
 veit	sfg1en	vita
 um	ao	um
@@ -2460,7 +2332,6 @@ sögu	nveo	saga
 að	cn	að
 segja	sng	segja
 .	.	.
-
 Ekki	aa	ekki
 allar	fovfn	allur
 tengjast	sfm3fn	tengja
@@ -2476,7 +2347,6 @@ eða	c	eða
 annan	fokeo	annar
 hátt	nkeo	háttur
 .	.	.
-
 Þetta	fahen	þessi
 hefur	sfg3en	hafa
 gengið	ssg	ganga
@@ -2499,7 +2369,6 @@ hafa	sfg3fn	hafa
 í	aþ	í
 vinnu	nveþ	vinna
 .	.	.
-
 Þetta	fahen	þessi
 hlýtur	sfg3en	hljóta
 að	cn	að
@@ -2508,7 +2377,6 @@ vera	sng	vera
 fyrir	ao	fyrir
 vinnuveitendur	nkfo	vinnuveitandi
 .	.	.
-
 Þó	aa	þó
 að	c	að
 þeir	fpkfn	hann
@@ -2534,7 +2402,6 @@ versla	sng	versla
 af	aþ	af
 þeim	fpkfþ	hann
 .	.	.
-
 Í	aþ	í
 framhaldi	nheþ	framhald
 af	aþ	af
@@ -2561,7 +2428,6 @@ og	c	og
 raunin	nveng	raun
 er	sfg3en	vera
 .	.	.
-
 Það	fphen	það
 eru	sfg3fn	vera
 lög	nhfn	lag
@@ -2581,7 +2447,6 @@ greiða	sng	greiða
 starfsmönnunum	nkfþg	starfsmaður
 svart	lheosf	svartur
 .	.	.
-
 Auðvitað	aa	auðvitað
 er	sfg3en	vera
 það	fphen	það
@@ -2594,7 +2459,6 @@ að	cn	að
 sanna	sng	sanna
 lögbrotið	nheog	lögbrot
 .	.	.
-
 Með	aþ	með
 því	fpheþ	það
 að	cn	að
@@ -2623,7 +2487,6 @@ fjölskyldna	nvfe	fjölskylda
 í	aþ	í
 Póllandi	nheþ-s	Pólland
 .	.	.
-
 Að	aþ	að
 sjálfsögðu	lheþsf	sjálfsagður
 er	sfg3en	vera
@@ -2644,7 +2507,6 @@ er	sfg3en	vera
 mjög	aa	mjög
 algengt	lhensf	algengur
 .	.	.
-
 Þetta	fahen	þessi
 fyrirkomulag	nhen	fyrirkomulag
 kemur	sfg3en	koma
@@ -2658,7 +2520,6 @@ hinn	gkeo	hinn
 almenna	lkeovf	almennur
 borgara	nkeo	borgari
 .	.	.
-
 Eins	aa	eins
 og	c	og
 staðan	nveng	staða
@@ -2673,7 +2534,6 @@ aukast	snm	auka
 til	ae	til
 muna	nkfe	munur
 .	.	.
-
 Ef	c	ef
 áfram	aa	áfram
 heldur	sfg3en	halda
@@ -2703,7 +2563,6 @@ berst	sfm3en	bera
 til	ae	til
 ríkisins	nheeg	ríki
 .	.	.
-
 Þar	aa	þar
 af	aa	af
 leiðandi	slg	leiða
@@ -2722,7 +2581,6 @@ ríkustu	lvfove	ríkur
 þjóðir	nvfo	þjóð
 heims	nkee	heimur
 .	.	.
-
 Eitthvað	fohen	einhver
 segir	sfg3en	segja
 mér	fp1eþ	ég
@@ -2735,7 +2593,6 @@ enginn	foken	enginn
 Íslendingur	nken-s	Íslendingur
 sér	fpkeþ	sig
 .	.	.
-
 Það	fahen	sá
 sem	ct	sem
 hefur	sfg3en	hafa
@@ -2758,7 +2615,6 @@ aðlagast	snm	aðlaga
 okkar	fp1fe	ég
 samfélagi	nheþ	samfélag
 .	.	.
-
 Þeir	fpkfn	hann
 virðast	sfm3fn	virða
 hópa	sng	hópa
@@ -2793,7 +2649,6 @@ fer	sfg3en	fara
 í	ao	í
 Íslendinga	nkfo-s	Íslendingur
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 sérstaklega	aa	sérstaklega
@@ -2803,7 +2658,6 @@ eftir	aþ	eftir
 hjá	aþ	hjá
 Asíubúum	nkfþ-s	Asíubúi
 .	.	.
-
 Reyndar	aa	reyndar
 gæti	svg3eþ	geta
 ástæðan	nveng	ástæða
@@ -2823,7 +2677,6 @@ nokkrum	fohfþ	nokkur
 árum	nhfþ	ár
 síðan	aa	síðan
 .	.	.
-
 Ekki	aa	ekki
 leið	sfg3eþ	líða
 á	aþ	á
@@ -2841,7 +2694,6 @@ sína	feveo	sinn
 til	ae	til
 landsins	nheeg	land
 .	.	.
-
 Þau	fphfn	það
 yfirtóku	sfg3fþ	yfirtaka
 heimilið	nheog	heimili
@@ -2855,7 +2707,6 @@ enn	aa	enn
 á	aþ	á
 Filippseyjum	nvfþ-s	Filippseyjar
 .	.	.
-
 Íslenskir	lkfnsf	íslenskur
 siðir	nkfn	siður
 og	c	og
@@ -2867,7 +2718,6 @@ til	aa	til
 þeirra	fphfe	það
 orðabók	nveþ	orðabók
 .	.	.
-
 Þó	aa	þó
 er	sfg3en	vera
 það	fphen	það
@@ -2887,7 +2737,6 @@ okkar	fp1fe	ég
 og	c	og
 innflytjenda	nkfe	innflytjandi
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 ekki	aa	ekki
@@ -2909,14 +2758,12 @@ og	c	og
 öðrum	fohfþ	annar
 vopnum	nhfþ	vopn
 .	.	.
-
 Árásin	nveng	árás
 virtist	sfm3eþ	virða
 vera	sng	vera
 af	aþ	af
 ástæðulausu	lheþsf	ástæðulaus
 .	.	.
-
 Íslendingarnir	nkfngs	Íslendingur
 voru	sfg3fþ	vera
 bara	aa	bara
@@ -2928,7 +2775,6 @@ stað	nkeþ	staður
 röngum	lkeþsf	rangur
 tíma	nkeþ	tími
 .	.	.
-
 Þetta	fahen	þessi
 atvik	nhen	atvik
 hræddi	sfg3eþ	hræða
@@ -2938,7 +2784,6 @@ mjög	aa	mjög
 sínum	fekeþ	sinn
 tíma	nkeþ	tími
 .	.	.
-
 Ég	fp1en	ég
 vissi	sfg1eþ	vita
 ekki	aa	ekki
@@ -2956,7 +2801,6 @@ frá	aþ	frá
 í	aþ	í
 fréttunum	nvfþg	frétt
 .	.	.
-
 Ég	fp1en	ég
 var	sfg1eþ	vera
 hrædd	lvensf	hræddur
@@ -2976,7 +2820,6 @@ væri	svg3eþ	vera
 í	aþ	í
 hættu	nveþ	hætta
 .	.	.
-
 Auðvitað	aa	auðvitað
 gerði	sfg1eþ	gera
 ég	fp1en	ég
@@ -2999,7 +2842,6 @@ svona	aa	svona
 miklum	lkeþsf	mikill
 mæli	nkeþ	mælir
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 ekki	aa	ekki
@@ -3022,7 +2864,6 @@ ekki	aa	ekki
 of	aa	of
 margir	lkfnsf	margur
 .	.	.
-
 Það	fphen	það
 verða	sfg3fn	verða
 að	cn	að
@@ -3035,7 +2876,6 @@ og	c	og
 öllu	foheþ	allur
 öðru	foheþ	annar
 .	.	.
-
 Það	fphen	það
 myndi	svg3eþ	munu
 heldur	aam	heldur
@@ -3057,7 +2897,6 @@ hér	aa	hér
 á	aþ	á
 landi	nheþ	land
 .	.	.
-
 Ef	c	ef
 svo	aa	svo
 innflytjendur	nkfn	innflytjandi
@@ -3076,7 +2915,6 @@ fyrir	ao	fyrir
 þá	fpkfo	hann
 íslenskunámskeið	nheo	íslenskunámskeið
 .	.	.
-
 Bara	aa	bara
 það	fphen	það
 eitt	lhensf	einn
@@ -3095,7 +2933,6 @@ fordómum	nkfþ	fordómur
 garð	nkeo	garður
 þeirra	fpkfe	hann
 .	.	.
-
 Önnur	foven	annar
 ástæða	nven	ástæða
 fyrir	aþ	fyrir
@@ -3114,7 +2951,6 @@ en	c	en
 við	fp1fn	ég
 hin	fahfn	hinn
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 eins	aa	eins
@@ -3126,7 +2962,6 @@ við	ao	við
 það	faheo	sá
 óþekkta	lheovf	óþekktur
 .	.	.
-
 Það	fphen	það
 eitt	lhensf	einn
 að	c	að
@@ -3150,10 +2985,8 @@ fara	sng	fara
 með	ao	með
 okkur	fp1fo	ég
 .	.	.
-
 3	ta	3
 .	.	.
-
 Tölfræðileg	lhfnsf	tölfræðilegur
 líkön	nhfn	líkan
 Fjármálatölfræði	nven	fjármálatölfræði
@@ -3168,7 +3001,6 @@ eigna	nvfe	eign
 og	c	og
 verðbreytingar	nvee	verðbreyting
 .	.	.
-
 Viðfangsefnin	nhfng	viðfangsefni
 hafa	sfg3fn	hafa
 breyst	ssm	breyta
@@ -3188,7 +3020,6 @@ spanna	sfg3fn	spanna
 vítt	lheosf	víður
 svið	nheo	svið
 .	.	.
-
 Fyrir	aþ	fyrir
 fáeinum	fokfþ	fáeinir
 áratugum	nkfþ	áratugur
@@ -3213,7 +3044,6 @@ beitt	sþghen	beita
 við	ao	við
 ákvarðanatöku	nveo	ákvarðanataka
 .	.	.
-
 Á	aþ	á
 síðari	lhfþvm	síðari
 árum	nhfþ	ár
@@ -3232,7 +3062,6 @@ við	ao	við
 og	c	og
 eignastýringu	nveo	eignastýring
 .	.	.
-
 Þannig	aa	þannig
 er	sfg3en	vera
 sögulegum	lhfþsf	sögulegur
@@ -3250,7 +3079,6 @@ fyrir	aa	fyrir
 um	ao	um
 verðþróun	nveo	verðþróun
 .	.	.
-
 Tvö	tfhfn	tveir
 sérkenni	nhfn	sérkenni
 fjármálatímaraða	nvfe	fjármálatímaröð
@@ -3269,12 +3097,10 @@ mikil	lhfosf	mikill
 þessa	faveo	þessi
 líkanasmíð	nveo	líkanasmíð
 .	.	.
-
 3.1	ta	3.1
 Tölfræði	nven	tölfræði
 fjármálatímaraða	nvfe	fjármálatímaröð
 .	.	.
-
 Eitt	tfhen	einn
 af	aþ	af
 viðfangsefnum	nhfþ	viðfangsefni
@@ -3305,7 +3131,6 @@ með	aþ	með
 óbeinni	lveþsf	óbeinn
 mælingu	nveþ	mæling
 .	.	.
-
 Normaldreifingin	nveng	normaldreifing
 ,	,	,
 sem	ct	sem
@@ -3332,7 +3157,6 @@ notuð	sþgven	nota
 við	ao	við
 líkanasmíð	nveo	líkanasmíð
 .	.	.
-
 Nú	aa	nú
 er	sfg3en	vera
 það	fphen	það
@@ -3368,7 +3192,6 @@ ekki	aa	ekki
 alltaf	aa	alltaf
 samhverf	lvensf	samhverfur
 .	.	.
-
 Líklega	aa	líklega
 var	sfg3eþ	vera
 það	fphen	það
@@ -3389,7 +3212,6 @@ tveim	tfhfþ	tveir
 árum	nhfþ	ár
 síðar	aam	síðar
 .	.	.
-
 Mandelbrot	e	Mandelbrot
 bendir	sfg3en	benda
 á	ao	á
@@ -3412,7 +3234,6 @@ mun	nkeþ	munur
 hærri	lveovm	hár
 reisn	nveo	reisn
 .	.	.
-
 Hann	fpken	hann
 fjallar	sfg3en	fjalla
 svo	aa	svo
@@ -3430,9 +3251,7 @@ háð	lvensf	háður
 fyrri	lhfþvm	fyrri
 gildum	nhfþ	gildi
 .	.	.
-
 24	ta	24
-
 3.2	ta	3.2
 ARCH	e	ARCH
 ARCH	e	ARCH
@@ -3452,7 +3271,6 @@ háða	lveosf	háður
 fyrri	lvfþvm	fyrri
 hendingum	nvfþ	hending
 .	.	.
-
 ARCH	e	ARCH
 er	sfg3en	vera
 skammstöfun	nven	skammstöfun
@@ -3472,7 +3290,6 @@ til	ae	til
 eiginleika	nkfe	eiginleiki
 ferlisins	nheeg	ferli
 .	.	.
-
 25	ta	25
 Hendingar	nvfn	hending
 úr	aþ	úr
@@ -3507,7 +3324,6 @@ autoregression	e	autoregression
 )	)	)
 )	)	)
 .	.	.
-
 Hefðbundin	lvensf	hefðbundinn
 framsetning	nven	framsetning
 ARCH	e	ARCH
@@ -3541,7 +3357,6 @@ einsdreifðar	lvfnsf	einsdreifður
 hendingar	nvfn	hending
 )	)	)
 .	.	.
-
 Líkanið	nheng	líkan
 reynir	sfg3en	reyna
 ekki	aa	ekki
@@ -3582,7 +3397,6 @@ fylgi	svg3en	fylgja
 einhverri	foveþ	einhver
 forskrift	nveþ	forskrift
 .	.	.
-
 ARCH	e	ARCH
 ferlið	nheng	ferli
 hefur	sfg3en	hafa
@@ -3599,7 +3413,6 @@ að	cn	að
 lýsa	sng	lýsa
 fjármálatímaröðum	nvfþ	fjármálatímaröð
 .	.	.
-
 Líkanið	nheng	líkan
 fellur	sfg3en	falla
 einnig	aa	einnig
@@ -3609,9 +3422,7 @@ hugmyndinni	nveþg	hugmynd
 um	ao	um
 flöktklasa	nkfo	flöktklasi
 .	.	.
-
 26	ta	26
-
 Mynd	nven	mynd
 3.1	ta	3.1
 -	-	-
@@ -3620,7 +3431,6 @@ Mynd	nven	mynd
 03.01.02	ta	03.01.02
 -	-	-
 29.12.06	ta	29.12.06
-
 Ófyrirséð	lvensf	ófyrirséður
 breyting	nven	breyting
 í	aþ	í
@@ -3647,7 +3457,6 @@ og	c	og
 jafnvel	aa	jafnvel
 lengur	aam	lengi
 .	.	.
-
 Stór	lhfnsf	stór
 gildi	nhfn	gildi
 á	aþ	á
@@ -3676,7 +3485,6 @@ bls.	as	bls.
 18	ta	18
 )	)	)
 .	.	.
-
 Mynd	nven	mynd
 3.1	ta	3.1
 sýnir	sfg3en	sýna
@@ -3689,7 +3497,6 @@ daglega	lveosf	daglegur
 til	aa	til
 2006	ta	2006
 .	.	.
-
 Ávöxtun	nven	ávöxtun
 er	sfg3en	vera
 greinilega	aa	greinilega
@@ -3707,7 +3514,6 @@ helming	nkeo	helmingur
 ársins	nheeg	ár
 2006	ta	2006
 .	.	.
-
 Fjöldi	nken	fjöldi
 líkana	nhfe	líkan
 sem	ct	sem
@@ -3728,7 +3534,6 @@ skiptir	sfg3en	skipta
 fyrir	ao	fyrir
 fjármálatölfræðina	nveog	fjármálatölfræði
 .	.	.
-
 Þó	aa	þó
 er	sfg3en	vera
 ekki	aa	ekki
@@ -3749,7 +3554,6 @@ birtst	ssm	birta
 um	ao	um
 efnið	nheog	efni
 .	.	.
-
 27	ta	27
 Líkanið	nhengs	Líkan
 hefur	sfg3en	hafa
@@ -3766,7 +3570,6 @@ viðfangsefnið	nheog	viðfangsefni
 of	aa	of
 mikið	aa	mikið
 .	.	.
-
 «	«	«
 The	e	The
 assumption	e	assumption
@@ -3782,7 +3585,6 @@ returns	e	returns
 is	e	is
 restrictive	e	restrictive
 .	.	.
-
 For	e	For
 example	e	example
 ,	,	,
@@ -3806,7 +3608,6 @@ time	e	time
 t	e	t
 .	.	.
 »	»	»
-
 28	ta	28
 Ýmsar	fovfn	ýmis
 skorður	nvfn	skorða
@@ -3817,7 +3618,6 @@ stika	nkeo	stiki
 ARCH	e	ARCH
 líkansins	nheeg	líkan
 .	.	.
-
 Summa	nven	summa
 stikanna	nkfeg	stiki
 (	(	(
@@ -3840,7 +3640,6 @@ sé	svg3en	vera
 sístætt	lhensf	sístæður
 ferli	nhen	ferli
 .	.	.
-
 Til	ae	til
 að	cn	að
 tryggja	sng	tryggja
@@ -3877,7 +3676,6 @@ a0	x	a0
 0	ta	0
 halda	sng	halda
 .	.	.
-
 Þar	aa	þar
 sem	c	sem
 E	x	e
@@ -3905,7 +3703,6 @@ ztct	x	ztct
 =	=	=
 0	ta	0
 .	.	.
-
 Fyrir	ao	fyrir
 ARCH	e	ARCH
 (	(	(
@@ -3950,7 +3747,6 @@ a1Var	x	a1var
 st-1	x	st-1
 )	)	)
 .	.	.
-
 Ef	c	ef
 ferlið	nheng	ferli
 st	x	st
@@ -3976,7 +3772,6 @@ Var	x	vera
 st-1	x	st-1
 )	)	)
 .	.	.
-
 Þar	aa	þar
 sem	c	sem
 Var	x	vera
@@ -4014,7 +3809,6 @@ a0	x	a0
 a1	x	a1
 )	)	)
 .	.	.
-
 Til	ae	til
 að	c	að
 tryggt	sþghen	tryggja
@@ -4046,7 +3840,6 @@ ofan	aa	ofan
 að	cn	að
 halda	sng	halda
 .	.	.
-
 Innan	ae	innan
 fjármálatölfræðinnar	nveeg	fjármálatölfræði
 er	sfg3en	vera
@@ -4071,7 +3864,6 @@ fremur	aam	fremur
 en	c	en
 c2	ta	c2
 .	.	.
-
 Því	aa	því
 má	sfg3en	mega
 skrifa	sng	skrifa
@@ -4082,7 +3874,6 @@ sem	ct	sem
 jafna	nven	jafna
 )	)	)
 .	.	.
-
 Annað	fohen	annar
 vægi	nhen	vægi
 ferlisins	nheeg	ferli
@@ -4099,7 +3890,6 @@ jafna	nven	jafna
 21	ta	21
 )	)	)
 .	.	.
-
 Eins	aa	eins
 og	c	og
 áður	aa	áður
@@ -4128,7 +3918,6 @@ væri	svg3eþ	vera
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 Ef	c	ef
 ferlið	nheng	ferli
 h	nhen	h
@@ -4140,7 +3929,6 @@ er	sfg3en	vera
 jafna	nven	jafna
 )	)	)
 .	.	.
-
 Af	aþ	af
 því	fpheþ	það
 leiðir	sfg3en	leiða
@@ -4150,7 +3938,6 @@ jafna	nven	jafna
 22	ta	22
 )	)	)
 .	.	.
-
 Til	ae	til
 að	c	að
 (	(	(
@@ -4166,7 +3953,6 @@ einnig	aa	einnig
 að	cn	að
 halda	sng	halda
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 sterkara	lhenvm	sterkur
@@ -4195,7 +3981,6 @@ a	x	a
 1	ta	1
 )	)	)
 .	.	.
-
 Nú	aa	nú
 fæst	sfm3en	fá
 einnig	aa	einnig
@@ -4211,7 +3996,6 @@ jafna	nven	jafna
 23	ta	23
 )	)	)
 .	.	.
-
 Reisn	nven	reisn
 ARCH	e	ARCH
 (	(	(
@@ -4247,7 +4031,6 @@ hendinga	nvfe	hending
 úr	aþ	úr
 normaldreifingu	nveþ	normaldreifing
 .	.	.
-
 Eins	aa	eins
 og	c	og
 áður	aa	áður
@@ -4264,7 +4047,6 @@ að	aþ	að
 eiginleikum	nkfþ	eiginleiki
 fjármálatímaraða	nvfe	fjármálatímaröð
 .	.	.
-
 Á	aþ	á
 Mynd	nveþ-s	mynd
 3.2	ta	3.2
@@ -4286,7 +4068,6 @@ með	ao	með
 frelsisgráður	nvfo	frelsisgráða
 )	)	)
 .	.	.
-
 Sú	faven	sá
 síðarnefnda	lvenvf	síðarnefndur
 þykir	sfg3en	þykja
@@ -4321,12 +4102,10 @@ tölugildi	nheo	tölugildi
 eru	sfg3fn	vera
 líklegri	lvfnvm	líklegur
 .	.	.
-
 Þéttiföll	nhfn	þéttifall
 normaldreifingar	nvee	normaldreifing
 og	c	og
 t-drefingar	nvee	t-drefing
-
 Mynd	nven	mynd
 3.2	ta	3.2
 -	-	-
@@ -4334,7 +4113,6 @@ Mynd	nven	mynd
 normaldreifingar	nvee	normaldreifing
 og	c	og
 t-drefingar	nvee	t-drefing
-
 Í	aþ	í
 ritgerð	nveþ	ritgerð
 sinni	feveþ	sinn
@@ -4353,7 +4131,6 @@ flöktklasa	nkfe	flöktklasi
 í	aþ	í
 tímaröðum	nvfþ	tímaröð
 .	.	.
-
 Núlltilgátan	nveng	núlltilgáta
 fyrir	ao	fyrir
 ARCH	e	ARCH
@@ -4377,7 +4154,6 @@ fasti	nken	fasti
 óháður	lkensf	óháður
 tíma	nkeþ	tími
 .	.	.
-
 Fyrir	ao	fyrir
 röð	nveo	röð
 afgangsliða	nkfe	afgangsliður
@@ -4416,7 +4192,6 @@ OLS	e	OLS
 líkans	nhee	líkan
 )	)	)
 .	.	.
-
 Mátgæði	nhfn	mátgæði
 líkansins	nheeg	líkan
 (	(	(
@@ -4444,7 +4219,6 @@ með	ao	með
 q	x	q
 frelsisgráður	nvfo	frelsisgráða
 .	.	.
-
 Ef	c	ef
 flöktklasar	nkfn	flöktklasi
 eru	sfg3fn	vera
@@ -4486,7 +4260,6 @@ verði	svg3en	verða
 því	aa	því
 hafnað	sþghen	hafna
 .	.	.
-
 3.3	ta	3.3
 ARCH-M	e	ARCH-M
 ARCH-M	e	ARCH-M
@@ -4521,7 +4294,6 @@ stýribreytu	nveþ	stýribreyta
 hverjum	fokeþ	hver
 tíma	nkeþ	tími
 .	.	.
-
 ARCH	e	ARCH
 líkanið	nheng	líkan
 útskýrir	sfg3en	útskýra
@@ -4539,7 +4311,6 @@ athyglinni	nveþg	athygli
 að	aþ	að
 dreifninni	nveþg	dreifni
 .	.	.
-
 ARCH-M	e	ARCH-M
 líkaninu	nheþg	líkan
 er	sfg3en	vera
@@ -4559,7 +4330,6 @@ líkan	nheo	líkan
 af	aþ	af
 ávöxtun	nveþ	ávöxtun
 .	.	.
-
 Áður	aa	áður
 höfðu	sfg3fþ	hafa
 slíkar	fbvfn	slíkur
@@ -4584,7 +4354,6 @@ sem	ct	sem
 tímaháðu	lheþsf	tímaháður
 ferli	nheþ	ferli
 .	.	.
-
 Gerum	svg1fn	gera
 nú	aa	nú
 ráð	nheo	ráð
@@ -4602,7 +4371,6 @@ ferli	nkeþ	ferill
 ,	,	,
 þ.a	as	þ.a
 .	.	.
-
 st	x	st
 ~	~	~
 IID	x	iid
@@ -4612,7 +4380,6 @@ IID	x	iid
 ht	x	ht
 )	)	)
 .	.	.
-
 ARCH-M	e	ARCH-M
 líkanið	nheng	líkan
 er	sfg3en	vera
@@ -4671,7 +4438,6 @@ enn	aa	enn
 betur	aam	vel
 við	aa	við
 .	.	.
-
 30	ta	30
 Þó	aa	þó
 eru	sfg3fn	vera
@@ -4685,7 +4451,6 @@ eina	foveo	einn
 umfram	ao	umfram
 aðra	foveo	annar
 .	.	.
-
 Það	fphen	það
 virðist	sfm3en	virða
 einfaldlega	aa	einfaldlega
@@ -4704,7 +4469,6 @@ samsvarandi	lveþof	samsvarandi
 aukningu	nveþ	aukning
 áhættuálags	nhee	áhættuálag
 .	.	.
-
 Lanne	e	Lanne
 og	c	og
 Saikkonen	e	Saikkonen
@@ -4731,7 +4495,6 @@ líkan	nhen	líkan
 Mertons32	e	Mertons32
 lýsir	sfg3en	lýsa
 .	.	.
-
 Þeir	fpkfn	hann
 telja	sfg3fn	telja
 hann	fpkeo	hann
@@ -4760,7 +4523,6 @@ en	c	en
 jöfnu	nveo	jafna
 26a	ta	26a
 .	.	.
-
 Scruggs	e	Scruggs
 bendir	sfg3en	benda
 á	ao	á
@@ -4798,7 +4560,6 @@ tekinn	sþgken	taka
 úr	aþ	úr
 líkaninu	nheþg	líkan
 .	.	.
-
 33	ta	33
 Skilyrði	nhfn	skilyrði
 fyrir	aþ	fyrir
@@ -4820,7 +4581,6 @@ hér	aa	hér
 á	aa	á
 undan	aa	undan
 .	.	.
-
 Fyrir	ao	fyrir
 ARCH-M	e	ARCH-M
 líkanið	nheog	líkan
@@ -4839,7 +4599,6 @@ fall	nhen	fall
 af	aþ	af
 h	nheþ	h
 .	.	.
-
 Því	aa	því
 er	sfg3en	vera
 það	fphen	það
@@ -4875,7 +4634,6 @@ r	nhee	r
 ekki	aa	ekki
 heldur	aam	heldur
 .	.	.
-
 Þannig	aa	þannig
 aukast	sfm3fn	auka
 skilyrðin	nhfng	skilyrði
@@ -4893,13 +4651,11 @@ yfir	aa	yfir
 í	ao	í
 ARCH-M	e	ARCH-M
 .	.	.
-
 Ferlið	nheng	ferli
 rt	x	rt
 er	sfg3en	vera
 sjálffylgið	lhensf	sjálffylginn
 .	.	.
-
 Látum	sfg1fn	láta
 ávöxtun	nveo	ávöxtun
 nú	aa	nú
@@ -4925,7 +4681,6 @@ jafna	nven	jafna
 27	ta	27
 )	)	)
 .	.	.
-
 Nú	aa	nú
 er	sfg3en	vera
 (	(	(
@@ -4933,7 +4688,6 @@ jafna	nven	jafna
 28	ta	28
 )	)	)
 .	.	.
-
 Þar	aa	þar
 sem	ct	sem
 (	(	(
@@ -4949,7 +4703,6 @@ og	c	og
 jafna	nven	jafna
 )	)	)
 .	.	.
-
 Sjálffylgni	nven	sjálffylgni
 rt	x	rt
 af	aþ	af
@@ -4967,7 +4720,6 @@ er	sfg3en	vera
 jafna	nven	jafna
 )	)	)
 .	.	.
-
 Fyrstu	lveove	fyrstur
 gráðu	nveo	gráða
 sjálffylgni	nvee	sjálffylgni
@@ -4993,7 +4745,6 @@ af	aþ	af
 hærri	lveþvm	hár
 gráðu	nveþ	gráða
 .	.	.
-
 34	ta	34
 ARCH-M	e	ARCH-M
 líkön	nhfo	líkan

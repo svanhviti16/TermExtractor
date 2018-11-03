@@ -11,7 +11,6 @@ getur	sfg3en	geta
 sveiflast	ssm	sveifla
 mikið	aa	mikið
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 erfitt	lhensf	erfiður
@@ -34,7 +33,6 @@ getur	sfg3en	geta
 talist	ssm	telja
 gjaldmiðill	nken	gjaldmiðill
 .	.	.
-
 Ef	c	ef
 einungis	aa	einungis
 eru	sfg3fn	vera
@@ -70,7 +68,6 @@ um	aa	um
 250	ta	250
 landssvæði	nhfo	landssvæði
 .	.	.
-
 Til	ae	til
 samanburðar	nkee	samanburður
 má	sfg3en	mega
@@ -88,7 +85,6 @@ eru	sfg3fn	vera
 nú	aa	nú
 191	ta	191
 .	.	.
-
 Oft	aa	oft
 nota	sfg3fn	nota
 mörg	lhfnsf	margur
@@ -121,7 +117,6 @@ gjaldmiðil	nkeo	gjaldmiðill
 afrískan	lkeosf	afrískur
 franka	nkeo	franki
 .	.	.
-
 Hluti	nken	hluti
 af	aþ	af
 gömlum	lkeþsf	gamall
@@ -131,7 +126,6 @@ seðli	nkeþ	seðill
 frá	aþ	frá
 Texas	e	Texas
 .	.	.
-
 Við	ao	við
 þessa	faveo	þessi
 tölu	nveo	tala
@@ -182,7 +176,6 @@ gildi	nheþ	gildi
 í	ao	í
 kjölfarið	nheog	kjölfar
 .	.	.
-
 Þá	aa	þá
 eru	sfg3fn	vera
 til	ae	til
@@ -203,7 +196,6 @@ eru	sfg3fn	vera
 í	aþ	í
 vöruskiptum	nhfþ	vöruskipti
 .	.	.
-
 Hugtakið	nheng	hugtak
 innherjaviðskipti	nhfn	innherjaviðskipti
 er	sfg3en	vera
@@ -254,7 +246,6 @@ ef	c	ef
 svo	aa	svo
 væri	svg3eþ	vera
 .	.	.
-
 Innherjum	nkfþ	innherji
 er	sfg3en	vera
 skipt	sþghen	skipta
@@ -266,7 +257,6 @@ fruminnherja	nkfo	fruminnherji
 og	c	og
 aðra	fokfo	annar
 .	.	.
-
 Fruminnherjar	nkfn	fruminnherji
 eru	sfg3fn	vera
 þeir	fakfn	sá
@@ -278,7 +268,6 @@ teljast	sfm3fn	telja
 alltaf	aa	alltaf
 innherjar	nkfn	innherji
 .	.	.
-
 Í	aþ	í
 hverju	foheþ	hver
 fyrirtæki	nheþ	fyrirtæki
@@ -296,7 +285,6 @@ aðrir	fokfn	annar
 og	c	og
 endurskoðandi	nken	endurskoðandi
 .	.	.
-
 Aðrir	fokfn	annar
 verða	sfg3fn	verða
 innherjar	nkfn	innherji
@@ -313,7 +301,6 @@ haft	ssg	hafa
 á	ao	á
 markaðsverð	nheo	markaðsverð
 .	.	.
-
 Innherjum	nkfþ	innherji
 er	sfg3en	vera
 óheimilt	lhensf	óheimill
@@ -349,13 +336,11 @@ hækka	sng	hækka
 í	aþ	í
 verði	nheþ	verð
 .	.	.
-
 Slík	fbhfn	slíkur
 viðskipti	nhfn	viðskipti
 kallast	sfm3fn	kalla
 innherjasvik	nhfn	innherjasvik
 .	.	.
-
 Fruminnherjum	nkfþ	fruminnherji
 er	sfg3en	vera
 hins	fakee	hinn
@@ -390,7 +375,6 @@ teljast	sfm3fn	telja
 ekki	aa	ekki
 innherjasvik	nhfn	innherjasvik
 .	.	.
-
 Nokkuð	fohen	nokkur
 strangar	lvfnsf	strangur
 reglur	nvfn	regla
@@ -410,7 +394,6 @@ til	ae	til
 viðkomandi	lveeof	viðkomandi
 kauphallar	nvee	kauphöll
 .	.	.
-
 Ástæða	nven	ástæða
 þess	fphee	það
 að	c	að
@@ -450,7 +433,6 @@ hlut	nkeo	hlutur
 frá	aþ	frá
 borði	nheþ	borð
 .	.	.
-
 Ef	c	ef
 engar	fovfn	enginn
 hömlur	nvfn	hamla
@@ -478,7 +460,6 @@ jafnvel	aa	jafnvel
 alls	fohee	allur
 ekki	aa	ekki
 .	.	.
-
 Hugtakið	nheng	hugtak
 bandormur	nken	bandormur
 er	sfg3en	vera
@@ -493,7 +474,6 @@ breytinga	nvfe	breyting
 mörgum	lhfþsf	margur
 lögum	nhfþ	lag
 .	.	.
-
 Þegar	c	þegar
 fjárlög	nhfn	fjárlög
 eru	sfg3fn	vera
@@ -520,7 +500,6 @@ fjármálaráðherra	nken	fjármálaráðherra
 talar	sfg3en	tala
 fyrir	aa	fyrir
 .	.	.
-
 Oft	aa	oft
 snerta	sfg3fn	snerta
 bandormar	nkfn	bandormur
@@ -533,7 +512,6 @@ forsætisráðherra	nken	forsætisráðherra
 jafnan	aa	jafnan
 frumvörpin	nhfog	frumvarp
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 rétt	lhensf	réttur
@@ -566,7 +544,6 @@ fyrir	ao	fyrir
 alla	foveo	allur
 starfsævina	nveog	starfsævi
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 er	sfg3en	vera
@@ -585,7 +562,6 @@ laun	nhfo	laun
 en	c	en
 hérlendis	aa	hérlendis
 .	.	.
-
 Það	fphen	það
 eru	sfg3fn	vera
 ekki	aa	ekki
@@ -600,7 +576,6 @@ sinni	nheþ	sinn
 í	aþ	í
 Hollywood	e	Hollywood
 .	.	.
-
 Langflestir	lkfnse	langflestur
 bandarískir	lkfnsf	bandarískur
 leikarar	nkfn	leikari
@@ -630,7 +605,6 @@ verkefni	nhfo	verkefni
 sem	ct	sem
 leikarar	nkfn	leikari
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 hins	fakee	hinn
@@ -665,7 +639,6 @@ af	aþ	af
 kjörum	nhfþ	kjör
 sínum	fehfþ	sinn
 .	.	.
-
 Svo	aa	svo
 ójöfn	lvensf	ójafn
 tekjuskipting	nven	tekjuskipting
@@ -677,7 +650,6 @@ stéttir	nvfo	stétt
 í	aþ	í
 Ameríku	nveþ-s	Ameríka
 .	.	.
-
 Til	ae	til
 dæmis	nhee	dæmi
 hafa	sfg3fn	hafa
@@ -707,14 +679,12 @@ að	cn	að
 framfleyta	sng	framfleyta
 sér	fpkfþ	sig
 .	.	.
-
 Sama	fbheo	sami
 má	sfg3en	mega
 segja	sng	segja
 um	ao	um
 íþróttamenn	nkfo	íþróttamaður
 .	.	.
-
 Stjörnurnar	nvfng	stjarna
 í	aþ	í
 körfuboltanum	nkeþg	körfubolti
@@ -727,7 +697,6 @@ eru	sfg3fn	vera
 allir	fokfn	allur
 hátekjumenn	nkfn	hátekjumaður
 .	.	.
-
 Sá	faken	sá
 frægasti	lkenve	frægur
 ,	,	,
@@ -759,7 +728,6 @@ samanlagt	aa	samanlagt
 í	ao	í
 laun	nhfo	laun
 .	.	.
-
 Flestir	lkfnse	margur
 sem	ct	sem
 stunda	sfg3fn	stunda
@@ -783,7 +751,6 @@ með	aþ	með
 öðrum	fokeþ	annar
 hætti	nkeþ	háttur
 .	.	.
-
 Skýringin	nveng	skýring
 á	aþ	á
 þessu	faheþ	þessi
@@ -792,7 +759,6 @@ einkum	aa	einkum
 vera	sng	vera
 tæknileg	lvensf	tæknilegur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 hægt	lhensf	hægur
@@ -824,7 +790,6 @@ hlustað	ssg	hlusta
 á	ao	á
 hana	fpveo	hún
 .	.	.
-
 Þessi	faven	þessi
 fjölföldun	nven	fjölföldun
 á	aþ	á
@@ -841,7 +806,6 @@ eru	sfg3fn	vera
 minni	lkfnvm	lítill
 afreksmenn	nkfn	afreksmaður
 .	.	.
-
 Það	fphen	það
 kostar	sfg3en	kosta
 ekkert	fohen	enginn
@@ -866,7 +830,6 @@ sem	ct	sem
 er	sfg3en	vera
 óþekktur	lkensf	óþekktur
 .	.	.
-
 Þegar	c	þegar
 annars	fokee	annar
 vegar	nkee	vegur
@@ -896,7 +859,6 @@ en	c	en
 þá	faveo	sá
 síðari	lveovm	síðari
 .	.	.
-
 Sömuleiðis	aa	sömuleiðis
 kostar	sfg3en	kosta
 ekkert	fohen	enginn
@@ -910,7 +872,6 @@ hljómsveit	nveþ	hljómsveit
 en	c	en
 óþekktri	lveþsf	óþekktur
 .	.	.
-
 Á	aþ	á
 sínum	fekeþ	sinn
 tíma	nkeþ	tími
@@ -956,7 +917,6 @@ um	ao	um
 allan	fokeo	allur
 heim	nkeo	heimur
 .	.	.
-
 Fáir	lkfnsf	fár
 vilja	sfg3fn	vilja
 sætta	sng	sætta
@@ -977,7 +937,6 @@ völ	nven	völ
 er	sfg3en	vera
 á	aa	á
 .	.	.
-
 Þannig	aa	þannig
 vilja	sfg3fn	vilja
 fáir	lkfnsf	fár
@@ -1002,7 +961,6 @@ fyrir	ao	fyrir
 sama	fbheo	sami
 verð	nheo	verð
 .	.	.
-
 Á	ao	á
 sama	fbkeo	samur
 hátt	nkeo	háttur
@@ -1035,7 +993,6 @@ kvikmynd	nveo	kvikmynd
 með	aþ	með
 stórstjörnum	nvfþ	stórstjarna
 .	.	.
-
 Við	fp1fn	ég
 skulum	sfg1fn	skulu
 láta	sng	láta
@@ -1060,7 +1017,6 @@ skoðun	nveo	skoðun
 á	aþ	á
 því	fpheþ	það
 .	.	.
-
 Margir	x	margur
 stjörnur	nvfn	stjarna
 á	aþ	á
@@ -1077,7 +1033,6 @@ best	aae	vel
 þekkja	sfg3fn	þekkja
 til	aa	til
 .	.	.
-
 Stjörnustimpillinn	nkeng	stjörnustimpill
 fæst	sfm3en	fá
 ekkert	fohen	enginn
@@ -1118,7 +1073,6 @@ sem	aa	sem
 næst	aþe	nærri
 )	)	)
 .	.	.
-
 Til	ae	til
 dæmis	nhee	dæmi
 eru	sfg3fn	vera
@@ -1135,7 +1089,6 @@ mælikvarðar	nkfn	mælikvarði
 eru	sfg3fn	vera
 notaðir	sþgkfn	nota
 .	.	.
-
 Stjarna	nven	stjarna
 í	aþ	í
 popptónlist	nveþ	popptónlist
@@ -1155,7 +1108,6 @@ eða	c	eða
 eitthvað	fohen	einhver
 annað	fohen	annar
 .	.	.
-
 Allt	fohen	allur
 önnur	fohfn	annar
 lögmál	nhfn	lögmál
@@ -1188,7 +1140,6 @@ dreifa	sng	dreifa
 til	ae	til
 fjöldans	nkeeg	fjöldi
 .	.	.
-
 Þá	aa	þá
 voru	sfg3fþ	vera
 sumir	fokfn	sumur
@@ -1207,7 +1158,6 @@ sjá	sng	sjá
 á	aþ	á
 sviði	nheþ	svið
 .	.	.
-
 En	c	en
 á	ao	á
 leiksýningar	nvfo	leiksýning
@@ -1224,7 +1174,6 @@ magn	nheo	magn
 af	aþ	af
 miðum	nkfþ	miði
 .	.	.
-
 Þá	aa	þá
 var	sfg3eþ	vera
 ekki	aa	ekki
@@ -1246,13 +1195,11 @@ kvikmyndum	nvfþ	kvikmynd
 eða	c	eða
 sjónvarpsþáttum	nkfþ	sjónvarpsþáttur
 .	.	.
-
 Sama	fbhen	sami
 gilti	sfg3eþ	gilda
 um	ao	um
 tónlist	nveo	tónlist
 .	.	.
-
 Til	ae	til
 að	cn	að
 heyra	sng	heyra
@@ -1277,7 +1224,6 @@ notið	ssg	njóta
 hvers	fokee	hver
 flytjanda	nkee	flytjandi
 .	.	.
-
 Við	ao	við
 slík	fbhfo	slíkur
 skilyrði	nhfo	skilyrði
@@ -1298,7 +1244,6 @@ vel	aa	vel
 að	aþ	að
 vígi	nheþ	víg
 .	.	.
-
 Stjörnurnar	nvfng	stjarna
 gátu	sfg3fþ	geta
 ekki	aa	ekki
@@ -1325,7 +1270,6 @@ flutning	nkeo	flutningur
 meðalmenna	x	meðalmaður
 nægja	sng	nægja
 .	.	.
-
 Nú	aa	nú
 er	sfg3en	vera
 staða	nven	staða
@@ -1344,7 +1288,6 @@ svona	aa	svona
 miklar	lvfosf	mikill
 tekjur	nvfo	tekja
 .	.	.
-
 Til	ae	til
 þess	fphee	það
 að	c	að
@@ -1360,7 +1303,6 @@ tekjur	nvfo	tekja
 einkum	aa	einkum
 þrennt	lheosf	þrennur
 .	.	.
-
 Í	aþ	í
 fyrsta	lheþve	fyrstur
 lagi	nheþ	lag
@@ -1381,7 +1323,6 @@ frægustu	lkfeve	frægur
 tilteknu	lheþsf	tiltekinn
 sviði	nheþ	svið
 .	.	.
-
 Í	aþ	í
 öðru	lheþsf	öðr
 lagi	nheþ	lag
@@ -1425,7 +1366,6 @@ sé	svg3en	vera
 nógu	lheþsf	nógur
 stór	lkensf	stór
 .	.	.
-
 Sennilega	aa	sennilega
 er	sfg3en	vera
 það	fphen	það
@@ -1447,7 +1387,6 @@ með	ao	með
 himinháar	lvfosf	himinhár
 tekjur	nvfo	tekja
 .	.	.
-
 Íslendingar	nkfn-s	Íslendingur
 eru	sfg3fn	vera
 einfaldlega	aa	einfaldlega
@@ -1491,7 +1430,6 @@ hver	foken	hver
 og	c	og
 einn	foken	einn
 .	.	.
-
 Þannig	aa	þannig
 að	c	að
 eina	lvenvf	einn
@@ -1514,7 +1452,6 @@ gegn	aa	gegn
 í	aþ	í
 útlöndum	nhfþ	útland
 .	.	.
-
 Spurningin	nveng	spurning
 í	aþ	í
 heild	nveþ	heild
@@ -1522,7 +1459,6 @@ sinni	feveþ	sinn
 hljóðaði	sfg3eþ	hljóða
 svona	aa	svona
 :	:	:
-
 Mig	fp1eo	ég
 langar	sfg3en	langa
 til	ae	til
@@ -1536,7 +1472,6 @@ fyrirtækjum	nhfþ	fyrirtæki
 fara	sfg3fn	fara
 fram	aa	fram
 ?	?	?
-
 Hvaða	fsvfn	hvaða
 ábyrgðir	nvfn	ábyrgð
 þurfa	sfg3fn	þurfa
@@ -1550,7 +1485,6 @@ eru	sfg3fn	vera
 þessi	fahfn	þessi
 lán	nhfn	lán
 ?	?	?
-
 Talað	sþghen	tala
 er	sfg3en	vera
 um	ao	um
@@ -1580,7 +1514,6 @@ hlutafé	nheo	hlutafé
 á	aþ	á
 markaðsvirði	nheþ	markaðsvirði
 .	.	.
-
 Til	ae	til
 að	cn	að
 greiða	sng	greiða
@@ -1595,7 +1528,6 @@ koma	sng	koma
 til	aa	til
 lánsfé	nhen	lánsfé
 .	.	.
-
 Ýmist	c	ýmist
 taka	sfg3fn	taka
 kaupendurnir	nkfng	kaupandi
@@ -1613,7 +1545,6 @@ eignast	snm	eigna
 taka	sng	taka
 lán	nheo	lán
 .	.	.
-
 Þá	aa	þá
 þekkist	sfm3en	þekkja
 einnig	aa	einnig
@@ -1652,7 +1583,6 @@ greitt	aa	greitt
 fyrri	lkfþvm	fyrri
 eigendum	nkfþ	eigandi
 .	.	.
-
 Sem	c	sem
 dæmi	nhen	dæmi
 um	ao	um
@@ -1690,7 +1620,6 @@ kaup	nhfo	kaup
 á	aþ	á
 fyrirtækinu	nheþg	fyrirtæki
 .	.	.
-
 Allur	foken	allur
 gangur	nken	gangur
 er	sfg3en	vera
@@ -1716,7 +1645,6 @@ jafnvel	aa	jafnvel
 verið	ssg	vera
 ekkert	fohen	enginn
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 á	ao	á
@@ -1732,7 +1660,6 @@ tryggingar	nvfo	trygging
 vegna	ae	vegna
 lánanna	nhfeg	lán
 .	.	.
-
 Alla	fokfo	allur
 jafna	lkfosf	jafn
 byggir	sfg3en	byggja
@@ -1769,7 +1696,6 @@ að	cn	að
 endurgreiða	sng	endurgreiða
 lánin	nhfog	lán
 .	.	.
-
 Lánskjör	nhfn	lánskjör
 í	aþ	í
 slíkum	fbhfþ	slíkur
@@ -1804,7 +1730,6 @@ eru	sfg3fn	vera
 fyrir	ao	fyrir
 þá	fpkfo	hann
 .	.	.
-
 Þegar	c	þegar
 lánað	sþghen	lána
 er	sfg3en	vera
@@ -1848,7 +1773,6 @@ er	sfg3en	vera
 til	ae	til
 hlutafjár	nhee	hlutafé
 .	.	.
-
 Hagfræðingar	nkfn	hagfræðingur
 nota	sfg3fn	nota
 hugtakið	nheog	hugtak
@@ -1869,7 +1793,6 @@ recession	e	recession
 í	aþ	í
 efnahagslífinu	nheþg	efnahagslíf
 .	.	.
-
 Með	aþ	með
 samdrætti	nkeþ	samdráttur
 er	sfg3en	vera
@@ -1885,7 +1808,6 @@ og	c	og
 hefur	sfg3en	hafa
 minnkað	ssg	minnka
 .	.	.
-
 Einkennin	nhfng	einkenni
 eru	sfg3fn	vera
 meðal	ae	meðal
@@ -1898,7 +1820,6 @@ og	c	og
 atvinnuleysi	nhen	atvinnuleysi
 eykst	sfm3en	auka
 .	.	.
-
 Stundum	aa	stundum
 er	sfg3en	vera
 notað	sþghen	nota
@@ -1921,7 +1842,6 @@ hagkerfið	nheng	hagkerfi
 í	aþ	í
 kreppu	nveþ	kreppa
 .	.	.
-
 Kreppur	nvfn	kreppa
 geta	sfg3fn	geta
 vitaskuld	aa	vitaskuld
@@ -1952,7 +1872,6 @@ hvenær	aa	hvenær
 um	ao	um
 kreppu	nveo	kreppa
 .	.	.
-
 Stundum	aa	stundum
 er	sfg3en	vera
 sagt	sþghen	segja
@@ -1983,13 +1902,11 @@ sé	svg3en	vera
 það	fphen	það
 kreppa	sng	kreppa
 .	.	.
-
 Upprunalega	lvenvf	upprunalegur
 spurningin	nveng	spurning
 hljóðaði	sfg3eþ	hljóða
 svona	aa	svona
 :	:	:
-
 Hvernig	aa	hvernig
 virka	sfg3fn	virka
 Dow	e	Dow
@@ -1997,7 +1914,6 @@ Jones	e	Jones
 og	c	og
 Nasdaq	e	Nasdaq
 ?	?	?
-
 Er	sfg3en	vera
 þetta	fahen	þessi
 eitthvað	fohen	einhver
@@ -2008,7 +1924,6 @@ getur	sfg3en	geta
 sig	fpkeo	sig
 á	aa	á
 ?	?	?
-
 Dow	e	Dow
 Jones	e	Jones
 er	sfg3en	vera
@@ -2049,7 +1964,6 @@ kölluð	sþgven	kalla
 Dow	e	Dow
 Jones	e	Jones
 .	.	.
-
 Nafnið	nheng	nafn
 er	sfg3en	vera
 fengið	sþghen	fá
@@ -2066,7 +1980,6 @@ og	c	og
 Edward	e	Edward
 Jones	e	Jones
 .	.	.
-
 Sá	faken	sá
 þriðji	lkenvf	þriðji
 hét	sfg3eþ	heita
@@ -2091,7 +2004,6 @@ Dow	e	Dow
 og	c	og
 Jones	e	Jones
 .	.	.
-
 Fyrirtækið	nheng	fyrirtæki
 var	sfg3eþ	vera
 stofnað	sþghen	stofna
@@ -2115,7 +2027,6 @@ fyrirtækisins	nheeg	fyrirtæki
 lofti	nheþ	loft
 síðan	aa	síðan
 .	.	.
-
 Dow	e	Dow
 Jones-vísitalan	nvengs	Jones-vísitala
 byggir	sfg3en	byggja
@@ -2128,7 +2039,6 @@ stórum	lhfþsf	stór
 bandarískum	lhfþsf	bandarískur
 fyrirtækjum	nhfþ	fyrirtæki
 .	.	.
-
 Hún	fpven	hún
 er	sfg3en	vera
 lítið	aa	lítið
@@ -2143,7 +2053,6 @@ getið	sþghen	geta
 í	aþ	í
 fjölmiðlum	nkfþ	fjölmiðill
 .	.	.
-
 Ýmsar	fovfn	ýmis
 aðrar	fovfn	annar
 vísitölur	nvfn	vísitala
@@ -2174,7 +2083,6 @@ hlutabréfa	nhfe	hlutabréf
 bandarískum	lhfþsf	bandarískur
 fyrirtækjum	nhfþ	fyrirtæki
 .	.	.
-
 Nánar	aam	náið
 er	sfg3en	vera
 hægt	lhensf	hægur
@@ -2195,13 +2103,11 @@ Hvað	fshen	hver
 eru	sfg3fn	vera
 hlutabréfavísitölur	nvfn	hlutabréfavísitala
 ?	?	?
-
 +	+	+
 Hvað	fshen	hver
 er	sfg3en	vera
 vísitala	nven	vísitala
 ?	?	?
-
 +	+	+
 Hvernig	aa	hvernig
 er	sfg3en	vera
@@ -2218,14 +2124,12 @@ og	c	og
 útgáfu	nvee	útgáfa
 jöfnunarhlutabréfa	nhfe	jöfnunarhlutabréf
 ?	?	?
-
 Nasdaq-turninn	nkengs	Nasdaq-turn
 í	aa	í
 á	aþ	á
 Times	e	Times
 Square	e	Square
 .	.	.
-
 Nasdaq	e	Nasdaq
 er	sfg3en	vera
 önnur	foven	annar
@@ -2250,7 +2154,6 @@ York	e	York
 NYSE	as	NYSE
 )	)	)
 .	.	.
-
 Nasdaq	e	Nasdaq
 er	sfg3en	vera
 skammstöfun	nven	skammstöfun
@@ -2266,7 +2169,6 @@ Automatic	e	Automatic
 Quotation	e	Quotation
 System	e	System
 .	.	.
-
 Nasdaq	e	Nasdaq
 tók	sfg3eþ	taka
 til	ae	til
@@ -2274,7 +2176,6 @@ starfa	nhfe	starf
 árið	nheog	ár
 1971	ta	1971
 .	.	.
-
 Reiknaðar	sþgvfn	reikna
 eru	sfg3fn	vera
 út	aa	út
@@ -2310,7 +2211,6 @@ eru	sfg3fn	vera
 í	aþ	í
 kauphöllinni	nveþg	kauphöll
 .	.	.
-
 Kauphallir	nvfn	kauphöll
 eru	sfg3fn	vera
 í	aþ	í
@@ -2346,7 +2246,6 @@ að	aþ	að
 eða	c	eða
 hafna	sfg3fn	hafna
 .	.	.
-
 Lengst	aae	lengi
 af	aa	af
 gerðist	sfm3eþ	gera
@@ -2387,7 +2286,6 @@ með	aþ	með
 rafrænum	lkeþsf	rafrænn
 hætti	nkeþ	háttur
 .	.	.
-
 Nasdaq	e	Nasdaq
 starfar	sfg3en	starfa
 með	aþ	með
@@ -2400,12 +2298,10 @@ einnig	aa	einnig
 Kauphöll	nven-s	Kauphöll
 Íslands	nhee-s	Ísland
 .	.	.
-
 Spyrjandi	nken	spyrjandi
 bætir	sfg3en	bæta
 við	aa	við
 :	:	:
-
 Fær	sfg3en	fá
 sá	faken	sá
 sem	ct	sem
@@ -2417,7 +2313,6 @@ verðbætur	nvfo	verðbætur
 í	aþ	í
 þensluástandi	nheþ	þensluástand
 ?	?	?
-
 Með	aþ	með
 verðbótum	nvfþ	verðbætur
 er	sfg3en	vera
@@ -2472,7 +2367,6 @@ hefði	svg3eþ	hafa
 ekkert	fohen	enginn
 breyst	ssm	breyta
 .	.	.
-
 Breytingar	nvfn	breyting
 á	aþ	á
 verðlagi	nheþ	verðlag
@@ -2509,7 +2403,6 @@ lækkar	sfg3en	lækka
 með	aþ	með
 tímanum	nkeþg	tími
 .	.	.
-
 Ef	c	ef
 verðlag	nhen	verðlag
 lækkar	sfg3en	lækka
@@ -2518,7 +2411,6 @@ verðbætur	nvfn	verðbætur
 neikvæð	lvensf	neikvæður
 stærð	nven	stærð
 .	.	.
-
 Verðlagsbreytingar	nvfn	verðlagsbreyting
 eru	sfg3fn	vera
 reiknaðar	sþgvfn	reikna
@@ -2536,7 +2428,6 @@ Hagstofan	nvengs	Hagstofa
 reiknar	sfg3en	reikna
 út	aa	út
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -2570,7 +2461,6 @@ tíma	nkee	tími
 í	aa	í
 senn	aa	senn
 .	.	.
-
 Skoðum	svg1fn	skoða
 tvö	tfhfo	tveir
 einföld	lhfosf	einfaldur
@@ -2587,7 +2477,6 @@ hitt	faheo	hinn
 úr	aþ	úr
 lánsviðskiptum	nhfþ	lánsviðskipti
 .	.	.
-
 Gerum	svg1fn	gera
 ráð	nheo	ráð
 fyrir	aþ	fyrir
@@ -2619,7 +2508,6 @@ verðlagsbreytingar	nvfo	verðlagsbreyting
 það	faheo	sá
 ár	nheo	ár
 .	.	.
-
 Gerum	svg1fn	gera
 enn	aa	enn
 fremur	aam	fremur
@@ -2641,7 +2529,6 @@ stig	nhfn	stig
 ári	nheþ	ár
 síðar	aam	síðar
 .	.	.
-
 Þá	aa	þá
 hefur	sfg3en	hafa
 verðbólga	nven	verðbólga
@@ -2664,11 +2551,9 @@ með	aþ	með
 að	cn	að
 reikna	sng	reikna
 :	:	:
-
 <	<	<
 jafna	nven	jafna
 >	>	>
-
 Þar	aa	þar
 með	aa	með
 fæst	sfm3en	fá
@@ -2685,18 +2570,15 @@ verða	sng	verða
 síðara	lheovm	síðari
 árið	nheog	ár
 .	.	.
-
 Það	fpheo	það
 má	sfg3en	mega
 einnig	aa	einnig
 reikna	sng	reikna
 sem	aa	sem
 :	:	:
-
 <	<	<
 jafna	nven	jafna
 >	>	>
-
 Hækkun	nven	hækkun
 vísitölunnar	nveeg	vísitala
 um	ao	um
@@ -2742,7 +2624,6 @@ lækkað	ssg	lækka
 í	aþ	í
 verði	nheþ	verð
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 því	aa	því
@@ -2776,7 +2657,6 @@ eitthvað	fohen	einhver
 fyrir	ao	fyrir
 verðbæturnar	nvfog	verðbætur
 .	.	.
-
 Skoðum	svg1fn	skoða
 síðan	aa	síðan
 dæmi	nheo	dæmi
@@ -2811,7 +2691,6 @@ svo	aa	svo
 skamms	lkeesf	skammur
 tíma	nkee	tími
 .	.	.
-
 Maður	nken	maður
 nokkur	foken	nokkur
 leggur	sfg3en	leggja
@@ -2827,7 +2706,6 @@ vexti	nkfo	vöxtur
 auk	ae	auk
 verðtryggingar	nvee	verðtrygging
 .	.	.
-
 Þetta	fahen	þessi
 eru	sfg3fn	vera
 að	aþ	að
@@ -2847,7 +2725,6 @@ gefur	sfg3en	gefa
 til	ae	til
 kynna	nhfe	kynni
 .	.	.
-
 Gerum	svg1fn	gera
 eins	aa	eins
 og	c	og
@@ -2869,7 +2746,6 @@ stig	nhfn	stig
 ári	nheþ	ár
 síðar	aam	síðar
 .	.	.
-
 Þar	aa	þar
 með	aa	með
 á	sfg3en	eiga
@@ -2888,11 +2764,9 @@ vaxta	nkfe	vöxtur
 og	c	og
 verða	sng	verða
 :	:	:
-
 <	<	<
 jafna	nven	jafna
 >	>	>
-
 Takið	sbg2fn	taka
 eftir	aþ	eftir
 því	fpheþ	það
@@ -2914,7 +2788,6 @@ nafnverði	nheþ	nafnverð
 heldur	c	heldur
 9,2%	tp	9,2%
 .	.	.
-
 Ástæðan	nveng	ástæða
 er	sfg3en	vera
 að	c	að
@@ -2928,7 +2801,6 @@ raunvaxtanna	nkfeg	raunvextir
 margfaldast	sfm3en	margfalda
 saman	aa	saman
 .	.	.
-
 Þetta	faheo	þessi
 má	sfg3en	mega
 líka	aa	líka
@@ -2945,7 +2817,6 @@ vexti	nkfo	vöxtur
 á	ao	á
 verðbæturnar	nvfog	verðbætur
 .	.	.
-
 Innlánsreikningar	nkfn	innlánsreikningur
 í	aþ	í
 íslenskum	lvfþsf	íslenskur
@@ -2956,7 +2827,6 @@ verðtryggðir	lkfnsf	verðtryggður
 eða	c	eða
 óverðtryggðir	lkfnsf	óverðtryggður
 .	.	.
-
 Flestir	lkfnse	margur
 eru	sfg3fn	vera
 óverðtryggðir	lkfnsf	óverðtryggður
@@ -2981,7 +2851,6 @@ en	c	en
 þriggja	tfhfe	þrír
 ára	nhfe	ár
 .	.	.
-
 Bæði	c	bæði
 bankar	nkfn	banki
 og	c	og
@@ -2999,7 +2868,6 @@ eða	c	eða
 lengri	lkeevm	langur
 tíma	nkee	tími
 .	.	.
-
 Sjá	sng	sjá
 einnig	aa	einnig
 :	:	:
@@ -3008,7 +2876,6 @@ Hvað	fshen	hver
 er	sfg3en	vera
 vísitala	nven	vísitala
 ?	?	?
-
 +	+	+
 Hve	aa	hve
 mörg	lhfnsf	margur
@@ -3019,7 +2886,6 @@ leyfa	sfg3fn	leyfa
 verðtryggingu	nveo	verðtrygging
 lána	nhfe	lán
 ?	?	?
-
 +	+	+
 Hvernig	aa	hvernig
 er	sfg3en	vera
@@ -3035,7 +2901,6 @@ mínus	nken	mínus
 »	»	»
 -verðbólga	nven	-verðbólga
 ?	?	?
-
 +	+	+
 Skipta	sfg3fn	skipta
 launahækkanir	nvfn	launahækkun
@@ -3048,7 +2913,6 @@ og	c	og
 hvers	fshee	hver
 vegna	ae	vegna
 ?	?	?
-
 +	+	+
 Er	sfg3en	vera
 til	aa	til
@@ -3061,7 +2925,6 @@ fyrir	aa	fyrir
 um	ao	um
 verðbólgu	nveo	verðbólga
 ?	?	?
-
 +	+	+
 Fyrir	ao	fyrir
 hverja	fokfo	hver
@@ -3080,7 +2943,6 @@ tekur	sfg3en	taka
 um	ao	um
 vexti	nkfo	vöxtur
 ?	?	?
-
 +	+	+
 Hvaða	fshfo	hvaða
 áhrif	nhfo	áhrif
@@ -3096,7 +2958,6 @@ fasteign	nveo	fasteign
 á	aþ	á
 lánum	nhfþ	lán
 ?	?	?
-
 Skattar	nkfn	skattur
 eru	sfg3fn	vera
 lagðir	sþgkfn	leggja
@@ -3128,7 +2989,6 @@ honum	fpkeþ	hann
 á	aþ	á
 löggjafarþinginu	nheþg	löggjafarþing
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 þó	aa	þó
@@ -3164,7 +3024,6 @@ eru	sfg3fn	vera
 í	aþ	í
 skattamálum	nhfþ	skattamál
 .	.	.
-
 Oftast	aae	oft
 er	sfg3en	vera
 einkum	aa	einkum
@@ -3196,7 +3055,6 @@ aflar	sfg3en	afla
 í	ao	í
 ríkissjóð	nkeo	ríkissjóður
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 alla	fokfo	allur
@@ -3223,7 +3081,6 @@ stjórnmálaskoðanir	nvfo	stjórnmálaskoðun
 þeir	fpkfn	hann
 hafa	sfg3fn	hafa
 .	.	.
-
 Í	aþ	í
 öðrum	fohfþ	annar
 tilfellum	nhfþ	tilfelli
@@ -3254,7 +3111,6 @@ hópi	nkeþ	hópur
 þeir	fpkfn	hann
 tilheyra	sfg3fn	tilheyra
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 vitaskuld	aa	vitaskuld
@@ -3279,7 +3135,6 @@ leggjast	sfm3fn	leggja
 mann	nkeo	maður
 sjálfan	fbkeo	sjálfur
 .	.	.
-
 Þeir	fakfn	sá
 sem	ct	sem
 vilja	sfg3fn	vilja
@@ -3312,7 +3167,6 @@ að	aþ	að
 öðru	foheþ	annar
 jöfnu	lheþsf	jafn
 .	.	.
-
 Þeir	fakfn	sá
 sem	ct	sem
 eru	sfg3fn	vera
@@ -3328,7 +3182,6 @@ sé	svg3en	vera
 lagður	sþgken	leggja
 á	aa	á
 .	.	.
-
 Þá	aa	þá
 eru	sfg3fn	vera
 sumir	fokfn	sumur
@@ -3353,7 +3206,6 @@ og	c	og
 hærri	lkfovm	hár
 skatta	nkfo	skattur
 .	.	.
-
 Deilur	nvfn	deila
 um	ao	um
 skatta	nkfo	skattur
@@ -3369,7 +3221,6 @@ skoðanir	nvfo	skoðun
 sem	c	sem
 þessar	favfo	þessi
 .	.	.
-
 Hátekjuskattur	nken	hátekjuskattur
 eins	aa	eins
 og	c	og
@@ -3407,7 +3258,6 @@ sér	fpkfþ	sig
 í	ao	í
 viðbót	nveo	viðbót
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 almennt	aa	almennt
@@ -3435,7 +3285,6 @@ eða	c	eða
 ólögmætum	lkeþsf	ólögmætur
 hætti	nkeþ	háttur
 .	.	.
-
 Umframbyrði	nven	umframbyrði
 þess	fphee	það
 að	cn	að
@@ -3453,7 +3302,6 @@ gegn	aþ	gegn
 háu	lheþsf	hár
 tekjuskattshlutfalli	nheþ	tekjuskattshlutfall
 .	.	.
-
 Sömu	fbhfn	sami
 rök	nhfn	rök
 mæla	sfg3fn	mæla
@@ -3470,7 +3318,6 @@ sem	c	sem
 háum	lkeþsf	hár
 virðisaukaskatti	nkeþ	virðisaukaskattur
 .	.	.
-
 Reyndar	aa	reyndar
 er	sfg3en	vera
 hér	aa	hér
@@ -3505,7 +3352,6 @@ sem	ct	sem
 greiða	sfg3fn	greiða
 hátekjuskatt	nkeo	hátekjuskattur
 .	.	.
-
 Skýringin	nveng	skýring
 er	sfg3en	vera
 að	c	að
@@ -3529,7 +3375,6 @@ og	c	og
 margt	lhensf	margur
 fleira	lhenvm	margur
 .	.	.
-
 Því	aa	því
 eru	sfg3fn	vera
 margir	lkfnsf	margur
@@ -3567,7 +3412,6 @@ lækka	sfg3fn	lækka
 tekjur	nvfn	tekja
 hækka	sfg3fn	hækka
 .	.	.
-
 Það	fphen	það
 skiptir	sfg3en	skipta
 einstakling	nkeo	einstaklingur
@@ -3612,7 +3456,6 @@ lækka	sfg3fn	lækka
 fyrir	ao	fyrir
 vikið	nheog	vik
 .	.	.
-
 Sjá	sng	sjá
 einnig	aa	einnig
 :	:	:
@@ -3624,7 +3467,6 @@ fyrir	aþ	fyrir
 álagningu	nveþ	álagning
 erfðafjárskatts	nkee	erfðafjárskattur
 ?	?	?
-
 +	+	+
 Hversu	aa	hversu
 hátt	lhensf	hár
@@ -3646,13 +3488,11 @@ fella	sng	fella
 hann	fpkeo	hann
 niður	aa	niður
 ?	?	?
-
 +	+	+
 Hvað	fshen	hver
 eru	sfg3fn	vera
 jaðarskattar	nkfn	jaðarskattur
 ?	?	?
-
 +	+	+
 Hvernig	aa	hvernig
 er	sfg3en	vera
@@ -3668,7 +3508,6 @@ mat	nheo	mat
 á	aþ	á
 launaþróun	nveþ	launaþróun
 ?	?	?
-
 +	+	+
 Er	sfg3en	vera
 líklegt	lhensf	líklegur
@@ -3680,7 +3519,6 @@ auki	svg3en	auka
 skatttekjur	nvfo	skatttekjur
 ríkissjóðs	nkee	ríkissjóður
 ?	?	?
-
 +	+	+
 Hvað	fsheo	hver
 er	sfg3en	vera
@@ -3690,7 +3528,6 @@ með	aþ	með
 umframbyrði	nveþ	umframbyrði
 skatta	nkfe	skattur
 ?	?	?
-
 +	+	+
 Hvers	fshee	hver
 vegna	ae	vegna
@@ -3700,7 +3537,6 @@ skattur	nken	skattur
 af	aþ	af
 ellilífeyri	nkeþ	ellilífeyrir
 ?	?	?
-
 +	+	+
 Hvenær	aa	hvenær
 var	sfg3eþ	vera
@@ -3713,7 +3549,6 @@ Margrétar	nvee-s	Margrét
 Thatcher	e	Thatcher
 afnuminn	sþgken	afnema
 ?	?	?
-
 Gjaldmiðillinn	nkeng	gjaldmiðill
 heitir	sfg3en	heita
 pesó	nken	pesó
@@ -3736,7 +3571,6 @@ hverja	foveo	hver
 íslenska	lveosf	íslenskur
 krónu	nveo	króna
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 hægt	lhensf	hægur
@@ -3761,7 +3595,6 @@ lögð	sþgven	leggja
 Íslandi	nheþ-s	Ísland
 '	'	'
 .	.	.
-
 Er	sfg3en	vera
 átt	sþghen	eiga
 við	ao	við
@@ -3780,7 +3613,6 @@ búa	sfg3fn	búa
 eða	c	eða
 ekki	aa	ekki
 ?	?	?
-
 Eða	c	eða
 er	sfg3en	vera
 átt	sþghen	eiga
@@ -3801,7 +3633,6 @@ allir	fokfn	allur
 íslenskir	lkfnsf	íslenskur
 ríkisborgarar	nkfn	ríkisborgari
 ?	?	?
-
 Strangt	aa	strangt
 til	aa	til
 tekið	sþghen	taka
@@ -3837,7 +3668,6 @@ ríkisborgarar	nkfn	ríkisborgari
 eða	c	eða
 ekki	aa	ekki
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 einnig	aa	einnig
@@ -3874,7 +3704,6 @@ um	ao	um
 fæðingardag	nkeo	fæðingardagur
 dýra	nhfe	dýr
 .	.	.
-
 Ákveðið	sþghen	ákveða
 var	sfg3eþ	vera
 að	cn	að
@@ -3910,7 +3739,6 @@ fengið	ssg	fá
 íslenska	lveosf	íslenskur
 kennitölu	nveo	kennitala
 .	.	.
-
 Sumir	fokfn	sumur
 þessara	fakfe	þessi
 útlendinga	nkfe	útlendingur
@@ -3920,7 +3748,6 @@ en	c	en
 aðrir	fokfn	annar
 ekki	aa	ekki
 .	.	.
-
 Alls	aa	alls
 eru	sfg3fn	vera
 þetta	fahen	þessi
@@ -3935,7 +3762,6 @@ við	ao	við
 áramótin	nhfog	áramót
 2002/2003	ta	2002/2003
 .	.	.
-
 Svarið	nheng	svar
 er	sfg3en	vera
 23.	ta	23.
@@ -3953,7 +3779,6 @@ fæddur	sþgken	fæða
 þann	fakeo	sá
 dag	nkeo	dagur
 .	.	.
-
 Næst	aae	nærri
 kemur	sfg3en	koma
 15.	ta	15.
@@ -3966,7 +3791,6 @@ fæddir	sþgkfn	fæða
 þann	fakeo	sá
 dag	nkeo	dagur
 .	.	.
-
 Ef	c	ef
 við	fp1fn	ég
 horfum	sfg1fn	horfa
@@ -3986,7 +3810,6 @@ fæddir	sþgkfn	fæddur
 þann	fakeo	sá
 dag	nkeo	dagur
 .	.	.
-
 Næst	aae	nærri
 kemur	sfg3en	koma
 25.	ta	25.
@@ -3998,12 +3821,10 @@ fæddir	sþgkfn	fæddur
 þann	fakeo	sá
 dag	nkeo	dagur
 .	.	.
-
 Fimm	tfhfe	fimm
 ára	nhfe	ár
 afmælisveisla	nven	afmælisveisla
 .	.	.
-
 Að	aþ	að
 meðaltali	nheþ	meðaltal
 eiga	sfg3fn	eiga
@@ -4019,7 +3840,6 @@ hvern	fokeo	hver
 dag	nkeo	dagur
 ársins	nheeg	ár
 .	.	.
-
 Fæstir	lkfnse	fár
 eru	sfg3fn	vera
 vitaskuld	aa	vitaskuld
@@ -4039,7 +3859,6 @@ eða	c	eða
 sem	aa	sem
 næst	aþe	nærri
 .	.	.
-
 Þann	fakeo	sá
 dag	nkeo	dagur
 eiga	sfg3fn	eiga
@@ -4050,7 +3869,6 @@ með	ao	með
 kennitölu	nveo	kennitala
 afmæli	nheo	afmæli
 .	.	.
-
 Næst	aae	nærri
 kemur	sfg3en	koma
 jóladagur	nken	jóladagur
@@ -4065,7 +3883,6 @@ afmæli	nheo	afmæli
 þann	fakeo	sá
 dag	nkeo	dagur
 .	.	.
-
 Íslendingar	nkfn-s	Íslendingur
 virðast	sfm3fn	virða
 tregir	lkfnsf	tregur
@@ -4090,7 +3907,6 @@ afmæli	nheo	afmæli
 þann	fakeo	sá
 dag	nkeo	dagur
 .	.	.
-
 Aðfangadagur	nken	aðfangadagur
 er	sfg3en	vera
 heldur	aam	heldur
@@ -4104,7 +3920,6 @@ afmæli	nheo	afmæli
 þann	fakeo	sá
 dag	nkeo	dagur
 .	.	.
-
 17.	ta	17.
 júní	nken	júní
 nær	sfg3en	ná
@@ -4122,7 +3937,6 @@ afmæli	nheo	afmæli
 á	ao	á
 þjóðhátíðardaginn	nkeog	þjóðhátíðardagur
 .	.	.
-
 Almennt	aa	almennt
 eru	sfg3fn	vera
 sumarmánuðirnir	nkfng	sumarmánuður
@@ -4132,7 +3946,6 @@ vinsælli	lkfnvm	vinsæll
 til	ae	til
 barneigna	nvfe	barneign
 .	.	.
-
 Flestir	lkfnse	margur
 eiga	sfg3fn	eiga
 afmæli	nheo	afmæli
@@ -4146,7 +3959,6 @@ gerir	sfg3en	gera
 á	ao	á
 dag	nkeo	dagur
 .	.	.
-
 Litlu	lheþsf	lítill
 færri	lkfnvm	fár
 eiga	sfg3fn	eiga
@@ -4161,7 +3973,6 @@ gerir	sfg3en	gera
 á	ao	á
 dag	nkeo	dagur
 .	.	.
-
 September	nken	september
 ,	,	,
 með	ao	með
@@ -4191,7 +4002,6 @@ dag	nkeo	dagur
 að	aþ	að
 meðaltali	nheþ	meðaltal
 .	.	.
-
 Fæstir	lkfnse	fár
 eiga	sfg3fn	eiga
 eins	aa	eins
@@ -4216,7 +4026,6 @@ gerir	sfg3en	gera
 á	ao	á
 dag	nkeo	dagur
 .	.	.
-
 Ef	c	ef
 tekið	sþghen	taka
 er	sfg3en	vera
@@ -4240,7 +4049,6 @@ dag	nkeo	dagur
 þess	fakee	sá
 mánaðar	nkee	mánuður
 .	.	.
-
 Í	aþ	í
 þeim	fahfþ	sá
 löndum	nhfþ	land
@@ -4259,7 +4067,6 @@ seðlar	nkfn	seðill
 og	c	og
 mynt	nven	mynt
 .	.	.
-
 Evruseðlarnir	nkfng	evruseðill
 eru	sfg3fn	vera
 allir	fokfn	allur
@@ -4278,7 +4085,6 @@ upp	aa	upp
 500	ta	500
 evrur	nvfo	evra
 .	.	.
-
 Austuríkismaðurinn	nkeng	Austurríkismaður
 Robert	e	Robert
 Kalina	e	Kalina
@@ -4286,7 +4092,6 @@ teiknaði	sfg3eþ	teikna
 þá	fpkfo	hann
 alla	fokfo	allur
 .	.	.
-
 Evruseðlar.apríl	nkeo	evruseðlar.apríl
 2008	ta	2008
 ,	,	,
@@ -4301,7 +4106,6 @@ vef	nkeþ	vefur
 Seðlabanka	nkee-s	Seðlabanki
 Íslands	nhee-s	Ísland
 .	.	.
-
 Sumum	fokfþ	sumur
 finnst	sfm3en	finna
 betra	lhenvm	góður
@@ -4331,7 +4135,6 @@ bandaríkjadollar	nkeo	bandaríkjadollar
 eða	c	eða
 evru	nveo	evra
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 þarf	sfg3en	þurfa
@@ -4355,7 +4158,6 @@ kaupa	sng	kaupa
 eina	tfveo	einn
 evru	nveo	evra
 .	.	.
-
 Undanfarnar	lvfosf	undanfarinn
 vikur	nvfo	vika
 hefur	sfg3en	hafa
@@ -4388,7 +4190,6 @@ næstu	lveþve	næstur
 viku	nveþ	vika
 líka	aa	líka
 .	.	.
-
 Þetta	fahen	þessi
 svar	nhen	svar
 er	sfg3en	vera
@@ -4409,7 +4210,6 @@ verður	sfg3en	verða
 það	fphen	það
 úrelt	lhensf	úreldur
 .	.	.
-
 Áhugafólk	nhen	áhugafólk
 um	ao	um
 gengi	nheo	gengi
@@ -4437,7 +4237,6 @@ finna	sng	finna
 nýjustu	lvfove	nýr
 gengisupplýsingarnar	nvfog	gengisupplýsing
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 svari	nheþ	svar
 Þuríðar	nvee-s	Þuríður
@@ -4450,7 +4249,6 @@ helstu	lhfnve	heldri
 frumefni	nhfn	frumefni
 líkamans	nkeeg	líkami
 ?	?	?
-
 eru	sfg3fn	vera
 26	ta	26
 frumefni	nhfn	frumefni
@@ -4458,7 +4256,6 @@ frumefni	nhfn	frumefni
 líkama	nkeþ	líkami
 okkar	fp1fe	ég
 .	.	.
-
 Fjögur	tfhfn	fjórir
 þeirra	fphfe	það
 ,	,	,
@@ -4481,7 +4278,6 @@ af	aþ	af
 líkamsmassa	nkeþ	líkamsmassi
 okkar	fp1fe	ég
 .	.	.
-
 Önnur	fohfn	annar
 níu	tfhfn	níu
 eru	sfg3fn	vera
@@ -4490,7 +4286,6 @@ samtals	aa	samtals
 af	aþ	af
 líkamsmassanum	nkeþg	líkamsmassi
 .	.	.
-
 Það	fphen	það
 eru	sfg3fn	vera
 kalk	nhen	kalk
@@ -4511,7 +4306,6 @@ joð	nhen	joð
 og	c	og
 járn	nhen	járn
 .	.	.
-
 Þrettán	tfhfn	þrettán
 önnur	fohfn	annar
 frumefni	nhfn	frumefni
@@ -4531,7 +4325,6 @@ sem	ct	sem
 á	aa	á
 vantar	sfg3en	vanta
 .	.	.
-
 Þau	fphfn	það
 eru	sfg3fn	vera
 ál	nhen	ál
@@ -4560,7 +4353,6 @@ vanadín	nhen	vanadín
 og	c	og
 sink	nhen	sink
 .	.	.
-
 Þessi	fahfn	þessi
 frumefni	nhfn	frumefni
 raðast	sfm3fn	raða
@@ -4577,7 +4369,6 @@ efnasambönd	nhfo	efnasamband
 í	aþ	í
 líkamanum	nkeþg	líkami
 .	.	.
-
 Á	aþ	á
 Vísindavefnum	nkeþgs	Vísindavefur
 eru	sfg3fn	vera
@@ -4596,7 +4387,6 @@ mannslíkamanum	nkeþg	mannslíkami
 til	ae	til
 dæmis	nhee	dæmi
 :	:	:
-
 *	*	*
 Hvaða	fshfn	hvaða
 ólífrænu	lhfnvf	ólífrænn
@@ -4605,7 +4395,6 @@ eru	sfg3fn	vera
 í	aþ	í
 mannslíkamanum	nkeþg	mannslíkami
 ?	?	?
-
 *	*	*
 Getur	sfg3en	geta
 kopar	nken	kopar
@@ -4616,7 +4405,6 @@ skaðleg	lhfosf	skaðlegur
 líkamsstarfsemi	nveo	líkamsstarfsemi
 okkar	fp1fe	ég
 ?	?	?
-
 *	*	*
 Hver	fshfn	hver
 eru	sfg3fn	vera
@@ -4626,14 +4414,12 @@ flúors	nkee	flúor
 á	ao	á
 manninn	nkeog	maður
 ?	?	?
-
 *	*	*
 Hver	fshfn	hver
 eru	sfg3fn	vera
 einkenni	nhfn	einkenni
 járnskorts	nkee	járnskortur
 ?	?	?
-
 *	*	*
 Hvað	fshen	hver
 er	sfg3en	vera
@@ -4645,21 +4431,18 @@ hvers	fshee	hver
 við	fp1fn	ég
 það	fpheo	það
 ?	?	?
-
 *	*	*
 Hvaða	fshfn	hvaða
 efni	nhfn	efni
 eru	sfg3fn	vera
 snefilefni	nhfn	snefilefni
 ?	?	?
-
 *	*	*
 Hvernig	aa	hvernig
 er	sfg3en	vera
 uppbygging	nven	uppbygging
 prótína	nhfe	prótín
 ?	?	?
-
 Hefðin	nveng	hefð
 fyrir	aþ	fyrir
 ferhyrndum	lkfþsf	ferhyrndur
@@ -4683,7 +4466,6 @@ fyrr	aam	fyrr
 á	aþ	á
 tímum	nkfþ	tími
 .	.	.
-
 Vissulega	aa	vissulega
 voru	sfg3fþ	vera
 notuð	sþghfn	nota
@@ -4708,7 +4490,6 @@ breiddar	nvee	breidd
 í	aþ	í
 sessi	nkeþ	sess
 .	.	.
-
 Í	aþ	í
 mörgum	lhfþsf	margur
 tilfellum	nhfþ	tilfelli
@@ -4729,7 +4510,6 @@ fylgdi	sfg3eþ	fylgja
 ákveðna	lhenvf	ákveðinn
 lag	nhen	lag
 .	.	.
-
 Seinna	aam	seint
 meir	aam	meir
 litu	sfg3fþ	líta
@@ -4761,7 +4541,6 @@ með	ao	með
 ferhyrndan	lkeosf	ferhyrndur
 þjóðfána	nkeo	þjóðfáni
 .	.	.
-
 Fyrir	ao	fyrir
 tíma	nkeo	tími
 breskra	lhfesf	breskur
@@ -4796,7 +4575,6 @@ voru	sfg3fþ	vera
 hundruð	nhfn	hundrað
 ríkja	nhfe	ríki
 .	.	.
-
 Mörg	lhfnsf	margur
 þessara	fahfe	þessi
 ríkja	nhfe	ríki
@@ -4827,7 +4605,6 @@ Evrópumenn	nkfn-s	Evrópumaður
 þekktu	sfg3fþ	þekkja
 best	aae	vel
 .	.	.
-
 Með	aþ	með
 auknum	lhfþsf	aukinn
 áhrifum	nhfþ	áhrif
@@ -4850,13 +4627,11 @@ nema	c	nema
 fáni	nken	fáni
 Nepals	nhee-s	Nepal
 .	.	.
-
 <	<	<
 Heimildir	nvfn	heimild
 og	c	og
 mynd	nven	mynd
 >	>	>
-
 Orðið	nheng	orð
 steinn	nken	steinn
 getur	sfg3en	geta
@@ -4889,13 +4664,11 @@ flestir	lkfnse	margur
 steinar	nkfn	steinn
 gráir	lkfnsf	grár
 ?	?	?
-
 Þar	aa	þar
 segir	sfg3en	segja
 meðal	ae	meðal
 annars	fohee	annar
 :	:	:
-
 Steindir	nvfn	steind
 eru	sfg3fn	vera
 kristallað	lhensf	kristallaður
@@ -4907,7 +4680,6 @@ finnst	sfm3en	finna
 í	aþ	í
 náttúrunni	nveþg	náttúra
 .	.	.
-
 Þær	fpvfn	hún
 eru	sfg3fn	vera
 í	aþ	í
@@ -4934,7 +4706,6 @@ margs	lkeesf	margur
 konar	nkee	konar
 steindum	nvfþ	steind
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -4956,7 +4727,6 @@ sérstakir	lkfnsf	sérstakur
 íslenskir	lkfnsf	íslenskur
 steinar	nkfn	steinn
 ?	?	?
-
 Hér	aa	hér
 er	sfg3en	vera
 gert	sþghen	gera

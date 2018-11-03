@@ -14,7 +14,6 @@ við	ao	við
 þjóðveg	nkeo	þjóðvegur
 1	ta	1
 .	.	.
-
 BÍLAFRAMLEIÐENDUR	nkfn	bílaframleiðandi
 ætla	sfg3fn	ætla
 að	cn	að
@@ -38,7 +37,6 @@ bæta	sng	bæta
 hönnun	nveo	hönnun
 farþegarýmis	nhee	farþegarými
 .	.	.
-
 Renault	e	Renault
 ,	,	,
 Peugeot	e	Peugeot
@@ -61,7 +59,6 @@ af	aþ	af
 Evrópsku	lveþvf	evrópskur
 geimferðastofnuninni	nveþg	geimferðastofnun
 .	.	.
-
 Búningurinn	nkeng	búningur
 var	sfg3eþ	vera
 upphaflega	aa	upphaflega
@@ -78,7 +75,6 @@ geimfara	nkfe	geimfari
 í	aþ	í
 þyngdarleysi	nheþ	þyngdarleysi
 .	.	.
-
 FORD	e	FORD
 Expedition	e	Expedition
 var	sfg3eþ	vera
@@ -102,7 +98,6 @@ J.D	as	J.D
 .	.	.
 Power	e	Power
 .	.	.
-
 J.	as	J.
 D.	as	D.
 Power	e	Power
@@ -133,7 +128,6 @@ og	c	og
 meðal	aa	meðal
 bíla	nkfo	bíll
 .	.	.
-
 Niðurstaða	nven	niðurstaða
 þessi	faven	þessi
 var	sfg3eþ	vera
@@ -165,7 +159,6 @@ fyrstu	lkfþve	fyrstur
 90	ta	90
 dögunum	nkfþg	dagur
 .	.	.
-
 BÍLASÝNINGIN	nveng	bílasýning
 í	aþ	í
 Tókýó	nxeþ-s	Tókýó
@@ -174,7 +167,6 @@ er	sfg3en	vera
 öðrum	fovfþ	annar
 bílasýningum	nvfþ	bílasýning
 .	.	.
-
 Í	aþ	í
 Tókýó	nxeþ-s	Tókýó
 leggja	sfg3fn	leggja
@@ -196,7 +188,6 @@ markaðurinn	nkeng	markaður
 fyrir	ao	fyrir
 smábíla	nkfo	smábíll
 .	.	.
-
 Annað	fohen	annar
 sem	ct	sem
 kemur	sfg3en	koma
@@ -228,7 +219,6 @@ nokkurs	fokee	nokkur
 konar	nkee	konar
 nútímageisjur	nvfn	nútímageisja
 .	.	.
-
 Oft	aa	oft
 er	sfg3en	vera
 sagt	sþghen	segja
@@ -242,7 +232,6 @@ hver	foken	hver
 öðrum	fokeþ	annar
 líkur	lkensf	líkur
 .	.	.
-
 Framleiðendur	nkfn	framleiðandi
 virðast	sfm3fn	virða
 hins	fakee	hinn
@@ -275,7 +264,6 @@ algerlega	aa	algerlega
 opna	lkfosf	opinn
 skjöldu	nkfo	skjöldur
 .	.	.
-
 En	c	en
 bílasýningin	nveng	bílasýning
 er	sfg3en	vera
@@ -302,7 +290,6 @@ að	aþ	að
 þessu	faheþ	þessi
 sinni	nheþ	sinn
 .	.	.
-
 Bílasýningin	nveng	bílasýning
 er	sfg3en	vera
 haldin	sþgven	halda
@@ -315,7 +302,6 @@ borgarhlutanum	nkeþg	borgarhluti
 sunnan	ae	sunnan
 Tókýó	nxee-s	Tókýó
 .	.	.
-
 Til	ae	til
 þess	fphee	það
 að	cn	að
@@ -339,7 +325,6 @@ framhjá	aþ	framhjá
 Disneylandi	nheþ-s	Disneyland
 Japana	nkfe-s	Japani
 .	.	.
-
 Menn	nkfn	maður
 geta	sfg3fn	geta
 lent	ssg	lenda
@@ -365,7 +350,6 @@ Tókýó	nxeþ-s	Tókýó
 og	c	og
 nágrannabyggðum	nvfþ	nágrannabyggð
 .	.	.
-
 Nýr	lkensf	nýr
 Mazda	e	Mazda
 626	ta	626
@@ -396,7 +380,6 @@ af	aa	af
 fyrir	ao	fyrir
 sig	fphfo	sig
 .	.	.
-
 Fyrst	aae	fyrr
 lá	sfg3eþ	liggja
 leiðin	nveng	leið
@@ -421,7 +404,6 @@ mun	sfg3en	munu
 heita	sng	heita
 626	ta	626
 .	.	.
-
 Þessi	faken	þessi
 bíll	nken	bíll
 er	sfg3en	vera
@@ -432,7 +414,6 @@ en	c	en
 núverandi	lkenof	núverandi
 626	ta	626
 .	.	.
-
 Mesta	lvenve	mikill
 nýjungin	nveng	nýjung
 ,	,	,
@@ -445,7 +426,6 @@ sætafyrirkomulag	nhen	sætafyrirkomulag
 að	aa	að
 aftan	aa	aftan
 .	.	.
-
 Með	aþ	með
 því	fpheþ	það
 að	cn	að
@@ -470,7 +450,6 @@ myndast	sfm3en	mynda
 slétt	lhensf	sléttur
 flutningsrými	nhen	flutningsrými
 .	.	.
-
 Ný	lvensf	nýr
 vél	nven	vél
 ,	,	,
@@ -496,7 +475,6 @@ boðin	sþgven	bjóða
 þessum	fakeþ	þessi
 bíl	nkeþ	bíll
 .	.	.
-
 Hún	fpven	hún
 skilar	sfg3en	skila
 178	ta	178
@@ -504,7 +482,6 @@ hestöflum	nhfþ	hestafl
 að	aþ	að
 hámarki	nheþ	hámark
 .	.	.
-
 RX-8	x	rx-8
 þekkja	sfg3fn	þekkja
 menn	nkfn	maður
@@ -519,7 +496,6 @@ fyrir	aþ	fyrir
 tveimur	tfhfþ	tveir
 árum	nhfþ	ár
 .	.	.
-
 Framleiðslubíllinn	nkeng	framleiðslubíll
 ,	,	,
 RX-8	x	rx-8
@@ -531,7 +507,6 @@ snemma	ae	snemma
 árs	nhee	ár
 2003	ta	2003
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 fjögurra	tfhfe	fjórir
@@ -558,7 +533,6 @@ hestöflum	nhfþ	hestafl
 án	ae	án
 forþjöppu	nvee	forþjappa
 .	.	.
-
 Ný	lvensf	nýr
 útlitslína	nven	útlitslína
 hjá	aþ	hjá
@@ -575,7 +549,6 @@ CZ2	ta	cz2
 og	c	og
 CZ3	ta	cz3
 .	.	.
-
 Fyrri	lkenvm	fyrri
 bíllinn	nkeng	bíll
 gefur	sfg3en	gefa
@@ -593,7 +566,6 @@ um	ao	um
 smíði	nveo	smíði
 smábíls	nkee	smábíll
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 einrýmisbíll	nken	einrýmisbíll
@@ -602,7 +574,6 @@ afar	aa	afar
 kúlulaga	lheþof	kúlulaga
 útliti	nheþ	útlit
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 sýndur	sþgken	sýna
@@ -616,7 +587,6 @@ ventlaopnunartíma	nkeþ	ventlaopnunartími
 og	c	og
 CVT-reimskiptingu	nveþ-s	CVT-reimskipting
 .	.	.
-
 Meðal	ae	meðal
 nýjunga	nvfe	nýjung
 í	aþ	í
@@ -635,7 +605,6 @@ sér	fpkeþ	sig
 úr	aþ	úr
 bílnum	nkeþg	bíll
 .	.	.
-
 CZ3	ta	cz3
 er	sfg3en	vera
 hins	fakee	hinn
@@ -657,7 +626,6 @@ og	c	og
 Lancer	e	Lancer
 Evo	e	Evo
 VII.	ta	VII.
-
 Bílarnir	nkfng	bíll
 eru	sfg3fn	vera
 báðir	fokfn	báðir
@@ -675,12 +643,10 @@ Maybach	e	Maybach
 lúxusbíl	nkeþ	lúxusbíll
 DaimlerChrysler	e	DaimlerChrysler
 .	.	.
-
 Nýr	lkensf	nýr
 Subaru	e	Subaru
 Justy	e	Justy
 ?	?	?
-
 Subaru	e	Subaru
 sýndi	sfg3eþ	sýna
 WX-01	x	wx-01
@@ -693,7 +659,6 @@ kjarninn	nkeng	kjarni
 í	aþ	í
 hönnuninni	nveþg	hönnun
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 sjö	tfhfe	sjö
@@ -717,7 +682,6 @@ fylgja	sng	fylgja
 nýrri	lveþsf	nýr
 öld	nveþ	öld
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 henni	fpveþ	hún
 verður	sfg3en	verða
@@ -743,14 +707,12 @@ fyrirtækisins	nheeg	fyrirtæki
 á	aþ	á
 sýningunni	nveþg	sýning
 .	.	.
-
 Einnig	aa	einnig
 vakti	sfg3eþ	vekja
 HM-01	x	hm-01
 smábíllinn	nkeng	smábíll
 athygli	nveo	athygli
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 umhverfisbíll	nken	umhverfisbíll
@@ -774,7 +736,6 @@ sem	ct	sem
 knýr	sfg3en	knýja
 afturhjólin	nhfog	afturhjól
 .	.	.
-
 Bíllinn	nkeng	bíll
 þykir	sfg3en	þykja
 gefa	sng	gefa
@@ -797,7 +758,6 @@ markað	nkeo	markaður
 nýrri	lveþsf	nýr
 kynslóð	nveþ	kynslóð
 .	.	.
-
 Toyota-híbýli	nhfn-s	Toyota-híbýli
 á	aþ	á
 hjólum	nhfþ	hjól
@@ -819,7 +779,6 @@ er	sfg3en	vera
 einn	tfken	einn
 þeirra	fpkfe	hann
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 tilkomumikill	lkensf	tilkomumikill
@@ -842,7 +801,6 @@ virkar	sfg3en	virka
 afar	aa	afar
 stöðugur	lkensf	stöðugur
 .	.	.
-
 Hugmyndin	nveng	hugmynd
 að	aþ	að
 baki	nheþ	bak
@@ -868,7 +826,6 @@ eða	c	eða
 jafnvel	aa	jafnvel
 vinnustofu	nveo	vinnustofa
 .	.	.
-
 Ökumannsrýmið	nheng	ökumannsrými
 er	sfg3en	vera
 hærra	lhenvm	hár
@@ -883,7 +840,6 @@ um	ao	um
 leið	nveo	leið
 hátæknivætt	lhensf	hátæknivættur
 .	.	.
-
 Bíllinn	nkeng	bíll
 er	sfg3en	vera
 hlaðinn	lkensf	hlaðinn
@@ -913,14 +869,12 @@ og	c	og
 margt	lheosf	margur
 fleira	lheovm	margur
 .	.	.
-
 Vélin	nveng	vél
 er	sfg3en	vera
 2,4	ta	2,4
 lítra	nkfe	lítri
 bensínvél	nven	bensínvél
 .	.	.
-
 Toyota	e	Toyota
 sýndi	sfg3eþ	sýna
 líka	aa	líka
@@ -933,7 +887,6 @@ tvinnvélar	nvfo	tvinnvél
 og	c	og
 efnarafala	nkfo	efnarafall
 .	.	.
-
 WiLL	e	WiLL
 smábíllinn	nkeng	smábíll
 var	sfg3eþ	vera
@@ -974,7 +927,6 @@ undir	aþ	undir
 þessu	faheþ	þessi
 nafni	nheþ	nafn
 .	.	.
-
 Allt	fohen	allur
 í	aþ	í
 eigu	nveþ	eiga
@@ -982,7 +934,6 @@ Toyota	e	Toyota
 að	aþ	að
 sjálfsögðu	lheþsf	sjálfsagður
 .	.	.
-
 WiLL	e	WiLL
 bíllinn	nkeng	bíll
 er	sfg3en	vera
@@ -1001,7 +952,6 @@ fyrst	aae	fyrr
 á	ao	á
 markað	nkeo	markaður
 .	.	.
-
 Nýi	lkenvf	nýr
 bíllinn	nkeng	bíll
 heitir	sfg3en	heita
@@ -1020,7 +970,6 @@ getur	sfg3en	geta
 státað	ssg	státa
 af	aa	af
 .	.	.
-
 Það	fphen	það
 kallast	sfm3en	kalla
 G-Book	e	G-Book
@@ -1040,7 +989,6 @@ hann	fpken	hann
 yfirgefur	sfg3en	yfirgefa
 bílinn	nkeog	bíll
 .	.	.
-
 Meira	aam	meira
 verður	sfg3en	verða
 fjallað	sþghen	fjalla
@@ -1049,46 +997,38 @@ Tókýó-sýninguna	nveogs	Tókýó-sýning
 á	aþ	á
 næstunni	nveþg	næsta
 .	.	.
-
 gugu@mbl.is	v	gugu@mbl.is
-
 Lengd	nven	lengd
 :	:	:
 3.897	ta	3.897
 mm	as	mm
 .	.	.
-
 Breidd	nven	breidd
 :	:	:
 1.650	ta	1.650
 mm	as	mm
 .	.	.
-
 Hæð	nven	hæð
 :	:	:
 1.465	ta	1.465
 mm	as	mm
 .	.	.
-
 Eigin	lvenof	eigin
 þyngd	nven	þyngd
 :	:	:
 1.065	ta	1.065
 kg	as	kg
 .	.	.
-
 Farangursrými	nhen	farangursrými
 :	:	:
 270/1.030	ta	270/1.030
 lítrar	nkfn	lítri
 .	.	.
-
 Hjólbarðar	nkfn	hjólbarði
 :	:	:
 165/70	ta	165/70
 R14	x	r14
 .	.	.
-
 Öryggisbúnaður	nken	öryggisbúnaður
 :	:	:
 4	ta	4
@@ -1096,7 +1036,6 @@ R14	x	r14
 ,	,	,
 ABS	as	ABS
 .	.	.
-
 Vél	nven	vél
 :	:	:
 4	ta	4
@@ -1108,7 +1047,6 @@ rsm.	as	rsm.
 16	ta	16
 ventlar	nkfn	ventill
 .	.	.
-
 Olíuskipti	nhfn	olíuskipti
 :	:	:
 Á	aþ	á
@@ -1116,7 +1054,6 @@ Olíuskipti	nhfn	olíuskipti
 km	as	km
 fresti	nkeþ	frestur
 .	.	.
-
 Afl	nhen	afl
 :	:	:
 75	ta	75
@@ -1126,7 +1063,6 @@ við	ao	við
 sn.	as	sn.
 /	/	/
 mín.	as	mín.
-
 Tog	nhen	tog
 :	:	:
 126	ta	126
@@ -1136,7 +1072,6 @@ við	ao	við
 sn.	as	sn.
 /	/	/
 mín.	as	mín.
-
 Eyðsla	nven	eyðsla
 :	:	:
 6,4	ta	6,4
@@ -1145,14 +1080,12 @@ lítrar	nkfn	lítri
 blönduðum	lkeþsf	blandaður
 akstri	nkeþ	akstur
 .	.	.
-
 Gírkassi	nken	gírkassi
 :	:	:
 Fimm	tfkfe	fimm
 gíra	nkfe	gír
 beinskiptur	lkensf	beinskiptur
 .	.	.
-
 Hröðun	nven	hröðun
 :	:	:
 12,9	ta	12,9
@@ -1164,14 +1097,12 @@ kyrrstöðu	nveþ	kyrrstaða
 km	as	km
 /	/	/
 klst.	as	klst.
-
 Hámarkshraði	nken	hámarkshraði
 :	:	:
 172	ta	172
 km	as	km
 /	/	/
 klst.	as	klst.
-
 Hemlar	nkfn	hemill
 :	:	:
 Diskar	nkfn	diskur
@@ -1188,19 +1119,16 @@ ABS	as	ABS
 og	c	og
 EBD	as	EBD
 .	.	.
-
 Verð	nhen	verð
 :	:	:
 Líklega	aa	líklega
 um	aa	um
 1.495.000	ta	1.495.000
 kr.	as	kr.
-
 Umboð	nhen	umboð
 :	:	:
 Hekla	nven-s	Hekla
 hf.	as	hf.
-
 SKÖMMU	lheþsf	skammur
 áður	aa	áður
 en	c	en
@@ -1233,7 +1161,6 @@ frumsýna	sng	frumsýna
 á	aþ	á
 sýningunni	nveþg	sýning
 .	.	.
-
 Carlos	e	Carlos
 Ghosn	e	Ghosn
 ,	,	,
@@ -1251,7 +1178,6 @@ sem	c	sem
 komið	sþghen	koma
 er	sfg3en	vera
 .	.	.
-
 Öruggt	lhensf	öruggur
 er	sfg3en	vera
 að	c	að
@@ -1269,7 +1195,6 @@ innan	ae	innan
 tveggja	tfhfe	tveir
 ára	nhfe	ár
 .	.	.
-
 Eins	aa	eins
 og	c	og
 fyrri	lvfnvm	fyrri
@@ -1293,7 +1218,6 @@ mest	aae	mikið
 á	ao	á
 Ferrari	e	Ferrari
 .	.	.
-
 Nissan	e	Nissan
 gaf	sfg3eþ	gefa
 ekki	aa	ekki
@@ -1306,7 +1230,6 @@ væri	svg3eþ	vera
 í	aþ	í
 bílnum	nkeþg	bíll
 .	.	.
-
 Heyrst	ssm	heyra
 hefur	sfg3en	hafa
 að	c	að
@@ -1342,7 +1265,6 @@ auk	ae	auk
 þess	fphee	það
 veggripið	nheog	veggrip
 .	.	.
-
 Með	aþ	með
 þessu	faheþ	þessi
 móti	nheþ	mót
@@ -1360,7 +1282,6 @@ hámarksafl	nheo	hámarksafl
 frá	aþ	frá
 bensínvélum	nvfþ	bensínvél
 .	.	.
-
 Hugsanlegt	lhensf	hugsanlegur
 er	sfg3en	vera
 talið	sþghen	telja
@@ -1386,7 +1307,6 @@ yfir	aa	yfir
 400	ta	400
 hestafla	nhfe	hestafl
 .	.	.
-
 Bíllinn	nkeng	bíll
 verður	sfg3en	verða
 með	aþ	með
@@ -1407,11 +1327,9 @@ sjö	tfkfe	sjö
 hraða	nkfe	hraði
 CVT-reimskiptingu	nveþ	CVT-reimskipting
 .	.	.
-
 júlí	nkeo	júlí
 1933	ta	1933
 .	.	.
-
 Hún	fpven	hún
 lést	sfm3eþ	láta
 á	aþ	á
@@ -1422,7 +1340,6 @@ Kópavogi	nkeþ-s	Kópavogur
 16.	ta	16.
 nóvember	nkeo	nóvember
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 dóttir	nven	dóttir
@@ -1451,7 +1368,6 @@ d.	as	d.
 4.4.	ta	4.4.
 1971	ta	1971
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 ein	tfven	einn
@@ -1459,7 +1375,6 @@ ein	tfven	einn
 barna	nhfe	barn
 þeirra	fphfe	það
 .	.	.
-
 Systkini	nhfn	systkini
 Lilju	nvee-s	Lilja
 eru	sfg3fn	vera
@@ -1489,7 +1404,6 @@ eiga	sfg3fn	eiga
 þrjú	tfhfo	þrír
 börn	nhfo	barn
 .	.	.
-
 Ólafía	nven-s	Ólafía
 Auðunsdóttir	nven-s	Auðunsdóttir
 ,	,	,
@@ -1509,7 +1423,6 @@ eiga	sfg3fn	eiga
 tvo	tfkfo	tveir
 syni	nkfo	sonur
 .	.	.
-
 Lilja	nven-s	Lilja
 kvæntist	sfm3eþ	kvænast
 10.7.	ta	10.7.
@@ -1521,7 +1434,6 @@ f.	as	f.
 23.8.	ta	23.8.
 1927	ta	1927
 .	.	.
-
 Þeirra	fphfe	það
 börn	nhfn	barn
 eru	sfg3fn	vera
@@ -1566,7 +1478,6 @@ f.	as	f.
 21.7.	ta	21.7.
 1999	ta	1999
 .	.	.
-
 Kristján	nken-s	Kristján
 Eðvald	nken-s	Eðvald
 Torp	nken-s	Torp
@@ -1598,7 +1509,6 @@ f.	as	f.
 1.1.	ta	1.1.
 2000	ta	2000
 .	.	.
-
 Fyrstu	lhfove	fyrstur
 uppvaxtarár	nhfo	uppvaxtarár
 ævi	nvee	ævi
@@ -1616,7 +1526,6 @@ með	aþ	með
 foreldrum	nkfþ	foreldrar
 sínum	fekfþ	sinn
 .	.	.
-
 Lilja	nven-s	Lilja
 lauk	sfg3eþ	ljúka
 námi	nheþ	nám
@@ -1631,7 +1540,6 @@ Fósturskóla	nkeþ-s	Fósturskóli
 Íslands	nhee-s	Ísland
 1960	ta	1960
 .	.	.
-
 Einnig	aa	einnig
 sótti	sfg3eþ	sækja
 hún	fpven	hún
@@ -1649,7 +1557,6 @@ hin	ghfo	hinn
 síðustu	lhfove	síðari
 ár	nhfo	ár
 .	.	.
-
 Lilja	nven-s	Lilja
 starfaði	sfg3eþ	starfa
 sem	c	sem
@@ -1662,7 +1569,6 @@ leikskólum	nkfþ	leikskóli
 Dagvistar	nvee-s	Dagvist
 barna	nhfe	barn
 .	.	.
-
 Útför	nven	útför
 Lilju	nvee-s	Lilja
 fer	sfg3en	fara
@@ -1683,7 +1589,6 @@ athöfnin	nveng	athöfn
 kl.	as	kl.
 13.30	ta	13.30
 .	.	.
-
 Ef	c	ef
 Jesú	nken-s	Jesús
 að	aþ	að
@@ -1698,7 +1603,6 @@ Honum	fpkeþ	hann
 á	aa	á
 móti	aþ	móti
 .	.	.
-
 (	(	(
 12.	ta	12.
 sálmur	nken	sálmur
@@ -1722,7 +1626,6 @@ A.	as	A.
 Torp	nven-s	Torp
 kveður	sfg3en	kveðja
 .	.	.
-
 Fyrst	aae	fyrr
 man	sfg1en	muna
 ég	fp1en	ég
@@ -1753,7 +1656,6 @@ dóttir	nven	dóttir
 þessara	fahfe	þessi
 heiðurshjóna	nhfe	heiðurshjón
 .	.	.
-
 Þegar	c	þegar
 ég	fp1en	ég
 kynntist	sfm1eþ	kynna
@@ -1770,7 +1672,6 @@ Tungu	nveo-s	Tunga
 á	aþ	á
 Suðurlandsbraut	nveþ-s	Suðurlandsbraut
 .	.	.
-
 Á	ao	á
 kvöldin	nhfog	kvöld
 gerði	sfg3eþ	gera
@@ -1795,7 +1696,6 @@ voru	sfg3fþ	vera
 10	ta	10
 alls	fohee	allur
 .	.	.
-
 Einhver	fohfn	einhver
 þeirra	fphfe	það
 voru	sfg3fþ	vera
@@ -1849,7 +1749,6 @@ síðar	aam	síðar
 á	aþ	á
 ævinni	nveþg	ævi
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 mikið	aa	mikið
@@ -1874,7 +1773,6 @@ Laugavegurinn	nkengs	Laugavegur
 í	aþ	í
 þjóðbraut	nveþ	þjóðbraut
 .	.	.
-
 Síðar	aam	síðar
 -	-	-
 miklu	lheþsf	mikill
@@ -1895,7 +1793,6 @@ var	sfg3eþ	vera
 Laugavegi	nkeþ-s	Laugavegur
 5	ta	5
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 þá	aa	þá
@@ -1914,7 +1811,6 @@ hláturmild	lvensf	hláturmildur
 og	c	og
 forðum	aa	forðum
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 einnig	aa	einnig
@@ -1926,7 +1822,6 @@ Páli	nkeþ-s	Páll
 Torp	nkeþ-s	Torpur
 stýrimanni	nkeþ	stýrimaður
 .	.	.
-
 Ég	fp1en	ég
 falaðist	sfm1eþ	fala
 eftir	aþ	eftir
@@ -1937,7 +1832,6 @@ starfa	nhfe	starf
 leikskólanum	nkeþg	leikskóli
 Tjarnarborg	nveþ-s	Tjarnarborg
 .	.	.
-
 Heppnin	nveng	heppni
 var	sfg3eþ	vera
 með	aþ	með
@@ -1974,7 +1868,6 @@ fyrir	ao	fyrir
 tíma	nkeo	tími
 húsverndunar	nvee	húsverndun
 .	.	.
-
 Lilja	nven-s	Lilja
 var	sfg3eþ	vera
 sérlega	aa	sérlega
@@ -1993,7 +1886,6 @@ og	c	og
 þakklæti	nheo	þakklæti
 fyrir	aa	fyrir
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 óþrjótandi	lvenof	óþrjótandi
@@ -2018,7 +1910,6 @@ skemmtu	sfg3fþ	skemmta
 sér	fphfþ	sig
 við	aa	við
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 mörgum	lkfþsf	margur
@@ -2046,7 +1937,6 @@ og	c	og
 störfum	nhfþ	starf
 hennar	fpvee	hún
 .	.	.
-
 Hún	fpven	hún
 lá	sfg3eþ	liggja
 ekki	aa	ekki
@@ -2064,7 +1954,6 @@ barnanna	nhfeg	barn
 og	c	og
 umönnun	nveo	umönnun
 .	.	.
-
 Gleði	nven	gleði
 hennar	fpvee	hún
 og	c	og
@@ -2073,7 +1962,6 @@ réði	sfg3eþ	ráða
 þar	aa	þar
 ferðinni	nveþg	ferð
 .	.	.
-
 Við	fp1fn	ég
 nutum	sfg1fþ	njóta
 að	cn	að
@@ -2104,7 +1992,6 @@ og	c	og
 margt	lhensf	margur
 fleira	lhenvm	margur
 .	.	.
-
 En	c	en
 svo	aa	svo
 kom	sfg3eþ	koma
@@ -2124,7 +2011,6 @@ bryta	nkeo	bryti
 eitt	tfheo	einn
 Sambandsskipanna	nhfe-s	Sambandsskipanna
 .	.	.
-
 Ég	fp1en	ég
 hafði	sfg1eþ	hafa
 ekkert	foheo	enginn
@@ -2134,7 +2020,6 @@ sem	c	sem
 yfirbauð	sfg3eþ	yfirbjóða
 slíkt	fbheo	slíkur
 .	.	.
-
 Ég	fp1en	ég
 minnist	sfm1en	minna
 þess	fphee	það
@@ -2156,7 +2041,6 @@ sögðu	sfg3fþ	segja
 við	ao	við
 hana	fpveo	hún
 :	:	:
-
 Það	fphen	það
 er	sfg3en	vera
 tvennt	lhensf	tvennur
@@ -2171,7 +2055,6 @@ en	c	en
 hefur	sfg2en	hefja
 störf	nhfo	starf
 .	.	.
-
 Þú	fp2en	þú
 þarft	sfg2en	þurfa
 að	cn	að
@@ -2210,7 +2093,6 @@ með	aþ	með
 til	ae	til
 suðurs	nhee	suður
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 alveg	aa	alveg
@@ -2270,7 +2152,6 @@ leikskólastjóri	nken	leikskólastjóri
 tveimur	tfvfþ	tveir
 borgum	nvfþ	borg
 .	.	.
-
 Lilja	nven-s	Lilja
 var	sfg3eþ	vera
 sístarfandi	slg	sístarfa
@@ -2283,7 +2164,6 @@ tarotspil	nhfo	tarotspil
 ,	,	,
 sálarrannsóknir	nvfo	sálarrannsókn
 o.f.l.	as	o.f.l.
-
 Þar	aa	þar
 lágu	sfg3fþ	liggja
 starfssvið	nhfn	starfssvið
@@ -2307,7 +2187,6 @@ kenna	sng	kenna
 áhugamál	nhfo	áhugamál
 sín	fehfo	sinn
 .	.	.
-
 En	c	en
 þessi	fahfn	þessi
 mál	nhfn	mál
@@ -2321,7 +2200,6 @@ sýndi	sfg3eþ	sýna
 dugnað	nkeo	dugnaður
 hennar	fpvee	hún
 .	.	.
-
 En	c	en
 sólargeislarnir	nkfng	sólargeisli
 sem	ct	sem
@@ -2337,7 +2215,6 @@ voru	sfg3fþ	vera
 börnin	nhfng	barn
 þeirra	fphfe	það
 .	.	.
-
 Þau	fphfn	það
 eru	sfg3fn	vera
 Elísabet	nven-s	Elísabet
@@ -2346,7 +2223,6 @@ og	c	og
 Kristján	nken-s	Kristján
 Eðvald	nken-s	Eðvald
 .	.	.
-
 Það	fphen	það
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -2364,7 +2240,6 @@ og	c	og
 litlu	lhfovf	lítill
 barnabörnin	nhfog	barnabarn
 .	.	.
-
 Börnin	nhfng	barn
 hafa	sfg3fn	hafa
 líka	aa	líka
@@ -2388,7 +2263,6 @@ rík	lvensf	ríkur
 þessari	faveþ	þessi
 fjölskyldu	nveþ	fjölskylda
 .	.	.
-
 Ég	fp1en	ég
 sendi	sfg1en	senda
 Páli	nkeþ-s	Páll
@@ -2403,7 +2277,6 @@ mínar	fevfo	minn
 dýpstu	lvfove	djúpur
 samúðarkveðjur	nvfo	samúðarkveðja
 .	.	.
-
 Elín	nven-s	Elín
 Torfadóttir	nven-s	Torfadóttir
 Tíminn	nkeng	tími
@@ -2433,7 +2306,6 @@ festa	sng	festa
 þeim	fpvfþ	hún
 hendur	nvfo	hönd
 .	.	.
-
 Vinátta	nven	vinátta
 okkar	fp1fe	ég
 Lilju	nvee-s	Lilja
@@ -2457,7 +2329,6 @@ um	ao	um
 verslunarmannahelgina	nveog	verslunarmannahelgi
 1958	ta	1958
 .	.	.
-
 Það	fahen	sá
 sumarleyfi	nhen	sumarleyfi
 og	c	og
@@ -2476,7 +2347,6 @@ saga	nven	saga
 rakin	sþgven	rekja
 hér	aa	hér
 .	.	.
-
 Þetta	fahen	þessi
 haust	nhen	haust
 var	sfg1eþ	vera
@@ -2494,7 +2364,6 @@ stefndi	sfg3eþ	stefna
 á	ao	á
 húsmæðrakennaranám	nheo	húsmæðrakennaranám
 .	.	.
-
 Páll	nken-s	Páll
 maður	nken	maður
 Lilju	nvee-s	Lilja
@@ -2531,7 +2400,6 @@ okkar	fp1fe	ég
 bar	sfg3eþ	bera
 saman	aa	saman
 .	.	.
-
 Okkur	fp1fþ	ég
 varð	sfg3eþ	verða
 strax	aa	strax
@@ -2571,7 +2439,6 @@ Fóstruskólann	nkeogs	Fóstruskóli
 um	ao	um
 haustið	nheog	haust
 .	.	.
-
 Lilja	nven-s	Lilja
 sagði	sfg3eþ	segja
 oft	aa	oft
@@ -2599,7 +2466,6 @@ Elísabetu	nveo-s	Elísabet
 og	c	og
 Kristján	nkeo-s	Kristján
 .	.	.
-
 Þessu	faheþ	þessi
 er	sfg1en	vera
 ég	fp1en	ég
@@ -2625,7 +2491,6 @@ starfsferli	nkeþ	starfsferill
 ,	,	,
 sammála	lvenof	sammála
 .	.	.
-
 Hún	fpven	hún
 hafði	sfg3eþ	hafa
 til	ae	til
@@ -2661,7 +2526,6 @@ vegi	nkeþ	vegur
 hennar	fpvee	hún
 urðu	sfg3fþ	verða
 .	.	.
-
 Lilja	nven-s	Lilja
 hafði	sfg3eþ	hafa
 sérgáfu	nveo	sérgáfa
@@ -2675,7 +2539,6 @@ sem	ct	sem
 var	sfg3eþ	vera
 hulið	lhensf	hulinn
 .	.	.
-
 Sem	c	sem
 barn	nhen	barn
 sá	sfg3eþ	sjá
@@ -2706,7 +2569,6 @@ rugl	nhen	rugl
 og	c	og
 ímyndun	nven	ímyndun
 .	.	.
-
 Margar	lvfosf	margur
 þessar	favfo	þessi
 æsku-	nvee	æska
@@ -2751,7 +2613,6 @@ trúi	sfg1en	trúa
 öllu	foheþ	allur
 fastlega	aa	fastlega
 .	.	.
-
 Lilju	nveo-s	Lilja
 stóð	sfg1eþ	standa
 ég	fp1en	ég
@@ -2777,7 +2638,6 @@ firra	sng	firra
 okkur	fp1fo	ég
 vandræðum	nhfþ	vandræði
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 ákaflega	aa	ákaflega
@@ -2816,7 +2676,6 @@ fegurð	nveo	fegurð
 fjölbreyttustu	lkfþve	fjölbreyttur
 hlutum	nkfþ	hlutur
 .	.	.
-
 Kom	sfg3eþ	koma
 hún	fpven	hún
 mér	fp1eþ	ég
@@ -2848,7 +2707,6 @@ hugann	nkeog	hugi
 að	aa	að
 áður	aa	áður
 .	.	.
-
 Margir	lkfnsf	margur
 ,	,	,
 þ.á.m.	as	þ.á.m.
@@ -2877,7 +2735,6 @@ var	sfg3eþ	vera
 öðru	foheþ	annar
 nær	aþm	nær
 .	.	.
-
 Við	fp1fn	ég
 lásum	sfg1fþ	lesa
 oft	aa	oft
@@ -2908,7 +2765,6 @@ og	c	og
 síðar	aam	síðar
 meir	aam	meir
 .	.	.
-
 Hún	fpven	hún
 gat	sfg3eþ	geta
 ekki	aa	ekki
@@ -2923,7 +2779,6 @@ og	c	og
 tvöföldum	lhfþsf	tvöfaldur
 samhljóðum	nhfþ	samhljóð
 .	.	.
-
 Öll	fohfn	allur
 ypsilon	nhfn	ypsilon
 voru	sfg3fþ	vera
@@ -2964,7 +2819,6 @@ að	aþ	að
 hálfgerðu	lheþsf	hálfgerður
 rúnaletri	nheþ	rúnaletur
 .	.	.
-
 Að	aþ	að
 þessu	faheþ	þessi
 hlógum	sfg1fþ	hlæja
@@ -2973,7 +2827,6 @@ oft	aa	oft
 seinna	aam	seint
 meir	aam	meir
 .	.	.
-
 Nei	au	nei
 ,	,	,
 það	fphen	það
@@ -2987,7 +2840,6 @@ en	c	en
 ekki	aa	ekki
 öfugt	lhensf	öfugur
 .	.	.
-
 Hún	fpven	hún
 kenndi	sfg3eþ	kenna
 mér	fp1eþ	ég
@@ -3019,7 +2871,6 @@ atferli	nheþ	atferli
 sínu	feheþ	sinn
 öllu	foheþ	allur
 .	.	.
-
 Dulrænir	lkfnsf	dulrænn
 hæfileikar	nkfn	hæfileiki
 yfirgáfu	sfg3fþ	yfirgefa
@@ -3044,7 +2895,6 @@ fyrir	aþ	fyrir
 þeim	fpkfþ	hann
 aftur	aa	aftur
 .	.	.
-
 Hún	fpven	hún
 tók	sfg3eþ	taka
 sig	fpveo	sig
@@ -3067,7 +2917,6 @@ rækt	nveo	rækt
 við	ao	við
 þá	fpkfo	hann
 .	.	.
-
 Fór	sfg3eþ	fara
 í	ao	í
 Sálarrannsóknarskólann	nkeogs	Sálarrannsóknarskóli
@@ -3089,16 +2938,13 @@ um	ao	um
 andleg	lhfosf	andlegur
 efni	nhfo	efni
 .	.	.
-
 Einnig	aa	einnig
 lagði	sfg3eþ	leggja
 hún	fpven	hún
 stund	nveo	stund
 á	ao	á
-
 Art	e	Art
 Therapy	e	Therapy
-
 (	(	(
 listmeðferð	nveo	listmeðferð
 )	)	)
@@ -3136,7 +2982,6 @@ og	c	og
 vita	sng	vita
 það	fpheo	það
 .	.	.
-
 Tjáði	sfg3eþ	tjá
 sig	fpveo	sig
 með	aþ	með
@@ -3157,7 +3002,6 @@ hið	gheo	hinn
 var	sfg3eþ	vera
 náð	sþghen	ná
 .	.	.
-
 Að	cn	að
 skrifa	sng	skrifa
 þessar	favfo	þessi
@@ -3168,7 +3012,6 @@ mér	fp1eþ	ég
 erfitt	lhensf	erfiður
 verk	nhen	verk
 .	.	.
-
 Sumar	fovfn	sumur
 minningar	nvfn	minning
 um	ao	um
@@ -3195,7 +3038,6 @@ koma	sng	koma
 á	ao	á
 blað	nheo	blað
 .	.	.
-
 Bláu	lhfnvf	blár
 augun	nhfng	auga
 hennar	fpvee	hún
@@ -3220,13 +3062,11 @@ fram	aa	fram
 í	aþ	í
 einrúmi	nheþ	einrúm
 .	.	.
-
 Blessuð	lvensf	blessaður
 sé	svg3en	vera
 minning	nven	minning
 hennar	fpvee	hún
 .	.	.
-
 Palla	nkeþ-s	Palli
 ,	,	,
 Elísabetu	nveþ-s	Elísabet
@@ -3244,7 +3084,6 @@ okkar	fp1fe	ég
 innilegustu	lvfove	innilegur
 samúðarkveðjur	nvfo	samúðarkveðja
 .	.	.
-
 Ragnheiður	nven-s	Ragnheiður
 G.	as	G.
 Haraldsdóttir	nven-s	Haraldsdóttir
@@ -3252,7 +3091,6 @@ Haraldsdóttir	nven-s	Haraldsdóttir
 Rúrí	nven-s	Rúrí
 )	)	)
 .	.	.
-
 Mig	fp1eo	ég
 langar	sfg3en	langa
 með	aþ	með
@@ -3268,10 +3106,8 @@ sem	ct	sem
 lést	sfm3eþ	láta
 16.11	ta	16.11
 .	.	.
-
 2000	ta	2000
 .	.	.
-
 Allt	fohen	allur
 frá	aþ	frá
 því	fpheþ	það
@@ -3287,7 +3123,6 @@ af	aþ	af
 mínu	feheþ	minn
 lífi	nheþ	líf
 .	.	.
-
 Ekki	aa	ekki
 voru	sfg3fþ	vera
 haldin	sþghfn	halda
@@ -3308,7 +3143,6 @@ hennar	fpvee	hún
 nyti	svg3eþ	njóta
 við	aa	við
 .	.	.
-
 Alltaf	aa	alltaf
 vorum	sfg1fþ	vera
 við	fp1fn	ég
@@ -3323,7 +3157,6 @@ hjóna	nhfe	hjón
 Vesturbergi	nheþ-s	Vesturberg
 193	ta	193
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 pláss	nhen	pláss
@@ -3349,7 +3182,6 @@ hjá	aþ	hjá
 okkur	fp1fþ	ég
 flestum	lhfþse	margur
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 umkringd	lvensf	umkringdur
@@ -3368,7 +3200,6 @@ alla	fokfo	allur
 kringum	ao	kringum
 sig	fpveo	sig
 .	.	.
-
 Kæra	lvenvf	kær
 Lilja	nven-s	Lilja
 ,	,	,
@@ -3404,7 +3235,6 @@ ert	sfg2en	vera
 á	aa	á
 núna	aa	núna
 .	.	.
-
 Elsku	nvee	elska
 Palli	nken-s	Palli
 ,	,	,
@@ -3439,7 +3269,6 @@ ekki	aa	ekki
 hjá	aþ	hjá
 ykkur	fp2fþ	þú
 .	.	.
-
 Ég	fp1en	ég
 bið	sfg1en	biðja
 og	c	og
@@ -3459,7 +3288,6 @@ missi	nkeo	missir
 og	c	og
 söknuð	nkeo	söknuður
 .	.	.
-
 Kritsinn	x	Kristinn
 Sigurðsson	nken-s	Sigurðsson
 ,	,	,
@@ -3467,7 +3295,6 @@ Glostrup	e	Glostrup
 ,	,	,
 Danmörku	nveþ-s	Danmörk
 .	.	.
-
 Hún	fpven	hún
 Lilja	nven-s	Lilja
 okkar	fp1fe	ég
@@ -3481,7 +3308,6 @@ ljóssins	nheeg	ljós
 og	c	og
 birtunnar	nveeg	birta
 .	.	.
-
 Þessi	faven	þessi
 duglega	lvenvf	duglegur
 og	c	og
@@ -3496,7 +3322,6 @@ og	c	og
 langa	lveosf	langur
 sjúkdómslegu	nveo	sjúkdómslega
 .	.	.
-
 Hún	fpven	hún
 sem	ct	sem
 átti	sfg3eþ	eiga
@@ -3505,7 +3330,6 @@ margt	lheosf	margur
 að	cn	að
 gefa	sng	gefa
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 gæfa	nven	gæfa
@@ -3531,7 +3355,6 @@ er	sfg3en	vera
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 Við	fp1fn	ég
 fengum	sfg1fþ	fá
 svo	aa	svo
@@ -3558,7 +3381,6 @@ fyrir	aþ	fyrir
 27	ta	27
 árum	nhfþ	ár
 .	.	.
-
 Hún	fpven	hún
 unni	sfg3eþ	unna
 félaginu	nheþg	félag
@@ -3577,7 +3399,6 @@ hinum	gvfþ	hinn
 ýmsu	fovfþ	ýmis
 nefndum	nvfþ	nefnd
 .	.	.
-
 Það	fphen	það
 væri	svg3eþ	vera
 of	aa	of
@@ -3599,7 +3420,6 @@ okkur	fp1fþ	ég
 þeim	fahfþ	sá
 efnum	nhfþ	efni
 .	.	.
-
 Við	fp1fn	ég
 búum	sfg1fn	búa
 allar	fovfn	allur
@@ -3609,7 +3429,6 @@ um	ao	um
 ókomna	lveosf	ókominn
 tíð	nveo	tíð
 .	.	.
-
 Heimili	nhen	heimili
 hennar	fpvee	hún
 og	c	og
@@ -3630,7 +3449,6 @@ af	aþ	af
 ýmsu	foheþ	ýmis
 tagi	nheþ	tag
 .	.	.
-
 Og	c	og
 svo	aa	svo
 kom	sfg3eþ	koma
@@ -3648,7 +3466,6 @@ var	sfg3eþ	vera
 undirlagður	sþgken	undirleggja
 líka	aa	líka
 .	.	.
-
 Lilja	nven-s	Lilja
 var	sfg3eþ	vera
 svo	aa	svo
@@ -3656,7 +3473,6 @@ svo	aa	svo
 hugmyndarík	lvensf	hugmyndaríkur
 kona	nven	kona
 .	.	.
-
 Alltaf	aa	alltaf
 var	sfg3eþ	vera
 hún	fpven	hún
@@ -3676,7 +3492,6 @@ setja	sng	setja
 á	ao	á
 svið	nheo	svið
 .	.	.
-
 Síðasta	lhenve	síðari
 hlutverkið	nheng	hlutverk
 sem	ct	sem
@@ -3705,7 +3520,6 @@ gríni	nheþ	grín
 og	c	og
 glensi	nheþ	glens
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 afskaplega	aa	afskaplega
@@ -3724,7 +3538,6 @@ umhyggju	nveo	umhyggja
 og	c	og
 kærleik	nkeo	kærleikur
 .	.	.
-
 Mér	fp1eþ	ég
 er	sfg3en	vera
 efst	aae	ofar
@@ -3746,7 +3559,6 @@ af	aþ	af
 því	fpheþ	það
 leiddi	sfg3eþ	leiða
 .	.	.
-
 Ég	fp1en	ég
 kveð	sfg1en	kveðja
 þig	fp2eo	þú
@@ -3758,14 +3570,12 @@ ljóði	nheþ	ljóð
 Guðmundar	nkee-s	Guðmundur
 Böðvarssonar	nkee-s	Böðvarsson
 .	.	.
-
 Á	aþ	á
 himni	nkeþ	himinn
 sínum	fekeþ	sinn
 hækkar	sfg3en	hækka
 sól	nven	sól
 .	.	.
-
 Um	ao	um
 heiðblá	lhfosf	heiðblár
 loft	nhfo	loft
@@ -3789,7 +3599,6 @@ mjúku	lveovf	mjúkur
 hljóðu	lveovf	hljóður
 gröf	nveo	gröf
 .	.	.
-
 Og	c	og
 hljóta	sng	hljóta
 loks	aa	loks
@@ -3823,13 +3632,11 @@ aðra	fokfo	annar
 erfiðu	lveþvf	erfiður
 stund	nveþ	stund
 .	.	.
-
 Fyrir	ao	fyrir
 hönd	nveo	hönd
 Kvenfélagsins	nheegs	Kvenfélag
 Fjallkonur	nvfn-s	Fjallkona
 .	.	.
-
 Jóhanna	nven-s	Jóhanna
 Gunnarsdóttir	nven-s	Gunnarsdóttir
 Mig	fp1eo	ég
@@ -3846,7 +3653,6 @@ Lilju	nveo-s	Lilja
 Torp	nveo-s	Torp
 leikskólakennara	nkeo	leikskólakennari
 .	.	.
-
 Minningarnar	nvfng	minning
 sem	ct	sem
 ég	fp1en	ég
@@ -3862,7 +3668,6 @@ kynnst	ssm	kynna
 eru	sfg3fn	vera
 margar	lvfnsf	margur
 .	.	.
-
 Ég	fp1en	ég
 kynntist	sfm1eþ	kynna
 Lilju	nveþ-s	Lilja
@@ -3882,7 +3687,6 @@ forstöðukona	nven	forstöðukona
 skóladagheimilinu	nheþg	skóladagheimili
 Hraunkoti	nheþ-s	Hraunkot
 .	.	.
-
 Við	fp1fn	ég
 unnum	sfg1fþ	vinna
 saman	aa	saman
@@ -3893,7 +3697,6 @@ var	sfg3eþ	vera
 lokað	sþghen	loka
 1997	ta	1997
 .	.	.
-
 Þvílík	fbven	þvílíkur
 kona	nven	kona
 ,	,	,
@@ -3915,7 +3718,6 @@ heimilinu	nheþg	heimili
 elskuðu	sfg3fþ	elska
 hana	fpveo	hún
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 mikil	lvensf	mikill
@@ -3931,7 +3733,6 @@ föndraði	sfg3eþ	föndra
 heilu	lhfovf	heill
 listaverkin	nhfog	listaverk
 .	.	.
-
 Oft	aa	oft
 fórum	sfg1fþ	fara
 við	fp1fn	ég
@@ -3981,7 +3782,6 @@ Sonja	nven-s	Sonja
 og	c	og
 Solla	nven-s	Solla
 .	.	.
-
 Elsku	nvee	elska
 Lilja	nven-s	Lilja
 ,	,	,
@@ -4014,7 +3814,6 @@ fimmtán	tfhfe	fimmtán
 ára	nhfe	ár
 skeið	nheo	skeið
 .	.	.
-
 Eiginmanni	nkeþ	eiginmaður
 Lilju	nvee-s	Lilja
 ,	,	,
@@ -4040,7 +3839,6 @@ ykkur	fp2fo	þú
 miklu	lveþvf	mikill
 sorg	nveþ	sorg
 .	.	.
-
 Ef	c	ef
 Jesú	nken-s	Jesús
 að	aþ	að
@@ -4055,7 +3853,6 @@ Honum	fpkeþ	hann
 á	aa	á
 móti	aþ	móti
 .	.	.
-
 (	(	(
 12.	ta	12.
 sálmur	nken	sálmur
@@ -4066,7 +3863,6 @@ Pétursson	nken-s	Pétursson
 )	)	)
 Sólveig	nven-s	Sólveig
 .	.	.
-
 Lilja	nven-s	Lilja
 mín	feven	minn
 ,	,	,
@@ -4087,7 +3883,6 @@ höfðum	sfg1fþ	hafa
 öll	fohfn	allur
 óskað	ssg	óska
 .	.	.
-
 Ég	fp1en	ég
 veit	sfg1en	vita
 ekki	aa	ekki
@@ -4115,7 +3910,6 @@ mikið	lheosf	mikill
 fyrir	ao	fyrir
 mig	fp1eo	ég
 .	.	.
-
 Ég	fp1en	ég
 sagði	sfg1eþ	segja
 þér	fp2eþ	þú
@@ -4130,12 +3924,10 @@ segi	sfg1en	segja
 þá	aa	þá
 núna	aa	núna
 .	.	.
-
 Þú	fp2en	þú
 varst	sfg2eþ	vera
 frábær	lvensf	frábær
 !	!	!
-
 Mig	fp1eo	ég
 langaði	sfg3eþ	langa
 til	ae	til
@@ -4169,7 +3961,6 @@ svo	aa	svo
 alltof	aa	alltof
 fá	lhfnsf	fár
 .	.	.
-
 Ég	fp1en	ég
 sakna	sfg1en	sakna
 þín	fp2ee	þú
@@ -4181,7 +3972,6 @@ einhverra	fokfe	einhver
 hluta	nkfe	hlutur
 vegna	ae	vegna
 .	.	.
-
 Í	aþ	í
 fyrsta	lheþve	fyrstur
 lagi	nheþ	lag
@@ -4241,7 +4031,6 @@ mig	fp1eo	ég
 vantar	sfg3en	vanta
 leiðsögn	nveo	leiðsögn
 ?	?	?
-
 Hver	fsken	hver
 á	sfg3en	eiga
 núna	aa	núna
@@ -4251,7 +4040,6 @@ mér	fp1eþ	ég
 góð	lhfosf	góður
 ráð	nhfo	ráð
 ?	?	?
-
 Þú	fp2en	þú
 varst	sfg2eþ	vera
 svo	aa	svo
@@ -4272,7 +4060,6 @@ sem	c	sem
 þú	fp2en	þú
 komst	sfg2eþ	koma
 .	.	.
-
 Batterí	nhen	batterí
 sem	ct	sem
 aldrei	aa	aldrei
@@ -4291,7 +4078,6 @@ við	aþ	við
 heimsins	nkeeg	heimur
 spurningum	nvfþ	spurning
 .	.	.
-
 Takk	au	takk
 fyrir	ao	fyrir
 allt	foheo	allur
@@ -4301,7 +4087,6 @@ og	c	og
 mínu	feheþ	minn
 fólki	nheþ	fólk
 .	.	.
-
 Ólafur	nken-s	Ólafur
 Páll	nken-s	Páll
 Gunnarsson	nken-s	Gunnarsson
@@ -4317,7 +4102,6 @@ með	aþ	með
 nokkrum	fohfþ	nokkur
 orðum	nhfþ	orð
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 árið	nheog	ár
@@ -4340,7 +4124,6 @@ yfir	ao	yfir
 móðuna	nveog	móða
 miklu	lveovf	mikill
 .	.	.
-
 Við	fp1fn	ég
 áttum	sfg1fþ	eiga
 margar	lvfosf	margur
@@ -4354,7 +4137,6 @@ var	sfg3eþ	vera
 mikið	aa	mikið
 brallað	sþghen	bralla
 .	.	.
-
 Eitt	foheo	einn
 sinn	nheo	sinn
 voru	sfg3fþ	vera
@@ -4368,7 +4150,6 @@ sumarbústaðnum	nkeþg	sumarbústaður
 um	ao	um
 Jónsmessuna	nveogs	Jónsmessa
 .	.	.
-
 Lilja	nven-s	Lilja
 skrapp	sfg3eþ	skreppa
 á	ao	á
@@ -4383,7 +4164,6 @@ og	c	og
 keypti	sfg3eþ	kaupa
 lax	nkeo	lax
 .	.	.
-
 Um	ao	um
 kvöldið	nheog	kvöld
 sagði	sfg3eþ	segja
@@ -4405,11 +4185,9 @@ laxinn	nkeog	lax
 í	aþ	í
 Skorradalsvatni	nheþ-s	Skorradalsvatn
 .	.	.
-
 Viti	svg3fn	vita
 menn	nkfn	maður
 .	.	.
-
 Daginn	nkeog	dagur
 eftir	aa	eftir
 sáum	sfg1fþ	sjá
@@ -4428,7 +4206,6 @@ veiðistangir	nvfo	veiðistöng
 í	aþ	í
 veiðihug	nkeþ	veiðihugur
 .	.	.
-
 Við	fp1fn	ég
 stóðum	sfg1fþ	standa
 við	ao	við
@@ -4448,21 +4225,18 @@ vatninu	nheþg	vatn
 mörg	lhfosf	margur
 ár	nhfo	ár
 .	.	.
-
 Þarna	aa	þarna
 var	sfg3eþ	vera
 Lilju	nveþ-s	Lilja
 rétt	aa	rétt
 lýst	sþghen	lýsa
 .	.	.
-
 Kímnigáfan	nveng	kímnigáfa
 var	sfg3eþ	vera
 aldrei	aa	aldrei
 langt	aa	langt
 undan	aa	undan
 .	.	.
-
 Í	ao	í
 annað	foheo	annar
 skipti	nheo	skipti
@@ -4475,7 +4249,6 @@ Skorradalnum	nkeþgs	Skorradalur
 mikilli	lveþsf	mikill
 afmælisveislu	nveþ	afmælisveisla
 .	.	.
-
 Í	aþ	í
 hópnum	nkeþg	hópur
 voru	sfg3fþ	vera
@@ -4489,7 +4262,6 @@ meðal	aa	meðal
 sonur	nken	sonur
 minn	feken	minn
 .	.	.
-
 Lilja	nven-s	Lilja
 dreif	sfg3eþ	drífa
 allan	fokeo	allur
@@ -4501,7 +4273,6 @@ Hreppslaugina	nveogs	Hreppslaug
 í	ao	í
 sund	nheo	sund
 .	.	.
-
 Sundlaugarvörðurinn	nkeng	sundlaugarvörður
 spurði	sfg3eþ	spyrja
 hvort	c	hvort
@@ -4532,7 +4303,6 @@ frítt	aa	frítt
 oní	ao	oní
 laugina	nveog	laug
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 svo	aa	svo
@@ -4550,7 +4320,6 @@ engan	fokeo	enginn
 sinn	fekeo	sinn
 líka	nkeo	líki
 .	.	.
-
 Lilja	nven-s	Lilja
 var	sfg3eþ	vera
 mikil	lvensf	mikill
@@ -4562,7 +4331,6 @@ allt	fohen	allur
 höndum	nvfþ	hönd
 hennar	fpvee	hún
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 gömul	lvensf	gamall
@@ -4581,7 +4349,6 @@ með	aþ	með
 Palla	nkeþ-s	Palli
 sínum	fekeþ	sinn
 .	.	.
-
 Enda	c	enda
 var	sfg3eþ	vera
 snjór	nken	snjór
@@ -4601,7 +4368,6 @@ eitthvað	fohen	einhver
 í	ao	í
 buskann	nkeog	buski
 .	.	.
-
 Oft	aa	oft
 var	sfg3eþ	vera
 haft	sþghen	hafa
@@ -4624,7 +4390,6 @@ og	c	og
 sömu	fbhfo	sami
 áhugamál	nhfo	áhugamál
 .	.	.
-
 Hvort	c	hvort
 sem	c	sem
 þau	fphfn	það
@@ -4636,13 +4401,11 @@ skruppu	sfg3fþ	skreppa
 í	ao	í
 hjólreiðatúr	nkeo	hjólreiðatúr
 .	.	.
-
 Alltaf	aa	alltaf
 voru	sfg3fþ	vera
 þau	fphfn	það
 saman	aa	saman
 .	.	.
-
 Fyrir	aþ	fyrir
 nokkrum	fokfþ	nokkur
 mánuðum	nkfþ	mánuður
@@ -4661,13 +4424,11 @@ fyrir	ao	fyrir
 næsta	lheove	næstur
 líf	nheo	líf
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 auðvitað	aa	auðvitað
 Palli	nken-s	Palli
 .	.	.
-
 Svona	aa	svona
 var	sfg3eþ	vera
 Lilja	nven-s	Lilja
@@ -4677,7 +4438,6 @@ og	c	og
 góð	lvensf	góður
 kona	nven	kona
 .	.	.
-
 Ég	fp1en	ég
 vil	sfg1en	vilja
 þakka	sng	þakka
@@ -4693,7 +4453,6 @@ læra	sng	læra
 af	aþ	af
 henni	fpveþ	hún
 .	.	.
-
 Það	fphen	það
 hafa	sfg3fn	hafa
 verið	ssg	vera
@@ -4706,7 +4465,6 @@ hana	fpveo	hún
 að	aþ	að
 vinkonu	nveþ	vinkona
 .	.	.
-
 Elsku	nvee	elska
 Palli	nken-s	Palli
 ,	,	,
@@ -4718,7 +4476,6 @@ Lóa	nven-s	Lóa
 og	c	og
 fjölskyldur	nvfn	fjölskylda
 .	.	.
-
 Ég	fp1en	ég
 votta	sfg1en	votta
 ykkur	fp2fþ	þú
@@ -4726,34 +4483,28 @@ innilega	lveosf	innilegur
 samúð	nveo	samúð
 mína	feveo	minn
 .	.	.
-
 Minningin	nveng	minning
 um	ao	um
 góða	lveosf	góður
 konu	nveo	kona
 lifir	sfg3en	lifa
 .	.	.
-
 Elsku	nvee	elska
 Lilja	nven-s	Lilja
 .	.	.
-
 Hvíl	sbg2en	hvíla
 í	aþ	í
 friði	nkeþ	friður
 .	.	.
-
 Guð	nken-s	Guð
 geymi	svg3en	geyma
 þig	fp2eo	þú
 .	.	.
-
 Guðmundína	nven-s	Guðmundína
 (	(	(
 Día	nven-s	Día
 )	)	)
 .	.	.
-
 Þegar	c	þegar
 kveðja	sng	kveðja
 skal	sfg3en	skulu
@@ -4765,7 +4516,6 @@ tregt	lhensf	tregur
 um	ao	um
 mál	nheo	mál
 .	.	.
-
 Fallega	lhenvf	fallegur
 tungumálið	nheng	tungumál
 okkar	fp1fe	ég
@@ -4782,7 +4532,6 @@ litlaust	lhensf	litlaus
 og	c	og
 fátæklegt	lhensf	fátæklegur
 .	.	.
-
 Leiðir	nvfn	leið
 okkar	fp1fe	ég
 og	c	og
@@ -4797,7 +4546,6 @@ sameiginlegan	lkeosf	sameiginlegur
 andlegum	lhfþsf	andlegur
 málum	nhfþ	mál
 .	.	.
-
 Strax	aa	strax
 á	aþ	á
 fyrstu	lvfþve	fyrstur
@@ -4816,7 +4564,6 @@ hringurinn	nkeng	hringur
 hennar	fpvee	hún
 Lilju	nvee-s	Lilja
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 sterkur	lkensf	sterkur
@@ -4835,7 +4582,6 @@ halda	sng	halda
 hópnum	nkeþg	hópur
 saman	aa	saman
 .	.	.
-
 Bæði	c	bæði
 með	aþ	með
 geislandi	lkfþof	geislandi
@@ -4844,7 +4590,6 @@ sem	c	sem
 örlæti	nheþ	örlæti
 hjartans	nheeg	hjarta
 .	.	.
-
 Örlæti	nheþ	örlæti
 þeirra	fphfe	það
 hjóna	nhfe	hjón
@@ -4868,7 +4613,6 @@ sitt	feheo	sinn
 heimili	nheþ	heimili
 þeirra	fphfe	það
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 tími	nken	tími
@@ -4879,13 +4623,11 @@ seint	aa	seint
 fullþakkað	ssg	fullþakka
 þeim	fphfþ	það
 .	.	.
-
 Lilja	nven-s	Lilja
 var	sfg3eþ	vera
 stórbrotin	lvensf	stórbrotinn
 kona	nven	kona
 .	.	.
-
 Ætíð	aa	ætíð
 tilbúin	lvensf	tilbúinn
 að	cn	að
@@ -4897,14 +4639,12 @@ sinni	feveþ	sinn
 og	c	og
 reynslu	nveþ	reynsla
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 rétt	lvensf	réttur
 sem	c	sem
 sólin	nveng	sól
 .	.	.
-
 Hjartahlýja	nven	hjartahlýja
 hennar	fpvee	hún
 og	c	og
@@ -4924,7 +4664,6 @@ vegi	nkeþ	vegur
 hennar	fpvee	hún
 varð	sfg3eþ	verða
 .	.	.
-
 Árin	nhfog	ár
 okkar	fp1fe	ég
 saman	aa	saman
@@ -4940,7 +4679,6 @@ og	c	og
 yndislegrar	lveesf	yndislegur
 sagnagáfu	nvee	sagnagáfa
 .	.	.
-
 Ófá	lhfnsf	ófár
 eru	sfg3fn	vera
 þau	fahfn	sá
@@ -4952,7 +4690,6 @@ okkur	fp1fþ	ég
 hlutdeild	nveo	hlutdeild
 í	aa	í
 .	.	.
-
 Ævintýri	nhfn	ævintýri
 sem	ct	sem
 áttu	sfg3fþ	eiga
@@ -4973,7 +4710,6 @@ hulda	lkfosf	hulinn
 heima	nkfo	heimur
 þess	fphee	það
 .	.	.
-
 Vatn	nhen	vatn
 ,	,	,
 loft	nhen	loft
@@ -4990,7 +4726,6 @@ uppspretta	nven	uppspretta
 slíkra	fbhfe	slíkur
 ævintýra	nhfe	ævintýri
 .	.	.
-
 Vissulega	aa	vissulega
 er	sfg3en	vera
 skarð	nhen	skarð

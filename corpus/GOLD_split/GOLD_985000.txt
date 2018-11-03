@@ -11,7 +11,6 @@ yfir	ao	yfir
 nýjustu	lvfove	nýr
 tæknilausnir	nvfo	tæknilausn
 .	.	.
-
 Gert	sþghen	gera
 er	sfg3en	vera
 ráð	nhen	ráð
@@ -35,7 +34,6 @@ Finnlandi	nheþ-s	Finnland
 og	c	og
 Brussel	e	Brussel
 .	.	.
-
 Íslenskir	lkfnsf	íslenskur
 þátttakendur	nkfn	þátttakandi
 í	aþ	í
@@ -62,7 +60,6 @@ Upplýsingatækni	nven-s	Upplýsingatækni
 í	aþ	í
 dreifbýli	nheþ	dreifbýli
 .	.	.
-
 Frekari	lvfovm	frekur
 upplýsingar	nvfo	upplýsing
 er	sfg3en	vera
@@ -71,7 +68,6 @@ finna	sng	finna
 heimasíðu	nveþ	heimasíða
 verkefnisins	nheeg	verkefni
 www.birraproject.net	v	www.birraproject.net
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -84,7 +80,6 @@ með	aþ	með
 að	cn	að
 smella	sng	smella
 hér	aa	hér
-
 Árangursríkt	lhensf	árangursríkur
 alþjóðlegt	lhensf	alþjóðlegur
 samstarf	nhen	samstarf
@@ -95,7 +90,6 @@ byggðamála	nhfe	byggðamál
 NPP	as	NPP
 verkefnið	nheng	verkefni
 11.4.2006	ta	11.4.2006
-
 Út	aa	út
 er	sfg3en	vera
 komin	sþgven	koma
@@ -115,7 +109,6 @@ Programme	e	Programme
 NPP	as	NPP
 )	)	)
 .	.	.
-
 Stjórn	nven	stjórn
 NPP	as	NPP
 á	aþ	á
@@ -163,7 +156,6 @@ væri	svg3eþ	vera
 slíkt	fbhen	slíkur
 mögulegt	lhensf	mögulegur
 .	.	.
-
 Í	aþ	í
 niðurstöðum	nvfþ	niðurstaða
 IMG	as	IMG
@@ -193,7 +185,6 @@ af	aþ	af
 þessum	fakeþ	þessi
 toga	nkeþ	togi
 .	.	.
-
 Núverandi	lvenof	núverandi
 NPP-áætlun	nven-s	NPP-áætlun
 nær	sfg3en	ná
@@ -226,7 +217,6 @@ og	c	og
 í	aþ	í
 Noregi	nkeþ-s	Noregur
 .	.	.
-
 Heildarfjöldi	nken	heildarfjöldi
 íslenskra	lkfesf	íslenskur
 aðila	nkfe	aðili
@@ -249,7 +239,6 @@ að	aa	að
 öllum	fokfþ	allur
 landshlutum	nkfþ	landshluti
 .	.	.
-
 Á	aþ	á
 þeim	fahfþ	sá
 4	ta	4
@@ -282,7 +271,6 @@ um	aa	um
 milljónir	nvfn	milljón
 króna	nvfe	króna
 .	.	.
-
 Þessir	fakfn	þessi
 fjármunir	nkfn	fjármunir
 hafa	sfg3fn	hafa
@@ -300,7 +288,6 @@ upphæð	nveþ	upphæð
 2,4	ta	2,4
 milljarðar	nkfn	milljarður
 .	.	.
-
 Með	aþ	með
 framlagi	nheþ	framlag
 íslenskra	lhfesf	íslenskur
@@ -331,7 +318,6 @@ afar	aa	afar
 góðan	lkeosf	góður
 árangur	nkeo	árangur
 .	.	.
-
 Í	aþ	í
 skýrslunni	nveþg	skýrsla
 kemur	sfg3en	koma
@@ -368,7 +354,6 @@ aðila	nkfe	aðili
 milli	ae	milli
 landa	nhfe	land
 .	.	.
-
 Þetta	fahen	þessi
 hefur	sfg3en	hafa
 aukið	ssg	auka
@@ -388,7 +373,6 @@ sem	c	sem
 alþjóðlegum	lkeþsf	alþjóðlegur
 vettvangi	nkeþ	vettvangur
 .	.	.
-
 Árið	nheog	ár
 2002	ta	2002
 var	sfg3eþ	vera
@@ -421,7 +405,6 @@ viðskiptaráðherra	nkee	viðskiptaráðherra
 Valgerðar	nvee-s	Valgerður
 Sverrisdóttur	nvee-s	Sverrisdóttir
 .	.	.
-
 Í	aþ	í
 þingsályktuninni	nveþg	þingsályktun
 var	sfg3eþ	vera
@@ -449,7 +432,6 @@ landsbyggðinni	nveþg	landsbyggð
 alþjóðlegum	lhfþsf	alþjóðlegur
 samstarfsverkefnum	nhfþ	samstarfsverkefni
 .	.	.
-
 Ein	tfven	einn
 af	aþ	af
 aðgerðunum	nvfþg	aðgerð
@@ -473,7 +455,6 @@ miðju	lheþsf	miður
 ári	nheþ	ár
 2002	ta	2002
 .	.	.
-
 Landsskrifstofa	nven	landsskrifstofa
 NPP	as	NPP
 er	sfg3en	vera
@@ -481,7 +462,6 @@ staðsett	lvensf	staðsettur
 hjá	aþ	hjá
 Byggðastofnun	nveþ-s	Byggðastofnun
 .	.	.
-
 Áætlunin	nveng	áætlun
 nær	sfg3en	ná
 til	ae	til
@@ -505,7 +485,6 @@ Færeyja	nvfe-s	Færeyjar
 og	c	og
 Íslands	nhee-s	Ísland
 .	.	.
-
 Sum	fohfn	sumur
 verkefni	nhfn	verkefni
 áætlunarinnar	nveeg	áætlun
@@ -524,7 +503,6 @@ Alaska	nhen-s	Alaska
 og	c	og
 Rússlands	nhee-s	Rússland
 .	.	.
-
 Meginmarkmið	nhen	meginmarkmið
 áætlunarinnar	nveeg	áætlun
 er	sfg3en	vera
@@ -559,7 +537,6 @@ skóla	nkfe	skóli
 þessum	fakfþ	þessi
 landshlutum	nkfþ	landshluti
 .	.	.
-
 Með	aþ	með
 verkefnunum	nhfþg	verkefni
 er	sfg3en	vera
@@ -596,7 +573,6 @@ sín	fphfe	sig
 sem	aa	sem
 best	aae	vel
 .	.	.
-
 Verkefnin	nhfng	verkefni
 innan	ae	innan
 NPP	as	NPP
@@ -618,7 +594,6 @@ fyrirtækja	nhfe	fyrirtæki
 og	c	og
 stofnana	nvfe	stofnun
 .	.	.
-
 Stjórn	nveo	stjórn
 NPP	as	NPP
 á	aþ	á
@@ -654,7 +629,6 @@ Sólmundarson	nken-s	Sólmundarson
 ,	,	,
 Byggðastofnun	nveþ-s	Byggðastofnun
 .	.	.
-
 NPP	as	NPP
 heyrir	sfg3en	heyra
 undir	ao	undir
@@ -669,14 +643,12 @@ NPP	as	NPP
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Nánari	lvfovm	náinn
 upplýsingar	nvfo	upplýsing
 veitir	sfg3en	veita
 Þórarinn	nken-s	Þórarinn
 Sólmundarson	nken-s	Sólmundarson
 .	.	.
-
 Á	aþ	á
 heimasíðu	nveþ	heimasíða
 Byggðastofnunar	nvee-s	Byggðastofnun
@@ -685,17 +657,14 @@ finna	sng	finna
 nánari	lvfovm	náinn
 upplýsingar	nvfo	upplýsing
 .	.	.
-
 Lesa	sng	lesa
 skýrslu	nveo	skýrsla
 IMG	as	IMG
-
 Stefnt	sþghen	stefna
 að	aþ	að
 stofnun	nveþ	stofnun
 Nýsköpunarmiðstöðvar	nvee-s	nýsköpunarmiðstöð
 Íslands	nhee-s	Ísland
-
 Framsæknar	lvfnsf	framsækinn
 tæknirannsóknir	nvfn	tæknirannsókn
 ,	,	,
@@ -706,13 +675,11 @@ fyrir	ao	fyrir
 allt	foheo	allur
 landið	nheog	land
 28.3.2006	ta	28.3.2006
-
 Fréttatilkynning	nven	fréttatilkynning
 frá	aþ	frá
 Iðnaðar-	nheþg	iðnaðarráðuneyti
 og	c	og
 viðskiptaráðuneytinu	nheþg	viðskiptaráðuneyti
-
 Stuðningskerfi	nhen	stuðningskerfi
 nýsköpunar	nvee	nýsköpun
 og	c	og
@@ -723,7 +690,6 @@ og	c	og
 Nýsköpunarmiðstöð	nven-s	nýsköpunarmiðstöð
 Íslands	nhee-s	Ísland
 stofnuð	sþgven	stofna
-
 Þekkingarsetur	nhfn	þekkingarsetur
 sett	sþghfn	setja
 á	ao	á
@@ -731,7 +697,6 @@ laggir	nvfo	lögg
 víða	aa	víða
 um	ao	um
 land	nheo	land
-
 Nýtt	lhensf	nýr
 Vísinda-	nhen-s	vísindaráð
 og	c	og
@@ -741,7 +706,6 @@ samræmda	lveosf	samræmdur
 atvinnuþróunar-	nveo	atvinnuþróunarstefna
 og	c	og
 byggðastefnu	nveo	byggðastefna
-
 Valgerður	nven-s	Valgerður
 Sverrisdóttir	nven-s	Sverrisdóttir
 iðnaðar-	nken	iðnaðarráðherra
@@ -778,7 +742,6 @@ fyrir	ao	fyrir
 í	ao	í
 vor	nheo	vor
 .	.	.
-
 Gert	sþghen	gera
 er	sfg3en	vera
 ráð	nhen	ráð
@@ -815,7 +778,6 @@ höfuðstöðvar	nvfo	höfuðstöðvar
 á	aþ	á
 Sauðárkróki	nkeþ-s	Sauðárkrókur
 .	.	.
-
 Áfram	aa	áfram
 verður	sfg3en	verða
 öflug	lvensf	öflugur
@@ -827,7 +789,6 @@ Keldnaholti	nheþ-s	Keldnaholt
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Þekkingarsetur	nhfn	þekkingarsetur
 víða	aa	víða
 um	ao	um
@@ -845,7 +806,6 @@ nýsköpunar	nvee	nýsköpun
 og	c	og
 atvinnuþróunar	nvee	atvinnuþróun
 .	.	.
-
 Þar	aa	þar
 tengist	sfm3en	tengja
 saman	aa	saman
@@ -867,7 +827,6 @@ um	ao	um
 allt	foheo	allur
 land	nheo	land
 .	.	.
-
 Lögð	sþgven	leggja
 verður	sfg3en	verða
 áhersla	nven	áhersla
@@ -891,7 +850,6 @@ Háskólann	nkeogs	Háskóli
 á	aþ	á
 Akureyri	nveþ-s	Akureyri
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 mörkuð	sþgven	marka
@@ -927,7 +885,6 @@ við	ao	við
 svipuð	lhfosf	svipaður
 verkefni	nhfo	verkefni
 .	.	.
-
 Skapaðar	sþgvfn	skapa
 eru	sfg3fn	vera
 forsendur	nvfn	forsenda
@@ -968,7 +925,6 @@ um	ao	um
 Nýsköpunarmiðstöð	nveo-s	nýsköpunarmiðstöð
 Íslands	nhee-s	Ísland
 .	.	.
-
 Þannig	aa	þannig
 er	sfg3en	vera
 gert	sþghen	gera
@@ -992,7 +948,6 @@ Vísinda-	nheo-s	vísindaráð
 og	c	og
 nýsköpunarráð	nheo	nýsköpunarráð
 .	.	.
-
 Vísinda-	nhen-s	vísindaráð
 og	c	og
 tækniráð	nhen	tækniráð
@@ -1020,7 +975,6 @@ tækniþróun	nveo	tækniþróun
 og	c	og
 nýsköpun	nveo	nýsköpun
 .	.	.
-
 Með	aþ	með
 því	fpheþ	það
 að	cn	að
@@ -1051,7 +1005,6 @@ er	sfg3en	vera
 formaður	nken	formaður
 ráðsins	nheeg	ráð
 .	.	.
-
 Iðnaðar-	nken	iðnaðarráðherra
 og	c	og
 viðskiptaráðherra	nken	viðskiptaráðherra
@@ -1072,7 +1025,6 @@ framkvæmd	nveo	framkvæmd
 væntanlegra	lhfesf	væntanlegur
 laga	nhfe	lag
 .	.	.
-
 Starfsmönnum	nkfþ	starfsmaður
 Byggðastofnunar	nvee-s	Byggðastofnun
 ,	,	,
@@ -1087,7 +1039,6 @@ hjá	aþ	hjá
 Nýsköpunarmiðstöð	nveþ-s	nýsköpunarmiðstöð
 Íslands	nhee-s	Ísland
 .	.	.
-
 Þetta	fahen	þessi
 verkefni	nhen	verkefni
 í	aþ	í
@@ -1110,7 +1061,6 @@ iðnaðar-	nheeg	iðnaðarráðuneyti
 og	c	og
 viðskiptaráðuneytisins	nheeg	viðskiptaráðuneyti
 .	.	.
-
 Það	fphen	það
 byggist	sfm3en	byggja
 á	aþ	á
@@ -1127,7 +1077,6 @@ vinnu	nveþ	vinna
 ráðuneytinu	nheþg	ráðuneyti
 sjálfu	fbheþ	sjálfur
 .	.	.
-
 Fulltrúar	nkfn	fulltrúi
 stjórnvalda	nhfe	stjórnvald
 kynntu	sfg3fþ	kynna
@@ -1150,7 +1099,6 @@ og	c	og
 framfylgja	sng	framfylgja
 henni	fpveþ	hún
 .	.	.
-
 Þar	aa	þar
 má	sfg3en	mega
 meðal	ae	meðal
@@ -1173,7 +1121,6 @@ klasa	nkfo	klasi
 og	c	og
 tæknigarða	nkfo	tæknigarður
 .	.	.
-
 Hugmyndin	nveng	hugmynd
 sem	ct	sem
 býr	sfg3en	búa
@@ -1199,7 +1146,6 @@ eiga	sfg3fn	eiga
 að	cn	að
 gæta	sng	gæta
 .	.	.
-
 Hún	fpven	hún
 hefur	sfg3en	hafa
 víðast	aae	víða
@@ -1217,7 +1163,6 @@ vísinda-	nvfe	vísindanefnd
 og	c	og
 tækninefnda	nvfe	tækninefnd
 .	.	.
-
 Þess	fphee	það
 má	sfg3en	mega
 raunar	aa	raunar
@@ -1258,7 +1203,6 @@ og	c	og
 atvinnulífi	nheþ	atvinnulíf
 landsins	nheeg	land
 .	.	.
-
 Því	aa	því
 má	sfg3en	mega
 segja	sng	segja
@@ -1282,13 +1226,11 @@ nú	aa	nú
 dagsins	nkeeg	dagur
 ljós	nheo	ljós
 .	.	.
-
 Nýtt	lhensf	nýr
 stuðningskerfi	nhen	stuðningskerfi
 nýsköpunar	nvee	nýsköpun
 og	c	og
 atvinnuþróunar	nvee	atvinnuþróun
-
 Nýsköpunarmiðstöð	nven-s	nýsköpunarmiðstöð
 Íslands	nhee-s	Ísland
 tekur	sfg3en	taka
@@ -1302,7 +1244,6 @@ janúar	nkeo	janúar
 2007	ta	2007
 Nýsköpunarmiðstöðin	nvengs	nýsköpunarmiðstöð
 :	:	:
-
 verður	sfg3en	verða
 til	aa	til
 með	aþ	með
@@ -1314,7 +1255,6 @@ og	c	og
 Rannsóknastofnunar	nvee-s	Rannsóknastofnun
 byggingariðnaðarins	nkeeg	byggingariðnaður
 .	.	.
-
 verður	sfg3en	verða
 eitt	tfhen	einn
 af	aþ	af
@@ -1341,7 +1281,6 @@ og	c	og
 vegum	nkfþ	vegur
 fyrirtækja	nhfe	fyrirtæki
 .	.	.
-
 verður	sfg3en	verða
 miðstöð	nven	miðstöð
 upplýsinga	nvfe	upplýsing
@@ -1353,7 +1292,6 @@ einstaklinga	nkfe	einstaklingur
 við	ao	við
 nýsköpun	nveo	nýsköpun
 .	.	.
-
 stuðlar	sfg3en	stuðla
 að	aþ	að
 framförum	nvfþ	framför
@@ -1374,7 +1312,6 @@ sprota-	nhfe	sprotafyrirtæki
 og	c	og
 nýsköpunarfyrirtækja	nhfe	nýsköpunarfyrirtæki
 .	.	.
-
 eflir	sfg3en	efla
 samstarf	nheo	samstarf
 rannsóknastofnana	nvfe	rannsóknastofnun
@@ -1388,7 +1325,6 @@ tengsl	nhfo	tengsl
 við	ao	við
 atvinnuþróunarfélög	nhfo	atvinnuþróunarfélag
 .	.	.
-
 stundar	sfg3en	stunda
 eigin	lvfoof	eigin
 rannsóknir	nvfo	rannsókn
@@ -1401,7 +1337,6 @@ prófanir	nvfo	prófun
 og	c	og
 vottun	nveo	vottun
 .	.	.
-
 fjallar	sfg3en	fjalla
 um	ao	um
 búsetuskilyrði	nhfo	búsetuskilyrði
@@ -1421,7 +1356,6 @@ byggð	nveo	byggð
 í	aþ	í
 landinu	nheþg	land
 .	.	.
-
 fjármagnar	sfg3en	fjármagna
 verkefni	nhfo	verkefni
 sem	ct	sem
@@ -1448,7 +1382,6 @@ tilteknum	lhfþsf	tiltekinn
 landssvæðum	nhfþ	landssvæði
 )	)	)
 .	.	.
-
 Þekkingarsetrin	nhfng	þekkingarsetur
 ættu	svg3fþ	eiga
 að	cn	að
@@ -1463,7 +1396,6 @@ atvinnuþróun	nveþ	atvinnuþróun
 viðkomandi	lhfþof	viðkomandi
 svæðum	nhfþ	svæði
 .	.	.
-
 Í	aþ	í
 fyrstu	lveþve	fyrstur
 er	sfg3en	vera
@@ -1479,7 +1411,6 @@ Akureyri	nveþ-s	Akureyri
 og	c	og
 Egilsstöðum	nkfþ-s	Egilsstaðir
 .	.	.
-
 Ástæðan	nveng	ástæða
 er	sfg3en	vera
 annars	fokee	annar
@@ -1532,7 +1463,6 @@ nýsköpunarhúsið	nheng	nýsköpunarhús
 Akureyri	nveþ-s	Akureyri
 )	)	)
 .	.	.
-
 Aðstæður	nvfn	aðstæður
 á	aþ	á
 fjármagnsmarkaði	nkeþ	fjármagnsmarkaður
@@ -1558,7 +1488,6 @@ skipulagsbreytinga	nvfe	skipulagsbreyting
 og	c	og
 rekstrar	nkee	rekstur
 .	.	.
-
 Erfitt	lhensf	erfiður
 getur	sfg3en	geta
 hins	fakee	hinn
@@ -1583,7 +1512,6 @@ atvinnustarfsemi	nvee	atvinnustarfsemi
 á	aþ	á
 landsbyggðinni	nveþg	landsbyggð
 .	.	.
-
 Það	fphen	það
 getur	sfg3en	geta
 bitnað	ssg	bitna
@@ -1609,7 +1537,6 @@ atvinnusköpun	nveþ	atvinnusköpun
 í	aþ	í
 framtíðinni	nveþg	framtíð
 .	.	.
-
 Stuðningur	nken	stuðningur
 stjórnvalda	nhfe	stjórnvald
 er	sfg3en	vera
@@ -1618,7 +1545,6 @@ og	c	og
 verður	sfg3en	verða
 mikilvægur	lkensf	mikilvægur
 .	.	.
-
 Í	aþ	í
 nýju	lheþsf	nýr
 stjórnskipulagi	nheþ	stjórnskipulag
@@ -1645,7 +1571,6 @@ nýsköpun	nveo	nýsköpun
 og	c	og
 atvinnuþróun	nveo	atvinnuþróun
 :	:	:
-
 Tækniþróunarsjóður	nken-s	tækniþróunarsjóður
 verður	sfg3en	verða
 vistaður	sþgken	vista
@@ -1653,7 +1578,6 @@ hjá	aþ	hjá
 Nýsköpunarmiðstöð	nveþ-s	nýsköpunarmiðstöð
 Íslands	nhee-s	Ísland
 .	.	.
-
 Hann	fpken	hann
 styrkir	sfg3en	styrkja
 áfram	aa	áfram
@@ -1679,7 +1603,6 @@ einstaklinga	nkfe	einstaklingur
 og	c	og
 smáfyrirtækja	nhfe	smáfyrirtæki
 .	.	.
-
 Átak	nhen	átak
 til	ae	til
 atvinnusköpunar	nvee	atvinnusköpun
@@ -1687,7 +1610,6 @@ verður	sfg3en	verða
 sameinað	sþghen	sameina
 Tækniþróunarsjóði	nkeþ-s	Tækniþróunarsjóður
 .	.	.
-
 Nýr	lkensf	nýr
 Byggðasjóður	nken-s	Byggðasjóður
 verður	sfg3en	verða
@@ -1704,7 +1626,6 @@ landsbyggðinni	nveþg	landsbyggð
 vegna	ae	vegna
 lána	nhfe	lán
 .	.	.
-
 Ekki	aa	ekki
 er	sfg3en	vera
 gert	sþghen	gera
@@ -1732,7 +1653,6 @@ af	aþ	af
 eigin	lheþof	eigin
 fé	nheþ	fé
 .	.	.
-
 Nýsköpunarsjóður	nken-s	nýsköpunarsjóður
 atvinnulífsins	nheeg	atvinnulíf
 verður	sfg3en	verða
@@ -1749,7 +1669,6 @@ sprota-	nhfþ	sprotafyrirtæki
 og	c	og
 nýsköpunarfyrirtækjum	nhfþ	nýsköpunarfyrirtæki
 .	.	.
-
 Sjóðurinn	nkeng	sjóður
 tekur	sfg3en	taka
 mið	nheo	mið
@@ -1762,7 +1681,6 @@ nýsköpunarráðs	nhee	nýsköpunarráð
 starfsemi	nveþ	starfsemi
 sinni	feveþ	sinn
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 kveðið	sþghen	kveða
@@ -1791,7 +1709,6 @@ af	aþ	af
 söluandvirði	nheþ	söluandvirði
 Símans	nkeegs	Sími
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 um	ao	um
@@ -1810,7 +1727,6 @@ sjóðsins	nkeeg	sjóður
 til	aa	til
 2009	ta	2009
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 fékk	sfg3eþ	fá
@@ -1829,14 +1745,12 @@ sprota-	nhfþ	sprotafyrirtæki
 og	c	og
 nýsköpunarfyrirtækjum	nhfþ	nýsköpunarfyrirtæki
 .	.	.
-
 Ólík	lhfnsf	ólíkur
 héruð	nhfn	hérað
 -	-	-
 ólík	lhfnsf	ólíkur
 áhrif	nhfn	áhrif
 21.3.2006	ta	21.3.2006
-
 Nánari	lvfovm	náinn
 upplýsingar	nvfo	upplýsing
 um	ao	um
@@ -1844,7 +1758,6 @@ dagskrána	nveog	dagskrá
 má	sfg3en	mega
 nálgast	snm	nálgast
 hér	aa	hér
-
 Niðurstöður	nvfn	niðurstaða
 nefndar	nvee	nefnd
 um	ao	um
@@ -1866,7 +1779,6 @@ velferðarþjónustu	nveo	velferðarþjónusta
 í	aþ	í
 dreifbýli	nheþ	dreifbýli
 .	.	.
-
 Nefndin	nveng	nefnd
 var	sfg3eþ	vera
 skipuð	sþgven	skipa
@@ -1875,7 +1787,6 @@ félagsmálaráðherra	nkeþ	félagsmálaráðherra
 vorið	nheog	vor
 2004	ta	2004
 .	.	.
-
 Tilefni	nhen	tilefni
 skipunarinnar	nveeg	skipun
 var	sfg3eþ	vera
@@ -1925,7 +1836,6 @@ veitt	sþghen	veita
 er	sfg3en	vera
 »	»	»
 .	.	.
-
 Í	aþ	í
 nefndinni	nveþg	nefnd
 áttu	sfg3fþ	eiga
@@ -1948,14 +1858,12 @@ og	c	og
 Bændasamtaka	nhfe	bændasamtök
 Íslands	nhee-s	Ísland
 .	.	.
-
 Starfsmaður	nken	starfsmaður
 nefndarinnar	nveeg	nefnd
 var	sfg3eþ	vera
 frá	aþ	frá
 Byggðastofnun	nveþ-s	byggðastofnun
 .	.	.
-
 Nefndin	nveng	nefnd
 ákvað	sfg3eþ	ákveða
 að	cn	að
@@ -1975,7 +1883,6 @@ byggðir	nvfo	byggð
 og	c	og
 þéttbýli	nheo	þéttbýli
 .	.	.
-
 Eftirtalin	lhfnsf	eftirtalinn
 sveitarfélög	nhfn	sveitarfélag
 tóku	sfg3fþ	taka
@@ -2020,7 +1927,6 @@ Svalbarðshreppur	nken-s	Svalbarðshreppur
 og	c	og
 Þórshafnarhreppur	nken-s	Þórshafnarhreppur
 .	.	.
-
 Akureyrarkaupstaður	nken	akureyrarkaupstaður
 var	sfg3eþ	vera
 tekinn	sþgken	taka
@@ -2033,7 +1939,6 @@ með	ao	með
 umfangsmikla	lveosf	umfangsmikill
 velferðarþjónustu	nveo	velferðarþjónusta
 .	.	.
-
 Nefndin	nveng	nefnd
 komst	sfm3eþ	koma
 að	aþ	að
@@ -2056,7 +1961,6 @@ megi	svg3en	mega
 betur	aam	vel
 fara	sng	fara
 .	.	.
-
 Í	aþ	í
 niðurstöðum	nvfþ	niðurstaða
 í	aþ	í
@@ -2081,19 +1985,16 @@ dreifbýlis	nhee	dreifbýli
 og	c	og
 þéttbýlis	nhee	þéttbýli
 .	.	.
-
 Tillögur	nvfn	tillaga
 nefndarinnar	nveeg	nefnd
 eru	sfg3fn	vera
 eftirfarandi	lvfnof	eftirfarandi
 :	:	:
-
 Einstaklingsmiðuð	lvensf	einstaklingsmiðaður
 þjónusta	nven	þjónusta
 í	aþ	í
 dreifðustu	lvfþve	dreifður
 byggðum	nvfþ	byggð
-
 Lagt	sþghen	leggja
 er	sfg3en	vera
 til	ae	til
@@ -2120,7 +2021,6 @@ einstaklingsmiðuð	lvensf	einstaklingsmiðaður
 hverjum	fokeþ	hver
 stað	nkeþ	staður
 .	.	.
-
 Nefndin	nveng	nefnd
 leggur	sfg3en	leggja
 jafnframt	aa	jafnframt
@@ -2154,7 +2054,6 @@ með	aþ	með
 bættri	lveþsf	bættur
 akstursþjónustu	nveþ	akstursþjónusta
 .	.	.
-
 Samhliða	aa	samhliða
 er	sfg3en	vera
 nauðsynlegt	lhensf	nauðsynlegur
@@ -2169,10 +2068,8 @@ sem	c	sem
 kostur	nken	kostur
 er	sfg3en	vera
 .	.	.
-
 Bættar	lvfnsf	bættur
 samgöngur	nvfn	samgöngur
-
 Nefndin	nveng	nefnd
 leggur	sfg3en	leggja
 til	ae	til
@@ -2189,7 +2086,6 @@ með	aþ	með
 á	aþ	á
 tengivegum	nkfþ	tengivegur
 .	.	.
-
 Aukin	lvensf	aukinn
 áhersla	nven	áhersla
 verði	svg3en	verða
@@ -2213,14 +2109,12 @@ byggðum	nvfþ	byggð
 til	ae	til
 hagsbóta	nvfe	hagsbót
 .	.	.
-
 Bætt	lhfnsf	bættur
 fjarskipti	nhfn	fjarskipti
 og	c	og
 aðgangur	nken	aðgangur
 að	aþ	að
 upplýsingasamfélaginu	nheþg	upplýsingasamfélag
-
 Nefndin	nveng	nefnd
 leggur	sfg3en	leggja
 til	ae	til
@@ -2247,7 +2141,6 @@ og	c	og
 í	aþ	í
 þéttbýli	nheþ	þéttbýli
 .	.	.
-
 Lögð	sþgven	leggja
 er	sfg3en	vera
 áhersla	nven	áhersla
@@ -2261,7 +2154,6 @@ allra	fokfe	allur
 dreifðum	lvfþsf	dreifður
 byggðum	nvfþ	byggð
 .	.	.
-
 Gjaldskrá	nven	gjaldskrá
 vegna	ae	vegna
 alþjónustunnar	nveeg	alþjónustan
@@ -2273,7 +2165,6 @@ dreifbýli	nheþ	dreifbýli
 og	c	og
 þéttbýli	nheþ	þéttbýli
 .	.	.
-
 Nánari	lvfovm	náinn
 upplýsingar	nvfo	upplýsing
 má	sfg3en	mega
@@ -2283,7 +2174,6 @@ heimasíðu	nveþ	heimasíða
 félagsmálaráðuneytis	nhee	félagsmálaráðuneyti
 ,	,	,
 www.felagsmalaraduneyti.is	v	www.felagsmalaraduneyti.is
-
 Ársreikningur	nken	ársreikningur
 Byggðastofnunar	nvee-s	Byggðastofnun
 2005	ta	2005
@@ -2302,7 +2192,6 @@ kr.	as	kr.
 árið	nheog	ár
 2004	ta	2004
 .	.	.
-
 Rekstrartekjur	nvfn	rekstrartekjur
 námu	sfg3fþ	nema
 404.461	ta	404.461
@@ -2323,7 +2212,6 @@ nam	sfg3eþ	nema
 817.112	ta	817.112
 þús.	as	þús.
 kr.	as	kr.
-
 Framlög	nhfn	framlag
 í	ao	í
 afskriftarreikning	nkeo	afskriftarreikningur
@@ -2335,7 +2223,6 @@ nam	sfg3eþ	nema
 340.635	ta	340.635
 þús.	as	þús.
 kr.	as	kr.
-
 Tap	nhen	tap
 ársins	nheeg	ár
 nam	sfg3eþ	nema
@@ -2352,7 +2239,6 @@ tap	nhen	tap
 árið	nheog	ár
 2004	ta	2004
 .	.	.
-
 Eigið	lhensf	eiginn
 fé	nhen	fé
 Byggðastofnunar	nvee-s	Byggðastofnun
@@ -2366,7 +2252,6 @@ af	aþ	af
 niðurstöðu	nveþ	niðurstaða
 efnahagsreiknings	nkee	efnahagsreikningur
 .	.	.
-
 Eiginfjárhlutfall	nhen	eiginfjárhlutfall
 stofnunarinnar	nveeg	stofnun
 samkvæmt	aþ	samkvæmt
@@ -2376,7 +2261,6 @@ fjármálafyrirtæki	nheo	fjármálafyrirtæki
 er	sfg3en	vera
 8,20%	tp	8,20%
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 ákvæðum	nhfþ	ákvæði
 laga	nhfe	lag
@@ -2402,7 +2286,6 @@ svara	sfg3fn	svara
 af	aþ	af
 áhættugrunni	nkeþ	áhættugrunnur
 .	.	.
-
 Varanlegir	lkfnsf	varanlegur
 rekstrarfjármunir	nkfn	rekstrarfjármunir
 Byggðastofnunar	nvee-s	Byggðastofnun
@@ -2412,7 +2295,6 @@ af	aþ	af
 eigin	lheþof	eigin
 fé	nheþ	fé
 .	.	.
-
 Útlán	nhfn	útlán
 í	ao	í
 lok	nhfo	lok
@@ -2434,7 +2316,6 @@ lok	nhfo	lok
 árs	nhee	ár
 2004	ta	2004
 .	.	.
-
 Skuldir	nvfn	skuld
 Byggðastofnunar	nvee-s	Byggðastofnun
 námu	sfg3fþ	nema
@@ -2452,7 +2333,6 @@ frá	aþ	frá
 árinu	nheþg	ár
 2004	ta	2004
 .	.	.
-
 Veittar	lvfnsf	veittur
 ábyrgðir	nvfn	ábyrgð
 utan	ae	utan
@@ -2463,7 +2343,6 @@ um	ao	um
 398.912	ta	398.912
 þús.	as	þús.
 kr.	as	kr.
-
 Á	aþ	á
 árinu	nheþg	ár
 voru	sfg3fþ	vera
@@ -2477,7 +2356,6 @@ keyptar	sþgvfn	kaupa
 af	aþ	af
 sjóðnum	nkeþg	sjóður
 .	.	.
-
 Gengið	sþghen	ganga
 var	sfg3eþ	vera
 frá	aþ	frá
@@ -2494,7 +2372,6 @@ stofnunarinnar	nveeg	stofnun
 á	aþ	á
 árinu	nheþg	ár
 .	.	.
-
 Byggðastofnun	nven	byggðastofnun
 er	sfg3en	vera
 með	ao	með
@@ -2503,7 +2380,6 @@ sína	feveo	sinn
 á	aþ	á
 Sauðárkróki	nkeþ-s	Sauðárkrókur
 .	.	.
-
 Í	ao	í
 lok	nhfo	lok
 árs	nhee	ár
@@ -2513,7 +2389,6 @@ starfsmaður	nken	starfsmaður
 hjá	aþ	hjá
 Byggðastofnun	nveþ-s	Byggðastofnun
 .	.	.
-
 Nálgast	snm	nálgast
 má	sfg3en	mega
 ársreikning	nkeo	ársreikningur
@@ -2524,7 +2399,6 @@ að	cn	að
 smella	sng	smella
 hér	aa	hér
 .	.	.
-
 NORA	nxen-s	NORA
 auglýsir	sfg3en	auglýsa
 eftir	aþ	eftir
@@ -2533,7 +2407,6 @@ um	ao	um
 verkefnastyrki	nkfo	verkefnastyrkur
 2006	ta	2006
 21.2.2006	ta	21.2.2006
-
 NORA	nxen-s	NORA
 hefur	sfg3en	hafa
 auglýst	ssg	auglýsa
@@ -2557,7 +2430,6 @@ Færeyja	nvfe-s	Færeyjar
 og	c	og
 Noregs	nkee-s	Noregur
 .	.	.
-
 Árlega	aa	árlega
 eru	sfg3fn	vera
 veittir	sþgkfn	veita
@@ -2581,10 +2453,8 @@ landanna	nhfeg	land
 eftirtöldum	lhfþsf	eftirtalinn
 sviðum	nhfþ	svið
 :	:	:
-
 Auðlindir	nvfn	auðlind
 sjávar	nkee	sjár
-
 Verkefni	nhfn	verkefni
 sem	ct	sem
 stuðla	sfg3fn	stuðla
@@ -2606,9 +2476,7 @@ og	c	og
 tengdra	lvfesf	tengdur
 greina	nvfe	grein
 .	.	.
-
 Ferðamál	nhfn	ferðamál
-
 Verkefni	nhfn	verkefni
 sem	ct	sem
 stuðla	sfg3fn	stuðla
@@ -2622,9 +2490,7 @@ ferðaþjónustu	nvee	ferðaþjónusta
 í	aþ	í
 löndunum	nhfþg	land
 .	.	.
-
 Upplýsingatækni	nven	upplýsingatækni
-
 Verkefni	nhfn	verkefni
 sem	ct	sem
 stuðla	sfg3fn	stuðla
@@ -2633,10 +2499,8 @@ hagnýtingu	nveþ	hagnýting
 upplýsingatækni	nvee	upplýsingatækni
 á	aþ	á
 svæðinu	nheþg	svæði
-
 Annað	fohen	annar
 samstarf	nhen	samstarf
-
 Verkefni	nhfn	verkefni
 sem	ct	sem
 efla	sfg3fn	efla
@@ -2645,7 +2509,6 @@ byggðarlög	nhfo	byggðarlag
 í	aþ	í
 löndunum	nhfþg	land
 .	.	.
-
 Fjárstyrkir	nkfn	fjárstyrkur
 verða	sfg3fn	verða
 helst	aae	heldur
@@ -2661,7 +2524,6 @@ rannsóknar	x	rannsókn
 og	c	og
 þróunarstofnanir	nvfo	þróunarstofnun
 .	.	.
-
 Styrkir	nkfn	styrkur
 eru	sfg3fn	vera
 veittir	sþgkfn	veita
@@ -2683,7 +2545,6 @@ Norðurslóðaáætlunarinnar	nveegs	Norðurslóðaáætlun
 NPP	as	NPP
 )	)	)
 .	.	.
-
 Umsóknir	nvfn	umsókn
 sem	ct	sem
 fela	sfg3fn	fela
@@ -2704,7 +2565,6 @@ Kanada	nhee-s	Kanada
 eru	sfg3fn	vera
 eftirsóknarverðar	lvfnsf	eftirsóknarverður
 .	.	.
-
 Styrki	nkfo	styrkur
 er	sfg3en	vera
 lengst	aae	lengi
@@ -2727,7 +2587,6 @@ mótframlagi	nheþ	mótframlag
 viðkomandi	lkeeof	viðkomandi
 aðila	nkee	aðili
 .	.	.
-
 Umsóknir	nvfn	umsókn
 skula	x	skula
 fela	sng	fela
@@ -2742,7 +2601,6 @@ landa	nhfe	land
 eða	c	eða
 fleiri	lhfevm	margur
 .	.	.
-
 Umsóknarfrestur	nken	umsóknarfrestur
 er	sfg3en	vera
 til	ae	til
@@ -2760,7 +2618,6 @@ norsku	nveþ	norska
 eða	c	eða
 sænsku	nveþ	sænska
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -2774,7 +2631,6 @@ að	cn	að
 smella	sng	smella
 hér	aa	hér
 .	.	.
-
 (	(	(
 pdf-skjal	nhen	pdf-skjal
 )	)	)
@@ -2796,7 +2652,6 @@ Box	nhen	box
 ,	,	,
 FO-110	ta	FO-110
 Tórshavn	e	Tórshavn
-
 Frekari	lvfovm	frekur
 upplýsingar	nvfo	upplýsing
 um	ao	um
@@ -2807,7 +2662,6 @@ veitir	sfg3en	veita
 Sólmundarson	nken-s	Sólmundarson
 hjá	aþ	hjá
 Byggðastofnun	nveþ-s	Byggðastofnun
-
 Styrkir	nkfn	styrkur
 til	ae	til
 atvinnumála	nhfe	atvinnumál
@@ -2815,7 +2669,6 @@ kvenna	nvfe	kona
 árið	nheog	ár
 2006	ta	2006
 16.2.2006	ta	16.2.2006
-
 Gengur	sfg2en	ganga
 þú	fp2en	þú
 með	ao	með
@@ -2823,7 +2676,6 @@ viðskiptahugmynd	nveo	viðskiptahugmynd
 í	aþ	í
 maganum	nkeþg	magi
 ?	?	?
-
 Vinnumálastofnun	nven	vinnumálastofnun
 /	/	/
 Félagsmálaráðuneyti	nhen	félagsmálaráðuneyti
@@ -2835,7 +2687,6 @@ kvenna	nvfe	kona
 árið	nheog	ár
 2006	ta	2006
 .	.	.
-
 Heildar	nvee	heild
 fjárhæð	nven	fjárhæð
 til	ae	til
@@ -2843,14 +2694,12 @@ til	ae	til
 er	sfg3en	vera
 25.000.000	ta	25.000.000
 .	.	.
-
 Umsóknarfrestur	nken	umsóknarfrestur
 er	sfg3en	vera
 til	ae	til
 20.	ta	20.
 mars	nkee	mars
 2006	ta	2006
-
 Athugið	sbg2fn	athuga
 að	c	að
 eingöngu	aa	eingöngu
@@ -2862,7 +2711,6 @@ umsóknum	nvfþ	umsókn
 rafrænu	lheþsf	rafrænn
 formi	nheþ	form
 .	.	.
-
 Við	ao	við
 styrkúthlutun	nveo	styrkúthlutun
 verður	sfg3en	verða
@@ -2871,7 +2719,6 @@ haft	sþghen	hafa
 að	aþ	að
 leiðarljósi	nheþ	leiðarljós
 :	:	:
-
 ·	·	·
 Styrkhæf	lhfnsf	styrkhæfur
 verkefni	nhfn	verkefni
@@ -2889,7 +2736,6 @@ stjórnað	sþghen	stjórna
 af	aþ	af
 konum	nvfþ	kona
 .	.	.
-
 ·	·	·
 Verkefnið	nheng	verkefni
 feli	svg3en	fela
@@ -2899,7 +2745,6 @@ atvinnusköpun	nveo	atvinnusköpun
 til	ae	til
 frambúðar	nvee	frambúð
 .	.	.
-
 ·	·	·
 Um	ao	um
 nýnæmi	nheo	nýnæmi
@@ -2907,7 +2752,6 @@ sé	svg3en	vera
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 ·	·	·
 Viðskiptahugmynd	nven	viðskiptahugmynd
 sé	svg3en	vera
@@ -2922,13 +2766,11 @@ leiðirnar	nvfng	leið
 að	aþ	að
 þeim	fphfþ	það
 .	.	.
-
 ·	·	·
 Verkáætlun	nven	verkáætlun
 sé	svg3en	vera
 raunhæf	lvensf	raunhæfur
 .	.	.
-
 ·	·	·
 Kostnaðar	nkee	kostnaður
 og	c	og
@@ -2940,14 +2782,12 @@ skýr	lvensf	skýr
 og	c	og
 trúverðug	lvensf	trúverðugur
 .	.	.
-
 ·	·	·
 Að	c	að
 verkefnið	nheng	verkefni
 sé	svg3en	vera
 arðbært	lhensf	arðbær
 .	.	.
-
 ·	·	·
 Allar	fovfn	allur
 atvinnugreinar	nvfn	atvinnugrein
@@ -2958,7 +2798,6 @@ vígi	nheþ	víg
 við	ao	við
 val	nheo	val
 .	.	.
-
 ·	·	·
 Konur	nvfn	kona
 á	aþ	á
@@ -2969,7 +2808,6 @@ um	ao	um
 þennan	fakeo	þessi
 styrk	nkeo	styrkur
 .	.	.
-
 ·	·	·
 Að	c	að
 verkefnið	nheng	verkefni
@@ -2979,7 +2817,6 @@ samkeppnisstöðu	nveo	samkeppnisstaða
 á	aþ	á
 vinnumarkaði	nkeþ	vinnumarkaður
 .	.	.
-
 ·	·	·
 Veittir	sþgkfn	veita
 verða	sfg3fn	verða
@@ -2987,7 +2824,6 @@ stofnstyrkir	nkfn	stofnstyrkur
 og	c	og
 þróunarstyrkir	nkfn	þróunarstyrkur
 .	.	.
-
 o	x	o
 Stofnstyrkir	nkfn	stofnstyrkur
 eru	sfg3fn	vera
@@ -3002,7 +2838,6 @@ vélum	nvfþ	vél
 og	c	og
 tækjum	nhfþ	tæki
 .	.	.
-
 o	x	o
 Þróunarstyrkir	nkfn	þróunarstyrkur
 eru	sfg3fn	vera
@@ -3014,7 +2849,6 @@ hönnunar	nvee	hönnun
 og	c	og
 markaðssetningar	nvee	markaðssetning
 .	.	.
-
 Styrkir	nkfn	styrkur
 nemi	svg3fn	nema
 að	aþ	að
@@ -3023,7 +2857,6 @@ jafnaði	nkeþ	jafnaður
 -	-	-
 1.000.000	ta	1.000.000
 kr.	as	kr.
-
 Framlag	nhen	framlag
 ríkisins	nheeg	ríki
 til	ae	til
@@ -3038,7 +2871,6 @@ framlögðum	lkeþsf	framlagður
 styrkhæfum	lkeþsf	styrkhæfur
 kostnaði	nkeþ	kostnaður
 .	.	.
-
 Vinsamlega	aa	vinsamlega
 athugið	sbg2fn	athuga
 að	c	að
@@ -3048,7 +2880,6 @@ veittir	sþgkfn	veita
 styrkir	nkfn	styrkur
 til	aa	til
 :	:	:
-
 Ekki	aa	ekki
 eru	sfg3fn	vera
 veittir	sþgkfn	veita
@@ -3066,13 +2897,11 @@ aðila	nkeþ	aðili
 í	aþ	í
 hliðstæðum	lkeþsf	hliðstæður
 atvinnurekstri	nkeþ	atvinnurekstur
-
 Ekki	aa	ekki
 eru	sfg3fn	vera
 veittir	sþgkfn	veita
 rekstrarstyrkir	nkfn	rekstrarstyrkur
 .	.	.
-
 Ekki	aa	ekki
 eru	sfg3fn	vera
 veittir	sþgkfn	veita
@@ -3086,7 +2915,6 @@ tillit	nhen	tillit
 til	ae	til
 nytjalistar	nvee	nytjalist
 .	.	.
-
 Ekki	aa	ekki
 eru	sfg3fn	vera
 veittir	sþgkfn	veita
@@ -3101,7 +2929,6 @@ atvinnuskapandi	lhfnof	atvinnuskapandi
 til	ae	til
 frambúðar	nvee	frambúð
 .	.	.
-
 Ekki	aa	ekki
 eru	sfg3fn	vera
 veittir	sþgkfn	veita
@@ -3114,7 +2941,6 @@ greiðslna	nvfe	greiðsla
 úr	aþ	úr
 almannatryggingakerfinu	nheþg	almannatryggingakerfi
 .	.	.
-
 Ekki	aa	ekki
 eru	sfg3fn	vera
 veittir	sþgkfn	veita
@@ -3122,7 +2948,6 @@ styrkir	nkfn	styrkur
 til	ae	til
 menntunar	nvee	menntun
 .	.	.
-
 Ekki	aa	ekki
 eru	sfg3fn	vera
 veittir	sþgkfn	veita
@@ -3134,7 +2959,6 @@ endurbóta	nvfe	endurbót
 á	aþ	á
 húsnæði	nheþ	húsnæði
 .	.	.
-
 Umsækjendum	nkfþ	umsækjandi
 er	sfg3en	vera
 eindregið	aa	eindregið
@@ -3146,7 +2970,6 @@ við	ao	við
 gerð	nveo	gerð
 umsóknar	nvee	umsókn
 .	.	.
-
 Atvinnuráðgjafar	nkfn	atvinnuráðgjafi
 atvinnuþróunarfélaga	nhfe	atvinnuþróunarfélag
 veita	sfg3fn	veita
@@ -3157,7 +2980,6 @@ við	ao	við
 gerð	nveo	gerð
 umsókna	nvfe	umsókn
 :	:	:
-
 Atvinnuþróunarfélag	nhen-s	atvinnuþróunarfélag
 Vestfjarða	nkfe-s	Vestfirðir
 (	(	(
@@ -3209,7 +3031,6 @@ Vesturlands	nhee-s	Vesturland
 www.ssv.i	x	www.ssv.i
 s	x	s
 )	)	)
-
 Einnig	aa	einnig
 er	sfg3en	vera
 bent	sþghen	benda
@@ -3228,7 +3049,6 @@ frumkvöðla	nkfo	frumkvöðull
 og	c	og
 fyrirtæki	nhfo	fyrirtæki
 .	.	.
-
 Á	aþ	á
 heimsíðu	nveþ	heimsíða
 Impru	nxee-s	impru
@@ -3245,9 +3065,7 @@ og	c	og
 rekstur	nkeo	rekstur
 fyrirtækja	nhfe	fyrirtæki
 .	.	.
-
 Umsóknarferli	nhen	umsóknarferli
-
 Umsóknir	nvfn	umsókn
 eru	sfg3fn	vera
 sendar	sþgvfn	senda
@@ -3260,7 +3078,6 @@ fyrir	ao	fyrir
 20.	ta	20.
 mars	nkeo	mars
 .	.	.
-
 Sérstök	lvensf	sérstakur
 ráðgjafanefnd	nven	ráðgjafanefnd
 á	aþ	á
@@ -3276,7 +3093,6 @@ sínar	fevfo	sinn
 fyrir	ao	fyrir
 félagsmálaráðherra	nkeo	félagsmálaráðherra
 .	.	.
-
 Sé	svg3en	vera
 umbeðnum	lhfþsf	umbeðinn
 gögnum	nhfþ	gagn
@@ -3302,7 +3118,6 @@ umsóknum	nvfþ	umsókn
 þeim	favfþ	sá
 forsendum	nvfþ	forsenda
 .	.	.
-
 Stefnt	sþghen	stefna
 er	sfg3en	vera
 að	aþ	að
@@ -3317,20 +3132,17 @@ um	ao	um
 miðjan	lkeosf	miður
 maí	nkeo	maí
 .	.	.
-
 Öllum	fovfþ	allur
 umsóknum	nvfþ	umsókn
 verður	sfg3en	verða
 svarað	sþghen	svara
 skriflega	aa	skriflega
 .	.	.
-
 Um	ao	um
 styrki	nkfo	styrkur
 til	ae	til
 atvinnumála	nhfe	atvinnumál
 kvenna	nvfe	kona
-
 Frá	aþ	frá
 árinu	nheþg	ár
 1991	ta	1991
@@ -3350,7 +3162,6 @@ annast	ssm	anna
 þessar	favfo	þessi
 styrkveitingar	nvfo	styrkveiting
 .	.	.
-
 Frá	aþ	frá
 árinu	nheþg	ár
 1997	ta	1997
@@ -3361,14 +3172,12 @@ umsýslu	nveo	umsýsla
 með	aþ	með
 verkefninu	nheþg	verkefni
 .	.	.
-
 Tilgangur	nken	tilgangur
 styrkveitinganna	nvfeg	styrkveiting
 er	sfg3en	vera
 einkum	aa	einkum
 að	cn	að
 :	:	:
-
 auka	sng	auka
 fjölbreytni	nveo	fjölbreytni
 í	aþ	í
@@ -3392,7 +3201,6 @@ draga	sng	draga
 atvinnuleysi	nheþ	atvinnuleysi
 meðal	ae	meðal
 kvenna	nvfe	kona
-
 Sérstakur	lkensf	sérstakur
 ráðgjafahópur	nken	ráðgjafahópur
 fer	sfg3en	fara
@@ -3405,7 +3213,6 @@ sínar	fevfo	sinn
 fyrir	ao	fyrir
 félagsmálaráðherra	nkeo	félagsmálaráðherra
 .	.	.
-
 Upplýsingar	nvfo	upplýsing
 veitir	sfg3en	veita
 Líney	nven-s	Líney
@@ -3414,7 +3221,6 @@ Líney	nven-s	Líney
 Svæðisvinnumiðlun	nveþ-s	Svæðisvinnumiðlun
 Norðurlands	nhee-s	Norðurland
 vestra	lheevm	vestri
-
 Umsóknareyðublað	nheo	umsóknareyðublað
 og	c	og
 nánari	lvfovm	náinn
@@ -3425,7 +3231,6 @@ finna	sng	finna
 á	aþ	á
 heimasíðu	nveþ	heimasíða
 Vinnumálastofnunar	nvee-s	Vinnumálastofnun
-
 Hugmyndasamkeppni	nven	hugmyndasamkeppni
 um	ao	um
 þjóðgarðsafurð	nveo	þjóðgarðsafurð
@@ -3433,7 +3238,6 @@ um	ao	um
 ríki	nheþ	ríki
 Vatnajökuls	nkee-s	Vatnajökull
 23.1.2006	ta	23.1.2006
-
 Efnt	sþghen	efna
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -3445,7 +3249,6 @@ um	ao	um
 ríki	nheþ	ríki
 Vatnajökuls	nkee-s	Vatnajökull
 .	.	.
-
 Að	aþ	að
 samkeppninni	nveþg	samkeppni
 stendur	sfg3en	standa
@@ -3469,7 +3272,6 @@ ferðaþjónustu	nvee	ferðaþjónusta
 á	aþ	á
 norðurslóðum	nvfþ	norðurslóð
 .	.	.
-
 Verkefnið	nheng	verkefni
 á	aþ	á
 Íslandi	nheþ-s	Ísland
@@ -3503,7 +3305,6 @@ ferðaþjónustuaðilar	nkfn	ferðaþjónustuaðili
 á	aþ	á
 svæðinu	nheþg	svæði
 .	.	.
-
 Markmið	nhen	markmið
 með	aþ	með
 NEST	nxeþ-s	NEST
@@ -3525,7 +3326,6 @@ nágrenni	nheþ	nágrenni
 og	c	og
 verndarsvæða	nhfe	verndarsvæði
 .	.	.
-
 Þátttökuskilyrði	nhfn	þátttökuskilyrði
 í	aþ	í
 hugmyndasamkeppninni	nveþg	hugmyndasamkeppni
@@ -3562,7 +3362,6 @@ með	aþ	með
 notkun	nveþ	notkun
 hráefnis	nhee	hráefni
 .	.	.
-
 Afurðin	nveng	afurð
 þarf	sfg3en	þurfa
 að	cn	að
@@ -3583,7 +3382,6 @@ svæðisins	nheeg	svæði
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Hún	fpven	hún
 skal	sfg3en	skulu
 vera	sng	vera
@@ -3594,7 +3392,6 @@ einstök	lvensf	einstakur
 einhvern	fokeo	einhver
 hátt	nkeo	háttur
 .	.	.
-
 Hugmyndasamkeppnin	nveng	hugmyndasamkeppni
 stendur	sfg3en	standa
 til	ae	til
@@ -3615,7 +3412,6 @@ tæplega	aa	tæplega
 þúsund	tfvfo	þúsund
 krónur	nvfo	króna
 .	.	.
-
 Koli	nken-s	Koli
 þjóðgarðurinn	nkeng	þjóðgarður
 í	aþ	í
@@ -3634,7 +3430,6 @@ verðlaun	nhfo	verðlaun
 hverju	foheþ	hver
 þátttökulandi	nheþ	þátttökuland
 .	.	.
-
 Önnur	fohfn	annar
 verðlaun	nhfn	verðlaun
 eru	sfg3fn	vera
@@ -3661,7 +3456,6 @@ fyrirtækjum	nhfþ	fyrirtæki
 í	aþ	í
 Skaftárhreppi	nkeþ-s	Skaftárhreppur
 .	.	.
-
 Frekari	lvfovm	frekur
 upplýsingar	nvfo	upplýsing
 um	ao	um
@@ -3670,12 +3464,10 @@ má	sfg3en	mega
 lesa	sng	lesa
 hér	aa	hér
 .	.	.
-
 Mikil	lhfnsf	mikill
 tækifæri	nhfn	tækifæri
 með	aþ	með
 Vatnajökulsþjóðgarði	nkeþ-s	Vatnajökulsþjóðgarður
-
 Eins	aa	eins
 og	c	og
 áður	aa	áður
@@ -3707,7 +3499,6 @@ Finnland	nhen-s	Finnland
 og	c	og
 Skotland	nhen-s	Skotland
 .	.	.
-
 Nú	aa	nú
 í	aþ	í
 janúar	nkeþ	janúar
@@ -3743,7 +3534,6 @@ ferðaþjónustuaðila	nkfe	ferðaþjónustuaðili
 á	aþ	á
 því	fpheþ	það
 .	.	.
-
 Sömuleiðis	aa	sömuleiðis
 eru	sfg3fn	vera
 sveitarstjórnir	nvfn	sveitarstjórn
@@ -3781,7 +3571,6 @@ tilbúnar	lvfnsf	tilbúinn
 til	ae	til
 markaðssetningar	nvee	markaðssetning
 .	.	.
-
 Stella	nven-s	Stella
 Sigfúsdóttir	nven-s	Sigfúsdóttir
 ,	,	,
@@ -3803,7 +3592,6 @@ felist	svm3fn	fela
 stofnun	nveþ	stofnun
 Vatnajökulsþjóðgarðs	nkee-s	Vatnajökulsþjóðgarður
 .	.	.
-
 «	«	«
 Hér	aa	hér
 höfum	sfg1fn	hafa
@@ -3840,7 +3628,6 @@ stærsta	lkeove	stór
 jökul	nkeo	jökull
 Evrópu	nvee-s	Evrópa
 .	.	.
-
 Því	aa	því
 er	sfg3en	vera
 geysilega	aa	geysilega
@@ -3871,7 +3658,6 @@ að	aþ	að
 væntanlegs	lkeesf	væntanlegur
 Vatnajökulsþjóðgarðs	nkee-s	Vatnajökulsþjóðgarður
 .	.	.
-
 Þar	aa	þar
 gefur	sfg3en	gefa
 NEST	nxen-s	NEST
@@ -3914,7 +3700,6 @@ og	c	og
 við	fp1fn	ég
 hér	aa	hér
 .	.	.
-
 Þau	fahfn	sá
 markmið	nhfn	markmið
 felast	sfm3fn	fela
@@ -3949,7 +3734,6 @@ til	ae	til
 komandi	lvfeof	komandi
 kynslóða	nvfe	kynslóð
 .	.	.
-
 Því	aa	því
 eru	sfg3fn	vera
 náttúruverndarsjónarmið	nhfn	náttúruverndarsjónarmið
@@ -3981,14 +3765,12 @@ ferðaþjónustu	nveþ	ferðaþjónusta
 segir	sfg3en	segja
 Stella	nven-s	Stella
 .	.	.
-
 Boðað	sþghen	boða
 til	ae	til
 ráðstefnu	nvee	ráðstefna
 um	ao	um
 ríki	nheo	ríki
 Vatnajökuls	nkee-s	Vatnajökull
-
 Meðal	ae	meðal
 næstu	lhfeve	næstur
 verkefna	nhfe	verkefni
@@ -4018,7 +3800,6 @@ hefðu	svg3fþ	hafa
 á	aþ	á
 ráðstefnunni	nveþg	ráðstefna
 .	.	.
-
 Stofnun	nven	stofnun
 Náttúrulífsskóla	nkee-s	Náttúrulífsskóli
 verður	sfg3en	verða
@@ -4034,7 +3815,6 @@ einmitt	aa	einmitt
 innan	ae	innan
 NEST	nxee-s	NEST
 .	.	.
-
 «	«	«
 Með	aþ	með
 þessari	faveþ	þessi
@@ -4083,11 +3863,9 @@ Sigfúsdóttir	nven-s	Sigfúsdóttir
 verkefnissjóri	nken	verkefnissjóri
 NEST	nxee-s	NEST
 .	.	.
-
 Heimasíða	nven	heimasíða
 sveitarfélagsins	nheeg	sveitarfélag
 Hornafjarðar	nkee-s	Hornafjörður
-
 Tvö	tfhfn	tveir
 ný	lhfnsf	nýr
 verkefni	nhfn	verkefni
@@ -4100,7 +3878,6 @@ með	aþ	með
 íslenskri	lveþsf	íslenskur
 þátttöku	nveþ	þátttaka
 10.1.2006	ta	10.1.2006
-
 Vorið	nheog	vor
 2002	ta	2002
 gerðust	sfm3fþ	gera
@@ -4116,7 +3893,6 @@ Periphery	e	Periphery
 Programme	e	Programme
 )	)	)
 .	.	.
-
 Áætlunin	nveng	áætlun
 nær	sfg3en	ná
 til	ae	til
@@ -4140,7 +3916,6 @@ Færeyja	nvfe-s	Færeyjar
 og	c	og
 Íslands	nhee-s	Ísland
 .	.	.
-
 Meginmarkmið	nhen	meginmarkmið
 áætlunarinnar	nveeg	áætlun
 er	sfg3en	vera
@@ -4173,7 +3948,6 @@ stofnana	nvfe	stofnun
 þessum	fakfþ	þessi
 landshlutum	nkfþ	landshluti
 .	.	.
-
 Reynt	sþghen	reyna
 er	sfg3en	vera
 að	cn	að
@@ -4208,7 +3982,6 @@ sín	fpkfe	sig
 sem	aa	sem
 best	aae	vel
 .	.	.
-
 Verkefnin	nhfng	verkefni
 innan	ae	innan
 NPP	as	NPP
@@ -4225,7 +3998,6 @@ samvinnu	nveþ	samvinna
 og	c	og
 framtaki	nheþ	framtak
 .	.	.
-
 Áætlunin	nveng	áætlun
 er	sfg3en	vera
 rekin	sþgven	reka
@@ -4251,7 +4023,6 @@ til	ae	til
 ráðstöfunar	nvee	ráðstöfun
 er	sfg3en	vera
 .	.	.
-
 Með	aþ	með
 aukinni	lveþsf	aukinn
 alþjóðavæðingu	nveþ	alþjóðavæðing
@@ -4271,7 +4042,6 @@ byggða	nvfe	byggð
 og	c	og
 atvinnulífs	nhee	atvinnulíf
 .	.	.
-
 Framlag	nhen	framlag
 íslenskra	lhfesf	íslenskur
 stjórnvalda	nhfe	stjórnvald
@@ -4286,7 +4056,6 @@ til	ae	til
 ársins	nheeg	ár
 2006	ta	2006
 .	.	.
-
 Heildarfjármagn	nhen	heildarfjármagn
 áætlunarinnar	nveeg	áætlun
 er	sfg3en	vera
@@ -4299,7 +4068,6 @@ fyrir	ao	fyrir
 árin	nhfog	ár
 2001-2006	ta	2001-2006
 .	.	.
-
 Einstök	lhfnsf	einstakur
 verkefni	nhfn	verkefni
 fá	sfg3fn	fá
@@ -4333,13 +4101,11 @@ hvað	fshen	hver
 verkefni	nhfo	verkefni
 varðar	sfg3en	varða
 .	.	.
-
 Úthlutun	nven	úthlutun
 NPP	as	NPP
 í	aþ	í
 desember	nkeþ	desember
 2006	ta	2006
-
 Þann	fakeo	sá
 15.	ta	15.
 desember	nkeo	desember
@@ -4357,7 +4123,6 @@ um	ao	um
 ný	lhfosf	nýr
 verkefni	nhfo	verkefni
 .	.	.
-
 Samþykkt	sþghfn	samþykkja
 voru	sfg3fþ	vera
 3	ta	3
@@ -4371,7 +4136,6 @@ er	sfg3en	vera
 2	ta	2
 þeirra	fphfe	það
 .	.	.
-
 Heildarkostnaður	nken	heildarkostnaður
 þessara	favfe	þessi
 2	ta	2
@@ -4381,7 +4145,6 @@ eru	sfg3fn	vera
 milljónir	nvfn	milljón
 króna	nvfe	króna
 .	.	.
-
 NPP	as	NPP
 styrkir	sfg3en	styrkja
 þátttöku	nveo	þátttaka
@@ -4416,7 +4179,6 @@ samtök	nhfn	samtök
 og	c	og
 fleiri	lkfnvm	margur
 .	.	.
-
 Vegna	ae	vegna
 mikillar	lveesf	mikill
 eftirspurnar	nvee	eftirspurn
@@ -4451,7 +4213,6 @@ til	ae	til
 muna	nkfe	munur
 lægra	lhenvm	lágur
 .	.	.
-
 Með	aþ	með
 þeim	fahfþ	sá
 verkefnum	nhfþ	verkefni
@@ -4476,7 +4237,6 @@ afar	aa	afar
 góður	lkensf	góður
 árangur	nken	árangur
 .	.	.
-
 Þau	fahfn	sá
 verkefni	nhfn	verkefni
 sem	ct	sem
@@ -4488,7 +4248,6 @@ eru	sfg3fn	vera
 -	-	-
 Roadex	e	Roadex
 III.	ta	III.
-
 Verkefnið	nheng	verkefni
 er	sfg3en	vera
 framhaldsverkefni	nhen	framhaldsverkefni
@@ -4507,7 +4266,6 @@ upplýsinga	nvfe	upplýsing
 og	c	og
 verkfræðigagna	nhfe	verkfræðigögn
 .	.	.
-
 Alls	aa	alls
 hafa	sfg3fn	hafa
 verið	ssg	vera
@@ -4524,7 +4282,6 @@ er	sfg3en	vera
 mjög	aa	mjög
 virk	lvensf	virkur
 .	.	.
-
 Vegagerðim	x	vegagerðim
 er	sfg3en	vera
 þátttakandi	nken	þátttakandi
@@ -4538,7 +4295,6 @@ heildarfjármagn	nhen	heildarfjármagn
 51,1	ta	51,1
 milljón	nven	milljón
 .	.	.
-
 -	-	-
 Scandinavian	e	Scandinavian
 MAYHEM	e	MAYHEM
@@ -4556,7 +4312,6 @@ and	e	and
 Media	e	Media
 )	)	)
 .	.	.
-
 Verkefnið	nheng	verkefni
 beinist	sfm3en	beina
 að	aþ	að
@@ -4578,7 +4333,6 @@ Community	e	Community
 Studios	e	Studios
 »	»	»
 .	.	.
-
 Áhersla	nven	áhersla
 er	sfg3en	vera
 lögð	sþgven	leggja
@@ -4602,7 +4356,6 @@ menningarviðburðum	nkfþ	menningarviðburður
 og	c	og
 samstarfi	nheþ	samstarf
 .	.	.
-
 Hitt	fahen	hinn
 húsið	nheng	hús
 er	sfg3en	vera
@@ -4617,7 +4370,6 @@ heildarfjármagn	nhen	heildarfjármagn
 41,2	ta	41,2
 milljón	nven	milljón
 .	.	.
-
 NPP	as	NPP
 heyrir	sfg3en	heyra
 undir	ao	undir
@@ -4632,22 +4384,18 @@ NPP	as	NPP
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Nánari	lvfovm	náinn
 upplýsingar	nvfo	upplýsing
 veitir	sfg3en	veita
 Þórarinn	nken-s	Þórarinn
 Sólmundarson	nken-s	Sólmundarson
 .	.	.
-
 Athugasemdir	nvfn	athugasemd
 við	ao	við
 skýrslu	nveo	skýrsla
 Stjórnhátta	nkfe-s	stjórnháttur
 ehf.	as	ehf.
-
 2.12.2005	ta	2.12.2005
-
 Stjórn	nven	stjórn
 Byggðastofnunar	nvee-s	Byggðastofnun
 hefur	sfg3en	hafa
@@ -4663,7 +4411,6 @@ Byggðastofnunar	nvee-s	Byggðastofnun
 undanfana	lkfosf	undanfana
 daga	nkfo	dagur
 .	.	.
-
 Tilkynningin	nveng	tilkynning
 er	sfg3en	vera
 svohljóðandi	lvenof	svohljóðandi
@@ -4693,7 +4440,6 @@ eftirfarandi	lheþof	eftirfarandi
 á	ao	á
 framfæri	nheo	framfæri
 .	.	.
-
 Vitnað	sþghen	vitna
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -4718,7 +4464,6 @@ birt	sþgven	birta
 var	sfg3eþ	vera
 nýlega	aa	nýlega
 .	.	.
-
 Í	aþ	í
 skýrslunni	nveþg	skýrsla
 koma	sfg3fn	koma
@@ -4741,7 +4486,6 @@ hátt	aa	hátt
 í	aþ	í
 umræðunni	nveþg	umræða
 .	.	.
-
 Vegna	ae	vegna
 þessa	fahee	þessi
 fékk	sfg3eþ	fá
@@ -4760,7 +4504,6 @@ nokkrum	fohfþ	nokkur
 atriðum	nhfþ	atriði
 skýrslunnar	nveeg	skýrsla
 .	.	.
-
 Í	aþ	í
 meðfylgjandi	lveþof	meðfylgjandi
 greinargerð	nveþ	greinargerð
@@ -4776,7 +4519,6 @@ Young	e	Young
 hf.	as	hf.
 dags	nkee	dagur
 .	.	.
-
 30.	ta	30.
 nóvember	nkeo	nóvember
 2005	ta	2005
@@ -4812,7 +4554,6 @@ hlutföll	nhfo	hlutfall
 og	c	og
 áhrif	nhfo	áhrif
 .	.	.
-
 Fram	aa	fram
 kemur	sfg3en	koma
 á	aþ	á
@@ -4834,7 +4575,6 @@ tímabilinu	nheþg	tímabil
 -	-	-
 2004	ta	2004
 .	.	.
-
 Hið	ghen	hinn
 rétta	lhenvf	réttur
 er	sfg3en	vera
@@ -4863,7 +4603,6 @@ kr.	as	kr.
 ári	nheþ	ár
 .	.	.
 »	»	»
-
 Um	ao	um
 þá	faveo	sá
 fullyrðingu	nveo	fullyrðing
@@ -4933,7 +4672,6 @@ farið	ssg	fara
 í	ao	í
 6%	tp	6%
 .	.	.
-
 Að	c	að
 hlutfall	nhen	hlutfall
 tapaðra	lhfesf	tapaður
@@ -4955,7 +4693,6 @@ sem	c	sem
 var	sfg3eþ	vera
 6%	tp	6%
 .	.	.
-
 Ef	c	ef
 stofnunin	nveng	stofnun
 hefði	svg3eþ	hafa
@@ -4984,7 +4721,6 @@ af	aþ	af
 sínum	fehfþ	sinn
 .	.	.
 »	»	»
-
 Í	aþ	í
 niðurstöðu	nveþ	niðurstaða
 Ernst	e	Ernst

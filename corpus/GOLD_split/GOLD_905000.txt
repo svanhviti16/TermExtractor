@@ -1,7 +1,6 @@
 reglum	nvfþ	regla
 rökfræðinnar	nveeg	rökfræði
 .	.	.
-
 Í	aþ	í
 sinni	feveþ	sinn
 einföldustu	lveþve	einfaldur
@@ -29,7 +28,6 @@ er	sfg3en	vera
 tilefni	nhen	tilefni
 skýringarinnar	nveeg	skýring
 .	.	.
-
 Lögbundin	lvensf	lögbundinn
 afleiðsluskýring	nven	afleiðsluskýring
 lítur	sfg3en	líta
@@ -51,20 +49,17 @@ eru	sfg3fn	vera
 efniviður	nken	efniviður
 hennar	fpvee	hún
 :	:	:
-
 S1	x	s1
 ,	,	,
 S2	x	s2
 ,	,	,
 ...	...	...
-
 Sn	x	sn
 L1	x	l1
 ,	,	,
 L2	x	l2
 ,	,	,
 ...	...	...
-
 Lm	x	lm
 _	_	_
 _	_	_
@@ -81,7 +76,6 @@ _	_	_
 _	_	_
 _	_	_
 T	x	t
-
 Hér	aa	hér
 eru	sfg3fn	vera
 «	«	«
@@ -90,7 +84,6 @@ S1	x	s1
 S2	x	s2
 ,	,	,
 ...	...	...
-
 Sn	x	sn
 »	»	»
 setningar	nvfn	setning
@@ -105,7 +98,6 @@ L1	x	l1
 L2	x	l2
 ,	,	,
 ...	...	...
-
 Lm	x	lm
 »	»	»
 setningar	nvfn	setning
@@ -122,7 +114,6 @@ fyrr	aam	fyrr
 tilefni	nhen	tilefni
 skýringarinnar	nveeg	skýring
 .	.	.
-
 Ef	c	ef
 við	fp1fn	ég
 lítum	sfg1fn	líta
@@ -145,14 +136,12 @@ S1	x	s1
 S2	x	s2
 ,	,	,
 ...	...	...
-
 Sn	x	sn
 »	»	»
 setningar	nvfo	setning
 eins	aa	eins
 og	c	og
 :	:	:
-
 «	«	«
 Glösin	nhfng	glas
 voru	sfg3fþ	vera
@@ -185,7 +174,6 @@ og	c	og
 disksins	nkeeg	diskur
 »	»	»
 .	.	.
-
 Dewey	e	Dewey
 nefnir	sfg3en	nefna
 engin	fohfo	enginn
@@ -204,7 +192,6 @@ fyrir	aþ	fyrir
 eftirfarandi	lheþof	eftirfarandi
 lögmáli	nheþ	lögmál
 :	:	:
-
 Þegar	c	þegar
 loft	nhen	loft
 hitnar	sfg3en	hitna
@@ -212,7 +199,6 @@ hitnar	sfg3en	hitna
 það	fphen	það
 út	aa	út
 .	.	.
-
 En	c	en
 við	fp1fn	ég
 þyrftum	svg1fþ	þurfa
@@ -231,7 +217,6 @@ sápufilmu	nvee	sápufilma
 og	c	og
 fleiri	lhfovm	margur
 .	.	.
-
 Þar	aa	þar
 sem	ct	sem
 svona	lhfnof	svona
@@ -254,7 +239,6 @@ samkvæmt	aþ	samkvæmt
 líkani	nheþ	líkan
 Hempels	e	Hempels
 .	.	.
-
 En	c	en
 kannski	aa	kannski
 mætti	svg3eþ	mega
@@ -269,7 +253,6 @@ að	aþ	að
 vísindalegri	lveþsf	vísindalegur
 skýringu	nveþ	skýring
 .	.	.
-
 Hugmyndir	nvfn	hugmynd
 Hempels	e	Hempels
 höfðu	sfg3fþ	hafa
@@ -304,7 +287,6 @@ Hempel	e	Hempel
 til	ae	til
 sögunnar	nveeg	saga
 .	.	.
-
 Á	aþ	á
 seinni	lhfþvm	seinn
 árum	nhfþ	ár
@@ -321,7 +303,6 @@ ekki	aa	ekki
 verið	ssg	vera
 rétt	lhensf	réttur
 .	.	.
-
 Lítum	sfg1fn	líta
 til	ae	til
 dæmis	nhee	dæmi
@@ -329,7 +310,6 @@ dæmis	nhee	dæmi
 eftirfarandi	lveoof	eftirfarandi
 mynd	nveo	mynd
 .	.	.
-
 Sólin	nveng	sól
 skín	sfg3en	skína
 á	ao	á
@@ -340,7 +320,6 @@ skugga	nkeþ	skuggi
 á	ao	á
 jörðina	nveog	jörð
 .	.	.
-
 Nú	aa	nú
 getum	sfg1fn	geta
 við	fp1fn	ég
@@ -366,7 +345,6 @@ flaggstangarinnar	nveeg	flaggstöng
 og	c	og
 sólarhæðina	nveog	sólarhæð
 .	.	.
-
 Lengd	nveo	lengd
 skuggans	nkeeg	skuggi
 má	sfg3en	mega
@@ -378,7 +356,6 @@ reglum	nvfþ	regla
 úr	aþ	úr
 flatarmálsfræði	nveþ	flatarmálsfræði
 .	.	.
-
 Dæmigerð	lvensf	dæmigerður
 lögbundin	lvensf	lögbundinn
 afleiðsluskýring	nven	afleiðsluskýring
@@ -391,19 +368,16 @@ litið	ssg	líta
 svona	aa	svona
 út	aa	út
 :	:	:
-
 Flaggstöngin	nveng	flaggstöng
 er	sfg3en	vera
 5	ta	5
 metrar	nkfn	metri
 .	.	.
-
 Sólarhæðin	nveng	sólarhæð
 er	sfg3en	vera
 30	ta	30
 gráður	nvfn	gráða
 .	.	.
-
 a	x	A
 =	=	=
 b	x	b
@@ -446,7 +420,6 @@ skuggans	nkeeg	skuggi
 er	sfg3en	vera
 8,66	ta	8,66
 m	as	m
-
 Enn	aa	enn
 höfum	sfg1fn	hafa
 við	fp1fn	ég
@@ -458,7 +431,6 @@ við	ao	við
 líkan	nheo	líkan
 Hempels	e	Hempels
 .	.	.
-
 En	c	en
 meinið	nheng	mein
 er	sfg3en	vera
@@ -492,7 +464,6 @@ frá	aþ	frá
 lengd	nveþ	lengd
 skuggans	nkeeg	skuggi
 .	.	.
-
 En	c	en
 það	fphen	það
 getur	sfg3en	geta
@@ -500,7 +471,6 @@ ekki	aa	ekki
 verið	ssg	vera
 rétt	lhensf	réttur
 .	.	.
-
 Það	fahen	sá
 sem	ct	sem
 útskýrir	sfg3en	útskýra
@@ -532,7 +502,6 @@ lögmál	nhfn	lögmál
 um	ao	um
 kraftvægi	nheo	kraftvægi
 .	.	.
-
 Í	aþ	í
 öllu	foheþ	allur
 falli	nheþ	fall
@@ -544,7 +513,6 @@ ekki	aa	ekki
 hæð	nveo	hæð
 flaggstangarinnar	nveeg	flaggstöng
 .	.	.
-
 En	c	en
 þó	aa	þó
 er	sfg3en	vera
@@ -558,7 +526,6 @@ samkvæmt	aþ	samkvæmt
 líkani	nheþ	líkan
 Hempels	e	Hempels
 .	.	.
-
 Dæmið	nheng	dæmi
 verður	sfg3en	verða
 enn	aa	enn
@@ -580,7 +547,6 @@ heldur	c	heldur
 lifandi	lhenof	lifandi
 tré	nhen	tré
 .	.	.
-
 Við	fp1fn	ég
 gerum	sfg1fn	gera
 ráð	nheo	ráð
@@ -599,7 +565,6 @@ ná	sfg3fn	ná
 tiltekinni	lveþsf	tiltekinn
 hæð	nveþ	hæð
 .	.	.
-
 Hér	aa	hér
 kemur	sfg3en	koma
 til	ae	til
@@ -614,7 +579,6 @@ jarðvegsins	nkeeg	jarðvegur
 og	c	og
 fleira	lhenvm	margur
 .	.	.
-
 En	c	en
 þótt	c	þótt
 það	fphen	það
@@ -637,7 +601,6 @@ einn	tfken	einn
 af	aþ	af
 þeim	fpkfþ	hann
 .	.	.
-
 Dæmið	nheng	dæmi
 af	aþ	af
 skugga	nkeþ	skuggi
@@ -654,7 +617,6 @@ fyrir	aþ	fyrir
 vísindalegum	lvfþsf	vísindalegur
 skýringum	nvfþ	skýring
 .	.	.
-
 En	c	en
 þótt	c	þótt
 líkanið	nheng	líkan
@@ -709,7 +671,6 @@ fari	svg3fn	fara
 nærri	aþ	nærri
 lagi	nheþ	lag
 .	.	.
-
 Ríkið	nhengs	Ríki
 eða	c	eða
 Politeia	e	Politeia
@@ -742,7 +703,6 @@ er	sfg3en	vera
 önnur	foven	annar
 saga	nven	saga
 .	.	.
-
 Ríkið	nhengs	Ríki
 er	sfg3en	vera
 til	aa	til
@@ -764,7 +724,6 @@ bókmentafélags	nhee	bókmenntafélag
 árið	nheog	ár
 1991	ta	1991
 .	.	.
-
 Í	aþ	í
 ítarlegum	lkeþsf	ítarlegur
 inngangi	nkeþ	inngangur
@@ -775,7 +734,6 @@ Eyjólfur	nken-s	Eyjólfur
 meðal	ae	meðal
 annars	fohee	annar
 :	:	:
-
 [	[	[
 Ríkið	nhengs	Ríki
 ]	]	]
@@ -793,7 +751,6 @@ ríki	nheo	ríki
 eða	c	eða
 stjórnskipan	nveo	stjórnskipan
 .	.	.
-
 En	c	en
 það	fphen	það
 hefur	sfg3en	hafa
@@ -825,7 +782,6 @@ vera	sng	vera
 meginefni	nhen	meginefni
 þess	fphee	það
 .	.	.
-
 Sami	fbken	sami
 lesandi	nken	lesandi
 fer	sfg3en	fara
@@ -857,7 +813,6 @@ eða	c	eða
 skipan	nveo	skipan
 fyrirmyndarríkisins	nheeg	fyrirmyndarríki
 .	.	.
-
 Og	c	og
 svo	aa	svo
 er	sfg3en	vera
@@ -886,7 +841,6 @@ kóróna	nven	kóróna
 og	c	og
 tilgangur	nken	tilgangur
 .	.	.
-
 Samhliða	aþ	samhliða
 vangaveltum	nvfþ	vangavelta
 um	ao	um
@@ -935,7 +889,6 @@ og	c	og
 hvað	fshen	hver
 ekki	aa	ekki
 .	.	.
-
 Líklega	aa	líklega
 er	sfg3en	vera
 óhætt	lhensf	óhætt
@@ -954,7 +907,6 @@ hljómgrunn	nkeo	hljómgrunnur
 vestrænni	lveþsf	vestrænn
 heimspeki	nveþ	heimspeki
 .	.	.
-
 Fyrstur	lkense	fyrstur
 manna	nkfe	maður
 til	ae	til
@@ -981,7 +933,6 @@ flestar	lvfose	margur
 greinar	nvfo	grein
 heimspekinnar	nveeg	heimspeki
 .	.	.
-
 Aftur	aa	aftur
 á	aa	á
 móti	aa	móti
@@ -1006,11 +957,9 @@ sögu	nveþ	saga
 vestrænnar	lveesf	vestrænn
 heimspeki	nvee	heimspeki
 .	.	.
-
 <	<	<
 Heimild	nven	heimild
 >	>	>
-
 Immanuel	e	Immanuel
 Kant	e	Kant
 var	sfg3eþ	vera
@@ -1020,7 +969,6 @@ hugsuður	nken	hugsuður
 vestrænnar	lveesf	vestrænn
 heimspeki	nvee	heimspeki
 .	.	.
-
 Hann	fpken	hann
 fæddist	sfm3eþ	fæða
 árið	nheog	ár
@@ -1040,7 +988,6 @@ síðar	aam	síðar
 árið	nheog	ár
 1804	ta	1804
 .	.	.
-
 Í	aþ	í
 yfirliti	nheþ	yfirlit
 sínu	feheþ	sinn
@@ -1054,7 +1001,6 @@ Bjarnason	nken-s	Bjarnason
 meðal	ae	meðal
 annars	fohee	annar
 :	:	:
-
 Ævi	nven	ævi
 Kants	e	Kants
 er	sfg3en	vera
@@ -1091,7 +1037,6 @@ af	aþ	af
 verkum	nhfþ	verk
 hans	fpkee	hann
 .	.	.
-
 Heimspekiferli	nkeþ	heimspekiferill
 Kants	e	Kants
 er	sfg3en	vera
@@ -1102,7 +1047,6 @@ niður	aa	niður
 þrjú	tfhfo	þrír
 tímabil	nhfo	tímabil
 .	.	.
-
 Fyrsta	lhenve	fyrstur
 tímabilið	nheng	tímabil
 nær	sfg3en	ná
@@ -1145,7 +1089,6 @@ og	c	og
 hins	fahee	hinn
 skiljanlega	lheevf	skiljanlegur
 .	.	.
-
 En	c	en
 árið	nheog	ár
 1770	ta	1770
@@ -1164,7 +1107,6 @@ upp	aa	upp
 í	ao	í
 hendurnar	nvfog	hönd
 .	.	.
-
 Þar	aa	þar
 rökstyður	sfg3en	rökstyðja
 Hume	e	Hume
@@ -1212,7 +1154,6 @@ stund	nveo	stund
 á	ao	á
 hana	fpveo	hún
 .	.	.
-
 Kant	e	Kant
 gat	sfg3eþ	geta
 engan	fokeo	enginn
@@ -1239,7 +1180,6 @@ fyrir	aþ	fyrir
 kenningu	nveþ	kenning
 sinni	feveþ	sinn
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 því	aa	því
@@ -1248,7 +1188,6 @@ vöndu	lheþsf	vandur
 að	cn	að
 ráða	sng	ráða
 .	.	.
-
 Kant	e	Kant
 sagði	sfg3eþ	segja
 svo	aa	svo
@@ -1264,7 +1203,6 @@ af	aþ	af
 svefni	nkeþ	svefn
 kreddufestunnar	nveeg	kreddufesta
 .	.	.
-
 Áratuginn	nkeog	áratugur
 eftir	ao	eftir
 að	c	að
@@ -1283,7 +1221,6 @@ hugsaði	sfg3eþ	hugsa
 því	fpheþ	það
 meira	aam	meira
 .	.	.
-
 Þessi	faken	þessi
 áratugur	nken	áratugur
 er	sfg3en	vera
@@ -1293,7 +1230,6 @@ tímabilið	nheng	tímabil
 heimspekiferli	nkeþ	heimspekiferill
 Kants	e	Kants
 .	.	.
-
 Þriðja	lhenvf	þriðji
 tímabilið	nheng	tímabil
 hófst	sfm3eþ	hefja
@@ -1333,7 +1269,6 @@ heimspeki	nvee	heimspeki
 og	c	og
 menningar	nvee	menning
 .	.	.
-
 Meginviðfangsefni	nhen	meginviðfangsefni
 Kants	e	Kants
 í	aþ	í
@@ -1351,7 +1286,6 @@ möguleikinn	nkeng	möguleiki
 frumspekilegri	lveþsf	frumspekilegur
 þekkingu	nveþ	þekking
 .	.	.
-
 Í	ao	í
 kjölfar	nheo	kjölfar
 Gagnrýni	nvee-s	Gagnrýni
@@ -1384,7 +1318,6 @@ tilgang	nkeo	tilgangur
 og	c	og
 fegurð	nveo	fegurð
 .	.	.
-
 Auk	ae	auk
 þessara	fahfe	þessi
 verka	nhfe	verk
@@ -1405,7 +1338,6 @@ að	aþ	að
 frumspeki	nveþ	frumspeki
 siðferðisins	nheeg	siðferði
 .	.	.
-
 Segja	sng	segja
 má	sfg3en	mega
 að	c	að
@@ -1417,7 +1349,6 @@ tvennum	lkeþsf	tvennur
 toga	nkeþ	togi
 spunnin	sþgven	spinna
 .	.	.
-
 Annars	fokee	annar
 vegar	nkee	vegur
 er	sfg3en	vera
@@ -1435,14 +1366,12 @@ að	cn	að
 á	aþ	á
 tilverunni	nveþg	tilvera
 .	.	.
-
 Hér	aa	hér
 voru	sfg3fþ	vera
 náttúruvísindi	nhfn	náttúruvísindi
 Newtons	e	Newtons
 fyrirmyndin	nveng	fyrirmynd
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 er	sfg3en	vera
@@ -1453,7 +1382,6 @@ og	c	og
 algilda	lveosf	algildur
 siðfræði	nveo	siðfræði
 .	.	.
-
 Heimspeki	nven	heimspeki
 Kants	e	Kants
 er	sfg3en	vera
@@ -1472,7 +1400,6 @@ saman	aa	saman
 heilsteypta	lveosf	heilsteyptur
 mynd	nveo	mynd
 .	.	.
-
 Þetta	fahen	þessi
 endurspeglast	sfm3en	endurspegla
 í	aþ	í
@@ -1492,7 +1419,6 @@ skynsemi	nvee	skynsemi
 H.	as	H.
 Bjarnasonar	nkee-s	Bjarnason
 :	:	:
-
 Tvennt	lhensf	tvennur
 er	sfg3en	vera
 það	fphen	það
@@ -1531,7 +1457,6 @@ siðalögmálið	nheng	siðalögmál
 brjósti	nheþ	brjóst
 mér	fp1eþ	ég
 .	.	.
-
 <	<	<
 Heimildir	nvfn	heimild
 og	c	og
@@ -1542,7 +1467,6 @@ lesefni	nhen	lesefni
 Gagnlegar	lvfnsf	gagnlegur
 vefsíður	nvfn	vefsíða
 >	>	>
-
 Rökfræði	nven	rökfræði
 fjallar	sfg3en	fjalla
 um	ao	um
@@ -1567,7 +1491,6 @@ köllum	sfg1fn	kalla
 þá	aa	þá
 forsendur	nvfo	forsenda
 .	.	.
-
 Hverjar	fsvfn	hver
 yrðu	svg3fþ	verða
 afleiðingar	nvfn	afleiðing
@@ -1578,7 +1501,6 @@ nemur	sfg3en	nema
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 ?	?	?
-
 Ef	c	ef
 5	ta	5
 gráðu	nvee	gráða
@@ -1628,7 +1550,6 @@ hæð	nveþ	hæð
 yfir	aþ	yfir
 sjó	nkeþ	sjór
 .	.	.
-
 Í	aþ	í
 þeirri	faveþ	sá
 hæð	nveþ	hæð
@@ -1655,7 +1576,6 @@ ekki	aa	ekki
 úr	aþ	úr
 jörðu	nveþ	jörð
 .	.	.
-
 Þegar	c	þegar
 til	ae	til
 lengri	lkeevm	langur
@@ -1680,14 +1600,12 @@ minnki	svg3en	minnka
 ekki	aa	ekki
 verulega	aa	verulega
 .	.	.
-
 Afleiðingar	nvfn	afleiðing
 slíkrar	fbvee	slíkur
 veðurfarsbreytingar	nvee	veðurfarsbreyting
 yrðu	svg3fþ	verða
 töluverðar	lvfnsf	töluverður
 .	.	.
-
 Hefðbundinn	lkensf	hefðbundinn
 landbúnaður	nken	landbúnaður
 legðist	svm3eþ	leggja
@@ -1715,7 +1633,6 @@ leysingar	nvee	leysing
 á	aþ	á
 hálendinu	nheþg	hálendi
 .	.	.
-
 Náið	lhensf	náinn
 samhengi	nhen	samhengi
 er	sfg3en	vera
@@ -1746,7 +1663,6 @@ með	aa	með
 á	ao	á
 sjávarafla	nkeo	sjávarafli
 .	.	.
-
 Vera	sng	vera
 má	sfg3en	mega
 að	c	að
@@ -1769,7 +1685,6 @@ landinu	nheþg	land
 að	aþ	að
 fullu	lheþsf	fullur
 .	.	.
-
 Ef	c	ef
 svo	aa	svo
 færi	svg3eþ	fara
@@ -1800,7 +1715,6 @@ minni	lvenvm	lítill
 á	ao	á
 sumrin	nhfog	sumar
 .	.	.
-
 Eftir	aa	eftir
 sem	c	sem
 áður	aa	áður
@@ -1817,7 +1731,6 @@ tíundað	sþghen	tíunda
 hefur	sfg3en	hafa
 verið	ssg	vera
 .	.	.
-
 Þá	aa	þá
 yrði	svg3eþ	verða
 þó	aa	þó
@@ -1830,7 +1743,6 @@ sumardaga	nkfe	sumardagur
 í	aþ	í
 innsveitum	nvfþ	innsveit
 .	.	.
-
 Hver	fsken	hver
 er	sfg3en	vera
 munurinn	nkeng	munur
@@ -1839,7 +1751,6 @@ hvirfilbyl	nkeþ	hvirfilbylur
 og	c	og
 fellibyl	nkeþ	fellibylur
 ?	?	?
-
 Hvirfilbyljir	nkfn	hvirfilbylur
 eða	c	eða
 skýstrókar	nkfn	skýstrókur
@@ -1879,7 +1790,6 @@ upp	aa	upp
 að	aþ	að
 veðrahvörfum	nhfþ	veðrahvörf
 .	.	.
-
 Algengt	lhensf	algengur
 er	sfg3en	vera
 hins	fakee	hinn
@@ -1890,7 +1800,6 @@ myndist	svm3fn	mynda
 í	aþ	í
 fellibyljum	nkfþ	fellibylur
 .	.	.
-
 Skýstrókar	nkfn	skýstrókur
 og	c	og
 fellibyljir	nkfn	fellibylur
@@ -1914,7 +1823,6 @@ undir	aþ	undir
 köldu	lheþsf	kaldur
 lofti	nheþ	loft
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 einkar	aa	einkar
@@ -1958,7 +1866,6 @@ loftinu	nheþg	loft
 þéttist	sfm3en	þétta
 )	)	)
 .	.	.
-
 Fellibyljir	nkfn	fellibylur
 myndast	sfm3fn	mynda
 yfir	aþ	yfir
@@ -1991,7 +1898,6 @@ metrar	nkfn	metri
 í	ao	í
 þvermál	nheo	þvermál
 .	.	.
-
 Samt	aa	samt
 sem	c	sem
 áður	aa	áður
@@ -2008,7 +1914,6 @@ skýstrókum	nkfþ	skýstrókur
 en	c	en
 fellibyljum	nkfþ	fellibylur
 .	.	.
-
 Fellibyljir	nkfn	fellibylur
 lifa	sfg3fn	lifa
 dögum	nkfþ	dagur
@@ -2029,7 +1934,6 @@ lagi	nheþ	lag
 örfáar	lvfosf	örfár
 klukkustundir	nvfo	klukkustund
 .	.	.
-
 Fellibyljir	nkfn	fellibylur
 geta	sfg3fn	geta
 ekki	aa	ekki
@@ -2046,7 +1950,6 @@ stundum	aa	stundum
 til	ae	til
 landsins	nheeg	land
 .	.	.
-
 Skýstrókar	nkfn	skýstrókur
 geta	sfg3fn	geta
 hins	fakee	hinn
@@ -2061,7 +1964,6 @@ er	sfg3en	vera
 afar	aa	afar
 sjaldgæft	lhensf	sjaldgæfur
 .	.	.
-
 Sagt	sþghen	segja
 er	sfg3en	vera
 frá	aþ	frá
@@ -2098,7 +2000,6 @@ stundum	aa	stundum
 valda	sfg3fn	valda
 ruglingi	nkeþ	ruglingur
 .	.	.
-
 Hver	fsken	hver
 yrðu	svg3fþ	verða
 áhrif	nhfn	áhrif
@@ -2117,7 +2018,6 @@ og	c	og
 endurkastar	sfg3en	endurkasta
 því	fpheþ	það
 ?	?	?
-
 stuttu	lheþsf	stuttur
 máli	nheþ	mál
 má	sfg3en	mega
@@ -2133,7 +2033,6 @@ ein	tfven	einn
 af	aþ	af
 gróðurhúsalofttegundunum	nvfþg	gróðurhúsalofttegund
 .	.	.
-
 Líklegast	lhense	líklegur
 er	sfg3en	vera
 því	fpheþ	það
@@ -2148,7 +2047,6 @@ til	ae	til
 nokkurrar	fovee	nokkur
 kólnunar	nvee	kólnun
 .	.	.
-
 Málið	nheng	mál
 er	sfg3en	vera
 þó	aa	þó
@@ -2165,7 +2063,6 @@ hér	aa	hér
 á	aa	á
 eftir	aa	eftir
 .	.	.
-
 Lofthjúpur	nken	lofthjúpur
 jarðar	nvee	jörð
 fær	sfg3en	fá
@@ -2178,7 +2075,6 @@ geislun	nveþ	geislun
 frá	aþ	frá
 sólinni	nveþg	sól
 .	.	.
-
 Því	aa	því
 má	sfg3en	mega
 nærri	aa	nærri
@@ -2199,7 +2095,6 @@ hitafar	nheo	hitafar
 í	aþ	í
 lofthjúpnum	nkeþg	lofthjúpur
 .	.	.
-
 Vatnsgufa	nven	vatnsgufa
 er	sfg3en	vera
 þeirrar	favee	sá
@@ -2221,7 +2116,6 @@ mestu	lheþse	mikill
 gegnum	ao	gegnum
 sig	fpveo	sig
 .	.	.
-
 Langbylgjugeislun	nven	langbylgjugeislun
 frá	aþ	frá
 jörðu	nveþ	jörð
@@ -2239,7 +2133,6 @@ gegnum	ao	gegnum
 rakt	lheosf	rakur
 loft	nheo	loft
 .	.	.
-
 Því	aa	því
 stuðlar	sfg3en	stuðla
 raki	nken	raki
@@ -2257,7 +2150,6 @@ aðrar	fovfn	annar
 svokallaðar	lvfnsf	svokallaður
 gróðurhúsalofttegundir	nvfn	gróðurhúsalofttegund
 .	.	.
-
 Ef	c	ef
 vatnsgufan	nveng	vatnsgufa
 þéttist	sfm3en	þétta
@@ -2276,7 +2168,6 @@ væri	svg3eþ	vera
 í	aþ	í
 heiðríkju	nveþ	heiðríkja
 .	.	.
-
 Á	ao	á
 hinn	fakeo	hinn
 bóginn	nkeog	bógur
@@ -2309,7 +2200,6 @@ jarðarinnar	nveeg	jörð
 heild	nveþ	heild
 sinni	feveþ	sinn
 .	.	.
-
 Geislunarferlin	nhfng	geislunarferli
 í	aþ	í
 andrúmsloftinu	nheþg	andrúmsloft
@@ -2323,7 +2213,6 @@ gefið	sþghen	gefa
 til	ae	til
 kynna	nhfe	kynni
 .	.	.
-
 Þannig	aa	þannig
 má	sfg3en	mega
 nefna	sng	nefna
@@ -2355,7 +2244,6 @@ eða	c	eða
 öðrum	fohfþ	annar
 loftlögum	nhfþ	loftlag
 .	.	.
-
 Þá	aa	þá
 eru	sfg3fn	vera
 ský	nhfn	ský
@@ -2377,7 +2265,6 @@ hlutverk	nheo	hlutverk
 í	aþ	í
 geislunarbúskapnum	nkeþg	geislunarbúskapur
 .	.	.
-
 Áhrif	nhfn	áhrif
 skýja	nhfe	ský
 á	ao	á
@@ -2398,7 +2285,6 @@ hvað	fshen	hver
 mestri	lveþse	mikill
 óvissu	nveþ	óvissa
 .	.	.
-
 Viðamiklar	lvfnsf	viðamikill
 rannsóknir	nvfn	rannsókn
 standa	sfg3fn	standa
@@ -2426,7 +2312,6 @@ geislunarjafnvægi	nheþ	geislunarjafnvægi
 lofthjúpi	nkeþ	lofthjúpur
 framtíðarinnar	nveeg	framtíð
 .	.	.
-
 Hvað	fshen	hver
 er	sfg3en	vera
 fellibylur	nken	fellibylur
@@ -2440,7 +2325,6 @@ aðstæður	nvfo	aðstæður
 myndast	sfm3fn	mynda
 fellibyljir	nkfn	fellibylur
 ?	?	?
-
 Fellibyljir	nkfn	fellibylur
 eru	sfg3fn	vera
 djúpar	lvfnsf	djúpur
@@ -2454,7 +2338,6 @@ hafi	nheþ	haf
 í	aþ	í
 hitabeltinu	nheþg	hitabelti
 .	.	.
-
 Lægðir	nvfn	lægð
 þessar	favfn	þessi
 valda	sfg3fn	valda
@@ -2478,7 +2361,6 @@ sem	ct	sem
 oft	aa	oft
 fylgja	sfg3fn	fylgja
 .	.	.
-
 Ólíkt	aa	ólíkt
 lægðum	nvfþ	lægð
 sem	ct	sem
@@ -2514,7 +2396,6 @@ lofti	nheþ	loft
 í	ao	í
 skýjadropa	nkfo	skýjadropi
 .	.	.
-
 Slík	fbven	slíkur
 þétting	nven	þétting
 á	sfg3en	eiga
@@ -2529,7 +2410,6 @@ uppstreymi	nhen	uppstreymi
 er	sfg3en	vera
 mikið	lhensf	mikill
 .	.	.
-
 Nauðsynlegt	lhensf	nauðsynlegur
 skilyrði	nhen	skilyrði
 þess	fphee	það
@@ -2552,7 +2432,6 @@ nálægt	aþ	nálægt
 yfirborði	nheþ	yfirborð
 jarðar	nvee	jörð
 .	.	.
-
 Þær	favfo	sá
 aðstæður	nvfo	aðstæður
 má	sfg3en	mega
@@ -2570,14 +2449,12 @@ til	aa	til
 og	c	og
 eflast	sfm3fn	efla
 .	.	.
-
 Fellibylurinn	nkeng	fellibylur
 Frances	e	Frances
 nálgast	sfm3en	nálgast
 strönd	nveo	strönd
 Flórída	nhee-s	Flórída
 .	.	.
-
 Skúraklakkarnir	nkfng	skúraklakki
 sem	ct	sem
 eru	sfg3fn	vera
@@ -2593,7 +2470,6 @@ lægðardrögum	nhfþ	lægðardrag
 í	aþ	í
 staðvindabeltinu	nheþg	staðvindabelti
 .	.	.
-
 Þegar	c	þegar
 komið	sþghen	koma
 er	sfg3en	vera
@@ -2619,7 +2495,6 @@ að	aþ	að
 miðju	lheþsf	miður
 lægðar	nvee	lægð
 .	.	.
-
 Kemst	sfm3en	koma
 þannig	aa	þannig
 á	aa	á
@@ -2637,7 +2512,6 @@ jarðar	nvee	jörð
 og	c	og
 miðflóttakrafti	nkeþ	miðflóttakraftur
 .	.	.
-
 Deila	nven	deila
 má	sfg3en	mega
 um	aa	um
@@ -2669,7 +2543,6 @@ loftsins	nheeg	loft
 umhverfis	ao	umhverfis
 fellibylinn	nkeog	fellibylur
 .	.	.
-
 Þrýstikrafturinn	nkeng	þrýstikraftur
 togar	sfg3en	toga
 loftið	nheog	loft
@@ -2695,7 +2568,6 @@ frá	aþ	frá
 miðju	nveþ	miðja
 lægðarinnar	nveeg	lægð
 .	.	.
-
 Oft	aa	oft
 er	sfg3en	vera
 miðað	sþghen	miða
@@ -2715,7 +2587,6 @@ fellibylur	nken	fellibylur
 geti	svg3en	geta
 myndast	ssm	mynda
 .	.	.
-
 Við	ao	við
 suðurströnd	nveo	suðurströnd
 Íslands	nhee-s	Ísland
@@ -2745,7 +2616,6 @@ myndast	ssm	mynda
 okkar	fp1fe	ég
 slóðum	nvfþ	slóð
 .	.	.
-
 Á	ao	á
 hinn	fakeo	hinn
 bóginn	nkeog	bógur
@@ -2773,7 +2643,6 @@ nærri	aa	nærri
 eins	aa	eins
 djúpar	lvfnsf	djúpur
 .	.	.
-
 Eru	sfg3fn	vera
 það	fphen	það
 svokallaðar	lvfnsf	svokallaður
@@ -2792,7 +2661,6 @@ tiltölulega	aa	tiltölulega
 hlýjan	lkeosf	hlýr
 sjó	nkeo	sjór
 .	.	.
-
 Líkt	aa	líkt
 og	c	og
 fellibyljir	nkfn	fellibylur
@@ -2811,7 +2679,6 @@ við	ao	við
 þéttingu	nveo	þétting
 raka	nkee	raki
 .	.	.
-
 Árlega	aa	árlega
 berast	sfm3fn	bera
 nokkrir	fokfn	nokkur
@@ -2845,7 +2712,6 @@ oft	aa	oft
 um	ao	um
 Ísland	nheo-s	Ísland
 .	.	.
-
 Leifar	nvfn	leif
 af	aþ	af
 fellibyl	nkeþ	fellibylur
@@ -2858,7 +2724,6 @@ mikið	lheosf	mikill
 september	nkeo	september
 1973	ta	1973
 .	.	.
-
 Tjón	nhen	tjón
 var	sfg3eþ	vera
 töluvert	lhensf	töluverður
@@ -2877,7 +2742,6 @@ féllu	sfg3fþ	falla
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Óveður	nhen	óveður
 þetta	fahen	þessi
 hefur	sfg3en	hafa
@@ -2887,7 +2751,6 @@ við	ao	við
 fellibylinn	nkeog	fellibylur
 Ellen	e	Ellen
 .	.	.
-
 Sagt	sþghen	segja
 er	sfg3en	vera
 frá	aþ	frá
@@ -2909,7 +2772,6 @@ hjá	aþ	hjá
 Bandarísku	lveþvf	bandarískur
 fellibyljastofnuninni	nveþg	fellibyljastofnun
 .	.	.
-
 Eins	aa	eins
 má	sfg3en	mega
 lesa	sng	lesa
@@ -2927,7 +2789,6 @@ Náttúrufræðingnum	nkeþgs	Náttúrufræðingur
 hefti	nheþ	hefti
 1990	ta	1990
 .	.	.
-
 Er	sfg3en	vera
 eitthvað	fohen	einhver
 til	aa	til
@@ -2941,7 +2802,6 @@ en	c	en
 kvöldroði	nken	kvöldroði
 þurrk	nkeo	þurrkur
 ?	?	?
-
 Ef	c	ef
 svo	aa	svo
 er	sfg3en	vera
@@ -2949,7 +2809,6 @@ er	sfg3en	vera
 hvers	fshee	hver
 vegna	ae	vegna
 ?	?	?
-
 Gömul	lvensf	gamall
 trú	nven	trú
 er	sfg3en	vera
@@ -2967,7 +2826,6 @@ talinn	sþgken	telja
 til	ae	til
 bóta	nvfe	bót
 .	.	.
-
 Erfitt	lhensf	erfiður
 er	sfg3en	vera
 að	cn	að
@@ -2980,7 +2838,6 @@ marktæk	lvensf	marktækur
 regla	nven	regla
 er	sfg3en	vera
 .	.	.
-
 Við	ao	við
 hefðbundnar	lvfosf	hefðbundinn
 veðurathuganir	nvfo	veðurathugun
@@ -3005,7 +2862,6 @@ um	ao	um
 nokkra	foveo	nokkur
 hríð	nveo	hríð
 .	.	.
-
 Hugsanlega	aa	hugsanlega
 mætti	svg3eþ	mega
 meta	sng	meta
@@ -3030,7 +2886,6 @@ og	c	og
 í	aþ	í
 niðurstöðum	nvfþ	niðurstaða
 .	.	.
-
 Forsenda	nven	forsenda
 þess	fphee	það
 að	c	að
@@ -3046,7 +2901,6 @@ ekki	aa	ekki
 hulin	lvensf	hulinn
 skýjum	nhfþ	ský
 .	.	.
-
 Morgunroði	nken	morgunroði
 sést	sfm3en	sjá
 semsagt	aa	semsagt
@@ -3067,7 +2921,6 @@ léttskýjað	lhensf	léttskýjaður
 í	aþ	í
 vestri	nheþ	vestur
 .	.	.
-
 Ef	c	ef
 sólin	nveng	sól
 skín	sfg3en	skína
@@ -3086,7 +2939,6 @@ orðið	ssg	verða
 mjög	aa	mjög
 mikill	lkensf	mikill
 .	.	.
-
 Nú	aa	nú
 hagar	sfg3en	haga
 svo	aa	svo
@@ -3106,7 +2958,6 @@ berast	sfm3fn	bera
 til	ae	til
 norðausturs	nhee	norðaustur
 .	.	.
-
 Má	sfg3en	mega
 því	aa	því
 túlka	sng	túlka
@@ -3133,7 +2984,6 @@ ekki	aa	ekki
 yfirvofandi	lvenof	yfirvofandi
 úrkoma	nven	úrkoma
 .	.	.
-
 Skýjabakki	nken	skýjabakki
 sem	ct	sem
 eykur	sfg3en	auka
@@ -3177,7 +3027,6 @@ væri	svg3eþ	vera
 þeirri	faveþ	sá
 átt	nveþ	átt
 .	.	.
-
 Ljóst	lhensf	ljós
 er	sfg3en	vera
 að	c	að
@@ -3193,7 +3042,6 @@ landshlutum	nkfþ	landshluti
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Suðvestanlands	aa	suðvestanlands
 fylgir	sfg3en	fylgja
 úrkoma	nven	úrkoma
@@ -3213,7 +3061,6 @@ síður	aam	síður
 við	aa	við
 norðaustanlands	aa	norðaustanlands
 .	.	.
-
 Margir	lkfnsf	margur
 aðrir	fokfn	annar
 annmarkar	nkfn	annmarki
@@ -3225,7 +3072,6 @@ roðareglum	nvfþ	roðaregla
 við	ao	við
 veðurspár	nvfo	veðurspá
 .	.	.
-
 Má	sfg3en	mega
 þar	aa	þar
 til	ae	til
@@ -3257,7 +3103,6 @@ rigni	svg3en	rigna
 með	aþ	með
 morgninum	nkeþg	morgunn
 .	.	.
-
 Þá	aa	þá
 fellur	sfg3en	falla
 hluti	nken	hluti
@@ -3283,7 +3128,6 @@ og	c	og
 úrkoman	nveng	úrkoma
 fellur	sfg3en	falla
 .	.	.
-
 Það	fphen	það
 á	sfg3en	eiga
 til	ae	til
@@ -3319,7 +3163,6 @@ morgun-	nkeo	morgunroði
 og	c	og
 kvöldroða	nkeo	kvöldroði
 .	.	.
-
 Hver	fsken	hver
 er	sfg3en	vera
 munurinn	nkeng	munur
@@ -3329,7 +3172,6 @@ og	c	og
 venjulegri	lveþsf	venjulegur
 hitamælingu	nveþ	hitamæling
 ?	?	?
-
 Daggarmark	nhen	daggarmark
 er	sfg3en	vera
 sá	faken	sá
@@ -3353,7 +3195,6 @@ rakinn	nkeng	raki
 loftinu	nheþg	loft
 þéttist	svm3en	þétta
 .	.	.
-
 Ýmsar	fovfn	ýmis
 leiðir	nvfn	leið
 eru	sfg3fn	vera
@@ -3382,7 +3223,6 @@ kvikasilfurskúlu	nveo	kvikasilfurskúla
 hefðbundins	lkeesf	hefðbundinn
 hitamælis	nkee	hitamælir
 .	.	.
-
 Sé	svg3en	vera
 loftið	nheng	loft
 ekki	aa	ekki
@@ -3393,7 +3233,6 @@ upp	aa	upp
 af	aþ	af
 dulunni	nveþg	dula
 .	.	.
-
 Við	ao	við
 það	fpheo	það
 tapast	sfm3en	tapa
@@ -3405,7 +3244,6 @@ hiti	nken	hiti
 hans	fpkee	hann
 lækkar	sfg3en	lækka
 .	.	.
-
 Því	fpheþ	það
 þurrara	lhenvm	þurr
 sem	ct	sem
@@ -3433,7 +3271,6 @@ og	c	og
 þurrum	lkeþsf	þurr
 hitamæli	nkeþ	hitamælir
 .	.	.
-
 Út	aa	út
 frá	aþ	frá
 þessum	fakeþ	þessi
@@ -3455,7 +3292,6 @@ vatnsgufunnar	nveeg	vatnsgufa
 í	aþ	í
 loftinu	nheþg	loft
 .	.	.
-
 Af	aþ	af
 þessu	faheþ	þessi
 sést	sfm3en	sjá
@@ -3479,7 +3315,6 @@ mæla	sng	mæla
 rakastig	nheo	rakastig
 loftsins	nheeg	loft
 .	.	.
-
 Hvernig	aa	hvernig
 er	sfg3en	vera
 veðurfar	nhen	veðurfar
@@ -3494,7 +3329,6 @@ svona	aa	svona
 mikill	lkensf	mikill
 ís	nken	ís
 ?	?	?
-
 Upphafleg	lvensf	upphaflegur
 spurning	nven	spurning
 var	sfg3eþ	vera
@@ -3502,7 +3336,6 @@ sem	c	sem
 hér	aa	hér
 segir	sfg3en	segja
 :	:	:
-
 Mig	fp1eo	ég
 hefur	sfg3en	hafa
 alltaf	aa	alltaf
@@ -3517,7 +3350,6 @@ veður	nhfn	veður
 á	aþ	á
 norðurpólnum	nkeþg	norðurpóll
 ?	?	?
-
 Er	sfg3en	vera
 bara	aa	bara
 frost	nhen	frost
@@ -3527,7 +3359,6 @@ en	c	en
 aldrei	aa	aldrei
 vindur	nken	vindur
 ?	?	?
-
 Af	aþ	af
 hverju	fsheþ	hver
 myndast	sfm3en	mynda
@@ -3535,7 +3366,6 @@ allur	foken	allur
 þessi	faken	þessi
 ís	nken	ís
 ?	?	?
-
 Ólíkt	lhensf	ólíkur
 því	faheþ	sá
 sem	ct	sem
@@ -3559,7 +3389,6 @@ allan	fokeo	allur
 ársins	nheeg	ár
 hring	nkeo	hringur
 .	.	.
-
 Engar	fovfn	enginn
 veðurathuganir	nvfn	veðurathugun
 eru	sfg3fn	vera
@@ -3593,7 +3422,6 @@ sinnum	nhfþ	sinn
 á	ao	á
 dag	nkeo	dagur
 .	.	.
-
 Á	aþ	á
 norðurslóðum	nvfþ	norðurslóð
 hafa	sfg3fn	hafa
@@ -3607,7 +3435,6 @@ mikil	lhfosf	mikill
 á	ao	á
 veðurfar	nheo	veðurfar
 .	.	.
-
 Ísinn	nkeng	ís
 sem	ct	sem
 þekur	sfg3en	þekja
@@ -3644,7 +3471,6 @@ vetrar	nkee	vetur
 og	c	og
 sumars	nhee	sumar
 .	.	.
-
 Yfir	ao	yfir
 kaldasta	lkeove	kaldur
 tíma	nkeo	tími
@@ -3668,7 +3494,6 @@ upp	aa	upp
 undir	ao	undir
 frostmark	nheo	frostmark
 .	.	.
-
 Í	aþ	í
 ljósi	nheþ	ljós
 þessa	fakee	þessi
@@ -3689,7 +3514,6 @@ allan	fokeo	allur
 ársins	nheeg	ár
 hring	nkeo	hringur
 .	.	.
-
 Ísland	nhen-s	Ísland
 er	sfg3en	vera
 í	aþ	í
@@ -3703,14 +3527,12 @@ er	sfg3en	vera
 mikill	lkensf	mikill
 lægðagangur	nken	lægðagangur
 .	.	.
-
 Lægðunum	nvfþg	lægð
 tengist	sfm3en	tengja
 úrkoma	nven	úrkoma
 og	c	og
 vindur	nken	vindur
 .	.	.
-
 Á	aþ	á
 norðurheimskautinu	nheþg	norðurheimskaut
 eru	sfg3fn	vera
@@ -3723,7 +3545,6 @@ en	c	en
 við	ao	við
 Ísland	nheo-s	Ísland
 .	.	.
-
 Vindur	nken	vindur
 er	sfg3en	vera
 því	aa	því
@@ -3746,7 +3567,6 @@ djúpar	lvfnsf	djúpur
 í	aþ	í
 vestanvindabeltinu	nheþg	vestanvindabelti
 .	.	.
-
 Úrkoma	nven	úrkoma
 í	aþ	í
 Norður-íshafinu	nheþgs	Norður-íshaf
@@ -3769,7 +3589,6 @@ láglendi	nheþ	láglendi
 sunnanverðu	lheþsf	sunnanverður
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Skýjahula	nven	skýjahula
 er	sfg3en	vera
 líka	aa	líka
@@ -3783,7 +3602,6 @@ en	c	en
 okkar	fp1fe	ég
 slóðum	nvfþ	slóð
 .	.	.
-
 Af	aþ	af
 þessu	faheþ	þessi
 má	sfg3en	mega
@@ -3819,12 +3637,10 @@ endurvarpast	sfm3fn	endurvarpa
 frá	aþ	frá
 ísnum	nkeþg	ís
 .	.	.
-
 Hvað	fshen	hver
 er	sfg3en	vera
 vindur	nken	vindur
 ?	?	?
-
 Lárétt	aa	lárétt
 hreyfing	nven	hreyfing
 andrúmslofts	nhee	andrúmsloft
@@ -3833,7 +3649,6 @@ jafnan	aa	jafnan
 kölluð	sþgven	kalla
 vindur	nken	vindur
 .	.	.
-
 Venja	nven	venja
 er	sfg3en	vera
 að	cn	að
@@ -3873,7 +3688,6 @@ hluta	nkeþ	hluti
 er	sfg3en	vera
 lóðrétt	lvensf	lóðréttur
 .	.	.
-
 Sem	c	sem
 dæmi	nheo	dæmi
 um	ao	um
@@ -3898,7 +3712,6 @@ eigin	lkeþof	eigin
 niður	ao	niður
 fjallshlíðar	nvfo	fjallshlíð
 .	.	.
-
 Meira	lhenvm	mikill
 er	sfg3en	vera
 sagt	sþghen	segja
@@ -3913,7 +3726,6 @@ hverju	fsheþ	hver
 er	sfg3en	vera
 vindur	nken	vindur
 ?	?	?
-
 og	c	og
 í	aþ	í
 öðru	foheþ	annar
@@ -3933,7 +3745,6 @@ norðurhveli	nheþ	norðurhvel
 jarðar	nvee	jörð
 ?	?	?
 .	.	.
-
 Af	aþ	af
 hverju	fsheþ	hver
 er	sfg3en	vera
@@ -3946,7 +3757,6 @@ rangsælis	aa	rangsælis
 norðurhveli	nheþ	norðurhvel
 jarðar	nvee	jörð
 ?	?	?
-
 Í	aþ	í
 lægðum	nvfþ	lægð
 og	c	og
@@ -3975,7 +3785,6 @@ og	c	og
 stærðfræðinginn	nkeog	stærðfræðingur
 Coriolis	e	Coriolis
 .	.	.
-
 Þrýstikraftur	nken	þrýstikraftur
 togar	sfg3en	toga
 loftið	nheog	loft
@@ -3983,7 +3792,6 @@ inn	aa	inn
 að	aþ	að
 lægð	nveþ	lægð
 .	.	.
-
 Sem	c	sem
 dæmi	nheo	dæmi
 um	ao	um
@@ -4013,7 +3821,6 @@ en	c	en
 utan	ae	utan
 hennar	fpvee	hún
 .	.	.
-
 Svigkraftur	nken	svigkraftur
 er	sfg3en	vera
 til	aa	til
@@ -4030,7 +3837,6 @@ hægri	lveevf	hægri
 á	aþ	á
 norðurhveli	nheþ	norðurhvel
 .	.	.
-
 Unnt	lhensf	unnt
 er	sfg3en	vera
 að	cn	að
@@ -4053,7 +3859,6 @@ frá	aþ	frá
 til	ae	til
 Keflavíkur	nvee-s	Keflavík
 .	.	.
-
 Á	aþ	á
 leiðinni	nveþg	leið
 snýst	sfm3en	snúa
@@ -4082,7 +3887,6 @@ fyrir	ao	fyrir
 vestan	aa	vestan
 land	nheo	land
 .	.	.
-
 Þetta	fahen	þessi
 gildir	sfg3en	gilda
 jafnvel	aa	jafnvel
@@ -4115,7 +3919,6 @@ farartækja	nhfe	farartæki
 á	aþ	á
 ferð	nveþ	ferð
 .	.	.
-
 Ísafjörður	nken-s	Ísafjörður
 snýst	sfm3en	snúa
 nefnilega	aa	nefnilega
@@ -4123,7 +3926,6 @@ hægar	aam	hægt
 en	c	en
 Keflavík	nven-s	Keflavík
 !	!	!
-
 Við	ao	við
 reikninga	nkfo	reikningur
 þykir	sfg3en	þykja
@@ -4145,7 +3947,6 @@ flugvélina	nveog	flugvél
 til	ae	til
 hægri	lveevf	hægri
 .	.	.
-
 Jafnvægi	nhen	jafnvægi
 næst	sfm3en	ná
 milli	ae	milli
@@ -4166,7 +3967,6 @@ hæðir	nvfo	hæð
 norðurhveli	nheþ	norðurhvel
 jarðar	nvee	jörð
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 miðað	sþghen	miða
@@ -4191,7 +3991,6 @@ og	c	og
 kunnugt	lhensf	kunnugur
 er	sfg3en	vera
 .	.	.
-
 Þar	aa	þar
 sem	ct	sem
 við	fp1fn	ég
@@ -4219,7 +4018,6 @@ klukku	nveþ	klukka
 kringum	ao	kringum
 hæðir	nvfo	hæð
 .	.	.
-
 Á	aþ	á
 suðurhveli	nheþ	suðurhvel
 jarðar	nvee	jörð
@@ -4252,7 +4050,6 @@ klukku	nveþ	klukka
 umhverfis	ao	umhverfis
 hæðir	nvfo	hæð
 .	.	.
-
 Til	ae	til
 að	cn	að
 átta	sng	átta
@@ -4308,7 +4105,6 @@ austri	nheþ	austur
 til	ae	til
 vesturs	nhee	vestur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 sá	faken	sá
@@ -4326,7 +4122,6 @@ fyrir	aþ	fyrir
 af	aþ	af
 svigkraftinum	nkeþg	svigkraftur
 .	.	.
-
 Ef	c	ef
 slík	fbven	slíkur
 hreyfing	nven	hreyfing
@@ -4355,7 +4150,6 @@ hana	fpveo	hún
 sunnan	aa	sunnan
 frá	aa	frá
 .	.	.
-
 Fyrra	lhenvm	fyrri
 sjónarhornið	nheng	sjónarhorn
 samsvarar	sfg3en	samsvara
@@ -4382,7 +4176,6 @@ frá	aa	frá
 á	aþ	á
 suðurhveli	nheþ	suðurhvel
 .	.	.
-
 Af	aþ	af
 þessu	faheþ	þessi
 má	sfg3en	mega
@@ -4404,7 +4197,6 @@ skiptum	sfg1fn	skipta
 um	ao	um
 sjónarhorn	nheo	sjónarhorn
 .	.	.
-
 Ef	c	ef
 við	fp1fn	ég
 hugsum	sfg1fn	hugsa
@@ -4444,7 +4236,6 @@ staðar	nkee	staður
 hin	gven	hinn
 sama	fbven	sami
 .	.	.
-
 Ef	c	ef
 við	fp1fn	ég
 værum	svg1fþ	vera
@@ -4480,7 +4271,6 @@ hreyfingin	nveng	hreyfing
 með	aþ	með
 klukku	nveþ	klukka
 .	.	.
-
 Af	aþ	af
 ofangreindri	lveþsf	ofangreindur
 lýsingu	nveþ	lýsing
@@ -4515,7 +4305,6 @@ samsíða	lkfnof	samsíða
 yfirborði	nheþ	yfirborð
 jarðar	nvee	jörð
 .	.	.
-
 Því	aa	því
 næst	sfm3en	ná
 ekki	aa	ekki
@@ -4536,7 +4325,6 @@ veður	nheo	veður
 um	ao	um
 slóðir	nvfo	slóð
 .	.	.
-
 Meira	lhenvm	mikill
 er	sfg3en	vera
 sagt	sþghen	segja
@@ -4563,7 +4351,6 @@ má	sfg3en	mega
 á	aþ	á
 bókasöfnum	nhfþ	bókasafn
 .	.	.
-
 Mundi	svg3eþ	munu
 vindakerfi	nhen	vindakerfi
 jarðar	nvee	jörð
@@ -4577,7 +4364,6 @@ væri	svg3eþ	vera
 fullkomlega	aa	fullkomlega
 hnöttótt	lvensf	hnöttóttur
 ?	?	?
-
 Vindar	nkfn	vindur
 á	aþ	á
 jörðinni	nveþg	jörð
@@ -4598,7 +4384,6 @@ loftsins	nheeg	loft
 milli	ae	milli
 svæða	nhfe	svæði
 .	.	.
-
 Þættir	nkfn	þáttur
 á	ao	á
 borð	nheo	borð
@@ -4621,7 +4406,6 @@ hvernig	aa	hvernig
 vindar	nkfn	vindur
 blása	sfg3fn	blása
 .	.	.
-
 Þótt	c	þótt
 jörðin	nveng	jörð
 væri	svg3eþ	vera
@@ -4660,7 +4444,6 @@ yrðu	svg3fþ	verða
 á	aþ	á
 vindakerfum	nhfþ	vindakerfi
 .	.	.
-
 Við	fp1fn	ég
 hugsum	sfg1fn	hugsa
 okkur	fp1fþ	ég
@@ -4686,7 +4469,6 @@ yrði	svg3eþ	verða
 við	ao	við
 miðbaug	nkeo	miðbaugur
 .	.	.
-
 Eðli	nhen	eðli
 varmaskipta	nhfe	varmaskipti
 milli	ae	milli
@@ -4706,7 +4488,6 @@ sama	fbhen	sami
 og	c	og
 fyrr	aam	fyrr
 .	.	.
-
 Á	ao	á
 hinn	fakeo	hinn
 bóginn	nkeog	bógur
@@ -4723,7 +4504,6 @@ hvernig	aa	hvernig
 vindar	nkfn	vindur
 blása	sfg3fn	blása
 .	.	.
-
 Ef	c	ef
 borin	sþghfn	bera
 eru	sfg3fn	vera
@@ -4744,7 +4524,6 @@ dæmis	nhee	dæmi
 lögun	nveþ	lögun
 vestanvindabeltisins	nheeg	vestanvindabelti
 .	.	.
-
 Talið	sþghen	telja
 er	sfg3en	vera
 að	c	að
@@ -4773,7 +4552,6 @@ hliðstæðu	nveo	hliðstæða
 á	aþ	á
 suðurhveli	nheþ	suðurhvel
 .	.	.
-
 Ástæða	nven	ástæða
 er	sfg3en	vera
 þvi	x	þvi
@@ -4798,7 +4576,6 @@ er	sfg3en	vera
 á	aþ	á
 jörðinni	nveþg	jörð
 .	.	.
-
 Líkön	nhfn	líkan
 sem	ct	sem
 notuð	sþghfn	nota
@@ -4827,7 +4604,6 @@ til	ae	til
 ráðstöfunar	nvee	ráðstöfun
 eru	sfg3fn	vera
 .	.	.
-
 Nokkur	foven	nokkur
 áhersla	nven	áhersla
 er	sfg3en	vera
@@ -4855,7 +4631,6 @@ og	c	og
 fjarri	aþ	fjarri
 þeim	fphfþ	það
 .	.	.
-
 Rannsóknir	nvfn	rannsókn
 sem	ct	sem
 gerðar	sþgvfn	gera
@@ -4888,7 +4663,6 @@ ekki	aa	ekki
 til	ae	til
 staðar	nkee	staður
 .	.	.
-
 Þá	aa	þá
 hefur	sfg3en	hafa
 komið	ssg	koma
@@ -4914,7 +4688,6 @@ og	c	og
 meginlands	nhee	meginland
 Evrópu	nvee-s	Evrópa
 .	.	.
-
 Af	aþ	af
 hverju	fsheþ	hver
 eru	sfg3fn	vera
@@ -4922,7 +4695,6 @@ fellibyljum	nkfþ	fellibylur
 gefin	sþghfn	gefa
 nöfn	nhfn	nafn
 ?	?	?
-
 Fellibyljum	nkfþ	fellibylur
 eru	sfg3fn	vera
 gefin	sþghfn	gefa
@@ -4934,7 +4706,6 @@ umræðu	nveo	umræða
 um	ao	um
 þá	fpkfo	hann
 .	.	.
-
 Nafngift	nven	nafngift
 er	sfg3en	vera
 auk	ae	auk
@@ -4956,7 +4727,6 @@ samtímis	aa	samtímis
 á	aþ	á
 ferð	nveþ	ferð
 .	.	.
-
 Fyrr	aam	fyrr
 á	aþ	á
 tímum	nkfþ	tími
@@ -4978,7 +4748,6 @@ frá	aþ	frá
 19.	ta	19.
 öld	nveþ	öld
 .	.	.
-
 Árið	nheog	ár
 1953	ta	1953
 hóf	sfg3eþ	hefja

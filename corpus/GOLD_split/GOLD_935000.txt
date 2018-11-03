@@ -1,7 +1,6 @@
 svo	aa	svo
 framvegis	aa	framvegis
 .	.	.
-
 Steinar	nkfn	steinn
 eða	c	eða
 grjót	nhfn	grjót
@@ -14,7 +13,6 @@ af	aþ	af
 einhverjum	fovfþ	einhver
 orsökum	nvfþ	orsök
 .	.	.
-
 Uppruni	nken	uppruni
 grjótsins	nheeg	grjót
 fer	sfg3en	fara
@@ -74,7 +72,6 @@ hita	nkeo	hiti
 og	c	og
 þrýsting	nkeo	þrýstingur
 .	.	.
-
 Roföflin	nhfng	rofafl
 eru	sfg3fn	vera
 sífellt	aa	sífellt
@@ -98,7 +95,6 @@ er	sfg3en	vera
 spurt	sþghen	spyrja
 um	aa	um
 .	.	.
-
 Molnun	nven	molnun
 og	c	og
 tæring	nven	tæring
@@ -134,7 +130,6 @@ brotnar	sfg3en	brotna
 á	aþ	á
 ströndinni	nveþg	strönd
 .	.	.
-
 Á	aþ	á
 Vísindavefnum	nkeþgs	Vísindavefur
 eru	sfg3fn	vera
@@ -146,7 +141,6 @@ bergtegundir	nvfo	bergtegund
 til	ae	til
 dæmis	nhee	dæmi
 :	:	:
-
 *	*	*
 Hvað	fshen	hver
 er	sfg3en	vera
@@ -156,7 +150,6 @@ hvernig	aa	hvernig
 myndast	sfm3en	mynda
 það	fphen	það
 ?	?	?
-
 eftir	ao	eftir
 Sigurð	nkeo-s	Sigurður
 Steinþórsson	nkeo-s	Steinþórsson
@@ -170,7 +163,6 @@ að	cn	að
 finna	sng	finna
 flöguberg	nheo	flöguberg
 ?	?	?
-
 eftir	ao	eftir
 Sigurð	nkeo-s	Sigurður
 Steinþórsson	nkeo-s	Steinþórsson
@@ -179,7 +171,6 @@ Hvað	fshen	hver
 er	sfg3en	vera
 líparít	nhen	líparít
 ?	?	?
-
 eftir	ao	eftir
 Sigurð	nkeo-s	Sigurður
 Steinþórsson	nkeo-s	Steinþórsson
@@ -192,7 +183,6 @@ grágrýti	nheþ	grágrýti
 og	c	og
 blágrýti	nheþ	blágrýti
 ?	?	?
-
 eftir	ao	eftir
 Sigurð	nkeo-s	Sigurður
 Steinþórsson	nkeo-s	Steinþórsson
@@ -212,7 +202,6 @@ eldstöðvum	nvfþ	eldstöð
 verði	svg3fn	verða
 til	aa	til
 ?	?	?
-
 eftir	ao	eftir
 Sigurð	nkeo-s	Sigurður
 Steinþórsson	nkeo-s	Steinþórsson
@@ -228,11 +217,9 @@ setlög	nhfn	setlag
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 ?	?	?
-
 eftir	ao	eftir
 Jón	nkeo-s	Jón
 Eiríksson	nkeo-s	Eiríksson
-
 Eins	aa	eins
 og	c	og
 fram	aa	fram
@@ -250,7 +237,6 @@ maður	nken	maður
 í	aþ	í
 heimi	nkeþ	heimur
 ?	?	?
-
 er	sfg3en	vera
 ekki	aa	ekki
 hlaupið	sþghen	hlaupa
@@ -286,7 +272,6 @@ er	sfg3en	vera
 í	aþ	í
 upplýsingagjöfinni	nveþg	upplýsingagjöf
 .	.	.
-
 Ýmsir	fokfn	ýmis
 reyna	sfg3fn	reyna
 þó	aa	þó
@@ -316,7 +301,6 @@ auðugasta	lheove	auðugur
 fólk	nheo	fólk
 heims	nkee	heimur
 .	.	.
-
 Þegar	c	þegar
 áðurnefnt	lhensf	áðurnefndur
 svar	nhen	svar
@@ -346,7 +330,6 @@ listans	nkeeg	listi
 mörg	lhfosf	margur
 ár	nhfo	ár
 .	.	.
-
 Eignir	nvfn	eign
 hans	fpkee	hann
 voru	sfg3fþ	vera
@@ -356,7 +339,6 @@ taldar	sþgvfn	telja
 milljarðar	nkfn	milljarður
 dollara	nkfe	dollari
 .	.	.
-
 Þrír	tfkfn	þrír
 ríkustu	lkfnve	ríkur
 menn	nkfn	maður
@@ -376,7 +358,6 @@ og	c	og
 Bill	e	Bill
 Gates	e	Gates
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 lista	nkeþ	listi
 Forbes	e	Forbes
@@ -404,7 +385,6 @@ auðugasta	lheove	auðugur
 fólk	nheo	fólk
 heims	nkee	heimur
 .	.	.
-
 Á	aþ	á
 toppnum	nkeþg	toppur
 trjónir	x	trjóna
@@ -422,7 +402,6 @@ metnar	sþgvfn	meta
 milljarða	nkfo	milljarður
 dollara	nkfe	dollari
 .	.	.
-
 Næst	aae	nærri
 ríkasti	lkenve	ríkur
 maður	nken	maður
@@ -440,7 +419,6 @@ Carlos	e	Carlos
 Slim	e	Slim
 Helu	e	Helu
 .	.	.
-
 Hann	fpken	hann
 hefur	sfg3en	hafa
 auðgast	ssm	auðga
@@ -456,7 +434,6 @@ um	ao	um
 milljarða	nkfo	milljarður
 dollara	nkfe	dollari
 .	.	.
-
 Áhugasömum	lkfþsf	áhugasamur
 lesendum	nkfþ	lesandi
 er	sfg3en	vera
@@ -469,7 +446,6 @@ Gylfa	nkee-s	Gylfi
 í	aþ	í
 heild	nveþ	heild
 .	.	.
-
 Þó	aa	þó
 svo	aa	svo
 að	c	að
@@ -491,13 +467,11 @@ svarið	nheng	svar
 mjög	aa	mjög
 fróðlegt	lhensf	fróðlegur
 .	.	.
-
 <	<	<
 Heimild	nven	heimild
 og	c	og
 mynd	nven	mynd
 >	>	>
-
 Við	fp1fn	ég
 hugsum	sfg1fn	hugsa
 kannski	aa	kannski
@@ -541,13 +515,11 @@ hlutverki	nheþ	hlutverk
 gegna	sfg3fn	gegna
 þær	fpvfn	hún
 ?	?	?
-
 Þar	aa	þar
 segir	sfg3en	segja
 meðal	ae	meðal
 annars	fohee	annar
 :	:	:
-
 Tárakirtlar	nkfn	tárakirtill
 eru	sfg3fn	vera
 undir	aþ	undir
@@ -557,7 +529,6 @@ yst	aae	úti
 efri	lhfþvm	efri
 augnlokum	nhfþ	augnlok
 .	.	.
-
 Þeir	fpkfn	hann
 eru	sfg3fn	vera
 álíka	aa	álíka
@@ -577,7 +548,6 @@ yfirborði	nheþ	yfirborð
 efri	lhfevm	efri
 augnloka	nhfe	augnlok
 .	.	.
-
 Tárin	nhfng	tár
 dreifast	sfm3fn	dreifa
 yfir	ao	yfir
@@ -594,7 +564,6 @@ síðan	aa	síðan
 að	aþ	að
 augnkrókum	nkfþ	augnkrókur
 .	.	.
-
 Þar	aa	þar
 eru	sfg3fn	vera
 tvenn	lhfnsf	tvennur
@@ -608,7 +577,6 @@ flytja	sfg3fn	flytja
 í	ao	í
 nefgöngin	nhfog	nefgöng
 .	.	.
-
 Tár	nhfn	tár
 eru	sfg3fn	vera
 vatnslausn	nven	vatnslausn
@@ -624,7 +592,6 @@ efni	nheo	efni
 nefnt	lheosf	nefndur
 lýsózým	nheo	lýsózým
 .	.	.
-
 Tárin	nhfng	tár
 hreinsa	sfg3fn	hreinsa
 ,	,	,
@@ -653,7 +620,6 @@ við	ao	við
 þurrt	lheosf	þurr
 andrúmsloftið	nheog	andrúmsloft
 .	.	.
-
 Tárin	nhfng	tár
 eru	sfg3fn	vera
 því	aa	því
@@ -671,7 +637,6 @@ sem	ct	sem
 af	aþ	af
 augnþurrki	nkeþ	augnþurrkur
 .	.	.
-
 Þetta	fahen	þessi
 hlutverk	nhen	hlutverk
 tára	nhfe	tár
@@ -695,7 +660,6 @@ augum	nhfþ	auga
 sínum	fehfþ	sinn
 rökum	lhfþsf	rakur
 .	.	.
-
 En	c	en
 svo	aa	svo
 eru	sfg3fn	vera
@@ -713,7 +677,6 @@ miklu	lheþsf	mikill
 tilfinningalegu	lheþsf	tilfinningalegur
 uppnámi	nheþ	uppnám
 .	.	.
-
 Þar	aa	þar
 er	sfg3en	vera
 maðurinn	nkeng	maður
@@ -739,7 +702,6 @@ við	ao	við
 tilfinningalegt	lheosf	tilfinningalegur
 áreiti	nheo	áreiti
 .	.	.
-
 Rannsóknir	nvfn	rannsókn
 hafa	sfg3fn	hafa
 leitt	ssg	leiða
@@ -768,7 +730,6 @@ rökum	nhfþ	rök
 dagsins	nkeeg	dagur
 önn	nveþ	önn
 .	.	.
-
 Svo	aa	svo
 virðist	sfm3en	virða
 sem	c	sem
@@ -790,7 +751,6 @@ losni	svg3en	losna
 um	ao	um
 spennu	nveo	spenna
 .	.	.
-
 En	c	en
 einnig	aa	einnig
 hefur	sfg3en	hafa
@@ -810,20 +770,17 @@ og	c	og
 tjá	sng	tjá
 tilfinningar	nvfo	tilfinning
 .	.	.
-
 Frekari	lkenvm	frekur
 fróðleikur	nken	fróðleikur
 á	aþ	á
 Vísindavefnum	nkeþgs	Vísindavefur
 :	:	:
-
 *	*	*
 Hvers	fshee	hver
 vegna	ae	vegna
 grátum	sfg1fn	gráta
 við	fp1fn	ég
 ?	?	?
-
 *	*	*
 Grætur	sfg3en	gráta
 einhver	foven	einhver
@@ -833,7 +790,6 @@ dýrategund	nven	dýrategund
 en	c	en
 maðurinn	nkeng	maður
 ?	?	?
-
 *	*	*
 Hvað	fshen	hver
 eru	sfg3fn	vera
@@ -843,11 +799,9 @@ saltkorn	nhfn	saltkorn
 einu	tfheþ	einn
 tári	nheþ	tár
 ?	?	?
-
 <	<	<
 Heimildir	nvfn	heimild
 >	>	>
-
 Morgunmatur	nken	morgunmatur
 er	sfg3en	vera
 oft	aa	oft
@@ -856,7 +810,6 @@ mikilvægasta	lvenve	mikilvægur
 máltíð	nven	máltíð
 dagsins	nkeeg	dagur
 .	.	.
-
 Í	aþ	í
 bæklingi	nkeþ	bæklingur
 frá	aþ	frá
@@ -878,7 +831,6 @@ segir	sfg3en	segja
 meðal	ae	meðal
 annars	fohee	annar
 :	:	:
-
 Fæði	nhen	fæði
 þeirra	fakfe	sá
 ,	,	,
@@ -898,7 +850,6 @@ fyrstu	lveþve	fyrstur
 máltíð	nveþ	máltíð
 dagsins	nkeeg	dagur
 .	.	.
-
 Morgunmaturinn	nkeng	morgunmatur
 skerpir	sfg3en	skerpa
 athyglina	nveog	athygli
@@ -925,7 +876,6 @@ vanda	nkeþ	vandi
 með	ao	með
 líkamsþyngdina	nveog	líkamsþyngd
 .	.	.
-
 Þetta	fahen	þessi
 má	sfg3en	mega
 ekki	aa	ekki
@@ -942,7 +892,6 @@ fólk	nheo	fólk
 sjálfkrafa	aa	sjálfkrafa
 feitt	lheosf	feitur
 .	.	.
-
 Sá	faken	sá
 sem	ct	sem
 ekki	aa	ekki
@@ -973,7 +922,6 @@ borðar	sfg3en	borða
 á	ao	á
 morgnana	nkfog	morgunn
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 er	sfg3en	vera
@@ -1011,7 +959,6 @@ bita	nkeo	biti
 milli	ae	milli
 mála	nhfe	mál
 .	.	.
-
 Sá	faken	sá
 biti	nken	biti
 er	sfg3en	vera
@@ -1039,7 +986,6 @@ hagstæða	lveosf	hagstæður
 samsetningu	nveo	samsetning
 næringarefna	nhfe	næringarefni
 .	.	.
-
 Á	aþ	á
 Vísindavefnum	nkeþgs	Vísindavefur
 eru	sfg3fn	vera
@@ -1064,7 +1010,6 @@ efst	aae	ofar
 til	ae	til
 hægri	lveevf	hægri
 .	.	.
-
 Hæsti	lkenve	hár
 tindur	nken	tindur
 Aserbaídsjan	nhee-s	Aserbaídsjan
@@ -1083,7 +1028,6 @@ Aserbaídsjan	nhee-s	Aserbaídsjan
 og	c	og
 Rússlands	nhee-s	Rússland
 .	.	.
-
 Þessi	faken	þessi
 tindur	nken	tindur
 nær	sfg3en	ná
@@ -1106,7 +1050,6 @@ hæsti	lkenve	hár
 tindur	nken	tindur
 Íslands	nhee-s	Ísland
 .	.	.
-
 Bazardüzü	e	Bazardüzü
 Dagi	e	Dagi
 nær	sfg3en	ná
@@ -1116,7 +1059,6 @@ upp	aa	upp
 metra	nkfe	metri
 hæð	nveo	hæð
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ekki	aa	ekki
@@ -1153,7 +1095,6 @@ er	sfg3en	vera
 hann	fpken	hann
 stór	lkensf	stór
 ?	?	?
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 er	sfg3en	vera
@@ -1169,7 +1110,6 @@ metrum	nkfþ	metri
 undir	aþ	undir
 sjávarmáli	nheþ	sjávarmál
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -1189,7 +1129,6 @@ mér	fp1eþ	ég
 um	ao	um
 Aserbaídsjan	nheo-s	Aserbaídsjan
 ?	?	?
-
 og	c	og
 um	ao	um
 Kákasus	nxeo-s	Kákasus
@@ -1204,13 +1143,11 @@ eitthvað	foheo	einhver
 um	ao	um
 Kákasuslöndin	nhfogs	Kákasusland
 ?	?	?
-
 <	<	<
 Heimildir	nvfn	heimild
 og	c	og
 mynd	nven	mynd
 >	>	>
-
 Í	aþ	í
 lögum	nhfþ	lag
 um	ao	um
@@ -1237,7 +1174,6 @@ fjórða	lheovf	fjórði
 hvert	foheo	hver
 ár	nheo	ár
 .	.	.
-
 Ef	c	ef
 aðeins	aa	aðeins
 einn	tfken	einn
@@ -1254,7 +1190,6 @@ forseti	nken	forseti
 án	ae	án
 atkvæðagreiðslu	nvee	atkvæðagreiðsla
 .	.	.
-
 Ef	c	ef
 forseti	nken	forseti
 deyr	sfg3en	deyja
@@ -1294,7 +1229,6 @@ frá	aþ	frá
 þeirri	faveþ	sá
 kosningu	nveþ	kosning
 .	.	.
-
 Frá	aþ	frá
 því	fpheþ	það
 að	c	að
@@ -1308,7 +1242,6 @@ gegnt	ssg	gegna
 embætti	nheþ	embætti
 forseta	nkee	forseti
 .	.	.
-
 Í	ao	í
 6	ta	6
 skipti	nhfo	skipti
@@ -1344,7 +1277,6 @@ sem	ct	sem
 kaus	sfg3eþ	kjósa
 forseta	nkeo	forseti
 .	.	.
-
 Fyrsti	lkenve	fyrstur
 forseti	nken	forseti
 Íslands	nhee-s	Ísland
@@ -1352,7 +1284,6 @@ var	sfg3eþ	vera
 Sveinn	nken-s	Sveinn
 Björnsson	nken-s	Björnsson
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 kjörinn	sþgken	kjósa
@@ -1367,7 +1298,6 @@ lýðveldisstofnun	nveo	lýðveldisstofnun
 júní	nkeo	júní
 1944	ta	1944
 .	.	.
-
 Ári	nheþ	ár
 síðar	aam	síðar
 var	sfg3eþ	vera
@@ -1380,7 +1310,6 @@ aftur	aa	aftur
 árið	nheog	ár
 1949	ta	1949
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 fjögurra	tfhfe	fjórir
 ára	nhfe	ár
@@ -1407,7 +1336,6 @@ forsetakosningar	nvfn	forsetakosning
 ári	nheþ	ár
 fyrr	aam	fyrr
 .	.	.
-
 Ásgeir	nken-s	Ásgeir
 Ásgeirsson	nken-s	Ásgeirsson
 var	sfg3eþ	vera
@@ -1423,7 +1351,6 @@ til	ae	til
 embættis	nhee	embætti
 1952	ta	1952
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 síðan	aa	síðan
@@ -1440,7 +1367,6 @@ sinnum	nhfþ	sinn
 og	c	og
 1964	ta	1964
 .	.	.
-
 Þriðji	lkenvf	þriðji
 forseti	nken	forseti
 Íslands	nhee-s	Ísland
@@ -1459,7 +1385,6 @@ atkvæðagreiðslu	nveþ	atkvæðagreiðsla
 árið	nheog	ár
 1968	ta	1968
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 tvívegis	aa	tvívegis
@@ -1472,7 +1397,6 @@ atkvæðagreiðslu	nvee	atkvæðagreiðsla
 og	c	og
 1976	ta	1976
 .	.	.
-
 Vigdís	nven-s	Vigdís
 Finnbogadóttir	nven-s	Finnbogadóttir
 var	sfg3eþ	vera
@@ -1493,7 +1417,6 @@ forseti	nken	forseti
 almennum	lvfþsf	almennur
 kosningum	nvfþ	kosning
 .	.	.
-
 Hún	fpven	hún
 tók	sfg3eþ	taka
 við	aþ	við
@@ -1509,7 +1432,6 @@ fjórum	tfhfþ	fjórir
 árum	nhfþ	ár
 seinna	aam	seint
 .	.	.
-
 Hún	fpven	hún
 gaf	sfg3eþ	gefa
 áfram	aa	áfram
@@ -1532,7 +1454,6 @@ gegnt	aþ	gegnt
 sitjandi	lkeþof	sitjandi
 forseta	nkeþ	forseti
 .	.	.
-
 Því	aa	því
 var	sfg3eþ	vera
 kosið	sþghen	kjósa
@@ -1545,7 +1466,6 @@ var	sfg3eþ	vera
 Vigdís	nven-s	Vigdís
 kjörin	sþgven	kjósa
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 svo	aa	svo
@@ -1555,12 +1475,10 @@ atkvæðagreiðslu	nvee	atkvæðagreiðsla
 árið	nheog	ár
 1992	ta	1992
 .	.	.
-
 Ólafur	nken-s	Ólafur
 Ragnar	nken-s	Ragnar
 Grímsson	nken-s	Grímsson
 .	.	.
-
 Sá	faken	sá
 fimmti	lkenvf	fimmti
 sem	ct	sem
@@ -1575,7 +1493,6 @@ er	sfg3en	vera
 Ragnar	nken-s	Ragnar
 Grímsson	nken-s	Grímsson
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 fyrst	aae	fyrr
@@ -1592,7 +1509,6 @@ atkvæðagreiðslu	nvee	atkvæðagreiðsla
 árið	nheog	ár
 2000	ta	2000
 .	.	.
-
 Árið	nheog	ár
 2004	ta	2004
 kom	sfg3eþ	koma
@@ -1613,7 +1529,6 @@ hann	fpken	hann
 var	sfg3eþ	vera
 kjörinn	sþgken	kjósa
 .	.	.
-
 Næstu	lvfnve	næstur
 forsetakosningar	nvfn	forsetakosning
 verða	sfg3fn	verða
@@ -1638,13 +1553,11 @@ kemur	sfg3en	koma
 til	ae	til
 atkvæðagreiðslu	nvee	atkvæðagreiðsla
 .	.	.
-
 <	<	<
 Heimildir	nvfn	heimild
 og	c	og
 mynd	nven	mynd
 >	>	>
-
 Fólk	nhen	fólk
 er	sfg3en	vera
 að	aþ	að
@@ -1667,7 +1580,6 @@ og	c	og
 spyrjandi	nken	spyrjandi
 telur	sfg3en	telja
 .	.	.
-
 Það	fphen	það
 ræðst	sfm3en	ráða
 mikið	aa	mikið
@@ -1697,7 +1609,6 @@ heilsufar	nhen	heilsufar
 er	sfg3en	vera
 betra	lhenvm	góður
 .	.	.
-
 Raunar	aa	raunar
 er	sfg3en	vera
 meðalhæð	nven	meðalhæð
@@ -1712,7 +1623,6 @@ lífsskilyrði	nhfn	lífsskilyrði
 þjóða	nvfe	þjóð
 eru	sfg3fn	vera
 .	.	.
-
 Meðalhæð	nven	meðalhæð
 fólks	nhee	fólk
 er	sfg3en	vera
@@ -1724,7 +1634,6 @@ mælikvarði	nken	mælikvarði
 lífsskilyrði	nhfo	lífsskilyrði
 þjóða	nvfe	þjóð
 .	.	.
-
 Það	fphen	það
 þarf	sfg3en	þurfa
 reyndar	aa	reyndar
@@ -1747,7 +1656,6 @@ að	cn	að
 skoða	sng	skoða
 áratugi	nkfo	áratugur
 .	.	.
-
 Sem	c	sem
 dæmi	nheo	dæmi
 má	sfg3en	mega
@@ -1774,7 +1682,6 @@ cm	as	cm
 í	ao	í
 180,0	ta	180,0
 .	.	.
-
 Á	aþ	á
 sama	fbkeþ	sami
 tíma	nkeþ	tími
@@ -1794,7 +1701,6 @@ um	ao	um
 4,2	ta	4,2
 cm	as	cm
 .	.	.
-
 Aukin	lvensf	aukinn
 velmegun	nven	velmegun
 og	c	og
@@ -1814,7 +1720,6 @@ ekki	aa	ekki
 allt	foheo	allur
 jákvætt	lheosf	jákvæður
 .	.	.
-
 Fólk	nhen	fólk
 hefur	sfg3en	hafa
 til	ae	til
@@ -1833,7 +1738,6 @@ hefur	sfg3en	hafa
 líka	aa	líka
 þyngst	ssm	þyngja
 .	.	.
-
 Nú	aa	nú
 er	sfg3en	vera
 svo	aa	svo
@@ -1854,26 +1758,22 @@ talað	sþghen	tala
 um	ao	um
 farald	nkeo	faraldur
 .	.	.
-
 Frekari	lkenvm	frekur
 fróðleikur	nken	fróðleikur
 á	aþ	á
 Vísindavefnum	nkeþgs	Vísindavefur
 :	:	:
-
 *	*	*
 Hvernig	aa	hvernig
 virkar	sfg3en	virka
 vaxtarhormón	nhen	vaxtarhormón
 ?	?	?
-
 *	*	*
 Hver	fsken	hver
 er	sfg3en	vera
 líkamsvöxtur	nken	líkamsvöxtur
 unglinga	nkfe	unglingur
 ?	?	?
-
 *	*	*
 Hvað	fshen	hver
 er	sfg3en	vera
@@ -1883,7 +1783,6 @@ maður	nken	maður
 heimi	nkeþ	heimur
 stór	lkensf	stór
 ?	?	?
-
 *	*	*
 Hvað	fshen	hver
 var	sfg3eþ	vera
@@ -1892,7 +1791,6 @@ maður	nken	maður
 Íslands	nhee-s	Ísland
 hár	lkensf	hár
 ?	?	?
-
 *	*	*
 Af	aþ	af
 hverju	fsheþ	hver
@@ -1905,26 +1803,22 @@ mikið	aa	mikið
 undanfarin	lhfosf	undanfarinn
 ár	nhfo	ár
 ?	?	?
-
 Er	sfg3en	vera
 Ísland	nhen-s	Ísland
 að	cn	að
 ná	sng	ná
 Ameríku	nveþ-s	Ameríka
 ?	?	?
-
 *	*	*
 Er	sfg3en	vera
 offita	nven	offita
 arfgeng	lvensf	arfgengur
 ?	?	?
-
 <	<	<
 Heimildir	nvfn	heimild
 og	c	og
 mynd	nven	mynd
 >	>	>
-
 Sá	faken	sá
 siður	nken	siður
 að	cn	að
@@ -1941,7 +1835,6 @@ margra	lvfesf	margur
 alda	nvfe	öld
 gamall	lkensf	gamall
 .	.	.
-
 Líklega	aa	líklega
 má	sfg3en	mega
 rekja	sng	rekja
@@ -1964,7 +1857,6 @@ vorjafndægri	nheþ	vorjafndægur
 25.	ta	25.
 mars	nkeo	mars
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 fornri	lveþsf	forn
 hefð	nveþ	hefð
@@ -1985,7 +1877,6 @@ síðasti	lkenve	síðari
 dagur	nken	dagur
 nýárshátíðarinnar	nveeg	nýárshátíð
 .	.	.
-
 Nýárið	nheng	nýár
 var	sfg3eþ	vera
 fært	sþghen	færa
@@ -2015,7 +1906,6 @@ hluti	nken	hluti
 af	aþ	af
 nýárshátíðahöldum	nhfþ	nýárshátíðahald
 .	.	.
-
 Ef	c	ef
 einhver	foken	einhver
 lesandi	nken	lesandi
@@ -2048,7 +1938,6 @@ aprílhlaupið	nheng	aprílhlaup
 sé	svg3en	vera
 fullgilt	lhensf	fullgildur
 .	.	.
-
 Sumir	fokfn	sumur
 segja	sfg3fn	segja
 þó	aa	þó
@@ -2063,7 +1952,6 @@ yfir	ao	yfir
 einn	tfkeo	einn
 þröskuld	nkeo	þröskuldur
 .	.	.
-
 Nánar	aam	náið
 er	sfg3en	vera
 fjallað	sþghen	fjalla
@@ -2089,11 +1977,9 @@ fólk	nheo	fólk
 fyrsta	lkeove	fyrstur
 apríl	nkeo	apríl
 ?	?	?
-
 <	<	<
 Heimild	nven	heimild
 >	>	>
-
 Ein	foven	einn
 merkasta	lvenve	merkur
 uppgötvun	nven	uppgötvun
@@ -2122,7 +2008,6 @@ og	c	og
 eðli	nheþ	eðli
 sínu	feheþ	sinn
 .	.	.
-
 Vatn	nhen	vatn
 gufar	sfg3en	gufa
 upp	aa	upp
@@ -2145,7 +2030,6 @@ regn	nhen	regn
 eða	c	eða
 snjór	nken	snjór
 .	.	.
-
 Á	aþ	á
 landi	nheþ	land
 leysir	sfg3en	leysa
@@ -2163,7 +2047,6 @@ bera	sfg3fn	bera
 til	ae	til
 sjávar	nkee	sjár
 .	.	.
-
 Þar	aa	þar
 bíða	sfg3fn	bíða
 efnanna	nhfeg	efni
@@ -2188,7 +2071,6 @@ saltmyndanir	nvfn	saltmyndun
 við	ao	við
 uppgufun	nveo	uppgufun
 .	.	.
-
 Um	ao	um
 þetta	faheo	þessi
 fjallar	sfg3en	fjalla
@@ -2204,7 +2086,6 @@ er	sfg3en	vera
 sjórinn	nkeng	sjór
 saltur	lkensf	saltur
 ?	?	?
-
 Ástæðan	nveng	ástæða
 fyrir	aþ	fyrir
 því	fpheþ	það
@@ -2243,7 +2124,6 @@ efna	nhfe	efni
 höfunum	nhfþg	haf
 tveimur	tfhfþ	tveir
 .	.	.
-
 Eins	aa	eins
 og	c	og
 sjá	sng	sjá
@@ -2259,7 +2139,6 @@ við	ao	við
 önnur	fohfo	annar
 höf	nhfo	haf
 .	.	.
-
 Dauðahafið	nhengs	Dauðahaf
 er	sfg3en	vera
 svo	aa	svo
@@ -2284,7 +2163,6 @@ kvarðanum	nkeþg	kvarði
 á	aþ	á
 kortinu	nheþg	kort
 .	.	.
-
 Til	ae	til
 þess	fphee	það
 að	c	að
@@ -2315,7 +2193,6 @@ um	ao	um
 og	c	og
 innhöf	nhfo	innhaf
 .	.	.
-
 Selta	nven	selta
 úthafanna	nhfeg	úthaf
 (	(	(
@@ -2330,7 +2207,6 @@ bilinu	nheþg	bil
 -	-	-
 37	ta	37
 ?	?	?
-
 (	(	(
 prómill	nhfn	prómill
 eða	c	eða
@@ -2338,7 +2214,6 @@ eða	c	eða
 partar	nkfn	partur
 )	)	)
 .	.	.
-
 Aðstæður	nvfn	aðstæður
 í	aþ	í
 öðrum	fohfþ	annar
@@ -2358,7 +2233,6 @@ minni	lvenvm	lítill
 eða	c	eða
 meiri	lvenvm	mikill
 .	.	.
-
 Til	ae	til
 dæmis	nhee	dæmi
 nemur	sfg3en	nema
@@ -2392,7 +2266,6 @@ Svartahafi	nheþ-s	Svartahaf
 um	ao	um
 Dardanellasund	nheo-s	Dardanellasund
 .	.	.
-
 Ferskvatnið	nheng	ferskvatn
 í	aþ	í
 þessum	fakeþ	þessi
@@ -2410,7 +2283,6 @@ er	sfg3en	vera
 fremur	aam	fremur
 salt	lhensf	saltur
 .	.	.
-
 Sigurður	nken-s	Sigurður
 Steinþórsson	nken-s	Steinþórsson
 hefur	sfg3en	hafa
@@ -2428,11 +2300,9 @@ Dauðahafið	nhengs	Dauðahaf
 svona	aa	svona
 salt	lhensf	saltur
 ?	?	?
-
 Þar	aa	þar
 segir	sfg3en	segja
 :	:	:
-
 Það	fphen	það
 er	sfg3en	vera
 innhaf	nhen	innhaf
@@ -2455,7 +2325,6 @@ er	sfg3en	vera
 undir	aþ	undir
 sjávarmáli	nheþ	sjávarmál
 .	.	.
-
 Uppgufun	nven	uppgufun
 er	sfg3en	vera
 í	aþ	í
@@ -2485,7 +2354,6 @@ lækkar	sfg3en	lækka
 vatnsborðið	nheng	vatnsborð
 stöðugt	aa	stöðugt
 .	.	.
-
 Ef	c	ef
 uppgufun	nven	uppgufun
 og	c	og
@@ -2502,7 +2370,6 @@ ekkert	fohen	enginn
 útstreymi	nhen	útstreymi
 sé	svg3en	vera
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 gufa	sfg3fn	gufa
@@ -2524,7 +2391,6 @@ seltan	nveng	selta
 með	aþ	með
 tímanum	nkeþg	tími
 .	.	.
-
 Hún	fpven	hún
 er	sfg3en	vera
 nú	aa	nú
@@ -2558,7 +2424,6 @@ og	c	og
 bætist	sfm3en	bæta
 við	aa	við
 .	.	.
-
 Aðstæður	nvfn	aðstæður
 í	aþ	í
 Svartahafinu	nheþgs	Svartahaf
@@ -2595,7 +2460,6 @@ og	c	og
 í	aþ	í
 Dauðahafinu	nheþgs	Dauðahaf
 .	.	.
-
 Svartahaf	nhen-s	Svartahaf
 er	sfg3en	vera
 innhaf	nhen	innhaf
@@ -2605,7 +2469,6 @@ Suðaustur-Evrópu	nvee-s	Suðaustur-Evrópa
 og	c	og
 Vestur-Asíu	nvee-s	Vestur-Asía
 .	.	.
-
 Það	fphen	það
 tengist	sfm3en	tengja
 Miðjarðarhafi	nheþ-s	Miðjarðarhaf
@@ -2616,7 +2479,6 @@ Marmarahaf	nheo-s	Marmarahaf
 og	c	og
 Dardenellasund	nheo-s	Dardenellasund
 .	.	.
-
 Í	ao	í
 Svartahaf	nheo-s	Svartahaf
 berst	sfm3en	bera
@@ -2626,7 +2488,6 @@ vatn	nhen	vatn
 og	c	og
 sjór	nken	sjór
 .	.	.
-
 Árlega	aa	árlega
 skila	sfg3fn	skila
 vatnsföll	nhfn	vatnsfall
@@ -2644,7 +2505,6 @@ stærst	lvense	stór
 þessara	fahfe	þessi
 fljóta	nhfe	fljót
 .	.	.
-
 Sjórinn	nkeng	sjór
 sem	ct	sem
 streymir	sfg3en	streyma
@@ -2659,7 +2519,6 @@ hafsbotninum	nkeþg	hafsbotn
 gegnum	ao	gegnum
 sundin	nhfog	sund
 .	.	.
-
 Svartahaf	nhen-s	Svartahaf
 «	«	«
 tapar	sfg3en	tapa
@@ -2673,7 +2532,6 @@ rennsli	nheþ	rennsli
 gegnum	ao	gegnum
 Bosporussund	nheo-s	Bosporussund
 .	.	.
-
 Aðstæður	nvfn	aðstæður
 í	aþ	í
 Svartahafi	nheþ-s	Svartahaf
@@ -2723,7 +2581,6 @@ hærri	lkenvm	hár
 en	c	en
 ferskvatnsins	nheeg	ferskvatn
 .	.	.
-
 Af	aþ	af
 því	fpheþ	það
 leiðir	sfg3en	leiða
@@ -2742,7 +2599,6 @@ en	c	en
 neðri	lhfnvm	neðri
 lög	nhfn	lag
 .	.	.
-
 Selta	nven	selta
 yfirborðssjávarins	nkeeg	yfirborðssjár
 er	sfg3en	vera
@@ -2764,7 +2620,6 @@ um	ao	um
 annars	fokee	annar
 staðar	nkee	staður
 .	.	.
-
 Þegar	c	þegar
 dýpra	aam	djúpt
 er	sfg3en	vera
@@ -2786,13 +2641,11 @@ en	c	en
 seltumagn	nhen	seltumagn
 úthafanna	nhfeg	úthaf
 .	.	.
-
 Frekari	lkenvm	frekur
 fróðleikur	nken	fróðleikur
 á	aþ	á
 Vísindavefnum	nkeþgs	Vísindavefur
 :	:	:
-
 *	*	*
 Hvers	fshee	hver
 vegna	ae	vegna
@@ -2800,7 +2653,6 @@ er	sfg3en	vera
 sjórinn	nkeng	sjór
 saltur	lkensf	saltur
 ?	?	?
-
 eftir	ao	eftir
 Sigurð	nkeo-s	Sigurður
 Steinþórsson	nkeo-s	Steinþórsson
@@ -2818,7 +2670,6 @@ hráefni	nhfo	hráefni
 í	ao	í
 salt	nheo	salt
 ?	?	?
-
 eftir	ao	eftir
 Sigurð	nkeo-s	Sigurður
 Steinþórsson	nkeo-s	Steinþórsson
@@ -2827,7 +2678,6 @@ Hvaðan	aa	hvaðan
 kemur	sfg3en	koma
 saltið	nheng	salt
 ?	?	?
-
 Er	sfg3en	vera
 það	fphen	það
 sama	fbhen	sami
@@ -2837,7 +2687,6 @@ er	sfg3en	vera
 í	aþ	í
 sjónum	nkeþg	sjór
 ?	?	?
-
 eftir	ao	eftir
 Ulriku	e	Ulriku
 Andersson	e	Andersson
@@ -2856,7 +2705,6 @@ skaðvaldur	nken	skaðvaldur
 umhverfi	nheþ	umhverfi
 okkar	fp1fe	ég
 ?	?	?
-
 eftir	ao	eftir
 Þorstein	nkeo-s	Þorsteinn
 Vilhjálmsson	nkeo-s	Vilhjálmsson
@@ -2871,7 +2719,6 @@ upp	aa	upp
 í	aþ	í
 vatni	nheþ	vatn
 ?	?	?
-
 eftir	ao	eftir
 Ágúst	nkeo-s	Ágúst
 Kvaran	nkeo-s	Kvaran
@@ -2881,7 +2728,6 @@ fiskar	nkfn	fiskur
 í	aþ	í
 Dauðahafinu	nheþgs	Dauðahaf
 ?	?	?
-
 eftir	ao	eftir
 JMH	as	JMH
 *	*	*
@@ -2894,16 +2740,13 @@ Svartahaf	nhen-s	Svartahaf
 þessum	fahfþ	þessi
 nöfnum	nhfþ	nafn
 ?	?	?
-
 eftir	ao	eftir
 Vigni	nkeo-s	Vignir
 Má	nkeo-s	Már
 Lýðsson	nkeo-s	Lýðsson
-
 <	<	<
 Heimildir	nvfn	heimild
 >	>	>
-
 HIV-veiran	nvengs	HIV-veira
 berst	sfm3en	bera
 á	aa	á
@@ -2916,7 +2759,6 @@ leggangaslími	nheþ	leggangaslím
 og	c	og
 blóði	nheþ	blóð
 .	.	.
-
 Smit	nhen	smit
 getur	sfg3en	geta
 átt	ssg	eiga
@@ -2938,7 +2780,6 @@ er	sfg3en	vera
 með	ao	með
 veiruna	nveog	veira
 .	.	.
-
 Einnig	aa	einnig
 berst	sfm3en	bera
 smit	nhen	smit
@@ -2961,7 +2802,6 @@ sýkt	lhensf	sýktur
 af	aþ	af
 veirunni	nveþg	veira
 .	.	.
-
 Smit	nhen	smit
 getur	sfg3en	geta
 líka	aa	líka
@@ -2978,7 +2818,6 @@ fæðingu	nveo	fæðing
 eða	c	eða
 brjóstagjöf	nveo	brjóstagjöf
 .	.	.
-
 Ef	c	ef
 aðeins	aa	aðeins
 einn	tfken	einn
@@ -3007,7 +2846,6 @@ að	cn	að
 smita	sng	smita
 hann	fpkeo	hann
 .	.	.
-
 Fólk	nhen	fólk
 smitast	sfm3en	smita
 ekki	aa	ekki
@@ -3019,7 +2857,6 @@ stundar	sfg3en	stunda
 kynlíf	nheo	kynlíf
 eitt	lhensf	einn
 .	.	.
-
 Þekktar	lvfnsf	þekktur
 smitleiðir	nvfn	smitleið
 fyrir	ao	fyrir
@@ -3040,14 +2877,12 @@ sprautunála	nvfe	sprautunál
 eða	c	eða
 blóðgjafir	nvfn	blóðgjöf
 .	.	.
-
 Aðrar	fovfn	annar
 smitleiðir	nvfn	smitleið
 eru	sfg3fn	vera
 ekki	aa	ekki
 kunnar	lvfnsf	kunnur
 .	.	.
-
 Sjálfsfróun	nven	sjálfsfróun
 getur	sfg3en	geta
 hins	fakee	hinn
@@ -3086,7 +2921,6 @@ Er	sfg3en	vera
 sjálfsfróun	nven	sjálfsfróun
 hættuleg	lvensf	hættulegur
 ?	?	?
-
 Ef	c	ef
 um	ao	um
 slíkt	fbheo	slíkur
@@ -3119,7 +2953,6 @@ hætta	nven	hætta
 á	aþ	á
 smiti	nheþ	smit
 .	.	.
-
 Á	aþ	á
 vef	nkeþ	vefur
 Landlæknisembættisins	nheegs	Landlæknisembættið
@@ -3134,7 +2967,6 @@ að	cn	að
 kynna	sng	kynna
 sér	fpkeþ	sig
 .	.	.
-
 Þar	aa	þar
 er	sfg3en	vera
 meðal	ae	meðal
@@ -3150,39 +2982,33 @@ HIV	as	HIV
 smitast	sfm3en	smita
 ekki	aa	ekki
 :	:	:
-
 *	*	*
 Við	ao	við
 venjulega	lveosf	venjulegur
 umgengni	nveo	umgengni
 .	.	.
-
 *	*	*
 Í	aa	í
 gegnum	ao	gegnum
 heilbrigða	lveosf	heilbrigður
 húð	nveo	húð
 .	.	.
-
 *	*	*
 Með	aþ	með
 lofti	nheþ	loft
 og	c	og
 vatni	nheþ	vatn
 .	.	.
-
 *	*	*
 Með	aþ	með
 flugnabiti	nheþ	flugnabit
 .	.	.
-
 *	*	*
 Með	aþ	með
 mat	nkeþ	matur
 og	c	og
 drykk	nkeþ	drykkur
 .	.	.
-
 *	*	*
 Með	aþ	með
 glösum	nhfþ	glas
@@ -3192,7 +3018,6 @@ og	c	og
 þess	fakee	sá
 háttar	nkee	háttur
 .	.	.
-
 *	*	*
 Með	aþ	með
 sængum	nvfþ	sæng
@@ -3202,49 +3027,41 @@ og	c	og
 þess	fakee	sá
 háttar	nkee	háttur
 .	.	.
-
 *	*	*
 Af	aþ	af
 salernissetum	nvfþ	salernisseta
 eða	c	eða
 baðkörum	nhfþ	baðkar
 .	.	.
-
 *	*	*
 Með	aþ	með
 kossum	nkfþ	koss
 .	.	.
-
 *	*	*
 Með	aþ	með
 hnerrum	nkfþ	hnerri
 og	c	og
 hósta	nkeþ	hósti
 .	.	.
-
 *	*	*
 Með	aþ	með
 svita	nkeþ	sviti
 .	.	.
-
 *	*	*
 Með	aþ	með
 hori	nheþ	hor
 og	c	og
 tárum	nhfþ	tár
 .	.	.
-
 *	*	*
 Með	aþ	með
 handabandi	nheþ	handaband
 .	.	.
-
 Frekari	lkenvm	frekur
 fróðleikur	nken	fróðleikur
 á	aþ	á
 Vísindavefnum	nkeþgs	Vísindavefur
 :	:	:
-
 *	*	*
 Getur	sfg3en	geta
 HIV-veiran	nvengs	HIV-veira
@@ -3252,7 +3069,6 @@ borist	ssm	bera
 með	aþ	með
 flugum	nvfþ	fluga
 ?	?	?
-
 *	*	*
 Er	sfg3en	vera
 alnæmi	nhen	alnæmi
@@ -3261,13 +3077,11 @@ sama	fbhen	sami
 og	c	og
 HIV-veiran	nvengs	HIV-veira
 ?	?	?
-
 *	*	*
 Hvernig	aa	hvernig
 byrjaði	sfg3eþ	byrja
 alnæmi	nhen	alnæmi
 ?	?	?
-
 *	*	*
 Er	sfg3en	vera
 hollt	lhensf	hollur
@@ -3275,7 +3089,6 @@ að	cn	að
 stunda	sng	stunda
 kynlíf	nheo	kynlíf
 ?	?	?
-
 Já	au	já
 það	fphen	það
 er	sfg3en	vera
@@ -3289,7 +3102,6 @@ einhverja	fokfo	einhver
 meðfædda	lkfosf	meðfæddur
 hæfileika	nkfo	hæfileiki
 .	.	.
-
 Sem	c	sem
 dæmi	nheo	dæmi
 má	sfg3en	mega
@@ -3300,7 +3112,6 @@ að	cn	að
 læra	sng	læra
 tungumál	nheo	tungumál
 .	.	.
-
 Eins	aa	eins
 og	c	og
 fram	aa	fram
@@ -3318,7 +3129,6 @@ ekki	aa	ekki
 þau	fphfn	það
 fæðast	sfm3fn	fæða
 ?	?	?
-
 kunnum	sfg1fn	kunna
 við	fp1fn	ég
 ekki	aa	ekki
@@ -3327,7 +3137,6 @@ tungumál	nheo	tungumál
 við	fp1fn	ég
 fæðumst	sfm1fn	fæða
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 hafa	sfg3fn	hafa
@@ -3350,7 +3159,6 @@ fyrstu	lhfþve	fyrstur
 árum	nhfþ	ár
 ævinnar	nveeg	ævi
 .	.	.
-
 Sama	fbheo	sami
 er	sfg3en	vera
 að	cn	að
@@ -3386,7 +3194,6 @@ að	cn	að
 geta	sng	geta
 lært	ssg	læra
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 okkur	fp1fþ	ég
@@ -3416,7 +3223,6 @@ læra	sng	læra
 svona	lkfoof	svona
 hluti	nkfo	hlutur
 .	.	.
-
 Svo	aa	svo
 er	sfg3en	vera
 annað	fohen	annar
@@ -3442,7 +3248,6 @@ hæfileika	nkfo	hæfileiki
 ákveðnum	lhfþsf	ákveðinn
 sviðum	nhfþ	svið
 .	.	.
-
 Við	fp1fn	ég
 getum	sfg1fn	geta
 ekki	aa	ekki
@@ -3464,7 +3269,6 @@ eða	c	eða
 framúrskarandi	lkfnof	framúrskarandi
 kokkar	nkfn	kokkur
 .	.	.
-
 Í	aþ	í
 þessu	faheþ	þessi
 spila	sfg3fn	spila
@@ -3491,7 +3295,6 @@ sjálfsagt	aa	sjálfsagt
 mjög	aa	mjög
 umdeilt	lhensf	umdeildur
 .	.	.
-
 Flestum	lkfþse	margur
 ætti	svg3eþ	eiga
 til	ae	til
@@ -3533,7 +3336,6 @@ heimsmeistarakeppni	nveþ	heimsmeistarakeppni
 á	aþ	á
 skíðum	nhfþ	skíði
 .	.	.
-
 Eins	aa	eins
 er	sfg3en	vera
 víst	lhensf	vís
@@ -3560,19 +3362,16 @@ fyrir	ao	fyrir
 miklar	lvfosf	mikill
 æfingar	nvfo	æfing
 .	.	.
-
 Frekari	lkenvm	frekur
 fróðleikur	nken	fróðleikur
 á	aþ	á
 Vísindavefnum	nkeþgs	Vísindavefur
 :	:	:
-
 *	*	*
 Hvað	fshen	hver
 er	sfg3en	vera
 greind	nven	greind
 ?	?	?
-
 *	*	*
 Hvers	fshee	hver
 vegna	ae	vegna
@@ -3584,14 +3383,12 @@ námi	nheþ	nám
 en	c	en
 öðrum	fokfþ	annar
 ?	?	?
-
 *	*	*
 Hvað	fshen	hver
 eru	sfg3fn	vera
 bráðger	lhfnsf	bráðger
 börn	nhfn	barn
 ?	?	?
-
 *	*	*
 Hafa	sfg3fn	hafa
 tilgátur	nvfn	tilgáta
@@ -3602,7 +3399,6 @@ fjölgreindir	nvfo	fjölgreind
 verið	ssg	vera
 sannaðar	sþgvfn	sanna
 ?	?	?
-
 Það	fphen	það
 er	sfg3en	vera
 talað	sþghen	tala
@@ -3655,7 +3451,6 @@ sínum	fevfþ	sinn
 á	aþ	á
 vinnustað	nkeþ	vinnustaður
 .	.	.
-
 Auðvitað	aa	auðvitað
 er	sfg3en	vera
 fólk	nhen	fólk
@@ -3682,7 +3477,6 @@ sé	svg3en	vera
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 En	c	en
 þegar	c	þegar
 einkenni	nhfn	einkenni
@@ -3726,7 +3520,6 @@ kulnun	nven	kulnun
 líkleg	lvensf	líklegur
 ástæða	nven	ástæða
 .	.	.
-
 Kulnun	nven	kulnun
 virðist	sfm3en	virða
 vera	sng	vera
@@ -3767,7 +3560,6 @@ samskipti	nhfo	samskipti
 við	ao	við
 viðskiptavini	nkfo	viðskiptavinur
 .	.	.
-
 Nánar	aam	náið
 er	sfg3en	vera
 fjallað	sþghen	fjalla
@@ -3788,7 +3580,6 @@ helst	aae	heldur
 til	ae	til
 ráða	nhfe	ráð
 ?	?	?
-
 Einnig	aa	einnig
 eru	sfg3fn	vera
 heimildirnar	nvfng	heimild
@@ -3801,13 +3592,11 @@ neðan	aa	neðan
 gott	lhensf	góður
 ítarefni	nhen	ítarefni
 .	.	.
-
 <	<	<
 Heimildir	nvfn	heimild
 og	c	og
 mynd	nven	mynd
 >	>	>
-
 Ský	nhfn	ský
 eru	sfg3fn	vera
 safn	nhen	safn
@@ -3827,7 +3616,6 @@ kólnar	sfg3en	kólna
 og	c	og
 þéttist	sfm3en	þétta
 .	.	.
-
 Þegar	c	þegar
 sólarljósið	nheng	sólarljós
 fellur	sfg3en	falla
@@ -3851,7 +3639,6 @@ sem	ct	sem
 hvítt	lheosf	hvítur
 ljós	nheo	ljós
 .	.	.
-
 Vatnsdropar	nkfn	vatnsdropi
 og	c	og
 ískristallar	nkfn	ískristallur
@@ -3880,7 +3667,6 @@ eru	sfg3fn	vera
 skýin	nhfng	ský
 hvít	lhfnsf	hvítur
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 í	aþ	í
@@ -3914,11 +3700,9 @@ er	sfg3en	vera
 snjórinn	nkeng	snjór
 hvítur	lkensf	hvítur
 ?	?	?
-
 Þar	aa	þar
 segir	sfg3en	segja
 :	:	:
-
 Snjór	nken	snjór
 er	sfg3en	vera
 samsettur	lkensf	samsettur
@@ -3929,7 +3713,6 @@ með	ao	með
 fjölbreytta	lveosf	fjölbreyttur
 lögun	nveo	lögun
 .	.	.
-
 Hver	foken	hver
 stakur	lkensf	stakur
 kristall	nken	kristall
@@ -3951,7 +3734,6 @@ líkt	aa	líkt
 og	c	og
 gler	nhen	gler
 .	.	.
-
 Hann	fpken	hann
 drekkur	sfg3en	drekka
 sáralítið	aa	sáralítið
@@ -3960,7 +3742,6 @@ sig	fpkeo	sig
 af	aþ	af
 geislun	nveþ	geislun
 .	.	.
-
 Þar	aa	þar
 sem	c	sem
 kristallarnir	nkfng	kristallur
@@ -3991,7 +3772,6 @@ speglast	sfm3en	spegla
 þeim	fahfþ	sá
 næstu	lhfþve	næstur
 .	.	.
-
 Snjórinn	nkeng	snjór
 endurvarpar	sfg3en	endurvarpa
 þess	fphee	það
@@ -4021,7 +3801,6 @@ hvíta	lveosf	hvítur
 í	aþ	í
 dagsbirtu	nveþ	dagsbirta
 .	.	.
-
 Ef	c	ef
 skýin	nhfng	ský
 eru	sfg3fn	vera
@@ -4040,7 +3819,6 @@ sig	fphfo	sig
 gráan	lkeosf	grár
 lit	nkeo	litur
 .	.	.
-
 Ský	nhfn	ský
 geta	sfg3fn	geta
 einnig	aa	einnig
@@ -4066,7 +3844,6 @@ niður	aa	niður
 gegnum	ao	gegnum
 það	fpheo	það
 .	.	.
-
 Á	aþ	á
 Vísindavefnum	nkeþgs	Vísindavefur
 eru	sfg3fn	vera
@@ -4083,7 +3860,6 @@ liti	nkfo	litur
 til	ae	til
 dæmis	nhee	dæmi
 :	:	:
-
 *	*	*
 Af	aþ	af
 hverju	fsheþ	hver
@@ -4091,7 +3867,6 @@ er	sfg3en	vera
 himinninn	nkeng	himinn
 blár	lkensf	blár
 ?	?	?
-
 *	*	*
 Hvað	fshen	hver
 verður	sfg3en	verða
@@ -4102,7 +3877,6 @@ litinn	nkeog	litur
 snjórinn	nkeng	snjór
 bráðnar	sfg3en	bráðna
 ?	?	?
-
 *	*	*
 Af	aþ	af
 hverju	fsheþ	hver
@@ -4117,7 +3891,6 @@ ekki	aa	ekki
 til	ae	til
 jarðar	nvee	jörð
 ?	?	?
-
 *	*	*
 Eru	sfg3fn	vera
 til	aa	til
@@ -4125,7 +3898,6 @@ margar	lvfnsf	margur
 gerðir	nvfn	gerð
 skýja	nhfe	ský
 ?	?	?
-
 *	*	*
 Hversu	aa	hversu
 hátt	aa	hátt
@@ -4135,19 +3907,16 @@ jörðina	nveog	jörð
 eru	sfg3fn	vera
 skýin	nhfng	ský
 ?	?	?
-
 *	*	*
 Hvernig	aa	hvernig
 myndast	sfm3fn	mynda
 snjókorn	nhfn	snjókorn
 ?	?	?
-
 <	<	<
 Heimildir	nvfn	heimild
 og	c	og
 mynd	nven	mynd
 >	>	>
-
 «	«	«
 Ég	fp1en	ég
 gæti	svg1eþ	geta
@@ -4191,7 +3960,6 @@ deyja	sng	deyja
 úr	aþ	úr
 hlátri	nkeþ	hlátur
 .	.	.
-
 En	c	en
 getur	sfg3en	geta
 hlátur	nken	hlátur
@@ -4201,7 +3969,6 @@ fólk	nheo	fólk
 til	ae	til
 dauða	nkee	dauði
 ?	?	?
-
 Á	aþ	á
 Wikipedia	e	Wikipedia
 og	c	og
@@ -4220,7 +3987,6 @@ dáið	ssg	deyja
 úr	aþ	úr
 hlátri	nkeþ	hlátur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 einkum	aa	einkum
@@ -4234,7 +4000,6 @@ geta	sng	geta
 orsakað	ssg	orsaka
 dauða	nkeo	dauði
 .	.	.
-
 Annars	fokee	annar
 vegar	nkee	vegur
 köfnun	nven	köfnun
@@ -4259,7 +4024,6 @@ eða	c	eða
 að	cn	að
 stríða	sng	stríða
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 er	sfg3en	vera
@@ -4273,7 +4037,6 @@ er	sfg3en	vera
 sögð	sþgven	segja
 algengari	lvenvm	algengur
 .	.	.
-
 Dæmi	nhfn	dæmi
 um	ao	um
 einstaklinga	nkfo	einstaklingur
@@ -4309,13 +4072,11 @@ gafst	sfm3eþ	gefa
 hjartað	nheng	hjarta
 upp	aa	upp
 .	.	.
-
 Þetta	fahen	þessi
 gerðist	sfm3eþ	gera
 árið	nheog	ár
 1975	ta	1975
 .	.	.
-
 Árið	nheog	ár
 1989	ta	1989
 átti	sfg3eþ	eiga
@@ -4359,7 +4120,6 @@ hjaraáfall	nheo	hjartaáfall
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 «	«	«
 Að	cn	að
 deyja	sng	deyja
@@ -4380,7 +4140,6 @@ betur	aam	vel
 við	aa	við
 hér	aa	hér
 ?	?	?
-
 Nú	aa	nú
 skal	sfg3en	skulu
 tekið	sþghen	taka
@@ -4394,7 +4153,6 @@ að	cn	að
 þessar	favfo	þessi
 heimildir	nvfo	heimild
 .	.	.
-
 Ekki	aa	ekki
 fundust	sfm3fþ	finna
 neinar	fovfn	neinn
@@ -4423,7 +4181,6 @@ aðra	fokfo	annar
 til	ae	til
 dauða	nkee	dauði
 .	.	.
-
 Á	aa	á
 meðan	c	meðan
 við	fp1fn	ég
@@ -4446,7 +4203,6 @@ fólk	nheo	fólk
 til	ae	til
 dauða	nkee	dauði
 .	.	.
-
 Andstætt	lhensf	andstæður
 þeirri	faveþ	sá
 fullyrðingu	nveþ	fullyrðing
@@ -4465,7 +4221,6 @@ lengir	sfg3en	lengja
 lífið	nheog	líf
 »	»	»
 .	.	.
-
 Miklu	lheþsf	mikill
 fleira	lhenvm	margur
 virðist	sfm3en	virða
@@ -4492,7 +4247,6 @@ og	c	og
 heilsu	nveo	heilsa
 fólks	nhee	fólk
 .	.	.
-
 Við	fp1fn	ég
 hljótum	sfg1fn	hljóta
 því	aa	því
@@ -4525,13 +4279,11 @@ og	c	og
 jafnvel	aa	jafnvel
 hlátur	nkeo	hlátur
 .	.	.
-
 Frekari	lkenvm	frekur
 fróðleikur	nken	fróðleikur
 á	aþ	á
 Vísindavefnum	nkeþgs	Vísindavefur
 :	:	:
-
 *	*	*
 Hvað	fshen	hver
 er	sfg3en	vera
@@ -4542,7 +4294,6 @@ hverju	fsheþ	hver
 hlæjum	sfg1fn	hlæja
 við	fp1fn	ég
 ?	?	?
-
 *	*	*
 Hvers	fshee	hver
 vegna	ae	vegna
@@ -4552,7 +4303,6 @@ að	aþ	að
 óförum	nvfþ	óför
 annarra	fokfe	annar
 ?	?	?
-
 *	*	*
 Hvers	fshee	hver
 vegna	ae	vegna
@@ -4563,7 +4313,6 @@ fólk	nhen	fólk
 er	sfg3en	vera
 kitlað	sþghen	kitla
 ?	?	?
-
 *	*	*
 Hvað	fsheo	hver
 sögðu	sfg3fþ	segja
@@ -4573,11 +4322,9 @@ forna	lkeevf	forn
 um	ao	um
 hlátur	nkeo	hlátur
 ?	?	?
-
 <	<	<
 Heimildir	nvfn	heimild
 >	>	>
-
 Þorgerður	nven-s	Þorgerður
 Þorvaldsdóttir	nven-s	Þorvaldsdóttir
 fjallar	sfg3en	fjalla
@@ -4597,7 +4344,6 @@ ljóskur	nvfn	ljóska
 taldar	sþgvfn	telja
 heimskar	lvfnsf	heimskur
 ?	?	?
-
 Þar	aa	þar
 kemur	sfg3en	koma
 fram	aa	fram
@@ -4615,7 +4361,6 @@ háralitar	nkee	háralitur
 og	c	og
 greindar	nvee	greind
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 er	sfg3en	vera
@@ -4626,7 +4371,6 @@ ljóskuna	nveog	ljóska
 mjög	aa	mjög
 lífseig	lvensf	lífseigur
 .	.	.
-
 Flestir	lkfnse	margur
 kunna	sfg3fn	kunna
 einhverja	fokfo	einhver
@@ -4651,7 +4395,6 @@ og	c	og
 afkomu	nveo	afkoma
 fólks	nhee	fólk
 .	.	.
-
 Sem	c	sem
 dæmi	nheo	dæmi
 nefnir	sfg3en	nefna
@@ -4701,7 +4444,6 @@ eða	c	eða
 grátt	lheosf	grár
 hár	nheo	hár
 .	.	.
-
 Því	fpheþ	það
 er	sfg3en	vera
 gjarnan	aa	gjarnan
@@ -4737,7 +4479,6 @@ af	aþ	af
 heimsku	lveþvf	heimskur
 ljóskunni	nveþg	ljóska
 .	.	.
-
 Og	c	og
 kannski	aa	kannski
 er	sfg3en	vera
@@ -4748,7 +4489,6 @@ einmitt	aa	einmitt
 andstæða	nven	andstæða
 ljóskunnar	nveeg	ljóska
 .	.	.
-
 Nema	c	nema
 fyrir	ao	fyrir
 þá	faveo	sá
@@ -4760,7 +4500,6 @@ yfirleitt	aa	yfirleitt
 líka	aa	líka
 ljóshærður	lkensf	ljóshærður
 !	!	!
-
 Háralitur	nken	háralitur
 stafar	sfg3en	stafa
 af	aþ	af
@@ -4775,7 +4514,6 @@ litfrumum	nvfþ	litfruma
 merg	nkeþ	mergur
 hársekks	nkee	hársekkur
 .	.	.
-
 Melanínið	nheng	melanín
 berst	sfm3en	bera
 þaðan	aa	þaðan
@@ -4791,7 +4529,6 @@ af	aþ	af
 gerð	nveþ	gerð
 melanínsins	nheeg	melanín
 .	.	.
-
 Eumelanín	nhen	eumelanín
 gefur	sfg3en	gefa
 brúnt	lheosf	brúnn
@@ -4807,7 +4544,6 @@ ljóst	lheosf	ljós
 eða	c	eða
 rautt	lheosf	rauður
 .	.	.
-
 Hvers	fskee	hver
 konar	nkee	konar
 melanín	nheo	melanín
@@ -4824,7 +4560,6 @@ frá	aþ	frá
 foreldrum	nkfþ	foreldrar
 sínum	fekfþ	sinn
 .	.	.
-
 Þegar	c	þegar
 fólk	nhen	fólk
 eldist	sfm3en	elda
@@ -4838,7 +4573,6 @@ að	cn	að
 mynda	sng	mynda
 melanín	nheo	melanín
 .	.	.
-
 Í	aþ	í
 raun	nveþ	raun
 verða	sfg3fn	verða
@@ -4853,7 +4587,6 @@ eða	c	eða
 hvítan	lkeosf	hvítur
 lit	nkeo	litur
 .	.	.
-
 Á	aa	á
 meðan	c	meðan
 eitthvað	fohen	einhver
@@ -4875,7 +4608,6 @@ verður	sfg3en	verða
 það	fphen	það
 hvítt	lhensf	hvítur
 .	.	.
-
 Ef	c	ef
 fólk	nhen	fólk
 með	ao	með
@@ -4907,7 +4639,6 @@ hvítu	lhfþvf	hvítur
 hárunum	nhfþg	hár
 fjölgaði	svg3eþ	fjölga
 ?	?	?
-
 Þeim	fpkfþ	hann
 sem	ct	sem
 hafa	sfg3fn	hafa
@@ -4939,7 +4670,6 @@ um	ao	um
 þessi	fahfo	þessi
 efni	nhfo	efni
 :	:	:
-
 *	*	*
 Af	aþ	af
 hverju	fsheþ	hver
@@ -4948,7 +4678,6 @@ fólk	nhen	fólk
 mismunandi	lkeoof	mismunandi
 háralit	nkeo	háralitur
 ?	?	?
-
 *	*	*
 Eru	sfg3fn	vera
 litningar	nkfn	litningur
@@ -4957,14 +4686,12 @@ rauðhærðum	lkfþsf	rauðhærður
 eitthvað	fohen	einhver
 gallaðir	lkfnsf	gallaður
 ?	?	?
-
 *	*	*
 Hvers	fshee	hver
 vegna	ae	vegna
 grána	sfg3fn	grána
 mannshár	nhfn	mannshár
 ?	?	?
-
 *	*	*
 Getur	sfg3en	geta
 hárið	nheng	hár
@@ -4977,7 +4704,6 @@ fyrir	aþ	fyrir
 skelfilegu	lheþsf	skelfilegur
 áfalli	nheþ	áfall
 ?	?	?
-
 *	*	*
 Hvaða	fsken	hvaða
 munur	nken	munur
@@ -4988,13 +4714,11 @@ og	c	og
 dökku	lheþsf	dökkur
 hári	nheþ	hár
 ?	?	?
-
 *	*	*
 Hvað	fshen	hver
 er	sfg3en	vera
 greind	nven	greind
 ?	?	?
-
 *	*	*
 Hvers	fshee	hver
 vegna	ae	vegna

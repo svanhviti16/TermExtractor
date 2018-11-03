@@ -8,7 +8,6 @@ að	cn	að
 kynnast	snm	kynna
 þér	fp2eþ	þú
 .	.	.
-
 Betri	lveþvm	góður
 manneskju	nveþ	manneskja
 á	sfg1en	eiga
@@ -18,13 +17,11 @@ eftir	aa	eftir
 að	cn	að
 kynnast	snm	kynna
 .	.	.
-
 Þú	fp2en	þú
 varst	sfg2eþ	vera
 líka	aa	líka
 sterk	lvensf	sterkur
 .	.	.
-
 Ég	fp1en	ég
 dáðist	sfm1eþ	dá
 að	c	að
@@ -37,7 +34,6 @@ lengi	aa	lengi
 löngu	lhfþvf	langur
 veikindum	nhfþ	veikindi
 .	.	.
-
 Þú	fp2en	þú
 varst	sfg2eþ	vera
 alltaf	aa	alltaf
@@ -49,7 +45,6 @@ gafst	sfm2eþ	gefa
 aldrei	aa	aldrei
 upp	aa	upp
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 gott	lhensf	góður
@@ -61,7 +56,6 @@ líður	sfg3en	líða
 þér	fp2eþ	þú
 betur	aam	vel
 .	.	.
-
 Takk	au	takk
 fyrir	ao	fyrir
 að	cn	að
@@ -76,7 +70,6 @@ af	aþ	af
 mínu	feheþ	minn
 lífi	nheþ	líf
 .	.	.
-
 Mér	fp1eþ	ég
 mun	sfg3en	munu
 alltaf	aa	alltaf
@@ -91,20 +84,16 @@ að	cn	að
 sakna	sng	sakna
 þín	fp2ee	þú
 .	.	.
-
 Hvíl	sbg2en	hvíla
 þú	fp2en	þú
 í	aþ	í
 friði	nkeþ	friður
 .	.	.
-
 Þín	feven	þinn
 Eyrún	nven-s	Eyrún
 .	.	.
-
 Jón	nken-s	Jón
 Hólmgeir	nken-s	Hólmgeir
-
 Anna	nven-s	Anna
 Bára	nven-s	Bára
 Kristinsdóttir	nven-s	Kristinsdóttir
@@ -122,7 +111,6 @@ við	ao	við
 Eyjafjörð	nkeo-s	Eyjafjörður
 29.11	ta	29.11
 .	.	.
-
 Börn	nhfn	barn
 úr	aþ	úr
 7-9	ta	7-9
@@ -166,7 +154,6 @@ sr.	as	sr.
 Þórhildur	nven-s	Þórhildur
 Ólafs	nkee-s	Ólafur
 .	.	.
-
 Sóknarnefnd	nven	sóknarnefnd
 býður	sfg3en	bjóða
 léttan	lkeosf	léttur
@@ -177,7 +164,6 @@ safnaðarsal	nkeþ	safnaðarsalur
 eftir	ao	eftir
 guðsþjónustu	nveo	guðsþjónusta
 .	.	.
-
 Málsverðinn	nkeog	málsverður
 sjá	sfg3fn	sjá
 Hafþór	nken-s	Hafþór
@@ -187,7 +173,6 @@ um	ao	um
 og	c	og
 útbúa	sfg3fn	útbúa
 .	.	.
-
 Athugið	sbg2fn	athuga
 að	c	að
 á	ao	á
@@ -198,21 +183,18 @@ guðsþjónusta	nven	guðsþjónusta
 í	aþ	í
 kirkjunni	nveþg	kirkja
 .	.	.
-
 BÚSTAÐAKIRKJA	nven-s	Bústaðakirkja
 :	:	:
 Barnaguðsþjónusta	nven	barnaguðsþjónusta
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Söngur	nken	söngur
 ,	,	,
 fræðsla	nven	fræðsla
 ,	,	,
 gleði	nven	gleði
 .	.	.
-
 Foreldrar	nkfn	foreldrar
 ,	,	,
 afar	nkfn	afi
@@ -224,12 +206,10 @@ til	ae	til
 með	aþ	með
 börnunum	nhfþg	barn
 .	.	.
-
 Guðsþjónusta	nven	guðsþjónusta
 kl.	as	kl.
 14	ta	14
 .	.	.
-
 Hljómsveitin	nveng	hljómsveit
 The	e	The
 Beauteful	e	Beauteful
@@ -239,7 +219,6 @@ spilar	sfg3en	spila
 í	aþ	í
 messunni	nveþg	messa
 .	.	.
-
 Hljómsveitin	nveng	hljómsveit
 er	sfg3en	vera
 skipuð	lvensf	skipaður
@@ -247,7 +226,6 @@ unglingum	nkfþ	unglingur
 úr	aþ	úr
 Bústaðahverfi	nheþ-s	Bústaðahverfi
 .	.	.
-
 Hreiðar	nken-s	Hreiðar
 Örn	nken-s	Örn
 Zoëga	nken-s	Zoëga
@@ -261,20 +239,17 @@ flytur	sfg3en	flytja
 hugvekju	nveo	hugvekja
 dagsins	nkeeg	dagur
 .	.	.
-
 Fermingarbörn	nhfn	fermingarbarn
 aðstoða	sfg3fn	aðstoða
 við	ao	við
 athöfnina	nveog	athöfn
 .	.	.
-
 Molasopi	nken	molasopi
 og	c	og
 djús	nhen	djús
 eftir	ao	eftir
 messu	nveo	messa
 .	.	.
-
 Foreldrar	nkfn	foreldrar
 eru	sfg3fn	vera
 hvattir	sþgkfn	hvetja
@@ -285,11 +260,9 @@ ungmennunum	nhfþg	ungmenni
 til	ae	til
 messu	nvee	messa
 .	.	.
-
 Pálmi	nken-s	Pálmi
 Matthíasson	nken-s	Matthíasson
 .	.	.
-
 DÓMKIRKJAN	nvengs	Dómkirkja
 :	:	:
 Æskulýðsmessa	nven	æskulýðsmessa
@@ -300,7 +273,6 @@ umsjá	nveþ	umsjá
 æskulýðsleiðtoga	nkee	æskulýðsleiðtogi
 Dómkirkjunnar	nveegs	Dómkirkja
 .	.	.
-
 Barna-	nkengs	barnakór
 og	c	og
 unglingakórinn	nkeng	unglingakór
@@ -313,7 +285,6 @@ skemmtilegt	lhensf	skemmtilegur
 á	aþ	á
 dagskrá	nveþ	dagskrá
 .	.	.
-
 Æskulýðsmessa	nven	æskulýðsmessa
 kl.	as	kl.
 20	ta	20
@@ -321,13 +292,11 @@ kl.	as	kl.
 umsjá	nveþ	umsjá
 NEDÓ	as	NEDÓ
 .	.	.
-
 GRENSÁSKIRKJA	nven-s	Grensáskirkja
 :	:	:
 Æskulýðsdagur	nken	æskulýðsdagur
 þjóðkirkjunnar	nveeg	þjóðkirkja
 .	.	.
-
 Barnastarf	nhen	barnastarf
 kl.	as	kl.
 11	ta	11
@@ -344,7 +313,6 @@ unglinga	nkfe	unglingur
 úr	aþ	úr
 kirkjustarfinu	nheþg	kirkjustarf
 .	.	.
-
 Guðsþjónusta	nven	guðsþjónusta
 kl.	as	kl.
 11	ta	11
@@ -357,7 +325,6 @@ sem	ct	sem
 annast	sfm3fn	anna
 tónlist	nveo	tónlist
 o.fl.	as	o.fl.
-
 Guðni	nken-s	Guðni
 Már	nken-s	Már
 Harðarson	nken-s	Harðarson
@@ -370,17 +337,14 @@ skólahreyfingar	nvee	skólahreyfing
 ,	,	,
 prédikar	sfg3en	prédika
 .	.	.
-
 Samskot	nhfn	samskot
 til	ae	til
 Kristilegrar	lveesf	kristilegur
 skólahreyfingar	nvee	skólahreyfing
 .	.	.
-
 Ólafur	nken-s	Ólafur
 Jóhannsson	nken-s	Jóhannsson
 .	.	.
-
 GRUND	nven-s	Grund
 DVALAR-	nhen	dvalarheimili
 OG	c	og
@@ -390,30 +354,24 @@ Guðsþjónusta	nven	guðsþjónusta
 kl.	as	kl.
 14	ta	14
 .	.	.
-
 Altarisganga	nven	altarisganga
 .	.	.
-
 Organisti	nken	organisti
 Kjartan	nken-s	Kjartan
 Ólafsson	nken-s	Ólafsson
 .	.	.
-
 Sr.	as	Sr.
 Sveinbjörn	nken-s	Sveinbjörn
 Bjarnason	nken-s	Bjarnason
 .	.	.
-
 HALLGRÍMSKIRKJA	nven-s	Hallgrímskirkja
 :	:	:
 Æskulýðsdagurinn	nkeng	Æskulýðsdagur
 .	.	.
-
 Fræðslumorgunn	nken	fræðslumorgunn
 kl.	as	kl.
 10	ta	10
 .	.	.
-
 Barnaréttur-foreldraréttur	nken	barnaréttur-foreldraréttur
 :	:	:
 Ingibjörg	nven-s	Ingibjörg
@@ -422,7 +380,6 @@ Rafnar	nven-s	Rafnar
 umboðsmaður	nken	umboðsmaður
 barna	nhfe	barn
 .	.	.
-
 Fjölskylduguðsþjónusta	nven	fjölskylduguðsþjónusta
 kl.	as	kl.
 11	ta	11
@@ -436,7 +393,6 @@ sr.	as	sr.
 Sigurðar	nkee-s	Sigurður
 Pálssonar	nkee-s	Pálsson
 .	.	.
-
 Barna-	nken-s	barnakór
 og	c	og
 unglingakór	nken	unglingakór
@@ -448,13 +404,11 @@ Friðriks	nkee-s	Friðrik
 S.	as	S.
 Kristinssonar	nkee-s	Kristinsson
 .	.	.
-
 Organisti	nken	organisti
 Björn	nken-s	Björn
 Steinar	nken-s	Steinar
 Sólbergsson	nken-s	Sólbergsson
 .	.	.
-
 Samvera	nven	samvera
 kl.	as	kl.
 20	ta	20
@@ -475,7 +429,6 @@ sjá	sng	sjá
 um	ao	um
 dagskráratriði	nhfo	dagskráratriði
 .	.	.
-
 HÁTEIGSKIRKJA	nven-s	Háteigskirkja
 :	:	:
 Messa	nven	messa
@@ -484,13 +437,11 @@ barnaguðsþjónusta	nven	barnaguðsþjónusta
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Organisti	nken	organisti
 Douglas	e	Douglas
 A.	as	A.
 Brotchie	e	Brotchie
 .	.	.
-
 Umsjón	nven	umsjón
 með	aþ	með
 barnaguðsþjónustu	nveþ	barnaguðsþjónusta
@@ -505,18 +456,15 @@ og	c	og
 Annika	nven-s	Annika
 Neumann	nven-s	Neumann
 .	.	.
-
 Léttar	lvfnsf	léttur
 veitingar	nvfn	veiting
 eftir	ao	eftir
 messu	nveo	messa
 .	.	.
-
 Sr.	as	Sr.
 Tómas	nken-s	Tómas
 Sveinsson	nken-s	Sveinsson
 .	.	.
-
 LANDSPÍTALI	nken-s	Landspítali
 -	-	-
 HÁSKÓLASJÚKRAHÚS	nhen-s	Háskólasjúkrahús
@@ -527,7 +475,6 @@ kl.	as	kl.
 Landspítala	nkeþ-s	Landspítali
 Fossvogi	nkeþ-s	Fossvogur
 .	.	.
-
 Sr.	as	Sr.
 Birgir	nken-s	Birgir
 Ásgeirsson	nken-s	Ásgeirsson
@@ -536,29 +483,24 @@ organisti	nken	organisti
 Helgi	nken-s	Helgi
 Bragason	nken-s	Bragason
 .	.	.
-
 LANGHOLTSKIRKJA	nven-s	Langholtskirkja
 :	:	:
 Kirkja	nven	kirkja
 Guðbrands	nkee-s	Guðbrandur
 biskups	nkee	biskup
 .	.	.
-
 Fjölskyldumessa	nven	fjölskyldumessa
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Æskulýðsdagur	nken	æskulýðsdagur
 þjóðkirkjunnar	nveeg	þjóðkirkja
 .	.	.
-
 Stopp	nhen-s	Stopp
 leikhópurinn	nkeng	leikhópur
 sýnir	sfg3en	sýna
 leikrit	nheo	leikrit
 .	.	.
-
 Graduale	e	Graduale
 futuri	e	futuri
 syngur	sfg3en	syngja
@@ -567,7 +509,6 @@ stjórn	nveþ	stjórn
 Hörpu	nvee-s	Harpa
 Harðardóttur	nvee-s	Harðardóttir
 .	.	.
-
 Börn	nhfn	barn
 leika	sfg3fn	leika
 á	ao	á
@@ -578,7 +519,6 @@ ritningartexta	nkfo	ritningartexti
 og	c	og
 bænir	nvfo	bæn
 .	.	.
-
 Barnastarfið	nheng	barnastarf
 verður	sfg3en	verða
 allan	fokeo	allur
@@ -586,7 +526,6 @@ tímann	nkeog	tími
 í	aþ	í
 safnaðarheimilinu	nheþg	safnaðarheimili
 .	.	.
-
 Foreldrar	nkfn	foreldrar
 og	c	og
 afar	nkfn	afi
@@ -601,12 +540,10 @@ með	aþ	með
 börnum	nhfþ	barn
 sínum	fehfþ	sinn
 .	.	.
-
 Kaffisopi	nken	kaffisopi
 eftir	ao	eftir
 stundina	nveog	stund
 .	.	.
-
 LAUGARNESKIRKJA	nven-s	Laugarneskirkja
 :	:	:
 Fjölskyldumessa	nven	fjölskyldumessa
@@ -616,7 +553,6 @@ kl.	as	kl.
 æskulýðsdegi	nkeþ	æskulýðsdagur
 þjóðkirkjunnar	nveeg	þjóðkirkja
 .	.	.
-
 Umsjón	nveo	umsjón
 hefur	sfg3en	hafa
 sr.	as	sr.
@@ -661,7 +597,6 @@ leikur	sfg3en	leika
 á	ao	á
 gítar	nkeo	gítar
 .	.	.
-
 Fermingarmæðginin	nhfng	fermingarmæðgin
 Hildur	nven-s	Hildur
 Erlingsdóttir	nven-s	Erlingsdóttir
@@ -679,10 +614,8 @@ taka	sfg3fn	taka
 í	aþ	í
 þjónustunni	nveþg	þjónusta
 .	.	.
-
 Messukaffi	nhen	messukaffi
 .	.	.
-
 Aðalsafnaðarfundur	nken	aðalsafnaðarfundur
 Laugarneskirkju	nvee-s	Laugarneskirkja
 kl.	as	kl.
@@ -691,7 +624,6 @@ haldinn	sþgken	halda
 í	aþ	í
 safnaðarheimilinu	nheþg	safnaðarheimili
 .	.	.
-
 Allt	fohen	allur
 sóknarfólk	nhen	sóknarfólk
 hvatt	sþghen	hvetja
@@ -703,7 +635,6 @@ og	c	og
 upplýsandi	lkeþof	upplýsandi
 fundi	nkeþ	fundur
 .	.	.
-
 Harmonikkuball	nhen	harmonikkuball
 fermingarfjölskyldna	nvfe	fermingarfjölskylda
 og	c	og
@@ -719,20 +650,17 @@ höfuðborgarsvæðinu	nheþg	höfuðborgarsvæði
 Hátúni	nheþ-s	Hátún
 12	ta	12
 .	.	.
-
 NESKIRKJA	nven-s	Neskirkja
 :	:	:
 Fjölskyldumessa	nven	fjölskyldumessa
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Kór	nken-s	Kór
 Neskirkju	nvee-s	Neskirkja
 leiðir	sfg3en	leiða
 safnaðarsöng	nkeo	safnaðarsöngur
 .	.	.
-
 Börn	nhfn	barn
 úr	aþ	úr
 barna-	nheþ	barnastarf
@@ -746,7 +674,6 @@ fara	sfg3fn	fara
 með	ao	með
 bænir	nvfo	bæn
 .	.	.
-
 Barnakór	nken-s	barnakór
 Neskirkju	nvee-s	Neskirkja
 syngur	sfg3en	syngja
@@ -756,7 +683,6 @@ Steingríms	nkee-s	Steingrímur
 Þórhallssonar	nkee-s	Þórhallsson
 organista	nkee	organisti
 .	.	.
-
 Guðmunda	nven-s	Guðmunda
 I.	as	I.
 Gunnarsdóttir	nven-s	Gunnarsdóttir
@@ -766,7 +692,6 @@ Gunnar	nken-s	Gunnar
 Markússon	nken-s	Markússon
 prédika	sfg3fn	prédika
 .	.	.
-
 Sr.	as	Sr.
 Örn	nken-s	Örn
 Bárður	nken-s	Bárður
@@ -775,7 +700,6 @@ Jónsson	nken-s	Jónsson
 fyrir	aþ	fyrir
 altari	nheþ	altari
 .	.	.
-
 Eftir	ao	eftir
 messu	nveo	messa
 verður	sfg3en	verða
@@ -794,19 +718,16 @@ kökuhlaðborð	nheo	kökuhlaðborð
 vægu	lheþsf	vægur
 verði	nheþ	verð
 .	.	.
-
 SELTJARNARNESKIRKJA	nven-s	Seltjarnarneskirkja
 :	:	:
 Fjölskylduguðsþjónusta	nven	fjölskylduguðsþjónusta
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Æskulýðsdagurinn	nkeng	æskulýðsdagur
 haldinn	sþgken	halda
 hátíðlegur	lkensf	hátíðlegur
 .	.	.
-
 Fermingarbörn	nhfn	fermingarbarn
 Seltjarnarneskirkju	nvee-s	Seltjarnarneskirkja
 hafa	sfg3fn	hafa
@@ -820,7 +741,6 @@ og	c	og
 prestum	nkfþ	prestur
 kirkjunnar	nveeg	kirkja
 .	.	.
-
 Þau	fphfn	það
 lesa	sfg3fn	lesa
 lestra	nkfo	lestur
@@ -845,12 +765,10 @@ og	c	og
 leiða	sfg3fn	leiða
 sönginn	nkeog	söngur
 .	.	.
-
 Fermingarbarnakórinn	nkeng	fermingarbarnakór
 flytur	sfg3en	flytja
 gospellag	nheo	gospellag
 .	.	.
-
 Barnakórinn	nkeng	barnakór
 syngur	sfg3en	syngja
 undir	aþ	undir
@@ -858,7 +776,6 @@ stjórn	nveþ	stjórn
 Vieru	e	Vieru
 Manasek	e	Manasek
 .	.	.
-
 Samtalspredikun	nveo	samtalspredikun
 flytja	sfg3fn	flytja
 Hörður	nken-s	Hörður
@@ -869,18 +786,15 @@ sr.	as	sr.
 Arna	nven-s	Arna
 Grétarsdóttir	nven-s	Grétarsdóttir
 .	.	.
-
 Organisti	nken	organisti
 Pavel	e	Pavel
 Manasek	e	Manasek
 .	.	.
-
 Verið	sbg2fn	vera
 öll	fohfn	allur
 hjartanlega	aa	hjartanlega
 velkomin	lhfnsf	velkominn
 .	.	.
-
 Sr.	as	Sr.
 Arna	nven-s	Arna
 Grétarsdóttir	nven-s	Grétarsdóttir
@@ -889,19 +803,16 @@ leiðtogar	nkfn	leiðtogi
 æskulýðsstarfs	nhee	æskulýðsstarf
 kirkjunnar	nveeg	kirkja
 .	.	.
-
 Æskulýðsfélagið	nheng	æskulýðsfélag
 kl.	as	kl.
 20	ta	20
 .	.	.
-
 Söngstund	nven	söngstund
 kl.	as	kl.
 20.30	ta	20.30
 í	aþ	í
 kirkjunni	nveþg	kirkja
 .	.	.
-
 Mætum	svg1fn	mæta
 í	ao	í
 kirkjuna	nveog	kirkja
@@ -909,7 +820,6 @@ og	c	og
 syngjum	svg1fn	syngja
 saman	aa	saman
 .	.	.
-
 Sungnir	sþgkfn	syngja
 verða	sfg3fn	verða
 sálmar	nkfn	sálmur
@@ -919,7 +829,6 @@ nótum	nvfþ	nóta
 og	c	og
 gospel	nxen	gospel
 .	.	.
-
 Pavel	e	Pavel
 Manasek	e	Manasek
 leikur	sfg3en	leika
@@ -933,14 +842,12 @@ Grétarsdóttir	nven-s	Grétarsdóttir
 slær	sfg3en	slá
 gítarinn	nkeog	gítar
 .	.	.
-
 Ungir	lkfnsf	ungur
 sem	ct	sem
 aldnir	lkfnsf	aldinn
 hjartanlega	aa	hjartanlega
 velkomnir	lkfnsf	velkominn
 .	.	.
-
 FRÍKIRKJAN	nvengs	Fríkirkja
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
@@ -955,7 +862,6 @@ afmælis	nhee	afmæli
 Kvenfélags	nhee-s	Kvenfélag
 kirkjunnar	nveeg	kirkja
 .	.	.
-
 Lestrar	nkfn	lestur
 verða	sfg3fn	verða
 í	aþ	í
@@ -967,7 +873,6 @@ formanna	nkfe	formaður
 kvenfélags	nhee	kvenfélag
 kirkjunnar	nveeg	kirkja
 .	.	.
-
 Börn	nhfn	barn
 verða	sfg3fn	verða
 borin	sþghfn	bera
@@ -979,7 +884,6 @@ kirkjumunir	nkfn	kirkjumunir
 verða	sfg3fn	verða
 helgaðir	sþgkfn	helga
 .	.	.
-
 Tónlistarstjórarnir	nkfng	tónlistarstjóri
 Anna	nven-s	Anna
 Sigríður	nven-s	Sigríður
@@ -992,7 +896,6 @@ tónlistina	nveog	tónlist
 ásamt	aþ	ásamt
 Fríkirkjukórnum	nkeþgs	Fríkirkjukór
 .	.	.
-
 Þjónustan	nveng	þjónusta
 verður	sfg3en	verða
 í	aþ	í
@@ -1009,10 +912,8 @@ sem	ct	sem
 jafnframt	aa	jafnframt
 prédikar	sfg3en	prédika
 .	.	.
-
 Altarisganga	nven	altarisganga
 .	.	.
-
 Glæsilegt	lhensf	glæsilegur
 messukaffi	nhen	messukaffi
 í	aþ	í
@@ -1020,30 +921,25 @@ Safnaðarheimilinu	nheþgs	Safnaðarheimilið
 eftir	ao	eftir
 messuna	nveog	messa
 .	.	.
-
 ÁRBÆJARKIRKJA	nven-s	Árbæjarkirkja
 :	:	:
 Æskulýðsguðsþjónusta	nven	æskulýðsguðsþjónusta
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Börn	nhfn	barn
 úr	aþ	úr
 TTT-starfinu	nheþgs	TTT-starfið
 sýna	sfg3fn	sýna
 helgileik	nkeo	helgileikur
-
 Davíð	nken-s	Davíð
 og	c	og
 Golíat	nken-s	Golíat
-
 Börn	nhfn	barn
 úr	aþ	úr
 STN-starfinu	nheþgs	STN-starf
 syngja	sfg3fn	syngja
 .	.	.
-
 Börn	nhfn	barn
 í	aþ	í
 tónlistanámi	nheþ	tónlistanám
@@ -1053,9 +949,7 @@ hin	ghfo	hinn
 ýmsu	fohfo	ýmis
 hljóðfæri	nhfo	hljóðfæri
 .	.	.
-
 Kl.	as	kl.
-
 20	ta	20
 er	sfg3en	vera
 Léttmessa	nven	léttmessa
@@ -1063,7 +957,6 @@ Léttmessa	nven	léttmessa
 Jóelsig	nxen-s	Jóelsig
 leikur	sfg3en	leika
 .	.	.
-
 Ungmenni	nhfn	ungmenni
 sýna	sfg3fn	sýna
 Skrekk	nkeo-s	Skrekkur
@@ -1074,11 +967,9 @@ mikla	lveosf	mikill
 athygli	nveo	athygli
 sl.	as	sl.
 haust	nheo	haust
-
 Englar	nkfn-s	Engill
 heimsins	nkeeg	heimur
 .	.	.
-
 BREIÐHOLTSKIRKJA	nven-s	Breiðholtskirkja
 :	:	:
 Fjölskyldu-	nven	fjölskyldumessa
@@ -1087,18 +978,14 @@ og	c	og
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Börn	nhfn	barn
 úr	aþ	úr
 TTT	as	TTT
 sýna	sfg3fn	sýna
 leikþáttinn	nkeog	leikþáttur
-
 Óskir	nvfo-s	Ósk
 trjánna	nhfeg	tré
-
 .	.	.
-
 Fermingarbörn	nhfn	fermingarbarn
 lesa	sfg3fn	lesa
 bænir	nvfo	bæn
@@ -1106,7 +993,6 @@ og	c	og
 unglingahljómsveit	nven	unglingahljómsveit
 spilar	sfg3en	spila
 .	.	.
-
 Barnakórinn	nkeng	barnakór
 selur	sfg3en	selja
 kaffi	nheo	kaffi
@@ -1119,21 +1005,18 @@ styrktar	nvee	styrkt
 ferðasjóðnum	nkeþg	ferðasjóður
 sínum	fekeþ	sinn
 .	.	.
-
 DIGRANESKIRKJA	nven-s	Digraneskirkja
 :	:	:
 Æskulýðsmessa	nven	æskulýðsmessa
 kl	as	kl
 11	ta	11
 .	.	.
-
 Prestur	nken	prestur
 sr.	as	sr.
 Magnús	nken-s	Magnús
 Björn	nken-s	Björn
 Björnsson	nken-s	Björnsson
 .	.	.
-
 Börn	nhfn	barn
 og	c	og
 unglingar	nkfn	unglingur
@@ -1150,14 +1033,12 @@ sjá	sfg3fn	sjá
 um	ao	um
 helgihaldið	nheog	helgihald
 .	.	.
-
 Súpa	nven	súpa
 í	aþ	í
 safnaðarsal	nkeþ	safnaðarsalur
 eftir	ao	eftir
 messu	nveo	messa
 .	.	.
-
 (	(	(
 www.digraneskirkja.i	v	www.digraneskirkja.i
 s	x	s
@@ -1170,7 +1051,6 @@ Fjölskyldumessa	nven	fjölskyldumessa
 kl	as	kl
 11	ta	11
 .	.	.
-
 Allt	fohen	allur
 barnastarf	nhen	barnastarf
 kirkjunnar	nveeg	kirkja
@@ -1189,7 +1069,6 @@ Fella-	nhfe-s	Fell
 og	c	og
 Hóla	nkfe-s	Hólar
 .	.	.
-
 Eftir	ao	eftir
 messu	nveo	messa
 er	sfg3en	vera
@@ -1201,7 +1080,6 @@ kaffi	nheo	kaffi
 og	c	og
 kökur	nvfo	kaka
 .	.	.
-
 Æskulýðsmessa	nven	æskulýðsmessa
 verður	sfg3en	verða
 um	ao	um
@@ -1216,7 +1094,6 @@ og	c	og
 fjölskyldur	nvfo	fjölskylda
 þeirra	fphfe	það
 .	.	.
-
 Hún	fpven	hún
 verður	sfg3en	verða
 í	aþ	í
@@ -1229,7 +1106,6 @@ sér	sfg3en	sjá
 hljómsveitin	nveng	hljómsveit
 Gleðigjafar	nkfn-s	Gleðigjafi
 .	.	.
-
 Messan	nveng	messa
 hefst	sfm3en	hefja
 kl.	as	kl.
@@ -1246,7 +1122,6 @@ og	c	og
 ískalda	lveosf	ískaldur
 mjólk	nveo	mjólk
 .	.	.
-
 GRAFARHOLTSSÓKN	nven-s	Grafarholtssókn
 :	:	:
 Fjölskyldumessa	nven	fjölskyldumessa
@@ -1267,7 +1142,6 @@ og	c	og
 Þorgeirs	nkee-s	Þorgeir
 Arasonar	nkee-s	Arason
 .	.	.
-
 Barnakór	nken-s	barnakór
 Grafarholtssóknar	nvee-s	Grafarholtssókn
 syngur	sfg3en	syngja
@@ -1286,7 +1160,6 @@ Aðalsteinn	nken-s	Aðalsteinn
 Dalmann	nken-s	Dalmann
 Októsson	nken-s	Októsson
 .	.	.
-
 Yngri	lvenvm	ungur
 deild	nven	deild
 KFUM	as	KFUM
@@ -1301,12 +1174,10 @@ syngur	sfg3en	syngja
 í	aþ	í
 messunni	nveþg	messa
 .	.	.
-
 Kirkjukaffi	nhen	kirkjukaffi
 eftir	ao	eftir
 messu	nveo	messa
 .	.	.
-
 Léttmessa	nven	léttmessa
 kl.	as	kl.
 20	ta	20
@@ -1325,7 +1196,6 @@ og	c	og
 Þorgeirs	nkee-s	Þorgeir
 Arasonar	nkee-s	Arason
 .	.	.
-
 Tónlist	nveo	tónlist
 annast	sfm3en	anna
 Björn	nken-s	Björn
@@ -1341,7 +1211,6 @@ Axel	nken-s	Axel
 og	c	og
 Kristján	nken-s	Kristján
 .	.	.
-
 Eldri	lvenvm	gamall
 deild	nven	deild
 KFUM	as	KFUM
@@ -1358,7 +1227,6 @@ syngur	sfg3en	syngja
 í	aþ	í
 messunni	nveþg	messa
 .	.	.
-
 Fermingarbörn	nhfn	fermingarbarn
 bera	sfg3fn	bera
 fram	aa	fram
@@ -1367,12 +1235,10 @@ bænarefni	nhfo	bænarefni
 almennu	lveþvf	almennur
 kirkjubæninni	nveþg	kirkjubæn
 .	.	.
-
 Kirkjukaffi	nhen	kirkjukaffi
 eftir	ao	eftir
 messu	nveo	messa
 .	.	.
-
 GRAFARVOGSKIRKJA	nven-s	Grafarvogskirkja
 :	:	:
 Sameiginleg	lvensf	sameiginlegur
@@ -1382,7 +1248,6 @@ og	c	og
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Börn	nhfn	barn
 úr	aþ	úr
 barnamessunum	nvfþg	barnamessa
@@ -1398,7 +1263,6 @@ efri	lveþvm	efri
 hæð	nveþ	hæð
 kirkjunnar	nveeg	kirkja
 .	.	.
-
 Rútuferð	nven	rútuferð
 verður	sfg3en	verða
 frá	aþ	frá
@@ -1406,7 +1270,6 @@ Borgarholtsskóla	nkeþ-s	Borgarholtsskóli
 kl.	as	kl.
 10.45	ta	10.45
 .	.	.
-
 Umsjón	nveo	umsjón
 hafa	sfg3fn	hafa
 þau	fphfn	það
@@ -1421,7 +1284,6 @@ Gummi	nken-s	Gummi
 og	c	og
 Tinna	nven-s	Tinna
 .	.	.
-
 Séra	nken	séra
 Lena	nven-s	Lena
 Rós	nven-s	Rós
@@ -1430,25 +1292,21 @@ Matthíasdóttir	nven-s	Matthíasdóttir
 fyrir	aþ	fyrir
 altari	nheþ	altari
 .	.	.
-
 Barnakór	nken-s	barnakór
 Grafarvogskirkju	nvee-s	Grafarvogskirkja
 syngur	sfg3en	syngja
 .	.	.
-
 Stjórnandi	nken	stjórnandi
 :	:	:
 Oddný	nven-s	Oddný
 J.	as	J.
 Þorsteinsdóttir	nven-s	Þorsteinsdóttir
 .	.	.
-
 Organisti	nken	organisti
 :	:	:
 Gróa	nven-s	Gróa
 Hreinsdóttir	nven-s	Hreinsdóttir
 .	.	.
-
 Föstumessa	nven	föstumessa
 á	aþ	á
 Hjúkrunarheimilinu	nheþgs	Hjúkrunarheimili
@@ -1456,7 +1314,6 @@ Eiri	nveþ-s	Eir
 kl.	as	kl.
 16	ta	16
 .	.	.
-
 Séra	nken	séra
 Vigfús	nken-s	Vigfús
 Þór	nken-s	Þór
@@ -1467,12 +1324,10 @@ og	c	og
 fyrir	aþ	fyrir
 altari	nheþ	altari
 .	.	.
-
 Kór	nken-s	Kór
 Grafarvogskirkju	nvee-s	Grafarvogskirkja
 syngur	sfg3en	syngja
 .	.	.
-
 Æskulýðsguðsþjónusta	nven	æskulýðsguðsþjónusta
 með	aþ	með
 léttu	lheþsf	léttur
@@ -1480,14 +1335,12 @@ léttu	lheþsf	léttur
 kl.	as	kl.
 20	ta	20
 .	.	.
-
 Prestur	nken	prestur
 séra	nken	séra
 Anna	nven-s	Anna
 Sigríður	nven-s	Sigríður
 Pálsdóttir	nven-s	Pálsdóttir
 .	.	.
-
 Æskulýðsleiðtogarnir	nkfng	æskulýðsleiðtogi
 Ingólfur	nken-s	Ingólfur
 ,	,	,
@@ -1508,7 +1361,6 @@ fara	sfg3fn	fara
 með	ao	með
 bænir	nvfo	bæn
 .	.	.
-
 Unglingakór	nken-s	Unglingakór
 Grafarvogskirkju	nvee-s	Grafarvogskirkja
 syngur	sfg3en	syngja
@@ -1519,26 +1371,22 @@ Oddný	nven-s	Oddný
 J.	as	J.
 Þorsteinsdóttir	nven-s	Þorsteinsdóttir
 .	.	.
-
 Organisti	nken	organisti
 :	:	:
 Gróa	nven-s	Gróa
 Hreinsdóttir	nven-s	Hreinsdóttir
 .	.	.
-
 HJALLAKIRKJA	nven-s	Hjallakirkja
 :	:	:
 Æskulýðsguðsþjónusta	nven	Æskulýðsguðsþjónusta
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Sr.	as	Sr.
 Sigfús	nken-s	Sigfús
 Kristjánsson	nken-s	Kristjánsson
 þjónar	sfg3en	þjóna
 .	.	.
-
 Barnakór	nken	barnakór
 úr	aþ	úr
 Snælandsskóla	nkeþ-s	Snælandsskóli
@@ -1548,13 +1396,11 @@ stjórn	nveþ	stjórn
 Heiðrúnar	nvee-s	Heiðrún
 Hákonardóttur	nvee-s	Hákonardóttir
 .	.	.
-
 Undirleikari	nken	undirleikari
 Lóa	nven-s	Lóa
 Björk	nven-s	Björk
 Jóelsdóttir	nven-s	Jóelsdóttir
 .	.	.
-
 Krakkar	nkfn	krakki
 úr	aþ	úr
 kirkjustarfinu	nheþg	kirkjustarf
@@ -1562,19 +1408,16 @@ aðstoða	sfg3fn	aðstoða
 í	aþ	í
 guðsþjónustunni	nveþg	guðsþjónusta
 .	.	.
-
 Barnaguðsþjónusta	nven	barnaguðsþjónusta
 kl.	as	kl.
 13	ta	13
 .	.	.
-
 Leikbrúðuland	nhen-s	Leikbrúðuland
 sýnir	sfg3en	sýna
 leikritið	nheog	leikrit
 Selurinn	nkengs	Selur
 Snorri	nken-s	Snorri
 .	.	.
-
 Við	fp1fn	ég
 minnum	sfg1fn	minna
 á	ao	á
@@ -1593,14 +1436,12 @@ www.hjallakirkja.i	v	www.hjallakirkja.i
 s	x	s
 )	)	)
 .	.	.
-
 KÓPAVOGSKIRKJA	nven-s	Kópavogskirkja
 :	:	:
 Fjölskylduguðsþjónusta	nven	fjölskylduguðsþjónusta
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Barnakór	nken	barnakór
 úr	aþ	úr
 Kársnesskóla	nkeþ-s	Kársnesskóli
@@ -1611,7 +1452,6 @@ stjórn	nveþ	stjórn
 Björnsdóttur	nvee-s	Björnsdóttir
 kórstjóra	nkee	kórstjóri
 .	.	.
-
 Krakkar	nkfn	krakki
 úr	aþ	úr
 æskulýðsstarfi	nheþ	æskulýðsstarf
@@ -1619,7 +1459,6 @@ kirkjunnar	nveeg	kirkja
 leiða	sfg3fn	leiða
 bænir	nvfo	bæn
 .	.	.
-
 Barnastarf	nhen	barnastarf
 í	aþ	í
 kirkjunni	nveþg	kirkja
@@ -1635,7 +1474,6 @@ Péturs	nkee-s	Pétur
 og	c	og
 Sigríðar	nvee-s	Sigríður
 .	.	.
-
 Bæna-	nven	bænastund
 og	c	og
 kyrrðarstund	nven	kyrrðarstund
@@ -1643,7 +1481,6 @@ kyrrðarstund	nven	kyrrðarstund
 kl.	as	kl.
 12.10	ta	12.10
 .	.	.
-
 LINDASÓKN	nven-s	Lindasókn
 í	aþ	í
 Kópavogi	nkeþ-s	Kópavogur
@@ -1654,7 +1491,6 @@ Lindaskóla	nkeþ-s	Lindaskóli
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Kór	nken	kór
 Salaskóla	nkee-s	Salaskóli
 syngur	sfg3en	syngja
@@ -1663,14 +1499,12 @@ stjórnandi	nken	stjórnandi
 Ragnheiður	nven-s	Ragnheiður
 Haraldsdóttir	nven-s	Haraldsdóttir
 .	.	.
-
 Pétur	nken-s	Pétur
 Ben	nken-s	Ben
 syngur	sfg3en	syngja
 frumsamin	lhfosf	frumsaminn
 lög	nhfo	lag
 .	.	.
-
 Jón	nken-s	Jón
 Ómar	nken-s	Ómar
 Gunnarsson	nken-s	Gunnarsson
@@ -1683,14 +1517,12 @@ leiðtogi	nken	leiðtogi
 ,	,	,
 prédikar	sfg3en	prédika
 .	.	.
-
 SELJAKIRKJA	nven-s	Seljakirkja
 :	:	:
 Sunnudagaskóli	nken	sunnudagaskóli
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Barnakór	nken-s	barnakór
 Seljakirkju	nvee-s	Seljakirkja
 syngur	sfg3en	syngja
@@ -1700,9 +1532,7 @@ Láru	nvee-s	Lára
 Hrannar	nvee-s	Hrönn
 Pétursdóttur	nvee-s	Pétursdóttir
 .	.	.
-
 Kl.	as	kl.
-
 14	ta	14
 verður	sfg3en	verða
 almenn	lvensf	almennur
@@ -1724,7 +1554,6 @@ sem	c	sem
 verða	sfg3fn	verða
 sungnir	sþgkfn	syngja
 .	.	.
-
 Mæðginin	nhfng	mæðgin
 Jóna	nven-s	Jóna
 og	c	og
@@ -1732,9 +1561,7 @@ Elí	nken-s	Elí
 flytja	sfg3fn	flytja
 prédikun	nveo	prédikun
 .	.	.
-
 Kl.	as	kl.
-
 20	ta	20
 verður	sfg3en	verða
 kvöldvaka	nven	kvöldvaka
@@ -1752,7 +1579,6 @@ auk	ae	auk
 Gauta	nkee-s	Gauti
 rappara	nkee	rappari
 .	.	.
-
 Félagar	nkfn	félagi
 úr	aþ	úr
 æskulýðsfélaginu	nheþg	æskulýðsfélag
@@ -1764,7 +1590,6 @@ Gnarr	nken-s	Gnarr
 flytur	sfg3en	flytja
 hugleiðingarorð	nhfo	hugleiðingarorð
 .	.	.
-
 ÍSLENSKA	lvenvf	íslenskur
 KRISTSKIRKJAN	nvengs	Kristskirkja
 :	:	:
@@ -1772,7 +1597,6 @@ Morgunguðsþjónusta	nven	morgunguðsþjónusta
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Friðrik	nken-s	Friðrik
 Schram	nken-s	Schram
 kennir	sfg3en	kenna
@@ -1784,13 +1608,11 @@ upphaf	nheo	upphaf
 þjónustu	nvee	þjónusta
 Jesú	nkee-s	Jesús
 .	.	.
-
 Einnig	aa	einnig
 verður	sfg3en	verða
 Heilög	lvensf	heilagur
 kvöldmáltíð	nven	kvöldmáltíð
 .	.	.
-
 Barnapössun	nven	barnapössun
 fyrir	ao	fyrir
 1-2	ta	1-2
@@ -1808,7 +1630,6 @@ fyrir	ao	fyrir
 7-13	ta	7-13
 ára	nhfe	ár
 .	.	.
-
 Samkoma	nven	samkoma
 kl.	as	kl.
 20	ta	20
@@ -1818,12 +1639,10 @@ lofgjörð	nveþ	lofgjörð
 og	c	og
 fyrirbænum	nvfþ	fyrirbæn
 .	.	.
-
 Friðrik	nken-s	Friðrik
 Schram	nken-s	Schram
 predikar	sfg3en	predika
 .	.	.
-
 Þáttur	nken	þáttur
 kirkjunnar	nveeg	kirkja
 Um	ao	um
@@ -1836,7 +1655,6 @@ sýndur	sþgken	sýna
 kl.	as	kl.
 14	ta	14
 .	.	.
-
 BOÐUNARKIRKJAN	nvengs	Boðunarkirkja
 ,	,	,
 Hlíðasmára	nkeþ-s	Hlíðasmári
@@ -1850,14 +1668,12 @@ laugardaga	nkfo	laugardagur
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Bænastund	nven	bænastund
 alla	fokfo	allur
 miðvikudaga	nkfo	miðvikudagur
 kl.	as	kl.
 20	ta	20
 .	.	.
-
 Biblíufræðsla	nven	biblíufræðsla
 allan	fokeo	allur
 sólarhringinn	nkeog	sólarhringur
@@ -1867,29 +1683,24 @@ Boðun	nveþ-s	Boðun
 FM	as	FM
 105,5	ta	105,5
 .	.	.
-
 Allir	fokfn	allur
 alltaf	aa	alltaf
 velkomnir	lkfnsf	velkominn
 .	.	.
-
 HJÁLPRÆÐISHERINN	nkengs	Hjálpræðisher
 :	:	:
 Bænastund	nven	bænastund
 kl.	as	kl.
 19.30	ta	19.30
 .	.	.
-
 Samkoma	nven	samkoma
 kl.	as	kl.
 20	ta	20
 .	.	.
-
 Umsjón	nven	umsjón
 Elsabet	nven-s	Elsabet
 Daníelsdóttir	nven-s	Daníelsdóttir
 .	.	.
-
 Mánudag	nkeo	mánudagur
 6.	ta	6.
 mars	nkeo	mars
@@ -1897,12 +1708,10 @@ kl.	as	kl.
 15	ta	15
 Heimilasamband	nhen	heimilasamband
 .	.	.
-
 Allar	fovfn	allur
 konur	nvfn	kona
 velkomnar	lvfnsf	velkominn
 .	.	.
-
 FRÍKIRKJAN	nvengs	Fríkirkja
 KEFAS	x	Kefas
 ,	,	,
@@ -1913,7 +1722,6 @@ Samkoma	nven	samkoma
 kl.	as	kl.
 14	ta	14
 .	.	.
-
 Helga	nven-s	Helga
 R.	as	R.
 Ármannsdóttir	nven-s	Ármannsdóttir
@@ -1921,12 +1729,10 @@ talar	sfg3en	tala
 Orð	nheo-s	Orð
 Guðs	nkee-s	Guð
 .	.	.
-
 Lofgjörð	nven	lofgjörð
 og	c	og
 fyrirbænir	nvfn	fyrirbæn
 .	.	.
-
 Barnastarf	nhen	barnastarf
 á	aþ	á
 samkomutíma	nkeþ	samkomutími
@@ -1935,11 +1741,9 @@ kaffisala	nven	kaffisala
 á	aa	á
 eftir	aa	eftir
 .	.	.
-
 Allir	fokfn	allur
 velkomnir	lkfnsf	velkominn
 .	.	.
-
 KFUM	as	KFUM
 og	c	og
 KFUK	as	KFUK
@@ -1949,14 +1753,11 @@ Holtaveg	nkeo-s	Holtavegur
 :	:	:
 Samkoma	nven	samkoma
 Kl.	as	kl.
-
 16	ta	16
 .	.	.
-
 Fræðsla	nven	fræðsla
 :	:	:
 Kvikmyndin	nveng	kvikmynd
-
 Á	aþ	á
 akri	nkeþ	akur
 Drottins	nkee-s	Drottinn
@@ -1965,7 +1766,6 @@ Eþíópíu	nveþ-s	Eþíópía
 -	-	-
 Ómo	e	Ómo
 Rate	e	Rate
-
 Bjarni	nken-s	Bjarni
 Gíslason	nken-s	Gíslason
 situr	sfg3en	sitja
@@ -1974,9 +1774,7 @@ svörum	nhfþ	svar
 eftir	ao	eftir
 myndina	nveog	mynd
 .	.	.
-
 Kl.	as	kl.
-
 16.40	ta	16.40
 Kaffi	nhen	kaffi
 og	c	og
@@ -1984,13 +1782,11 @@ samfélag	nhen	samfélag
 ,	,	,
 Kl.	as	kl.
 17	ta	17
-
 Samkoma	nven	samkoma
 ,	,	,
 Komið	sbg2fn	koma
 til	ae	til
 mín	fp1ee	ég
-
 ræðumaður	nken	ræðumaður
 Guðlaugur	nken-s	Guðlaugur
 Gunnarsson	nken-s	Gunnarsson
@@ -2000,13 +1796,11 @@ Sólrún	nven-s	Sólrún
 Ásta	nven-s	Ásta
 Haraldsdóttir	nven-s	Haraldsdóttir
 .	.	.
-
 Kristniboðsþáttur	nken	kristniboðsþáttur
 -	-	-
 Kanga	x	kanga
 tríóið	nheng	tríó
 .	.	.
-
 Mikil	lvensf	mikill
 lofgjörð	nven	lofgjörð
 ,	,	,
@@ -2015,7 +1809,6 @@ og	c	og
 gott	lhensf	góður
 samfélag	nhen	samfélag
 .	.	.
-
 Fræðsla	nven	fræðsla
 í	aþ	í
 aldurskiptum	lkfþsf	aldurskiptur
@@ -2027,26 +1820,21 @@ meðan	c	meðan
 samkomunni	nveþg	samkoma
 stendur	sfg3en	standa
 .	.	.
-
 Verið	sbg2fn	vera
 öll	fohfn	allur
 velkomin	lhfnsf	velkominn
 .	.	.
-
 FÍLADELFÍA	nven-s	Fíladelfía
 :	:	:
 Brauðsbrotning	nven	brauðsbrotning
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Ræðum	sfg1fn	ræða
 .	.	.
-
 Stefán	nken-s	Stefán
 Ágústsson	nken-s	Ágústsson
 .	.	.
-
 English	e	English
 speaking	e	speaking
 service	e	service
@@ -2054,44 +1842,36 @@ at	e	at
 12.30	ta	12.30
 pm	e	pm
 .	.	.
-
 Everones	e	Everones
 are	e	are
 welcome	e	welcome
 .	.	.
-
 Almenn	lvensf	almennur
 samkoma	nven	samkoma
 kl.	as	kl.
 16.30	ta	16.30
 .	.	.
-
 Ræðum	sfg1fn	ræða
 .	.	.
-
 Vörður	nken-s	Vörður
 Leví	nken-s	Leví
 Traustason	nken-s	Traustason
 .	.	.
-
 Gospelkór	nken-s	gospelkór
 Fíladelfía	nven-s	Fíladelfía
 leiðir	sfg3en	leiða
 lofgjörð	nveo	lofgjörð
 .	.	.
-
 Fyrirbænir	nvfn	fyrirbæn
 í	ao	í
 lok	nhfo	lok
 samkomu	nvee	samkoma
 .	.	.
-
 Allir	fokfn	allur
 eru	sfg3fn	vera
 hjartanlega	aa	hjartanlega
 velkomnir	lkfnsf	velkominn
 .	.	.
-
 Barnakirkja	nven	barnakirkja
 á	aa	á
 meðan	c	meðan
@@ -2106,7 +1886,6 @@ frá	aþ	frá
 1-12	ta	1-12
 ára	nhfe	ár
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -2142,7 +1921,6 @@ Hlíðasmára	nkeþ-s	Hlíðasmári
 kl.	as	kl.
 16.30	ta	16.30
 .	.	.
-
 BETANÍA	nven-s	Betanía
 ,	,	,
 Lynghálsi	nkeþ-s	Lyngháls
@@ -2153,7 +1931,6 @@ kl.	as	kl.
 11	ta	11
 sunnudaga	nkfo	sunnudagur
 .	.	.
-
 Einnig	aa	einnig
 samkomur	nvfn	samkoma
 kl.	as	kl.
@@ -2161,7 +1938,6 @@ kl.	as	kl.
 á	aþ	á
 föstudögum	nkfþ	föstudagur
 .	.	.
-
 KIRKJA	nven	kirkja
 JESÚ	nkee-s	Jesús
 KRISTS	nkee-s	Kristur
@@ -2192,7 +1968,6 @@ hádegi	nheþ	hádegi
 á	aþ	á
 íslensku	nveþ	íslenska
 .	.	.
-
 KAÞÓLSKA	lvenvf	kaþólskur
 KIRKJAN	nveng	kirkja
 :	:	:
@@ -2212,14 +1987,12 @@ Messa	nven	messa
 kl.	as	kl.
 10.30	ta	10.30
 .	.	.
-
 Messa	nven	messa
 á	aþ	á
 ensku	nveþ	enska
 kl.	as	kl.
 18	ta	18
 .	.	.
-
 Alla	fokfo	allur
 virka	lkfosf	virkur
 daga	nkfo	dagur
@@ -2228,7 +2001,6 @@ Messa	nven	messa
 kl.	as	kl.
 18	ta	18
 .	.	.
-
 Tilbeiðslustund	nven	tilbeiðslustund
 er	sfg3en	vera
 haldin	sþgven	halda
@@ -2248,7 +2020,6 @@ kl.	as	kl.
 til	aa	til
 19.15	ta	19.15
 .	.	.
-
 Trúfræðsla	nven	trúfræðsla
 barnanna	nhfeg	barn
 fer	sfg3en	fara
@@ -2260,7 +2031,6 @@ kl.	as	kl.
 í	aþ	í
 Landakotsskóla	nkeþ-s	Landakotsskóli
 .	.	.
-
 Barnamessan	nveng	barnamessa
 er	sfg3en	vera
 kl.	as	kl.
@@ -2268,7 +2038,6 @@ kl.	as	kl.
 í	aþ	í
 Kristskirkju	nveþ-s	Kristskirkja
 .	.	.
-
 Sunnudaginn	nkeog	sunnudagur
 5.	ta	5.
 mars	nkeo	mars
@@ -2282,11 +2051,9 @@ tilefni	nheþ	tilefni
 ára	nhfe	ár
 prestvígsluafmælis	nhee	prestvígsluafmæli
 sr.	as	sr.
-
 A.	as	A.
 George	e	George
 .	.	.
-
 Að	aþ	að
 messu	nveþ	messa
 lokinni	lveþsf	lokinn
@@ -2298,7 +2065,6 @@ safnaðarheimilinu	nheþg	safnaðarheimili
 Hávallagötu	nveþ-s	Hávallagata
 16	ta	16
 .	.	.
-
 Reykjavík	nven-s	Reykjavík
 ,	,	,
 Maríukirkja	nven-s	Maríukirkja
@@ -2311,7 +2077,6 @@ Messa	nven	messa
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Laugardaga	nkfo	laugardagur
 :	:	:
 Messa	nven	messa
@@ -2320,7 +2085,6 @@ ensku	nveþ	enska
 kl.	as	kl.
 18.30	ta	18.30
 .	.	.
-
 Virka	lkfosf	virkur
 daga	nkfo	dagur
 :	:	:
@@ -2328,7 +2092,6 @@ Messa	nven	messa
 kl.	as	kl.
 18.30	ta	18.30
 .	.	.
-
 Tilbeiðslustund	nven	tilbeiðslustund
 á	aþ	á
 mánudögum	nkfþ	mánudagur
@@ -2338,7 +2101,6 @@ kl.	as	kl.
 til	aa	til
 20	ta	20
 .	.	.
-
 Riftún	nhen-s	Riftún
 í	aþ	í
 Ölfusi	nheþ-s	Ölfus
@@ -2349,12 +2111,10 @@ Messa	nven	messa
 kl.	as	kl.
 16	ta	16
 .	.	.
-
 Miðvikudaga	nkfo	miðvikudagur
 kl.	as	kl.
 20	ta	20
 .	.	.
-
 Hafnarfjörður	nken-s	Hafnarfjörður
 ,	,	,
 Jósefskirkja	nven-s	Jósefskirkja
@@ -2365,7 +2125,6 @@ Messa	nven	messa
 kl.	as	kl.
 10.30	ta	10.30
 .	.	.
-
 Alla	fokfo	allur
 virka	lkfosf	virkur
 daga	nkfo	dagur
@@ -2374,7 +2133,6 @@ Messa	nven	messa
 kl.	as	kl.
 18.30	ta	18.30
 .	.	.
-
 Tilbeiðslustund	nven	tilbeiðslustund
 á	aþ	á
 hverjum	fokeþ	hver
@@ -2382,7 +2140,6 @@ degi	nkeþ	dagur
 kl.	as	kl.
 17.15	ta	17.15
 .	.	.
-
 Karmelklaustur	nhen-s	Karmelklaustur
 :	:	:
 Sunnudaga	nkfo	sunnudagur
@@ -2391,7 +2148,6 @@ Messa	nven	messa
 kl.	as	kl.
 08.30	ta	08.30
 .	.	.
-
 Virka	lkfosf	virkur
 daga	nkfo	dagur
 :	:	:
@@ -2399,7 +2155,6 @@ Messa	nven	messa
 kl.	as	kl.
 8	ta	8
 .	.	.
-
 Keflavík	nven-s	Keflavík
 ,	,	,
 Barbörukapella	nven-s	Barbörukapella
@@ -2413,7 +2168,6 @@ Messa	nven	messa
 kl.	as	kl.
 14	ta	14
 .	.	.
-
 Stykkishólmur	nken-s	Stykkishólmur
 ,	,	,
 Austurgötu	nveþ-s	Austurgata
@@ -2427,14 +2181,12 @@ Messa	nven	messa
 kl.	as	kl.
 18.30	ta	18.30
 .	.	.
-
 Sunnudaga	nkfo	sunnudagur
 :	:	:
 Messa	nven	messa
 kl.	as	kl.
 10	ta	10
 .	.	.
-
 Akranes	nhen-s	Akranes
 ,	,	,
 kapella	nven	kapella
@@ -2449,7 +2201,6 @@ Messa	nven	messa
 kl.	as	kl.
 15	ta	15
 .	.	.
-
 Ísafjörður	nken-s	Ísafjörður
 :	:	:
 Sunnudaga	nkfo	sunnudagur
@@ -2458,7 +2209,6 @@ Messa	nven	messa
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Flateyri	nven-s	Flateyri
 :	:	:
 Laugardaga	nkfo	laugardagur
@@ -2467,14 +2217,12 @@ Messa	nven	messa
 kl.	as	kl.
 18	ta	18
 .	.	.
-
 Bolungarvík	nven	bolungarvík
 :	:	:
 Sunnudaga	nkfo	sunnudagur
 kl.	as	kl.
 16	ta	16
 .	.	.
-
 Suðureyri	nven-s	Suðureyri
 :	:	:
 Sunnudaga	nkfo	sunnudagur
@@ -2483,7 +2231,6 @@ Messa	nven	messa
 kl.	as	kl.
 19	ta	19
 .	.	.
-
 Akureyri	nven-s	Akureyri
 ,	,	,
 Kaþólska	lvenvf	kaþólskur
@@ -2500,14 +2247,12 @@ Messa	nven	messa
 kl.	as	kl.
 18	ta	18
 .	.	.
-
 Sunnudaga	nkfo	sunnudagur
 :	:	:
 Messa	nven	messa
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Tilbeiðslustund	nven	tilbeiðslustund
 á	aþ	á
 hverjum	fokeþ	hver
@@ -2519,7 +2264,6 @@ messa	nven	messa
 kl.	as	kl.
 18	ta	18
 .	.	.
-
 KIRKJA	nven	kirkja
 SJÖUNDA	lkeevf	sjöundi
 DAGS	nkee	dagur
@@ -2531,23 +2275,19 @@ Ingólfsstræti	nheþ-s	Ingólfsstræti
 ,	,	,
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Biblíufræðsla	nven	biblíufræðsla
 kl.	as	kl.
 10	ta	10
 .	.	.
-
 Guðþjónusta	nven	guðþjónusta
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Ræðumaður	nken	ræðumaður
 :	:	:
 Eric	nken-s	Eric
 Guðmundsson	nken-s	Guðmundsson
 .	.	.
-
 Loftsalurinn	nkeng	loftsalur
 Hólshrauni	nheþ-s	Hólshraun
 3	ta	3
@@ -2560,13 +2300,11 @@ Biblíufræðsla	nven-s	biblíufræðsla
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Ræðumaður	nken	ræðumaður
 :	:	:
 Styrmir	nken-s	Styrmir
 Ólafsson	nken-s	Ólafsson
 .	.	.
-
 Safnaðarheimili	nhen	safnaðarheimili
 aðventista	nkfe	aðventisti
 Gagnheiði	nveþ-s	Gagnheiði
@@ -2578,17 +2316,14 @@ Biblíufræðsla	nven-s	biblíufræðsla
 kl.	as	kl.
 10	ta	10
 .	.	.
-
 Guðþjónusta	nven	guðþjónusta
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Ræðumaður	nken	ræðumaður
 Björgvin	nken-s	Björgvin
 Snorrason	nken-s	Snorrason
 .	.	.
-
 Safnaðarheimili	nhen	safnaðarheimili
 aðventista	nkfe	aðventisti
 Blikabraut	nveþ	blikabraut
@@ -2600,12 +2335,10 @@ Biblíufræðsla	nven-s	biblíufræðsla
 kl.	as	kl.
 10.15	ta	10.15
 .	.	.
-
 Guðþjónusta	nven	guðþjónusta
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Aðventkirkjan	nvengs	aðventkirkja
 Brekastíg	nkeþ-s	Brekastígur
 17	ta	17
@@ -2616,17 +2349,14 @@ Biblíufræðsla	nven-s	biblíufræðsla
 kl.	as	kl.
 10	ta	10
 .	.	.
-
 Guðsþjónusta	nven	guðsþjónusta
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Ræðumaður	nken	ræðumaður
 Sigríður	nven-s	Sigríður
 Kristjánsdóttir	nven-s	Kristjánsdóttir
 .	.	.
-
 REYNIVALLAKIRKJA	nven-s	Reynivallakirkja
 í	aþ	í
 Kjós	nveþ-s	Kjós
@@ -2635,12 +2365,10 @@ Guðsþjónusta	nven	guðsþjónusta
 kl.	as	kl.
 14	ta	14
 .	.	.
-
 Gunnar	nken-s	Gunnar
 Kristjánsson	nken-s	Kristjánsson
 sóknarprestur	nken	sóknarprestur
 .	.	.
-
 BRAUTARHOLTSKIRKJA	nven-s	Brautarholtskirkja
 á	aþ	á
 Kjalarnesi	nheþ-s	Kjalarnes
@@ -2649,12 +2377,10 @@ Barnaguðsþjónusta	nven	barnaguðsþjónusta
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Gunnar	nken-s	Gunnar
 Kristjánsson	nken-s	Kristjánsson
 sóknarprestur	nken	sóknarprestur
 .	.	.
-
 LANDAKIRKJA	nven-s	Landakirkja
 í	aþ	í
 Vestmannaeyjum	nvfþ-s	Vestmannaeyjar
@@ -2670,7 +2396,6 @@ lofgjörð	nveþ	lofgjörð
 og	c	og
 sögum	nvfþ	saga
 .	.	.
-
 Litlir	lkfnsf	lítill
 lærisveinar	nkfn	lærisveinn
 syngja	sfg3fn	syngja
@@ -2681,7 +2406,6 @@ Helgu	nvee-s	Helga
 og	c	og
 Joönnu	nvee-s	Joanna
 .	.	.
-
 Kirkjudagur	nken	kirkjudagur
 Kirkjugerðis	nhee-s	Kirkjugerði
 ,	,	,
@@ -2694,7 +2418,6 @@ með	aþ	með
 leikskólakennurum	nkfþ	leikskólakennari
 sínum	fekfþ	sinn
 .	.	.
-
 Samverustund	nven	samverustund
 Kirkjuprakkarar	nkfn-s	kirkjuprakkari
 hefst	sfm3en	hefja
@@ -2709,17 +2432,14 @@ með	aþ	með
 Völu	nveþ-s	Vala
 Friðriks	nkee-s	Friðrik
 .	.	.
-
 Barnafræðararnir	nkfng	barnafræðari
 ,	,	,
 Gísli	nken-s	Gísli
 Stefáns	nkee-s	Stefán
 og	c	og
 sr.	as	sr.
-
 Kristján	nken-s	Kristján
 .	.	.
-
 TTT-starfið	nhengs	TTT-starfið
 er	sfg3en	vera
 kl.	as	kl.
@@ -2730,27 +2450,22 @@ fyrir	ao	fyrir
 9-12	ta	9-12
 ára	nhfe	ár
 .	.	.
-
 Guðsþjónusta	nven	guðsþjónusta
 kl.	as	kl.
 20	ta	20
 á	aþ	á
 æskulýðsdegi	nkeþ	æskulýðsdagur
 .	.	.
-
 Ath.	as	Ath.
-
 breyttan	lkeosf	breyttur
 tíma	nkeo	tími
 .	.	.
-
 Hulda	nven-s	Hulda
 Líney	nven-s	Líney
 Magnúsdóttir	nven-s	Magnúsdóttir
 æskulýðsfulltrúi	nken	æskulýðsfulltrúi
 prédikar	sfg3en	prédika
 .	.	.
-
 Félagar	nkfn	félagi
 í	aþ	í
 Hippabandinu	nheþgs	hippaband
@@ -2759,7 +2474,6 @@ og	c	og
 leiða	sfg3fn	leiða
 tónlistina	nveog	tónlist
 .	.	.
-
 Mikill	lkensf	mikill
 lofgjörðarsöngur	nken	lofgjörðarsöngur
 ,	,	,
@@ -2778,7 +2492,6 @@ unglingar	nkfn	unglingur
 lesa	sfg3fn	lesa
 )	)	)
 .	.	.
-
 Æskufólk	nhen	æskufólk
 á	aþ	á
 öllum	fokeþ	allur
@@ -2786,7 +2499,6 @@ aldri	nkeþ	aldur
 hjartanlega	aa	hjartanlega
 velkomið	lhensf	velkominn
 .	.	.
-
 Ungu	lheþsf	ungur
 fólki	nheþ	fólk
 sem	ct	sem
@@ -2815,7 +2527,6 @@ gjöf	nveþ	gjöf
 frá	aþ	frá
 Landakirkju	nveþ-s	Landakirkja
 .	.	.
-
 Sr.	as	Sr.
 Kristján	nken-s	Kristján
 LÁGAFELLSKIRKJA	nven-s	Lágafellskirkja
@@ -2826,7 +2537,6 @@ Lágafellskirkju	nveþ-s	Lágafellskirkja
 kl.	as	kl.
 13	ta	13
 .	.	.
-
 Umsjón	nven	umsjón
 Hreiðar	nken-s	Hreiðar
 Örn	nken-s	Örn
@@ -2834,15 +2544,12 @@ og	c	og
 Jónas	nken-s	Jónas
 Þórir	nken-s	Þórir
 .	.	.
-
 Æskulýðsguðsþjónusta	nven	æskulýðsguðsþjónusta
 kl.	as	kl.
 20	ta	20
 .	.	.
-
 Leiklestur	nken	leiklestur
 um	ao	um
-
 Vináttuna	nveog	vinátta
 í	aþ	í
 umsjá	nveþ	umsjá
@@ -2858,51 +2565,42 @@ nemenda	nkfe	nemandi
 úr	aþ	úr
 Lágafellsskóla	nkeþ-s	Lágafellsskóli
 .	.	.
-
 Skólakór	nken	skólakór
 Varmáskóla	nkee-s	Varmáskóli
 leiðir	sfg3en	leiða
 sönginn	nkeog	söngur
 .	.	.
-
 Organisti	nken	organisti
 Guðmundur	nken-s	Guðmundur
 Óskar	nken-s	Óskar
 Guðmundsson	nken-s	Guðmundsson
 .	.	.
-
 Prestur	nken	prestur
 Ragnheiður	nven-s	Ragnheiður
 Jónsdóttir	nven-s	Jónsdóttir
 .	.	.
-
 Prestarnir	nkfng	prestur
 .	.	.
-
 HAFNARFJARÐARKIRKJA	nven-s	Hafnarfjarðarkirkja
 :	:	:
 Fjölskylduhátíð	nven	fjölskylduhátíð
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Hljómsveitin	nveng	hljómsveit
 Gleðigjafarnir	nkfngs	Gleðigjafi
 leikur	sfg3en	leika
 undir	aþ	undir
 söng	nkeþ	söngur
 .	.	.
-
 Barnakórinn	nkeng	barnakór
 syngur	sfg3en	syngja
 .	.	.
-
 Báðir	fokfn	báðir
 prestar	nkfn	prestur
 kirkjunnar	nveeg	kirkja
 þjóna	sfg3fn	þjóna
 .	.	.
-
 Eftir	ao	eftir
 stundina	nveog	stund
 er	sfg3en	vera
@@ -2913,18 +2611,15 @@ hressingu	nveo	hressing
 í	aþ	í
 safnaðarheimilinu	nheþg	safnaðarheimili
 .	.	.
-
 Poppguðsþjónusta	nven	poppguðsþjónusta
 kl.	as	kl.
 18	ta	18
 (	(	(
 Ath.	as	Ath.
-
 breyttan	lkeosf	breyttur
 tíma	nkeo	tími
 )	)	)
 .	.	.
-
 Jónsi	nken-s	Jónsi
 kemur	sfg3en	koma
 í	aþ	í
@@ -2935,7 +2630,6 @@ lendir	sfg3en	lenda
 nálægt	aþ	nálægt
 kirkjunni	nveþg	kirkja
 .	.	.
-
 Flytur	sfg3en	flytja
 hann	fpken	hann
 nokkur	fohfo	nokkur
@@ -2945,11 +2639,9 @@ poppguðsþjónustunni	nveþg	poppguðsþjónusta
 ásamt	aþ	ásamt
 Gleðigjöfunum	nkfþgs	Gleðigjafi
 .	.	.
-
 Unglingakórinn	nkeng	unglingakór
 syngur	sfg3en	syngja
 .	.	.
-
 Guðlaug	nven-s	Guðlaug
 Helga	nven-s	Helga
 guðfræðinemi	nken	guðfræðinemi
@@ -2959,7 +2651,6 @@ leiðtogi	nken	leiðtogi
 æskulýðsstarfinu	nheþg	æskulýðsstarf
 predikar	sfg3en	predika
 .	.	.
-
 Poppguðsþjónustan	nveng	poppguðsþjónusta
 er	sfg3en	vera
 alfarið	aa	alfarið
@@ -2967,7 +2658,6 @@ alfarið	aa	alfarið
 umsjón	nveþ	umsjón
 æskulýðsstarfsins	nheeg	æskulýðsstarf
 .	.	.
-
 Eftir	ao	eftir
 guðsþjónustuna	nveog	guðsþjónusta
 bjóða	sfg3fn	bjóða
@@ -2979,7 +2669,6 @@ veislu	nvee	veisla
 í	aþ	í
 safnaðarheimilinu	nheþg	safnaðarheimili
 .	.	.
-
 VÍÐISTAÐAKIRKJA	nven-s	Víðistaðakirkja
 í	aþ	í
 Hafnarfirði	nkeþ-s	Hafnarfjörður
@@ -2988,7 +2677,6 @@ Fjölskylduhátíð	nven	fjölskylduhátíð
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Sunnudagaskólinn	nkeng	sunnudagaskóli
 og	c	og
 fjölskylduguðsþjónustan	nveng	fjölskylduguðsþjónusta
@@ -2998,7 +2686,6 @@ einni	tfveþ	einn
 stórri	lveþsf	stór
 fjölskylduhátíð	nveþ	fjölskylduhátíð
 .	.	.
-
 Barnakórinn	nkengs	barnakór
 og	c	og
 Unglingakórinn	nkengs	Unglingakór
@@ -3008,7 +2695,6 @@ stjórn	nveþ	stjórn
 Áslaugar	nvee-s	Áslaug
 Bergsteinsdóttur	nvee-s	Bergsteinsdóttir
 .	.	.
-
 Félagar	nkfn	félagi
 í	aþ	í
 æskulýðsfélaginu	nheþg	æskulýðsfélag
@@ -3016,7 +2702,6 @@ Megasi	nkeþ-s	Megas
 taka	sfg3fn	taka
 þátt	nkeo	þáttur
 .	.	.
-
 Samvera	nven	samvera
 með	aþ	með
 fermingarbörnum	nhfþ	fermingarbarn
@@ -3028,7 +2713,6 @@ að	aþ	að
 guðsþjónustu	nveþ	guðsþjónusta
 lokinni	lveþsf	lokinn
 .	.	.
-
 FRÍKIRKJAN	nvengs	Fríkirkja
 í	aþ	í
 Hafnarfirði	nkeþ-s	Hafnarfjörður
@@ -3037,7 +2721,6 @@ Barnasamkoma	nven	barnasamkoma
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Umsjón	nveo	umsjón
 hafa	sfg3fn	hafa
 Edda	nven-s	Edda
@@ -3046,19 +2729,16 @@ Hera	nven-s	Hera
 og	c	og
 Örn	nken-s	Örn
 .	.	.
-
 Góð	lvensf	góður
 stund	nven	stund
 fyrir	ao	fyrir
 alla	foveo	allur
 fjölskylduna	nveog	fjölskylda
 .	.	.
-
 Guðsþjónusta	nven	guðsþjónusta
 kl.	as	kl.
 13	ta	13
 .	.	.
-
 Kór	nken	kór
 og	c	og
 hljómsveit	nven	hljómsveit
@@ -3072,7 +2752,6 @@ stjórn	nveþ	stjórn
 Arnar	nkee-s	Örn
 Arnarsonar	nkee-s	Arnarson
 .	.	.
-
 Að	aþ	að
 lokinni	lveþsf	lokinn
 guðsþjónustu	nveþ	guðsþjónusta
@@ -3086,7 +2765,6 @@ fram	aa	fram
 í	aþ	í
 safnaðarheimilinu	nheþg	safnaðarheimili
 .	.	.
-
 ÁSTJARNARKIRKJA	nven-s	Ástjarnarkirkja
 :	:	:
 Barnaguðsþjónustur	nvfn	barnaguðsþjónusta
@@ -3099,7 +2777,6 @@ sunnudögum	nkfþ	sunnudagur
 kl.	as	kl.
 11-12	ta	11-12
 .	.	.
-
 Léttar	lvfnsf	léttur
 veitingar	nvfn	veiting
 og	c	og
@@ -3108,7 +2785,6 @@ samfélag	nhen	samfélag
 eftir	ao	eftir
 helgihaldið	nheog	helgihald
 .	.	.
-
 KÁLFATJARNARSÓKN	nven-s	Kálfatjarnarsókn
 :	:	:
 Kirkjuskóli	nken-s	Kirkjuskóli
@@ -3120,7 +2796,6 @@ sunnudögum	nkfþ	sunnudagur
 kl.	as	kl.
 11-12	ta	11-12
 .	.	.
-
 Léttar	lvfnsf	léttur
 veitingar	nvfn	veiting
 og	c	og
@@ -3129,14 +2804,12 @@ samfélag	nhen	samfélag
 eftir	ao	eftir
 helgihaldið	nheog	helgihald
 .	.	.
-
 VÍDALÍNSKIRKJA	nven-s	Vídalínskirkja
 :	:	:
 Æskulýðsguðsþjónusta	nven	æskulýðsguðsþjónusta
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Sr.	as	Sr.
 Jóna	nven-s	Jóna
 Hrönn	nven-s	Hrönn
@@ -3154,7 +2827,6 @@ Rannveigu	nveþ-s	Rannveig
 Káradóttur	nveþ-s	Káradóttir
 æskulýðsfulltrúa	nkeþ	æskulýðsfulltrúi
 .	.	.
-
 Jóhann	nken-s	Jóhann
 Baldvinsson	nken-s	Baldvinsson
 organisti	nken	organisti
@@ -3174,7 +2846,6 @@ Andri	nken-s	Andri
 Bjarnason	nken-s	Bjarnason
 syngja	sng	syngja
 .	.	.
-
 Að	aþ	að
 lokinni	lveþsf	lokinn
 guðsþjónustunni	nveþg	guðsþjónusta
@@ -3186,9 +2857,7 @@ vöfflur	nvfo	vaffla
 með	aþ	með
 rjóma	nkeþ	rjómi
 .	.	.
-
 Kl.	as	kl.
-
 20	ta	20
 verður	sfg3en	verða
 sameiginleg	lvensf	sameiginlegur
@@ -3199,7 +2868,6 @@ Garðasóknar	nvee-s	Garðasókn
 í	aþ	í
 Vídalínskirkju	nveþ-s	Vídalínskirkja
 .	.	.
-
 Sr.	as	Sr.
 Jóna	nven-s	Jóna
 Hrönn	nven-s	Hrönn
@@ -3227,7 +2895,6 @@ mynda	sfg3fn	mynda
 öflugt	lheosf	öflugur
 gospelband	nheo	gospelband
 .	.	.
-
 Fermingarbörn	nhfn	fermingarbarn
 og	c	og
 foreldrar	nkfn	foreldrar
@@ -3236,15 +2903,12 @@ hvött	sþghfn	hvetja
 til	ae	til
 þátttöku	nvee	þátttaka
 .	.	.
-
 Sjá	sng	sjá
 www.gardasokn.is	v	www.gardasokn.is
 .	.	.
-
 Allir	fokfn	allur
 velkomnir	lkfnsf	velkominn
 .	.	.
-
 VÍFILSSTAÐIR	nkfn-s	Vífilsstaðir
 :	:	:
 Messa	nven	messa
@@ -3258,7 +2922,6 @@ Vífilsstöðum	nkfþ-s	Vífilsstaðir
 1.	ta	1.
 hæð	nveþ	hæð
 .	.	.
-
 Organisti	nken	organisti
 verður	sfg3en	verða
 Jóhann	nken-s	Jóhann
@@ -3271,7 +2934,6 @@ Vídalínskirkju	nvee-s	Vídalínskirkja
 munu	sfg3fn	munu
 syngja	sng	syngja
 .	.	.
-
 Ennfremur	aa	ennfremur
 mun	sfg3en	munu
 Agnes	nven-s	Agnes
@@ -3284,14 +2946,11 @@ undirspil	nheo	undirspil
 Agnesar	nvee-s	Agnes
 Löve	nvee-s	Löve
 .	.	.
-
 Prestur	nken	prestur
 sr.	as	sr.
-
 Svanhildur	nven-s	Svanhildur
 Blöndal	nven-s	Blöndal
 .	.	.
-
 Heimilisfólk	nhen	heimilisfólk
 ,	,	,
 starfsfólk	nhen	starfsfólk
@@ -3302,7 +2961,6 @@ sérstaklega	aa	sérstaklega
 boðin	sþghfn	bjóða
 velkomin	lhfnsf	velkominn
 .	.	.
-
 BESSASTAÐASÓKN	nven-s	Bessastaðasókn
 :	:	:
 Sunnudagaskóli	nken	sunnudagaskóli
@@ -3312,7 +2970,6 @@ kl.	as	kl.
 sal	nkeþ	salur
 Álftanesskóla	nkee-s	Álftanesskóli
 .	.	.
-
 Umsjón	nven	umsjón
 :	:	:
 Kristjana	nven-s	Kristjana
@@ -3324,7 +2981,6 @@ Sara	nven-s	Sara
 og	c	og
 Oddur	nken-s	Oddur
 .	.	.
-
 Foreldrar	nkfn	foreldrar
 kvattir	sþgkfn	hvetja
 til	ae	til
@@ -3334,14 +2990,12 @@ með	aþ	með
 börnum	nhfþ	barn
 sínum	fehfþ	sinn
 .	.	.
-
 Æskulýðsguðsþjónusta	nven	æskulýðsguðsþjónusta
 kl.	as	kl.
 14	ta	14
 í	aþ	í
 Bessastaðakirkju	nveþ-s	Bessastaðakirkja
 .	.	.
-
 Sr.	as	Sr.
 Jóna	nven-s	Jóna
 Hrönn	nven-s	Hrönn
@@ -3352,7 +3006,6 @@ guðsþjónustuna	nveog	guðsþjónusta
 ásamt	aþ	ásamt
 fermingarbörnum	nhfþ	fermingarbarn
 .	.	.
-
 Tónlistarmaðurinn	nkeng	tónlistarmaður
 Valgeir	nken-s	Valgeir
 Skagfjörð	nken-s	Skagfjörð
@@ -3379,7 +3032,6 @@ Andri	nken-s	Andri
 Bjarnason	nken-s	Bjarnason
 syngja	sng	syngja
 .	.	.
-
 Halldóra	nven-s	Halldóra
 Pálsdóttir	nven-s	Pálsdóttir
 kirkjuvörður	nken	kirkjuvörður
@@ -3392,7 +3044,6 @@ að	aþ	að
 lokinni	lveþsf	lokinn
 athöfn	nveþ	athöfn
 .	.	.
-
 Allir	fokfn	allur
 velkomnir	lkfnsf	velkominn
 GRINDAVÍKURKIRKJA	nven-s	Grindavíkurkirkja
@@ -3401,7 +3052,6 @@ Barnastarfið	nheng	barnastarf
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Hvetjum	sfg1fn	hvetja
 foreldra	nkfo	foreldrar
 ,	,	,
@@ -3420,7 +3070,6 @@ taka	sng	taka
 skemmtilegum	lvfþsf	skemmtilegur
 samverustundum	nvfþ	samverustund
 .	.	.
-
 Æskulýðssamkoma	nven	æskulýðssamkoma
 kl.	as	kl.
 20	ta	20
@@ -3428,11 +3077,9 @@ kl.	as	kl.
 æskulýðsdegi	nkeþ	æskulýðsdagur
 kirkjunnar	nveeg	kirkja
 .	.	.
-
 Nei	au	nei
 við	aþ	við
 vímuefnum	nhfþ	vímuefni
-
 Ungt	lhensf	ungur
 fólk	nhen	fólk
 flytur	sfg3en	flytja
@@ -3442,7 +3089,6 @@ tali	nheþ	tal
 og	c	og
 tónum	nkfþ	tónn
 .	.	.
-
 Kórfélagar	nkfn	kórfélagi
 úr	aþ	úr
 kór	nkeþ	kór
@@ -3453,7 +3099,6 @@ kaffihúsastemningu	nveo	kaffihúsastemning
 í	aþ	í
 safnaðarheimilinu	nheþg	safnaðarheimili
 .	.	.
-
 Ágóði	nken	ágóði
 af	aþ	af
 kaffisölu	nveþ	kaffisala
@@ -3461,14 +3106,12 @@ rennur	sfg3en	renna
 í	ao	í
 orgelsjóð	nkeo	orgelsjóður
 .	.	.
-
 NJARÐVÍKURKIRKJA	nven-s	Njarðvíkurkirkja
 :	:	:
 Fermingarmessa	nven	fermingarmessa
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Fermdur	sþgken	ferma
 verður	sfg3en	verða
 Friðrik	nken-s	Friðrik
@@ -3476,7 +3119,6 @@ Gunnarsson	nken-s	Gunnarsson
 Brekkustíg	nkeþ-s	Brekkustígur
 31b	ta	31b
 .	.	.
-
 Kór	nken-s	Kór
 Ytri-Njarðvíkurkirkju	nvee-s	Ytri-Njarðvíkurkirkja
 syngur	sfg3en	syngja
@@ -3486,12 +3128,10 @@ Natalíu	nvee-s	Natalía
 Chow	e	Chow
 Hewlett	e	Hewlett
 .	.	.
-
 Meðhjálpari	nken	meðhjálpari
 Kristjana	nven-s	Kristjana
 Gísladóttir	nven-s	Gísladóttir
 .	.	.
-
 Sunnudagaskólinn	nkeng	sunnudagaskóli
 verður	sfg3en	verða
 í	aþ	í
@@ -3508,7 +3148,6 @@ Njarðvíkurkirkju	nvee-s	Njarðvíkurkirkja
 kl.	as	kl.
 10.45	ta	10.45
 .	.	.
-
 YTRI-NJARÐVÍKURKIRKJA	nven-s	YTRI-NJARÐVÍKURKIRKJA
 :	:	:
 Sunnudagaskóli	nken	sunnudagaskóli
@@ -3527,18 +3166,15 @@ Arnars	nkee-s	Arnar
 Inga	nkee-s	Ingi
 Tryggvasonar	nkee-s	Tryggvason
 .	.	.
-
 Kirkjutrúðurinn	nkeng	kirkjutrúður
 mætir	sfg3en	mæta
 .	.	.
-
 KEFLAVÍKURKIRKJA	nven-s	Keflavíkurkirkja
 :	:	:
 Guðsþjónusta	nven	guðsþjónusta
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Fermingarbörn	nhfn	fermingarbarn
 taka	sfg3fn	taka
 þátt	nkeo	þáttur
@@ -3551,7 +3187,6 @@ og	c	og
 íþróttafélagi	nheþ	íþróttafélag
 Keflavíkur	nvee-s	Keflavík
 .	.	.
-
 Yngstu	lhfnve	ungur
 börnin	nhfng	barn
 fá	sfg3fn	fá
@@ -3567,7 +3202,6 @@ tíma	nkeþ	tími
 í	aþ	í
 kirkjunni	nveþg	kirkja
 .	.	.
-
 Þóra	nven-s	Þóra
 Gísladóttir	nven-s	Gísladóttir
 söngkona	nven	söngkona
@@ -3583,7 +3217,6 @@ dögunum	nkfþg	dagur
 kemur	sfg3en	koma
 fram	aa	fram
 .	.	.
-
 Prestur	nken	prestur
 :	:	:
 Sr.	as	Sr.
@@ -3591,13 +3224,11 @@ Sigfús	nken-s	Sigfús
 Baldvin	nken-s	Baldvin
 Ingvason	nken-s	Ingvason
 .	.	.
-
 Kór	nken	kór
 Keflavíkurkirkju	nvee-s	Keflavíkurkirkja
 leiðir	sfg3en	leiða
 söng	nkeo	söngur
 .	.	.
-
 Organisti	nken	organisti
 og	c	og
 stjórnandi	nken	stjórnandi
@@ -3605,13 +3236,11 @@ stjórnandi	nken	stjórnandi
 Hákon	nken-s	Hákon
 Leifsson	nken-s	Leifsson
 .	.	.
-
 Meðhjálpari	nken	meðhjálpari
 :	:	:
 Guðmundur	nken-s	Guðmundur
 Hjaltason	nken-s	Hjaltason
 .	.	.
-
 Kaffi	nhen	kaffi
 ,	,	,
 djús	nhen	djús
@@ -3620,14 +3249,12 @@ meðlæti	nhen	meðlæti
 eftir	ao	eftir
 samveru	nveo	samvera
 .	.	.
-
 ÍSAFJARÐARKIRKJA	nven-s	Ísafjarðarkirkja
 :	:	:
 Guðsþjónusta	nven	guðsþjónusta
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Kaffiveitingar	nvfn	kaffiveitingar
 í	aþ	í
 forkirkju	nveþ	forkirkja
@@ -3635,11 +3262,9 @@ að	c	að
 athöfn	nveþ	athöfn
 lokinni	lveþsf	lokinn
 .	.	.
-
 Prestur	nken	prestur
 er	sfg3en	vera
 sr.	as	sr.
-
 Skúli	nken-s	Skúli
 S.	as	S.
 Ólafsson	nken-s	Ólafsson
@@ -3648,36 +3273,30 @@ organisti	nken	organisti
 Hulda	nven-s	Hulda
 Bragadóttir	nven-s	Bragadóttir
 .	.	.
-
 Allir	fokfn	allur
 velkomnir	lkfnsf	velkominn
 .	.	.
-
 AKUREYRARKIRKJA	nven-s	Akureyrarkirkja
 :	:	:
 Guðsþjónusta	nven	guðsþjónusta
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Sr.	as	Sr.
 Sólveig	nven-s	Sólveig
 Halla	nven-s	Halla
 Kristjánsdóttir	nven-s	Kristjánsdóttir
 og	c	og
 sr.	as	sr.
-
 Svavar	nken-s	Svavar
 A.	as	A.
 Jónsson	nken-s	Jónsson
 .	.	.
-
 Alma	nven-s	Alma
 Guðnadóttir	nven-s	Guðnadóttir
 æskulýðsleiðtogi	nken	æskulýðsleiðtogi
 predikar	sfg3en	predika
 .	.	.
-
 Stúlknakór	nken-s	Stúlknakór
 Akureyrarkirkju	nvee-s	Akureyrarkirkja
 og	c	og
@@ -3687,21 +3306,18 @@ framhaldsskólakórar	nkfn	framhaldsskólakór
 landshlutum	nkfþ	landshluti
 syngja	sfg3fn	syngja
 .	.	.
-
 Einsöngur	nken	einsöngur
 :	:	:
 Hildur	nven-s	Hildur
 Vala	nven-s	Vala
 Einarsdóttir	nven-s	Einarsdóttir
 .	.	.
-
 Organisti	nken	organisti
 :	:	:
 Eyþór	nken-s	Eyþór
 Ingi	nken-s	Ingi
 Jónsson	nken-s	Jónsson
 .	.	.
-
 Sunnudagaskóli	nken	sunnudagaskóli
 í	aþ	í
 safnaðarheimili	nheþ	safnaðarheimili
@@ -3709,14 +3325,12 @@ safnaðarheimili	nheþ	safnaðarheimili
 sama	fbkeþ	sami
 tíma	nkeþ	tími
 .	.	.
-
 GLERÁRKIRKJA	nven-s	Glerárkirkja
 :	:	:
 Fjölskylduguðsþjónusta	nven	fjölskylduguðsþjónusta
 kl	as	kl
 11	ta	11
 .	.	.
-
 Fjölbreytt	lvensf	fjölbreyttur
 samvera	nven	samvera
 ,	,	,
@@ -3724,7 +3338,6 @@ hreyfisöngvar	nkfn	hreyfisöngur
 og	c	og
 leikir	nkfn	leikur
 .	.	.
-
 Sr.	as	Sr.
 Gunnlaugur	nken-s	Gunnlaugur
 Garðarsson	nken-s	Garðarsson
@@ -3734,29 +3347,24 @@ Björgvinsson	nken-s	Björgvinsson
 djákni	nken	djákni
 þjóna	sfg3fn	þjóna
 .	.	.
-
 Barnakór	nken-s	barnakór
 Glerárkirkju	nvee-s	Glerárkirkja
 syngur	sfg3en	syngja
 .	.	.
-
 Stjórnandi	nken	stjórnandi
 Ásta	nven-s	Ásta
 Magnúsdóttir	nven-s	Magnúsdóttir
 .	.	.
-
 Organisti	nken	organisti
 Hjörtur	nken-s	Hjörtur
 Steinbergsson	nken-s	Steinbergsson
 .	.	.
-
 Foreldrar	nkfn	foreldrar
 fjölmennið	sbg2fn	fjölmenna
 með	ao	með
 börnin	nhfog	barn
 ykkar	fp2fe	þú
 .	.	.
-
 Glerbrotshátíð	nven	glerbrotshátíð
 á	aþ	á
 æskulýðsdegi	nkeþ	æskulýðsdagur
@@ -3775,7 +3383,6 @@ kirkjunni	nveþg	kirkja
 kl.	as	kl.
 20.30	ta	20.30
 .	.	.
-
 Fermingarbörn	nhfn	fermingarbarn
 og	c	og
 aðrir	fokfn	annar
@@ -3788,7 +3395,6 @@ og	c	og
 fjöruga	lveosf	fjörugur
 stund	nveo	stund
 .	.	.
-
 HJÁLPRÆÐISHERINN	nkengs	Hjálpræðisher
 á	aþ	á
 Akureyri	nveþ-s	Akureyri
@@ -3797,7 +3403,6 @@ Sunnudagsskóli	nken	sunnudagsskóli
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Almenn	lvensf	almennur
 samkoma	nven	samkoma
 kl.	as	kl.
@@ -3810,7 +3415,6 @@ Miriam	nven-s	Miriam
 Óskarsdóttir	nven-s	Óskarsdóttir
 talar	sfg3en	tala
 .	.	.
-
 LAUFÁSPRESTAKALL	nhen-s	laufásprestakall
 :	:	:
 Svalbarðskirkja	nven-s	Svalbarðskirkja
@@ -3819,7 +3423,6 @@ Kyrrðarstund	nven	kyrrðarstund
 kl.	as	kl.
 21	ta	21
 .	.	.
-
 Grenivíkurkirkja	nven-s	Grenivíkurkirkja
 :	:	:
 Kyrrðarstund	nven	kyrrðarstund
@@ -3829,14 +3432,12 @@ mars	nkeo	mars
 kl.	as	kl.
 20	ta	20
 .	.	.
-
 Kaffisopi	nken	kaffisopi
 í	aþ	í
 safnaðarstofunni	nveþg	safnaðarstofa
 á	aa	á
 eftir	aa	eftir
 .	.	.
-
 LJÓSAVATNSPRESTAKALL	nhen-s	Ljósavatnsprestakall
 :	:	:
 Þóroddsstaðarkirkja	nven-s	Þóroddsstaðarkirkja
@@ -3845,7 +3446,6 @@ Guðsþjónusta	nven	guðsþjónusta
 kl.	as	kl.
 14	ta	14
 .	.	.
-
 EGILSSTAÐAKIRKJA	nven-s	Egilsstaðakirkja
 :	:	:
 Guðsþjónusta	nven	guðsþjónusta
@@ -3860,7 +3460,6 @@ söfnuði	nkfo	söfnuður
 á	aþ	á
 Héraði	nheþ-s	Hérað
 .	.	.
-
 6.	ta	6.
 mars	nkeo	mars
 (	(	(
@@ -3870,7 +3469,6 @@ Kyrrðarstund	nven	kyrrðarstund
 kl.	as	kl.
 18	ta	18
 .	.	.
-
 Biblíulestur	nken-s	Biblíulestur
 (	(	(
 Skóli	nken-s	Skóli
@@ -3879,7 +3477,6 @@ Orðsins	nheegs	Orð
 kl.	as	kl.
 20.30-21.30	ta	20.30-21.30
 .	.	.
-
 Sóknarprestur	nken	sóknarprestur
 ÞINGMÚLAKIRKJA	nven-s	Þingmúlakirkja
 :	:	:
@@ -3887,17 +3484,14 @@ Messa	nven	messa
 kl.	as	kl.
 14	ta	14
 .	.	.
-
 Sóknarprestur	nken	sóknarprestur
 .	.	.
-
 SKÁLHOLTSDÓMKIRKJA	nven-s	Skálholtsdómkirkja
 :	:	:
 Messa	nven	messa
 kl.	as	kl.
 14	ta	14
 .	.	.
-
 Sr.	as	Sr.
 Sigurður	nken-s	Sigurður
 Sigurðarson	nken-s	Sigurðarson
@@ -3906,7 +3500,6 @@ vígslubiskup	nken	vígslubiskup
 Skálholtsstiftis	nhee-s	Skálholtsstifti
 og	c	og
 sr.	as	sr.
-
 Jón	nken-s	Jón
 Aðalsteinn	nken-s	Aðalsteinn
 Baldvinsson	nken-s	Baldvinsson
@@ -3918,19 +3511,16 @@ annast	sfm3fn	anna
 prestsþjónustuna	nveog	prestsþjónusta
 ásamt	aþ	ásamt
 sr.	as	sr.
-
 Agli	nkeþ-s	Egill
 Hallgrímssyni	nkeþ-s	Hallgrímsson
 sóknarpresti	nkeþ	sóknarprestur
 .	.	.
-
 Skálholtskórinn	nkengs	Skálholtskór
 og	c	og
 Kór	nken-s	Kór
 Hóladómkirkju	nvee-s	Hóladómkirkja
 syngja	sfg3fn	syngja
 .	.	.
-
 Organistar	nkfn	organisti
 og	c	og
 kórstjórar	nkfn	kórstjóri
@@ -3942,10 +3532,8 @@ Hilmar	nken-s	Hilmar
 Örn	nken-s	Örn
 Agnarsson	nken-s	Agnarsson
 .	.	.
-
 Sóknarprestur	nken	sóknarprestur
 .	.	.
-
 Stóruborgarkirkja	nven-s	Stóruborgarkirkja
 í	aþ	í
 Grímsnesi	nheþ-s	Grímsnes
@@ -3954,7 +3542,6 @@ Kvöldguðsþjónusta	nven	kvöldguðsþjónusta
 kl.	as	kl.
 21	ta	21
 .	.	.
-
 Einföld	lvensf	einfaldur
 og	c	og
 stutt	lvensf	stuttur
@@ -3971,11 +3558,9 @@ bæn	nveo	bæn
 við	ao	við
 kertaljós	nheo	kertaljós
 .	.	.
-
 Egill	nken-s	Egill
 Hallgrímsson	nken-s	Hallgrímsson
 .	.	.
-
 Mosfellskirkja	nven-s	Mosfellskirkja
 í	aþ	í
 Grímsnesi	nheþ-s	Grímsnes
@@ -3987,7 +3572,6 @@ mars	nkeo	mars
 kl.	as	kl.
 20.30	ta	20.30
 .	.	.
-
 Sr.	as	Sr.
 Arngrímur	nken-s	Arngrímur
 Jónsson	nken-s	Jónsson
@@ -4003,10 +3587,8 @@ sr.	as	sr.
 Agli	nkeþ-s	Egill
 Hallgrímssyni	nkeþ-s	Hallgrímsson
 .	.	.
-
 Sóknarprestur	nken	sóknarprestur
 .	.	.
-
 SELFOSSKIRKJA	nven-s	Selfosskirkja
 :	:	:
 Barna-	nven	barnasamkoma
@@ -4015,7 +3597,6 @@ fjölskyldusamkoma	nven	fjölskyldusamkoma
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Eygló	nven-s	Eygló
 J.	as	J.
 Gunnarsdóttir	nven-s	Gunnarsdóttir
@@ -4034,7 +3615,6 @@ stundina	nveog	stund
 fjarveru	nveþ	fjarvera
 sóknarprests	nkee	sóknarprestur
 .	.	.
-
 Fermingarbörn	nhfn	fermingarbarn
 og	c	og
 foreldrar	nkfn	foreldrar
@@ -4046,14 +3626,12 @@ til	ae	til
 að	cn	að
 koma	sng	koma
 .	.	.
-
 Léttur	lkensf	léttur
 hádegisverður	nken	hádegisverður
 framreiddur	sþgken	framreiða
 eftir	ao	eftir
 athöfnina	nveog	athöfn
 .	.	.
-
 Kirkjuskóli	nken	kirkjuskóli
 í	aþ	í
 Félagsmiðstöðinni	nveþgs	Félagsmiðstöð
@@ -4065,7 +3643,6 @@ febrúar	nkeo	febrúar
 kl.	as	kl.
 14	ta	14
 .	.	.
-
 Foreldramorgunn	nken	foreldramorgunn
 miðvikudaginn	nkeog	miðvikudagur
 -1.	ta	-1.
@@ -4073,16 +3650,13 @@ mars	nkeo	mars
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Opið	lhensf	opinn
 hús	nhen	hús
 .	.	.
-
 Hressing	nven	hressing
 og	c	og
 spjall	nhen	spjall
 .	.	.
-
 Tíðagjörð	nven	tíðagjörð
 á	aþ	á
 föstu	nveþ	fasta
@@ -4094,7 +3668,6 @@ kl.	as	kl.
 í	aþ	í
 kirkjunni	nveþg	kirkja
 .	.	.
-
 Fundur	nken	fundur
 í	aþ	í
 Æskulýðsfélagi	nheþ-s	Æskulýðsfélag
@@ -4105,7 +3678,6 @@ mars	nkeo	mars
 kl.	as	kl.
 19.30	ta	19.30
 .	.	.
-
 Föstudaginn	nkeog	föstudagur
 3.	ta	3.
 mars	nkeo	mars
@@ -4118,35 +3690,29 @@ Alþjóðlegur	lkensf	alþjóðlegur
 bænadægur	nken	bænadagur
 kvenna	nvfe	kona
 .	.	.
-
 Sr.	as	Sr.
 Gunnar	nken-s	Gunnar
 Björnsson	nken-s	Björnsson
 .	.	.
-
 STOKKSEYRARKIRKJA	nven-s	Stokkseyrarkirkja
 :	:	:
 Messa	nven	messa
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 ÚTSKÁLAKIRKJA	nven-s	Útskálakirkja
 :	:	:
 Lofgjörðarsamkoma	nven	lofgjörðarsamkoma
 -	-	-
 Gospel	nxen	gospel
 kl.	as	kl.
-
 16:30	ta	16:30
 .	.	.
-
 Ræðumaður	nken	ræðumaður
 er	sfg3en	vera
 Marta	nven-s	Marta
 Eiríksdóttir	nven-s	Eiríksdóttir
 .	.	.
-
 Organisti	nken	organisti
 og	c	og
 kórstjóri	nken	kórstjóri
@@ -4154,14 +3720,12 @@ kórstjóri	nken	kórstjóri
 Steinar	nken-s	Steinar
 Guðmundsson	nken-s	Guðmundsson
 .	.	.
-
 Þorvaldur	nken-s	Þorvaldur
 Halldórsson	nken-s	Halldórsson
 leikur	sfg3en	leika
 á	ao	á
 trommur	nvfo	tromma
 .	.	.
-
 Jón	nken-s	Jón
 Árni	nken-s	Árni
 Benediktsson	nken-s	Benediktsson
@@ -4169,12 +3733,10 @@ leikur	sfg3en	leika
 á	ao	á
 rafbassa	nkeo	rafbassi
 .	.	.
-
 Fermingarbörn	nhfn	fermingarbarn
 lesa	sfg3fn	lesa
 ritningarlestra	nkfo	ritningarlestur
 .	.	.
-
 Kórar	nkfn	kór
 Útskálakirkju	nvee-s	Útskálakirkja
 og	c	og
@@ -4182,26 +3744,21 @@ Hvalsneskirkju	nvee-s	Hvalsneskirkja
 leiða	sfg3fn	leiða
 sönginn	nkeog	söngur
 .	.	.
-
 Prestur	nken	prestur
 ;	;	;
 sr.	as	sr.
-
 Lilja	nven-s	Lilja
 Kristín	nven-s	Kristín
 Þorsteindóttir	nven-s	Þorsteindóttir
 .	.	.
-
 Allir	fokfn	allur
 velkomnir	lkfnsf	velkominn
 .	.	.
-
 Helgistund	nven	helgistund
 verður	sfg3en	verða
 að	aþ	að
 Garðvangi	nkeþ-s	Garðvangur
 kl.	as	kl.
-
 15:30	ta	15:30
 HVALSNESSÓKN	nven-s	Hvalsnessókn
 :	:	:
@@ -4213,16 +3770,13 @@ Safnaðarheimilinu	nheþgs	Safnaðarheimilið
 í	aþ	í
 Sandgerði	nheþ-s	Sandgerði
 kl.	as	kl.
-
 20:30	ta	20:30
 .	.	.
-
 Ræðumaður	nken	ræðumaður
 er	sfg3en	vera
 Marta	nven-s	Marta
 Eiríksdóttir	nven-s	Eiríksdóttir
 .	.	.
-
 Organisti	nken	organisti
 og	c	og
 kórstjóri	nken	kórstjóri
@@ -4230,14 +3784,12 @@ kórstjóri	nken	kórstjóri
 Steinar	nken-s	Steinar
 Guðmundsson	nken-s	Guðmundsson
 .	.	.
-
 Þorvaldur	nken-s	Þorvaldur
 Halldórsson	nken-s	Halldórsson
 leikur	sfg3en	leika
 á	ao	á
 trommur	nvfo	tromma
 .	.	.
-
 Jón	nken-s	Jón
 Árni	nken-s	Árni
 Benediktsson	nken-s	Benediktsson
@@ -4245,12 +3797,10 @@ leikur	sfg3en	leika
 á	ao	á
 rafbassa	nkeo	rafbassi
 .	.	.
-
 Fermingarbörn	nhfn	fermingarbarn
 lesa	sfg3fn	lesa
 ritningarlestra	nkfo	ritningarlestur
 .	.	.
-
 Kórar	nkfn	kór
 Útskálakirkju	nvee-s	Útskálakirkja
 og	c	og
@@ -4258,16 +3808,13 @@ Hvalsneskirkju	nvee-s	Hvalsneskirkja
 leiða	sfg3fn	leiða
 sönginn	nkeog	söngur
 .	.	.
-
 Prestur	nken	prestur
 ;	;	;
 sr.	as	sr.
-
 Lilja	nven-s	Lilja
 Kristín	nven-s	Kristín
 Þorsteindóttir	nven-s	Þorsteindóttir
 .	.	.
-
 (	(	(
 Matt.	as	Matt.
 4.	ta	4.
@@ -4276,7 +3823,6 @@ Matt.	as	Matt.
 Matt.	as	Matt.
 4.	ta	4.
 )	)	)
-
 Reykjavík	nven-s	Reykjavík
 |	|	|
 Nú	aa	nú
@@ -4307,7 +3853,6 @@ með	ao	með
 vorið	nheog	vor
 heim	aa	heim
 .	.	.
-
 Eins	aa	eins
 er	sfg3en	vera
 því	aa	því
@@ -4321,7 +3866,6 @@ við	ao	við
 bláan	lkeosf	blár
 Reykjavíkurhimininn	nkeogs	Reykjavíkurhiminn
 .	.	.
-
 Ef	c	ef
 til	aa	til
 vill	sfg3en	vilja
@@ -4361,7 +3905,6 @@ vorboðunum	nkfþg	vorboði
 leiðina	nveog	leið
 heim	aa	heim
 .	.	.
-
 Guðrún	nven-s	Guðrún
 Margrét	nven-s	Margrét
 Pálsdóttir	nven-s	Pálsdóttir
@@ -4370,7 +3913,6 @@ fæddist	sfm3eþ	fæða
 Reykjavík	nveþ-s	Reykjavík
 1959	ta	1959
 .	.	.
-
 Hún	fpven	hún
 lauk	sfg3eþ	ljúka
 stúdentsprófi	nheþ	stúdentspróf
@@ -4388,7 +3930,6 @@ Háskóla	nkeþ-s	Háskóli
 Íslands	nhee-s	Ísland
 1982	ta	1982
 .	.	.
-
 Frá	aþ	frá
 1988	ta	1988
 hefur	sfg3en	hafa
@@ -4397,7 +3938,6 @@ starfað	ssg	starfa
 við	ao	við
 ABC-barnahjálp	nveo-s	ABC-barnahjálp
 .	.	.
-
 Árið	nheog	ár
 2004	ta	2004
 hlaut	sfg3eþ	hljóta
@@ -4408,7 +3948,6 @@ hinnar	gvee	hinn
 íslensku	lveevf	íslenskur
 fálkaorðu	nvee	fálkaorða
 .	.	.
-
 Maki	nken	maki
 Guðrúnar	nvee-s	Guðrún
 er	sfg3en	vera
@@ -4421,7 +3960,6 @@ eiga	sfg3fn	eiga
 fjögur	tfhfo	fjórir
 börn	nhfo	barn
 .	.	.
-
 Guðrún	nven-s	Guðrún
 Margrét	nven-s	Margrét
 Pálsdóttir	nven-s	Pálsdóttir
@@ -4430,7 +3968,6 @@ fæddist	sfm3eþ	fæða
 Reykjavík	nveþ-s	Reykjavík
 1959	ta	1959
 .	.	.
-
 Hún	fpven	hún
 lauk	sfg3eþ	ljúka
 stúdentsprófi	nheþ	stúdentspróf
@@ -4448,7 +3985,6 @@ Háskóla	nkeþ-s	Háskóli
 Íslands	nhee-s	Ísland
 1982	ta	1982
 .	.	.
-
 Frá	aþ	frá
 1988	ta	1988
 hefur	sfg3en	hafa
@@ -4457,7 +3993,6 @@ starfað	ssg	starfa
 við	ao	við
 ABC-barnahjálp	nveo-s	ABC-barnahjálp
 .	.	.
-
 Árið	nheog	ár
 2004	ta	2004
 hlaut	sfg3eþ	hljóta
@@ -4468,7 +4003,6 @@ hinnar	gvee	hinn
 íslensku	lveevf	íslenskur
 fálkaorðu	nvee	fálkaorða
 .	.	.
-
 Maki	nken	maki
 Guðrúnar	nvee-s	Guðrún
 er	sfg3en	vera
@@ -4481,7 +4015,6 @@ eiga	sfg3fn	eiga
 fjögur	tfhfo	fjórir
 börn	nhfo	barn
 .	.	.
-
 ABC-barnahjálp	nven-s	ABC-barnahjálp
 hóf	sfg3eþ	hefja
 í	aþ	í
@@ -4494,9 +4027,7 @@ sitt	feheo	sinn
 Börn	nhfn	barn
 hjálpa	sfg3fn	hjálpa
 börnum	nhfþ	barn
-
 .	.	.
-
 Söfnunin	nveng	söfnun
 stendur	sfg3en	standa
 út	aa	út
@@ -4514,7 +4045,6 @@ hús	nhfo	hús
 með	ao	með
 söfnunarbauka	nkfo	söfnunarbaukur
 .	.	.
-
 Síðustu	lhfove	síðari
 ár	nhfo	ár
 hafa	sfg3fn	hafa
@@ -4557,7 +4087,6 @@ safnaðist	sfm3eþ	safna
 í	ao	í
 fyrra	lheovm	fyrri
 .	.	.
-
 Í	ao	í
 ár	nheo	ár
 er	sfg3en	vera
@@ -4567,7 +4096,6 @@ verkefnum	nhfþ	verkefni
 í	aþ	í
 Pakistan	nheþ-s	Pakistan
 .	.	.
-
 Ákveðið	sþghen	ákveða
 var	sfg3eþ	vera
 að	cn	að
@@ -4616,7 +4144,6 @@ Pálsdóttir	nven-s	Pálsdóttir
 formaður	nken	formaður
 ABC-barnahjálpar	nvee-s	ABC-barnahjálp
 .	.	.
-
 Faðir	nken	faðir
 Maxwell	e	Maxwell
 Ditta	e	Ditta
@@ -4640,7 +4167,6 @@ ABC-barnahjálp	nven-s	ABC-barnahjálp
 fæst	sfm3en	fá
 við	aa	við
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 sá	faken	sá
@@ -4665,7 +4191,6 @@ gengið	ssg	ganga
 í	ao	í
 skóla	nkeo	skóli
 .	.	.
-
 Hann	fpken	hann
 sjálfur	fbken	sjálfur
 lauk	sfg3eþ	ljúka
@@ -4683,7 +4208,6 @@ allir	fokfn	allur
 með	ao	með
 masterspróf	nheo	masterspróf
 .	.	.
-
 Þetta	fahen	þessi
 sýnir	sfg3en	sýna
 hvað	fshen	hver
@@ -4705,7 +4229,6 @@ segir	sfg3en	segja
 Guðrún	nven-s	Guðrún
 Margrét	nven-s	Margrét
 .	.	.
-
 Synir	nkfn	sonur
 hans	fpkee	hann
 byggðu	sfg3fþ	byggja
@@ -4737,7 +4260,6 @@ gæti	svg3eþ	geta
 notalegt	lheosf	notalegur
 ævikvöld	nheo	ævikvöld
 .	.	.
-
 En	c	en
 hann	fpken	hann
 breytti	sfg3eþ	breyta
@@ -4751,7 +4273,6 @@ fyllti	sfg3eþ	fylla
 af	aþ	af
 börnum	nhfþ	barn
 .	.	.
-
 Í	aþ	í
 fyrstu	lveþve	fyrstur
 voru	sfg3fþ	vera
@@ -4776,7 +4297,6 @@ bak	nheo	bak
 við	aa	við
 bjó	sfg3eþ	búa
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 leggja	sfg3fn	leggja
@@ -4798,7 +4318,6 @@ liðsstyrk	nkeo	liðsstyrkur
 Íslendinga	nkfe-s	Íslendingur
 við	aa	við
 .	.	.
-
 Maxwell	e	Maxwell
 og	c	og
 Þórunn	nven-s	Þórunn
@@ -4814,7 +4333,6 @@ og	c	og
 skoðuðu	sfg3fþ	skoða
 aðstæður	nvfo	aðstæður
 .	.	.
-
 Mjög	aa	mjög
 mikið	lhensf	mikill
 af	aþ	af
@@ -4844,7 +4362,6 @@ skóla	nkeo	skóli
 sökum	ae	sökum
 fátæktar	nvee	fátækt
 .	.	.
-
 Jafnvel	aa	jafnvel
 vöru	x	vara
 þarna	aa	þarna
@@ -4869,7 +4386,6 @@ sárlega	aa	sárlega
 segir	sfg3en	segja
 Guðrún	nven-s	Guðrún
 .	.	.
-
 Þegar	c	þegar
 hafa	sfg3fn	hafa
 verið	ssg	vera
@@ -4887,7 +4403,6 @@ byggja	sng	byggja
 þar	aa	þar
 skólabyggingar	nvfo	skólabygging
 .	.	.
-
 ABC-barnahjálp	nven-s	ABC-barnahjálp
 er	sfg3en	vera
 nú	aa	nú
@@ -4910,7 +4425,6 @@ yfir	aa	yfir
 fullri	lveþsf	fullur
 heimavist	nveþ	heimavist
 .	.	.
-
 Allt	fohen	allur
 fé	nhen	fé
 sem	ct	sem
@@ -4931,7 +4445,6 @@ rekin	sþgven	reka
 í	aþ	í
 sjálfboðavinnu	nveþ	sjálfboðavinna
 .	.	.
-
 Nánari	lvfovm	náinn
 upplýsingar	nvfo	upplýsing
 má	sfg3en	mega
@@ -4954,7 +4467,6 @@ nr.	as	nr.
 kt.	as	kt.
 690688-1589	ta	690688-1589
 .	.	.
-
 Orð	nhen	orð
 dagsins	nkeeg	dagur
 :	:	:
@@ -4981,16 +4493,13 @@ krafti	nkeþ	kraftur
 heilags	lkeesf	heilagur
 anda	nkee	andi
 .	.	.
-
 (	(	(
 Róm	nven-s	Róm
 .	.	.
-
 15	ta	15
 ,	,	,
 13.	ta	13.
 )	)	)
-
 Perth	e	Perth
 ,	,	,
 Ástralíu	nveþ-s	Ástralía

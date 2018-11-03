@@ -10,7 +10,6 @@ sig	fpveo	sig
 sem	c	sem
 leikkona	nven	leikkona
 .	.	.
-
 Madonna	e	Madonna
 samþykkti	sfg3eþ	samþykkja
 að	cn	að
@@ -29,7 +28,6 @@ leika	sng	leika
 sjálfa	fbveo	sjálfur
 sig	fpveo	sig
 .	.	.
-
 Persóna	nven	persóna
 hennar	fpvee	hún
 í	aþ	í
@@ -49,14 +47,12 @@ víst	aa	víst
 afar	aa	afar
 spaugileg	lvensf	spaugilegur
 .	.	.
-
 Tákn	nhen	tákn
 heilagrar	lveesf	heilagur
 þrenningar	nvee	þrenning
 Til	ae	til
 styrktar	nvee	styrkt
 blindum	lkfþsf	blindur
-
 MADONNA	e	MADONNA
 Fyrstu	lhfnve	fyrstur
 viðbrögð	nhfn	viðbragð
@@ -85,7 +81,6 @@ heyrt	ssg	heyra
 þáttarins	nkeeg	þáttur
 getið	sþghen	geta
 .	.	.
-
 Will	e	Will
 og	c	og
 Grace	e	Grace
@@ -97,7 +92,6 @@ Madonnu	e	Madonnu
 í	ao	í
 tvö	tfhfo	tveir
 ár	nhfo	ár
-
 CHARLES	e	CHARLES
 INGRAM	e	INGRAM
 OG	c	og
@@ -106,7 +100,6 @@ Mæta	sfg3fn	mæta
 fyrir	ao	fyrir
 rétt	nkeo	réttur
 .	.	.
-
 Hann	fpken	hann
 fékk	sfg3eþ	fá
 vinningsupphæðina	nveog	vinningsupphæð
@@ -119,7 +112,6 @@ fram	aa	fram
 sakleysi	nheþ	sakleysi
 sínu	feheþ	sinn
 .	.	.
-
 Hann	fpken	hann
 ,	,	,
 eiginkona	nven	eiginkona
@@ -146,11 +138,9 @@ sleppa	sfg3fn	sleppa
 við	ao	við
 fangelsisvist	nveo	fangelsisvist
 .	.	.
-
 Stöð	nven-s	Stöð
 2	ta	2
 :	:	:
-
 Sýnir	sfg3en	sýna
 svindlaraþáttinn	nkeog	svindlaraþáttur
 Stöð	nven-s	Stöð
@@ -206,7 +196,6 @@ með	aþ	með
 að	cn	að
 hósta	sng	hósta
 .	.	.
-
 Þátturinn	nkeng	þáttur
 var	sfg3eþ	vera
 tekinn	sþgken	taka
@@ -235,7 +224,6 @@ pokahorninu	nheþg	pokahorn
 kviknaði	sfg3eþ	kvikna
 strax	aa	strax
 .	.	.
-
 Þátturinn	nkeng	þáttur
 verður	sfg3en	verða
 sýndur	sþgken	sýna
@@ -261,7 +249,6 @@ sem	ct	sem
 vöktu	sfg3fþ	vekja
 heimsathygli	nveo	heimsathygli
 .	.	.
-
 Eiginkona	nven	eiginkona
 Ingrams	e	Ingrams
 ,	,	,
@@ -287,7 +274,6 @@ aðild	nveo	aðild
 að	aþ	að
 málinu	nheþg	mál
 .	.	.
-
 Leyniskyttan	nveng	leyniskytta
 í	aþ	í
 Washington	e	Washington
@@ -317,7 +303,6 @@ kominn	sþgken	koma
 fulla	lveosf	fullur
 ferð	nveo	ferð
 .	.	.
-
 Gengið	sþghen	ganga
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -349,7 +334,6 @@ morðingjunum	nkfþg	morðingi
 stóð	sfg3eþ	standa
 yfir	aa	yfir
 .	.	.
-
 Því	aa	því
 verður	sfg3en	verða
 sífellt	aa	sífellt
@@ -360,7 +344,6 @@ séu	svg3fn	vera
 búnir	lkfnsf	búinn
 Bluetooth-búnaði	nkeþ-s	bluetooth-búnaður
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 hins	fakee	hinn
@@ -382,7 +365,6 @@ kominn	sþgken	koma
 á	ao	á
 götuna	nveog	gata
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 þó	aa	þó
@@ -394,7 +376,6 @@ kringum	ao	kringum
 þetta	faheo	þessi
 vandamál	nheo	vandamál
 .	.	.
-
 T-210-DSP	x	T-210-DSP
 er	sfg3en	vera
 ódýr	lvensf	ódýr
@@ -407,7 +388,6 @@ einföld	lvensf	einfaldur
 í	aþ	í
 uppsetningu	nveþ	uppsetning
 .	.	.
-
 Einingin	nveng	eining
 virkar	sfg3en	virka
 vel	aa	vel
@@ -416,7 +396,6 @@ er	sfg3en	vera
 mjög	aa	mjög
 notendavæn	lvensf	notendavænn
 .	.	.
-
 Öfugt	lhensf	öfugur
 við	ao	við
 hefðbundnar	lvfosf	hefðbundinn
@@ -444,7 +423,6 @@ hana	fpveo	hún
 við	ao	við
 sólskyggni	nheo	sólskyggni
 .	.	.
-
 T-210-DSP	x	T-210-DSP
 er	sfg3en	vera
 hins	fakee	hinn
@@ -465,13 +443,11 @@ yfir	ao	yfir
 önnur	fohfo	annar
 tæki	nhfo	tæki
 .	.	.
-
 «	«	«
 úr	aþ	úr
 dómi	nkeþ	dómur
 Fréttablaðsins	nheegs	Fréttablað
 »	»	»
-
 Í	aþ	í
 nýbyggðu	lheþsf	nýbyggður
 húsi	nheþ	hús
@@ -488,14 +464,12 @@ Remax	e	Remax
 á	aþ	á
 Garðatorgi	nheþ-s	Garðatorg
 .	.	.
-
 Þær	fpvfn	hún
 verða	sfg3fn	verða
 tilbúnar	lvfnsf	tilbúinn
 í	aþ	í
 september	nkeþ	september
 .	.	.
-
 Íbúðirnar	nvfng	íbúð
 sex	tfvfn	sex
 sem	ct	sem
@@ -509,7 +483,6 @@ allar	fovfn	allur
 þriggja	tfhfe	þrír
 herbergja	nhfe	herbergi
 .	.	.
-
 Þær	fpvfn	hún
 eru	sfg3fn	vera
 á	aþ	á
@@ -525,7 +498,6 @@ tvær	tfvfn	tveir
 hverri	foveþ	hver
 hæð	nveþ	hæð
 .	.	.
-
 Alls	aa	alls
 er	sfg3en	vera
 húsið	nheng	hús
@@ -534,7 +506,6 @@ hæðir	nvfn	hæð
 og	c	og
 kjallari	nken	kjallari
 .	.	.
-
 Verslunarrými	nhen	verslunarrými
 er	sfg3en	vera
 á	aþ	á
@@ -548,7 +519,6 @@ geymslur	nvfn	geymsla
 og	c	og
 þvottahús	nhen	þvottahús
 .	.	.
-
 Þaðan	aa	þaðan
 er	sfg3en	vera
 lyfta	nven	lyfta
@@ -557,7 +527,6 @@ upp	aa	upp
 fjórðu	lveovf	fjórði
 hæð	nveo	hæð
 .	.	.
-
 Íbúðirnar	nvfng	íbúð
 eru	sfg3fn	vera
 86,6	ta	86,6
@@ -567,7 +536,6 @@ fermetrar	nkfn	fermetri
 að	aþ	að
 stærð	nveþ	stærð
 .	.	.
-
 Allar	fovfn	allur
 eru	sfg3fn	vera
 með	aþ	með
@@ -579,7 +547,6 @@ snúa	sfg3fn	snúa
 í	ao	í
 norður	nheo	norður
 .	.	.
-
 Stórar	lvfnsf	stór
 dyr	nvfn	dyr
 með	aþ	með
@@ -611,7 +578,6 @@ með	aþ	með
 heitum	lkeþsf	heitur
 potti	nkeþ	pottur
 .	.	.
-
 Eldhúsinnrétting	nven	eldhúsinnrétting
 er	sfg3en	vera
 sprautulökkuð	lvensf	sprautulakkaður
@@ -635,14 +601,12 @@ gera	sfg3fn	gera
 lokun	nveo	lokun
 mjúka	lveosf	mjúkur
 .	.	.
-
 Borðplata	nven	borðplata
 er	sfg3en	vera
 úr	aþ	úr
 dökku	lheþsf	dökkur
 graníti	nheþ	granít
 .	.	.
-
 Vaskur	nken	vaskur
 í	aþ	í
 eldhúsi	nheþ	eldhús
@@ -655,14 +619,12 @@ keramik	lhenof	keramik
 helluborð	nhen	helluborð
 einnig	aa	einnig
 .	.	.
-
 Ofn	nken	ofn
 er	sfg3en	vera
 fyrir	ao	fyrir
 neðan	aa	neðan
 helluborðið	nheog	helluborð
 .	.	.
-
 Ísskápur	nken	ísskápur
 með	aþ	með
 stáláferð	nveþ	stáláferð
@@ -674,7 +636,6 @@ fylgja	sfg3fn	fylgja
 hverri	foveþ	hver
 íbúð	nveþ	íbúð
 .	.	.
-
 Snyrting	nven	snyrting
 er	sfg3en	vera
 flísalögð	lvensf	flísalagður
@@ -692,7 +653,6 @@ háglansáferð	nveþ	háglansáferð
 ljósum	lkeþsf	ljós
 lit	nkeþ	litur
 .	.	.
-
 Hornbaðkar	nhen	hornbaðkar
 með	aþ	með
 nuddi	nheþ	nudd
@@ -715,7 +675,6 @@ með	aþ	með
 hitastýrðum	lhfþsf	hitastýrður
 blöndunartækjum	nhfþ	blöndunartæki
 .	.	.
-
 Klósett	nhfn	klósett
 eru	sfg3fn	vera
 upphengd	lhfnsf	upphengdur
@@ -723,7 +682,6 @@ upphengd	lhfnsf	upphengdur
 hvítu	lheþsf	hvítur
 postulíni	nheþ	postulín
 .	.	.
-
 Fataskápar	nkfn	fataskápur
 eru	sfg3fn	vera
 úr	aþ	úr
@@ -733,7 +691,6 @@ og	c	og
 innihurðir	nvfn	innihurð
 líka	aa	líka
 .	.	.
-
 Hæð	nven	hæð
 hurða	nvfe	hurð
 er	sfg3en	vera
@@ -743,7 +700,6 @@ cm	as	cm
 öllum	fovfþ	allur
 íbúðunum	nvfþg	íbúð
 .	.	.
-
 Hurðir	nvfn	hurð
 út	aa	út
 úr	aþ	úr
@@ -763,7 +719,6 @@ veita	sng	veita
 mikla	lveosf	mikill
 hljóðvörn	nveo	hljóðvörn
 .	.	.
-
 Gólf	nhfn	gólf
 íbúða	nvfe	íbúð
 verða	sfg3fn	verða
@@ -778,7 +733,6 @@ lagt	sþghen	leggja
 langveg	nkeo	langvegur
 íbúða	nvfe	íbúð
 .	.	.
-
 Sameign	nven	sameign
 verður	sfg3en	verða
 frágengin	lvensf	frágenginn
@@ -788,7 +742,6 @@ máluð	sþgven	mála
 ljósum	lkeþsf	ljós
 lit	nkeþ	litur
 .	.	.
-
 Húsið	nheng	hús
 er	sfg3en	vera
 byggt	sþghen	byggja
@@ -796,7 +749,6 @@ af	aþ	af
 fyrirtækinu	nheþg	fyrirtæki
 Íbyggð	nveþ-s	Íbyggð
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 úr	aþ	úr
@@ -811,9 +763,7 @@ utan	aa	utan
 eða	c	eða
 innan	aa	innan
 .	.	.
-
 gun@frettabladid.is	v	gun@frettabladid.is
-
 Iðandi	lhenof	iðandi
 mannlíf	nhen	mannlíf
 við	ao	við
@@ -826,11 +776,9 @@ hæðir	nvfn	hæð
 og	c	og
 kallari	nken	kallari
 .	.	.
-
 Fjórða	lvenvf	fjórði
 hæðin	nveng	hæð
 .	.	.
-
 Íbúðirnar	nvfng	íbúð
 eru	sfg3fn	vera
 rúmlega	aa	rúmlega
@@ -844,14 +792,12 @@ er	sfg3en	vera
 heitur	lkensf	heitur
 pottur	nken	pottur
 .	.	.
-
 Bakhliðin	nveng	bakhlið
 sem	ct	sem
 snýr	sfg3en	snúa
 í	ao	í
 norður	nheo	norður
 .	.	.
-
 Þar	aa	þar
 eru	sfg3fn	vera
 stórar	lvfnsf	stór
@@ -860,7 +806,6 @@ svalir	nvfn	svalir
 öllum	fovfþ	allur
 íbúðunum	nvfþg	íbúð
 .	.	.
-
 Lónsbraut	nven-s	Lónsbraut
 ,	,	,
 Hfj	as	Hfj
@@ -868,7 +813,6 @@ Hfj	as	Hfj
 200	ta	200
 fm	as	fm
 .	.	.
-
 Til	ae	til
 leigu	nvee	leiga
 mjög	aa	mjög
@@ -882,7 +826,6 @@ höfnina	nveog	höfn
 í	aþ	í
 Hafnarfirði	nkeþ-s	Hafnarfjörður
 .	.	.
-
 Rýmið	nheng	rými
 er	sfg3en	vera
 200	ta	200
@@ -906,7 +849,6 @@ hvor	foven	hvor
 um	ao	um
 sig	fpveo	sig
 .	.	.
-
 Góð	lvensf	góður
 lýsing	nven	lýsing
 ,	,	,
@@ -922,19 +864,16 @@ skrifstofa	nven	skrifstofa
 á	aþ	á
 milligólfi	nheþ	milligólf
 .	.	.
-
 Laust	lhensf	laus
 nú	aa	nú
 þegar	aa	þegar
 .	.	.
-
 Súðarvogur	nken-s	Súðarvogur
 ,	,	,
 241	ta	241
 fm	as	fm
 iðnaðarhúsnæði	nhen	iðnaðarhúsnæði
 .	.	.
-
 Til	ae	til
 sölu	nvee	sala
 á	aþ	á
@@ -949,7 +888,6 @@ innkeyrsluhurð	nveþ	innkeyrsluhurð
 og	c	og
 gönguhurð	nveþ	gönguhurð
 .	.	.
-
 Húsnæðið	nheng	húsnæði
 skiptist	sfm3en	skipta
 í	ao	í
@@ -965,13 +903,11 @@ skrifstofur	nvfn	skrifstofa
 og	c	og
 kaffistofa	nven	kaffistofa
 .	.	.
-
 Getur	sfg3en	geta
 verið	ssg	vera
 laust	lhensf	laus
 fljótlega	aa	fljótlega
 .	.	.
-
 Hringið	sbg2fn	hringja
 og	c	og
 fáið	sbg2fn	fá
@@ -980,7 +916,6 @@ til	ae	til
 að	cn	að
 skoða	sng	skoða
 .	.	.
-
 Skrifstofuhúsnæði	nhen	skrifstofuhúsnæði
 miðsvæðis	aa	miðsvæðis
 Rvk	as	Rvk.
@@ -988,7 +923,6 @@ Rvk	as	Rvk.
 540	ta	540
 fm	as	fm
 .	.	.
-
 Til	ae	til
 sölu	nvee	sala
 eða	c	eða
@@ -1014,7 +948,6 @@ samtals	aa	samtals
 540	ta	540
 fm	as	fm
 .	.	.
-
 Húsnæðið	nheng	húsnæði
 er	sfg3en	vera
 frábærlega	aa	frábærlega
@@ -1022,7 +955,6 @@ vel	aa	vel
 staðsett	lhensf	staðsettur
 miðsvæðis	aa	miðsvæðis
 .	.	.
-
 Næg	lhfnsf	nægur
 bílastæði	nhfn	bílastæði
 eru	sfg3fn	vera
@@ -1032,7 +964,6 @@ sem	c	sem
 tilheyra	sfg3fn	tilheyra
 húsnæðinu	nheþg	húsnæði
 .	.	.
-
 Húsnæðið	nheng	húsnæði
 er	sfg3en	vera
 innréttað	sþghen	innrétta
@@ -1048,13 +979,11 @@ móttöku	nvee	móttaka
 og	c	og
 anddyri	nhee	anddyri
 .	.	.
-
 Teikningar	nvfn	teikning
 á	aþ	á
 skrifstofu	nveþ	skrifstofa
 okkar	fp1fe	ég
 .	.	.
-
 Skrifstofa-	nven	skrifstofa
 /	/	/
 vinnustofa	nven	vinnustofa
@@ -1063,7 +992,6 @@ miðsvæðis	aa	miðsvæðis
 70	ta	70
 fm	as	fm
 .	.	.
-
 Til	ae	til
 leigu	nvee	leiga
 við	ao	við
@@ -1078,13 +1006,11 @@ hæð	nveþ	hæð
 í	aþ	í
 bakhúsi	nheþ	bakhús
 .	.	.
-
 Stutt	lhensf	stuttur
 í	ao	í
 helstu	lvfove	heldri
 stofnbrautir	nvfo	stofnbraut
 .	.	.
-
 Rýmið	nheng	rými
 hentar	sfg3en	henta
 sérlega	aa	sérlega
@@ -1094,16 +1020,13 @@ vinnustofa	nven	vinnustofa
 eða	c	eða
 stúdíó	nhen	stúdíó
 .	.	.
-
 Hagstæð	lvensf	hagstæður
 leiga	nven	leiga
 .	.	.
-
 Laust	lhensf	laus
 nú	aa	nú
 þegar	aa	þegar
 .	.	.
-
 Völuteigur	nken-s	Völuteigur
 ,	,	,
 270	ta	270
@@ -1115,7 +1038,6 @@ eða	c	eða
 635	ta	635
 fm	as	fm
 .	.	.
-
 Til	ae	til
 sölu	nvee	sala
 ,	,	,
@@ -1137,7 +1059,6 @@ mtr.	as	mtr.
 að	aþ	að
 grunnfleti	nkeþ	grunnflötur
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -1152,7 +1073,6 @@ samtals	aa	samtals
 635	ta	635
 fm	as	fm
 .	.	.
-
 Annarsvegar	aa	annarsvegar
 er	sfg3en	vera
 um	ao	um
@@ -1196,7 +1116,6 @@ innkeyrsluhurðir	nvfn	innkeyrsluhurð
 og	c	og
 gegnumkeyrsla	nven	gegnumkeyrsla
 .	.	.
-
 Fiskeldisstöð	nven	fiskeldisstöð
 í	aþ	í
 rekstri	nkeþ	rekstur
@@ -1204,7 +1123,6 @@ m	as	m
 /	/	/
 fasteignum	nvfþ	fasteignir
 .	.	.
-
 Til	ae	til
 sölu	nvee	sala
 fiskeldisstöð	nven	fiskeldisstöð
@@ -1220,7 +1138,6 @@ Saurbæjar	nkee-s	Saurbær
 í	aþ	í
 Hvalfirði	nkeþ-s	Hvalfjörður
 .	.	.
-
 2x	ta	2x
 200	ta	200
 rm	as	rm
@@ -1241,13 +1158,11 @@ og	c	og
 rm	as	rm
 útikör	nhfn	útikar
 .	.	.
-
 3ja	ta	3ja
 ára	nhfe	ár
 lífmassi	nken	lífmassi
 nú	aa	nú
 .	.	.
-
 Áætlaður	lkensf	áætlaður
 lífmassi	nken	lífmassi
 2008	ta	2008
@@ -1256,7 +1171,6 @@ um	aa	um
 100	ta	100
 tonn	nhfn	tonn
 .	.	.
-
 Áætlaður	lkensf	áætlaður
 lífmassi	nken	lífmassi
 2009	ta	2009
@@ -1265,7 +1179,6 @@ um	aa	um
 140	ta	140
 tonn	nhfn	tonn
 .	.	.
-
 Vatnshitakerfi	nhen	vatnshitakerfi
 svo	aa	svo
 ekki	aa	ekki
@@ -1273,7 +1186,6 @@ frjósi	svg3en	frjósa
 í	aþ	í
 kerjum	nhfþ	ker
 .	.	.
-
 Fullkomið	lhensf	fullkominn
 eftirlitskerfi	nhen	eftirlitskerfi
 stýranlegt	lhensf	stýranlegur
@@ -1281,12 +1193,10 @@ stýranlegt	lhensf	stýranlegur
 gegnum	ao	gegnum
 netið	nheog	net
 .	.	.
-
 Fullkomin	lvensf	fullkominn
 sjálfvirk	lvensf	sjálfvirkur
 skömmtun	nven	skömmtun
 .	.	.
-
 Í	aþ	í
 húsnæðinu	nheþg	húsnæði
 eru	sfg3fn	vera
@@ -1301,7 +1211,6 @@ efri	lveþvm	efri
 hæð	nveþ	hæð
 þess	fphee	það
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 eru	sfg3fn	vera
@@ -1309,7 +1218,6 @@ skrifstofur	nvfn	skrifstofa
 og	c	og
 vinnuaðstaða	nven	vinnuaðstaða
 .	.	.
-
 Dvergshöfði	nken-s	Dvergshöfði
 ,	,	,
 Rvk	as	Rvk.
@@ -1317,7 +1225,6 @@ Rvk	as	Rvk.
 95	ta	95
 fm	as	fm
 .	.	.
-
 Til	ae	til
 leigu	nvee	leiga
 skrifstofu-	nhen	skrifstofurými
@@ -1331,7 +1238,6 @@ fm	as	fm
 að	aþ	að
 stærð	nveþ	stærð
 .	.	.
-
 Skiptist	sfm3en	skipta
 í	ao	í
 skrifstofur	nvfo	skrifstofa
@@ -1341,17 +1247,14 @@ og	c	og
 opið	lheosf	opinn
 vinnurými	nheo	vinnurými
 .	.	.
-
 Sérinngangur	nken	sérinngangur
 .	.	.
-
 Kerfisloft	nhen	kerfisloft
 og	c	og
 lagnir	nvfn	lögn
 í	aþ	í
 stokkum	nkfþ	stokkur
 .	.	.
-
 Fyrir	ao	fyrir
 fjárfesta	nkfo	fjárfestir
 :	:	:
@@ -1368,7 +1271,6 @@ upp	aa	upp
 ýmsa	fokfo	ýmis
 möguleika	nkfo	möguleiki
 .	.	.
-
 Burðarvirki	nhen	burðarvirki
 hússins	nheeg	hús
 er	sfg3en	vera
@@ -1379,7 +1281,6 @@ steypubitar	nkfn	steypubiti
 þaki	nheþ	þak
 einnig	aa	einnig
 .	.	.
-
 Hlaðið	lhensf	hlaðinn
 er	sfg3en	vera
 á	aa	á
@@ -1388,7 +1289,6 @@ bita	nkfe	biti
 með	aþ	með
 holsteini	nkeþ	holsteinn
 .	.	.
-
 Húsið	nheng	hús
 er	sfg3en	vera
 byggt	sþghen	byggja
@@ -1403,7 +1303,6 @@ vandað	sþghen	vanda
 sínum	fekeþ	sinn
 tíma	nkeþ	tími
 .	.	.
-
 Lóðin	nveng	lóð
 er	sfg3en	vera
 6.634fm	as	6.634fm
@@ -1411,7 +1310,6 @@ afar	aa	afar
 vel	aa	vel
 staðsett	lvensf	staðsettur
 .	.	.
-
 Húsnæðið	nheng	húsnæði
 gæti	svg3eþ	geta
 hentað	ssg	henta
@@ -1433,7 +1331,6 @@ leigutekjum	nvfþ	leigutekjur
 eigninni	nveþg	eign
 undanfarið	aa	undanfarið
 .	.	.
-
 Mikill	lkensf	mikill
 kostur	nken	kostur
 er	sfg3en	vera
@@ -1453,7 +1350,6 @@ og	c	og
 ótakmarkað	lhensf	ótakmarkaður
 vatn	nhen	vatn
 .	.	.
-
 Hugmyndir	nvfn	hugmynd
 hafa	sfg3fn	hafa
 verið	ssg	vera
@@ -1466,7 +1362,6 @@ hús	nhfo	hús
 á	aþ	á
 lóðinni	nveþg	lóð
 .	.	.
-
 Húsnæðið	nheng	húsnæði
 er	sfg3en	vera
 skráð	sþghen	skrá
@@ -1478,7 +1373,6 @@ er	sfg3en	vera
 stórt	lhensf	stór
 milliloft	nhen	milliloft
 .	.	.
-
 Íbúð	nven	íbúð
 /	/	/
 skrifstofa	nven	skrifstofa
@@ -1488,37 +1382,30 @@ einnig	aa	einnig
 norðurenda	nkeþ	norðurendi
 hússins	nheeg	hús
 .	.	.
-
 Verð	nhen	verð
 125.000.000	ta	125.000.000
 kr.	as	kr.
-
 FISKVINNSLA-	nven	fiskvinnsla
 ÚTFLUTNINGUR	nken	útflutningur
 .	.	.
-
 Til	ae	til
 sölu	nvee	sala
 fiskútflutningsfyrirtæki	nhen	fiskútflutningsfyrirtæki
 á	aþ	á
 Höfuðborgarsvæðinu	nheþgs	Höfuðborgarsvæði
 .	.	.
-
 Mjög	aa	mjög
 góð	lhfnsf	góður
 erl.	as	erl.
 sambönd	nhfn	samband
 .	.	.
-
 Mikil	lvensf	mikill
 vaxandi	lvenof	vaxandi
 velta	nven	velta
 .	.	.
-
 Einstakt	lhensf	einstakur
 tækifæri	nhen	tækifæri
 .	.	.
-
 Uppl.	as	uppl.
 eingöngu	aa	eingöngu
 á	aþ	á
@@ -1528,12 +1415,10 @@ ekki	aa	ekki
 í	aþ	í
 síma	nkeþ	sími
 .	.	.
-
 BLÓM	nhfn	blóm
 OG	c	og
 GJAFAVARA	nven	gjafavara
 .	.	.
-
 Til	ae	til
 sölu	nvee	sala
 rekstur	nken	rekstur
@@ -1546,7 +1431,6 @@ verslunar-	nkeþ	verslunarkjarni
 og	c	og
 þjónustukjarna	nkeþ	þjónustukjarni
 .	.	.
-
 Verð	nhen	verð
 aðeins	aa	aðeins
 kr	as	kr
@@ -1555,16 +1439,13 @@ millj.	as	millj.
 með	aþ	með
 vörulager	nkeþ	vörulager
 .	.	.
-
 Gott	lhensf	góður
 tækifæri	nhen	tækifæri
 .	.	.
-
 NUDD	nhen	nudd
 OG	c	og
 GRENNINGARSTOFA	nven	grenningarstofa
 .	.	.
-
 Til	ae	til
 sölu	nvee	sala
 heilsustúdíó	nhen	heilsustúdíó
@@ -1572,33 +1453,27 @@ með	ao	með
 góðan	lkeosf	góður
 tækjakost	nkeo	tækjakostur
 .	.	.
-
 Þekkt	lvensf	þekktur
 stofa	nven	stofa
 í	aþ	í
 rúmgóðu	lheþsf	rúmgóður
 húsnæði	nheþ	húsnæði
 .	.	.
-
 Staðsetning	nven	staðsetning
 mjög	aa	mjög
 góð	lvensf	góður
 .	.	.
-
 Góður	lkensf	góður
 tími	nken	tími
 framundan	aa	framundan
 .	.	.
-
 Frábært	lhensf	frábær
 tækifæri	nhen	tækifæri
 .	.	.
-
 BARNAFATAVERSLUN	nven	barnafataverslun
 MEÐ	ao	með
 TOPP	lhfoof	topp
 MERKI.	nhfo	merki
-
 Til	ae	til
 sölu	nvee	sala
 skemmtileg	lvensf	skemmtilegur
@@ -1616,25 +1491,21 @@ miðsvæðis	aa	miðsvæðis
 í	aþ	í
 Borginni	nveþgs	Borg
 .	.	.
-
 Falleg	lvensf	fallegur
 vara	nven	vara
 -	-	-
 góð	lvensf	góður
 sala	nven	sala
 .	.	.
-
 Topp	lhfnof	topp
 tækifæri	nhfn	tækifæri
 .	.	.
-
 VINSÆLL	lkensf	vinsæll
 SKYNDIBITASTAÐUR	nken	skyndibitastaður
 MEÐ	ao	með
 MIKLA	lveosf	mikill
 VELTU	nveo	velta
 .	.	.
-
 Til	ae	til
 sölu	nvee	sala
 þekktur	lkensf	þekktur
@@ -1645,27 +1516,22 @@ með	ao	með
 fína	lveosf	fínn
 afkomu	nveo	afkoma
 .	.	.
-
 Bullandi	lvenof	bullandi
 traffík	nven	traffík
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 frábært	lhensf	frábær
 tækifæri	nhen	tækifæri
 .	.	.
-
 Leitið	sbg2fn	leita
 upplýsinga	nvfe	upplýsing
 .	.	.
-
 GLÆSILEG	lvensf	glæsilegur
 SNYRTISTOFA	nven	snyrtistofa
 MEÐ	aþ	með
 VERSLUN	nveþ	verslun
 .	.	.
-
 Til	ae	til
 SÖLU	nvee	sala
 Þekkt	lvensf	þekktur
@@ -1680,11 +1546,9 @@ með	ao	með
 góða	lveosf	góður
 aðkomu	nveo	aðkoma
 .	.	.
-
 Góður	lkensf	góður
 tækjakostur	nken	tækjakostur
 .	.	.
-
 Tilvalið	lhensf	tilvalinn
 fyrir	ao	fyrir
 2	ta	2
@@ -1692,14 +1556,11 @@ snyrtifræðinga	nkfo	snyrtifræðingur
 og	c	og
 naglafræðing	nkeo	naglafræðingur
 .	.	.
-
 Skemmtilegt	lhensf	skemmtilegur
 tækifæri	nhen	tækifæri
 .	.	.
-
 HÁRSTOFA	nven	hárstofa
 .	.	.
-
 Til	ae	til
 SÖLU	nvee	sala
 Í	aþ	í
@@ -1715,16 +1576,13 @@ og	c	og
 góður	lkensf	góður
 búnaður	nken	búnaður
 .	.	.
-
 Verð	nhen	verð
 3,1	ta	3,1
 millj.	as	millj.
-
 INNRÖMMUNAR	nvee	innrömmun
 -	-	-
 STUDIÓ	e	STUDIÓ
 .	.	.
-
 Til	ae	til
 sölu	nvee	sala
 innrömmunarstofa	nven	innrömmunarstofa
@@ -1737,26 +1595,22 @@ húsnæði	nheþ	húsnæði
 í	aþ	í
 austurbæ	nkeþ	austurbær
 .	.	.
-
 Tilvalið	lhensf	tilvalinn
 fyrir	ao	fyrir
 tvo	tfkfo	tveir
 samhenta	lkfosf	samhentur
 einstaklinga	nkfo	einstaklingur
 .	.	.
-
 Góður	lkensf	góður
 tækjakostur	nken	tækjakostur
 og	c	og
 gott	lhensf	góður
 verð	nhen	verð
 .	.	.
-
 HÁRGREIÐSLUSTOFA	nven	hárgreiðslustofa
 TIL	ae	til
 SÖLU	nvee	sala
 .	.	.
-
 Mjög	aa	mjög
 þekkt	lvensf	þekktur
 og	c	og
@@ -1770,7 +1624,6 @@ og	c	og
 6	ta	6
 vinnustöðvar	nvfo	vinnustöð
 .	.	.
-
 Hefur	sfg3en	hafa
 starfað	ssg	starfa
 á	aþ	á
@@ -1780,16 +1633,13 @@ sl.	as	sl.
 10	ta	10
 ár	nhfo	ár
 .	.	.
-
 Gott	lhensf	góður
 verð	nhen	verð
 .	.	.
-
 BAR	nken	bar
 Í	aþ	í
 GÓÐU	lheþsf	góður
 HVERFI.	nheþ	hverfi
-
 Til	ae	til
 sölu	nvee	sala
 rekstur	nken	rekstur
@@ -1805,7 +1655,6 @@ fæst	sfm3en	fá
 frábærum	lhfþsf	frábær
 kjörum	nhfþ	kjör
 .	.	.
-
 Ýmis	fohfn	ýmis
 skipti	nhfn	skipti
 koma	sfg3fn	koma
@@ -1814,13 +1663,11 @@ greina	nvfe	grein
 á	aþ	á
 rekstri	nkeþ	rekstur
 .	.	.
-
 Endilega	aa	endilega
 leitið	sbg2fn	leita
 nánari	lvfevm	náinn
 upplýsinga	nvfe	upplýsing
 .	.	.
-
 GOÐHEIMAR	nkfn-s	Goðheimur
 -	-	-
 SÉRHÆÐ	nven	sérhæð
@@ -1844,7 +1691,6 @@ Verð	nhen	verð
 :	:	:
 27,4	ta	27,4
 millj.	as	millj.
-
 Falleg	lvensf	fallegur
 4ja	ta	4ja
 herb.	as	herb.
@@ -1863,7 +1709,6 @@ stækkunarmögul.	as	stækkunarmögul.
 frá	aþ	frá
 stofu	nveþ	stofa
 .	.	.
-
 Eigninni	nveþg	eign
 fylgir	sfg3en	fylgja
 2	ta	2
@@ -1875,7 +1720,6 @@ og	c	og
 sameiginl.	as	sameiginl.
 þv.hús	nhen	þv.hús
 .	.	.
-
 3	ta	3
 svefnh.	as	svefnh.
 ,	,	,
@@ -1886,7 +1730,6 @@ góð	lvensf	góður
 setu-	as	setust.
 og	c	og
 borðst.	as	borðst.
-
 Virkilega	aa	virkilega
 skemmtileg	lvensf	skemmtilegur
 eign	nven	eign
@@ -1897,7 +1740,6 @@ staðnum	nkeþg	staður
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Stutt	lhensf	stuttur
 í	ao	í
 skóla	nkfo	skóli
@@ -1915,7 +1757,6 @@ og	c	og
 góðum	lvfþsf	góður
 gönguleiðum	nvfþ	gönguleið
 .	.	.
-
 Húsið	nheng	hús
 var	sfg3eþ	vera
 sprunguviðgert	sþghen	sprunguviðgera
@@ -1934,7 +1775,6 @@ og	c	og
 allar	fovfo	allur
 svalir	nvfo	svalir
 .	.	.
-
 Þak	nhen	þak
 hússins	nheeg	hús
 yfirfarið	sþghen	yfirfara
@@ -1944,7 +1784,6 @@ málað	sþghen	mála
 þeim	fakeþ	sá
 tíma	nkeþ	tími
 .	.	.
-
 Nýleg	lvensf	nýlegur
 rafmagnstafla	nven	rafmagnstafla
 í	aþ	í
@@ -1962,7 +1801,6 @@ inn	aa	inn
 í	ao	í
 íbúðir	nvfo	íbúð
 .	.	.
-
 Framkvæmdir	nvfn	framkvæmd
 eru	sfg3fn	vera
 hafnar	sþgvfn	hefja
@@ -1984,7 +1822,6 @@ settur	sþgken	setja
 verður	sfg3en	verða
 ljósleiðari	nken	ljósleiðari
 .	.	.
-
 Allar	fovfo	allur
 nánari	lvfovm	náinn
 uppl.	as	uppl.
@@ -1998,7 +1835,6 @@ sölumaður	nken	sölumaður
 síma	nkeþ	sími
 :	:	:
 822-9519	ta	822-9519
-
 Til	ae	til
 sölu	nvee	sala
 er	sfg3en	vera
@@ -2015,7 +1851,6 @@ fm	as	fm
 að	aþ	að
 stærð	nveþ	stærð
 .	.	.
-
 Íbúðin	nveng	íbúð
 er	sfg3en	vera
 á	aþ	á
@@ -2036,7 +1871,6 @@ og	c	og
 yfirbyggðar	lvfnsf	yfirbyggður
 svalir	nvfn	svalir
 .	.	.
-
 Ásett	lhensf	ásettur
 verð	nhen	verð
 er	sfg3en	vera
@@ -2049,14 +1883,12 @@ mánaðargjöld	nhfn	mánaðargjald
 um	aa	um
 62.000	ta	62.000
 .	.	.
-
 Tilboðsfrestur	nken	tilboðsfrestur
 er	sfg3en	vera
 til	ae	til
 14.	ta	14.
 júní	nkee	júní
 n.k.	as	n.k.
-
 Prestastígur	nken-s	Prestastígur
 6	ta	6
 ,	,	,
@@ -2087,7 +1919,6 @@ fm	as	fm
 að	aþ	að
 stærð	nveþ	stærð
 .	.	.
-
 Íbúðin	nveng	íbúð
 er	sfg3en	vera
 á	aþ	á
@@ -2102,7 +1933,6 @@ um	aa	um
 fm	as	fm
 bílskúr	nken	bílskúr
 .	.	.
-
 Ásett	lhensf	ásettur
 verð	nhen	verð
 er	sfg3en	vera
@@ -2114,7 +1944,6 @@ mánaðargjöldin	nhfng	mánaðargjald
 um	aa	um
 95.000	ta	95.000
 .	.	.
-
 Tilboðsfrestur	nken	tilboðsfrestur
 er	sfg3en	vera
 til	ae	til
@@ -2130,7 +1959,6 @@ tilboð	nheo	tilboð
 í	ao	í
 búseturéttinn	nkeog	búseturéttur
 .	.	.
-
 Í	aþ	í
 báðum	fohfþ	báðir
 tilfellum	nhfþ	tilfelli
@@ -2144,7 +1972,6 @@ rafmagn	nhen	rafmagn
 samkvæmt	aþ	samkvæmt
 mæli	nkeþ	mælir
 .	.	.
-
 Þeir	fakfn	sá
 sem	ct	sem
 áhuga	nkeo	áhugi
@@ -2163,7 +1990,6 @@ fyrir	ao	fyrir
 11.	ta	11.
 júní	nkeo	júní
 .	.	.
-
 Réttur	nken	réttur
 til	ae	til
 kaupa	nhfe	kaup
@@ -2174,7 +2000,6 @@ við	ao	við
 og	c	og
 eldri	lkfovm	gamall
 .	.	.
-
 Þeir	fakfn	sá
 sem	ct	sem
 áhuga	nkeo	áhugi
@@ -2203,14 +2028,12 @@ tölvupóst	nkeo	tölvupóstur
 á	ao	á
 netfangið	nheog	netfang
 bumenn@bumenn.is	v	bumenn@bumenn.is
-
 Búseturéttur	nken	búseturéttur
 á	aþ	á
 markaðsverði	nheþ	markaðsverð
 Búmenn	nkfn-s	Búmaður
 auglýsa	sfg3fn	auglýsa
 íbúðir	nvfo	íbúð
-
 SÉRLEGA	aa	sérlega
 GLÆSILEGAR	lvfnsf	glæsilegur
 ÍBÚÐIR	nvfn	íbúð
@@ -2220,7 +2043,6 @@ HÚSI	nheþ	hús
 Í	aþ	í
 HJARTA	nheþ	hjarta
 REYKJAVÍKUR	nvee-s	Reykjavík
-
 Sérlega	aa	sérlega
 glæsilegar	lvfnsf	glæsilegur
 3ja	ta	3ja
@@ -2250,7 +2072,6 @@ efni	nheþ	efni
 og	c	og
 hönnun	nveþ	hönnun
 .	.	.
-
 Íbúðirnar	nvfng	íbúð
 skilast	sfm3fn	skila
 fullbúnar	lvfnsf	fullbúinn
@@ -2261,7 +2082,6 @@ og	c	og
 glæsilegum	lvfþsf	glæsilegur
 innréttingum	nvfþ	innrétting
 .	.	.
-
 Íbúðirnar	nvfng	íbúð
 eru	sfg3fn	vera
 frá	aþ	frá
@@ -2271,13 +2091,11 @@ til	ae	til
 100,8	ta	100,8
 fm	as	fm
 .	.	.
-
 Lyfta	nven	lyfta
 er	sfg3en	vera
 í	aþ	í
 húsinu	nheþg	hús
 .	.	.
-
 Þakíbúðirnar	nvfng	þakíbúð
 eru	sfg3fn	vera
 með	aþ	með
@@ -2290,7 +2108,6 @@ og	c	og
 glæsilegu	lheþsf	glæsilegur
 útsýni	nheþ	útsýni
 .	.	.
-
 Frekari	lvfnvm	frekur
 upplýsingar	nvfn	upplýsing
 á	aþ	á
@@ -2305,13 +2122,11 @@ Gísla	nkeþ-s	Gísli
 síma	nkeþ	sími
 822-8283	ta	822-8283
 oligisli@remax.is	v	oligisli@remax.is
-
 Einstakt	lhensf	einstakur
 tækifæri	nhen	tækifæri
 í	aþ	í
 hjarta	nheþ	hjarta
 borgarinnar	nveeg	borg
-
 Búseti	nken-s	búseti
 auglýsir	sfg3en	auglýsa
 -	-	-
@@ -2328,7 +2143,6 @@ og	c	og
 með	aþ	með
 12.	ta	12.
 júní	nkeþ	júní
-
 Almenn	lhfnsf	almennur
 lán	nhfn	lán
 veita	sfg3fn	veita
@@ -2336,7 +2150,6 @@ rétt	aa	rétt
 til	ae	til
 vaxtabóta	nvfe	vaxtabætur
 .	.	.
-
 Lán	nhfn	lán
 með	aþ	með
 tekjumarki	nheþ	tekjumark
@@ -2345,7 +2158,6 @@ rétt	nkeo	réttur
 til	ae	til
 húsaleigubóta	nvfe	húsaleigubætur
 .	.	.
-
 Til	ae	til
 að	cn	að
 geta	sng	geta
@@ -2363,7 +2175,6 @@ eigna-	nhfþ	eignamörk
 og	c	og
 tekjumörkum	nhfþ	tekjumörk
 .	.	.
-
 Eignamörk	nhfn	eignamark
 :	:	:
 2.900.000	ta	2.900.000
@@ -2381,7 +2192,6 @@ Vegna	ae	vegna
 barns	nhee	barn
 :	:	:
 450.000	ta	450.000
-
 Fyrirvari	nken	fyrirvari
 er	sfg3en	vera
 um	ao	um
@@ -2392,12 +2202,10 @@ breytingar	nvfo	breyting
 á	aþ	á
 verði	nheþ	verð
 .	.	.
-
 Heklubyggð	nven-s	Heklubyggð
 -	-	-
 Rangárþingi	nheþ-s	Rangárþing
 .	.	.
-
 3,6	ta	3,6
 ha	as	ha
 skemmtileg	lvensf	skemmtilegur
@@ -2406,7 +2214,6 @@ sumarhúsalóð	nven	sumarhúsalóð
 landi	nheþ	land
 Svínhaga	nkee-s	Svínhagi
 .	.	.
-
 Lóðin	nveng	lóð
 er	sfg3en	vera
 gróin	lvensf	gróinn
@@ -2419,33 +2226,27 @@ lækur	nken	lækur
 í	aþ	í
 lóðarmörkunum	nhfþg	lóðarmörk
 .	.	.
-
 Verð	nhen	verð
 3,4	ta	3,4
 millj.	as	millj.
-
 Útey	nven-s	Útey
 -	-	-
 Bláskógarbyggð	nveþ-s	Bláskógarbyggð
 .	.	.
-
 Vandað	lhensf	vandaður
 og	c	og
 fallegt	lhensf	fallegur
 sumarhús	nhen	sumarhús
 .	.	.
-
 3	ta	3
 herb	x	herb.
 +	+	+
 svefnloft	nhen	svefnloft
 .	.	.
-
 gegnheilt	lhensf	gegnheill
 fallegt	lhensf	fallegur
 parket	nhen	parket
 .	.	.
-
 Stór	lvensf	stór
 og	c	og
 falleg	lvensf	fallegur
@@ -2457,22 +2258,18 @@ og	c	og
 heitur	lkensf	heitur
 pottur	nken	pottur
 .	.	.
-
 í	aþ	í
 einstaklega	aa	einstaklega
 fallegu	lheþsf	fallegur
 umhverfi	nheþ	umhverfi
 .	.	.
-
 Verð	nhen	verð
 21,4	ta	21,4
 millj.	as	millj.
-
 Hásteinsvegur	nken-s	Hásteinsvegur
 -	-	-
 Stokkseyri	nveþ-s	Stokkseyri
 .	.	.
-
 Talsvert	aa	talsvert
 endurnýjað	lhensf	endurnýjaður
 einbýlishús	nhen	einbýlishús
@@ -2492,23 +2289,19 @@ lóð	nveþ	lóð
 með	aþ	með
 sjávarsýn	nveþ	sjávarsýn
 .	.	.
-
 Getur	sfg3en	geta
 nýst	ssm	nýta
 í	aþ	í
 tvennu	lheþsf	tvennur
 lagi	nheþ	lag
 .	.	.
-
 Verð	nhen	verð
 28,5	ta	28,5
 millj.	as	millj.
-
 Kerengi	nhen-s	Kerengi
 -	-	-
 Grímsnesi	nheþ-s	Grímsnes
 .	.	.
-
 Gott	lhensf	góður
 og	c	og
 snyrtilegt	lhensf	snyrtilegur
@@ -2518,7 +2311,6 @@ sumarhús	nhen	sumarhús
 m2	ta	m2
 eignarlóð	nveþ	eignarlóð
 .	.	.
-
 2	ta	2
 svefnherbergi	nhfn	svefnherbergi
 +	+	+
@@ -2533,20 +2325,16 @@ verönd	nven	verönd
 og	c	og
 geymsluskúr	nken	geymsluskúr
 .	.	.
-
 Fallegt	lhensf	fallegur
 útsýni	nhen	útsýni
 .	.	.
-
 Verð	nhen	verð
 13,9	ta	13,9
 millj.	as	millj.
-
 Réttarheiði	nven-s	Réttarheiði
 -	-	-
 Hveragerði	nheþ-s	Hveragerði
 .	.	.
-
 Bjart	lhensf	bjartur
 og	c	og
 snyrtilegt	lhensf	snyrtilegur
@@ -2570,16 +2358,13 @@ og	c	og
 hellulögð	lvensf	hellulagður
 innkeyrsla	nven	innkeyrsla
 .	.	.
-
 Verð	nhen	verð
 28,9	ta	28,9
 millj.	as	millj.
-
 Helgastaðir	nkfn-s	Helgastaðir
 -	-	-
 Stokkseyri	nveþ-s	Stokkseyri
 .	.	.
-
 Mikið	aa	mikið
 endurbyggt	lhensf	endurbyggður
 fallegt	lhensf	fallegur
@@ -2591,7 +2376,6 @@ sögu	nveo	saga
 frábæru	lheþsf	frábær
 umhverfi	nheþ	umhverfi
 .	.	.
-
 Alls	aa	alls
 270	ta	270
 m2	ta	m2
@@ -2602,7 +2386,6 @@ m2	ta	m2
 nýlegur	lkensf	nýlegur
 bílskúr	nken	bílskúr
 .	.	.
-
 Eign	nven	eign
 sem	ct	sem
 vert	lhensf	verður
@@ -2612,12 +2395,10 @@ skoða	sng	skoða
 Verð	nhen	verð
 27,9	ta	27,9
 millj.	as	millj.
-
 Ísleifsbúð	nven-s	Ísleifsbúð
 1-5-7	ta	1-5-7
 Þorkákshöfn	nveþ-s	Þorkákshöfn
 .	.	.
-
 Glæsileg	lhfnsf	glæsilegur
 og	c	og
 íburðarmikil	lhfnsf	íburðarmikill
@@ -2630,7 +2411,6 @@ uppá	ao	uppá
 ótal	nhen	ótal
 möguleika	nkfo	möguleiki
 .	.	.
-
 Húsin	nhfng	hús
 afh.	as	afh.
 tilbúin	lhfnsf	tilbúinn
@@ -2640,16 +2420,13 @@ eða	c	eða
 eftir	aþ	eftir
 samkomulagi	nheþ	samkomulag
 .	.	.
-
 Bókaðu	sbg2en	bóka
 skoðun	nveo	skoðun
 .	.	.
-
 Furuberg	nhen-s	Furuberg
 -	-	-
 Hafnafirði	nkeþ-s	Hafnarfjörður
 .	.	.
-
 Stæðilegt	lhensf	stæðilegur
 einbýli	nhen	einbýli
 innst	aae	innar
@@ -2661,7 +2438,6 @@ garði	nkeþ	garður
 í	aþ	í
 Setberginu	nheþgs	Setberg
 .	.	.
-
 3-4	ta	3-4
 svefnherbergi	nhfn	svefnherbergi
 ,	,	,
@@ -2670,23 +2446,19 @@ stofa	nven	stofa
 og	c	og
 eldhús	nhen	eldhús
 .	.	.
-
 Frístandandi	lkenof	frístandandi
 bílskúr	nken	bílskúr
 og	c	og
 hellulögð	lvensf	hellulagður
 innkeyrsla	nven	innkeyrsla
 .	.	.
-
 Verð	nhen	verð
 55	ta	55
 millj.	as	millj.
-
 Skógarás	nken-s	Skógarás
 -	-	-
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Góð	lvensf	góður
 3ja	ta	3ja
 herbergja	nhfe	herbergi
@@ -2697,7 +2469,6 @@ hæð	nveþ	hæð
 með	aþ	með
 bílskúr	nkeþ	bílskúr
 .	.	.
-
 Nýtt	lhensf	nýr
 eldhús	nhen	eldhús
 og	c	og
@@ -2705,7 +2476,6 @@ tvö	tfhfn	tveir
 góð	lhfnsf	góður
 svefnherbergi	nhfn	svefnherbergi
 .	.	.
-
 Eign	nven	eign
 á	aþ	á
 rólegum	lkeþsf	rólegur
@@ -2713,16 +2483,13 @@ og	c	og
 barnvænum	lkeþsf	barnvænn
 stað	nkeþ	staður
 .	.	.
-
 Verð	nhen	verð
 22,4	ta	22,4
 millj.	as	millj.
-
 Tjaldhólar	nkfn-s	Tjaldhólar
 -	-	-
 Selfossi	nkeþ-s	Selfoss
 .	.	.
-
 Vel	aa	vel
 skipulögð	lhfnsf	skipulagður
 og	c	og
@@ -2731,14 +2498,12 @@ einbýlishús	nhfn	einbýlishús
 í	aþ	í
 Suðurbyggðinni	nveþgs	Suðurbyggð
 .	.	.
-
 4	ta	4
 svefnherb.	as	svefnherb.
 ,	,	,
 innbyggður	lkensf	innbyggður
 bílskúr	nken	bílskúr
 .	.	.
-
 Húsin	nhfng	hús
 afhendast	sfm3fn	afhenda
 í	aþ	í
@@ -2748,17 +2513,14 @@ núverandi	lheþof	núverandi
 rúmlega	aa	rúmlega
 fokheld	lhfnsf	fokheldur
 .	.	.
-
 Góð	lhfnsf	góður
 áhv	x	áhv
 lán	nhfn	lán
 .	.	.
-
 Lóðir	nvfn	lóð
 -	-	-
 Selfossi	nkeþ-s	Selfoss
 .	.	.
-
 Höfum	sfg1fn	hafa
 til	ae	til
 sölu	nvee	sala
@@ -2769,7 +2531,6 @@ Fosslandinu	nheþgs	Fossland
 á	aþ	á
 Selfossi	nkeþ-s	Selfoss
 .	.	.
-
 Búið	lhensf	búinn
 er	sfg3en	vera
 að	cn	að
@@ -2782,19 +2543,16 @@ grunnur	nken	grunnur
 tvær	tfvfo	tveir
 þeirra	fpvfe	hún
 .	.	.
-
 Fallegt	lhensf	fallegur
 útsýni	nhen	útsýni
 og	c	og
 gott	lhensf	góður
 umhverfi	nhen	umhverfi
 .	.	.
-
 Sogsbakki	nken-s	Sogsbakki
 -	-	-
 Grímsnesi	nheþ-s	Grímsnes
 .	.	.
-
 Glæsilegt	lhensf	glæsilegur
 nýtt	lhensf	nýr
 heilsárshús	nhen	heilsárshús
@@ -2804,7 +2562,6 @@ kjarri	nheþ	kjarr
 vaxinni	lveþsf	vaxinn
 lóð	nveþ	lóð
 .	.	.
-
 3	ta	3
 herb.	as	herb.
 ,	,	,
@@ -2825,11 +2582,9 @@ stutt	lhensf	stuttur
 alla	foveo	allur
 þjónustu	nveo	þjónusta
 .	.	.
-
 Verð	nhen	verð
 30,9	ta	30,9
 millj.	as	millj.
-
 Ég	fp1en	ég
 keypti	sfg1eþ	kaupa
 mér	fp1eþ	ég
@@ -2867,7 +2622,6 @@ af	aþ	af
 ýmsum	fovfþ	ýmis
 vörum	nvfþ	vara
 .	.	.
-
 Í	ao	í
 fyrra	lheovm	fyrri
 útskrifaðist	sfm1eþ	útskrifa
@@ -2896,7 +2650,6 @@ og	c	og
 bestu	lhfove	góður
 kjörin	nhfog	kjör
 .	.	.
-
 Einn	foken	einn
 bankinn	nkeng	banki
 hafði	sfg3eþ	hafa
@@ -2918,7 +2671,6 @@ mínu	feheþ	minn
 og	c	og
 titli	nkeþ	titill
 .	.	.
-
 Mér	fp1eþ	ég
 þótti	sfg3eþ	þykja
 þetta	fahen	þessi
@@ -2944,7 +2696,6 @@ og	c	og
 öllum	fokfþ	allur
 aðgengilegar	lvfnsf	aðgengilegur
 .	.	.
-
 Hvað	fshen	hver
 kemur	sfg3en	koma
 það	fphen	það
@@ -2964,7 +2715,6 @@ eða	c	eða
 úr	aþ	úr
 skóla	nkeþ	skóli
 ?	?	?
-
 Bein	lvensf	beinn
 markaðssetning	nven	markaðssetning
 af	aþ	af
@@ -2978,7 +2728,6 @@ ný	lvensf	nýr
 af	aþ	af
 nálinni	nveþg	nál
 .	.	.
-
 Um	ao	um
 það	faheo	sá
 leyti	nheo	leyti
@@ -3011,7 +2760,6 @@ fermingarbrjálæðið	nheng	fermingarbrjálæði
 stendur	sfg3en	standa
 yfir	aa	yfir
 .	.	.
-
 Markaðssetning	nven	markaðssetning
 sem	ct	sem
 þessi	faven	þessi
@@ -3026,7 +2774,6 @@ ekki	aa	ekki
 á	ao	á
 mig	fp1eo	ég
 .	.	.
-
 Mér	fp1eþ	ég
 finnast	x	finna
 þessi	fahfn	þessi
@@ -3038,7 +2785,6 @@ pirruð	lvensf	pirraður
 á	aþ	á
 afskiptaseminni	nveþg	afskiptasemi
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 í	aþ	í
@@ -3077,7 +2823,6 @@ hamingjuóskirnar	nvfog	hamingjuósk
 á	aþ	á
 dögunum	nkfþg	dagur
 .	.	.
-
 Stundum	aa	stundum
 finnst	sfm3en	finna
 mér	fp1eþ	ég
@@ -3096,7 +2841,6 @@ skráðar	sþgvfn	skrá
 á	ao	á
 kennitölu	nveo	kennitala
 .	.	.
-
 Kennitöluvæðingin	nveng	kennitöluvæðing
 er	sfg3en	vera
 komin	sþgven	koma
@@ -3105,7 +2849,6 @@ fyrir	ao	fyrir
 öll	fohfo	allur
 velsæmismörk	nhfo	velsæmismark
 .	.	.
-
 Um	ao	um
 daginn	nkeog	dagur
 pantaði	sfg1eþ	panta
@@ -3121,7 +2864,6 @@ gefa	sng	gefa
 upp	aa	upp
 kennitölu	nveo	kennitala
 .	.	.
-
 Hvar	aa	hvar
 endar	sfg3en	enda
 þetta	fahen	þessi
@@ -3133,7 +2875,6 @@ við	ao	við
 þessar	favfo	þessi
 upplýsingar	nvfo	upplýsing
 ?	?	?
-
 Kannski	aa	kannski
 fylgist	sfm3en	fylgja
 stóri	lkenvf	stór
@@ -3144,7 +2885,6 @@ en	c	en
 við	fp1fn	ég
 höldum	sfg1fn	halda
 .	.	.
-
 Kannski	aa	kannski
 þurfum	sfg1fn	þurfa
 við	fp1fn	ég
@@ -3155,7 +2895,6 @@ aðeins	aa	aðeins
 á	aþ	á
 honum	fpkeþ	hann
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 í	ao	í
@@ -3165,7 +2904,6 @@ ansi	aa	ansi
 slunginn	lkensf	slunginn
 markaðsfræðingur	nken	markaðsfræðingur
 .	.	.
-
 Kammerkórinn	nkeng	kammerkór
 Carmina	e	Carmina
 heldur	sfg3en	halda
@@ -3177,7 +2915,6 @@ kvöld	nheo	kvöld
 kl.	as	kl.
 20.30	ta	20.30
 .	.	.
-
 Á	aþ	á
 tónleikunum	nkfþg	tónleikar
 verða	sfg3fn	verða
@@ -3205,7 +2942,6 @@ af	aþ	af
 ýmsum	fokeþ	ýmis
 toga	nkeþ	togi
 .	.	.
-
 Lögin	nhfng	lag
 eru	sfg3fn	vera
 þverskurður	nken	þverskurður
@@ -3266,7 +3002,6 @@ kvæði	nhfo	kvæði
 séra	nkee	séra
 Hallgríms	nkee-s	Hallgrímur
 .	.	.
-
 Væntanlegur	lkensf	væntanlegur
 er	sfg3en	vera
 geisladiskur	nken	geisladiskur
@@ -3355,7 +3090,6 @@ telja	sng	telja
 íslensk	lhfosf	íslenskur
 þjóðlög	nhfo	þjóðlag
 .	.	.
-
 Tónlistin	nveng	tónlist
 á	sfg3en	eiga
 rætur	nvfo	rót
@@ -3377,7 +3111,6 @@ Spánar	nkee-s	Spánn
 og	c	og
 Ítalíu	nvee-s	Ítalía
 .	.	.
-
 Því	aa	því
 er	sfg3en	vera
 ljóst	lhensf	ljós
@@ -3409,7 +3142,6 @@ og	c	og
 öld	nveþ	öld
 .	.	.
 »	»	»
-
 Kammerkórinn	nkeng	kammerkór
 Carmina	e	Carmina
 er	sfg3en	vera
@@ -3455,7 +3187,6 @@ hans	fpkee	hann
 Hesperion	e	Hesperion
 XX	x	xx
 .	.	.
-
 Tónleikar	nkfn	tónleikar
 Carminu	e	Carminu
 verða	sfg3fn	verða
@@ -3476,10 +3207,8 @@ af	aþ	af
 sænska	lheþvf	sænskur
 útvarpinu	nheþg	útvarp
 .	.	.
-
 Fjölbreyttur	lkensf	fjölbreyttur
 tónlistararfur	nken	tónlistararfur
-
 Sumarsýning	nven	sumarsýning
 Minjasafnins	nheegs	minjasafn
 á	aþ	á
@@ -3499,7 +3228,6 @@ tíð	nveþ	tíð
 eigu	nveþ	eiga
 safnsins	nheeg	safn
 .	.	.
-
 Áhersla	nven	áhersla
 sýningarinnar	nveeg	sýning
 er	sfg3en	vera
@@ -3511,7 +3239,6 @@ gripi	nkfo	gripur
 úr	aþ	úr
 tré	nheþ	tré
 .	.	.
-
 Hver	foken	hver
 og	c	og
 einn	foken	einn
@@ -3530,7 +3257,6 @@ tímum	nkfþ	tími
 gott	lheosf	góður
 vitni	nheo	vitni
 .	.	.
-
 Elstu	lkfnve	gamall
 gripirnir	nkfng	gripur
 eru	sfg3fn	vera
@@ -3546,7 +3272,6 @@ frá	aþ	frá
 19.	ta	19.
 öld	nveþ	öld
 .	.	.
-
 Flestir	lkfnse	margur
 gripanna	nkfeg	gripur
 eru	sfg3fn	vera
@@ -3559,7 +3284,6 @@ af	aþ	af
 mishögum	lvfþsf	mishagur
 höndum	nvfþ	hönd
 .	.	.
-
 Þó	aa	þó
 eru	sfg3fn	vera
 nokkrir	fokfn	nokkur
@@ -3589,7 +3313,6 @@ tréskurðarmeistara	nkfo	tréskurðarmeistari
 20.	ta	20.
 aldar	nvee	öld
 .	.	.
-
 Sýningin	nveng	sýning
 gefur	sfg3en	gefa
 auk	ae	auk
@@ -3619,7 +3342,6 @@ og	c	og
 kunnugt	lhensf	kunnugur
 er	sfg3en	vera
 .	.	.
-
 Listiðkun	nven	listiðkun
 var	sfg3eþ	vera
 mikið	aa	mikið
@@ -3645,7 +3367,6 @@ fékk	sfg3eþ	fá
 útrás	nveo	útrás
 á	aa	á
 .	.	.
-
 Merkileg	lvensf	merkilegur
 röð	nven	röð
 ljósmynda	nvfe	ljósmynd
@@ -3664,7 +3385,6 @@ dýrgripi	nkfo	dýrgripur
 myndasafni	nheþ	myndasafn
 Minjasafnsins	nheegs	Minjasafn
 .	.	.
-
 Myndirnar	nvfng	mynd
 eru	sfg3fn	vera
 teknar	sþgvfn	taka
@@ -3681,7 +3401,6 @@ standa	sfg3fn	standa
 sem	aa	sem
 hæst	aae	hátt
 .	.	.
-
 Minjasafnið	nheng	minjasafn
 er	sfg3en	vera
 opið	lhensf	opinn
@@ -3690,7 +3409,6 @@ daga	nkfo	dagur
 frá	aþ	frá
 10-17	ta	10-17
 .	.	.
-
 Brot	nhen	brot
 af	aþ	af
 því	faheþ	sá
@@ -3708,7 +3426,6 @@ yfir	aa	yfir
 þrjár	tfvfn	þrír
 sýningar	nvfn	sýning
 .	.	.
-
 Yfirlitssýning	nven	yfirlitssýning
 á	aþ	á
 verkum	nhfþ	verk
@@ -3732,7 +3449,6 @@ kvikmynd	nveo	kvikmynd
 og	c	og
 hljóðinnsetningu	nveo	hljóðinnsetning
 .	.	.
-
 Rainers	e	Rainers
 Fassbinder	e	Fassbinder
 minnst	sþmhen	minna
@@ -3764,7 +3480,6 @@ annað	lheosf	annaður
 í	aþ	í
 röð	nveþ	röð
 .	.	.
-
 Hláturtíðin	nveng	hláturtíð
 hefur	sfg3en	hafa
 farið	ssg	fara
@@ -3789,7 +3504,6 @@ mun	sfg3en	munu
 ekki	aa	ekki
 útgenginn	lkensf	útgenginn
 .	.	.
-
 Skellt	sþghen	skella
 er	sfg3en	vera
 á	aa	á
@@ -3813,7 +3527,6 @@ leikárið	nheog	leikár
 í	aþ	í
 röð	nveþ	röð
 .	.	.
-
 Þar	aa	þar
 fer	sfg3en	fara
 Eggert	nken-s	Eggert
@@ -3821,7 +3534,6 @@ Eggert	nken-s	Eggert
 á	aþ	á
 kostum	nkfþ	kostur
 .	.	.
-
 Annað	foheo	annar
 kvöld	nheo	kvöld
 hefjast	sfm3fn	hefja
@@ -3844,7 +3556,6 @@ en	c	en
 í	aþ	í
 september	nkeþ	september
 .	.	.
-
 Lík	nhen-s	Lík
 í	aþ	í
 óskilum	nhfþ	óskil
@@ -3865,7 +3576,6 @@ tíðindi	nhfo	tíðindi
 á	ao	á
 aðfangadagskvöld	nheo	aðfangadagskvöld
 .	.	.
-
 Þeir	fpkfn	hann
 eiga	sfg3fn	eiga
 bágt	lheosf	bágur
@@ -3885,7 +3595,6 @@ fullu	lheþsf	fullur
 mál	nheo	mál
 sitt	feheo	sinn
 .	.	.
-
 Fljótt	aa	fljótt
 bætist	sfm3en	bæta
 við	aa	við
@@ -3906,7 +3615,6 @@ verkefni	nheo	verkefni
 nánast	aae	náið
 ómögulegt	lheosf	ómögulegur
 .	.	.
-
 Löggur	nvfn	lögga
 ,	,	,
 lygar	nvfn	lygi
@@ -3924,7 +3632,6 @@ og	c	og
 nýlega	lkeþvf	nýlegur
 farsa	nkeþ	farsi
 .	.	.
-
 Leikstjóri	nken	leikstjóri
 er	sfg3en	vera
 Steinunn	nven-s	Steinunn
@@ -3935,7 +3642,6 @@ vinnur	sfg3en	vinna
 Ilmur	nven-s	Ilmur
 Stefánsdóttir	nven-s	Stefánsdóttir
 .	.	.
-
 Forsýningar	nvfn	forsýning
 verða	sfg3fn	verða
 nokkrar	fovfn	nokkur
@@ -3947,7 +3653,6 @@ menn	nkfn	maður
 gripið	ssg	grípa
 gæsina	nveog	gæs
 .	.	.
-
 Hláturtíð	nven	hláturtíð
 í	aþ	í
 húsinu	nheþg	hús
@@ -3959,9 +3664,7 @@ KONUR	nvfn	kona
 HEIMSFRÆGA	lkfosf	heimsfrægur
 MENN	nkfo	maður
 »	»	»
-
 GRETTIR	nken-s	Grettir
-
 -	-	-
 Ekkert	fohen	enginn
 hlé	nhen	hlé
@@ -3997,7 +3700,6 @@ hefst	sfm3en	hefja
 KLIPPIÐ	sbg2fn	klippa
 HÉR	aa	hér
 !	!	!
-
 www.graenaljosid.is	v	www.graenaljosid.is
 -	-	-
 Skráðu	sbg2en	skrá
@@ -4022,7 +3724,6 @@ fyrir	ao	fyrir
 allar	fovfo	allur
 frumsýningarhelgar	nvfo	frumsýningarhelgi
 .	.	.
-
 Framvísaðu	sbg2en	framvísa
 þessari	faveþ	þessi
 úrklippu	nveþ	úrklippa
@@ -4033,7 +3734,6 @@ að	cn	að
 fá	sng	fá
 tilboðið	nheog	tilboð
 .	.	.
-
 Tilboðið	nheng	tilboð
 gildir	sfg3en	gilda
 föstudag	nkeo	föstudagur
@@ -4045,7 +3745,6 @@ sunnudag	nkeo	sunnudagur
 allar	fovfo	allur
 sýningar	nvfo	sýning
 .	.	.
-
 «	«	«
 Gere	e	Gere
 er	sfg3en	vera
@@ -4081,13 +3780,11 @@ kallar	sfg3en	kalla
 lygavef	nkeo	lygavefur
 .	.	.
 »	»	»
-
 -Lisa	e	-Lisa
 Schwarzbaum	e	Schwarzbaum
 ,	,	,
 Entertainment	e	Entertainment
 Weekly	e	Weekly
-
 «	«	«
 Gáskafullt	lhensf	gáskafullur
 listfengi	nhen	listfengi
@@ -4104,13 +3801,11 @@ heppnaðri	lveþsf	heppnaður
 kvikmynd	nveþ	kvikmynd
 .	.	.
 »	»	»
-
 -Michael	e	-Michael
 Sragow	e	Sragow
 ,	,	,
 Baltimore	e	Baltimore
 Sun	e	Sun
-
 «	«	«
 Gríni	nheþ	grín
 ,	,	,
@@ -4139,7 +3834,6 @@ allra	fokfe	allur
 tíma	nkfe	tími
 .	.	.
 »	»	»
-
 -David	e	-David
 Ansen	e	Ansen
 ,	,	,
@@ -4147,20 +3841,17 @@ Newsweek	e	Newsweek
 Eftir	ao	eftir
 Lasse	e	Lasse
 Hallström	e	Hallström
-
 Byggð	sþgven	byggja
 á	aþ	á
 sannri	lveþsf	sannur
 sögu	nveþ	saga
 .	.	.
-
 Myndum	svg1fþ	munu
 við	fp1fn	ég
 ljúga	sng	ljúga
 að	aþ	að
 þér	fp2eþ	þú
 ?	?	?
-
 Moss	e	Moss
 nefnist	sfm3en	nefna
 nýtt	lhensf	nýr
@@ -4174,7 +3865,6 @@ Gallerí	nheþ-s	Gallerí
 í	aþ	í
 Kringlunni	nveþgs	Kringla
 .	.	.
-
 Um	ao	um
 er	sfg3en	vera
 að	cn	að
@@ -4193,7 +3883,6 @@ saman	aa	saman
 verslunum	nvfþ	verslun
 17	ta	17
 .	.	.
-
 «	«	«
 Við	fp1fn	ég
 höfum	sfg1fn	hafa
@@ -4241,7 +3930,6 @@ sem	ct	sem
 skipa	sfg3fn	skipa
 Moss	e	Moss
 .	.	.
-
 Andrea	nven-s	Andrea
 segir	sfg3en	segja
 þau	fphfo	það
@@ -4262,7 +3950,6 @@ frumsýnd	sþgven	frumsýna
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 «	«	«
 Við	fp1fn	ég
 ætluðum	sfg1fþ	ætla
@@ -4279,7 +3966,6 @@ bara	aa	bara
 allt	fohen	allur
 brjálað	lhensf	brjálaður
 .	.	.
-
 Þessar	favfn	þessi
 vörur	nvfn	vara
 eru	sfg3fn	vera
@@ -4298,7 +3984,6 @@ framtak	nheo	framtak
 okkar	fp1fe	ég
 .	.	.
 »	»	»
-
 Moss	e	Moss
 mun	sfg3en	munu
 framleiða	sng	framleiða
@@ -4314,7 +3999,6 @@ boli	nkfo	bolur
 og	c	og
 leggings	nvfo	leggings
 .	.	.
-
 Hönnunarteymið	nheng	hönnunarteymi
 hefur	sfg3en	hafa
 það	fpheo	það
@@ -4339,7 +4023,6 @@ poppa	sng	poppa
 flíkurnar	nvfog	flík
 upp	aa	upp
 .	.	.
-
 «	«	«
 Fötin	nhfng	fat
 verða	sfg3fn	verða
@@ -4366,13 +4049,11 @@ skemmtilegum	lhfþsf	skemmtilegur
 smáatriðum	nhfþ	smáatriði
 .	.	.
 »	»	»
-
 -bg	x	-bg
 Spennandi	lvenof	spennandi
 hönnun	nven	hönnun
 í	aþ	í
 Sautján	ta	sautján
-
 Evrópskir	lkfnsf	evrópskur
 hönnuðir	nkfn	hönnuður
 sýndu	sfg3fþ	sýna
@@ -4386,12 +4067,10 @@ New	e	New
 York	e	York
 nýlega	aa	nýlega
 .	.	.
-
 Útkoman	nveng	útkoma
 var	sfg3eþ	vera
 glæsileg	lvensf	glæsilegur
 .	.	.
-
 Til	ae	til
 að	cn	að
 anna	sng	anna
@@ -4413,7 +4092,6 @@ resort	e	resort
 »	»	»
 línu	nveo	lína
 .	.	.
-
 Upphaflega	aa	upphaflega
 voru	sfg3fþ	vera
 flíkurnar	nvfng	flík
@@ -4440,7 +4118,6 @@ flíkum	nvfþ	flík
 léttum	lhfþsf	léttur
 efnum	nhfþ	efni
 .	.	.
-
 Nú	aa	nú
 hafa	sfg3fn	hafa
 bæst	ssm	bæta
@@ -4465,7 +4142,6 @@ til	ae	til
 framandi	lhfeof	framandi
 landa	nhfe	land
 .	.	.
-
 Eins	fokee	einn
 konar	nkee	konar
 dragtir	nvfn	dragt
@@ -4493,7 +4169,6 @@ og	c	og
 barmastórir	lkfnsf	barmastór
 sólhattar	nkfn	sólhattur
 .	.	.
-
 Nýlega	aa	nýlega
 sýndu	sfg3fþ	sýna
 nokkrir	fokfn	nokkur
@@ -4522,7 +4197,6 @@ Galliano	e	Galliano
 fyrir	ao	fyrir
 Dior	e	Dior
 .	.	.
-
 Umgjörðin	nveng	umgjörð
 gegndi	sfg3eþ	gegna
 stóru	lheþsf	stór
@@ -4554,7 +4228,6 @@ og	c	og
 frá	aþ	frá
 tökustöðum	nkfþ	tökustaður
 .	.	.
-
 «	«	«
 Resort-línurnar	nvfngs	Resort-lína
 eru	sfg3fn	vera
@@ -4569,7 +4242,6 @@ sagði	sfg3eþ	segja
 Lagerfeld	e	Lagerfeld
 hátíðlega	aa	hátíðlega
 .	.	.
-
 Draumur	nken	draumur
 um	ao	um
 frelsi	nheo	frelsi
@@ -4588,7 +4260,6 @@ af	aþ	af
 væntanlegri	lveþsf	væntanlegur
 plötu	nveþ	plata
 .	.	.
-
 Lagið	nheng	lag
 nefnist	sfm3en	nefna
 Guitar	e	Guitar
@@ -4603,7 +4274,6 @@ netinu	nheþg	net
 án	ae	án
 endurgjalds	nhee	endurgjald
 .	.	.
-
 Nýja	lvenvf	nýr
 platan	nveng	plata
 frá	aþ	frá
@@ -4614,13 +4284,11 @@ eftir	ao	eftir
 nokkrar	fovfo	nokkur
 vikur	nvfo	vika
 .	.	.
-
 Nýtt	lhensf	nýr
 lag	nhen	lag
 frítt	lhensf	frír
 í	ao	í
 farsíma	nkfo	farsími
-
 Óskarsverðlaunaleikkonan	nveng	óskarsverðlaunaleikkona
 Helen	nven-s	Helen
 Mirren	e	Mirren
@@ -4637,7 +4305,6 @@ gerist	sfm3en	gera
 á	aþ	á
 Gasasvæðinu	nheþgs	Gasasvæði
 .	.	.
-
 Í	aþ	í
 myndinni	nveþg	mynd
 verður	sfg3en	verða
@@ -4651,7 +4318,6 @@ nokkur	foven	nokkur
 af	aþ	af
 Palestínumanni	nkeþ-s	Palestínumaður
 .	.	.
-
 Talið	sþghen	telja
 er	sfg3en	vera
 að	c	að
@@ -4666,7 +4332,6 @@ vegna	ae	vegna
 á	aþ	á
 Gasasvæðinu	nheþgs	Gasasvæði
 .	.	.
-
 Leikstjóri	nken	leikstjóri
 verður	sfg3en	verða
 Philip	e	Philip
@@ -4685,7 +4350,6 @@ sakamálaþættina	nkfog	sakamálaþáttur
 Prime	e	Prime
 Suspect	e	Suspect
 .	.	.
-
 Mirren	e	Mirren
 ,	,	,
 sem	ct	sem
@@ -4705,17 +4369,14 @@ sitt	feheo	sinn
 The	e	The
 Queen	e	Queen
 .	.	.
-
 Mirren	e	Mirren
 á	ao	á
 Gasasvæðið	nheogs	Gasasvæði
-
 HVAÐ	fshen	hver
 ÁTTU	sfg3fþ	eiga
 MARGA	lkfosf	margur
 PUNKTA	nkfo	punktur
 ?	?	?
-
 ÞÚ	fp2en	þú
 GETUR	sfg2en	geta
 GIST	ssg	gista
@@ -4726,7 +4387,6 @@ HÓTELI	nheþ	hótel
 FYRIR	ao	fyrir
 VILDARPUNKTA	nkfo	vildarpunktur
 .	.	.
-
 KYNNTU	sbg2en	kynna
 ÞÉR	fp2eþ	þú
 KOSTI	nkfo	kostur
@@ -4735,7 +4395,6 @@ VISA	nxee-s	VISA
 OG	c	og
 ICELANDAIR	e	ICELANDAIR
 ICELANDAIR.IS	v	icelandair.is
-
 «	«	«
 Ég	fp1en	ég
 vona	sfg1en	vona
@@ -4763,7 +4422,6 @@ lagt	ssg	leggja
 upp	aa	upp
 laupana	nkfog	laupur
 .	.	.
-
 Múrinn	nkengs	Múr
 er	sfg3en	vera
 eitt	fohen	einn
@@ -4771,13 +4429,11 @@ elsta	lhenve	gamall
 pólitíska	lhenvf	pólitískur
 vefritið	nheng	vefrit
 .	.	.
-
 Aðeins	aa	aðeins
 Vef-Þjóðviljinn	nkengs	Vef-Þjóðvilji
 er	sfg3en	vera
 eldri	lkenvm	gamall
 .	.	.
-
 Að	aþ	að
 sögn	nveþ	sögn
 Stefáns	nkee-s	Stefán
@@ -4805,7 +4461,6 @@ fjölmiðlum	nkfþ	fjölmiðill
 og	c	og
 2002	ta	2002
 .	.	.
-
 Á	aþ	á
 þeim	fakeþ	sá
 tíma	nkeþ	tími
@@ -4819,7 +4474,6 @@ skrifaði	sfg3eþ	skrifa
 á	ao	á
 netið	nheog	net
 .	.	.
-
 En	c	en
 með	aþ	með
 auknum	lkeþsf	aukinn
@@ -4847,7 +4501,6 @@ fjara	sng	fjara
 undan	aþ	undan
 veftímaritunum	nhfþg	veftímarit
 .	.	.
-
 Stefán	nken-s	Stefán
 heldur	sfg3en	halda
 því	fpheþ	það
@@ -4880,7 +4533,6 @@ og	c	og
 ákveðinni	lveþsf	ákveðinn
 stefnu	nveþ	stefna
 .	.	.
-
 En	c	en
 pólitísku	lhfnvf	pólitískur
 veftímaritin	nhfng	veftímarit
@@ -4911,22 +4563,18 @@ feðra	nkfe	faðir
 sinna	fekfe	sinn
 misvirðulega	aa	misvirðulega
 .	.	.
-
 Múrinn	nkengs	Múr
 hrynur	sfg3en	hrynja
-
 Við	fp1fn	ég
 hjálpum	sfg1fn	hjálpa
 þér	fp2eþ	þú
 ...	...	...
-
 ...	...	...
 að	cn	að
 láta	sng	láta
 drauminn	nkeog	draumur
 rætast	snm	ræta
 !	!	!
-
 Tilboðslán	nhfn	tilboðslán
 ...	...	...
 fyrir	aþ	fyrir
@@ -4947,7 +4595,6 @@ reikningi	nkeþ	reikningur
 hjá	aþ	hjá
 S24	ta	S24
 .	.	.
-
 *	*	*
 M.v.	as	m.v.
 að	c	að
@@ -4961,14 +4608,12 @@ setur	sfg3en	setja
 varðandi	slg	varða
 lánveitingar	nvfo	lánveiting
 .	.	.
-
 Tilboð	nhen	tilboð
 þetta	fahen	þessi
 gildir	sfg3en	gilda
 til	ae	til
 15.06.2007	ta	15.06.2007
 .	.	.
-
 Missið	sbg2fn	missa
 ekki	aa	ekki
 af	aþ	af
@@ -4980,21 +4625,18 @@ af	aþ	af
 Days	e	Days
 Later	e	Later
 .	.	.
-
 Myndin	nveng	mynd
 hefur	sfg3en	hafa
 hlotið	ssg	hljóta
 frábæra	lkfosf	frábær
 dóma	nkfo	dómur
 .	.	.
-
 Robert	e	Robert
 Carlyle	e	Carlyle
 er	sfg3en	vera
 viðurstyggilega	aa	viðurstyggilega
 góður	lkensf	góður
 !	!	!
-
 Missið	sbg2fn	missa
 ekki	aa	ekki
 af	aþ	af

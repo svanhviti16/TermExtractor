@@ -24,7 +24,6 @@ almannavarna	nvfe	almannavarnir
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Jafnframt	aa	jafnframt
 er	sfg3en	vera
 áhugvert	x	áhugverður
@@ -37,7 +36,6 @@ og	c	og
 til	ae	til
 framtíðar	nvee	framtíð
 .	.	.
-
 Gerð	sþgven	gera
 verður	sfg3en	verða
 grein	nven	grein
@@ -57,7 +55,6 @@ almannavarna	nvfe	almannavarnir
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Náttúruhamfarir	nvfn	náttúruhamfarir
 á	ao	á
 borð	nheo	borð
@@ -71,7 +68,6 @@ eru	sfg3fn	vera
 nærtækt	lhensf	nærtækur
 rannsóknarefni	nhen	rannsóknarefni
 .	.	.
-
 Heimurinn	nkeng	heimur
 tekur	sfg3en	taka
 stöðugum	lvfþsf	stöðugur
@@ -101,7 +97,6 @@ og	c	og
 Íslendingum	nkfþ-s	Íslendingur
 framvegis	aa	framvegis
 .	.	.
-
 Enginn	foken	enginn
 sem	ct	sem
 upplifir	sfg3en	upplifa
@@ -123,7 +118,6 @@ samur	fbken	samur
 á	aa	á
 eftir	aa	eftir
 .	.	.
-
 Þá	aa	þá
 blasir	sfg3en	blasa
 við	aa	við
@@ -139,7 +133,6 @@ með	aþ	með
 mögulegum	lhfþsf	mögulegur
 ráðum	nhfþ	ráð
 .	.	.
-
 Máltækið	nheng	máltæki
 segir	sfg3en	segja
 að	cn	að
@@ -154,7 +147,6 @@ ofan	aa	ofan
 í	ao	í
 hann	fpkeo	hann
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 kjarni	nken	kjarni
@@ -169,13 +161,11 @@ fyrir	ao	fyrir
 og	c	og
 slys	nhfo	slys
 .	.	.
-
 En	c	en
 það	fphen	það
 krefst	sfm3en	krefja
 mikils	lheesf	mikill
 .	.	.
-
 Stefnumótun	nven	stefnumótun
 byggð	sþgven	byggja
 á	aþ	á
@@ -188,7 +178,6 @@ er	sfg3en	vera
 afar	aa	afar
 mikilvæg	lvensf	mikilvægur
 .	.	.
-
 Ef	c	ef
 vel	aa	vel
 tekst	sfm3en	taka
@@ -197,7 +186,6 @@ skiptir	sfg3en	skipta
 hún	fpven	hún
 sköpum	nhfþ	skap
 .	.	.
-
 En	c	en
 það	fphen	það
 er	sfg3en	vera
@@ -217,7 +205,6 @@ og	c	og
 utan	ae	utan
 stjórnsýslunnar	nveeg	stjórnsýsla
 .	.	.
-
 Tilgangurinn	nkeng	tilgangur
 hlýtur	sfg3en	hljóta
 að	cn	að
@@ -267,7 +254,6 @@ hefur	sfg3en	hafa
 dunið	ssg	dynja
 yfir	aa	yfir
 .	.	.
-
 Tækni	nven	tækni
 og	c	og
 kunnátta	nven	kunnátta
@@ -290,7 +276,6 @@ fyrr	aam	fyrr
 á	aþ	á
 öldum	nvfþ	öld
 .	.	.
-
 Hvort	fohen	hvor
 tveggja	tfhfe	tveir
 á	sfg3en	eiga
@@ -300,7 +285,6 @@ nýta	sng	nýta
 þessu	faheþ	þessi
 skyni	nheþ	skyn
 .	.	.
-
 Ekki	aa	ekki
 hefur	sfg3en	hafa
 farið	ssg	fara
@@ -316,7 +300,6 @@ almannavarna	nvfe	almannavarnir
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Leitað	sþghen	leita
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -336,7 +319,6 @@ um	ao	um
 á	aþ	á
 Alþingi	nheþ-s	Alþingi
 .	.	.
-
 Ritaðar	lvfnsf	ritaður
 heimildir	nvfn	heimild
 eru	sfg3fn	vera
@@ -360,7 +342,6 @@ brugðist	sþmhen	bregða
 við	aþ	við
 þeim	fpvfþ	hún
 .	.	.
-
 Þær	favfn	sá
 íslenzkar	x	íslenskur
 heimildir	nvfn	heimild
@@ -432,7 +413,6 @@ Sveitarstjórnarmálum	nhfþ-s	Sveitarstjórnarmál
 árið	nheog	ár
 2001	ta	2001
 .	.	.
-
 Einnig	aa	einnig
 verður	sfg3en	verða
 vitnað	sþghen	vitna
@@ -456,7 +436,6 @@ auk	ae	auk
 erlendra	lvfesf	erlendur
 heimilda	nvfe	heimild
 .	.	.
-
 Færi	sfg1en	færa
 ég	fp1en	ég
 heimildarmönnum	nkfþ	heimildarmaður
@@ -464,7 +443,6 @@ heimildarmönnum	nkfþ	heimildarmaður
 beztu	lvfove	góður
 þakkir	nvfo	þökk
 .	.	.
-
 Sérstakar	lvfosf	sérstakur
 þakkir	nvfo	þökk
 fá	sfg3fn	fá
@@ -496,10 +474,8 @@ einstaka	lveosf	einstakur
 og	c	og
 skilning	nkeo	skilningur
 .	.	.
-
 1	ta	1
 .	.	.
-
 Inngangur	nken	inngangur
 Ritgerðin	nveng	ritgerð
 fjallar	sfg3en	fjalla
@@ -514,7 +490,6 @@ Danmerkur	nvee-s	Danmörk
 og	c	og
 Bretlands	nhee-s	Bretland
 .	.	.
-
 Einnig	aa	einnig
 verður	sfg3en	verða
 tekinn	sþgken	taka
@@ -528,7 +503,6 @@ almannavarna	nvfe	almannavarnir
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Danmörk	nven-s	Danmörk
 og	c	og
 Bretland	nhen-s	Bretland
@@ -544,7 +518,6 @@ nýtt	lheosf	nýr
 heildarskipulag	nheo	heildarskipulag
 almannavarna	nvfe	almannavarnir
 .	.	.
-
 Leitast	sþmhen	leita
 verður	sfg3en	verða
 við	ao	við
@@ -577,7 +550,6 @@ fjárframlögum	nhfþ	fjárframlag
 til	ae	til
 málaflokksins	nkeeg	málaflokkur
 .	.	.
-
 Hér	aa	hér
 á	aa	á
 eftir	aa	eftir
@@ -593,7 +565,6 @@ Breta	nkfe-s	Breti
 þeim	fahfþ	sá
 efnum	nhfþ	efni
 .	.	.
-
 Reynt	sþghen	reyna
 verður	sfg3en	verða
 að	cn	að
@@ -614,7 +585,6 @@ hverju	fsheþ	hver
 hann	fpken	hann
 stafar	sfg3en	stafa
 .	.	.
-
 Íslendingar	nkfn-s	Íslendingur
 hafa	sfg3fn	hafa
 löngum	aa	löngum
@@ -630,7 +600,6 @@ semja	sng	semja
 ný	lhfosf	nýr
 lög	nhfo	lag
 .	.	.
-
 Einkum	aa	einkum
 hafa	sfg3fn	hafa
 Norðurlönd	nhfn-s	Norðurlönd
@@ -642,7 +611,6 @@ leitað	sþghen	leita
 er	sfg3en	vera
 fyrirmynda	nvfe	fyrirmynd
 .	.	.
-
 Stjórnsýsla	nven	stjórnsýsla
 almannavarna	nvfe	almannavarnir
 byggir	sfg3en	byggja
@@ -662,7 +630,6 @@ heildstæðar	lvfnsf	heildstæður
 kenningar	nvfn	kenning
 Simon	e	Simon
 .	.	.
-
 Skoðaðar	sþgvfn	skoða
 verða	sfg3fn	verða
 kenningar	nvfn	kenning
@@ -675,7 +642,6 @@ komast	sfm3fn	koma
 á	ao	á
 dagskrá	nveo	dagskrá
 .	.	.
-
 Leitað	sþghen	leita
 verður	sfg3en	verða
 mögulegra	lvfesf	mögulegur
@@ -690,7 +656,6 @@ pólitískra	lvfesf	pólitískur
 auk	ae	auk
 stefnumótunarskýringa	nvfe	stefnumótunarskýring
 .	.	.
-
 Hafa	sng	hafa
 verður	sfg3en	verða
 í	aþ	í
@@ -709,7 +674,6 @@ samþætting	nven	samþætting
 þeirra	fpvfe	hún
 athuguð	sþgven	athuga
 .	.	.
-
 Eftir	ao	eftir
 snjóflóðin	nhfog	snjóflóð
 á	aþ	á
@@ -724,7 +688,6 @@ ríkisstjórnar	nvee	ríkisstjórn
 og	c	og
 Alþingis	nhee-s	Alþingi
 .	.	.
-
 Skipulag	nhen	skipulag
 viðbúnaðar	nkee	viðbúnaður
 gegn	aþ	gegn
@@ -733,7 +696,6 @@ hafði	sfg3eþ	hafa
 verið	ssg	vera
 ófullnægjandi	lhenof	ófullnægjandi
 .	.	.
-
 Manntjón	nhen	manntjón
 var	sfg3eþ	vera
 mikið	lhensf	mikill
@@ -741,7 +703,6 @@ og	c	og
 eignatjón	nhen	eignatjón
 einnig	aa	einnig
 .	.	.
-
 Stjórnvöld	nhfn	stjórnvald
 tóku	sfg3fþ	taka
 málaflokkinn	nkeog	málaflokkur
@@ -750,7 +711,6 @@ endurskoðunar	nvee	endurskoðun
 varðandi	slg	varða
 viðbúnað	nkeo	viðbúnaður
 .	.	.
-
 Sett	sþghen	setja
 var	sfg3eþ	vera
 viðmið	nhen	viðmið
@@ -762,7 +722,6 @@ um	ao	um
 eigin	lhfþof	eigin
 heimilum	nhfþ	heimili
 .	.	.
-
 Borið	sþghen	bera
 verður	sfg3en	verða
 saman	aa	saman
@@ -800,7 +759,6 @@ um	aa	um
 milljón	nveo	milljón
 íbúa	nkfo	íbúi
 .	.	.
-
 Tvö	tfhfn	tveir
 eru	sfg3fn	vera
 í	aþ	í
@@ -811,7 +769,6 @@ eitt	lhensf	einn
 utan	ae	utan
 þess	fphee	það
 .	.	.
-
 Því	fpheþ	það
 má	sfg3en	mega
 að	aþ	að
@@ -835,7 +792,6 @@ eru	sfg3fn	vera
 í	aþ	í
 Evrópusambandinu	nheþgs	Evrópusamband
 ?	?	?
-
 Það	fphen	það
 er	sfg3en	vera
 yfirlýst	lvensf	yfirlýstur
@@ -868,7 +824,6 @@ Organization	e	Organization
 NATO	nxen-s	NATO
 )	)	)
 .	.	.
-
 Í	aþ	í
 Bretlandi	nheþ-s	Bretland
 og	c	og
@@ -880,7 +835,6 @@ ekki	aa	ekki
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Það	fphen	það
 kann	sfg3en	kunna
 að	cn	að
@@ -895,7 +849,6 @@ einkum	aa	einkum
 sviði	nheþ	svið
 tækninnar	nveeg	tækni
 .	.	.
-
 Ísland	nhen-s	Ísland
 er	sfg3en	vera
 mun	nkeþ	munur
@@ -905,7 +858,6 @@ hin	fahfn	hinn
 ríkin	nhfng	ríki
 tvö	tfhfn	tveir
 .	.	.
-
 Hlutfall	nhen	hlutfall
 íbúa	nkfe	íbúi
 á	aþ	á
@@ -922,7 +874,6 @@ af	aþ	af
 íbúum	nkfþ	íbúi
 Danmerkur	nvee-s	Danmörk
 .	.	.
-
 Aðstæður	nvfn	aðstæður
 eru	sfg3fn	vera
 einnig	aa	einnig
@@ -987,7 +938,6 @@ til	ae	til
 Bandaríkja	nhfe-s	Bandaríki
 Norður-Ameríku	nvee-s	Norður-Ameríka
 .	.	.
-
 Meginverkefnið	nheng	meginverkefni
 er	sfg3en	vera
 samanburður	nken	samanburður
@@ -1023,7 +973,6 @@ líta	sng	líta
 til	ae	til
 sögunnar	nveeg	saga
 .	.	.
-
 Hugtök	nhfn	hugtak
 eru	sfg3fn	vera
 nauðsynleg	lhfnsf	nauðsynlegur
@@ -1032,7 +981,6 @@ að	cn	að
 skilgreina	sng	skilgreina
 viðfangsefnið	nheog	viðfangsefni
 .	.	.
-
 Allt	fohen	allur
 verður	sfg3en	verða
 að	cn	að
@@ -1040,7 +988,6 @@ hafa	sng	hafa
 eitthvert	foheo	einhver
 heiti	nheo	heiti
 .	.	.
-
 Miklu	lheþsf	mikill
 skiptir	sfg3en	skipta
 að	cn	að
@@ -1076,7 +1023,6 @@ að	cn	að
 einfalda	sng	einfalda
 samanburð	nkeo	samanburður
 .	.	.
-
 Með	aþ	með
 viðbúnaði	nkeþ	viðbúnaður
 er	sfg3en	vera
@@ -1097,7 +1043,6 @@ afleiðingum	nvfþ	afleiðing
 í	aþ	í
 lágmarki	nheþ	lágmark
 .	.	.
-
 Með	aþ	með
 viðbragði	nheþ	viðbragð
 er	sfg3en	vera
@@ -1114,7 +1059,6 @@ gang	nkeo	gangur
 hefur	sfg3en	hafa
 orðið	ssg	verða
 .	.	.
-
 Að	cn	að
 bregðast	snm	bregða
 við	aa	við
@@ -1141,7 +1085,6 @@ ekki	aa	ekki
 ráðið	ssg	ráða
 við	aa	við
 .	.	.
-
 Með	aþ	með
 «	«	«
 reactive	e	reactive
@@ -1158,7 +1101,6 @@ kemur	sfg3en	koma
 eftir	aa	eftir
 á	aa	á
 .	.	.
-
 Með	aþ	með
 «	«	«
 proactive	e	proactive
@@ -1184,7 +1126,6 @@ sem	ct	sem
 beztum	lkeþse	góður
 undirbúningi	nkeþ	undirbúningur
 .	.	.
-
 Hér	aa	hér
 á	aa	á
 eftir	aa	eftir
@@ -1193,7 +1134,6 @@ verða	sfg3fn	verða
 heitin	nhfng	heiti
 notuð	sþghfn	nota
 .	.	.
-
 Á	aþ	á
 Íslandi	nheþ-s	Ísland
 er	sfg3en	vera
@@ -1210,7 +1150,6 @@ Civil	e	Civil
 Protection	e	Protection
 )	)	)
 .	.	.
-
 Í	aþ	í
 Danmörku	nveþ-s	Danmörk
 heitir	sfg3en	heita
@@ -1226,7 +1165,6 @@ almannavörnum	nvfþ	almannavarnir
 ,	,	,
 Beredsskabsstyrelsen	e	Beredsskabsstyrelsen
 .	.	.
-
 Á	aþ	á
 íslenzku	nveþ	íslenska
 verður	sfg3en	verða
@@ -1234,7 +1172,6 @@ hún	fpven	hún
 nefnd	sþgven	nefna
 Viðbúnaðarstjórnin	nvengs	Viðbúnaðarstjórn
 .	.	.
-
 Heitið	nheng	heiti
 vísar	sfg3en	vísa
 til	ae	til
@@ -1262,7 +1199,6 @@ er	sfg3en	vera
 að	c	að
 verði	svg3fn	verða
 .	.	.
-
 Í	aþ	í
 Englandi	nheþ-s	England
 heitir	sfg3en	heita
@@ -1284,7 +1220,6 @@ civil	e	civil
 contingency	e	contingency
 »	»	»
 .	.	.
-
 Resilience	e	Resilience
 útleggst	sfm3en	útleggja
 á	aþ	á
@@ -1319,7 +1254,6 @@ MI5	x	MI5
 brezku	lveþvf	breskur
 leyniþjónustunni	nveþg	leyniþjónusta
 .	.	.
-
 Civil	e	Civil
 contingency	e	contingency
 þýðir	sfg3en	þýða
@@ -1348,7 +1282,6 @@ bera	sng	bera
 að	aþ	að
 höndum	nvfþ	hönd
 .	.	.
-
 Það	fphen	það
 vísar	sfg3en	vísa
 til	ae	til
@@ -1371,7 +1304,6 @@ með	aþ	með
 fullnægjandi	lkeþof	fullnægjandi
 hætti	nkeþ	háttur
 .	.	.
-
 Strax	aa	strax
 verður	sfg3en	verða
 dregin	sþgven	draga
@@ -1394,7 +1326,6 @@ gildir	sfg3en	gilda
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Höfuðstöðvar	nvfn	höfuðstöðvar
 Viðbúnaðarstjórnarinnar	nveegs	Viðbúnaðarstjórnin
 (	(	(
@@ -1438,7 +1369,6 @@ hér	aa	hér
 kemur	sfg3en	koma
 fram	aa	fram
 .	.	.
-
 Var	sfg3eþ	vera
 það	fphen	það
 gert	sþghen	gera
@@ -1462,7 +1392,6 @@ bæta	sng	bæta
 skipulag	nheo	skipulag
 almannavarna	nvfe	almannavarnir
 .	.	.
-
 Almannavarnir	nvfo	almannavarnir
 og	c	og
 skipulag	nheo	skipulag
@@ -1485,7 +1414,6 @@ tíðkast	sfm3en	tíðka
 öðrum	fohfþ	annar
 löndum	nhfþ	land
 .	.	.
-
 Stríð	nhfn	stríð
 og	c	og
 einkum	aa	einkum
@@ -1497,7 +1425,6 @@ skipulagsins	nheeg	skipulag
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Íslendingar	nkfn-s	Íslendingur
 hafa	sfg3fn	hafa
 treyst	ssg	treysta
@@ -1520,7 +1447,6 @@ varnarsamningi	nkeþ	varnarsamningur
 við	ao	við
 Bandaríkin	nhfogs	Bandaríki
 .	.	.
-
 Danska	lvenvf	danskur
 ríkisstjórnin	nveng	ríkisstjórn
 leggur	sfg3en	leggja
@@ -1564,7 +1490,6 @@ i	e	i
 Danmark	e	Danmark
 .	.	.
 »	»	»
-
 Hið	ghen	hinn
 sama	fbhen	sami
 er	sfg3en	vera
@@ -1574,7 +1499,6 @@ teningnum	nkeþg	teningur
 hjá	aþ	hjá
 Bretum	nkfþ-s	Breti
 .	.	.
-
 Þeir	fpkfn	hann
 breyttu	sfg3fþ	breyta
 fyrra	lheþvm	fyrri
@@ -1599,7 +1523,6 @@ er	sfg3en	vera
 í	aþ	í
 Danmörku	nveþ-s	Danmörk
 .	.	.
-
 Á	aþ	á
 heimasíðu	nveþ	heimasíða
 UK	e	UK
@@ -1615,7 +1538,6 @@ flugsins	nheeg	flug
 ágúst	nkeo	ágúst
 2006	ta	2006
 .	.	.
-
 Lykilorðið	nheng	lykilorð
 í	aþ	í
 danska	lheþvf	danskur
@@ -1645,7 +1567,6 @@ herinn	nkeng	her
 í	aþ	í
 Danmörku	nveþ-s	Danmörk
 .	.	.
-
 Rannsakað	sþghen	rannsaka
 verður	sfg3en	verða
 í	aþ	í
@@ -1677,7 +1598,6 @@ leyti	nheþ	leyti
 eru	sfg3fn	vera
 frábrugðnar	lvfnsf	frábrugðinn
 .	.	.
-
 Haft	sþghen	hafa
 var	sfg3eþ	vera
 samband	nhen	samband
@@ -1700,7 +1620,6 @@ yrði	svg3eþ	verða
 ritaðar	lvfosf	ritaður
 heimildir	nvfo	heimild
 .	.	.
-
 Þau	fahfn	sá
 svör	nhfn	svar
 fengust	sfm3fþ	fá
@@ -1731,7 +1650,6 @@ stofnana	nvfe	stofnun
 á	aþ	á
 netinu	nheþg	net
 .	.	.
-
 Stuðzt	sþmhen	stuðzt
 er	sfg3en	vera
 við	ao	við
@@ -1755,7 +1673,6 @@ vefsíðum	nvfþ	vefsíða
 viðkomandi	lvfeof	viðkomandi
 stofnana	nvfe	stofnun
 .	.	.
-
 Leiðbeiningar	nvfn	leiðbeining
 fengust	sfm3fþ	fá
 um	aa	um
@@ -1783,7 +1700,6 @@ starfa	nhfe	starf
 þeirra	fpvfe	hún
 vegum	nkfþ	vegur
 .	.	.
-
 Fræðileg	lhfnsf	fræðilegur
 skrif	nhfn	skrif
 um	ao	um
@@ -1797,7 +1713,6 @@ Danmörku	nveþ-s	Danmörk
 og	c	og
 Bretlandi	nheþ-s	Bretland
 .	.	.
-
 Talsverðan	lkeosf	talsverður
 fróðleik	nkeo	fróðleikur
 er	sfg3en	vera
@@ -1829,7 +1744,6 @@ síður	nvfo	síða
 staðbundinna	lhfesf	staðbundinn
 stjórnvalda	nhfe	stjórnvald
 .	.	.
-
 Leitað	sþghen	leita
 var	sfg3eþ	vera
 upplýsinga	nvfe	upplýsing
@@ -1859,7 +1773,6 @@ að	aþ	að
 baki	nheþ	bak
 þeim	fphfþ	það
 .	.	.
-
 Breytingar	nvfn	breyting
 voru	sfg3fþ	vera
 gerðar	sþgvfn	gera
@@ -1877,7 +1790,6 @@ snjóflóð	nhfo	snjóflóð
 og	c	og
 snjóflóðavarnir	nvfo	snjóflóðavörn
 .	.	.
-
 Í	aþ	í
 ritgerð	nveþ	ritgerð
 frá	aþ	frá
@@ -1911,10 +1823,8 @@ sögulega	lveosf	sögulegur
 tilurð	nveo	tilurð
 laganna	nhfeg	lag
 .	.	.
-
 2	ta	2
 .	.	.
-
 Almannavarnir	nvfn	almannavarnir
 á	aþ	á
 Íslandi	nheþ-s	Ísland
@@ -1942,7 +1852,6 @@ Danmörku	nveþ-s	Danmörk
 og	c	og
 Bretlandi	nheþ-s	Bretland
 .	.	.
-
 Sagt	sþghen	segja
 verður	sfg3en	verða
 frá	aþ	frá
@@ -1968,7 +1877,6 @@ ríki	nheþ	ríki
 fyrir	ao	fyrir
 sig	fpheo	sig
 .	.	.
-
 Fyrst	aae	fyrr
 verður	sfg3en	verða
 gerð	sþgven	gera
@@ -1979,9 +1887,7 @@ mála	nhfe	mál
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 2.1.	ta	2.1.
-
 Skipulag	nhen	skipulag
 almannavarna	nvfe	almannavarnir
 á	aþ	á
@@ -1999,7 +1905,6 @@ nr.	as	nr.
 um	ao	um
 almannavarnir	nvfo	almannavarnir
 .	.	.
-
 Dómsmálaráðherra	nken	dómsmálaráðherra
 stjórnar	sfg3en	stjórna
 almannavörnum	nvfþ	almannavarnir
@@ -2008,7 +1913,6 @@ hönd	nveo	hönd
 ríkisstjórnar	nvee	ríkisstjórn
 Íslands	nhee-s	Ísland
 .	.	.
-
 Upphaflega	aa	upphaflega
 voru	sfg3fþ	vera
 fyrstu	lhfnve	fyrstur
@@ -2042,7 +1946,6 @@ heimsstyrjöldinni	nveþg	heimsstyrjöld
 til	aa	til
 1941	ta	1941
 .	.	.
-
 Fyrstu	lhfþve	fyrstur
 lögunum	nhfþg	lag
 ,	,	,
@@ -2086,7 +1989,6 @@ stærsta	lhenve	stór
 á	aþ	á
 landinu	nheþg	land
 .	.	.
-
 Nefnd	nven	nefnd
 var	sfg3eþ	vera
 sett	sþgven	setja
@@ -2101,7 +2003,6 @@ vörnum	nvfþ	vörn
 og	c	og
 aðgerðum	nvfþ	aðgerð
 .	.	.
-
 Að	aþ	að
 lokinni	lveþsf	lokinn
 heimsstyrjöldinni	nveþg	heimsstyrjöld
@@ -2112,7 +2013,6 @@ að	aþ	að
 forminu	nheþg	form
 til	aa	til
 .	.	.
-
 Þar	aa	þar
 sem	c	sem
 ógnin	nveng	ógn
@@ -2131,7 +2031,6 @@ fyrir	aþ	fyrir
 starfi	nheþ	starf
 hennar	fpvee	hún
 .	.	.
-
 Samfara	aþ	samfara
 Kóreustríðinu	nheþgs	Kóreustríð
 1951	ta	1951
@@ -2141,7 +2040,6 @@ aftur	aa	aftur
 á	ao	á
 dagskrá	nveo	dagskrá
 .	.	.
-
 Þá	aa	þá
 áttu	sfg3fþ	eiga
 sér	fpvfþ	sig
@@ -2168,7 +2066,6 @@ loftvarna	nvfe	loftvörn
 seinni	lveþvm	seinn
 heimsstyrjöldinni	nveþg	heimsstyrjöld
 .	.	.
-
 Umræður	nvfn	umræða
 um	ao	um
 almannavarnir	nvfo	almannavarnir
@@ -2197,7 +2094,6 @@ komið	sþghen	koma
 á	ao	á
 laggirnar	nvfog	lögg
 .	.	.
-
 Þá	aa	þá
 fór	sfg3eþ	fara
 í	ao	í
@@ -2234,7 +2130,6 @@ eldgos	nhfo	eldgos
 og	c	og
 snjóflóð	nhfo	snjóflóð
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 fyrst	aae	fyrr
@@ -2256,7 +2151,6 @@ lögum	nhfþ	lag
 nr.	as	nr.
 94/1962	ta	94/1962
 .	.	.
-
 Hvatinn	nkeng	hvati
 að	aþ	að
 setningu	nveþ	setning
@@ -2295,7 +2189,6 @@ mæta	sng	mæta
 þessum	favfþ	þessi
 aðstæðum	nvfþ	aðstæður
 .	.	.
-
 Tveir	tfkfn	tveir
 erlendir	lkfnsf	erlendur
 ráðgjafar	nkfn	ráðgjafi
@@ -2318,7 +2211,6 @@ yfirlæknir	nken	yfirlæknir
 danska	lheevf	danskur
 heilbrigðiskerfisins	nheeg	heilbrigðiskerfi
 .	.	.
-
 Lítið	aa	lítið
 var	sfg3eþ	vera
 fjallað	sþghen	fjalla
@@ -2334,7 +2226,6 @@ tekið	sþghen	taka
 afleiðingum	nvfþ	afleiðing
 þeirra	fpvfe	hún
 .	.	.
-
 Almannavarnir	nvfn	almannavarnir
 áttu	sfg3fþ	eiga
 þó	aa	þó
@@ -2350,9 +2241,7 @@ af	aþ	af
 völdum	nhfþ	vald
 náttúruhamfara	nvfe	náttúruhamfarir
 .	.	.
-
 2.1.1.	ta	2.1.1.
-
 Forsaga	nven	forsaga
 laga	nhfe	lag
 um	ao	um
@@ -2407,7 +2296,6 @@ eigu	nveþ	eiga
 nefndra	lhfesf	nefndur
 stórvelda	nhfe	stórveldi
 .	.	.
-
 Í	aþ	í
 umræðum	nvfþ	umræða
 á	aþ	á
@@ -2442,7 +2330,6 @@ bregðast	snm	bregða
 við	aþ	við
 náttúruhamförum	nvfþ	náttúruhamfarir
 .	.	.
-
 Jón	nken-s	Jón
 var	sfg3eþ	vera
 sá	faken	sá
@@ -2456,7 +2343,6 @@ við	ao	við
 afgreiðslu	nveo	afgreiðsla
 frumvarpsins	nheeg	frumvarp
 .	.	.
-
 Að	aþ	að
 öðru	foheþ	annar
 leyti	nheþ	leyti
@@ -2480,7 +2366,6 @@ gegn	aþ	gegn
 hugsanlegri	lveþsf	hugsanlegur
 hernaðarógn	nveþ	hernaðarógn
 .	.	.
-
 Næst	aae	nærri
 komst	sfm3eþ	koma
 málið	nheng	mál
@@ -2489,13 +2374,11 @@ dagskrá	nveo	dagskrá
 vorið	nheog	vor
 1966	ta	1966
 .	.	.
-
 Alþingismenn	nkfn-s	Alþingismaður
 lögðu	sfg3fþ	leggja
 fram	aa	fram
 þingsályktunartillögu	nveo	þingsályktunartillaga
 .	.	.
-
 Ætlun	nven	ætlun
 þeirra	fpkfe	hann
 var	sfg3eþ	vera
@@ -2513,7 +2396,6 @@ af	aþ	af
 þeirra	fpvfe	hún
 völdum	nhfþ	vald
 .	.	.
-
 Tillaga	nven	tillaga
 til	ae	til
 þingsályktunar	nvee	þingsályktun
@@ -2521,7 +2403,6 @@ var	sfg3eþ	vera
 ekki	aa	ekki
 afgreidd	sþgven	afgreiða
 .	.	.
-
 En	c	en
 dómsmálaráðherra	nken	dómsmálaráðherra
 tók	sfg3eþ	taka
@@ -2539,7 +2420,6 @@ hlutu	sfg3fþ	hljóta
 samþykki	nheo	samþykki
 1967	ta	1967
 .	.	.
-
 Þá	aa	þá
 komust	sfm3fþ	koma
 í	ao	í
@@ -2558,7 +2438,6 @@ eldgosum	nhfþ	eldgos
 og	c	og
 hafís	nkeþ	hafís
 .	.	.
-
 Í	aþ	í
 lögunum	nhfþg	lag
 um	ao	um
@@ -2602,7 +2481,6 @@ af	aþ	af
 annarri	foveþ	annar
 vá	nveþ	vá
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 ætlunin	nveng	ætlun
@@ -2627,7 +2505,6 @@ annarra	fokfe	annar
 lögum	nhfþ	lag
 samkvæmt	aþ	samkvæmt
 .	.	.
-
 Íslenzka	lvenvf	íslenskur
 ríkisstjórnin	nveng	ríkisstjórn
 hafði	sfg3eþ	hafa
@@ -2658,7 +2535,6 @@ sem	ct	sem
 voru	sfg3fþ	vera
 framundan	aa	framundan
 .	.	.
-
 Þar	aa	þar
 kann	sfg3en	kunna
 að	cn	að
@@ -2685,7 +2561,6 @@ um	ao	um
 almannavarnir	nvfo	almannavarnir
 fyrr	aam	fyrr
 .	.	.
-
 Áður	aa	áður
 starfaði	sfg3eþ	starfa
 stofnun	nven	stofnun
@@ -2700,7 +2575,6 @@ með	aþ	með
 sérstökum	lkeþsf	sérstakur
 forstöðumanni	nkeþ	forstöðumaður
 .	.	.
-
 Hver	foken	hver
 lögreglustjóri	nken	lögreglustjóri
 er	sfg3en	vera
@@ -2720,7 +2594,6 @@ samkvæmt	aþ	samkvæmt
 gr.	as	gr.
 almannavarnalaganna	nhfeg	almannavarnalög
 .	.	.
-
 Í	aþ	í
 því	fpheþ	það
 er	sfg3en	vera
@@ -2752,7 +2625,6 @@ er	c	er
 þörf	nven	þörf
 gerist	sfm3en	gera
 .	.	.
-
 Fjárhagsleg	lvensf	fjárhagslegur
 ábyrgð	nven	ábyrgð
 af	aþ	af
@@ -2787,7 +2659,6 @@ húsaskjól	nhen	húsaskjól
 fyrir	ao	fyrir
 fólk	nheo	fólk
 .	.	.
-
 Skipulag	nhen	skipulag
 almannavarna	nvfe	almannavarnir
 á	aþ	á
@@ -2805,7 +2676,6 @@ aðstoð	nveþ	aðstoð
 eftir	aþ	eftir
 atvikum	nhfþ	atvik
 .	.	.
-
 Einkum	aa	einkum
 er	sfg3en	vera
 það	fphen	það
@@ -2838,7 +2708,6 @@ nr.	as	nr.
 um	ao	um
 almannavarnir	nvfo	almannavarnir
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 ríkjandi	lheþof	ríkjandi
 skipulagi	nheþ	skipulag
@@ -2861,7 +2730,6 @@ sjálfboðaliðar	nkfn	sjálfboðaliði
 björgunarsveitanna	nvfeg	björgunarsveit
 skipa	sfg3fn	skipa
 .	.	.
-
 Að	aa	að
 auki	aa	auki
 getur	sfg3en	geta
@@ -2897,7 +2765,6 @@ samkvæmt	aþ	samkvæmt
 gr.	as	gr.
 laganna	nhfeg	lag
 .	.	.
-
 Ríkislögreglustjóri	nken	ríkislögreglustjóri
 er	sfg3en	vera
 stjórnandi	nken	stjórnandi
@@ -2909,7 +2776,6 @@ aðsetur	nheo	aðsetur
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Lögunum	nhfþg	lag
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -2927,13 +2793,11 @@ skipulaginu	nheþg	skipulag
 umboði	nheþ	umboð
 dómsmálaráðherra	nkee	dómsmálaráðherra
 .	.	.
-
 Almannavarnadeild	nven-s	almannavarnadeild
 ríkislögreglustjóra	nkee	ríkislögreglustjóri
 rekur	sfg3en	reka
 skrifstofu	nveo	skrifstofa
 .	.	.
-
 Hlutverk	nhen	hlutverk
 hennar	fpvee	hún
 ,	,	,
@@ -2960,7 +2824,6 @@ viðbragðsáætlunum	nvfþ	viðbragðsáætlun
 og	c	og
 lögum	nhfþ	lag
 .	.	.
-
 Ríkisstjórn	nven	ríkisstjórn
 Íslands	nhee-s	Ísland
 kemur	sfg3en	koma
@@ -2993,7 +2856,6 @@ yfir	aþ	yfir
 að	cn	að
 ráða	sng	ráða
 .	.	.
-
 Björgunarsveitir	nvfn	björgunarsveit
 á	aþ	á
 Íslandi	nheþ-s	Ísland
@@ -3027,7 +2889,6 @@ snjóbílum	nkfþ	snjóbíll
 og	c	og
 björgunarbátum	nkfþ	björgunarbátur
 .	.	.
-
 Sveitarfélögin	nhfng	sveitarfélag
 bera	sfg3fn	bera
 lögum	nhfþ	lag
@@ -3058,7 +2919,6 @@ ekki	aa	ekki
 verið	ssg	vera
 gerðar	sþgvfn	gera
 .	.	.
-
 Þó	aa	þó
 hafa	sfg3fn	hafa
 verið	ssg	vera
@@ -3079,7 +2939,6 @@ sem	ct	sem
 setja	sfg3fn	setja
 sér	fphfþ	sig
 .	.	.
-
 Skólar	nkfn	skóli
 og	c	og
 sjúkrastofnanir	nvfn	sjúkrastofnun
@@ -3097,7 +2956,6 @@ laga	nhfe	lag
 um	ao	um
 brunvarnir	nvfo	brunavörn
 .	.	.
-
 Ákvæði	nheþ	ákvæði
 almannavarnarlaga	nhfe	almannavarnalög
 um	ao	um
@@ -3112,7 +2970,6 @@ með	aþ	með
 skipulagðri	lveþsf	skipulagður
 eftirfylgni	nveþ	eftirfylgni
 .	.	.
-
 Enginn	foken	enginn
 virðist	sfm3en	virða
 bera	sng	bera
@@ -3128,7 +2985,6 @@ sínar	fevfo	sinn
 í	aþ	í
 raun	nveþ	raun
 .	.	.
-
 Ríkisstjórnin	nveng	ríkisstjórn
 hefur	sfg3en	hafa
 ekki	aa	ekki
@@ -3142,9 +2998,7 @@ sveitarstjórna	nvfe	sveitarstjórn
 sé	svg3en	vera
 framfylgt	sþghen	framfylgja
 .	.	.
-
 2.1.2.	ta	2.1.2.
-
 Skipulag	nhen	skipulag
 og	c	og
 skipurit	nhen	skipurit
@@ -3181,7 +3035,6 @@ er	sfg3en	vera
 að	aþ	að
 almannavörnum	nvfþ	almannavarnir
 .	.	.
-
 Björgunarsveitirnar	nvfng	björgunarsveit
 þjálfa	sfg3fn	þjálfa
 sjálfar	fbvfn	sjálfur
@@ -3205,7 +3058,6 @@ lögreglustjóra	nkee	lögreglustjóri
 almannavarnaástand	nhen	almannavarnaástand
 ríkir	sfg3en	ríkja
 .	.	.
-
 Sama	fbhen	sami
 gildir	sfg3en	gilda
 meðan	c	meðan
@@ -3214,7 +3066,6 @@ konar	nkee	konar
 neyðarástand	nhen	neyðarástand
 varir	sfg3en	vara
 .	.	.
-
 Stjórnvöld	nhfn	stjórnvald
 bjóða	sfg3fn	bjóða
 liðsmönnum	nkfþ	liðsmaður
@@ -3223,7 +3074,6 @@ litla	lveosf	lítill
 formlega	lveosf	formlegur
 menntun	nveo	menntun
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 gert	sþghen	gera
@@ -3261,7 +3111,6 @@ samkvæmt	aþ	samkvæmt
 grein	nveþ	grein
 Viðbúnaðarlaga	nhfe	viðbúnaðarlag
 .	.	.
-
 Almannavarnanefndir	nvfn	almannavarnanefnd
 hafa	sfg3fn	hafa
 starfað	ssg	starfa
@@ -3286,7 +3135,6 @@ umdæmi	nheþ	umdæmi
 hvers	fokee	hver
 lögreglustjóra	nkee	lögreglustjóri
 .	.	.
-
 Þeir	fpkfn	hann
 voru	sfg3fþ	vera
 26	ta	26
@@ -3309,7 +3157,6 @@ lögreglulögum	nhfþ	lögreglulög
 nr.	as	nr.
 1996	ta	1996
 .	.	.
-
 Stefnt	sþghen	stefna
 er	sfg3en	vera
 að	aþ	að
@@ -3324,7 +3171,6 @@ en	c	en
 landinu	nheþg	land
 öllu	foheþ	allur
 .	.	.
-
 Hlutverk	nhen	hlutverk
 almannavarnanefnda	nvfe	almannavarnanefnd
 er	sfg3en	vera
@@ -3334,7 +3180,6 @@ skilgreint	sþghen	skilgreina
 gr.	as	gr.
 laganna	nhfeg	lag
 .	.	.
-
 Almannavarnanefndir	nvfn	almannavarnanefnd
 skulu	sfg3fn	skulu
 starfa	sng	starfa
@@ -3342,7 +3187,6 @@ starfa	sng	starfa
 öllum	fohfþ	allur
 sveitarfélögum	nhfþ	sveitarfélag
 .	.	.
-
 Sveitarstjórnum	nvfþ	sveitarstjórn
 ,	,	,
 sem	ct	sem
@@ -3367,7 +3211,6 @@ en	c	en
 eins	tfhee	einn
 sveitarfélags	nhee	sveitarfélag
 .	.	.
-
 Þó	aa	þó
 er	sfg3en	vera
 sá	faken	sá
@@ -3391,7 +3234,6 @@ starfi	svg3en	starfa
 með	aþ	með
 nefndinni	nveþg	nefnd
 .	.	.
-
 Lögreglustjóri	nken	lögreglustjóri
 skal	sfg3en	skulu
 starfa	sng	starfa
@@ -3405,7 +3247,6 @@ samkvæmt	aþ	samkvæmt
 gr.	as	gr.
 almannavarnalaga	nhfe	almannavarnalög
 .	.	.
-
 Að	aþ	að
 öðru	foheþ	annar
 leyti	nheþ	leyti
@@ -3434,14 +3275,12 @@ vá	nven	vá
 steðjar	sfg3en	steðja
 að	aa	að
 .	.	.
-
 Viðkomandi	lvfnof	viðkomandi
 sveitarstjórnir	nvfn	sveitarstjórn
 ákveða	sfg3fn	ákveða
 fjölda	nkeo	fjöldi
 nefndarmanna	nkfe	nefndarmaður
 .	.	.
-
 Nefndir	nvfn	nefnd
 velja	sfg3fn	velja
 sér	fpvfþ	sig
@@ -3450,7 +3289,6 @@ formann	nkeo	formaður
 og	c	og
 varaformann	nkeo	varaformaður
 .	.	.
-
 Sveitarstjórnir	nvfn	sveitarstjórn
 bera	sfg3fn	bera
 kostnað	nkeo	kostnaður
@@ -3464,7 +3302,6 @@ starfsmenn	nkfo	starfsmaður
 til	ae	til
 þeirra	fpvfe	hún
 .	.	.
-
 Mynd	nven	mynd
 1	ta	1
 :	:	:
@@ -3476,7 +3313,6 @@ lögum	nhfþ	lag
 nr.	as	nr.
 94/1962	ta	94/1962
 .	.	.
-
 Núverandi	lhenof	núverandi
 skipurit	nhen	skipurit
 almannavarna	nvfe	almannavarnir
@@ -3489,7 +3325,6 @@ hér	aa	hér
 mynd	nveþ	mynd
 1	ta	1
 .	.	.
-
 Skipuritið	nheng	skipurit
 sýnir	sfg3en	sýna
 glöggt	aa	glöggt
@@ -3500,7 +3335,6 @@ undir	ao	undir
 ríkisstjórn	nveo	ríkisstjórn
 Íslands	nhee-s	Ísland
 .	.	.
-
 Það	fphen	það
 sýnir	sfg3en	sýna
 einnig	aa	einnig
@@ -3515,7 +3349,6 @@ almannavarna	nvfe	almannavarnir
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Á	aþ	á
 myndinni	nveþg	mynd
 sést	sfm3en	sjá
@@ -3538,7 +3371,6 @@ heilbrigðisráðherra	nken	heilbrigðisráðherra
 til	ae	til
 hægri	lveevf	hægri
 .	.	.
-
 Ríkisstjórnin	nveng	ríkisstjórn
 er	sfg3en	vera
 fjölskipað	lhensf	fjölskipaður
@@ -3561,7 +3393,6 @@ ber	sfg3en	bera
 stjórnsýslulega	lveosf	stjórnsýslulegur
 ábyrgð	nveo	ábyrgð
 .	.	.
-
 Ríkislögreglustjórinn	nkeng	ríkislögreglustjóri
 og	c	og
 verkefni	nhfn	verkefni
@@ -3572,14 +3403,12 @@ við	aa	við
 til	ae	til
 vinstri	lveevf	vinstri
 .	.	.
-
 Almannavarnaráð	nhen	almannavarnaráð
 er	sfg3en	vera
 óbeint	aa	óbeint
 tengt	sþghen	tengja
 ríkisstjórninni	nveþg	ríkisstjórn
 .	.	.
-
 Lögreglustjórar	nkfn	lögreglustjóri
 hafa	sfg3fn	hafa
 hlutverk	nheo	hlutverk
@@ -3591,7 +3420,6 @@ tengjast	sfm3fn	tengja
 beint	aa	beint
 ríkislögreglustjóra	nkeþ	ríkislögreglustjóri
 .	.	.
-
 Þar	aa	þar
 fyrir	aa	fyrir
 neðan	aa	neðan
@@ -3600,7 +3428,6 @@ almannavarnanefndir	nvfn	almannavarnanefnd
 í	aþ	í
 héraði	nheþ	hérað
 .	.	.
-
 Lengst	aae	lengi
 til	ae	til
 hægri	lveevf	hægri
@@ -3615,7 +3442,6 @@ sóttvarnalæknir	nken	sóttvarnalæknir
 og	c	og
 heilbrigðisstofnanir	nvfn	heilbrigðisstofnun
 .	.	.
-
 Neðst	aae	neðar
 koma	sfg3fn	koma
 svo	aa	svo
@@ -3628,7 +3454,6 @@ skal	sfg3en	skulu
 hverju	foheþ	hver
 verksviði	nheþ	verksvið
 .	.	.
-
 Landlæknir	nken	landlæknir
 fer	sfg3en	fara
 með	ao	með
@@ -3638,7 +3463,6 @@ samkvæmt	aþ	samkvæmt
 gr.	as	gr.
 almannavarnalaga	nhfe	almannavarnalög
 .	.	.
-
 Um	ao	um
 er	sfg3en	vera
 ræða	sng	ræða
@@ -3659,7 +3483,6 @@ sjúkra	lkfesf	sjúkur
 og	c	og
 særðra	lkfesf	særður
 .	.	.
-
 Á	aþ	á
 verksviði	nheþ	verksvið
 landlæknis	nkee	landlæknir
@@ -3676,14 +3499,12 @@ sem	ct	sem
 heilsu	nveþ	heilsa
 manna	nkfe	maður
 .	.	.
-
 Sóttvarnalæknir	nken	sóttvarnalæknir
 fer	sfg3en	fara
 með	ao	með
 stjórn	nveo	stjórn
 sóttvarna	nvfe	sóttvörn
 .	.	.
-
 Forráðamönnum	nkfþ	forráðamaður
 heilbrigðisstofnana	nvfe	heilbrigðisstofnun
 ber	sfg3en	bera
@@ -3709,7 +3530,6 @@ móttöku	nveo	móttaka
 á	aþ	á
 hættutímum	nkfþ	hættutími
 .	.	.
-
 Þeim	fpkfþ	hann
 er	sfg3en	vera
 einnig	aa	einnig
@@ -3725,7 +3545,6 @@ og	c	og
 rekstri	nkeþ	rekstur
 varasjúkrahúsa	nhfe	varasjúkrahús
 .	.	.
-
 Ríkislögreglustjóra	nkeþ	ríkislögreglustjóri
 er	sfg3en	vera
 ætlað	sþghen	ætla
@@ -3750,7 +3569,6 @@ heyra	sfg3fn	heyra
 undir	ao	undir
 ríkisvaldið	nheog	ríkisvald
 .	.	.
-
 Helztu	lhfnve	helstur
 verkefni	nhfn	verkefni
 eru	sfg3fn	vera
@@ -3817,7 +3635,6 @@ við	ao	við
 hlutaðeigandi	lvfoof	hlutaðeigandi
 stofnanir	nvfo	stofnun
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 ríkislögreglustjóra	nkeþ	ríkislögreglustjóri
@@ -3860,7 +3677,6 @@ settar	sþgvfn	setja
 af	aþ	af
 ráðherra	nkeþ	ráðherra
 .	.	.
-
 Hann	fpken	hann
 skal	sfg3en	skulu
 og	c	og
@@ -3895,7 +3711,6 @@ almannavörnum	nvfþ	almannavarnir
 í	aþ	í
 héraði	nheþ	hérað
 .	.	.
-
 Loks	aa	loks
 sér	sfg3en	sjá
 ríkislögreglustjóri	nken	ríkislögreglustjóri
@@ -3909,7 +3724,6 @@ samráði	nheþ	samráð
 við	ao	við
 hann	fpkeo	hann
 .	.	.
-
 Hlutverk	nhen	hlutverk
 almannavarnanefnda	nvfe	almannavarnanefnd
 samkvæmt	aþ	samkvæmt
@@ -3939,7 +3753,6 @@ af	aþ	af
 annarri	foveþ	annar
 vá	nveþ	vá
 .	.	.
-
 Hlutverk	nhen	hlutverk
 þeirra	fpvfe	hún
 er	sfg3en	vera
@@ -3956,7 +3769,6 @@ ríkislögreglustjóra	nkeo	ríkislögreglustjóri
 og	c	og
 almannavarnaráð	nheo	almannavarnaráð
 .	.	.
-
 Helztu	lvfnve	helstur
 ráðstafanir	nvfn	ráðstöfun
 sem	ct	sem
@@ -4006,7 +3818,6 @@ leiðbeiningar	nvfo	leiðbeining
 því	faheþ	sá
 sviði	nheþ	svið
 .	.	.
-
 Þeim	fpvfþ	hún
 er	sfg3en	vera
 ætlað	sþghen	ætla
@@ -4046,7 +3857,6 @@ og	c	og
 rekstur	nkeo	rekstur
 birgðastöðva	nvfe	birgðastöð
 .	.	.
-
 Þær	fpvfn	hún
 skulu	sfg3fn	skulu
 einnig	aa	einnig
@@ -4074,9 +3884,7 @@ fengnum	lvfþsf	fenginn
 tillögum	nvfþ	tillaga
 ríkislögreglustjóra	nkee	ríkislögreglustjóri
 .	.	.
-
 2.2.	ta	2.2.
-
 Skipulag	nhen	skipulag
 almannavarna	nvfe	almannavarnir
 í	aþ	í
@@ -4094,7 +3902,6 @@ en	c	en
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Þar	aa	þar
 er	sfg3en	vera
 ein	tfven	einn
@@ -4116,7 +3923,6 @@ en	c	en
 Almannavarnadeild	nven-s	almannavarnadeild
 ríkislögreglustjóra	nkee	ríkislögreglustjóri
 .	.	.
-
 Undir	ao	undir
 stofnunina	nveog	stofnun
 falla	sfg3fn	falla
@@ -4132,9 +3938,7 @@ ber	sfg3en	bera
 öllu	foheþ	allur
 viðbúnaðarskipulagi	nheþ	viðbúnaðarskipulag
 .	.	.
-
 2.2.1.	ta	2.2.1.
-
 Almennt	lhensf	almennur
 um	ao	um
 viðbúnaðarskipulag	nheo	viðbúnaðarskipulag
@@ -4157,7 +3961,6 @@ umræður	nvfo	umræða
 danska	lheþvf	danskur
 löggjafarþinginu	nheþg	löggjafarþing
 .	.	.
-
 Þau	fphfn	það
 nefnast	sfm3fn	nefna
 viðbúnaðarlögin	nhfng	viðbúnaðarlag
@@ -4167,7 +3970,6 @@ d	x	d
 Beredskabsloven	e	Beredskabsloven
 )	)	)
 .	.	.
-
 Í	aþ	í
 1.	ta	1.
 gr.	as	gr.
@@ -4210,7 +4012,6 @@ og	c	og
 hamfarir	nvfn	hamför
 verða	sfg3fn	verða
 .	.	.
-
 Undir	ao	undir
 lögin	nhfog	lag
 falla	sfg3fn	falla
@@ -4228,7 +4029,6 @@ hætta	nven	hætta
 þessum	fakfþ	þessi
 atburðum	nkfþ	atburður
 .	.	.
-
 Björgunaraðgerðum	nvfþ	björgunaraðgerð
 sem	ct	sem
 gripið	sþghen	grípa
@@ -4259,7 +4059,6 @@ sem	ct	sem
 kostur	nken	kostur
 er	sfg3en	vera
 .	.	.
-
 Í	aþ	í
 Danmörku	nveþ-s	Danmörk
 er	sfg3en	vera
@@ -4268,7 +4067,6 @@ Viðbúnaðarstjórnin	nvengs	Viðbúnaðarstjórn
 fyrir	aþ	fyrir
 almannavörnum	nvfþ	almannavarnir
 .	.	.
-
 Viðbúnaðarstjórnin	nvengs	viðbúnaðarstjórn
 heyrði	sfg3eþ	heyra
 í	aþ	í
@@ -4297,7 +4095,6 @@ frá	aþ	frá
 maí	nkeþ	maí
 1982	ta	1982
 .	.	.
-
 Ný	lhfnsf	nýr
 stofnlög	nhfn	stofnlög
 um	ao	um
@@ -4315,7 +4112,6 @@ Viðbúnaðarstjórnarinnar	nveegs	Viðbúnaðarstjórnin
 undir	ao	undir
 varnarmálaráðherra	nkeo	varnarmálaráðherra
 .	.	.
-
 Viðbúnaðarlögin	nhfng	viðbúnaðarlag
 komu	sfg3fþ	koma
 í	ao	í
@@ -4335,7 +4131,6 @@ um	ao	um
 borgaralega	lheovf	borgaralegur
 viðbúnaðarliðið	nheog	viðbúnaðarlið
 .	.	.
-
 Æðsta	lvenve	æðri
 stjórn	nven	stjórn
 á	aþ	á
@@ -4359,7 +4154,6 @@ varnarmálaráðherra	nkee	varnarmálaráðherra
 á	aþ	á
 landsvísu	nveþ	landsvísa
 .	.	.
-
 Það	fphen	það
 tekur	sfg3en	taka
 til	ae	til
@@ -4369,7 +4163,6 @@ kjarnorku-	nvfþ	kjarnorkustofa
 og	c	og
 efnafræðistofum	nvfþ	efnafræðistofa
 .	.	.
-
 Varnarmálaráðherra	nken	varnarmálaráðherra
 hefur	sfg3en	hafa
 heimild	nveo	heimild
@@ -4409,7 +4202,6 @@ eignir	nvfo	eign
 eða	c	eða
 umhverfi	nheo	umhverfi
 .	.	.
-
 Í	aþ	í
 Danmörku	nveþ-s	Danmörk
 voru	sfg3fþ	vera
@@ -4435,7 +4227,6 @@ almannavarnanefndir	nvfo	almannavarnanefnd
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Björgunarnefndunum	nvfþg	björgunarnefnd
 er	sfg3en	vera
 ætlað	sþghen	ætla
@@ -4469,7 +4260,6 @@ yfirgefið	ssg	yfirgefa
 heimili	nhfo	heimili
 sín	fehfo	sinn
 .	.	.
-
 Þeim	fpvfþ	hún
 er	sfg3en	vera
 jafnframt	aa	jafnframt
@@ -4483,7 +4273,6 @@ af	aþ	af
 völdum	nhfþ	vald
 náttúruhamfara	nvfe	náttúruhamfarir
 .	.	.
-
 Sveitarfélögum	nhfþ	sveitarfélag
 í	aþ	í
 Danmörku	nveþ-s	Danmörk
@@ -4496,9 +4285,7 @@ hinn	gkeo	hinn
 janúar	nkeo	janúar
 2007	ta	2007
 .	.	.
-
 2.2.2.	ta	2.2.2.
-
 Skipulag	nhen	skipulag
 á	aþ	á
 friðartímum	nkfþ	friðartími
@@ -4513,7 +4300,6 @@ svæðismiðstöðvum	nvfþ	svæðismiðstöð
 fyrir	ao	fyrir
 ríkisbjörgunarsveitir	nvfo	ríkisbjörgunarsveit
 .	.	.
-
 Þegar	c	þegar
 að	aþ	að
 því	fpheþ	það
@@ -4537,7 +4323,6 @@ mun	nkeþ	munur
 yfirgripsmeiri	lhfovm	yfirgripsmikill
 viðbrögð	nhfo	viðbragð
 .	.	.
-
 Skipulag	nhen	skipulag
 kerfisins	nheeg	kerfi
 í	aþ	í
@@ -4565,7 +4350,6 @@ koma	sfg3fn	koma
 að	aþ	að
 björgun	nveþ	björgun
 .	.	.
-
 Niðurstaðan	nveng	niðurstaða
 er	sfg3en	vera
 sú	faven	sá
@@ -4583,7 +4367,6 @@ miðlæg	lvensf	miðlægur
 á	aþ	á
 landsvísu	nveþ	landsvísa
 .	.	.
-
 Með	aþ	með
 samþættu	lheþsf	samþættur
 skipulagi	nheþ	skipulag
@@ -4610,7 +4393,6 @@ eru	sfg3fn	vera
 á	aþ	á
 friðartímum	nkfþ	friðartími
 .	.	.
-
 Verkefni	nhfn	verkefni
 á	aþ	á
 stríðstímum	nkfþ	stríðstími
@@ -4634,7 +4416,6 @@ að	c	að
 dynji	svg3fn	dynja
 yfir	aa	yfir
 .	.	.
-
 Í	aþ	í
 grundvallaratriðum	nhfþ	grundvallaratriði
 er	sfg3en	vera
@@ -4693,7 +4474,6 @@ stig	nhen	stig
 1	ta	1
 )	)	)
 .	.	.
-
 Björgunarmiðstöðvarnar	nvfng	björgunarmiðstöð
 sjö	tfvfn	sjö
 og	c	og
@@ -4729,7 +4509,6 @@ stig	nhen	stig
 2	ta	2
 )	)	)
 .	.	.
-
 Komi	svg3en	koma
 til	ae	til
 þess	fphee	það
@@ -4759,7 +4538,6 @@ stig	nhen	stig
 3	ta	3
 )	)	)
 .	.	.
-
 Sá	faken	sá
 möguleiki	nken	möguleiki
 er	sfg3en	vera
@@ -4783,7 +4561,6 @@ aðstoð	nveþ	aðstoð
 frá	aþ	frá
 ríkisbjörgunarsveitunum	nvfþg	ríkisbjörgunarsveit
 .	.	.
-
 Til	ae	til
 viðbótar	nvee	viðbót
 er	sfg3en	vera
@@ -4814,7 +4591,6 @@ telst	sfm3en	telja
 henta	sng	henta
 betur	aam	vel
 .	.	.
-
 Í	aþ	í
 Danmörku	nveþ-s	Danmörk
 er	sfg3en	vera
@@ -4883,7 +4659,6 @@ við	ao	við
 kafla	nkeo	kafli
 viðbúnaðarlaganna	nhfeg	viðbúnaðarlag
 .	.	.
-
 Mynd	nven	mynd
 2	ta	2
 :	:	:
@@ -4892,7 +4667,6 @@ Viðbúnaðarstjórnarinnar	nveegs	Viðbúnaðarstjórnin
 í	aþ	í
 Danmörku	nveþ-s	Danmörk
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 skipuriti	nheþ	skipurit
 Viðbúnaðarstjórnarinnar	nveegs	Viðbúnaðarstjórnin
@@ -4910,7 +4684,6 @@ hvernig	aa	hvernig
 stofnunin	nveng	stofnun
 starfar	sfg3en	starfa
 .	.	.
-
 Hún	fpven	hún
 greinist	sfm3en	greina
 í	ao	í
@@ -4925,7 +4698,6 @@ aðgerðasvið	nheo	aðgerðasvið
 og	c	og
 stjórnunarsvið	nheo	stjórnunarsvið
 .	.	.
-
 Fyrsta	lhenve	fyrstur
 sviðið	nheng	svið
 sér	sfg3en	sjá
@@ -4940,7 +4712,6 @@ tölfræði	nveo	tölfræði
 og	c	og
 greiningu	nveo	greining
 .	.	.
-
 Annað	fohen	annar
 sviðið	nheng	svið
 sér	sfg3en	sjá
@@ -4962,14 +4733,12 @@ eiturefni	nhfn	eiturefni
 séu	svg3fn	vera
 vandamál	nhfn	vandamál
 .	.	.
-
 Stjórnsýslan	nveng	stjórnsýsla
 er	sfg3en	vera
 á	aþ	á
 þriðja	lheþvf	þriðji
 sviði	nheþ	svið
 .	.	.
-
 Í	aþ	í
 þessu	faheþ	þessi
 tilviki	nheþ	tilvik
@@ -4995,6 +4764,5 @@ undir	ao	undir
 stjórn	nveo	stjórn
 þess	fphee	það
 .	.	.
-
 Stoðdeildir	nvfn	stoðdeild
 sjá	sfg3fn	sjá

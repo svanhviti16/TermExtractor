@@ -1,6 +1,5 @@
 skipanir	nvfo	skipun
 .	.	.
-
 Hvernig	aa	hvernig
 urðu	sfg3fþ	verða
 fyrstu	lhfnve	fyrstur
@@ -8,7 +7,6 @@ forritin	nhfng	forrit
 þá	aa	þá
 til	aa	til
 '	'	'
-
 Af	aþ	af
 ofangreindu	lheþsf	ofangreindur
 ætti	svg3eþ	eiga
@@ -31,7 +29,6 @@ sé	svg3en	vera
 ekki	aa	ekki
 venjan	nveng	venja
 .	.	.
-
 Sé	svg3en	vera
 fólk	nhen	fólk
 tilbúið	lhensf	tilbúinn
@@ -47,7 +44,6 @@ tölvunnar	nveeg	tölva
 ekki	aa	ekki
 þýðanda	nkeo	þýðandi
 .	.	.
-
 Sömuleiðis	aa	sömuleiðis
 er	sfg3en	vera
 ritill	nken	ritill
@@ -70,7 +66,6 @@ staði	nkfo	staður
 minni	nheþ	minni
 tölvunnar	nveeg	tölva
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 hins	fakee	hinn
@@ -93,7 +88,6 @@ lengur	aam	lengi
 þennan	fakeo	þessi
 hátt	nkeo	háttur
 .	.	.
-
 Mönnum	nkfþ	maður
 gæti	svg3eþ	geta
 dottið	ssg	detta
@@ -128,7 +122,6 @@ beint	aa	beint
 á	aþ	á
 vélarmáli	nheþ	vélarmál
 .	.	.
-
 Það	fahen	sá
 svar	nhen	svar
 er	sfg3en	vera
@@ -138,7 +131,6 @@ ekki	aa	ekki
 alveg	aa	alveg
 rétt	lhensf	réttur
 .	.	.
-
 Þar	aa	þar
 sem	ct	sem
 þýðendur	nkfn	þýðandi
@@ -161,7 +153,6 @@ grunni	nkeþ	grunnur
 á	aþ	á
 vélarmáli	nheþ	vélarmál
 .	.	.
-
 Raunhæfari	lkenvm	raunhæfur
 möguleiki	nken	möguleiki
 væri	svg3eþ	vera
@@ -183,7 +174,6 @@ yfir	aa	yfir
 á	ao	á
 vélarmál	nheo	vélarmál
 .	.	.
-
 Síðan	aa	síðan
 væri	svg3eþ	vera
 hægt	lhensf	hægur
@@ -196,7 +186,6 @@ fullkomnari	lkeovm	fullkominn
 einfaldaða	lheþvf	einfaldaður
 forritunarmáli	nheþ	forritunarmál
 .	.	.
-
 Þennan	fakeo	þessi
 leik	nkeo	leikur
 væri	svg3eþ	vera
@@ -218,7 +207,6 @@ stærri	lkeovm	stór
 hluta	nkeo	hluti
 forritunarmálsins	nheeg	forritunarmál
 .	.	.
-
 Að	aþ	að
 lokum	nhfþ	lok
 væri	svg3eþ	vera
@@ -233,7 +221,6 @@ er	sfg3en	vera
 málinu	nheþg	mál
 sjálfu	fbheþ	sjálfur
 !	!	!
-
 Þetta	fahen	þessi
 hljómar	sfg3en	hljóma
 eins	aa	eins
@@ -250,12 +237,10 @@ nú	aa	nú
 dögum	nkfþ	dagur
 smíðaðir	sþgkfn	smíða
 .	.	.
-
 Frekara	lhenvm	frekur
 lesefni	nhen	lesefni
 og	c	og
 myndir	nvfn	mynd
-
 o	x	o
 Er	sfg3en	vera
 erfitt	lhensf	erfiður
@@ -263,12 +248,10 @@ að	cn	að
 læra	sng	læra
 forritun	nveo	forritun
 ?	?	?
-
 eftir	ao	eftir
 Snorra	nkeo-s	Snorri
 Agnarsson	nkeo-s	Agnarsson
 .	.	.
-
 o	x	o
 Hvað	fshen	hver
 er	sfg3en	vera
@@ -281,12 +264,10 @@ er	sfg3en	vera
 hún	fpven	hún
 notuð	sþgven	nota
 ?	?	?
-
 eftir	ao	eftir
 Daða	nkeo-s	Daði
 Ingólfsson	nkeo-s	Ingólfsson
 .	.	.
-
 o	x	o
 Hvenær	aa	hvenær
 var	sfg3eþ	vera
@@ -295,18 +276,15 @@ forritunarmálið	nheng	forritunarmál
 fundið	sþghen	finna
 upp	aa	upp
 ?	?	?
-
 Er	sfg3en	vera
 það	fphen	það
 enn	aa	enn
 notað	sþghen	nota
 ?	?	?
-
 eftir	ao	eftir
 Snorra	nkeo-s	Snorri
 Agnarsson	nkeo-s	Agnarsson
 .	.	.
-
 o	x	o
 Hvernig	aa	hvernig
 virka	sfg3fn	virka
@@ -315,12 +293,10 @@ til	ae	til
 dæmis	nhee	dæmi
 C++	x	c++
 ?	?	?
-
 eftir	ao	eftir
 Hjálmtý	nkeo-s	Hjálmtýr
 Hafsteinsson	nkeo-s	Hafsteinsson
 .	.	.
-
 Upphaflegu	lvfnvf	upphaflegur
 spurningarnar	nvfng	spurning
 voru	sfg3fþ	vera
@@ -336,7 +312,6 @@ hendir	sfg3en	henda
 af	aþ	af
 tölvu	nveþ	tölva
 ?	?	?
-
 (	(	(
 Jóhannes	nken-s	Jóhannes
 Ari	nken-s	Ari
@@ -357,7 +332,6 @@ eyðir	sfg3en	eyða
 í	aþ	í
 tölvum	nvfþ	tölva
 ?	?	?
-
 Er	sfg3en	vera
 hægt	lhensf	hægur
 að	cn	að
@@ -365,7 +339,6 @@ eyða	sng	eyða
 þeim	fpvfþ	hún
 alveg	aa	alveg
 ?	?	?
-
 (	(	(
 Ólafur	nken-s	Ólafur
 Jónsson	nken-s	Jónsson
@@ -380,7 +353,6 @@ skrám	nvfþ	skrá
 í	aþ	í
 tölvum	nvfþ	tölva
 ?	?	?
-
 (	(	(
 Vignir	nken-s	Vignir
 Stefánsson	nken-s	Stefánsson
@@ -397,7 +369,6 @@ hendir	sfg3en	henda
 af	aþ	af
 tölvunni	nveþg	tölva
 ?	?	?
-
 Fer	sfg3en	fara
 það	fphen	það
 inn	aa	inn
@@ -406,7 +377,6 @@ einhvern	fokeo	einhver
 harðan	lkeosf	harður
 disk	nkeo	diskur
 ?	?	?
-
 Ef	c	ef
 það	fphen	það
 fer	sfg3en	fara
@@ -415,7 +385,6 @@ fyllist	sfm3en	fylla
 hann	fpken	hann
 aldrei	aa	aldrei
 ?	?	?
-
 (	(	(
 Ari	nken-s	Ari
 Ágústsson	nken-s	Ágústsson
@@ -433,7 +402,6 @@ hlutum	nkfþ	hluti
 í	aþ	í
 tölvu	nveþ	tölva
 ?	?	?
-
 Hvert	aa	hvert
 fara	sfg3fn	fara
 hlutirnir	nkfng	hlutur
@@ -441,7 +409,6 @@ sem	ct	sem
 maður	nken	maður
 hendir	sfg3en	henda
 ?	?	?
-
 (	(	(
 Jóhann	nken-s	Jóhann
 Garðar	nken-s	Garðar
@@ -456,7 +423,6 @@ virkar	sfg3en	virka
 Recycle	e	Recycle
 Bin	e	Bin
 ?	?	?
-
 Eyðast	sfm3fn	eyða
 gögnin	nhfng	gagn
 ekki	aa	ekki
@@ -469,7 +435,6 @@ hefur	sfg3en	hafa
 tæmt	ssg	tæma
 ruslatunnuna	nveog	ruslatunna
 ?	?	?
-
 (	(	(
 Andri	nken-s	Andri
 Pálsson	nken-s	Pálsson
@@ -489,17 +454,14 @@ hefur	sfg3en	hafa
 verið	ssg	vera
 hent	sþghen	henda
 ?	?	?
-
 (	(	(
 Andri	nken-s	Andri
 Pálsson	nken-s	Pálsson
 )	)	)
-
 Hvernig	aa	hvernig
 geymast	sfm3fn	geyma
 skrár	nvfn	skrá
 ?	?	?
-
 Til	ae	til
 að	cn	að
 skilja	sng	skilja
@@ -527,7 +489,6 @@ vistaðar	sþgvfn	vista
 í	aþ	í
 tölvum	nvfþ	tölva
 .	.	.
-
 Hér	aa	hér
 verður	sfg3en	verða
 miðað	sþghen	miða
@@ -551,7 +512,6 @@ og	c	og
 Mac	e	Mac
 OS	as	OS
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -574,13 +534,11 @@ tölvum	nvfþ	tölva
 í	ao	í
 dag	nkeo	dagur
 ?	?	?
-
 eftir	ao	eftir
 EÖÞ	as	EÖÞ
 og	c	og
 ÞV	as	ÞV
 .	.	.
-
 Þegar	c	þegar
 skrá	nven	skrá
 er	sfg3en	vera
@@ -615,7 +573,6 @@ e.	as	e.
 cluster	e	cluster
 )	)	)
 .	.	.
-
 Í	aþ	í
 Windows	e	Windows
 XP	as	XP
@@ -632,7 +589,6 @@ eða	c	eða
 4096	ta	4096
 bæti	nhfn	bæti
 .	.	.
-
 Ef	c	ef
 skrá	nven	skrá
 inniheldur	sfg3en	innihalda
@@ -663,7 +619,6 @@ geymsluplássi	nheþ	geymslupláss
 á	aþ	á
 disknum	nkeþg	diskur
 .	.	.
-
 Fyrri	lkenvm	fyrri
 klasinn	nkeng	klasi
 inniheldur	sfg3en	innihalda
@@ -679,7 +634,6 @@ er	sfg3en	vera
 904	ta	904
 bæti	nhfn	bæti
 .	.	.
-
 Stórar	lvfnsf	stór
 skrár	nvfn	skrá
 geta	sfg3fn	geta
@@ -689,7 +643,6 @@ yfir	ao	yfir
 marga	lkfosf	margur
 klasa	nkfo	klasi
 .	.	.
-
 Þegar	c	þegar
 skrá	nven	skrá
 er	sfg3en	vera
@@ -711,7 +664,6 @@ rúma	sng	rúma
 alla	foveo	allur
 skrána	nveog	skrá
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 þó	aa	þó
@@ -719,7 +671,6 @@ ekki	aa	ekki
 alltaf	aa	alltaf
 hægt	lhensf	hægur
 .	.	.
-
 Þegar	c	þegar
 diskurinn	nkeng	diskur
 er	sfg3en	vera
@@ -740,7 +691,6 @@ vegar	nkee	vegur
 um	ao	um
 diskinn	nkeog	diskur
 .	.	.
-
 Stýrikerfið	nheng	stýrikerfi
 heldur	sfg3en	halda
 utan	aa	utan
@@ -759,7 +709,6 @@ skuli	svg3fn	skulu
 raðast	snm	raða
 saman	aa	saman
 .	.	.
-
 Vandamálið	nheng	vandamál
 við	ao	við
 þetta	faheo	þessi
@@ -786,7 +735,6 @@ upp	aa	upp
 einstaka	lkfosf	einstakur
 klasa	nkfo	klasi
 .	.	.
-
 Þar	aa	þar
 sem	c	sem
 leshausarnir	nkfng	leshaus
@@ -802,7 +750,6 @@ fyrir	aþ	fyrir
 lestri	nkeþ	lestur
 skráarinnar	nveeg	skrá
 .	.	.
-
 Þegar	c	þegar
 þetta	fahen	þessi
 gerist	sfm3en	gera
@@ -819,7 +766,6 @@ e.	as	e.
 fragmented	e	fragmented
 )	)	)
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -854,7 +800,6 @@ enn	aa	enn
 eru	sfg3fn	vera
 lausir	lkfnsf	laus
 .	.	.
-
 Þessi	faven	þessi
 aðgerð	nven	aðgerð
 kallast	sfm3en	kalla
@@ -887,7 +832,6 @@ hver	foken	hver
 á	aþ	á
 disknum	nkeþg	diskur
 .	.	.
-
 Þetta	fahen	þessi
 getur	sfg3en	geta
 verið	ssg	vera
@@ -900,13 +844,11 @@ er	sfg3en	vera
 mjög	aa	mjög
 tvístraður	lkensf	tvístraður
 .	.	.
-
 Hvernig	aa	hvernig
 er	sfg3en	vera
 skrám	nvfþ	skrá
 hent	sþghen	henda
 '	'	'
-
 Fyrir	ao	fyrir
 hverja	foveo	hver
 skrá	nveo	skrá
@@ -930,7 +872,6 @@ disknum	nkeþg	diskur
 þeir	fpkfn	hann
 eru	sfg3fn	vera
 .	.	.
-
 Ef	c	ef
 skrá	nveþ	skrá
 er	sfg3en	vera
@@ -958,7 +899,6 @@ recycle	e	recycle
 bin	e	bin
 )	)	)
 .	.	.
-
 Ruslafatan	nveng	ruslafata
 er	sfg3en	vera
 sérstakt	lhensf	sérstakur
@@ -977,7 +917,6 @@ ná	sng	ná
 hana	fpveo	hún
 aftur	aa	aftur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 því	aa	því
@@ -1001,7 +940,6 @@ leiðrétta	sng	leiðrétta
 hugsanleg	lhfosf	hugsanlegur
 mistök	nhfo	mistök
 .	.	.
-
 Gallinn	nkeng	galli
 við	ao	við
 þessa	faveo	þessi
@@ -1024,7 +962,6 @@ aðeins	aa	aðeins
 færð	sþgven	færa
 til	aa	til
 .	.	.
-
 Ekki	aa	ekki
 fara	sfg3fn	fara
 allar	fovfn	allur
@@ -1033,7 +970,6 @@ skrár	nvfn	skrá
 í	ao	í
 ruslafötuna	nveog	ruslafata
 .	.	.
-
 Dæmi	nhen	dæmi
 um	ao	um
 þetta	faheo	þessi
@@ -1074,7 +1010,6 @@ annarri	foveþ	annar
 samnefndri	lveþsf	samnefndur
 skrá	nveþ	skrá
 .	.	.
-
 Sama	fbhen	sami
 gildir	sfg3en	gilda
 auðvitað	aa	auðvitað
@@ -1090,7 +1025,6 @@ sem	ct	sem
 þar	aa	þar
 eru	sfg3fn	vera
 .	.	.
-
 Hvað	fshen	hver
 gerist	sfm3en	gera
 þá	aa	þá
@@ -1109,7 +1043,6 @@ við	ao	við
 tæmingu	nveo	tæming
 hennar	fpvee	hún
 ?	?	?
-
 Í	aþ	í
 rauninni	nveþg	raun
 er	sfg3en	vera
@@ -1117,7 +1050,6 @@ er	sfg3en	vera
 frekar	aam	frekar
 lítið	lhensf	lítill
 .	.	.
-
 Stýrikerfið	nheng	stýrikerfi
 merkir	sfg3en	merkja
 skrána	nveog	skrá
@@ -1141,7 +1073,6 @@ til	ae	til
 á	aa	á
 ný	aa	ný
 .	.	.
-
 Þetta	fahen	þessi
 þýðir	sfg3en	þýða
 að	c	að
@@ -1161,7 +1092,6 @@ ennþá	aa	ennþá
 á	aþ	á
 tölvunni	nveþg	tölva
 .	.	.
-
 Þær	fpvfn	hún
 eru	sfg3fn	vera
 þó	aa	þó
@@ -1177,7 +1107,6 @@ aðgang	nkeo	aðgangur
 að	aþ	að
 þeim	fpvfþ	hún
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 eru	sfg3fn	vera
@@ -1200,7 +1129,6 @@ eru	sfg3fn	vera
 til	aa	til
 um	aa	um
 .	.	.
-
 Flest	lhfose	margur
 slík	fbhfo	slíkur
 forrit	nhfo	forrit
@@ -1217,7 +1145,6 @@ og	c	og
 File	e	File
 Recover	e	Recover
 .	.	.
-
 Eyði	svg3en	eyða
 maður	nken	maður
 skrá	nveþ	skrá
@@ -1237,7 +1164,6 @@ hér	aa	hér
 á	aa	á
 undan	aa	undan
 .	.	.
-
 Þar	aa	þar
 sem	ct	sem
 klasar	nkfn	klasi
@@ -1262,7 +1188,6 @@ eyddu	lveþvf	eyddur
 skránni	nveþg	skrá
 glatast	ssm	glata
 .	.	.
-
 Endurgerðarforritin	nhfng	endurgerðarforrit
 skoða	sfg3fn	skoða
 lausa	lkfosf	laus
@@ -1280,7 +1205,6 @@ geymdar	sþgvfn	geyma
 í	aþ	í
 þeim	fpkfþ	hann
 .	.	.
-
 Ef	c	ef
 fólk	nhen	fólk
 hefur	sfg3en	hafa
@@ -1322,7 +1246,6 @@ að	cn	að
 ná	sng	ná
 tilbaka	aa	tilbaka
 !	!	!
-
 Stundum	aa	stundum
 vill	sfg3en	vilja
 fólk	nhen	fólk
@@ -1343,7 +1266,6 @@ ná	sng	ná
 hana	fpveo	hún
 aftur	aa	aftur
 .	.	.
-
 Enn	aa	enn
 sem	c	sem
 komið	sþghen	koma
@@ -1356,7 +1278,6 @@ upp	aa	upp
 á	ao	á
 slíkt	fbheo	slíkur
 .	.	.
-
 Það	fahen	sá
 sem	ct	sem
 þarf	sfg3en	þurfa
@@ -1392,7 +1313,6 @@ hér	aa	hér
 á	aa	á
 undan	aa	undan
 .	.	.
-
 Til	aa	til
 eru	sfg3fn	vera
 forrit	nhfn	forrit
@@ -1401,7 +1321,6 @@ gera	sfg3fn	gera
 einmitt	aa	einmitt
 þetta	faheo	þessi
 .	.	.
-
 Nokkur	fohfn	nokkur
 þeirra	fphfe	það
 eru	sfg3fn	vera
@@ -1412,7 +1331,6 @@ dæmis	nhee	dæmi
 forritið	nheng	forrit
 Eraser	e	Eraser
 .	.	.
-
 Ef	c	ef
 miðað	sþghen	miða
 er	sfg3en	vera
@@ -1432,7 +1350,6 @@ klasana	nkfog	klasi
 einu	tfheþ	einn
 sinni	nheþ	sinn
 .	.	.
-
 Samt	aa	samt
 eru	sfg3fn	vera
 til	ae	til
@@ -1462,7 +1379,6 @@ skrifuð	sþghfn	skrifa
 á	ao	á
 hann	fpkeo	hann
 .	.	.
-
 Þess	fphee	það
 vegna	ae	vegna
 ráðleggur	sfg3en	ráðleggja
@@ -1502,7 +1418,6 @@ var	sfg3eþ	vera
 á	ao	á
 þá	fpkfo	hann
 .	.	.
-
 Frekara	lhenvm	frekur
 lesefni	nhen	lesefni
 á	aþ	á
@@ -1519,19 +1434,16 @@ diskar	nkfn	diskur
 í	aþ	í
 tölvum	nvfþ	tölva
 ?	?	?
-
 eftir	ao	eftir
 Hildi	nveo-s	Hildur
 Guðmundsdóttur.	nveo-s	Guðmundsdóttir
 .	.	.
-
 aldar	nvee	öld
 er	sfg3en	vera
 talað	sþghen	tala
 um	ao	um
 píningarhistoríuna	nveog	píningarhistoría
 .	.	.
-
 (	(	(
 Sjá	sng	sjá
 Íslenzkt	lheosf	íslenskur
@@ -1544,7 +1456,6 @@ og	c	og
 190	ta	190
 )	)	)
 .	.	.
-
 Þessi	faven	þessi
 passía	nven	passía
 eða	c	eða
@@ -1589,7 +1500,6 @@ athygli	nveþ	athygli
 saman	aa	saman
 lesin	sþgven	lesa
 .	.	.
-
 Þegar	c	þegar
 farið	sþghen	fara
 var	sfg3eþ	vera
@@ -1614,7 +1524,6 @@ fram	aa	fram
 19.	ta	19.
 öld	nveo	öld
 .	.	.
-
 Síðan	aa	síðan
 á	aþ	á
 19.	ta	19.
@@ -1634,7 +1543,6 @@ með	aþ	með
 Passíusálmanna	nkfegs	Passíusálmur
 1991	ta	1991
 .	.	.
-
 Hallgrímur	nken-s	Hallgrímur
 Pétursson	nken-s	Pétursson
 orti	sfg3eþ	yrkja
@@ -1654,7 +1562,6 @@ um	ao	um
 hans	fpkee	hann
 daga	nkfo	dagur
 .	.	.
-
 Sálmar	nkfn	sálmur
 hans	fpkee	hann
 hafa	sfg3fn	hafa
@@ -1678,7 +1585,6 @@ heitum	nhfþ	heiti
 mismunandi	lvfþof	mismunandi
 útgáfum	nvfþ	útgáfa
 .	.	.
-
 Á	aþ	á
 vef	nkeþ	vefur
 Ríkisútvarpsins	nheegs	Ríkisútvarp
@@ -1696,7 +1602,6 @@ og	c	og
 heiti	nhfo	heiti
 Passíusálmanna	nkfegs	Passíusálmur
 .	.	.
-
 Á	aþ	á
 barokktímanum	nkeþg	barokktími
 sömdu	sfg3fþ	semja
@@ -1712,7 +1617,6 @@ og	c	og
 nefndu	sfg3fþ	nefna
 Passion	e	Passion
 .	.	.
-
 Frægust	lhfnse	frægur
 eru	sfg3fn	vera
 að	aþ	að
@@ -1741,7 +1645,6 @@ Matteusarpassían	nvengs	Matteusarpassía
 og	c	og
 Jóhannesarpassían	nvengs	Jóhannesarpassía
 .	.	.
-
 Að	aþ	að
 kristnum	lkeþsf	kristinn
 skilningi	nkeþ	skilningur
@@ -1761,7 +1664,6 @@ finna	sng	finna
 í	aþ	í
 Biblíunni	nveþgs	Biblía
 .	.	.
-
 Í	aþ	í
 Gamla	lheþvf	gamall
 testamentinu	nheþg	testamenti
@@ -1780,7 +1682,6 @@ kraft	nkeo	kraftur
 frá	aþ	frá
 Guði	nkeþ-s	Guð
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 nefndur	sþgken	nefna
@@ -1822,12 +1723,10 @@ munns	nkee	munnur
 hans	fpkee	hann
 .	.	.
 »	»	»
-
 (	(	(
 Sálmur	nken	sálmur
 33.6	ta	33.6
 )	)	)
-
 Oftast	aae	oft
 er	sfg3en	vera
 í	aþ	í
@@ -1856,7 +1755,6 @@ vinna	sng	vinna
 ákveðin	lhfosf	ákveðinn
 verk	nhfo	verk
 .	.	.
-
 Dómararnir	nkfng	dómari
 í	aþ	í
 Ísrael	nheþ-s	Ísrael
@@ -1897,7 +1795,6 @@ Dómarabókin	nvengs	dómarabók
 kap.	as	kap.
 )	)	)
 .	.	.
-
 Konungurinn	nkeng	konungur
 í	aþ	í
 Ísrael	nheþ-s	Ísrael
@@ -1913,7 +1810,6 @@ var	sfg3eþ	vera
 honum	fpkeþ	hann
 gefinn	sþgken	gefa
 .	.	.
-
 Í	aþ	í
 samræmi	nheþ	samræmi
 við	ao	við
@@ -1926,14 +1822,12 @@ hinn	gken	hinn
 smurði	lkenvf	smurður
 Drottins	nkee-s	Drottinn
 .	.	.
-
 Eins	aa	eins
 fengu	sfg3fþ	fá
 spámenn	nkfn	spámaður
 heilagan	lkeosf	heilagur
 anda	nkeo	andi
 .	.	.
-
 Þegar	c	þegar
 Ísraelsþjóðin	nvengs	Ísraelsþjóð
 var	sfg3eþ	vera
@@ -1959,7 +1853,6 @@ hlutverk	nheo	hlutverk
 sem	ct	sem
 þjóðar	nvee	þjóð
 .	.	.
-
 Stofnanirnar	nvfng	stofnun
 sem	ct	sem
 hún	fpven	hún
@@ -1977,7 +1870,6 @@ voru	sfg3fþ	vera
 báðar	fovfn	báðir
 horfnar	lvfnsf	horfinn
 .	.	.
-
 Spámennirnir	nkfng	spámaður
 fengu	sfg3fþ	fá
 þjóðina	nveog	þjóð
@@ -2015,7 +1907,6 @@ syndar	nvee	synd
 og	c	og
 dauða	nkee	dauði
 .	.	.
-
 Hugtakið	nheng	hugtak
 Messías	nken-s	Messías
 tók	sfg3eþ	taka
@@ -2030,7 +1921,6 @@ eftir	aa	eftir
 að	cn	að
 koma	sng	koma
 .	.	.
-
 Nýja	lhenvf	nýr
 testamentið	nheng	testamenti
 lítur	sfg3en	líta
@@ -2046,7 +1936,6 @@ ræst	ssg	ræsa
 í	aþ	í
 Jesú	nkeþ-s	Jesús
 .	.	.
-
 Allt	fohen	allur
 Nýja	lhenvf	nýr
 testamentið	nheng	testamenti
@@ -2064,7 +1953,6 @@ hinn	gken	hinn
 fyrirheitni	lkenvf	fyrirheitinn
 Messías	nken-s	Messías
 .	.	.
-
 Og	c	og
 á	aþ	á
 grundvelli	nkeþ	grundvöllur
@@ -2106,7 +1994,6 @@ fylgjenda	nkfe	fylgjandi
 sinna	fekfe	sinn
 .	.	.
 »	»	»
-
 Áður	aa	áður
 en	c	en
 Jesús	nken-s	Jesús
@@ -2164,7 +2051,6 @@ Jóhannesarguðspjall	nhen-s	Jóhannesarguðspjall
 14.16-17	ta	14.16-17
 )	)	)
 .	.	.
-
 Þessi	faken	þessi
 sannleiksandi	nken	sannleiksandi
 á	sfg3en	eiga
@@ -2187,7 +2073,6 @@ orðum	nhfþ	orð
 og	c	og
 verkum	nhfþ	verk
 .	.	.
-
 Í	aþ	í
 Postulasögunni	nveþgs	Postulasaga
 2.	ta	2.
@@ -2202,7 +2087,6 @@ hvernig	aa	hvernig
 fyrirheit	nhen	fyrirheit
 rættist	sfm3eþ	ræta
 .	.	.
-
 Páll	nken-s	Páll
 postuli	nken	postuli
 lýsir	sfg3en	lýsa
@@ -2246,7 +2130,6 @@ hógværð	nven	hógværð
 bindindi	nhen	bindindi
 .	.	.
 »	»	»
-
 (	(	(
 Galatabréfið	nhengs	Galatabréf
 5.22	ta	5.22
@@ -2264,7 +2147,6 @@ andi	nken	andi
 lifandi	lvenof	lifandi
 persóna	nven	persóna
 .	.	.
-
 Hann	fpken	hann
 gefst	sfm3en	gefa
 okkur	fp1fþ	ég
@@ -2282,7 +2164,6 @@ göngum	sfg1fn	ganga
 til	ae	til
 altaris	nhee	altari
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 heilagur	lkensf	heilagur
@@ -2302,7 +2183,6 @@ starfa	sng	starfa
 nafni	nheþ	nafn
 hans	fpkee	hann
 .	.	.
-
 Það	fphen	það
 eru	sfg3fn	vera
 margar	lvfnsf	margur
@@ -2321,7 +2201,6 @@ sálmar	nkfn	sálmur
 nr.	as	nr.
 329-335	ta	329-335
 .	.	.
-
 Sálmurinn	nkeng	sálmur
 nr.	as	nr.
 335	ta	335
@@ -2341,7 +2220,6 @@ hlutverk	nheo	hlutverk
 heilags	lkeesf	heilagur
 anda	nkee	andi
 :	:	:
-
 Guð	nken-s	Guð
 helgur	lkensf	helgur
 andi	nken	andi
@@ -2378,12 +2256,10 @@ burt	aa	burt
 er	c	er
 förum	sfg1fn	fara
 .	.	.
-
 Streym	sbg2en	streyma
 þú	fp2en	þú
 líknarlind	nven	líknarlind
 .	.	.
-
 Þú	fp2en	þú
 blessað	lhensf	blessaður
 ljós	nhen	ljós
@@ -2398,7 +2274,6 @@ undir	ao	undir
 Jesú	nkee-s	Jesús
 kross	nkeo	kross
 .	.	.
-
 Veit	sbg2en	veita
 oss	fp1fþ	vér
 hjálp	nveo	hjálp
@@ -2413,12 +2288,10 @@ lýða	nkfe	lýður
 lífgjafanum	nkeþg	lífgjafi
 þjóða	nvfe	þjóð
 .	.	.
-
 Streym	sbg2en	streyma
 þú	fp2en	þú
 líknarlind	nven	líknarlind
 .	.	.
-
 Þú	fp2en	þú
 kærleiksandi	nken	kærleiksandi
 kveik	sbg2en	kveikja
@@ -2452,12 +2325,10 @@ loks	aa	loks
 vér	fp1fn	vér
 náum	sfg1fn	ná
 .	.	.
-
 Streym	sbg2en	streyma
 þú	fp2en	þú
 líknarlind	nven	líknarlind
 .	.	.
-
 Þú	fp2en	þú
 huggun	nven	huggun
 æðst	lvense	æðri
@@ -2475,7 +2346,6 @@ lífi	nheþ	líf
 og	c	og
 deyð	nkeþ	deyður
 .	.	.
-
 Veit	sbg2en	veita
 þú	fp2en	þú
 að	c	að
@@ -2494,12 +2364,10 @@ ræðst	sfm3en	ráða
 oss	fp1fþ	vér
 móti	aþ	móti
 .	.	.
-
 Streym	sbg2en	streyma
 þú	fp2en	þú
 líknarlind	nven	líknarlind
 .	.	.
-
 Guð	nken-s	Guð
 helgur	lkensf	helgur
 andi	nken	andi
@@ -2516,7 +2384,6 @@ um	ao	um
 Jesú	nkee-s	Jesús
 fund	nkeo	fundur
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 þrautin	nveng	þraut
@@ -2536,25 +2403,20 @@ og	c	og
 þrenging	nven	þrenging
 engin	foven	enginn
 .	.	.
-
 Streym	sbg2en	streyma
 þú	fp2en	þú
 líknarlind	nven	líknarlind
 .	.	.
-
 (	(	(
 Lúther	nken-s	Lúther
 ;	;	;
 þýð.	as	þýð.
-
 Helgi	nken-s	Helgi
 Hálfdánarson	nken-s	Hálfdánarson
 )	)	)
-
 <	<	<
 Heimildir	nvfn	heimild
 >	>	>
-
 Bækur	nvfn	bók
 Gamla	lheevf	gamall
 testamentisins	nheeg	testamenti
@@ -2567,12 +2429,10 @@ röð	nveþ	röð
 í	aþ	í
 Biblíunni	nveþgs	Biblía
 .	.	.
-
 Fyrstar	lvfnse	fyrstur
 eru	sfg3fn	vera
 sögubækurnar	nvfng	sögubók
 .	.	.
-
 Í	aþ	í
 Mósebókunum	nvfþgs	Mósebók
 fimm	tfhfþ	fimm
@@ -2599,7 +2459,6 @@ til	ae	til
 fyrirheitna	lheevf	fyrirheitinn
 landsins	nheeg	land
 .	.	.
-
 Jósúa-	nvfn-s	Jósúabók
 og	c	og
 Dómarabækur	nvfn-s	dómarabók
@@ -2611,7 +2470,6 @@ og	c	og
 mótun	nveþ	mótun
 samfélags	nhee	samfélag
 .	.	.
-
 Samúelsbækur	nvfn-s	Samúelsbækur
 ,	,	,
 Konungabækur	nvfn-s	Konungabók
@@ -2634,7 +2492,6 @@ Babýlon	nheþ-s	Babýlon
 586	ta	586
 f.	as	f.
 Kr.	as	kr.
-
 Á	aa	á
 undan	aþ	undan
 þeim	fpvfþ	hún
@@ -2647,7 +2504,6 @@ frá	aþ	frá
 Davíðs	nkee-s	Davíð
 konungs	nkee	konungur
 .	.	.
-
 Esra-	nven-s	Esrabók
 og	c	og
 Nehemíabók	nven-s	Nehemíabók
@@ -2661,7 +2517,6 @@ og	c	og
 uppbyggingu	nveþ	uppbygging
 Jerúsalem	nvee-s	Jerúsalem
 .	.	.
-
 Esterarbók	nven-s	Esterarbók
 er	sfg3en	vera
 sérstök	lvensf	sérstakur
@@ -2687,7 +2542,6 @@ höfuðhetjan	nveng	höfuðhetja
 er	sfg3en	vera
 Ester	nven-s	Ester
 .	.	.
-
 Eftir	ao	eftir
 söguritin	nhfog	sögurit
 taka	sfg3fn	taka
@@ -2696,7 +2550,6 @@ spekirit	nhfn	spekirit
 og	c	og
 Sálmarnir	nkfngs	Sálmur
 .	.	.
-
 Spekiritin	nhfng	spekirit
 eru	sfg3fn	vera
 Jobsbók	nven-s	Jobsbók
@@ -2707,7 +2560,6 @@ Prédikarinn	nkengs	Prédikari
 og	c	og
 Ljóðaljóðin	nhfngs	Ljóðaljóð
 .	.	.
-
 Loks	aa	loks
 eru	sfg3fn	vera
 spámannaritin	nhfng	spámannarit
@@ -2717,7 +2569,6 @@ skiptast	sfm3fn	skipta
 tvo	tfkfo	tveir
 hópa	nkfo	hópur
 .	.	.
-
 Fyrri	lkenvm	fyrri
 hópurinn	nkeng	hópur
 er	sfg3en	vera
@@ -2736,7 +2587,6 @@ Esekíel	nken-s	Esekíel
 og	c	og
 Daníel	nken-s	Daníel
 .	.	.
-
 Síðari	lkenvm	síðari
 hópurinn	nkeng	hópur
 nefnist	sfm3en	nefna
@@ -2747,7 +2597,6 @@ eru	sfg3fn	vera
 þeir	fpkfn	hann
 tólf	tfkfn	tólf
 .	.	.
-
 Margt	lhensf	margur
 í	aþ	í
 ritum	nhfþ	rit
@@ -2768,7 +2617,6 @@ daga	nkfo	dagur
 til	ae	til
 Babýlon	nhee-s	Babýlon
 .	.	.
-
 Annað	fohen	annar
 er	sfg3en	vera
 ritað	sþghen	rita
@@ -2780,7 +2628,6 @@ tímanum	nkeþg	tími
 eftir	ao	eftir
 heimkomuna	nveog	heimkoma
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 hægt	lhensf	hægur
@@ -2802,7 +2649,6 @@ lesa	sng	lesa
 síðan	aa	síðan
 samfellt	aa	samfellt
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 gott	lhensf	góður
@@ -2814,7 +2660,6 @@ fyrir	aþ	fyrir
 mismun	nkeþ	mismunur
 bókanna	nvfeg	bók
 .	.	.
-
 En	c	en
 vel	aa	vel
 má	sfg3en	mega
@@ -2839,7 +2684,6 @@ Jesaja	nxeþ-s	Jesaja
 eða	c	eða
 Jobsbók	nveþ-s	Jobsbók
 .	.	.
-
 Í	aþ	í
 viðauka	nkeþ	viðauki
 við	ao	við
@@ -2859,7 +2703,6 @@ helstu	lhfnve	heldri
 sögu	nveþ	saga
 Biblíunnar	nveegs	Biblía
 .	.	.
-
 Þar	aa	þar
 eru	sfg3fn	vera
 líka	aa	líka
@@ -2869,7 +2712,6 @@ yfir	ao	yfir
 sögusvið	nhfo	sögusvið
 Biblíunnar	nveegs	Biblía
 .	.	.
-
 En	c	en
 ef	c	ef
 menn	nkfn	maður
@@ -2888,7 +2730,6 @@ fylgja	sng	fylgja
 ákveðinni	lveþsf	ákveðinn
 reglu	nveþ	regla
 .	.	.
-
 Hið	ghen	hinn
 íslenska	lhenvf	íslenskur
 biblíufélag	nhen	biblíufélag
@@ -2908,7 +2749,6 @@ handhæg	lvensf	handhægur
 og	c	og
 góð	lvensf	góður
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -2926,7 +2766,6 @@ frammi	aa	frammi
 í	aþ	í
 kirkjum	nvfþ	kirkja
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 forn	lvensf	forn
@@ -2943,7 +2782,6 @@ ljósi	nheþ	ljós
 Jesú	nkee-s	Jesús
 Krists	nkee-s	Kristur
 .	.	.
-
 Einn	tfken	einn
 forn	lkensf	forn
 höfundur	nken	höfundur
@@ -2962,7 +2800,6 @@ hulið	lhensf	hulinn
 Gamla	lheþvf	gamall
 testamentinu	nheþg	testamenti
 .	.	.
-
 Gamla	lhenvf	gamall
 testamentið	nheng	testamenti
 opnast	sfm3en	opna
@@ -2971,7 +2808,6 @@ Nýja	lheþvf	nýr
 testamentinu	nheþg	testamenti
 .	.	.
 »	»	»
-
 Það	fphen	það
 er	sfg3en	vera
 ljóst	lhensf	ljós
@@ -3003,7 +2839,6 @@ um	ao	um
 daga	nkfo	dagur
 hans	fpkee	hann
 .	.	.
-
 Jesús	nken-s	Jesús
 lét	sfg3eþ	láta
 sig	fpkeo	sig
@@ -3017,7 +2852,6 @@ en	c	en
 einstök	lhfosf	einstakur
 boðorð	nhfo	boðorð
 .	.	.
-
 Og	c	og
 andinn	nkeng	andi
 í	aþ	í
@@ -3030,7 +2864,6 @@ kærleikur	nken	kærleikur
 ,	,	,
 elska	nven	elska
 .	.	.
-
 Þess	fphee	það
 vegna	ae	vegna
 dró	sfg3eþ	draga
@@ -3080,7 +2913,6 @@ sjálfan	fbkeo	sjálfur
 þig	fp2eo	þú
 .	.	.
 »	»	»
-
 Þessi	fahfn	þessi
 boðorð	nhfn	boðorð
 eru	sfg3fn	vera
@@ -3095,7 +2927,6 @@ eru	sfg3fn	vera
 þar	aa	þar
 aðskilin	lhfnsf	aðskildur
 .	.	.
-
 Í	aþ	í
 Nýja	lheþvf	nýr
 testamentinu	nheþg	testamenti
@@ -3114,7 +2945,6 @@ en	c	en
 Gamla	lheþvf	gamall
 testamentinu	nheþg	testamenti
 .	.	.
-
 Hvað	fsheo	hver
 það	fphen	það
 þýðir	sfg3en	þýða
@@ -3129,7 +2959,6 @@ af	aþ	af
 miskunnsama	lkeþvf	miskunnsamur
 Samverjanum	nkeþgs	Samverji
 .	.	.
-
 Einstök	lhfnsf	einstakur
 boðorð	nhfn	boðorð
 bönnuðu	sfg3fþ	banna
@@ -3145,7 +2974,6 @@ sig	fpkeo	sig
 á	aþ	á
 blóði	nheþ	blóð
 .	.	.
-
 Þess	fphee	það
 vegna	ae	vegna
 gengu	sfg3fþ	ganga
@@ -3158,7 +2986,6 @@ særður	lkensf	særður
 við	ao	við
 veginn	nkeog	vegur
 .	.	.
-
 Samverjinn	nkengs	Samverji
 hirti	sfg3eþ	hirða
 hins	fakee	hinn
@@ -3189,7 +3016,6 @@ af	aþ	af
 særðum	lkeþsf	særður
 Gyðingi	nkeþ-s	Gyðingur
 .	.	.
-
 Þvert	aa	þvert
 á	aa	á
 móti	aa	móti
@@ -3209,7 +3035,6 @@ mat	sfg3eþ	meta
 Jesús	nken-s	Jesús
 rétta	lveosf	réttur
 .	.	.
-
 Boðorðið	nheng	boðorð
 um	ao	um
 skilyrðislausan	lkeosf	skilyrðislaus
@@ -3222,7 +3047,6 @@ ofar	aam	ofar
 einstökum	lhfþsf	einstakur
 boðorðum	nhfþ	boðorð
 .	.	.
-
 Þetta	fahen	þessi
 kom	sfg3eþ	koma
 líka	aa	líka
@@ -3234,7 +3058,6 @@ til	ae	til
 helgi	nvee	helgi
 hvíldardagsins	nkeeg	hvíldardagur
 .	.	.
-
 Hann	fpken	hann
 læknaði	sfg3eþ	lækna
 oft	aa	oft
@@ -3255,7 +3078,6 @@ um	ao	um
 helgi	nveo	helgi
 hvíldardagsins	nkeeg	hvíldardagur
 .	.	.
-
 «	«	«
 Hvíldardagurinn	nkeng	hvíldardagur
 varð	sfg3eþ	verða
@@ -3269,7 +3091,6 @@ vegna	ae	vegna
 hvíldardagsins	nkeeg	hvíldardagur
 !	!	!
 »	»	»
-
 sagði	sfg3eþ	segja
 hann	fpken	hann
 meðal	ae	meðal
@@ -3283,7 +3104,6 @@ kapítuli	nken	kapítuli
 vers	nhen	vers
 )	)	)
 .	.	.
-
 Þá	aa	þá
 lýsti	sfg3eþ	lýsa
 hann	fpken	hann
@@ -3306,7 +3126,6 @@ Markúsarguðspjall	nheo-s	Markúsarguðspjall
 7.19	ta	7.19
 )	)	)
 .	.	.
-
 Í	aþ	í
 ljósi	nheþ	ljós
 þessa	fahee	þessi
@@ -3333,7 +3152,6 @@ boðorðsins	nheeg	boðorð
 um	ao	um
 kærleika	nkeo	kærleiki
 .	.	.
-
 Þess	fphee	það
 vegna	ae	vegna
 hafa	sfg3fn	hafa
@@ -3399,7 +3217,6 @@ Postulasagan	nvengs	Postulasaga
 5.29	ta	5.29
 )	)	)
 .	.	.
-
 Gyðingar	nkfn-s	Gyðingur
 flokka	sfg3fn	flokka
 rit	nhfo	rit
@@ -3412,7 +3229,6 @@ ritin	nhfog	rit
 og	c	og
 spámennina	nkfog	spámaður
 .	.	.
-
 Lögmálið	nheng	lögmál
 er	sfg3en	vera
 Mósebækurnar	nvfngs	Mósebók
@@ -3431,7 +3247,6 @@ eru	sfg3fn	vera
 það	fphen	það
 spámannaritin	nhfng	spámannarit
 .	.	.
-
 Hjá	aþ	hjá
 Gyðingum	nkfþ-s	Gyðingur
 nýtur	sfg3en	njóta
@@ -3444,7 +3259,6 @@ hylli	nvee	hylli
 og	c	og
 helgi	nvee	helgi
 .	.	.
-
 Gyðingar	nkfn-s	Gyðingur
 tala	sfg3fn	tala
 raunar	aa	raunar
@@ -3455,13 +3269,11 @@ Gamla	lheovf	gamall
 testamentið	nheog	testamenti
 .	.	.
 »	»	»
-
 Það	fphen	það
 er	sfg3en	vera
 kristið	lhensf	kristinn
 hugtak	nhen	hugtak
 .	.	.
-
 Þeir	fpkfn	hann
 kalla	sfg3fn	kalla
 ritningu	nveo	ritning
@@ -3480,7 +3292,6 @@ ritanna	nhfeg	rit
 og	c	og
 spámannanna	nkfeg	spámaður
 .	.	.
-
 Stundum	aa	stundum
 tala	sfg3fn	tala
 Gyðingar	nkfn-s	Gyðingur
@@ -3492,7 +3303,6 @@ hebresku	lveovf	hebreskur
 Biblíu	nveo-s	Biblía
 .	.	.
 »	»	»
-
 Elsta	lhenve	gamall
 efni	nhen	efni
 Gamla	lheevf	gamall
@@ -3508,7 +3318,6 @@ til	aa	til
 fyrir	ao	fyrir
 Krist	nkeo-s	Kristur
 .	.	.
-
 Meginefni	nhen	meginefni
 þess	fphee	það
 er	sfg3en	vera
@@ -3542,7 +3351,6 @@ Babýlon	nheþ-s	Babýlon
 538	ta	538
 f.	as	f.
 Kr.	as	kr.
-
 Esra-	nven-s	Esrabók
 og	c	og
 Nehemíabók	nven-s	Nehemíabók
@@ -3563,7 +3371,6 @@ tímanum	nkeþg	tími
 eftir	ao	eftir
 útlegðina	nveog	útlegð
 .	.	.
-
 Á	aþ	á
 þeim	fakeþ	sá
 tíma	nkeþ	tími
@@ -3577,7 +3384,6 @@ bækur	nvfn	bók
 Gamla	lheevf	gamall
 testamentisins	nheeg	testamenti
 .	.	.
-
 Gamla	lhenvf	gamall
 testamentið	nheng	testamenti
 varð	sfg3eþ	verða
@@ -3593,7 +3399,6 @@ rúmlega	aa	rúmlega
 1000	ta	1000
 árum	nhfþ	ár
 .	.	.
-
 Hafa	sng	hafa
 verður	sfg3en	verða
 í	aþ	í
@@ -3615,7 +3420,6 @@ færð	sþghfn	færa
 í	ao	í
 letur	nheo	letur
 .	.	.
-
 Í	aþ	í
 mörgum	lhfþsf	margur
 tilfellum	nhfþ	tilfelli
@@ -3627,7 +3431,6 @@ að	cn	að
 aldursgreina	sng	aldursgreina
 ritin	nhfog	rit
 .	.	.
-
 Ljóst	lhensf	ljós
 er	sfg3en	vera
 til	ae	til
@@ -3657,7 +3460,6 @@ sinni	feveþ	sinn
 sé	svg3en	vera
 yngra	lhenvm	ungur
 .	.	.
-
 Eini	lkenvf	einn
 sálmurinn	nkeng	sálmur
 sem	ct	sem
@@ -3686,7 +3488,6 @@ bilinu	nheþg	bil
 535-515	ta	535-515
 f.	as	f.
 Kr.	as	kr.
-
 Faðirvorið	nhengs	Faðirvor
 er	sfg3en	vera
 á	aþ	á
@@ -3723,7 +3524,6 @@ versum	nhfþ	vers
 -	-	-
 4	ta	4
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 nokkur	foken	nokkur
@@ -3745,7 +3545,6 @@ manna	nkfe	maður
 frá	aþ	frá
 ómunatíð	nveþ	ómunatíð
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 lagareglum	nvfþ	lagaregla
 á	aþ	á
@@ -3782,7 +3581,6 @@ verið	ssg	vera
 á	ao	á
 íslensku	nveo	íslenska
 .	.	.
-
 Elsta	lvenve	gamall
 útgáfa	nven	útgáfa
 bænarinnar	nveeg	bæn
@@ -3810,7 +3608,6 @@ bænin	nveng	bæn
 þessa	faveo	þessi
 leið	nveo	leið
 :	:	:
-
 Faðir	nken	faðir
 vor	feken	vor
 ,	,	,
@@ -3819,18 +3616,15 @@ ert	sfg2en	vera
 á	aþ	á
 himnum	nkfþ	himinn
 .	.	.
-
 Helgist	svm3en	helga
 nafn	nhen	nafn
 þitt	fehen	þinn
 .	.	.
-
 Til	aa	til
 komi	svg3en	koma
 ríki	nhen	ríki
 þitt	fehen	þinn
 .	.	.
-
 Verði	svg3en	verða
 vilji	nken	vilji
 þinn	feken	þinn
@@ -3842,7 +3636,6 @@ og	c	og
 á	aþ	á
 jörðu	nveþ	jörð
 .	.	.
-
 Brauð	nheo	brauð
 vort	feheo	vor
 hversdagslegt	lheosf	hversdagslegur
@@ -3851,7 +3644,6 @@ oss	fp1fþ	vér
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Fyrirgefðu	sbg2en	fyrirgefa
 oss	fp1fþ	vér
 skuldir	nvfo	skuld
@@ -3868,7 +3660,6 @@ fyrirgefum	sfg1fn	fyrirgefa
 skulderum	x	skulderum
 órum	x	órar
 .	.	.
-
 Og	c	og
 eigi	aa	eigi
 leið	sbg2en	leiða
@@ -3884,7 +3675,6 @@ oss	fp1fo	vér
 frá	aþ	frá
 illu	lheþsf	illur
 .	.	.
-
 (	(	(
 Sjá	sng	sjá
 Íslensk	lvensf	íslenskur
@@ -3893,7 +3683,6 @@ hómilíubók	nven	hómilíubók
 Fornar	lvfnsf	forn
 stólræður	nvfn	stólræða
 .	.	.
-
 Reykjavík	nveþ-s	Reykjavík
 (	(	(
 Hið	ghen	hinn
@@ -3906,7 +3695,6 @@ s.	as	s.
 45-48	ta	45-48
 )	)	)
 .	.	.
-
 Bænin	nveng	bæn
 er	sfg3en	vera
 auk	ae	auk
@@ -3927,7 +3715,6 @@ mjög	aa	mjög
 svipaður	lkensf	svipaður
 þessum	fakeþ	þessi
 .	.	.
-
 Nýja	lhenvf	nýr
 testamentið	nheng	testamenti
 var	sfg3eþ	vera
@@ -3958,7 +3745,6 @@ nútímamenn	nkfn	nútímamaður
 notum	sfg1fn	nota
 það	fpheo	það
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 með	aþ	með
@@ -3979,7 +3765,6 @@ utan	aa	utan
 Odd	nkeo-s	Oddur
 Gottskálksson	nkeo-s	Gottskálksson
 .	.	.
-
 Hann	fpken	hann
 byggði	sfg3eþ	byggja
 þýðingu	nveo	þýðing
@@ -4016,7 +3801,6 @@ birtist	sfm3eþ	birta
 Íslenskri	lveþsf	íslenskur
 hómilíubók	nveþ	hómilíubók
 .	.	.
-
 Stefán	nken-s	Stefán
 Karlsson	nken-s	Karlsson
 handritafræðingur	nken	handritafræðingur
@@ -4038,7 +3822,6 @@ Faðirvorsins	nheegs	Faðirvor
 <	<	<
 ...	...	...
 >	>	>
-
 Þessari	faveþ	þessi
 spurningu	nveþ	spurning
 er	sfg3en	vera
@@ -4063,7 +3846,6 @@ um	ao	um
 dauða	nkeo	dauði
 Jesú	nkee-s	Jesús
 :	:	:
-
 «	«	«
 Píndur	sþgken	pína
 á	aþ	á
@@ -4082,7 +3864,6 @@ til	ae	til
 heljar	nvee	hel
 »	»	»
 .	.	.
-
 Orðalagið	nheng	orðalag
 steig	sfg3eþ	stíga
 niður	aa	niður
@@ -4100,7 +3881,6 @@ Pétursbréf	nheo-s	Pétursbréf
 sem	c	sem
 segir	sfg3en	segja
 :	:	:
-
 Í	aþ	í
 andanum	nkeþg	andi
 fór	sfg3eþ	fara
@@ -4113,7 +3893,6 @@ fyrir	aþ	fyrir
 í	aþ	í
 varðhaldi	nheþ	varðhald
 .	.	.
-
 Menn	nkfn	maður
 skildu	sfg3fþ	skilja
 þessi	fahfo	þessi
@@ -4138,7 +3917,6 @@ sem	ct	sem
 voru	sfg3fþ	vera
 fjötraðir	lkfnsf	fjötraður
 .	.	.
-
 Þannig	aa	þannig
 vildu	sfg3fþ	vilja
 menn	nkfn	maður
@@ -4165,7 +3943,6 @@ sigur	nken	sigur
 yfir	aþ	yfir
 dauðanum	nkeþg	dauði
 .	.	.
-
 Að	aa	að
 auki	aa	auki
 vildi	sfg3eþ	vilja
@@ -4197,7 +3974,6 @@ haldið	ssg	halda
 slíku	fbheþ	slíkur
 fram	aa	fram
 .	.	.
-
 Hel	nven	hel
 merkir	sfg3en	merkja
 dánarheima	nkfo	dánarheimur
@@ -4212,7 +3988,6 @@ stað	nkeo	staður
 hinna	gkfe	hinn
 fordæmdu	lkfevf	fordæmdur
 .	.	.
-
 Í	ao	í
 gamla	lkfosf	gamall
 daga	nkfo	dagur
@@ -4232,7 +4007,6 @@ niður	aa	niður
 til	ae	til
 helvítis	nhee	helvíti
 .	.	.
-
 Hvort	c	hvort
 sem	ct	sem
 notað	sþghen	nota
@@ -4266,7 +4040,6 @@ segir	sfg3en	segja
 Hebreabréfinu	nheþgs	Hebreabréfið
 4.15	ta	4.15
 :	:	:
-
 Ekki	aa	ekki
 höfum	sfg1fn	hafa
 vér	fp1fn	vér
@@ -4300,7 +4073,6 @@ en	c	en
 án	ae	án
 syndar	nvee	synd
 .	.	.
-
 Hann	fpken	hann
 tók	sfg3eþ	taka
 saklaus	lkensf	saklaus
@@ -4330,7 +4102,6 @@ dó	sfg3eþ	deyja
 fyrir	ao	fyrir
 aðra	fokfo	annar
 .	.	.
-
 Setningin	nveng	setning
 steig	sfg3eþ	stíga
 niður	aa	niður
@@ -4348,7 +4119,6 @@ með	aþ	með
 dauða	nkeþ	dauði
 sínum	fekeþ	sinn
 .	.	.
-
 Sú	faven	sá
 skýring	nven	skýring
 hefur	sfg3en	hafa
@@ -4361,7 +4131,6 @@ blæbrigðum	nhfþ	blæbrigði
 sögu	nveþ	saga
 kristninnar	nveeg	kristni
 .	.	.
-
 Á	aþ	á
 miðöldum	nvfþ	miðöld
 var	sfg3eþ	vera
@@ -4391,7 +4160,6 @@ sigur	nkeo	sigur
 á	aþ	á
 djöflinum	nkeþg	djöfull
 .	.	.
-
 Í	aþ	í
 Íslensku	lveþvf	íslenskur
 hómilíubókinni	nveþg	hómilíubók
@@ -4402,7 +4170,6 @@ stað	nkeo	staður
 í	aþ	í
 trúarjátningunni	nveþg	trúarjátning
 :	:	:
-
 Ég	fp1en	ég
 trúi	sfg1en	trúa
 því	fpheþ	það
@@ -4429,7 +4196,6 @@ og	c	og
 batt	sfg3eþ	binda
 fjándann	x	fjandi
 .	.	.
-
 Í	aþ	í
 Niðurstigningarsögu	nveþ-s	Niðurstigningarsaga
 er	sfg3en	vera
@@ -4460,7 +4226,6 @@ föngnum	lvfþsf	fanginn
 hafi	svg3fn	hafa
 frelsast	ssm	frelsa
 .	.	.
-
 Þar	aa	þar
 er	sfg3en	vera
 notast	sþmhen	nota
@@ -4488,7 +4253,6 @@ fisk	nkeo	fiskur
 á	aþ	á
 öngli	nheþ	öngl
 .	.	.
-
 Þannig	aa	þannig
 er	sfg3en	vera
 þessu	faheþ	þessi
@@ -4520,7 +4284,6 @@ af	aþ	af
 Sæmundi	nkeþ-s	Sæmundur
 fróða	lkeþvf	fróður
 .	.	.
-
 Sama	fbven	sami
 hugmynd	nven	hugmynd
 birtist	sfm3en	birta
@@ -4533,7 +4296,6 @@ versi	nheþ	vers
 sem	c	sem
 segir	sfg3en	segja
 :	:	:
-
 Hlægir	sfg3en	hlægja
 mig	fp1eo	ég
 ,	,	,
@@ -4547,7 +4309,6 @@ sér	fpkeþ	sig
 til	ae	til
 vansa	nkee	vansi
 .	.	.
-
 Eigi	aa	eigi
 mun	sfg3en	munu
 nú	aa	nú
@@ -4560,7 +4321,6 @@ svelgjandi	slg	svelgja
 króki	nkeþ	krókur
 fagna	sng	fagna
 .	.	.
-
 Öll	fohfn	allur
 helvítis	nhee	helvíti
 járnhlið	nhfn	járnhlið
@@ -4574,7 +4334,6 @@ ljós	nhen	ljós
 er	sfg3en	vera
 styrkra	lhenvm	styrkur
 .	.	.
-
 Hlaupa	sfg3fn	hlaupa
 fjandar	nkfn	fjandi
 og	c	og
@@ -4587,14 +4346,12 @@ sögðu	sfg3fþ	segja
 að	c	að
 kæmi	svg3eþ	koma
 .	.	.
-
 Hræðslan	nveng	hræðsla
 flaug	sfg3eþ	fljúga
 um	ao	um
 heljar	nvee	hel
 byggðir	nvfo	byggð
 .	.	.
-
 Helga	lkfosf	helgur
 menn	nkfo	maður
 ,	,	,
@@ -4616,7 +4373,6 @@ er	c	er
 valdið	nheng	vald
 beiddi	sfg3eþ	beiða
 .	.	.
-
 Í	aþ	í
 Niðurstigningarvísum	nvfþ-s	Niðurstigningarvísir
 og	c	og
@@ -4627,7 +4383,6 @@ Arason	nken-s	Arason
 sömu	fbvfo	sami
 myndlíkingar	nvfo	myndlíking
 .	.	.
-
 Eftir	ao	eftir
 siðbót	nveo	siðbót
 urðu	sfg3fþ	verða
@@ -4660,7 +4415,6 @@ við	ao	við
 þennan	fakeo	þessi
 stað	nkeo	staður
 .	.	.
-
 Þess	fphee	það
 vegna	ae	vegna
 hurfu	sfg3fþ	hverfa
@@ -4681,7 +4435,6 @@ kveðskap	nkeþ	kveðskapur
 Hallgríms	nkee-s	Hallgrímur
 Péturssonar	nkee-s	Pétursson
 .	.	.
-
 Hallgrímur	nken-s	Hallgrímur
 túlkar	sfg3en	túlka
 þó	aa	þó
@@ -4691,7 +4444,6 @@ oft	aa	oft
 sem	c	sem
 sigur	nkeo	sigur
 :	:	:
-
 Dauðinn	nkeng	dauði
 tapaði	sfg3eþ	tapa
 en	c	en
@@ -4704,13 +4456,11 @@ gaf	sfg3eþ	gefa
 mér	fp1eþ	ég
 þann	fakeo	sá
 ,	,	,
-
 segir	sfg3en	segja
 í	aþ	í
 3.	ta	3.
 Passíusálmi	nkeþ-s	Passíusálmur
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 alkunn	lvensf	alkunnur
@@ -4723,7 +4473,6 @@ dauðans	nkeeg	dauði
 óvissa	lkeovf	óviss
 tíma	nkeo	tími
 :	:	:
-
 Sigrarinn	nkeng	sigrari
 dauðans	nkeeg	dauði
 sanni	lkenvf	sannur
@@ -4733,7 +4482,6 @@ sjálfur	fbken	sjálfur
 krossi	nkeþ	kross
 dó	sfg3eþ	deyja
 .	.	.
-
 Í	aþ	í
 Passíusálmunum	nkfþgs	Passíusálmur
 uppmálar	sfg3en	uppmála
@@ -4758,7 +4506,6 @@ sigur	nkeo	sigur
 til	ae	til
 handa	nvfe	hönd
 :	:	:
-
 Yfirgefinn	lkensf	yfirgefinn
 kvað	sfg3eþ	kveða
 son	nkeo	sonur
@@ -4771,7 +4518,6 @@ hann	fpken	hann
 kvölin	nveng	kvöl
 megna	lvenvf	megn
 .	.	.
-
 Yfirgefur	sfg3en	yfirgefa
 því	aa	því
 aldrei	aa	aldrei
@@ -4781,7 +4527,6 @@ Guð	nken-s	Guð
 hans	fpkee	hann
 vegna	ae	vegna
 .	.	.
-
 Fyrir	ao	fyrir
 þá	faveo	sá
 Herrans	nkeegs	Herra
@@ -4794,7 +4539,6 @@ grátbeiðni	nveþ	grátbeiðni
 minni	feveþ	minn
 gegna	sng	gegna
 .	.	.
-
 (	(	(
 Passíusálmur	nken	passíusálmur
 41	ta	41
@@ -4803,12 +4547,10 @@ Passíusálmur	nken	passíusálmur
 vers	nhen	vers
 )	)	)
 .	.	.
-
 <	<	<
 Frekara	lhenvm	frekur
 lesefni	nhen	lesefni
 >	>	>
-
 Í	aþ	í
 Íslensku	lveþvf	íslenskur
 orðsifjabókinni	nveþg	orðsifjabók
@@ -4823,7 +4565,6 @@ elúja	x	elúja
 er	sfg3en	vera
 hvorugkynsorð	nhen	hvorugkynsorð
 .	.	.
-
 Halelúja	nhen	halelúja
 er	sfg3en	vera
 sagt	sþghen	segja
@@ -4836,7 +4577,6 @@ fagnaðarákall	nhen	fagnaðarákall
 í	aþ	í
 kirkjumáli	nheþ	kirkjumál
 .	.	.
-
 Halelúja	nhen	halelúja
 er	sfg3en	vera
 tökuorð	nhen	tökuorð
@@ -4848,7 +4588,6 @@ er	sfg3en	vera
 úr	aþ	úr
 hebresku	nveþ	hebreska
 .	.	.
-
 Orðið	nheng	orð
 þýðir	sfg3en	þýða
 lofaður	sþgken	lofa
@@ -4868,7 +4607,6 @@ fyrir	ao	fyrir
 Jahve	e	Jahve
 )	)	)
 .	.	.
-
 Orðið	nheng	orð
 halelúja	nhen	halelúja
 kemur	sfg3en	koma
@@ -4888,7 +4626,6 @@ og	c	og
 lok	nhfo	lok
 sálmanna	nkfeg	sálmur
 .	.	.
-
 Í	aþ	í
 fornum	lkeþsf	forn
 gyðingdómi	nkeþ	gyðingdómur
@@ -4904,7 +4641,6 @@ víxlsöng	nkeo	víxlsöngur
 við	ao	við
 bænagjörð	nveo	bænagjörð
 .	.	.
-
 Levítar	nkfn	levíti
 voru	sfg3fþ	vera
 þeir	fakfn	sá
@@ -4924,7 +4660,6 @@ valdir	sþgkfn	velja
 þjónar	nkfn	þjónn
 presta	nkfe	prestur
 .	.	.
-
 Halelúja	nhen	halelúja
 kemur	sfg3en	koma
 eingöngu	aa	eingöngu
@@ -4941,7 +4676,6 @@ skiptin	nhfog	skipti
 í	aþ	í
 Opinberunarbókinni	nveþgs	Opinberunarbókin
 .	.	.
-
 Halelúja	nhen	halelúja
 stendur	sfg3en	standa
 yfirleitt	aa	yfirleitt
@@ -4950,7 +4684,6 @@ yfirleitt	aa	yfirleitt
 þýðingum	nvfþ	þýðing
 Bíblíunnar	nvee	biblía
 .	.	.
-
 Elst	lvense	gamall
 þeirra	fpvfe	hún
 er	sfg3en	vera
@@ -4991,7 +4724,6 @@ til	aa	til
 fyrir	ao	fyrir
 Krist	nkeo-s	Kristur
 .	.	.
-
 Þýðingin	nveng	þýðing
 sem	ct	sem
 heitir	sfg3en	heita

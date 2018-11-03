@@ -11,7 +11,6 @@ markað	nkeo	markaður
 sl.	as	sl.
 haust	nheo	haust
 .	.	.
-
 Þar	aa	þar
 á	aa	á
 meðal	aa	meðal
@@ -32,7 +31,6 @@ blæju	nvee	blæja
 samanfellanlega	lveosf	samanfellanlegur
 glerblæju	nveo	glerblæja
 .	.	.
-
 Sannkölluð	lvensf	sannkallaður
 óskabyrjun	nven	óskabyrjun
 Renault	e	Renault
@@ -62,7 +60,6 @@ tiltölulega	aa	tiltölulega
 stuttu	lheþsf	stuttur
 millibili	nheþ	millibil
 .	.	.
-
 Segja	sng	segja
 má	sfg3en	mega
 að	c	að
@@ -95,7 +92,6 @@ við	aþ	við
 níu	tfkfþ	níu
 mánuðum	nkfþ	mánuður
 .	.	.
-
 Nýja	lvenvf	nýr
 Megane	e	Megane
 línan	nveng	lína
@@ -133,7 +129,6 @@ einkunn	nveo	einkunn
 öryggisprófunum	nvfþ	öryggisprófun
 EuroNCAP	e	EuroNCAP
 .	.	.
-
 Sex	tfvfn	sex
 útgáfur	nvfn	útgáfa
 af	aþ	af
@@ -160,7 +155,6 @@ sig	fpkeo	sig
 nokkuð	fohen	nokkur
 úr	aa	úr
 .	.	.
-
 Samhliða	aþ	samhliða
 stuttbaknum	nkeþg	stuttbakur
 ,	,	,
@@ -185,7 +179,6 @@ markað	nkeo	markaður
 dyra	nvfe	dyr
 sportútgáfu	nveo	sportútgáfa
 .	.	.
-
 Í	ao	í
 sumar	nheo	sumar
 hefur	sfg3en	hafa
@@ -195,7 +188,6 @@ hver	foven	hver
 rekið	ssg	reka
 aðra	foveo	annar
 .	.	.
-
 Fyrst	aae	fyrr
 kom	sfg3eþ	koma
 nýr	lkensf	nýr
@@ -216,7 +208,6 @@ fjallaði	sfg3eþ	fjalla
 um	aa	um
 nýlega	aa	nýlega
 .	.	.
-
 Þá	aa	þá
 standa	sfg3fn	standa
 kynningar	nvfn	kynning
@@ -261,7 +252,6 @@ líkt	aa	líkt
 hefðbundin	lvensf	hefðbundinn
 blæja	nven	blæja
 .	.	.
-
 4	ta	4
 mm	as	mm
 þykk	lvensf	þykkur
@@ -279,7 +269,6 @@ fólksbíls	nkee	fólksbíll
 og	c	og
 sportbíls	nkee	sportbíll
 .	.	.
-
 Bíllinn	nkeng	bíll
 er	sfg3en	vera
 fjögurra	tfhfe	fjórir
@@ -306,7 +295,6 @@ en	c	en
 hefðbundnum	lkfþsf	hefðbundinn
 blæjubílum	nkfþ	blæjubíll
 .	.	.
-
 Í	aþ	í
 glerblæjunni	nveþg	glerblæja
 er	sfg3en	vera
@@ -337,7 +325,6 @@ bílsins	nkeeg	bíll
 22	ta	22
 sekúndum	nvfþ	sekúnda
 .	.	.
-
 Þessi	faven	þessi
 óvenjulega	lvenvf	óvenjulegur
 blæja	nven	blæja
@@ -358,7 +345,6 @@ einangrun	nveo	einangrun
 gegn	aþ	gegn
 kulda	nkeþ	kuldi
 .	.	.
-
 Blæjubúnaðurinn	nkeng	blæjubúnaður
 vegur	sfg3en	vega
 samtals	aa	samtals
@@ -374,7 +360,6 @@ glerblæjan	nveng	glerblæja
 15	ta	15
 kg	as	kg
 .	.	.
-
 Væntanlegir	lkfnsf	væntanlegur
 fyrir	ao	fyrir
 áramót	nhfo	áramót
@@ -412,7 +397,6 @@ fyrir	ao	fyrir
 næstu	lhfove	næstur
 áramót	nhfo	áramót
 .	.	.
-
 Jafnframt	aa	jafnframt
 hlökkum	sfg1fn	hlakka
 við	fp1fn	ég
@@ -440,7 +424,6 @@ að	aþ	að
 okkar	fp1fe	ég
 veðuraðstæðum	nvfþ	veðuraðstæður
 .	.	.
-
 Í	aþ	í
 Megane	e	Megane
 II	ta	II
@@ -462,7 +445,6 @@ og	c	og
 EBA	as	EBA
 neyðarhemlar	nkfn	neyðarhemill
 .	.	.
-
 Af	aþ	af
 öðrum	fokeþ	annar
 búnaði	nkeþ	búnaður
@@ -502,7 +484,6 @@ kynningarstjóri	nken	kynningarstjóri
 B	nxee-s	B
 &	c	&
 L.	nxee-s	L
-
 BMW	as	BMW
 330xi	ta	330xi
 -	-	-
@@ -531,7 +512,6 @@ haldið	ssg	halda
 við	ao	við
 þyngdaraukninguna	nveog	þyngdaraukning
 .	.	.
-
 --	--	--
 >	>	>
 MEÐ	aþ	með
@@ -556,7 +536,6 @@ haldið	ssg	halda
 við	ao	við
 þyngdaraukninguna	nveog	þyngdaraukning
 .	.	.
-
 En	c	en
 BMW	as	BMW
 hefur	sfg3en	hafa
@@ -577,7 +556,6 @@ gleðja	sfg3fn	gleðja
 hvern	fokeo	hver
 bílaáhugamann	nkeo	bílaáhugamaður
 .	.	.
-
 Ein	tfven	einn
 af	aþ	af
 þessum	favfþ	þessi
@@ -595,7 +573,6 @@ fjórhjóladrifsútgáfunni	nveþg	fjórhjóladrifsútgáfa
 af	aþ	af
 330xi	ta	330xi
 .	.	.
-
 Við	fp1fn	ég
 fengum	sfg1fþ	fá
 afnot	nhfo	afnot
@@ -610,7 +587,6 @@ allt	fohen	allur
 of	aa	of
 fljótt	aa	fljótt
 .	.	.
-
 Afl	nhen	afl
 til	ae	til
 allra	fohfe	allur
@@ -646,7 +622,6 @@ snúninga	nkfo	snúningur
 á	aþ	á
 mínútu	nveþ	mínúta
 .	.	.
-
 Af	aþ	af
 þessum	favfþ	þessi
 tölum	nvfþ	tala
@@ -675,7 +650,6 @@ tækni	nveþ	tækni
 hillum	nvfþ	hilla
 BMW	as	BMW
 .	.	.
-
 Upptakið	nheng	upptak
 er	sfg3en	vera
 skemmtilega	aa	skemmtilega
@@ -698,7 +672,6 @@ nær	aþm	nær
 6,5	ta	6,5
 sekúndum	nvfþ	sekúnda
 .	.	.
-
 Þetta	fahen	þessi
 gerist	sfm3en	gera
 þó	aa	þó
@@ -722,7 +695,6 @@ og	c	og
 til	ae	til
 afturhjólanna	nhfeg	afturhjól
 .	.	.
-
 Porsche	e	Porsche
 fór	sfg3eþ	fara
 sömu	fbveo	sami
@@ -750,7 +722,6 @@ væri	svg3eþ	vera
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 Hún	fpven	hún
 gefur	sfg3en	gefa
 líka	aa	líka
@@ -766,7 +737,6 @@ DSC-kerfið	nhengs	DSC-kerfi
 er	sfg3en	vera
 aftengt	sþghen	aftengja
 .	.	.
-
 Engu	foheþ	enginn
 að	aa	að
 síður	aam	síður
@@ -791,7 +761,6 @@ ekið	sþghen	aka
 á	aþ	á
 malarvegi	nkeþ	malarvegur
 .	.	.
-
 Frábær	lvensf	frábær
 sjálfskipting	nven	sjálfskipting
 Annar	foken	annar
@@ -822,7 +791,6 @@ sem	aa	sem
 stystum	lkeþse	stuttur
 tíma	nkeþ	tími
 .	.	.
-
 Urrandi	lhenof	urrandi
 hljóðið	nheng	hljóð
 frá	aþ	frá
@@ -840,7 +808,6 @@ enn	aa	enn
 einn	foken	einn
 gleðigjafinn	nkeng	gleðigjafi
 .	.	.
-
 Við	ao	við
 vélina	nveog	vél
 er	sfg3en	vera
@@ -863,7 +830,6 @@ orðið	sþghen	verða
 mörgum	lkfþsf	margur
 bílum	nkfþ	bíll
 .	.	.
-
 Þar	aa	þar
 fyrir	aa	fyrir
 utan	aa	utan
@@ -886,7 +852,6 @@ meira	aam	meira
 en	c	en
 ella	aa	ella
 .	.	.
-
 DSC-kerfið	nhengs	DSC-kerfi
 ,	,	,
 sem	ct	sem
@@ -902,7 +867,6 @@ spólvörn	nven	spólvörn
 og	c	og
 stöðugleikastýring	nven	stöðugleikastýring
 .	.	.
-
 Með	ao	með
 það	fpheo	það
 tengt	lheosf	tengdur
@@ -926,7 +890,6 @@ og	c	og
 beitir	sfg3en	beita
 hemlum	nkfþ	hemill
 .	.	.
-
 Fágaðir	lkfnsf	fágaður
 aksturseiginleikar	nkfn	aksturseiginleiki
 Bíllinn	nkeng	bíll
@@ -937,7 +900,6 @@ fremur	aam	fremur
 en	c	en
 sportlega	lkfosf	sportlegur
 .	.	.
-
 Stýrið	nheng	stýri
 er	sfg3en	vera
 nákvæmt	lhensf	nákvæmur
@@ -963,7 +925,6 @@ er	sfg3en	vera
 af	aþ	af
 rafmótor	nkeþ	rafmótor
 .	.	.
-
 Fjöðrunin	nveng	fjöðrun
 er	sfg3en	vera
 stíf	lvensf	stífur
@@ -995,7 +956,6 @@ felgum	nvfþ	felga
 og	c	og
 lágprófílbörðum	nkfþ	lágprófílbarði
 .	.	.
-
 BMW	as	BMW
 330xi	ta	330xi
 er	sfg3en	vera
@@ -1029,7 +989,6 @@ farþegar	nkfn	farþegi
 eru	sfg3fn	vera
 hávaxnir	lkfnsf	hávaxinn
 .	.	.
-
 Sérstaklega	aa	sérstaklega
 er	sfg3en	vera
 vert	lhensf	verður
@@ -1042,7 +1001,6 @@ sem	ct	sem
 fá	sfg3fn	fá
 toppeinkunn	nveo	toppeinkunn
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 sportsæti	nhen	sportsæti
@@ -1068,7 +1026,6 @@ lengja	sng	lengja
 í	aþ	í
 setunni	nveþg	seta
 .	.	.
-
 Prófunarbíllinn	nkeng	prófunarbíll
 var	sfg3eþ	vera
 leðurklæddur	lkensf	leðurklæddur
@@ -1083,7 +1040,6 @@ Harman	e	Harman
 Kardon	e	Kardon
 hátalara	nkfo	hátalari
 .	.	.
-
 Leðurklætt	lhensf	leðurklæddur
 stýrið	nheng	stýri
 er	sfg3en	vera
@@ -1096,7 +1052,6 @@ leikur	sfg3en	leika
 höndum	nvfþ	hönd
 ökumanns	nkee	ökumaður
 .	.	.
-
 Þar	aa	þar
 er	sfg3en	vera
 líka	aa	líka
@@ -1108,7 +1063,6 @@ hljómtæki	nhfo	hljómtæki
 og	c	og
 skriðstilli	nkeo	skriðstillir
 .	.	.
-
 Hönnun	nven	hönnun
 og	c	og
 staðsetning	nven	staðsetning
@@ -1136,7 +1090,6 @@ veginum	nkeþg	vegur
 eru	sfg3fn	vera
 notaðir	sþgkfn	nota
 .	.	.
-
 Bíllinn	nkeng	bíll
 er	sfg3en	vera
 líka	aa	líka
@@ -1155,7 +1108,6 @@ bætast	sfm3fn	bæta
 við	aa	við
 270.000	ta	270.000
 kr.	as	kr.
-
 Aukabúnaður	nken	aukabúnaður
 í	aþ	í
 prófunarbílnum	nkeþg	prófunarbíll
@@ -1169,7 +1121,6 @@ sjálfskiptingin	nveng	sjálfskipting
 sjálf	fbven	sjálfur
 ,	,	,
 17	ta	17
-
 álfelgur	nvfn	álfelga
 ,	,	,
 rafmagnsrúður	nvfn	rafmagnsrúða
@@ -1216,7 +1167,6 @@ Harman	e	Harman
 Kardon	e	Kardon
 hátalarakerfi	nhen	hátalarakerfi
 .	.	.
-
 Af	aþ	af
 þessari	faveþ	þessi
 upptalningu	nveþ	upptalning
@@ -1258,9 +1208,7 @@ aksturseiginleikana	nkfog	aksturseiginleiki
 hefur	sfg3en	hafa
 hann	fpken	hann
 .	.	.
-
 gugu@mbl.is	v	gugu@mbl.is
-
 Öflugur	lkensf	öflugur
 og	c	og
 mjúkur	lkensf	mjúkur
@@ -1289,7 +1237,6 @@ bíls	nkee	bíll
 í	aþ	í
 millistærð	nveþ	millistærð
 .	.	.
-
 --	--	--
 >	>	>
 KÓRESKI	lkenvf	kóreskur
@@ -1313,7 +1260,6 @@ bíls	nkee	bíll
 í	aþ	í
 millistærð	nveþ	millistærð
 .	.	.
-
 Bílablaðamenn	nkfn	bílablaðamaður
 frá	aþ	frá
 nokkrum	fohfþ	nokkur
@@ -1343,7 +1289,6 @@ bílsins	nkeeg	bíll
 eftir	ao	eftir
 aksturinn	nkeog	akstur
 .	.	.
-
 Sé	svg3en	vera
 það	fphen	það
 dregið	sþghen	draga
@@ -1369,7 +1314,6 @@ tveggja	tfkfe	tveir
 lítra	nkfe	lítri
 vél	nveþ	vél
 .	.	.
-
 Það	fphen	það
 fer	sfg3en	fara
 ágætlega	aa	ágætlega
@@ -1388,7 +1332,6 @@ fram-	nhfþ	framsæti
 eða	c	eða
 aftursætum	nhfþ	aftursæti
 .	.	.
-
 Elantra	e	Elantra
 með	aþ	með
 nýju	lheþsf	nýr
@@ -1399,7 +1342,6 @@ frísklegur	lkensf	frísklegur
 í	aþ	í
 útliti	nheþ	útlit
 .	.	.
-
 Þar	aa	þar
 hafa	sfg3fn	hafa
 þó	aa	þó
@@ -1422,7 +1364,6 @@ af	aþ	af
 fyrri	lvfþvm	fyrri
 kynslóðum	nvfþ	kynslóð
 .	.	.
-
 Tóku	sfg3fþ	taka
 forráðamenn	nkfn	forráðamaður
 þannig	aa	þannig
@@ -1449,7 +1390,6 @@ mikið	aa	mikið
 á	ao	á
 óvart	lheosf	óvar
 .	.	.
-
 Einnig	aa	einnig
 var	sfg3eþ	vera
 nefnt	sþghen	nefna
@@ -1481,7 +1421,6 @@ valkost	nkeo	valkostur
 við	ao	við
 bílakaup	nhfo	bílakaup
 .	.	.
-
 Fyrsti	lkenve	fyrstur
 Elantra	e	Elantra
 bíllinn	nkeng	bíll
@@ -1498,7 +1437,6 @@ Suður-Kóreu	nveþ-s	Suður-Kórea
 haustið	nheog	haust
 1990	ta	1990
 .	.	.
-
 Í	aþ	í
 mars	nkeþ	mars
 1995	ta	1995
@@ -1515,7 +1453,6 @@ tekinn	sþgken	taka
 nokkra	foveo	nokkur
 endurnýjun	nveo	endurnýjun
 .	.	.
-
 Elantra	e	Elantra
 er	sfg3en	vera
 mest	aae	mikið
@@ -1534,7 +1471,6 @@ smíðaðar	sþgvfn	smíða
 frá	aþ	frá
 upphafi	nheþ	upphaf
 .	.	.
-
 Af	aþ	af
 þeim	fpkfþ	hann
 hafa	sfg3fn	hafa
@@ -1545,7 +1481,6 @@ selst	sfm3en	selja
 í	aþ	í
 Evrópu	nveþ-s	Evrópa
 .	.	.
-
 Mýkri	lvfnvm	mjúkur
 útlínur	nvfn	útlína
 En	c	en
@@ -1553,7 +1488,6 @@ aftur	aa	aftur
 að	aþ	að
 útlitinu	nheþg	útlit
 .	.	.
-
 Línurnar	nvfng	lína
 hafa	sfg3fn	hafa
 mýkst	ssm	mýkja
@@ -1566,7 +1500,6 @@ lækka	sng	lækka
 vindstuðulinn	nkeog	vindstuðull
 nokkuð	fohen	nokkur
 .	.	.
-
 Framendinn	nkeng	framendi
 ,	,	,
 vatnskassahlífin	nveng	vatnskassahlíf
@@ -1587,7 +1520,6 @@ en	c	en
 fyrri	lvenvm	fyrri
 gerð	nven	gerð
 .	.	.
-
 Séður	sþgken	sjá
 á	ao	á
 hlið	nveo	hlið
@@ -1613,7 +1545,6 @@ kemur	sfg3en	koma
 á	ao	á
 óvart	lheosf	óvar
 .	.	.
-
 Innan	ae	innan
 stokks	nkee	stokkur
 eru	sfg3fn	vera
@@ -1646,7 +1577,6 @@ að	cn	að
 vera	sng	vera
 staðalbúnaður	nken	staðalbúnaður
 .	.	.
-
 Ágætt	lhensf	ágætur
 pláss	nhen	pláss
 er	sfg3en	vera
@@ -1671,7 +1601,6 @@ væri	svg3eþ	vera
 með	aþ	með
 sóllúgu	nveþ	sóllúga
 .	.	.
-
 Oft	aa	oft
 þrengja	sfg3fn	þrengja
 þær	fpvfn	hún
@@ -1683,7 +1612,6 @@ en	c	en
 tilviki	nheþ	tilvik
 ekki	aa	ekki
 .	.	.
-
 Sóllúga	nven	sóllúga
 verður	sfg3en	verða
 hins	fakee	hinn
@@ -1698,7 +1626,6 @@ koma	sfg3fn	koma
 markað	nkeo	markaður
 hérlendis	aa	hérlendis
 .	.	.
-
 Ökumaður	nken	ökumaður
 kann	sfg3en	kunna
 strax	aa	strax
@@ -1708,7 +1635,6 @@ sig	fpkeo	sig
 undir	aþ	undir
 stýri	nheþ	stýri
 .	.	.
-
 Mælar	nkfn	mælir
 eru	sfg3fn	vera
 skýrir	lkfnsf	skýr
@@ -1721,7 +1647,6 @@ tökum	nhfþ	tak
 á	aþ	á
 stjórntækjum	nhfþ	stjórntæki
 .	.	.
-
 Skemmtileg	lvensf	skemmtilegur
 vinnsla	nven	vinnsla
 Trúlega	aa	trúlega
@@ -1736,7 +1661,6 @@ og	c	og
 stærri	lvenvm	stór
 vél	nven	vél
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 nú	aa	nú
@@ -1757,7 +1681,6 @@ er	sfg3en	vera
 104	ta	104
 hestöfl	nhfn	hestafl
 .	.	.
-
 Talsmenn	nkfn	talsmaður
 umboðsins	nheeg	umboð
 hér	aa	hér
@@ -1780,7 +1703,6 @@ bjóða	sng	bjóða
 hann	fpkeo	hann
 eingöngu	aa	eingöngu
 .	.	.
-
 Með	aþ	með
 tveggja	tfkfe	tveir
 lítra	nkfe	lítri
@@ -1790,7 +1712,6 @@ Elantra	e	Elantra
 skemmtilega	aa	skemmtilega
 snaggaralegur	lkensf	snaggaralegur
 .	.	.
-
 Bæði	c	bæði
 er	sfg3en	vera
 viðbragðið	nheng	viðbragð
@@ -1812,7 +1733,6 @@ vistakstur	nkeo	vistakstur
 eða	c	eða
 sparakstur	nkeo	sparakstur
 .	.	.
-
 Vélin	nveng	vél
 er	sfg3en	vera
 líka	aa	líka
@@ -1855,7 +1775,6 @@ yfir	ao	yfir
 þau	fahfo	sá
 hraðamörk	nhfo	hraðamark
 .	.	.
-
 Uppgefinn	lkensf	uppgefinn
 hámarkshraði	nken	hámarkshraði
 bílsins	nkeeg	bíll
@@ -1871,7 +1790,6 @@ fyrir	ao	fyrir
 þann	fakeo	sá
 beinskipta	lkeovf	beinskiptur
 .	.	.
-
 Skiptingin	nveng	skipting
 er	sfg3en	vera
 þægilega	aa	þægilega
@@ -1890,7 +1808,6 @@ fyrirhafnarlaust	lhensf	fyrirhafnarlaus
 fyrir	ao	fyrir
 ökumanninn	nkeog	ökumaður
 .	.	.
-
 Hvernig	aa	hvernig
 ætti	svg3eþ	eiga
 líka	aa	líka
@@ -1898,7 +1815,6 @@ annað	fohen	annar
 að	cn	að
 vera	sng	vera
 ?	?	?
-
 Góður	lkensf	góður
 aðbúnaður	nken	aðbúnaður
 Þá	c	þá
@@ -1925,7 +1841,6 @@ og	c	og
 þreyttum	lkfþsf	þreyttur
 malbiksvegum	nkfþ	malbiksvegur
 .	.	.
-
 Þeir	fpkfn	hann
 voru	sfg3fþ	vera
 líka	aa	líka
@@ -1953,7 +1868,6 @@ hranalega	aa	hranalega
 sé	svg3en	vera
 ekið	sþghen	aka
 .	.	.
-
 Ítreka	sng	ítreka
 má	sfg3en	mega
 að	c	að
@@ -1978,7 +1892,6 @@ lúr	nkeo	lúr
 löngum	lvfþsf	langur
 leiðum	nvfþ	leið
 .	.	.
-
 Það	fphen	það
 gekk	sfg3eþ	ganga
 einnig	aa	einnig
@@ -2001,7 +1914,6 @@ vél	nveo	vél
 áleiðis	aa	áleiðis
 heim	aa	heim
 .	.	.
-
 Á	aþ	á
 þeirri	faveþ	sá
 leið	nveþ	leið
@@ -2026,7 +1938,6 @@ sæta	nhfe	sæti
 með	ao	með
 hnakkapúða	nkfo	hnakkapúði
 .	.	.
-
 Samkeppnisfær	lkensf	samkeppnisfær
 Enn	aa	enn
 er	sfg3en	vera
@@ -2050,7 +1961,6 @@ við	ao	við
 helstu	lkfove	heldri
 keppinauta	nkfo	keppinautur
 .	.	.
-
 Takist	svm3en	taka
 það	fphen	það
 verður	sfg3en	verða
@@ -2075,7 +1985,6 @@ með	aþ	með
 ýmsum	fovfþ	ýmis
 umbótum	nvfþ	umbót
 .	.	.
-
 Og	c	og
 veðja	sng	veðja
 ætti	svg3eþ	eiga
@@ -2086,9 +1995,7 @@ með	aþ	með
 stærri	lveþvm	stór
 vélinni	nveþg	vél
 .	.	.
-
 joto@mbl.is	v	joto@mbl.is
-
 BMW-þríhjól	nhen-s	BMW-þríhjól
 :	:	:
 BMW	as	BMW
@@ -2117,7 +2024,6 @@ sjónarsviðið	nheog	sjónarsvið
 árið	nheog	ár
 1955	ta	1955
 .	.	.
-
 Í	ao	í
 þetta	faheo	þessi
 skipti	nheo	skipti
@@ -2137,7 +2043,6 @@ frumlegt	lheosf	frumlegur
 eða	c	eða
 hlaupahjól	nheo	hlaupahjól
 .	.	.
-
 --	--	--
 >	>	>
 BMW	as	BMW
@@ -2166,7 +2071,6 @@ sjónarsviðið	nheog	sjónarsvið
 árið	nheog	ár
 1955	ta	1955
 .	.	.
-
 Í	ao	í
 þetta	faheo	þessi
 skipti	nheo	skipti
@@ -2186,7 +2090,6 @@ frumlegt	lheosf	frumlegur
 eða	c	eða
 hlaupahjól	nheo	hlaupahjól
 .	.	.
-
 Hlaupabrettið	nheng	hlaupabretti
 er	sfg3en	vera
 hannað	sþghen	hanna
@@ -2199,7 +2102,6 @@ og	c	og
 kallast	sfm3en	kalla
 SlideCarver	e	SlideCarver
 .	.	.
-
 Brettið	nheng	bretti
 er	sfg3en	vera
 smíðað	lhensf	smíðaður
@@ -2229,7 +2131,6 @@ fréttatilkynningu	nveþ	fréttatilkynning
 frá	aþ	frá
 BMW	as	BMW
 .	.	.
-
 Sérstakur	lkensf	sérstakur
 útbúnaður	nken	útbúnaður
 gerir	sfg3en	gera
@@ -2254,7 +2155,6 @@ vökvabremsur	nvfo	vökvabremsa
 í	aþ	í
 afturhjólunum	nhfþg	afturhjól
 .	.	.
-
 Bremsukaplarnir	nkfng	bremsukapall
 eru	sfg3fn	vera
 faldir	lkfnsf	falinn
@@ -2268,7 +2168,6 @@ framhjólinu	nheþg	framhjól
 eykur	sfg3en	auka
 þægindin	nhfog	þægindi
 .	.	.
-
 Mjög	aa	mjög
 auðvelt	lhensf	auðveldur
 er	sfg3en	vera
@@ -2290,7 +2189,6 @@ taka	sng	taka
 sundur	aa	sundur
 aftur	aa	aftur
 .	.	.
-
 Lengdin	nveng	lengd
 á	aþ	á
 hlaupabrettinu	nheþg	hlaupabretti
@@ -2311,7 +2209,6 @@ stýrisstöngin	nveng	stýrisstöng
 er	sfg3en	vera
 uppi	aa	uppi
 .	.	.
-
 Þyngd	nven	þyngd
 hlaupahjólsins	nheeg	hlaupahjól
 er	sfg3en	vera
@@ -2335,7 +2232,6 @@ tæpar	lvfosf	tæpur
 þúsund	tfvfo	þúsund
 krónur	nvfo	króna
 .	.	.
-
 Bílasýningar	nvfn	bílasýning
 á	aþ	á
 næsta	lheþve	næstur
@@ -2355,7 +2251,6 @@ næsta	lheeve	næstur
 fara	sfg3fn	fara
 fram	aa	fram
 .	.	.
-
 Á	aþ	á
 þessu	faheþ	þessi
 ári	nheþ	ár
@@ -2375,7 +2270,6 @@ Frankfurt	e	Frankfurt
 og	c	og
 Tókýó	nxeþ-s	Tókýó
 .	.	.
-
 Á	aþ	á
 næsta	lheþve	næstur
 ári	nheþ	ár
@@ -2397,7 +2291,6 @@ næsta	lheeve	næstur
 fara	sfg3fn	fara
 fram	aa	fram
 .	.	.
-
 Á	aþ	á
 þessu	faheþ	þessi
 ári	nheþ	ár
@@ -2417,7 +2310,6 @@ Frankfurt	e	Frankfurt
 og	c	og
 Tókýó	nxeþ-s	Tókýó
 .	.	.
-
 Á	aþ	á
 næsta	lheþve	næstur
 ári	nheþ	ár
@@ -2437,7 +2329,6 @@ París	nveþ-s	París
 í	aþ	í
 september	nkeþ	september
 .	.	.
-
 Eins	aa	eins
 og	c	og
 venjulega	aa	venjulega
@@ -2456,7 +2347,6 @@ opnuð	sþgven	opna
 í	aþ	í
 janúar	nkeþ	janúar
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 eina	lvenvf	einn
@@ -2483,7 +2373,6 @@ ekki	aa	ekki
 síður	aam	síður
 alþjóðleg	lvensf	alþjóðlegur
 .	.	.
-
 Hún	fpven	hún
 er	sfg3en	vera
 líka	aa	líka
@@ -2502,7 +2391,6 @@ loftslagi	nheþ	loftslag
 tíma	nkeþ	tími
 árs	nhee	ár
 .	.	.
-
 Síðan	aa	síðan
 er	sfg3en	vera
 hægt	lhensf	hægur
@@ -2515,7 +2403,6 @@ Zagreb	e	Zagreb
 eða	c	eða
 Kænugarði	nkeþ-s	Kænugarður
 .	.	.
-
 Á	aþ	á
 næsta	lheþve	næstur
 ári	nheþ	ár
@@ -2537,7 +2424,6 @@ sinni	nheþ	sinn
 eingöngu	aa	eingöngu
 atvinnubílasýning	nven	atvinnubílasýning
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 líka	aa	líka
@@ -2547,7 +2433,6 @@ Hannover	e	Hannover
 haustið	nheog	haust
 2004	ta	2004
 .	.	.
-
 Núna	aa	núna
 verður	sfg3en	verða
 bílasýningin	nveng	bílasýning
@@ -2567,7 +2452,6 @@ Tórínó	nxeþ-s	Tórínó
 fór	sfg3eþ	fara
 fram	aa	fram
 .	.	.
-
 Hún	fpven	hún
 er	sfg3en	vera
 hins	fakee	hinn
@@ -2579,7 +2463,6 @@ mörgum	lkfþsf	margur
 til	ae	til
 armæðu	nvee	armæða
 .	.	.
-
 Þeir	fakfn	sá
 sem	ct	sem
 vilja	sfg3fn	vilja
@@ -2595,9 +2478,7 @@ sýningar	nvfo	sýning
 vefnum	nkeþg	vefur
 www.oica.net	v	www.oica.net
 .	.	.
-
 www.oica.net	v	www.oica.net
-
 Hjá	aþ	hjá
 Renault	e	Renault
 á	aþ	á
@@ -2614,7 +2495,6 @@ margir	lkfnsf	margur
 fallegir	lkfnsf	fallegur
 veitingastaðir	nkfn	veitingastaður
 .	.	.
-
 Einn	foken	einn
 vekur	sfg3en	vekja
 þó	aa	þó
@@ -2628,7 +2508,6 @@ aðrir	fokfn	annar
 er	sfg3en	vera
 Renault-veitingastaðurinn	nkengs	Renault-veitingastaður
 .	.	.
-
 Guðjón	nken-s	Guðjón
 Guðmundsson	nken-s	Guðmundsson
 fékk	sfg3eþ	fá
@@ -2648,7 +2527,6 @@ draga	sfg3fn	draga
 gesti	nkfo	gestur
 að	aa	að
 .	.	.
-
 --	--	--
 >	>	>
 Veitingastaður	nken	veitingastaður
@@ -2663,7 +2541,6 @@ fyrir	aþ	fyrir
 nokkrum	fohfþ	nokkur
 árum	nhfþ	ár
 .	.	.
-
 Það	fphen	það
 vakti	sfg3eþ	vekja
 athygli	nveo	athygli
@@ -2681,7 +2558,6 @@ og	c	og
 innkaupapoka	nkfo	innkaupapoki
 gesta	nkfe	gestur
 .	.	.
-
 Þetta	fahen	þessi
 lýsir	sfg3en	lýsa
 þeirri	faveþ	sá
@@ -2695,7 +2571,6 @@ um	ao	um
 allan	fokeo	allur
 heim	nkeo	heimur
 .	.	.
-
 Í	aþ	í
 anddyri	nheþ	anddyri
 Renault-veitingahússins	nheegs	Renault-veitingahúsið
@@ -2703,7 +2578,6 @@ er	sfg3en	vera
 glænýr	lkensf	glænýr
 Scenic	e	Scenic
 .	.	.
-
 Renault	e	Renault
 hefur	sfg3en	hafa
 ávallt	aa	ávallt
@@ -2723,7 +2597,6 @@ taka	sfg3fn	taka
 niður	aa	niður
 pantanir	nvfo	pöntun
 .	.	.
-
 Á	ao	á
 vinstri	lveovf	vinstri
 hönd	nveo	hönd
@@ -2741,7 +2614,6 @@ inn	aa	inn
 sjálfan	fbkeo	sjálfur
 veitingastaðinn	nkeog	veitingastaður
 .	.	.
-
 Þar	aa	þar
 er	sfg3en	vera
 hægt	lhensf	hægur
@@ -2764,7 +2636,6 @@ skjám	nkfþ	ské
 á	aþ	á
 veggjum	nkfþ	veggur
 .	.	.
-
 Talisman	e	Talisman
 Inn	aa	inn
 af	aþ	af
@@ -2779,7 +2650,6 @@ sérstæðustu	lkfnve	sérstæður
 hugmyndabílar	nkfn	hugmyndabíll
 Renault	e	Renault
 .	.	.
-
 Þarna	aa	þarna
 mátti	sfg3eþ	mega
 sjá	sng	sjá
@@ -2794,7 +2664,6 @@ Frankfurt	e	Frankfurt
 árið	nheog	ár
 2001	ta	2001
 .	.	.
-
 Mjúk	lhfnsf	mjúkur
 og	c	og
 ávöl	lhfnsf	ávalur
@@ -2814,7 +2683,6 @@ yfirmaður	nken	yfirmaður
 hönnunardeildar	nvee	hönnunardeild
 Renault	e	Renault
 .	.	.
-
 Hann	fpken	hann
 segir	sfg3en	segja
 að	c	að
@@ -2838,7 +2706,6 @@ bíla	nkfe	bíll
 framtíðinni	nveþg	framtíð
 verði	svg3en	verða
 .	.	.
-
 En	c	en
 það	fphen	það
 er	sfg3en	vera
@@ -2852,7 +2719,6 @@ um	aa	um
 þessum	fakeþ	þessi
 bíl	nkeþ	bíll
 .	.	.
-
 Dyrnar	nvfng	dyr
 á	aþ	á
 honum	fpkeþ	hann
@@ -2866,7 +2732,6 @@ og	c	og
 vökvastýrðum	lkeþsf	vökvastýrður
 búnaði	nkeþ	búnaður
 .	.	.
-
 Innanrýmið	nheng	innanrými
 er	sfg3en	vera
 einfalt	lhensf	einfaldur
@@ -2883,7 +2748,6 @@ brjóta	sng	brjóta
 upp	aa	upp
 rýmið	nheog	rými
 .	.	.
-
 Þrjár	tfvfn	þrír
 myndavélar	nvfn	myndavél
 koma	sfg3fn	koma
@@ -2907,7 +2771,6 @@ ofan	aa	ofan
 á	aþ	á
 mælaborðinu	nheþg	mælaborð
 .	.	.
-
 Hæð	nveþ	hæð
 á	aþ	á
 framsætum	nhfþ	framsæti
@@ -2928,7 +2791,6 @@ púða	nkfo	púði
 undir	aþ	undir
 sætunum	nhfþg	sæti
 .	.	.
-
 Vélin	nveng	vél
 er	sfg3en	vera
 4,5	ta	4,5
@@ -2945,7 +2807,6 @@ bíllinn	nkeng	bíll
 er	sfg3en	vera
 afturhjóladrifinn	lkensf	afturhjóladrifinn
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 á	ao	á
@@ -2963,7 +2824,6 @@ aka	sng	aka
 missi	svg3fn	missa
 loftþrýsting	nkeo	loftþrýstingur
 .	.	.
-
 Initiale	e	Initiale
 og	c	og
 Koleos	e	Koleos
@@ -2985,7 +2845,6 @@ kominn	sþgken	koma
 á	ao	á
 markað	nkeo	markaður
 .	.	.
-
 Initiale	e	Initiale
 var	sfg3eþ	vera
 frumsýndur	sþgken	frumsýna
@@ -2994,7 +2853,6 @@ Frankfurt	e	Frankfurt
 árið	nheog	ár
 1995	ta	1995
 .	.	.
-
 Initiale	e	Initiale
 er	sfg3en	vera
 stórglæsilegur	lkensf	stórglæsilegur
@@ -3010,7 +2868,6 @@ hefð	nveþ	hefð
 franskrar	lveesf	franskur
 fólksbílagerðar	nvee	fólksbílagerð
 .	.	.
-
 Framrúðan	nveng	framrúða
 á	aþ	á
 Initiale	e	Initiale
@@ -3034,7 +2891,6 @@ skuggsýnt	lhensf	skuggsýnn
 í	aþ	í
 bílnum	nkeþg	bíll
 .	.	.
-
 Framsætunum	nhfþg	framsæti
 tveimur	tfhfþ	tveir
 er	sfg3en	vera
@@ -3052,7 +2908,6 @@ aðgengi	nheo	aðgengi
 að	aþ	að
 bílnum	nkeþg	bíll
 .	.	.
-
 Vélin	nveng	vél
 kemur	sfg3en	koma
 frá	aþ	frá
@@ -3082,7 +2937,6 @@ við	ao	við
 6.200	ta	6.200
 snúninga	nkfo	snúningur
 .	.	.
-
 Aflið	nheng	afl
 fer	sfg3en	fara
 jafnt	aa	jafnt
@@ -3101,7 +2955,6 @@ flestu	lheþse	margur
 öðru	foheþ	annar
 tilheyrandi	lheþof	tilheyrandi
 .	.	.
-
 Koleos-jeppinn	nkeng	koleos-jeppi
 er	sfg3en	vera
 einn	foken	einn
@@ -3122,7 +2975,6 @@ Genf	e	Genf
 árið	nheog	ár
 2000	ta	2000
 .	.	.
-
 Koleos	e	Koleos
 er	sfg3en	vera
 blanda	nven	blanda
@@ -3143,7 +2995,6 @@ bensínvél	nveo	bensínvél
 og	c	og
 rafmótor	nkeo	rafmótor
 .	.	.
-
 Yfirbygging	nven	yfirbygging
 bílsins	nkeeg	bíll
 er	sfg3en	vera
@@ -3153,7 +3004,6 @@ leyti	nheþ	leyti
 úr	aþ	úr
 trefjaplasti	nheþ	trefjaplast
 .	.	.
-
 Le	e	Le
 Quement	e	Quement
 kvaðst	sfm3eþ	kveða
@@ -3189,7 +3039,6 @@ yrði	svg3eþ	verða
 boðinn	sþgken	bjóða
 fram	aa	fram
 .	.	.
-
 Þegar	c	þegar
 hönnun	nven	hönnun
 hófst	sfm3eþ	hefja
@@ -3227,7 +3076,6 @@ að	cn	að
 knýja	sng	knýja
 afturhjólin	nhfog	afturhjól
 .	.	.
-
 Eftir	ao	eftir
 tengslin	nhfog	tengsl
 við	ao	við
@@ -3253,7 +3101,6 @@ V6-	nvfþ-s	V6-vél
 og	c	og
 V8-vélum	nvfþ-s	V8-vél
 .	.	.
-
 Evrópuferð	nven	Evrópuferð
 með	aþ	með
 íslenskum	lhfþsf	íslenskur
@@ -3274,7 +3121,6 @@ birtust	sfm3fþ	birta
 hraðbrautum	nvfþ	hraðbraut
 Þýskalands	nhee-s	Þýskaland
 .	.	.
-
 Þarna	aa	þarna
 voru	sfg3fþ	vera
 á	aþ	á
@@ -3283,7 +3129,6 @@ félagar	nkfn	félagi
 í	aþ	í
 Sérsveitinni	nveþgs	Sérsveit
 .	.	.
-
 Guðjón	nken-s	Guðjón
 Guðmundsson	nken-s	Guðmundsson
 ræddi	sfg3eþ	ræða
@@ -3293,7 +3138,6 @@ Björnsson	nkeo-s	Björnsson
 um	ao	um
 ferðalagið	nheog	ferðalag
 .	.	.
-
 --	--	--
 >	>	>
 TUTTUGU	tfkfn	tuttugu
@@ -3324,7 +3168,6 @@ Evrópu	nvee-s	Evrópa
 byrjun	nveþ	byrjun
 júní	nkee	júní
 .	.	.
-
 Ferðinni	nveþg	ferð
 var	sfg3eþ	vera
 heitið	sþghen	heita
@@ -3342,7 +3185,6 @@ Hanstholm	e	Hanstholm
 í	aþ	í
 Danmörku	nveþ-s	Danmörk
 .	.	.
-
 Gísli	nken-s	Gísli
 Björnsson	nken-s	Björnsson
 ,	,	,
@@ -3371,13 +3213,11 @@ Rós	nveþ-s	Rós
 átta	tfhfe	átta
 ára	nhfe	ár
 .	.	.
-
 Allir	fokfn	allur
 breyttir	lkfnsf	breyttur
 fyrir	ao	fyrir
 38	ta	38
 tommur	nvfo	tomma
-
 Undirbúningur	nken	undirbúningur
 er	sfg3en	vera
 búinn	lkensf	búinn
@@ -3388,7 +3228,6 @@ yfir	aa	yfir
 tvö	tfhfo	tveir
 ár	nhfo	ár
 .	.	.
-
 Ferðahópurinn	nkeng	ferðahópur
 Sérsveitin	nvengs	Sérsveit
 hefur	sfg3en	hafa
@@ -3396,7 +3235,6 @@ ferðast	ssm	ferðast
 mikið	aa	mikið
 saman	aa	saman
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 hópur	nken	hópur
@@ -3405,14 +3243,12 @@ Vesturlandsdeildar	nvee-s	Vesturlandsdeild
 Ferðaklúbbsins	nkeegs	ferðaklúbbur
 4x4	ta	4x4
 .	.	.
-
 Við	fp1fn	ég
 höfum	sfg1fn	hafa
 ferðast	ssm	ferðast
 mikið	aa	mikið
 innanlands	aa	innanlands
 .	.	.
-
 Þegar	c	þegar
 við	fp1fn	ég
 heyrðum	sfg1fþ	heyra
@@ -3441,7 +3277,6 @@ tekin	sþgven	taka
 í	ao	í
 gagnið	nheog	gagn
 .	.	.
-
 Það	fphen	það
 frestaðist	sfm3eþ	fresta
 síðan	aa	síðan
@@ -3467,7 +3302,6 @@ sumar	nheo	sumar
 segir	sfg3en	segja
 Gísli	nken-s	Gísli
 .	.	.
-
 Jepparnir	nkfng	jeppi
 átta	tfkfn	átta
 eru	sfg3fn	vera
@@ -3494,7 +3328,6 @@ einn	tfken	einn
 stór	lkensf	stór
 Ford	e	Ford
 .	.	.
-
 Allir	fokfn	allur
 voru	sfg3fþ	vera
 með	ao	með
@@ -3503,7 +3336,6 @@ fellihýsi	nhfo	fellihýsi
 að	aa	að
 auki	aa	auki
 .	.	.
-
 Frá	aþ	frá
 Hanstholm	e	Hanstholm
 lá	sfg3eþ	liggja
@@ -3521,7 +3353,6 @@ um	aa	um
 viku	nvee	vika
 tíma	nkeo	tími
 .	.	.
-
 Leiðin	nveng	leið
 lá	sfg3eþ	liggja
 síðan	aa	síðan
@@ -3534,7 +3365,6 @@ leið	nveo	leið
 til	ae	til
 Svartaskógar	nkee-s	Svartiskógur
 .	.	.
-
 Dvalist	sþmhen	dvelja
 var	sfg3eþ	vera
 í	ao	í
@@ -3552,12 +3382,10 @@ af	aþ	af
 tagi	nheþ	tag
 rækilega	aa	rækilega
 ?	?	?
-
 Við	fp1fn	ég
 gerðum	sfg1fþ	gera
 það	fpheo	það
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 stór	lkensf	stór
@@ -3575,7 +3403,6 @@ mestu	lheþse	mikill
 leyti	nheþ	leyti
 standast	snm	standa
 .	.	.
-
 Að	aþ	að
 vísu	lheþsf	vís
 ferðuðumst	sfm1fþ	ferðast
@@ -3591,7 +3418,6 @@ sem	ct	sem
 gekk	sfg3eþ	ganga
 yfir	aa	yfir
 .	.	.
-
 Hitinn	nkeng	hiti
 fór	sfg3eþ	fara
 upp	aa	upp
@@ -3609,7 +3435,6 @@ ekki	aa	ekki
 höfðu	sfg3fþ	hafa
 loftkælingu	nveo	loftkæling
 .	.	.
-
 En	c	en
 við	fp1fn	ég
 höfðum	sfg1fþ	hafa
@@ -3621,7 +3446,6 @@ notuðum	sfg1fþ	nota
 þau	fphfo	það
 mikið	aa	mikið
 .	.	.
-
 Vöktu	sfg3fþ	vekja
 athygli	nveo	athygli
 í	aþ	í
@@ -3633,7 +3457,6 @@ athygli	nveo	athygli
 í	aþ	í
 Þýskalandi	nheþ-s	Þýskaland
 .	.	.
-
 Menn	nkfn	maður
 botnuðu	sfg3fþ	botna
 ekkert	foheo	enginn
@@ -3648,7 +3471,6 @@ að	cn	að
 þessum	fakfþ	þessi
 bílum	nkfþ	bíll
 .	.	.
-
 Fjórir	tfkfn	fjórir
 bílanna	nkfeg	bíll
 voru	sfg3fþ	vera
@@ -3670,14 +3492,12 @@ splundrast	snm	splundra
 þessum	fakfþ	þessi
 hitum	nkfþ	hiti
 .	.	.
-
 En	c	en
 það	fphen	það
 reyndust	sfm3fþ	reyna
 óþarfa	nkee	óþarfi
 áhyggjur	nvfn	áhyggja
 .	.	.
-
 Þegar	c	þegar
 við	fp1fn	ég
 komum	sfg1fþ	koma
@@ -3689,7 +3509,6 @@ jafnan	aa	jafnan
 mikla	lveosf	mikill
 athygli	nveo	athygli
 .	.	.
-
 Bílarnir	nkfng	bíll
 og	c	og
 fellihýsin	nhfng	fellihýsi
@@ -3713,7 +3532,6 @@ gata	nven	gata
 fyrir	ao	fyrir
 okkur	fp1fo	ég
 .	.	.
-
 Það	fphen	það
 tók	sfg3eþ	taka
 okkur	fp1fo	ég
@@ -3731,7 +3549,6 @@ ekki	aa	ekki
 vanir	lkfnsf	vanur
 fellihýsum	nhfþ	fellihýsi
 .	.	.
-
 Þarna	aa	þarna
 eru	sfg3fn	vera
 flestir	lkfnse	margur
@@ -3745,7 +3562,6 @@ sumarið	nheog	sumar
 á	aþ	á
 tjaldsvæðunum	nhfþg	tjaldsvæði
 .	.	.
-
 Aðrir	fokfn	annar
 á	aþ	á
 tjaldsvæðunum	nhfþg	tjaldsvæði
@@ -3764,7 +3580,6 @@ fellihýsin	nhfog	fellihýsi
 og	c	og
 Ísland	nheo-s	Ísland
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 mikill	lkensf	mikill
@@ -3775,7 +3590,6 @@ mikill	lkensf	mikill
 segir	sfg3en	segja
 Gísli	nken-s	Gísli
 .	.	.
-
 Hópurinn	nkeng	hópur
 gerði	sfg3eþ	gera
 ferðaáætlanir	nvfo	ferðaáætlun
@@ -3789,7 +3603,6 @@ sem	ct	sem
 kallast	sfm3en	kalla
 McPoint	e	McPoint
 .	.	.
-
 Tölvan	nveng	tölva
 var	sfg3eþ	vera
 tengd	sþgven	tengja
@@ -3806,7 +3619,6 @@ sína	feveo	sinn
 hverju	foheþ	hver
 sinni	nheþ	sinn
 .	.	.
-
 Við	fp1fn	ég
 stoppuðum	sfg1fþ	stoppa
 einna	fohfe	einn
@@ -3820,7 +3632,6 @@ mjög	aa	mjög
 yndislegt	lhensf	yndislegur
 umhverfi	nhen	umhverfi
 .	.	.
-
 Við	fp1fn	ég
 vorum	sfg1fþ	vera
 við	ao	við
@@ -3835,7 +3646,6 @@ feykilega	aa	feykilega
 fallegt	lhensf	fallegur
 umhverfi	nhen	umhverfi
 .	.	.
-
 Þarna	aa	þarna
 notuðum	sfg1fþ	nota
 við	fp1fn	ég
@@ -3850,7 +3660,6 @@ með	aþ	með
 að	cn	að
 gera	sng	gera
 .	.	.
-
 Aðstaða	nven	aðstaða
 til	ae	til
 hjólreiða	nvfe	hjólreið
@@ -3859,7 +3668,6 @@ til	ae	til
 fyrirmyndar	nvee	fyrirmynd
 þarna	aa	þarna
 .	.	.
-
 Kostar	sfg3en	kosta
 svipað	lheosf	svipaður
 og	c	og
@@ -3882,7 +3690,6 @@ upp	aa	upp
 sé	svg3en	vera
 staðið	sþghen	standa
 .	.	.
-
 Svipað	lheosf	svipaður
 kostar	sfg3en	kosta
 að	cn	að
@@ -3919,7 +3726,6 @@ hér	aa	hér
 á	aþ	á
 landi	nheþ	land
 .	.	.
-
 Við	fp1fn	ég
 keyptum	sfg1fþ	kaupa
 bók	nveo	bók
@@ -3935,7 +3741,6 @@ upp	aa	upp
 úr	aþ	úr
 henni	fpveþ	hún
 .	.	.
-
 Þarna	aa	þarna
 eru	sfg3fn	vera
 sturtur	nvfn	sturta
@@ -3948,7 +3753,6 @@ víða	aa	víða
 einnig	aa	einnig
 sundlaugar	nvfn	sundlaug
 .	.	.
-
 Þarna	aa	þarna
 eru	sfg3fn	vera
 líka	aa	líka
@@ -3958,7 +3762,6 @@ krár	nvfn	krá
 og	c	og
 fleira	lhenvm	margur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 nóg	lhensf	nógur
@@ -3983,7 +3786,6 @@ flykkjast	sfm3fn	flykkja
 á	ao	á
 tjaldsvæðin	nhfog	tjaldsvæði
 .	.	.
-
 Ég	fp1en	ég
 mæli	sfg1en	mæla
 eindregið	aa	eindregið
@@ -3994,9 +3796,7 @@ ferðalagi	nheþ	ferðalag
 segir	sfg3en	segja
 Gísli	nken-s	Gísli
 .	.	.
-
 gugu@mbl.is	v	gugu@mbl.is
-
 Ralf	e	Ralf
 sver	sfg3en	sverja
 af	aþ	af
@@ -4036,7 +3836,6 @@ bílar	nkfn	bíll
 úr	aþ	úr
 leik	nkeþ	leikur
 .	.	.
-
 Ágúst	nken-s	Ágúst
 Ásgeirsson	nken-s	Ásgeirsson
 fjallar	sfg3en	fjalla
@@ -4048,7 +3847,6 @@ Hockenheim	e	Hockenheim
 sl.	as	sl.
 sunnudag	nkeo	sunnudagur
 .	.	.
-
 --	--	--
 >	>	>
 Ralf	e	Ralf
@@ -4117,7 +3915,6 @@ móts	nhee	mót
 í	aþ	í
 Ungverjalandi	nheþ-s	Ungverjaland
 .	.	.
-
 Með	aþ	með
 refsingunni	nveþg	refsing
 hefur	sfg3en	hafa
@@ -4140,7 +3937,6 @@ ráspólinn	nkeog	ráspóll
 því	faheþ	sá
 móti	nheþ	mót
 .	.	.
-
 Þótti	sfg3eþ	þykja
 hann	fpken	hann
 hafa	sng	hafa
@@ -4171,7 +3967,6 @@ hafi	svg3en	hafa
 sér	fpkeþ	sig
 stað	nkeo	staður
 .	.	.
-
 Ralf	e	Ralf
 nuddaðist	sfm3eþ	nudda
 utan	aa	utan
@@ -4195,7 +3990,6 @@ fyrir	ao	fyrir
 fyrstu	lveove	fyrstur
 beygju	nveo	beygja
 .	.	.
-
 Var	sfg3eþ	vera
 Barrichello	e	Barrichello
 engrar	fovee	enginn
@@ -4221,7 +4015,6 @@ féllu	sfg3fþ	falla
 úr	aþ	úr
 leik	nkeþ	leikur
 .	.	.
-
 Þrír	tfkfn	þrír
 bílar	nkfn	bíll
 drógust	sfm3fþ	draga
@@ -4248,7 +4041,6 @@ Sauber-bíll	nken-s	Sauber-bíll
 Heinz-Haralds	e	Heinz-Haralds
 Frentzens	e	Frentzens
 .	.	.
-
 Räikkönen	e	Räikkönen
 hlaut	sfg3eþ	hljóta
 einna	fokfe	einn
@@ -4276,7 +4068,6 @@ skall	sfg3eþ	skella
 á	ao	á
 öryggisvegg	nkeo	öryggisveggur
 .	.	.
-
 Dómnefndin	nveng	dómnefnd
 komst	sfm3eþ	koma
 að	aþ	að
@@ -4308,7 +4099,6 @@ valdur	lkensf	valdur
 að	aþ	að
 atvikinu	nheþg	atvik
 .	.	.
-
 Hafi	svg3en	hafa
 hann	fpken	hann
 lokað	ssg	loka
@@ -4339,7 +4129,6 @@ Räikkönens	e	Räikkönens
 fullri	lveþsf	fullur
 ferð	nveþ	ferð
 .	.	.
-
 Ökuþórarnir	nkfng	ökuþór
 voru	sfg3fþ	vera
 allir	fokfn	allur
@@ -4357,7 +4146,6 @@ sín	fehfo	sinn
 varðandi	slg	varða
 atvikið	nheog	atvik
 .	.	.
-
 Tilkynnti	sfg3eþ	tilkynna
 Williams-liðið	nhengs	Williams-lið
 þegar	aa	þegar
@@ -4382,7 +4170,6 @@ fyrir	ao	fyrir
 ungverska	lkeovf	ungverskur
 kappaksturinn	nkeog	kappakstur
 .	.	.
-
 Ralf	e	Ralf
 gætti	sfg3eþ	gæta
 ekki	aa	ekki
@@ -4433,7 +4220,6 @@ inn	aa	inn
 fyrstu	lveove	fyrstur
 beygju	nveo	beygja
 .	.	.
-
 Er	sfg3en	vera
 þetta	fahen	þessi
 í	ao	í
@@ -4447,7 +4233,6 @@ refsingar	nvee	refsing
 sem	ct	sem
 þessarar	favee	þessi
 .	.	.
-
 Sauber-þórinn	nkengs	Sauber-þór
 Felipe	e	Felipe
 Massa	e	Massa
@@ -4472,7 +4257,6 @@ að	aþ	að
 afstýranlegu	lheþsf	afstýranlegur
 slysi	nheþ	slys
 .	.	.
-
 Ralf	e	Ralf
 Schumacher	e	Schumacher
 var	sfg3eþ	vera
@@ -4495,7 +4279,6 @@ inn	aa	inn
 að	aþ	að
 beygjunni	nveþg	beygja
 .	.	.
-
 Vitaskuld	aa	vitaskuld
 var	sfg3eþ	vera
 þetta	fahen	þessi
@@ -4515,7 +4298,6 @@ er	sfg3en	vera
 á	aþ	á
 þingi	nheþ	þing
 .	.	.
-
 Ég	fp1en	ég
 held	sfg1en	halda
 ekki	aa	ekki
@@ -4540,7 +4322,6 @@ mína	feveo	minn
 sagði	sfg3eþ	segja
 Ralf	e	Ralf
 .	.	.
-
 Maður	nken	maður
 getur	sfg3en	geta
 ekki	aa	ekki
@@ -4565,7 +4346,6 @@ sér	fphfþ	sig
 stundum	aa	stundum
 stað	nkeo	staður
 .	.	.
-
 Ég	fp1en	ég
 var	sfg1eþ	vera
 einfaldlega	aa	einfaldlega
@@ -4592,7 +4372,6 @@ að	cn	að
 forðast	snm	forða
 mig	fp1eo	ég
 .	.	.
-
 Það	fphen	það
 urðu	sfg3fþ	verða
 svo	aa	svo
@@ -4617,10 +4396,8 @@ sagði	sfg3eþ	segja
 Ralf	e	Ralf
 Schumacher	e	Schumacher
 .	.	.
-
 Barrichello	e	Barrichello
 svekktur	lkensf	svekktur
-
 Ég	fp1en	ég
 er	sfg1en	vera
 afar	aa	afar
@@ -4635,7 +4412,6 @@ auðið	lheosf	auðið
 sagði	sfg3eþ	segja
 Barrichello	e	Barrichello
 .	.	.
-
 Ræsingin	nveng	ræsing
 hjá	aþ	hjá
 mér	fp1eþ	ég
@@ -4643,7 +4419,6 @@ var	sfg3eþ	vera
 í	aþ	í
 meðallagi	nheþ	meðallag
 .	.	.
-
 Mér	fp1eþ	ég
 fannst	sfm3eþ	finna
 bæði	c	bæði
@@ -4667,7 +4442,6 @@ komast	snm	koma
 fram	aa	fram
 úr	aa	úr
 .	.	.
-
 Ralf	e	Ralf
 sveigði	sfg3eþ	sveigja
 yfir	aa	yfir
@@ -4679,7 +4453,6 @@ mér	fp1eþ	ég
 ekkert	foheo	enginn
 svigrúm	nheo	svigrúm
 .	.	.
-
 Ég	fp1en	ég
 bremsaði	sfg1eþ	bremsa
 en	c	en
@@ -4689,7 +4462,6 @@ skell	nkeo	skellur
 á	ao	á
 bílinn	nkeog	bíll
 .	.	.
-
 Hreyfði	sfg1eþ	hreyfa
 þó	aa	þó
 ekki	aa	ekki
@@ -4700,7 +4472,6 @@ aldrei	aa	aldrei
 um	ao	um
 akstursstefnu	nveo	akstursstefna
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 mjög	aa	mjög
@@ -4720,7 +4491,6 @@ Barrichello	e	Barrichello
 um	ao	um
 atvikið	nheog	atvik
 .	.	.
-
 Ég	fp1en	ég
 náði	sfg1eþ	ná
 góðu	lheþsf	góður
@@ -4733,7 +4503,6 @@ eftir	aþ	eftir
 ytri	lkeþvm	ytri
 brautarjaðrinum	nkeþg	brautarjaðar
 .	.	.
-
 Var	sfg1eþ	vera
 kominn	sþgken	koma
 fram	aa	fram
@@ -4751,7 +4520,6 @@ og	c	og
 enga	foveo	enginn
 undankomuleið	nveo	undankomuleið
 .	.	.
-
 Ég	fp1en	ég
 veit	sfg1en	vita
 ekki	aa	ekki
@@ -4781,7 +4549,6 @@ Räikkönen	e	Räikkönen
 hins	fakee	hinn
 vegar	nkee	vegur
 .	.	.
-
 Ánægður	lkensf	ánægður
 að	c	að
 dekkið	nheng	dekk
@@ -4801,7 +4568,6 @@ væri	svg3eþ	vera
 að	cn	að
 sakast	snm	saka
 .	.	.
-
 Skaust	sfm3eþ	skjóta
 hann	fpken	hann
 við	ao	við
@@ -4836,7 +4602,6 @@ frá	aþ	frá
 hinni	faveþ	hinn
 hliðinni	nveþg	hlið
 .	.	.
-
 Vegna	ae	vegna
 árekstursins	nkeeg	árekstur
 féllu	sfg3fþ	falla
@@ -4845,7 +4610,6 @@ allir	fokfn	allur
 úr	aþ	úr
 leik	nkeþ	leikur
 .	.	.
-
 Ég	fp1en	ég
 finn	sfg1en	finna
 mjög	aa	mjög
@@ -4891,7 +4655,6 @@ skall	sfg3eþ	skella
 á	ao	á
 öryggisvegg	nkeo	öryggisveggur
 .	.	.
-
 Ég	fp1en	ég
 held	sfg1en	halda
 það	fphen	það
@@ -4908,7 +4671,6 @@ við	ao	við
 ytri	lkeovm	ytri
 jaðar	nkeo	jaðar
 .	.	.
-
 Ég	fp1en	ég
 var	sfg1eþ	vera
 kominn	sþgken	koma
@@ -4916,7 +4678,6 @@ fram	aa	fram
 úr	aþ	úr
 Rubens	e	Rubens
 .	.	.
-
 Veit	sfg1en	vita
 ekki	aa	ekki
 hvað	fshen	hver
@@ -4932,7 +4693,6 @@ með	aþ	með
 þessum	fakeþ	þessi
 hætti	nkeþ	háttur
 .	.	.
-
 Hafi	svg3en	hafa
 ekki	aa	ekki
 verið	ssg	vera
@@ -4946,7 +4706,6 @@ aftan	aa	aftan
 hans	fpkee	hann
 bíl	nkeo	bíll
 .	.	.
-
 Ég	fp1en	ég
 tek	sfg1en	taka
 ekki	aa	ekki
@@ -4963,7 +4722,6 @@ við	aa	við
 sagði	sfg3eþ	segja
 Räikkönen	e	Räikkönen
 .	.	.
-
 Hann	fpken	hann
 sagði	sfg3eþ	segja
 að	c	að
@@ -4990,7 +4748,6 @@ Schumacher	e	Schumacher
 undir	ao	undir
 lokin	nhfog	lok
 .	.	.
-
 Fyrir	ao	fyrir
 vikið	nheog	vik
 féll	sfg3eþ	falla

@@ -8,7 +8,6 @@ til	ae	til
 hækkaðra	lhfesf	hækkaður
 fargjalda	nhfe	fargjald
 .	.	.
-
 -	-	-
 Virðisaukaskattskylda	nven	virðisaukaskattskylda
 felur	sfg3en	fela
@@ -37,7 +36,6 @@ framkvæmd	nveþ	framkvæmd
 þessari	faveþ	þessi
 atvinnugrein	nveþ	atvinnugrein
 .	.	.
-
 -	-	-
 Skattskyldan	nveng	skattskylda
 skapar	sfg3en	skapa
@@ -52,7 +50,6 @@ fólksbifreiða	nvfe	fólksbifreið
 og	c	og
 hópbifreiða	nvfe	hópbifreið
 .	.	.
-
 Almennt	aa	almennt
 liggur	sfg3en	liggja
 bann	nhen	bann
@@ -63,7 +60,6 @@ af	aþ	af
 slíkra	fbvfe	slíkur
 bifreiða	nvfe	bifreið
 .	.	.
-
 Ætluðum	lkeþsf	ætlaður
 tilgangi	nkeþ	tilgangur
 breytinga	nvfe	breyting
@@ -104,7 +100,6 @@ af	aþ	af
 öðrum	fokeþ	annar
 toga	nkeþ	togi
 .	.	.
-
 -	-	-
 Virðisaukaskattskylda	nven	virðisaukaskattskylda
 á	ao	á
@@ -116,7 +111,6 @@ sæta	sng	sæta
 mikilli	lveþsf	mikill
 andstöðu	nveþ	andstaða
 .	.	.
-
 -	-	-
 Breytingin	nveng	breyting
 hefði	svg3eþ	hafa
@@ -146,7 +140,6 @@ innanlands	aa	innanlands
 og	c	og
 utan	aa	utan
 .	.	.
-
 Þá	aa	þá
 má	sfg3en	mega
 einnig	aa	einnig
@@ -160,7 +153,6 @@ starfsemi	nvee	starfsemi
 hópferðaleyfishafa	nkfe	hópferðaleyfishafi
 ylli	svg3eþ	valda
 .	.	.
-
 Líta	sng	líta
 þarf	sfg3en	þurfa
 á	ao	á
@@ -169,7 +161,6 @@ sem	c	sem
 eina	tfveo	einn
 heild	nveo	heild
 .	.	.
-
 Yrðu	svg3fþ	verða
 hópferðaleyfishafar	nkfn	hópferðaleyfishafi
 virðisaukaskattskyldir	lkfnsf	virðisaukaskattskyldur
@@ -187,7 +178,6 @@ og	c	og
 flug	nhen	flug
 undanþegnar	lvfnsf	undanþeginn
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 erfiðleikum	nkfþ	erfiðleiki
@@ -210,7 +200,6 @@ hækkun	nveo	hækkun
 flugfargjöldum	nhfþ	flugfargjald
 innanlands	aa	innanlands
 .	.	.
-
 2.2.3	ta	2.2.3
 Endurgreiðsla	nven	endurgreiðsla
 virðisaukaskatts	nkee	virðisaukaskattur
@@ -258,7 +247,6 @@ að	c	að
 almenningsvögnum	nkfþ	almenningsvagn
 undanskildum	lkfþsf	undanskilinn
 .	.	.
-
 Heimildin	nveng	heimild
 átti	sfg3eþ	eiga
 að	cn	að
@@ -278,7 +266,6 @@ framlengd	sþgven	framlengja
 í	ao	í
 tvígang	nkeo	tvígangur
 .	.	.
-
 Í	ao	í
 fyrra	lheovm	fyrri
 skiptið	nheog	skipti
@@ -303,7 +290,6 @@ til	ae	til
 desember	nkee	desember
 2006	ta	2006
 .	.	.
-
 Endurgreiðsluheimildin	nveng	endurgreiðsluheimild
 er	sfg3en	vera
 bundin	sþgven	binda
@@ -324,7 +310,6 @@ eru	sfg3fn	vera
 á	aþ	á
 tímabilinu	nheþg	tímabil
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 það	fphen	það
@@ -341,7 +326,6 @@ EURO2	x	EURO2
 staðli	nkeþ	staðall
 Evrópusambandsins	nheegs	Evrópusamband
 .	.	.
-
 Í	aþ	í
 greinargerð	nveþ	greinargerð
 sem	ct	sem
@@ -372,7 +356,6 @@ orðinn	sþgken	verða
 óeðlilega	aa	óeðlilega
 gamall	lkensf	gamall
 .	.	.
-
 Nú	aa	nú
 er	sfg3en	vera
 svo	aa	svo
@@ -394,7 +377,6 @@ ferðaþjónustu	nvee	ferðaþjónusta
 fyrir	aþ	fyrir
 þrifum	nhfþ	þrif
 .	.	.
-
 Ljóst	lhensf	ljós
 er	sfg3en	vera
 að	c	að
@@ -427,7 +409,6 @@ umferðaröryggi	nheþ	umferðaröryggi
 vegum	nkfþ	vegur
 landsins	nheeg	land
 .	.	.
-
 Í	aþ	í
 öðru	lheþsf	öðr
 lagi	nheþ	lag
@@ -439,7 +420,6 @@ gömlu	lvfþvf	gamall
 hópferðabifreiðum	nvfþ	hópferðabifreið
 mikil	lvensf	mikill
 .	.	.
-
 Í	aþ	í
 frumvarpinu	nheþg	frumvarp
 er	sfg3en	vera
@@ -468,7 +448,6 @@ hafa	sfg3fn	hafa
 verið	ssg	vera
 notaðar	sþgvfn	nota
 .	.	.
-
 Verði	svg3en	verða
 frumvarp	nhen	frumvarp
 þetta	fahen	þessi
@@ -483,7 +462,6 @@ jákvæð	lhfosf	jákvæður
 á	ao	á
 umhverfið	nheog	umhverfi
 .	.	.
-
 Með	aþ	með
 frumvarpinu	nheþg	frumvarp
 er	sfg3en	vera
@@ -510,7 +488,6 @@ og	c	og
 og	c	og
 umhverfismálum	nhfþ	umhverfismál
 .	.	.
-
 Ef	c	ef
 frumvarpið	nheng	frumvarp
 verður	sfg3en	verða
@@ -539,7 +516,6 @@ eða	c	eða
 sambærilegar	lvfosf	sambærilegur
 aflvélar	nvfo	aflvél
 .	.	.
-
 Endurgreiðsluheimildin	nveng	endurgreiðsluheimild
 mun	sfg3en	munu
 einnig	aa	einnig
@@ -551,7 +527,6 @@ staðla	nkfe	staðall
 t.d.	as	t.d.
 EURO3	x	EURO3
 .	.	.
-
 Bent	sþghen	benda
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -587,7 +562,6 @@ hópferðabifreiða	nvfe	hópferðabifreið
 erfitt	lheosf	erfiður
 fyrir	aa	fyrir
 .	.	.
-
 Ef	c	ef
 frumvarpið	nheng	frumvarp
 verður	sfg3en	verða
@@ -608,7 +582,6 @@ sömu	fbveþ	sami
 starfsemi	nveþ	starfsemi
 hérlendis	aa	hérlendis
 .	.	.
-
 Til	ae	til
 þess	fphee	það
 að	cn	að
@@ -638,7 +611,6 @@ til	ae	til
 ársloka	nhfe	árslok
 2003	ta	2003
 .	.	.
-
 Miðað	sþghen	miða
 er	sfg3en	vera
 við	ao	við
@@ -677,7 +649,6 @@ að	aþ	að
 nýju	lheþsf	nýr
 rekstrarári	nheþ	rekstrarár
 .	.	.
-
 Í	aþ	í
 frumvarpinu	nheþg	frumvarp
 er	sfg3en	vera
@@ -713,7 +684,6 @@ af	aþ	af
 hópferðabifreiðaflota	nkeþ	hópferðabifreiðafloti
 landsins	nheeg	land
 .	.	.
-
 Með	aþ	með
 almenningsvögnum	nkfþ	almenningsvagn
 er	sfg3en	vera
@@ -733,7 +703,6 @@ gegn	aþ	gegn
 fyrirframákveðnu	lheþsf	fyrirframákveðinn
 gjaldi	nheþ	gjald
 .	.	.
-
 Endurgreiðslunni	nveþg	endurgreiðsla
 er	sfg3en	vera
 ekki	aa	ekki
@@ -764,7 +733,6 @@ hér	aa	hér
 á	aþ	á
 landi	nheþ	land
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 upplýsingum	nvfþ	upplýsing
 frá	aþ	frá
@@ -790,7 +758,6 @@ vera	sng	vera
 bilinu	nheþg	bil
 15-20	ta	15-20
 m.kr.	as	m.kr.
-
 Samkvæmt	aþ	samkvæmt
 frumvarpinu	nheþg	frumvarp
 mun	sfg3en	munu
@@ -804,7 +771,6 @@ nema	sng	nema
 tæpum	lvfþsf	tæpur
 3	ta	3
 m.kr.	as	m.kr.
-
 Árið	nheog	ár
 2000	ta	2000
 voru	sfg3fþ	vera
@@ -826,7 +792,6 @@ nema	sng	nema
 u.þ.b.	as	u.þ.b.
 50	ta	50
 m.kr.	as	m.kr.
-
 Gera	sng	gera
 verður	sfg3en	verða
 þann	fakeo	sá
@@ -860,7 +825,6 @@ aukist	svm3en	auka
 töluvert	aa	töluvert
 .	.	.
 »	»	»
-
 Í	aþ	í
 nefndaráliti	nheþ	nefndarálit
 efnahags-	nvee	efnahagsnefnd
@@ -915,7 +879,6 @@ eða	c	eða
 leigu	nvee	leiga
 hópferðabifreiða	nvfe	hópferðabifreið
 .	.	.
-
 Nefndin	nveng	nefnd
 bendir	sfg3en	benda
 á	ao	á
@@ -946,7 +909,6 @@ með	aþ	með
 höndum	nvfþ	hönd
 hópferðabifreiðaþjónustu	nveo	hópferðabifreiðaþjónusta
 .	.	.
-
 Að	aþ	að
 öllu	foheþ	allur
 jöfnu	lheþsf	jafn
@@ -963,7 +925,6 @@ séu	svg3fn	vera
 almennar	lvfnsf	almennur
 .	.	.
 »	»	»
-
 Samtals	aa	samtals
 hafa	sfg3fn	hafa
 því	aa	því
@@ -989,7 +950,6 @@ króna	nvfe	króna
 að	aþ	að
 meðaltali	nheþ	meðaltal
 .	.	.
-
 Er	sfg3en	vera
 því	aa	því
 ekki	aa	ekki
@@ -1012,7 +972,6 @@ endurnýja	sng	endurnýja
 atvinnutæki	nhfo	atvinnutæki
 sín	fehfo	sinn
 .	.	.
-
 Eins	aa	eins
 og	c	og
 áður	aa	áður
@@ -1040,7 +999,6 @@ minni	lhfovm	lítill
 vegna	ae	vegna
 olíugjalds	nhee	olíugjald
 .	.	.
-
 Er	sfg3en	vera
 því	aa	því
 í	aþ	í
@@ -1066,7 +1024,6 @@ umhverfisvæn	lhfosf	umhverfisvænn
 rekstri	nkeþ	rekstur
 sínum	fekeþ	sinn
 .	.	.
-
 Benda	sng	benda
 verður	sfg3en	verða
 á	ao	á
@@ -1098,7 +1055,6 @@ lægri	lvfnvm	lágur
 hverju	foheþ	hver
 ári	nheþ	ár
 .	.	.
-
 Evrópusambandið	nhengs	Evrópusamband
 hefur	sfg3en	hafa
 gert	ssg	gera
@@ -1112,7 +1068,6 @@ vélum	nvfþ	vél
 í	aþ	í
 bifreiðum	nvfþ	bifreið
 .	.	.
-
 Bifreið	nven	bifreið
 með	ao	með
 þessa	faveo	þessi
@@ -1128,7 +1083,6 @@ og	c	og
 með	aa	með
 umhverfisáhrif	nhfo	umhverfisáhrif
 .	.	.
-
 Bifreiðar	nvfn	bifreið
 sem	ct	sem
 framleiddar	sþgvfn	framleiða
@@ -1141,7 +1095,6 @@ einkenndar	lvfnsf	einkenndur
 með	aþ	með
 merkinu	nheþg	merki
 EUROIII.	as	EUROIII.
-
 Á	aþ	á
 næsta	lheþve	næstur
 ári	nheþ	ár
@@ -1153,7 +1106,6 @@ vélar	nvfo	vél
 með	aþ	með
 EUROIV	as	EUROIV
 .	.	.
-
 Sjálfsagt	lhensf	sjálfsagður
 er	sfg3en	vera
 að	cn	að
@@ -1173,7 +1125,6 @@ og	c	og
 nú	aa	nú
 er	sfg3en	vera
 .	.	.
-
 2.2.4	ta	2.2.4
 Endurgreiðsla	nven	endurgreiðsla
 virðisaukaskatts	nkee	virðisaukaskattur
@@ -1215,7 +1166,6 @@ sölu	nveo	sala
 úr	aþ	úr
 landi	nheþ	land
 .	.	.
-
 Einungis	aa	einungis
 var	sfg3eþ	vera
 heimilt	lhensf	heimill
@@ -1236,7 +1186,6 @@ fólksflutninga	nkfo	fólksflutningur
 í	aþ	í
 atvinnuskyni	nheþ	atvinnuskyn
 .	.	.
-
 Forsendur	nvfn	forsenda
 fyrir	aþ	fyrir
 þessu	faheþ	þessi
@@ -1265,7 +1214,6 @@ utan	ae	utan
 skattskyldusviðs	nhee	skattskyldusvið
 virðisaukaskatts	nkee	virðisaukaskattur
 .	.	.
-
 Ákvæðinu	nheþg	ákvæði
 var	sfg3eþ	vera
 ætlað	sþghen	ætla
@@ -1285,7 +1233,6 @@ hætti	nkeþ	háttur
 endurnýjun	nveo	endurnýjun
 hópbifreiða	nvfe	hópbifreið
 .	.	.
-
 Á	aþ	á
 árinu	nheþg	ár
 2005	ta	2005
@@ -1299,13 +1246,11 @@ vegna	ae	vegna
 tveggja	tfkfe	tveir
 bíla	nkfe	bíll
 .	.	.
-
 Upphæð	nven	upphæð
 um	aa	um
 400	ta	400
 þús	x	þús
 kr.	as	kr.
-
 Fjárhæðir	nvfn	fjárhæð
 önnur	fohfo	annar
 ár	nhfo	ár
@@ -1313,7 +1258,6 @@ hafa	sfg3fn	hafa
 verið	ssg	vera
 svipaðar	lvfnsf	svipaður
 .	.	.
-
 Að	aþ	að
 hluta	nkeþ	hluti
 til	aa	til
@@ -1345,7 +1289,6 @@ bílana	nkfog	bíll
 landi	nheþ	land
 verulega	aa	verulega
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 mjög	aa	mjög
@@ -1359,7 +1302,6 @@ skila	sng	skila
 meiri	lkeþvm	mikill
 árangri	nkeþ	árangur
 .	.	.
-
 Afleiðingin	nveng	afleiðing
 er	sfg3en	vera
 að	c	að
@@ -1380,7 +1322,6 @@ hvort	c	hvort
 sé	svg3en	vera
 æskilegt	lhensf	æskilegur
 .	.	.
-
 Benda	sng	benda
 má	sfg3en	mega
 á	ao	á
@@ -1412,7 +1353,6 @@ sem	ct	sem
 nemur	sfg3en	nema
 endurnýjuninni	nveþg	endurnýjun
 .	.	.
-
 2.2.5	ta	2.2.5
 Skattar	nkfn	skattur
 á	ao	á
@@ -1446,7 +1386,6 @@ við	aa	við
 um	ao	um
 skattaumhverfi	nheo	skattaumhverfi
 .	.	.
-
 Tekjuskattsprósenta	nven	tekjuskattsprósenta
 íslenskra	lhfesf	íslenskur
 hlutafélaga	nhfe	hlutafélag
@@ -1465,7 +1404,6 @@ niður	aa	niður
 árið	nheog	ár
 1993	ta	1993
 .	.	.
-
 Hér	aa	hér
 má	sfg3en	mega
 sjá	sng	sjá
@@ -1476,7 +1414,6 @@ eignaskatts	nkee	eignaskattur
 frá	aþ	frá
 1985	ta	1985
 .	.	.
-
 Samtökin	nhfng	samtök
 Barnaheill	nhfn-s	Barnaheill
 -	-	-
@@ -1496,7 +1433,6 @@ the	e	the
 Children	e	Children
 Alliance	e	Alliance
 .	.	.
-
 Markmið	nhen	markmið
 samtakanna	nhfeg	samtök
 er	sfg3en	vera
@@ -1505,7 +1441,6 @@ tryggja	sng	tryggja
 réttindi	nhfo	réttindi
 barna	nhfe	barn
 .	.	.
-
 Barnaheill	nhfn-s	Barnaheill
 styðja	sfg3fn	styðja
 börn	nhfo	barn
@@ -1524,13 +1459,11 @@ eða	c	eða
 í	aþ	í
 heimi	nkeþ	heimur
 .	.	.
-
 Barnaheill	nhfn-s	Barnaheill
 eru	sfg3fn	vera
 frjáls	lhfnsf	frjáls
 félagasamtök	nhfn	félagasamtök
 .	.	.
-
 Samtökin	nhfng	samtök
 voru	sfg3fþ	vera
 stofnuð	sþghfn	stofna
@@ -1550,7 +1483,6 @@ um	aa	um
 20.000	ta	20.000
 félagsmenn	nkfo	félagsmaður
 .	.	.
-
 Rekstur	nken	rekstur
 samtakanna	nhfeg	samtök
 er	sfg3en	vera
@@ -1570,63 +1502,45 @@ minningar-	nhfe	minningarkort
 og	c	og
 jólakorta	nhfe	jólakort
 .	.	.
-
 Stjórn	nven	stjórn
 Barnaheilla	nhfe-s	Barnaheill
 er	sfg3en	vera
 þannig	aa	þannig
 skipuð	sþgven	skipa
 :	:	:
-
 Formaður	nken	formaður
-
 Árni	nken-s	Árni
 Magnússon	nken-s	Magnússon
-
 Varaformaður	nken	varaformaður
-
 Árni	nken-s	Árni
 Geir	nken-s	Geir
 Pálsson	nken-s	Pálsson
-
 Meðstjórnendur	nkfn	meðstjórnandi
-
 Ágúst	nken-s	Ágúst
 Þór	nken-s	Þór
 Árnason	nken-s	Árnason
-
 Dögg	nven-s	Dögg
 Káradóttir	nven-s	Káradóttir
-
 Orri	nken-s	Orri
 Hlöðversson	nken-s	Hlöðversson
-
 Sigurjón	nken-s	Sigurjón
 Hjartarson	nken-s	Hjartarson
-
 Þórður	nken-s	Þórður
 Þórkelsson	nken-s	Þórkelsson
-
 Varastjórn	nven	varastjórn
-
 Íris	nven-s	Íris
 Ósk	nven-s	Ósk
 Traustadóttir	nven-s	Traustadóttir
-
 Inga	nven-s	Inga
 Eydal	nven-s	Eydal
-
 Jóhanna	nven-s	Jóhanna
 Vigdís	nven-s	Vigdís
 Hjaltadóttir	nven-s	Hjaltadóttir
-
 Starfsfólk	nhen	starfsfólk
 Barnaheilla	nhfe-s	Barnaheill
-
 Petrína	nven-s	Petrína
 Ásgeirsdóttir	nven-s	Ásgeirsdóttir
 framkvæmdastjóri	nken	framkvæmdastjóri
-
 Erla	nven-s	Erla
 Ósk	nven-s	Ósk
 Hermannsdóttir	nven-s	Hermannsdóttir
@@ -1635,30 +1549,23 @@ gjaldkeri	nken	gjaldkeri
 og	c	og
 umsjónarmaður	nken	umsjónarmaður
 styrktarkerfis	nhee	styrktarkerfi
-
 Ágústa	nven-s	Ágústa
 Marísdóttir	nven-s	Marísdóttir
 bókhaldari	nken	bókhaldari
-
 Hrönn	nven-s	Hrönn
 Þormóðsdóttir	nven-s	Þormóðsdóttir
 verkefnastjóri	nken	verkefnastjóri
-
 Kristbjörg	nven-s	Kristbjörg
 Hjaltadóttir	nven-s	Hjaltadóttir
 ,	,	,
 markaðs-	nken	markaðsstjóri
 og	c	og
 fjáröflunarstjóri	nken	fjáröflunarstjóri
-
 Rán	nven-s	Rán
 Ingvarsdóttir	nven-s	Ingvarsdóttir
 lögfræðingur	nken	lögfræðingur
-
 FRÉTTASAFN	nhen	fréttasafn
-
 16.06.	ta	16.06.
-
 2006	ta	2006
 Barnaheill	nhfn-s	Barnaheill
 -	-	-
@@ -1676,7 +1583,6 @@ söfnuðust	sfm3fþ	safna
 á	aþ	á
 Hátíð	nveþ-s	Hátíð
 trjánna	nhfeg	tré
-
 Guðbjörg	nven-s	Guðbjörg
 Björnsdóttir	nven-s	Björnsdóttir
 ,	,	,
@@ -1695,7 +1601,6 @@ við	ao	við
 afhendingu	nveo	afhending
 styrksins	nkeeg	styrkur
 .	.	.
-
 Barnaheill	nhfn-s	Barnaheill
 -	-	-
 Save	e	Save
@@ -1721,7 +1626,6 @@ tíu	tfvfo	tíu
 milljónir	nvfo	milljón
 króna	nvfe	króna
 .	.	.
-
 Upphæðinni	nveþg	upphæð
 var	sfg3eþ	vera
 safnað	sþghen	safna
@@ -1742,7 +1646,6 @@ desember	nkeþ	desember
 síðasta	lheþve	síðari
 ári	nheþ	ár
 .	.	.
-
 Barnaheill	nhfn-s	Barnaheill
 hvetja	sfg3fn	hvetja
 ríkisstjórn	nveo	ríkisstjórn
@@ -1777,7 +1680,6 @@ sem	ct	sem
 þeim	fphfþ	það
 ber	sfg3en	bera
 .	.	.
-
 Samtökin	nhfng	samtök
 eru	sfg3fn	vera
 einnig	aa	einnig
@@ -1810,9 +1712,7 @@ vanda	nkeþ	vandi
 að	cn	að
 ganga	sng	ganga
 .	.	.
-
 12.06.	ta	12.06.
-
 2006	ta	2006
 Aðalfundur	nken	aðalfundur
 verður	sfg3en	verða
@@ -1820,7 +1720,6 @@ haldinn	sþgken	halda
 19.	ta	19.
 júní	nkeo	júní
 nk.	as	nk.
-
 Aðalfundur	nken	aðalfundur
 Barnaheilla	nhfe-s	Barnaheill
 -	-	-
@@ -1849,14 +1748,12 @@ fundurinn	nkeng	fundur
 kl.	as	kl.
 17.00	ta	17.00
 .	.	.
-
 Á	aþ	á
 dagskrá	nveþ	dagskrá
 eru	sfg3fn	vera
 venjuleg	lhfnsf	venjulegur
 aðalfundarstörf	nhfn	aðalfundarstörf
 .	.	.
-
 Allir	fokfn	allur
 félagar	nkfn	félagi
 og	c	og
@@ -1866,13 +1763,10 @@ samtakanna	nhfeg	samtök
 eru	sfg3fn	vera
 velkomnir	lkfnsf	velkominn
 .	.	.
-
 Stjórn	nven	stjórn
 Barnaheilla	nhfe-s	Barnaheill
 .	.	.
-
 02.06.	ta	02.06.
-
 2006	ta	2006
 Íslensk	lhfnsf	íslenskur
 stjórnvöld	nhfn	stjórnvald
@@ -1891,7 +1785,6 @@ eyjunni	nveþg	eyja
 Jövu	nveþ-s	Java
 í	aþ	í
 Indónesíu	nveþ-s	Indónesía
-
 Íslensk	lhfnsf	íslenskur
 stjórnvöld	nhfn	stjórnvald
 hafa	sfg3fn	hafa
@@ -1913,7 +1806,6 @@ um	ao	um
 síðustu	lveove	síðari
 helgi	nveo	helgi
 .	.	.
-
 Framlaginu	nheþg	framlag
 verður	sfg3en	verða
 skipt	sþghen	skipta
@@ -1936,7 +1828,6 @@ til	ae	til
 Hjálparstarfs	nhee-s	Hjálparstarf
 kirkjunnar	nveeg	kirkja
 .	.	.
-
 Kristín	nven-s	Kristín
 Jónasdóttir	nven-s	Jónasdóttir
 ,	,	,
@@ -1968,7 +1859,6 @@ jarðskjálftana	nkfog	jarðskjálfti
 eyjunni	nveþg	eyja
 Jövu	nveþ-s	Java
 .	.	.
-
 Kristín	nven-s	Kristín
 vill	sfg3en	vilja
 jafnframt	aa	jafnframt
@@ -1998,9 +1888,7 @@ fjárhagsstuðning	nkeo	fjárhagsstuðningur
 til	ae	til
 hjálparstarfsins	nheeg	hjálparstarf
 .	.	.
-
 29.05.	ta	29.05.
-
 2006	ta	2006
 Save	e	Save
 the	e	the
@@ -2011,7 +1899,6 @@ hjálparstarf	nheo	hjálparstarf
 á	aþ	á
 eyjunni	nveþg	eyja
 Jövu	nveþ-s	Java
-
 Móðir	nven	móðir
 með	ao	með
 eins	tfhee	einn
@@ -2029,11 +1916,9 @@ Yogyakarta	e	Yogyakarta
 kjölfar	nheo	kjölfar
 jarðskjálftans	nkeeg	jarðskjálfti
 .	.	.
-
 Ljósm.	as	ljósm.
 Reuters	e	Reuters
 .	.	.
-
 Save	e	Save
 the	e	the
 Children	e	Children
@@ -2048,7 +1933,6 @@ Jövu	nveþ-s	Java
 í	aþ	í
 Indónesíu	nveþ-s	Indónesía
 .	.	.
-
 Talið	sþghen	telja
 er	sfg3en	vera
 að	c	að
@@ -2068,7 +1952,6 @@ misst	ssg	missa
 heimili	nhfo	heimili
 sín	fehfo	sinn
 .	.	.
-
 Samtökin	nhfng	samtök
 leggja	sfg3fn	leggja
 ríka	lveosf	ríkur
@@ -2099,7 +1982,6 @@ og	c	og
 fjölskyldna	nvfe	fjölskylda
 þeirra	fphfe	það
 .	.	.
-
 Ástandið	nheng	ástand
 er	sfg3en	vera
 einna	fohfe	einn
@@ -2130,7 +2012,6 @@ skemmst	ssm	skemma
 í	aþ	í
 skjálftanum	nkeþg	skjálfti
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 reynsla	nven	reynsla
@@ -2153,7 +2034,6 @@ vernd	nveo	vernd
 tímum	nkfþ	tími
 hamfara	nvfe	hamför
 .	.	.
-
 Þeir	fakfn	sá
 sem	ct	sem
 vilja	sfg3fn	vilja
@@ -2178,7 +2058,6 @@ að	cn	að
 smella	sng	smella
 hér	aa	hér
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 hægt	lhensf	hægur
@@ -2201,9 +2080,7 @@ krónur	nvfn	króna
 símareikning	nkeo	símareikningur
 viðkomandi	lkeeof	viðkomandi
 .	.	.
-
 9.05.	ta	9.05.
-
 2006	ta	2006
 Ný	lvensf	nýr
 skýrsla	nven	skýrsla
@@ -2214,7 +2091,6 @@ ofbeldi	nheo	ofbeldi
 börnum	nhfþ	barn
 í	aþ	í
 Líberíu	nveþ-s	Líbería
-
 Save	e	Save
 the	e	the
 Children-samtökin	nhfngs	Childrensamtök
@@ -2251,7 +2127,6 @@ háttsettum	lkfþsf	háttsettur
 innfæddum	lkfþsf	innfæddur
 karlmönnum	nkfþ	karlmaður
 .	.	.
-
 Könnunin	nveng	könnun
 var	sfg3eþ	vera
 gerð	sþgven	gera
@@ -2274,7 +2149,6 @@ lauk	sfg3eþ	ljúka
 í	aþ	í
 landinu	nheþg	land
 .	.	.
-
 Jafnvel	aa	jafnvel
 þótt	c	þótt
 gerð	sþgven	gera
@@ -2296,16 +2170,13 @@ lítið	lhensf	lítill
 hafa	sng	hafa
 áunnist	ssm	ávinna
 .	.	.
-
 Sjá	sng	sjá
 skýrslu	nveo	skýrsla
 um	ao	um
 Líberíu	nveo-s	Líbería
 hér	aa	hér
 .	.	.
-
 9.05.	ta	9.05.
-
 2006	ta	2006
 Skýrsla	nven	skýrsla
 Barnaheilla	nhfe-s	Barnaheill
@@ -2320,7 +2191,6 @@ mæðra	nvfe	móðir
 heiminum	nkeþg	heimur
 2006	ta	2006
 :	:	:
-
 Svíþjóð	nven-s	Svíþjóð
 er	sfg3en	vera
 í	aþ	í
@@ -2331,7 +2201,6 @@ Níger	nhen-s	Níger
 í	aþ	í
 því	faheþ	sá
 neðsta	lheþve	neðri
-
 Móðir	nven	móðir
 í	aþ	í
 Malawí	e	Malawí
@@ -2345,7 +2214,6 @@ kíló	nheo	kíló
 við	ao	við
 fæðingu	nveo	fæðing
 .	.	.
-
 Barnaheill	nhfn-s	Barnaheill
 -	-	-
 Save	e	Save
@@ -2375,7 +2243,6 @@ Children	e	Children
 í	aþ	í
 Bandaríkjunum	nhfþgs	Bandaríki
 .	.	.
-
 Notuð	sþghfn	nota
 voru	sfg3fþ	vera
 tíu	tfhfn	tíu
@@ -2405,7 +2272,6 @@ börnum	nhfþ	barn
 á	aþ	á
 jörðinni	nveþg	jörð
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 sjöunda	lvenvf	sjöundi
@@ -2413,7 +2279,6 @@ sjöunda	lvenvf	sjöundi
 mæðraskýrsla	nven	mæðraskýrsla
 samtakanna	nhfeg	samtök
 .	.	.
-
 Norðurlöndin	nhfngs	Norðurlönd
 tróna	sfg3fn	tróna
 meðal	ae	meðal
@@ -2432,7 +2297,6 @@ er	sfg3en	vera
 Afríkuríkið	nhengs	Afríkuríki
 Níger	nhen-s	Níger
 .	.	.
-
 Árlega	aa	árlega
 fæða	sfg3fn	fæða
 60	ta	60
@@ -2448,7 +2312,6 @@ fyrir	aa	fyrir
 aðstoðar	nvee	aðstoð
 fagfólks	nhee	fagfólk
 .	.	.
-
 Um	aa	um
 fjórar	tfvfn	fjórir
 milljónir	nvfn	milljón
@@ -2483,7 +2346,6 @@ barna	nhfe	barn
 fæðast	sfm3fn	fæða
 andvana	lvfnof	andvana
 .	.	.
-
 Í	aþ	í
 mæðraskýrslunni	nveþg	mæðraskýrsla
 kemur	sfg3en	koma
@@ -2516,7 +2378,6 @@ fyrir	ao	fyrir
 lífsafkomu	nveo	lífsafkoma
 barna	nhfe	barn
 .	.	.
-
 Lögð	sþgven	leggja
 er	sfg3en	vera
 áhersla	nven	áhersla
@@ -2537,7 +2398,6 @@ líður	sfg3en	líða
 börnum	nhfþ	barn
 vel	aa	vel
 .	.	.
-
 Til	ae	til
 að	cn	að
 auka	sng	auka
@@ -2556,7 +2416,6 @@ og	c	og
 vellíðan	nveo	vellíðan
 mæðra	nvfe	móðir
 .	.	.
-
 Sjá	sng	sjá
 fréttatilkynningu	nveo	fréttatilkynning
 frá	aþ	frá
@@ -2566,7 +2425,6 @@ Children	e	Children
 í	aþ	í
 Bandaríkjunum	nhfþgs	Bandaríki
 hér	aa	hér
-
 Mæðraskýrsla	nven	mæðraskýrsla
 Save	e	Save
 the	e	the
@@ -2577,9 +2435,7 @@ sinni	feveþ	sinn
 á	aþ	á
 pdf-sniði	nheþ	pdf-snið
 hér	aa	hér
-
 26.04.	ta	26.04.
-
 2006	ta	2006
 INHOPE	e	INHOPE
 og	c	og
@@ -2615,7 +2471,6 @@ og	c	og
 afnota	nhfe	afnot
 af	aþ	af
 hugbúnaði	nkeþ	hugbúnaður
-
 London	e	London
 ,	,	,
 25.	ta	25.
@@ -2693,7 +2548,6 @@ að	cn	að
 þjálfa	sng	þjálfa
 fólk	nheo	fólk
 .	.	.
-
 Samkomulagið	nheng	samkomulag
 ,	,	,
 sem	ct	sem
@@ -2727,7 +2581,6 @@ fyrir	ao	fyrir
 almenna	lveosf	almennur
 netnotkun	nveo	netnotkun
 .	.	.
-
 Samkomulagið	nheng	samkomulag
 er	sfg3en	vera
 árangur	nken	árangur
@@ -2746,7 +2599,6 @@ Netinu	nheþgs	net
 og	c	og
 Microsoft	e	Microsoft
 .	.	.
-
 Alþjóðasamtökin	nhfng	alþjóðasamtök
 INHOPE	e	INHOPE
 voru	sfg3fþ	vera
@@ -2764,7 +2616,6 @@ Evrópusambandsins	nheegs	Evrópusamband
 á	aþ	á
 Netinu	nheþgs	Net
 .	.	.
-
 Samtökin	nhfng	samtök
 eru	sfg3fn	vera
 í	aþ	í
@@ -2778,7 +2629,6 @@ efni	nheþ	efni
 á	aþ	á
 Netinu	nheþgs	Net
 .	.	.
-
 Nú	aa	nú
 eru	sfg3fn	vera
 starfræktar	sþgvfn	starfrækja
@@ -2811,7 +2661,6 @@ að	cn	að
 vera	sng	vera
 ólöglegt	lhensf	ólöglegur
 .	.	.
-
 Starfsfólk	nhen	starfsfólk
 Ábendingalína	nvfe-s	ábendingalína
 rannsakar	sfg3en	rannsaka
@@ -2827,7 +2676,6 @@ reynist	sfm3en	reyna
 vera	sng	vera
 ólöglegt	lhensf	ólöglegur
 .	.	.
-
 Árið	nheog	ár
 2005	ta	2005
 bárust	sfm3fþ	bera
@@ -2838,7 +2686,6 @@ til	ae	til
 INHOPE	e	INHOPE
 samtakanna	nhfeg	samtök
 .	.	.
-
 Tilkynningum	nvfþ	tilkynning
 fjölgaði	sfg3eþ	fjölga
 jafnt	aa	jafnt
@@ -2865,7 +2712,6 @@ en	c	en
 fyrri	lkeþvm	fyrri
 árshelmingi	nkeþ	árshelmingur
 .	.	.
-
 Af	aþ	af
 þeim	fahfþ	sá
 tilvikum	nhfþ	tilvik
@@ -2895,7 +2741,6 @@ barnasölu	nveþ	barnasala
 og	c	og
 kynlífsferðamennsku	nveþ	kynlífsferðamennska
 .	.	.
-
 Árið	nheog	ár
 2005	ta	2005
 voru	sfg3fþ	vera
@@ -2930,7 +2775,6 @@ lögregluyfirvöldum	nhfþ	lögregluyfirvöld
 einstökum	lhfþsf	einstakur
 löndum	nhfþ	land
 .	.	.
-
 «	«	«
 Ólöglegt	lhensf	ólöglegur
 efni	nhen	efni
@@ -2958,7 +2802,6 @@ að	cn	að
 kveða	sng	kveða
 niður	aa	niður
 .	.	.
-
 Þegar	c	þegar
 almenningur	nken	almenningur
 tilkynnir	sfg3en	tilkynna
@@ -3005,7 +2848,6 @@ Callanan	e	Callanan
 framkvæmdastjóri	nken	framkvæmdastjóri
 INHOPE	e	INHOPE
 .	.	.
-
 «	«	«
 Í	ao	í
 dag	nkeo	dagur
@@ -3019,7 +2861,6 @@ INHOPE	e	INHOPE
 og	c	og
 Microsoft	e	Microsoft
 .	.	.
-
 Með	aþ	með
 viljayfirlýsingunni	nveþg	viljayfirlýsing
 hefur	sfg3en	hafa
@@ -3039,7 +2880,6 @@ margra	lhfesf	margur
 ára	nhfe	ár
 skeið	nheo	skeið
 .	.	.
-
 Við	fp1fn	ég
 hlökkum	sfg1fn	hlakka
 til	ae	til
@@ -3067,7 +2907,6 @@ Netinu	nheþgs	net
 framtíðinni	nveþg	framtíð
 .	.	.
 »	»	»
-
 Samkomulagið	nheng	samkomulag
 felur	sfg3en	fela
 meðal	ae	meðal
@@ -3108,7 +2947,6 @@ Alþjóðasamtaka	nhfe-s	Alþjóðasamtök
 Ábendingalína	nvfe-s	ábendingalína
 )	)	)
 .	.	.
-
 Slíkt	fbhen	slíkur
 fyrirkomulag	nhen	fyrirkomulag
 er	sfg3en	vera
@@ -3127,7 +2965,6 @@ næstu	lhfeve	næstur
 tveggja	tfhfe	tveir
 ára	nhfe	ár
 .	.	.
-
 Microsoft	e	Microsoft
 hefur	sfg3en	hafa
 einnig	aa	einnig
@@ -3140,7 +2977,6 @@ kosta	sng	kosta
 starfsfólks	nhee	starfsfólk
 Ábendingalína	nvfe-s	ábendingalína
 .	.	.
-
 Í	aþ	í
 þeirri	faveþ	sá
 þjálfun	nveþ	þjálfun
@@ -3163,7 +2999,6 @@ aðila	nkfe	aðili
 innan	ae	innan
 INHOPE	e	INHOPE
 .	.	.
-
 Lögð	sþgven	leggja
 verður	sfg3en	verða
 áhersla	nven	áhersla
@@ -3181,7 +3016,6 @@ samskipti	nhfo	samskipti
 milli	ae	milli
 miðla	nkfe	miðill
 .	.	.
-
 Bæði	fohfn	báðir
 þessi	fahfn	þessi
 svið	nhfn	svið
@@ -3202,7 +3036,6 @@ séu	svg3fn	vera
 heiðri	nkeþ	heiður
 hafðar	sþgvfn	hafa
 .	.	.
-
 Ennfremur	aa	ennfremur
 verður	sfg3en	verða
 aðilum	nkfþ	aðili
@@ -3223,7 +3056,6 @@ Microsoft	e	Microsoft
 Office	e	Office
 hugbúnaði	nkeþ	hugbúnaður
 .	.	.
-
 17	ta	17
 þeirra	fakfe	sá
 25	ta	25
@@ -3261,7 +3093,6 @@ andvirði	nheþ	andvirði
 300.000	ta	300.000
 evrur	nvfo	evra
 .	.	.
-
 «	«	«
 Við	fp1fn	ég
 erum	sfg1fn	vera
@@ -3274,7 +3105,6 @@ vera	sng	vera
 samstarfsaðilar	nkfn	samstarfsaðili
 INHOPE	e	INHOPE
 .	.	.
-
 Ábendingalínur	nvfn	ábendingalína
 á	aþ	á
 Netinu	nheþgs	net
@@ -3310,7 +3140,6 @@ deildar	nvee	deild
 Microsoft	e	Microsoft
 Corp	e	Corp
 .	.	.
-
 sem	c	sem
 fjallar	sfg3en	fjalla
 um	ao	um
@@ -3322,7 +3151,6 @@ og	c	og
 málefni	nhfo	málefni
 fyrirtækja	nhfe	fyrirtæki
 .	.	.
-
 «	«	«
 Microsoft	e	Microsoft
 styður	sfg3en	styðja
@@ -3360,7 +3188,6 @@ Netið	nheogs	net
 öruggara	lheovm	öruggur
 .	.	.
 »	»	»
-
 Aðgerðum	nvfþ	aðgerð
 af	aþ	af
 þessu	faheþ	þessi
@@ -3386,7 +3213,6 @@ bak	nheo	bak
 við	ao	við
 vefsíðurnar	nvfog	vefsíða
 .	.	.
-
 Hamish	e	Hamish
 McCulloch	e	McCulloch
 ,	,	,
@@ -3439,7 +3265,6 @@ ekki	aa	ekki
 einungis	aa	einungis
 lögregluyfirvalda	nhfe	lögregluyfirvöld
 .	.	.
-
 Með	aþ	með
 því	fpheþ	það
 að	cn	að
@@ -3461,7 +3286,6 @@ barnaníðingana	nkfog	barnaníðingur
 sjálfa	fbkfo	sjálfur
 .	.	.
 »	»	»
-
 Dæmi	nhen	dæmi
 um	ao	um
 þessa	faveo	þessi
@@ -3478,7 +3302,6 @@ að	aþ	að
 INHOPE	e	INHOPE
 samtökunum	nhfþg	samtök
 .	.	.
-
 Í	aþ	í
 maí	nkeþ	maí
 2005	ta	2005
@@ -3520,7 +3343,6 @@ myndefnið	nheog	myndefni
 á	aþ	á
 Netinu	nheþgs	Net
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 ein	tfven	einn
@@ -3545,7 +3367,6 @@ aðgerða	nvfe	aðgerð
 enn	aa	enn
 ólokið	lhensf	ólokinn
 .	.	.
-
 Þegar	aa	þegar
 hafa	sfg3fn	hafa
 meira	lhenvm	mikill
@@ -3573,7 +3394,6 @@ og	c	og
 Rómönsku	lveþvf	rómanskur
 Ameríku	nveþ-s	Ameríka
 .	.	.
-
 Frekari	lvfovm	frekur
 upplýsingar	nvfo	upplýsing
 um	ao	um
@@ -3609,10 +3429,8 @@ fá	sng	fá
 á	aþ	á
 www.inhope.org	v	www.inhope.org
 .	.	.
-
 Um	ao	um
 INHOPE	e	INHOPE
-
 INHOPE	e	INHOPE
 (	(	(
 Alþjóðasamtök	nhfn-s	Alþjóðasamtök
@@ -3629,7 +3447,6 @@ of	e	of
 Internet	e	Internet
 Hotlines	e	Hotlines
 .	.	.
-
 Samtökunum	nhfþg	samtök
 var	sfg3eþ	vera
 komið	sþghen	koma
@@ -3659,7 +3476,6 @@ fjárstyrkja	nkfe	fjárstyrkur
 frá	aþ	frá
 henni	fpveþ	hún
 .	.	.
-
 Markmið	nhen	markmið
 samtakanna	nhfeg	samtök
 er	sfg3en	vera
@@ -3679,7 +3495,6 @@ skaðlegri	lveþsf	skaðlegur
 notkun	nveþ	notkun
 Netsins	nheegs	Net
 .	.	.
-
 25	ta	25
 aðilar	nkfn	aðili
 í	aþ	í
@@ -3696,7 +3511,6 @@ aðild	nveo	aðild
 að	aþ	að
 INHOPE	e	INHOPE
 .	.	.
-
 Ábendingalínur	nvfn	ábendingalína
 skipta	sfg3fn	skipta
 sköpum	nhfþ	skap
@@ -3721,7 +3535,6 @@ efni	nheo	efni
 á	aþ	á
 Netinu	nheþgs	net
 .	.	.
-
 INHOPE	e	INHOPE
 (	(	(
 Alþjóðasamtök	nhfn-s	Alþjóðasamtök
@@ -3753,10 +3566,8 @@ skiptist	sfm3fn	skipta
 sérfræðilegri	lveþsf	sérfræðilegur
 þekkingu	nveþ	þekking
 .	.	.
-
 Um	ao	um
 Microsoft	e	Microsoft
-
 Fyrirtækið	nheng	fyrirtæki
 Microsoft	e	Microsoft
 var	sfg3eþ	vera
@@ -3786,7 +3597,6 @@ sín	fphfe	sig
 til	ae	til
 fullnustu	nvee	fullnusta
 .	.	.
-
 Um	ao	um
 Microsoft	e	Microsoft
 í	aþ	í
@@ -3798,7 +3608,6 @@ Afríku	nveþ-s	Afríka
 (	(	(
 EMEA	as	EMEA
 )	)	)
-
 Microsoft	e	Microsoft
 hefur	sfg3en	hafa
 starfað	ssg	starfa
@@ -3811,7 +3620,6 @@ Afríku	nveþ-s	Afríka
 frá	aþ	frá
 1982	ta	1982
 .	.	.
-
 Starfsmenn	nkfn	starfsmaður
 Microsoft	e	Microsoft
 í	aþ	í
@@ -3838,7 +3646,6 @@ ríkja	nhfe	ríki
 og	c	og
 svæða	nhfe	svæði
 .	.	.
-
 Efni	nheo	efni
 þetta	faheo	þessi
 skal	sfg3en	skulu
@@ -3847,7 +3654,6 @@ nota	sng	nota
 í	aþ	í
 upplýsingaskyni	nheþ	upplýsingaskyn
 .	.	.
-
 Fyrirtækið	nheng	fyrirtæki
 Microsoft	e	Microsoft
 afsalar	sfg3en	afsala
@@ -3864,7 +3670,6 @@ aðra	foveo	annar
 notkun	nveo	notkun
 þess	fphee	það
 .	.	.
-
 Fyrirtækið	nheng	fyrirtæki
 Microsoft	e	Microsoft
 verður	sfg3en	verða
@@ -3915,7 +3720,6 @@ eða	c	eða
 útfærslu	nveo	útfærsla
 efnisins	nheeg	efni
 .	.	.
-
 Ekkert	fohen	enginn
 af	aþ	af
 því	faheþ	sá
@@ -3938,7 +3742,6 @@ af	aþ	af
 nokkru	foheþ	nokkur
 tagi	nheþ	tag
 .	.	.
-
 Microsoft	e	Microsoft
 og	c	og
 Windows	e	Windows
@@ -3960,7 +3763,6 @@ eða	c	eða
 öðrum	fohfþ	annar
 ríkjum	nhfþ	ríki
 .	.	.
-
 Nöfn	nhfn	nafn
 á	aþ	á
 félögum	nhfþ	félag
@@ -3978,9 +3780,7 @@ eign	nven	eign
 viðkomandi	lkfeof	viðkomandi
 aðila	nkfe	aðili
 .	.	.
-
 Tengiliðir	nkfn	tengiliður
-
 INHOPE	e	INHOPE
 (	(	(
 Alþjóðasamtök	nhfn-s	Alþjóðasamtök
@@ -3988,14 +3788,11 @@ Alþjóðasamtök	nhfn-s	Alþjóðasamtök
 á	aþ	á
 Netinu	nheþgs	Net
 )	)	)
-
 Yvonne	e	Yvonne
 Cassidy	e	Cassidy
 ,	,	,
 upplýsingafulltrúi	nken	upplýsingafulltrúi
-
 16.02.	ta	16.02.
-
 2006	ta	2006
 Þingmenn	nkfn	þingmaður
 ræða	sfg3fn	ræða
@@ -4017,7 +3814,6 @@ við	ao	við
 netfyrirtæki	nhfo	netfyrirtæki
 um	ao	um
 netsíur	nvfo	netsía
-
 Lögreglan	nveng	lögregla
 hefur	sfg3en	hafa
 óskað	ssg	óska
@@ -4049,7 +3845,6 @@ sem	ct	sem
 innihalda	sfg3fn	innihalda
 barnaklám	nheo	barnaklám
 .	.	.
-
 Þetta	fahen	þessi
 kom	sfg3eþ	koma
 fram	aa	fram
@@ -4063,7 +3858,6 @@ Alþingi	nheþ-s	Alþingi
 í	aa	í
 gær	aa	gær
 .	.	.
-
 Í	aþ	í
 umfjöllun	nveþ	umfjöllun
 Morgunblaðsins	nheegs	Morgunblað
@@ -4105,7 +3899,6 @@ og	c	og
 lagalegum	lkfþsf	lagalegur
 þáttum	nkfþ	þáttur
 .	.	.
-
 Sagðist	sfm3eþ	segja
 hann	fpken	hann
 vonast	snm	vona
@@ -4122,7 +3915,6 @@ vikum	nvfþ	vika
 og	c	og
 mánuðum	nkfþ	mánuður
 .	.	.
-
 Þessi	fahfn	þessi
 mál	nhfn	mál
 voru	sfg3fþ	vera
@@ -4142,7 +3934,6 @@ hliðar	nvfn	hlið
 og	c	og
 tæknilegar	lvfnsf	tæknilegur
 .	.	.
-
 Sjá	sng	sjá
 umfjöllun	nveo	umfjöllun
 Morgunblaðsins	nheegs	Morgunblað
@@ -4150,9 +3941,7 @@ um	ao	um
 málið	nheog	mál
 hér	aa	hér
 .	.	.
-
 14.02.	ta	14.02.
-
 2006	ta	2006
 Skólafélag	nhen-s	Skólafélag
 MS	as	MS
@@ -4161,7 +3950,6 @@ upplestrarmaraþon	nheo	upplestrarmaraþon
 til	ae	til
 styrktar	nvee	styrkt
 Barnaheillum	nhfþ-s	Barnaheill
-
 Í	aþ	í
 tengslum	nhfþ	tengsl
 við	ao	við
@@ -4184,7 +3972,6 @@ til	ae	til
 styrktar	nvee	styrkt
 Barnaheillum	nhfþ-s	Barnaheill
 .	.	.
-
 Allir	fokfn	allur
 nemendur	nkfn	nemandi
 skólans	nkeeg	skóli
@@ -4201,7 +3988,6 @@ upp	aa	upp
 völdum	lvfþsf	valinn
 Íslendingasögum	nvfþ-s	Íslendingasaga
 .	.	.
-
 Ágóðinn	nkeng	ágóði
 rennur	sfg3en	renna
 óskiptur	lkensf	óskiptur
@@ -4214,7 +4000,6 @@ skóla	nkfe	skóli
 í	aþ	í
 Kambódíu	nveþ-s	Kambódía
 .	.	.
-
 Áheit	nhfn	áheit
 eru	sfg3fn	vera
 lögð	sþghfn	leggja
@@ -4229,7 +4014,6 @@ Langholtsútibúi	nheþ-s	Langholtsútibú
 kt.	as	kt.
 570489-1199	ta	570489-1199
 .	.	.
-
 Nemendur	nkfn	nemandi
 MS	as	MS
 hafa	sfg3fn	hafa
@@ -4254,9 +4038,7 @@ fyrir	ao	fyrir
 frábæra	lheovf	frábær
 framtak	nheo	framtak
 .	.	.
-
 26.01.	ta	26.01.
-
 2006	ta	2006
 Fjölmenni	nhen	fjölmenni
 á	aþ	á
@@ -4271,7 +4053,6 @@ NETINU	nheþg	net
 LÖG	nhfn	lag
 OG	c	og
 TÆKNI	nven	tækni
-
 Svipmyndir	nvfn	svipmynd
 frá	aþ	frá
 ráðstefnu	nveþ	ráðstefna
@@ -4285,7 +4066,6 @@ Netinu	nheþgs	net
 Lög	nhfn	lag
 og	c	og
 tækni	nven	tækni
-
 Um	aa	um
 hundrað	tfkfn	hundrað
 manns	nkee	maður
@@ -4311,7 +4091,6 @@ Lög	nhfn	lag
 og	c	og
 tækni	nven	tækni
 .	.	.
-
 Innlendir	lkfnsf	innlendur
 og	c	og
 erlendir	lkfnsf	erlendur
@@ -4336,7 +4115,6 @@ tæknilega	lveosf	tæknilegur
 hlið	nveo	hlið
 þess	fphee	það
 .	.	.
-
 Til	ae	til
 ráðstefnunnar	nveeg	ráðstefna
 voru	sfg3fþ	vera
@@ -4359,7 +4137,6 @@ sem	ct	sem
 málið	nheng	mál
 varðar	sfg3en	varða
 .	.	.
-
 Eftir	aþ	eftir
 því	faheþ	sá
 sem	ct	sem
@@ -4401,7 +4178,6 @@ Netinu	nheþgs	Net
 er	sfg3en	vera
 orðinn	sþgken	verða
 .	.	.
-
 Markmiðið	nheng	markmið
 með	aþ	með
 ráðstefnunni	nveþg	ráðstefna
@@ -4436,7 +4212,6 @@ til	ae	til
 betri	lkeevm	góður
 vegar	nkee	vegur
 .	.	.
-
 Jafnframt	aa	jafnframt
 var	sfg3eþ	vera
 kastljósinu	nheþg	kastljós
@@ -4463,7 +4238,6 @@ laga	nhfe	lag
 og	c	og
 tækni	nvee	tækni
 .	.	.
-
 Ragnhildur	nven-s	Ragnhildur
 Arnljótsdóttir	nven-s	Arnljótsdóttir
 ,	,	,
@@ -4478,11 +4252,9 @@ Thelma	nven-s	Thelma
 flutti	sfg3eþ	flytja
 erindi	nheo	erindi
 .	.	.
-
 SJÁ	sng	sjá
 DAGSKRÁ	nveo	dagskrá
 HÉR	aa	hér
-
 STÖÐVUM	svg1fn	stöðva
 BARNAKLÁM	nheo	barnaklám
 Á	aþ	á
@@ -4491,7 +4263,6 @@ NETINU	nheþg	net
 LÖG	nhfn	lag
 OG	c	og
 TÆKNI	nven	tækni
-
 Ráðstefna	nven	ráðstefna
 í	aþ	í
 Salnum	nkeþgs	Salur
@@ -4502,12 +4273,9 @@ janúar	nkeo	janúar
 2006	ta	2006
 kl.	as	kl.
 9.00-16.05	ta	9.00-16.05
-
 DAGSKRÁ	nven	dagskrá
-
 8.30-9.00	ta	8.30-9.00
 Skráning	nven	skráning
-
 9.00-9.10	ta	9.00-9.10
 Setning	nven	setning
 Guðbjörg	nven-s	Guðbjörg
@@ -4521,10 +4289,8 @@ the	e	the
 Children	e	Children
 á	aþ	á
 Íslandi	nheþ-s	Ísland
-
 1	ta	1
 .	.	.
-
 LAGALEG	lvensf	lagalegur
 HLIÐ	nven	hlið
 NETSINS	nheeg	net
@@ -4549,7 +4315,6 @@ Arnljótsdóttir	nven-s	Arnljótsdóttir
 ,	,	,
 ráðuneytisstjóri	nken	ráðuneytisstjóri
 félagsmálaráðuneytis	nhee	félagsmálaráðuneyti
-
 9.25-10.15	ta	9.25-10.15
 Hvernig	aa	hvernig
 vernda	sfg3fn	vernda
@@ -4561,7 +4326,6 @@ barnaklámi	nheþ	barnaklám
 á	aþ	á
 Netinu	nheþgs	net
 ?	?	?
-
 Brynhildur	nven-s	Brynhildur
 G.	as	G.
 Flóvenz	nven-s	Flóvenz
@@ -4571,7 +4335,6 @@ lektor	nken	lektor
 lagadeild	nveþ	lagadeild
 Háskóla	nkee-s	Háskóli
 Íslands	nhee-s	Ísland
-
 10.15-11.00	ta	10.15-11.00
 Youth	e	Youth
 protection	e	protection
@@ -4587,7 +4350,6 @@ co-regulatory	e	co-regulatory
 approach	e	approach
 in	e	in
 Germany	e	Germany
-
 Thomas	e	Thomas
 Rickert	e	Rickert
 ,	,	,
@@ -4599,17 +4361,13 @@ der	e	der
 deutschen	e	deutschen
 Internetwirtschaft	e	Internetwirtschaft
 c.	as	c.
-
 V	x	v
 .	.	.
-
 Bonn	e	Bonn
 ,	,	,
 Þýskalandi	nheþ-s	Þýskaland
-
 11.00-11.10	ta	11.00-11.10
 Hlé	nhfn	hlé
-
 11.10-12.00	ta	11.10-12.00
 Blocking	e	Blocking
 Internet	e	Internet
@@ -4620,7 +4378,6 @@ Children	e	Children
 or	e	or
 Censorship	e	Censorship
 ?	?	?
-
 Ola-Kristian	e	Ola-Kristian
 Hoff	e	Hoff
 ,	,	,
@@ -4631,22 +4388,18 @@ Advokatredet	e	Advokatredet
 Osló	nveþ-s	Osló
 ,	,	,
 Noregi	nkeþ-s	Noregur
-
 12.00-12.15	ta	12.00-12.15
 Fyrirspurnir	nvfn	fyrirspurn
 og	c	og
 umræður	nvfn	umræða
-
 12.15-13.00	ta	12.15-13.00
 Boðið	sþghen	bjóða
 upp	aa	upp
 á	ao	á
 léttan	lkeosf	léttur
 hádegisverð	nkeo	hádegisverður
-
 2	ta	2
 .	.	.
-
 TÆKNILEG	lvensf	tæknilegur
 HLIÐ	nven	hlið
 NETSINS	nheeg	net
@@ -4666,13 +4419,11 @@ the	e	the
 Children	e	Children
 á	aþ	á
 Íslandi	nheþ-s	Ísland
-
 13.00-	ta	13.00-
 13.25	ta	13.25
 Erindi	nhen	erindi
 Thelma	nven-s	Thelma
 Ásdísardóttir	nven-s	Ásdísardóttir
-
 13.25-14.45	ta	13.25-14.45
 Developing	e	Developing
 and	e	and
@@ -4699,10 +4450,8 @@ efni	nheþ	efni
 á	aþ	á
 Netinu	nheþgs	net
 .	.	.
-
 14.45-15.05	ta	14.45-15.05
 Kaffihlé	nhen	kaffihlé
-
 15.05-15.30	ta	15.05-15.30
 Síminn	nkengs	Sími
 og	c	og
@@ -4720,7 +4469,6 @@ einstaklingsmarkaði	nkeþ	einstaklingsmarkaður
 hjá	aþ	hjá
 Símanum	nkeþgs	Sími
 hf.	as	hf.
-
 15.30-15.55	ta	15.30-15.55
 Lögreglurannsóknir	nvfn	lögreglurannsókn
 á	aþ	á
@@ -4737,45 +4485,36 @@ lögreglunnar	nveeg	lögregla
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 15.55-16.05	ta	15.55-16.05
 Fyrirspurnir	nvfn	fyrirspurn
 ,	,	,
 umræður	nvfn	umræða
 og	c	og
 samantekt	nven	samantekt
-
 Ráðstefnuslit	nhfn	ráðstefnuslit
 -	-	-
 léttar	lvfnsf	léttur
 veitingar	nvfn	veiting
 í	aþ	í
 forsal	nkeþ	forsalur
-
 Barnaheill	nhfn-s	Barnaheill
-
 Save	e	Save
 the	e	the
 Children	e	Children
 á	aþ	á
 Íslandi	nheþ-s	Ísland
-
 Suðurlandsbraut	nveþ-s	Suðurlandsbraut
 24	ta	24
 108	ta	108
 Reykjavík	nveþ-s	Reykjavík
-
 ©	x	©
 Barnaheill	nhfn-s	Barnaheill
-
 Save	e	Save
 the	e	the
 Children	e	Children
 á	aþ	á
 Íslandi	nheþ-s	Ísland
-
 24.01.	ta	24.01.
-
 2006	ta	2006
 Save	e	Save
 the	e	the
@@ -4785,7 +4524,6 @@ við	aþ	við
 fuglaflensuvá	nveþ	fuglaflensuvá
 í	aþ	í
 Indónesíu	nveþ-s	Indónesía
-
 Til	ae	til
 að	cn	að
 bregðast	snm	bregða
@@ -4814,7 +4552,6 @@ alifuglum	nkfþ	alifugl
 í	aþ	í
 Indónesíu	nveþ-s	Indónesía
 .	.	.
-
 Samtökin	nhfng	samtök
 vinna	sfg3fn	vinna
 náið	aa	náið
@@ -4830,7 +4567,6 @@ upplýsingabæklingum	nkfþ	upplýsingabæklingur
 og	c	og
 veggspjöldum	nhfþ	veggspjald
 .	.	.
-
 Þau	fphfn	það
 eru	sfg3fn	vera
 ætluð	sþghfn	ætla
@@ -4862,7 +4598,6 @@ til	aa	til
 gegn	aþ	gegn
 veirunni	nveþg	veira
 .	.	.
-
 Í	aþ	í
 Aceh-héraði	nheþ-s	Aceh-hérað
 ,	,	,
@@ -4890,7 +4625,6 @@ verjast	snm	verja
 ásókn	nveþ	ásókn
 veirunnar	nveeg	veira
 .	.	.
-
 Umfangsmikil	lvensf	umfangsmikill
 sótthreinsun	nven	sótthreinsun
 á	aþ	á
@@ -4912,9 +4646,7 @@ veirunni	nveþg	veira
 vegum	nkfþ	vegur
 stjórnvalda	nhfe	stjórnvald
 .	.	.
-
 13.01.	ta	13.01.
-
 2006	ta	2006
 Fréttatilkynning	nven	fréttatilkynning
 :	:	:
@@ -4924,7 +4656,6 @@ frá	aþ	frá
 hörmungunum	nvfþg	hörmung
 við	ao	við
 Indlandshaf	nheo-s	Indlandshaf
-
 Á	ao	á
 sunnudag	nkeo	sunnudagur
 er	sfg3en	vera
@@ -4960,7 +4691,6 @@ dag	nkeo	dagur
 jóla	nhfe	jól
 2004	ta	2004
 .	.	.
-
 Að	aþ	að
 minnsta	lkeþve	lítill
 kosti	nkeþ	kostur
@@ -4976,7 +4706,6 @@ sín	fehfo	sinn
 og	c	og
 lífsviðurværi	nheo	lífsviðurværi
 .	.	.
-
 Samtökin	nhfng	samtök
 fimm	tfhfn	fimm
 sem	ct	sem

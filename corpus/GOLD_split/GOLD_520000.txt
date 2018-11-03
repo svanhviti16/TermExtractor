@@ -9,7 +9,6 @@ barna	nhfe	barn
 undir	aþ	undir
 lögræðisaldri	nkeþ	lögræðisaldur
 .	.	.
-
 Telja	sng	telja
 verður	sfg3en	verða
 að	c	að
@@ -50,7 +49,6 @@ stjórnskipunarlaga	nhfe	stjórnskipunarlög
 nr.	as	nr.
 97/1995	ta	97/1995
 .	.	.
-
 Með	aþ	með
 hliðsjón	nveþ	hliðsjón
 af	aþ	af
@@ -64,7 +62,6 @@ samið	sþghen	semja
 vegum	nkfþ	vegur
 menntamálaráðuneytisins	nheeg	menntamálaráðuneyti
 .	.	.
-
 Með	aþ	með
 frumvarpinu	nheþg	frumvarp
 er	sfg3en	vera
@@ -112,7 +109,6 @@ og	c	og
 þágu	nveþ	þága
 allsherjarreglu	nvee	allsherjarregla
 .	.	.
-
 Talið	sþghen	telja
 er	sfg3en	vera
 að	c	að
@@ -140,7 +136,6 @@ sér	fpvfþ	sig
 yfirbragð	nheo	yfirbragð
 ritskoðunar	nvee	ritskoðun
 .	.	.
-
 Við	ao	við
 samningu	nveo	samning
 frumvarps	nhee	frumvarp
@@ -172,7 +167,6 @@ en	c	en
 er	sfg3en	vera
 á	aa	á
 .	.	.
-
 Þessi	faven	þessi
 stefnumótun	nven	stefnumótun
 kemur	sfg3en	koma
@@ -205,7 +199,6 @@ einstaklinga	nkfe	einstaklingur
 og	c	og
 fyrirtækja	nhfe	fyrirtæki
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 markmið	nhen	markmið
@@ -234,7 +227,6 @@ viðskiptaháttum	nkfþ	viðskiptaháttur
 og	c	og
 neytendavernd	nveþ	neytendavernd
 .	.	.
-
 Þá	aa	þá
 má	sfg3en	mega
 eftirlit	nhen	eftirlit
@@ -253,7 +245,6 @@ nema	c	nema
 almannahagsmunir	nkfn	almannahagsmunir
 krefjist	svm3fn	krefja
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 lögunum	nhfþg	lag
 starfar	sfg3en	starfa
@@ -322,7 +313,6 @@ fyrir	ao	fyrir
 hið	gheo	hinn
 opinbera	lheovf	opinber
 .	.	.
-
 Nefndin	nveng	nefnd
 getur	sfg3en	geta
 beint	ssg	beina
@@ -338,7 +328,6 @@ eftirlitsreglur	nvfn	eftirlitsregla
 verði	svg3en	verða
 endurskoðaðar	sþgvfn	endurskoða
 .	.	.
-
 Ráðgjafarnefnd	nven	ráðgjafarnefnd
 um	ao	um
 opinberar	lvfosf	opinber
@@ -368,7 +357,6 @@ bann	nheo	bann
 við	aþ	við
 ofbeldiskvikmyndum	nvfþ	ofbeldiskvikmynd
 .	.	.
-
 Í	aþ	í
 bréfi	nheþ	bréf
 til	ae	til
@@ -423,7 +411,6 @@ kveða	sfg3fn	kveða
 á	aa	á
 um	aa	um
 .	.	.
-
 Einnig	aa	einnig
 var	sfg3eþ	vera
 bent	sþghen	benda
@@ -435,7 +422,6 @@ atvinnulífið	nheog	atvinnulíf
 vegna	ae	vegna
 eftirlitsins	nheeg	eftirlit
 .	.	.
-
 Lagði	sfg3eþ	leggja
 nefndin	nveng	nefnd
 til	ae	til
@@ -465,7 +451,6 @@ gerðu	svg3fþ	gera
 ráð	nheo	ráð
 fyrir	aa	fyrir
 .	.	.
-
 Í	aþ	í
 tilefni	nheþ	tilefni
 af	aþ	af
@@ -490,7 +475,6 @@ nýtt	lheosf	nýr
 fyrirkomulag	nheo	fyrirkomulag
 kvikmyndaskoðunar	nvee	kvikmyndaskoðun
 .	.	.
-
 Þar	aa	þar
 var	sfg3eþ	vera
 gert	sþghen	gera
@@ -516,7 +500,6 @@ við	ao	við
 sýningu	nveo	sýning
 kvikmynda	nvfe	kvikmynd
 .	.	.
-
 Með	aþ	með
 bréfi	nheþ	bréf
 til	ae	til
@@ -548,7 +531,6 @@ væri	svg3eþ	vera
 á	aþ	á
 kvikmyndaeftirliti	nheþ	kvikmyndaeftirlit
 .	.	.
-
 Nefndin	nveng	nefnd
 lét	sfg3eþ	láta
 einnig	aa	einnig
@@ -591,7 +573,6 @@ yrðu	svg3fþ	verða
 sýndar	sþgvfn	sýna
 ofbeldismyndir	nvfn	ofbeldismynd
 .	.	.
-
 Menntamálaráðherra	nken	menntamálaráðherra
 lagði	sfg3eþ	leggja
 fram	aa	fram
@@ -607,7 +588,6 @@ hlaut	sfg3eþ	hljóta
 ekki	aa	ekki
 afgreiðslu	nveo	afgreiðsla
 .	.	.
-
 Frumvarp	nhen	frumvarp
 þetta	fahen	þessi
 er	sfg3en	vera
@@ -634,7 +614,6 @@ ríkari	lveþvm	ríkur
 á	ao	á
 barnaverndarsjónarmið	nhfo	barnaverndarsjónarmið
 .	.	.
-
 Þannig	aa	þannig
 er	sfg3en	vera
 Barnaverndarstofu	nveþ-s	Barnaverndarstofa
@@ -657,7 +636,6 @@ kvikmynda	nvfe	kvikmynd
 og	c	og
 tölvuleikja	nkfe	tölvuleikur
 .	.	.
-
 Frumvarpið	nheng	frumvarp
 er	sfg3en	vera
 frábrugðið	lhensf	frábrugðinn
@@ -699,7 +677,6 @@ geta	sfg3fn	geta
 velferð	nveþ	velferð
 barna	nhfe	barn
 .	.	.
-
 Er	sfg3en	vera
 þá	aa	þá
 átt	sþghen	eiga
@@ -740,7 +717,6 @@ felur	sfg3en	fela
 sér	fpheþ	sig
 klám	nheo	klám
 .	.	.
-
 Það	fphen	það
 gefur	sfg3en	gefa
 augaleið	nveo	augaleið
@@ -779,7 +755,6 @@ tölvuverum	nhfþ	tölvuver
 og	c	og
 leiktækjasölum	nkfþ	leiktækjasali
 .	.	.
-
 Afskipti	nhfn	afskipti
 opinberra	lkfesf	opinber
 aðila	nkfe	aðili
@@ -801,7 +776,6 @@ og	c	og
 spilun	nveþ	spilun
 tölvuleikja	nkfe	tölvuleikur
 .	.	.
-
 Í	aþ	í
 samræmi	nheþ	samræmi
 við	ao	við
@@ -888,7 +862,6 @@ mgr.	as	mgr.
 gr.	as	gr.
 frumvarpsins	nheeg	frumvarp
 .	.	.
-
 Er	sfg3en	vera
 hér	aa	hér
 farin	sþgven	fara
@@ -945,7 +918,6 @@ fyrir	aþ	fyrir
 þeim	fphfþ	það
 efnið	nheog	efni
 .	.	.
-
 Umrætt	lhensf	umræddur
 ákvæði	nhen	ákvæði
 gildir	sfg3en	gilda
@@ -982,7 +954,6 @@ notkun	nveo	notkun
 í	aþ	í
 heimahúsum	nhfþ	heimahús
 .	.	.
-
 Við	ao	við
 heildarendurskoðun	nveo	heildarendurskoðun
 á	aþ	á
@@ -1039,7 +1010,6 @@ gr.	as	gr.
 framangreindra	lhfesf	framangreindur
 stjórnskipunarlaga	nhfe	stjórnskipunarlög
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 viðurkenndri	lveþsf	viðurkenndur
 skýringu	nveþ	skýring
@@ -1079,7 +1049,6 @@ tjáning	nven	tjáning
 birtist	sfm3en	birta
 í	aa	í
 .	.	.
-
 Meðal	ae	meðal
 annars	fohee	annar
 nær	sfg3en	ná
@@ -1090,7 +1059,6 @@ kvikmynda	nvfe	kvikmynd
 og	c	og
 tölvuleikja	nkfe	tölvuleikur
 .	.	.
-
 73.	ta	73.
 gr.	as	gr.
 stjórnarskrárinnar	nveeg	stjórnarskrá
@@ -1106,7 +1074,6 @@ sinna	fevfe	sinn
 og	c	og
 sannfæringar	nvee	sannfæring
 .	.	.
-
 Hver	foken	hver
 maður	nken	maður
 á	sfg3en	eiga
@@ -1127,7 +1094,6 @@ hann	fpken	hann
 fyrir	aþ	fyrir
 dómi	nkeþ	dómur
 .	.	.
-
 Ritskoðun	nveo	ritskoðun
 og	c	og
 aðrar	fovfo	annar
@@ -1141,7 +1107,6 @@ aldrei	aa	aldrei
 lög	nhfo	lag
 leiða	sng	leiða
 .	.	.
-
 Tjáningarfrelsi	nheþ	tjáningarfrelsi
 má	sfg3en	mega
 aðeins	aa	aðeins
@@ -1178,7 +1143,6 @@ samrýmist	svm3fn	samrýma
 lýðræðishefðum	nvfþ	lýðræðishefð
 .	.	.
 »	»	»
-
 Svo	aa	svo
 sem	c	sem
 fram	aa	fram
@@ -1215,7 +1179,6 @@ og	c	og
 samrýmist	svm3fn	samrýma
 lýðræðishefðum	nvfþ	lýðræðishefð
 .	.	.
-
 Fyrir	ao	fyrir
 brot	nheo	brot
 gegn	aþ	gegn
@@ -1239,7 +1202,6 @@ mgr.	as	mgr.
 gr.	as	gr.
 stjórnarskrárinnar	nveeg	stjórnarskrá
 .	.	.
-
 Til	ae	til
 þeirrar	favee	sá
 ábyrgðar	nvee	ábyrgð
@@ -1256,7 +1218,6 @@ hefur	sfg3en	hafa
 verið	ssg	vera
 framið	sþghen	fremja
 .	.	.
-
 Ritskoðun	nven	ritskoðun
 og	c	og
 aðrar	fovfn	annar
@@ -1280,7 +1241,6 @@ mgr.	as	mgr.
 gr.	as	gr.
 stjórnarskrárinnar	nveeg	stjórnarskrá
 .	.	.
-
 Ritskoðun	nven	ritskoðun
 er	sfg3en	vera
 skilgreind	sþgven	skilgreina
@@ -1310,7 +1270,6 @@ efni	nheo	efni
 megi	svg3en	mega
 birta	sng	birta
 .	.	.
-
 Ritskoðun	nven	ritskoðun
 er	sfg3en	vera
 þannig	aa	þannig
@@ -1331,7 +1290,6 @@ bönnuð	sþgven	banna
 framangreindu	lheþsf	framangreindur
 stjórnarskrárákvæði	nheþ	stjórnarskrárákvæði
 .	.	.
-
 Fyrir	ao	fyrir
 setningu	nveo	setning
 73.	ta	73.
@@ -1371,7 +1329,6 @@ hvers	fokee	hver
 konar	nkee	konar
 tjáningu	nveo	tjáning
 .	.	.
-
 Ritskoðunarbann	nhen	ritskoðunarbann
 íslensku	lveevf	íslenskur
 stjórnarskrárinnar	nveeg	stjórnarskrá
@@ -1398,7 +1355,6 @@ skoðanafrelsi	nheo	skoðanafrelsi
 og	c	og
 tjáningarfrelsi	nheo	tjáningarfrelsi
 .	.	.
-
 Frá	aþ	frá
 árinu	nheþg	ár
 1996	ta	1996
@@ -1415,7 +1371,6 @@ Evrópuráðsins	nheegs	Evrópuráðið
 skuldbindingum	nvfþ	skuldbinding
 sínum	fevfþ	sinn
 .	.	.
-
 Aðferðafræðin	nveng	aðferðafræði
 við	ao	við
 þemaeftirlitið	nheog	þemaeftirlit
@@ -1433,7 +1388,6 @@ tekin	sþghfn	taka
 til	ae	til
 athugunar	nvee	athugun
 .	.	.
-
 Í	ao	í
 kjölfar	nheo	kjölfar
 upplýsingasöfnunar	nvee	upplýsingasöfnun
@@ -1456,7 +1410,6 @@ við	ao	við
 stofnsáttmála	nkeo	stofnsáttmáli
 Evrópuráðsins	nheegs	Evrópuráðið
 .	.	.
-
 Meðal	ae	meðal
 þema	nhfe	þema
 sem	ct	sem
@@ -1468,7 +1421,6 @@ tjáningar-	nhen	tjáningarfrelsi
 og	c	og
 upplýsingafrelsi	nhen	upplýsingafrelsi
 .	.	.
-
 Í	aþ	í
 skýrslu	nveþ	skýrsla
 ráðherranefndar	nvee	ráðherranefnd
@@ -1493,7 +1445,6 @@ kvikmyndaeftirlit	nheo	kvikmyndaeftirlit
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Í	aþ	í
 skýrslunni	nveþg	skýrsla
 segir	sfg3en	segja
@@ -1531,7 +1482,6 @@ opinbera	lveosf	opinber
 sýningu	nveo	sýning
 þeirra	fpvfe	hún
 .	.	.
-
 Í	aþ	í
 skýrslu	nveþ	skýrsla
 ráðherranefndarinnar	nveeg	ráðherranefnd
@@ -1570,7 +1520,6 @@ mgr.	as	mgr.
 gr.	as	gr.
 stjórnarskrárinnar	nveeg	stjórnarskrá
 .	.	.
-
 Í	aþ	í
 niðurstöðukafla	nkeþ	niðurstöðukafli
 skýrslu	nvee	skýrsla
@@ -1597,7 +1546,6 @@ fyrir	ao	fyrir
 sýningu	nveo	sýning
 þeirra	fpvfe	hún
 .	.	.
-
 Íslensk	lhfnsf	íslenskur
 stjórnvöld	nhfn	stjórnvald
 voru	sfg3fþ	vera
@@ -1612,7 +1560,6 @@ framangreindum	lvfþsf	framangreindur
 athugasemdum	nvfþ	athugasemd
 ráðherranefndarinnar	nveeg	ráðherranefnd
 .	.	.
-
 Í	aþ	í
 svarbréfi	nheþ	svarbréf
 menntamálaráðuneytisins	nheeg	menntamálaráðuneyti
@@ -1657,7 +1604,6 @@ sér	fpheþ	sig
 einkenni	nhfo	einkenni
 ritskoðunar	nvee	ritskoðun
 .	.	.
-
 Jafnramt	aa	jafnframt
 var	sfg3eþ	vera
 rakið	sþghen	rekja
@@ -1706,7 +1652,6 @@ ekki	aa	ekki
 hlotið	ssg	hljóta
 afgreiðslu	nveo	afgreiðsla
 .	.	.
-
 Í	aþ	í
 því	faheþ	sá
 frumvarpi	nheþ	frumvarp
@@ -1729,7 +1674,6 @@ ritskoðunar	nvee	ritskoðun
 framangreindri	lveþsf	framangreindur
 mynd	nveþ	mynd
 .	.	.
-
 Í	aþ	í
 samræmi	nheþ	samræmi
 við	ao	við
@@ -1792,7 +1736,6 @@ hefur	sfg3en	hafa
 einkenni	nhfo	einkenni
 ritskoðunar	nvee	ritskoðun
 .	.	.
-
 Skoðun	nven	skoðun
 kvikmynda	nvfe	kvikmynd
 ,	,	,
@@ -1807,7 +1750,6 @@ fyrir	ao	fyrir
 sýningu	nveo	sýning
 þeirra	fpvfe	hún
 .	.	.
-
 Óheimilt	lhensf	óheimill
 er	sfg3en	vera
 að	cn	að
@@ -1831,7 +1773,6 @@ bannað	ssg	banna
 sýningu	nveo	sýning
 kvikmyndar	nvee	kvikmynd
 .	.	.
-
 Kvikmyndaskoðun	nven-s	Kvikmyndaskoðun
 getur	sfg3en	geta
 bundið	ssg	binda
@@ -1840,7 +1781,6 @@ til	ae	til
 sýninga	nvfe	sýning
 skilyrðum	nhfþ	skilyrði
 .	.	.
-
 Vísast	sþmhen	vísa
 um	ao	um
 þessi	fahfo	þessi
@@ -1861,7 +1801,6 @@ og	c	og
 gr.	as	gr.
 laganna	nhfeg	lag
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 að	cn	að
@@ -1896,7 +1835,6 @@ af	aþ	af
 hálfu	nveþ	hálfa
 stjórnvalda	nhfe	stjórnvald
 .	.	.
-
 Til	ae	til
 dæmis	nhee	dæmi
 má	sfg3en	mega
@@ -1925,7 +1863,6 @@ fyrir	ao	fyrir
 sýningu	nveo	sýning
 þeirra	fpvfe	hún
 .	.	.
-
 Verður	sfg3en	verða
 því	aa	því
 ekki	aa	ekki
@@ -1956,7 +1893,6 @@ með	aþ	með
 öðru	foheþ	annar
 móti	nheþ	mót
 .	.	.
-
 Þá	aa	þá
 geymir	sfg3en	geyma
 frumvarpið	nheng	frumvarp
@@ -1988,7 +1924,6 @@ hætti	nkeþ	háttur
 og	c	og
 kvikmyndir	nvfo	kvikmynd
 .	.	.
-
 Með	aþ	með
 því	fpheþ	það
 að	c	að
@@ -2077,7 +2012,6 @@ mgr.	as	mgr.
 sömu	fbvee	sami
 greinar	nvee	grein
 .	.	.
-
 Er	sfg3en	vera
 það	fphen	það
 í	aþ	í
@@ -2121,7 +2055,6 @@ kafla	nkeo	kafli
 nr.	as	nr.
 53/2000	ta	53/2000
 .	.	.
-
 Ljóst	lhensf	ljós
 er	sfg3en	vera
 að	c	að
@@ -2156,7 +2089,6 @@ helst	aae	heldur
 til	ae	til
 álita	nhfe	álit
 .	.	.
-
 Af	aþ	af
 sömu	fbveþ	sami
 ástæðu	nveþ	ástæða
@@ -2237,7 +2169,6 @@ undan	aþ	undan
 almenningi	nkeþ	almenningur
 .	.	.
 »	»	»
-
 Í	aþ	í
 hinu	gheþ	hinn
 tilvitnaða	lheþvf	tilvitnaður
@@ -2282,7 +2213,6 @@ lagaákvæði	nhfn	lagaákvæði
 sömu	fbvee	sami
 ættar	nvee	ætt
 .	.	.
-
 Með	aþ	með
 hliðsjón	nveþ	hliðsjón
 af	aþ	af
@@ -2313,7 +2243,6 @@ hagað	sþghen	haga
 :	:	:
 1	ta	1
 .	.	.
-
 Skylt	lhensf	skyldur
 er	sfg3en	vera
 að	cn	að
@@ -2337,10 +2266,8 @@ börn	nhfo	barn
 undir	aþ	undir
 lögræðisaldri	nkeþ	lögræðisaldur
 .	.	.
-
 2	ta	2
 .	.	.
-
 Skylt	lhensf	skyldur
 er	sfg3en	vera
 að	cn	að
@@ -2374,10 +2301,8 @@ telst	sfm3en	telja
 velferð	nveþ	velferð
 barna	nhfe	barn
 .	.	.
-
 3	ta	3
 .	.	.
-
 Skylt	lhensf	skyldur
 er	sfg3en	vera
 að	cn	að
@@ -2408,10 +2333,8 @@ fyrir	ao	fyrir
 fullorðna	lkfosf	fullorðinn
 einstaklinga	nkfo	einstaklingur
 .	.	.
-
 4	ta	4
 .	.	.
-
 Skylt	lhensf	skyldur
 er	sfg3en	vera
 að	cn	að
@@ -2446,10 +2369,8 @@ notkunar	nvee	notkun
 fyrir	ao	fyrir
 fullorðna	lkfosf	fullorðinn
 .	.	.
-
 5	ta	5
 .	.	.
-
 Skylt	lhensf	skyldur
 er	sfg3en	vera
 að	cn	að
@@ -2471,10 +2392,8 @@ sé	svg3en	vera
 fyrir	aþ	fyrir
 hendi	nveþ	hönd
 .	.	.
-
 6	ta	6
 .	.	.
-
 Ábyrgðaraðilar	nkfn	ábyrgðaraðili
 samkvæmt	aþ	samkvæmt
 frumvarpinu	nheþg	frumvarp
@@ -2518,9 +2437,7 @@ við	aa	við
 hverju	foheþ	hver
 tilviki	nheþ	tilvik
 .	.	.
-
 7.	ta	7.
-
 Kveðið	sþghen	kveða
 er	sfg3en	vera
 á	aa	á
@@ -2542,7 +2459,6 @@ alþjóðlega	aa	alþjóðlega
 viðurkennd	lhfosf	viðurkenndur
 skoðunarkerfi	nhfo	skoðunarkerfi
 .	.	.
-
 Verklagsreglurnar	nvfog	verklagsregla
 ber	sfg3en	bera
 að	cn	að
@@ -2553,7 +2469,6 @@ tilgreina	sng	tilgreina
 matsstjóra	nkeo	matsstjóri
 ábyrgðaraðila	nkee	ábyrgðaraðili
 .	.	.
-
 Niðurstöður	nvfn	niðurstaða
 mats	nhee	mat
 skulu	sfg3fn	skulu
@@ -2571,9 +2486,7 @@ hafa	sng	hafa
 aðgang	nkeo	aðgangur
 að	aa	að
 .	.	.
-
 8.	ta	8.
-
 Barnaverndarstofa	nven	barnaverndarstofa
 hefur	sfg3en	hafa
 eftirlit	nheo	eftirlit
@@ -2586,7 +2499,6 @@ kvikmynda	nvfe	kvikmynd
 og	c	og
 tölvuleikja	nkfe	tölvuleikur
 .	.	.
-
 Í	aþ	í
 því	fpheþ	það
 felst	sfm3en	fela
@@ -2603,7 +2515,6 @@ verklagi	nheþ	verklag
 framangreindra	lkfesf	framangreindur
 ábyrgðaraðila	nkfe	ábyrgðaraðili
 .	.	.
-
 Barnaverndarstofa	nven	barnaverndarstofa
 fer	sfg3en	fara
 einnig	aa	einnig
@@ -2627,7 +2538,6 @@ kvikmyndar	nvee	kvikmynd
 eða	c	eða
 tölvuleiks	nkee	tölvuleikur
 .	.	.
-
 Rétt	lhensf	réttur
 er	sfg3en	vera
 að	cn	að
@@ -2648,7 +2558,6 @@ sem	ct	sem
 lagaverndar	nvee	lagavernd
 njóta	sfg3fn	njóta
 .	.	.
-
 Efni	nhen	efni
 kvikmynda	nvfe	kvikmynd
 eða	c	eða
@@ -2764,7 +2673,6 @@ friðhelgi	nveþ	friðhelgi
 einkalífs	nhee	einkalíf
 )	)	)
 .	.	.
-
 Með	aþ	með
 framangreindum	lhfþsf	framangreindur
 dæmum	nhfþ	dæmi
@@ -2794,7 +2702,6 @@ og	c	og
 eða	c	eða
 refsiábyrgð	nveþ	refsiábyrgð
 .	.	.
-
 Verða	sfg3fn	verða
 þeir	fakfn	sá
 sem	ct	sem
@@ -2814,18 +2721,15 @@ eiga	sfg3fn	eiga
 hverju	foheþ	hver
 sinni	nheþ	sinn
 .	.	.
-
 Athugasemdir	nvfn	athugasemd
 við	ao	við
 einstakar	lvfosf	einstakur
 greinar	nvfo	grein
 frumvarpsins	nheeg	frumvarp
 .	.	.
-
 Um	ao	um
 1.	ta	1.
 gr.	as	gr.
-
 Í	aþ	í
 þessari	faveþ	þessi
 grein	nveþ	grein
@@ -2850,7 +2754,6 @@ sem	ct	sem
 velferð	nveþ	velferð
 barna	nhfe	barn
 .	.	.
-
 Með	aþ	með
 hugtakinu	nheþg	hugtak
 ábyrgðaraðili	nken	ábyrgðaraðili
@@ -2909,7 +2812,6 @@ mgr.	as	mgr.
 gr.	as	gr.
 frumvarpsins	nheeg	frumvarp
 .	.	.
-
 Að	aþ	að
 öðru	foheþ	annar
 leyti	nheþ	leyti
@@ -2941,7 +2843,6 @@ einnig	aa	einnig
 til	ae	til
 ofbeldistölvuleikja	nkfe	ofbeldistölvuleikur
 .	.	.
-
 Í	aþ	í
 skilgreiningunni	nveþg	skilgreining
 á	aþ	á
@@ -2971,7 +2872,6 @@ eða	c	eða
 öðrum	fohfþ	annar
 myndflutningstækjum	nhfþ	myndflutningstæki
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 skilgreiningunni	nveþg	skilgreining
 falla	sfg3fn	falla
@@ -3001,7 +2901,6 @@ sýndar	sþgvfn	sýna
 í	aþ	í
 sjónvarpi	nheþ	sjónvarp
 .	.	.
-
 Framleiddir	lkfnsf	framleiddur
 sjónvarpsþættir	nkfn	sjónvarpsþáttur
 og	c	og
@@ -3011,7 +2910,6 @@ jafnframt	aa	jafnframt
 undir	ao	undir
 skilgreininguna	nveog	skilgreining
 .	.	.
-
 Til	ae	til
 þessa	fahee	þessi
 telst	sfm3en	telja
@@ -3033,7 +2931,6 @@ við	aþ	við
 óvæntum	lkfþsf	óvæntur
 atburðum	nkfþ	atburður
 .	.	.
-
 Annað	fohen	annar
 efni	nhen	efni
 í	aþ	í
@@ -3059,7 +2956,6 @@ sbr.	as	sbr.
 gr.	as	gr.
 frumvarpsins	nheeg	frumvarp
 .	.	.
-
 Um	ao	um
 mat	nheo	mat
 á	aþ	á
@@ -3086,7 +2982,6 @@ efni	nheþ	efni
 í	aþ	í
 sjónvarpi	nheþ	sjónvarp
 .	.	.
-
 Þar	aa	þar
 er	sfg3en	vera
 svo	aa	svo
@@ -3149,7 +3044,6 @@ sjái	svg3fn	sjá
 viðkomandi	lheoof	viðkomandi
 efni	nheo	efni
 .	.	.
-
 Dagskrárefni	nhen	dagskrárefni
 sem	ct	sem
 ekki	aa	ekki
@@ -3191,7 +3085,6 @@ sjá	sng	sjá
 slíkar	fbvfo	slíkur
 útsendingar	nvfo	útsending
 .	.	.
-
 Þegar	c	þegar
 slíkt	fbhen	slíkur
 dagskrárefni	nhen	dagskrárefni
@@ -3219,7 +3112,6 @@ sem	ct	sem
 stendur	sfg3en	standa
 yfir	aa	yfir
 .	.	.
-
 Þessi	fahfn	þessi
 ákvæði	nhfn	ákvæði
 gilda	sfg3fn	gilda
@@ -3253,7 +3145,6 @@ og	c	og
 framleidda	lkfosf	framleiddur
 sjónvarpsþætti	nkfo	sjónvarpsþáttur
 .	.	.
-
 Ákvæði	nhfn	ákvæði
 1.	ta	1.
 gr.	as	gr.
@@ -3305,7 +3196,6 @@ eða	c	eða
 öðrum	fohfþ	annar
 myndflutningstækjum	nhfþ	myndflutningstæki
 .	.	.
-
 Með	aþ	með
 sama	fbkeþ	sami
 hætti	nkeþ	háttur
@@ -3379,7 +3269,6 @@ hann	fpken	hann
 sjálfur	fbken	sjálfur
 kýs	sfg3en	kjósa
 .	.	.
-
 Þann	fakeo	sá
 fyrirvara	nkeo	fyrirvari
 verður	sfg3en	verða
@@ -3409,7 +3298,6 @@ netinu	nheþg	net
 í	aþ	í
 atvinnuskyni	nheþ	atvinnuskyn
 .	.	.
-
 Af	aþ	af
 þeim	favfþ	sá
 sökum	nvfþ	sök
@@ -3441,7 +3329,6 @@ eða	c	eða
 fjárhagslegum	lkeþsf	fjárhagslegur
 tilgangi	nkeþ	tilgangur
 .	.	.
-
 Það	fphen	það
 ræður	sfg3en	ráða
 þó	aa	þó
@@ -3457,7 +3344,6 @@ fram	aa	fram
 gegn	aþ	gegn
 gjaldi	nheþ	gjald
 .	.	.
-
 Það	fphen	það
 teldist	svm3eþ	telja
 t.d.	as	t.d.
@@ -3473,7 +3359,6 @@ með	aþ	með
 birtingu	nveþ	birting
 auglýsinga	nvfe	auglýsing
 .	.	.
-
 Með	aþ	með
 sambærilegum	lkeþsf	sambærilegur
 hætti	nkeþ	háttur
@@ -3509,7 +3394,6 @@ dreifingaraðferð	nveþ	dreifingaraðferð
 og	c	og
 -miðlum	nkfþ	miðill
 .	.	.
-
 Skilgreiningin	nveng	skilgreining
 á	aþ	á
 kvikmynd	nveþ	kvikmynd
@@ -3571,7 +3455,6 @@ felur	sfg3en	fela
 sér	fpheþ	sig
 klám	nheo	klám
 .	.	.
-
 Byggist	sfm3en	byggja
 skilgreining	nven	skilgreining
 þessi	faven	þessi
@@ -3585,11 +3468,9 @@ gr.	as	gr.
 nr.	as	nr.
 53/2000	ta	53/2000
 .	.	.
-
 Um	ao	um
 2.	ta	2.
 gr.	as	gr.
-
 Í	aþ	í
 þessari	faveþ	þessi
 grein	nveþ	grein
@@ -3606,7 +3487,6 @@ tölvuleikjum	nkfþ	tölvuleikur
 samkvæmt	aþ	samkvæmt
 lögunum	nhfþg	lag
 .	.	.
-
 Í	aþ	í
 1.	ta	1.
 mgr.	as	mgr.
@@ -3636,7 +3516,6 @@ sem	ct	sem
 velferð	nveþ	velferð
 þeirra	fphfe	það
 .	.	.
-
 Bönnuð	sþgven	banna
 er	sfg3en	vera
 sýning	nven	sýning
@@ -3657,7 +3536,6 @@ náð	ssg	ná
 þeim	fakeþ	sá
 aldri	nkeþ	aldur
 .	.	.
-
 Ekki	aa	ekki
 þykir	sfg3en	þykja
 ástæða	nven	ástæða
@@ -3708,7 +3586,6 @@ fullorðnum	lkfþsf	fullorðinn
 sem	c	sem
 börnum	nhfþ	barn
 .	.	.
-
 Svo	aa	svo
 víðtækt	lhensf	víðtækur
 bann	nhen	bann
@@ -3723,7 +3600,6 @@ tjáningarfrelsisákvæði	nheo	tjáningarfrelsisákvæði
 gr.	as	gr.
 stjórnarskrárinnar	nveeg	stjórnarskrá
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 er	sfg3en	vera
@@ -3770,7 +3646,6 @@ fullorðnir	lkfnsf	fullorðinn
 horfa	sfg3fn	horfa
 á	aa	á
 .	.	.
-
 Rétt	lhensf	réttur
 þykir	sfg3en	þykja
 hins	fakee	hinn
@@ -3794,7 +3669,6 @@ sem	ct	sem
 velferð	nveþ	velferð
 barna	nhfe	barn
 .	.	.
-
 Þá	aa	þá
 þykir	sfg3en	þykja
 rétt	lhensf	réttur
@@ -3830,7 +3704,6 @@ samræmis	nhee	samræmi
 við	ao	við
 fjárræðisaldur	nkeo	fjárræðisaldur
 .	.	.
-
 Þetta	fahen	þessi
 hefur	sfg3en	hafa
 þá	faveo	sá
@@ -3888,7 +3761,6 @@ mgr.	as	mgr.
 gr.	as	gr.
 frumvarpsins	nheeg	frumvarp
 .	.	.
-
 Þess	fphee	það
 má	sfg3en	mega
 hér	aa	hér
@@ -3918,7 +3790,6 @@ en	c	en
 18	ta	18
 ára	nhfe	ár
 .	.	.
-
 Er	sfg3en	vera
 þetta	fahen	þessi
 í	aþ	í
@@ -3962,7 +3833,6 @@ sem	ct	sem
 hann	fpken	hann
 lýtur	sfg3en	lúta
 .	.	.
-
 Skylda	nven	skylda
 til	ae	til
 að	cn	að
@@ -4000,7 +3870,6 @@ sbr.	as	sbr.
 málslið	nkeo	málsliður
 2.	ta	2.
 mgr.	as	mgr.
-
 Í	aþ	í
 2.	ta	2.
 mgr.	as	mgr.
@@ -4054,7 +3923,6 @@ aldursskeið	nheo	aldursskeið
 innan	ae	innan
 lögræðisaldurs	nkee	lögræðisaldur
 .	.	.
-
 Þetta	fahen	þessi
 þýðir	sfg3en	þýða
 jafnframt	aa	jafnframt
@@ -4101,7 +3969,6 @@ fyrir	ao	fyrir
 fullorðna	lkfosf	fullorðinn
 áhorfendur	nkfo	áhorfandi
 .	.	.
-
 Myndir	nvfo	mynd
 og	c	og
 tölvuleiki	nkfo	tölvuleikur
@@ -4151,7 +4018,6 @@ mgr.	as	mgr.
 gr.	as	gr.
 frumvarpsins	nheeg	frumvarp
 .	.	.
-
 Framangreind	lvensf	framangreindur
 aldursregla	nven	aldursregla
 styðst	sfm3en	styðja
@@ -4185,7 +4051,6 @@ ungmenni	nhfo	ungmenni
 mismunandi	lhfþof	mismunandi
 aldursskeiðum	nhfþ	aldursskeið
 .	.	.
-
 Sá	faken	sá
 háttur	nken	háttur
 er	sfg3en	vera
@@ -4208,7 +4073,6 @@ eru	sfg3fn	vera
 fullorðnum	lkfþsf	fullorðinn
 áhorfendum	nkfþ	áhorfandi
 .	.	.
-
 Í	aþ	í
 síðari	lkeþvm	síðari
 málslið	nkeþ	málsliður
@@ -4242,7 +4106,6 @@ kvikmyndir	nvfo	kvikmynd
 og	c	og
 tölvuleiki	nkfo	tölvuleikur
 .	.	.
-
 Er	sfg3en	vera
 hér	aa	hér
 átt	sþghen	eiga
@@ -4292,7 +4155,6 @@ t.d.	as	t.d.
 í	aþ	í
 sjónvarpi	nheþ	sjónvarp
 .	.	.
-
 Gildir	sfg3en	gilda
 þá	aa	þá
 regla	nven	regla
@@ -4307,7 +4169,6 @@ slíks	fbhee	slíkur
 og	c	og
 sýnishorna	nhfe	sýnishorn
 .	.	.
-
 Í	aþ	í
 3.	ta	3.
 mgr.	as	mgr.
@@ -4356,7 +4217,6 @@ hér	aa	hér
 á	aþ	á
 landi	nheþ	land
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 álit	nhen	álit
@@ -4392,7 +4252,6 @@ mgr.	as	mgr.
 gr.	as	gr.
 stjórnarskrárinnar	nveeg	stjórnarskrá
 .	.	.
-
 Rétt	lhensf	réttur
 er	sfg3en	vera
 að	cn	að
@@ -4434,7 +4293,6 @@ eintaka	nhfe	eintak
 eftir	aþ	eftir
 frumvarpinu	nheþg	frumvarp
 .	.	.
-
 Ábyrgð	nven	ábyrgð
 á	aþ	á
 dreifingu	nveþ	dreifing
@@ -4476,7 +4334,6 @@ rafræna	lveosf	rafrænn
 nr.	as	nr.
 30/2002	ta	30/2002
 .	.	.
-
 Matsskylda	nven	matsskylda
 samkvæmt	aþ	samkvæmt
 framansögðu	lheþsf	framansagður
@@ -4508,7 +4365,6 @@ mgr.	as	mgr.
 gr.	as	gr.
 frumvarpsins	nheeg	frumvarp
 .	.	.
-
 Að	aþ	að
 mati	nheþ	mat
 menntamálaráðuneytisins	nheeg	menntamálaráðuneyti
@@ -4530,7 +4386,6 @@ kvikmynda	nvfe	kvikmynd
 og	c	og
 tölvuleikja	nkfe	tölvuleikur
 .	.	.
-
 Vegna	ae	vegna
 ritskoðunarbanns	nhee	ritskoðunarbann
 2.	ta	2.
@@ -4561,7 +4416,6 @@ mgr.	as	mgr.
 gr.	as	gr.
 frumvarpsins	nheeg	frumvarp
 .	.	.
-
 Í	aþ	í
 eftirlitinu	nheþg	eftirlit
 felst	sfm3en	fela
@@ -4576,7 +4430,6 @@ fram	aa	fram
 verklagsreglum	nvfþ	verklagsregla
 ábyrgðaraðila	nkfe	ábyrgðaraðili
 .	.	.
-
 Að	aþ	að
 þessu	faheþ	þessi
 leyti	nheþ	leyti
@@ -4609,7 +4462,6 @@ mgr.	as	mgr.
 gr.	as	gr.
 frumvarpsins	nheeg	frumvarp
 .	.	.
-
 Ábyrgð	nven	ábyrgð
 á	aþ	á
 matinu	nheþg	mat
@@ -4637,7 +4489,6 @@ mgr.	as	mgr.
 gr.	as	gr.
 frumvarpsins	nheeg	frumvarp
 .	.	.
-
 Gert	sþghen	gera
 er	sfg3en	vera
 ráð	nhen	ráð
@@ -4668,7 +4519,6 @@ eða	c	eða
 notkunar	nvee	notkun
 fyrir	aa	fyrir
 .	.	.
-
 Ber	sfg3en	bera
 í	aþ	í
 þessu	faheþ	þessi
@@ -4697,7 +4547,6 @@ eftir	aþ	eftir
 aldursþroska	nkeþ	aldursþroski
 þeirra	fphfe	það
 .	.	.
-
 Vænta	sng	vænta
 má	sfg3en	mega
 að	c	að
@@ -4732,7 +4581,6 @@ sem	ct	sem
 nú	aa	nú
 gilda	sfg3fn	gilda
 .	.	.
-
 Mynd	nven	mynd
 getur	sfg3en	geta
 til	ae	til
@@ -4778,18 +4626,15 @@ við	aa	við
 hverju	foheþ	hver
 sinni	nheþ	sinn
 .	.	.
-
 Athugasemdir	nvfn	athugasemd
 við	ao	við
 lagafrumvarp	nheo	lagafrumvarp
 þetta	faheo	þessi
 .	.	.
-
 I.	ta	I.
 Almennar	lvfnsf	almennur
 athugasemdir	nvfn	athugasemd
 .	.	.
-
 Á	aþ	á
 árinu	nheþg	ár
 1999	ta	1999
@@ -4801,7 +4646,6 @@ endurskoða	sng	endurskoða
 gildandi	lhfoof	gildandi
 barnalög	nhfo	barnalag
 .	.	.
-
 Þeirri	faveþ	sá
 vinnu	nveþ	vinna
 lauk	sfg3eþ	ljúka
@@ -4822,7 +4666,6 @@ frumvarp	nheo	frumvarp
 til	ae	til
 barnalaga	nhfe	barnalag
 .	.	.
-
 Í	aþ	í
 ráðuneytinu	nheþg	ráðuneyti
 var	sfg3eþ	vera
@@ -4855,7 +4698,6 @@ sem	ct	sem
 sifjalaganefnd	nven	sifjalaganefnd
 samdi	sfg3eþ	semja
 .	.	.
-
 Í	aþ	í
 sifjalaganefnd	nveþ	sifjalaganefnd
 áttu	sfg3fþ	eiga
@@ -4886,7 +4728,6 @@ Valborg	nven-s	Valborg
 Snævarr	nven-s	Snævarr
 hæstaréttarlögmaður	nken	hæstaréttarlögmaður
 .	.	.
-
 Ritari	nken	ritari
 nefndarinnar	nveeg	nefnd
 var	sfg3eþ	vera
@@ -4899,7 +4740,6 @@ dóms-	nheþg	dómsmálaráðuneyti
 og	c	og
 kirkjumálaráðuneytinu	nheþg	kirkjumálaráðuneyti
 .	.	.
-
 Nefndinni	nveþg	nefnd
 til	ae	til
 aðstoðar	nvee	aðstoð
@@ -4915,7 +4755,6 @@ dóms-	nheþg	dómsmálaráðuneyti
 og	c	og
 kirkjumálaráðuneytinu	nheþg	kirkjumálaráðuneyti
 .	.	.
-
 Gildandi	lhfnof	gildandi
 barnalög	nhfn	barnalag
 eru	sfg3fn	vera
@@ -4929,7 +4768,6 @@ með	aþ	með
 síðari	lvfþvm	síðari
 breytingum	nvfþ	breyting
 .	.	.
-
 Með	aþ	með
 þeim	fpvfþ	hún
 voru	sfg3fþ	vera
@@ -4967,7 +4805,6 @@ með	ao	með
 forsjá	nveo	forsjá
 barns	nhee	barn
 .	.	.
-
 Þá	aa	þá
 var	sfg3eþ	vera
 dómstólum	nkfþ	dómstóll
@@ -4979,7 +4816,6 @@ falin	sþgven	fela
 úrlausn	nven	úrlausn
 forsjármála	nhfe	forsjármál
 .	.	.
-
 Á	aþ	á
 þeim	fakeþ	sá
 tæpa	lkeþvf	tæpur

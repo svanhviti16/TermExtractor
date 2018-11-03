@@ -1,4 +1,3 @@
-
 Það	fphen	það
 eru	sfg3fn	vera
 fjórtán	tfvfn	fjórtán
@@ -15,7 +14,6 @@ tónmenntarkennari	nken	tónmenntarkennari
 stjórnar	sfg3en	stjórna
 kórnum	nkeþg	kór
 .	.	.
-
 Hún	fpven	hún
 elskar	sfg3en	elska
 strákana	nkfog	strákur
@@ -39,7 +37,6 @@ sinni	nheþ	sinn
 að	cn	að
 syngja	sng	syngja
 .	.	.
-
 Nema	c	nema
 einn	lkensf	einn
 ,	,	,
@@ -56,7 +53,6 @@ segja	sng	segja
 stundum	aa	stundum
 einsöng	nkeo	einsöngur
 .	.	.
-
 Við	fp1fn	ég
 fórum	sfg1fþ	fara
 ekkert	fohen	enginn
@@ -79,13 +75,11 @@ okkur	fp1fþ	ég
 á	aþ	á
 leiðinni	nveþg	leið
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 alveg	aa	alveg
 gaman	nhen	gaman
 .	.	.
-
 Svo	aa	svo
 gistum	sfg1fþ	gista
 við	fp1fn	ég
@@ -105,7 +99,6 @@ sofa	sng	sofa
 á	aþ	á
 gólfinu	nheþg	gólf
 .	.	.
-
 Sem	c	sem
 betur	aam	vel
 fer	sfg3en	fara
@@ -125,7 +118,6 @@ dýnuna	nveog	dýna
 hennar	fpvee	hún
 Ástu	nvee-s	Ásta
 .	.	.
-
 Við	fp1fn	ég
 máttum	sfg1fþ	mega
 eiginlega	aa	eiginlega
@@ -146,7 +138,6 @@ tvisvar	aa	tvisvar
 á	ao	á
 dag	nkeo	dagur
 .	.	.
-
 Svo	aa	svo
 þurftum	sfg1fþ	þurfa
 við	fp1fn	ég
@@ -176,7 +167,6 @@ næstum	aa	næstum
 þúsund	tfhfþ	þúsund
 sinnum	nhfþ	sinn
 .	.	.
-
 Við	fp1fn	ég
 fórum	sfg1fþ	fara
 einu	foheþ	einn
@@ -196,7 +186,6 @@ kynnum	svg3fn	kynna
 að	cn	að
 synda	sng	synda
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 ekkert	fohen	enginn
@@ -210,7 +199,6 @@ pínulítill	lkensf	pínulítill
 heitur	lkensf	heitur
 pottur	nken	pottur
 .	.	.
-
 Eftir	ao	eftir
 sundið	nheog	sund
 máttum	sfg1fþ	mega
@@ -228,7 +216,6 @@ annað	foheo	annar
 alla	foveo	allur
 helgina	nveog	helgi
 .	.	.
-
 Ég	fp1en	ég
 ætla	sfg1en	ætla
 að	cn	að
@@ -249,7 +236,6 @@ nammidaga	nkfo	nammidagur
 næstu	lveove	næstur
 helgi	nveo	helgi
 .	.	.
-
 Á	ao	á
 sunnudaginn	nkeog	sunnudagur
 fórum	sfg1fþ	fara
@@ -264,7 +250,6 @@ af	aþ	af
 fólki	nheþ	fólk
 þar	aa	þar
 .	.	.
-
 Mér	fp1eþ	ég
 fannst	sfm3eþ	finna
 það	fphen	það
@@ -277,7 +262,6 @@ bara	aa	bara
 soldið	aa	soldið
 skemmtilegt	lhensf	skemmtilegur
 .	.	.
-
 Ég	fp1en	ég
 ætlaði	sfg1eþ	ætla
 að	cn	að
@@ -303,13 +287,11 @@ og	c	og
 ég	fp1en	ég
 gat	sfg1eþ	geta
 .	.	.
-
 Alveg	aa	alveg
 rosalega	aa	rosalega
 hátt	aa	hátt
 sko	aa	sko
 .	.	.
-
 Mér	fp1eþ	ég
 finnst	sfm3en	finna
 mjög	aa	mjög
@@ -329,14 +311,12 @@ lengur	aam	lengi
 í	aþ	í
 kór	nkeþ	kór
 .	.	.
-
 Halla	nven-s	Halla
 hrósaði	sfg3eþ	hrósa
 engum	fokeþ	enginn
 nema	c	nema
 strákunum	nkfþg	strákur
 .	.	.
-
 Hún	fpven	hún
 myndi	svg3eþ	munu
 örugglega	aa	örugglega
@@ -349,7 +329,6 @@ eitthvað	fohen	einhver
 í	aþ	í
 henni	fpveþ	hún
 .	.	.
-
 Hún	fpven	hún
 syngur	sfg3en	syngja
 fallega	aa	fallega
@@ -372,7 +351,6 @@ heyra	sng	heyra
 í	aþ	í
 henni	fpveþ	hún
 .	.	.
-
 Nú	aa	nú
 þarf	sfg1en	þurfa
 ég	fp1en	ég
@@ -386,7 +364,6 @@ skrifa	sfg1en	skrifa
 bráðum	aa	bráðum
 aftur	aa	aftur
 .	.	.
-
 Eyvör	nven-s	Eyvör
 Ásta	nven-s	Ásta
 mundi	sfg3eþ	muna
@@ -394,7 +371,6 @@ vel	aa	vel
 eftir	aþ	eftir
 kórferðalaginu	nheþg	kórferðalag
 .	.	.
-
 Eyvör	nven-s	Eyvör
 söng	sfg3eþ	syngja
 svakalega	aa	svakalega
@@ -420,7 +396,6 @@ hegða	sng	hegða
 sér	fpveþ	sig
 vel	aa	vel
 .	.	.
-
 Ástu	nveþ-s	Ásta
 fannst	sfm3eþ	finna
 það	fphen	það
@@ -438,7 +413,6 @@ ekki	aa	ekki
 skemmtilegur	lkensf	skemmtilegur
 kennari	nken	kennari
 .	.	.
-
 Ástu	nveþ-s	Ásta
 hafði	sfg3eþ	hafa
 alltaf	aa	alltaf
@@ -448,7 +422,6 @@ merkilegir	lkfnsf	merkilegur
 og	c	og
 heillandi	lkfnof	heillandi
 .	.	.
-
 Hún	fpven	hún
 hafði	sfg3eþ	hafa
 hlustað	ssg	hlusta
@@ -479,7 +452,6 @@ og	c	og
 margradda	lheoof	margradda
 hljóðfæri	nheo	hljóðfæri
 .	.	.
-
 Með	aþ	með
 einföldum	lvfþsf	einfaldur
 handahreyfingum	nvfþ	handahreyfing
@@ -515,7 +487,6 @@ af	aþ	af
 ólíkum	lkfþsf	ólíkur
 einstaklingum	nkfþ	einstaklingur
 .	.	.
-
 Allt	fohen	allur
 í	aþ	í
 einu	lheþsf	einn
@@ -529,7 +500,6 @@ sína	feveo	sinn
 eigin	lveoof	eigin
 sál	nveo	sál
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 Ásta	nven-s	Ásta
@@ -560,7 +530,6 @@ vissi	sfg3eþ	vita
 ekki	aa	ekki
 fyrirfram	aa	fyrirfram
 .	.	.
-
 Það	fphen	það
 gerðist	sfm3eþ	gera
 á	aþ	á
@@ -569,7 +538,6 @@ miðri	lveþsf	miður
 einn	fokeo	einn
 miðvikudaginn	nkeog	miðvikudagur
 .	.	.
-
 Halla	nven-s	Halla
 skammaði	sfg3eþ	skamma
 Eyvöru	nveo-s	Eyvör
@@ -599,7 +567,6 @@ ekki	aa	ekki
 einu	foheþ	einn
 sinni	nheþ	sinn
 .	.	.
-
 Svo	aa	svo
 sagðist	sfm3eþ	segja
 hún	fpven	hún
@@ -609,7 +576,6 @@ og	c	og
 gekk	sfg3eþ	ganga
 út	aa	út
 .	.	.
-
 Halla	nven-s	Halla
 þóttist	sfm3eþ	þykja
 vera	sng	vera
@@ -634,7 +600,6 @@ vega	nkfo	vegur
 mjög	aa	mjög
 ánægð	lvensf	ánægður
 .	.	.
-
 Ásta	nven-s	Ásta
 skildi	sfg3eþ	skilja
 það	fpheo	það
@@ -651,7 +616,6 @@ flink	lvensf	flinkur
 að	cn	að
 syngja	sng	syngja
 .	.	.
-
 «	«	«
 Þú	fp2en	þú
 verður	sfg2en	verða
@@ -669,7 +633,6 @@ er	sfg3en	vera
 ekki	aa	ekki
 ?	?	?
 »	»	»
-
 sagði	sfg3eþ	segja
 Halla	nven-s	Halla
 en	c	en
@@ -681,7 +644,6 @@ sama	fbhen	sami
 Eyvör	nven-s	Eyvör
 færi	svg3eþ	fara
 .	.	.
-
 «	«	«
 Ööö	au	ööö
 ,	,	,
@@ -699,7 +661,6 @@ var	sfg3eþ	vera
 það	fphen	það
 ákveðið	sþghen	ákveða
 .	.	.
-
 Ásta	nven-s	Ásta
 var	sfg3eþ	vera
 í	aþ	í
@@ -721,7 +682,6 @@ næstum	aa	næstum
 allt	foheo	allur
 saman	aa	saman
 .	.	.
-
 Ásta	nven-s	Ásta
 hætti	sfg3eþ	hætta
 að	cn	að
@@ -743,7 +703,6 @@ frá	aþ	frá
 sér	fpveþ	sig
 dagbókina	nveog	dagbók
 .	.	.
-
 Hún	fpven	hún
 varð	sfg3eþ	verða
 að	cn	að
@@ -761,7 +720,6 @@ dagur	nken	dagur
 yrði	svg3eþ	verða
 erfiður	lkensf	erfiður
 .	.	.
-
 Hún	fpven	hún
 þyrfti	svg3eþ	þurfa
 að	cn	að
@@ -787,7 +745,6 @@ kistulagningin	nveng	kistulagning
 hennar	fpvee	hún
 Eyvarar	nvee-s	Eyvör
 .	.	.
-
 Jarðarförin	nveng	jarðarför
 yrði	svg3eþ	verða
 samt	aa	samt
@@ -797,7 +754,6 @@ en	c	en
 á	ao	á
 laugardaginn	nkeog	laugardagur
 .	.	.
-
 Ásta	nven-s	Ásta
 mundi	sfg3eþ	muna
 á	aþ	á
@@ -818,7 +774,6 @@ að	cn	að
 fela	sng	fela
 hana	fpveo	hún
 .	.	.
-
 Eftir	ao	eftir
 dálitla	lveosf	dálítill
 stund	nveo	stund
@@ -827,7 +782,6 @@ hún	fpven	hún
 góðan	lkeosf	góður
 stað	nkeo	staður
 .	.	.
-
 Í	aþ	í
 botninum	nkeþg	botn
 á	aþ	á
@@ -843,7 +797,6 @@ svo	aa	svo
 ofan	aa	ofan
 á	aa	á
 .	.	.
-
 Hún	fpven	hún
 tróð	sfg3eþ	troða
 dagbókinni	nveþg	dagbók
@@ -860,7 +813,6 @@ var	sfg3eþ	vera
 með	ao	með
 staðinn	nkeog	staður
 .	.	.
-
 Þannig	aa	þannig
 var	sfg3eþ	vera
 bókin	nveng	bók
@@ -881,7 +833,6 @@ ryksugaði	svg3eþ	ryksuga
 undir	aþ	undir
 rúminu	nheþg	rúm
 .	.	.
-
 Kistulagningin	nveng	kistulagning
 var	sfg3eþ	vera
 haldin	sþgven	halda
@@ -895,7 +846,6 @@ kirkjunni	nveþg	kirkja
 hverfinu	nheþg	hverfi
 þeirra	fpvfe	hún
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 lítið	lhensf	lítill
@@ -908,7 +858,6 @@ glerlistaverkum	nhfþ	glerlistaverk
 í	aþ	í
 gluggunum	nkfþg	gluggi
 .	.	.
-
 Tvö	tfhfn	tveir
 útikerti	nhfn	útikerti
 loguðu	sfg3fþ	loga
@@ -937,7 +886,6 @@ og	c	og
 nokkrum	fohfþ	nokkur
 börnum	nhfþ	barn
 .	.	.
-
 Í	ao	í
 kistulagninguna	nveog	kistulagning
 komu	sfg3fþ	koma
@@ -954,7 +902,6 @@ mömmu	nveþ	mamma
 verið	ssg	vera
 boðið	sþghen	bjóða
 .	.	.
-
 Ásta	nven-s	Ásta
 hafði	sfg3eþ	hafa
 einu	foheþ	einn
@@ -964,7 +911,6 @@ verið	ssg	vera
 við	ao	við
 kistulagningu	nveo	kistulagning
 .	.	.
-
 Afi	nken	afi
 hennar	fpvee	hún
 dó	sfg3eþ	deyja
@@ -982,7 +928,6 @@ tíma	nkeþ	tími
 og	c	og
 jarðarförin	nveng	jarðarför
 .	.	.
-
 Hún	fpven	hún
 fór	sfg3eþ	fara
 ekki	aa	ekki
@@ -1003,7 +948,6 @@ hann	fpken	hann
 væri	svg3eþ	vera
 steinsofandi	lkenof	steinsofandi
 .	.	.
-
 Þótt	c	þótt
 hún	fpven	hún
 vissi	svg3eþ	vita
@@ -1050,7 +994,6 @@ höstugur	lkensf	höstugur
 á	ao	á
 hana	fpveo	hún
 .	.	.
-
 Ástu	nveþ-s	Ásta
 þótti	sfg3eþ	þykja
 líka	aa	líka
@@ -1068,7 +1011,6 @@ jörðina	nveog	jörð
 í	aþ	í
 kirkjugarðinum	nkeþg	kirkjugarður
 .	.	.
-
 Hann	fpken	hann
 hafði	sfg3eþ	hafa
 alltaf	aa	alltaf
@@ -1098,7 +1040,6 @@ hitta	sng	hitta
 ömmu	nveo	amma
 aftur	aa	aftur
 .	.	.
-
 Hann	fpken	hann
 sagðist	sfm3eþ	segja
 ætla	sng	ætla
@@ -1119,7 +1060,6 @@ inn	aa	inn
 í	ao	í
 sólarlagið	nheog	sólarlag
 .	.	.
-
 Svo	aa	svo
 myndu	svg3fþ	munu
 þau	fphfn	það
@@ -1130,7 +1070,6 @@ upp	aa	upp
 frá	aþ	frá
 því	fpheþ	það
 .	.	.
-
 Þegar	c	þegar
 presturinn	nkeng	prestur
 byrjaði	sfg3eþ	byrja
@@ -1161,7 +1100,6 @@ að	cn	að
 hitta	sng	hitta
 ömmu	nveo	amma
 .	.	.
-
 Eftir	ao	eftir
 jarðarförina	nveog	jarðarför
 sagði	sfg3eþ	segja
@@ -1188,7 +1126,6 @@ lá	sfg3eþ	liggja
 í	aþ	í
 kistunni	nveþg	kista
 .	.	.
-
 «	«	«
 Líkaminn	nkeng	líkami
 er	sfg3en	vera
@@ -1213,7 +1150,6 @@ hylkið	nheog	hylki
 útskýrði	sfg3eþ	útskýra
 mamma	nven	mamma
 .	.	.
-
 «	«	«
 Þegar	c	þegar
 afi	nken	afi
@@ -1240,7 +1176,6 @@ sálina	nveog	sál
 hennar	fpvee	hún
 ömmu	nvee	amma
 .	.	.
-
 Innraðirnar	nvfng	innröð
 kunna	sfg3fn	kunna
 líka	aa	líka
@@ -1259,7 +1194,6 @@ unnið	ssg	vinna
 sér	fpvfþ	sig
 tilverurétt	nkeo	tilveruréttur
 .	.	.
-
 Bent	sþghen	benda
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -1280,7 +1214,6 @@ og	c	og
 innan	ae	innan
 gena	nhfe	gen
 .	.	.
-
 Frá	aþ	frá
 þróunarfræðilegu	lheþsf	þróunarfræðilegur
 sjónarhorni	nheþ	sjónarhorn
@@ -1302,7 +1235,6 @@ að	cn	að
 auka	sng	auka
 endurröðunartíðnina	nveog	endurröðunartíðni
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 bent	sþghen	benda
@@ -1316,7 +1248,6 @@ hneppum	nhfþ	hneppi
 í	aþ	í
 prótínum	nhfþ	prótín
 .	.	.
-
 10	ta	10
 Innraðaskipulagið	nhengs	innraðaskipulag
 bjóði	svg3en	bjóða
@@ -1344,7 +1275,6 @@ komi	svg3fn	koma
 ný	lhfnsf	nýr
 prótín	nhfn	prótín
 .	.	.
-
 Skipulagið	nheng	skipulag
 stuðli	svg3en	stuðla
 þannig	aa	þannig
@@ -1354,7 +1284,6 @@ gena	nhfe	gen
 og	c	og
 prótína	nhfe	prótín
 .	.	.
-
 Samanburður	nken	samanburður
 á	aþ	á
 prótínum	nhfþ	prótín
@@ -1371,7 +1300,6 @@ slíkar	fbvfo	slíkur
 tilfærslur	nvfo	tilfærsla
 táknraða	nvfe	táknröð
 .	.	.
-
 11	ta	11
 Talsvert	lhensf	talsverður
 er	sfg3en	vera
@@ -1390,7 +1318,6 @@ leyti	nheþ	leyti
 eru	sfg3fn	vera
 óskyld	lhfnsf	óskyldur
 .	.	.
-
 Enn	aa	enn
 eiga	sfg3fn	eiga
 menn	nkfn	maður
@@ -1410,7 +1337,6 @@ skýra	sng	skýra
 uppruna	nkeo	uppruni
 þess	fphee	það
 .	.	.
-
 Nú	aa	nú
 er	sfg3en	vera
 búið	lhensf	búinn
@@ -1439,7 +1365,6 @@ af	aþ	af
 erfðaefni	nheþ	erfðaefni
 mannsins	nkeeg	maður
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 verður	sfg3en	verða
@@ -1463,7 +1388,6 @@ túlkun	nveo	túlkun
 á	aþ	á
 niðurstöðunum	nvfþg	niðurstaða
 .	.	.
-
 Enn	aa	enn
 hefur	sfg3en	hafa
 t.d.	as	t.d.
@@ -1479,7 +1403,6 @@ eru	sfg3fn	vera
 erfðaefni	nheþ	erfðaefni
 mannsins	nkeeg	maður
 .	.	.
-
 Af	aþ	af
 tegundum	nvfþ	tegund
 heilkjörnunga	nkfe	heilkjörnungur
@@ -1543,7 +1466,6 @@ um	aa	um
 25.000	ta	25.000
 gen	nhfo	gen
 .	.	.
-
 Við	ao	við
 þennan	fakeo	þessi
 lista	nkeo	listi
@@ -1553,7 +1475,6 @@ manni	nkeþ	maður
 og	c	og
 mús	nveþ	mús
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 nýlegum	lvfþsf	nýlegur
 niðurstöðum	nvfþ	niðurstaða
@@ -1568,7 +1489,6 @@ yfir	aa	yfir
 25.000	ta	25.000
 gen	nhfo	gen
 .	.	.
-
 12	ta	12
 Gen	nhfn	gen
 músarinnar	nveeg	mús
@@ -1580,7 +1500,6 @@ en	c	en
 gen	nhfn	gen
 mannsins	nkeeg	maður
 .	.	.
-
 Það	fphen	það
 vekur	sfg3en	vekja
 athygli	nveo	athygli
@@ -1620,7 +1539,6 @@ smíð	nven	smíð
 en	c	en
 ormurinn	nkeng	ormur
 .	.	.
-
 Hann	fpken	hann
 leynir	sfg3en	leyna
 á	aþ	á
@@ -1649,7 +1567,6 @@ vera	sng	vera
 kóróna	nven	kóróna
 sköpunarverksins	nheeg	sköpunarverk
 .	.	.
-
 Það	fphen	það
 lítur	sfg3en	líta
 út	aa	út
@@ -1690,7 +1607,6 @@ sem	ct	sem
 vefjum	nkfþ	vefur
 líkamans	nkeeg	líkami
 .	.	.
-
 Hugum	svg1fn	huga
 eilítið	aa	eilítið
 betur	aam	vel
@@ -1698,7 +1614,6 @@ að	aþ	að
 erfðaefni	nheþ	erfðaefni
 mannsins	nkeeg	maður
 .	.	.
-
 Alls	aa	alls
 er	sfg3en	vera
 það	fphen	það
@@ -1707,7 +1622,6 @@ um	aa	um
 milljónir	nvfn	milljón
 kirnapara	nhfe	kirnapar
 .	.	.
-
 Aðeins	aa	aðeins
 um	aa	um
 1%	tp	1%
@@ -1717,7 +1631,6 @@ er	sfg3en	vera
 táknraðir	nvfn	táknröð
 gena	nhfe	gen
 .	.	.
-
 Það	fahen	sá
 sem	ct	sem
 eftir	aa	eftir
@@ -1760,7 +1673,6 @@ retróveira	nvfe	retróveira
 8%	tp	8%
 )	)	)
 .	.	.
-
 13	ta	13
 Stökklar	nkfn	stökkull
 eru	sfg3fn	vera
@@ -1773,7 +1685,6 @@ til	aa	til
 í	aþ	í
 erfðaefninu	nheþg	erfðaefni
 .	.	.
-
 Þeir	fpkfn	hann
 hafa	sfg3fn	hafa
 engu	foheþ	enginn
@@ -1789,7 +1700,6 @@ fyrirferðarmiklir	lkfnsf	fyrirferðarmikill
 þeir	fpkfn	hann
 eru	sfg3fn	vera
 .	.	.
-
 Í	aþ	í
 erfðaefni	nheþ	erfðaefni
 mannsins	nkeeg	maður
@@ -1806,7 +1716,6 @@ L-	nkfn-s	L-stökkull
 og	c	og
 S-stökklar	nkfn-s	S-stökkull
 .	.	.
-
 Þeir	fakfn	sá
 fyrrnefndu	lkfnvf	fyrrnefndur
 eru	sfg3fn	vera
@@ -1821,7 +1730,6 @@ síðarnefndu	lkfnvf	síðarnefndur
 100-400	ta	100-400
 kirnapör	nhfn	kirnapar
 .	.	.
-
 Báðar	fovfn	báðir
 gerðir	nvfn	gerð
 koma	sfg3fn	koma
@@ -1836,7 +1744,6 @@ dreifð	lhfnsf	dreifður
 um	ao	um
 erfðaefnið	nheog	erfðaefni
 .	.	.
-
 Mikill	lkensf	mikill
 meirihluti	nken	meirihluti
 þessara	fakfe	þessi
@@ -1852,7 +1759,6 @@ tilfærslu	nveo	tilfærsla
 í	aþ	í
 erfðaefninu	nheþg	erfðaefni
 .	.	.
-
 Það	fphen	það
 fer	sfg3en	fara
 greinilega	aa	greinilega
@@ -1873,7 +1779,6 @@ máli	nheþ	mál
 fyrir	ao	fyrir
 frumustarfsemina	nveog	frumustarfsemi
 .	.	.
-
 Innraðirnar	nvfng	innröð
 eru	sfg3fn	vera
 fyrirferðarmiklar	lvfnsf	fyrirferðarmikill
@@ -1891,7 +1796,6 @@ fjórðungur	nken	fjórðungur
 af	aþ	af
 erfðaefninu	nheþg	erfðaefni
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ráðgáta	nven	ráðgáta
@@ -1915,7 +1819,6 @@ og	c	og
 sérstaklega	aa	sérstaklega
 stökklar	nkfn	stökkull
 .	.	.
-
 Í	aþ	í
 bakteríum	nvfþ	baktería
 eru	sfg3fn	vera
@@ -1926,7 +1829,6 @@ erfðaefninu	nheþg	erfðaefni
 hreinar	lvfnsf	hreinn
 táknraðir	nvfn	táknröð
 .	.	.
-
 Tekið	sþghen	taka
 skal	sfg3en	skulu
 fram	aa	fram
@@ -1941,7 +1843,6 @@ hvað	fshen	hver
 þetta	faheo	þessi
 varðar	sfg3en	varða
 .	.	.
-
 Það	fphen	það
 sama	fbhen	sami
 á	sfg3en	eiga
@@ -1958,7 +1859,6 @@ tiltölulega	aa	tiltölulega
 skyldar	lvfnsf	skyldur
 spendýrategundir	nvfn	spendýrategund
 .	.	.
-
 14	ta	14
 Samanburður	nken	samanburður
 á	aþ	á
@@ -1976,7 +1876,6 @@ er	sfg3en	vera
 sá	faken	sá
 sami	fbken	sami
 .	.	.
-
 Í	aþ	í
 slíkum	fbkeþ	slíkur
 samanburði	nkeþ	samanburður
@@ -2014,7 +1913,6 @@ fram	aa	fram
 amínósýruröð	nveþ	amínósýruröð
 prótíns	nhee	prótín
 .	.	.
-
 Frá	aþ	frá
 sjónarhorni	nheþ	sjónarhorn
 þróunar	nvee	þróun
@@ -2045,7 +1943,6 @@ við	ao	við
 náttúrulegt	lheosf	náttúrulegur
 val	nheo	val
 .	.	.
-
 Samanburður	nken	samanburður
 sýnir	sfg3en	sýna
 að	c	að
@@ -2067,7 +1964,6 @@ meðal	ae	meðal
 prótína	nhfe	prótín
 mannsins	nkeeg	maður
 .	.	.
-
 Samsvörun	nven	samsvörun
 prótína	nhfe	prótín
 músar	nvee	mús
@@ -2083,7 +1979,6 @@ manns	nkee	maður
 yfir	aa	yfir
 99%	tp	99%
 .	.	.
-
 15	ta	15
 Mjög	aa	mjög
 fá	sfg3fn	fá
@@ -2094,7 +1989,6 @@ sérstök	lhfnsf	sérstakur
 fyrir	ao	fyrir
 manninn	nkeog	maður
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 líkt	aa	líkt
@@ -2119,7 +2013,6 @@ gena	nhfe	gen
 og	c	og
 prótína	nhfe	prótín
 .	.	.
-
 Þær	fpvfn	hún
 hafa	sfg3fn	hafa
 gert	ssg	gera
@@ -2148,7 +2041,6 @@ tegundir	nvfn	tegund
 fundu	sfg3fþ	finna
 ekki	aa	ekki
 .	.	.
-
 Nú	aa	nú
 er	sfg3en	vera
 raðgreining	nven	raðgreining
@@ -2178,7 +2070,6 @@ við	ao	við
 erfðaefni	nheo	erfðaefni
 mannsins	nkeeg	maður
 .	.	.
-
 Tegundirnar	nvfng	tegund
 eru	sfg3fn	vera
 óumdeilanlega	aa	óumdeilanlega
@@ -2196,7 +2087,6 @@ og	c	og
 tjáningu	nveo	tjáning
 hennar	fpvee	hún
 .	.	.
-
 Ef	c	ef
 til	aa	til
 vill	sfg3en	vilja
@@ -2212,7 +2102,6 @@ ljósi	nheþ	ljós
 þennan	fakeo	þessi
 mun	nkeo	munur
 .	.	.
-
 Þótt	c	þótt
 munurinn	nkeng	munur
 á	aþ	á
@@ -2252,7 +2141,6 @@ um	ao	um
 ólíkar	lvfosf	ólíkur
 þroskunarleiðir	nvfo	þroskunarleið
 .	.	.
-
 Að	c	að
 mismikið	lhensf	mismikill
 sé	svg3en	vera
@@ -2282,7 +2170,6 @@ manni	nkeþ	maður
 en	c	en
 apa	nkeþ	api
 .	.	.
-
 Smávægilegar	lvfnsf	smávægilegur
 breytingar	nvfn	breyting
 í	aþ	í
@@ -2296,7 +2183,6 @@ miklu	lheþsf	mikill
 til	ae	til
 leiðar	nvee	leið
 .	.	.
-
 Þegar	aa	þegar
 hafa	sfg3fn	hafa
 verið	ssg	vera
@@ -2334,7 +2220,6 @@ lifur	nveþ	lifur
 en	c	en
 heila	nkeþ	heili
 .	.	.
-
 16	ta	16
 Almennt	aa	almennt
 virðist	sfm3en	virða
@@ -2349,7 +2234,6 @@ manns	nkee	maður
 en	c	en
 simpansa	nkee	simpansi
 .	.	.
-
 Ekkert	fohen	enginn
 er	sfg3en	vera
 enn	aa	enn
@@ -2363,7 +2247,6 @@ fyrir	ao	fyrir
 þessara	favfe	þessi
 tegunda	nvfe	tegund
 .	.	.
-
 Svo	aa	svo
 mikið	lhensf	mikill
 vitum	sfg1fn	vita
@@ -2409,7 +2292,6 @@ nýjungar	nvfo	nýjung
 í	aþ	í
 prótínsmíð	nveþ	prótínsmíð
 .	.	.
-
 Forvitnilegt	lhensf	forvitnilegur
 verður	sfg3en	verða
 að	cn	að
@@ -2436,7 +2318,6 @@ fyrir	ao	fyrir
 þróun	nveo	þróun
 mannsins	nkeeg	maður
 .	.	.
-
 Uppgötvun	nven	uppgötvun
 innraða	nvfe	innröð
 breytti	sfg3eþ	breyta
@@ -2447,7 +2328,6 @@ hugmyndum	nvfþ	hugmynd
 um	ao	um
 genið	nheog	gen
 .	.	.
-
 Í	aþ	í
 bakteríum	nvfþ	baktería
 höfðu	sfg3fþ	hafa
@@ -2477,7 +2357,6 @@ höfðu	sfg3fþ	hafa
 búist	ssm	búa
 við	aa	við
 .	.	.
-
 En	c	en
 svo	aa	svo
 birtist	sfm3en	birta
@@ -2493,7 +2372,6 @@ af	aþ	af
 merkingarlausum	lvfþsf	merkingarlaus
 innröðum	nvfþ	innröð
 .	.	.
-
 Það	fphen	það
 gat	sfg3eþ	geta
 jafnvel	aa	jafnvel
@@ -2506,7 +2384,6 @@ innraðirnar	nvfog	innröð
 til	ae	til
 gensins	nheeg	gen
 .	.	.
-
 Skilgreiningarvandinn	nkeng	skilgreiningarvandi
 eykst	sfm3en	auka
 enn	aa	enn
@@ -2527,7 +2404,6 @@ fyrirsögn	nveþ	fyrirsögn
 sama	fbhee	sami
 gensins	nheeg	gen
 .	.	.
-
 Við	fp1fn	ég
 erum	sfg1fn	vera
 þá	aa	þá
@@ -2566,7 +2442,6 @@ einnar	tfvee	einn
 peptíðkeðju	nvee	peptíðkeðja
 prótíns	nhee	prótín
 .	.	.
-
 Þær	favfn	sá
 breytingar	nvfn	breyting
 sem	ct	sem
@@ -2623,7 +2498,6 @@ fjölbreytni	nveo	fjölbreytni
 afurða	nvfe	afurð
 þeirra	fpvfe	hún
 .	.	.
-
 Ekki	aa	ekki
 er	sfg3en	vera
 laust	lhensf	laus
@@ -2668,7 +2542,6 @@ starfseiningar	nvfo	starfseining
 litningum	nkfþ	litningur
 heilkjörnunga	nkfe	heilkjörnungur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 kannski	aa	kannski
@@ -2689,7 +2562,6 @@ genið	nheog	gen
 fyrir	ao	fyrir
 róða	nkeo	róði
 .	.	.
-
 Sú	faven	sá
 hugmynd	nven	hugmynd
 hefur	sfg3en	hafa
@@ -2700,7 +2572,6 @@ hljómgrunn	nkeo	hljómgrunnur
 meðal	ae	meðal
 erfðafræðinga	nkfe	erfðafræðingur
 .	.	.
-
 17	ta	17
 Genhugtakið	nheng	genhugtak
 er	sfg3en	vera
@@ -2717,7 +2588,6 @@ hrakið	ssg	hrekja
 af	aþ	af
 sviðinu	nheþg	svið
 .	.	.
-
 Ekki	aa	ekki
 viljum	sfg1fn	vilja
 við	fp1fn	ég
@@ -2735,7 +2605,6 @@ að	cn	að
 skilgreina	sng	skilgreina
 hugtakið	nheog	hugtak
 .	.	.
-
 Gen	nhfn	gen
 eru	sfg3fn	vera
 raunverulegar	lvfnsf	raunverulegur
@@ -2750,7 +2619,6 @@ starfseiningar	nvfn	starfseining
 í	aþ	í
 erfðaefninu	nheþg	erfðaefni
 .	.	.
-
 Um	ao	um
 stjórnun	nveo	stjórnun
 á	aþ	á
@@ -2763,12 +2631,9 @@ sérstaklega	aa	sérstaklega
 næsta	lkeþve	næstur
 kafla	nkeþ	kafli
 .	.	.
-
 6.kafli	nken	6.kafli
-
 Stjórnun	nven	stjórnun
 genastarfs	nhee	genastarf
-
 Eins	aa	eins
 og	c	og
 fram	aa	fram
@@ -2789,7 +2654,6 @@ að	aþ	að
 innra	lheþvm	innri
 skipulagi	nheþ	skipulag
 .	.	.
-
 Það	fpheo	það
 sama	fbheo	sami
 má	sfg3en	mega
@@ -2809,7 +2673,6 @@ erfðaefnisins	nheeg	erfðaefni
 í	aþ	í
 litningum	nkfþ	litningur
 .	.	.
-
 Litningar	nkfn	litningur
 heilkjörnunga	nkfe	heilkjörnungur
 eru	sfg3fn	vera
@@ -2825,13 +2688,11 @@ skipta	sfg3fn	skipta
 mörgum	lkfþsf	margur
 tugum	nkfþ	tugur
 .	.	.
-
 Þeir	fpkfn	hann
 eru	sfg3fn	vera
 alltaf	aa	alltaf
 línulegir	lkfnsf	línulegur
 .	.	.
-
 Í	aþ	í
 þeim	fpkfþ	hann
 er	sfg3en	vera
@@ -2859,7 +2720,6 @@ bakteríulitningur	nken	bakteríulitningur
 af	aþ	af
 meðalstærð	nveþ	meðalstærð
 .	.	.
-
 Gen	nhfn	gen
 heilkjörnunga	nkfe	heilkjörnungur
 eru	sfg3fn	vera
@@ -2873,7 +2733,6 @@ stærri	lhfnvm	stór
 en	c	en
 bakteríugenin	nhfng	bakteríugen
 .	.	.
-
 Í	aþ	í
 heilkjörnungum	nkfþ	heilkjörnungur
 tengist	sfm3en	tengja
@@ -2886,7 +2745,6 @@ sem	ct	sem
 nefnast	sfm3fn	nefna
 histónar	nkfn	histón
 .	.	.
-
 Þeir	fpkfn	hann
 eru	sfg3fn	vera
 af	aþ	af
@@ -2907,7 +2765,6 @@ sem	ct	sem
 nefnast	sfm3fn	nefna
 litnisagnir	nvfn	litnisögn
 .	.	.
-
 Það	fphen	það
 eru	sfg3fn	vera
 tvö	tfhfn	tveir
@@ -2929,7 +2786,6 @@ tengist	sfm3en	tengja
 aðeins	aa	aðeins
 lauslega	aa	lauslega
 .	.	.
-
 Þetta	fahen	þessi
 skipulag	nhen	skipulag
 (	(	(
@@ -2959,7 +2815,6 @@ sé	svg3en	vera
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 Litningsþráður	nken	litningsþráður
 þétt	aa	þétt
 skipaður	lkensf	skipaður
@@ -2986,7 +2841,6 @@ um	aa	um
 sinnum	nhfþ	sinn
 gildari	lkenvm	gildur
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 grunnskipan	nven	grunnskipan
@@ -3008,7 +2862,6 @@ prótín	nhfn	prótín
 við	ao	við
 sögu	nveo	saga
 .	.	.
-
 Litningar	nkfn	litningur
 í	aþ	í
 mítósuskiptingu	nveþ	mítósuskipting
@@ -3031,7 +2884,6 @@ nm	as	nm
 mynd	nven	mynd
 )	)	)
 .	.	.
-
 Þegar	c	þegar
 fjallað	sþghen	fjalla
 er	sfg3en	vera
@@ -3060,7 +2912,6 @@ gerist	sfm3en	gera
 hjá	aþ	hjá
 dreifkjörnungum	nkfþ	dreifkjörnungur
 .	.	.
-
 Hjá	aþ	hjá
 þeim	fpkfþ	hann
 eru	sfg3fn	vera
@@ -3079,7 +2930,6 @@ RNA-fjölliðara	nkeþ	RNA-fjölliðari
 og	c	og
 stjórnprótínum	nhfþ	stjórnprótín
 .	.	.
-
 Í	aþ	í
 heilkjörnungum	nkfþ	heilkjörnungur
 varnar	sfg3en	varna
@@ -3109,7 +2959,6 @@ losa	sng	losa
 um	ao	um
 litnisagnafjötrana	nkfog	litnisagnafjötur
 .	.	.
-
 Ef	c	ef
 gen	nhen	gen
 á	sfg3en	eiga
@@ -3124,7 +2973,6 @@ skrefið	nheng	skref
 virkjun	nveþ	virkjun
 þess	fphee	það
 .	.	.
-
 Losunin	nveng	losun
 er	sfg3en	vera
 að	aþ	að
@@ -3145,7 +2993,6 @@ ytra	lheþvm	ytri
 borði	nheþ	borð
 litnisagna	nvfe	litnisögn
 .	.	.
-
 Við	ao	við
 það	fpheo	það
 gliðna	sfg3fn	gliðna
@@ -3157,7 +3004,6 @@ aðgengileg	lhfnsf	aðgengilegur
 til	ae	til
 umritunar	nvee	umritun
 .	.	.
-
 Hér	aa	hér
 eru	sfg3fn	vera
 í	aþ	í
@@ -3199,7 +3045,6 @@ aðgengileg	lhfnsf	aðgengilegur
 réttum	lkeþsf	réttur
 tíma	nkeþ	tími
 .	.	.
-
 1	ta	1
 Stýrlar	nkfn	stýrill
 heilkjörnungagena	nhfe	heilkjörnungagen
@@ -3213,7 +3058,6 @@ margbrotnari	lkfnvm	margbrotinn
 að	aþ	að
 skipulagi	nheþ	skipulag
 .	.	.
-
 Fleiri	lhfovm	margur
 prótín	nhfo	prótín
 þarf	sfg3en	þurfa
@@ -3229,7 +3073,6 @@ en	c	en
 í	aþ	í
 bakteríum	nvfþ	baktería
 .	.	.
-
 RNA-fjölliðarar	nkfn	RNA-fjölliðari
 í	aþ	í
 kjarna	nkeþ	kjarni
@@ -3243,7 +3086,6 @@ með	aþ	með
 sér	fpkfþ	sig
 verkum	nhfþ	verk
 .	.	.
-
 Hér	aa	hér
 beinist	sfm3en	beina
 athyglin	nveng	athygli
@@ -3255,7 +3097,6 @@ umritar	sfg3en	umrita
 prótínákvarðandi	lhfoof	prótínákvarðandi
 gen	nhfo	gen
 .	.	.
-
 Ólíkt	lhensf	ólíkur
 því	faheþ	sá
 sem	ct	sem
@@ -3276,7 +3117,6 @@ hvert	fohen	hver
 fyrir	ao	fyrir
 sig	fphfo	sig
 .	.	.
-
 Rétt	aa	rétt
 fyrir	ao	fyrir
 framan	aa	framan
@@ -3300,7 +3140,6 @@ hefjast	snm	hefja
 mynd	nven	mynd
 )	)	)
 .	.	.
-
 Þessi	fahfn	þessi
 prótín	nhfn	prótín
 eru	sfg3fn	vera
@@ -3313,7 +3152,6 @@ geti	svg3en	geta
 tengst	ssm	tengja
 stýrli	nkeþ	stýrill
 .	.	.
-
 2	ta	2
 Fjær	aam	fjarri
 eru	sfg3fn	vera
@@ -3327,7 +3165,6 @@ fyrir	ao	fyrir
 almenn	lhfosf	almennur
 stjórnprótín	nhfo	stjórnprótín
 .	.	.
-
 Einnig	aa	einnig
 geta	sfg3fn	geta
 verið	ssg	vera
@@ -3343,7 +3180,6 @@ umritun	nveo	umritun
 frá	aþ	frá
 stýrlinum	nkeþg	stýrill
 .	.	.
-
 Ekki	aa	ekki
 er	sfg3en	vera
 óalgengt	lhensf	óalgengur
@@ -3360,7 +3196,6 @@ frá	aþ	frá
 sama	fbkeþ	sami
 stýrli	nkeþ	stýrill
 .	.	.
-
 Stýrlar	nkfn	stýrill
 eru	sfg3fn	vera
 þannig	aa	þannig
@@ -3385,7 +3220,6 @@ en	c	en
 sum	fohfn	sumur
 hindrandi	lhfnof	hindrandi
 .	.	.
-
 Það	fphen	það
 getur	sfg3en	geta
 farið	ssg	fara
@@ -3403,7 +3237,6 @@ gensins	nheeg	gen
 hverju	foheþ	hver
 sinni	nheþ	sinn
 .	.	.
-
 En	c	en
 þessu	faheþ	þessi
 til	ae	til
@@ -3415,7 +3248,6 @@ oft	aa	oft
 við	ao	við
 sögu	nveo	saga
 .	.	.
-
 Það	fphen	það
 eru	sfg3fn	vera
 stjórnraðir	nvfn	stjórnröð
@@ -3436,7 +3268,6 @@ hundruðum	nhfþ	hundrað
 kirnapara	nhfe	kirnapar
 skiptir	sfg3en	skipta
 .	.	.
-
 Oftast	aae	oft
 eru	sfg3fn	vera
 efliraðir	nvfn	efliröð
@@ -3477,7 +3308,6 @@ af	aþ	af
 innröðum	nvfþ	innröð
 þess	fphee	það
 .	.	.
-
 Efliraðir	nvfn	efliröð
 geta	sfg3fn	geta
 aukið	ssg	auka
@@ -3492,7 +3322,6 @@ venjulegur	lkensf	venjulegur
 stýrill	nken	stýrill
 megnar	sfg3en	megna
 .	.	.
-
 Líkt	aa	líkt
 og	c	og
 stýrlar	nkfn	stýrill
@@ -3503,7 +3332,6 @@ fyrir	ao	fyrir
 ákveðin	lhfosf	ákveðinn
 stjórnprótín	nhfo	stjórnprótín
 .	.	.
-
 Þær	fpvfn	hún
 geta	sfg3fn	geta
 verið	ssg	vera
@@ -3522,7 +3350,6 @@ fyrir	ao	fyrir
 ólík	lhfosf	ólíkur
 prótín	nhfo	prótín
 .	.	.
-
 Sömu	fbhfn	sami
 bindisvæði	nhfn	bindisvæði
 geta	sfg3fn	geta
@@ -3545,7 +3372,6 @@ ekki	aa	ekki
 alltaf	aa	alltaf
 skýr	lhfnsf	skýr
 .	.	.
-
 Talið	sþghen	telja
 er	sfg3en	vera
 að	c	að
@@ -3590,7 +3416,6 @@ umritun	nveo	umritun
 mynd	nven	mynd
 )	)	)
 .	.	.
-
 3	ta	3
 Einnig	aa	einnig
 eru	sfg3fn	vera
@@ -3603,7 +3428,6 @@ geti	svg3en	geta
 tengst	ssm	tengja
 efliröðum	nvfþ	efliröð
 .	.	.
-
 Þegar	c	þegar
 borin	sþghfn	bera
 eru	sfg3fn	vera
@@ -3621,7 +3445,6 @@ mörg	lhfnsf	margur
 og	c	og
 mismunandi	lhfnof	mismunandi
 .	.	.
-
 Hvert	fohen	hver
 hefur	sfg3en	hafa
 sín	fehfo	sinn
@@ -3632,7 +3455,6 @@ en	c	en
 stjórnkerfi	nhfn	stjórnkerfi
 dreifkjörnunga	nkfe	dreifkjörnungur
 .	.	.
-
 Líkt	aa	líkt
 og	c	og
 í	aþ	í
@@ -3657,7 +3479,6 @@ haft	ssg	hafa
 starfsemi	nveo	starfsemi
 gena	nhfe	gen
 .	.	.
-
 Gott	lhensf	góður
 dæmi	nhen	dæmi
 um	ao	um
@@ -3666,7 +3487,6 @@ eru	sfg3fn	vera
 sterahormón	nhfn	sterahormón
 hryggdýra	nhfe	hryggdýr
 .	.	.
-
 Þessi	fahfn	þessi
 hormón	nhfn	hormón
 ,	,	,
@@ -3690,7 +3510,6 @@ líkamann	nkeog	líkami
 með	aþ	með
 blóðinu	nheþg	blóð
 .	.	.
-
 Þær	fpvfn	hún
 flytjast	sfm3fn	flytja
 auðveldlega	aa	auðveldlega
@@ -3712,14 +3531,12 @@ umfrymi	nheþ	umfrymi
 eða	c	eða
 kjarna	nkeþ	kjarni
 .	.	.
-
 Mismunandi	lhfnof	mismunandi
 hormón	nhfn	hormón
 tengjast	sfm3fn	tengja
 ólíkum	lhfþsf	ólíkur
 viðtakaprótínum	nhfþ	viðtakaprótín
 .	.	.
-
 Tengingin	nveng	tenging
 breytir	sfg3en	breyta
 lögun	nveþ	lögun
@@ -3742,7 +3559,6 @@ stjórn	nveþ	stjórn
 hlutaðeigandi	lheeof	hlutaðeigandi
 sterahormóns	nhee	sterahormón
 .	.	.
-
 Stjórnraðirnar	nvfng	stjórnröð
 eru	sfg3fn	vera
 gjarnan	aa	gjarnan
@@ -3765,7 +3581,6 @@ draga	sfg3fn	draga
 úr	aþ	úr
 umritun	nveþ	umritun
 .	.	.
-
 En	c	en
 það	fahen	sá
 sem	ct	sem
@@ -3792,7 +3607,6 @@ starfsemi	nveþ	starfsemi
 fjölmargra	lhfesf	fjölmargur
 gena	nhfe	gen
 .	.	.
-
 Tjáningu	nveþ	tjáning
 þessara	fahfe	þessi
 gena	nhfe	gen
@@ -3825,7 +3639,6 @@ hormóninu	nheþg	hormón
 frumum	nvfþ	fruma
 líkamans	nkeeg	líkami
 .	.	.
-
 4	ta	4
 Á	aþ	á
 síðustu	lhfþve	síðari
@@ -3862,7 +3675,6 @@ hindra	sfg3fn	hindra
 þýðingu	nveo	þýðing
 þeirra	fpvfe	hún
 .	.	.
-
 Í	aþ	í
 sinni	feveþ	sinn
 virku	lveþvf	virkur
@@ -3881,7 +3693,6 @@ forverar	nkfn	forveri
 eru	sfg3fn	vera
 lengri	lkfnvm	langur
 .	.	.
-
 Í	aþ	í
 erfðaefni	nheþ	erfðaefni
 mannsins	nkeeg	maður
@@ -3903,7 +3714,6 @@ hlutverki	nheþ	hlutverk
 þær	fpvfn	hún
 gegna	sfg3fn	gegna
 .	.	.
-
 5	ta	5
 Ljóst	lhensf	ljós
 er	sfg3en	vera
@@ -3917,7 +3727,6 @@ verið	ssg	vera
 margslungið	lhensf	margslunginn
 mál	nhen	mál
 .	.	.
-
 Enn	aa	enn
 verður	sfg3en	verða
 þetta	fahen	þessi
@@ -3935,7 +3744,6 @@ dýr	nhfo	dýr
 og	c	og
 plöntur	nvfo	planta
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -3957,7 +3765,6 @@ mRNA-afrita	nhfe	mRNA-afrit
 af	aþ	af
 genum	nhfþ	gen
 .	.	.
-
 Þegar	c	þegar
 þetta	fahen	þessi
 er	sfg3en	vera
@@ -3973,7 +3780,6 @@ jafnt	aa	jafnt
 þeim	fphfþ	það
 öllum	fohfþ	allur
 .	.	.
-
 Þessi	fahfn	þessi
 gen	nhfn	gen
 ,	,	,
@@ -3991,7 +3797,6 @@ störf	nhfo	starf
 allra	fovfe	allur
 frumugerða	nvfe	frumugerð
 .	.	.
-
 En	c	en
 að	aa	að
 auki	aa	auki
@@ -4014,14 +3819,12 @@ aðeins	aa	aðeins
 í	aþ	í
 taugafrumum	nvfþ	taugafruma
 o.s.frv.	as	o.s.frv.
-
 Þessi	fahfo	þessi
 gen	nhfo	gen
 mætti	svg3eþ	mega
 nefna	sng	nefna
 sérhæfigen	nhfo	sérhæfigen
 .	.	.
-
 Fjöldi	nken	fjöldi
 búsýslugena	nhfe	búsýslugen
 í	aþ	í
@@ -4045,7 +3848,6 @@ um	aa	um
 1000	ta	1000
 sérhæfigen	nhfn	sérhæfigen
 .	.	.
-
 6	ta	6
 Fjöldi	nken	fjöldi
 þeirra	fphfe	það
@@ -4056,7 +3858,6 @@ mismunandi	lkenof	mismunandi
 eftir	aþ	eftir
 frumugerðum	nvfþ	frumugerð
 .	.	.
-
 Athyglisvert	lhensf	athyglisverður
 er	sfg3en	vera
 að	c	að
@@ -4079,7 +3880,6 @@ að	cn	að
 tjá	sng	tjá
 þau	fphfo	það
 .	.	.
-
 7	ta	7
 Frumusérhæfing	nven	frumusérhæfing
 hefur	sfg3en	hafa
@@ -4102,7 +3902,6 @@ breytingar	nvfo	breyting
 tjáningu	nveþ	tjáning
 gena	nhfe	gen
 .	.	.
-
 Þetta	fahen	þessi
 sannast	sfm3en	sanna
 áþreifanlega	aa	áþreifanlega
@@ -4123,7 +3922,6 @@ inn	aa	inn
 kjarnasvipta	lveosf	kjarnasviptur
 eggfrumu	nveo	eggfruma
 .	.	.
-
 Það	fphen	það
 væri	svg3eþ	vera
 augljóslega	aa	augljóslega
@@ -4140,7 +3938,6 @@ einhvers	fokee	einhver
 hluta	nkee	hluti
 erfðaefnisins	nheeg	erfðaefni
 .	.	.
-
 Hinar	gvfn	hinn
 ólíku	lvfnvf	ólíkur
 frumur	nvfn	fruma
@@ -4156,7 +3953,6 @@ nýta	sfg3fn	nýta
 mismunandi	lkeoof	mismunandi
 hátt	nkeo	háttur
 .	.	.
-
 Sérhæfingin	nveng	sérhæfing
 gerir	sfg3en	gera
 miklar	lvfosf	mikill
@@ -4178,7 +3974,6 @@ fyrir	ao	fyrir
 hverja	foveo	hver
 frumugerð	nveo	frumugerð
 .	.	.
-
 Mismunandi	lvenof	mismunandi
 sérhæfing	nven	sérhæfing
 frumna	nvfe	fruma
@@ -4213,7 +4008,6 @@ hálfan	lkeosf	hálfur
 milljarð	nkeo	milljarður
 ára	nhfe	ár
 .	.	.
-
 Það	fphen	það
 hefur	sfg3en	hafa
 orðið	ssg	verða
@@ -4242,7 +4036,6 @@ stýringar	nvee	stýring
 á	aþ	á
 genastarfi	nheþ	genastarf
 .	.	.
-
 Frumusérhæfing	nven	frumusérhæfing
 ,	,	,
 t.d.	as	t.d.
@@ -4264,7 +4057,6 @@ til	ae	til
 loka	nhfe	lok
 hennar	fpvee	hún
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 afar	aa	afar
@@ -4301,7 +4093,6 @@ form	nheo	form
 sinnar	fevee	sinn
 tegundar	nvee	tegund
 .	.	.
-
 Á	aa	á
 að	cn	að
 líta	sng	líta
@@ -4321,7 +4112,6 @@ sem	ct	sem
 sjaldan	aa	sjaldan
 skeikar	sfg3en	skeika
 .	.	.
-
 Því	aa	því
 er	sfg3en	vera
 ekki	aa	ekki
@@ -4357,7 +4147,6 @@ frumum	nvfþ	fruma
 fullþroskaðs	lkeesf	fullþroskaður
 einstaklings	nkee	einstaklingur
 .	.	.
-
 8	ta	8
 Þessi	faven	þessi
 samlíking	nven	samlíking
@@ -4383,7 +4172,6 @@ forsenda	nven	forsenda
 og	c	og
 frumusérhæfingar	nvee	frumusérhæfing
 .	.	.
-
 9	ta	9
 Stjórnun	nven	stjórnun
 gena	nhfe	gen
@@ -4397,7 +4185,6 @@ hvað	fshen	hver
 hjá	aþ	hjá
 ávaxtaflugunni	nveþg	ávaxtafluga
 .	.	.
-
 Brautryðjandi	nken	brautryðjandi
 þessara	favfe	þessi
 rannsókna	nvfe	rannsókn
@@ -4411,7 +4198,6 @@ Lewis	e	Lewis
 1918-2004	ta	1918-2004
 )	)	)
 .	.	.
-
 Menn	nkfn	maður
 höfðu	sfg3fþ	hafa
 snemma	aa	snemma
@@ -4429,7 +4215,6 @@ breytingum	nvfþ	breyting
 á	aþ	á
 líkamsbyggingu	nveþ	líkamsbygging
 .	.	.
-
 Dæmi	nhfn	dæmi
 um	ao	um
 þetta	faheo	þessi
@@ -4454,7 +4239,6 @@ rétt	aa	rétt
 við	ao	við
 augun	nhfog	auga
 .	.	.
-
 Slíkar	fbvfn	slíkur
 breytingar	nvfn	breyting
 komu	sfg3fþ	koma
@@ -4470,7 +4254,6 @@ lykilhlutverki	nheþ	lykilhlutverk
 fósturþroskun	nveþ	fósturþroskun
 flugunnar	nveeg	fluga
 .	.	.
-
 Þessi	fahfn	þessi
 gen	nhfn	gen
 eru	sfg3fn	vera
@@ -4479,7 +4262,6 @@ Hox-gen	nhfn-s	hox-gen
 eða	c	eða
 einkennigen	nhfn	einkennigen
 .	.	.
-
 Ávaxtaflugan	nveng	ávaxtafluga
 er	sfg3en	vera
 eins	aa	eins
@@ -4497,7 +4279,6 @@ fyrstu	lhfeve	fyrstur
 stiga	nhfe	stig
 fósturþroskunar	nvee	fósturþroskun
 .	.	.
-
 Reyndar	aa	reyndar
 eru	sfg3fn	vera
 fyrstu	lhfnve	fyrstur
@@ -4510,7 +4291,6 @@ undir	aþ	undir
 stjórn	nveþ	stjórn
 móðurgena	nhfe	móðurgen
 .	.	.
-
 Ólíkt	lhensf	ólíkur
 því	faheþ	sá
 sem	ct	sem
@@ -4534,7 +4314,6 @@ fram-	nken	framendi
 og	c	og
 afturendi	nken	afturendi
 .	.	.
-
 Eftir	ao	eftir
 allmargar	lvfosf	allmargur
 frumuskiptingar	nvfo	frumuskipting
@@ -4551,7 +4330,6 @@ dulliði	nkfo	dulliður
 að	aþ	að
 tölu	nveþ	tala
 .	.	.
-
 Dulliðirnir	nkfng	dulliður
 sjást	sfm3fn	sjá
 reyndar	aa	reyndar
@@ -4576,7 +4354,6 @@ tekur	sfg3en	taka
 að	cn	að
 þroskast	snm	þroska
 .	.	.
-
 Þekkt	lhfnsf	þekktur
 eru	sfg3fn	vera
 mörg	lhfnsf	margur
@@ -4592,7 +4369,6 @@ liðskiptingu	nveo	liðskipting
 svonefnd	lhfnsf	svonefndur
 liðskiptigen	nhfn	liðskiptigen
 .	.	.
-
 Fyrst	aae	fyrr
 þegar	c	þegar
 skiptingu	nveþ	skipting
@@ -4624,7 +4400,6 @@ birtast	sfm3fn	birta
 fullþroskaðri	lveþsf	fullþroskaður
 flugu	nveþ	fluga
 .	.	.
-
 Genin	nhfng	gen
 ,	,	,
 sem	ct	sem
@@ -4637,7 +4412,6 @@ verka	sfg3fn	verka
 mismunandi	lkfoof	mismunandi
 liði	nkfo	liður
 .	.	.
-
 Stökkbreytingar	nvfn	stökkbreyting
 í	aþ	í
 þeim	fphfþ	það
@@ -4659,7 +4433,6 @@ hér	aa	hér
 að	aa	að
 framan	aa	framan
 .	.	.
-
 Margar	lvfnsf	margur
 stökkbreytingar	nvfn	stökkbreyting
 í	aþ	í
@@ -4674,7 +4447,6 @@ mismunandi	lhfþof	mismunandi
 stigum	nhfþ	stig
 fósturþroskunar	nvee	fósturþroskun
 .	.	.
-
 10	ta	10
 Hox-genin	nhfngs	hox-gen
 koma	sfg3fn	koma
@@ -4693,7 +4465,6 @@ flugunnar	nveeg	fluga
 mynd	nven	mynd
 )	)	)
 .	.	.
-
 Þau	fphfn	það
 eru	sfg3fn	vera
 mjög	aa	mjög
@@ -4709,7 +4480,6 @@ einungis	aa	einungis
 af	aþ	af
 meðalstærð	nveþ	meðalstærð
 .	.	.
-
 Stærðin	nveng	stærð
 stafar	sfg3en	stafa
 af	aþ	af
@@ -4721,7 +4491,6 @@ eru	sfg3fn	vera
 mjög	aa	mjög
 umfangsmiklar	lvfnsf	umfangsmikill
 .	.	.
-
 Genin	nhfng	gen
 hafa	sfg3fn	hafa
 öll	fohfn	allur
@@ -4735,7 +4504,6 @@ sem	ct	sem
 nefnist	sfm3en	nefna
 stýriröð	nven	stýriröð
 .	.	.
-
 Þessi	faven	þessi
 röð	nven	röð
 ræður	sfg3en	ráða
@@ -4750,7 +4518,6 @@ einkennisvæði	nheþ	einkennissvæði
 tilsvarandi	lheþof	tilsvarandi
 Hox-prótíni	nheþ-s	hox-prótín
 .	.	.
-
 Einkennisvæði	nhfn	einkennissvæði
 allra	fohfe	allur
 Hox-prótína	nhfe-s	Hox-prótín
@@ -4760,7 +4527,6 @@ en	c	en
 ekki	aa	ekki
 eins	aa	eins
 .	.	.
-
 Hox-prótínin	nhfngs	hox-prótín
 eru	sfg3fn	vera
 öll	fohfn	allur
@@ -4777,7 +4543,6 @@ sem	ct	sem
 þau	fphfn	það
 stjórna	sfg3fn	stjórna
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 einmitt	aa	einmitt
@@ -4787,7 +4552,6 @@ sem	ct	sem
 binst	sfm3en	binda
 stjórnröðunum	nvfþg	stjórnröð
 .	.	.
-
 Áhrif	nhfn	áhrif
 Hox-prótínanna	nhfegs	hox-prótín
 eru	sfg3fn	vera
@@ -4809,7 +4573,6 @@ stjórn	nveþ	stjórn
 ákveðins	lkeesf	ákveðinn
 Hox-prótíns	nhee-s	hox-prótín
 .	.	.
-
 11	ta	11
 Hlutverk	nhen	hlutverk
 fæstra	lhfese	fár
@@ -4851,14 +4614,12 @@ móta	sng	móta
 líkamsbyggingu	nveo	líkamsbygging
 flugunnar	nveeg	fluga
 .	.	.
-
 Það	fphen	það
 verður	sfg3en	verða
 þó	aa	þó
 ærið	lhensf	ærinn
 verk	nhen	verk
 .	.	.
-
 Rannsóknir	nvfn	rannsókn
 á	aþ	á
 fósturþroskun	nveþ	fósturþroskun
@@ -4892,7 +4653,6 @@ ljósi	nheþ	ljós
 þroskunarferli	nheo	þroskunarferli
 hryggdýra	nhfe	hryggdýr
 .	.	.
-
 Þetta	fahen	þessi
 hefur	sfg3en	hafa
 þó	aa	þó
@@ -4901,7 +4661,6 @@ farið	ssg	fara
 annan	fokeo	annar
 veg	nkeo	vegur
 .	.	.
-
 Menn	nkfn	maður
 hafa	sfg3fn	hafa
 komist	ssm	koma
@@ -4943,7 +4702,6 @@ um	aa	um
 milljónir	nvfo	milljón
 ára	nhfe	ár
 .	.	.
-
 Hox-gen	nhfn-s	hox-gen
 hryggdýra	nhfe	hryggdýr
 samsvara	sfg3fn	samsvara
@@ -4958,7 +4716,6 @@ eintökum	nhfþ	eintak
 einlitna	lheþof	einlitna
 genamenginu	nheþg	genamengi
 .	.	.
-
 Þau	fphfn	það
 eru	sfg3fn	vera
 í	aþ	í
@@ -4966,7 +4723,6 @@ fjórum	tfkfþ	fjórir
 aðskildum	lkfþsf	aðskildur
 hópum	nkfþ	hópur
 .	.	.
-
 Fjórföldun	nven	fjórföldun
 genanna	nhfeg	gen
 virðist	sfm3en	virða
@@ -4987,7 +4743,6 @@ um	aa	um
 milljónum	nvfþ	milljón
 ára	nhfe	ár
 .	.	.
-
 Viss	lhfnsf	viss
 gen	nhfn	gen
 hafa	sfg3fn	hafa

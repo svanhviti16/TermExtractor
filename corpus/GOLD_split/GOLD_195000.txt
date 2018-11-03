@@ -25,7 +25,6 @@ frá	aþ	frá
 hugsun	nveþ	hugsun
 Grahams	e	Grahams
 .	.	.
-
 Hann	fpken	hann
 tók	sfg3eþ	taka
 Security	e	Security
@@ -45,7 +44,6 @@ hana	fpveo	hún
 í	aþ	í
 ferðinni	nveþg	ferð
 .	.	.
-
 Mary	e	Mary
 Buffett	e	Buffett
 segir	sfg3en	segja
@@ -84,7 +82,6 @@ við	ao	við
 fyrri	lkeovm	fyrri
 lestur	nkeo	lestur
 .	.	.
-
 Á	ao	á
 sama	fbkeo	samur
 hátt	nkeo	háttur
@@ -110,7 +107,6 @@ les	sfg3en	lesa
 Security	e	Security
 Analysis	e	Analysis
 .	.	.
-
 Vaxtarfjárfesting	nven	vaxtarfjárfesting
 :	:	:
 Sjónir	nvfn	sjón
@@ -121,7 +117,6 @@ langtímaaukningu	nveþ	langtímaaukning
 í	aþ	í
 hagnaði	nkeþ	hagnaður
 .	.	.
-
 Vaxtarfjárfestar	nkfn	vaxtarfjárfestir
 beina	sfg3fn	beina
 sjónum	nvfþ	sjón
@@ -132,7 +127,6 @@ fyrirtækjum	nhfþ	fyrirtæki
 örum	lkeþsf	ör
 vexti	nkeþ	vöxtur
 .	.	.
-
 Þeir	fpkfn	hann
 eru	sfg3fn	vera
 ,	,	,
@@ -161,7 +155,6 @@ hagnaði	nkeþ	hagnaður
 er	sfg3en	vera
 meiri	lkenvm	mikill
 .	.	.
-
 Aðferðin	nveng	aðferð
 var	sfg3eþ	vera
 í	aþ	í
@@ -185,7 +178,6 @@ miðbik	nheo	miðbik
 20.	ta	20.
 aldarinnar	nveeg	öld
 .	.	.
-
 Virðissjónarmið	nhfn	virðissjónarmið
 Grahams	e	Grahams
 viku	sfg3fþ	víkja
@@ -195,7 +187,6 @@ hliðar	nvee	hlið
 um	ao	um
 skeið	nheo	skeið
 .	.	.
-
 T.	e	T.
 Rowe	e	Rowe
 Price	e	Price
@@ -226,7 +217,6 @@ en	c	en
 frá	aþ	frá
 1935	ta	1935
 .	.	.
-
 Kenning	nven	kenning
 Price	e	Price
 var	sfg3eþ	vera
@@ -259,7 +249,6 @@ síðan	aa	síðan
 langan	lkeosf	langur
 tíma	nkeo	tími
 .	.	.
-
 Vaxtarfyrirtæki	nhen	vaxtarfyrirtæki
 var	sfg3eþ	vera
 í	aþ	í
@@ -304,7 +293,6 @@ hann	fpken	hann
 orðaði	sfg3eþ	orða
 það	fpheo	það
 .	.	.
-
 Vaxtarfjárfesting	nven	vaxtarfjárfesting
 (	(	(
 e.	as	e.
@@ -333,7 +321,6 @@ hratt	aa	hratt
 vaxandi	lkeoof	vaxandi
 hagnað	nkeo	hagnaður
 .	.	.
-
 Vaxtarfyrirtæki	nhfn	vaxtarfyrirtæki
 ráðstafa	sfg3fn	ráðstafa
 oftast	aae	oft
@@ -360,7 +347,6 @@ arð	nkeo	arður
 til	ae	til
 hluthafa	nkfe	hluthafi
 .	.	.
-
 Coca-Cola	e	Coca-Cola
 var	sfg3eþ	vera
 um	ao	um
@@ -370,7 +356,6 @@ um	ao	um
 slíkt	fbheo	slíkur
 fyrirtæki	nheo	fyrirtæki
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 reyndar	aa	reyndar
@@ -394,7 +379,6 @@ félagi	nken	félagi
 Warrens	e	Warrens
 Buffett	e	Buffett
 .	.	.
-
 Á	aþ	á
 síðari	lkeþvm	síðari
 hluta	nkeþ	hluti
@@ -413,7 +397,6 @@ skilgreiningu	nveo	skilgreining
 á	aþ	á
 vaxtarfyrirtæki	nheþ	vaxtarfyrirtæki
 .	.	.
-
 Price	e	Price
 taldi	sfg3eþ	telja
 að	c	að
@@ -448,7 +431,6 @@ life	e	life
 cycle	e	cycle
 )	)	)
 .	.	.
-
 Eftir	aþ	eftir
 því	faheþ	sá
 sem	ct	sem
@@ -465,7 +447,6 @@ og	c	og
 áhætta	nven	áhætta
 ykist	svm3eþ	auka
 .	.	.
-
 Price	e	Price
 var	sfg3eþ	vera
 mjög	aa	mjög
@@ -488,7 +469,6 @@ aga	nkeo	agi
 í	aþ	í
 vinnubrögðum	nhfþ	vinnubrögð
 .	.	.
-
 Hann	fpken	hann
 fór	sfg3eþ	fara
 jafnan	aa	jafnan
@@ -516,7 +496,6 @@ dagskrá	nveþ	dagskrá
 allan	fokeo	allur
 daginn	nkeog	dagur
 .	.	.
-
 Fjárfestingin	nveng	fjárfesting
 var	sfg3eþ	vera
 honum	fpkeþ	hann
@@ -533,7 +512,6 @@ gerði	sfg3eþ	gera
 ystu	lvfove	ytri
 æsar	nvfo	æs
 .	.	.
-
 Þegar	c	þegar
 hann	fpken	hann
 keypti	sfg3eþ	kaupa
@@ -558,7 +536,6 @@ marki	nheþ	mark
 t.d.	as	t.d.
 40	ta	40
 .	.	.
-
 Við	ao	við
 það	fpheo	það
 hélt	sfg3eþ	halda
@@ -577,7 +554,6 @@ nokkru	foheþ	nokkur
 sinni	nheþ	sinn
 fyrr	aam	fyrr
 .	.	.
-
 Ef	c	ef
 verðið	nheng	verð
 lækkaði	sfg3eþ	lækka
@@ -608,7 +584,6 @@ fyrirtækinu	nheþg	fyrirtæki
 væru	svg3fþ	vera
 neikvæðar	lvfnsf	neikvæður
 .	.	.
-
 Price	e	Price
 ráðlagði	sfg3eþ	ráðleggja
 fólki	nheþ	fólk
@@ -630,7 +605,6 @@ að	c	að
 ykist	svm3eþ	auka
 hagnaðarvonin	nveng	hagnaðarvon
 .	.	.
-
 Price	e	Price
 áleit	sfg3eþ	álíta
 að	c	að
@@ -652,7 +626,6 @@ vaxtarfyrirtækjum	nhfþ	vaxtarfyrirtæki
 :	:	:
 1	ta	1
 .	.	.
-
 Að	cn	að
 finna	sng	finna
 atvinnugreinar	nvfo	atvinnugrein
@@ -664,10 +637,8 @@ upphafið	nheog	upphaf
 vaxtarskeiðum	nhfþ	vaxtarskeið
 þeirra	fpvfe	hún
 .	.	.
-
 2	ta	2
 .	.	.
-
 Að	cn	að
 velja	sng	velja
 það	faheo	sá
@@ -684,7 +655,6 @@ best	lhfnse	góður
 þeim	favfþ	sá
 greinum	nvfþ	grein
 .	.	.
-
 Tvær	tfvfn	tveir
 helstu	lvfnve	heldri
 kennitölurnar	nvfng	kennitala
@@ -708,7 +678,6 @@ og	c	og
 síðan	aa	síðan
 hagnaður	nken	hagnaður
 .	.	.
-
 Atvinnugreinin	nveng	atvinnugrein
 sem	ct	sem
 heild	nven	heild
@@ -728,7 +697,6 @@ að	cn	að
 teljast	snm	telja
 áhugaverð	lvensf	áhugaverður
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 gott	lhensf	góður
@@ -749,7 +717,6 @@ on	e	on
 equity	e	equity
 )	)	)
 .	.	.
-
 Þegar	c	þegar
 atvinnugreinin	nveng	atvinnugrein
 fer	sfg3en	fara
@@ -767,7 +734,6 @@ mjög	aa	mjög
 náið	aa	náið
 með	aa	með
 .	.	.
-
 Umskiptin	nhfng	umskipti
 frá	aþ	frá
 örum	lkeþsf	ör
@@ -778,7 +744,6 @@ geta	sfg3fn	geta
 verið	ssg	vera
 snögg	lhfnsf	snöggur
 .	.	.
-
 Hagnaður	nken	hagnaður
 kann	sfg3en	kunna
 að	cn	að
@@ -799,7 +764,6 @@ heldur	sfg3en	halda
 að	cn	að
 vaxa	sng	vaxa
 .	.	.
-
 Arðsemi	nven	arðsemi
 eigin	lheeof	eigin
 fjár	nhee	fé
@@ -820,7 +784,6 @@ eigin	lheeof	eigin
 fjár	nhee	fé
 þess	fphee	það
 .	.	.
-
 Það	fphen	það
 sýnir	sfg3en	sýna
 með	aþ	með
@@ -837,7 +800,6 @@ af	aþ	af
 starfsemi	nveþ	starfsemi
 fyrirtækisins	nheeg	fyrirtæki
 .	.	.
-
 Ef	c	ef
 eigið	lhensf	eiginn
 fé	nhen	fé
@@ -857,7 +819,6 @@ fjárins	nheeg	fé
 eða	c	eða
 10%	tp	10%
 .	.	.
-
 Almennt	aa	almennt
 er	sfg3en	vera
 hlutfallið	nheng	hlutfall
@@ -869,7 +830,6 @@ skilvirkni	nveo	skilvirkni
 stjórnenda	nkfe	stjórnandi
 fyrirtækis	nhee	fyrirtæki
 .	.	.
-
 Því	fpheþ	það
 hærri	lvenvm	hár
 sem	c	sem
@@ -884,7 +844,6 @@ stjórnendur	nkfn	stjórnandi
 þess	fphee	það
 taldir	sþgkfn	telja
 .	.	.
-
 Hlutfallið	nheog	hlutfall
 þarf	sfg3en	þurfa
 að	cn	að
@@ -907,7 +866,6 @@ eru	sfg3fn	vera
 háar	lvfnsf	hár
 )	)	)
 .	.	.
-
 Þá	aa	þá
 geta	sfg3fn	geta
 mismunandi	lvfnof	mismunandi
@@ -918,7 +876,6 @@ samanburð	nkeo	samanburður
 milli	ae	milli
 fyrirtækja	nhfe	fyrirtæki
 .	.	.
-
 Athyglisvert	lhensf	athyglisverður
 er	sfg3en	vera
 að	c	að
@@ -950,7 +907,6 @@ frá	aþ	frá
 liðnum	lkeþsf	liðinn
 tíma	nkeþ	tími
 .	.	.
-
 Hann	fpken	hann
 hafði	sfg3eþ	hafa
 ekki	aa	ekki
@@ -976,7 +932,6 @@ reikna	sng	reikna
 innra	lheovm	innri
 verðmæti	nheo	verðmæti
 .	.	.
-
 «	«	«
 Enginn	foken	enginn
 maður	nken	maður
@@ -1001,7 +956,6 @@ eða	c	eða
 tíu	tfhfo	tíu
 .	.	.
 »	»	»
-
 Aðferðir	nvfo	aðferð
 sem	ct	sem
 byggjast	sfm3fn	byggja
@@ -1026,7 +980,6 @@ hann	fpken	hann
 ekki	aa	ekki
 trúverðugar	lvfosf	trúverðugur
 .	.	.
-
 Í	ao	í
 staðinn	nkeog	staður
 mælti	sfg3eþ	mæla
@@ -1061,7 +1014,6 @@ sem	c	sem
 væri	svg3eþ	vera
 fullnægjandi	lkenof	fullnægjandi
 .	.	.
-
 Jim	e	Jim
 Slater	e	Slater
 ber	sfg3en	bera
@@ -1082,7 +1034,6 @@ annar	foken	annar
 frægur	lkensf	frægur
 vaxtarfjárfestir	nken	vaxtarfjárfestir
 .	.	.
-
 Hann	fpken	hann
 hefur	sfg3en	hafa
 ritað	ssg	rita
@@ -1100,7 +1051,6 @@ og	c	og
 2002	ta	2002
 )	)	)
 .	.	.
-
 Hann	fpken	hann
 starfar	sfg3en	starfa
 í	aþ	í
@@ -1117,7 +1067,6 @@ sögu	nveo	saga
 sem	ct	sem
 fjárfestir	nken	fjárfestir
 .	.	.
-
 Hann	fpken	hann
 hefur	sfg3en	hafa
 jafnframt	aa	jafnframt
@@ -1131,7 +1080,6 @@ frumkvöðull	nken	frumkvöðull
 í	aþ	í
 atvinnurekstri	nkeþ	atvinnurekstur
 .	.	.
-
 Coventry	e	Coventry
 Health	e	Health
 Slater	e	Slater
@@ -1170,7 +1118,6 @@ lágu	lheþsf	lágur
 VH-hlutfalli	nheþ-s	VH-hlutfall
 )	)	)
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 m.a.	as	m.a.
@@ -1186,7 +1133,6 @@ val	nheo	val
 á	aþ	á
 vaxtarfyrirtækjum	nhfþ	vaxtarfyrirtæki
 .	.	.
-
 Tveir	tfkfn	tveir
 mikilvægustu	lkfnve	mikilvægur
 þættirnir	nkfng	þáttur
@@ -1200,7 +1146,6 @@ eru	sfg3fn	vera
 :	:	:
 1	ta	1
 .	.	.
-
 Vöxtur	nken	vöxtur
 í	aþ	í
 hagnaði	nkeþ	hagnaður
@@ -1221,7 +1166,6 @@ síðustu	lhfþve	síðari
 fimm	tfhfþ	fimm
 árum	nhfþ	ár
 .	.	.
-
 Almennt	aa	almennt
 miðar	sfg3en	miða
 hann	fpken	hann
@@ -1252,10 +1196,8 @@ cyclical	e	cyclical
 companies	e	companies
 )	)	)
 .	.	.
-
 2	ta	2
 .	.	.
-
 Lágt	lhensf	lágur
 verð	nhen	verð
 VH-hlutfallið	nhengs	VH-hlutfall
@@ -1279,7 +1221,6 @@ hagnaðar	nkee	hagnaður
 á	ao	á
 hlut	nkeo	hlutur
 .	.	.
-
 Slater	e	Slater
 beitir	sfg3en	beita
 síðan	aa	síðan
@@ -1318,7 +1259,6 @@ hagnaði	nkeþ	hagnaður
 hlut	nkeo	hlutur
 )	)	)
 .	.	.
-
 Fyrirtæki	nhen	fyrirtæki
 með	ao	með
 15%	tp	15%
@@ -1349,7 +1289,6 @@ er	sfg3en	vera
 15	ta	15
 )	)	)
 .	.	.
-
 Þá	aa	þá
 væri	svg3eþ	vera
 PEG-hlutfallið	nhengs	PEG-hlutfall
@@ -1357,7 +1296,6 @@ jafnt	aa	jafnt
 og	c	og
 1,0	ta	1,0
 .	.	.
-
 Á	ao	á
 sama	fbkeo	samur
 hátt	nkeo	háttur
@@ -1384,7 +1322,6 @@ jafnt	aa	jafnt
 og	c	og
 1,0	ta	1,0
 .	.	.
-
 Slater	e	Slater
 hefur	sfg3en	hafa
 sem	c	sem
@@ -1405,7 +1342,6 @@ helst	aae	heldur
 aðeins	aa	aðeins
 0,5	ta	0,5
 .	.	.
-
 Ofurfjárfestirinn	nkeng	ofurfjárfestir
 Peter	e	Peter
 Lynch	e	Lynch
@@ -1428,7 +1364,6 @@ séu	svg3fn	vera
 á	aþ	á
 markaðnum	nkeþg	markaður
 .	.	.
-
 Til	ae	til
 að	cn	að
 ná	sng	ná
@@ -1454,7 +1389,6 @@ aðeins	aa	aðeins
 áhættunnar	nveeg	áhætta
 vegna	ae	vegna
 .	.	.
-
 Vaxtarfyrirtækjum	nhfþ	vaxtarfyrirtæki
 fylgja	sfg3fn	fylgja
 verðmæti	nhfn	verðmæti
@@ -1476,7 +1410,6 @@ standa	sfg3fn	standa
 í	ao	í
 stað	nkeo	staður
 .	.	.
-
 Spurningin	nveng	spurning
 er	sfg3en	vera
 aðeins	aa	aðeins
@@ -1496,7 +1429,6 @@ verðs	nhee	verð
 á	aþ	á
 markaðnum	nkeþg	markaður
 .	.	.
-
 Stundum	aa	stundum
 er	sfg3en	vera
 vaxtarfjárfestir	nken	vaxtarfjárfestir
@@ -1514,7 +1446,6 @@ með	aþ	með
 háu	lheþsf	hár
 VH-gildi	nheþ-s	VH-gildi
 .	.	.
-
 Þetta	fahen	þessi
 kann	sfg3en	kunna
 að	cn	að
@@ -1546,7 +1477,6 @@ sem	ct	sem
 hann	fpken	hann
 kaupir	sfg3en	kaupa
 .	.	.
-
 Peter	e	Peter
 Lynch	e	Lynch
 er	sfg3en	vera
@@ -1589,7 +1519,6 @@ markaðnum	nkeþg	markaður
 árið	nheog	ár
 1990	ta	1990
 .	.	.
-
 Sá	faken	sá
 sem	ct	sem
 fjárfesti	sfg3eþ	fjárfesta
@@ -1609,7 +1538,6 @@ dollara	nkfo	dollari
 árið	nheog	ár
 1990	ta	1990
 .	.	.
-
 Það	fahen	sá
 ár	nheo	ár
 fór	sfg3eþ	fara
@@ -1635,7 +1563,6 @@ Magellan	e	Magellan
 ár	nhfo	ár
 samfellt	aa	samfellt
 .	.	.
-
 Þann	fakeo	sá
 tíma	nkeo	tími
 sem	ct	sem
@@ -1656,7 +1583,6 @@ milljarða	nkfo	milljarður
 eða	c	eða
 700-földuðust	sfm3fþ	700-falda
 .	.	.
-
 Engum	fokeþ	enginn
 sem	ct	sem
 hefur	sfg3en	hafa
@@ -1685,7 +1611,6 @@ en	c	en
 Warren	e	Warren
 Buffett	e	Buffett
 .	.	.
-
 Vitað	sþghen	vita
 er	sfg3en	vera
 að	c	að
@@ -1701,7 +1626,6 @@ fjárfesta	sng	fjárfesta
 miklum	lhfþsf	mikill
 vaxtarfyrirtækjum	nhfþ	vaxtarfyrirtæki
 .	.	.
-
 Hvers	fshee	hver
 vegna	ae	vegna
 er	sfg3en	vera
@@ -1713,7 +1637,6 @@ en	c	en
 Lynch	e	Lynch
 vaxtarfjárfestir	nken	vaxtarfjárfestir
 ?	?	?
-
 Lykillinn	nkeng	lykill
 að	aþ	að
 skilningi	nkeþ	skilningur
@@ -1743,7 +1666,6 @@ fjárfestingarhugsun	nveþ	fjárfestingarhugsun
 og	c	og
 stíl	nkeþ	stíll
 .	.	.
-
 Mikilvægt	lhensf	mikilvægur
 er	sfg3en	vera
 að	cn	að
@@ -1769,7 +1691,6 @@ með	aþ	með
 sínum	fekeþ	sinn
 hætti	nkeþ	háttur
 .	.	.
-
 Frægð	nveo	frægð
 Peters	e	Peters
 Lynch	e	Lynch
@@ -1788,7 +1709,6 @@ Magellan-sjóðsins	nkeegs	Magellan-sjóður
 síðustu	lveeve	síðari
 aldar	nvee	öld
 .	.	.
-
 En	c	en
 hann	fpken	hann
 gerði	sfg3eþ	gera
@@ -1811,7 +1731,6 @@ fjárfestu	svg3fþ	fjárfesta
 á	ao	á
 væntingar	nvfo	vænting
 .	.	.
-
 Lynch	e	Lynch
 lagði	sfg3eþ	leggja
 grunn	nkeo	grunnur
@@ -1834,7 +1753,6 @@ frá	aþ	frá
 dögum	nkfþ	dagur
 Grahams	e	Grahams
 .	.	.
-
 Kenningum	nvfþ	kenning
 hans	fpkee	hann
 ,	,	,
@@ -1873,7 +1791,6 @@ fyrir	ao	fyrir
 fjármálatímaritið	nheog	fjármálatímarit
 Worth	e	Worth
 .	.	.
-
 Í	aþ	í
 einni	tfveþ	einn
 af	aþ	af
@@ -1893,10 +1810,8 @@ val	nheo	val
 á	aþ	á
 hlutabréfum	nhfþ	hlutabréf
 .	.	.
-
 1	ta	1
 .	.	.
-
 Staðreyndir	nvfn	staðreynd
 um	ao	um
 hlutabréf	nhfo	hlutabréf
@@ -1911,10 +1826,8 @@ væntingar	nvfn	vænting
 eða	c	eða
 spár	nvfn	spá
 .	.	.
-
 2	ta	2
 .	.	.
-
 Lítið	sbg2fn	líta
 á	ao	á
 efnahagsreikning	nkeo	efnahagsreikningur
@@ -1933,10 +1846,8 @@ er	sfg3en	vera
 í	aþ	í
 því	fpheþ	það
 .	.	.
-
 3	ta	3
 .	.	.
-
 Kaupið	sbg2fn	kaupa
 ekki	aa	ekki
 valrétti	nkfo	valréttur
@@ -1949,7 +1860,6 @@ að	cn	að
 kaupa	sng	kaupa
 hlutabréf	nhfo	hlutabréf
 .	.	.
-
 Í	aþ	í
 valrétti	nkeþ	valréttur
 vinnur	sfg3en	vinna
@@ -1958,7 +1868,6 @@ tíminn	nkeng	tími
 móti	aþ	móti
 okkur	fp1fþ	ég
 .	.	.
-
 Ef	c	ef
 hlutabréf	nhfn	hlutabréf
 eru	sfg3fn	vera
@@ -1976,10 +1885,8 @@ lækkun	nveo	lækkun
 á	aþ	á
 markaðnum	nkeþg	markaður
 .	.	.
-
 4	ta	4
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 venjulega	aa	venjulega
@@ -1998,10 +1905,8 @@ hlutabréf	nhfo	hlutabréf
 sama	fbkeþ	sami
 tíma	nkeþ	tími
 .	.	.
-
 5	ta	5
 .	.	.
-
 Almennur	lkensf	almennur
 fjárfestir	nken	fjárfestir
 á	sfg3en	eiga
@@ -2039,14 +1944,11 @@ hlutabréf	nhfo	hlutabréf
 neinu	foheþ	neinn
 þeirra	fphfe	það
 .	.	.
-
 6	ta	6
 .	.	.
-
 Sýnið	sbg2fn	sýna
 þolinmæði	nveo	þolinmæði
 .	.	.
-
 Hlutabréf	nhfn	hlutabréf
 hækka	sfg3fn	hækka
 oft	aa	oft
@@ -2063,16 +1965,13 @@ að	c	að
 voru	sfg3fþ	vera
 keypt	sþghfn	kaupa
 .	.	.
-
 Stundum	aa	stundum
 tekur	sfg3en	taka
 það	fphen	það
 tíu	tfhfo	tíu
 ár	nhfo	ár
 .	.	.
-
 7.	ta	7.
-
 Kaupið	sbg2fn	kaupa
 snemma	aa	snemma
 í	aþ	í
@@ -2083,7 +1982,6 @@ ekki	aa	ekki
 of	aa	of
 snemma	aa	snemma
 .	.	.
-
 Hugsið	sbg2fn	hugsa
 um	ao	um
 hlutabréf	nhfo	hlutabréf
@@ -2093,7 +1991,6 @@ eins	aa	eins
 og	c	og
 hafnabolta	nkeo	hafnabolti
 .	.	.
-
 Reynið	sbg2fn	reyna
 að	cn	að
 koma	sng	koma
@@ -2115,7 +2012,6 @@ sýna	sng	sýna
 getu	nveo	geta
 sína	feveo	sinn
 .	.	.
-
 Ef	c	ef
 þið	fp2fn	þú
 fjárfestið	sfg2fn	fjárfesta
@@ -2131,7 +2027,6 @@ taka	sng	taka
 ástæðulausa	lveosf	ástæðulaus
 áhættu	nveo	áhætta
 .	.	.
-
 Ef	c	ef
 þið	fp2fn	þú
 kaupið	sfg2fn	kaupa
@@ -2147,9 +2042,7 @@ verið	ssg	vera
 of	aa	of
 seint	aa	seint
 .	.	.
-
 8.	ta	8.
-
 Ekki	aa	ekki
 kaupa	sng	kaupa
 «	«	«
@@ -2164,7 +2057,6 @@ að	c	að
 eru	sfg3fn	vera
 ódýr	lhfnsf	ódýr
 .	.	.
-
 Kaupið	sbg2fn	kaupa
 þau	fphfo	það
 vegna	ae	vegna
@@ -2179,9 +2071,7 @@ að	cn	að
 verða	sng	verða
 betri	lvfnvm	góður
 .	.	.
-
 9.	ta	9.
-
 Kaupið	sbg2fn	kaupa
 hlutabréf	nhfo	hlutabréf
 í	aþ	í
@@ -2213,10 +2103,8 @@ hagnast	ssm	hagna
 mjög	aa	mjög
 vel	aa	vel
 .	.	.
-
 10	ta	10
 .	.	.
-
 Ólíklegir	lkfnsf	ólíklegur
 kostir	nkfn	kostur
 byggðir	sþgkfn	byggja
@@ -2232,7 +2120,6 @@ ekki	aa	ekki
 að	aþ	að
 púðurskotum	nhfþ	púðurskot
 .	.	.
-
 -11	ta	-11
 þegar	c	þegar
 tíu	tfhfn	tíu
@@ -2270,7 +2157,6 @@ nú	aa	nú
 í	aþ	í
 verðinu	nheþg	verð
 .	.	.
-
 Fjárfesti	sfg3eþ	fjárfesta
 til	ae	til
 langs	lkeesf	langur
@@ -2295,7 +2181,6 @@ sínum	fehfþ	sinn
 hjá	aþ	hjá
 Fidelity	e	Fidelity
 .	.	.
-
 Hann	fpken	hann
 rannsakaði	sfg3eþ	rannsaka
 og	c	og
@@ -2304,7 +2189,6 @@ fyrirtæki	nheo	fyrirtæki
 hundruðum	nhfþ	hundrað
 saman	aa	saman
 .	.	.
-
 Jafnframt	aa	jafnframt
 hafði	sfg3eþ	hafa
 hann	fpken	hann
@@ -2336,7 +2220,6 @@ mörg	lhfosf	margur
 í	aþ	í
 röð	nveþ	röð
 .	.	.
-
 Lynch	e	Lynch
 líkar	sfg3en	líka
 best	aae	vel
@@ -2352,7 +2235,6 @@ nota	sfg3fn	nota
 hverjum	fokeþ	hver
 degi	nkeþ	dagur
 .	.	.
-
 Hann	fpken	hann
 vildi	sfg3eþ	vilja
 þekkja	sng	þekkja
@@ -2366,7 +2248,6 @@ baki	nheþ	bak
 hverju	foheþ	hver
 fyrirtæki	nheþ	fyrirtæki
 .	.	.
-
 Hann	fpken	hann
 telur	sfg3en	telja
 engan	fokeo	enginn
@@ -2402,7 +2283,6 @@ framleiða	sng	framleiða
 eða	c	eða
 gera	sng	gera
 .	.	.
-
 Ef	c	ef
 fjárfestirinn	nkeng	fjárfestir
 skilur	sfg3en	skilja
@@ -2431,7 +2311,6 @@ slæmum	lhfþsf	slæmur
 markaðurinn	nkeng	markaður
 lækkar	sfg3en	lækka
 .	.	.
-
 Lynch	e	Lynch
 kennir	sfg3en	kenna
 að	c	að
@@ -2448,7 +2327,6 @@ vel	aa	vel
 og	c	og
 skilur	sfg3en	skilja
 .	.	.
-
 Þannig	aa	þannig
 er	sfg3en	vera
 auðveldara	lhenvm	auðveldur
@@ -2466,7 +2344,6 @@ lækkunar	nvee	lækkun
 á	aþ	á
 markaðnum	nkeþg	markaður
 .	.	.
-
 Peter	e	Peter
 Lynch	e	Lynch
 aðhyllist	sfm3en	aðhyllast
@@ -2493,7 +2370,6 @@ hlutabréfa	nhfe	hlutabréf
 á	aþ	á
 markaðnum	nkeþg	markaður
 .	.	.
-
 Í	aþ	í
 eldhúsinu	nheþg	eldhús
 kom	sfg3eþ	koma
@@ -2512,7 +2388,6 @@ frá	aa	frá
 miðjum	lvfþsf	miður
 klíðum	nvfþ	klíð
 .	.	.
-
 Þennan	fakeo	þessi
 kapal	nkeo	kapall
 kunni	sfg3eþ	kunna
@@ -2523,7 +2398,6 @@ hún	fpven	hún
 var	sfg3eþ	vera
 smákrakki	nken	smákrakki
 .	.	.
-
 Ósjálfrátt	aa	ósjálfrátt
 settist	sfm3eþ	setja
 hún	fpven	hún
@@ -2550,7 +2424,6 @@ og	c	og
 fyrir	aþ	fyrir
 brosi	nheþ	bros
 .	.	.
-
 Hún	fpven	hún
 spurði	sfg3eþ	spyrja
 hvort	c	hvort
@@ -2584,7 +2457,6 @@ að	cn	að
 segja	sng	segja
 margt	lheosf	margur
 .	.	.
-
 Tómasi	nkeþ-s	Tómas
 skaut	sfg3eþ	skjóta
 upp	aa	upp
@@ -2603,7 +2475,6 @@ eldhúskróknum	nkeþg	eldhúskrókur
 á	ao	á
 kvöldin	nhfog	kvöld
 .	.	.
-
 Spilað	ssg	spila
 Kasjón	nxeo-s	Kasjón
 ,	,	,
@@ -2615,7 +2486,6 @@ en	c	en
 oftast	aae	oft
 Hjónakapal	nkeo-s	hjónakapall
 .	.	.
-
 Þegar	c	þegar
 honum	fpkeþ	hann
 gekk	sfg3eþ	ganga
@@ -2629,7 +2499,6 @@ stokknum	nkeþg	stokkur
 í	ao	í
 hana	fpveo	hún
 .	.	.
-
 Stundum	aa	stundum
 þyngdist	sfm3eþ	þyngja
 ískyggilega	aa	ískyggilega
@@ -2637,7 +2506,6 @@ Stundum	aa	stundum
 honum	fpkeþ	hann
 brúnin	nveng	brún
 .	.	.
-
 Þá	aa	þá
 fór	sfg3eþ	fara
 hún	fpven	hún
@@ -2648,7 +2516,6 @@ og	c	og
 var	sfg3eþ	vera
 lengi	aa	lengi
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 alltaf	aa	alltaf
@@ -2668,7 +2535,6 @@ til	aa	til
 á	aþ	á
 borðinu	nheþg	borð
 .	.	.
-
 Svo	aa	svo
 héldu	sfg3fþ	halda
 þau	fphfn	það
@@ -2676,7 +2542,6 @@ héldu	sfg3fþ	halda
 að	cn	að
 spila	sng	spila
 .	.	.
-
 Hún	fpven	hún
 hrökk	sfg3eþ	hrökkva
 upp	aa	upp
@@ -2695,7 +2560,6 @@ hvöss	lvensf	hvass
 á	ao	á
 eiginmanninn	nkeog	eiginmaður
 .	.	.
-
 Hann	fpken	hann
 brosti	sfg3eþ	brosa
 afsakandi	aa	afsakandi
@@ -2712,7 +2576,6 @@ tók	sfg3eþ	taka
 saman	aa	saman
 spilin	nhfog	spil
 .	.	.
-
 Mest	aae	mikið
 langaði	sfg3eþ	langa
 hana	fpveo	hún
@@ -2734,7 +2597,6 @@ bunkann	nkeog	bunki
 á	ao	á
 borðshornið	nheog	borðshorn
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 margt	lhensf	margur
@@ -2754,7 +2616,6 @@ upp	aa	upp
 kex	nheo	kex
 líka	aa	líka
 .	.	.
-
 Einu	foheþ	einn
 sinni	nheþ	sinn
 höfðu	sfg3fþ	hafa
@@ -2775,7 +2636,6 @@ kaupendum	nkfþ	kaupandi
 á	aþ	á
 pallskörinni	nveþg	pallskör
 .	.	.
-
 Íbúðin	nveng	íbúð
 var	sfg3eþ	vera
 einkar	aa	einkar
@@ -2794,7 +2654,6 @@ kom	sfg3eþ	koma
 í	ao	í
 dyragættina	nveog	dyragætt
 .	.	.
-
 Margir	lkfnsf	margur
 áttu	sfg3fþ	eiga
 falleg	lhfosf	fallegur
@@ -2812,7 +2671,6 @@ með	aþ	með
 að	cn	að
 skoða	sng	skoða
 .	.	.
-
 Hún	fpven	hún
 hafði	sfg3eþ	hafa
 til	ae	til
@@ -2833,7 +2691,6 @@ eldhúsgardínunum	nvfþg	eldhúsgardína
 eftir	ao	eftir
 aðra	foveo	annar
 .	.	.
-
 Það	fphen	það
 kom	sfg3eþ	koma
 fyrir	aa	fyrir
@@ -2847,7 +2704,6 @@ stoppaði	sfg3eþ	stoppa
 hún	fpven	hún
 stutt	aa	stutt
 .	.	.
-
 Fannst	sfm3eþ	finna
 fremur	aam	fremur
 kuldalegt	lhensf	kuldalegur
@@ -2856,7 +2712,6 @@ alltof	aa	alltof
 mikið	lhensf	mikill
 bergmál	nhen	bergmál
 .	.	.
-
 Fasteignasalarnir	nkfng	fasteignasali
 voru	sfg3fþ	vera
 oft	aa	oft
@@ -2891,7 +2746,6 @@ fram	aa	fram
 hjá	aþ	hjá
 þeim	fpkfþ	hann
 .	.	.
-
 Svo	aa	svo
 skoðaði	sfg3eþ	skoða
 hún	fpven	hún
@@ -2916,7 +2770,6 @@ málin	nhfog	mál
 hjá	aþ	hjá
 sér	fpveþ	sig
 .	.	.
-
 Stundum	aa	stundum
 var	sfg3eþ	vera
 allt	fohen	allur
@@ -2934,7 +2787,6 @@ betur	aam	vel
 á	aþ	á
 baðherbergjunum	nhfþg	baðherbergi
 .	.	.
-
 Þá	aa	þá
 hafði	sfg3eþ	hafa
 ekki	aa	ekki
@@ -2946,7 +2798,6 @@ vel	aa	vel
 kringum	ao	kringum
 klósettin	nhfog	klósett
 .	.	.
-
 Hún	fpven	hún
 vissi	sfg3eþ	vita
 að	aþ	að
@@ -2959,7 +2810,6 @@ ekki	aa	ekki
 í	ao	í
 skálina	nveog	skál
 .	.	.
-
 Og	c	og
 ekkert	fohen	enginn
 var	sfg3eþ	vera
@@ -2975,7 +2825,6 @@ fengið	ssg	fá
 að	cn	að
 þorna	sng	þorna
 .	.	.
-
 Þess	fphee	það
 vegna	ae	vegna
 hafði	sfg3eþ	hafa
@@ -2992,7 +2841,6 @@ meðan	c	meðan
 Tómas	nken-s	Tómas
 lifði	sfg3eþ	lifa
 .	.	.
-
 Hún	fpven	hún
 brýndi	sfg3eþ	brýna
 hann	fpkeo	hann
@@ -3006,13 +2854,11 @@ daglega	aa	daglega
 kringum	ao	kringum
 klósettið	nheog	klósett
 .	.	.
-
 Stundum	aa	stundum
 oft	aa	oft
 á	ao	á
 dag	nkeo	dagur
 .	.	.
-
 Í	aþ	í
 einni	foveþ	einn
 íbúðinni	nveþg	íbúð
@@ -3024,7 +2870,6 @@ var	sfg3eþ	vera
 yfir	ao	yfir
 Gufuneskirkjugarðinn	nkeogs	Gufuneskirkjugarður
 .	.	.
-
 Snöggvast	aae	snöggt
 greip	sfg3eþ	grípa
 hana	fpveo	hún
@@ -3045,7 +2890,6 @@ kvölds	nhee	kvöld
 og	c	og
 morguns	nkee	morgunn
 .	.	.
-
 Hún	fpven	hún
 stóð	sfg3eþ	standa
 lengi	aa	lengi
@@ -3059,7 +2903,6 @@ auga	nheþ	auga
 á	ao	á
 leiðið	nheog	leiði
 .	.	.
-
 En	c	en
 það	fphen	það
 var	sfg3eþ	vera
@@ -3074,7 +2917,6 @@ saman	aa	saman
 í	aþ	í
 móðu	nveþ	móða
 .	.	.
-
 Svo	aa	svo
 rankaði	sfg3eþ	ranka
 hún	fpven	hún
@@ -3088,7 +2930,6 @@ sig	fpveo	sig
 og	c	og
 brosti	sfg3eþ	brosa
 .	.	.
-
 Íbúðin	nveng	íbúð
 var	sfg3eþ	vera
 þrisvar	aa	þrisvar
@@ -3097,13 +2938,11 @@ stærri	lvenvm	stór
 en	c	en
 kjallarinn	nkeng	kjallari
 .	.	.
-
 Henni	fpveþ	hún
 lá	sfg3eþ	liggja
 ekkert	fohen	enginn
 á	aa	á
 .	.	.
-
 Það	fphen	það
 kæmi	svg3eþ	koma
 að	aþ	að
@@ -3114,7 +2953,6 @@ færi	svg3eþ	fara
 í	ao	í
 Gufunesið	nheogs	Gufunes
 .	.	.
-
 13	ta	13
 Matthías	nken-s	Matthías
 á	aþ	á
@@ -3125,7 +2963,6 @@ starfsmaður	nken	starfsmaður
 Orðabókar	nvee-s	Orðabók
 Háskólans	nkeegs	Háskóli
 .	.	.
-
 Hann	fpken	hann
 bankaði	sfg3eþ	banka
 upp	aa	upp
@@ -3143,7 +2980,6 @@ koma	sng	koma
 inn	aa	inn
 fyrir	aa	fyrir
 .	.	.
-
 Hún	fpven	hún
 gaf	sfg3eþ	gefa
 honum	fpkeþ	hann
@@ -3182,7 +3018,6 @@ ferð	nveo	ferð
 til	ae	til
 Madeira	e	Madeira
 .	.	.
-
 Arnbjörg	nven-s	Arnbjörg
 var	sfg3eþ	vera
 búin	lvensf	búinn
@@ -3201,7 +3036,6 @@ býsn	nhfo	býsn
 af	aþ	af
 fríi	nheþ	frí
 .	.	.
-
 Nú	aa	nú
 var	sfg3eþ	vera
 spurningin	nveng	spurning
@@ -3221,7 +3055,6 @@ væru	svg3fþ	vera
 í	aa	í
 burtu	aa	burtu
 .	.	.
-
 Hann	fpken	hann
 vissi	sfg3eþ	vita
 sem	ct	sem
@@ -3238,7 +3071,6 @@ og	c	og
 áreiðanleg	lvensf	áreiðanlegur
 manneskja	nven	manneskja
 .	.	.
-
 Svo	aa	svo
 flugu	sfg3fþ	fljúga
 Matthías	nken-s	Matthías
@@ -3247,7 +3079,6 @@ Arnbjörg	nven-s	Arnbjörg
 í	ao	í
 sólina	nveog	sól
 .	.	.
-
 Þann	fakeo	sá
 daginn	nkeog	dagur
 var	sfg3eþ	vera
@@ -3260,7 +3091,6 @@ gekk	sfg3eþ	ganga
 með	aþ	með
 skruggum	nvfþ	skrugga
 .	.	.
-
 Sigþrúður	nven-s	Sigþrúður
 mundi	sfg3eþ	muna
 ekki	aa	ekki
@@ -3276,7 +3106,6 @@ að	cn	að
 bera	sng	bera
 út	aa	út
 .	.	.
-
 Hún	fpven	hún
 vaknaði	sfg3eþ	vakna
 fyrr	aam	fyrr
@@ -3294,7 +3123,6 @@ hún	fpven	hún
 dytti	svg3eþ	detta
 ekki	aa	ekki
 .	.	.
-
 Blöðin	nhfng	blað
 áttu	sfg3fþ	eiga
 að	cn	að
@@ -3308,7 +3136,6 @@ lagi	nheþ	lag
 klukkan	nveng	klukka
 sjö	ta	sjö
 .	.	.
-
 Stundum	aa	stundum
 var	sfg3eþ	vera
 launhált	lhensf	launháll
@@ -3322,7 +3149,6 @@ um	ao	um
 alla	foveo	allur
 borg	nveo	borg
 .	.	.
-
 Svo	aa	svo
 ekki	aa	ekki
 væri	svg3eþ	vera
@@ -3338,7 +3164,6 @@ flestir	lkfnse	margur
 á	aþ	á
 föstudögum	nkfþ	föstudagur
 .	.	.
-
 Þá	aa	þá
 bættist	sfm3eþ	bæta
 við	aa	við
@@ -3353,7 +3178,6 @@ fór	sfg3eþ	fara
 úr	aþ	úr
 böndunum	nhfþg	band
 .	.	.
-
 Það	fphen	það
 voru	sfg3fþ	vera
 ósköp	nhfn	ósköp
@@ -3361,7 +3185,6 @@ að	cn	að
 sjá	sng	sjá
 blómin	nhfog	blóm
 .	.	.
-
 Þau	fahfo	sá
 minnstu	lhfove	lítill
 tók	sfg3eþ	taka
@@ -3399,7 +3222,6 @@ heima	aa	heima
 hjá	aþ	hjá
 sér	fphfþ	sig
 .	.	.
-
 Hún	fpven	hún
 gaf	sfg3eþ	gefa
 þeim	fphfþ	það
@@ -3432,7 +3254,6 @@ var	sfg3eþ	vera
 þessum	fakeþ	þessi
 árstíma	nkeþ	árstími
 .	.	.
-
 Hún	fpven	hún
 kleip	sfg3eþ	klípa
 sprota	nkfo	sproti
@@ -3452,7 +3273,6 @@ telst	sfm3en	telja
 ekki	aa	ekki
 þjófnaður	nken	þjófnaður
 .	.	.
-
 Að	cn	að
 biðja	sng	biðja
 um	ao	um
@@ -3462,7 +3282,6 @@ dauðadómur	nken	dauðadómur
 yfir	aþ	yfir
 plöntu	nveþ	planta
 .	.	.
-
 Í	aþ	í
 fyrstu	lveþve	fyrstur
 ferðinni	nveþg	ferð
@@ -3472,7 +3291,6 @@ hún	fpven	hún
 eftir	aþ	eftir
 landakortinu	nheþg	landakort
 .	.	.
-
 Það	fphen	það
 hékk	sfg3eþ	hanga
 í	aþ	í
@@ -3481,7 +3299,6 @@ og	c	og
 sýndi	sfg3eþ	sýna
 Frakkland	nheo-s	Frakkland
 .	.	.
-
 Matthías	nken-s	Matthías
 hafði	sfg3eþ	hafa
 búið	ssg	búa
@@ -3506,7 +3323,6 @@ eða	c	eða
 á	aþ	á
 stéttinni	nveþg	stétt
 .	.	.
-
 Yfirleitt	aa	yfirleitt
 kom	sfg3eþ	koma
 Ísland	nhen-s	Ísland
@@ -3523,7 +3339,6 @@ ekki	aa	ekki
 eftir	aþ	eftir
 öðru	foheþ	annar
 .	.	.
-
 En	c	en
 nú	aa	nú
 rann	sfg3eþ	renna
@@ -3553,7 +3368,6 @@ að	aþ	að
 fyrra	lheþvm	fyrri
 bragði	nheþ	bragð
 .	.	.
-
 Hlaut	sfg3eþ	hljóta
 það	fphen	það
 ekki	aa	ekki
@@ -3561,7 +3375,6 @@ að	cn	að
 vera	sng	vera
 Frakkland	nhen-s	Frakkland
 ?	?	?
-
 Annars	aa	annars
 væri	svg3eþ	vera
 þetta	fahen	þessi
@@ -3571,7 +3384,6 @@ varla	aa	varla
 á	aþ	á
 veggnum	nkeþg	veggur
 .	.	.
-
 Upp	aa	upp
 í	ao	í
 hug	nkeo	hugur
@@ -3589,7 +3401,6 @@ henni	fpveþ	hún
 fyrir	aþ	fyrir
 brjósti	nheþ	brjóst
 .	.	.
-
 Hún	fpven	hún
 bægði	sfg3eþ	bægja
 skólanum	nkeþg	skóli
@@ -3608,7 +3419,6 @@ og	c	og
 til	ae	til
 hægri	lveevf	hægri
 .	.	.
-
 Frönskukennslubókin	nveng	frönskukennslubók
 kom	sfg3eþ	koma
 upp	aa	upp
@@ -3617,7 +3427,6 @@ kassa	nkeþ	kassi
 í	aþ	í
 geymslunni	nveþg	geymsla
 .	.	.
-
 Hana	fpveo	hún
 hafði	sfg3eþ	hafa
 hún	fpven	hún
@@ -3643,7 +3452,6 @@ og	c	og
 lært	ssg	læra
 sagnbeygingar	nvfo	sagnbeyging
 .	.	.
-
 Þarna	aa	þarna
 voru	sfg3fþ	vera
 þær	fpvfn	hún
@@ -3663,7 +3471,6 @@ og	c	og
 allar	fovfn	allur
 hinar	favfn	hinn
 .	.	.
-
 Hún	fpven	hún
 brosti	sfg3eþ	brosa
 með	aþ	með
@@ -3677,7 +3484,6 @@ upp	aa	upp
 í	ao	í
 hundrað	nheo	hundrað
 .	.	.
-
 Eftir	ao	eftir
 þessa	fakfo	þessi
 skemmtilegu	lkfovf	skemmtilegur
@@ -3689,7 +3495,6 @@ rifja	sng	rifja
 svolítið	aa	svolítið
 upp	aa	upp
 .	.	.
-
 Skyldi	svg3eþ	skulu
 hún	fpven	hún
 enn	aa	enn
@@ -3697,7 +3502,6 @@ geta	sng	geta
 skrifað	ssg	skrifa
 stílana	nkfog	stíll
 ?	?	?
-
 Hún	fpven	hún
 hafði	sfg3eþ	hafa
 fylgst	ssm	fylgja
@@ -3706,7 +3510,6 @@ frönskukennslu	nveþ	frönskukennsla
 í	aþ	í
 sjónvarpinu	nheþg	sjónvarp
 .	.	.
-
 Tómas	nken-s	Tómas
 gerði	sfg3eþ	gera
 það	fpheo	það
@@ -3724,7 +3527,6 @@ henni	fpveþ	hún
 fyrir	ao	fyrir
 dugnaðinn	nkeog	dugnaður
 .	.	.
-
 Í	ao	í
 hvert	foheo	hver
 sinn	nheo	sinn
@@ -3743,7 +3545,6 @@ við	aa	við
 hjá	aþ	hjá
 kortinu	nheþg	kort
 .	.	.
-
 Einu	foheþ	einn
 sinni	nheþ	sinn
 sem	c	sem
@@ -3761,7 +3562,6 @@ og	c	og
 sótti	sfg3eþ	sækja
 sjalið	nheog	sjal
 .	.	.
-
 Hún	fpven	hún
 yfirfór	sfg3eþ	yfirfara
 það	fpheo	það
@@ -3791,7 +3591,6 @@ inn	aa	inn
 í	ao	í
 stofu	nveo	stofa
 .	.	.
-
 Það	fphen	það
 lífgaði	sfg3eþ	lífga
 upp	aa	upp
@@ -3805,7 +3604,6 @@ franskara	lhenvm	franskur
 fyrir	ao	fyrir
 vikið	nheog	vik
 .	.	.
-
 Gamla	lhenvf	gamall
 koffortið	nheng	koffort
 var	sfg3eþ	vera
@@ -3816,7 +3614,6 @@ grammófóni	nkeþ	grammófónn
 fóstru	nvee	fóstra
 hennar	fpvee	hún
 .	.	.
-
 Tómas	nken-s	Tómas
 hafði	sfg3eþ	hafa
 þvertekið	ssg	þvertaka
@@ -3832,7 +3629,6 @@ inn	aa	inn
 komu	sfg3fþ	koma
 suður	aa	suður
 .	.	.
-
 Vildi	sfg3eþ	vilja
 henda	sng	henda
 grammófóninum	nkeþg	grammófónn
@@ -3840,7 +3636,6 @@ en	c	en
 hún	fpven	hún
 harðneitaði	sfg3eþ	harðneita
 .	.	.
-
 Fyrir	aþ	fyrir
 mörgum	lhfþsf	margur
 árum	nhfþ	ár
@@ -3859,14 +3654,12 @@ en	c	en
 hann	fpken	hann
 dó	sfg3eþ	deyja
 .	.	.
-
 Hvort	fohen	hvor
 tveggja	tfhfe	tveir
 stóð	sfg3eþ	standa
 í	aþ	í
 stofunni	nveþg	stofa
 .	.	.
-
 Nú	aa	nú
 sótti	sfg3eþ	sækja
 hún	fpven	hún
@@ -3882,13 +3675,11 @@ vegginn	nkeog	veggur
 hjá	aþ	hjá
 sjalinu	nheþg	sjal
 .	.	.
-
 Þar	aa	þar
 fór	sfg3eþ	fara
 það	fphen	það
 vel	aa	vel
 .	.	.
-
 Hún	fpven	hún
 hefði	svg3eþ	hafa
 átt	ssg	eiga
@@ -3913,7 +3704,6 @@ laut	sfg3eþ	lúta
 yfir	ao	yfir
 það	fpheo	það
 .	.	.
-
 Hún	fpven	hún
 æfir	sfg3en	æfa
 sig	fpveo	sig
@@ -3927,7 +3717,6 @@ auga	nheþ	auga
 hæfileika	nkfo	hæfileiki
 hennar	fpvee	hún
 .	.	.
-
 Mjög	aa	mjög
 ung	lvensf	ungur
 þarf	sfg3en	þurfa
@@ -3945,7 +3734,6 @@ meira	lheovm	mikill
 fyrir	ao	fyrir
 hana	fpveo	hún
 .	.	.
-
 Hún	fpven	hún
 hefur	sfg3en	hafa
 skamma	lveosf	skammur
@@ -3964,7 +3752,6 @@ nám	nheo	nám
 árum	nhfþ	ár
 saman	aa	saman
 .	.	.
-
 Eftir	ao	eftir
 það	fpheo	það
 taka	sfg3fn	taka
@@ -3976,7 +3763,6 @@ hafs	nhee	haf
 og	c	og
 vestan	aa	vestan
 .	.	.
-
 Með	aþ	með
 jöfnu	lheþsf	jafn
 millibili	nheþ	millibil
@@ -3987,7 +3773,6 @@ spilaðar	sþgvfn	spila
 í	aþ	í
 Ríkisútvarpinu	nheþgs	Ríkisútvarp
 .	.	.
-
 Lengst	aae	lengi
 af	aa	af
 býr	sfg3en	búa
@@ -4006,7 +3791,6 @@ og	c	og
 í	ao	í
 hana	fpveo	hún
 .	.	.
-
 Drengurinn	nkeng	drengur
 vill	sfg3en	vilja
 heldur	aam	heldur
@@ -4019,7 +3803,6 @@ langar	sfg3en	langa
 alltaf	aa	alltaf
 heim	aa	heim
 .	.	.
-
 Á	aþ	á
 hverju	foheþ	hver
 sumri	nheþ	sumar
@@ -4037,7 +3820,6 @@ horfa	sfg3fn	horfa
 sólina	nveog	sól
 dansa	sng	dansa
 .	.	.
-
 Taka	sfg3fn	taka
 munnhörpuna	nveog	munnharpa
 með	aa	með
@@ -4046,7 +3828,6 @@ leika	sfg3fn	leika
 fyrir	ao	fyrir
 selina	nkfog	selur
 .	.	.
-
 Undantekningarlaust	aa	undantekningarlaust
 líta	sfg3fn	líta
 þau	fphfn	það
@@ -4062,7 +3843,6 @@ sem	ct	sem
 leita	sfg3fn	leita
 að	aa	að
 .	.	.
-
 Næst	aae	nærri
 sótti	sfg3eþ	sækja
 hún	fpven	hún
@@ -4087,19 +3867,16 @@ kom	sfg3eþ	koma
 þeim	fpvfþ	hún
 fyrir	aa	fyrir
 .	.	.
-
 Þær	fpvfn	hún
 voru	sfg3fþ	vera
 þungar	lvfnsf	þungur
 og	c	og
 rispaðar	lvfnsf	rispaður
 .	.	.
-
 Tvær	tfvfn	tveir
 höfðu	sfg3fþ	hafa
 brotnað	ssg	brotna
 .	.	.
-
 Nálarnar	nvfog	nál
 fann	sfg3eþ	finna
 hún	fpven	hún
@@ -4113,7 +3890,6 @@ gengið	ssg	ganga
 frá	aþ	frá
 þeim	fpvfþ	hún
 .	.	.
-
 Hún	fpven	hún
 sneri	sfg3eþ	snúa
 sveifinni	nveþg	sveif
@@ -4127,7 +3903,6 @@ snúast	snm	snúa
 fjólubláu	lveþvf	fjólublár
 hringskífunni	nveþg	hringskífa
 .	.	.
-
 Svo	aa	svo
 horfði	sfg3eþ	horfa
 hún	fpven	hún
@@ -4136,7 +3911,6 @@ gagnrýnin	lvensf	gagnrýninn
 kringum	ao	kringum
 sig	fpveo	sig
 .	.	.
-
 Rauði	lkenvf	rauður
 plusssófinn	nkeng	plusssófi
 átti	sfg3eþ	eiga
@@ -4154,11 +3928,9 @@ borðstofuhúsgögnin	nhfng	borðstofuhúsgagn
 og	c	og
 ljósakrónan	nveng	ljósakróna
 .	.	.
-
 Húsgögn	nhfn	húsgagn
 tengdamömmu	nvee	tengdamamma
 .	.	.
-
 En	c	en
 af	aþ	af
 hverju	fsheþ	hver
@@ -4168,7 +3940,6 @@ voru	sfg3fþ	vera
 stofunni	nveþg	stofa
 hennar	fpvee	hún
 ?	?	?
-
 Nokkrum	fokfþ	nokkur
 dögum	nkfþ	dagur
 seinna	aam	seint
@@ -4178,7 +3949,6 @@ smáauglýsingu	nveo	smáauglýsing
 í	ao	í
 DV	as	DV
 .	.	.
-
 Ungt	lhensf	ungur
 par	nhen	par
 ,	,	,
@@ -4198,7 +3968,6 @@ svona	aa	svona
 gamaldags	lhfoof	gamaldags
 húsgögn	nhfo	húsgagn
 .	.	.
-
 Þau	fphfn	það
 komu	sfg3fþ	koma
 með	ao	með
@@ -4211,7 +3980,6 @@ allt	foheo	allur
 örskömmum	lkeþsf	örskammur
 tíma	nkeþ	tími
 .	.	.
-
 Vildu	sfg3fþ	vilja
 ekki	aa	ekki
 molasopa	nkeo	molasopi
@@ -4228,7 +3996,6 @@ afar	aa	afar
 eiginlega	aa	eiginlega
 vandræðaleg	lhfnsf	vandræðalegur
 .	.	.
-
 Þótti	sfg3eþ	þykja
 skrýtið	lhensf	skrýtinn
 að	c	að
@@ -4239,7 +4006,6 @@ vilja	sng	vilja
 neina	foveo	neinn
 greiðslu	nveo	greiðsla
 .	.	.
-
 Sigþrúður	nven-s	Sigþrúður
 fullvissaði	sfg3eþ	fullvissa
 þau	fphfo	það
@@ -4253,7 +4019,6 @@ greiði	nken	greiði
 með	aþ	með
 þessu	faheþ	þessi
 .	.	.
-
 Þegar	c	þegar
 þau	fphfn	það
 renndu	sfg3fþ	renna
@@ -4266,7 +4031,6 @@ dyragættinni	nveþg	dyragætt
 og	c	og
 veifaði	sfg3eþ	veifa
 .	.	.
-
 Veifaði	sfg3eþ	veifa
 þar	aa	þar
 til	aa	til
@@ -4279,7 +4043,6 @@ hverfa	sng	hverfa
 fyrir	ao	fyrir
 hornið	nheog	horn
 .	.	.
-
 Svo	aa	svo
 ryksugaði	sfg3eþ	ryksuga
 hún	fpven	hún
@@ -4299,7 +4062,6 @@ opnaði	sfg3eþ	opna
 alla	fokfo	allur
 glugga	nkfo	gluggi
 .	.	.
-
 Hitaði	sfg3eþ	hita
 sér	fpveþ	sig
 sterkt	lheosf	sterkur
@@ -4314,7 +4076,6 @@ dansa	sng	dansa
 hálftómri	lveþsf	hálftómur
 stofunni	nveþg	stofa
 .	.	.
-
 14	ta	14
 Hún	fpven	hún
 hraðaði	sfg3eþ	hraða
@@ -4328,7 +4089,6 @@ fyrir	ao	fyrir
 framan	aa	framan
 Frakklandskortið	nheogs	Frakklandskort
 .	.	.
-
 Áður	aa	áður
 en	c	en
 hún	fpven	hún
@@ -4338,14 +4098,12 @@ hún	fpven	hún
 einstaka	lkfosf	einstakur
 landshluta	nkfo	landshluti
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 var	sfg3eþ	vera
 það	fphen	það
 París	nven-s	París
 .	.	.
-
 Borgin	nveng	borg
 var	sfg3eþ	vera
 eins	aa	eins
@@ -4368,7 +4126,6 @@ suður	aa	suður
 að	aþ	að
 Miðjarðarhafi	nheþ-s	Miðjarðarhaf
 .	.	.
-
 Sigþrúður	nven-s	Sigþrúður
 skynjaði	sfg3eþ	skynja
 ákveðna	lveosf	ákveðinn
@@ -4377,7 +4134,6 @@ innra	lheovm	innri
 með	aþ	með
 sér	fpveþ	sig
 .	.	.
-
 Hér	aa	hér
 lukust	sfm3fþ	ljúka
 upp	aa	upp
@@ -4392,7 +4148,6 @@ við	ao	við
 forna	lkfosf	forn
 kunningja	nkfo	kunningi
 .	.	.
-
 Í	aþ	í
 franska	lkeþvf	franskur
 sófanum	nkeþg	sófi
@@ -4410,7 +4165,6 @@ með	aþ	með
 draumkenndum	lkfþsf	draumkenndur
 ættingjum	nkfþ	ættingi
 .	.	.
-
 Hver	foven	hver
 ferð	nven	ferð
 hófst	sfm3eþ	hefja
@@ -4428,7 +4182,6 @@ horfðu	sfg3fþ	horfa
 yfir	ao	yfir
 borgina	nveog	borg
 .	.	.
-
 Hún	fpven	hún
 sat	sfg3eþ	sitja
 með	ao	með
@@ -4442,7 +4195,6 @@ ljúka	sng	ljúka
 þeim	fphfþ	það
 upp	aa	upp
 .	.	.
-
 Eftir	ao	eftir
 að	c	að
 gamla	lhenvf	gamall
@@ -4461,7 +4213,6 @@ vör	lvensf	var
 við	ao	við
 umgang	nkeo	umgangur
 .	.	.
-
 Þetta	fahen	þessi
 olli	sfg3eþ	valda
 henni	fpveþ	hún
@@ -4473,7 +4224,6 @@ miklu	lheþsf	mikill
 fremur	aam	fremur
 fögnuði	nkeþ	fögnuður
 .	.	.
-
 Hvað	fshen	hver
 sem	ct	sem
 væri	svg3eþ	vera
@@ -4486,7 +4236,6 @@ af	aþ	af
 henni	fpveþ	hún
 sjálfri	fbveþ	sjálfur
 .	.	.
-
 Kannski	aa	kannski
 ættingjarnir	nkfng	ættingi
 sem	ct	sem
@@ -4495,7 +4244,6 @@ hafði	sfg3eþ	hafa
 lengi	aa	lengi
 þráð	ssg	þrá
 .	.	.
-
 Tómasi	nkeþ-s	Tómas
 hafði	sfg3eþ	hafa
 þótt	ssg	þykja
@@ -4510,7 +4258,6 @@ leðursófa	nkeo	leðursófi
 í	ao	í
 stofuna	nveog	stofa
 .	.	.
-
 Skömmu	lheþsf	skammur
 seinna	aam	seint
 bættust	svm3fþ	bæta
@@ -4526,7 +4273,6 @@ skammeli	nheþ	skammel
 undir	ao	undir
 fæturna	nkfog	fótur
 .	.	.
-
 Líka	aa	líka
 standlampi	nken	standlampi
 sem	ct	sem
@@ -4534,14 +4280,12 @@ stóð	sfg3eþ	standa
 við	ao	við
 skammelstólinn	nkeog	skammelstóll
 .	.	.
-
 Þar	aa	þar
 sat	sfg3eþ	sitja
 hún	fpven	hún
 og	c	og
 las	sfg3eþ	lesa
 .	.	.
-
 Allt	foheo	allur
 þetta	faheo	þessi
 fékk	sfg3eþ	fá
@@ -4549,7 +4293,6 @@ hún	fpven	hún
 á	aþ	á
 tilboðsverði	nheþ	tilboðsverð
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 enn	aa	enn
@@ -4566,14 +4309,12 @@ til	aa	til
 með	ao	með
 borðstofuhúsgögn	nhfo	borðstofuhúsgagn
 .	.	.
-
 Gat	sfg3eþ	geta
 eldhúsborðið	nheng	eldhúsborð
 ekki	aa	ekki
 bara	aa	bara
 dugað	ssg	duga
 ?	?	?
-
 Eiginlega	aa	eiginlega
 langaði	sfg3eþ	langa
 hana	fpveo	hún
@@ -4597,7 +4338,6 @@ yfir	aþ	yfir
 nýja	lkeþvf	nýr
 sófanum	nkeþg	sófi
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 sífellt	aa	sífellt
@@ -4614,7 +4354,6 @@ fyndi	svg3eþ	finna
 eina	lheovf	einn
 rétta	lheovf	réttur
 .	.	.
-
 Hún	fpven	hún
 lét	sfg3eþ	láta
 koffortið	nheog	koffort
@@ -4637,7 +4376,6 @@ að	cn	að
 vita	sng	vita
 meira	lheovm	mikill
 .	.	.
-
 Kannski	aa	kannski
 vildi	sfg3eþ	vilja
 einhver	foken	einhver
@@ -4648,7 +4386,6 @@ nýju	lkfovf	nýr
 stólana	nkfog	stóll
 hennar	fpvee	hún
 .	.	.
-
 Eitt	tfheo	einn
 sinn	nheo	sinn
 skelltist	sfm3eþ	skella
@@ -4672,7 +4409,6 @@ frekar	aam	frekar
 en	c	en
 venjulega	aa	venjulega
 .	.	.
-
 Þá	aa	þá
 taldi	sfg3eþ	telja
 hún	fpven	hún
@@ -4683,7 +4419,6 @@ manni	nkeþ	maður
 á	aþ	á
 ganginum	nkeþg	gangur
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 þó	aa	þó
@@ -4702,7 +4437,6 @@ rifja	sng	rifja
 þetta	faheo	þessi
 upp	aa	upp
 .	.	.
-
 Henni	fpveþ	hún
 fannst	sfm3eþ	finna
 samt	aa	samt
@@ -4723,7 +4457,6 @@ sögunni	nveþg	saga
 hennar	fpvee	hún
 fóstru	nvee	fóstra
 .	.	.
-
 Svein	nkeo-s	Sveinn
 sem	ct	sem
 náði	sfg3eþ	ná
@@ -4738,7 +4471,6 @@ sjötíu	tfhfo	sjötíu
 kálfskinn	nhfo	kálfskinn
 hanga	sng	hanga
 .	.	.
-
 Kettirnir	nkfng	köttur
 áttu	sfg3fþ	eiga
 til	ae	til
@@ -4750,7 +4482,6 @@ skjóta	sng	skjóta
 upp	ao	upp
 kryppu	nveo	kryppa
 .	.	.
-
 Einu	foheþ	einn
 sinni	nheþ	sinn
 stökk	sfg3eþ	stökkva
@@ -4761,7 +4492,6 @@ með	ao	með
 hárin	nhfog	hár
 rísandi	lhfoof	rísandi
 .	.	.
-
 Hún	fpven	hún
 tók	sfg3eþ	taka
 hann	fpkeo	hann
@@ -4778,7 +4508,6 @@ að	cn	að
 vera	sng	vera
 góðan	lkeosf	góður
 .	.	.
-
 Talaði	sfg3eþ	tala
 lengi	aa	lengi
 við	ao	við
@@ -4802,7 +4531,6 @@ síður	aam	síður
 en	c	en
 hann	fpken	hann
 .	.	.
-
 Þau	fphfn	það
 yrðu	svg3fþ	verða
 að	cn	að
@@ -4812,7 +4540,6 @@ friðinn	nkeog	friður
 litla	lkeþvf	lítill
 kjallaranum	nkeþg	kjallari
 .	.	.
-
 Hann	fpken	hann
 yrði	svg3eþ	verða
 að	cn	að
@@ -4820,7 +4547,6 @@ lofa	sng	lofa
 henni	fpveþ	hún
 því	fpheþ	það
 .	.	.
-
 Það	fphen	það
 kom	sfg3eþ	koma
 líka	aa	líka
@@ -4834,7 +4560,6 @@ sérstaklega	aa	sérstaklega
 á	ao	á
 kvöldin	nhfog	kvöld
 .	.	.
-
 Fyrst	aae	fyrr
 hélt	sfg3eþ	halda
 hún	fpven	hún
@@ -4865,7 +4590,6 @@ var	sfg3eþ	vera
 stofunni	nveþg	stofa
 hennar	fpvee	hún
 .	.	.
-
 Röddin	nveng	rödd
 var	sfg3eþ	vera
 djúp	lvensf	djúpur
@@ -4880,7 +4604,6 @@ ekki	aa	ekki
 fyrir	ao	fyrir
 sig	fpveo	sig
 .	.	.
-
 Og	c	og
 kvöld	nheo	kvöld
 nokkurt	foheo	nokkur
@@ -4903,7 +4626,6 @@ heyrt	ssg	heyra
 það	fpheo	það
 áður	aa	áður
 .	.	.
-
 Kringlusafnið	nheng	kringlusafn
 var	sfg3eþ	vera
 vinalegt	lhensf	vinalegur
@@ -4915,7 +4637,6 @@ inn	aa	inn
 úr	aþ	úr
 kuldanum	nkeþg	kuldi
 .	.	.
-
 Í	ao	í
 þetta	faheo	þessi
 sinn	nheo	sinn
@@ -4928,7 +4649,6 @@ efni	nheo	efni
 tengt	lheosf	tengdur
 ættfræði	nveo	ættfræði
 .	.	.
-
 Hann	fpken	hann
 benti	sfg3eþ	benda
 á	ao	á
@@ -4937,10 +4657,8 @@ fyrir	aþ	fyrir
 miðju	lheþsf	miður
 safni	nheþ	safn
 .	.	.
-
 Ættfræðihornið	nheng	ættfræðihorn
 .	.	.
-
 Þar	aa	þar
 blöstu	sfg3fþ	blasa
 við	aa	við
@@ -4952,13 +4670,11 @@ stéttatöl	nhfn	stéttatal
 og	c	og
 ættartöl	nhfn	ættartal
 .	.	.
-
 Hún	fpven	hún
 hófst	sfm3eþ	hefja
 þegar	c	þegar
 handa	nvfe	hönd
 .	.	.
-
 Því	fpheþ	það
 oftar	aam	oft
 sem	c	sem
@@ -4979,7 +4695,6 @@ um	ao	um
 uppruna	nkeo	uppruni
 sinn	fekeo	sinn
 .	.	.
-
 Arnbjörg	nven-s	Arnbjörg
 og	c	og
 Matthías	nken-s	Matthías
@@ -4989,7 +4704,6 @@ heim	aa	heim
 frá	aþ	frá
 Madeira	e	Madeira
 .	.	.
-
 Þar	aa	þar
 með	aa	með
 rofnaði	sfg3eþ	rofna

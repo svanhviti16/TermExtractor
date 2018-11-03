@@ -9,7 +9,6 @@ eftir	ao	eftir
 Gunnlaug	nkeo-s	Gunnlaugur
 Blöndal	nkeo-s	Blöndal
 .	.	.
-
 Ólafur	nken-s	Ólafur
 Ingi	nken-s	Ingi
 mun	sfg3en	munu
@@ -29,7 +28,6 @@ af	aþ	af
 umræddu	lheþsf	umræddur
 verki	nheþ	verk
 .	.	.
-
 Gunnlaugur	nken-s	Gunnlaugur
 málaði	sfg3eþ	mála
 verkið	nheog	verk
@@ -47,7 +45,6 @@ hann	fpken	hann
 til	ae	til
 viðgerðar	nvee	viðgerð
 .	.	.
-
 Hann	fpken	hann
 breytti	sfg3eþ	breyta
 verkinu	nheþg	verk
@@ -66,7 +63,6 @@ segir	sfg3en	segja
 Ólafur	nken-s	Ólafur
 Ingi	nken-s	Ingi
 .	.	.
-
 Breytingarnar	nvfng	breyting
 eru	sfg3fn	vera
 þannig	aa	þannig
@@ -95,7 +91,6 @@ eru	sfg3fn	vera
 stílbreytingar	nvfn	stílbreyting
 líka	aa	líka
 .	.	.
-
 Tækni	nven	tækni
 listamannsins	nkeeg	listamaður
 er	sfg3en	vera
@@ -112,7 +107,6 @@ saman	aa	saman
 í	aþ	í
 verkinu	nheþg	verk
 .	.	.
-
 Ég	fp1en	ég
 mun	sfg1en	munu
 velta	sng	velta
@@ -151,7 +145,6 @@ frá	aþ	frá
 forvörslu	nveþ	forvarsla
 verksins	nheeg	verk
 .	.	.
-
 Hann	fpken	hann
 segir	sfg3en	segja
 forvörslu	nveo	forvarsla
@@ -168,7 +161,6 @@ verk	nhen	verk
 skemmist	svm3en	skemma
 ekki	aa	ekki
 .	.	.
-
 Forvarsla	nven	forvarsla
 gengur	sfg3en	ganga
 út	aa	út
@@ -189,13 +181,11 @@ aflaga	aa	aflaga
 hefur	sfg3en	hafa
 farið	ssg	fara
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 grundvallar-siðaregla	nven	grundvallarsiðaregla
 forvarða	nkfe	forvörður
 .	.	.
-
 Erindi	nhen	erindi
 Ólafs	nkee-s	Ólafur
 Inga	nkee-s	Ingi
@@ -206,12 +196,10 @@ kl.	as	kl.
 Listasafni	nheþ-s	Listasafn
 Íslands	nhee-s	Ísland
 .	.	.
-
 Aðgangur	nken	aðgangur
 er	sfg3en	vera
 ókeypis	aa	ókeypis
 .	.	.
-
 ÞAÐ	fphen	það
 SEM	ct	sem
 áhorfandinn	nkeng	áhorfandi
@@ -262,7 +250,6 @@ svona	aa	svona
 stórum	lkfþsf	stór
 gluggum	nkfþ	gluggi
 .	.	.
-
 Síðan	aa	síðan
 veltir	sfg3en	velta
 maður	nken	maður
@@ -289,7 +276,6 @@ hugsanlegri	lveþsf	hugsanlegur
 og	c	og
 markmiði	nheþ	markmið
 .	.	.
-
 Þessi	faven	þessi
 svarta	lvenvf	svartur
 ,	,	,
@@ -331,7 +317,6 @@ nokkuð	fohen	nokkur
 skemmtileg	lvensf	skemmtilegur
 áhorfs	nhee	áhorf
 .	.	.
-
 Lítil	lhfnsf	lítill
 hús	nhfn	hús
 ,	,	,
@@ -361,7 +346,6 @@ ljósi	nheþ	ljós
 á	ao	á
 heildina	nveog	heild
 .	.	.
-
 Eftir	aþ	eftir
 því	faheþ	sá
 sem	ct	sem
@@ -392,7 +376,6 @@ eitthvað	foheo	einhver
 ,	,	,
 einhvern	fokeo	einhver
 o.s.frv.	as	o.s.frv.
-
 Í	aþ	í
 viðtali	nheþ	viðtal
 segjast	sfm3fn	segja
@@ -406,7 +389,6 @@ tengingar	nvfo	tenging
 frá	aþ	frá
 orðinu	nheþg	orð
 .	.	.
-
 Þeir	fpkfn	hann
 Huginn	nken-s	Huginn
 Þór	nken-s	Þór
@@ -449,7 +431,6 @@ hann	fpken	hann
 sýndi	sfg3eþ	sýna
 bolamálverk	nhfo	bolamálverk
 .	.	.
-
 Frekar	aam	frekar
 er	sfg3en	vera
 hún	fpven	hún
@@ -468,7 +449,6 @@ af	aþ	af
 voru	sfg3fþ	vera
 sýndar	sþgvfn	sýna
 .	.	.
-
 Þeir	fpkfn	hann
 skapa	sfg3fn	skapa
 hér	aa	hér
@@ -507,7 +487,6 @@ apa	sng	apa
 eftir	aþ	eftir
 hinum	fakfþ	hinn
 .	.	.
-
 Þannig	aa	þannig
 túlka	sfg1en	túlka
 ég	fp1en	ég
@@ -527,7 +506,6 @@ sem	ct	sem
 er	sfg3en	vera
 húmorískt	lhensf	húmorískur
 .	.	.
-
 En	c	en
 að	aþ	að
 öðru	foheþ	annar
@@ -555,7 +533,6 @@ hann	fpken	hann
 vonast	sfm3en	vona
 eftir	aa	eftir
 .	.	.
-
 Of	aa	of
 mörgum	lvfþsf	margur
 spurningum	nvfþ	spurning
@@ -582,7 +559,6 @@ innra	lheovm	innri
 líf	nheo	líf
 listaverksins	nheeg	listaverk
 .	.	.
-
 Slík	fbven	slíkur
 tilfinning	nven	tilfinning
 gefur	sfg3en	gefa
@@ -606,10 +582,8 @@ mikið	lheosf	mikill
 eftir	ao	eftir
 sig	fpveo	sig
 .	.	.
-
 Ragna	nven-s	Ragna
 Sigurðardóttir	nven-s	Sigurðardóttir
-
 VEGNA	ae	vegna
 væntanlegrar	lveesf	væntanlegur
 sýningar	nvee	sýning
@@ -632,7 +606,6 @@ kommóðum	nvfþ	kommóða
 eða	c	eða
 skrifpúltum	nhfþ	skrifpúlt
 .	.	.
-
 Stærð	nven	stærð
 húsgagnanna	nhfeg	húsgagn
 er	sfg3en	vera
@@ -652,7 +625,6 @@ cm	as	cm
 á	ao	á
 lengd	nveo	lengd
 .	.	.
-
 Þeir	fakfn	sá
 sem	ct	sem
 eiga	sfg3fn	eiga
@@ -683,7 +655,6 @@ eða	c	eða
 netfangið	nheog	netfang
 listasafn@reykjavik.is	v	listasafn@reykjavik.is
 .	.	.
-
 Á	aþ	á
 ljósmyndinni	nveþg	ljósmynd
 er	sfg3en	vera
@@ -700,7 +671,6 @@ upp	aa	upp
 í	aþ	í
 Kaupmannahöfn	nveþ-s	Kaupmannahöfn
 .	.	.
-
 FAGNEFND	nven	fagnefnd
 Kynningarmiðstöðvar	nvee-s	kynningarmiðstöð
 íslenskrar	lveesf	íslenskur
@@ -724,7 +694,6 @@ styrkjalotu	nveþ	styrkjalota
 ársins	nheeg	ár
 2006	ta	2006
 .	.	.
-
 Alls	aa	alls
 bárust	sfm3fþ	bera
 65	ta	65
@@ -750,7 +719,6 @@ styrkjanna	nkfeg	styrkur
 milljónum	nvfþ	milljón
 króna	nvfe	króna
 .	.	.
-
 Styrkirnir	nkfng	styrkur
 eru	sfg3fn	vera
 í	aþ	í
@@ -765,7 +733,6 @@ verkefna-	nkfn	verkefnastyrkur
 og	c	og
 útgáfustyrkir	nkfn	útgáfustyrkur
 .	.	.
-
 Vegna	ae	vegna
 fjölda	nkee	fjöldi
 umsókna	nvfe	umsókn
@@ -787,7 +754,6 @@ til	ae	til
 þeirrar	favee	sá
 fyrri	lveevm	fyrri
 .	.	.
-
 Formaður	nken	formaður
 fagnefndarinnar	nveeg	fagnefnd
 er	sfg3en	vera
@@ -823,7 +789,6 @@ forstöðumaður	nken	forstöðumaður
 Listasafns	nhee-s	Listasafn
 Íslands	nhee-s	Ísland
 .	.	.
-
 Að	aþ	að
 þessu	faheþ	þessi
 sinni	nheþ	sinn
@@ -843,7 +808,6 @@ forstöðumaður	nken	forstöðumaður
 Listasafns	nhee-s	Listasafn
 Reykjavíkur	nvee-s	Reykjavík
 .	.	.
-
 Ferða-	nkfn	ferðastyrkur
 og	c	og
 dvalarstyrkir	nkfn	dvalarstyrkur
@@ -855,7 +819,6 @@ og	c	og
 dvalarstyrkir	nkfn	dvalarstyrkur
 veittir	sþgkfn	veita
 .	.	.
-
 Bjargey	nven-s	Bjargey
 Ólafsdóttir	nven-s	Ólafsdóttir
 hlaut	sfg3eþ	hljóta
@@ -877,7 +840,6 @@ fram	aa	fram
 desember	nkeo	desember
 2006	ta	2006
 .	.	.
-
 Ransú	nxen-s	Ransú
 hlaut	sfg3eþ	hljóta
 styrk	nkeo	styrkur
@@ -904,7 +866,6 @@ til	ae	til
 október	nkee	október
 næstkomandi	lkeeof	næstkomandi
 .	.	.
-
 Eygló	nven-s	Eygló
 Harðardóttir	nven-s	Harðardóttir
 og	c	og
@@ -932,14 +893,12 @@ og	c	og
 október	nkeþ	október
 2006	ta	2006
 .	.	.
-
 Verkefnastyrkir	nkfn	verkefnastyrkur
 Þrír	tfkfn	þrír
 verkefnastyrkir	nkfn	verkefnastyrkur
 voru	sfg3fþ	vera
 veittir	sþgkfn	veita
 .	.	.
-
 Katrín	nven-s	Katrín
 Sigurðardóttir	nven-s	Sigurðardóttir
 fær	sfg3en	fá
@@ -949,7 +908,6 @@ einkasýningar	nvee	einkasýning
 sinnar	fevee	sinn
 í	aþ	í
 P.S.	as	P.S.
-
 1	ta	1
 Contemporary	e	Contemporary
 Art	e	Art
@@ -964,7 +922,6 @@ York	e	York
 í	aþ	í
 Bandaríkjunum	nhfþgs	Bandaríki
 .	.	.
-
 Gabríela	nven-s	Gabríela
 Friðriksdóttir	nven-s	Friðriksdóttir
 hlýtur	sfg3en	hljóta
@@ -1000,7 +957,6 @@ hefur	sfg3en	hafa
 í	aþ	í
 undirbúningi	nkeþ	undirbúningur
 .	.	.
-
 Ragnar	nken-s	Ragnar
 Kjartansson	nken-s	Kjartansson
 fær	sfg3en	fá
@@ -1019,7 +975,6 @@ Moss	e	Moss
 í	aþ	í
 Noregi	nkeþ-s	Noregur
 .	.	.
-
 Innsetningin	nveng	innsetning
 mun	sfg3en	munu
 samanstanda	sng	samanstanda
@@ -1034,13 +989,11 @@ teikningum	nvfþ	teikning
 og	c	og
 skúlptúrum	nkfþ	skúlptúr
 .	.	.
-
 Útgáfustyrkir	nkfn	útgáfustyrkur
 Útgáfustyrkir	nkfn	útgáfustyrkur
 voru	sfg3fþ	vera
 tveir	tfkfn	tveir
 .	.	.
-
 Birgir	nken-s	Birgir
 Andrésson	nken-s	Andrésson
 hlaut	sfg3eþ	hljóta
@@ -1072,7 +1025,6 @@ sínum	fekfþ	sinn
 sem	c	sem
 barn	nhen	barn
 .	.	.
-
 FUGL	nken-s	Fugl
 -	-	-
 Félag	nhen-s	Félag
@@ -1089,7 +1041,6 @@ um	ao	um
 verkefni	nheo	verkefni
 FUGLS	nkee-s	Fugl
 .	.	.
-
 FUGL	nken-s	Fugl
 er	sfg3en	vera
 hópur	nken	hópur
@@ -1128,7 +1079,6 @@ að	cn	að
 vekja	sng	vekja
 umræðu	nveo	umræða
 .	.	.
-
 ENN	aa	enn
 hefur	sfg3en	hafa
 bæst	ssm	bæta
@@ -1170,7 +1120,6 @@ Anima	e	Anima
 handan	ae	handan
 götunnar	nveeg	gata
 .	.	.
-
 Galleríið	nheng	gallerí
 hyggst	sfm3en	hyggja
 leggja	sng	leggja
@@ -1182,7 +1131,6 @@ teikningar	nvfo	teikning
 og	c	og
 ljósmyndir	nvfo	ljósmynd
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 Bjarni	nken-s	Bjarni
@@ -1199,7 +1147,6 @@ sýnir	sfg3en	sýna
 plexíglersmálverk	nhfo	plexíglersmálverk
 sín	fehfo	sinn
 .	.	.
-
 Bjarni	nken-s	Bjarni
 hefur	sfg3en	hafa
 á	aþ	á
@@ -1239,7 +1186,6 @@ fjarlægð	nveo	fjarlægð
 við	ao	við
 olíulitina	nkfog	olíulitur
 .	.	.
-
 Eðlis	nhee	eðli
 verkanna	nhfeg	verk
 vegna	ae	vegna
@@ -1268,7 +1214,6 @@ frá	aþ	frá
 sjónarhorni	nheþ	sjónarhorn
 áhorfandans	nkeeg	áhorfandi
 .	.	.
-
 Meginverk	nhen	meginverk
 Bjarna	nkee-s	Bjarni
 í	aþ	í
@@ -1298,7 +1243,6 @@ litir	nkfn	litur
 séu	svg3fn	vera
 aðrir	fokfn	annar
 .	.	.
-
 Verk	nhfn	verk
 Bjarna	nkee-s	Bjarni
 nú	aa	nú
@@ -1335,7 +1279,6 @@ sköpun	nveo	sköpun
 verka	nhfe	verk
 sinna	fehfe	sinn
 .	.	.
-
 Verkin	nhfng	verk
 verða	sfg3fn	verða
 ef	c	ef
@@ -1365,7 +1308,6 @@ tíma	nkeþ	tími
 sjónrænt	aa	sjónrænt
 séð	sþghen	sjá
 .	.	.
-
 Þessi	faven	þessi
 þriggja	tfhfe	þrír
 verka	nhfe	verk
@@ -1391,7 +1333,6 @@ tökum	nhfþ	tak
 á	aþ	á
 miðlinum	nkeþg	miðill
 .	.	.
-
 Í	aþ	í
 fyrri	lhfþvm	fyrri
 verkum	nhfþ	verk
@@ -1432,7 +1373,6 @@ sem	c	sem
 persónulegs	lkeesf	persónulegur
 höfundar	nkee	höfundur
 .	.	.
-
 Nú	aa	nú
 verður	sfg3en	verða
 til	aa	til
@@ -1467,7 +1407,6 @@ plexíglersins	nheeg	plexígler
 hins	fakee	hinn
 vegar	nkee	vegur
 .	.	.
-
 Plexíglerið	nheng	plexígler
 skapar	sfg3en	skapa
 fjarlægð	nveo	fjarlægð
@@ -1502,7 +1441,6 @@ birtast	snm	birta
 í	aþ	í
 yfirborðinu	nheþg	yfirborð
 .	.	.
-
 Bjarni	nken-s	Bjarni
 minnir	sfg3en	minna
 þannig	aa	þannig
@@ -1519,7 +1457,6 @@ við	ao	við
 umhverfi	nheo	umhverfi
 sitt	feheo	sinn
 .	.	.
-
 Þessi	faven	þessi
 hlið	nven	hlið
 á	aþ	á
@@ -1547,10 +1484,8 @@ tengingu	nveþ	tenging
 við	ao	við
 sýningarrýmið	nheog	sýningarrými
 .	.	.
-
 Ragna	nven-s	Ragna
 Sigurðardóttir	nven-s	Sigurðardóttir
-
 Í	aþ	í
 LISTAHÁSKÓLA	nkeþ-s	listaháskóli
 Íslands	nhee-s	Ísland
@@ -1562,16 +1497,13 @@ myndlistamaðurinn	nkeng	myndlistamaður
 Elke	e	Elke
 Krystufek	e	Krystufek
 .	.	.
-
 Víkverji	nken-s	Víkverji
 skrifar	sfg3en	skrifa
 ...	...	...
-
 :	:	:
 Viltu	sfg2en	vilja
 strimilinn	nkeog	strimill
 ?	?	?
-
 er	sfg3en	vera
 orðin	sþgven	verða
 ein	foven	einn
@@ -1584,7 +1516,6 @@ fær	sfg3en	fá
 dagsins	nkeeg	dagur
 önn	nveþ	önn
 .	.	.
-
 Þeir	fpkfn	hann
 sem	ct	sem
 spyrja	sfg3fn	spyrja
@@ -1593,19 +1524,16 @@ afgreiðslufólk	nhen	afgreiðslufólk
 í	aþ	í
 verslunum	nvfþ	verslun
 .	.	.
-
 Víkverji	nken-s	Víkverji
 vill	sfg3en	vilja
 aldrei	aa	aldrei
 strimilinn	nkeog	strimill
 .	.	.
-
 --	--	--
 >	>	>
 Viltu	sfg2en	vilja
 strimilinn	nkeog	strimill
 ?	?	?
-
 er	sfg3en	vera
 orðin	sþgven	verða
 ein	foven	einn
@@ -1618,7 +1546,6 @@ fær	sfg3en	fá
 dagsins	nkeeg	dagur
 önn	nveþ	önn
 .	.	.
-
 Þeir	fpkfn	hann
 sem	ct	sem
 spyrja	sfg3fn	spyrja
@@ -1627,13 +1554,11 @@ afgreiðslufólk	nhen	afgreiðslufólk
 í	aþ	í
 verslunum	nvfþ	verslun
 .	.	.
-
 Víkverji	nken-s	Víkverji
 vill	sfg3en	vilja
 aldrei	aa	aldrei
 strimilinn	nkeog	strimill
 .	.	.
-
 Honum	fpkeþ	hann
 finnst	sfm3en	finna
 algjörlega	aa	algjörlega
@@ -1655,7 +1580,6 @@ með	aþ	með
 debetkortinu	nheþg	debetkort
 sínu	feheþ	sinn
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 því	aa	því
@@ -1682,7 +1606,6 @@ prenta	sng	prenta
 út	aa	út
 strimlana	nkfog	strimill
 .	.	.
-
 Þá	aa	þá
 fær	sfg3en	fá
 Víkverji	nken-s	Víkverji
@@ -1712,7 +1635,6 @@ hendir	sfg3en	henda
 í	ao	í
 ruslið	nheog	rusl
 .	.	.
-
 Víkverji	nken-s	Víkverji
 vonar	sfg3en	vona
 að	c	að
@@ -1724,7 +1646,6 @@ posa	nkfo	posi
 í	ao	í
 notkun	nveo	notkun
 .	.	.
-
 Víkverji	nken-s	Víkverji
 hefur	sfg3en	hafa
 hjólað	ssg	hjóla
@@ -1753,7 +1674,6 @@ fararmáta	nkeo	fararmáti
 ríkari	lkeþvm	ríkur
 mæli	nkeþ	mælir
 .	.	.
-
 Margt	lhensf	margur
 ágætt	lhensf	ágætur
 hefur	sfg3en	hafa
@@ -1773,7 +1693,6 @@ ef	c	ef
 duga	sng	duga
 skal	sfg3en	skulu
 .	.	.
-
 Víkverji	nken-s	Víkverji
 stingur	sfg3en	stinga
 upp	aa	upp
@@ -1813,7 +1732,6 @@ málaflokk	nkeo	málaflokkur
 í	aþ	í
 borginni	nveþg	borg
 .	.	.
-
 Víkverji	nken-s	Víkverji
 skorar	sfg3en	skora
 líka	aa	líka
@@ -1845,7 +1763,6 @@ eða	c	eða
 gangstéttunum	nvfþg	gangstétt
 )	)	)
 .	.	.
-
 Víkverji	nken-s	Víkverji
 heimsótti	sfg3eþ	heimsækja
 Sólheima	nkfo-s	Sólheimar
@@ -1858,7 +1775,6 @@ algjörlega	aa	algjörlega
 af	aþ	af
 staðnum	nkeþg	staður
 .	.	.
-
 Víkverji	nken-s	Víkverji
 hefur	sfg3en	hafa
 reyndar	aa	reyndar
@@ -1875,7 +1791,6 @@ mjög	aa	mjög
 góðu	lheþsf	góður
 veðri	nheþ	veður
 .	.	.
-
 Reyndar	aa	reyndar
 veltir	sfg3en	velta
 Víkverji	nken-s	Víkverji
@@ -1905,7 +1820,6 @@ alltaf	aa	alltaf
 verið	ssg	vera
 gott	lhensf	góður
 ?	?	?
-
 Víkverji	nken-s	Víkverji
 stefnir	sfg3en	stefna
 á	ao	á
@@ -1923,7 +1837,6 @@ sem	ct	sem
 er	sfg3en	vera
 sýnt	sþghen	sýna
 .	.	.
-
 Síðan	aa	síðan
 ætlar	sfg3en	ætla
 hann	fpken	hann
@@ -1937,7 +1850,6 @@ og	c	og
 gómsætar	lvfosf	gómsætur
 kökur	nvfo	kaka
 .	.	.
-
 Að	aþ	að
 því	fpheþ	það
 loknu	lheþsf	lokinn
@@ -1972,7 +1884,6 @@ handofna	lkfosf	handofinn
 dúka	nkfo	dúkur
 líka	aa	líka
 .	.	.
-
 Víkverji	nken-s	Víkverji
 heyrði	sfg3eþ	heyra
 hjá	aþ	hjá
@@ -2005,7 +1916,6 @@ enda	c	enda
 frá	aþ	frá
 Gímsnesi	nheþ-s	Gímsnes
 .	.	.
-
 Menningarlífið	nheng	menningarlíf
 blómstrar	sfg3en	blómstra
 á	aþ	á
@@ -2028,7 +1938,6 @@ könnunni	nveþg	kanna
 í	ao	í
 sumar	nheo	sumar
 .	.	.
-
 SKÁK	nven	skák
 -	-	-
 Helgi	nken-s	Helgi
@@ -2040,7 +1949,6 @@ e4	x	e4
 c5	ta	c5
 2	ta	2
 .	.	.
-
 Rf3	x	rf3
 d6	ta	d6
 3.	ta	3.
@@ -2048,53 +1956,43 @@ d4	ta	d4
 cxd4	ta	cxd4
 4	ta	4
 .	.	.
-
 Rxd4	x	rxd4
 Rf6	x	rf6
 5	ta	5
 .	.	.
-
 Rc3	x	rc3
 a6	ta	a6
 6	ta	6
 .	.	.
-
 Be2	ta	be2
 e5	x	e5
 7	ta	7
 .	.	.
-
 Rb3	x	rb3
 Be7	ta	be7
 8	ta	8
 .	.	.
-
 Bg5	ta	bg5
 Be6	ta	be6
 9	ta	9
 .	.	.
-
 Bxf6	ta	bxf6
 Bxf6	ta	bxf6
 10	ta	10
 .	.	.
-
 Dd3	ta	dd3
 Rc6	x	rc6
 11	ta	11
 .	.	.
-
 O-O-O	x	o-o-o
 Be7	ta	be7
 12	ta	12
 .	.	.
-
 Rd5	x	rd5
 Bg5	ta	bg5
 +	+	+
 13	ta	13
 .	.	.
-
 Kb1	x	kb1
 O-O	x	o-o
 14.	ta	14.
@@ -2105,32 +2003,26 @@ g3	x	g3
 Bf6	ta	bf6
 16	ta	16
 .	.	.
-
 Df3	ta	df3
 Bg5	ta	bg5
 17	ta	17
 .	.	.
-
 Dh5	x	dh5
 Bh6	ta	bh6
 18	ta	18
 .	.	.
-
 Bg4	ta	bg4
 a5	ta	a5
 19	ta	19
 .	.	.
-
 Re3	x	re3
 a4	ta	a4
 20	ta	20
 .	.	.
-
 Rc5	x	rc5
 De7	ta	de7
 21	ta	21
 .	.	.
-
 Rd3	x	rd3
 a3	ta	a3
 22.	ta	22.
@@ -2138,7 +2030,6 @@ b3	ta	b3
 Rd4	x	rd4
 23	ta	23
 .	.	.
-
 --	--	--
 >	>	>
 1.	ta	1.
@@ -2146,7 +2037,6 @@ e4	x	e4
 c5	ta	c5
 2	ta	2
 .	.	.
-
 Rf3	x	rf3
 d6	ta	d6
 3.	ta	3.
@@ -2154,53 +2044,43 @@ d4	ta	d4
 cxd4	ta	cxd4
 4	ta	4
 .	.	.
-
 Rxd4	x	rxd4
 Rf6	x	rf6
 5	ta	5
 .	.	.
-
 Rc3	x	rc3
 a6	ta	a6
 6	ta	6
 .	.	.
-
 Be2	ta	be2
 e5	x	e5
 7	ta	7
 .	.	.
-
 Rb3	x	rb3
 Be7	ta	be7
 8	ta	8
 .	.	.
-
 Bg5	ta	bg5
 Be6	ta	be6
 9	ta	9
 .	.	.
-
 Bxf6	ta	bxf6
 Bxf6	ta	bxf6
 10	ta	10
 .	.	.
-
 Dd3	ta	dd3
 Rc6	x	rc6
 11	ta	11
 .	.	.
-
 O-O-O	x	o-o-o
 Be7	ta	be7
 12	ta	12
 .	.	.
-
 Rd5	x	rd5
 Bg5	ta	bg5
 +	+	+
 13	ta	13
 .	.	.
-
 Kb1	x	kb1
 O-O	x	o-o
 14.	ta	14.
@@ -2211,32 +2091,26 @@ g3	x	g3
 Bf6	ta	bf6
 16	ta	16
 .	.	.
-
 Df3	ta	df3
 Bg5	ta	bg5
 17	ta	17
 .	.	.
-
 Dh5	x	dh5
 Bh6	ta	bh6
 18	ta	18
 .	.	.
-
 Bg4	ta	bg4
 a5	ta	a5
 19	ta	19
 .	.	.
-
 Re3	x	re3
 a4	ta	a4
 20	ta	20
 .	.	.
-
 Rc5	x	rc5
 De7	ta	de7
 21	ta	21
 .	.	.
-
 Rd3	x	rd3
 a3	ta	a3
 22.	ta	22.
@@ -2244,12 +2118,10 @@ b3	ta	b3
 Rd4	x	rd4
 23	ta	23
 .	.	.
-
 Bf5	ta	bf5
 Hac8	x	hac8
 24	ta	24
 .	.	.
-
 Rb4	x	rb4
 Dc7	ta	dc7
 25.	ta	25.
@@ -2257,37 +2129,30 @@ c4	ta	c4
 Bxf5	ta	bxf5
 26	ta	26
 .	.	.
-
 Rxf5	x	rxf5
 Rxf5	x	rxf5
 27	ta	27
 .	.	.
-
 Dxf5	x	dxf5
 f6	x	f6
 28	ta	28
 .	.	.
-
 Rd5	x	rd5
 Df7	ta	df7
 29	ta	29
 .	.	.
-
 Hd3	x	hd3
 Hc6	x	hc6
 30	ta	30
 .	.	.
-
 Rc3	x	rc3
 Ha8	x	ha8
 31	ta	31
 .	.	.
-
 Hhd1	x	hhd1
 g6	x	g6
 32	ta	32
 .	.	.
-
 Dh3	x	dh3
 Bf8	ta	bf8
 33.	ta	33.
@@ -2295,7 +2160,6 @@ g4	x	g4
 De6	ta	de6
 34	ta	34
 .	.	.
-
 Rd5	x	rd5
 Bg7	ta	bg7
 35.	ta	35.
@@ -2303,27 +2167,22 @@ g5	x	g5
 He8	x	he8
 36	ta	36
 .	.	.
-
 Hh1	x	hh1
 Dxh3	x	dxh3
 37	ta	37
 .	.	.
-
 Hdxh3	x	hdxh3
 fxg5	x	fxg5
 38	ta	38
 .	.	.
-
 Hxh7	x	hxh7
 Hcc8	x	hcc8
 39	ta	39
 .	.	.
-
 H7h3	x	h7h3
 He6	x	he6
 40	ta	40
 .	.	.
-
 Hg1	x	hg1
 Hf8	x	hf8
 41.	ta	41.
@@ -2331,12 +2190,10 @@ f3	x	f3
 Bf6	ta	bf6
 42	ta	42
 .	.	.
-
 Kc2	x	kc2
 Hee8	x	hee8
 43	ta	43
 .	.	.
-
 Hh6	x	hh6
 Kf7	x	kf7
 44.	ta	44.
@@ -2344,12 +2201,10 @@ b4	ta	b4
 Hh8	x	hh8
 45	ta	45
 .	.	.
-
 Hgh1	x	hgh1
 Hxh6	x	hxh6
 46	ta	46
 .	.	.
-
 Hxh6	x	hxh6
 Kg7	x	kg7
 Staðan	nveng	staða
@@ -2366,7 +2221,6 @@ skömmu	lheþsf	skammur
 í	aþ	í
 Havanna	e	Havanna
 .	.	.
-
 Lazaro	e	Lazaro
 Bruzon	e	Bruzon
 (	(	(
@@ -2383,14 +2237,11 @@ Quezada	e	Quezada
 2478	ta	2478
 )	)	)
 .	.	.
-
 47	ta	47
 .	.	.
-
 Hh7	x	hh7
 +	+	+
 !	!	!
-
 og	c	og
 svartur	lkensf	svartur
 gafst	sfm3eþ	gefa
@@ -2403,15 +2254,12 @@ undir	aa	undir
 eftir	ao	eftir
 47..	ta	47..
 .	.	.
-
 Kxh7	x	kxh7
 48	ta	48
 .	.	.
-
 Rxf6	x	rxf6
 +	+	+
 .	.	.
-
 Seinna	aam	seint
 í	aþ	í
 vikunni	nveþg	vika
@@ -2431,7 +2279,6 @@ finna	sng	finna
 á	aþ	á
 skak.is	v	skak.is
 .	.	.
-
 BRIDS	nhen	brids
 -	-	-
 Guðmundur	nken-s	Guðmundur
@@ -2452,7 +2299,6 @@ taka	sng	taka
 réttan	lkeosf	réttur
 kúrs	nkeo	kúrs
 .	.	.
-
 Suður	nhen	suður
 spilar	sfg3en	spila
 sex	tfhfo	sex
@@ -2470,7 +2316,6 @@ allir	fokfn	allur
 á	aþ	á
 hættu	nveþ	hætta
 .	.	.
-
 --	--	--
 >	>	>
 Þegar	c	þegar
@@ -2487,7 +2332,6 @@ taka	sng	taka
 réttan	lkeosf	réttur
 kúrs	nkeo	kúrs
 .	.	.
-
 Suður	nhen	suður
 spilar	sfg3en	spila
 sex	tfhfo	sex
@@ -2505,7 +2349,6 @@ allir	fokfn	allur
 á	aþ	á
 hættu	nveþ	hætta
 .	.	.
-
 Norður	nhen-s	Norður
 &	c	&
 spade	e	spade
@@ -2622,7 +2465,6 @@ stökkinu	nheþg	stökk
 fjögur	tfhfo	fjórir
 hjörtu	nhfo	hjarta
 .	.	.
-
 Suður	nhen	suður
 spyr	sfg3en	spyrja
 þá	aa	þá
@@ -2631,7 +2473,6 @@ lykilspil	nhfo	lykilspil
 og	c	og
 trompdrottningu	nveo	trompdrottning
 .	.	.
-
 Svarið	nheng	svar
 á	aþ	á
 fimm	tfhfþ	fimm
@@ -2663,7 +2504,6 @@ hvorugan	fokeo	hvorugur
 svarta	lkeovf	svartur
 kónginn	nkeog	kóngur
 .	.	.
-
 Úrspilið	nheng	úrspil
 :	:	:
 Slemman	nveng	slemma
@@ -2676,7 +2516,6 @@ eftir	aþ	eftir
 mörgum	lvfþsf	margur
 leiðum	nvfþ	leið
 .	.	.
-
 En	c	en
 hér	aa	hér
 er	sfg3en	vera
@@ -2696,7 +2535,6 @@ fjórða	lvenvf	fjórði
 í	ao	í
 austur	nheo	austur
 .	.	.
-
 Það	fphen	það
 mun	sfg3en	munu
 ekki	aa	ekki
@@ -2711,7 +2549,6 @@ og	c	og
 hleypa	sng	hleypa
 laufdrottningu	nveþ	laufdrottning
 .	.	.
-
 (	(	(
 Vestur	nhen	vestur
 trompar	sfg3en	trompa
@@ -2727,7 +2564,6 @@ og	c	og
 stingur	sfg3en	stinga
 tígul	nkeo	tígull
 .	.	.
-
 Tekur	sfg3en	taka
 ÁG	as	ÁG
 í	aþ	í
@@ -2743,7 +2579,6 @@ góðu	lheþsf	góður
 í	ao	í
 lokin	nhfog	lok
 .	.	.
-
 En	c	en
 ekkert	fohen	enginn
 gott	lhensf	góður
@@ -2771,7 +2606,6 @@ og	c	og
 stinga	sng	stinga
 tígul	nkeo	tígull
 .	.	.
-
 Svo	aa	svo
 kemur	sfg3en	koma
 tromp	nhen	tromp
@@ -2785,7 +2619,6 @@ trompaður	sþgken	trompa
 með	aþ	með
 gosa	nkeþ	gosi
 .	.	.
-
 Samgangsvandræðin	nhfng	samgangsvandræði
 eru	sfg3fn	vera
 leyst	sþghfn	leysa
@@ -2798,7 +2631,6 @@ laufi	nheþ	lauf
 á	ao	á
 drottninguna	nveog	drottning
 !	!	!
-
 Norður	nhen-s	Norður
 &	c	&
 spade	e	spade
@@ -2867,7 +2699,6 @@ diam	e	diam
 klubs	e	klubs
 ;	;	;
 ÁG96	ta	ÁG96
-
 Úrslit	nhfn	úrslit
 á	aþ	á
 íþróttamóti	nheþ	íþróttamót
@@ -2890,7 +2721,6 @@ Varmadal	nkeþ-s	Varmadalur
 ,	,	,
 7,53	ta	7,53
 .	.	.
-
 2.-	ta	2.-
 Erla	nven-s	Erla
 G.	as	G.
@@ -2902,7 +2732,6 @@ Stokkhólma	nkeþ-s	Stokkhólmi
 ,	,	,
 7,00	ta	7,00
 .	.	.
-
 3.-	ta	3.-
 Bylgja	nven-s	Bylgja
 Gauksdóttir	nven-s	Gauksdóttir
@@ -2913,7 +2742,6 @@ Garðabæ	nkeþ-s	Garðabær
 ,	,	,
 6,78	ta	6,78
 .	.	.
-
 4.-	ta	4.-
 Sigríkur	nken-s	Sigríkur
 Jónsson	nken-s	Jónsson
@@ -2924,7 +2752,6 @@ Grænuhlíð	nveþ-s	Grænahlíð
 ,	,	,
 6,51	ta	6,51
 .	.	.
-
 5.-	ta	5.-
 Hjördís	nven-s	Hjördís
 H.	as	H.
@@ -2944,7 +2771,6 @@ Varmadal	nkeþ-s	Varmadalur
 ,	,	,
 7,53	ta	7,53
 .	.	.
-
 2.-	ta	2.-
 Erla	nven-s	Erla
 G.	as	G.
@@ -2956,7 +2782,6 @@ Stokkhólma	nkeþ-s	Stokkhólmi
 ,	,	,
 7,00	ta	7,00
 .	.	.
-
 3.-	ta	3.-
 Bylgja	nven-s	Bylgja
 Gauksdóttir	nven-s	Gauksdóttir
@@ -2967,7 +2792,6 @@ Garðabæ	nkeþ-s	Garðabær
 ,	,	,
 6,78	ta	6,78
 .	.	.
-
 4.-	ta	4.-
 Sigríkur	nken-s	Sigríkur
 Jónsson	nken-s	Jónsson
@@ -2978,7 +2802,6 @@ Grænuhlíð	nveþ-s	Grænahlíð
 ,	,	,
 6,51	ta	6,51
 .	.	.
-
 5.-	ta	5.-
 Hjördís	nven-s	Hjördís
 H.	as	H.
@@ -2990,7 +2813,6 @@ Forsæti	nheþ-s	Forsæti
 ,	,	,
 6,20	ta	6,20
 .	.	.
-
 6.-	ta	6.-
 Erling	nken-s	Erling
 Ó.	as	Ó.
@@ -3002,7 +2824,6 @@ Búðardal	nkeþ-s	Búðardalur
 ,	,	,
 5,88	ta	5,88
 .	.	.
-
 7.-	ta	7.-
 Kristinn	nken-s	Kristinn
 Hugason	nken-s	Hugason
@@ -3013,7 +2834,6 @@ Ytra-Dalsgerði	nheþ-s	Ytra-Dalsgerði
 ,	,	,
 6,00	ta	6,00
 .	.	.
-
 8.-	ta	8.-
 Elísabet	nven-s	Elísabet
 Sveinsdóttir	nven-s	Sveinsdóttir
@@ -3024,7 +2844,6 @@ Hafnarfirði	nkeþ-s	Hafnarfjörður
 ,	,	,
 5,95	ta	5,95
 .	.	.
-
 9.-	ta	9.-
 Katrín	nven-s	Katrín
 Stefánsdóttir	nven-s	Stefánsdóttir
@@ -3035,7 +2854,6 @@ Litlu-Sandvík	nveþ-s	Litla-Sandvík
 ,	,	,
 5,83	ta	5,83
 .	.	.
-
 10.-	ta	10.-
 Bergur	nken-s	Bergur
 Barðason	nken-s	Barðason
@@ -3056,7 +2874,6 @@ Garðabæ	nkeþ-s	Garðabær
 ,	,	,
 7,10	ta	7,10
 .	.	.
-
 2.-	ta	2.-
 Erla	nven-s	Erla
 Guðný	nven-s	Guðný
@@ -3068,7 +2885,6 @@ Stokkhólma	nkeþ-s	Stokkhólmi
 ,	,	,
 7,01	ta	7,01
 .	.	.
-
 3.-	ta	3.-
 Jón	nken-s	Jón
 Ó.	as	Ó.
@@ -3080,7 +2896,6 @@ Varmadal	nkeþ-s	Varmadalur
 ,	,	,
 6,70	ta	6,70
 .	.	.
-
 4.-	ta	4.-
 Viggó	nken-s	Viggó
 Sigursteinsson	nken-s	Sigursteinsson
@@ -3091,7 +2906,6 @@ Litlu-Brekku	nveþ-s	Litla-Brekka
 ,	,	,
 6,17	ta	6,17
 .	.	.
-
 5.-	ta	5.-
 Þórdís	nven-s	Þórdís
 Gylfadóttir	nven-s	Gylfadóttir
@@ -3102,7 +2916,6 @@ Holtsmúla	nkeþ-s	Holtsmúli
 ,	,	,
 5,91	ta	5,91
 .	.	.
-
 6.-	ta	6.-
 Sigríkur	nken-s	Sigríkur
 Jónsson	nken-s	Jónsson
@@ -3113,7 +2926,6 @@ Grænuhlíð	nveþ-s	Grænahlíð
 ,	,	,
 5,43	ta	5,43
 .	.	.
-
 7.-	ta	7.-
 Stefán	nken-s	Stefán
 Ágústsson	nken-s	Ágústsson
@@ -3124,7 +2936,6 @@ Meiri-Tungu	nveþ-s	Meiri-Tunga
 ,	,	,
 6,05	ta	6,05
 .	.	.
-
 8.-	ta	8.-
 Hjördís	nven-s	Hjördís
 H.	as	H.
@@ -3136,7 +2947,6 @@ Forsæti	nheþ-s	Forsæti
 ,	,	,
 5,95	ta	5,95
 .	.	.
-
 9.-	ta	9.-
 Erling	nken-s	Erling
 Ó.	as	Ó.
@@ -3148,7 +2958,6 @@ Búðardal	nkeþ-s	Búðardalur
 ,	,	,
 5,69	ta	5,69
 .	.	.
-
 10.-	ta	10.-
 Stine	e	Stine
 Rasmussen	e	Rasmussen
@@ -3170,7 +2979,6 @@ Saltvík	nveþ-s	Saltvík
 ,	,	,
 6,46	ta	6,46
 .	.	.
-
 2.-	ta	2.-
 Jón	nken-s	Jón
 Halldórsson	nken-s	Halldórsson
@@ -3181,7 +2989,6 @@ Múla	nkeþ-s	Múli
 ,	,	,
 6,02	ta	6,02
 .	.	.
-
 3.-	ta	3.-
 Viggó	nken-s	Viggó
 Sigursteinsson	nken-s	Sigursteinsson
@@ -3192,7 +2999,6 @@ Vestri-Leirárgörðum	nkfþ-s	Vestri-Leirárgarðar
 ,	,	,
 5,96	ta	5,96
 .	.	.
-
 4.-	ta	4.-
 Erling	nken-s	Erling
 Ó.	as	Ó.
@@ -3204,7 +3010,6 @@ Sauðárkróki	nkeþ-s	Sauðárkrókur
 ,	,	,
 5,87	ta	5,87
 .	.	.
-
 5.-	ta	5.-
 Bylgja	nven-s	Bylgja
 Gauksdóttir	nven-s	Gauksdóttir
@@ -3215,7 +3020,6 @@ Garðabæ	nkeþ-s	Garðabær
 ,	,	,
 4,25	ta	4,25
 .	.	.
-
 100	ta	100
 metra	nkfe	metri
 flugskeið	nhen	flugskeið
@@ -3228,7 +3032,6 @@ Efstadal	nkeþ-s	Efstidalur
 ,	,	,
 9,07	ta	9,07
 sek.	as	sek.
-
 Jón	nken-s	Jón
 Ó.	as	Ó.
 Guðmundsson	nken-s	Guðmundsson
@@ -3262,7 +3065,6 @@ Kjarnholtum	nhfþ-s	Kjarnholt
 ,	,	,
 16,48	ta	16,48
 sek.	as	sek.
-
 Gæðingaskeið	nhen	gæðingaskeið
 1.-	ta	1.-
 Jón	nken-s	Jón
@@ -3311,7 +3113,6 @@ Hvoli	nkeþ-s	Hvoll
 ,	,	,
 6,77	ta	6,77
 .	.	.
-
 2.-	ta	2.-
 Halla	nven-s	Halla
 M.	as	M.
@@ -3323,7 +3124,6 @@ Flugumýri	nveþ-s	Flugumýri
 ,	,	,
 6,48	ta	6,48
 .	.	.
-
 3.-	ta	3.-
 Halldór	nken-s	Halldór
 F.	as	F.
@@ -3335,7 +3135,6 @@ Gerðum	nvfþ-s	Gerð
 ,	,	,
 6,23	ta	6,23
 .	.	.
-
 4.-	ta	4.-
 Margrét	nven-s	Margrét
 S.	as	S.
@@ -3347,7 +3146,6 @@ Vindási	nkeþ-s	Vindás
 ,	,	,
 5,90	ta	5,90
 .	.	.
-
 5.-	ta	5.-
 Már	nken-s	Már
 Jóhannsson	nken-s	Jóhannsson
@@ -3368,7 +3166,6 @@ Hvoli	nkeþ-s	Hvoll
 ,	,	,
 6,63	ta	6,63
 .	.	.
-
 2.-	ta	2.-
 Halla	nven-s	Halla
 M.	as	M.
@@ -3380,7 +3177,6 @@ Flugumýri	nveþ-s	Flugumýri
 ,	,	,
 6,60	ta	6,60
 .	.	.
-
 3.-	ta	3.-
 Þórir	nken-s	Þórir
 Hannesson	nken-s	Hannesson
@@ -3391,7 +3187,6 @@ Eyvindarhólum	nkfþ-s	Eyvindarhólar
 ,	,	,
 6,31	ta	6,31
 .	.	.
-
 4.-	ta	4.-
 Margrét	nven-s	Margrét
 S.	as	S.
@@ -3403,7 +3198,6 @@ Vindási	nkeþ-s	Vindás
 ,	,	,
 6,09	ta	6,09
 .	.	.
-
 5.-	ta	5.-
 Már	nken-s	Már
 Jóhannson	nken-s	Jóhannson
@@ -3425,7 +3219,6 @@ Húnsstöðum	nkfþ-s	Húnsstaðir
 ,	,	,
 5,74	ta	5,74
 .	.	.
-
 2.-	ta	2.-
 Þórunn	nven-s	Þórunn
 Hannesdóttir	nven-s	Hannesdóttir
@@ -3436,7 +3229,6 @@ Svæði	nheþ-s	Svæði
 ,	,	,
 5,63	ta	5,63
 .	.	.
-
 3.-	ta	3.-
 Halla	nven-s	Halla
 M.	as	M.
@@ -3448,7 +3240,6 @@ Reykjavík	nveþ-s	Reykjavík
 ,	,	,
 5,49	ta	5,49
 .	.	.
-
 4.-	ta	4.-
 Anna	nven-s	Anna
 G.	as	G.
@@ -3460,7 +3251,6 @@ Hvíteyrum	nvfþ-s	Hvíteyrar
 ,	,	,
 5,42	ta	5,42
 .	.	.
-
 5.-	ta	5.-
 Þórir	nken-s	Þórir
 Hannesson	nken-s	Hannesson
@@ -3486,7 +3276,6 @@ Lambleiksstöðum	nkfþ-s	Lambleiksstaðir
 ,	,	,
 6,09	ta	6,09
 .	.	.
-
 2.-	ta	2.-
 Anna	nven-s	Anna
 G.	as	G.
@@ -3498,7 +3287,6 @@ Stokkhólma	nkeþ-s	Stokkhólmi
 ,	,	,
 5,72	ta	5,72
 .	.	.
-
 3.-	ta	3.-
 Melkorka	nven-s	Melkorka
 Ragnhildard.	as	Ragnhildard.
@@ -3509,7 +3297,6 @@ Laugabóli	nheþ-s	Laugaból
 ,	,	,
 5,61	ta	5,61
 .	.	.
-
 4.-	ta	4.-
 Ásta	nven-s	Ásta
 S.	as	S.
@@ -3521,7 +3308,6 @@ Hólavatni	nheþ-s	Hólavatn
 ,	,	,
 4,67	ta	4,67
 .	.	.
-
 5.-	ta	5.-
 Áslaug	nven-s	Áslaug
 A.	as	A.
@@ -3544,7 +3330,6 @@ Ragnheiðarstöðum	nkfþ-s	Ragnheiðarstaðir
 ,	,	,
 6,23	ta	6,23
 .	.	.
-
 2.-	ta	2.-
 Ólöf	nven-s	Ólöf
 Þ.	as	Þ.
@@ -3556,7 +3341,6 @@ Reykjavík	nveþ-s	Reykjavík
 ,	,	,
 6,18	ta	6,18
 .	.	.
-
 3.-	ta	3.-
 Dagrún	nven-s	Dagrún
 Aðalsteinsdóttir	nven-s	Aðalsteinsdóttir
@@ -3567,7 +3351,6 @@ Brún	nveþ-s	Brún
 ,	,	,
 5,94	ta	5,94
 .	.	.
-
 4.-	ta	4.-
 Anna	nven-s	Anna
 G.	as	G.
@@ -3579,7 +3362,6 @@ Stokkhólma	nkeþ-s	Stokkhólmi
 ,	,	,
 5,73	ta	5,73
 .	.	.
-
 5.-	ta	5.-
 Melkorka	nven-s	Melkorka
 Ragnhildard.	as	Ragnhildard.
@@ -3610,7 +3392,6 @@ Eystri-Hól	nkeþ-s	Eystri-Hóll
 ,	,	,
 5,78	ta	5,78
 .	.	.
-
 2.-	ta	2.-
 Lýdía	nven-s	Lýdía
 Þorgeirsdóttir	nven-s	Þorgeirsdóttir
@@ -3621,7 +3402,6 @@ Strönd	nveþ-s	Strönd
 ,	,	,
 5,57	ta	5,57
 .	.	.
-
 3.-	ta	3.-
 Erla	nven-s	Erla
 A.	as	A.
@@ -3633,7 +3413,6 @@ Hjaltastöðum	nkfþ-s	Hjaltastaðir
 ,	,	,
 4,87	ta	4,87
 .	.	.
-
 4.-	ta	4.-
 Pétur	nken-s	Pétur
 Þ.	as	Þ.
@@ -3645,7 +3424,6 @@ Suður-Nýjabæ	nkeþ-s	Suður-Nýibær
 ,	,	,
 4,45	ta	4,45
 .	.	.
-
 5.-	ta	5.-
 Gunnhildur	nven-s	Gunnhildur
 R.	as	R.
@@ -3668,7 +3446,6 @@ Vesturholtum	nhfþ-s	Vesturholt
 ,	,	,
 5,77	ta	5,77
 .	.	.
-
 2.-	ta	2.-
 Steinunn	nven-s	Steinunn
 E.	as	E.
@@ -3680,7 +3457,6 @@ Torfastöðum	nkfþ-s	Torfastaðir
 ,	,	,
 5,00	ta	5,00
 .	.	.
-
 3.-	ta	3.-
 Lýdía	nven-s	Lýdía
 Þorgeirsdóttir	nven-s	Þorgeirsdóttir
@@ -3691,7 +3467,6 @@ Strönd	nveþ-s	Strönd
 ,	,	,
 4,88	ta	4,88
 .	.	.
-
 4.-	ta	4.-
 Gunnhildur	nven-s	Gunnhildur
 R.	as	R.
@@ -3709,7 +3484,6 @@ og	c	og
 tvíkeppni	nven	tvíkeppni
 Lýdía	nven-s	Lýdía
 Þorgeirsdóttir	nven-s	Þorgeirsdóttir
-
 SKÁK	nven	skák
 -	-	-
 Umsjón	nven	umsjón
@@ -3725,12 +3499,10 @@ c4	ta	c4
 e6	x	e6
 3	ta	3
 .	.	.
-
 Rc3	x	rc3
 Bb4	ta	bb4
 4	ta	4
 .	.	.
-
 Dc2	ta	dc2
 O-O	x	o-o
 5.	ta	5.
@@ -3745,17 +3517,14 @@ bxc3	ta	bxc3
 e5	x	e5
 8	ta	8
 .	.	.
-
 Bd3	ta	bd3
 Rc6	x	rc6
 9	ta	9
 .	.	.
-
 Re2	x	re2
 b6	ta	b6
 10	ta	10
 .	.	.
-
 O-O	x	o-o
 Ba6	ta	ba6
 11.	ta	11.
@@ -3763,7 +3532,6 @@ f4	x	f4
 Rd7	x	rd7
 12	ta	12
 .	.	.
-
 Hf3	x	hf3
 Ra5	x	ra5
 13.	ta	13.
@@ -3771,7 +3539,6 @@ c5	ta	c5
 Bxd3	ta	bxd3
 14	ta	14
 .	.	.
-
 Hxd3	x	hxd3
 bxc5	ta	bxc5
 15.	ta	15.
@@ -3779,37 +3546,30 @@ dxe5	x	dxe5
 c4	ta	c4
 16	ta	16
 .	.	.
-
 Hd5	x	hd5
 Rb3	x	rb3
 17	ta	17
 .	.	.
-
 Hb1	x	hb1
 De7	ta	de7
 18	ta	18
 .	.	.
-
 Rg3	x	rg3
 dxe5	x	dxe5
 19	ta	19
 .	.	.
-
 Rf5	x	rf5
 De6	ta	de6
 20	ta	20
 .	.	.
-
 Dd1	ta	dd1
 Rf6	x	rf6
 21	ta	21
 .	.	.
-
 Hxe5	x	hxe5
 Had8	x	had8
 22	ta	22
 .	.	.
-
 --	--	--
 >	>	>
 1.	ta	1.
@@ -3820,12 +3580,10 @@ c4	ta	c4
 e6	x	e6
 3	ta	3
 .	.	.
-
 Rc3	x	rc3
 Bb4	ta	bb4
 4	ta	4
 .	.	.
-
 Dc2	ta	dc2
 O-O	x	o-o
 5.	ta	5.
@@ -3840,17 +3598,14 @@ bxc3	ta	bxc3
 e5	x	e5
 8	ta	8
 .	.	.
-
 Bd3	ta	bd3
 Rc6	x	rc6
 9	ta	9
 .	.	.
-
 Re2	x	re2
 b6	ta	b6
 10	ta	10
 .	.	.
-
 O-O	x	o-o
 Ba6	ta	ba6
 11.	ta	11.
@@ -3858,7 +3613,6 @@ f4	x	f4
 Rd7	x	rd7
 12	ta	12
 .	.	.
-
 Hf3	x	hf3
 Ra5	x	ra5
 13.	ta	13.
@@ -3866,7 +3620,6 @@ c5	ta	c5
 Bxd3	ta	bxd3
 14	ta	14
 .	.	.
-
 Hxd3	x	hxd3
 bxc5	ta	bxc5
 15.	ta	15.
@@ -3874,73 +3627,59 @@ dxe5	x	dxe5
 c4	ta	c4
 16	ta	16
 .	.	.
-
 Hd5	x	hd5
 Rb3	x	rb3
 17	ta	17
 .	.	.
-
 Hb1	x	hb1
 De7	ta	de7
 18	ta	18
 .	.	.
-
 Rg3	x	rg3
 dxe5	x	dxe5
 19	ta	19
 .	.	.
-
 Rf5	x	rf5
 De6	ta	de6
 20	ta	20
 .	.	.
-
 Dd1	ta	dd1
 Rf6	x	rf6
 21	ta	21
 .	.	.
-
 Hxe5	x	hxe5
 Had8	x	had8
 22	ta	22
 .	.	.
-
 De2	ta	de2
 Dd7	ta	dd7
 23	ta	23
 .	.	.
-
 Dxc4	x	dxc4
 Dd1	ta	dd1
 +	+	+
 24	ta	24
 .	.	.
-
 Df1	ta	df1
 Dc2	ta	dc2
 25	ta	25
 .	.	.
-
 Be3	ta	be3
 Rxe4	x	rxe4
 26	ta	26
 .	.	.
-
 He1	x	he1
 Rxc3	x	rxc3
 27	ta	27
 .	.	.
-
 Df3	ta	df3
 Hd1	x	hd1
 28	ta	28
 .	.	.
-
 Bf2	ta	bf2
 g6	x	g6
 29	ta	29
 .	.	.
-
 Rh6	x	rh6
 +	+	+
 Kg7	x	kg7
@@ -3958,7 +3697,6 @@ stendur	sfg3en	standa
 nú	aa	nú
 yfir	aa	yfir
 .	.	.
-
 Skákfélagið	nheng	skákfélag
 Hrókurinn	nkengs	Hrókur
 hefur	sfg3en	hafa
@@ -3981,7 +3719,6 @@ tveggja	tfkfe	tveir
 meðlima	nkfe	meðlimur
 Hróksins	nkeegs	Hrókur
 .	.	.
-
 Ivan	e	Ivan
 Sokolov	e	Sokolov
 (	(	(
@@ -3996,11 +3733,9 @@ Bologan	e	Bologan
 2665	ta	2665
 )	)	)
 .	.	.
-
 30.	ta	30.
 f5	x	f5
 !	!	!
-
 Kxh6	x	kxh6
 31.	ta	31.
 f6	x	f6
@@ -4019,67 +3754,55 @@ fær	sfg3en	fá
 hvítur	lkensf	hvítur
 yfirburðatafl	nheo	yfirburðatafl
 .	.	.
-
 31...Hxe1+	x	31...hxe1+
 32	ta	32
 .	.	.
-
 Bxe1	ta	bxe1
 g5	x	g5
 33	ta	33
 .	.	.
-
 Bxc3	ta	bxc3
 Rd2	x	rd2
 34	ta	34
 .	.	.
-
 De3	ta	de3
 Dc1	ta	dc1
 +	+	+
 35	ta	35
 .	.	.
-
 Kf2	x	kf2
 Df1	ta	df1
 +	+	+
 36	ta	36
 .	.	.
-
 Kg3	x	kg3
 Df4	ta	df4
 +	+	+
 37	ta	37
 .	.	.
-
 Dxf4	x	dxf4
 gxf4	x	gxf4
 +	+	+
 38	ta	38
 .	.	.
-
 Kxf4	x	kxf4
 Rc4	x	rc4
 39	ta	39
 .	.	.
-
 Hc5	x	hc5
 Rxa3	x	rxa3
 40	ta	40
 .	.	.
-
 Kf5	x	kf5
 Hd8	x	hd8
 41	ta	41
 .	.	.
-
 Be5	ta	be5
 og	c	og
 svartur	lkensf	svartur
 gafst	sfm3eþ	gefa
 upp	aa	upp
 .	.	.
-
 SKÁK	nven	skák
 -	-	-
 Umsjón	nven	umsjón
@@ -4092,32 +3815,26 @@ e4	x	e4
 e5	x	e5
 2	ta	2
 .	.	.
-
 Rf3	x	rf3
 Rc6	x	rc6
 3	ta	3
 .	.	.
-
 Bb5	ta	bb5
 a6	ta	a6
 4	ta	4
 .	.	.
-
 Ba4	ta	ba4
 Rf6	x	rf6
 5	ta	5
 .	.	.
-
 0-0	x	0-0
 Be7	ta	be7
 6	ta	6
 .	.	.
-
 He1	x	he1
 b5	ta	b5
 7	ta	7
 .	.	.
-
 Bb3	ta	bb3
 d6	ta	d6
 8.	ta	8.
@@ -4128,7 +3845,6 @@ h3	x	h3
 Ra5	x	ra5
 10	ta	10
 .	.	.
-
 Bc2	ta	bc2
 c5	ta	c5
 11.	ta	11.
@@ -4142,12 +3858,10 @@ d5	ta	d5
 Hc8	x	hc8
 14	ta	14
 .	.	.
-
 Rbd2	x	rbd2
 Rh5	x	rh5
 15	ta	15
 .	.	.
-
 Rf1	x	rf1
 Rc4	x	rc4
 16.	ta	16.
@@ -4158,32 +3872,26 @@ b3	ta	b3
 Ra3	x	ra3
 18	ta	18
 .	.	.
-
 Bd3	ta	bd3
 a5	ta	a5
 19	ta	19
 .	.	.
-
 Rxe5	x	rxe5
 Bf6	ta	bf6
 20	ta	20
 .	.	.
-
 Dxh5	x	dxh5
 Bxe5	ta	bxe5
 21	ta	21
 .	.	.
-
 Ha2	x	ha2
 Hc3	x	hc3
 22	ta	22
 .	.	.
-
 Dd1	ta	dd1
 Df6	ta	df6
 23	ta	23
 .	.	.
-
 --	--	--
 >	>	>
 1.	ta	1.
@@ -4191,32 +3899,26 @@ e4	x	e4
 e5	x	e5
 2	ta	2
 .	.	.
-
 Rf3	x	rf3
 Rc6	x	rc6
 3	ta	3
 .	.	.
-
 Bb5	ta	bb5
 a6	ta	a6
 4	ta	4
 .	.	.
-
 Ba4	ta	ba4
 Rf6	x	rf6
 5	ta	5
 .	.	.
-
 0-0	x	0-0
 Be7	ta	be7
 6	ta	6
 .	.	.
-
 He1	x	he1
 b5	ta	b5
 7	ta	7
 .	.	.
-
 Bb3	ta	bb3
 d6	ta	d6
 8.	ta	8.
@@ -4227,7 +3929,6 @@ h3	x	h3
 Ra5	x	ra5
 10	ta	10
 .	.	.
-
 Bc2	ta	bc2
 c5	ta	c5
 11.	ta	11.
@@ -4241,12 +3942,10 @@ d5	ta	d5
 Hc8	x	hc8
 14	ta	14
 .	.	.
-
 Rbd2	x	rbd2
 Rh5	x	rh5
 15	ta	15
 .	.	.
-
 Rf1	x	rf1
 Rc4	x	rc4
 16.	ta	16.
@@ -4257,67 +3956,54 @@ b3	ta	b3
 Ra3	x	ra3
 18	ta	18
 .	.	.
-
 Bd3	ta	bd3
 a5	ta	a5
 19	ta	19
 .	.	.
-
 Rxe5	x	rxe5
 Bf6	ta	bf6
 20	ta	20
 .	.	.
-
 Dxh5	x	dxh5
 Bxe5	ta	bxe5
 21	ta	21
 .	.	.
-
 Ha2	x	ha2
 Hc3	x	hc3
 22	ta	22
 .	.	.
-
 Dd1	ta	dd1
 Df6	ta	df6
 23	ta	23
 .	.	.
-
 He3	x	he3
 Hfc8	x	hfc8
 24	ta	24
 .	.	.
-
 Bd2	ta	bd2
 H3c5	x	h3c5
 25	ta	25
 .	.	.
-
 Hf3	x	hf3
 Dd8	ta	dd8
 26	ta	26
 .	.	.
-
 Re3	x	re3
 H8c7	x	h8c7
 27	ta	27
 .	.	.
-
 Rg4	x	rg4
 Dc8	ta	dc8
 28	ta	28
 .	.	.
-
 Bf1	ta	bf1
 Hc1	x	hc1
 29	ta	29
 .	.	.
-
 Bxc1	ta	bxc1
 Hxc1	x	hxc1
 30	ta	30
 .	.	.
-
 Dd2	ta	dd2
 Ba6	ta	ba6
 Staðan	nveng	staða
@@ -4332,7 +4018,6 @@ yfir	aa	yfir
 í	aþ	í
 Sarajevo	e	Sarajevo
 .	.	.
-
 Hinn	gken	hinn
 skemmtilegi	lkenvf	skemmtilegur
 ofurstórmeistari	nken	ofurstórmeistari
@@ -4350,62 +4035,49 @@ Atalik	e	Atalik
 2.554	ta	2.554
 )	)	)
 .	.	.
-
 31	ta	31
 .	.	.
-
 Rxe5	x	rxe5
 !	!	!
-
 Hxf1	x	hxf1
 +	+	+
 32	ta	32
 .	.	.
-
 Kh2	x	kh2
 dxe5	x	dxe5
 33.	ta	33.
 d6	ta	d6
 !	!	!
-
 Bb7	ta	bb7
 34.	ta	34.
 d7	ta	d7
 !	!	!
-
 Dd8	ta	dd8
 35	ta	35
 .	.	.
-
 Hd3	x	hd3
 f6	x	f6
 36	ta	36
 .	.	.
-
 Hd6	x	hd6
 !	!	!
-
 Kf7	x	kf7
 37	ta	37
 .	.	.
-
 De2	ta	de2
 Hc1	x	hc1
 38	ta	38
 .	.	.
-
 Dh5	x	dh5
 +	+	+
 Ke7	x	ke7
 39	ta	39
 .	.	.
-
 He6	x	he6
 +	+	+
 Kxd7	x	kxd7
 40	ta	40
 .	.	.
-
 Hd2	x	hd2
 +	+	+
 og	c	og
@@ -4413,7 +4085,6 @@ svartur	lkensf	svartur
 gafst	sfm3eþ	gefa
 upp	aa	upp
 .	.	.
-
 Evrópumeistaramót	nhen	evrópumeistaramót
 einstaklinga	nkfe	einstaklingur
 stendur	sfg3en	standa
@@ -4430,7 +4101,6 @@ skákmenn	nkfn	skákmaður
 meðal	ae	meðal
 keppenda	nkfe	keppandi
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -4441,7 +4111,6 @@ mála	nhfe	mál
 á	aþ	á
 skak.is	v	skak.is
 .	.	.
-
 BRIDS	nhen	brids
 -	-	-
 Umsjón	nven	umsjón
@@ -4479,7 +4148,6 @@ spilamennskunni	nveþg	spilamennska
 og	c	og
 stjórnun	nveþ	stjórnun
 .	.	.
-
 --	--	--
 >	>	>
 Gróska	nven	gróska
@@ -4512,7 +4180,6 @@ spilamennskunni	nveþg	spilamennska
 og	c	og
 stjórnun	nveþ	stjórnun
 .	.	.
-
 Þessi	faken	þessi
 pistill	nken	pistill
 barst	sfm3eþ	bera
@@ -4529,7 +4196,6 @@ hin	gven	hinn
 firmakeppni	nven	firmakeppni
 félagsins	nheeg	félag
 .	.	.
-
 Að	aþ	að
 vanda	nkeþ	vandi
 var	sfg3eþ	vera
@@ -4568,7 +4234,6 @@ fyrir	ao	fyrir
 og	c	og
 stuðninginn	nkeog	stuðningur
 .	.	.
-
 Úrslit	nhfn	úrslit
 urðu	sfg3fþ	verða
 þau	fphfn	það
@@ -4588,7 +4253,6 @@ alls	aa	alls
 86	ta	86
 stig	nhfo	stig
 .	.	.
-
 Röð	nven	röð
 næstu	lhfeve	næstur
 fyrirtækja	nhfe	fyrirtæki
@@ -4604,12 +4268,10 @@ Thorarensen	nkee-s	Thorarensen
 65	ta	65
 Siglósport	nhen-s	Siglósport
 ehf.	as	ehf.
-
 63	ta	63
 Þormóður	nken-s	Þormóður
 rammi	nken	rammi
 hf.	as	hf.
-
 55	ta	55
 Þrjú	tfhfn	þrír
 efstu	lhfnve	efri
@@ -4620,7 +4282,6 @@ verðlaunaskildi	nkfo	verðlaunaskjöldur
 í	ao	í
 verðlaun	nhfo	verðlaun
 .	.	.
-
 Jafnframt	aa	jafnframt
 var	sfg3eþ	vera
 spilaður	sþgken	spila
@@ -4638,7 +4299,6 @@ firmu	nhfo	firma
 á	aþ	á
 kvöldi	nheþ	kvöld
 .	.	.
-
 Lokastaða	nven	lokastaða
 tvímenningsins	nkeeg	tvímenningur
 varð	sfg3eþ	verða
@@ -4646,35 +4306,27 @@ varð	sfg3eþ	verða
 :	:	:
 Sigurður	nken-s	Sigurður
 Hafliðas.	as	Hafliðas.
-
 -	-	-
 Sigfús	nken-s	Sigfús
 Steingrímss.	as	Steingrímss.
-
 98	ta	98
 Anton	nken-s	Anton
 Sigurbjörnss.	as	Sigurbjörnss.
-
 -	-	-
 Bogi	nken-s	Bogi
 Sigurbj.	as	Sigurbj.
-
 68	ta	68
 Stefán	nken-s	Stefán
 Benediktss.	as	Benediktss.
-
 -	-	-
 Þorsteinn	nken-s	Þorsteinn
 Jóh.	as	Jóh.
-
 63	ta	63
 Þorsteinn	nken-s	Þorsteinn
 Jóhanness.	as	Jóhanness.
-
 -	-	-
 Birgir	nken-s	Birgir
 Björnss.	as	Björnss.
-
 35	ta	35
 _	_	_
 _	_	_
@@ -4694,7 +4346,6 @@ með	aþ	með
 níu	tfvfe	níu
 sveita	nvfe	sveit
 .	.	.
-
 Úrslit	nhfn	úrslit
 urðu	sfg3fþ	verða
 þau	fphfn	það
@@ -4711,7 +4362,6 @@ með	ao	með
 967	ta	967
 stig	nhfo	stig
 .	.	.
-
 Spilarar	nkfn	spilari
 Ari	nken-s	Ari
 Már	nken-s	Már
@@ -4748,7 +4398,6 @@ með	ao	með
 920	ta	920
 stig	nhfo	stig
 .	.	.
-
 _	_	_
 _	_	_
 _	_	_
@@ -4786,7 +4435,6 @@ til	ae	til
 höfðu	sfg3fþ	hafa
 unnið	ssg	vinna
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 veitti	sfg3eþ	veita
@@ -4819,7 +4467,6 @@ hann	fpken	hann
 spilara	nkfo	spilari
 sérstaklega	aa	sérstaklega
 .	.	.
-
 Nú	aa	nú
 var	sfg3eþ	vera
 í	ao	í
@@ -4829,7 +4476,6 @@ sinn	nheo	sinn
 slemmukóngur	nken	slemmukóngur
 ársins	nheeg	ár
 .	.	.
-
 Að	aþ	að
 þessu	faheþ	þessi
 sinni	nheþ	sinn
@@ -4845,7 +4491,6 @@ sem	ct	sem
 hann	fpken	hann
 sagði	sfg3eþ	segja
 .	.	.
-
 Þeir	fakfn	sá
 sem	ct	sem
 næst	aae	nærri
@@ -4855,7 +4500,6 @@ með	ao	með
 20	ta	20
 slemmur	nvfo	slemma
 .	.	.
-
 Þar	aa	þar
 sem	c	sem
 Friðfinni	nkeþ-s	Friðfinnur
@@ -4879,7 +4523,6 @@ að	c	að
 langaði	svg3eþ	langa
 í	aa	í
 .	.	.
-
 Að	aþ	að
 venju	nveþ	venja
 var	sfg3eþ	vera
@@ -4900,7 +4543,6 @@ hlýtur	sfg3en	hljóta
 á	aþ	á
 starfsárinu	nheþg	starfsár
 .	.	.
-
 Bronsmeistari	nken	bronsmeistari
 Bridsfélags	nhee-s	bridsfélag
 Siglufjarðar	nkee-s	Siglufjörður
@@ -4922,7 +4564,6 @@ verðlaunaður	sþgken	verðlauna
 samkvæmt	aþ	samkvæmt
 hefð	nveþ	hefð
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 áreiðanlegum	lvfþsf	áreiðanlegur
 heimildum	nvfþ	heimild
@@ -4935,7 +4576,6 @@ hálfsjöleytið	nheog	hálfsjöleyti
 næsta	lkeove	næstur
 morgun	nkeo	morgunn
 .	.	.
-
 Að	aþ	að
 lokum	nhfþ	lok
 þakkar	sfg3en	þakka
@@ -4951,7 +4591,6 @@ um	ao	um
 gleðilegt	lheosf	gleðilegur
 sumar	nheo	sumar
 .	.	.
-
 Sumarbrids	nhen	sumarbrids
 á	aþ	á
 hefðbundnu	lheþsf	hefðbundinn
@@ -4979,7 +4618,6 @@ voru	sfg3fþ	vera
 á	aþ	á
 Sauðárkróki	nkeþ-s	Sauðárkrókur
 .	.	.
-
 Hér	aa	hér
 má	sfg3en	mega
 sjá	sng	sjá
@@ -4995,6 +4633,5 @@ föstudagskvöldsins	nheeg	föstudagskvöld
 maí	nkee	maí
 :	:	:
 Ásgr.	as	Ásgr.
-
 Aðalsteins	nkee-s	Aðalsteinn
 -	-	-

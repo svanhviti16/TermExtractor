@@ -7,7 +7,6 @@ alltaf	aa	alltaf
 ferskt	lhensf	ferskur
 grænmetisborð	nhen	grænmetisborð
 .	.	.
-
 Að	aþ	að
 sjálfsögðu	lheþsf	sjálfsagður
 verður	sfg3en	verða
@@ -23,7 +22,6 @@ umhverfi	nheþ	umhverfi
 sagði	sfg3eþ	segja
 hann	fpken	hann
 .	.	.
-
 Einnig	aa	einnig
 verður	sfg3en	verða
 lögð	sþgven	leggja
@@ -48,7 +46,6 @@ ferli	nkeþ	ferill
 á	aþ	á
 næturlagi	nheþ	næturlag
 .	.	.
-
 Til	aa	til
 stendur	sfg3en	standa
 að	c	að
@@ -60,7 +57,6 @@ næturvaktir	nvfo	næturvakt
 í	aþ	í
 versluninni	nveþg	verslun
 .	.	.
-
 Öryggisvörður	nken	öryggisvörður
 verður	sfg3en	verða
 á	aþ	á
@@ -77,7 +73,6 @@ komið	sþghen	koma
 upp	aa	upp
 eftirlitsmyndavélum	nvfþ	eftirlitsmyndavél
 .	.	.
-
 Í	aþ	í
 tilefni	nheþ	tilefni
 opnunarinnar	nveeg	opnun
@@ -96,7 +91,6 @@ til	ae	til
 á	ao	á
 sunnudag	nkeo	sunnudagur
 .	.	.
-
 BÚIST	sþmhen	búa
 er	sfg3en	vera
 við	aþ	við
@@ -150,7 +144,6 @@ fjölmiðlum	nkfþ	fjölmiðill
 í	aa	í
 gær	aa	gær
 .	.	.
-
 Foreldrar	nkfn	foreldrar
 eru	sfg3fn	vera
 eindregið	aa	eindregið
@@ -172,7 +165,6 @@ nauðsynleg	lhfosf	nauðsynlegur
 símtöl	nhfo	símtal
 eingöngu	aa	eingöngu
 .	.	.
-
 Viðvörunin	nveng	viðvörun
 kemur	sfg3en	koma
 í	ao	í
@@ -216,7 +208,6 @@ farsímar	nkfn	farsími
 væru	svg3fþ	vera
 skaðlausir	lkfnsf	skaðlaus
 .	.	.
-
 Vísindamennirnir	nkfng	vísindamaður
 komust	sfm3fþ	koma
 þó	aa	þó
@@ -239,7 +230,6 @@ að	cn	að
 skaðleg	lhfosf	skaðlegur
 langtímaáhrif	nhfo	langtímaáhrif
 .	.	.
-
 Framleiðendur	nkfn	framleiðandi
 telja	sfg3fn	telja
 ekki	aa	ekki
@@ -270,7 +260,6 @@ hugsanlega	aa	hugsanlega
 valdið	ssg	valda
 krabbameini	nheþ	krabbamein
 .	.	.
-
 Börn	nhfn	barn
 undir	aþ	undir
 sextán	tfhfe	sextán
@@ -296,7 +285,6 @@ enn	aa	enn
 að	cn	að
 þroskast	snm	þroska
 .	.	.
-
 Viðvörunin	nveng	viðvörun
 tilgreinir	sfg3en	tilgreina
 ekki	aa	ekki
@@ -336,7 +324,6 @@ tilmælum	nhfþ	tilmæli
 breskra	lhfesf	breskur
 yfirvalda	nhfe	yfirvald
 .	.	.
-
 Farsímaframleiðendur	nkfn	farsímaframleiðandi
 telja	sfg3fn	telja
 viðvörun	nveo	viðvörun
@@ -373,7 +360,6 @@ ekki	aa	ekki
 rökum	nhfþ	rök
 reistar	sþgvfn	reisa
 .	.	.
-
 Bresku	lhfnvf	breskur
 neytendasamtökin	nhfng	neytendasamtök
 hafa	sfg3fn	hafa
@@ -395,7 +381,6 @@ neytenda	nkfe	neytandi
 varðandi	slg	varða
 farsíma	nkfo	farsími
 .	.	.
-
 Umræðan	nveng	umræða
 undanfarna	lkfosf	undanfarinn
 mánuði	nkfo	mánuður
@@ -425,7 +410,6 @@ valdið	ssg	valda
 áhyggjum	nvfþ	áhyggja
 margra	lkfesf	margur
 .	.	.
-
 Nú	aa	nú
 um	ao	um
 stundir	nvfo	stund
@@ -455,7 +439,6 @@ hratt	aa	hratt
 næstu	lhfþve	næstur
 árum	nhfþ	ár
 .	.	.
-
 T.a.m.	as	T.a.m.
 bannaði	sfg3eþ	banna
 Disney-fyrirtækið	nhengs	Disneyfyrirtæki
@@ -485,13 +468,11 @@ barna	nhfe	barn
 og	c	og
 farsímanotkun	nveo	farsímanotkun
 .	.	.
-
 Allur	foken	allur
 er	sfg3en	vera
 varinn	nkeng	vari
 góður	lkensf	góður
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 að	cn	að
@@ -525,7 +506,6 @@ meiri	lkeevm	mikill
 fjölda	nkee	fjöldi
 fólks	nhee	fólk
 .	.	.
-
 Enn	aa	enn
 fremur	aam	fremur
 hefur	sfg3en	hafa
@@ -558,7 +538,6 @@ nema	c	nema
 í	aþ	í
 neyðartilfellum	nhfþ	neyðartilfelli
 .	.	.
-
 HAGKAUP	nhen-s	Hagkaup
 hefur	sfg3en	hafa
 lækkað	ssg	lækka
@@ -570,7 +549,6 @@ um	aa	um
 þúsund	tfvfþ	þúsund
 leikfangategundum	nvfþ	leikfangategund
 .	.	.
-
 Leikföng	nhfn	leikfang
 undir	aþ	undir
 heitunum	nvfþg	heita
@@ -589,7 +567,6 @@ lækkuð	sþghfn	lækka
 um	ao	um
 20%	tp	20%
 .	.	.
-
 Jón	nken-s	Jón
 Björnsson	nken-s	Björnsson
 ,	,	,
@@ -613,7 +590,6 @@ evrópska	lheþvf	evrópskur
 innkaupasambandinu	nheþg	innkaupasamband
 Vedes	e	Vedes
 .	.	.
-
 Í	aþ	í
 því	fpheþ	það
 eru	sfg3fn	vera
@@ -629,7 +605,6 @@ við	ao	við
 helstu	lkfove	heldri
 leikfangaframleiðendur	nkfo	leikfangaframleiðandi
 .	.	.
-
 Það	fphen	það
 þýðir	sfg3en	þýða
 að	c	að
@@ -651,7 +626,6 @@ að	c	að
 skýri	svg3en	skýra
 verðlækkunina	nveog	verðlækkun
 .	.	.
-
 Hann	fpken	hann
 segir	sfg3en	segja
 ennfremur	aa	ennfremur
@@ -671,7 +645,6 @@ aukið	sþghen	auka
 verslunum	nvfþ	verslun
 Hagkaups	nhee-s	Hagkaup
 .	.	.
-
 Við	fp1fn	ég
 höfum	sfg1fn	hafa
 lagt	ssg	leggja
@@ -692,7 +665,6 @@ og	c	og
 þekkt	lhfnsf	þekktur
 merki	nhfn	merki
 .	.	.
-
 Við	fp1fn	ég
 erum	sfg1fn	vera
 t.d.	as	t.d.
@@ -713,7 +685,6 @@ frá	aþ	frá
 þekktari	lkfþvm	þekktur
 framleiðendum	nkfþ	framleiðandi
 .	.	.
-
 Þá	aa	þá
 erum	sfg1fn	vera
 við	fp1fn	ég
@@ -737,7 +708,6 @@ Baby	e	Baby
 born	e	born
 -dúkkurnar	nvfng	dúkka
 .	.	.
-
 Sá	faken	sá
 fatnaður	nken	fatnaður
 er	sfg3en	vera
@@ -750,7 +720,6 @@ frá	aþ	frá
 þekkta	lkeþvf	þekktur
 framleiðandanum	nkeþg	framleiðandi
 .	.	.
-
 Neytendasamtökin	nhfng	neytendasamtök
 birtu	sfg3fþ	birta
 á	aþ	á
@@ -785,7 +754,6 @@ haft	sþghen	hafa
 til	ae	til
 viðmiðunar	nvee	viðmiðun
 .	.	.
-
 Fundið	sþghen	finna
 var	sfg3eþ	vera
 meðaltalsverð	nhen	meðaltalsverð
@@ -802,7 +770,6 @@ að	aþ	að
 London	e	London
 meðtalinni	lveþsf	meðtalinn
 .	.	.
-
 Í	ao	í
 ljós	nheo	ljós
 kom	sfg3eþ	koma
@@ -834,7 +801,6 @@ en	c	en
 í	aþ	í
 Bandaríkjunum	nhfþgs	Bandaríki
 .	.	.
-
 Verðmunur	nken	verðmunur
 í	aþ	í
 London	e	London
@@ -868,7 +834,6 @@ en	c	en
 í	aþ	í
 Bandaríkjunum	nhfþgs	Bandaríki
 .	.	.
-
 Neytendasamtökin	nhfng	neytendasamtök
 kenna	sfg3fn	kenna
 reglugerð	nveþ	reglugerð
@@ -914,7 +879,6 @@ stjórna	sng	stjórna
 verðlagningu	nveþ	verðlagning
 hans	fpkee	hann
 .	.	.
-
 Eigendur	nkfn	eigandi
 vörumerkja	nhfe	vörumerki
 getað	ssg	geta
@@ -941,7 +905,6 @@ samþykkt	ssg	samþykkja
 viðkomandi	lkeoof	viðkomandi
 innflytjanda	nkeo	innflytjandi
 .	.	.
-
 Ennfremur	aa	ennfremur
 geta	sfg3fn	geta
 eigendur	nkfn	eigandi
@@ -1000,7 +963,6 @@ tíðkist	svm3en	tíðka
 í	aþ	í
 stórmörkuðum	nkfþ	stórmarkaður
 .	.	.
-
 Eigendur	nkfn	eigandi
 vörumerkjanna	nhfeg	vörumerki
 verja	sfg3fn	verja
@@ -1030,7 +992,6 @@ hún	fpven	hún
 sé	svg3en	vera
 seld	sþgven	selja
 .	.	.
-
 Verslanir	nvfn	verslun
 þurfi	svg3fn	þurfa
 að	cn	að
@@ -1046,7 +1007,6 @@ verslunaranda	nkeo	verslunarandi
 og	c	og
 ímynd	nveo	ímynd
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 hjálpi	svg3en	hjálpa
@@ -1062,7 +1022,6 @@ eftirlíkinga	nvfe	eftirlíking
 nafni	nheþ	nafn
 vörunnar	nveeg	vara
 .	.	.
-
 Tvær	tfvfn	tveir
 stærstu	lvfnve	stór
 keðjur	nvfn	keðja
@@ -1108,7 +1067,6 @@ samkvæmt	aþ	samkvæmt
 reglugerð	nveþ	reglugerð
 Evrópusambandsins	nheegs	Evrópusamband
 .	.	.
-
 Þau	fphfn	það
 felast	sfm3fn	fela
 í	aþ	í
@@ -1137,7 +1095,6 @@ gerist	sfm3en	gera
 í	aþ	í
 landinu	nheþg	land
 .	.	.
-
 Algengastur	lkense	algengur
 er	sfg3en	vera
 innflutningur	nken	innflutningur
@@ -1155,7 +1112,6 @@ sólgleraugum	nhfþ	sólgleraugu
 og	c	og
 raftækjum	nhfþ	raftæki
 .	.	.
-
 Vörurnar	nvfng	vara
 eru	sfg3fn	vera
 ekki	aa	ekki
@@ -1179,7 +1135,6 @@ innflytjendur	nkfo	innflytjandi
 eftir	aþ	eftir
 löndum	nhfþ	land
 .	.	.
-
 Merkjavörur	nvfn	merkjavara
 með	aþ	með
 afslætti	nkeþ	afsláttur
@@ -1224,7 +1179,6 @@ geri	svg3fn	gera
 til	ae	til
 söluaðila	nkfe	söluaðili
 .	.	.
-
 Reglugerðin	nveng	reglugerð
 er	sfg3en	vera
 einungis	aa	einungis
@@ -1257,7 +1211,6 @@ hjá	aþ	hjá
 bresku	lhfþvf	breskur
 neytendasamtökunum	nhfþg	neytendasamtök
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 sérstaklega	aa	sérstaklega
@@ -1291,7 +1244,6 @@ selja	sng	selja
 lægra	lheþvm	lágur
 verði	nheþ	verð
 .	.	.
-
 Bent	sþghen	benda
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -1327,7 +1279,6 @@ land	nhen	land
 utan	ae	utan
 Evrópusambandsins	nheegs	Evrópusamband
 .	.	.
-
 Áður	aa	áður
 hafi	svg3fn	hafa
 samhliða	lhfnof	samhliða
@@ -1359,7 +1310,6 @@ fáanleg	lhfnsf	fáanlegur
 lægra	lheþvm	lágur
 verði	nheþ	verð
 .	.	.
-
 Tími	nken	tími
 jólaljósa	nhfe	jólaljós
 er	sfg3en	vera
@@ -1367,7 +1317,6 @@ genginn	sþgken	ganga
 í	ao	í
 garð	nkeo	garður
 .	.	.
-
 Rafmagnsöryggisdeild	nven	rafmagnsöryggisdeild
 Löggildingarstofu	nvee-s	Löggildingarstofa
 vill	sfg3en	vilja
@@ -1392,7 +1341,6 @@ bruna	nkeþ	bruni
 og	c	og
 slysum	nhfþ	slys
 .	.	.
-
 Rafmagnið	nheng	rafmagn
 er	sfg3en	vera
 einn	foken	einn
@@ -1400,7 +1348,6 @@ stórvirkasti	lkenve	stórvirkur
 brennuvargur	nken	brennuvargur
 nútímans	nkeeg	nútími
 .	.	.
-
 Algengasta	lvenve	algengur
 orsök	nven	orsök
 slysa	nhfe	slys
@@ -1412,7 +1359,6 @@ rafmagns	nhee	rafmagn
 er	sfg3en	vera
 gáleysi	nhen	gáleysi
 .	.	.
-
 Því	aa	því
 er	sfg3en	vera
 brýnt	lhensf	brýnn
@@ -1438,7 +1384,6 @@ sem	ct	sem
 fyrir	aa	fyrir
 er	sfg3en	vera
 .	.	.
-
 Þó	aa	þó
 að	c	að
 jólaljós	nhfn	jólaljós
@@ -1455,7 +1400,6 @@ við	ao	við
 annan	fokeo	annar
 rafbúnað	nkeo	rafbúnaður
 .	.	.
-
 Hluti	nken	hluti
 af	aþ	af
 undirbúningi	nkeþ	undirbúningur
@@ -1479,7 +1423,6 @@ séu	svg3fn	vera
 góðu	lheþsf	góður
 lagi	nheþ	lag
 .	.	.
-
 Óvandaður	lkensf	óvandaður
 ,	,	,
 skemmdur	lkensf	skemmdur
@@ -1493,7 +1436,6 @@ bruna	nkeþ	bruni
 og	c	og
 slysum	nhfþ	slys
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 góður	lkensf	góður
@@ -1508,7 +1450,6 @@ fyrir	ao	fyrir
 hver	fohfo	hver
 jól	nhfo	jól
 .	.	.
-
 Íslensk	lhfnsf	íslenskur
 jól	nhfn	jól
 eiga	sfg3fn	eiga
@@ -1524,7 +1465,6 @@ kemur	sfg3en	koma
 að	aþ	að
 mat	nkeþ	matur
 .	.	.
-
 Glæný	lvensf	glænýr
 dönsk	lvensf	danskur
 skoðanakönnun	nven	skoðanakönnun
@@ -1558,7 +1498,6 @@ en	c	en
 eftir	aþ	eftir
 breytingum	nvfþ	breyting
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 skoðanakönnuninni	nveþg	skoðanakönnun
 halda	sfg3fn	halda
@@ -1584,7 +1523,6 @@ eru	sfg3fn	vera
 stærri	lkenvm	stór
 hópur	nken	hópur
 .	.	.
-
 Önd	nven	önd
 er	sfg3en	vera
 langvinsælasti	lkenve	langvinsælastur
@@ -1600,7 +1538,6 @@ henni	fpveþ	hún
 um	ao	um
 jólin	nhfog	jól
 .	.	.
-
 Þar	aa	þar
 á	aa	á
 eftir	aa	eftir
@@ -1618,7 +1555,6 @@ gæs	nven	gæs
 ,	,	,
 10%	tp	10%
 .	.	.
-
 Tveir	tfkfn	tveir
 af	aþ	af
 hverjum	fokfþ	hver
@@ -1631,7 +1567,6 @@ aðalrétt	nkeo	aðalréttur
 eða	c	eða
 meðlæti	nheo	meðlæti
 .	.	.
-
 Í	ao	í
 eftirrétt	nkeo	eftirréttur
 er	sfg3en	vera
@@ -1656,7 +1591,6 @@ hin	fahfn	hinn
 90%	tp	90%
 þjóðarinnar	nveeg	þjóð
 .	.	.
-
 Aðeins	aa	aðeins
 3%	tp	3%
 borða	sfg3fn	borða
@@ -1673,7 +1607,6 @@ frómas	nheo	frómas
 og	c	og
 kökur	nvfo	kaka
 .	.	.
-
 Fyrir	ao	fyrir
 jólin	nhfog	jól
 telja	sfg3fn	telja
@@ -1694,7 +1627,6 @@ hinar	favfo	hinn
 sérdönsku	lvfovf	sérdanskur
 eplaskífur	nvfo	eplaskífa
 .	.	.
-
 Um	aa	um
 70%	tp	70%
 danskra	lhfesf	danskur
@@ -1709,13 +1641,10 @@ er	sfg3en	vera
 frá	aþ	frá
 Svíþjóð	nveþ-s	Svíþjóð
 .	.	.
-
 Kaupmannahöfn	nven-s	Kaupmannahöfn
 .	.	.
-
 Morgunblaðið	nhengs	Morgunblað
 .	.	.
-
 Matráð	nhen-s	Matráð
 ehf.	as	ehf.
 hefur	sfg3en	hafa
@@ -1741,7 +1670,6 @@ ISO9002-	nkeþ-s	ISO9002-staðall
 og	c	og
 HACCP-stöðlum	nkfþ-s	HACCP-staðall
 .	.	.
-
 Um	ao	um
 er	sfg3en	vera
 að	cn	að
@@ -1758,7 +1686,6 @@ sérpanta	sng	sérpanta
 aðrar	fovfo	annar
 tegundir	nvfo	tegund
 .	.	.
-
 Í	aþ	í
 fréttatilkynningu	nveþ	fréttatilkynning
 frá	aþ	frá
@@ -1788,7 +1715,6 @@ McDonalds	e	McDonalds
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Sölu	nveo	sala
 og	c	og
 dreifingu	nveo	dreifing
@@ -1807,7 +1733,6 @@ ehf.	as	ehf.
 Gilsbúð	nveþ-s	Gilsbúð
 7	ta	7
 .	.	.
-
 Komin	sþgven	koma
 er	sfg3en	vera
 á	ao	á
@@ -1820,7 +1745,6 @@ Urtasmiðjunni	nveþgs	Urtasmiðjan
 svokölluð	lvensf	svokallaður
 Kvennaþrenna	nven-s	kvennaþrenna
 .	.	.
-
 Varan	nveng	vara
 inniheldur	sfg3en	innihalda
 jurtaolíu	nveo	jurtaolía
@@ -1836,7 +1760,6 @@ sveppasýkingu	nveo	sveppasýking
 í	aþ	í
 leggöngum	nhfþ	leggöng
 .	.	.
-
 Um	ao	um
 er	sfg3en	vera
 að	cn	að
@@ -1851,7 +1774,6 @@ fáanleg	lvensf	fáanlegur
 helstu	lvfþve	heldri
 heilsuvöruverslunum	nvfþ	heilsuvöruverslun
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 handagangur	nken	handagangur
@@ -1866,7 +1788,6 @@ voru	sfg3fþ	vera
 í	aa	í
 gær	aa	gær
 .	.	.
-
 Viðskiptavinir	nkfn	viðskiptavinur
 Krónunnar	nveegs	Króna
 og	c	og
@@ -1889,7 +1810,6 @@ upp	aa	upp
 krónur	nvfo	króna
 kílóið	nheng	kíló
 .	.	.
-
 Þá	aa	þá
 var	sfg3eþ	vera
 hægt	lhensf	hægur
@@ -1916,7 +1836,6 @@ um	aa	um
 70	ta	70
 krónur	nvfo	króna
 .	.	.
-
 Gevalía	nhen-s	Gevalía
 kaffipakki	nken	kaffipakki
 kostaði	sfg3eþ	kosta
@@ -1949,7 +1868,6 @@ staldrað	sþghen	staldra
 var	sfg3eþ	vera
 við	aa	við
 .	.	.
-
 Starfsmenn	nkfn	starfsmaður
 gengu	sfg3fþ	ganga
 um	aa	um
@@ -1968,7 +1886,6 @@ nokkurra	fovfe	nokkur
 mínútna	nvfe	mínúta
 fresti	nkeþ	frestur
 .	.	.
-
 Að	aþ	að
 sögn	nveþ	sögn
 Guðmundar	nkee-s	Guðmundur
@@ -1992,7 +1909,6 @@ lækkað	sþghen	lækka
 ótal	nhen	ótal
 vöruliðum	nkfþ	vöruliður
 .	.	.
-
 Hann	fpken	hann
 segir	sfg3en	segja
 óvíst	lheosf	óvís
@@ -2009,7 +1925,6 @@ koma	sng	koma
 í	ao	í
 ljós	nheo	ljós
 .	.	.
-
 Við	fp1fn	ég
 stöndum	sfg1fn	standa
 við	ao	við
@@ -2026,7 +1941,6 @@ bjóði	svg3en	bjóða
 lægsta	lheove	lágur
 verðið	nheog	verð
 .	.	.
-
 Við	fp1fn	ég
 erum	sfg1fn	vera
 með	ao	með
@@ -2042,7 +1956,6 @@ verð	nheo	verð
 á	aþ	á
 markaðnum	nkeþg	markaður
 .	.	.
-
 Við	fp1fn	ég
 göngum	sfg1fn	ganga
 ekki	aa	ekki
@@ -2051,7 +1964,6 @@ bak	nheo	bak
 orða	nhfe	orð
 okkar	fp1fe	ég
 .	.	.
-
 Bónus	nken-s	Bónus
 hefur	sfg3en	hafa
 sett	ssg	setja
@@ -2081,7 +1993,6 @@ grænmetis	nhee	grænmeti
 og	c	og
 ávaxta	nkfe	ávöxtur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 gert	sþghen	gera
@@ -2111,7 +2022,6 @@ verið	ssg	vera
 síðustu	lkfove	síðari
 daga	nkfo	dagur
 .	.	.
-
 Við	fp1fn	ég
 viljum	sfg1fn	vilja
 að	c	að
@@ -2127,7 +2037,6 @@ meðan	c	meðan
 það	fphen	það
 varir	sfg3en	vara
 .	.	.
-
 Sigurjón	nken-s	Sigurjón
 Bjarnason	nken-s	Bjarnason
 framkvæmdastjóri	nken	framkvæmdastjóri
@@ -2144,7 +2053,6 @@ lágvöruverðsverslunum	nvfþ	lágvöruverðsverslun
 á	aþ	á
 markaðnum	nkeþg	markaður
 .	.	.
-
 Við	fp1fn	ég
 ætlum	sfg1fn	ætla
 að	cn	að
@@ -2161,7 +2069,6 @@ að	c	að
 svo	aa	svo
 sé	svg3en	vera
 .	.	.
-
 Þegar	c	þegar
 Sigurjón	nken-s	Sigurjón
 er	sfg3en	vera
@@ -2192,7 +2099,6 @@ leiða	sng	leiða
 í	ao	í
 ljós	nheo	ljós
 .	.	.
-
 Elías	nken-s	Elías
 Þorvarðarson	nken-s	Þorvarðarson
 verslunarstjóri	nken	verslunarstjóri
@@ -2221,7 +2127,6 @@ grænmeti	nheþ	grænmeti
 á	ao	á
 krónu	nveo	króna
 .	.	.
-
 Við	fp1fn	ég
 höfum	sfg1fn	hafa
 einfaldlega	aa	einfaldlega
@@ -2247,7 +2152,6 @@ er	sfg3en	vera
 hinum	fakfþ	hinn
 stöðunum	nkfþg	staður
 .	.	.
-
 Þar	aa	þar
 klárast	sfm3fn	klára
 birgðirnar	nvfng	birgðir
@@ -2255,7 +2159,6 @@ birgðirnar	nvfng	birgðir
 nokkrum	fokfþ	nokkur
 klukkutímum	nkfþ	klukkutími
 .	.	.
-
 Við	fp1fn	ég
 tökum	sfg1fn	taka
 á	ao	á
@@ -2272,7 +2175,6 @@ verð	nheo	verð
 öðrum	fovfþ	annar
 vörum	nvfþ	vara
 .	.	.
-
 Elías	nken-s	Elías
 segist	sfm3en	segja
 ekki	aa	ekki
@@ -2290,7 +2192,6 @@ vel	aa	vel
 þessa	faveo	þessi
 þróun	nveo	þróun
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 að	aþ	að
@@ -2307,7 +2208,6 @@ af	aþ	af
 hinu	gheþ	hinn
 góða	lheþvf	góður
 .	.	.
-
 Hefur	sfg3en	hafa
 þessi	faven	þessi
 samkeppni	nven	samkeppni
@@ -2319,7 +2219,6 @@ athyglina	nveog	athygli
 frá	aþ	frá
 bókunum	nvfþg	bók
 ?	?	?
-
 Jú	au	jú
 ,	,	,
 en	c	en
@@ -2345,7 +2244,6 @@ líf	nheo	líf
 í	ao	í
 bóksöluna	nveog	bóksala
 .	.	.
-
 VERÐMUNUR	nken	verðmunur
 á	aþ	á
 hárþvotti	nkeþ	hárþvottur
@@ -2369,7 +2267,6 @@ hársnyrtistofum	nvfþ	hársnyrtistofa
 á	aþ	á
 Stór-Reykjavíkursvæðinu	nheþgs	Stór-Reykjavíkursvæðið
 .	.	.
-
 Verðmunur	nken	verðmunur
 á	aþ	á
 kvenklippingum	nvfþ	kvenklipping
@@ -2396,7 +2293,6 @@ herraklippingunni	nveþg	herraklipping
 er	sfg3en	vera
 220%	tp	220%
 .	.	.
-
 Kannaðir	sþgkfn	kanna
 voru	sfg3fþ	vera
 14	ta	14
@@ -2420,7 +2316,6 @@ permanent	nhen	permanent
 og	c	og
 strípur	nvfn	strípur
 .	.	.
-
 Sambærileg	lvensf	sambærilegur
 könnun	nven	könnun
 var	sfg3eþ	vera
@@ -2447,7 +2342,6 @@ um	ao	um
 síðan	aa	síðan
 þá	aa	þá
 .	.	.
-
 Meðalverðbreyting	nven	meðalverðbreyting
 hjá	aþ	hjá
 einstökum	lvfþsf	einstakur
@@ -2459,7 +2353,6 @@ mismunandi	lvenof	mismunandi
 segir	sfg3en	segja
 hún	fpven	hún
 .	.	.
-
 Hjá	aþ	hjá
 25	ta	25
 stofum	nvfþ	stofa
@@ -2481,7 +2374,6 @@ allt	foheo	allur
 að	aþ	að
 10%	tp	10%
 .	.	.
-
 38	ta	38
 stofur	nvfn	stofa
 hafa	sfg3fn	hafa
@@ -2505,7 +2397,6 @@ sem	ct	sem
 nemur	sfg3en	nema
 20%	tp	20%
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 reglum	nvfþ	regla
 Samkeppnisstofnunar	nvee-s	Samkeppnisstofnun
@@ -2532,7 +2423,6 @@ frammi	aa	frammi
 við	ao	við
 afgreiðsluborð	nheo	afgreiðsluborð
 .	.	.
-
 Töluvert	aa	töluvert
 vantar	sfg3en	vanta
 á	ao	á
@@ -2568,7 +2458,6 @@ verðskrá	nveo	verðskrá
 við	ao	við
 afgreiðsluborð	nheo	afgreiðsluborð
 .	.	.
-
 Að	aþ	að
 sögn	nveþ	sögn
 Kristínar	nvee-s	Kristín
@@ -2583,7 +2472,6 @@ nafn	nheo	nafn
 dýrustu	lvfþve	dýr
 stofunum	nvfþg	stofa
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 á	sfg3en	eiga
@@ -2611,7 +2499,6 @@ við	aa	við
 segir	sfg3en	segja
 hún	fpven	hún
 .	.	.
-
 FYRIRHUGAÐ	lhensf	fyrirhugaður
 er	sfg3en	vera
 að	cn	að
@@ -2643,7 +2530,6 @@ fólks	nhee	fólk
 um	ao	um
 húsið	nheog	hús
 .	.	.
-
 Eftir	ao	eftir
 breytingarnar	nvfog	breyting
 verður	sfg3en	verða
@@ -2658,7 +2544,6 @@ sitthvorum	fokeþ	sitthvor
 enda	nkeþ	endi
 hússins	nheeg	hús
 .	.	.
-
 Aðspurður	lkensf	aðspurður
 segir	sfg3en	segja
 Einar	nken-s	Einar
@@ -2702,7 +2587,6 @@ ekki	aa	ekki
 svo	aa	svo
 mörg	lhfnsf	margur
 .	.	.
-
 Núverandi	lkenof	núverandi
 inngangur	nken	inngangur
 við	ao	við
@@ -2739,7 +2623,6 @@ sem	ct	sem
 gagnast	snm	gagna
 betur	aam	vel
 .	.	.
-
 Nýr	lkensf	nýr
 inngangur	nken	inngangur
 verður	sfg3en	verða
@@ -2755,7 +2638,6 @@ og	c	og
 Tekk	nhee-s	tekk
 vöruhúss	nhee	vöruhús
 .	.	.
-
 Rætt	sþghen	ræða
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -2793,7 +2675,6 @@ einnig	aa	einnig
 fram	aa	fram
 veitingasala	nven	veitingasala
 .	.	.
-
 Auk	ae	auk
 þessa	fahee	þessi
 verður	sfg3en	verða
@@ -2819,7 +2700,6 @@ lýsing	nven	lýsing
 bílastæðum	nhfþ	bílastæði
 bætt	sþgven	bæta
 .	.	.
-
 NETVERSLUN	nven	netverslun
 Hagkaups	nhee-s	Hagkaup
 ,	,	,
@@ -2836,7 +2716,6 @@ börn	nhfo	barn
 öllum	fokeþ	allur
 aldri	nkeþ	aldur
 .	.	.
-
 Þar	aa	þar
 eru	sfg3fn	vera
 m.a.	as	m.a.
@@ -2851,7 +2730,6 @@ og	c	og
 Action	e	Action
 man	e	man
 .	.	.
-
 Af	aþ	af
 öðrum	fovfþ	annar
 vörum	nvfþ	vara
@@ -2873,7 +2751,6 @@ og	c	og
 ýmsar	fovfo	ýmis
 snyrtivörur	nvfo	snyrtivara
 .	.	.
-
 Allar	fovfn	allur
 vörur	nvfn	vara
 netverslunarinnar	nveeg	netverslun
@@ -2885,7 +2762,6 @@ dyrum	nvfþ	dyr
 með	aþ	með
 Íslandspósti	nkeþ-s	Íslandspóstur
 .	.	.
-
 11-11-búðirnar	nvfng	11-11-búð
 Gildir	sfg3en	gilda
 til	ae	til
@@ -2897,7 +2773,6 @@ kr.	as	kr.
 kr.	as	kr.
 mælie	e	mælie
 .	.	.
-
 Goða	nkee-s	Goði
 hamborgarhryggur	nken	hamborgarhryggur
 m	as	m
@@ -2910,17 +2785,14 @@ kg	as	kg
 Sambandshangilæri	nhen-s	Sambandshangilæri
 úrb	as	úrb
 .	.	.
-
 1.480	ta	1.480
 1.973	ta	1.973
 1.480	ta	1.480
 kg	as	kg
 Sambandshangifrpart	nken-s	Sambandshangifrpart
 .	.	.
-
 úrb	as	úrb
 .	.	.
-
 1.130	ta	1.130
 1.506	ta	1.506
 1.130	ta	1.130
@@ -2937,7 +2809,6 @@ rauðv.	as	rauðv.
 79	ta	79
 59	ta	59
 st.	as	st.
-
 Grafinn	lkensf	grafinn
 lax	nken	lax
 (	(	(
@@ -2987,11 +2858,9 @@ kr.	as	kr.
 kr.	as	kr.
 mælie	e	mælie
 .	.	.
-
 Hangilæri	nhen	hangilæri
 úrb	as	úrb
 .	.	.
-
 1.294	ta	1.294
 1.675	ta	1.675
 1.294	ta	1.294
@@ -2999,7 +2868,6 @@ kg	as	kg
 Hangiframpartur	nken	hangiframpartur
 úrb	as	úrb
 .	.	.
-
 990	ta	990
 1.498	ta	1.498
 990	ta	990
@@ -3057,7 +2925,6 @@ kr.	as	kr.
 kr.	as	kr.
 mælie	e	mælie
 .	.	.
-
 Mjúkís	nken-s	mjúkís
 299	ta	299
 332	ta	332
@@ -3123,7 +2990,6 @@ kr.	as	kr.
 kr.	as	kr.
 mælie	e	mælie
 .	.	.
-
 After	e	after
 Eight-súkkulaði	nhen-s	Eightsúkkulaði
 ,	,	,
@@ -3189,7 +3055,6 @@ kr.	as	kr.
 kr.	as	kr.
 mælie	e	mælie
 .	.	.
-
 Londonlamb	nhen-s	Londonlamb
 659	ta	659
 1.098	ta	1.098
@@ -3228,7 +3093,6 @@ kr.	as	kr.
 kr.	as	kr.
 mælie	e	mælie
 .	.	.
-
 SS	as	SS
 kampavínslegið	lhensf	kampavínsleginn
 lambalæri	nhen	lambalæri
@@ -3278,7 +3142,6 @@ pöru	nveþ	para
 699	ta	699
 kg	as	kg
 Ísl.	as	ísl.
-
 matvæli	nhfn	matvæli
 ,	,	,
 reyktur	lkensf	reyktur
@@ -3300,12 +3163,10 @@ kr.	as	kr.
 kr.	as	kr.
 mælie	e	mælie
 .	.	.
-
 Bel	e	Bel
 Manda-marsip.	as	manda-marsip.
 /	/	/
 -nougatsúkkul.	as	nougatsúkkul.
-
 85	ta	85
 110	ta	110
 Mozart-kúlur	nvfn-s	Mozart-kúla
@@ -3358,7 +3219,6 @@ kr.	as	kr.
 kr.	as	kr.
 mælie	e	mælie
 .	.	.
-
 Reyktur	lkensf	reyktur
 lax	nken	lax
 ,	,	,
@@ -3408,7 +3268,6 @@ Knorr-sósur	nvfn-s	knorr-sósa
 78	ta	78
 69	ta	69
 st.	as	st.
-
 Vienetta-vanilluís	nken-s	Vienetta-vanilluís
 ,	,	,
 600	ta	600
@@ -3417,7 +3276,6 @@ ml	as	ml
 398	ta	398
 574	ta	574
 ltr	as	ltr
-
 KALKÚNNINN	nkeng	kalkúnn
 er	sfg3en	vera
 vinsæll	lkensf	vinsæll
@@ -3432,7 +3290,6 @@ verður	sfg3en	verða
 sífellt	aa	sífellt
 vinsælli	lkenvm	vinsæll
 .	.	.
-
 Til	aa	til
 eru	sfg3fn	vera
 margar	lvfnsf	margur
@@ -3446,7 +3303,6 @@ matreiðslu	nveo	matreiðsla
 á	aþ	á
 kalkúni	nkeþ	kalkúnn
 .	.	.
-
 Ingvar	nken-s	Ingvar
 Sigurðsson	nken-s	Sigurðsson
 ,	,	,
@@ -3463,7 +3319,6 @@ við	ao	við
 matreiðslu	nveo	matreiðsla
 hans	fpkee	hann
 .	.	.
-
 Vinsældir	nvfn	vinsæld
 kalkúnsins	nkeeg	kalkúnn
 eru	sfg3fn	vera
@@ -3498,7 +3353,6 @@ er	sfg3en	vera
 það	fphen	það
 mikil	lvensf	mikill
 .	.	.
-
 Þá	aa	þá
 greini	sfg1en	greina
 ég	fp1en	ég
@@ -3542,7 +3396,6 @@ hangikjöt	nheo	hangikjöt
 og	c	og
 svínahamborgarhrygg	nkeo	svínahamborgarhryggur
 .	.	.
-
 Þegar	c	þegar
 Ingvar	nken-s	Ingvar
 er	sfg3en	vera
@@ -3582,7 +3435,6 @@ að	cn	að
 vera	sng	vera
 þurrt	lhensf	þurr
 .	.	.
-
 Þar	aa	þar
 gildir	sfg3en	gilda
 hin	gven	hinn
@@ -3598,7 +3450,6 @@ hita	nkeo	hiti
 langan	lkeosf	langur
 tíma	nkeo	tími
 .	.	.
-
 Það	fphen	það
 hefur	sfg3en	hafa
 gefist	ssm	gefa
@@ -3637,7 +3488,6 @@ klukkutíma	nkeo	klukkutími
 á	ao	á
 kílóið	nheog	kíló
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 best	lhense	góður
@@ -3649,7 +3499,6 @@ grind	nveþ	grind
 í	aþ	í
 ofnskúffu	nveþ	ofnskúffa
 .	.	.
-
 Nota	sfg3fn	nota
 smjör	nheo	smjör
 til	ae	til
@@ -3706,7 +3555,6 @@ vantar	sfg3en	vanta
 upp	aa	upp
 á	aa	á
 .	.	.
-
 Þá	aa	þá
 bræða	sfg3fn	bræða
 sumir	fokfn	sumur
@@ -3728,7 +3576,6 @@ einnig	aa	einnig
 mjög	aa	mjög
 vel	aa	vel
 .	.	.
-
 Aðspurður	lkensf	aðspurður
 segir	sfg3en	segja
 Ingvar	nken-s	Ingvar
@@ -3738,7 +3585,6 @@ kaupa	sng	kaupa
 kalkúninn	nkeog	kalkúnn
 ferskan	lkeosf	ferskur
 .	.	.
-
 Fyrir	aþ	fyrir
 tveimur	tfhfþ	tveir
 árum	nhfþ	ár
@@ -3758,7 +3604,6 @@ mikil	lvensf	mikill
 breyting	nven	breyting
 á	aa	á
 .	.	.
-
 Frysting	nven	frysting
 á	aþ	á
 kjöti	nheþ	kjöt
@@ -3766,7 +3611,6 @@ er	sfg3en	vera
 alltaf	aa	alltaf
 gæðarýrnun	nven	gæðarýrnun
 .	.	.
-
 Ef	c	ef
 kalkúnn	nken	kalkúnn
 er	sfg3en	vera
@@ -3804,7 +3648,6 @@ og	c	og
 hálfan	lkeosf	hálfur
 sólarhring	nkeo	sólarhringur
 .	.	.
-
 Annars	aa	annars
 fer	sfg3en	fara
 þetta	fahen	þessi
@@ -3813,7 +3656,6 @@ eftir	aþ	eftir
 stærð	nveþ	stærð
 kalkúnsins	nkeeg	kalkúnn
 .	.	.
-
 Þess	fphee	það
 má	sfg3en	mega
 geta	sng	geta
@@ -3828,7 +3670,6 @@ tvo	tfkfo	tveir
 til	aa	til
 þrjá	tfkfo	þrír
 .	.	.
-
 Fyllingin	nveng	fylling
 ómissandi	lkenof	ómissandi
 þáttur	nken	þáttur
@@ -3853,7 +3694,6 @@ innan	aa	innan
 með	aþ	með
 pappír	nkeþ	pappír
 .	.	.
-
 Þegar	c	þegar
 búið	lhensf	búinn
 er	sfg3en	vera
@@ -3882,7 +3722,6 @@ hún	fpven	hún
 við	ao	við
 hitann	nkeog	hiti
 .	.	.
-
 Gott	lhensf	góður
 er	sfg3en	vera
 að	cn	að
@@ -3896,7 +3735,6 @@ bandi	nheþ	band
 utan	aa	utan
 um	aa	um
 .	.	.
-
 Margar	lvfnsf	margur
 aðferðir	nvfn	aðferð
 eru	sfg3fn	vera
@@ -3906,7 +3744,6 @@ að	cn	að
 fylla	sng	fylla
 fuglana	nkfog	fugl
 .	.	.
-
 Að	aþ	að
 sögn	nveþ	sögn
 Ingvars	nkee-s	Ingvar
@@ -3923,7 +3760,6 @@ ekki	aa	ekki
 fyrir	ao	fyrir
 byrjendur	nkfo	byrjandi
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 hryggurinn	nkeng	hryggur
@@ -3950,7 +3786,6 @@ og	c	og
 saumað	sþghen	sauma
 fyrir	aa	fyrir
 .	.	.
-
 Aðrir	fokfn	annar
 taka	sfg3fn	taka
 fuglinn	nkeog	fugl
@@ -3968,7 +3803,6 @@ fylla	sfg3fn	fylla
 hann	fpkeo	hann
 þannig	aa	þannig
 .	.	.
-
 Kalkúnninn	nkeng	kalkúnn
 tekur	sfg3en	taka
 þannig	aa	þannig
@@ -3978,7 +3812,6 @@ tíma	nkeo	tími
 í	aþ	í
 eldun	nveþ	eldun
 .	.	.
-
 Þegar	c	þegar
 keyptur	sþgken	kaupa
 er	sfg3en	vera
@@ -3995,7 +3828,6 @@ hjartað	nheng	hjarta
 og	c	og
 lifrin	nveng	lifur
 .	.	.
-
 Hálsinn	nkeng	háls
 og	c	og
 hjartað	nheng	hjarta
@@ -4010,7 +3842,6 @@ oft	aa	oft
 í	ao	í
 fyllingarnar	nvfog	fylling
 .	.	.
-
 Algengt	lhensf	algengur
 er	sfg3en	vera
 lifrin	nveng	lifur
@@ -4030,7 +3861,6 @@ beikoni	nheþ	beikon
 og	c	og
 sveppum	nkfþ	sveppur
 .	.	.
-
 Síðan	aa	síðan
 er	sfg3en	vera
 þessu	faheþ	þessi
@@ -4047,7 +3877,6 @@ inn	aa	inn
 í	ao	í
 fuglinn	nkeog	fugl
 .	.	.
-
 Þá	aa	þá
 má	sfg3en	mega
 einnig	aa	einnig
@@ -4064,7 +3893,6 @@ fyllingar	nvfo	fylling
 í	aþ	í
 búð	nveþ	búð
 .	.	.
-
 Í	ao	í
 4	ta	4
 til	ae	til
@@ -4087,7 +3915,6 @@ fugl	nkeo	fugl
 eitt	tfheo	einn
 kíló	nheo	kíló
 .	.	.
-
 Ekki	aa	ekki
 er	sfg3en	vera
 verra	lhenvm	verri
@@ -4117,7 +3944,6 @@ mínúturnar	nvfog	mínúta
 í	aþ	í
 ofninum	nkeþg	ofn
 .	.	.
-
 Sætar	lvfnsf	sætur
 kartöflur	nvfn	kartafla
 vinsælt	lhensf	vinsæll
@@ -4146,7 +3972,6 @@ vegna	ae	vegna
 þunga	nkee	þungi
 fuglsins	nkeeg	fugl
 .	.	.
-
 Algengast	lhense	algengur
 er	sfg3en	vera
 að	c	að
@@ -4176,7 +4001,6 @@ verið	ssg	vera
 borinn	sþgken	bera
 fram	aa	fram
 .	.	.
-
 Best	lhense	góður
 er	sfg3en	vera
 að	cn	að
@@ -4189,7 +4013,6 @@ og	c	og
 síðan	aa	síðan
 lærin	nhfog	læri
 .	.	.
-
 Af	aþ	af
 klassísku	lheþsf	klassískur
 meðlæti	nheþ	meðlæti
@@ -4205,7 +4028,6 @@ að	aþ	að
 sögn	nveþ	sögn
 Ingvars	nkee-s	Ingvar
 .	.	.
-
 Í	aþ	í
 Bandaríkjunum	nhfþgs	Bandaríki
 er	sfg3en	vera
@@ -4233,7 +4055,6 @@ aukast	snm	auka
 sem	c	sem
 meðlæti	nhen	meðlæti
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 líka	aa	líka
@@ -4258,7 +4079,6 @@ rósmarín	nheþ	rósmarín
 eða	c	eða
 salvíu	nveþ	salvía
 .	.	.
-
 Áramótamáltíð	nven	áramótamáltíð
 að	aþ	að
 hætti	nkeþ	háttur
@@ -4299,7 +4119,6 @@ og	c	og
 hann	fpken	hann
 steikist	sfm3en	steikja
 .	.	.
-
 Setjið	sbg2fn	setja
 1,5	ta	1,5
 til	aa	til
@@ -4314,7 +4133,6 @@ fuglinum	nkeþg	fugl
 í	aþ	í
 ofninum	nkeþg	ofn
 .	.	.
-
 Brúnið	sbg2fn	brúna
 hjartað	nheog	hjarta
 og	c	og
@@ -4326,7 +4144,6 @@ setjið	sbg2fn	setja
 í	ao	í
 ofnskúffuna	nveog	ofnskúffa
 .	.	.
-
 Bætið	sbg2fn	bæta
 í	aa	í
 grænmeti	nheo	grænmeti
@@ -4345,7 +4162,6 @@ kryddinu	nheþg	krydd
 út	aa	út
 í	aa	í
 .	.	.
-
 Þegar	c	þegar
 30	ta	30
 mínútur	nvfn	mínúta
@@ -4368,7 +4184,6 @@ fleytt	sþgven	fleyta
 vandlega	aa	vandlega
 af	aa	af
 .	.	.
-
 Sósan	nveng	sósa
 1,2	ta	1,2
 lítrar	nkfn	lítri
@@ -4409,7 +4224,6 @@ að	c	að
 verði	svg3en	verða
 smjörbolla	nven	smjörbolla
 .	.	.
-
 Þykkið	sbg2fn	þykkja
 soðið	nheog	soð
 með	aþ	með
@@ -4420,7 +4234,6 @@ suðuna	nveog	suða
 koma	sng	koma
 upp	aa	upp
 .	.	.
-
 Bætið	sbg2fn	bæta
 í	aa	í
 rjómanum	nkeþg	rjómi
@@ -4431,7 +4244,6 @@ rifsberjahlaupinu	nheþg	rifsberjahlaup
 og	c	og
 púrtvíninu	nheþg	púrtvín
 .	.	.
-
 Endið	sbg2fn	enda
 á	aþ	á
 því	fpheþ	það
@@ -4451,7 +4263,6 @@ sem	ct	sem
 þurfa	sng	þurfa
 þykir	sfg3en	þykja
 .	.	.
-
 Einnig	aa	einnig
 getur	sfg3en	geta
 verið	ssg	vera
@@ -4473,7 +4284,6 @@ til	aa	til
 á	aþ	á
 heimilinu	nheþg	heimili
 .	.	.
-
 Fylling	nven	fylling
 í	ao	í
 kalkún	nkeo	kalkúnn
@@ -4537,7 +4347,6 @@ uns	c	uns
 verður	sfg3en	verða
 léttbrúnað	lhensf	léttbrúnaður
 .	.	.
-
 Bætið	sbg2fn	bæta
 við	aa	við
 smjörinu	nheþg	smjör
@@ -4546,7 +4355,6 @@ smátt	aa	smátt
 söxuðu	lheþsf	saxaður
 grænmetinu	nheþg	grænmeti
 .	.	.
-
 Hrærið	sbg2fn	hræra
 í	aa	í
 með	aþ	með
@@ -4568,7 +4376,6 @@ saltinu	nheþg	salt
 og	c	og
 piparnum	nkeþg	pipar
 .	.	.
-
 Afhýðið	sbg2fn	afhýða
 og	c	og
 kjarnhreinsið	sbg2fn	kjarnhreinsa
@@ -4578,13 +4385,11 @@ skerið	sbg2fn	skera
 í	ao	í
 teninga	nkfo	teningur
 .	.	.
-
 Skerið	sbg2fn	skera
 brauðsneiðarnar	nvfog	brauðsneið
 í	ao	í
 teninga	nkfo	teningur
 .	.	.
-
 Blandið	sbg2fn	blanda
 öllu	foheþ	allur
 vel	aa	vel
@@ -4598,7 +4403,6 @@ fyllinguna	nveog	fylling
 í	ao	í
 fuglinn	nkeog	fugl
 .	.	.
-
 Karlar	nkfn	karl
 í	aþ	í
 síðum	lkfþsf	síður
@@ -4612,7 +4416,6 @@ stjórnandi	nken	stjórnandi
 Sergei	e	Sergei
 Krivobokov	e	Krivobokov
 .	.	.
-
 Lög	nhfn	lag
 eftir	ao	eftir
 Shvedov	e	Shvedov
@@ -4632,12 +4435,10 @@ og	c	og
 trúarlegrar	lveesf	trúarlegur
 tónlistar	nvee	tónlist
 .	.	.
-
 Laugardagur	nken	laugardagur
 15.	ta	15.
 maí	nken	maí
 .	.	.
-
 --	--	--
 >	>	>
 Þrettán	tfkfe	þrettán
@@ -4665,7 +4466,6 @@ kórsins	nkeeg	kór
 þann	fakeo	sá
 dag	nkeo	dagur
 .	.	.
-
 Á	aþ	á
 efnisskránni	nveþg	efnisskrá
 voru	sfg3fþ	vera
@@ -4687,7 +4487,6 @@ kórmeðlimanna	nkfeg	kórmeðlimur
 í	aþ	í
 einsöngshlutverki	nheþ	einsöngshlutverk
 .	.	.
-
 Greinilegt	lhensf	greinilegur
 var	sfg3eþ	vera
 að	c	að
@@ -4722,7 +4521,6 @@ væru	svg3fþ	vera
 að	cn	að
 kyrja	sng	kyrja
 .	.	.
-
 Verst	lhense	verri
 var	sfg3eþ	vera
 að	c	að
@@ -4759,7 +4557,6 @@ hvað	fshen	hver
 þau	fphfn	það
 hétu	svg3fþ	heita
 .	.	.
-
 Nánari	lvfnvm	náinn
 upplýsingar	nvfn	upplýsing
 um	ao	um
@@ -4785,7 +4582,6 @@ venjulegir	lkfnsf	venjulegur
 tónleikagestir	nkfn	tónleikagestur
 þekkja	sfg3fn	þekkja
 .	.	.
-
 Það	fahen	sá
 eina	lhenvf	einn
 sem	ct	sem
@@ -4816,7 +4612,6 @@ engan	fokeo	enginn
 veginn	nkeog	vegur
 tæmandi	lvenof	tæmandi
 .	.	.
-
 Sá	faken	sá
 einsöngvari	nken	einsöngvari
 sem	ct	sem
@@ -4834,7 +4629,6 @@ og	c	og
 hljómmikla	lveosf	hljómmikill
 sópranrödd	nveo	sópranrödd
 .	.	.
-
 Vakulenko	e	Vakulenko
 söng	sfg3eþ	syngja
 fyrst	aae	fyrr
@@ -4858,7 +4652,6 @@ lagið	nheog	lag
 auðheyrilega	aa	auðheyrilega
 vel	aa	vel
 .	.	.
-
 Auðvitað	aa	auðvitað
 þarf	sfg3en	þurfa
 meira	lheovm	mikill
@@ -4880,7 +4673,6 @@ er	sfg3en	vera
 efnilegur	lkensf	efnilegur
 tónlistarmaður	nken	tónlistarmaður
 .	.	.
-
 Hvað	fshen	hver
 kórinn	nkeog	kór
 sjálfan	fbkeo	sjálfur
@@ -4907,7 +4699,6 @@ voru	sfg3fþ	vera
 síðum	lkfþsf	síður
 kuflum	nkfþ	kufl
 .	.	.
-
 Náungi	nken	náungi
 sem	ct	sem
 ég	fp1en	ég
@@ -4938,7 +4729,6 @@ rétt	lhensf	réttur
 hjá	aþ	hjá
 honum	fpkeþ	hann
 !	!	!
-
 Söngur	nken	söngur
 kórsins	nkeeg	kór
 var	sfg3eþ	vera
@@ -4952,7 +4742,6 @@ hjá	aþ	hjá
 íslenskum	lkfþsf	íslenskur
 kórum	nkfþ	kór
 .	.	.
-
 Ef	c	ef
 hægt	lhensf	hægur
 er	sfg3en	vera
@@ -4982,7 +4771,6 @@ sinnum	nhfþ	sinn
 örlítið	aa	örlítið
 ónákvæmar	lvfnsf	ónákvæmur
 .	.	.
-
 Langflest	lhense	langflestur
 á	aþ	á
 efnisskránni	nveþg	efnisskrá
@@ -4996,5 +4784,4 @@ verkin	nhfng	verk
 voru	sfg3fþ	vera
 dásamleg	lhfnsf	dásamlegur
 .	.	.
-
 Þar	aa	þar

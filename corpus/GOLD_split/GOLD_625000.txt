@@ -1,7 +1,6 @@
 rík	lvensf	ríkur
 þjóð	nven	þjóð
 .	.	.
-
 En	c	en
 tálvonir	nvfn	tálvon
 eru	sfg3fn	vera
@@ -27,7 +26,6 @@ við	aa	við
 til	ae	til
 lengdar	nvee	lengd
 .	.	.
-
 Tilfinningasemin	nveng	tilfinningasemi
 sem	ct	sem
 gýs	sfg3en	gjósa
@@ -62,7 +60,6 @@ að	cn	að
 vera	sng	vera
 friðhelgir	lkfnsf	friðhelgur
 .	.	.
-
 Ef	c	ef
 ekki	aa	ekki
 finnst	sfm3en	finna
@@ -80,7 +77,6 @@ menn	nkfn	maður
 í	aþ	í
 leikþröng	nveþ	leikþröng
 .	.	.
-
 Ég	fp1en	ég
 á	sfg1en	eiga
 eftir	aa	eftir
@@ -101,7 +97,6 @@ hætta	sng	hætta
 við	ao	við
 þetta	faheo	þessi
 .	.	.
-
 Líklega	aa	líklega
 verður	sfg3en	verða
 þá	aa	þá
@@ -120,7 +115,6 @@ lög	nhfo	lag
 líka	aa	líka
 umhverfislög	nhfo	umhverfislag
 .	.	.
-
 Allir	fokfn	allur
 lofa	sfg3fn	lofa
 síðan	aa	síðan
@@ -132,7 +126,6 @@ aldrei	aa	aldrei
 aldrei	aa	aldrei
 oftar	aam	oft
 .	.	.
-
 Vonin	nveng	von
 um	ao	um
 að	c	að
@@ -154,7 +147,6 @@ til	ae	til
 furðulegra	lkfesf	furðulegur
 hluta	nkfe	hlutur
 .	.	.
-
 Nú	aa	nú
 eru	sfg3fn	vera
 ríkisfyrirtæki	nhfn	ríkisfyrirtæki
@@ -165,7 +157,6 @@ spákaupmennsku	nveo	spákaupmennska
 og	c	og
 brask	nheo	brask
 .	.	.
-
 Þórólfur	nken-s	Þórólfur
 Matthíasson	nken-s	Matthíasson
 prófessor	nken	prófessor
@@ -189,7 +180,6 @@ að	cn	að
 verja	sng	verja
 sölutekjur	nvfo	sölutekjur
 .	.	.
-
 Þetta	fahen	þessi
 merkir	sfg3en	merkja
 að	c	að
@@ -209,7 +199,6 @@ tilteknum	lkeþsf	tiltekinn
 degi	nkeþ	dagur
 síðar	aam	síðar
 .	.	.
-
 Skýrt	sþghen	skýra
 er	sfg3en	vera
 frá	aþ	frá
@@ -229,7 +218,6 @@ um	ao	um
 milljarða	nkfo	milljarður
 króna	nvfe	króna
 .	.	.
-
 Menn	nkfn	maður
 seldu	sfg3fþ	selja
 víst	aa	víst
@@ -249,7 +237,6 @@ standa	sng	standa
 við	ao	við
 samningana	nkfog	samningur
 .	.	.
-
 Okkur	fp1fþ	ég
 hlýtur	sfg3en	hljóta
 að	cn	að
@@ -283,7 +270,6 @@ verðið	nheng	verð
 sé	svg3en	vera
 leyndarmál	nhen	leyndarmál
 .	.	.
-
 Ef	c	ef
 gróðinn	nkeng	gróði
 af	aþ	af
@@ -307,7 +293,6 @@ sögunnar	nveeg	saga
 við	ao	við
 Kárahnjúka	nkfo-s	Kárahnjúkar
 .	.	.
-
 Og	c	og
 þá	aa	þá
 eigum	sfg1fn	eiga
@@ -321,14 +306,12 @@ fyrir	ao	fyrir
 óbætanleg	lhfosf	óbætanlegur
 náttúruspjöll	nhfo	náttúruspjöll
 .	.	.
-
 Kristján	nken-s	Kristján
 Jónsson	nken-s	Jónsson
 (	(	(
 kjon@mbl.i	v	kjon@mbl.i
 s	x	s
 )	)	)
-
 AKURHRINGIRNIR	nkfng	akurhringur
 svokölluðu	lkfnvf	svokallaður
 ,	,	,
@@ -359,7 +342,6 @@ staðreynd	nven	staðreynd
 ,	,	,
 raunveruleiki	nken	raunveruleiki
 .	.	.
-
 En	c	en
 eru	sfg3fn	vera
 fyrirbærin	nhfng	fyrirbæri
@@ -371,7 +353,6 @@ orsökum	nvfþ	orsök
 eða	c	eða
 yfirnáttúrulegum	lvfþsf	yfirnáttúrulegur
 ?	?	?
-
 Eru	sfg3fn	vera
 þau	fphfn	það
 eins	fokee	einn
@@ -388,7 +369,6 @@ eða	c	eða
 listrænni	lveþsf	listrænn
 sköpunarþrá	nveþ	sköpunarþrá
 ?	?	?
-
 Eða	c	eða
 eru	sfg3fn	vera
 þau	fahfn	sá
@@ -402,24 +382,20 @@ hér	aa	hér
 jörðu	nveþ	jörð
 niðri	aa	niðri
 ?	?	?
-
 Lendingarpallar	nkfn	lendingarpallur
 fljúgandi	lkfeof	fljúgandi
 furðuhluta	nkfe	furðuhluti
 ?	?	?
-
 Skilaboð	nhfn	skilaboð
 að	aa	að
 ofan	aa	ofan
 ?	?	?
-
 Staðfesting	nven	staðfesting
 á	aþ	á
 starfi	nheþ	starf
 yfirskilvitlegra	lkfesf	yfirskilvitlegur
 krafta	nkfe	kraftur
 ?	?	?
-
 Eða	c	eða
 til	ae	til
 marks	nhee	mark
@@ -433,7 +409,6 @@ við	fp1fn	ég
 ekki	aa	ekki
 enn	aa	enn
 ?	?	?
-
 Því	fpheþ	það
 fer	sfg3en	fara
 víðsfjarri	aa	víðsfjarri
@@ -449,7 +424,6 @@ af	aþ	af
 hugsanlegu	lvfþvf	hugsanlegur
 skýringum	nvfþ	skýring
 .	.	.
-
 Og	c	og
 trúlega	aa	trúlega
 þess	fphee	það
@@ -477,7 +451,6 @@ raun	nven	raun
 ber	sfg3en	bera
 vitni	nheo	vitni
 .	.	.
-
 Næturgestir	nkfn	næturgestur
 á	aþ	á
 akrinum	nkeþg	akur
@@ -499,7 +472,6 @@ sínum	fevfþ	sinn
 margar	lvfosf	margur
 kynslóðir	nvfo	kynslóð
 .	.	.
-
 Þær	fpvfn	hún
 virtust	sfm3fþ	virða
 verða	sng	verða
@@ -520,7 +492,6 @@ rúgs	nkee	rúgur
 og	c	og
 hafra	nkfe	hafri
 .	.	.
-
 Plönturnar	nvfng	planta
 höfðu	sfg3fþ	hafa
 flast	ssm	fletja
@@ -539,7 +510,6 @@ mynstur	nhfo	mynstur
 í	ao	í
 akurinn	nkeog	akur
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 þó	aa	þó
@@ -566,7 +536,6 @@ fjalla	sng	fjalla
 um	ao	um
 þau	fphfo	það
 .	.	.
-
 Þá	aa	þá
 fóru	sfg3fþ	fara
 að	cn	að
@@ -603,7 +572,6 @@ við	ao	við
 forna	lkfosf	forn
 helgistaði	nkfo	helgistaður
 .	.	.
-
 Flest	lhfnse	margur
 urðu	sfg3fþ	verða
 fyrirbærin	nhfng	fyrirbæri
@@ -644,7 +612,6 @@ Kennet	e	Kennet
 Long	e	Long
 Barrow	e	Barrow
 .	.	.
-
 Enn	aa	enn
 þann	fakeo	sá
 dag	nkeo	dagur
@@ -678,7 +645,6 @@ myndir	nvfn	mynd
 og	c	og
 form	nhfn	form
 .	.	.
-
 Til	ae	til
 dæmis	nhee	dæmi
 birtist	sfm3eþ	birta
@@ -706,7 +672,6 @@ metrar	nkfn	metri
 að	aþ	að
 þvermáli	nheþ	þvermál
 .	.	.
-
 Gerðir	sþgkfn	gera
 af	aþ	af
 meistara	nkfe	meistari
@@ -721,7 +686,6 @@ með	aþ	með
 þessum	fakeþ	þessi
 hætti	nkeþ	háttur
 ?	?	?
-
 Eitt	fohen	einn
 af	aþ	af
 þeim	fahfþ	sá
@@ -759,7 +723,6 @@ sagðir	sþgkfn	segja
 hreyfast	snm	hreyfa
 markvisst	aa	markvisst
 .	.	.
-
 Vísindaleg	lvensf	vísindalegur
 skýring	nven	skýring
 á	aþ	á
@@ -770,7 +733,6 @@ látið	ssg	láta
 sér	fpveþ	sig
 standa	sng	standa
 .	.	.
-
 Vísindamenn	nkfn	vísindamaður
 hafa	sfg3fn	hafa
 rannsakað	ssg	rannsaka
@@ -781,7 +743,6 @@ plöntum	nvfþ	planta
 slíkum	fbhfþ	slíkur
 munstrum	nhfþ	munstur
 .	.	.
-
 Bandarískur	lkensf	bandarískur
 lífeðlisfræðingur	nken	lífeðlisfræðingur
 ,	,	,
@@ -808,7 +769,6 @@ hafi	svg3en	hafa
 á	ao	á
 hringamyndanir	nvfo	hringamyndun
 .	.	.
-
 Aðrir	fokfn	annar
 hafa	sfg3fn	hafa
 nefnt	ssg	nefna
@@ -818,7 +778,6 @@ skýstrokka	nkfo	skýstrokkur
 eða	c	eða
 hvirfilvindi	nkfo	hvirfilvindur
 .	.	.
-
 Hvað	fshen	hver
 sem	ct	sem
 slíkum	fbvfþ	slíkur
@@ -839,7 +798,6 @@ akurhringafræðum	nhfþ	akurhringafræði
 árið	nheog	ár
 1991	ta	1991
 .	.	.
-
 Þá	aa	þá
 stigu	sfg3fþ	stíga
 fram	aa	fram
@@ -877,7 +835,6 @@ og	c	og
 notað	ssg	nota
 planka	nkfo	planki
 .	.	.
-
 Þeir	fakfn	sá
 félagar	nkfn	félagi
 sviptu	sfg3fþ	svipta
@@ -906,7 +863,6 @@ sem	c	sem
 afleiðingar	nvfo	afleiðing
 skýstrokka	nkfe	skýstrokkur
 .	.	.
-
 Sporgöngumennirnir	nkfng	sporgöngumaður
 Á	aþ	á
 þessum	fakeþ	þessi
@@ -951,7 +907,6 @@ jafnvel	aa	jafnvel
 utanúr	aþ	utanúr
 geimnum	nkeþg	geimur
 .	.	.
-
 Þeir	fakfn	sá
 síðastnefndu	lkfnvf	síðastnefndur
 telja	sfg3fn	telja
@@ -967,7 +922,6 @@ og	c	og
 flóknustu	lkfove	flókinn
 hringina	nkfog	hringur
 .	.	.
-
 En	c	en
 þeir	fpkfn	hann
 eru	sfg3fn	vera
@@ -992,7 +946,6 @@ sjálfir	fbkfn	sjálfur
 gert	ssg	gera
 hringina	nkfog	hringur
 .	.	.
-
 Þar	aa	þar
 er	sfg3en	vera
 fremstur	lkense	fremri
@@ -1020,7 +973,6 @@ Circlemakers	e	Circlemakers
 eða	c	eða
 Hringgerðarmenn	nkfo-s	Hringgerðarmaður
 .	.	.
-
 Hann	fpken	hann
 segir	sfg3en	segja
 að	c	að
@@ -1033,7 +985,6 @@ listamaður	nken	listamaður
 20.	ta	20.
 aldarinnar	nveeg	öld
 .	.	.
-
 Bower	e	Bower
 hafi	svg3en	hafa
 fært	ssg	færa
@@ -1051,7 +1002,6 @@ utan	aa	utan
 hefðbundna	lkfosf	hefðbundinn
 listmiðla	nkfo	listmiðill
 .	.	.
-
 Circlemakers	e	Circlemakers
 eru	sfg3fn	vera
 því	aa	því
@@ -1071,7 +1021,6 @@ konseptlist	nveo	konseptlist
 eða	c	eða
 hugmyndalist	nveo	hugmyndalist
 .	.	.
-
 Hann	fpken	hann
 telur	sfg3en	telja
 að	c	að
@@ -1108,7 +1057,6 @@ sér	fpkfþ	sig
 til	ae	til
 skemmtunar	nvee	skemmtun
 .	.	.
-
 Circlemakers	e	Circlemakers
 taka	sfg3fn	taka
 hins	fakee	hinn
@@ -1153,7 +1101,6 @@ The	e	The
 History	e	History
 Channel	e	Channel
 .	.	.
-
 Lundberg	e	Lundberg
 segir	sfg3en	segja
 að	c	að
@@ -1178,7 +1125,6 @@ upp	aa	upp
 kringum	ao	kringum
 verkin	nhfog	verk
 .	.	.
-
 Hann	fpken	hann
 segir	sfg3en	segja
 að	c	að
@@ -1213,7 +1159,6 @@ náttúrufræðinganna	nkfeg	náttúrufræðingur
 sem	ct	sem
 yfirnáttúrufræðinganna	nkfeg	yfirnáttúrufræðingur
 .	.	.
-
 Colin	e	Colin
 Andrews	e	Andrews
 heitir	sfg3en	heita
@@ -1228,7 +1173,6 @@ akurhringina	nkfog	akurhringur
 árum	nhfþ	ár
 saman	aa	saman
 .	.	.
-
 Hann	fpken	hann
 kveðst	sfm3en	kveða
 í	aþ	í
@@ -1245,7 +1189,6 @@ sér	fpheþ	sig
 eðlisfræðilegar	lvfosf	eðlisfræðilegur
 skýringar	nvfo	skýring
 .	.	.
-
 Nú	aa	nú
 telur	sfg3en	telja
 hann	fpken	hann
@@ -1260,14 +1203,12 @@ séu	svg3fn	vera
 af	aþ	af
 mannavöldum	nhfþ	mannavöld
 .	.	.
-
 En	c	en
 hvað	fshen	hver
 um	ao	um
 hin	fahfo	hinn
 20%	tp	20%
 ?	?	?
-
 Til	aa	til
 eru	sfg3fn	vera
 munstur	nhfn	munstur
@@ -1285,7 +1226,6 @@ að	aþ	að
 segir	sfg3en	segja
 hann	fpken	hann
 .	.	.
-
 Því	fpheþ	það
 mikilfenglegri	lhfnvm	mikilfenglegur
 sem	ct	sem
@@ -1304,21 +1244,18 @@ skapað	ssg	skapa
 stuttri	lveþsf	stuttur
 sumarnóttu	nveþ	sumarnótta
 .	.	.
-
 Meira	lheovm	mikill
 segist	sfm3en	segja
 hann	fpken	hann
 ekki	aa	ekki
 vita	sng	vita
 .	.	.
-
 En	c	en
 Lundberg	e	Lundberg
 kveðst	sfm3en	kveða
 vita	sng	vita
 meira	lheovm	mikill
 .	.	.
-
 Hann	fpken	hann
 segir	sfg3en	segja
 að	c	að
@@ -1335,7 +1272,6 @@ aldrei	aa	aldrei
 gert	ssg	gera
 akurhring	nkeo	akurhringur
 .	.	.
-
 Það	fahen	sá
 eina	lhenvf	einn
 sem	ct	sem
@@ -1355,7 +1291,6 @@ sterkir	lkfnsf	sterkur
 og	c	og
 taugasterkir	lkfnsf	taugasterkur
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 í	aþ	í
@@ -1367,7 +1302,6 @@ vinna	nven	vinna
 segir	sfg3en	segja
 Lundberg	e	Lundberg
 .	.	.
-
 Því	fpheþ	það
 stærri	lkenvm	stór
 hópur	nken	hópur
@@ -1386,7 +1320,6 @@ að	cn	að
 samhæfa	sng	samhæfa
 hann	fpkeo	hann
 .	.	.
-
 Circlemakers	e	Circlemakers
 verja	sfg3fn	verja
 allt	fohen	allur
@@ -1428,12 +1361,10 @@ fram	aa	fram
 að	aþ	að
 næturþeli	nheþ	næturþel
 .	.	.
-
 Hvernig	aa	hvernig
 er	sfg3en	vera
 framkvæmdin	nveng	framkvæmd
 ?	?	?
-
 Tökum	svg1fn	taka
 dæmi	nheo	dæmi
 af	aþ	af
@@ -1443,7 +1374,6 @@ M.	as	M.
 Nights	e	Nights
 Shyamalan	e	Shyamalan
 .	.	.
-
 Þeir	fpkfn	hann
 gerðu	sfg3fþ	gera
 akurmunstrin	nhfog	akurmunstur
@@ -1467,7 +1397,6 @@ er	sfg3en	vera
 á	aþ	á
 Bretlandi	nheþ-s	Bretland
 .	.	.
-
 Ástæðan	nveng	ástæða
 var	sfg3eþ	vera
 sú	faven	sá
@@ -1496,7 +1425,6 @@ völundarhúsi	nheþ	völundarhús
 á	aþ	á
 akrinum	nkeþg	akur
 .	.	.
-
 Með	aþ	með
 aðstoð	nveþ	aðstoð
 kennara	nkee	kennari
@@ -1514,7 +1442,6 @@ vexti	nkeþ	vöxtur
 í	ao	í
 maísinn	nkeog	maís
 .	.	.
-
 Munstrið	nheog	munstur
 byggðu	sfg3fþ	byggja
 þeir	fpkfn	hann
@@ -1536,7 +1463,6 @@ að	cn	að
 þjóna	sng	þjóna
 sögunni	nveþg	saga
 .	.	.
-
 Verkið	nheog	verk
 sjálft	fbheo	sjálfur
 framkvæmdu	sfg3fþ	framkvæma
@@ -1558,7 +1484,6 @@ plankar	nkfn	planki
 og	c	og
 stigi	nken	stigi
 .	.	.
-
 En	c	en
 maísinn	nkeng	maís
 reyndist	sfm3eþ	reyna
@@ -1568,7 +1493,6 @@ en	c	en
 t.d.	as	t.d.
 hveitið	nheng	hveiti
 .	.	.
-
 Larry	e	Larry
 Fulton	e	Fulton
 ,	,	,
@@ -1578,7 +1502,6 @@ leikmyndarinnar	nveeg	leikmynd
 Signs	e	Signs
 segir	sfg3en	segja
 :	:	:
-
 Í	aþ	í
 hveitinu	nheþg	hveiti
 skilur	sfg3en	skilja
@@ -1603,7 +1526,6 @@ hann	fpkeo	hann
 í	ao	í
 hring	nkeo	hringur
 .	.	.
-
 Maísinn	nkeng	maís
 hins	fakee	hinn
 vegar	nkee	vegur
@@ -1627,7 +1549,6 @@ bognar	sfg3en	bogna
 ekki	aa	ekki
 fallega	aa	fallega
 .	.	.
-
 Því	aa	því
 þurfti	sfg3eþ	þurfa
 að	cn	að
@@ -1635,7 +1556,6 @@ beita	sng	beita
 annarri	foveþ	annar
 aðferð	nveþ	aðferð
 .	.	.
-
 Fyrir	ao	fyrir
 hundrað	tfhfþ	hundrað
 feta	nhfe	fet
@@ -1666,7 +1586,6 @@ til	aa	til
 radíus	nkeo	radíus
 hringsins	nkeeg	hringur
 .	.	.
-
 Einn	tfken	einn
 maður	nken	maður
 fór	sfg3eþ	fara
@@ -1690,7 +1609,6 @@ stilkum	nkfþ	stilkur
 í	aþ	í
 einu	lheþsf	einn
 .	.	.
-
 Það	fphen	það
 tók	sfg3eþ	taka
 okkur	fp1fo	ég
@@ -1703,18 +1621,15 @@ hringina	nkfog	hringur
 segir	sfg3en	segja
 Fulton	e	Fulton
 .	.	.
-
 Gróðavænlegt	lhensf	gróðavænlegur
 samsæri	nhen	samsæri
 ?	?	?
-
 Þetta	fahen	þessi
 virðist	sfm3en	virða
 því	aa	því
 vel	aa	vel
 framkvæmanlegt	lhensf	framkvæmanlegur
 .	.	.
-
 En	c	en
 þeir	fpkfn	hann
 eru	sfg3fn	vera
@@ -1728,7 +1643,6 @@ ekki	aa	ekki
 kaupa	sng	kaupa
 slíkt	fbheo	slíkur
 .	.	.
-
 Sumir	fokfn	sumur
 eru	sfg3fn	vera
 einfaldlega	aa	einfaldlega
@@ -1759,7 +1673,6 @@ rétta	lheovf	réttur
 eðli	nheo	eðli
 fyrirbæranna	nhfeg	fyrirbæri
 .	.	.
-
 Allt	fohen	allur
 veldur	sfg3en	valda
 þetta	fahen	þessi
@@ -1768,7 +1681,6 @@ og	c	og
 vaxandi	lkeþof	vaxandi
 áhuga	nkeþ	áhugi
 .	.	.
-
 Bændur	nkfn	bóndi
 njóta	sfg3fn	njóta
 góðs	lheesf	góður
@@ -1780,7 +1692,6 @@ akrana	nkfog	akur
 í	aþ	í
 hrönnum	nvfþ	hrönn
 .	.	.
-
 Að	aþ	að
 sögn	nveþ	sögn
 Lundgrens	e	Lundgrens
@@ -1797,7 +1708,6 @@ punda	nhfe	pund
 hverju	foheþ	hver
 ári	nheþ	ár
 .	.	.
-
 Sumir	fokfn	sumur
 ferðamenn	nkfn	ferðamaður
 koma	sfg3fn	koma
@@ -1827,7 +1737,6 @@ og	c	og
 fremjandi	slg	fremja
 helgiathafnir	nvfo	helgiathöfn
 .	.	.
-
 Árið	nheog	ár
 1996	ta	1996
 myndaðist	sfm3eþ	mynda
@@ -1838,7 +1747,6 @@ Stonehenge	e	Stonehenge
 segir	sfg3en	segja
 Lundberg	e	Lundberg
 .	.	.
-
 Bóndinn	nkeng	bóndi
 á	aþ	á
 staðnum	nkeþg	staður
@@ -1849,7 +1757,6 @@ og	c	og
 krafðist	sfm3eþ	krefja
 aðgangseyris	nkee	aðgangseyrir
 .	.	.
-
 Á	aþ	á
 fjórum	tfvfþ	fjórir
 vikum	nvfþ	vika
@@ -1860,7 +1767,6 @@ grætt	ssg	græða
 þúsund	tfhfo	þúsund
 pund	nhfo	pund
 .	.	.
-
 Fyrir	ao	fyrir
 kornuppskeruna	nveog	kornuppskera
 hefði	svg3eþ	hafa
@@ -1871,7 +1777,6 @@ um	aa	um
 150	ta	150
 pund	nhfo	pund
 .	.	.
-
 Þegar	c	þegar
 Lundberg	e	Lundberg
 er	sfg3en	vera
@@ -1891,19 +1796,16 @@ mannavöldum	nhfþ	mannavöld
 svarar	sfg3en	svara
 hann	fpken	hann
 :	:	:
-
 Mér	fp1eþ	ég
 er	sfg3en	vera
 alveg	aa	alveg
 sama	fbhen	sami
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 opinn	lkeosf	opinn
 huga	nkeo	hugi
 .	.	.
-
 Best	lhense	góður
 væri	svg3eþ	vera
 ef	c	ef
@@ -1914,7 +1816,6 @@ hringina	nkfog	hringur
 sem	c	sem
 listaverk	nhfo	listaverk
 .	.	.
-
 En	c	en
 mín	fp1ee	ég
 vegna	ae	vegna
@@ -1935,7 +1836,6 @@ og	c	og
 vel	aa	vel
 hannaðir	lkfnsf	hannaður
 .	.	.
-
 Núna	aa	núna
 ,	,	,
 þegar	c	þegar
@@ -1957,7 +1857,6 @@ almennur	lkensf	almennur
 fyrirbærum	nhfþ	fyrirbæri
 hraðvaxandi	lkenof	hraðvaxandi
 .	.	.
-
 Í	aþ	í
 uppsiglingu	nveþ	uppsigling
 eru	sfg3fn	vera
@@ -1970,7 +1869,6 @@ sjónvarpsþátta	nkfe	sjónvarpsþáttur
 um	ao	um
 efnið	nheog	efni
 .	.	.
-
 Þegar	c	þegar
 eru	sfg3fn	vera
 tilbúnar	lvfnsf	tilbúinn
@@ -2003,7 +1901,6 @@ eftir	ao	eftir
 Marcus	e	Marcus
 Thompson	e	Thompson
 .	.	.
-
 Nýjar	lvfnsf	nýr
 bækur	nvfn	bók
 eru	sfg3fn	vera
@@ -2041,7 +1938,6 @@ Eltjo	e	Eltjo
 H.	as	H.
 Haselhoff	e	Haselhoff
 .	.	.
-
 Áhugasamir	lkfnsf	áhugasamur
 geta	sfg3fn	geta
 einnig	aa	einnig
@@ -2063,7 +1959,6 @@ www.circlemakers.org	v	www.circlemakers.org
 og	c	og
 www.cropcirclequest.com	v	www.cropcirclequest.com
 .	.	.
-
 Og	c	og
 ef	c	ef
 menn	nkfn	maður
@@ -2102,7 +1997,6 @@ ekki	aa	ekki
 fyrir	ao	fyrir
 trú	nveo	trú
 .	.	.
-
 Óskarsverðlaunaleikkonan	nveng	óskarsverðlaunaleikkona
 Hilary	e	Hilary
 Swank	e	Swank
@@ -2151,7 +2045,6 @@ Marcks	e	Marcks
 mun	sfg3en	munu
 gera	sng	gera
 .	.	.
-
 Marcks	e	Marcks
 ,	,	,
 sem	ct	sem
@@ -2175,7 +2068,6 @@ að	c	að
 skömmu	lheþsf	skammur
 síðar	aam	síðar
 .	.	.
-
 Það	fphen	það
 snýst	sfm3en	snúa
 ,	,	,
@@ -2209,7 +2101,6 @@ gerist	sfm3en	gera
 klukkan	nveng	klukka
 11:14	ta	11:14
 .	.	.
-
 Meðal	ae	meðal
 annarra	fokfe	annar
 helstu	lkfeve	heldri
@@ -2236,7 +2127,6 @@ og	c	og
 Jason	e	Jason
 Siegel	e	Siegel
 .	.	.
-
 SPENNUMYNDIN	nveng	spennumynd
 Killing	e	Killing
 Me	e	Me
@@ -2258,7 +2148,6 @@ skáldsögu	nveþ	skáldsaga
 Seans	e	Seans
 French	e	French
 .	.	.
-
 Leikstjóri	nken	leikstjóri
 er	sfg3en	vera
 hinn	gken	hinn
@@ -2278,7 +2167,6 @@ hans	fpkee	hann
 utan	ae	utan
 heimalandsins	nheeg	heimaland
 .	.	.
-
 Myndin	nveng	mynd
 segir	sfg3en	segja
 frá	aþ	frá
@@ -2309,7 +2197,6 @@ Joseph	e	Joseph
 Fiennes	e	Fiennes
 )	)	)
 .	.	.
-
 Samband	nhen	samband
 þeirra	fpvfe	hún
 gengur	sfg3en	ganga
@@ -2338,7 +2225,6 @@ skuggalegt	lheosf	skuggalegur
 að	cn	að
 fela	sng	fela
 .	.	.
-
 kveðst	sfm3en	kveða
 hafa	sng	hafa
 farið	ssg	fara
@@ -2361,7 +2247,6 @@ einhverjum	fokeþ	einhver
 árangri	nkeþ	árangur
 í	aa	í
 .	.	.
-
 Þegar	c	þegar
 hann	fpken	hann
 var	sfg3eþ	vera
@@ -2402,7 +2287,6 @@ hausnum	nkeþg	haus
 á	aþ	á
 honum	fpkeþ	hann
 .	.	.
-
 FEGURÐIN	nveng	fegurð
 er	sfg3en	vera
 í	aþ	í
@@ -2415,7 +2299,6 @@ horfir	sfg3en	horfa
 gild	lvensf	gildur
 afstæðiskenning	nven	afstæðiskenning
 .	.	.
-
 Engu	foheþ	enginn
 að	aa	að
 síður	aam	síður
@@ -2438,7 +2321,6 @@ og	c	og
 svokallaðar	lvfosf	svokallaður
 fegurðarsamkeppnir	nvfo	fegurðarsamkeppni
 .	.	.
-
 Þar	aa	þar
 þykir	sfg3en	þykja
 einn	tfken	einn
@@ -2458,7 +2340,6 @@ mannlífið	nheng	mannlíf
 er	sfg3en	vera
 yfirleitt	aa	yfirleitt
 .	.	.
-
 Þar	aa	þar
 njóta	sfg3fn	njóta
 karlar	nkfn	karl
@@ -2471,7 +2352,6 @@ eða	c	eða
 gjalda	sfg3fn	gjalda
 hans	fpkee	hann
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 almannarómi	nkeþ	almannarómur
 stendur	sfg3en	standa
@@ -2505,7 +2385,6 @@ menntun	nveþ	menntun
 eða	c	eða
 reynslu	nveþ	reynsla
 .	.	.
-
 Þetta	fahen	þessi
 forskot	nhen	forskot
 kemur	sfg3en	koma
@@ -2514,13 +2393,11 @@ ekkert	fohen	enginn
 sanngirni	nveþ	sanngirni
 við	aa	við
 .	.	.
-
 Vöggugjafir	nvfn	vöggugjöf
 eru	sfg3fn	vera
 einfaldlega	aa	einfaldlega
 þannig	aa	þannig
 .	.	.
-
 En	c	en
 getur	sfg3en	geta
 verið	ssg	vera
@@ -2530,7 +2407,6 @@ séu	svg3fn	vera
 hér	aa	hér
 undantekning	nven	undantekning
 ?	?	?
-
 ÉG	fp1en	ég
 fór	sfg1eþ	fara
 að	cn	að
@@ -2578,7 +2454,6 @@ gera	sng	gera
 sig	fpvfo	sig
 ljótari	lvfovm	ljótur
 .	.	.
-
 Varla	aa	varla
 finnst	sfm3en	finna
 til	ae	til
@@ -2602,7 +2477,6 @@ lýst	sþghen	lýsa
 sem	c	sem
 engilfögrum	lkeþsf	engilfagur
 .	.	.
-
 Í	aþ	í
 nýjustu	lveþve	nýr
 mynd	nveþ	mynd
@@ -2633,7 +2507,6 @@ hárlufsur	nvfo	hárlufsa
 um	ao	um
 allt	foheo	allur
 .	.	.
-
 Dittó	aa	dittó
 Brad	e	Brad
 Pitt	e	Pitt
@@ -2643,7 +2516,6 @@ hins	ghee	hinn
 vörpulega	lheevf	vörpulegur
 karlmennis	nhee	karlmenni
 .	.	.
-
 Þetta	fahen	þessi
 kyntákn	nhen	kyntákn
 ummyndaðist	sfm3eþ	ummynda
@@ -2670,7 +2542,6 @@ fagurlega	aa	fagurlega
 hannaða	lveosf	hannaður
 guðsgjöfina	nveog	guðsgjöf
 .	.	.
-
 Að	aþ	að
 vísu	lheþsf	vís
 herma	sfg3fn	herma
@@ -2727,7 +2598,6 @@ með	aþ	með
 þessum	fakeþ	þessi
 hætti	nkeþ	háttur
 .	.	.
-
 Tom	e	Tom
 Cruise	e	Cruise
 er	sfg3en	vera
@@ -2768,7 +2638,6 @@ sig	fpkeo	sig
 í	aþ	í
 spegli	nkeþ	spegill
 .	.	.
-
 Einnig	aa	einnig
 hann	fpken	hann
 reyndi	sfg3eþ	reyna
@@ -2801,7 +2670,6 @@ afmyndast	sfm3en	afmynda
 í	aþ	í
 slysi	nheþ	slys
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 í	aþ	í
@@ -2819,7 +2687,6 @@ eftir	ao	eftir
 Aljeandro	e	Aljeandro
 Amenabar	e	Amenabar
 .	.	.
-
 Þessi	faven	þessi
 tilraun	nven	tilraun
 karlkynbombu	nvee	karlkynbomba
@@ -2831,7 +2698,6 @@ ljótur	lkensf	ljótur
 skapgerðarleikari	nken	skapgerðarleikari
 mistókst	sfm3eþ	mistaka
 .	.	.
-
 Sama	fbhen	sami
 gilti	sfg3eþ	gilda
 um	ao	um
@@ -2866,7 +2732,6 @@ Without	e	Without
 a	e	a
 Face	e	Face
 .	.	.
-
 Í	aþ	í
 greininni	nveþg	grein
 í	aþ	í
@@ -2888,7 +2753,6 @@ sinni	feveþ	sinn
 til	ae	til
 stuðnings	nkee	stuðningur
 .	.	.
-
 Ég	fp1en	ég
 minnist	sfm1en	minna
 að	aþ	að
@@ -2924,7 +2788,6 @@ ekki	aa	ekki
 af	aþ	af
 kyntáknsímyndinni	nveþg	kyntáknsímynd
 .	.	.
-
 Og	c	og
 ég	fp1en	ég
 minnist	sfm1en	minna
@@ -2953,7 +2816,6 @@ You	e	You
 Were	e	Were
 Sleeping	e	Sleeping
 .	.	.
-
 Það	fphen	það
 mistókst	sfm3eþ	mistaka
 vegna	ae	vegna
@@ -2971,7 +2833,6 @@ ljóta	lveosf	ljótur
 og	c	og
 óaðlaðandi	lveoof	óaðlaðandi
 .	.	.
-
 Eru	sfg3fn	vera
 þá	aa	þá
 karlleikarar	nkfn	karlleikari
@@ -2992,7 +2853,6 @@ að	c	að
 teljast	sfm3fn	telja
 sætir	lkfnsf	sætur
 ?	?	?
-
 Eða	c	eða
 fá	sfg3fn	fá
 sætar	lvfnsf	sætur
@@ -3011,7 +2871,6 @@ geti	svg3fn	geta
 verið	ssg	vera
 ljótar	lvfnsf	ljótur
 ?	?	?
-
 Og	c	og
 af	aþ	af
 hverju	fsheþ	hver
@@ -3025,7 +2884,6 @@ að	cn	að
 túlka	sng	túlka
 ljótleika	nkeo	ljótleiki
 ?	?	?
-
 Samkvæmt	aþ	samkvæmt
 kenningunni	nveþg	kenning
 er	sfg3en	vera
@@ -3039,7 +2897,6 @@ og	c	og
 aðrar	fovfo	annar
 viðurkenningar	nvfo	viðurkenning
 .	.	.
-
 Sætleiki	nken	sætleiki
 færir	sfg3en	færa
 fólki	nheþ	fólk
@@ -3060,7 +2917,6 @@ heldur	c	heldur
 fyrrnefnda	lveosf	fyrrnefndur
 vöggugjöf	nveo	vöggugjöf
 .	.	.
-
 Sætur	lkensf	sætur
 leikari	nken	leikari
 ,	,	,
@@ -3090,7 +2946,6 @@ vegna	ae	vegna
 guðsgjafarinnar	nveeg	guðsgjöf
 einnar	lveesf	einn
 .	.	.
-
 Bitastæð	lhfnsf	bitastæður
 ,	,	,
 Óskarsvæn	lhfnsf	óskarsvænn
@@ -3141,7 +2996,6 @@ dramatísk	lhfosf	dramatískur
 ,	,	,
 svokölluð	lhfosf	svokallaður
 .	.	.
-
 Aldrei	aa	aldrei
 fékk	sfg3eþ	fá
 Marilyn	e	Marilyn
@@ -3158,7 +3012,6 @@ lagi	nheþ	lag
 af	aþ	af
 ljótleika	nkeþ	ljótleiki
 .	.	.
-
 Hún	fpven	hún
 fékk	sfg3eþ	fá
 bara	aa	bara
@@ -3171,7 +3024,6 @@ heimska	lvenvf	heimskur
 ljóskan	nveng	ljóska
 áfram	aa	áfram
 .	.	.
-
 Ergó	nken-s	Ergó
 :	:	:
 Sætt	lhensf	sætur
@@ -3186,7 +3038,6 @@ djúpt	lhensf	djúpur
 og	c	og
 listrænt	lhensf	listrænn
 .	.	.
-
 Öll	foven	allur
 er	sfg3en	vera
 þessi	faven	þessi
@@ -3194,7 +3045,6 @@ goðsögn	nven	goðsögn
 hálf	aa	hálf
 öfugsnúin	lvensf	öfugsnúinn
 .	.	.
-
 Leikarar	nkfn	leikari
 ,	,	,
 sem	ct	sem
@@ -3218,7 +3068,6 @@ svo	aa	svo
 hafi	svg3en	hafa
 verið	ssg	vera
 .	.	.
-
 Þá	aa	þá
 gleymist	sfm3en	gleyma
 sú	faven	sá
@@ -3235,7 +3084,6 @@ en	c	en
 ljótleiki	nken	ljótleiki
 ekki	aa	ekki
 .	.	.
-
 Vondur	lkensf	vondur
 leikari	nken	leikari
 leikur	sfg3en	leika
@@ -3254,7 +3102,6 @@ engu	foheþ	enginn
 þar	aa	þar
 um	aa	um
 .	.	.
-
 Og	c	og
 þar	aa	þar
 sem	c	sem
@@ -3266,7 +3113,6 @@ ríkir	sfg3en	ríkja
 fegurðin	nveng	fegurð
 ein	lvensf	einn
 .	.	.
-
 RITHÖFUNDURINN	nkeng	rithöfundur
 Irvine	e	Irvine
 Welsh	e	Welsh
@@ -3306,7 +3152,6 @@ annars	fokee	annar
 konar	nkee	konar
 dópmyndar	nvee	dópmynd
 .	.	.
-
 Welsh	e	Welsh
 hefur	sfg3en	hafa
 þegar	aa	þegar
@@ -3331,7 +3176,6 @@ Films	e	Films
 ,	,	,
 framleiðir	sfg3en	framleiða
 .	.	.
-
 Welsh	e	Welsh
 byggir	sfg3en	byggja
 söguna	nveog	saga
@@ -3365,7 +3209,6 @@ og	c	og
 undir	aþ	undir
 höndum	nvfþ	hönd
 .	.	.
-
 Þau	fphfn	það
 áttu	sfg3fþ	eiga
 yfir	aþ	yfir
@@ -3392,7 +3235,6 @@ að	cn	að
 múta	sng	múta
 landamæravörðum	nkfþ	landamæravörður
 .	.	.
-
 Leikhópurinn	nkeng	leikhópur
 hefur	sfg3en	hafa
 ekki	aa	ekki
@@ -3413,7 +3255,6 @@ að	cn	að
 framleiða	sng	framleiða
 myndina	nveog	mynd
 .	.	.
-
 UM	aa	um
 265	ta	265
 bíómyndir	nvfn	bíómynd
@@ -3460,7 +3301,6 @@ sem	ct	sem
 vöktu	sfg3fþ	vekja
 athygli	nveo	athygli
 .	.	.
-
 Meðal	ae	meðal
 þeirra	fpvfe	hún
 voru	sfg3fþ	vera
@@ -3472,7 +3312,6 @@ eftir	ao	eftir
 Todd	e	Todd
 Haynes	e	Haynes
 .	.	.
-
 Julianne	e	Julianne
 Moore	e	Moore
 er	sfg3en	vera
@@ -3498,7 +3337,6 @@ Bandaríkjum	nhfþ-s	Bandaríki
 6.	ta	6.
 áratugarins	nkeeg	áratugur
 .	.	.
-
 Lost	e	Lost
 in	e	in
 La	e	La
@@ -3526,7 +3364,6 @@ og	c	og
 aftan	aa	aftan
 tökuvélina	nveog	tökuvél
 .	.	.
-
 The	e	The
 Guys	e	Guys
 eftir	ao	eftir
@@ -3558,14 +3395,12 @@ og	c	og
 fórnarlömb	nhfo	fórnarlamb
 þeirra	fpkfe	hann
 .	.	.
-
 White	e	White
 Oleander	e	Oleander
 eftir	ao	eftir
 Peter	e	Peter
 Kosminsky	e	Kosminsky
 .	.	.
-
 Michelle	e	Michelle
 Pfeiffer	e	Pfeiffer
 leikur	sfg3en	leika
@@ -3589,13 +3424,11 @@ fangelsuð	sþgven	fangelsa
 fyrir	ao	fyrir
 morð	nheo	morð
 .	.	.
-
 Frida	e	Frida
 eftir	ao	eftir
 Julie	e	Julie
 Taymor	e	Taymor
 .	.	.
-
 Salma	e	Salma
 Hayek	e	Hayek
 þykir	sfg3en	þykja
@@ -3613,7 +3446,6 @@ um	ao	um
 líf	nheo	líf
 hennar	fpvee	hún
 .	.	.
-
 City	e	City
 Of	e	Of
 God	e	God
@@ -3631,7 +3463,6 @@ Rio	e	Rio
 de	e	de
 Janeiro	e	Janeiro
 .	.	.
-
 Max	e	Max
 eftir	ao	eftir
 Menno	e	Menno
@@ -3648,7 +3479,6 @@ München	e	München
 árið	nheog	ár
 1918	ta	1918
 .	.	.
-
 Noah	e	Noah
 Taylor	e	Taylor
 og	c	og
@@ -3658,7 +3488,6 @@ eru	sfg3fn	vera
 í	aþ	í
 aðalhlutverkum	nhfþ	aðalhlutverk
 .	.	.
-
 Flower	e	Flower
 &	c	&
 Garnet	e	Garnet
@@ -3677,7 +3506,6 @@ börn	nhfo	barn
 hans	fpkee	hann
 tvö	tfhfo	tveir
 .	.	.
-
 Ræddu	sbg2en	ræða
 málin	nhfog	mál
 ,	,	,
@@ -3695,7 +3523,6 @@ kvikmyndahátíðinni	nveþg	kvikmyndahátíð
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Auto-Focus	e	Auto-Focus
 eftir	ao	eftir
 Paul	e	Paul
@@ -3713,7 +3540,6 @@ fórnarlamb	nhen	fórnarlamb
 eigin	lveeof	eigin
 kynlífsfíknar	nvee	kynlífsfíkn
 .	.	.
-
 Greg	e	Greg
 Kinnear	e	Kinnear
 og	c	og
@@ -3723,7 +3549,6 @@ eru	sfg3fn	vera
 í	aþ	í
 aðalhlutverkunum	nhfþg	aðalhlutverk
 .	.	.
-
 ÍSLENSKA	lvenvf	íslenskur
 kvikmyndin	nveng	kvikmynd
 Hafið	nhengs	Haf
@@ -3748,7 +3573,6 @@ desember	nkeo	desember
 í	aþ	í
 Róm	nveþ-s	Róm
 .	.	.
-
 Fjórar	tfvfn	fjórir
 aðrar	fovfn	annar
 norrænar	lvfnsf	norrænn
@@ -3793,7 +3617,6 @@ Moodysson	e	Moodysson
 frá	aþ	frá
 Svíþjóð	nveþ-s	Svíþjóð
 .	.	.
-
 Alls	aa	alls
 eru	sfg3fn	vera
 37	ta	37
@@ -3829,7 +3652,6 @@ handrit	nheo	handrit
 og	c	og
 kvikmyndatöku	nveo	kvikmyndataka
 .	.	.
-
 Um	aa	um
 50	to	50
 þúsund	tfvfn	þúsund
@@ -3845,7 +3667,6 @@ Evrópu	nveo-s	Evrópa
 milli	ae	milli
 akademíufélaga	nkfe	akademíufélagi
 .	.	.
-
 Meðal	ae	meðal
 mynda	nvfe	mynd
 þekktra	lkfesf	þekktur
@@ -3915,7 +3736,6 @@ eftir	ao	eftir
 Julio	e	Julio
 Medem	e	Medem
 .	.	.
-
 Movern	e	Movern
 Callar	e	Callar
 eftir	ao	eftir
@@ -3940,7 +3760,6 @@ eftir	ao	eftir
 Roman	e	Roman
 Polanski	e	Polanski
 .	.	.
-
 Spænska	lvenvf	spænskur
 kvikmyndahátíðin	nveng	kvikmyndahátíð
 ,	,	,
@@ -3957,7 +3776,6 @@ einkar	aa	einkar
 vel	aa	vel
 heppnuð	lvensf	heppnaður
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 gaman	nhen	gaman
@@ -4016,7 +3834,6 @@ af	aþ	af
 ýmsu	foheþ	ýmis
 tagi	nheþ	tag
 .	.	.
-
 Árangurinn	nkeng	árangur
 er	sfg3en	vera
 sá	faken	sá
@@ -4030,7 +3847,6 @@ mörg	lhfosf	margur
 þúsund	nhfo	þúsund
 manns	nkee	maður
 .	.	.
-
 Vonandi	aa	vonandi
 getur	sfg3en	geta
 hún	fpven	hún
@@ -4061,7 +3877,6 @@ eru	sfg3fn	vera
 til	ae	til
 staðar	nkee	staður
 .	.	.
-
 *	*	*
 Ég	fp1en	ég
 veit	sfg1en	vita
@@ -4083,7 +3898,6 @@ af	aþ	af
 að	cn	að
 nöldra	sng	nöldra
 .	.	.
-
 Samt	aa	samt
 er	sfg3en	vera
 það	fphen	það
@@ -4110,7 +3924,6 @@ hér	aa	hér
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 eitthvert	fohen	einhver
@@ -4125,7 +3938,6 @@ einkennir	sfg3en	einkenna
 sýningarnar	nvfog	sýning
 sjálfar	fbvfo	sjálfur
 .	.	.
-
 Æ	aa	æ
 ofan	aa	ofan
 í	aa	í
@@ -4146,14 +3958,12 @@ að	c	að
 sýningar	nvfn	sýning
 hefjist	svm3fn	hefja
 .	.	.
-
 Hvað	fsheo	hver
 eru	sfg3fn	vera
 sýningarmenn	nkfn	sýningarmaður
 að	cn	að
 hugsa	sng	hugsa
 ?	?	?
-
 Er	sfg3en	vera
 eðlilegt	lhensf	eðlilegur
 að	c	að
@@ -4179,7 +3989,6 @@ að	cn	að
 vera	sng	vera
 hafin	lvensf	hafinn
 ?	?	?
-
 Annað	fohen	annar
 sem	ct	sem
 er	sfg3en	vera
@@ -4228,7 +4037,6 @@ og	c	og
 þýðingartextinn	nkeng	þýðingartexti
 sést	sfm3en	sjá
 .	.	.
-
 Á	aþ	á
 fyrrnefndri	lveþsf	fyrrnefndur
 spænskri	lveþsf	spænskur
@@ -4249,7 +4057,6 @@ síst	aae	síður
 sal	nkeþ	salur
 2	ta	2
 .	.	.
-
 Eitt	foheo	einn
 sinn	nheo	sinn
 datt	sfg3eþ	detta
@@ -4282,7 +4089,6 @@ stúlkurnar	nvfog	stúlka
 sælgætissölunni	nveþg	sælgætissala
 vita	sng	vita
 .	.	.
-
 Ekki	aa	ekki
 er	sfg3en	vera
 nóg	lhensf	nógur
@@ -4304,7 +4110,6 @@ sýningarklefanum	nkeþg	sýningarklefi
 en	c	en
 þetta	fahen	þessi
 .	.	.
-
 *	*	*
 Það	fphen	það
 er	sfg3en	vera
@@ -4349,7 +4154,6 @@ fagmennsku	nveo	fagmennska
 í	aþ	í
 greininni	nveþg	grein
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 fer	sfg3en	fara
@@ -4425,7 +4229,6 @@ skemmtanir	nvfo	skemmtun
 og	c	og
 menningarstarfsemi	nveo	menningarstarfsemi
 .	.	.
-
 Vonandi	aa	vonandi
 eykst	sfm3en	auka
 fjölbreytnin	nveng	fjölbreytni
@@ -4442,7 +4245,6 @@ kvikmyndaklúbba	nkfo	kvikmyndaklúbbur
 beggja	fovfe	báðir
 blokka	nvfe	blokk
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 er	sfg3en	vera
@@ -4456,7 +4258,6 @@ enn	aa	enn
 í	aþ	í
 óvissu	nveþ	óvissa
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 hreinlega	aa	hreinlega
@@ -4488,7 +4289,6 @@ samvinnu	nveþ	samvinna
 við	ao	við
 kvikmyndahúsin	nhfog	kvikmyndahús
 .	.	.
-
 *	*	*
 Amerískar	lvfnsf	amerískur
 afþreyingarmyndir	nvfn	afþreyingarmynd
@@ -4497,7 +4297,6 @@ sem	ct	sem
 fyrr	aam	fyrr
 myndaframboðinu	nheþg	myndaframboð
 .	.	.
-
 Á	aþ	á
 þessum	fakeþ	þessi
 stað	nkeþ	staður
@@ -4520,7 +4319,6 @@ obbann	nkeog	obbi
 af	aþ	af
 Hollywood-framleiðslunni	nveþgs	Hollywoodframleiðsla
 .	.	.
-
 Ekki	aa	ekki
 síst	aae	síður
 á	sfg3en	eiga
@@ -4539,7 +4337,6 @@ hafa	sfg3fn	hafa
 ráðið	ssg	ráða
 ríkjum	nhfþ	ríki
 .	.	.
-
 Því	aa	því
 var	sfg3eþ	vera
 óvænt	lvensf	óvæntur
@@ -4587,7 +4384,6 @@ fara	sng	fara
 grafalvarlega	lveosf	grafalvarlegur
 leið	nveo	leið
 .	.	.
-
 Það	fphen	það
 tekst	sfm3en	taka
 bærilega	aa	bærilega
@@ -4605,7 +4401,6 @@ sjálf	fbven	sjálfur
 vera	sng	vera
 láta	sng	láta
 .	.	.
-
 Ég	fp1en	ég
 get	sfg1en	geta
 ómögulega	aa	ómögulega
@@ -4667,7 +4462,6 @@ við	aþ	við
 aðstæðum	nvfþ	aðstæður
 vélrænt	aa	vélrænt
 .	.	.
-
 Liman	e	Liman
 fer	sfg3en	fara
 í	aþ	í
@@ -4682,7 +4476,6 @@ og	c	og
 af	aþ	af
 öryggi	nheþ	öryggi
 .	.	.
-
 XXX	x	XXX
 er	sfg3en	vera
 villimennskuútgáfa	nven	villimennskuútgáfa
@@ -4703,7 +4496,6 @@ kjánalegri	lvfnvm	kjánalegur
 en	c	en
 fyrr	aam	fyrr
 .	.	.
-
 Hetjan	nveng	hetja
 ,	,	,
 Vin	e	Vin
@@ -4747,7 +4539,6 @@ epli	nheo	epli
 í	aþ	í
 hálsinum	nkeþg	háls
 .	.	.
-
 Í	ao	í
 stað	nkeo	staður
 Martini	e	Martini
@@ -4765,7 +4556,6 @@ að	aþ	að
 hætti	nkeþ	háttur
 vítisengla	nkfe	vítisengill
 .	.	.
-
 Í	ao	í
 stað	nkeo	staður
 fágaðrar	lveesf	fágaður
@@ -4779,7 +4569,6 @@ að	aþ	að
 hætti	nkeþ	háttur
 Rammsteins	e	Rammsteins
 .	.	.
-
 Í	ao	í
 stað	nkeo	staður
 virðuleika	nkee	virðuleiki
@@ -4795,7 +4584,6 @@ Samuel	e	Samuel
 L.	as	L.
 Jackson	e	Jackson
 .	.	.
-
 Alheimsógnin	nveng	alheimsógn
 stafar	sfg3en	stafa
 hér	aa	hér
@@ -4818,7 +4606,6 @@ séu	svg3fn	vera
 með	ao	með
 tunguhöft	nhfo	tunguhaft
 .	.	.
-
 XXX	x	XXX
 er	sfg3en	vera
 rotweilerhundur	nken	rotweilerhundur
@@ -4831,7 +4618,6 @@ að	aþ	að
 niðurlotum	nhfþ	niðurlot
 komin	sþgven	koma
 .	.	.
-
 Nú	aa	nú
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -4869,14 +4655,12 @@ The	e	The
 Bourne	e	Bourne
 Identity	e	Identity
 .	.	.
-
 Þangað	aa	þangað
 til	aa	til
 007	e	007
 birtist	sfm3en	birta
 næst	aae	nærri
 .	.	.
-
 SVIPTINGASAMT	lhensf	sviptingasamur
 hjónaband	nhen	hjónaband
 ljóðskáldanna	nhfeg	ljóðskáld
@@ -4901,7 +4685,6 @@ Craig	e	Craig
 í	aþ	í
 aðalhlutverkum	nhfþ	aðalhlutverk
 .	.	.
-
 Myndin	nveng	mynd
 er	sfg3en	vera
 kynnt	sþgven	kynna
@@ -4936,7 +4719,6 @@ síðar	aam	síðar
 árið	nheog	ár
 1963	ta	1963
 .	.	.
-
 Allt	fohen	allur
 frá	aþ	frá
 því	fpheþ	það
@@ -4965,7 +4747,6 @@ kvikmyndagerðinni	nveþg	kvikmyndagerð
 staðið	ssg	standa
 yfir	aa	yfir
 .	.	.
-
 Leikstjórinn	nkeng	leikstjóri
 verður	sfg3en	verða
 Christine	e	Christine
@@ -4973,7 +4754,6 @@ Jeffs	e	Jeffs
 frá	aþ	frá
 Nýja-Sjálandi	nheþ-s	Nýja-Sjáland
 .	.	.
-
 SMELLUR	nken	smellur
 Ridleys	e	Ridleys
 Scott	e	Scott

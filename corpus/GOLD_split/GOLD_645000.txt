@@ -25,7 +25,6 @@ við	fp1fn	ég
 segir	sfg3en	segja
 hún	fpven	hún
 .	.	.
-
 -En	c	en
 hvað	fshen	hver
 finnst	sfm3en	finna
@@ -35,7 +34,6 @@ fínu	lhfovf	fínn
 hráefnin	nhfog	hráefni
 okkar	fp1fe	ég
 ?	?	?
-
 Þau	fphfn	það
 eru	sfg3fn	vera
 mjög	aa	mjög
@@ -52,7 +50,6 @@ vel	aa	vel
 með	ao	með
 þau	fphfo	það
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 bara	aa	bara
@@ -67,7 +64,6 @@ allt	fohen	allur
 er	sfg3en	vera
 frosið	lhensf	frosinn
 .	.	.
-
 Að	aþ	að
 því	faheþ	sá
 leytinu	nheþg	leyti
@@ -91,7 +87,6 @@ með	aþ	með
 mögulegum	lvfþsf	mögulegur
 aðferðum	nvfþ	aðferð
 .	.	.
-
 Fyrst	aae	fyrr
 þegar	c	þegar
 ég	fp1en	ég
@@ -140,7 +135,6 @@ að	aþ	að
 íslenska	lheþvf	íslenskur
 nautinu	nheþg	naut
 .	.	.
-
 Íslenskt	lhensf	íslenskur
 og	c	og
 próvensalskt	lhensf	próvensalskur
@@ -152,7 +146,6 @@ kokka	sng	kokka
 fyrir	ao	fyrir
 okkur	fp1fo	ég
 ?	?	?
-
 Ég	fp1en	ég
 nota	sfg1en	nota
 auðvitað	aa	auðvitað
@@ -166,7 +159,6 @@ geri	sfg1en	gera
 að	aþ	að
 mínum	fehfþ	minn
 .	.	.
-
 Ég	fp1en	ég
 ætla	sfg1en	ætla
 að	cn	að
@@ -204,7 +196,6 @@ með	aþ	með
 hráu	lheþsf	hrár
 grænmeti	nheþ	grænmeti
 .	.	.
-
 Í	aþ	í
 þeim	fakeþ	sá
 rétti	nkeþ	réttur
@@ -215,7 +206,6 @@ og	c	og
 frönsk	lhfnsf	franskur
 áhrif	nhfn	áhrif
 .	.	.
-
 Svo	aa	svo
 vil	sfg1en	vilja
 ég	fp1en	ég
@@ -236,7 +226,6 @@ brandöðuna	nveog	brandaða
 fjóra	tfkfo	fjórir
 vegu	nkfo	vegur
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 nefnilega	aa	nefnilega
@@ -264,7 +253,6 @@ skiptum	nhfþ	skipti
 fyrir	ao	fyrir
 þorsk	nkeo	þorskur
 .	.	.
-
 Nautið	nheog	naut
 ætla	sfg1en	ætla
 ég	fp1en	ég
@@ -274,7 +262,6 @@ matreiða	sng	matreiða
 þrjá	tfkfo	þrír
 vegu	nkfo	vegur
 .	.	.
-
 Sjóða	sng	sjóða
 það	fpheo	það
 bæði	c	bæði
@@ -292,7 +279,6 @@ fleiri	lhfovm	margur
 góð	lhfosf	góður
 krydd	nhfo	krydd
 .	.	.
-
 Lundin	nveng	lund
 verður	sfg3en	verða
 síðan	aa	síðan
@@ -309,7 +295,6 @@ framreiddur	sþgken	framreiða
 með	aþ	með
 mergbeini	nheþ	mergbein
 .	.	.
-
 Í	ao	í
 eftirréttinn	nkeog	eftirréttur
 blanda	sfg1en	blanda
@@ -359,7 +344,6 @@ sínum	fekeþ	sinn
 í	aþ	í
 París	nveþ-s	París
 .	.	.
-
 Eru	sfg3fn	vera
 vínin	nhfng	vín
 sem	ct	sem
@@ -371,7 +355,6 @@ valin	sþghfn	velja
 af	aþ	af
 þér	fp2eþ	þú
 ?	?	?
-
 Nei	au	nei
 ,	,	,
 það	fpheo	það
@@ -380,7 +363,6 @@ sjá	sfg3fn	sjá
 Holtsins	nheegs	Holt
 um	ao	um
 .	.	.
-
 Við	fp1fn	ég
 höfum	sfg1fn	hafa
 smakkað	ssg	smakka
@@ -414,12 +396,10 @@ að	aþ	að
 íslenskum	lhfþsf	íslenskur
 hráefnum	nhfþ	hráefni
 .	.	.
-
 Texti	nken	texti
 Hildur	nven-s	Hildur
 Loftsdóttir	nven-s	Loftsdóttir
 .	.	.
-
 Það	fphen	það
 hefur	sfg3en	hafa
 sýnt	ssg	sýna
@@ -433,7 +413,6 @@ jafnfætis	aa	jafnfætis
 erlendri	lveþsf	erlendur
 matvöru	nveþ	matvara
 .	.	.
-
 Mjólkurafurðirnar	nvfng	mjólkurafurð
 eru	sfg3fn	vera
 í	aþ	í
@@ -469,7 +448,6 @@ best	lhense	góður
 í	aþ	í
 heimi	nkeþ	heimur
 .	.	.
-
 Notum	svg1fn	nota
 þetta	faheo	þessi
 góða	lheovf	góður
@@ -483,7 +461,6 @@ t.d	as	t.d
 á	ao	á
 bolludaginn	nkeog	bolludagur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ekki	aa	ekki
@@ -499,7 +476,6 @@ nákvæmlega	aa	nákvæmlega
 eftir	aþ	eftir
 leiðbeiningunum	nvfþg	leiðbeining
 .	.	.
-
 Góð	lvensf	góður
 regla	nven	regla
 er	sfg3en	vera
@@ -518,7 +494,6 @@ geta	sfg3fn	geta
 bollurnar	nvfng	bolla
 fallið	ssg	falla
 .	.	.
-
 Fylgist	sbm2fn	fylgja
 vel	aa	vel
 með	aþ	með
@@ -540,7 +515,6 @@ virðast	sfm3fn	virða
 alveg	aa	alveg
 tilbúnar	lvfnsf	tilbúinn
 .	.	.
-
 Vatnsdeigsbollur	nvfn	vatnsdeigsbolla
 eru	sfg3fn	vera
 léttar	lvfnsf	léttur
@@ -555,7 +529,6 @@ fyllingu	nveþ	fylling
 sem	ct	sem
 er	sfg3en	vera
 .	.	.
-
 Hefðbundin	lvensf	hefðbundinn
 fylling	nven	fylling
 í	ao	í
@@ -570,7 +543,6 @@ súkkulaðiglassúr	nken	súkkulaðiglassúr
 smurður	lkensf	smurður
 yfir	aa	yfir
 .	.	.
-
 Hér	aa	hér
 eru	sfg3fn	vera
 hins	fakee	hinn
@@ -594,7 +566,6 @@ breyta	sng	breyta
 örlítið	aa	örlítið
 til	aa	til
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 tilvalið	lhensf	tilvalinn
@@ -638,12 +609,10 @@ við	ao	við
 sitt	feheo	sinn
 hæfi	nheo	hæfi
 .	.	.
-
 Umsjón	nven	umsjón
 Rut	nven-s	Rut
 Helgadóttir	nven-s	Helgadóttir
 .	.	.
-
 Myndir	nvfn	mynd
 Arnaldur	nken-s	Arnaldur
 Halldórsson	nken-s	Halldórsson
@@ -674,7 +643,6 @@ suðuna	nveog	suða
 koma	sng	koma
 upp	aa	upp
 .	.	.
-
 Hrærið	sbg2fn	hræra
 í	aa	í
 á	aa	á
@@ -682,7 +650,6 @@ meðan	c	meðan
 smjörlíkið	nheng	smjörlíki
 bráðnar	sfg3en	bráðna
 .	.	.
-
 Setjið	sbg2fn	setja
 hveitið	nheog	hveiti
 út	aa	út
@@ -704,7 +671,6 @@ drekkur	sfg3en	drekka
 sig	fpheo	sig
 vökvann	nkeog	vökvi
 .	.	.
-
 Takið	sbg2fn	taka
 pottinn	nkeog	pottur
 af	aþ	af
@@ -723,14 +689,12 @@ skán	nven	skán
 hefur	sfg3en	hafa
 myndast	ssm	mynda
 .	.	.
-
 Kælið	sbg2fn	kæla
 deigið	nheog	deig
 í	ao	í
 5-8	ta	5-8
 mínútur	nvfo	mínúta
 .	.	.
-
 Bætið	sbg2fn	bæta
 eggjunum	nhfþg	egg
 saman	aa	saman
@@ -746,7 +710,6 @@ vel	aa	vel
 á	aa	á
 milli	aa	milli
 .	.	.
-
 Hitið	sbg2fn	hita
 ofninn	nkeog	ofn
 í	ao	í
@@ -757,7 +720,6 @@ bökunarpappír	nkeo	bökunarpappír
 á	ao	á
 ofnplötuna	nveog	ofnplata
 .	.	.
-
 Mótið	sbg2fn	móta
 bollur	nvfo	bolla
 með	aþ	með
@@ -768,7 +730,6 @@ u.þ.b.	as	u.þ.b.
 2	ta	2
 msk	as	msk
 .	.	.
-
 af	aþ	af
 deigi	nheþ	deig
 með	aþ	með
@@ -784,7 +745,6 @@ deiginu	nheþg	deig
 með	aþ	með
 rjómasprautu	nveþ	rjómasprauta
 .	.	.
-
 Bakið	sbg2fn	baka
 bollurnar	nvfog	bolla
 í	ao	í
@@ -808,7 +768,6 @@ ljósbrúnar	lvfnsf	ljósbrúnn
 að	aþ	að
 lit	nkeþ	litur
 .	.	.
-
 Hafliði	nken-s	Hafliði
 Ragnarsson	nken-s	Ragnarsson
 lærði	sfg3eþ	læra
@@ -838,7 +797,6 @@ hann	fpken	hann
 vann	sfg3eþ	vinna
 þar	aa	þar
 .	.	.
-
 1997	ta	1997
 fór	sfg3eþ	fara
 hann	fpken	hann
@@ -852,7 +810,6 @@ konditors	nkee	konditor
 í	aþ	í
 Danmörku	nveþ-s	Danmörk
 .	.	.
-
 Í	aþ	í
 konditor-náminu	nheþg	konditornám
 læra	sfg3fn	læra
@@ -887,7 +844,6 @@ námskeið	nhfo	námskeið
 í	aþ	í
 súkkulaðifræðum	nhfþ	súkkulaðifræði
 .	.	.
-
 Súkkulaði	nhen	súkkulaði
 er	sfg3en	vera
 eitthvað	fohen	einhver
@@ -943,7 +899,6 @@ eru	sfg3fn	vera
 annars	fokee	annar
 vegar	nkee	vegur
 .	.	.
-
 Ákveðin	lhfnsf	ákveðinn
 kaflaskil	nhfn	kaflaskil
 í	aþ	í
@@ -983,7 +938,6 @@ Belgíu	nvee-s	Belgía
 sem	ct	sem
 sigraði	sfg3eþ	sigra
 .	.	.
-
 Ég	fp1en	ég
 fór	sfg1eþ	fara
 vissulega	aa	vissulega
@@ -1042,7 +996,6 @@ bakstri	nkeþ	bakstur
 og	c	og
 kökugerð	nveþ	kökugerð
 .	.	.
-
 Það	fphen	það
 opnuðust	sfm3fþ	opna
 líka	aa	líka
@@ -1069,7 +1022,6 @@ hrökkva	sng	hrökkva
 eða	c	eða
 stökkva	sng	stökkva
 .	.	.
-
 Hafliði	nken-s	Hafliði
 ákvað	sfg3eþ	ákveða
 að	cn	að
@@ -1100,7 +1052,6 @@ vörumerkinu	nheþg	vörumerki
 HR	as	HR
 konfekt	nhen	konfekt
 .	.	.
-
 Þeirri	faveþ	sá
 framleiðslu	nveþ	framleiðsla
 var	sfg3eþ	vera
@@ -1139,7 +1090,6 @@ ekki	aa	ekki
 nógu	lheþsf	nógur
 afkastamikill	lkensf	afkastamikill
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 því	aa	því
@@ -1165,7 +1115,6 @@ vélar	nvfo	vél
 til	ae	til
 framleiðslunnar	nveeg	framleiðsla
 .	.	.
-
 Fyrir	ao	fyrir
 páskana	nkfog	páskar
 kynnir	sfg3en	kynna
@@ -1188,7 +1137,6 @@ með	aþ	með
 handgerðu	lheþsf	handgerður
 konfekti	nheþ	konfekt
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 þó	aa	þó
@@ -1215,7 +1163,6 @@ mjög	aa	mjög
 takmörkuðu	lheþsf	takmarkaður
 magni	nheþ	magn
 .	.	.
-
 Súkkulaðið	nheng	súkkulaði
 í	aþ	í
 eggjunum	nhfþg	egg
@@ -1239,7 +1186,6 @@ fenjasvæði	nheþ	fenjasvæði
 í	aþ	í
 Bólivíu	nveþ-s	Bólivía
 .	.	.
-
 Kakóávextirnir	nkfng	kakóávöxtur
 eru	sfg3fn	vera
 minni	lkfnvm	lítill
@@ -1269,7 +1215,6 @@ kakórunnunum	nkfþg	kakórunni
 á	aþ	á
 bátum	nkfþ	bátur
 .	.	.
-
 Fyrir	ao	fyrir
 vikið	nheog	vik
 er	sfg3en	vera
@@ -1284,7 +1229,6 @@ og	c	og
 kostar	sfg3en	kosta
 sitt	feheo	sinn
 .	.	.
-
 Súkkulaðið	nheng	súkkulaði
 er	sfg3en	vera
 með	ao	með
@@ -1293,7 +1237,6 @@ kakóinnihald	nheo	kakóinnihald
 og	c	og
 bragðmikið	lhensf	bragðmikill
 .	.	.
-
 Í	aþ	í
 því	fpheþ	það
 er	sfg3en	vera
@@ -1323,7 +1266,6 @@ lýsa	sng	lýsa
 göfugu	lheþsf	göfugur
 víni	nheþ	vín
 .	.	.
-
 Hann	fpken	hann
 fékk	sfg3eþ	fá
 ekki	aa	ekki
@@ -1352,7 +1294,6 @@ páskaegg	nhfo	páskaegg
 úr	aþ	úr
 því	fpheþ	það
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ekkert	fohen	enginn
@@ -1396,7 +1337,6 @@ súkkulaði	nheo	súkkulaði
 og	c	og
 bragðefni	nheo	bragðefni
 .	.	.
-
 Hlutföllin	nhfng	hlutfall
 skipta	sfg3fn	skipta
 miklu	lheþsf	mikill
@@ -1408,7 +1348,6 @@ líka	aa	líka
 mjög	aa	mjög
 mikilvægt	lhensf	mikilvægur
 .	.	.
-
 Þar	aa	þar
 sem	c	sem
 páskaeggin	nhfng	páskaegg
@@ -1429,7 +1368,6 @@ og	c	og
 mismunandi	lvfnof	mismunandi
 skreytingar	nvfn	skreyting
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 ekki	aa	ekki
@@ -1460,17 +1398,14 @@ njóti	svg3en	njóta
 þess	fphee	það
 þannig	aa	þannig
 .	.	.
-
 Texti	nken	texti
 Árni	nken-s	Árni
 Matthíasson	nken-s	Matthíasson
 .	.	.
-
 Ljósmyndir	nvfn	ljósmynd
 Arnaldur	nken-s	Arnaldur
 Halldórsson	nken-s	Halldórsson
 .	.	.
-
 Kokka	nven-s	Kokka
 hefur	sfg3en	hafa
 hafið	ssg	hefja
@@ -1491,7 +1426,6 @@ m.a.	as	m.a.
 til	ae	til
 gnocchigerðar	nvee	gnocchigerð
 .	.	.
-
 Í	aþ	í
 tilefni	nheþ	tilefni
 ítalskra	lkfesf	ítalskur
@@ -1514,7 +1448,6 @@ laugardaginn	nkeog	laugardagur
 25.	ta	25.
 mars	nkeo	mars
 .	.	.
-
 Imperia	e	Imperia
 framleiðir	sfg3en	framleiða
 bæði	c	bæði
@@ -1544,7 +1477,6 @@ pasta	nheo	pasta
 miklu	lheþsf	mikill
 magni	nheþ	magn
 .	.	.
-
 Pastavélarnar	nvfog	pastavél
 má	sfg3en	mega
 þó	aa	þó
@@ -1567,7 +1499,6 @@ að	cn	að
 valsa	sng	valsa
 bökudeig	nheo	bökudeig
 .	.	.
-
 súkkulaðikaka	nven	súkkulaðikaka
 með	aþ	með
 viskíi	nheþ	viskí
@@ -1602,7 +1533,6 @@ kakó	nhen	kakó
 1	ta	1
 tsk	as	tsk
 .	.	.
-
 lyftiduft	nhen	lyftiduft
 meðlæti	nhen	meðlæti
 :	:	:
@@ -1634,7 +1564,6 @@ u.þ.b.	as	u.þ.b.
 10	ta	10
 mínútur	nvfo	mínúta
 .	.	.
-
 Setjið	sbg2fn	setja
 smjör	nheo	smjör
 og	c	og
@@ -1647,13 +1576,11 @@ og	c	og
 látið	sbg2fn	láta
 bráðna	sng	bráðna
 .	.	.
-
 Hellið	sbg2fn	hella
 viskíinu	nheþg	viskí
 út	aa	út
 í	aa	í
 .	.	.
-
 Skiljið	sbg2fn	skilja
 eggin	nhfog	egg
 í	ao	í
@@ -1661,7 +1588,6 @@ rauður	nvfo	rauða
 og	c	og
 hvítur	nvfo	hvíta
 .	.	.
-
 Þeytið	sbg2fn	þeyta
 saman	aa	saman
 eggjarauður	nvfo	eggjarauða
@@ -1673,7 +1599,6 @@ saman	aa	saman
 við	ao	við
 súkkulaðið	nheog	súkkulaði
 .	.	.
-
 Blandið	sbg2fn	blanda
 hnetum	nvfþ	hneta
 ,	,	,
@@ -1688,7 +1613,6 @@ og	c	og
 blandið	sbg2fn	blanda
 saman	aa	saman
 .	.	.
-
 Stífþeytið	sbg2fn	stífþeyta
 eggjahvítur	nvfo	eggjahvíta
 og	c	og
@@ -1699,7 +1623,6 @@ við	aa	við
 með	aþ	með
 sleikju	nveþ	sleikja
 .	.	.
-
 Setjið	sbg2fn	setja
 í	ao	í
 form	nheo	form
@@ -1714,7 +1637,6 @@ við	ao	við
 30	ta	30
 mínútur	nvfo	mínúta
 .	.	.
-
 Þeytið	sbg2fn	þeyta
 rjómann	nkeog	rjómi
 og	c	og
@@ -1729,7 +1651,6 @@ setjið	sbg2fn	setja
 á	ao	á
 kökuna	nveog	kaka
 .	.	.
-
 Þessi	faven	þessi
 kaka	nven	kaka
 er	sfg3en	vera
@@ -1747,7 +1668,6 @@ er	sfg3en	vera
 borin	sþgven	bera
 fram	aa	fram
 .	.	.
-
 gráfíkjubrauð	nhen	gráfíkjubrauð
 2-3	ta	2-3
 brauð	nhfn	brauð
@@ -1813,14 +1733,12 @@ alla	fokfo	allur
 harða	lkfosf	harður
 bita	nkfo	biti
 .	.	.
-
 Setjið	sbg2fn	setja
 í	ao	í
 skál	nveo	skál
 með	aþ	með
 hörfræjum	nhfþ	hörfræ
 .	.	.
-
 Hitið	sbg2fn	hita
 3½	ta	3½
 dl	as	dl
@@ -1841,7 +1759,6 @@ standa	sng	standa
 10	ta	10
 mínútur	nvfo	mínúta
 .	.	.
-
 Hærið	sbg2fn	hæra
 gerið	nheog	ger
 og	c	og
@@ -1866,7 +1783,6 @@ er	sfg3en	vera
 við	ao	við
 37°C	ta	37°c
 .	.	.
-
 Setjið	sbg2fn	setja
 í	ao	í
 hrærivélarskál	nveo	hrærivélarskál
@@ -1886,7 +1802,6 @@ rúgmjöl	nheo	rúgmjöl
 saman	aa	saman
 við	aa	við
 .	.	.
-
 Látið	sbg2fn	láta
 lyfta	sng	lyfta
 sér	fpheþ	sig
@@ -1894,7 +1809,6 @@ sér	fpheþ	sig
 40	ta	40
 mínútur	nvfo	mínúta
 .	.	.
-
 Hellið	sbg2fn	hella
 deiginu	nheþg	deig
 á	ao	á
@@ -1910,7 +1824,6 @@ deigið	nheng	deig
 er	sfg3en	vera
 blautt	lhensf	blautur
 .	.	.
-
 Mótið	sbg2fn	móta
 í	ao	í
 bollur	nvfo	bolla
@@ -1925,7 +1838,6 @@ eða	c	eða
 í	ao	í
 form	nheo	form
 .	.	.
-
 Setjið	sbg2fn	setja
 fræ	nhfo	fræ
 yfir	aa	yfir
@@ -1946,7 +1858,6 @@ kosti	nkeþ	kostur
 30	ta	30
 mínútur	nvfo	mínúta
 .	.	.
-
 Bakið	sbg2fn	baka
 samkvæmt	aþ	samkvæmt
 leiðbeiningum	nvfþ	leiðbeining
@@ -1956,7 +1867,6 @@ framan	aa	framan
 við	ao	við
 200°C	ta	200°c
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 virkilega	aa	virkilega
@@ -1975,13 +1885,11 @@ jafnóðum	aa	jafnóðum
 í	aþ	í
 brauðristinni	nveþg	brauðrist
 .	.	.
-
 Þétt	lhensf	þéttur
 og	c	og
 bragðmikið	lhensf	bragðmikill
 hollustubrauð	nhen	hollustubrauð
 .	.	.
-
 sjávarpasta	nhen	sjávarpasta
 fyrir	ao	fyrir
 4	ta	4
@@ -2059,7 +1967,6 @@ leiðbeiningum	nvfþ	leiðbeining
 á	aþ	á
 umbúðum	nvfþ	umbúð
 .	.	.
-
 Ferskt	lhensf	ferskur
 pasta	nhen	pasta
 er	sfg3en	vera
@@ -2076,7 +1983,6 @@ nota	sng	nota
 það	fpheo	það
 líka	aa	líka
 .	.	.
-
 Hellið	sbg2fn	hella
 pastanu	nheþg	pasta
 í	ao	í
@@ -2087,7 +1993,6 @@ vatnið	nheog	vatn
 renna	sng	renna
 af	aa	af
 .	.	.
-
 Skerið	sbg2fn	skera
 blaðlauk	nkeo	blaðlaukur
 og	c	og
@@ -2095,7 +2000,6 @@ rauðlauk	nkeo	rauðlaukur
 í	ao	í
 bita	nkfo	biti
 .	.	.
-
 Hitið	sbg2fn	hita
 olíu	nveo	olía
 í	aþ	í
@@ -2121,7 +2025,6 @@ sjóða	sng	sjóða
 aðeins	aa	aðeins
 saman	aa	saman
 .	.	.
-
 Setjið	sbg2fn	setja
 vatn	nheo	vatn
 og	c	og
@@ -2138,7 +2041,6 @@ látið	sbg2fn	láta
 sjóða	sng	sjóða
 saman	aa	saman
 .	.	.
-
 Jafnið	sbg2fn	jafna
 með	aþ	með
 hvítum	lkeþsf	hvítur
@@ -2150,7 +2052,6 @@ suðuna	nveog	suða
 koma	sng	koma
 upp	aa	upp
 .	.	.
-
 Blandið	sbg2fn	blanda
 rækjum	nvfþ	rækja
 og	c	og
@@ -2180,7 +2081,6 @@ salti	nheþ	salt
 og	c	og
 pipar	nkeþ	pipar
 .	.	.
-
 Berið	sbg2fn	bera
 fram	aa	fram
 með	aþ	með
@@ -2189,10 +2089,8 @@ baunum	nvfþ	baun
 og	c	og
 hvítlauksbrauði	nheþ	hvítlauksbrauð
 .	.	.
-
 andar	nvee	önd
 tortelonni	e	tortelonni
-
 öndin	nveng	önd
 :	:	:
 1	ta	1
@@ -2239,7 +2137,6 @@ tíma	nkfo	tími
 fyrir	ao	fyrir
 notkun	nveo	notkun
 .	.	.
-
 Rúllið	sbg2fn	rúlla
 pastadeigið	nheog	pastadeig
 í	aþ	í
@@ -2266,14 +2163,12 @@ að	cn	að
 gera	sng	gera
 hálfmána	nkeo	hálfmáni
 .	.	.
-
 Sjóðið	sbg2fn	sjóða
 pastað	nheog	pasta
 rétt	aa	rétt
 fyrir	ao	fyrir
 notkun	nveo	notkun
 .	.	.
-
 Rjómaostsfylling	nven	rjómaostsfylling
 :	:	:
 Pastað	nheng	pasta
@@ -2282,7 +2177,6 @@ fyllt	sþghen	fylla
 með	aþ	með
 andalæra-confit	e	andalæra-confit
 .	.	.
-
 Þá	aa	þá
 eru	sfg3fn	vera
 andalærin	nhfng	andalæri
@@ -2311,7 +2205,6 @@ timjan	nheþ	timjan
 og	c	og
 rósmarín	nheþ	rósmarín
 .	.	.
-
 Kjötið	nheng	kjöt
 er	sfg3en	vera
 skafið	sþghen	skafa
@@ -2337,7 +2230,6 @@ salti	nheþ	salt
 og	c	og
 pipar	nkeþ	pipar
 .	.	.
-
 Hunangs-súraldinsósa	nven	hunangssúraldinsósa
 :	:	:
 Andabeinin	nhfng	andabein
@@ -2354,7 +2246,6 @@ eru	sfg3fn	vera
 orðin	sþghfn	verða
 brún	lhfnsf	brúnn
 .	.	.
-
 Grænmeti	nhen	grænmeti
 skorið	sþghen	skera
 gróft	aa	gróft
@@ -2382,7 +2273,6 @@ timjan	nhen	timjan
 og	c	og
 steinselja	nven	steinselja
 .	.	.
-
 Steikið	sbg2fn	steikja
 í	aþ	í
 potti	nkeþ	pottur
@@ -2405,7 +2295,6 @@ sjóðið	sbg2fn	sjóða
 í	ao	í
 1-2	ta	1-2
 klst.	as	klst.
-
 Sigtið	sbg2fn	sigta
 grænmetið	nheog	grænmeti
 og	c	og
@@ -2430,7 +2319,6 @@ fínum	lkeþsf	fínn
 hvítum	lkeþsf	hvítur
 pipar	nkeþ	pipar
 .	.	.
-
 Íslenskar	lvfnsf	íslenskur
 andabringur	nvfn	andabringa
 :	:	:
@@ -2446,7 +2334,6 @@ með	aþ	með
 mm	as	mm
 millibili	nheþ	millibil
 .	.	.
-
 Setjið	sbg2fn	setja
 á	ao	á
 miðlungsheita	lveosf	miðlungsheitur
@@ -2471,7 +2358,6 @@ að	aþ	að
 fallegri	lveþsf	fallegur
 puru	nveþ	pura
 .	.	.
-
 Setjið	sbg2fn	setja
 inn	aa	inn
 í	ao	í
@@ -2493,7 +2379,6 @@ orðinn	sþgken	verða
 um	aa	um
 50°C	ta	50°c
 .	.	.
-
 Andívur	nvfn	andíva
 (	(	(
 jólasalat	nhen	jólasalat
@@ -2511,7 +2396,6 @@ búið	lhensf	búinn
 að	cn	að
 kljúfa	sng	kljúfa
 .	.	.
-
 Smakkið	sbg2fn	smakka
 til	aa	til
 með	aþ	með
@@ -2522,13 +2406,11 @@ pipar	nkeþ	pipar
 og	c	og
 sítrónusafa	nkeþ	sítrónusafi
 .	.	.
-
 Bornar	sþgvfn	bera
 fram	aa	fram
 undir	aþ	undir
 andabringunum	nvfþg	andabringa
 .	.	.
-
 Hindberjagljái	nken	hindberjagljái
 :	:	:
 Eitt	tfhen	einn
@@ -2552,7 +2434,6 @@ msk	as	msk
 af	aþ	af
 vatni	nheþ	vatn
 .	.	.
-
 Blandið	sbg2fn	blanda
 saman	aa	saman
 í	ao	í
@@ -2582,7 +2463,6 @@ ofni	nkeþ	ofn
 í	ao	í
 7-10	ta	7-10
 mín.	as	mín.
-
 soðnir	lkfnsf	soðinn
 kryddaðir	lkfnsf	kryddaður
 hafrar	nkfn	hafri
@@ -2625,11 +2505,9 @@ sjóðið	sbg2fn	sjóða
 30	ta	30
 mínútur	nvfo	mínúta
 .	.	.
-
 Berið	sbg2fn	bera
 fram	aa	fram
 .	.	.
-
 nautasteik	nven	nautasteik
 með	aþ	með
 súkkulaðisósu	nveþ	súkkulaðisósa
@@ -2700,7 +2578,6 @@ skerið	sbg2fn	skera
 4	ta	4
 bita	nkfo	biti
 .	.	.
-
 Hitið	sbg2fn	hita
 olíu	nveo	olía
 á	aþ	á
@@ -2723,7 +2600,6 @@ kjarnhiti	nken	kjarnhiti
 er	sfg3en	vera
 55°C	ta	55°c
 .	.	.
-
 Hitið	sbg2fn	hita
 smjörið	nheog	smjör
 í	aþ	í
@@ -2734,7 +2610,6 @@ lauk	nkeo	laukur
 og	c	og
 hvítlauk	nkeo	hvítlaukur
 .	.	.
-
 Setjið	sbg2fn	setja
 vín	nheo	vín
 og	c	og
@@ -2751,7 +2626,6 @@ saman	aa	saman
 15	ta	15
 mínútur	nvfo	mínúta
 .	.	.
-
 Setjið	sbg2fn	setja
 súkkulaðið	nheog	súkkulaði
 út	aa	út
@@ -2770,7 +2644,6 @@ hvítvíni	nheþ	hvítvín
 og	c	og
 súkkulaði	nheþ	súkkulaði
 .	.	.
-
 Skerið	sbg2fn	skera
 kjötið	nheog	kjöt
 og	c	og
@@ -2786,9 +2659,7 @@ smjöri	nheþ	smjör
 og	c	og
 hvítlauk	nkeþ	hvítlaukur
 .	.	.
-
 12	ta	12
-
 Fjörðurinn	nkeng	fjörður
 dregur	sfg3en	draga
 nafn	nheo	nafn
@@ -2800,7 +2671,6 @@ liggja	sfg3fn	liggja
 eftir	aþ	eftir
 honum	fpkeþ	hann
 .	.	.
-
 Skerin	nhfng	sker
 eru	sfg3fn	vera
 leifar	nvfn	leif
@@ -2825,7 +2695,6 @@ fyrir	ao	fyrir
 innan	aa	innan
 skerin	nhfog	sker
 .	.	.
-
 Milli	ae	milli
 skerjanna	nhfeg	sker
 og	c	og
@@ -2847,7 +2716,6 @@ innst	aae	innar
 á	aþ	á
 firðinum	nkeþg	fjörður
 .	.	.
-
 Hlutafélagið	nheng	hlutafélag
 Höfn	nven-s	Höfn
 áformaði	sfg3eþ	áforma
@@ -2868,7 +2736,6 @@ borgina	nveog	borg
 Port	e	Port
 Reykjavík	nveo-s	Reykjavík
 .	.	.
-
 Ábúendur	nkfn	ábúandi
 Nauthóls	nkee-s	Nauthóll
 voru	sfg3fþ	vera
@@ -2890,7 +2757,6 @@ nú	aa	nú
 bara	aa	bara
 orðrómur	nken	orðrómur
 .	.	.
-
 Vorið	nheog	vor
 1913	ta	1913
 var	sfg3eþ	vera
@@ -2931,7 +2797,6 @@ neðst	aae	neðar
 í	aþ	í
 Skildinganesshólum	nkfþ-s	Skildinganesshólar
 .	.	.
-
 Óskar	nken-s	Óskar
 Halldórsson	nken-s	Halldórsson
 (	(	(
@@ -2956,7 +2821,6 @@ Reykjavíkurhöfn	nveo-s	Reykjavíkurhöfn
 árið	nheog	ár
 1921	ta	1921
 .	.	.
-
 Um	ao	um
 svipað	lheosf	svipaður
 leyti	nheo	leyti
@@ -2979,7 +2843,6 @@ stálskipasmíðastöð	nveo	stálskipasmíðastöð
 við	ao	við
 Skerjafjörð	nkeo-s	Skerjafjörður
 .	.	.
-
 Þessi	faven	þessi
 ráðagerð	nven	ráðagerð
 náði	sfg3eþ	ná
@@ -2991,7 +2854,6 @@ veg	nkeo	vegur
 að	aþ	að
 stöðvarlóðinni	nveþg	stöðvarlóð
 .	.	.
-
 Var	sfg3eþ	vera
 það	fphen	það
 Baugsvegur	nken-s	Baugsvegur
@@ -2999,7 +2861,6 @@ Baugsvegur	nken-s	Baugsvegur
 nú	aa	nú
 Bauganes	nhen-s	Bauganes
 .	.	.
-
 Einhver	foken	einhver
 þeirra	fpkfe	hann
 Baugsmanna	nkfe-s	Baugsmaður
@@ -3014,7 +2875,6 @@ selja	sng	selja
 stórar	lvfosf	stór
 lóðir	nvfo	lóð
 .	.	.
-
 Lóðirnar	nvfng	lóð
 voru	sfg3fþ	vera
 óspart	aa	óspart
@@ -3041,7 +2901,6 @@ fram	aa	fram
 undir	ao	undir
 1960	ta	1960
 .	.	.
-
 Hálfnaður	lkensf	hálfnaður
 að	cn	að
 skjóta	sng	skjóta
@@ -3053,7 +2912,6 @@ var	sfg3eþ	vera
 Georg	nken-s	Georg
 Jónsson	nken-s	Jónsson
 .	.	.
-
 Hann	fpken	hann
 seldi	sfg3eþ	selja
 grönnum	nkfþ	granni
@@ -3066,7 +2924,6 @@ egg	nhfo	egg
 og	c	og
 rauðmaga	nkeo	rauðmagi
 .	.	.
-
 Georg	nken-s	Georg
 var	sfg3eþ	vera
 enn	aa	enn
@@ -3082,7 +2939,6 @@ eftir	ao	eftir
 setningu	nveo	setning
 afurðasölulaga	nhfe	afurðasölulög
 .	.	.
-
 Georg	nken-s	Georg
 bóndi	nken	bóndi
 var	sfg3eþ	vera
@@ -3108,7 +2964,6 @@ skaut	sfg3eþ	skjóta
 í	ao	í
 hausinn	nkeog	haus
 .	.	.
-
 Skotið	nheng	skot
 var	sfg3eþ	vera
 ekki	aa	ekki
@@ -3121,7 +2976,6 @@ ekki	aa	ekki
 gegnum	ao	gegnum
 hauskúpuna	nveog	hauskúpa
 .	.	.
-
 Tuddinn	nkeng	tuddi
 hristi	sfg3eþ	hrista
 bara	aa	bara
@@ -3155,7 +3009,6 @@ strætó	nkeo	strætó
 á	aþ	á
 stoppistöðinni	nveþg	stoppistöð
 .	.	.
-
 Þegar	c	þegar
 vagninn	nkeng	vagn
 var	sfg3eþ	vera
@@ -3184,7 +3037,6 @@ upp	aa	upp
 í	ao	í
 Sportvöruhús	nheo-s	Sportvöruhús
 .	.	.
-
 Þegar	c	þegar
 þangað	aa	þangað
 kom	sfg3eþ	koma
@@ -3212,7 +3064,6 @@ bætti	sfg3eþ	bæta
 hann	fpken	hann
 við	aa	við
 .	.	.
-
 Svo	aa	svo
 tók	sfg3eþ	taka
 hann	fpken	hann
@@ -3223,7 +3074,6 @@ og	c	og
 kláraði	sfg3eþ	klára
 slátrunina	nveog	slátrun
 .	.	.
-
 Á	aþ	á
 þessum	fahfþ	þessi
 árum	nhfþ	ár
@@ -3239,7 +3089,6 @@ og	c	og
 tiltölulega	aa	tiltölulega
 há	lhfnsf	hár
 .	.	.
-
 Þeir	fpkfn	hann
 Baugsmenn	nkfn-s	Baugsmaður
 stofnuðu	sfg3fþ	stofna
@@ -3258,7 +3107,6 @@ milligöngu	nvee	milliganga
 innlendra	lhfesf	innlendur
 tryggingafélaga	nhfe	tryggingafélag
 .	.	.
-
 Með	aþ	með
 þessu	faheþ	þessi
 var	sfg3eþ	vera
@@ -3275,7 +3123,6 @@ göngufæri	nheþ	göngufæri
 við	ao	við
 höfuðstaðinn	nkeog	höfuðstaður
 .	.	.
-
 Þarna	aa	þarna
 reisti	sfg3eþ	reisa
 fjármálaráðherrann	nkengs	Fjármálaráðherra
@@ -3288,7 +3135,6 @@ hesti	nkeþ	hestur
 í	ao	í
 vinnuna	nveog	vinna
 .	.	.
-
 Fyrrverandi	lkenof	fyrrverandi
 foringi	nken	foringi
 í	aþ	í
@@ -3312,7 +3158,6 @@ loftvarnabyrgi	nheþ	loftvarnabyrgi
 í	aþ	í
 kjallaranum	nkeþg	kjallari
 .	.	.
-
 Nýja	lhenvf	nýr
 þéttbýlið	nheng	þéttbýli
 fékk	sfg3eþ	fá
@@ -3324,7 +3169,6 @@ daglegu	lheþsf	daglegur
 tali	nheþ	tal
 Skerjafjörður	nken-s	Skerjafjörður
 .	.	.
-
 Aðalgatan	nveng	aðalgata
 hét	sfg3eþ	heita
 auðvitað	aa	auðvitað
@@ -3336,7 +3180,6 @@ pósthús	nhen	pósthús
 og	c	og
 nýlenduvöruverslun	nven	nýlenduvöruverslun
 .	.	.
-
 Þvert	aa	þvert
 á	ao	á
 Reykjavíkurveg	nkeo-s	Reykjavíkurvegur
@@ -3361,7 +3204,6 @@ var	sfg3eþ	vera
 árið	nheog	ár
 1927	ta	1927
 .	.	.
-
 Barnaskóli	nken	barnaskóli
 var	sfg3eþ	vera
 í	aþ	í
@@ -3369,7 +3211,6 @@ húsi	nheþ	hús
 við	ao	við
 Baugsveg	nkeo-s	Baugsvegur
 .	.	.
-
 Sjóklæðagerð	nven-s	Sjóklæðagerð
 Íslands	nhee-s	Ísland
 byggði	sfg3eþ	byggja
@@ -3382,7 +3223,6 @@ saumaðir	sþgkfn	sauma
 voru	sfg3fþ	vera
 sjóstakkar	nkfn	sjóstakkur
 .	.	.
-
 Við	ao	við
 Hörpugötu	nveo-s	Hörpugata
 var	sfg3eþ	vera
@@ -3400,7 +3240,6 @@ um	ao	um
 land	nheo	land
 allt	foheo	allur
 .	.	.
-
 Bakarinn	nkeng	bakari
 hét	sfg3eþ	heita
 Árni	nken-s	Árni
@@ -3412,7 +3251,6 @@ verið	ssg	vera
 í	aþ	í
 Ameríku	nveþ-s	Ameríka
 .	.	.
-
 Setti	sfg3eþ	setja
 hann	fpken	hann
 ekki	aa	ekki
@@ -3425,7 +3263,6 @@ að	cn	að
 brugga	sng	brugga
 öl	nheo	öl
 .	.	.
-
 Einu	foheþ	einn
 sinni	nheþ	sinn
 á	aþ	á
@@ -3445,7 +3282,6 @@ og	c	og
 húsið	nheng	hús
 brann	sfg3eþ	brenna
 .	.	.
-
 Bakarinn	nkeng	bakari
 byggði	sfg3eþ	byggja
 upp	aa	upp
@@ -3469,7 +3305,6 @@ hann	fpken	hann
 varð	sfg3eþ	verða
 gjaldþrota	lkenof	gjaldþrota
 .	.	.
-
 Já	au	já
 ,	,	,
 þær	fpvfn	hún
@@ -3483,7 +3318,6 @@ sagði	sfg3eþ	segja
 hann	fpken	hann
 þá	aa	þá
 .	.	.
-
 Árni	nken-s	Árni
 byggði	sfg3eþ	byggja
 sér	fpkeþ	sig
@@ -3505,7 +3339,6 @@ niðri	aa	niðri
 í	aþ	í
 bæ	nkeþ	bær
 .	.	.
-
 Smátt	aa	smátt
 og	c	og
 smátt	aa	smátt
@@ -3518,7 +3351,6 @@ torgi	nheþ	torg
 í	aþ	í
 miðjunni	nveþg	miðja
 .	.	.
-
 Þegar	c	þegar
 byggingafulltrúinn	nkeng	byggingafulltrúi
 fann	sfg3eþ	finna
@@ -3530,7 +3362,6 @@ sagði	sfg3eþ	segja
 Árni	nken-s	Árni
 bara	aa	bara
 :	:	:
-
 Hann	fpken	hann
 Claessen	e	Claessen
 heitinn	lkensf	heitinn
@@ -3541,7 +3372,6 @@ mætti	svg3eþ	mega
 vera	sng	vera
 svona	aa	svona
 .	.	.
-
 Við	ao	við
 Þjórsárgötu	nveo-s	Þjórsárgata
 setti	sfg3eþ	setja
@@ -3550,7 +3380,6 @@ Halldórsson	nken-s	Halldórsson
 upp	aa	upp
 netaverkstæði	nheo	netaverkstæði
 .	.	.
-
 Á	aþ	á
 stríðsárunum	nhfþg	stríðsár
 var	sfg3eþ	vera
@@ -3566,7 +3395,6 @@ hið	ghen	hinn
 magnaða	lhenvf	magnaður
 Mjallarbón	nhen-s	Mjallarbón
 .	.	.
-
 Meðeigendur	nkfn	meðeigandi
 Jónasar	nkee-s	Jónas
 í	aþ	í
@@ -3598,7 +3426,6 @@ Reykjavíkurveg	nkeo-s	Reykjavíkurvegur
 miðju	lheþsf	miður
 Þróttarhverfinu	nheþgs	Þróttarhverfi
 .	.	.
-
 Sonur	nken	sonur
 Einars	nkee-s	Einar
 er	sfg3en	vera
@@ -3623,7 +3450,6 @@ hér	aa	hér
 á	aþ	á
 landi	nheþ	land
 .	.	.
-
 Sápugerðin	nveng	sápugerð
 átti	sfg3eþ	eiga
 þriggja	tfvfe	þrír
@@ -3636,14 +3462,12 @@ var	sfg3eþ	vera
 ritfangaversluninni	nveþg	ritfangaverslun
 Pennanum	nkeþgs	Penni
 .	.	.
-
 Sendibílstjóri	nken	sendibílstjóri
 Pennans	nkeegs	Penni
 var	sfg3eþ	vera
 kallaður	sþgken	kalla
 Óli	nken-s	Óli
 .	.	.
-
 Þegar	c	þegar
 hann	fpken	hann
 brunaði	sfg3eþ	bruna
@@ -3661,7 +3485,6 @@ Pennanum	nkeþgs	Penni
 í	aþ	í
 Pennanum	nkeþgs	Penni
 .	.	.
-
 Krakkarnir	nkfng	krakki
 þutu	sfg3fþ	þjóta
 á	ao	á
@@ -3695,7 +3518,6 @@ sínum	fekfþ	sinn
 verkamönnum	nkfþ	verkamaður
 kaup	nheo	kaup
 .	.	.
-
 Með	aþ	með
 samningi	nkeþ	samningur
 við	ao	við
@@ -3709,7 +3531,6 @@ um	ao	um
 áramótin	nhfog	áramót
 1931-32	ta	1931-32
 .	.	.
-
 Með	aþ	með
 lagningu	nveþ	lagning
 Reykjavíkurflugvallar	nkee-s	Reykjavíkurflugvöllur
@@ -3731,7 +3552,6 @@ með	ao	með
 í	ao	í
 Laugarneshverfi	nheo-s	Laugarneshverfi
 .	.	.
-
 Verkfræðistofa	nven	verkfræðistofa
 Sigurðar	nkee-s	Sigurður
 Thoroddsens	nkee-s	Thoroddsen
@@ -3748,7 +3568,6 @@ olíutunnum	nvfþ	olíutunna
 á	ao	á
 næturnar	nvfog	nótt
 .	.	.
-
 Eitt	fohen	einn
 þessara	fahfe	þessi
 húsa	nhfe	hús
@@ -3760,7 +3579,6 @@ Reykjavíkur	nvee-s	Reykjavík
 gamla	lhenvf	gamall
 pósthúsið	nheng	pósthús
 .	.	.
-
 Fyrst	aae	fyrr
 stóð	sfg3eþ	standa
 það	fphen	það
@@ -3776,7 +3594,6 @@ Brúnaveg	nkeo-s	Brúnavegur
 á	aþ	á
 Laugarási	nkeþ-s	Laugarás
 .	.	.
-
 Hverfið	nheng	hverfi
 sunnan	ae	sunnan
 flugbrautarinar	x	flubraut
@@ -3790,7 +3607,6 @@ brautar	nvee	braut
 litli	lkenvf	lítill
 Skerjafjörður	nken-s	Skerjafjörður
 .	.	.
-
 Sjóklæðagerðin	nveng	sjóklæðagerð
 brann	sfg3eþ	brenna
 árið	nheog	ár
@@ -3811,7 +3627,6 @@ upp	aa	upp
 og	c	og
 drápust	sfm3fþ	drepa
 .	.	.
-
 Ef	c	ef
 flugvallarslökkviliðið	nheng	flugvallarslökkvilið
 hefði	svg3eþ	hafa
@@ -3826,14 +3641,12 @@ til	ae	til
 viðbótar	nvee	viðbót
 brunnið	ssg	brenna
 .	.	.
-
 Gerið	sbg2fn	gera
 allt	foheo	allur
 sem	ct	sem
 frúin	nveng	frú
 biður	sfg3en	biðja
 um	aa	um
-
 Innan	ae	innan
 hverfisins	nheeg	hverfi
 voru	sfg3fþ	vera
@@ -3859,7 +3672,6 @@ var	sfg3eþ	vera
 við	ao	við
 Shellveg	nkeo-s	Shellvegur
 .	.	.
-
 Af	aþ	af
 því	fpheþ	það
 að	c	að
@@ -3893,7 +3705,6 @@ voru	sfg3fþ	vera
 mannaðar	lvfnsf	mannaður
 loftvarnabyssur	nvfn	loftvarnabyssa
 .	.	.
-
 Af	aþ	af
 Þjórsárgötu	nveþ-s	Þjórsárgata
 að	c	að
@@ -3926,7 +3737,6 @@ sögu	nveþ	saga
 Einars	nkee-s	Einar
 Kárasonar	nkee-s	Kárason
 .	.	.
-
 Vorið	nheog	vor
 1942	ta	1942
 brotlenti	sfg3eþ	brotlenda
@@ -3948,7 +3758,6 @@ kveikti	sfg3eþ	kveikja
 í	aþ	í
 því	fpheþ	það
 .	.	.
-
 Eigandi	nken	eigandi
 hússins	nheeg	hús
 ,	,	,
@@ -3988,7 +3797,6 @@ bæta	sng	bæta
 þetta	faheo	þessi
 tjón	nheo	tjón
 .	.	.
-
 Margrét	nven-s	Margrét
 strunsaði	sfg3eþ	strunsa
 þá	aa	þá
@@ -4007,7 +3815,6 @@ pistilinn	nkeog	pistill
 góðri	lveþsf	góður
 íslensku	nveþ	íslenska
 .	.	.
-
 Þegar	c	þegar
 maðurinn	nkeng	maður
 hafði	sfg3eþ	hafa
@@ -4018,7 +3825,6 @@ Margrétar	nvee-s	Margrét
 sagði	sfg3eþ	segja
 hann	fpken	hann
 :	:	:
-
 Gerið	sbg2fn	gera
 allt	foheo	allur
 sem	ct	sem
@@ -4026,7 +3832,6 @@ frúin	nveng	frú
 biður	sfg3en	biðja
 um	aa	um
 .	.	.
-
 Að	aþ	að
 styrjöldinni	nveþg	styrjöld
 lokinni	lveþsf	lokinn
@@ -4039,7 +3844,6 @@ hersins	nkeeg	her
 við	ao	við
 Njarðargötu	nveo-s	Njarðargata
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 vestan	ae	vestan
@@ -4047,7 +3851,6 @@ núverandi	lhfeof	núverandi
 gatnamóta	nhfe	gatnamót
 Fossagötu-Skerplugötu	nvee-s	Fossagötu-Skerplugata
 .	.	.
-
 Veturinn	nkeog	vetur
 1946-47	ta	1946-47
 var	sfg3eþ	vera
@@ -4073,7 +3876,6 @@ framhaldi	nheþ	framhald
 af	aþ	af
 því	fpheþ	það
 .	.	.
-
 Íbúarnir	nkfng	íbúi
 steinsváfu	sfg3fþ	steinsofa
 og	c	og
@@ -4085,7 +3887,6 @@ um	ao	um
 dramatísku	lkfovf	dramatískur
 atburði	nkfo	atburður
 .	.	.
-
 Nokkrum	fohfþ	nokkur
 árum	nhfþ	ár
 seinna	aam	seint
@@ -4111,7 +3912,6 @@ bátsmaður	nken	bátsmaður
 togaranum	nkeþg	togari
 Neptúnusi	nkeþ-s	Neptúnus
 .	.	.
-
 Vorið	nheog	vor
 1946	ta	1946
 var	sfg3eþ	vera
@@ -4142,7 +3942,6 @@ siglt	ssg	sigla
 litlum	lkfþsf	lítill
 bátum	nkfþ	bátur
 .	.	.
-
 Leiksvið	nhen	leiksvið
 var	sfg3eþ	vera
 þarna	aa	þarna
@@ -4169,7 +3968,6 @@ fengust	sfm3fþ	fá
 fyrir	aþ	fyrir
 slíku	fbheþ	slíkur
 .	.	.
-
 Eitt	foheo	einn
 sinn	nheo	sinn
 um	ao	um
@@ -4185,7 +3983,6 @@ gamanmál	nhfo	gamanmál
 á	aþ	á
 sviðinu	nheþg	svið
 .	.	.
-
 Þegar	c	þegar
 fyrstu	lveþve	fyrstur
 setningu	nveþ	setning
@@ -4218,7 +4015,6 @@ lék	sfg3eþ	leika
 móti	aþ	móti
 Brynjólfi	nkeþ-s	Brynjólfur
 .	.	.
-
 Skýringin	nveng	skýring
 á	aþ	á
 þessu	faheþ	þessi
@@ -4251,7 +4047,6 @@ sem	ct	sem
 í	aþ	í
 flugskýlinu	nheþg	flugskýli
 .	.	.
-
 Um	ao	um
 verslunarmannahelgina	nveog	verslunarmannahelgi
 áttu	sfg3fþ	eiga
@@ -4268,7 +4063,6 @@ sig	fpkeo	sig
 í	ao	í
 Tívolíið	nheogs	Tívolí
 .	.	.
-
 Seinna	aam	seint
 gerðist	sfm3eþ	gera
 krummi	nken	krummi
@@ -4277,7 +4071,6 @@ sjálfboðaliði	nken	sjálfboðaliði
 í	aþ	í
 ruslahreinsun	nveþ	ruslahreinsun
 .	.	.
-
 Þarna	aa	þarna
 í	aþ	í
 tívolíinu	nheþg	tívolí
@@ -4293,7 +4086,6 @@ setti	sfg3eþ	setja
 í	ao	í
 rólubát	nkeo	rólubátur
 .	.	.
-
 Í	aþ	í
 Tívolíinu	nheþgs	Tívolí
 var	sfg3eþ	vera
@@ -4315,7 +4107,6 @@ sukksamt	lhensf	sukksamur
 á	aþ	á
 þeim	fpkfþ	hann
 .	.	.
-
 Áfengi	nhen	áfengi
 var	sfg3eþ	vera
 ekki	aa	ekki
@@ -4338,7 +4129,6 @@ inn	aa	inn
 gegn	aþ	gegn
 aukagjaldi	nheþ	aukagjald
 .	.	.
-
 Þegar	c	þegar
 heitt	lhensf	heitur
 var	sfg3eþ	vera
@@ -4378,7 +4168,6 @@ komast	snm	koma
 inn	aa	inn
 aftur	aa	aftur
 .	.	.
-
 Miðana	nkfog	miði
 fengu	sfg3fþ	fá
 svo	aa	svo
@@ -4396,7 +4185,6 @@ var	sfg3eþ	vera
 orðið	sþghen	verða
 fullt	lhensf	fullur
 .	.	.
-
 Svo	aa	svo
 var	sfg3eþ	vera
 bara	aa	bara
@@ -4405,7 +4193,6 @@ aftur	aa	aftur
 yfir	ao	yfir
 girðinguna	nveog	girðing
 .	.	.
-
 Geiri	nken-s	Geiri
 dyravörður	nken	dyravörður
 stoppaði	sfg3eþ	stoppa
@@ -4422,7 +4209,6 @@ bannað	lhensf	bannaður
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Á	ao	á
 laugardaginn	nkeog	laugardagur
 fyrir	ao	fyrir
@@ -4450,7 +4236,6 @@ og	c	og
 fylgdust	sfm3fþ	fylgja
 með	aa	með
 .	.	.
-
 Svifflugan	nveng	sviffluga
 var	sfg3eþ	vera
 dregin	sþgven	draga
@@ -4460,7 +4245,6 @@ Dodge-sjúkrabíl	nkeþ-s	Dodgesjúkrabíll
 frá	aþ	frá
 hernum	nkeþg	her
 .	.	.
-
 Eitthvað	fohen	einhver
 mistókst	sfm3eþ	mistaka
 í	aþ	í
@@ -4469,7 +4253,6 @@ og	c	og
 dráttarvírinn	nkeng	dráttarvír
 slitnaði	sfg3eþ	slitna
 .	.	.
-
 Flugan	nveng	fluga
 tók	sfg3eþ	taka
 u-beygju	nveo	u-beygja
@@ -4506,7 +4289,6 @@ mæninn	nkeog	mænir
 að	aþ	að
 vestanverðu	lheþsf	vestanverður
 .	.	.
-
 Fastir	lkfnsf	fastur
 þarna	aa	þarna
 í	aþ	í
@@ -4529,7 +4311,6 @@ nágrannar	nkfn	nágranni
 lögðu	sfg3fþ	leggja
 til	aa	til
 .	.	.
-
 Svo	aa	svo
 kom	sfg3eþ	koma
 stigabíll	nken	stigabíll
@@ -4546,14 +4327,12 @@ mennirnir	nkfng	maður
 náðust	sfm3fþ	ná
 niður	aa	niður
 .	.	.
-
 Þeir	fpkfn	hann
 dóu	sfg3fþ	deyja
 báðir	fokfn	báðir
 um	ao	um
 nóttina	nveog	nótt
 .	.	.
-
 Eftir	ao	eftir
 þetta	faheo	þessi
 var	sfg3eþ	vera
@@ -4562,7 +4341,6 @@ bannað	sþghen	banna
 á	aþ	á
 flugvellinum	nkeþg	flugvöllur
 .	.	.
-
 Einu	foheþ	einn
 sinni	nheþ	sinn
 kom	sfg3eþ	koma
@@ -4575,7 +4353,6 @@ mála	sng	mála
 einu	foheþ	einn
 húsinu	nheþg	hús
 .	.	.
-
 Í	aþ	í
 kjallara	nkeþ	kjallari
 hússins	nheeg	hús
@@ -4588,7 +4365,6 @@ festi	sfg3eþ	festa
 í	ao	í
 strompinn	nkeog	strompur
 .	.	.
-
 Eftir	ao	eftir
 hádegismatinn	nkeog	hádegismatur
 var	sfg3eþ	vera
@@ -4602,7 +4378,6 @@ horfir	sfg3en	horfa
 um	ao	um
 gluggann	nkeog	gluggi
 .	.	.
-
 Sér	sfg3en	sjá
 hún	fpven	hún
 þá	aa	þá
@@ -4617,11 +4392,9 @@ fyrir	ao	fyrir
 framan	aa	framan
 gluggann	nkeog	gluggi
 .	.	.
-
 Frúnni	nveþg	frú
 brá	sfg3eþ	bregða
 .	.	.
-
 Þegar	c	þegar
 málarinn	nkeng	málari
 skaust	sfm3eþ	skjóta
@@ -4634,7 +4407,6 @@ leið	sfg3eþ	líða
 yfir	ao	yfir
 hana	fpveo	hún
 .	.	.
-
 Skýringin	nveng	skýring
 á	aþ	á
 þessu	faheþ	þessi
@@ -4655,7 +4427,6 @@ skjóta	sng	skjóta
 loft	nheo	loft
 svifflugum	nvfþ	sviffluga
 .	.	.
-
 Með	ao	með
 stúdentshúfu	nveo	stúdentshúfa
 í	aþ	í
@@ -4692,7 +4463,6 @@ hluti	nken	hluti
 af	aþ	af
 því	fpheþ	það
 .	.	.
-
 Stúdentarnir	nkfng	stúdent
 gengu	sfg3fþ	ganga
 með	ao	með
@@ -4718,7 +4488,6 @@ allt	fohen	allur
 í	ao	í
 dúnalogn	nheo	dúnalogn
 .	.	.
-
 Svo	aa	svo
 gerist	sfm3en	gera
 það	fphen	það
@@ -4732,7 +4501,6 @@ kominn	sþgken	koma
 í	ao	í
 hverfið	nheog	hverfi
 .	.	.
-
 Sá	faken	sá
 sat	sfg3eþ	sitja
 ekki	aa	ekki
@@ -4748,7 +4516,6 @@ upp	aa	upp
 í	ao	í
 leiguna	nveog	leiga
 .	.	.
-
 Þessi	faken	þessi
 málari	nken	málari
 bylti	sfg3eþ	bylta
@@ -4778,7 +4545,6 @@ fljótlega	aa	fljótlega
 í	aþ	í
 málningu	nveþ	málning
 .	.	.
-
 Hver	fsken	hver
 var	sfg3eþ	vera
 þessi	faken	þessi
@@ -4798,7 +4564,6 @@ ráðherra	nken	ráðherra
 og	c	og
 bankastjóri	nken	bankastjóri
 .	.	.
-
 Að	aþ	að
 styrjöldinni	nveþg	styrjöld
 lokinni	lveþsf	lokinn
@@ -4815,7 +4580,6 @@ að	cn	að
 kaupa	sng	kaupa
 fyrir	aa	fyrir
 .	.	.
-
 Tóku	sfg3fþ	taka
 sig	fpkfo	sig
 þá	aa	þá
@@ -4826,7 +4590,6 @@ og	c	og
 stofnuðu	sfg3fþ	stofna
 Íslendingasagnaútgáfuna	nveogs	Íslendingasagnaútgáfan
 .	.	.
-
 Settu	sfg3fþ	setja
 þeir	fpkfn	hann
 upp	aa	upp
@@ -4835,7 +4598,6 @@ sem	ct	sem
 framleiddi	svg3eþ	framleiða
 Íslendingasögur	nvfo-s	Íslendingasaga
 .	.	.
-
 Prentsmiðjur	nvfn	prentsmiðja
 voru	sfg3fþ	vera
 í	aþ	í
@@ -4860,7 +4622,6 @@ miðhæðinni	nveþg	miðhæð
 Hörpugötu	nveþ-s	Hörpugata
 13	ta	13
 .	.	.
-
 Þegar	c	þegar
 mest	lheose	mikill
 var	sfg3eþ	vera
@@ -4873,7 +4634,6 @@ starfsmennirnir	nkfng	starfsmaður
 fyrir	aþ	fyrir
 amfetamíni	nheþ	amfetamín
 .	.	.
-
 Þegar	c	þegar
 sögumarkaðurinn	nkeng	sögumarkaður
 var	sfg3eþ	vera
@@ -4899,7 +4659,6 @@ kölluð	sþgven	kalla
 var	sfg3eþ	vera
 Labba	nven-s	Labba
 .	.	.
-
 Gunnar	nken-s	Gunnar
 stundaði	sfg3eþ	stunda
 frímerkjaviðskipti	nhfo	frímerkjaviðskipti
@@ -4911,7 +4670,6 @@ gat	sfg3eþ	geta
 erlendan	lkeosf	erlendur
 gjaldeyri	nkeo	gjaldeyrir
 .	.	.
-
 Sá	faken	sá
 er	ct	er
 þetta	faheo	þessi
@@ -4938,7 +4696,6 @@ pönnukökum	nvfþ	pönnukaka
 og	c	og
 kakói	nheþ	kakó
 .	.	.
-
 Þeir	fpkfn	hann
 voru	sfg3fþ	vera
 ekki	aa	ekki
@@ -4946,7 +4703,6 @@ alvondir	lkfnsf	alvondur
 þessir	fakfn	þessi
 SS-menn	nkfn-s	SS-maður
 .	.	.
-
 Þegar	c	þegar
 prentsmiðjan	nveng	prentsmiðja
 hætti	sfg3eþ	hætta
@@ -4985,7 +4741,6 @@ Oddsson	nken-s	Oddsson
 nú	aa	nú
 heima	aa	heima
 .	.	.
-
 Í	aþ	í
 eggjasölusamlaginu	nheþg	eggjasölusamlag
 var	sfg3eþ	vera

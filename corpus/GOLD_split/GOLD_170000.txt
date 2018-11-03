@@ -1,5 +1,4 @@
 .	.	.
-
 Mynd	nven	mynd
 15	ta	15
 sýnir	sfg3en	sýna
@@ -7,7 +6,6 @@ helstu	lhfove	heldri
 svæði	nhfo	svæði
 heilans	nkeeg	heili
 .	.	.
-
 Heilabörkurinn	nkeng	heilabörkur
 sem	ct	sem
 umlykur	sfg3en	umlykja
@@ -37,7 +35,6 @@ um	ao	um
 af	aþ	af
 mannsheilanum	nkeþg	mannsheili
 .	.	.
-
 Heilabörkurinn	nkeng	heilabörkur
 er	sfg3en	vera
 yfirleitt	aa	yfirleitt
@@ -49,7 +46,6 @@ millimetrar	nkfn	millimetri
 að	aþ	að
 þykkt	nveþ	þykkt
 .	.	.
-
 Umfang	nhen	umfang
 gráa	lheevf	grár
 efnisins	nheeg	efni
@@ -68,7 +64,6 @@ samanbrotinn	lkensf	samanbrotinn
 í	ao	í
 fellingar	nvfo	felling
 .	.	.
-
 Lægðirnar	nvfng	lægð
 á	aþ	á
 heilanum	nkeþg	heili
@@ -79,7 +74,6 @@ og	c	og
 hæðirnar	nvfng	hæð
 fellingar	nvfn	felling
 .	.	.
-
 Fyrir	ao	fyrir
 neðan	aa	neðan
 heilabörkinn	nkeog	heilabörkur
@@ -105,7 +99,6 @@ Hynd	e	Hynd
 2002:29	ta	2002:29
 )	)	)
 .	.	.
-
 Í	aþ	í
 heilanum	nkeþg	heili
 eru	sfg3fn	vera
@@ -128,7 +121,6 @@ hundruðum	nhfþ	hundrað
 annarra	fovfe	annar
 taugafruma	nvfe	taugafruma
 .	.	.
-
 Þessar	favfn	þessi
 tengingar	nvfn	tenging
 eru	sfg3fn	vera
@@ -142,7 +134,6 @@ ein	foven	einn
 forrituðu	lheþsf	forritaður
 hlutverki	nheþ	hlutverk
 .	.	.
-
 Taugafrumum	nvfþ	taugafruma
 til	ae	til
 aðstoðar	nvee	aðstoð
@@ -170,7 +161,6 @@ Wolfe	e	Wolfe
 2001:14	ta	2001:14
 )	)	)
 .	.	.
-
 Mynd	nven	mynd
 15	ta	15
 sýnir	sfg3en	sýna
@@ -185,7 +175,6 @@ greinast	sfm3fn	greina
 úr	aþ	úr
 taugabolnum	nkeþg	taugabolur
 .	.	.
-
 Griplurnar	nvfng	gripla
 taka	sfg3fn	taka
 á	aa	á
@@ -201,7 +190,6 @@ upplýsingar	nvfo	upplýsing
 frá	aþ	frá
 frumunni	nveþg	fruma
 .	.	.
-
 Til	ae	til
 að	cn	að
 starfa	sng	starfa
@@ -209,7 +197,6 @@ starfa	sng	starfa
 heilinn	nkeng	heili
 orku	nveo	orka
 .	.	.
-
 Orkugjafi	nken	orkugjafi
 hans	fpkee	hann
 er	sfg3en	vera
@@ -219,7 +206,6 @@ berst	sfm3en	bera
 með	aþ	með
 blóðinu	nheþg	blóð
 .	.	.
-
 Heilinn	nkeng	heili
 er	sfg3en	vera
 mjög	aa	mjög
@@ -238,7 +224,6 @@ vöðvi	nken	vöðvi
 við	ao	við
 erfiðisvinnu	nveo	erfiðisvinna
 .	.	.
-
 Blóðflæði	nhen	blóðflæði
 til	ae	til
 heilans	nkeeg	heili
@@ -255,7 +240,6 @@ af	aþ	af
 súrefnismagni	nheþ	súrefnismagn
 mannslíkamans	nkeeg	mannslíkami
 .	.	.
-
 Ef	c	ef
 flæðið	nheng	flæði
 stöðvast	sfm3en	stöðva
@@ -277,7 +261,6 @@ Wolfe	e	Wolfe
 2001:14	ta	2001:14
 )	)	)
 .	.	.
-
 Talmál	nhen	talmál
 er	sfg3en	vera
 talið	sþghen	telja
@@ -300,7 +283,6 @@ sem	ct	sem
 tengjast	sfm3fn	tengja
 talmáli	nheþ	talmál
 .	.	.
-
 Í	aþ	í
 flestum	lkfþse	margur
 einstaklingum	nkfþ	einstaklingur
@@ -311,7 +293,6 @@ sérhæft	sþghen	sérhæfa
 fyrir	ao	fyrir
 mál	nheo	mál
 .	.	.
-
 Innan	ae	innan
 hvors	fohee	hvor
 hvels	nhee	hvel
@@ -340,7 +321,6 @@ er	sfg3en	vera
 tengt	sþghen	tengja
 málinu	nheþg	mál
 .	.	.
-
 Innan	ae	innan
 málsvæðisins	nheeg	málsvæði
 eru	sfg3fn	vera
@@ -355,7 +335,6 @@ sem	ct	sem
 tengist	sfm3en	tengja
 tjáningu	nveþ	tjáning
 .	.	.
-
 Eitt	tfhen	einn
 svæði	nhen	svæði
 enn	aa	enn
@@ -379,7 +358,6 @@ og	c	og
 kallast	sfm3en	kalla
 hornfelling	nven	hornfelling
 .	.	.
-
 Hornfellingin	nveng	hornfelling
 tengist	sfm3en	tengja
 merkingu	nveþ	merking
@@ -400,12 +378,10 @@ Carter	e	Carter
 151	ta	151
 )	)	)
 .	.	.
-
 Ritmálið	nheng	ritmál
 er	sfg3en	vera
 ungt	lhensf	ungur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ekki	aa	ekki
@@ -429,7 +405,6 @@ sig	fphfo	sig
 í	aþ	í
 lestri	nkeþ	lestur
 .	.	.
-
 Þannig	aa	þannig
 fer	sfg3en	fara
 lestur	nken	lestur
@@ -456,7 +431,6 @@ Snowling	e	Snowling
 -155	ta	-155
 )	)	)
 .	.	.
-
 Aðferðir	nvfn	aðferð
 til	ae	til
 að	cn	að
@@ -476,7 +450,6 @@ vefjum	nkfþ	vefur
 og	c	og
 taugafrumum	nvfþ	taugafruma
 .	.	.
-
 Þannig	aa	þannig
 er	sfg3en	vera
 hægt	lhensf	hægur
@@ -487,7 +460,6 @@ og	c	og
 uppbyggingu	nveo	uppbygging
 heilans	nkeeg	heili
 .	.	.
-
 Aðeins	aa	aðeins
 hægt	lhensf	hægur
 að	cn	að
@@ -497,14 +469,12 @@ heila	nkeo	heili
 látinna	lkfesf	látinn
 einstaklinga	nkfe	einstaklingur
 .	.	.
-
 Segir	sfg3en	segja
 ekkert	foheo	enginn
 um	ao	um
 virkni	nveo	virkni
 heilans	nkeeg	heili
 .	.	.
-
 EEG	as	EEG
 -	-	-
 heilaritun	nven	heilaritun
@@ -512,7 +482,6 @@ heilaritun	nven	heilaritun
 electroencephalography	e	electroencephalography
 )	)	)
 .	.	.
-
 Hefst	sfm3en	hefja
 um	ao	um
 1930	ta	1930
@@ -520,14 +489,12 @@ Ritun	nven	ritun
 á	aþ	á
 heilabylgjum	nvfþ	heilabylgja
 .	.	.
-
 Rafskaut	nhfn	rafskaut
 eru	sfg3fn	vera
 sett	sþghfn	setja
 á	ao	á
 höfuðkúpuna	nveog	höfuðkúpa
 .	.	.
-
 Þau	fphfn	það
 mæla	sfg3fn	mæla
 rafspennu	nveo	rafspenna
@@ -544,7 +511,6 @@ virkni	nven	virkni
 heilans	nkeeg	heili
 mæld	sþgven	mæla
 .	.	.
-
 Veitir	sfg3en	veita
 upplýsingar	nvfo	upplýsing
 um	ao	um
@@ -559,7 +525,6 @@ starfsemi	nveo	starfsemi
 hlutum	nkfþ	hlutur
 hans	fpkee	hann
 .	.	.
-
 Ónákvæm	lvensf	ónákvæmur
 mæling	nven	mæling
 á	aþ	á
@@ -576,7 +541,6 @@ svæði	nhfn	svæði
 eru	sfg3fn	vera
 virk	lhfnsf	virkur
 .	.	.
-
 CAT-skanni	nken	CAT-skanni
 (	(	(
 computerized	e	computerized
@@ -584,13 +548,11 @@ axial	e	axial
 tomography	e	tomography
 )	)	)
 .	.	.
-
 Hefst	sfm3en	hefja
 um	ao	um
 1970	ta	1970
 Röntgenmyndir	nvfn	röntgenmynd
 .	.	.
-
 Með	aþ	með
 hjálp	nveþ	hjálp
 tölvu	nvee	tölva
@@ -605,7 +567,6 @@ til	aa	til
 af	aþ	af
 heila	nkeþ	heili
 .	.	.
-
 Þannig	aa	þannig
 er	sfg3en	vera
 gerð	nven	gerð
@@ -617,7 +578,6 @@ skönnuð	sþgven	skanna
 lifandi	lvfþof	lifandi
 verum	nvfþ	vera
 .	.	.
-
 Aðeins	aa	aðeins
 hægt	lhensf	hægur
 að	cn	að
@@ -627,19 +587,16 @@ frá	aþ	frá
 takmörkuðu	lheþsf	takmarkaður
 sjónarhorni	nheþ	sjónarhorn
 .	.	.
-
 Myndirnar	nvfng	mynd
 sýna	sfg3fn	sýna
 ekki	aa	ekki
 virkni	nveo	virkni
 heilans	nkeeg	heili
 .	.	.
-
 ERP	as	ERP
 -	-	-
 hrifrit	nhen	hrifrit
 .	.	.
-
 Tengist	sfm3en	tengja
 málrannsóknum	nvfþ	málrannsókn
 frá	aþ	frá
@@ -670,14 +627,12 @@ er	sfg3en	vera
 ákveðnu	lheþsf	ákveðinn
 áreiti	nheþ	áreiti
 .	.	.
-
 Upplýsingar	nvfn	upplýsing
 nákvæmari	lvfnvm	nákvæmur
 en	c	en
 með	aþ	með
 heilariti	nheþ	heilarit
 .	.	.
-
 Gróf	lvensf	grófur
 og	c	og
 fremur	aam	fremur
@@ -697,7 +652,6 @@ svæði	nhfn	svæði
 eru	sfg3fn	vera
 virk	lhfnsf	virkur
 .	.	.
-
 PET-skanni	nken-s	PET-skanni
 (	(	(
 positron	e	positron
@@ -705,7 +659,6 @@ emission	e	emission
 tomography	e	tomography
 )	)	)
 .	.	.
-
 Fyrsta	lvenve	fyrstur
 dyslexíu-rannsóknin	nveng	dyslexíurannsókn
 um	ao	um
@@ -723,7 +676,6 @@ með	aþ	með
 mismunandi	lkfþof	mismunandi
 litum	nkfþ	litur
 .	.	.
-
 Sýnir	sfg3en	sýna
 virkni	nveo	virkni
 í	aþ	í
@@ -732,7 +684,6 @@ við	ao	við
 tiltekin	lhfosf	tiltekinn
 verkefni	nhfo	verkefni
 .	.	.
-
 Skanninn	nkeng	skanni
 mælir	sfg3en	mæla
 orkunotkun	nveo	orkunotkun
@@ -761,7 +712,6 @@ berst	sfm3en	bera
 með	aþ	með
 blóðinu	nheþg	blóð
 .	.	.
-
 Nota	sng	nota
 þarf	sfg3en	þurfa
 geislavirkt	lheosf	geislavirkur
@@ -786,7 +736,6 @@ sinni	nheþ	sinn
 á	aþ	á
 ári	nheþ	ár
 .	.	.
-
 Sýnir	sfg3en	sýna
 ágæta	lveosf	ágætur
 heildarmynd	nveo	heildarmynd
@@ -805,7 +754,6 @@ virknin	nveng	virkni
 sér	fpveþ	sig
 stað	nkeo	staður
 .	.	.
-
 MRI	as	MRI
 -	-	-
 Segulómun	nven	segulómun
@@ -820,7 +768,6 @@ fyrir	ao	fyrir
 1990	ta	1990
 Segulómmyndir	nvfn	segulómmynd
 .	.	.
-
 Heilinn	nkeng	heili
 sést	sfm3en	sjá
 með	aþ	með
@@ -830,7 +777,6 @@ frá	aþ	frá
 fjölbreyttum	lhfþsf	fjölbreyttur
 sjónarhornum	nhfþ	sjónarhorn
 .	.	.
-
 Merkjum	nhfþ	merki
 sem	ct	sem
 myndast	sfm3fn	mynda
@@ -855,7 +801,6 @@ breytt	sþghen	breyta
 þrívíða	lveosf	þrívíður
 mynd	nveo	mynd
 .	.	.
-
 Merkin	nhfng	merki
 eru	sfg3fn	vera
 mismunandi	lhfnof	mismunandi
@@ -864,7 +809,6 @@ mismunandi	lkfþof	mismunandi
 vefjum	nkfþ	vefur
 heilans	nkeeg	heili
 .	.	.
-
 Úr	aa	úr
 verður	sfg3en	verða
 mynd	nven	mynd
@@ -876,7 +820,6 @@ og	c	og
 gráleit	lvensf	gráleitur
 röntgenmynd	nven	röntgenmynd
 .	.	.
-
 Nýtast	sfm3fn	nýta
 fyrst	aae	fyrr
 og	c	og
@@ -893,7 +836,6 @@ skoða	sng	skoða
 virkni	nveo	virkni
 þeirra	fphfe	það
 .	.	.
-
 fMRI	as	fMRI
 -	-	-
 Starfræn	lvensf	starfrænn
@@ -905,14 +847,12 @@ resonance	e	resonance
 imaging	e	imaging
 )	)	)
 .	.	.
-
 Hefst	sfm3en	hefja
 skömmu	lheþsf	skammur
 fyrir	ao	fyrir
 1990	ta	1990
 Segulómmyndir	nvfn	segulómmynd
 .	.	.
-
 Fram	aa	fram
 kemur	sfg3en	koma
 hvaða	fshfn	hvaða
@@ -923,7 +863,6 @@ við	ao	við
 tiltekin	lhfosf	tiltekinn
 verkefni	nhfo	verkefni
 .	.	.
-
 Virknin	nveng	virkni
 er	sfg3en	vera
 mæld	sþgven	mæla
@@ -950,7 +889,6 @@ berst	sfm3en	bera
 með	aþ	með
 blóðinu	nheþg	blóð
 .	.	.
-
 Hægt	lhensf	hægur
 að	cn	að
 taka	sng	taka
@@ -959,7 +897,6 @@ myndir	nvfo	mynd
 á	aþ	á
 sekúndu	nveþ	sekúnda
 .	.	.
-
 Aðallega	aa	aðallega
 er	sfg3en	vera
 hraðinn	nkeng	hraði
@@ -977,7 +914,6 @@ kostnaðurinn	nkeng	kostnaður
 er	sfg3en	vera
 mikill	lkensf	mikill
 .	.	.
-
 Einnig	aa	einnig
 getur	sfg3en	geta
 mælingin	nveng	mæling
@@ -988,7 +924,6 @@ mælt	sþghen	mæla
 óviðkomandi	lvfoof	óviðkomandi
 truflanir	nvfo	truflun
 .	.	.
-
 MEG	as	MEG
 -	-	-
 Segulheilaritun	nven	segulheilaritun
@@ -996,7 +931,6 @@ Segulheilaritun	nven	segulheilaritun
 magnetoencephalography	e	magnetoencephalography
 )	)	)
 .	.	.
-
 Nýleg	lvensf	nýlegur
 aðferð	nven	aðferð
 Nemur	sfg3en	nema
@@ -1013,7 +947,6 @@ segulslög	nhfn	segulslag
 taugafrumanna	nvfeg	taugafruma
 skráð	sþghfn	skrá
 .	.	.
-
 Hraðvirkari	lvenvm	hraðvirkur
 en	c	en
 önnur	foven	annar
@@ -1025,7 +958,6 @@ kortlagt	ssg	kortleggja
 breytingar	nvfo	breyting
 nákvæmar	aa	nákvæmar
 .	.	.
-
 Boðin	nhfng	boð
 eru	sfg3fn	vera
 veik	lhfnsf	veikur
@@ -1033,7 +965,6 @@ og	c	og
 truflast	sfm3fn	trufla
 auðveldlega	aa	auðveldlega
 .	.	.
-
 Tíðninákvæmi	nven	tíðninákvæmi
 er	sfg3en	vera
 í	aþ	í
@@ -1056,7 +987,6 @@ eða	c	eða
 svæðum	nhfþ	svæði
 hans	fpkee	hann
 .	.	.
-
 Er	sfg3en	vera
 því	aa	því
 oft	aa	oft
@@ -1077,7 +1007,6 @@ source	e	source
 imaging	e	imaging
 )	)	)
 .	.	.
-
 Nýleg	lvensf	nýlegur
 aðferð	nven	aðferð
 MSI	as	MSI
@@ -1097,7 +1026,6 @@ segulheilaritun	nveþ	segulheilaritun
 ,	,	,
 MEG	as	MEG
 .	.	.
-
 Sameinar	sfg3en	sameina
 annars	fokee	annar
 vegar	nkee	vegur
@@ -1133,14 +1061,12 @@ breytingar	nvfo	breyting
 á	aþ	á
 þeim	fpkfþ	hann
 .	.	.
-
 Gefur	sfg3en	gefa
 upplýsingar	nvfo	upplýsing
 um	ao	um
 skipulag	nheo	skipulag
 heilabarkarins	nkeeg	heilabörkur
 .	.	.
-
 Unnt	lhensf	unnt
 að	cn	að
 fylgjast	snm	fylgja
@@ -1155,7 +1081,6 @@ og	c	og
 millimetrar	nkfn	millimetri
 )	)	)
 .	.	.
-
 Er	sfg3en	vera
 fjölaðferðamyndun	nven	fjölaðferðamyndun
 sem	ct	sem
@@ -1169,7 +1094,6 @@ vísindamanna	nkfe	vísindamaður
 við	ao	við
 rannsóknir	nvfo	rannsókn
 .	.	.
-
 (	(	(
 Aldís	nven-s	Aldís
 Unnur	nven-s	Unnur
@@ -1199,7 +1123,6 @@ Lundberg	e	Lundberg
 -191	ta	-191
 )	)	)
 .	.	.
-
 Rannsóknir	nvfn	rannsókn
 á	aþ	á
 gerð	nveþ	gerð
@@ -1225,7 +1148,6 @@ heila	nkee	heili
 lifandi	lkfeof	lifandi
 manna	nkfe	maður
 .	.	.
-
 Kortlagning	nven	kortlagning
 heilans	nkeeg	heili
 hófst	sfm3eþ	hefja
@@ -1235,7 +1157,6 @@ en	c	en
 hundrað	tfhfþ	hundrað
 árum	nhfþ	ár
 .	.	.
-
 Með	aþ	með
 samanburði	nkeþ	samanburður
 á	aþ	á
@@ -1271,7 +1192,6 @@ við	ao	við
 eru	sfg3fn	vera
 kennd	sþghfn	kenna
 .	.	.
-
 Þeir	fpkfn	hann
 tóku	sfg3fþ	taka
 eftir	aþ	eftir
@@ -1294,7 +1214,6 @@ heila	nkeþ	heili
 sama	fbkeþ	sami
 stað	nkeþ	staður
 .	.	.
-
 Frumkvöðull	nken	frumkvöðull
 rannsókna	nvfe	rannsókn
 á	aþ	á
@@ -1329,7 +1248,6 @@ voru	sfg3fþ	vera
 með	ao	með
 dyslexíu	nveo	dyslexía
 .	.	.
-
 Rúmum	lkeþsf	rúmur
 áratug	nkeþ	áratugur
 síðar	aam	síðar
@@ -1350,7 +1268,6 @@ Snowling	e	Snowling
 2000:151	ta	2000:151
 )	)	)
 .	.	.
-
 Áður	aa	áður
 ,	,	,
 eða	c	eða
@@ -1386,7 +1303,6 @@ námserfiðleika	nkfo	námserfiðleikar
 fjölskyldu	nveþ	fjölskylda
 hans	fpkee	hann
 .	.	.
-
 Í	aþ	í
 heila	nkeþ	heili
 drengsins	nkeeg	drengur
@@ -1405,7 +1321,6 @@ neðarlega	aa	neðarlega
 vinstra	lheþvf	vinstri
 hvirfilblaði	nheþ	hvirfilblað
 .	.	.
-
 Heilahvel	nhfn	heilahvel
 eru	sfg3fn	vera
 að	aþ	að
@@ -1413,7 +1328,6 @@ að	aþ	að
 jafnaði	nkeþ	jafnaður
 misstór	lhfnsf	misstór
 .	.	.
-
 Efra	lhenvm	efri
 borð	nhen	borð
 gagnaugablaðs	nhee	gagnaugablað
@@ -1424,7 +1338,6 @@ er	sfg3en	vera
 vanalega	aa	vanalega
 stærra	lhenvm	stór
 .	.	.
-
 Þetta	fahen	þessi
 svæði	nhen	svæði
 vinstra	lheevf	vinstri
@@ -1432,7 +1345,6 @@ heilahvels	nhee	heilahvel
 styður	sfg3en	styðja
 málathafnir	nvfo	málathöfn
 .	.	.
-
 Rannsóknir	nvfn	rannsókn
 á	aþ	á
 heilum	nkfþ	heili
@@ -1465,7 +1377,6 @@ o.fl.	as	o.fl.
 2001	ta	2001
 )	)	)
 .	.	.
-
 Heilabörkurinn	nkeng	heilabörkur
 er	sfg3en	vera
 eins	aa	eins
@@ -1478,7 +1389,6 @@ yfir	ao	yfir
 starfsemi	nveo	starfsemi
 líkamans	nkeeg	líkami
 .	.	.
-
 Þessi	fahfn	þessi
 kort	nhfn	kort
 eða	c	eða
@@ -1504,7 +1414,6 @@ hugsun	nveþ	hugsun
 og	c	og
 máli	nheþ	mál
 .	.	.
-
 Eftir	aþ	eftir
 því	faheþ	sá
 sem	ct	sem
@@ -1521,7 +1430,6 @@ við	aþ	við
 fleiri	lhfþvm	margur
 áreitum	nhfþ	áreiti
 .	.	.
-
 Þannig	aa	þannig
 skiptir	sfg3en	skipta
 stærð	nven	stærð
@@ -1548,7 +1456,6 @@ Pind	nken-s	Pind
 -241	ta	-241
 )	)	)
 .	.	.
-
 Knight	e	Knight
 og	c	og
 Hynd	e	Hynd
@@ -1573,7 +1480,6 @@ fólks	nhee	fólk
 með	ao	með
 dyslexíu	nveo	dyslexía
 .	.	.
-
 Þessar	favfn	þessi
 breytingar	nvfn	breyting
 eru	sfg3fn	vera
@@ -1603,7 +1509,6 @@ er	sfg3en	vera
 viðkvæmu	lheþsf	viðkvæmur
 þroskastigi	nheþ	þroskastig
 .	.	.
-
 Rannsóknir	nvfn	rannsókn
 Galaburda	e	Galaburda
 sýna	sfg3fn	sýna
@@ -1626,7 +1531,6 @@ svæðum	nhfþ	svæði
 í	aþ	í
 stúkunni	nveþg	stúka
 .	.	.
-
 Stúkan	nveng	stúka
 liggur	sfg3en	liggja
 innan	aa	innan
@@ -1649,7 +1553,6 @@ til	ae	til
 frekari	lveevm	frekur
 úrvinnslu	nvee	úrvinnsla
 .	.	.
-
 Svæði	nhfn	svæði
 stúkunnar	nveeg	stúka
 ,	,	,
@@ -1676,7 +1579,6 @@ sem	ct	sem
 tengist	sfm3en	tengja
 heyrn	nveþ	heyrn
 .	.	.
-
 Þessar	favfn	þessi
 taugafrumur	nvfn	taugafruma
 í	aþ	í
@@ -1710,7 +1612,6 @@ Hynd	e	Hynd
 2002:30	ta	2002:30
 )	)	)
 .	.	.
-
 Annmarkar	nkfn	annmarki
 þess	fphee	það
 að	cn	að
@@ -1732,7 +1633,6 @@ einstaklinga	nkfe	einstaklingur
 eru	sfg3fn	vera
 ýmsir	fokfn	ýmis
 .	.	.
-
 Sjaldan	aa	sjaldan
 er	sfg3en	vera
 vitað	sþghen	vita
@@ -1760,7 +1660,6 @@ og	c	og
 svo	aa	svo
 framvegis	aa	framvegis
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 um	ao	um
@@ -1770,7 +1669,6 @@ tilvik	nhfo	tilvik
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 Vellutino	e	Vellutino
 ,	,	,
 Snowling	e	Snowling
@@ -1791,7 +1689,6 @@ með	aþ	með
 birtum	sþgvfþ	birta
 niðurstöðum	nvfþ	niðurstaða
 .	.	.
-
 Vegna	ae	vegna
 augljósra	lkfesf	augljós
 annmarka	nkfe	annmarki
@@ -1808,7 +1705,6 @@ segulómun	nveþ	segulómun
 á	aþ	á
 heilanum	nkeþg	heili
 .	.	.
-
 (	(	(
 Aldís	nven-s	Aldís
 Unnur	nven-s	Unnur
@@ -1843,7 +1739,6 @@ heila	nkfo	heili
 lifandi	lkfeof	lifandi
 manna	nkfe	maður
 .	.	.
-
 Þessi	faven	þessi
 tækni	nven	tækni
 hefur	sfg3en	hafa
@@ -1854,7 +1749,6 @@ taugafræðilegum	lvfþsf	taugafræðilegur
 orsökum	nvfþ	orsök
 dyslexíu	nvee	dyslexía
 .	.	.
-
 Rannsakendur	nkfn	rannsakandi
 beina	sfg3fn	beina
 sjónum	nvfþ	sjón
@@ -1871,7 +1765,6 @@ hvelatengslum	nhfþ	hvelatengsl
 og	c	og
 litlaheila	nkeþ	litliheili
 .	.	.
-
 Með	aþ	með
 þessum	favfþ	þessi
 rannsóknum	nvfþ	rannsókn
@@ -1902,7 +1795,6 @@ gagnaugablaði	nheþ	gagnaugablað
 og	c	og
 hvirfilblaði	nheþ	hvirfilblað
 .	.	.
-
 Frávik	nhfn	frávik
 hafa	sfg3fn	hafa
 einnig	aa	einnig
@@ -1920,7 +1812,6 @@ Richards	e	Richards
 2001:200	ta	2001:200
 )	)	)
 .	.	.
-
 Nokkrar	fovfn	nokkur
 rannsóknir	nvfn	rannsókn
 hafa	sfg3fn	hafa
@@ -1939,7 +1830,6 @@ og	c	og
 án	ae	án
 hennar	fpvee	hún
 .	.	.
-
 Niðurstöður	nvfn	niðurstaða
 þessara	favfe	þessi
 rannsókna	nvfe	rannsókn
@@ -1948,7 +1838,6 @@ ekki	aa	ekki
 allar	fovfn	allur
 samhljóða	aa	samhljóða
 .	.	.
-
 Algengast	lhense	algengur
 er	sfg3en	vera
 að	c	að
@@ -1971,7 +1860,6 @@ oftast	aae	oft
 vera	sng	vera
 samhverf	lhfnsf	samhverfur
 .	.	.
-
 Svo	aa	svo
 virðist	sfm3en	virða
 að	c	að
@@ -2002,7 +1890,6 @@ Lundberg	e	Lundberg
 2002:176	ta	2002:176
 )	)	)
 .	.	.
-
 Einnig	aa	einnig
 hefur	sfg3en	hafa
 komið	ssg	koma
@@ -2025,7 +1912,6 @@ dyslexíu	nveo	dyslexía
 frá	aþ	frá
 hinum	fakfþ	hinn
 .	.	.
-
 Þessi	fahfn	þessi
 svæði	nhfn	svæði
 þeirra	fakfe	sá
@@ -2039,7 +1925,6 @@ minni	lhfnvm	lítill
 en	c	en
 samanburðarhóps	nkee	samanburðarhópur
 .	.	.
-
 (	(	(
 Eckert	e	Eckert
 o.fl.	as	o.fl.
@@ -2047,7 +1932,6 @@ o.fl.	as	o.fl.
 2003:488	ta	2003:488
 )	)	)
 .	.	.
-
 Einnig	aa	einnig
 hefur	sfg3en	hafa
 tekist	ssm	taka
@@ -2073,7 +1957,6 @@ eða	c	eða
 án	ae	án
 málerfiðleika	nkfe	málerfiðleikar
 .	.	.
-
 Þeir	fakfn	sá
 sem	ct	sem
 eiga	sfg3fn	eiga
@@ -2118,7 +2001,6 @@ Leonard	e	Leonard
 2001:159	ta	2001:159
 )	)	)
 .	.	.
-
 Einnig	aa	einnig
 liggja	sfg3fn	liggja
 fyrir	aa	fyrir
@@ -2144,7 +2026,6 @@ o.fl.	as	o.fl.
 2004:19	ta	2004:19
 )	)	)
 .	.	.
-
 Þrátt	aa	þrátt
 fyrir	ao	fyrir
 misvísandi	lvfoof	misvísandi
@@ -2167,7 +2048,6 @@ og	c	og
 án	ae	án
 dyslexíu	nvee	dyslexía
 .	.	.
-
 Þessar	favfn	þessi
 niðurstöður	nvfn	niðurstaða
 styrkja	sfg3fn	styrkja
@@ -2184,7 +2064,6 @@ Eden	e	Eden
 2000:7	ta	2000:7
 )	)	)
 .	.	.
-
 Rannsóknir	nvfn	rannsókn
 á	aþ	á
 virkni	nveþ	virkni
@@ -2206,7 +2085,6 @@ einnig	aa	einnig
 virkni	nveo	virkni
 hans	fpkee	hann
 .	.	.
-
 Bylting	nven	bylting
 varð	sfg3eþ	verða
 á	aþ	á
@@ -2219,7 +2097,6 @@ möguleikum	nkfþ	möguleiki
 til	ae	til
 rannsókna	nvfe	rannsókn
 .	.	.
-
 Þannig	aa	þannig
 er	sfg3en	vera
 nú	aa	nú
@@ -2246,7 +2123,6 @@ verða	sfg3fn	verða
 við	ao	við
 starfsemi	nveo	starfsemi
 .	.	.
-
 Mælingar	nvfn	mæling
 kortleggja	sfg3fn	kortleggja
 hvar	aa	hvar
@@ -2271,7 +2147,6 @@ að	cn	að
 rannsaka	sng	rannsaka
 dyslexíu	nveo	dyslexía
 .	.	.
-
 Þessar	favfn	þessi
 rannsóknir	nvfn	rannsókn
 byggja	sfg3fn	byggja
@@ -2285,7 +2160,6 @@ segulómun	nveþ	segulómun
 og	c	og
 segulheilaritun	nveþ	segulheilaritun
 .	.	.
-
 Segulómmyndaskönnun	nven	segulómmyndaskönnun
 og	c	og
 starfræn	lvensf	starfrænn
@@ -2303,7 +2177,6 @@ verkefni	nhfn	verkefni
 eru	sfg3fn	vera
 unnin	sþghfn	vinna
 .	.	.
-
 Segulheilaritun	nven	segulheilaritun
 ,	,	,
 sem	ct	sem
@@ -2330,7 +2203,6 @@ Snowling	e	Snowling
 2000:151	ta	2000:151
 )	)	)
 .	.	.
-
 Þrjú	tfhfn	þrír
 svæði	nhfn	svæði
 í	aþ	í
@@ -2347,7 +2219,6 @@ virkjast	sfm3fn	virkja
 við	ao	við
 lestur	nkeo	lestur
 .	.	.
-
 Þessi	fahfn	þessi
 svæði	nhfn	svæði
 eru	sfg3fn	vera
@@ -2365,7 +2236,6 @@ neðarlega	aa	neðarlega
 vinstra	lheþvf	vinstri
 hveli	nheþ	hvel
 .	.	.
-
 Þessi	fahfn	þessi
 svæði	nhfn	svæði
 tengjast	sfm3fn	tengja
@@ -2382,7 +2252,6 @@ Shaywitz	e	Shaywitz
 2003:78	ta	2003:78:00
 )	)	)
 .	.	.
-
 Shaywitz	e	Shaywitz
 (	(	(
 2003:59	ta	2003:59
@@ -2404,7 +2273,6 @@ eru	sfg3fn	vera
 við	ao	við
 lestur	nkeo	lestur
 .	.	.
-
 Önnur	foven	annar
 er	sfg3en	vera
 notuð	sþgven	nota
@@ -2432,7 +2300,6 @@ orðheildarlestri	nkeþ	orðheildarlestur
 er	sfg3en	vera
 beitt	sþghen	beita
 .	.	.
-
 Umskráningin	nveng	umskráning
 eða	c	eða
 hljóðunin	nveng	hljóðun
@@ -2443,7 +2310,6 @@ fram	aa	fram
 í	aþ	í
 Brocasvæðinu	nheþgs	Brocasvæði
 .	.	.
-
 Færir	lkfnsf	fær
 lesarar	nkfn	lesari
 nota	sfg3fn	nota
@@ -2462,7 +2328,6 @@ orðgreiningarsvæðið	nheng	orðgreiningarsvæði
 og	c	og
 orðmyndasvæðið	nheng	orðmyndasvæði
 .	.	.
-
 Af	aþ	af
 þessum	fahfþ	þessi
 tveimur	tfhfþ	tveir
@@ -2483,7 +2348,6 @@ lesari	nken	lesari
 orðgreiningarsvæðið	nheog	orðgreiningarsvæði
 meira	aam	meira
 .	.	.
-
 Hann	fpken	hann
 þarf	sfg3en	þurfa
 að	cn	að
@@ -2503,7 +2367,6 @@ orðin	nhfog	orð
 meira	aam	meira
 sjálfvirkt	aa	sjálfvirkt
 .	.	.
-
 Rannsókn	nven	rannsókn
 Habib	e	Habib
 (	(	(
@@ -2535,7 +2398,6 @@ virkt	lhensf	virkur
 hjá	aþ	hjá
 samanburðarhópnum	nkeþg	samanburðarhópur
 .	.	.
-
 Með	aþ	með
 segulómmyndaskönnun	nveþ	segulómmyndaskönnun
 um	ao	um
@@ -2572,7 +2434,6 @@ Shaywitz	e	Shaywitz
 -86	ta	-86
 )	)	)
 .	.	.
-
 Með	aþ	með
 sömu	fbveþ	sami
 tækni	nveþ	tækni
@@ -2605,7 +2466,6 @@ Lundberg	e	Lundberg
 -91	ta	-91
 )	)	)
 .	.	.
-
 Athyglisvert	lhensf	athyglisverður
 er	sfg3en	vera
 að	c	að
@@ -2630,7 +2490,6 @@ heilanum	nkeþg	heili
 við	ao	við
 lestur	nkeo	lestur
 .	.	.
-
 Þannig	aa	þannig
 reyndust	sfm3fþ	reyna
 góðir	lkfnsf	góður
@@ -2652,7 +2511,6 @@ rímuðu	sfg3fþ	ríma
 eða	c	eða
 ekki	aa	ekki
 .	.	.
-
 Meirihluti	nken	meirihluti
 kvennanna	nvfeg	kona
 notaði	sfg3eþ	nota
@@ -2673,7 +2531,6 @@ svæði	nheo	svæði
 hægra	lheþvf	hægri
 hveli	nheþ	hvel
 .	.	.
-
 Báðir	fokfn	báðir
 hóparnir	nkfng	hópur
 unnu	sfg3fþ	vinna
@@ -2682,7 +2539,6 @@ og	c	og
 ámóta	aa	ámóta
 vel	aa	vel
 .	.	.
-
 Að	aþ	að
 mati	nheþ	mat
 rannsakenda	nkfe	rannsakandi
@@ -2703,7 +2559,6 @@ kynjamunur	nken	kynjamunur
 á	aþ	á
 heilavirkni	nveþ	heilavirkni
 .	.	.
-
 Snowling	e	Snowling
 (	(	(
 2000:155	ta	2000:155
@@ -2736,7 +2591,6 @@ eru	sfg3fn	vera
 með	ao	með
 dyslexíu	nveo	dyslexía
 .	.	.
-
 Sérstaklega	aa	sérstaklega
 virðist	sfm3en	virða
 vera	sng	vera
@@ -2751,7 +2605,6 @@ málskilnings	nkee	málskilningur
 og	c	og
 máltjáningar	nvee	máltjáning
 .	.	.
-
 Svo	aa	svo
 virðist	sfm3en	virða
 sem	c	sem
@@ -2776,7 +2629,6 @@ heilans	nkeeg	heili
 þau	fphfn	það
 lesa	sfg3fn	lesa
 .	.	.
-
 Fyrst	aae	fyrr
 virkjast	sfm3fn	virkja
 svæði	nhfn	svæði
@@ -2810,7 +2662,6 @@ hvirfilblaði	nheþ	hvirfilblað
 vinstra	lheþvf	vinstri
 heilahveli	nheþ	heilahvel
 .	.	.
-
 Þetta	fahen	þessi
 eru	sfg3fn	vera
 efri	lvenvm	efri
@@ -2820,7 +2671,6 @@ Wernickesvæðið	nhengs	Wernickesvæðið
 og	c	og
 hornfelling	nven	hornfelling
 .	.	.
-
 Börn	nhfn	barn
 með	ao	með
 dyslexíu	nveo	dyslexía
@@ -2840,7 +2690,6 @@ o.fl.	as	o.fl.
 2004:20	ta	2004:20
 )	)	)
 .	.	.
-
 Rannsókn	nven	rannsókn
 Breier	e	Breier
 o.fl.	as	o.fl.
@@ -2878,7 +2727,6 @@ svæði	nheo	svæði
 hægra	lheþvf	hægri
 hveli	nheþ	hvel
 .	.	.
-
 Þar	aa	þar
 kom	sfg3eþ	koma
 einnig	aa	einnig
@@ -2898,7 +2746,6 @@ minni	lveovm	lítill
 færni	nveo	færni
 hljóðkerfisvinnslu	nvee	hljóðkerfisvinnsla
 .	.	.
-
 Í	aþ	í
 samantekt	nveþ	samantekt
 Richards	e	Richards
@@ -2929,7 +2776,6 @@ lausn	nveo	lausn
 margvíslegra	lhfesf	margvíslegur
 verkefna	nhfe	verkefni
 .	.	.
-
 Þessi	faken	þessi
 munur	nken	munur
 hefur	sfg3en	hafa
@@ -2956,7 +2802,6 @@ og	c	og
 merkingu	nveo	merking
 talmáls	nhee	talmál
 .	.	.
-
 Þessi	faken	þessi
 virknimunur	nken	virknimunur
 leiðir	sfg3en	leiða
@@ -2969,7 +2814,6 @@ ritmáli	nheþ	ritmál
 í	ao	í
 talmál	nheo	talmál
 .	.	.
-
 Svo	aa	svo
 virðist	sfm3en	virða
 sem	c	sem
@@ -3000,7 +2844,6 @@ við	ao	við
 ákveðnar	lvfosf	ákveðinn
 taugabrautir	nvfo	taugabraut
 .	.	.
-
 Tengsl	nhfn	tengsl
 hafa	sfg3fn	hafa
 komið	ssg	koma
@@ -3014,7 +2857,6 @@ virkni	nvee	virkni
 á	aþ	á
 orðmyndasvæðinu	nheþg	orðmyndasvæði
 .	.	.
-
 Því	fpheþ	það
 meiri	lvenvm	mikill
 sem	c	sem
@@ -3031,7 +2873,6 @@ Shaywitz	e	Shaywitz
 2003:80	ta	2003:80
 )	)	)
 .	.	.
-
 Þannig	aa	þannig
 eru	sfg3fn	vera
 að	aþ	að
@@ -3056,7 +2897,6 @@ við	ao	við
 endurþekkingu	nveo	endurþekking
 orða	nhfe	orð
 .	.	.
-
 Taugakerfi	nhfn	taugakerfi
 sem	ct	sem
 bera	sfg3fn	bera
@@ -3070,7 +2910,6 @@ meðan	c	meðan
 lestrarnámi	nheþ	lestrarnám
 stendur	sfg3en	standa
 .	.	.
-
 Heilavirkni	nven	heilavirkni
 einstaklinga	nkfe	einstaklingur
 á	aþ	á
@@ -3089,7 +2928,6 @@ sem	ct	sem
 tengjast	sfm3fn	tengja
 lestri	nkeþ	lestur
 .	.	.
-
 Við	ao	við
 lestrarnám	nheo	lestrarnám
 reyndust	sfm3fþ	reyna
@@ -3101,7 +2939,6 @@ breytingar	nvfn	breyting
 virkni	nveþ	virkni
 heila	nkfe	heili
 .	.	.
-
 Annars	fokee	annar
 vegar	nkee	vegur
 var	sfg3eþ	vera
@@ -3122,7 +2959,6 @@ gagnaugasvæði	nheþ	gagnaugasvæði
 hægra	lheevf	hægri
 hvels	nhee	hvel
 .	.	.
-
 Að	aþ	að
 mati	nheþ	mat
 rannsakenda	nkfe	rannsakandi
@@ -3162,7 +2998,6 @@ og	c	og
 hljóðunarfærnin	nveng	hljóðunarfærni
 eflist	sfm3en	efla
 .	.	.
-
 Því	fpheþ	það
 næst	aae	nærri
 er	sfg3en	vera
@@ -3182,7 +3017,6 @@ frá	aþ	frá
 þekktum	lhfþsf	þekktur
 orðum	nhfþ	orð
 .	.	.
-
 Lokastaðan	nveng	lokastaða
 er	sfg3en	vera
 hinn	gken	hinn
@@ -3190,7 +3024,6 @@ vel	aa	vel
 læsi	lkenvf	læs
 einstaklingur	nken	einstaklingur
 .	.	.
-
 Hjá	aþ	hjá
 þeim	fakeþ	sá
 fluglæsa	lkeþvf	fluglæs
@@ -3208,7 +3041,6 @@ að	cn	að
 lesa	sng	lesa
 orðin	nhfog	orð
 .	.	.
-
 Í	aþ	í
 þessum	fahfþ	þessi
 tauganetum	nhfþ	tauganet
@@ -3237,7 +3069,6 @@ rittákn	nhfo	rittákn
 við	ao	við
 hljóðkerfismerki	nhfo	hljóðkerfismerki
 .	.	.
-
 Enn	aa	enn
 er	sfg3en	vera
 verið	sþghen	vera
@@ -3252,7 +3083,6 @@ tengslum	nhfþ	tengsl
 við	ao	við
 lestur	nkeo	lestur
 .	.	.
-
 Þær	favfn	sá
 upplýsingar	nvfn	upplýsing
 sem	ct	sem
@@ -3273,7 +3103,6 @@ en	c	en
 þau	fphfn	það
 fremri	lhfnvm	fremri
 .	.	.
-
 Svo	aa	svo
 virðist	sfm3en	virða
 sem	c	sem
@@ -3295,7 +3124,6 @@ o.fl.	as	o.fl.
 2003	ta	2003
 )	)	)
 .	.	.
-
 Rannsóknir	nvfn	rannsókn
 á	aþ	á
 taugafræðilegri	lveþsf	taugafræðilegur
@@ -3318,7 +3146,6 @@ lestrarfærni	nveo	lestrarfærni
 eða	c	eða
 orðalestur	nkeo	orðalestur
 .	.	.
-
 Það	fphen	það
 merkir	sfg3en	merkja
 að	c	að
@@ -3335,7 +3162,6 @@ frá	aþ	frá
 slíkum	fbvfþ	slíkur
 rannsóknum	nvfþ	rannsókn
 .	.	.
-
 Einnig	aa	einnig
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -3363,7 +3189,6 @@ o.fl.	as	o.fl.
 2003	ta	2003
 )	)	)
 .	.	.
-
 Enn	aa	enn
 einn	tfken	einn
 annmarki	nken	annmarki
@@ -3415,7 +3240,6 @@ Hynd	e	Hynd
 2002:33	ta	2002:33
 )	)	)
 .	.	.
-
 Loks	aa	loks
 er	sfg3en	vera
 rétt	lhensf	réttur
@@ -3449,11 +3273,9 @@ Leonard	e	Leonard
 2001:174	ta	2001:174
 )	)	)
 .	.	.
-
 Breytingar	nvfn	breyting
 á	aþ	á
 heilastarfsemi	nveþ	heilastarfsemi
-
 Eins	aa	eins
 og	c	og
 að	aa	að
@@ -3467,7 +3289,6 @@ breytingum	nvfþ	breyting
 við	ao	við
 lestrarnám	nheo	lestrarnám
 .	.	.
-
 Virkni	nven	virkni
 í	aþ	í
 heilastarfsemi	nveþ	heilastarfsemi
@@ -3481,7 +3302,6 @@ burtséð	aa	burtséð
 frá	aþ	frá
 aldri	nkeþ	aldur
 .	.	.
-
 Hún	fpven	hún
 er	sfg3en	vera
 mikil	lvensf	mikill
@@ -3495,7 +3315,6 @@ minni	lvenvm	lítill
 fremri	lkeþvm	fremri
 hluta	nkeþ	hluti
 .	.	.
-
 Heilavirkni	nven	heilavirkni
 leshamlaðra	lkfesf	leshamlaður
 tekur	sfg3en	taka
@@ -3506,7 +3325,6 @@ breytingum	nvfþ	breyting
 með	aþ	með
 aldrinum	nkeþg	aldur
 .	.	.
-
 Segulómmyndir	nvfn	segulómmynd
 sýna	sfg3fn	sýna
 að	c	að
@@ -3544,7 +3362,6 @@ vandræðin	nhfog	vandræði
 fyrir	aa	fyrir
 aftan	aa	aftan
 .	.	.
-
 Hugsanlega	aa	hugsanlega
 er	sfg3en	vera
 um	ao	um
@@ -3578,7 +3395,6 @@ að	cn	að
 lesa	sng	lesa
 orðið	nheog	orð
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 hægvirk	lvensf	hægvirkur
@@ -3612,7 +3428,6 @@ Shaywitz	e	Shaywitz
 -84	ta	-84
 )	)	)
 .	.	.
-
 Þjálfun	nven	þjálfun
 og	c	og
 markviss	lvensf	markviss
@@ -3638,7 +3453,6 @@ notuð	lhfnsf	nota
 við	ao	við
 lestur	nkeo	lestur
 .	.	.
-
 Þannig	aa	þannig
 fundu	sfg3fþ	finna
 Simos	e	Simos
@@ -3660,7 +3474,6 @@ börnum	nhfþ	barn
 með	ao	með
 leshömlun	nveo	leshömlun
 .	.	.
-
 Átta	tfhfn	átta
 börn	nhfn	barn
 á	aþ	á
@@ -3674,7 +3487,6 @@ klukkustunda	nvfe	klukkustund
 markvissa	lveosf	markviss
 kennslu	nveo	kennsla
 .	.	.
-
 Öll	fohfn	allur
 höfðu	sfg3fþ	hafa
 þau	fphfn	það
@@ -3694,7 +3506,6 @@ og	c	og
 slakri	lveþsf	slakur
 hljóðkerfisvitund	nveþ	hljóðkerfisvitund
 .	.	.
-
 Fyrir	ao	fyrir
 kennslu	nveo	kennsla
 var	sfg3eþ	vera
@@ -3727,7 +3538,6 @@ svæði	nheþ	svæði
 hægra	lheevf	hægri
 hvels	nhee	hvel
 .	.	.
-
 Eftir	ao	eftir
 kennslu	nveo	kennsla
 ,	,	,
@@ -3750,7 +3560,6 @@ hjá	aþ	hjá
 öllum	fokfþ	allur
 þátttakendum	nkfþ	þátttakandi
 .	.	.
-
 Virknibreyting	nven	virknibreyting
 kom	sfg3eþ	koma
 einnig	aa	einnig
@@ -3762,7 +3571,6 @@ Richards	e	Richards
 2001	ta	2001
 )	)	)
 .	.	.
-
 Breytingar	nvfn	breyting
 urðu	sfg3fþ	verða
 á	aþ	á
@@ -3773,7 +3581,6 @@ heilahveli	nheþ	heilahvel
 eftir	ao	eftir
 hljóðkerfisþjálfun	nveo	hljóðkerfisþjálfun
 .	.	.
-
 Fyrir	ao	fyrir
 kennsluna	nveog	kennsla
 virkjuðu	sfg3fþ	virkja
@@ -3791,7 +3598,6 @@ virk	lhfnsf	virkur
 hjá	aþ	hjá
 meðallesurum	nkfþ	meðallesari
 .	.	.
-
 Eftir	ao	eftir
 þjálfunina	nveog	þjálfun
 hafði	sfg3eþ	hafa
@@ -3800,7 +3606,6 @@ dregið	ssg	draga
 þessari	faveþ	þessi
 virkni	nveþ	virkni
 .	.	.
-
 Frekari	lvenvm	frekur
 rannsókn	nven	rannsókn
 Richards	e	Richards
@@ -3852,7 +3657,6 @@ við	ao	við
 úrvinnslu	nveo	úrvinnsla
 hljóðkerfisverkefna	nhfe	hljóðkerfisverkefni
 .	.	.
-
 Þau	fahfn	sá
 sem	ct	sem
 fengu	sfg3fþ	fá
@@ -3875,7 +3679,6 @@ sem	ct	sem
 fengu	sfg3fþ	fá
 hljóðkerfiskennslu	nveo	hljóðkerfiskennsla
 .	.	.
-
 Markviss	lvensf	markviss
 fjölþætt	lvensf	fjölþættur
 lestrarkennsla	nven	lestrarkennsla
@@ -3885,7 +3688,6 @@ hefur	sfg3en	hafa
 heilavirkni	nveo	heilavirkni
 leshamlaðra	lkfesf	leshamlaður
 .	.	.
-
 Þetta	fahen	þessi
 kom	sfg3eþ	koma
 fram	aa	fram
@@ -3912,7 +3714,6 @@ eðlilega	aa	eðlilega
 læsum	lhfþsf	læs
 börnum	nhfþ	barn
 .	.	.
-
 Lögð	sþghfn	leggja
 voru	sfg3fþ	vera
 fyrir	aa	fyrir
@@ -3936,7 +3737,6 @@ skilja	sng	skilja
 tengsl	nhfo	tengsl
 orðmynda	nvfe	orðmynd
 .	.	.
-
 Á	aa	á
 meðan	c	meðan
 börnin	nhfng	barn
@@ -3946,7 +3746,6 @@ fram	aa	fram
 starfræn	lvensf	starfrænn
 segulómun	nven	segulómun
 .	.	.
-
 Þá	aa	þá
 fóru	sfg3fþ	fara
 leshömluðu	lhfnvf	leshamlaður
@@ -3962,7 +3761,6 @@ dag	nkeo	dagur
 14	ta	14
 daga	nkfo	dagur
 .	.	.
-
 Kennslan	nveng	kennsla
 tók	sfg3eþ	taka
 mið	nheo	mið
@@ -3982,7 +3780,6 @@ lestrarkennslu	nvee	lestrarkennsla
 bæru	svg3fþ	bera
 árangur	nkeo	árangur
 .	.	.
-
 Unnið	sþghen	vinna
 var	sfg3eþ	vera
 með	aa	með
@@ -3998,7 +3795,6 @@ lestraröryggi	nheo	lestraröryggi
 og	c	og
 lesskilning	nkeo	lesskilningur
 .	.	.
-
 Skönnunin	nveng	skönnun
 var	sfg3eþ	vera
 endurtekin	sþgven	endurtaka
@@ -4006,7 +3802,6 @@ endurtekin	sþgven	endurtaka
 báðum	fokfþ	báðir
 hópum	nkfþ	hópur
 .	.	.
-
 Heilavirkni	nven	heilavirkni
 við	ao	við
 fyrri	lveovm	fyrri
@@ -4023,7 +3818,6 @@ börnunum	nhfþg	barn
 ákveðnum	lhfþsf	ákveðinn
 svæðum	nhfþ	svæði
 .	.	.
-
 Eftir	ao	eftir
 kennsluna	nveog	kennsla
 náðu	sfg3fþ	ná
@@ -4048,7 +3842,6 @@ sambærileg	lvensf	sambærilegur
 við	ao	við
 samanburðarhópinn	nkeog	samanburðarhópur
 .	.	.
-
 Shaywitz	e	Shaywitz
 o.fl.	as	o.fl.
 ,	,	,
@@ -4072,7 +3865,6 @@ voru	sfg3fþ	vera
 með	ao	með
 lestrarerfiðleika	nkfo	lestrarerfiðleikar
 .	.	.
-
 Tilraunahópurinn	nkeng	tilraunahópur
 fékk	sfg3eþ	fá
 50	ta	50
@@ -4085,7 +3877,6 @@ um	aa	um
 105	ta	105
 klukkustundir	nvfo	klukkustund
 .	.	.
-
 Kennslan	nveng	kennsla
 samanstóð	sfg3eþ	samanstanda
 af	aþ	af
@@ -4102,7 +3893,6 @@ lesskilnings	nkee	lesskilningur
 með	aþ	með
 textalestri	nkeþ	textalestur
 .	.	.
-
 Eftir	ao	eftir
 átta	tfkfe	átta
 mánaða	nkfe	mánuður
@@ -4127,7 +3917,6 @@ svæðum	nhfþ	svæði
 vinstra	lheevf	vinstri
 heilahvels	nhee	heilahvel
 .	.	.
-
 Í	aþ	í
 upphafi	nheþ	upphaf
 tilraunar	nvee	tilraun
@@ -4152,7 +3941,6 @@ virkni	nveo	virkni
 vinstra	lheþvf	vinstri
 hveli	nheþ	hvel
 .	.	.
-
 Í	ao	í
 lokin	nhfog	lok
 bar	sfg3eþ	bera
@@ -4168,7 +3956,6 @@ hveli	nheþ	hvel
 hafði	sfg3eþ	hafa
 aukist	ssm	auka
 .	.	.
-
 Ári	nheþ	ár
 eftir	ao	eftir
 að	aþ	að
@@ -4184,7 +3971,6 @@ börn	nhfn	barn
 án	ae	án
 lestrarerfileika	nkfe	lestrarerfiðleikar
 .	.	.
-
 Niðurstöður	nvfn	niðurstaða
 eru	sfg3fn	vera
 þær	fpvfn	hún
@@ -4220,7 +4006,6 @@ mikilvæg	lhfnsf	mikilvægur
 fyrir	ao	fyrir
 lestraröryggi	nheo	lestraröryggi
 .	.	.
-
 Rannsóknir	nvfn	rannsókn
 á	aþ	á
 heilavirkni	nveþ	heilavirkni
@@ -4237,7 +4022,6 @@ meta	sng	meta
 áhrif	nhfo	áhrif
 kennslu	nvee	kennsla
 .	.	.
-
 Kennsla	nven	kennsla
 virðist	sfm3en	virða
 skipta	sng	skipta
@@ -4252,7 +4036,6 @@ sem	ct	sem
 tengist	sfm3en	tengja
 lestri	nkeþ	lestur
 .	.	.
-
 Draga	sng	draga
 má	sfg3en	mega
 þá	faveo	sá
@@ -4275,11 +4058,9 @@ en	c	en
 haldið	sþghen	halda
 var	sfg3eþ	vera
 .	.	.
-
 Í	aþ	í
 stuttu	lheþsf	stuttur
 máli	nheþ	mál
-
 Með	aþ	með
 segulómmyndarannsóknum	nvfþ	segulómmyndarannsókn
 hefur	sfg3en	hafa
@@ -4321,7 +4102,6 @@ leshömlun	nveo	leshömlun
 eða	c	eða
 ekki	aa	ekki
 .	.	.
-
 Einnig	aa	einnig
 hefur	sfg3en	hafa
 komið	ssg	koma
@@ -4368,7 +4148,6 @@ ekki	aa	ekki
 hafa	sfg3fn	hafa
 leshömlun	nveo	leshömlun
 .	.	.
-
 Orsakir	nvfn	orsök
 eru	sfg3fn	vera
 líklega	aa	líklega
@@ -4387,7 +4166,6 @@ til	ae	til
 sjötta	lkeevf	sjötti
 meðgöngumánaðar	nkee	meðgöngumánuður
 .	.	.
-
 Tilgátur	nvfn	tilgáta
 eru	sfg3fn	vera
 um	ao	um
@@ -4411,7 +4189,6 @@ annarra	fokfe	annar
 í	aþ	í
 framhaldinu	nheþg	framhald
 .	.	.
-
 Sýnt	sþghen	sýna
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -4430,7 +4207,6 @@ hjá	aþ	hjá
 óhömluðum	lkfþsf	óhamlaður
 lesurum	nkfþ	lesari
 .	.	.
-
 Þótt	c	þótt
 rannsóknir	nvfn	rannsókn
 gefi	svg3fn	gefa
@@ -4456,7 +4232,6 @@ dyslexía	nven	dyslexía
 er	sfg3en	vera
 rannsökuð	sþgven	rannsaka
 .	.	.
-
 Lestur	nken	lestur
 er	sfg3en	vera
 samvinnuverkefni	nhen	samvinnuverkefni
@@ -4468,7 +4243,6 @@ víða	aa	víða
 í	aþ	í
 heilanum	nkeþg	heili
 .	.	.
-
 Hljóðkerfisfærni	nven	hljóðkerfisfærni
 og	c	og
 lestur	nken	lestur
@@ -4477,7 +4251,6 @@ eru	sfg3fn	vera
 gagnvirku	lheþsf	gagnvirkur
 sambandi	nheþ	samband
 .	.	.
-
 Rannsóknirnar	nvfng	rannsókn
 gefa	sfg3fn	gefa
 til	ae	til
@@ -4499,7 +4272,6 @@ en	c	en
 haldið	sþghen	halda
 var	sfg3eþ	vera
 .	.	.
-
 Kennsla	nven	kennsla
 virðist	sfm3en	virða
 skipta	sng	skipta
@@ -4514,7 +4286,6 @@ sem	ct	sem
 tengist	sfm3en	tengja
 lestri	nkeþ	lestur
 .	.	.
-
 Þjálfun	nven	þjálfun
 hljóðkerfisfærni	nvee	hljóðkerfisfærni
 og	c	og
@@ -4525,7 +4296,6 @@ við	ao	við
 þessa	faveo	þessi
 þróun	nveo	þróun
 .	.	.
-
 Einnig	aa	einnig
 skiptir	sfg3en	skipta
 máli	nheþ	mál
@@ -4539,7 +4309,6 @@ hún	fpven	hún
 sé	svg3en	vera
 þétt	lvensf	þéttur
 .	.	.
-
 Margir	lkfnsf	margur
 fræðimenn	nkfn	fræðimaður
 eru	sfg3fn	vera
@@ -4561,9 +4330,7 @@ markvisst	aa	markvisst
 byggð	sþgven	byggja
 upp	aa	upp
 .	.	.
-
 Orðskýringar	nvfn	orðskýring
-
 augndvöl	nven	augndvöl
 ,	,	,
 sjónfesting	nven	sjónfesting
@@ -4578,7 +4345,6 @@ kyrr	lhfnsf	kyrr
 við	ao	við
 orð	nheo	orð
 .	.	.
-
 augnrykkir	nkfn	augnrykkur
 :	:	:
 Hreyfinga	nvfe	hreyfing
@@ -4593,7 +4359,6 @@ orði	nheþ	orð
 til	ae	til
 annars	fohee	annar
 .	.	.
-
 baklæg	lvensf	baklægur
 braut	nven	braut
 :	:	:
@@ -4604,7 +4369,6 @@ upplýsingar	nvfo	upplýsing
 um	ao	um
 sjónbörk	nkeo	sjónbörkur
 .	.	.
-
 Greinir	sfg3en	greina
 hvar	aa	hvar
 hlutir	nkfn	hlutur
@@ -4617,13 +4381,11 @@ einnig	aa	einnig
 kölluð	sþgven	kalla
 hvar-braut	nven	hvarbraut
 .	.	.
-
 Önnur	foven	annar
 tveggja	tfvfe	tveir
 sjónbrauta	nvfe	sjónbraut
 heilans	nkeeg	heili
 .	.	.
-
 fylgifyrirbæri	nhen	fylgifyrirbæri
 ,	,	,
 fylgikvilli	nken	fylgikvilli
@@ -4635,7 +4397,6 @@ sem	ct	sem
 fylgir	sfg3en	fylgja
 sjúkdómi	nkeþ	sjúkdómur
 .	.	.
-
 grátónanæmi	nhen	grátónanæmi
 :	:	:
 Það	fphen	það
@@ -4650,13 +4411,11 @@ eða	c	eða
 skerpu	nveþ	skerpa
 tóna	nkfe	tónn
 .	.	.
-
 Næmi	nhen	næmi
 á	ao	á
 mismunandi	lkfoof	mismunandi
 tóna	nkfo	tónn
 .	.	.
-
 griplur	nvfn	gripla
 :	:	:
 Stuttir	lkfnsf	stuttur
@@ -4676,7 +4435,6 @@ frá	aþ	frá
 öðrum	fovfþ	annar
 taugafrumum	nvfþ	taugafruma
 .	.	.
-
 jafnbirta	nven	jafnbirta
 :	:	:
 Jafnbirta	nven	jafnbirta
@@ -4689,7 +4447,6 @@ nákvæmlega	aa	nákvæmlega
 sama	fbheo	sami
 birtumagn	nheo	birtumagn
 .	.	.
-
 magnófruma	nven	magnófruma
 :	:	:
 Ein	tfven	einn
@@ -4698,7 +4455,6 @@ frumugerða	nvfe	frumugerð
 í	aþ	í
 sjónbrautum	nvfþ	sjónbraut
 .	.	.
-
 Fæst	sfm3en	fá
 við	aa	við
 ,	,	,
@@ -4709,13 +4465,11 @@ breytingar	nvfo	breyting
 og	c	og
 hreyfingar	nvfo	hreyfing
 .	.	.
-
 Hin	faven	hinn
 frumugerðin	nveng	frumugerð
 er	sfg3en	vera
 parvófruma	nven	parvófruma
 .	.	.
-
 magnófrumukefi	x	magnófrumukerfi
 ,	,	,
 M-kerfi	nhen-s	M-kerfi
@@ -4743,7 +4497,6 @@ og	c	og
 í	aþ	í
 heila	nkeþ	heili
 .	.	.
-
 Fáir	lkfnsf	fár
 hafa	sfg3fn	hafa
 gert	ssg	gera
@@ -4759,14 +4512,12 @@ hundeltir	sfg2eþ	hundelta
 hann	fpkeo	hann
 lifandi	lkeoof	lifandi
 .	.	.
-
 Skrifaðir	sfg2eþ	skrifa
 vel	aa	vel
 um	ao	um
 hann	fpkeo	hann
 dauðan	lkeosf	dauður
 .	.	.
-
 Sagðir	sfg2eþ	segja
 mér	fp1eþ	ég
 að	c	að
@@ -4784,7 +4535,6 @@ um	ao	um
 sína	fekfo	sinn
 daga	nkfo	dagur
 !	!	!
-
 Ég	fp1en	ég
 reikna	sfg1en	reikna
 ekki	aa	ekki
@@ -4794,7 +4544,6 @@ hafi	svg3en	hafa
 borið	ssg	bera
 þetta	faheo	þessi
 .	.	.
-
 Bjarni	nken-s	Bjarni
 gerði	sfg3eþ	gera
 það	fpheo	það
@@ -4809,7 +4558,6 @@ hans	fpkee	hann
 sagði	sfg3eþ	segja
 honum	fpkeþ	hann
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 fastur	lkensf	fastur
@@ -4821,7 +4569,6 @@ eins	aa	eins
 og	c	og
 þú	fp2en	þú
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 svo	aa	svo
@@ -4843,14 +4590,12 @@ sem	ct	sem
 þeir	fpkfn	hann
 boðuðu	sfg3fþ	boða
 .	.	.
-
 En	c	en
 hann	fpken	hann
 barðist	sfm3eþ	berja
 gegn	aþ	gegn
 þeim	fpkfþ	hann
 .	.	.
-
 En	c	en
 hann	fpken	hann
 gat	sfg3eþ	geta
@@ -4860,7 +4605,6 @@ að	aþ	að
 öðru	foheþ	annar
 leyti	nheþ	leyti
 .	.	.
-
 Það	fpheo	það
 getur	sfg2en	geta
 þú	fp2en	þú
@@ -4877,7 +4621,6 @@ bréf	nheo	bréf
 ruglar	sfg2en	rugla
 tam	as	tam
 .	.	.
-
 ekki	aa	ekki
 saman	aa	saman
 skoðunum	nvfþ	skoðun
@@ -4885,7 +4628,6 @@ mínum	fevfþ	minn
 og	c	og
 ljóðum	nhfþ	ljóð
 .	.	.
-
 Bjarni	nken-s	Bjarni
 gat	sfg3eþ	geta
 einnig	aa	einnig
@@ -4894,7 +4636,6 @@ skoðanir	nvfo	skoðun
 andstæðinga	nkfe	andstæðingur
 sinna	fekfe	sinn
 .	.	.
-
 En	c	en
 mér	fp1eþ	ég
 sýnist	sfm3en	sýna
@@ -4907,7 +4648,6 @@ getir	svg2en	geta
 þú	fp2en	þú
 ekki	aa	ekki
 .	.	.
-
 Þú	fp2en	þú
 sérð	sfg2en	sjá
 djöfla	nkfo	djöfull
@@ -4921,7 +4661,6 @@ fara	sfg3fn	fara
 ekki	aa	ekki
 saman	aa	saman
 .	.	.
-
 Einu	foheþ	einn
 sinni	nheþ	sinn
 fluttir	sfg2eþ	flytja
@@ -4932,7 +4671,6 @@ NATO	nxeo-s	NATO
 í	ao	í
 ríkisútvarpið	nheog	ríkisútvarp
 .	.	.
-
 Þórbergur	nken-s	Þórbergur
 sagði	sfg3eþ	segja
 að	c	að
@@ -4947,7 +4685,6 @@ siðspillta	lveosf	siðspilltur
 pólitíska	lveosf	pólitískur
 lágkúru	nveo	lágkúra
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 meðan	c	meðan
@@ -4957,7 +4694,6 @@ málstað	nkeo	málstaður
 vestræns	lheesf	vestrænn
 lýðræðis	nhee	lýðræði
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 alltaf	aa	alltaf
@@ -4978,7 +4714,6 @@ af	aþ	af
 djúpri	lveþsf	djúpur
 sannfæringu	nveþ	sannfæring
 .	.	.
-
 Ég	fp1en	ég
 geng	sfg1en	ganga
 sem	c	sem
@@ -4992,7 +4727,6 @@ lágkúru	nveo	lágkúra
 í	aþ	í
 brjóstinu	nheþg	brjóst
 .	.	.
-
 Því	fpheþ	það
 haggar	sfg3en	hagga
 enginn	foken	enginn

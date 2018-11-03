@@ -24,7 +24,6 @@ ef	c	ef
 tæki	svg1eþ	taka
 próf	nheo	próf
 .	.	.
-
 Í	aþ	í
 öllu	foheþ	allur
 löngunarleysinu	nheþg	löngunarleysi
@@ -34,7 +33,6 @@ mér	fp1eþ	ég
 ein	tfven	einn
 löngun	nven	löngun
 .	.	.
-
 Að	cn	að
 breiða	sng	breiða
 enn	aa	enn
@@ -52,7 +50,6 @@ sem	ct	sem
 eftir	aa	eftir
 var	sfg3eþ	vera
 .	.	.
-
 Það	fphen	það
 hrökk	sfg3eþ	hrökkva
 tár	nhen	tár
@@ -86,7 +83,6 @@ tárin	nhfng	tár
 best	aae	vel
 geymd	sþghfn	geyma
 .	.	.
-
 Ég	fp1en	ég
 hálfgleymdi	sfg1eþ	hálfgleyma
 mér	fp1eþ	ég
@@ -112,7 +108,6 @@ dyrnar	nvfog	dyr
 eftir	ao	eftir
 innkaupin	nhfog	innkaup
 .	.	.
-
 Ég	fp1en	ég
 þóttist	sfm1eþ	þykja
 sofa	sng	sofa
@@ -131,7 +126,6 @@ sauð	sfg3eþ	sjóða
 á	aþ	á
 hellunni	nveþg	hella
 .	.	.
-
 Nú	aa	nú
 fann	sfg1eþ	finna
 ég	fp1en	ég
@@ -142,7 +136,6 @@ maga	nkeþ	magi
 ekta	lkeoof	ekta
 sultarverk	nkeo	sultarverkur
 .	.	.
-
 Ekki	aa	ekki
 að	cn	að
 undra	sng	undra
@@ -156,7 +149,6 @@ indælasta	lkeþve	indæll
 skermakaupmanni	nkeþ	skermakaupmaður
 heimsins	nkeeg	heimur
 .	.	.
-
 Hafði	sfg1eþ	hafa
 ekki	aa	ekki
 bragðað	ssg	bragða
@@ -171,7 +163,6 @@ Toudouze	e	Toudouze
 í	aþ	í
 hádeginu	nheþg	hádegi
 .	.	.
-
 Nú	aa	nú
 væri	svg3eþ	vera
 sterkur	lkensf	sterkur
@@ -195,7 +186,6 @@ sinn	fekeo	sinn
 Árstíðirnar	nvfngs	árstíð
 fimm	ta	fimm
 .	.	.
-
 Það	fphen	það
 togaði	sfg3eþ	toga
 í	ao	í
@@ -213,7 +203,6 @@ vera	sng	vera
 meðal	ae	meðal
 manna	nkfe	maður
 .	.	.
-
 Enn	aa	enn
 meira	aam	meira
 togaði	sfg3eþ	toga
@@ -240,7 +229,6 @@ hvað	fsheo	hver
 ég	fp1en	ég
 sæi	svg1eþ	sjá
 .	.	.
-
 Ég	fp1en	ég
 bjó	sfg1eþ	búa
 út	aa	út
@@ -252,7 +240,6 @@ og	c	og
 ristaði	sfg1eþ	rista
 brauð	nheo	brauð
 .	.	.
-
 Ég	fp1en	ég
 kom	sfg1eþ	koma
 mér	fp1eþ	ég
@@ -271,7 +258,6 @@ verið	ssg	vera
 í	aþ	í
 sveltikúr	nkeþ	sveltikúr
 .	.	.
-
 Dreypti	sfg1eþ	dreypa
 á	aþ	á
 góðvíni	nheþ	góðvín
@@ -300,7 +286,6 @@ dag	nkeo	dagur
 svolítið	lhensf	svolítill
 kraftaverk	nhen	kraftaverk
 .	.	.
-
 Lífið	nheng	líf
 hjá	aþ	hjá
 mér	fp1eþ	ég
@@ -316,7 +301,6 @@ mína	fekfo	minn
 og	c	og
 kunningja	nkfo	kunningi
 .	.	.
-
 Gott	lhensf	góður
 heilsufar	nhen	heilsufar
 ,	,	,
@@ -337,7 +321,6 @@ vel	aa	vel
 lukkaðar	lvfnsf	lukkaður
 dætur	nvfn	dóttir
 .	.	.
-
 Það	fphen	það
 gat	sfg3eþ	geta
 ekki	aa	ekki
@@ -349,7 +332,6 @@ mikið	lheosf	mikill
 vantaði	sfg3eþ	vanta
 á	aa	á
 .	.	.
-
 En	c	en
 hvernig	aa	hvernig
 sem	c	sem
@@ -371,7 +353,6 @@ mig	fp1eo	ég
 í	aþ	í
 spegli	nkeþ	spegill
 .	.	.
-
 Hvað	fsheo	hver
 ertu	sfg2en	vera
 að	cn	að
@@ -385,12 +366,10 @@ oft	aa	oft
 maðurinn	nkeng	maður
 minn	feken	minn
 .	.	.
-
 Ekkert	foheo	enginn
 hjartað	nheng	hjarta
 mitt	fehen	minn
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ekki	aa	ekki
@@ -399,7 +378,6 @@ að	cn	að
 hugsa	sng	hugsa
 ekkert	foheo	enginn
 .	.	.
-
 Þú	fp2en	þú
 ættir	svg2eþ	eiga
 að	cn	að
@@ -409,7 +387,6 @@ hvað	fshen	hver
 er	sfg1en	vera
 flínk	lvensf	flinkur
 .	.	.
-
 Ég	fp1en	ég
 fann	sfg1eþ	finna
 kaffilykt	nveo	kaffilykt
@@ -444,7 +421,6 @@ litla	lheþvf	lítill
 eldhúsinu	nheþg	eldhús
 mínu	feheþ	minn
 .	.	.
-
 Kaffi	nhen	kaffi
 er	sfg3en	vera
 uppáhaldsdrykkurinn	nkeng	uppáhaldsdrykkur
@@ -471,7 +447,6 @@ en	c	en
 almennilegu	lheþsf	almennilegur
 kaffi	nheþ	kaffi
 .	.	.
-
 Ekki	aa	ekki
 hvernig	lheþof	hvernig
 kaffi	nheþ	kaffi
@@ -479,7 +454,6 @@ sem	ct	sem
 er	sfg3en	vera
 takk	au	takk
 .	.	.
-
 Jú	au	jú
 maðurinn	nkeng	maður
 minn	feken	minn
@@ -511,7 +485,6 @@ og	c	og
 gestarúmið	nheng	gestarúm
 grískukennarans	nkeeg	grískukennari
 .	.	.
-
 Kaffið	nheng	kaffi
 er	sfg3en	vera
 komið	sþghen	koma
@@ -520,20 +493,17 @@ Brynhildur	nven-s	Brynhildur
 sagði	sfg3eþ	segja
 hann	fpken	hann
 .	.	.
-
 Hvað	fsheo	hver
 segirðu	sfg2en	segja
 um	ao	um
 það	fpheo	það
 ?	?	?
-
 Ætli	svg3en	ætla
 ég	fp1en	ég
 segi	sfg1en	segja
 ekki	aa	ekki
 takk	au	takk
 .	.	.
-
 Gesturinn	nkeng	gestur
 hafði	sfg3eþ	hafa
 dúkað	ssg	dúka
@@ -552,7 +522,6 @@ bakkelsi	nheþ	bakkelsi
 og	c	og
 ávöxtum	nkfþ	ávöxtur
 .	.	.
-
 Það	fphen	það
 minnti	sfg3eþ	minna
 ekki	aa	ekki
@@ -568,7 +537,6 @@ fyrir	aþ	fyrir
 þremur	tfkfþ	þrír
 morgnum	nkfþ	morgunn
 .	.	.
-
 Önnur	foven	annar
 tegundin	nveng	tegund
 af	aþ	af
@@ -582,11 +550,9 @@ meiraðsegja	aa	meiraðsegja
 sú	faven	sá
 sama	fbven	sami
 .	.	.
-
 Því	fpheþ	það
 miður	aam	lítt
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 aldeilis	aa	aldeilis
@@ -595,17 +561,14 @@ girnilegt	lhensf	girnilegur
 sagði	sfg1eþ	segja
 ég	fp1en	ég
 .	.	.
-
 Það	fphen	það
 má	sfg3en	mega
 reyna	sng	reyna
 .	.	.
-
 Þú	fp2en	þú
 ert	sfg2en	vera
 húslegur	lkensf	húslegur
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 orðið	ssg	verða
@@ -618,7 +581,6 @@ kom	sfg1eþ	koma
 til	ae	til
 stórborgarinnar	nveeg	stórborg
 .	.	.
-
 Ekki	aa	ekki
 auðvelt	lhensf	auðveldur
 í	aþ	í
@@ -634,7 +596,6 @@ henni	fpveþ	hún
 mömmu	nveþ	mamma
 minni	feveþ	minn
 .	.	.
-
 Ég	fp1en	ég
 mátti	sfg1eþ	mega
 þakka	sng	þakka
@@ -647,7 +608,6 @@ hníf	nkeþ	hnífur
 og	c	og
 gaffli	nkeþ	gaffall
 .	.	.
-
 Hún	fpven	hún
 hefði	svg3eþ	hafa
 matað	ssg	mata
@@ -660,7 +620,6 @@ streist	ssm	streitast
 á	aa	á
 móti	aa	móti
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 vel	aa	vel
@@ -672,7 +631,6 @@ undirrót	nven	undirrót
 alls	fohee	allur
 ills	lheesf	illur
 .	.	.
-
 Eyðileggja	sfg3fn	eyðileggja
 syni	nkfo	sonur
 sína	fekfo	sinn
@@ -690,13 +648,11 @@ og	c	og
 taumlausri	lveþsf	taumlaus
 aðdáun	nveþ	aðdáun
 .	.	.
-
 Og	c	og
 hver	fsken	hver
 veit	sfg3en	vita
 hverju	foheþ	hver
 .	.	.
-
 París	nven-s	París
 bjargar	sfg3en	bjarga
 því	faheþ	sá
@@ -704,7 +660,6 @@ sem	ct	sem
 bjargað	sþghen	bjarga
 verður	sfg3en	verða
 .	.	.
-
 Mamma	nven	mamma
 sendir	sfg3en	senda
 mér	fp1eþ	ég
@@ -716,7 +671,6 @@ sinni	nheþ	sinn
 í	aþ	í
 mánuði	nkeþ	mánuður
 .	.	.
-
 Ég	fp1en	ég
 reyni	sfg1en	reyna
 að	cn	að
@@ -732,7 +686,6 @@ háma	sfg1en	háma
 í	ao	í
 mig	fp1eo	ég
 .	.	.
-
 Ég	fp1en	ég
 hafði	sfg1eþ	hafa
 eiginlega	aa	eiginlega
@@ -768,7 +721,6 @@ hafði	sfg3eþ	hafa
 skorið	ssg	skera
 listrænt	aa	listrænt
 .	.	.
-
 Hefurðu	sfg2en	hafa
 heilsu	nveo	heilsa
 til	ae	til
@@ -792,7 +744,6 @@ meiru	lheþvm	meiru
 í	ao	í
 mig	fp1eo	ég
 .	.	.
-
 Út	aa	út
 ,	,	,
 sagði	sfg1eþ	segja
@@ -809,7 +760,6 @@ fékk	sfg3eþ	fá
 stutt	lheosf	stuttur
 hláturskast	nheo	hláturskast
 .	.	.
-
 Hefurðu	sfg2en	hafa
 aldrei	aa	aldrei
 heyrt	ssg	heyra
@@ -822,7 +772,6 @@ inni	aa	inni
 spurði	sfg3eþ	spyrja
 hann	fpken	hann
 .	.	.
-
 Við	fp1fn	ég
 erum	sfg1fn	vera
 til	ae	til
@@ -841,7 +790,6 @@ séu	svg3fn	vera
 í	aþ	í
 bílskúrum	nkfþ	bílskúr
 .	.	.
-
 Já	au	já
 svoleiðis	aa	svoleiðis
 út	aa	út
@@ -864,7 +812,6 @@ en	c	en
 bara	aa	bara
 stutt	lheosf	stuttur
 .	.	.
-
 Unaðslegt	lhensf	unaðslegur
 aprílsíðdegið	nheng	aprílsíðdegi
 tók	sfg3eþ	taka
@@ -884,7 +831,6 @@ andlitinu	nheþg	andlit
 í	ao	í
 sólarátt	nveo	sólarátt
 .	.	.
-
 Þegar	c	þegar
 við	fp1fn	ég
 gengum	sfg1fþ	ganga
@@ -926,7 +872,6 @@ tilveruna	nveog	tilvera
 án	ae	án
 grískukennaradraugsins	nkeeg	grískukennaradraugur
 .	.	.
-
 Strax	aa	strax
 á	aþ	á
 þessum	fakeþ	þessi
@@ -949,7 +894,6 @@ og	c	og
 líkamlegrar	lveesf	líkamlegur
 ástar	nvee	ást
 .	.	.
-
 En	c	en
 málið	nheng	mál
 snerist	sfm3eþ	snúa
@@ -973,7 +917,6 @@ ekki	aa	ekki
 sjá	sng	sjá
 hann	fpkeo	hann
 .	.	.
-
 Bárður	nken-s	Bárður
 var	sfg3eþ	vera
 þvílíkur	fbken	þvílíkur
@@ -993,7 +936,6 @@ vel	aa	vel
 valinni	lveþsf	valinn
 stétt	nveþ	stétt
 .	.	.
-
 Það	fphen	það
 duldist	sfm3eþ	dylja
 jafnvel	aa	jafnvel
@@ -1031,7 +973,6 @@ með	aþ	með
 vini	nkeþ	vinur
 sínum	fekeþ	sinn
 .	.	.
-
 Fegnust	lvense	feginn
 hefði	svg1eþ	hafa
 ég	fp1en	ég
@@ -1060,7 +1001,6 @@ upp	aa	upp
 á	ao	á
 það	fpheo	það
 .	.	.
-
 Sama	fbhen	sami
 hvað	fshen	hver
 allt	fohen	allur
@@ -1085,7 +1025,6 @@ og	c	og
 sannur	lkensf	sannur
 Íslendingur	nken-s	Íslendingur
 .	.	.
-
 Ég	fp1en	ég
 bannaði	sfg1eþ	banna
 Bárði	nkeþ-s	Bárður
@@ -1114,7 +1053,6 @@ að	cn	að
 þvo	sng	þvo
 upp	aa	upp
 .	.	.
-
 Ég	fp1en	ég
 átti	sfg1eþ	eiga
 að	cn	að
@@ -1127,7 +1065,6 @@ rúm	nheo	rúm
 sagði	sfg3eþ	segja
 hann	fpken	hann
 .	.	.
-
 Þegar	c	þegar
 ég	fp1en	ég
 var	sfg1eþ	vera
@@ -1162,7 +1099,6 @@ bolla	nkfo	bolli
 í	aþ	í
 vaskinum	nkeþg	vaskur
 .	.	.
-
 Svo	aa	svo
 hirti	sfg3eþ	hirða
 nóttin	nveng	nótt
@@ -1170,7 +1106,6 @@ leifarnar	nvfog	leif
 af	aþ	af
 mér	fp1eþ	ég
 .	.	.
-
 Átt	sfg2en	eiga
 þú	fp2en	þú
 ekki	aa	ekki
@@ -1194,7 +1129,6 @@ sagðist	sfm3eþ	segja
 mundu	sng	munu
 gera	sng	gera
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 meira	lhenvm	mikill
@@ -1205,7 +1139,6 @@ en	c	en
 í	aþ	í
 skólanum	nkeþg	skóli
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 sem	aa	sem
@@ -1214,14 +1147,12 @@ skemmtilegri	lvenvm	skemmtilegur
 en	c	en
 fyrirlesari	nken	fyrirlesari
 .	.	.
-
 Þú	fp2en	þú
 ert	sfg2en	vera
 meira	aam	meira
 fyrir	ao	fyrir
 augað	nheog	auga
 .	.	.
-
 Varla	aa	varla
 mundi	svg1eþ	munu
 ég	fp1en	ég
@@ -1230,7 +1161,6 @@ fegurðarsamkeppni	nveo	fegurðarsamkeppni
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Ef	c	ef
 ég	fp1en	ég
 væri	svg1eþ	vera
@@ -1240,7 +1170,6 @@ aldrei	aa	aldrei
 að	cn	að
 vita	sng	vita
 .	.	.
-
 Viltu	sfg2en	vilja
 ekki	aa	ekki
 skvera	sng	skvera
@@ -1252,7 +1181,6 @@ meðan	c	meðan
 hita	sfg1en	hita
 kaffið	nheog	kaffi
 ?	?	?
-
 Mér	fp1eþ	ég
 líst	sfm3en	líta
 ekki	aa	ekki
@@ -1280,7 +1208,6 @@ mig	fp1eo	ég
 í	ao	í
 sturtu	nveo	sturta
 .	.	.
-
 Gáðu	sbg2en	gá
 nú	aa	nú
 að	c	að
@@ -1294,7 +1221,6 @@ gæti	svg1eþ	geta
 orðið	ssg	verða
 hræddur	lkensf	hræddur
 .	.	.
-
 Ég	fp1en	ég
 held	sfg1en	halda
 þú	fp2en	þú
@@ -1302,7 +1228,6 @@ sért	svg2en	vera
 ekki	aa	ekki
 hræddur	lkensf	hræddur
 .	.	.
-
 Eftir	ao	eftir
 sturtu	nveo	sturta
 og	c	og
@@ -1321,7 +1246,6 @@ aftur	aa	aftur
 orðin	sþgven	verða
 manneskja	nven	manneskja
 .	.	.
-
 Mér	fp1eþ	ég
 fannst	sfm3eþ	finna
 þó	aa	þó
@@ -1341,7 +1265,6 @@ jafnvægið	nheog	jafnvægi
 úr	aþ	úr
 leiðindum	nhfþ	leiðindi
 .	.	.
-
 Bárður	nken-s	Bárður
 settist	sfm3eþ	setja
 á	ao	á
@@ -1353,7 +1276,6 @@ horfði	sfg3eþ	horfa
 á	ao	á
 mig	fp1eo	ég
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 með	ao	með
@@ -1378,14 +1300,12 @@ og	c	og
 ljósblá	lhfosf	ljósblár
 augu	nhfo	auga
 .	.	.
-
 Flottur	lkensf	flottur
 náungi	nken	náungi
 en	c	en
 ekki	aa	ekki
 smáfríður	lkensf	smáfríður
 .	.	.
-
 Hann	fpken	hann
 hefur	sfg3en	hafa
 drynjandi	lveoof	drynjandi
@@ -1399,7 +1319,6 @@ fylgjast	snm	fylgja
 með	aþ	með
 honum	fpkeþ	hann
 .	.	.
-
 Hann	fpken	hann
 kraup	sfg3eþ	krjúpa
 hjá	aþ	hjá
@@ -1415,7 +1334,6 @@ höfuðið	nheog	höfuð
 á	ao	á
 rúmstokkinn	nkeog	rúmstokkur
 .	.	.
-
 Ég	fp1en	ég
 spurði	sfg1eþ	spyrja
 hvort	c	hvort
@@ -1423,12 +1341,10 @@ hann	fpken	hann
 væri	svg3eþ	vera
 syfjaður	lkensf	syfjaður
 .	.	.
-
 Það	fphen	það
 liggur	sfg3en	liggja
 við	aa	við
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 pláss	nhen	pláss
@@ -1442,7 +1358,6 @@ sig	fpkfo	sig
 við	ao	við
 þrengsl	nhfo	þrengsl
 .	.	.
-
 Þar	aa	þar
 hljóp	sfg3eþ	hlaupa
 á	ao	á
@@ -1451,7 +1366,6 @@ snærið	nheog	snæri
 sagði	sfg3eþ	segja
 gesturinn	nkeng	gestur
 .	.	.
-
 Hann	fpken	hann
 klæddi	sfg3eþ	klæða
 sig	fpkeo	sig
@@ -1471,14 +1385,12 @@ nærbuxum	nvfþ	nærbuxur
 opnaði	sfg1eþ	opna
 sængina	nveog	sæng
 .	.	.
-
 Ég	fp1en	ég
 lánaði	sfg1eþ	lána
 honum	fpkeþ	hann
 annan	fokeo	annar
 koddann	nkeog	koddi
 .	.	.
-
 Hann	fpken	hann
 gætti	sfg3eþ	gæta
 að	aþ	að
@@ -1510,7 +1422,6 @@ ekki	aa	ekki
 að	aþ	að
 mér	fp1eþ	ég
 .	.	.
-
 Æðardúnn	nken	æðardúnn
 fyrir	ao	fyrir
 prinsessur	nvfo	prinsessa
@@ -1522,7 +1433,6 @@ klappaði	sfg3eþ	klappa
 á	ao	á
 sængina	nveog	sæng
 .	.	.
-
 Pabbi	nken	pabbi
 gaf	sfg3eþ	gefa
 mér	fp1eþ	ég
@@ -1534,13 +1444,11 @@ fór	sfg1eþ	fara
 til	ae	til
 Parísar	nvee-s	París
 .	.	.
-
 Hann	fpken	hann
 tíndi	sfg3eþ	tína
 dúninn	nkeog	dúnn
 sjálfur	fbken	sjálfur
 .	.	.
-
 Bárður	nken-s	Bárður
 hélt	sfg3eþ	halda
 um	ao	um
@@ -1556,7 +1464,6 @@ og	c	og
 sofnaði	sfg1eþ	sofna
 vært	aa	vært
 .	.	.
-
 Mig	fp1eo	ég
 dreymdi	sfg3eþ	dreyma
 heim	aa	heim
@@ -1574,25 +1481,21 @@ flæðarmál	nheo	flæðarmál
 og	c	og
 Eyjahaf	nheo-s	Eyjahaf
 .	.	.
-
 Gargandi	lkfoof	gargandi
 sjófugla	nkfo	sjófugl
 í	aþ	í
 kaldri	lveþsf	kaldur
 sumarsól	nveþ	sumarsól
 .	.	.
-
 Árabát	nkeo	árabátur
 á	aþ	á
 útleið	nveþ	útleið
 .	.	.
-
 Aldan	nveng	alda
 slóst	sfm3eþ	slá
 við	ao	við
 land	nheo	land
 .	.	.
-
 En	c	en
 ég	fp1en	ég
 var	sfg1eþ	vera
@@ -1616,7 +1519,6 @@ annars	fokee	annar
 staðar	nkee	staður
 að	aa	að
 .	.	.
-
 Þegar	c	þegar
 ég	fp1en	ég
 var	sfg1eþ	vera
@@ -1649,7 +1551,6 @@ kyssa	sng	kyssa
 mér	fp1eþ	ég
 öxlina	nveog	öxl
 .	.	.
-
 Ég	fp1en	ég
 lét	sfg1eþ	láta
 mér	fp1eþ	ég
@@ -1678,7 +1579,6 @@ en	c	en
 fylgja	sng	fylgja
 henni	fpveþ	hún
 .	.	.
-
 Alveg	aa	alveg
 frá	aþ	frá
 því	fpheþ	það
@@ -1704,7 +1604,6 @@ spennandi	lhenof	spennandi
 og	c	og
 sjálfsagt	lhensf	sjálfsagður
 .	.	.
-
 Ef	c	ef
 hann	fpken	hann
 var	sfg3eþ	vera
@@ -1736,7 +1635,6 @@ aðra	fokfo	annar
 dauðlega	lkfosf	dauðlegur
 menn	nkfo	maður
 .	.	.
-
 Bárður	nken-s	Bárður
 er	sfg3en	vera
 náttúrlega	aa	náttúrlega
@@ -1749,7 +1647,6 @@ dáið	ssg	deyja
 úr	aþ	úr
 því	fpheþ	það
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 mjög	aa	mjög
@@ -1770,7 +1667,6 @@ hann	fpken	hann
 er	sfg3en	vera
 dulur	lkensf	dulur
 .	.	.
-
 Hann	fpken	hann
 lítur	sfg3en	líta
 nefnilega	aa	nefnilega
@@ -1783,7 +1679,6 @@ opinn	lkensf	opinn
 og	c	og
 ligeglad	lkenof	ligeglad
 .	.	.
-
 Ekki	aa	ekki
 veit	sfg1en	vita
 ég	fp1en	ég
@@ -1802,7 +1697,6 @@ og	c	og
 opna	lveosf	opinn
 bók	nveo	bók
 .	.	.
-
 Ég	fp1en	ég
 sem	ct	sem
 sagði	sfg1eþ	segja
@@ -1824,7 +1718,6 @@ sem	ct	sem
 eftir	aa	eftir
 fór	sfg3eþ	fara
 .	.	.
-
 Allt	fohen	allur
 sem	ct	sem
 hann	fpken	hann
@@ -1832,12 +1725,10 @@ gerði	sfg3eþ	gera
 var	sfg3eþ	vera
 rétt	lhensf	réttur
 .	.	.
-
 Ekki	aa	ekki
 eitt	tfhen	einn
 feilspor	nhen	feilspor
 .	.	.
-
 Það	fphen	það
 hefði	svg3eþ	hafa
 ekki	aa	ekki
@@ -1856,7 +1747,6 @@ höfðinu	nheþg	höfuð
 á	aþ	á
 mér	fp1eþ	ég
 .	.	.
-
 Snilldarbragðið	nheng	snilldarbragð
 hjá	aþ	hjá
 Bárði	nkeþ-s	Bárður
@@ -1874,7 +1764,6 @@ við	ao	við
 þetta	faheo	þessi
 ástand	nheo	ástand
 .	.	.
-
 Strax	aa	strax
 frá	aþ	frá
 upphafi	nheþ	upphaf
@@ -1895,7 +1784,6 @@ ekki	aa	ekki
 um	ao	um
 meira	lheovm	mikill
 .	.	.
-
 Hann	fpken	hann
 skildi	sfg3eþ	skilja
 svo	aa	svo
@@ -1911,7 +1799,6 @@ að	cn	að
 knýja	sng	knýja
 á	aa	á
 .	.	.
-
 Þegar	c	þegar
 við	fp1fn	ég
 rifjum	sfg1fn	rifja
@@ -1948,7 +1835,6 @@ hálfgeggjuð	lvensf	hálfgeggjaður
 undir	aþ	undir
 sæng	nveþ	sæng
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 ótrúleg	lvensf	ótrúlegur
@@ -1976,7 +1862,6 @@ skrafhreifinn	lkensf	skrafhreifinn
 í	aþ	í
 verunni	nveþg	vera
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 tók	sfg3eþ	taka
@@ -1990,7 +1875,6 @@ upp	aa	upp
 á	aþ	á
 einhverju	foheþ	einhver
 .	.	.
-
 Ég	fp1en	ég
 var	sfg1eþ	vera
 svo	aa	svo
@@ -2013,7 +1897,6 @@ glósur	nvfo	glósa
 hjá	aþ	hjá
 Claire	e	Claire
 .	.	.
-
 En	c	en
 jafnvel	aa	jafnvel
 þótt	c	þótt
@@ -2042,7 +1925,6 @@ Claire	e	Claire
 af	aþ	af
 örkinni	nveþg	örk
 .	.	.
-
 Ég	fp1en	ég
 varð	sfg1eþ	verða
 að	cn	að
@@ -2075,7 +1957,6 @@ ungum	lvfþsf	ungur
 lifandi	lvfþof	lifandi
 stúlkum	nvfþ	stúlka
 .	.	.
-
 Eitt	tfhen	einn
 af	aþ	af
 því	faheþ	sá
@@ -2117,7 +1998,6 @@ ekki	aa	ekki
 um	ao	um
 Fragonard	e	Fragonard
 .	.	.
-
 Nei	au	nei
 maður	nken	maður
 með	ao	með
@@ -2136,7 +2016,6 @@ Ile	e	Ile
 St	e	St
 Louis	e	Louis
 .	.	.
-
 Lokaði	lkenvf	lokaður
 götuspottinn	nkeng	götuspotti
 sem	ct	sem
@@ -2158,7 +2037,6 @@ og	c	og
 gersemarnar	nvfog	gersemi
 hans	fpkee	hann
 .	.	.
-
 Claire	e	Claire
 pumpaði	sfg3eþ	pumpa
 aðstoðarkennara	nkeo	aðstoðarkennari
@@ -2180,7 +2058,6 @@ með	ao	með
 mikinn	lkeosf	mikill
 fróðleik	nkeo	fróðleikur
 .	.	.
-
 Jú	au	jú
 grískuprófessorinn	nkeng	grískuprófessor
 var	sfg3eþ	vera
@@ -2204,7 +2081,6 @@ hún	fpven	hún
 spyrði	svg3eþ	spyrja
 )	)	)
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 kominn	sþgken	koma
@@ -2233,7 +2109,6 @@ var	sfg3eþ	vera
 orðin	sþgven	verða
 ekkja	nven	ekkja
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 sem	c	sem
@@ -2250,7 +2125,6 @@ svo	aa	svo
 af	aa	af
 bar	sfg3eþ	bera
 .	.	.
-
 Það	fphen	það
 passaði	sfg3eþ	passa
 að	c	að
@@ -2264,12 +2138,10 @@ hafði	sfg3eþ	hafa
 tilkynnt	ssg	tilkynna
 nemendum	nkfþ	nemandi
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 tvígiftur	lkensf	tvígiftur
 .	.	.
-
 Einn	foken	einn
 af	aþ	af
 þeim	fakfþ	sá
@@ -2282,7 +2154,6 @@ að	cn	að
 giftast	snm	gifta
 æskuástinni	nveþg	æskuást
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 sellóleikari	nken	sellóleikari
@@ -2295,7 +2166,6 @@ og	c	og
 spáð	sþghen	spá
 heimsfrægð	nveþ	heimsfrægð
 .	.	.
-
 Hann	fpken	hann
 fór	sfg3eþ	fara
 með	aþ	með
@@ -2334,7 +2204,6 @@ Morgan	e	Morgan
 og	c	og
 sellóinu	nheþg	selló
 .	.	.
-
 Eftir	aþ	eftir
 fimm	tfhfe	fimm
 ára	nhfe	ár
@@ -2354,7 +2223,6 @@ börn	nhfo	barn
 í	aþ	í
 striklotu	nveþ	striklota
 .	.	.
-
 Ekki	aa	ekki
 væri	svg3eþ	vera
 þetta	fahen	þessi
@@ -2366,13 +2234,11 @@ bók	nveþ	bók
 sagði	sfg1eþ	segja
 ég	fp1en	ég
 .	.	.
-
 Bíddu	sbg2en	bíða
 ,	,	,
 sagði	sfg3eþ	segja
 Claire	e	Claire
 .	.	.
-
 Ekki	aa	ekki
 gefa	sng	gefa
 það	fpheo	það
@@ -2380,7 +2246,6 @@ upp	aa	upp
 á	ao	á
 bátinn	nkeog	bátur
 .	.	.
-
 Nú	aa	nú
 líða	sfg3fn	líða
 einhver	fohfn	einhver
@@ -2391,7 +2256,6 @@ ef	c	ef
 ekki	aa	ekki
 sjö	tfhfn	sjö
 .	.	.
-
 Þá	aa	þá
 var	sfg3eþ	vera
 haldið	sþghen	halda
@@ -2418,7 +2282,6 @@ er	sfg3en	vera
 í	aþ	í
 Evrópu	nveþ-s	Evrópa
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 föl	lvensf	fölur
@@ -2431,7 +2294,6 @@ hafði	sfg3eþ	hafa
 aldrei	aa	aldrei
 gifst	ssm	gifta
 .	.	.
-
 Þau	fphfn	það
 settust	sfm3fþ	setja
 að	aa	að
@@ -2446,14 +2308,12 @@ bjuggu	sfg3fþ	búa
 fjögur	tfhfo	fjórir
 ár	nhfo	ár
 .	.	.
-
 Þá	aa	þá
 stytti	sfg3eþ	stytta
 hún	fpven	hún
 sér	fpveþ	sig
 aldur	nkeo	aldur
 .	.	.
-
 Hún	fpven	hún
 er	sfg3en	vera
 jarðsett	sþgven	jarðsetja
@@ -2461,7 +2321,6 @@ jarðsett	sþgven	jarðsetja
 Montmartre	e	Montmartre
 kirkjugarði	nkeþ	kirkjugarður
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 sagt	sþghen	segja
@@ -2479,14 +2338,12 @@ verið	ssg	vera
 nálægt	aþ	nálægt
 henni	fpveþ	hún
 .	.	.
-
 Ég	fp1en	ég
 skil	sfg1en	skilja
 ,	,	,
 sagði	sfg1eþ	segja
 ég	fp1en	ég
 .	.	.
-
 Og	c	og
 af	aþ	af
 hverju	fsheþ	hver
@@ -2497,13 +2354,11 @@ af	aa	af
 við	ao	við
 sig	fpveo	sig
 ?	?	?
-
 Það	fphen	það
 fylgir	sfg3en	fylgja
 ekki	aa	ekki
 sögunni	nveþg	saga
 .	.	.
-
 En	c	en
 hvers	fshee	hver
 vegna	ae	vegna
@@ -2517,7 +2372,6 @@ spekúlera	sng	spekúlera
 þessum	fakeþ	þessi
 kalli	nkeþ	kall
 ?	?	?
-
 Æ	au	æ
 ég	fp1en	ég
 veit	sfg1en	vita
@@ -2532,7 +2386,6 @@ undarlega	aa	undarlega
 á	ao	á
 mig	fp1eo	ég
 .	.	.
-
 Hann	fpken	hann
 hlýtur	sfg3en	hljóta
 að	cn	að
@@ -2542,7 +2395,6 @@ rangeygður	lkensf	rangeygður
 sagði	sfg3eþ	segja
 Claire	e	Claire
 .	.	.
-
 Úr	aþ	úr
 því	fpheþ	það
 ég	fp1en	ég
@@ -2574,7 +2426,6 @@ upp	aa	upp
 löngu	lheþsf	langur
 seinna	aam	seint
 .	.	.
-
 Ég	fp1en	ég
 fór	sfg1eþ	fara
 í	aþ	í
@@ -2601,14 +2452,12 @@ var	sfg1eþ	vera
 eitthvað	fohen	einhver
 niðurdregin	lvensf	niðurdreginn
 .	.	.
-
 Svo	aa	svo
 kveið	sfg1eþ	kvíða
 ég	fp1en	ég
 fyrir	aþ	fyrir
 prófunum	nhfþg	próf
 .	.	.
-
 Bárður	nken-s	Bárður
 gerir	sfg3en	gera
 lítið	lheosf	lítill
@@ -2620,7 +2469,6 @@ hafi	svg1en	hafa
 verið	ssg	vera
 niðurdregin	lvensf	niðurdreginn
 .	.	.
-
 Hann	fpken	hann
 segir	sfg3en	segja
 að	c	að
@@ -2636,7 +2484,6 @@ hressa	sng	hressa
 mig	fp1eo	ég
 við	aa	við
 .	.	.
-
 Ég	fp1en	ég
 læt	sfg1en	láta
 nú	aa	nú
@@ -2653,7 +2500,6 @@ til	aa	til
 segi	sfg1en	segja
 ég	fp1en	ég
 .	.	.
-
 Þetta	fahen	þessi
 voru	sfg3fþ	vera
 dýrðardagar	nkfn	dýrðardagur
@@ -2661,18 +2507,15 @@ dýrðardagar	nkfn	dýrðardagur
 segir	sfg3en	segja
 Bárður	nken-s	Bárður
 .	.	.
-
 Víst	aa	víst
 voru	sfg3fþ	vera
 þeir	fpkfn	hann
 það	fphen	það
 .	.	.
-
 Úti	aa	úti
 og	c	og
 inni	aa	inni
 .	.	.
-
 Og	c	og
 við	fp1fn	ég
 fáum	sfg1fn	fá
@@ -2690,7 +2533,6 @@ nefndi	sfg3eþ	nefna
 orðið	ssg	verða
 ÚT	aa	út
 .	.	.
-
 Svo	aa	svo
 segjum	sfg1fn	segja
 við	fp1fn	ég
@@ -2703,7 +2545,6 @@ vor	nhen	vor
 manna	nkfe	maður
 minnum	nhfþ	minni
 .	.	.
-
 Annað	fohen	annar
 eins	lhenof	eins
 vor	nhen	vor
@@ -2716,7 +2557,6 @@ síðan	c	síðan
 við	fp1fn	ég
 fórum	sfg1fþ	fara
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 líka	aa	líka
@@ -2747,7 +2587,6 @@ fór	sfg3eþ	fara
 í	ao	í
 hönd	nveo	hönd
 .	.	.
-
 Fyrir	ao	fyrir
 utan	aa	utan
 allt	foheo	allur
@@ -2771,7 +2610,6 @@ las	sfg1eþ	lesa
 fyrir	ao	fyrir
 þau	fphfo	það
 .	.	.
-
 Ég	fp1en	ég
 hefði	svg1eþ	hafa
 svo	aa	svo
@@ -2810,7 +2648,6 @@ komast	snm	koma
 á	ao	á
 legg	nkeo	leggur
 .	.	.
-
 Sjálfsagt	aa	sjálfsagt
 hefði	svg3eþ	hafa
 það	fphen	það
@@ -2827,7 +2664,6 @@ heim	aa	heim
 til	ae	til
 Íslands	nhee-s	Ísland
 .	.	.
-
 Bárður	nken-s	Bárður
 bjó	sfg3eþ	búa
 til	aa	til
@@ -2837,7 +2673,6 @@ strax	aa	strax
 fyrstu	lveþve	fyrstur
 vikunni	nveþg	vika
 .	.	.
-
 Hann	fpken	hann
 gisti	sfg3eþ	gista
 hjá	aþ	hjá
@@ -2846,7 +2681,6 @@ aðra	foveo	annar
 hvora	foveo	hvor
 nótt	nveo	nótt
 .	.	.
-
 Gistingar	nvfn	gisting
 í	aþ	í
 íbúðarskápnum	nkeþg	íbúðarskápur
@@ -2857,7 +2691,6 @@ Mouffetard	e	Mouffetard
 voru	sfg3fþ	vera
 óhugsandi	lvfnsf	óhugsandi
 .	.	.
-
 Hann	fpken	hann
 bankaði	sfg3eþ	banka
 á	ao	á
@@ -2870,7 +2703,6 @@ hann	fpken	hann
 gisti	sfg3eþ	gista
 ekki	aa	ekki
 .	.	.
-
 Við	fp1fn	ég
 fórum	sfg1fþ	fara
 saman	aa	saman
@@ -2893,7 +2725,6 @@ stóð	sfg3eþ	standa
 á	aþ	á
 fyrirlestrum	nkfþ	fyrirlestur
 .	.	.
-
 Við	fp1fn	ég
 skiptumst	sfm1fþ	skipta
 á	aþ	á
@@ -2901,7 +2732,6 @@ að	cn	að
 útbúa	sng	útbúa
 nesti	nheo	nesti
 .	.	.
-
 Hann	fpken	hann
 fyrir	ao	fyrir
 okkur	fp1fo	ég
@@ -2922,7 +2752,6 @@ sá	sfg1eþ	sjá
 um	ao	um
 það	fpheo	það
 .	.	.
-
 Svo	aa	svo
 settumst	sfm1fþ	setja
 við	fp1fn	ég
@@ -2952,7 +2781,6 @@ ef	c	ef
 var	sfg3eþ	vera
 sól	nven	sól
 .	.	.
-
 Ef	c	ef
 það	fphen	það
 rigndi	svg3eþ	rigna
@@ -2975,7 +2803,6 @@ narta	sng	narta
 nestið	nheog	nesti
 okkar	fp1fe	ég
 .	.	.
-
 Bárður	nken-s	Bárður
 sá	sfg3eþ	sjá
 til	ae	til
@@ -3042,7 +2869,6 @@ settumst	sfm1fþ	setja
 á	ao	á
 Signubakka	nkeo-s	Signubakki
 .	.	.
-
 Við	fp1fn	ég
 vorum	sfg1fþ	vera
 samtaka	lhfnof	samtaka
@@ -3065,7 +2891,6 @@ verið	ssg	vera
 mestu	lveþve	mikill
 dauðaleitinni	nveþg	dauðaleit
 .	.	.
-
 Við	fp1fn	ég
 vinnum	sfg1fn	vinna
 betur	aam	vel
@@ -3081,7 +2906,6 @@ daginn	nkeog	dagur
 sagði	sfg3eþ	segja
 Bárður	nken-s	Bárður
 .	.	.
-
 Og	c	og
 þessir	fakfn	þessi
 dagar	nkfn	dagur
@@ -3093,7 +2917,6 @@ fyrstu	lkfnve	fyrstur
 dagarnir	nkfng	dagur
 okkar	fp1fe	ég
 .	.	.
-
 Þeir	fpkfn	hann
 eru	sfg3fn	vera
 of	aa	of
@@ -3112,14 +2935,12 @@ tökum	svg1fn	taka
 eftir	aþ	eftir
 þeim	fpkfþ	hann
 .	.	.
-
 Við	fp1fn	ég
 skiptumst	sfm1fþ	skipta
 á	aþ	á
 að	cn	að
 elda	sng	elda
 .	.	.
-
 Bárður	nken-s	Bárður
 eldaði	sfg3eþ	elda
 í	aþ	í
@@ -3132,7 +2953,6 @@ hann	fpken	hann
 gisti	sfg3eþ	gista
 ekki	aa	ekki
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 ótrúlegt	lhensf	ótrúlegur
@@ -3154,7 +2974,6 @@ að	cn	að
 dælda	sng	dælda
 hana	fpveo	hún
 .	.	.
-
 Mömmudrengurinn	nkeng	mömmudrengur
 hafði	sfg3eþ	hafa
 lært	ssg	læra
@@ -3165,7 +2984,6 @@ og	c	og
 vel	aa	vel
 það	fpheo	það
 .	.	.
-
 Hann	fpken	hann
 galdraði	sfg3eþ	galdra
 snöggeldaða	lkfosf	snöggeldaður
@@ -3200,7 +3018,6 @@ og	c	og
 köldum	lhfþsf	kaldur
 tilbrigðum	nhfþ	tilbrigði
 .	.	.
-
 Hann	fpken	hann
 eldaði	sfg3eþ	elda
 lax	nkeo	lax
@@ -3219,7 +3036,6 @@ og	c	og
 fersku	x	ferskur
 basilikum	nveþ	basilíka
 .	.	.
-
 Svo	aa	svo
 mikið	lhensf	mikill
 var	sfg3eþ	vera
@@ -3231,7 +3047,6 @@ matarást	nveo	matarást
 á	aþ	á
 Bárði	nkeþ-s	Bárður
 .	.	.
-
 Hann	fpken	hann
 gerði	sfg3eþ	gera
 rétt	lheosf	réttur
@@ -3245,7 +3060,6 @@ var	sfg3eþ	vera
 mátulega	aa	mátulega
 skammtað	sþghen	skammta
 .	.	.
-
 Það	fphen	það
 hefði	svg3eþ	hafa
 verið	ssg	vera
@@ -3268,7 +3082,6 @@ gist	ssg	gista
 allar	fovfo	allur
 nætur	nvfo	nótt
 .	.	.
-
 Með	aþ	með
 annars	fohee	annar
 hvors	fohee	hvor
@@ -3291,7 +3104,6 @@ eftir	ao	eftir
 ástaleiki	nkfo	ástaleikur
 kvöldsins	nheeg	kvöld
 .	.	.
-
 Ekki	aa	ekki
 það	fpheo	það
 að	c	að
@@ -3300,7 +3112,6 @@ gengi	svg3eþ	ganga
 nærri	aþ	nærri
 mér	fp1eþ	ég
 .	.	.
-
 Fyrsta	lvenve	fyrstur
 ferðin	nveng	ferð
 okkar	fp1fe	ég
@@ -3315,7 +3126,6 @@ við	fp1fn	ég
 komum	sfg1fþ	koma
 heim	aa	heim
 .	.	.
-
 Við	fp1fn	ég
 fórum	sfg1fþ	fara
 í	ao	í
@@ -3328,7 +3138,6 @@ okkur	fp1fþ	ég
 dýpstu	lveþve	djúpur
 litadýrð	nveþ	litadýrð
 .	.	.
-
 Við	fp1fn	ég
 elskuðumst	sfm1fþ	elska
 úti	aa	úti
@@ -3339,7 +3148,6 @@ himni	nkeþ	himinn
 fyrsta	lheove	fyrstur
 skipti	nheo	skipti
 .	.	.
-
 Þegar	c	þegar
 íslensku	lveþvf	íslenskur
 sumarbirtunni	nveþg	sumarbirta
@@ -3357,7 +3165,6 @@ haldið	ssg	halda
 áfram	aa	áfram
 endalaust	aa	endalaust
 .	.	.
-
 Í	aþ	í
 hléum	nhfþ	hlé
 útlistaði	sfg3eþ	útlista
@@ -3395,7 +3202,6 @@ hægt	aa	hægt
 og	c	og
 ofurþungt	aa	ofurþungt
 .	.	.
-
 Enn	aa	enn
 segir	sfg3en	segja
 Bárður	nken-s	Bárður
@@ -3409,7 +3215,6 @@ og	c	og
 endalausar	lvfosf	endalaus
 jarðsögur	nvfo	jarðsaga
 .	.	.
-
 Ekkert	fohen	enginn
 heillar	sfg3en	heilla
 mig	fp1eo	ég
@@ -3417,7 +3222,6 @@ eins	aa	eins
 og	c	og
 bergið	nheng	berg
 .	.	.
-
 Ég	fp1en	ég
 mundi	svg1eþ	munu
 ganga	sng	ganga
@@ -3434,7 +3238,6 @@ góð	lhfnsf	góður
 að	cn	að
 opnast	snm	opna
 .	.	.
-
 Þegar	c	þegar
 fram	aa	fram
 liðu	sfg3fþ	líða
@@ -3454,7 +3257,6 @@ um	ao	um
 allar	fovfo	allur
 hálendistrissur	nvfo	hálendistrissa
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 ekki	aa	ekki
@@ -3474,7 +3276,6 @@ mig	fp1eo	ég
 á	aþ	á
 ferðalögum	nhfþ	ferðalag
 .	.	.
-
 Eins	aa	eins
 og	c	og
 dyggir	lkfnsf	dyggur
@@ -3485,7 +3286,6 @@ og	c	og
 vangæfri	lveþsf	vangæfur
 prinsessu	nveþ	prinsessa
 .	.	.
-
 Um	ao	um
 leið	nveo	leið
 er	sfg3en	vera
@@ -3510,7 +3310,6 @@ nema	c	nema
 komi	svg1en	koma
 með	aa	með
 .	.	.
-
 Þær	fpvfn	hún
 eru	sfg3fn	vera
 ófáar	lvfnsf	ófár
@@ -3534,7 +3333,6 @@ er	sfg1en	vera
 ekkert	fohen	enginn
 fis	nhen	fis
 .	.	.
-
 Það	fphen	það
 átti	sfg3eþ	eiga
 ekki	aa	ekki
@@ -3556,7 +3354,6 @@ jafnvel	aa	jafnvel
 Brynhildi	nveo-s	Brynhildur
 Íslandssól	nveo-s	Íslandssól
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 of	aa	of
@@ -3569,14 +3366,12 @@ pabbi	nken	pabbi
 og	c	og
 Bárður	nken-s	Bárður
 .	.	.
-
 Vissara	lhenvm	viss
 að	cn	að
 halda	sng	halda
 á	aþ	á
 þér	fp2eþ	þú
 .	.	.
-
 Eða	c	eða
 :	:	:
 Straumurinn	nkeng	straumur
@@ -3587,14 +3382,12 @@ fyrir	ao	fyrir
 Brynhildur	nven-s	Brynhildur
 mín	feven	minn
 .	.	.
-
 Þig	fp2eo	þú
 gæti	svg3eþ	geta
 farið	ssg	fara
 að	cn	að
 sundla	sng	sundla
 .	.	.
-
 Það	fphen	það
 voru	sfg3fþ	vera
 engin	fohfn	enginn
@@ -3608,12 +3401,10 @@ trefil	nkeo	trefill
 Brynhildur	nven-s	Brynhildur
 mín	feven	minn
 ?	?	?
-
 Hvernig	aa	hvernig
 er	sfg3en	vera
 hælsærið	nheng	hælsæri
 ?	?	?
-
 Taktu	sbg2en	taka
 frekar	aam	frekar
 þessa	faveo	þessi
@@ -3626,7 +3417,6 @@ fita	nven	fita
 á	aþ	á
 henni	fpveþ	hún
 .	.	.
-
 Við	fp1fn	ég
 þurfum	sfg1fn	þurfa
 ekki	aa	ekki
@@ -3644,7 +3434,6 @@ mæðast	snm	mæða
 Brynhildur	nven-s	Brynhildur
 mín	feven	minn
 .	.	.
-
 Skríddu	sbg2en	skríða
 bara	aa	bara
 í	ao	í
@@ -3653,7 +3442,6 @@ meðan	c	meðan
 við	fp1fn	ég
 eldum	sfg1fn	elda
 .	.	.
-
 Ferðafélagarnir	nkfng	ferðafélagi
 voru	sfg3fþ	vera
 óþreytandi	lkfnof	óþreytandi
@@ -3666,7 +3454,6 @@ og	c	og
 strjúka	sng	strjúka
 vangann	nkeog	vangi
 .	.	.
-
 Ef	c	ef
 það	fphen	það
 kom	sfg3eþ	koma
@@ -3685,7 +3472,6 @@ og	c	og
 setja	sng	setja
 plástur	nkeo	plástur
 .	.	.
-
 Og	c	og
 ég	fp1en	ég
 hagaði	sfg1eþ	haga
@@ -3706,7 +3492,6 @@ gera	sng	gera
 til	ae	til
 geðs	nhee	geð
 .	.	.
-
 Ég	fp1en	ég
 dáðist	sfm1eþ	dá
 að	aþ	að
@@ -3718,7 +3503,6 @@ hafði	sfg1eþ	hafa
 þrek	nheo	þrek
 til	aa	til
 .	.	.
-
 En	c	en
 það	fphen	það
 var	sfg3eþ	vera
@@ -3728,7 +3512,6 @@ hvað	fshen	hver
 var	sfg1eþ	vera
 undirgefin	lvensf	undirgefinn
 .	.	.
-
 Þeir	fpkfn	hann
 fóru	sfg3fþ	fara
 með	ao	með
@@ -3743,7 +3526,6 @@ ofar	aþm	ofar
 hverri	foveþ	hver
 grein	nveþ	grein
 .	.	.
-
 Ferðafélagar	nkfn	ferðafélagi
 mínir	fekfn	minn
 eru	sfg3fn	vera
@@ -3762,7 +3544,6 @@ fölni	svg3en	fölna
 kringum	ao	kringum
 þá	fpkfo	hann
 .	.	.
-
 Sjötuga	lhenvf	sjötugur
 náttúrubarnið	nheng	náttúrubarn
 hann	fpken	hann
@@ -3782,7 +3563,6 @@ inni	aa	inni
 í	aþ	í
 skála	nkeþ	skáli
 .	.	.
-
 Það	fphen	það
 má	sfg3en	mega
 blása	sng	blása
@@ -3795,7 +3575,6 @@ eru	sfg3fn	vera
 hans	fpkee	hann
 megin	aa	megin
 .	.	.
-
 Þessar	favfn	þessi
 hugsanir	nvfn	hugsun
 ýfðu	sfg3fþ	ýfa
@@ -3811,7 +3590,6 @@ kærustum	nkfþ	kærasti
 dætra	nvfe	dóttir
 minna	fevfe	minn
 .	.	.
-
 Ég	fp1en	ég
 sá	sfg1eþ	sjá
 þá	fpkfo	hann
@@ -3841,7 +3619,6 @@ bak	aa	bak
 við	ao	við
 hólinn	nkeog	hóll
 .	.	.
-
 Þeir	fpkfn	hann
 hugsuðu	sfg3fþ	hugsa
 í	aþ	í
@@ -3866,7 +3643,6 @@ kort	nhfo	kort
 og	c	og
 kompása	nkfo	kompás
 .	.	.
-
 Gengu	sfg3fþ	ganga
 ekki	aa	ekki
 í	aþ	í
@@ -3878,7 +3654,6 @@ yst	aae	úti
 sem	aa	sem
 innst	aae	innar
 .	.	.
-
 Höfuðfötin	nhfng	höfuðfat
 voru	sfg3fþ	vera
 lambhúshettur	nvfn	lambhúshetta
@@ -3889,7 +3664,6 @@ skotthúfur	nvfn	skotthúfa
 á	ao	á
 sumrin	nhfog	sumar
 .	.	.
-
 Hvað	fshen	hver
 er	sfg3en	vera
 þetta	fahen	þessi
@@ -3940,7 +3714,6 @@ og	c	og
 hinir	fakfn	hinn
 samsinna	sfg3fn	samsinna
 .	.	.
-
 Stundir	nvfn	stund
 líða	sfg3fn	líða
 ,	,	,
@@ -3985,7 +3758,6 @@ af	aþ	af
 undarlegum	lkfþsf	undarlegur
 fiskum	nkfþ	fiskur
 .	.	.
-
 *	*	*
 Þeir	fpkfn	hann
 eru	sfg3fn	vera
@@ -3999,7 +3771,6 @@ biðin	nveng	bið
 tekur	sfg3en	taka
 við	aa	við
 .	.	.
-
 Löng	lvensf	langur
 biðin	nveng	bið
 eftir	aþ	eftir
@@ -4007,14 +3778,12 @@ að	c	að
 fiskurinn	nkeng	fiskur
 bíti	svg3en	bíta
 .	.	.
-
 Tveir	tfkfn	tveir
 klukkutímar	nkfn	klukkutími
 yfir	aþ	yfir
 ekki	aa	ekki
 neinu	foheþ	neinn
 .	.	.
-
 Tveir	tfkfn	tveir
 tímar	nkfn	tími
 í	aþ	í
@@ -4024,14 +3793,12 @@ líkkistu	nveþ	líkkista
 á	aþ	á
 Íshafinu	nheþgs	Íshaf
 .	.	.
-
 Í	aþ	í
 frosti	nheþ	frost
 ,	,	,
 vaxandi	lkeþof	vaxandi
 vindi	nkeþ	vindur
 .	.	.
-
 Einungis	aa	einungis
 Gvendur	nken-s	Gvendur
 og	c	og
@@ -4043,7 +3810,6 @@ verk	nhfo	verk
 að	cn	að
 vinna	sng	vinna
 .	.	.
-
 Þeir	fpkfn	hann
 sleppa	sfg3fn	sleppa
 ekki	aa	ekki
@@ -4089,7 +3855,6 @@ að	aþ	að
 glæstu	lheþsf	glæstur
 skipi	nheþ	skip
 .	.	.
-
 Æi	au	æi
 já	au	já
 ,	,	,
@@ -4119,7 +3884,6 @@ vitund	nven	vitund
 fyllist	sfm3en	fylla
 draumum	nkfþ	draumur
 .	.	.
-
 Gvendur	nken-s	Gvendur
 og	c	og
 Einar	nken-s	Einar
@@ -4127,7 +3891,6 @@ andæfa	sfg3fn	andæfa
 hjá	aþ	hjá
 duflinu	nheþg	dufl
 .	.	.
-
 Dökkur	x	dökkur
 nætur	nvfn	nótt
 ­	c	­
@@ -4160,7 +3923,6 @@ af	aþ	af
 þungsigldum	lhfþsf	þungsigldur
 skýjum	nhfþ	ský
 .	.	.
-
 Pétur	nken-s	Pétur
 beygir	sfg3en	beygja
 sig	fpkeo	sig
@@ -4189,11 +3951,9 @@ sýrunni	nveþg	sýra
 og	c	og
 endurnærast	sfm3fn	endurnæra
 .	.	.
-
 Það	fphen	það
 kólnar	sfg3en	kólna
 .	.	.
-
 Þetta	fahen	þessi
 verður	sfg3en	verða
 köld	lvensf	kaldur
@@ -4230,7 +3990,6 @@ til	ae	til
 að	cn	að
 andæfa	sng	andæfa
 .	.	.
-
 Hafa	sfg3fn	hafa
 beðið	ssg	bíða
 í	aþ	í
@@ -4281,7 +4040,6 @@ um	ao	um
 hinn	fakeo	hinn
 endann	nkeog	endi
 .	.	.
-
 Hvarflaði	sfg3eþ	hvarfla
 þó	aa	þó
 ekki	aa	ekki
@@ -4340,7 +4098,6 @@ jafn	aa	jafn
 og	c	og
 dauðinn	nkeng	dauði
 .	.	.
-
 En	c	en
 heimurinn	nkeng	heimur
 er	sfg3en	vera
@@ -4369,7 +4126,6 @@ fyrir	aþ	fyrir
 hálfum	lkeþsf	hálfur
 mánuði	nkeþ	mánuður
 .	.	.
-
 Veröldin	nveng	veröld
 svaf	sfg3eþ	sofa
 ,	,	,
@@ -4381,7 +4137,6 @@ hófst	sfm3eþ	hefja
 og	c	og
 hneig	sfg3eþ	hníga
 .	.	.
-
 Þeir	fpkfn	hann
 höfðu	sfg3fþ	hafa
 séð	ssg	sjá
@@ -4409,7 +4164,6 @@ sem	ct	sem
 verndar	sfg3en	vernda
 okkur	fp1fo	ég
 .	.	.
-
 Mennirnir	nkfng	maður
 sex	tfkfn	sex
 höfðu	sfg3fþ	hafa
@@ -4423,7 +4177,6 @@ fyrir	ao	fyrir
 tilvist	nveo	tilvist
 sína	feveo	sinn
 .	.	.
-
 En	c	en
 það	fphen	það
 er	sfg3en	vera
@@ -4449,7 +4202,6 @@ og	c	og
 gleymdu	sfg3fþ	gleyma
 eilífðinni	nveþg	eilífð
 .	.	.
-
 Bárður	nken-s	Bárður
 og	c	og
 strákurinn	nkeng	strákur
@@ -4478,7 +4230,6 @@ tala	sng	tala
 til	ae	til
 okkar	fp1fe	ég
 .	.	.
-
 Það	fphen	það
 sem	ct	sem
 hann	fpken	hann
@@ -4489,7 +4240,6 @@ yfir	ao	yfir
 gömul	lhfosf	gamall
 sár	nhfo	sár
 .	.	.
-
 En	c	en
 það	fphen	það
 eru	sfg3fn	vera
@@ -4502,11 +4252,9 @@ ekki	aa	ekki
 þessari	faveþ	þessi
 legu	nveþ	lega
 .	.	.
-
 Ekki	aa	ekki
 lengur	aam	lengi
 .	.	.
-
 Þær	fpvfn	hún
 eru	sfg3fn	vera
 allar	fovfn	allur
@@ -4525,7 +4273,6 @@ sér	fphfþ	sig
 illt	lheosf	illur
 veður	nheo	veður
 .	.	.
-
 Dagurinn	nkeng	dagur
 nálgast	sfm3en	nálgast
 ,	,	,
@@ -4558,7 +4305,6 @@ helvíti	nhen	helvíti
 er	sfg3en	vera
 kuldi	nken	kuldi
 .	.	.
-
 Þeir	fpkfn	hann
 steypa	sfg3fn	steypa
 stakknum	nkeþg	stakkur
@@ -4585,7 +4331,6 @@ gegnblotnað	ssg	gegnblotna
 af	aþ	af
 svita	nkeþ	sviti
 .	.	.
-
 Þeir	fpkfn	hann
 grípa	sfg3fn	grípa
 allir	fokfn	allur
@@ -4612,14 +4357,11 @@ hann	fpken	hann
 bölvar	sfg3en	bölva
 hátt	aa	hátt
 .	.	.
-
 Hvað	fshen	hver
 ?	?	?
-
 spyr	sfg3en	spyrja
 strákurinn	nkeng	strákur
 .	.	.
-
 Helvíts	nhee	helvítis
 stakkurinn	nkeng	stakkur
 ,	,	,
@@ -4656,7 +4398,6 @@ hann	fpken	hann
 gleymdi	sfg3eþ	gleyma
 stakknum	nkeþg	stakkur
 .	.	.
-
 Andrea	nven-s	Andrea
 örugglega	aa	örugglega
 búin	lvensf	búinn
@@ -4678,7 +4419,6 @@ kulda	nkeþ	kuldi
 fyrir	aþ	fyrir
 heimskautavindi	nkeþ	heimskautavindur
 .	.	.
-
 Svona	aa	svona
 geta	sfg3fn	geta
 ljóðin	nhfng	ljóð
@@ -4686,7 +4426,6 @@ farið	ssg	fara
 með	ao	með
 okkur	fp1fo	ég
 .	.	.
-
 Þú	fp2en	þú
 ert	sfg2en	vera
 nú	aa	nú
@@ -4728,7 +4467,6 @@ og	c	og
 eru	sfg3fn	vera
 mörg	lhfnsf	margur
 .	.	.
-
 Blótsyrði	nhfn	blótsyrði
 eru	sfg3fn	vera
 litlir	lkfnsf	lítill
@@ -4768,7 +4506,6 @@ allir	fokfn	allur
 kvæðabálkar	nkfn	kvæðabálkur
 heimsins	nkeeg	heimur
 .	.	.
-
 Strákurinn	nkeng	strákur
 og	c	og
 Bárður	nken-s	Bárður
@@ -4812,7 +4549,6 @@ sveittur	lkensf	sveittur
 og	c	og
 móður	lkensf	móður
 .	.	.
-
 Hitinn	nkeng	hiti
 fer	sfg3en	fara
 þó	aa	þó
@@ -4865,7 +4601,6 @@ missa	sng	missa
 af	aþ	af
 fiski	nkeþ	fiskur
 .	.	.
-
 Fiskur	nken	fiskur
 er	sfg3en	vera
 ekki	aa	ekki
@@ -4891,7 +4626,6 @@ meira	lhenvm	mikill
 en	c	en
 það	fphen	það
 .	.	.
-
 Flest	lhfnse	margur
 íslensk	lhfnsf	íslenskur
 þéttbýli	nhfn	þéttbýli
@@ -4907,7 +4641,6 @@ undir	ao	undir
 hvolfþak	nheo	hvolfþak
 draumanna	nkfeg	draumur
 .	.	.
-
 Pétur	nkeo-s	Pétur
 dreymir	sfg3en	dreyma
 um	ao	um
@@ -4948,7 +4681,6 @@ gerst	ssm	gera
 milli	ae	milli
 þeirra	fphfe	það
 .	.	.
-
 Pétur	nken-s	Pétur
 veit	sfg3en	vita
 samt	aa	samt

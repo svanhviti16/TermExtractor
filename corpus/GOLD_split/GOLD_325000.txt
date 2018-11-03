@@ -10,25 +10,21 @@ saman	aa	saman
 við	ao	við
 bakstur	nkeo	bakstur
 .	.	.
-
 Bakið	sbg2fn	baka
 í	ao	í
 20	ta	20
 mínútur	nvfo	mínúta
 .	.	.
-
 Þvoið	sbg2fn	þvo
 og	c	og
 hreinsið	sbg2fn	hreinsa
 rifsberin	nhfog	rifsber
 .	.	.
-
 Stífþeytið	sbg2fn	stífþeyta
 eggjahvíturnar	nvfog	eggjahvíta
 með	aþ	með
 sykrinum	nkeþg	sykur
 .	.	.
-
 Leggið	sbg2fn	leggja
 berin	nhfog	ber
 í	ao	í
@@ -38,18 +34,15 @@ smyrjið	sbg2fn	smyrja
 eggjahvítunum	nvfþg	eggjahvíta
 yfir	aa	yfir
 .	.	.
-
 Látið	sbg2fn	láta
 aftur	aa	aftur
 í	ao	í
 ofninn	nkeog	ofn
 .	.	.
-
 Bakið	sbg2fn	baka
 í	ao	í
 15	ta	15
 mín.	as	mín.
-
 Tertan	nveng	terta
 á	sfg3en	eiga
 að	cn	að
@@ -57,13 +50,11 @@ verða	sng	verða
 fallega	aa	fallega
 gulbrún	lvensf	gulbrúnn
 .	.	.
-
 Borðið	sbg2fn	borða
 volga	lveosf	volgur
 úr	aþ	úr
 ofninum	nkeþg	ofn
 .	.	.
-
 Gott	lhensf	góður
 er	sfg3en	vera
 að	cn	að
@@ -73,26 +64,21 @@ fram	aa	fram
 rjóma	nkeo	rjómi
 með	aa	með
 .	.	.
-
 Terta	nven	terta
 á	aþ	á
 hvolfi	nheþ	hvolf
-
 Tarte	e	Tarte
 des	e	des
 Demoiselles	e	Demoiselles
 Tatin	e	Tatin
-
 Fyrir	ao	fyrir
 8	ta	8
-
 Undirbúningur	nken	undirbúningur
 hálftími	nken	hálftími
 ,	,	,
 bakstur	nken	bakstur
 hálftími	nken	hálftími
 .	.	.
-
 200	ta	200
 g	as	g
 smjördeig	nhen	smjördeig
@@ -109,7 +95,6 @@ sykur	nken	sykur
 g	as	g
 smjör	nhen	smjör
 .	.	.
-
 Notið	sbg2fn	nota
 bökuform	nheo	bökuform
 sem	ct	sem
@@ -123,7 +108,6 @@ plötu	nveþ	plata
 t.d.	as	t.d.
 teflon-form	nheo	teflon-form
 .	.	.
-
 Afhýðið	sbg2fn	afhýða
 eplin	nhfog	epli
 ,	,	,
@@ -137,7 +121,6 @@ kjarnann	nkeog	kjarni
 úr	aþ	úr
 þeim	fphfþ	það
 .	.	.
-
 Setjið	sbg2fn	setja
 formið	nheog	form
 á	ao	á
@@ -148,7 +131,6 @@ smjörinu	nheþg	smjör
 og	c	og
 sykrinum	nkeþg	sykur
 .	.	.
-
 Leggið	sbg2fn	leggja
 eplahelmingana	nkfog	eplahelmingur
 í	ao	í
@@ -161,7 +143,6 @@ hlið	nveo	hlið
 þétt	aa	þétt
 saman	aa	saman
 .	.	.
-
 Hitið	sbg2fn	hita
 vel	aa	vel
 ,	,	,
@@ -172,16 +153,13 @@ brúnast	snm	brúna
 í	aþ	í
 smjörinu	nheþg	smjör
 .	.	.
-
 Kælið	sbg2fn	kæla
 .	.	.
-
 Hitið	sbg2fn	hita
 ofninn	nkeog	ofn
 í	ao	í
 180°	ta	180°
 .	.	.
-
 Stráið	sbg2fn	strá
 hveiti	nheþ	hveiti
 á	ao	á
@@ -191,22 +169,18 @@ fletjið	sbg2fn	fletja
 deigið	nheog	deig
 út	aa	út
 .	.	.
-
 Leggið	sbg2fn	leggja
 deigið	nheog	deig
 yfir	ao	yfir
 eplin	nhfog	epli
 .	.	.
-
 Bakið	sbg2fn	baka
 í	ao	í
 hálftíma	nkeo	hálftími
 .	.	.
-
 Borðið	sbg2fn	borða
 heitt	lheosf	heitur
 .	.	.
-
 Gott	lhensf	góður
 er	sfg3en	vera
 að	cn	að
@@ -215,7 +189,6 @@ hafa	sng	hafa
 rjóma	nkeo	rjómi
 með	aa	með
 .	.	.
-
 Oft	aa	oft
 er	sfg3en	vera
 kveikt	sþghen	kveikja
@@ -223,7 +196,6 @@ kveikt	sþghen	kveikja
 þessari	faveþ	þessi
 tertu	nveþ	terta
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 hitað	sþghen	hita
@@ -243,7 +215,6 @@ kveikt	sþghen	kveikja
 strax	aa	strax
 í	aa	í
 .	.	.
-
 Sagan	nveng	saga
 segir	sfg3en	segja
 að	c	að
@@ -283,7 +254,6 @@ var	sfg3eþ	vera
 að	cn	að
 gera	sng	gera
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 ekkert	fohen	enginn
@@ -298,7 +268,6 @@ upp	aa	upp
 af	aþ	af
 gólfnu	x	gólf
 .	.	.
-
 Kakan	nveng	kaka
 gerði	sfg3eþ	gera
 svo	aa	svo
@@ -333,16 +302,12 @@ varð	sfg3eþ	verða
 fyrst	aae	fyrr
 til	aa	til
 .	.	.
-
 Nougatterta	nven	nougatterta
-
 Nougat	e	Nougat
 de	e	de
 Tours	e	Tours
-
 Fyrir	ao	fyrir
 6-8	ta	6-8
-
 Undirbúningur	nken	undirbúningur
 30	ta	30
 mín	x	mín.
@@ -354,7 +319,6 @@ klst	as	klst
 bakstur	nken	bakstur
 40	ta	40
 mín.	as	mín.
-
 Bökudeig	nhen	bökudeig
 :	:	:
 200	ta	200
@@ -373,7 +337,6 @@ glas	nhen	glas
 ískalt	lhensf	ískaldur
 vatn	nhen	vatn
 .	.	.
-
 Fylling	nven	fylling
 :	:	:
 150	ta	150
@@ -403,7 +366,6 @@ kirsch	e	kirsch
 3	ta	3
 eggjahvítur	nvfn	eggjahvíta
 .	.	.
-
 Leggið	sbg2fn	leggja
 súkkatið	nheog	súkkat
 í	ao	í
@@ -414,7 +376,6 @@ víninu	nheþg	vín
 2	ta	2
 tíma	nkfo	tími
 .	.	.
-
 Búið	sbg2fn	búa
 til	aa	til
 bökudeigið	nheog	bökudeig
@@ -431,7 +392,6 @@ mikið	aa	mikið
 við	ao	við
 deigið	nheog	deig
 .	.	.
-
 Hellið	sbg2fn	hella
 vatninu	nheþg	vatn
 saman	aa	saman
@@ -440,7 +400,6 @@ við	aa	við
 hnoðið	sbg2fn	hnoða
 hratt	aa	hratt
 .	.	.
-
 Stráið	sbg2fn	strá
 hveiti	nheþ	hveiti
 á	ao	á
@@ -455,24 +414,20 @@ brjótið	sbg2fn	brjóta
 í	ao	í
 þrennt	lheosf	þrennur
 .	.	.
-
 Endurtakið	sbg2fn	endurtaka
 tvisvar	aa	tvisvar
 .	.	.
-
 Setjið	sbg2fn	setja
 í	ao	í
 kæli	nkeo	kælir
 í	ao	í
 1	ta	1
 klst.	as	klst.
-
 Hitið	sbg2fn	hita
 ofninn	nkeog	ofn
 í	ao	í
 180°	ta	180°
 .	.	.
-
 Stráið	sbg2fn	strá
 hveiti	nheþ	hveiti
 á	ao	á
@@ -484,7 +439,6 @@ deigið	nheog	deig
 með	aþ	með
 kefli	nheþ	kefli
 .	.	.
-
 Leggið	sbg2fn	leggja
 það	fpheo	það
 í	ao	í
@@ -494,7 +448,6 @@ bökuform	nheo	bökuform
 upp	aa	upp
 barmana	nkfog	barmur
 .	.	.
-
 Smyrjið	sbg2fn	smyrja
 botninn	nkeog	botn
 með	aþ	með
@@ -502,7 +455,6 @@ sultu	nveþ	sulta
 og	c	og
 súkkati	nheþ	súkkat
 .	.	.
-
 Stífþeytið	sbg2fn	stífþeyta
 eggjahvíturnar	nvfog	eggjahvíta
 ,	,	,
@@ -514,17 +466,14 @@ möndlum	nvfþ	mandla
 saman	aa	saman
 við	aa	við
 .	.	.
-
 Þekið	sbg2fn	þekja
 tertuna	nveog	terta
 með	aþ	með
 þessu	faheþ	þessi
 .	.	.
-
 Bakið	sbg2fn	baka
 35-40	ta	35-40
 mín.	as	mín.
-
 Tertan	nveng	terta
 á	sfg3en	eiga
 að	cn	að
@@ -532,11 +481,9 @@ verða	sng	verða
 fallega	aa	fallega
 gulbrún	lvensf	gulbrúnn
 .	.	.
-
 Borðið	sbg2fn	borða
 samdægurs	aa	samdægurs
 .	.	.
-
 Það	fphen	það
 má	sfg3en	mega
 hafa	sng	hafa
@@ -552,7 +499,6 @@ sykri	nkeþ	sykur
 stað	nkeo	staður
 súkkatsins	nheeg	súkkat
 .	.	.
-
 Tertan	nveng	terta
 verður	sfg3en	verða
 þá	aa	þá
@@ -560,14 +506,10 @@ ekki	aa	ekki
 eins	aa	eins
 sæt	lvensf	sætur
 .	.	.
-
 Kirsuberjabaka	nven	kirsuberjabaka
-
 Clafoutis	e	Clafoutis
-
 Fyrir	ao	fyrir
 4	ta	4
-
 Undirbúningur	nken	undirbúningur
 15	ta	15
 mín	x	mín.
@@ -575,7 +517,6 @@ mín	x	mín.
 bakstur	nken	bakstur
 40	ta	40
 mín.	as	mín.
-
 60	ta	60
 g	as	g
 hveiti	nhen	hveiti
@@ -601,17 +542,14 @@ salt	nhen	salt
 g	as	g
 kirsuber	nhfn	kirsuber
 .	.	.
-
 Hitið	sbg2fn	hita
 ofninn	nkeog	ofn
 í	ao	í
 180°	ta	180°
 .	.	.
-
 Þvoið	sbg2fn	þvo
 berin	nhfog	ber
 .	.	.
-
 Smyrjið	sbg2fn	smyrja
 eldfast	lheosf	eldfastur
 fat	nheo	fat
@@ -621,12 +559,10 @@ berin	nhfog	ber
 í	ao	í
 það	fpheo	það
 .	.	.
-
 Búið	sbg2fn	búa
 til	aa	til
 deigið	nheog	deig
 .	.	.
-
 Blandið	sbg2fn	blanda
 saman	aa	saman
 í	aþ	í
@@ -646,20 +582,17 @@ smátt	aa	smátt
 og	c	og
 smátt	aa	smátt
 .	.	.
-
 Hrærið	sbg2fn	hræra
 í	aa	í
 á	aa	á
 meðan	aa	meðan
 .	.	.
-
 Síðast	aae	síðar
 látið	sfg2fn	láta
 þið	fp2fn	þú
 brætt	lheosf	bræddur
 smjörið	nheog	smjör
 .	.	.
-
 Hellið	sbg2fn	hella
 deiginu	nheþg	deig
 yfir	ao	yfir
@@ -670,27 +603,21 @@ inn	aa	inn
 í	ao	í
 ofn	nkeo	ofn
 .	.	.
-
 Bakið	sbg2fn	baka
 í	ao	í
 40	ta	40
 mín.	as	mín.
-
 Borðið	sbg2fn	borða
 volgt	lheosf	volgur
 úr	aþ	úr
 ofninum	nkeþg	ofn
 .	.	.
-
 Hindberjamauk	nhen	hindberjamauk
-
 Mousse	e	Mousse
 aux	e	aux
 framboises	e	framboises
-
 Fyrir	ao	fyrir
 4	ta	4
-
 Undirbúningur	nken	undirbúningur
 20	ta	20
 mín	x	mín.
@@ -699,7 +626,6 @@ nokkrum	fokfþ	nokkur
 tímum	nkfþ	tími
 fyrirfram	aa	fyrirfram
 .	.	.
-
 500	ta	500
 g	as	g
 hindber	nhfn	hindber
@@ -719,15 +645,12 @@ sykur	nken	sykur
 3	ta	3
 eggjahvítur	nvfn	eggjahvíta
 .	.	.
-
 Stífþeytið	sbg2fn	stífþeyta
 eggjahvíturnar	nvfog	eggjahvíta
 .	.	.
-
 Þeytið	sbg2fn	þeyta
 rjómann	nkeog	rjómi
 .	.	.
-
 Hrærið	sbg2fn	hræra
 saman	aa	saman
 400	ta	400
@@ -738,7 +661,6 @@ og	c	og
 100	ta	100
 sykur	nkeo	sykur
 .	.	.
-
 Setjið	sbg2fn	setja
 rjómann	nkeog	rjómi
 varlega	aa	varlega
@@ -750,7 +672,6 @@ gaffli	nkeþ	gaffall
 síðan	aa	síðan
 eggjahvíturnar	nvfog	eggjahvíta
 .	.	.
-
 Setjið	sbg2fn	setja
 í	ao	í
 4	ta	4
@@ -759,12 +680,10 @@ og	c	og
 í	ao	í
 kæli	nkeo	kælir
 .	.	.
-
 Búið	sbg2fn	búa
 til	aa	til
 sósuna	nveog	sósa
 .	.	.
-
 Þeytið	sbg2fn	þeyta
 nú	aa	nú
 saman	aa	saman
@@ -776,18 +695,15 @@ og	c	og
 g	as	g
 sykur	nkeo	sykur
 .	.	.
-
 Setjið	sbg2fn	setja
 í	ao	í
 sósukönnu	nveo	sósukanna
 .	.	.
-
 Berið	sbg2fn	bera
 maukið	nheog	mauk
 fram	aa	fram
 hálffreðið	lheosf	hálffreðinn
 .	.	.
-
 Ef	c	ef
 þið	fp2fn	þú
 notið	sfg2fn	nota
@@ -803,7 +719,6 @@ frysti	nkeo	frystir
 1-2	ta	1-2
 tíma	nkfo	tími
 .	.	.
-
 Leggið	sbg2fn	leggja
 nokkur	fohfo	nokkur
 ber	nhfo	ber
@@ -815,7 +730,6 @@ skál	nveo	skál
 til	ae	til
 skreytingar	nvee	skreyting
 .	.	.
-
 Hver	foken	hver
 boðsgestur	nken	boðsgestur
 fær	sfg3en	fá
@@ -823,9 +737,7 @@ sér	fpkeþ	sig
 af	aþ	af
 sósunni	nveþg	sósa
 .	.	.
-
 Austur-Frakkland	nhen-s	Austur-Frakkland
-
 Það	fphen	það
 vita	sfg3fn	vita
 allir	fokfn	allur
@@ -846,7 +758,6 @@ allsráðandi	lvenof	allsráðandi
 og	c	og
 hér	aa	hér
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ekki	aa	ekki
@@ -864,7 +775,6 @@ af	aþ	af
 matargleði	nveþ	matargleði
 fólks	nhee	fólk
 .	.	.
-
 Borgin	nveng	borg
 Lyon	e	Lyon
 er	sfg3en	vera
@@ -876,7 +786,6 @@ og	c	og
 sérkennilega	lveosf	sérkennilegur
 matarlist	nveo	matarlist
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -898,7 +807,6 @@ töppum	nkfþ	tappi
 bouchons	e	bouchons
 )	)	)
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 enginn	foken	enginn
@@ -911,7 +819,6 @@ heimsins	nkeeg	heimur
 bestu	lhfnve	góður
 vín	nhfn	vín
 .	.	.
-
 Mikið	lhensf	mikill
 er	sfg3en	vera
 eldað	sþghen	elda
@@ -936,7 +843,6 @@ spægipylsum	nvfþ	spægipylsa
 og	c	og
 kæfum	nvfþ	kæfa
 .	.	.
-
 Erfitt	lhensf	erfiður
 er	sfg3en	vera
 að	cn	að
@@ -956,7 +862,6 @@ koma	sng	koma
 og	c	og
 smakka	sng	smakka
 !	!	!
-
 En	c	en
 margt	lhensf	margur
 annað	fohen	annar
@@ -965,7 +870,6 @@ er	sfg3en	vera
 matreitt	sþghen	matreiða
 hér	aa	hér
 .	.	.
-
 Ástæða	nven	ástæða
 þessa	fahee	þessi
 mikla	lheevf	mikill
@@ -989,7 +893,6 @@ mestu	lhfþve	mikill
 landbúnaðarhéruðum	nhfþ	landbúnaðarhérað
 Frakklands	nhee-s	Frakkland
 .	.	.
-
 Besta	lhenve	góður
 nautakjötið	nheng	nautakjöt
 er	sfg3en	vera
@@ -1010,7 +913,6 @@ fyrir	ao	fyrir
 austan	aa	austan
 Lyon	e	Lyon
 .	.	.
-
 Sælkerar	nkfn	sælkeri
 verða	sfg3fn	verða
 að	cn	að
@@ -1026,7 +928,6 @@ matur	nken	matur
 en	c	en
 alikjúklingur	nken	alikjúklingur
 .	.	.
-
 Ár	nvfn	á
 og	c	og
 fljót	nhfn	fljót
@@ -1036,7 +937,6 @@ af	aþ	af
 spriklandi	lkeþof	spriklandi
 fiski	nkeþ	fiskur
 .	.	.
-
 Einn	foken	einn
 frægasti	lkenve	frægur
 rétturinn	nkeng	réttur
@@ -1047,7 +947,6 @@ fiskbollur	nvfn	fiskbolla
 í	aþ	í
 humarsósu	nveþ	humarsósa
 .	.	.
-
 Í	aþ	í
 víðáttumiklu	lheþsf	víðáttumikill
 skóglendinu	nheþg	skóglendi
@@ -1056,7 +955,6 @@ fullt	lhensf	fullur
 af	aþ	af
 villibráð	nveþ	villibráð
 .	.	.
-
 Og	c	og
 í	aþ	í
 Rhônedal	nkeþ-s	Rhônedalur
@@ -1064,7 +962,6 @@ er	sfg3en	vera
 mikil	lvensf	mikill
 ávaxtarækt	nven	ávaxtarækt
 .	.	.
-
 Og	c	og
 þá	aa	þá
 er	sfg3en	vera
@@ -1074,7 +971,6 @@ að	cn	að
 nefna	sng	nefna
 vínrækt	nveo	vínrækt
 .	.	.
-
 Mörg	lhfnsf	margur
 bestu	lhfnve	góður
 vín	nhfn	vín
@@ -1084,7 +980,6 @@ frá	aþ	frá
 þessu	faheþ	þessi
 héraði	nheþ	hérað
 .	.	.
-
 Þeirra	fphfe	það
 frægust	lhfnse	frægur
 eru	sfg3fn	vera
@@ -1097,7 +992,6 @@ rauð	lhfnsf	rauður
 og	c	og
 hvít	lhfnsf	hvítur
 .	.	.
-
 Mörg	lhfnsf	margur
 þeirra	fphfe	það
 eru	sfg3fn	vera
@@ -1109,7 +1003,6 @@ við	ao	við
 nautakjötið	nheog	nautakjöt
 þeirra	fphfe	það
 .	.	.
-
 Rétt	aa	rétt
 fyrir	ao	fyrir
 norðan	aa	norðan
@@ -1117,7 +1010,6 @@ Lyon	e	Lyon
 er	sfg3en	vera
 Beaujolaishérað	nhen-s	Beaujolaishérað
 .	.	.
-
 Þar	aa	þar
 eru	sfg3fn	vera
 mörg	lhfnsf	margur
@@ -1129,7 +1021,6 @@ bara	aa	bara
 Beaujolais	e	Beaujolais
 nouveau	e	nouveau
 .	.	.
-
 Þau	fphfn	það
 eiga	sfg3fn	eiga
 það	fpheo	það
@@ -1142,7 +1033,6 @@ sterku	lheþsf	sterkur
 og	c	og
 berjabragði	nheþ	berjabragð
 .	.	.
-
 Fyrir	ao	fyrir
 sunnan	aa	sunnan
 Lyon	e	Lyon
@@ -1156,7 +1046,6 @@ framleidd	sþghfn	framleiða
 Côtes-du-Rhône	e	Côtes-du-Rhône
 vínin	nhfng	vín
 .	.	.
-
 Þau	fphfn	það
 eru	sfg3fn	vera
 mjög	aa	mjög
@@ -1167,7 +1056,6 @@ vel	aa	vel
 við	ao	við
 villibráð	nveo	villibráð
 .	.	.
-
 Ef	c	ef
 tími	nken	tími
 gefst	sfm3en	gefa
@@ -1179,7 +1067,6 @@ margt	lhensf	margur
 að	cn	að
 skoða	sng	skoða
 .	.	.
-
 Lyon	e	Lyon
 stendur	sfg3en	standa
 í	aþ	í
@@ -1194,7 +1081,6 @@ og	c	og
 ,	,	,
 Saône	e	Saône
 .	.	.
-
 Dalurinn	nkeng	dalur
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -1213,7 +1099,6 @@ og	c	og
 norðurhluta	nkee	norðurhluti
 álfunnar	nveeg	álfa
 .	.	.
-
 Þegar	c	þegar
 Rómverjar	nkfn-s	Rómverji
 lögðu	sfg3fþ	leggja
@@ -1230,7 +1115,6 @@ sig	fpkfo	sig
 mikilvægi	nheþ	mikilvægi
 staðarins	nkeeg	staður
 .	.	.
-
 Þeir	fpkfn	hann
 gerðu	sfg3fþ	gera
 Lyon	e	Lyon
@@ -1242,7 +1126,6 @@ Gallíu	nvee-s	Gallía
 eftir	ao	eftir
 Kristburð	nkeo-s	Kristburður
 .	.	.
-
 Enn	aa	enn
 eru	sfg3fn	vera
 miklar	lvfnsf	mikill
@@ -1258,7 +1141,6 @@ og	c	og
 í	aþ	í
 Búrgundarhéraði	nheþ-s	Búrgundarhérað
 .	.	.
-
 Síðan	aa	síðan
 breiddist	sfm3eþ	breiða
 kristin	lvensf	kristinn
@@ -1268,7 +1150,6 @@ landið	nheog	land
 frá	aþ	frá
 Lyon	e	Lyon
 .	.	.
-
 Hér	aa	hér
 eru	sfg3fn	vera
 þónokkrar	fovfn	þónokkur
@@ -1277,7 +1158,6 @@ kirkjur	nvfn	kirkja
 rómönskum	lkeþsf	rómanskur
 stíl	nkeþ	stíll
 .	.	.
-
 Enn	aa	enn
 seinna	aam	seint
 voru	sfg3fþ	vera
@@ -1290,7 +1170,6 @@ Genf	e	Genf
 prentaðar	sþgvfn	prenta
 hér	aa	hér
 .	.	.
-
 Nokkuð	fohen	nokkur
 er	sfg3en	vera
 af	aþ	af
@@ -1308,7 +1187,6 @@ sérstaklega	aa	sérstaklega
 í	aþ	í
 fjallahéruðum	nhfþ	fjallahérað
 .	.	.
-
 Þar	aa	þar
 var	sfg3eþ	vera
 auðveldara	lhenvm	auðveldur
@@ -1323,13 +1201,11 @@ voru	sfg3fþ	vera
 sem	aa	sem
 mestar	lvfnse	mikill
 .	.	.
-
 Austur-Frakkland	nhen-s	Austur-Frakkland
 er	sfg3en	vera
 mjög	aa	mjög
 fjöllótt	lhensf	fjöllóttur
 .	.	.
-
 Öll	fohfn	allur
 þessi	fahfn	þessi
 fjallahéruð	nhfn	fjallahérað
@@ -1341,14 +1217,12 @@ með	aþ	með
 sínum	fekeþ	sinn
 svip	nkeþ	svipur
 .	.	.
-
 Alpafjöllin	nhfngs	Alpafjöll
 eru	sfg3fn	vera
 hæst	lhfnse	hár
 og	c	og
 tignarlegust	lhfnse	tignarlegur
 .	.	.
-
 Mont-Blanc-jökull	nken-s	Mont-Blanc-jökull
 er	sfg3en	vera
 hæsta	lhenve	hár
@@ -1358,7 +1232,6 @@ Evrópu	nvee-s	Evrópa
 4807	ta	4807
 metrar	nkfn	metri
 .	.	.
-
 Hann	fpken	hann
 snarminnkar	sfg3en	snarminnka
 ,	,	,
@@ -1372,7 +1245,6 @@ verið	ssg	vera
 undanfarin	lhfosf	undanfarinn
 ár	nhfo	ár
 .	.	.
-
 Alpafjöll	nhfn	alpafjöll
 eru	sfg3fn	vera
 sundurskorin	lhfnsf	sundurskorinn
@@ -1380,13 +1252,11 @@ af	aþ	af
 djúpum	lkfþsf	djúpur
 dölum	nkfþ	dalur
 .	.	.
-
 Þar	aa	þar
 renna	sfg3fn	renna
 straumharðar	lvfnsf	straumharður
 ár	nvfn	á
 .	.	.
-
 Víða	aa	víða
 eru	sfg3fn	vera
 stór	lhfnsf	stór
@@ -1400,14 +1270,12 @@ Le	e	Le
 Bourget	e	Bourget
 )	)	)
 .	.	.
-
 Hér	aa	hér
 eru	sfg3fn	vera
 bestu	lvfnve	góður
 skíðabrekkur	nvfn	skíðabrekka
 Evrópu	nvee-s	Evrópa
 .	.	.
-
 Ekki	aa	ekki
 skemmir	sfg3en	skemma
 hve	aa	hve
@@ -1421,14 +1289,12 @@ borða	sng	borða
 á	ao	á
 kvöldin	nhfog	kvöld
 .	.	.
-
 Fyrir	ao	fyrir
 norðan	aa	norðan
 Alpana	nkfogs	Alpar
 eru	sfg3fn	vera
 Júrafjöll	nhfn-s	Júrafjöll
 .	.	.
-
 Þau	fphfn	það
 eru	sfg3fn	vera
 ekki	aa	ekki
@@ -1439,7 +1305,6 @@ en	c	en
 mjög	aa	mjög
 torfær	lhfnsf	torfær
 .	.	.
-
 Fyrir	ao	fyrir
 vestan	aa	vestan
 Lyon	e	Lyon
@@ -1447,7 +1312,6 @@ eru	sfg3fn	vera
 rætur	nvfn	rót
 Miðhálendisins	nheegs	Miðhálendi
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ævaforn	lkensf	ævaforn
@@ -1455,14 +1319,12 @@ er	sfg3en	vera
 útdauður	lkensf	útdauður
 eldfjallaklasi	nken	eldfjallaklasi
 .	.	.
-
 Fyrir	ao	fyrir
 sunnan	aa	sunnan
 það	fpheo	það
 er	sfg3en	vera
 Ardèche	e	Ardèche
 .	.	.
-
 Þar	aa	þar
 eru	sfg3fn	vera
 miklir	lkfnsf	mikill
@@ -1473,7 +1335,6 @@ hellar	nkfn	hellir
 og	c	og
 gljúfur	nhfn	gljúfur
 .	.	.
-
 Og	c	og
 fyrir	ao	fyrir
 norðan	aa	norðan
@@ -1485,7 +1346,6 @@ sem	ct	sem
 fyrr	aam	fyrr
 segir	sfg3en	segja
 .	.	.
-
 Þar	aa	þar
 vex	sfg3en	vaxa
 vínviður	nken	vínviður
@@ -1493,7 +1353,6 @@ upp	aa	upp
 allar	fovfo	allur
 hlíðar	nvfo	hlíð
 .	.	.
-
 Hvert	fohen	hver
 þorp	nhen	þorp
 framleiðir	sfg3en	framleiða
@@ -1518,7 +1377,6 @@ hektarar	nkfn	hektari
 á	ao	á
 stærð	nveo	stærð
 .	.	.
-
 Gaman	nhen	gaman
 er	sfg3en	vera
 að	cn	að
@@ -1529,7 +1387,6 @@ hjóla	sng	hjóla
 milli	ae	milli
 þorpa	nhfe	þorp
 .	.	.
-
 Þau	fphfn	það
 hafa	sfg3fn	hafa
 lítið	aa	lítið
@@ -1539,7 +1396,6 @@ fyrir	ao	fyrir
 innreið	nveo	innreið
 nútímans	nkeeg	nútími
 .	.	.
-
 Stærstu	lvfnve	stór
 borgir	nvfn	borg
 Austur-Frakklands	nhee-s	Austur-Frakkland
@@ -1614,7 +1470,6 @@ sem	ct	sem
 er	sfg3en	vera
 nefnd	sþgven	nefna
 .	.	.
-
 Hér	aa	hér
 þurfa	sfg3fn	þurfa
 allir	fokfn	allur
@@ -1634,7 +1489,6 @@ og	c	og
 smakka	sng	smakka
 )	)	)
 .	.	.
-
 Gamla	lvenvf	gamall
 miðborgin	nveng	miðborg
 hefur	sfg3en	hafa
@@ -1643,14 +1497,12 @@ varðveist	ssm	varðveita
 ótrúlegan	lkeosf	ótrúlegur
 hátt	nkeo	háttur
 .	.	.
-
 Hún	fpven	hún
 stendur	sfg3en	standa
 meðfram	aþ	meðfram
 árbökkunum	nkfþg	árbakki
 tveim	tfkfþ	tveir
 .	.	.
-
 Margir	lkfnsf	margur
 segja	sfg3fn	segja
 hana	fpveo	hún
@@ -1671,28 +1523,23 @@ annarri	foveþ	annar
 borg	nveþ	borg
 lík	lvensf	líkur
 .	.	.
-
 Góða	lveosf	góður
 skemmtun	nveo	skemmtun
 og	c	og
 Bon	e	Bon
 appétit	e	appétit
 !	!	!
-
 Kúrbítssúpa	nven	kúrbítssúpa
 með	aþ	með
 beikoni	nheþ	beikon
-
 Soupe	e	Soupe
 de	e	de
 courgettes	e	courgettes
 au	e	au
 lard	e	lard
 fumé	e	fumé
-
 Fyrir	ao	fyrir
 4	ta	4
-
 Undirbúningur	nken	undirbúningur
 20	ta	20
 mín	x	mín.
@@ -1700,7 +1547,6 @@ mín	x	mín.
 suða	nven	suða
 25	ta	25
 mín.	as	mín.
-
 1	ta	1
 kg	as	kg
 kúrbítur	nken	kúrbítur
@@ -1723,7 +1569,6 @@ salt	nhen	salt
 og	c	og
 pipar	nken	pipar
 .	.	.
-
 Afhýðið	sbg2fn	afhýða
 laukinn	nkeog	laukur
 ,	,	,
@@ -1732,7 +1577,6 @@ skerið	sbg2fn	skera
 litla	lkfosf	lítill
 bita	nkfo	biti
 .	.	.
-
 Þvoið	sbg2fn	þvo
 kúrbítinn	nkeog	kúrbítur
 ,	,	,
@@ -1743,7 +1587,6 @@ líka	aa	líka
 litla	lkfosf	lítill
 bita	nkfo	biti
 .	.	.
-
 Setjið	sbg2fn	setja
 allt	foheo	allur
 grænmetið	nheog	grænmeti
@@ -1754,18 +1597,15 @@ með	aþ	með
 dl	as	dl
 vatni	nheþ	vatn
 .	.	.
-
 Saltið	sbg2fn	salta
 ,	,	,
 piprið	sbg2fn	pipra
 .	.	.
-
 Sjóðið	sbg2fn	sjóða
 rólega	aa	rólega
 í	ao	í
 20-25	ta	20-25
 mín.	as	mín.
-
 Á	aa	á
 meðan	c	meðan
 steikið	sfg2fn	steikja
@@ -1779,7 +1619,6 @@ við	ao	við
 góðan	lkeosf	góður
 hita	nkeo	hiti
 .	.	.
-
 Takið	sbg2fn	taka
 það	fpheo	það
 af	aa	af
@@ -1790,7 +1629,6 @@ fer	sfg3en	fara
 að	cn	að
 harðna	sng	harðna
 .	.	.
-
 Þegar	c	þegar
 grænmetið	nheng	grænmeti
 er	sfg3en	vera
@@ -1804,7 +1642,6 @@ hrærivél	nveþ	hrærivél
 með	aþ	með
 ostinum	nkeþg	ostur
 .	.	.
-
 Ausið	sbg2fn	ausa
 súpunni	nveþg	súpa
 á	ao	á
@@ -1819,7 +1656,6 @@ súpuna	nveog	súpa
 listilegan	lkeosf	listilegur
 hátt	nkeo	háttur
 .	.	.
-
 Súpan	nveng	súpa
 er	sfg3en	vera
 mjög	aa	mjög
@@ -1829,21 +1665,16 @@ köld	lvensf	kaldur
 heitum	lkeþsf	heitur
 sumardegi	nkeþ	sumardagur
 .	.	.
-
 Salat	nhen	salat
 frá	aþ	frá
 Lyon	e	Lyon
-
 Salade	e	Salade
 Lyonnaise	e	Lyonnaise
-
 Fyrir	ao	fyrir
 4	ta	4
-
 Undirbúningur	nken	undirbúningur
 20	ta	20
 mín.	as	mín.
-
 blaðsalat	nhen	blaðsalat
 ,	,	,
 t.d.	as	t.d.
@@ -1882,13 +1713,11 @@ salt	nhen	salt
 ,	,	,
 pipar	nken	pipar
 .	.	.
-
 Takið	sbg2fn	taka
 steinana	nkfog	steinn
 úr	aþ	úr
 sveskjunum	nvfþg	sveskja
 .	.	.
-
 Sjóðið	sbg2fn	sjóða
 þær	fpvfo	hún
 í	aþ	í
@@ -1897,13 +1726,11 @@ vatni	nheþ	vatn
 í	ao	í
 nokkrar	fovfo	nokkur
 mín.	as	mín.
-
 Takið	sbg2fn	taka
 þær	fpvfo	hún
 upp	aa	upp
 úr	aa	úr
 .	.	.
-
 Skerið	sbg2fn	skera
 beikonið	nheog	beikon
 í	ao	í
@@ -1918,7 +1745,6 @@ utan	aa	utan
 um	ao	um
 sveskjurnar	nvfog	sveskja
 .	.	.
-
 Skemmtilegt	lhensf	skemmtilegur
 er	sfg3en	vera
 að	cn	að
@@ -1928,13 +1754,11 @@ upp	aa	upp
 á	ao	á
 teina	nkfo	teinn
 .	.	.
-
 Hitið	sbg2fn	hita
 grillið	nheog	grill
 í	ao	í
 240°	ta	240°
 .	.	.
-
 Stingið	sbg2fn	stinga
 sveskjunum	nvfþg	sveskja
 undir	ao	undir
@@ -1950,7 +1774,6 @@ er	sfg3en	vera
 vel	aa	vel
 steikt	lhensf	steiktur
 .	.	.
-
 Á	aa	á
 meðan	c	meðan
 þvoið	sfg2fn	þvo
@@ -1973,27 +1796,22 @@ niður	aa	niður
 4	ta	4
 diska	nkfo	diskur
 .	.	.
-
 Raðið	sbg2fn	raða
 sveskjunum	nvfþg	sveskja
 ofan	aa	ofan
 á	aa	á
 .	.	.
-
 Egg	nhfn	egg
 í	aþ	í
 rauðvínssósu	nveþ	rauðvínssósa
-
 Oeufs	e	Oeufs
 en	e	en
 meurette	e	meurette
-
 Undirbúningur	nken	undirbúningur
 og	c	og
 suða	nven	suða
 50	ta	50
 mín.	as	mín.
-
 4	ta	4
 egg	nhfn	egg
 ,	,	,
@@ -2001,7 +1819,6 @@ egg	nhfn	egg
 ristaðar	lvfnsf	ristaður
 brauðsneiðar	nvfn	brauðsneið
 .	.	.
-
 Fyrir	ao	fyrir
 sósuna	nveog	sósa
 þarf	sfg3en	þurfa
@@ -2047,7 +1864,6 @@ smjör	nheo	smjör
 ,	,	,
 matarolía	nven	matarolía
 .	.	.
-
 Þvoið	sbg2fn	þvo
 og	c	og
 skerið	sbg2fn	skera
@@ -2055,14 +1871,12 @@ niður	aa	niður
 allt	foheo	allur
 grænmetið	nheog	grænmeti
 .	.	.
-
 Skerið	sbg2fn	skera
 fleskið	nheog	flesk
 í	ao	í
 litla	lkfosf	lítill
 bita	nkfo	biti
 .	.	.
-
 Hitið	sbg2fn	hita
 svolitla	lveosf	svolítill
 olíu	nveo	olía
@@ -2085,7 +1899,6 @@ rólega	aa	rólega
 nokkrar	fovfo	nokkur
 mínútur	nvfo	mínúta
 .	.	.
-
 Bætið	sbg2fn	bæta
 salti	nheþ	salt
 ,	,	,
@@ -2098,7 +1911,6 @@ kryddgrösum	nhfþ	kryddgras
 síðan	aa	síðan
 víninu	nheþg	vín
 .	.	.
-
 Lokið	sbg2fn	loka
 og	c	og
 látið	sbg2fn	láta
@@ -2106,7 +1918,6 @@ malla	sng	malla
 í	ao	í
 hálftíma	nkeo	hálftími
 .	.	.
-
 Leggið	sbg2fn	leggja
 brauðsneiðarnar	nvfog	brauðsneið
 á	ao	á
@@ -2114,7 +1925,6 @@ brauðsneiðarnar	nvfog	brauðsneið
 djúpa	lkfosf	djúpur
 diska	nkfo	diskur
 .	.	.
-
 Nú	aa	nú
 sjóðið	sfg2fn	sjóða
 þið	fp2fn	þú
@@ -2122,7 +1932,6 @@ eggin	nhfog	egg
 í	aþ	í
 víninu	nheþg	vín
 .	.	.
-
 Brjótið	sbg2fn	brjóta
 skurnina	nveog	skurn
 ,	,	,
@@ -2139,19 +1948,16 @@ eitt	tfheo	einn
 í	aþ	í
 einu	lheþsf	einn
 .	.	.
-
 Sjóðið	sbg2fn	sjóða
 í	ao	í
 3	ta	3
 mín.	as	mín.
-
 Setjið	sbg2fn	setja
 þau	fphfo	það
 á	ao	á
 ristaða	lheovf	ristaður
 brauðið	nheog	brauð
 .	.	.
-
 Nuddið	sbg2fn	nudda
 saman	aa	saman
 hveitinu	nheþg	hveiti
@@ -2163,7 +1969,6 @@ blandið	sbg2fn	blanda
 í	ao	í
 vínið	nheog	vín
 .	.	.
-
 Hrærið	sbg2fn	hræra
 vel	aa	vel
 á	aa	á
@@ -2172,7 +1977,6 @@ að	c	að
 sósan	nveng	sósa
 þykknar	sfg3en	þykkna
 .	.	.
-
 Síið	sbg2fn	sía
 sósuna	nveog	sósa
 og	c	og
@@ -2181,11 +1985,9 @@ henni	fpveþ	hún
 yfir	ao	yfir
 eggin	nhfog	egg
 .	.	.
-
 Borðið	sbg2fn	borða
 strax	aa	strax
 .	.	.
-
 Með	aþ	með
 þessum	fakeþ	þessi
 rétti	nkeþ	réttur
@@ -2199,24 +2001,19 @@ var	sfg3eþ	vera
 í	ao	í
 sósuna	nveog	sósa
 .	.	.
-
 Það	fphen	það
 má	sfg3en	mega
 gjarnan	aa	gjarnan
 vera	sng	vera
 Beaujolais	e	Beaujolais
 .	.	.
-
 Ostabollur	nvfn	ostabolla
 frá	aþ	frá
 Búrgúnd	nxeþ-s	Búrgúnd
-
 Gougères	e	Gougères
 bourguignonnes	e	bourguignonnes
-
 Fyrir	ao	fyrir
 6	ta	6
-
 Undirbúningur	nken	undirbúningur
 30	ta	30
 mín	x	mín.
@@ -2224,7 +2021,6 @@ mín	x	mín.
 bakstur	nken	bakstur
 30	ta	30
 mín.	as	mín.
-
 Vatnsdeig	nhen	vatnsdeig
 :	:	:
 125	ta	125
@@ -2260,7 +2056,6 @@ gruyère	e	gruyère
 ,	,	,
 pipar	nken	pipar
 .	.	.
-
 Hitið	sbg2fn	hita
 vatnið	nheog	vatn
 í	aþ	í
@@ -2268,7 +2063,6 @@ potti	nkeþ	pottur
 með	aþ	með
 smjörinu	nheþg	smjör
 .	.	.
-
 Þegar	c	þegar
 smjörið	nheng	smjör
 er	sfg3en	vera
@@ -2282,7 +2076,6 @@ hveitið	nheog	hveiti
 í	aþ	í
 einu	lheþsf	einn
 .	.	.
-
 Hrærið	sbg2fn	hræra
 með	aþ	með
 sleif	nveþ	sleif
@@ -2292,7 +2085,6 @@ að	c	að
 deigið	nheng	deig
 þykknar	sfg3en	þykkna
 .	.	.
-
 Þegar	c	þegar
 það	fphen	það
 er	sfg3en	vera
@@ -2309,7 +2101,6 @@ hann	fpkeo	hann
 af	aþ	af
 plötunni	nveþg	plata
 .	.	.
-
 Setjið	sbg2fn	setja
 eggin	nhfog	egg
 út	aa	út
@@ -2321,14 +2112,12 @@ eitt	tfheo	einn
 í	aþ	í
 einu	lheþsf	einn
 .	.	.
-
 Hrærið	sbg2fn	hræra
 vel	aa	vel
 í	aa	í
 á	aa	á
 meðan	aa	meðan
 .	.	.
-
 Bætið	sbg2fn	bæta
 rifna	lkeþvf	rifinn
 ostinum	nkeþg	ostur
@@ -2338,18 +2127,15 @@ ostinum	nkeþg	ostur
 hrærið	sbg2fn	hræra
 vel	aa	vel
 .	.	.
-
 Hitið	sbg2fn	hita
 ofninn	nkeog	ofn
 í	ao	í
 175	ta	175
 °	°	°
 .	.	.
-
 Smyrjið	sbg2fn	smyrja
 ofnplötu	nveo	ofnplata
 .	.	.
-
 Mótið	sbg2fn	móta
 hringlaga	lveoof	hringlaga
 bolluköku	nveo	bollakaka
@@ -2368,7 +2154,6 @@ hlið	nveo	hlið
 í	ao	í
 hring	nkeo	hringur
 .	.	.
-
 Hæflegt	lhensf	hæfilegur
 er	sfg3en	vera
 að	cn	að
@@ -2377,14 +2162,12 @@ til	aa	til
 12	ta	12
 bollur	nvfo	bolla
 .	.	.
-
 Þær	fpvfn	hún
 límast	sfm3fn	líma
 saman	aa	saman
 við	ao	við
 bakstur	nkeo	bakstur
 .	.	.
-
 Stingið	sbg2fn	stinga
 litlu	lkfþvf	lítill
 ostbitunum	nkfþg	ostbiti
@@ -2392,18 +2175,15 @@ inn	aa	inn
 í	ao	í
 bollurnar	nvfog	bolla
 .	.	.
-
 Bakið	sbg2fn	baka
 í	ao	í
 hálftíma	nkeo	hálftími
 .	.	.
-
 Borðið	sbg2fn	borða
 heitt	lheosf	heitur
 með	aþ	með
 blaðsalati	nheþ	blaðsalat
 .	.	.
-
 Gott	lhensf	góður
 er	sfg3en	vera
 að	cn	að
@@ -2415,23 +2195,18 @@ skinku	nveo	skinka
 með	aþ	með
 bollunum	nkfþg	bolli
 .	.	.
-
 Kotasæla	nven	kotasæla
 að	aþ	að
 hætti	nkeþ	háttur
 Lyonbúa	nkfe-s	Lyonbúi
-
 Cervelle	e	Cervelle
 de	e	de
 canut	e	canut
-
 Fyrir	ao	fyrir
 4	ta	4
-
 Undirbúningur	nken	undirbúningur
 10	ta	10
 mín.	as	mín.
-
 250	ta	250
 g	as	g
 kotasæla	nven	kotasæla
@@ -2466,7 +2241,6 @@ vill	sfg3en	vilja
 ,	,	,
 pipar	nken	pipar
 .	.	.
-
 Saxið	sbg2fn	saxa
 hvítlaukinn	nkeog	hvítlaukur
 ,	,	,
@@ -2474,13 +2248,11 @@ hrærið	sbg2fn	hræra
 öllu	foheþ	allur
 saman	aa	saman
 .	.	.
-
 Setjið	sbg2fn	setja
 í	ao	í
 4	ta	4
 skálar	nvfo	skál
 .	.	.
-
 Berið	sbg2fn	bera
 fram	aa	fram
 kalt	lheosf	kaldur
@@ -2490,7 +2262,6 @@ ristuðu	lheþsf	ristaður
 grófu	lheþsf	grófur
 brauði	nheþ	brauð
 .	.	.
-
 Kartöflukaka	nven	kartöflukaka
 með	aþ	með
 beikoni	nheþ	beikon
@@ -2500,12 +2271,9 @@ sveskjum	nvfþ	sveskja
 perum	nvfþ	pera
 og	c	og
 rúsínum	nvfþ	rúsína
-
 Farçon	e	Farçon
-
 Fyrir	ao	fyrir
 6	ta	6
-
 Undirbúningur	nken	undirbúningur
 20	ta	20
 mín	x	mín.
@@ -2514,7 +2282,6 @@ bakstur	nken	bakstur
 1	ta	1
 1	ta	1
 klst.	as	klst.
-
 1	ta	1
 kg	as	kg
 kartöflur	nvfn	kartafla
@@ -2556,7 +2323,6 @@ salt	nhen	salt
 og	c	og
 pipar	nken	pipar
 .	.	.
-
 Afhýðið	sbg2fn	afhýða
 laukinn	nkeog	laukur
 ,	,	,
@@ -2569,7 +2335,6 @@ rólega	aa	rólega
 í	aþ	í
 olíunni	nveþg	olía
 .	.	.
-
 Takið	sbg2fn	taka
 hann	fpkeo	hann
 af	aa	af
@@ -2577,7 +2342,6 @@ af	aa	af
 steikið	sbg2fn	steikja
 beikonið	nheog	beikon
 .	.	.
-
 Afhýðið	sbg2fn	afhýða
 kartöflurnar	nvfog	kartafla
 ,	,	,
@@ -2587,16 +2351,13 @@ setjið	sbg2fn	setja
 vatn	nheo	vatn
 jafnóðum	aa	jafnóðum
 .	.	.
-
 Þurrkið	sbg2fn	þurrka
 þær	fpvfo	hún
 .	.	.
-
 Rífið	sbg2fn	rífa
 með	aþ	með
 rifjárni	nheþ	rifjárn
 .	.	.
-
 Blandið	sbg2fn	blanda
 saman	aa	saman
 í	aþ	í
@@ -2620,7 +2381,6 @@ rúsínunum	nvfþg	rúsína
 og	c	og
 rjómanum	nkeþg	rjómi
 .	.	.
-
 Þeytið	sbg2fn	þeyta
 eggin	nhfog	egg
 og	c	og
@@ -2629,17 +2389,14 @@ hrærið	sbg2fn	hræra
 saman	aa	saman
 við	aa	við
 .	.	.
-
 Kryddið	sbg2fn	krydda
 .	.	.
-
 Hitið	sbg2fn	hita
 ofninn	nkeog	ofn
 í	ao	í
 175	ta	175
 °	°	°
 .	.	.
-
 Setjið	sbg2fn	setja
 fat	nheo	fat
 með	aþ	með
@@ -2648,11 +2405,9 @@ vatni	nheþ	vatn
 í	ao	í
 ofninn	nkeog	ofn
 .	.	.
-
 Smyrjið	sbg2fn	smyrja
 jólakökuform	nheo	jólakökuform
 .	.	.
-
 Þekjið	sbg2fn	þekja
 botninn	nkeog	botn
 með	aþ	með
@@ -2663,7 +2418,6 @@ svo	aa	svo
 deigið	nheog	deig
 yfir	aa	yfir
 .	.	.
-
 Bakið	sbg2fn	baka
 í	aþ	í
 vatnsbaðinu	nheþg	vatnsbað
@@ -2671,18 +2425,15 @@ vatnsbaðinu	nheþg	vatnsbað
 1	ta	1
 1/2	ta	1/2
 klst.	as	klst.
-
 Skerið	sbg2fn	skera
 í	ao	í
 sneiðar	nvfo	sneið
 .	.	.
-
 Borðið	sbg2fn	borða
 heitt	lheosf	heitur
 með	aþ	með
 blaðsalati	nheþ	blaðsalat
 .	.	.
-
 Þessi	faken	þessi
 réttur	nken	réttur
 er	sfg3en	vera
@@ -2696,7 +2447,6 @@ eftir	ao	eftir
 erfiðan	lkeosf	erfiður
 skíðadag	nkeo	skíðadagur
 .	.	.
-
 Þið	fp2fn	þú
 skuluð	sfg2fn	skulu
 prófa	sng	prófa
@@ -2706,19 +2456,15 @@ frá	aþ	frá
 með	aþ	með
 honum	fpkeþ	hann
 .	.	.
-
 Kanína	nven	kanína
 í	aþ	í
 sinnepssósu	nveþ	sinnepssósa
-
 Lapin	e	Lapin
 à	e	à
 la	e	la
 dijonnaise	e	dijonnaise
-
 Fyrir	ao	fyrir
 6	ta	6
-
 Undirbúningur	nken	undirbúningur
 20	ta	20
 mín	x	mín.
@@ -2726,7 +2472,6 @@ mín	x	mín.
 suða	nven	suða
 45	ta	45
 mín.	as	mín.
-
 1	ta	1
 kanína	nven	kanína
 ,	,	,
@@ -2762,31 +2507,26 @@ pipar	nken	pipar
 ,	,	,
 steinselja	nven	steinselja
 .	.	.
-
 Skerið	sbg2fn	skera
 kanínuna	nveog	kanína
 í	ao	í
 bita	nkfo	biti
 .	.	.
-
 Hitið	sbg2fn	hita
 olíuna	nveog	olía
 í	aþ	í
 þykkum	lkeþsf	þykkur
 leirpotti	nkeþ	leirpottur
 .	.	.
-
 Steikið	sbg2fn	steikja
 kjötið	nheog	kjöt
 við	ao	við
 góðan	lkeosf	góður
 hita	nkeo	hiti
 .	.	.
-
 Minnkið	sbg2fn	minnka
 hitann	nkeog	hiti
 .	.	.
-
 Setjið	sbg2fn	setja
 sinnepið	nheog	sinnep
 ,	,	,
@@ -2798,7 +2538,6 @@ pipar	nkeo	pipar
 út	aa	út
 í	aa	í
 .	.	.
-
 Varið	sbg2fn	vara
 ykkur	fp2fo	þú
 ,	,	,
@@ -2806,7 +2545,6 @@ sinnepið	nheng	sinnep
 er	sfg3en	vera
 salt	lhensf	saltur
 .	.	.
-
 Látið	sbg2fn	láta
 malla	sng	malla
 mjög	aa	mjög
@@ -2815,7 +2553,6 @@ rólega	aa	rólega
 45	ta	45
 mínútur	nvfo	mínúta
 .	.	.
-
 Setjið	sbg2fn	setja
 rjómann	nkeog	rjómi
 og	c	og
@@ -2824,10 +2561,8 @@ steinseljuna	nveog	steinselja
 í	ao	í
 pottinn	nkeog	pottur
 .	.	.
-
 Smakkið	sbg2fn	smakka
 .	.	.
-
 Berið	sbg2fn	bera
 kjötið	nheog	kjöt
 fram	aa	fram
@@ -2838,7 +2573,6 @@ með	aþ	með
 soðnum	lvfþsf	soðinn
 kartöflum	nvfþ	kartafla
 .	.	.
-
 Með	aþ	með
 þessu	faheþ	þessi
 getið	sfg2fn	geta
@@ -2848,7 +2582,6 @@ afganginn	nkeog	afgangur
 af	aþ	af
 hvítvíninu	nheþg	hvítvín
 .	.	.
-
 Venja	nven	venja
 er	sfg3en	vera
 þó	aa	þó
@@ -2860,17 +2593,13 @@ rauðvín	nheo	rauðvín
 t.d.	as	t.d.
 Brouilly	e	Brouilly
 .	.	.
-
 Nautasmásteik	nven	nautasmásteik
 í	aþ	í
 vínsósu	nveþ	vínsósa
-
 Bæuf	e	Bæuf
 bourguignon	e	bourguignon
-
 Fyrir	ao	fyrir
 6	ta	6
-
 Undirbúningur	nken	undirbúningur
 30	ta	30
 mín	x	mín.
@@ -2882,7 +2611,6 @@ suða	nven	suða
 1-2	ta	1-2
 tímar	nkfn	tími
 .	.	.
-
 1,500	ta	1,500
 kg	as	kg
 nautasmásteik	nven	nautasmásteik
@@ -2911,7 +2639,6 @@ salt	nhen	salt
 ,	,	,
 pipar	nken	pipar
 .	.	.
-
 Í	ao	í
 kryddlöginn	nkeog	kryddlögur
 þarf	sfg3en	þurfa
@@ -2948,7 +2675,6 @@ timjan	nheo	timjan
 ,	,	,
 steinselju	nveo	steinselja
 .	.	.
-
 Daginn	nkeog	dagur
 fyrir	ao	fyrir
 máltíðina	nveog	máltíð
@@ -2961,14 +2687,12 @@ með	aþ	með
 öllu	foheþ	allur
 tilheyrandi	lheþof	tilheyrandi
 .	.	.
-
 Grænmetið	nheng	grænmeti
 er	sfg3en	vera
 skorið	sþghen	skera
 í	ao	í
 sneiðar	nvfo	sneið
 .	.	.
-
 Geymið	sbg2fn	geyma
 í	aþ	í
 kæli	nkeþ	kælir
@@ -2976,11 +2700,9 @@ kæli	nkeþ	kælir
 lokuðu	lheþsf	lokaður
 íláti	nheþ	ílát
 .	.	.
-
 Þerrið	sbg2fn	þerra
 kjötið	nheog	kjöt
 .	.	.
-
 Steikið	sbg2fn	steikja
 í	aþ	í
 olíu	nveþ	olía
@@ -2990,7 +2712,6 @@ hita	nkeo	hiti
 í	aþ	í
 leirpotti	nkeþ	leirpottur
 .	.	.
-
 Hellið	sbg2fn	hella
 kryddleginum	nkeþg	kryddlögur
 í	aa	í
@@ -3002,14 +2723,12 @@ yfir	aa	yfir
 hrærið	sbg2fn	hræra
 í	aa	í
 .	.	.
-
 Látið	sbg2fn	láta
 malla	sng	malla
 í	ao	í
 1-2	ta	1-2
 tíma	nkfo	tími
 .	.	.
-
 Kjötið	nheng	kjöt
 á	sfg3en	eiga
 að	cn	að
@@ -3022,7 +2741,6 @@ ekki	aa	ekki
 í	aþ	í
 kássu	nveþ	kássa
 .	.	.
-
 Á	aa	á
 meðan	aa	meðan
 þvoið	sfg2fn	þvo
@@ -3031,7 +2749,6 @@ sveppina	nkfog	sveppur
 og	c	og
 vorlaukinn	nkeog	vorlaukur
 .	.	.
-
 Steikið	sbg2fn	steikja
 sveppina	nkfog	sveppur
 við	ao	við
@@ -3056,7 +2773,6 @@ við	ao	við
 vægan	lkeosf	vægur
 hita	nkeo	hiti
 .	.	.
-
 Skerið	sbg2fn	skera
 fleskið	nheog	flesk
 í	ao	í
@@ -3068,7 +2784,6 @@ setjið	sbg2fn	setja
 pönnuna	nveog	panna
 líka	aa	líka
 .	.	.
-
 Látið	sbg2fn	láta
 þetta	faheo	þessi
 allt	foheo	allur
@@ -3082,7 +2797,6 @@ kjötið	nheng	kjöt
 er	sfg3en	vera
 tilbúið	lhensf	tilbúinn
 .	.	.
-
 Berið	sbg2fn	bera
 fram	aa	fram
 í	aþ	í
@@ -3093,7 +2807,6 @@ kartöflum	nvfþ	kartafla
 og	c	og
 steinselju	nveþ	steinselja
 .	.	.
-
 Með	aþ	með
 þessu	faheþ	þessi
 berið	sfg2fn	bera
@@ -3105,7 +2818,6 @@ rauðvín	nheo	rauðvín
 t.d.	as	t.d.
 Morgon	e	Morgon
 .	.	.
-
 Í	aþ	í
 Frakklandi	nheþ-s	Frakkland
 eru	sfg3fn	vera
@@ -3115,14 +2827,12 @@ notaðir	sþgkfn	nota
 í	aþ	í
 pottrétti	nkeþ	pottréttur
 .	.	.
-
 Þeir	fpkfn	hann
 þurfa	sfg3fn	þurfa
 3-4	ta	3-4
 tíma	nkfe	tími
 suðu	nveo	suða
 .	.	.
-
 Rétturinn	nkeng	réttur
 verður	sfg3en	verða
 enn	aa	enn
@@ -3133,18 +2843,14 @@ sýður	sfg3en	sjóða
 svona	aa	svona
 lengi	aa	lengi
 .	.	.
-
 Hani	nken	hani
 í	aþ	í
 vínsósu	nveþ	vínsósa
-
 Coq	e	Coq
 au	e	au
 vin	e	vin
-
 Fyrir	ao	fyrir
 8	ta	8
-
 Undirbúningur	nken	undirbúningur
 45	ta	45
 mín	x	mín.
@@ -3155,7 +2861,6 @@ sólarhringur	nken	sólarhringur
 suða	nven	suða
 1-2	ta	1-2
 klst.	as	klst.
-
 Hani	nken	hani
 ,	,	,
 2	ta	2
@@ -3214,7 +2919,6 @@ lárviðarlauf	nhfo	lárviðarlauf
 ,	,	,
 timjan	nheo	timjan
 .	.	.
-
 Daginn	nkeog	dagur
 fyrir	ao	fyrir
 veisluna	nveog	veisla
@@ -3224,7 +2928,6 @@ hanann	nkeog	hani
 í	ao	í
 kryddlöginn	nkeog	kryddlögur
 .	.	.
-
 Skerið	sbg2fn	skera
 hann	fpkeo	hann
 fyrst	aae	fyrr
@@ -3237,7 +2940,6 @@ setjið	sbg2fn	setja
 stórt	lheosf	stór
 ílát	nheo	ílát
 .	.	.
-
 Afhýðið	sbg2fn	afhýða
 og	c	og
 þvoið	sbg2fn	þvo
@@ -3259,16 +2961,13 @@ pipar	nkeþ	pipar
 og	c	og
 víni	nheþ	vín
 .	.	.
-
 Geymið	sbg2fn	geyma
 í	aþ	í
 kæli	nkeþ	kælir
 .	.	.
-
 Þerrið	sbg2fn	þerra
 kjötið	nheog	kjöt
 .	.	.
-
 Steikið	sbg2fn	steikja
 á	aþ	á
 heitri	lveþsf	heitur
@@ -3279,7 +2978,6 @@ setjið	sbg2fn	setja
 stóran	lkeosf	stór
 leirpott	nkeo	leirpottur
 .	.	.
-
 Látið	sbg2fn	láta
 kryddlöginn	nkeog	kryddlögur
 saman	aa	saman
@@ -3287,7 +2985,6 @@ við	aa	við
 ,	,	,
 saltið	sfg2fn	salta
 .	.	.
-
 Látið	sbg2fn	láta
 malla	sng	malla
 í	ao	í
@@ -3309,7 +3006,6 @@ eruð	sfg2fn	vera
 með	ao	með
 hana	nkeo	hani
 .	.	.
-
 Kjötið	nheng	kjöt
 á	sfg3en	eiga
 að	cn	að
@@ -3320,7 +3016,6 @@ ekki	aa	ekki
 í	aþ	í
 kássu	nveþ	kássa
 .	.	.
-
 Á	aa	á
 meðan	aa	meðan
 afhýðið	sfg2fn	afhýða
@@ -3331,7 +3026,6 @@ sveppina	nkfog	sveppur
 og	c	og
 vorlaukinn	nkeog	vorlaukur
 .	.	.
-
 Skerið	sbg2fn	skera
 sveppina	nkfog	sveppur
 í	ao	í
@@ -3344,12 +3038,10 @@ við	ao	við
 góðan	lkeosf	góður
 hita	nkeo	hiti
 .	.	.
-
 Takið	sbg2fn	taka
 þá	fpkfo	hann
 af	aa	af
 .	.	.
-
 Steikið	sbg2fn	steikja
 laukinn	nkeog	laukur
 í	aþ	í
@@ -3358,17 +3050,14 @@ við	ao	við
 vægan	lkeosf	vægur
 hita	nkeo	hiti
 .	.	.
-
 Takið	sbg2fn	taka
 af	aa	af
 .	.	.
-
 Skerið	sbg2fn	skera
 fleskið	nheog	flesk
 í	ao	í
 bita	nkfo	biti
 .	.	.
-
 Steikið	sbg2fn	steikja
 í	aþ	í
 smjöri	nheþ	smjör
@@ -3376,7 +3065,6 @@ við	ao	við
 vægan	lkeosf	vægur
 hita	nkeo	hiti
 .	.	.
-
 Setjið	sbg2fn	setja
 þetta	faheo	þessi
 allt	foheo	allur
@@ -3393,14 +3081,12 @@ pottinn	nkeog	pottur
 af	aþ	af
 plötunni	nveþg	plata
 .	.	.
-
 Stráið	sbg2fn	strá
 saxaðri	lveþsf	saxaður
 steinselju	nveþ	steinselja
 yfir	ao	yfir
 kjötið	nheog	kjöt
 .	.	.
-
 Berið	sbg2fn	bera
 fram	aa	fram
 í	aþ	í
@@ -3409,7 +3095,6 @@ með	aþ	með
 soðnum	lvfþsf	soðinn
 kartöflum	nvfþ	kartafla
 .	.	.
-
 Með	aþ	með
 þessu	faheþ	þessi
 er	sfg3en	vera
@@ -3421,7 +3106,6 @@ rauðvín	nhen	rauðvín
 t.d.	as	t.d.
 Macon	e	Macon
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 siður	nken	siður
@@ -3435,18 +3119,14 @@ og	c	og
 við	ao	við
 borðið	nheog	borð
 .	.	.
-
 Kjúklingur	nken	kjúklingur
 í	aþ	í
 ediki	nheþ	edik
-
 Poulet	e	Poulet
 au	e	au
 vinaigre	e	vinaigre
-
 Fyrir	ao	fyrir
 4	ta	4
-
 Undirbúningur	nken	undirbúningur
 15	ta	15
 mín	x	mín.
@@ -3454,7 +3134,6 @@ mín	x	mín.
 suða	nven	suða
 30	ta	30
 mín.	as	mín.
-
 1	ta	1
 kjúklingur	nken	kjúklingur
 í	aþ	í
@@ -3484,18 +3163,15 @@ salt	nhen	salt
 og	c	og
 pipar	nken	pipar
 .	.	.
-
 Hitið	sbg2fn	hita
 olíuna	nveog	olía
 í	aþ	í
 þykkum	lkeþsf	þykkur
 leirpotti	nkeþ	leirpottur
 .	.	.
-
 Steikið	sbg2fn	steikja
 kjúklinginn	nkeog	kjúklingur
 .	.	.
-
 Setjið	sbg2fn	setja
 1	ta	1
 dl	as	dl
@@ -3507,7 +3183,6 @@ pipar	nkeo	pipar
 út	aa	út
 í	aa	í
 .	.	.
-
 Lokið	sbg2fn	loka
 pottinum	nkeþg	pottur
 ,	,	,
@@ -3516,14 +3191,12 @@ malla	sng	malla
 í	ao	í
 hálftíma	nkeo	hálftími
 .	.	.
-
 Látið	sbg2fn	láta
 kjúklinginn	nkeog	kjúklingur
 á	ao	á
 heitt	lheosf	heitur
 fat	nheo	fat
 .	.	.
-
 Hellið	sbg2fn	hella
 afganginum	nkeþg	afgangur
 af	aþ	af
@@ -3544,7 +3217,6 @@ kraftinum	nkeþg	kraftur
 af	aþ	af
 kjötinu	nheþg	kjöt
 .	.	.
-
 Núið	sbg2fn	núa
 saman	aa	saman
 smjörinu	nheþg	smjör
@@ -3556,13 +3228,11 @@ setjið	sbg2fn	setja
 í	ao	í
 pottinn	nkeog	pottur
 .	.	.
-
 Látið	sbg2fn	láta
 suðuna	nveog	suða
 koma	sng	koma
 upp	aa	upp
 .	.	.
-
 Hrærið	sbg2fn	hræra
 vel	aa	vel
 á	aa	á
@@ -3570,20 +3240,16 @@ meðan	c	meðan
 sósan	nveng	sósa
 þykknar	sfg3en	þykkna
 .	.	.
-
 Smakkið	sbg2fn	smakka
 .	.	.
-
 Hellið	sbg2fn	hella
 sósunni	nveþg	sósa
 yfir	ao	yfir
 kjúklinginn	nkeog	kjúklingur
 .	.	.
-
 Borðið	sbg2fn	borða
 heitt	lheosf	heitur
 .	.	.
-
 Allt	fohen	allur
 nýtt	lhensf	nýr
 grænmeti	nhen	grænmeti
@@ -3592,7 +3258,6 @@ vel	aa	vel
 við	ao	við
 kjúklinginn	nkeog	kjúklingur
 .	.	.
-
 Með	aþ	með
 þessum	fakeþ	þessi
 rétti	nkeþ	réttur
@@ -3607,16 +3272,12 @@ Búrgúnd	nxeþ-s	Búrgúnd
 t.d.	as	t.d.
 Volnay	e	Volnay
 .	.	.
-
 Bláberjaterta	nven	bláberjaterta
-
 Tarte	e	Tarte
 aux	e	aux
 myrtilles	e	myrtilles
-
 Fyrir	ao	fyrir
 6-8	ta	6-8
-
 Undirbúningur	nken	undirbúningur
 20	ta	20
 mín	x	mín.
@@ -3628,7 +3289,6 @@ klst	as	klst
 bakstur	nken	bakstur
 20	ta	20
 mín.	as	mín.
-
 Tertudeig	nhen	tertudeig
 :	:	:
 200	ta	200
@@ -3649,7 +3309,6 @@ stofuhita	nkeo	stofuhiti
 2	ta	2
 eggjarauður	nvfn	eggjarauða
 .	.	.
-
 Ása	nven-s	Ása
 var	sfg3eþ	vera
 orðin	sþgven	verða
@@ -3660,13 +3319,11 @@ Hann	fpken	hann
 hreyfist	sfm3en	hreyfa
 ekki	aa	ekki
 .	.	.
-
 Denni	nken-s	Denni
 ,	,	,
 svaraðu	sbg2en	svara
 mér	fp1eþ	ég
 ...	...	...
-
 »	»	»
 Denni	nken-s	Denni
 svaraði	sfg3eþ	svara
@@ -3692,20 +3349,17 @@ inn	aa	inn
 í	ao	í
 göngin	nhfog	göng
 .	.	.
-
 Þá	aa	þá
 heyrðust	sfm3fþ	heyra
 niðurbæld	lhfnsf	niðurbældur
 köll	nhfn	kall
 Denna	nkee-s	Denni
 .	.	.
-
 Gunni	nken-s	Gunni
 áttaði	sfg3eþ	átta
 sig	fpkeo	sig
 fyrstur	lkense	fyrstur
 .	.	.
-
 «	«	«
 Heyrið	sbg2fn	heyra
 mig	fp1eo	ég
@@ -3717,7 +3371,6 @@ verið	ssg	vera
 eðlilegt	lhensf	eðlilegur
 .	.	.
 »	»	»
-
 Hann	fpken	hann
 togaði	sfg3eþ	toga
 í	ao	í
@@ -3727,7 +3380,6 @@ hann	fpken	hann
 bifaðist	sfm3eþ	bifa
 ekki	aa	ekki
 .	.	.
-
 «	«	«
 Ó	au	ó
 -hann	fpken	hann
@@ -3743,7 +3395,6 @@ björg	nveo	björg
 sér	fpkeþ	sig
 veitt	ssg	veita
 .	.	.
-
 Hjálpið	sbg2fn	hjálpa
 mér	fp1eþ	ég
 að	cn	að
@@ -3751,19 +3402,16 @@ toga	sng	toga
 í	ao	í
 hann	fpkeo	hann
 .	.	.
-
 Hann	fpken	hann
 gæti	svg3eþ	geta
 kafnað	ssg	kafna
 .	.	.
-
 Já	au	já
 ,	,	,
 flýtið	sfg2fn	flýta
 ykkur	fp2fþ	þú
 !	!	!
 »	»	»
-
 Nína	nven-s	Nína
 greip	sfg3eþ	grípa
 einnig	aa	einnig
@@ -3779,13 +3427,11 @@ af	aþ	af
 öllu	foheþ	allur
 afli	nheþ	afl
 .	.	.
-
 En	c	en
 ekkert	fohen	enginn
 virtist	sfm3eþ	virða
 ganga	sng	ganga
 .	.	.
-
 Nú	aa	nú
 spriklaði	sfg3eþ	sprikla
 Denni	nken-s	Denni
@@ -3801,7 +3447,6 @@ fjarlæg	lhfnsf	fjarlægur
 -	-	-
 óhugnanleg	lhfnsf	óhugnanlegur
 .	.	.
-
 Síðan	aa	síðan
 var	sfg3eþ	vera
 eins	aa	eins
@@ -3809,7 +3454,6 @@ og	c	og
 stífla	nven	stífla
 brysti	svg3eþ	bresta
 .	.	.
-
 Hann	fpken	hann
 losnaði	sfg3eþ	losna
 og	c	og
@@ -3821,11 +3465,9 @@ upp	aa	upp
 á	ao	á
 yfirborðið	nheog	yfirborð
 .	.	.
-
 «	«	«
 Djö	au	djö
 ...	...	...
-
 loksins	aa	loksins
 -	-	-
 hvað	fsheo	hver
@@ -3834,7 +3476,6 @@ voruð	sfg2fþ	vera
 að	cn	að
 hugsa	sng	hugsa
 .	.	.
-
 Ég	fp1en	ég
 var	sfg1eþ	vera
 að	cn	að
@@ -3844,7 +3485,6 @@ kafna	sng	kafna
 skítabæli	nheþ	skítabæli
 .	.	.
 »	»	»
-
 Denni	nken-s	Denni
 var	sfg3eþ	vera
 reiður	lkensf	reiður
@@ -3862,7 +3502,6 @@ og	c	og
 jafnaði	sfg3eþ	jafna
 sig	fpkeo	sig
 .	.	.
-
 Hann	fpken	hann
 þurrkaði	sfg3eþ	þurrka
 skítinn	nkeog	skítur
@@ -3877,11 +3516,9 @@ hrósandi	slg	hrósa
 á	ao	á
 krakkana	nkfog	krakki
 .	.	.
-
 «	«	«
 Tarammm	au	tarammm
 ...	...	...
-
 sjáið	sbg2fn	sjá
 hvað	fsheo	hver
 ég	fp1en	ég
@@ -3889,7 +3526,6 @@ fann	sfg1eþ	finna
 !	!	!
 !	!	!
 »	»	»
-
 Hann	fpken	hann
 reiddi	sfg3eþ	reiða
 fram	aa	fram
@@ -3901,7 +3537,6 @@ og	c	og
 sýndi	sfg3eþ	sýna
 krökkunum	nkfþg	krakki
 .	.	.
-
 Annar	foken	annar
 merkilegur	lkensf	merkilegur
 fundur	nken	fundur
@@ -3909,13 +3544,11 @@ fundur	nken	fundur
 sama	fbkeþ	sami
 degi	nkeþ	dagur
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 draumi	nkeþ	draumur
 líkast	lhense	líkur
 .	.	.
-
 Denni	nken-s	Denni
 lagði	sfg3eþ	leggja
 pjötluna	nveog	pjatla
@@ -3929,14 +3562,12 @@ hana	fpveo	hún
 fyrir	aþ	fyrir
 sér	fpkfþ	sig
 .	.	.
-
 Það	fphen	það
 fór	sfg3eþ	fara
 hrollur	nken	hrollur
 um	ao	um
 Gunna	nkeo-s	Gunni
 ...	...	...
-
 það	fahen	sá
 sem	ct	sem
 Denni	nken-s	Denni
@@ -3945,7 +3576,6 @@ fundið	ssg	finna
 var	sfg3eþ	vera
 óhugnanlegt	lhensf	óhugnanlegur
 .	.	.
-
 Þetta	fahen	þessi
 voru	sfg3fþ	vera
 leifar	nvfn	leif
@@ -3964,7 +3594,6 @@ leifum	nvfþ	leif
 af	aþ	af
 hanska	nkeþ	hanski
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 kannski	aa	kannski
@@ -3982,7 +3611,6 @@ holt	lhensf	holur
 að	cn	að
 sjá	sng	sjá
 ...	...	...
-
 líkt	aa	líkt
 og	c	og
 bein	nhen	bein
@@ -3992,21 +3620,18 @@ GULNAÐ	lhensf	gulnaður
 BEIN	nhen	bein
 ...	...	...
 !	!	!
-
 Denni	nken-s	Denni
 virti	sfg3eþ	virða
 krakkana	nkfog	krakki
 fyrir	aþ	fyrir
 sér	fpkeþ	sig
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 leyndardómsfullur	lkensf	leyndardómsfullur
 á	ao	á
 svip	nkeo	svipur
 .	.	.
-
 «	«	«
 Já	au	já
 ,	,	,
@@ -4017,7 +3642,6 @@ mínir	fekfn	minn
 er	sfg3en	vera
 bein	nhen	bein
 .	.	.
-
 Kjúka	nven	kjúka
 -	-	-
 fremst	aae	framar
@@ -4030,12 +3654,10 @@ neitt	fohen	neinn
 annað	fohen	annar
 en	c	en
 ...	...	...
-
 MANNABEIN	nhen	mannabein
 !	!	!
 !	!	!
 »	»	»
-
 Krökkunum	nkfþg	krakki
 rann	sfg3eþ	renna
 kalt	lhensf	kaldur
@@ -4046,7 +3668,6 @@ skinns	nhee	skinn
 og	c	og
 hörunds	nhee	hörund
 .	.	.
-
 -	-	-
 -	-	-
 Það	fphen	það
@@ -4058,13 +3679,11 @@ og	c	og
 kólnaði	sfg3eþ	kólna
 ört	aa	ört
 .	.	.
-
 Denni	nken-s	Denni
 hafði	sfg3eþ	hafa
 kastað	ssg	kasta
 mæðinni	nveþg	mæði
 .	.	.
-
 «	«	«
 Ég	fp1en	ég
 held	sfg1en	halda
@@ -4076,27 +3695,23 @@ meira	lheovm	mikill
 þarna	aa	þarna
 .	.	.
 »	»	»
-
 «	«	«
 Ég	fp1en	ég
 kom	sfg1eþ	koma
 við	ao	við
 það	fpheo	það
 ...	...	...
-
 og	c	og
 mér	fp1eþ	ég
 brá	sfg3eþ	bregða
 hrikalega	aa	hrikalega
 .	.	.
 »	»	»
-
 Nú	aa	nú
 réði	sfg3eþ	ráða
 Denni	nken-s	Denni
 ferðinni	nveþg	ferð
 .	.	.
-
 Hin	fahfn	hinn
 voru	sfg3fþ	vera
 öll	fohfn	allur
@@ -4104,7 +3719,6 @@ augu	nhfn	auga
 og	c	og
 eyru	nhfn	eyra
 .	.	.
-
 Denni	nken-s	Denni
 lét	sfg3eþ	láta
 það	fpheo	það
@@ -4119,12 +3733,10 @@ ja	au	ja
 -	-	-
 sýndist	sfm3eþ	sýna
 .	.	.
-
 Meira	aam	meira
 en	c	en
 sýndist	sfm3eþ	sýna
 .	.	.
-
 Ég	fp1en	ég
 sá	sfg1eþ	sjá
 móta	sng	móta
@@ -4132,7 +3744,6 @@ fyrir	aþ	fyrir
 fleiri	lhfþvm	margur
 beinum	nhfþ	bein
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 handviss	lkensf	handviss
@@ -4141,53 +3752,44 @@ um	ao	um
 og	c	og
 ...	...	...
 »	»	»
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 fremur	aam	fremur
 andstuttur	lkensf	andstuttur
 .	.	.
-
 -	-	-
 ...	...	...
-
 og	c	og
 ég	fp1en	ég
 sá	sfg1eþ	sjá
 ...	...	...
-
 hauskúpu	nveo	hauskúpa
 sem	ct	sem
 glotti	sfg3eþ	glotta
 við	aþ	við
 mér	fp1eþ	ég
 !	!	!
-
 Svartar	lvfnsf	svartur
 augntóttirnar	nvfng	augntóft
 störðu	sfg3fþ	stara
 á	ao	á
 mig	fp1eo	ég
 !	!	!
-
 Þá	aa	þá
 brá	sfg3eþ	bregða
 mér	fp1eþ	ég
 rosalega	aa	rosalega
 .	.	.
-
 Ég	fp1en	ég
 get	sfg1en	geta
 svarið	ssg	sverja
 það	fpheo	það
 .	.	.
-
 Ég	fp1en	ég
 var	sfg1eþ	vera
 líka	aa	líka
 fastur	lkensf	fastur
 .	.	.
-
 Ég	fp1en	ég
 hélt	sfg1eþ	halda
 að	c	að
@@ -4200,14 +3802,12 @@ mér	fp1eþ	ég
 upp	aa	upp
 .	.	.
 »	»	»
-
 Denni	nken-s	Denni
 bar	sfg3eþ	bera
 sig	fpkeo	sig
 þó	aa	þó
 karlmannlega	aa	karlmannlega
 .	.	.
-
 Krakkarnir	nkfng	krakki
 reyndu	sfg3fþ	reyna
 að	cn	að
@@ -4218,7 +3818,6 @@ sig	fpkfo	sig
 öllu	foheþ	allur
 saman	aa	saman
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 sýnt	sþghen	sýna
@@ -4230,7 +3829,6 @@ lengra	aam	langt
 þennan	fakeo	þessi
 daginn	nkeog	dagur
 .	.	.
-
 «	«	«
 Við	fp1fn	ég
 verðum	sfg1fn	verða
@@ -4240,7 +3838,6 @@ rannsaka	sng	rannsaka
 betur	aam	vel
 .	.	.
 »	»	»
-
 Gunni	nken-s	Gunni
 var	sfg3eþ	vera
 ákveðinn	lkensf	ákveðinn
@@ -4254,20 +3851,17 @@ upphafið	nheng	upphaf
 spennandi	lheþof	spennandi
 verkefni	nheþ	verkefni
 .	.	.
-
 «	«	«
 Klárum	sfg1fn	klára
 þetta	faheo	þessi
 dæmi	nheo	dæmi
 .	.	.
-
 Nú	aa	nú
 tekur	sfg3en	taka
 Setuliðið	nhengs	Setulið
 til	ae	til
 starfa	nhfe	starf
 .	.	.
-
 Við	fp1fn	ég
 verðum	sfg1fn	verða
 að	cn	að
@@ -4279,12 +3873,10 @@ botns	nkee	botn
 máli	nheþ	mál
 .	.	.
 »	»	»
-
 Gunni	nken-s	Gunni
 var	sfg3eþ	vera
 ábúðarfullur	lkensf	ábúðarfullur
 .	.	.
-
 «	«	«
 Stelpur	nvfn	stelpa
 ,	,	,
@@ -4299,7 +3891,6 @@ við	ao	við
 okkur	fp1fo	ég
 .	.	.
 »	»	»
-
 Hann	fpken	hann
 sagði	sfg3eþ	segja
 þeim	favfþ	sá
@@ -4313,7 +3904,6 @@ leynifélaginu	nheþg	leynifélag
 og	c	og
 fóstbræðralaginu	nheþg	fóstbræðralag
 .	.	.
-
 Þær	fpvfn	hún
 voru	sfg3fþ	vera
 sannarlega	aa	sannarlega
@@ -4336,7 +3926,6 @@ engum	fokeþ	enginn
 frá	aþ	frá
 beinafundinum	nkeþg	beinafundur
 .	.	.
-
 Þær	fpvfn	hún
 gerðust	sfm3fþ	gera
 umsvifalaust	aa	umsvifalaust
@@ -4345,7 +3934,6 @@ félagar	nkfn	félagi
 í	aþ	í
 Setuliðinu	nheþgs	Setulið
 .	.	.
-
 Gunni	nken-s	Gunni
 gekk	sfg3eþ	ganga
 frá	aþ	frá
@@ -4358,7 +3946,6 @@ vasa	nkeþ	vasi
 úlpunnar	nveeg	úlpa
 sinnar	fevee	sinn
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 farið	sþghen	fara
@@ -4375,7 +3962,6 @@ og	c	og
 heilmikið	lheosf	heilmikill
 strit	nheo	strit
 .	.	.
-
 -	-	-
 -	-	-
 «	«	«
@@ -4386,7 +3972,6 @@ sjá	sng	sjá
 ykkur	fp2fo	þú
 ?	?	?
 »	»	»
-
 Það	fphen	það
 var	sfg3eþ	vera
 hrjúf	lvensf	hrjúfur
@@ -4400,7 +3985,6 @@ fyrir	ao	fyrir
 aftan	aa	aftan
 krakkana	nkfog	krakki
 .	.	.
-
 «	«	«
 Ósköp	nhfn	ósköp
 eruð	sfg2fn	vera
@@ -4409,7 +3993,6 @@ tætingsleg	lhfnsf	tætingslegur
 greyin	nhfng	grey
 mín	fehfn	minn
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 líkt	aa	líkt
@@ -4421,7 +4004,6 @@ ráðist	ssm	ráða
 að	aþ	að
 ykkur	fp2fþ	þú
 .	.	.
-
 Ívar	nken-s	Ívar
 minn	feken	minn
 -	-	-
@@ -4430,13 +4012,11 @@ ert	sfg2en	vera
 þú	fp2en	þú
 fölur	lkensf	fölur
 .	.	.
-
 Er	sfg3en	vera
 eitthvað	fohen	einhver
 að	aa	að
 ?	?	?
 »	»	»
-
 Milli	nken-s	Milli
 kom	sfg3eþ	koma
 nær	aam	nær
@@ -4449,7 +4029,6 @@ bunað	sþghen	buna
 á	ao	á
 hann	fpkeo	hann
 .	.	.
-
 Krakkarnir	nkfng	krakki
 slepptu	sfg3fþ	sleppa
 því	fpheþ	það
@@ -4458,36 +4037,30 @@ segja	sng	segja
 frá	aþ	frá
 beinaleifunum	nvfþg	beinaleifar
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 þeirra	fpkfe	hann
 leyndarmál	nhen	leyndarmál
 .	.	.
-
 Enga	foveo	enginn
 afskiptasemi	nveo	afskiptasemi
 fullorðinna	lkfesf	fullorðinn
 þar	aa	þar
 .	.	.
-
 Þau	fphfn	það
 sýndu	sfg3fþ	sýna
 Milla	nkeþ-s	Milli
 koffortið	nheog	koffort
 .	.	.
-
 «	«	«
 Ég	fp1en	ég
 er	sfg1en	vera
 orðlaus	lkensf	orðlaus
 ...	...	...
-
 þetta	fahen	þessi
 er	sfg3en	vera
 óvenjulegt	lhensf	óvenjulegur
 .	.	.
-
 Heill	lkensf	heill
 fjársjóður	nken	fjársjóður
 -	-	-
@@ -4495,7 +4068,6 @@ svona	aa	svona
 á	aþ	á
 víðavangi	nkeþ	víðavangur
 .	.	.
-
 Við	fp1fn	ég
 verðum	sfg1fn	verða
 að	cn	að
@@ -4505,7 +4077,6 @@ með	ao	með
 þetta	faheo	þessi
 .	.	.
 »	»	»
-
 Milli	nken-s	Milli
 skoðaði	sfg3eþ	skoða
 skartgripina	nkfog	skartgripur
@@ -4517,7 +4088,6 @@ milli	ae	milli
 handa	nvfe	hönd
 sér	fpkeþ	sig
 .	.	.
-
 «	«	«
 Þetta	fahen	þessi
 er	sfg3en	vera
@@ -4525,7 +4095,6 @@ allt	fohen	allur
 saman	aa	saman
 ekta	lhenof	ekta
 !	!	!
-
 Gull	nhen	gull
 og	c	og
 silfur	nhen	silfur
@@ -4538,7 +4107,6 @@ milli	ae	milli
 mála	nhfe	mál
 .	.	.
 »	»	»
-
 Komið	sbg2fn	koma
 krakkar	nkfn	krakki
 og	c	og
@@ -4554,7 +4122,6 @@ bisa	sng	bisa
 skrjóðinn	nkeog	skrjóður
 .	.	.
 »	»	»
-
 -	-	-
 -	-	-
 Þau	fphfn	það
@@ -4576,7 +4143,6 @@ megin	aa	megin
 á	aþ	á
 holtinu	nheþg	holt
 .	.	.
-
 Milli	nken-s	Milli
 hafði	sfg3eþ	hafa
 gengið	ssg	ganga
@@ -4591,7 +4157,6 @@ tækju	svg3fþ	taka
 eftir	aþ	eftir
 mannaferðum	nvfþ	mannaferð
 .	.	.
-
 Með	aþ	með
 sameiginlegu	lheþsf	sameiginlegur
 átaki	nheþ	átak
@@ -4602,7 +4167,6 @@ inn	aa	inn
 í	ao	í
 jeppann	nkeog	jeppi
 .	.	.
-
 «	«	«
 Ég	fp1en	ég
 ek	sfg1en	aka
@@ -4619,7 +4183,6 @@ fá	sng	fá
 dót	nheo	dót
 .	.	.
 »	»	»
-
 Milli	nken-s	Milli
 var	sfg3eþ	vera
 enn	aa	enn
@@ -4629,12 +4192,10 @@ pípuna	nveog	pípa
 í	ao	í
 munnvikið	nheog	munnvik
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 hugsi	lkenof	hugsi
 .	.	.
-
 «	«	«
 Foreldrar	nkfn	foreldrar
 ykkar	fp2fe	þú
@@ -4644,7 +4205,6 @@ að	cn	að
 hafa	sng	hafa
 áhyggjur	nvfo	áhyggja
 .	.	.
-
 Ása	nven-s	Ása
 ,	,	,
 pabbi	nken	pabbi
@@ -4664,7 +4224,6 @@ bræður	nkfn	bróðir
 góðir	lkfnsf	góður
 .	.	.
 »	»	»
-
 Milli	nken-s	Milli
 átti	sfg3eþ	eiga
 við	ao	við
@@ -4672,7 +4231,6 @@ Gunna	nkeo-s	Gunni
 og	c	og
 Bjössa	nkeo-s	Bjössi
 .	.	.
-
 «	«	«
 Æ-i	au	æ-i
 ,	,	,
@@ -4684,7 +4242,6 @@ með	aa	með
 til	ae	til
 lögreglunnar	nveeg	lögregla
 .	.	.
-
 Við	fp1fn	ég
 verðum	sfg1fn	verða
 að	cn	að
@@ -4696,7 +4253,6 @@ er	sfg3en	vera
 ekki	aa	ekki
 ?	?	?
 »	»	»
-
 «	«	«
 Jú	au	jú
 ,	,	,
@@ -4706,20 +4262,17 @@ má	sfg3en	mega
 gera	sng	gera
 seinna	aam	seint
 .	.	.
-
 Ég	fp1en	ég
 segi	sfg1en	segja
 þeim	fpkfþ	hann
 frá	aþ	frá
 atvikum	nhfþ	atvik
 .	.	.
-
 Drífum	sfg1fn	drífa
 okkur	fp1fo	ég
 nú	aa	nú
 .	.	.
 »	»	»
-
 MiIli	nken-s	Milli
 var	sfg3eþ	vera
 staðfastur	lkensf	staðfastur
@@ -4741,7 +4294,6 @@ góssið	nheog	góss
 á	ao	á
 lögreglustöðina	nveog	lögreglustöð
 .	.	.
-
 -	-	-
 -	-	-
 GARÐAHOLT	nhen-s	Garðaholt
@@ -4758,7 +4310,6 @@ og	c	og
 reyktu	sfg3fþ	reykja
 sígarettur	nvfo	sígaretta
 .	.	.
-
 Báðir	fokfn	báðir
 voru	sfg3fþ	vera
 þeir	fpkfn	hann
@@ -4768,7 +4319,6 @@ heima	aa	heima
 í	aþ	í
 Bretlandi	nheþ-s	Bretland
 .	.	.
-
 Fyrr	aam	fyrr
 um	ao	um
 kvöldið	nheog	kvöld
@@ -4782,7 +4332,6 @@ af	aþ	af
 sínum	fekfþ	sinn
 nánustu	lkfþve	náinn
 .	.	.
-
 Annar	foken	annar
 átti	sfg3eþ	eiga
 kærustu	nveo	kærasta
@@ -4790,7 +4339,6 @@ heima	aa	heima
 í	aþ	í
 Sussex	e	Sussex
 .	.	.
-
 Hinn	faken	hinn
 var	sfg3eþ	vera
 einhleypur	lkensf	einhleypur
@@ -4798,7 +4346,6 @@ einhleypur	lkensf	einhleypur
 frá	aþ	frá
 Leeds	e	Leeds
 .	.	.
-
 Þeir	fpkfn	hann
 höfðu	sfg3fþ	hafa
 gengið	ssg	ganga
@@ -4817,7 +4364,6 @@ tóku	sfg3fþ	taka
 því	fpheþ	það
 rólega	aa	rólega
 .	.	.
-
 Þeir	fpkfn	hann
 voru	sfg3fþ	vera
 sammála	lkfnof	sammála
@@ -4837,7 +4383,6 @@ sínu	feheþ	sinn
 og	c	og
 konungsríkinu	nheþg	konungsríki
 .	.	.
-
 Þeir	fpkfn	hann
 voru	sfg3fþ	vera
 hluti	nken	hluti
@@ -4852,18 +4397,15 @@ að	cn	að
 missa	sng	missa
 völdin	nhfog	vald
 .	.	.
-
 Hundgá	nven	hundgá
 í	aþ	í
 fjarska	nkeþ	fjarski
 .	.	.
-
 Fallegt	lhensf	fallegur
 sólarlag	nhen	sólarlag
 í	aþ	í
 suðvestri	nheþ	suðvestur
 .	.	.
-
 Vetrarmyrkrið	nheng	vetrarmyrkur
 tæki	svg3eþ	taka
 senn	aa	senn
@@ -4873,14 +4415,12 @@ sérkennilegu	lveþvf	sérkennilegur
 íslensku	lveþvf	íslenskur
 vetrarbirtunni	nveþg	vetrarbirta
 .	.	.
-
 Skyndilega	aa	skyndilega
 sperrir	sfg3en	sperra
 annar	foken	annar
 hermannanna	nkfeg	hermaður
 eyrun	nhfog	eyra
 .	.	.
-
 «	«	«
 Heyrir	sfg2en	heyra
 þú	fp2en	þú
@@ -4890,13 +4430,11 @@ og	c	og
 ég	fp1en	ég
 ?	?	?
 »	»	»
-
 Báðir	fokfn	báðir
 lögðu	sfg3fþ	leggja
 við	aa	við
 hlustir	nvfo	hlust
 ...	...	...
-
 «	«	«
 jú	au	jú
 ,	,	,
@@ -4905,11 +4443,9 @@ um	ao	um
 að	cn	að
 villast	snm	villa
 .	.	.
-
 Flugvélarniður	nken	flugvélarniður
 .	.	.
 »	»	»
-
 Sá	faken	sá
 minni	lkenvm	lítill
 tók	sfg3eþ	taka
@@ -4924,14 +4460,12 @@ inn	aa	inn
 í	ao	í
 göngin	nhfog	göng
 .	.	.
-
 Þar	aa	þar
 við	ao	við
 endann	nkeog	endi
 var	sfg3eþ	vera
 talstöðin	nveng	talstöð
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 hulin	lvensf	hulinn
@@ -4939,7 +4473,6 @@ sjónum	nvfþ	sjón
 allra	fokfe	allur
 óviðkomandi	lkfeof	óviðkomandi
 .	.	.
-
 Loftnetið	nheng	loftnet
 var	sfg3eþ	vera
 leitt	sþghen	leiða
@@ -4948,7 +4481,6 @@ upp	aa	upp
 gegnum	ao	gegnum
 jarðveginn	nkeog	jarðvegur
 .	.	.
-
 Hann	fpken	hann
 sneri	sfg3eþ	snúa
 skífu	nveþ	skífa
@@ -4962,14 +4494,12 @@ sendingum	nvfþ	sending
 frá	aþ	frá
 herstjórninni	nveþg	herstjórn
 .	.	.
-
 «	«	«
 Hvaða	fsven	hvaða
 flugvél	nven	flugvél
 var	sfg3eþ	vera
 þetta	fahen	þessi
 ?	?	?
-
 -	-	-
 óvinur	nken	óvinur
 eða	c	eða
@@ -4978,7 +4508,6 @@ vinavél	nven	vinavél
 ferðalagi	nheþ	ferðalag
 ?	?	?
 »	»	»
-
 Þeir	fpkfn	hann
 höfðu	sfg3fþ	hafa
 engar	fovfo	enginn
@@ -4993,7 +4522,6 @@ flugi	nheþ	flug
 þetta	faheo	þessi
 kvöld	nheo	kvöld
 .	.	.
-
 Til	ae	til
 að	cn	að
 byrja	sng	byrja

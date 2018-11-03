@@ -22,7 +22,6 @@ kl.	as	kl.
 á	aþ	á
 sunnudögum	nkfþ	sunnudagur
 .	.	.
-
 Þarna	aa	þarna
 er	sfg3en	vera
 ungt	lhensf	ungur
@@ -40,7 +39,6 @@ sér	fpheþ	sig
 þau	fphfo	það
 vel	aa	vel
 .	.	.
-
 Byrja	sfg3fn	byrja
 á	aþ	á
 að	cn	að
@@ -66,7 +64,6 @@ rökræða	sng	rökræða
 málin	nhfog	mál
 nánar	aam	náið
 .	.	.
-
 Léttleiki	nken	léttleiki
 ræður	sfg3en	ráða
 þarna	aa	þarna
@@ -95,7 +92,6 @@ fróðlegt	lhensf	fróðlegur
 að	cn	að
 hlýða	sng	hlýða
 .	.	.
-
 Þessi	faken	þessi
 þáttur	nken	þáttur
 minnir	sfg3en	minna
@@ -125,7 +121,6 @@ strengi	nkfo	strengur
 á	aa	á
 milli	aa	milli
 .	.	.
-
 Þá	aa	þá
 lásu	sfg3fþ	lesa
 menn	nkfn	maður
@@ -167,7 +162,6 @@ nenna	sng	nenna
 að	cn	að
 hlusta	sng	hlusta
 .	.	.
-
 Mér	fp1eþ	ég
 fyndist	svm3eþ	finna
 nú	aa	nú
@@ -189,7 +183,6 @@ sé	svg3en	vera
 ágætisfólk	nhen	ágætisfólk
 innanum	aa	innanum
 .	.	.
-
 Í	aþ	í
 Norðurlandsútvarpi	nheþ-s	Norðurlandsútvarp
 heyrast	sfm3fn	heyra
@@ -205,7 +198,6 @@ nágrenni	nheþ	nágrenni
 nú	aa	nú
 orðið	sþghen	verða
 .	.	.
-
 Umsjónarfólk	nhen	umsjónarfólk
 Sunnudagsþáttarins	nkee-s	Sunnudagsþáttur
 á	aþ	á
@@ -218,15 +210,12 @@ fyrir	ao	fyrir
 góðan	lkeosf	góður
 þátt	nkeo	þáttur
 .	.	.
-
 Ragnar	nken-s	Ragnar
 Gunnlaugsson	nken-s	Gunnlaugsson
 .	.	.
-
 Öryrkjar	nkfn	öryrki
 latir	lkfnsf	latur
 ?	?	?
-
 ÞAÐ	fphen	það
 veldur	sfg3en	valda
 mér	fp1eþ	ég
@@ -244,7 +233,6 @@ ekki	aa	ekki
 að	cn	að
 vinna	sng	vinna
 .	.	.
-
 Ég	fp1en	ég
 bað	sfg1eþ	biðja
 ekki	aa	ekki
@@ -254,7 +242,6 @@ að	cn	að
 verða	sng	verða
 öryrki	nken	öryrki
 .	.	.
-
 Ég	fp1en	ég
 fæddist	sfm1eþ	fæða
 fyrir	aþ	fyrir
@@ -264,7 +251,6 @@ með	ao	með
 sjaldgæfan	lkeosf	sjaldgæfur
 hjartasjúkdóm	nkeo	hjartasjúkdómur
 .	.	.
-
 Ég	fp1en	ég
 fór	sfg1eþ	fara
 til	ae	til
@@ -281,7 +267,6 @@ að	cn	að
 lækna	sng	lækna
 mig	fp1eo	ég
 .	.	.
-
 19	ta	19
 ára	nhfe	ár
 var	sfg1eþ	vera
@@ -293,7 +278,6 @@ vegna	ae	vegna
 míns	fekee	minn
 hjartasjúkdóms	nkee	hjartasjúkdómur
 .	.	.
-
 Ég	fp1en	ég
 bað	sfg1eþ	biðja
 ekki	aa	ekki
@@ -313,7 +297,6 @@ alla	foveo	allur
 mína	feveo	minn
 ævi	nveo	ævi
 .	.	.
-
 Ég	fp1en	ég
 frábið	sfg1en	frábiðja
 mér	fp1eþ	ég
@@ -328,7 +311,6 @@ að	cn	að
 særa	sng	særa
 mig	fp1eo	ég
 .	.	.
-
 Ég	fp1en	ég
 átti	sfg1eþ	eiga
 mér	fp1eþ	ég
@@ -350,14 +332,12 @@ ekki	aa	ekki
 að	cn	að
 vinna	sng	vinna
 .	.	.
-
 Guðjón	nken-s	Guðjón
 Sigurðsson	nken-s	Sigurðsson
 ,	,	,
 Hátúni	nheþ-s	Hátún
 10a	ta	10a
 .	.	.
-
 Kettlingur	nken	kettlingur
 í	aþ	í
 óskilum	nhfþ	óskil
@@ -373,7 +353,6 @@ Kópavogi	nkeþ-s	Kópavogur
 sl.	as	sl.
 þriðjudag	nkeo	þriðjudagur
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 ca	as	ca
@@ -386,7 +365,6 @@ fress	nken	fress
 mjög	aa	mjög
 gæfur	lkensf	gæfur
 .	.	.
-
 Upplýsingar	nvfn	upplýsing
 í	aþ	í
 síma	nkeþ	sími
@@ -394,7 +372,6 @@ síma	nkeþ	sími
 og	c	og
 5641331	ta	5641331
 .	.	.
-
 Fjölmörg	lhfnsf	fjölmargur
 hjón	nhfn	hjón
 á	aþ	á
@@ -408,7 +385,6 @@ hjá	aþ	hjá
 sýslumannsembættum	nhfþ	sýslumannsembætti
 landsins	nheeg	land
 .	.	.
-
 Flestar	lvfnse	margur
 slíkar	fbvfn	slíkur
 athafnir	nvfn	athöfn
@@ -425,7 +401,6 @@ og	c	og
 fulltrúum	nkfþ	fulltrúi
 hans	fpkee	hann
 .	.	.
-
 Á	aþ	á
 annarri	lveþsf	annar
 hæð	nveþ	hæð
@@ -450,7 +425,6 @@ athafnir	nvfn	athöfn
 flestar	lvfnse	margur
 fram	aa	fram
 .	.	.
-
 Alma	nven-s	Alma
 Sverrisdóttir	nven-s	Sverrisdóttir
 er	sfg3en	vera
@@ -464,7 +438,6 @@ sýslumannsembættinu	nheþg	sýslumannsembætti
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 spurð	sþgven	spyrja
@@ -487,14 +460,12 @@ fækkað	ssg	fækka
 að	aþ	að
 undanförnu	lheþsf	undanfarinn
 .	.	.
-
 Þetta	fahen	þessi
 sveiflast	sfm3en	sveifla
 nokkuð	fohen	nokkur
 milli	ae	milli
 ára	nhfe	ár
 .	.	.
-
 Árið	nheog	ár
 2005	ta	2005
 vorum	sfg1fþ	vera
@@ -515,7 +486,6 @@ voru	sfg3fþ	vera
 þær	fpvfn	hún
 208	ta	208
 .	.	.
-
 Þarna	aa	þarna
 er	sfg3en	vera
 verið	sþghen	vera
@@ -528,7 +498,6 @@ ekki	aa	ekki
 staðfesta	lveosf	staðfestur
 samvist	nveo	samvist
 .	.	.
-
 Síðastnefndu	lvfnvf	síðastnefndur
 athafnirnar	nvfng	athöfn
 voru	sfg3fþ	vera
@@ -548,7 +517,6 @@ voru	sfg3fþ	vera
 þær	fpvfn	hún
 þrjár	tfvfn	þrír
 .	.	.
-
 Gifting	nven	gifting
 hjá	aþ	hjá
 sýslumanni	nkeþ	sýslumaður
@@ -572,7 +540,6 @@ saman	aa	saman
 þennan	fakeo	þessi
 hátt	nkeo	háttur
 ?	?	?
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 fólk	nhen	fólk
@@ -593,7 +560,6 @@ ganga	sng	ganga
 í	ao	í
 hjónaband	nheo	hjónaband
 .	.	.
-
 Einnig	aa	einnig
 eru	sfg3fn	vera
 í	aþ	í
@@ -615,7 +581,6 @@ eru	sfg3fn	vera
 utan	ae	utan
 trúfélaga	nhfe	trúfélag
 .	.	.
-
 Eru	sfg3fn	vera
 þessar	favfn	þessi
 athafnir	nvfn	athöfn
@@ -623,7 +588,6 @@ hjá	aþ	hjá
 ykkur	fp2fþ	þú
 hátíðlegar	lvfnsf	hátíðlegur
 ?	?	?
-
 Ég	fp1en	ég
 tel	sfg1en	telja
 að	c	að
@@ -647,14 +611,12 @@ okkar	fp1fe	ég
 er	sfg3en	vera
 hlýlegur	lkensf	hlýlegur
 .	.	.
-
 Hvernig	aa	hvernig
 er	sfg3en	vera
 fólkið	nheng	fólk
 klætt	lhensf	klæddur
 yfirleitt	aa	yfirleitt
 ?	?	?
-
 Það	fphen	það
 er	sfg3en	vera
 mjög	aa	mjög
@@ -677,7 +639,6 @@ uppábúið	lhensf	uppábúinn
 í	aþ	í
 brúðarklæðum	nhfþ	brúðarklæði
 .	.	.
-
 Við	fp1fn	ég
 höfum	sfg1fn	hafa
 líka	aa	líka
@@ -702,7 +663,6 @@ um	ao	um
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 Oft	aa	oft
 koma	sfg3fn	koma
 margir	lkfnsf	margur
@@ -744,7 +704,6 @@ athöfnin	nveng	athöfn
 fer	sfg3en	fara
 fram	aa	fram
 .	.	.
-
 Svaramenn	nkfn	svaramaður
 þurfa	sfg3fn	þurfa
 ekki	aa	ekki
@@ -759,7 +718,6 @@ sig	fpkeo	sig
 hjá	aþ	hjá
 ykkur	fp2fþ	þú
 ?	?	?
-
 Það	fphen	það
 kostar	sfg3en	kosta
 5.100	ta	5.100
@@ -769,7 +727,6 @@ gifta	sng	gifta
 sig	fpkeo	sig
 hér	aa	hér
 .	.	.
-
 Hvað	fsheo	hver
 þurfa	sfg3fn	þurfa
 hjónaefni	nhfn	hjónaefni
@@ -781,7 +738,6 @@ að	cn	að
 fá	sng	fá
 vígslu	nveo	vígsla
 ?	?	?
-
 Fólk	nhen	fólk
 þarf	sfg3en	þurfa
 að	cn	að
@@ -807,7 +763,6 @@ sé	svg3en	vera
 fyrirhuguðum	lkeþsf	fyrirhugaður
 hjúskap	nkeþ	hjúskapur
 .	.	.
-
 Svaramenn	nkfn	svaramaður
 verða	sfg3fn	verða
 að	cn	að
@@ -827,7 +782,6 @@ viðstaddir	lkfnsf	viðstaddur
 athöfnina	nveog	athöfn
 sjálfa	fbveo	sjálfur
 .	.	.
-
 Svo	aa	svo
 þarf	sfg3en	þurfa
 að	cn	að
@@ -851,7 +805,6 @@ er	sfg3en	vera
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 Hjúskaparstöðuvottorð	nheo	hjúskaparstöðuvottorð
 þarf	sfg3en	þurfa
 að	cn	að
@@ -868,7 +821,6 @@ vikna	nvfe	vika
 á	aþ	á
 vígsludegi	nkeþ	vígsludagur
 .	.	.
-
 Hafi	svg3en	hafa
 viðkomandi	lhfnof	viðkomandi
 verið	ssg	vera
@@ -883,7 +835,6 @@ leggja	sng	leggja
 fram	aa	fram
 lögskilnaðarleyfi	nheo	lögskilnaðarleyfi
 .	.	.
-
 Vilja	sfg3fn	vilja
 fá	sng	fá
 gögn	nhfo	gagn
@@ -908,7 +859,6 @@ séu	svg3fn	vera
 frá	aþ	frá
 Norðurlöndum	nhfþ-s	Norðurlönd
 .	.	.
-
 Sé	svg3en	vera
 viðkomandi	lkenof	viðkomandi
 ekkill	nken	ekkill
@@ -928,7 +878,6 @@ hafi	svg3fn	hafa
 farið	ssg	fara
 fram	aa	fram
 .	.	.
-
 Einnig	aa	einnig
 þurfum	sfg1fn	þurfa
 við	fp1fn	ég
@@ -960,7 +909,6 @@ að	cn	að
 sjá	sng	sjá
 farseðlana	nkfog	farseðill
 .	.	.
-
 Við	fp1fn	ég
 viljum	sfg1fn	vilja
 fá	sng	fá
@@ -983,7 +931,6 @@ vikum	nvfþ	vika
 fyrir	ao	fyrir
 vígslu	nveo	vígsla
 .	.	.
-
 Eru	sfg3fn	vera
 tilvonandi	lhfnof	tilvonandi
 hjónin	nhfng	hjón
@@ -1003,7 +950,6 @@ vígslu	nveo	vígsla
 í	aþ	í
 kirkju	nveþ	kirkja
 ?	?	?
-
 Það	fphen	það
 lofar	sfg3en	lofa
 að	cn	að
@@ -1026,7 +972,6 @@ við	ao	við
 framfærslu	nveo	framfærsla
 hennar	fpvee	hún
 .	.	.
-
 Gifta	sfg3fn	gifta
 sýslumenn	nkfn	sýslumaður
 eða	c	eða
@@ -1038,7 +983,6 @@ en	c	en
 hjá	aþ	hjá
 embættinu	nheþg	embætti
 ?	?	?
-
 Já	au	já
 ,	,	,
 við	fp1fn	ég
@@ -1051,7 +995,6 @@ kemur	sfg3en	koma
 þar	aa	þar
 um	aa	um
 .	.	.
-
 Gift	sþghen	gifta
 er	sfg3en	vera
 hér	aa	hér
@@ -1081,14 +1024,12 @@ innan	ae	innan
 lögsögu	nvee	lögsaga
 Reykjavíkur	nvee-s	Reykjavík
 .	.	.
-
 Við	fp1fn	ég
 giftum	sfg1fn	gifta
 ekki	aa	ekki
 á	aþ	á
 sunnudögum	nkfþ	sunnudagur
 .	.	.
-
 Hvar	aa	hvar
 á	sfg3en	eiga
 að	cn	að
@@ -1100,7 +1041,6 @@ að	cn	að
 eyða	sng	eyða
 brúðkaupsnóttinni	nveþg	brúðkaupsnótt
 ?	?	?
-
 Sumir	fokfn	sumur
 hafa	sfg3fn	hafa
 sterkar	lvfosf	sterkur
@@ -1121,7 +1061,6 @@ sem	ct	sem
 hjónavígsla	nven	hjónavígsla
 er	sfg3en	vera
 .	.	.
-
 Í	aþ	í
 Reykholti	nheþ-s	Reykholt
 í	aþ	í
@@ -1139,7 +1078,6 @@ til	aa	til
 fallegt	lheosf	fallegur
 sveitabrúðkaup	nheo	sveitabrúðkaup
 .	.	.
-
 Kirkjan	nveng	kirkja
 ,	,	,
 umhverfið	nheng	umhverfi
@@ -1155,7 +1093,6 @@ Hrönn	nven-s	Hrönn
 Guðmundsdóttir	nven-s	Guðmundsdóttir
 markaðsfulltrúi	nken	markaðsfulltrúi
 .	.	.
-
 Fosshótel	nhen-s	Fosshótel
 Reykholt	nhen-s	Reykholt
 var	sfg3eþ	vera
@@ -1174,7 +1111,6 @@ menningartengda	lhenvf	menningartengdur
 hótel	nhen	hótel
 landsins	nheeg	land
 .	.	.
-
 Byggt	sþghen	byggja
 er	sfg3en	vera
 á	aþ	á
@@ -1190,7 +1126,6 @@ og	c	og
 klassískri	lveþsf	klassískur
 tónlist	nveþ	tónlist
 .	.	.
-
 Þar	aa	þar
 að	aa	að
 auki	aa	auki
@@ -1216,7 +1151,6 @@ slökunarherbergi	nheþ	slökunarherbergi
 og	c	og
 sturtunuddbaði	nheþ	sturtunuddbað
 .	.	.
-
 Allt	fohen	allur
 er	sfg3en	vera
 því	aa	því
@@ -1234,7 +1168,6 @@ sveitabrúðkaup	nheo	sveitabrúðkaup
 líka	aa	líka
 sveitarómantíkin	nveng	sveitarómantík
 .	.	.
-
 Við	ao	við
 fjölmörg	lhfosf	fjölmargur
 brúðkaup	nhfo	brúðkaup
@@ -1253,7 +1186,6 @@ bera	sng	bera
 hringina	nkfog	hringur
 á	aa	á
 .	.	.
-
 Ella	nven-s	Ella
 Jóna	nven-s	Jóna
 heitir	sfg3en	heita
@@ -1281,7 +1213,6 @@ Tungufelli	nheþ-s	Tungufell
 í	aþ	í
 Hrunamannahreppi	nkeþ-s	Hrunamannahreppur
 .	.	.
-
 Ég	fp1en	ég
 sérmerki	sfg1en	sérmerkja
 hringapúðana	nkfog	hringapúði
@@ -1306,7 +1237,6 @@ segir	sfg3en	segja
 Ella	nven-s	Ella
 Jóna	nven-s	Jóna
 .	.	.
-
 En	c	en
 hvenær	aa	hvenær
 fór	sfg3eþ	fara
@@ -1318,7 +1248,6 @@ sér	fpveþ	sig
 að	aþ	að
 atvinnu	nveþ	atvinna
 ?	?	?
-
 Í	aþ	í
 byrjun	nveþ	byrjun
 árs	nhee	ár
@@ -1329,7 +1258,6 @@ að	cn	að
 sauma	sng	sauma
 brúðarslör	nhfo	brúðarslör
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 alltaf	aa	alltaf
@@ -1367,7 +1295,6 @@ mér	fp1eþ	ég
 leist	sfm3eþ	líta
 á	aa	á
 .	.	.
-
 Ég	fp1en	ég
 lét	sfg1eþ	láta
 slag	nheo	slag
@@ -1385,7 +1312,6 @@ að	cn	að
 sauma	sng	sauma
 brúðarslör	nhfo	brúðarslör
 .	.	.
-
 Svo	aa	svo
 var	sfg3eþ	vera
 ekki	aa	ekki
@@ -1406,7 +1332,6 @@ framleiðslu	nveo	framleiðsla
 á	aþ	á
 brúðarslörum	nhfþ	brúðarslör
 .	.	.
-
 En	c	en
 hvenær	aa	hvenær
 komu	sfg3fþ	koma
@@ -1414,7 +1339,6 @@ hringapúðarnir	nkfng	hringapúði
 til	ae	til
 sögunnar	nveeg	saga
 ?	?	?
-
 Það	fphen	það
 passar	sfg3en	passa
 vel	aa	vel
@@ -1433,7 +1357,6 @@ sauma	sng	sauma
 hringapúða	nkfo	hringapúði
 líka	aa	líka
 .	.	.
-
 Mest	aae	mikið
 nota	sfg1en	nota
 ég	fp1en	ég
@@ -1449,7 +1372,6 @@ kaupi	sfg1en	kaupa
 frá	aþ	frá
 Bandaríkjunum	nhfþgs	Bandaríki
 .	.	.
-
 Brúðartöskurnar	nvfng	brúðartaska
 fylgdu	sfg3fþ	fylgja
 svo	aa	svo
@@ -1471,21 +1393,18 @@ og	c	og
 fleira	lheovm	margur
 smálegt	lheosf	smálegur
 .	.	.
-
 Þær	fpvfn	hún
 eru	sfg3fn	vera
 líka	aa	líka
 úr	aþ	úr
 satíni	nheþ	satín
 .	.	.
-
 Hvað	fshen	hver
 með	ao	með
 þitt	feheo	þinn
 eigið	lheosf	eiginn
 brúðkaup	nheo	brúðkaup
 ?	?	?
-
 Ég	fp1en	ég
 er	sfg1en	vera
 ekki	aa	ekki
@@ -1518,7 +1437,6 @@ Jóna	nven-s	Jóna
 og	c	og
 hlær	sfg3en	hlæja
 .	.	.
-
 Brúðarkjólar	nkfn	brúðarkjóll
 eru	sfg3fn	vera
 til	aa	til
@@ -1547,7 +1465,6 @@ gift	ssg	gifta
 sig	fpvfo	sig
 í	aa	í
 .	.	.
-
 Verslunin	nveng	verslun
 Mondo	e	Mondo
 hefur	sfg3en	hafa
@@ -1558,7 +1475,6 @@ nú	aa	nú
 selt	ssg	selja
 brúðarkjóla	nkfo	brúðarkjóll
 .	.	.
-
 Við	fp1fn	ég
 höfum	sfg1fn	hafa
 verið	ssg	vera
@@ -1580,7 +1496,6 @@ Loftsdóttir	nven-s	Loftsdóttir
 hjá	aþ	hjá
 Mondo	e	Mondo
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 eitt	tfhen	einn
@@ -1595,7 +1510,6 @@ selja	sng	selja
 óhefðbundna	lkfosf	óhefðbundinn
 brúðarkjóla	nkfo	brúðarkjóll
 .	.	.
-
 Við	ao	við
 þá	fakfo	sá
 kjóla	nkfo	kjóll
@@ -1622,7 +1536,6 @@ rómantík	nveo	rómantík
 í	aþ	í
 loftinu	nheþg	loft
 .	.	.
-
 Gjarnan	aa	gjarnan
 eru	sfg3fn	vera
 haldin	sþghfn	halda
@@ -1645,7 +1558,6 @@ samræmi	nheþ	samræmi
 við	ao	við
 það	fpheo	það
 .	.	.
-
 Brúðir	nvfn	brúður
 segja	sfg3fn	segja
 mér	fp1eþ	ég
@@ -1667,7 +1579,6 @@ sem	ct	sem
 jafnframt	aa	jafnframt
 hentar	sfg3en	henta
 .	.	.
-
 Brúðkaup	nhen	brúðkaup
 í	aþ	í
 garðinum	nkeþg	garður
@@ -1693,7 +1604,6 @@ mömmu	nveþ	mamma
 og	c	og
 pabba	nkeþ	pabbi
 .	.	.
-
 Þær	fpvfn	hún
 nota	sfg3fn	nota
 jafnvel	aa	jafnvel
@@ -1707,7 +1617,6 @@ að	cn	að
 skreyta	sng	skreyta
 með	aa	með
 .	.	.
-
 Þannig	lhfnof	þannig
 brúðkaup	nhfn	brúðkaup
 finnast	sfm3fn	finna
@@ -1715,7 +1624,6 @@ mér	fp1eþ	ég
 mjög	aa	mjög
 yndisleg	lhfnsf	yndislegur
 .	.	.
-
 Ég	fp1en	ég
 á	sfg1en	eiga
 urmul	nkeo	urmull
@@ -1743,7 +1651,6 @@ sér	fpvfþ	sig
 í	aþ	í
 brúðarklæðunum	nhfþg	brúðarklæði
 .	.	.
-
 Hvernig	lkfnof	hvernig
 kjólar	nkfn	kjóll
 eru	sfg3fn	vera
@@ -1754,7 +1661,6 @@ af	aþ	af
 þeim	fakfþ	sá
 óhefðbundnu	lkfþvf	óhefðbundinn
 ?	?	?
-
 Rauðir	lkfnsf	rauður
 og	c	og
 myntugrænir	lkfnsf	myntugrænn
@@ -1787,7 +1693,6 @@ vel	aa	vel
 sem	c	sem
 brúðarkjólar	nkfn	brúðarkjóll
 .	.	.
-
 Stuttu	lkfovf	stuttur
 kjólana	nkfog	kjóll
 má	sfg3en	mega
@@ -1799,7 +1704,6 @@ gallajakka	nkeo	gallajakki
 á	ao	á
 sumrin	nhfog	sumar
 .	.	.
-
 Í	aþ	í
 sambandi	nheþ	samband
 við	ao	við
@@ -1836,7 +1740,6 @@ blóm	nhfo	blóm
 til	ae	til
 sölu	nvee	sala
 .	.	.
-
 Konur	nvfn	kona
 gifta	sfg3fn	gifta
 sig	fpvfo	sig
@@ -1872,7 +1775,6 @@ hafa	sfg3fn	hafa
 verið	ssg	vera
 giftar	lvfnsf	giftur
 ?	?	?
-
 Að	aþ	að
 sjálfsögðu	lheþsf	sjálfsagður
 eru	sfg3fn	vera
@@ -1891,7 +1793,6 @@ hverrar	fovee	hver
 og	c	og
 einnar	fovee	einn
 .	.	.
-
 Aldur	nken	aldur
 virðist	sfm3en	virða
 ekki	aa	ekki
@@ -1909,7 +1810,6 @@ fjölbreytilegra	lhenvm	fjölbreytilegur
 því	fpheþ	það
 skemmtilegra	lhenvm	skemmtilegur
 .	.	.
-
 Á	ao	á
 gamlársdag	nkeo	gamlársdagur
 1999	ta	1999
@@ -1931,7 +1831,6 @@ Vesturgötu	nveþ-s	Vesturgata
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Okkur	fp1fþ	ég
 fannst	sfm3eþ	finna
 við	ao	við
@@ -1967,7 +1866,6 @@ bjuggum	sfg1fþ	búa
 segir	sfg3en	segja
 Baldur	nken-s	Baldur
 .	.	.
-
 Við	fp1fn	ég
 bjuggum	sfg1fþ	búa
 í	aþ	í
@@ -1999,7 +1897,6 @@ til	ae	til
 50	ta	50
 manns	nkee	maður
 .	.	.
-
 Við	fp1fn	ég
 höfðum	sfg1fþ	hafa
 athöfnina	nveog	athöfn
@@ -2038,7 +1935,6 @@ nokkur	fohfo	nokkur
 valin	lhfosf	valinn
 ljóð	nhfo	ljóð
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 sérstaklega	aa	sérstaklega
@@ -2061,7 +1957,6 @@ persónulegri	lvenvm	persónulegur
 en	c	en
 ella	aa	ella
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 gaman	nhen	gaman
@@ -2074,7 +1969,6 @@ umkringdur	lkensf	umkringdur
 sínum	fekfþ	sinn
 nánustu	lkfþve	náinn
 .	.	.
-
 Ég	fp1en	ég
 man	sfg1en	muna
 að	c	að
@@ -2106,7 +2000,6 @@ stofunni	nveþg	stofa
 neðri	lveþvm	neðri
 hæðinni	nveþg	hæð
 .	.	.
-
 Söngur	nken	söngur
 og	c	og
 skemmtiatriði	nhfn	skemmtiatriði
@@ -2118,7 +2011,6 @@ voruð	sfg2fþ	vera
 þið	fp2fn	þú
 með	ao	með
 ?	?	?
-
 Það	fphen	það
 var	sfg3eþ	vera
 skálað	sþghen	skála
@@ -2141,7 +2033,6 @@ var	sfg3eþ	vera
 til	ae	til
 uppákomu	nvee	uppákoma
 .	.	.
-
 Fleirum	lkfþsm	margur
 var	sfg3eþ	vera
 boðið	sþghen	bjóða
@@ -2165,7 +2056,6 @@ yfir	aa	yfir
 í	ao	í
 klukkutíma	nkeo	klukkutími
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 á	ao	á
@@ -2208,7 +2098,6 @@ sönginn	nkeog	söngur
 og	c	og
 skemmtiatriðin	nhfog	skemmtiatriði
 .	.	.
-
 Við	fp1fn	ég
 buðum	sfg1fþ	bjóða
 upp	aa	upp
@@ -2226,7 +2115,6 @@ og	c	og
 eftir	ao	eftir
 skemmtiatriðin	nhfog	skemmtiatriði
 .	.	.
-
 Eftir	ao	eftir
 að	c	að
 dagskránni	nveþg	dagskrá
@@ -2254,7 +2142,6 @@ vera	sng	vera
 við	ao	við
 athöfnina	nveog	athöfn
 .	.	.
-
 Gamlárskvöldinu	nheþg	gamlárskvöld
 eyddum	sfg1fþ	eyða
 við	fp1fn	ég
@@ -2265,7 +2152,6 @@ hætti	nkeþ	háttur
 faðmi	nkeþ	faðmur
 fjölskyldunnar	nveeg	fjölskylda
 .	.	.
-
 Brúðarlínið	nheng	brúðarlín
 hefur	sfg3en	hafa
 frá	aþ	frá
@@ -2291,7 +2177,6 @@ brúðkaupsnóttinni	nveþg	brúðkaupsnótt
 fallegu	lheþsf	fallegur
 sængurlíni	nheþ	sængurlín
 .	.	.
-
 Elín	nven-s	Elín
 Kolbeins	nkee-s	Kolbeinn
 er	sfg3en	vera
@@ -2307,7 +2192,6 @@ sem	ct	sem
 framleiðir	sfg3en	framleiða
 sængurfatnað	nkeo	sængurfatnaður
 .	.	.
-
 Skyldi	svg3eþ	skulu
 vera	sng	vera
 mikið	lhensf	mikill
@@ -2319,7 +2203,6 @@ sérsauma	sng	sérsauma
 á	ao	á
 brúðarsængina	nveog	brúðarsæng
 ?	?	?
-
 Já	au	já
 ,	,	,
 það	fphen	það
@@ -2333,7 +2216,6 @@ alla	fokfo	allur
 vega	nkfo	vegur
 sérþarfir	nvfn	sérþörf
 .	.	.
-
 Einnig	aa	einnig
 mjög	aa	mjög
 vinsælt	lhensf	vinsæll
@@ -2345,7 +2227,6 @@ brúðarsængurfötin	nhfog	brúðarsængurföt
 segir	sfg3en	segja
 Elín	nven-s	Elín
 .	.	.
-
 Við	fp1fn	ég
 höfum	sfg1fn	hafa
 saumað	ssg	sauma
@@ -2370,13 +2251,11 @@ sængurfötum	nhfþ	sængurföt
 frá	aþ	frá
 okkur	fp1fþ	ég
 .	.	.
-
 Hvað	fshen	hver
 er	sfg3en	vera
 vinsælast	lhense	vinsæll
 núna	aa	núna
 ?	?	?
-
 Nú	aa	nú
 er	sfg3en	vera
 silkidamask	nhen	silkidamask
@@ -2398,7 +2277,6 @@ kemur	sfg3en	koma
 sjálft	fbhen	sjálfur
 með	aa	með
 .	.	.
-
 Oft	aa	oft
 hefur	sfg3en	hafa
 það	fphen	það
@@ -2423,7 +2301,6 @@ við	ao	við
 svona	lveoof	svona
 handavinnu	nveo	handavinna
 .	.	.
-
 Oft	aa	oft
 kemur	sfg3en	koma
 fólk	nhen	fólk
@@ -2440,7 +2317,6 @@ eru	sfg3fn	vera
 nýjar	lvfosf	nýr
 brúðarsængur	nvfo	brúðarsæng
 .	.	.
-
 Gjarnan	aa	gjarnan
 eru	sfg3fn	vera
 þessi	fahfn	þessi
@@ -2451,7 +2327,6 @@ harðangur-	nkeþ	harðangursaumur
 og	c	og
 klaustursaumi	nkeþ	klaustursaumur
 .	.	.
-
 Tekur	sfg3en	taka
 fólk	nhen	fólk
 á	ao	á
@@ -2464,7 +2339,6 @@ með	ao	með
 eina	tfveo	einn
 stóra	lveosf	stór
 ?	?	?
-
 Mikið	lhensf	mikill
 í	aþ	í
 tísku	nveþ	tíska
@@ -2474,7 +2348,6 @@ hafi	svg3fn	hafa
 eina	tfveo	einn
 stóra	lveosf	stór
 sæng	nveo	sæng
-
 Mikil	lvensf	mikill
 tíska	nven	tíska
 í	ao	í
@@ -2493,7 +2366,6 @@ eru	sfg3fn	vera
 tvær	tfvfn	tveir
 sængur	nvfn	sæng
 .	.	.
-
 Við	fp1fn	ég
 saumum	sfg1fn	sauma
 eftir	aþ	eftir
@@ -2510,7 +2382,6 @@ sængurföt	nhfo	sængurföt
 venjulegum	lvfþsf	venjulegur
 stærðum	nvfþ	stærð
 .	.	.
-
 Mjög	aa	mjög
 vinsælt	lhensf	vinsæll
 er	sfg3en	vera
@@ -2536,7 +2407,6 @@ gyllt	lhensf	gylltur
 þau	fahfo	sá
 kremlituðu	lhfovf	kremlitaður
 .	.	.
-
 Er	sfg3en	vera
 einhver	foven	einhver
 hjátrú	nven	hjátrú
@@ -2544,7 +2414,6 @@ bundin	lvensf	bundinn
 svona	aa	svona
 brúðarrúmfötum	nhfþ	brúðarrúmföt
 ?	?	?
-
 Svart	lhensf	svartur
 og	c	og
 grátt	lhensf	grár
@@ -2569,7 +2438,6 @@ brúðkaupsnóttina	nveog	brúðkaupsnótt
 áður	aa	áður
 fyrr	aam	fyrr
 .	.	.
-
 Í	ao	í
 gamla	lkfosf	gamall
 daga	nkfo	dagur
@@ -2587,7 +2455,6 @@ brúðkaupsnóttina	nveog	brúðkaupsnótt
 táknaði	sfg3eþ	tákna
 hreinleikann	nkeog	hreinleiki
 .	.	.
-
 Svo	aa	svo
 er	sfg3en	vera
 auðvitað	aa	auðvitað
@@ -2600,7 +2467,6 @@ lak	nheo	lak
 á	aþ	á
 rúminu	nheþg	rúm
 .	.	.
-
 Við	fp1fn	ég
 saumum	sfg1fn	sauma
 eftir	aþ	eftir
@@ -2608,7 +2474,6 @@ máli	nheþ	mál
 frábær	lhfosf	frábær
 bómullarsatínlök	nhfo	bómullarsatínlak
 .	.	.
-
 Þau	fphfn	það
 eru	sfg3fn	vera
 oftast	aae	oft
@@ -2625,14 +2490,12 @@ fá	sng	fá
 mörgum	lkfþsf	margur
 litum	nkfþ	litur
 .	.	.
-
 Hvað	fshen	hver
 með	ao	með
 munstur	nheo	munstur
 í	aþ	í
 damaskinu	nheþg	damask
 ?	?	?
-
 Damask	nhen	damask
 er	sfg3en	vera
 alltaf	aa	alltaf
@@ -2654,7 +2517,6 @@ sitt	feheo	sinn
 af	aþ	af
 því	fpheþ	það
 .	.	.
-
 Nú	aa	nú
 er	sfg3en	vera
 að	cn	að
@@ -2680,7 +2542,6 @@ vinsælt	lhensf	vinsæll
 í	ao	í
 brúðarsængurföt	nhfo	brúðarsængurföt
 .	.	.
-
 Hefur	sfg2en	hafa
 þú	fp2en	þú
 sjálf	fbven	sjálfur
@@ -2689,7 +2550,6 @@ upp	aa	upp
 við	ao	við
 sængurfatasaum	nkeo	sængurfatasaumur
 ?	?	?
-
 Já	au	já
 ,	,	,
 það	fphen	það
@@ -2714,7 +2574,6 @@ við	fp1fn	ég
 þrjú	tfhfn	þrír
 systkinin	nhfng	systkin
 .	.	.
-
 Móðir	nven	móðir
 mín	feven	minn
 Erna	nven-s	Erna
@@ -2740,7 +2599,6 @@ störf	nhfo	starf
 árið	nheog	ár
 1959	ta	1959
 .	.	.
-
 Hún	fpven	hún
 eignaðist	sfm3eþ	eigna
 Verið	nheogs	Ver
@@ -2774,7 +2632,6 @@ fyrirtækið	nheog	fyrirtæki
 með	aþ	með
 okkur	fp1fþ	ég
 .	.	.
-
 Á	sfg3en	eiga
 enn	aa	enn
 sitt	feheo	sinn
@@ -2788,7 +2645,6 @@ með	ao	með
 eigið	lheosf	eiginn
 brúðarlín	nheo	brúðarlín
 ?	?	?
-
 Það	fphen	það
 var	sfg3eþ	vera
 hvítt	lhensf	hvítur
@@ -2807,7 +2663,6 @@ orðið	sþghen	verða
 ára	nhfe	ár
 gamalt	lhensf	gamall
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 notað	sþghen	nota
@@ -2815,7 +2670,6 @@ enn	aa	enn
 svona	aa	svona
 spari	aa	spari
 .	.	.
-
 Þess	fphee	það
 má	sfg3en	mega
 geta	sng	geta
@@ -2863,7 +2717,6 @@ væru	svg3fþ	vera
 vandlega	aa	vandlega
 merkt	lhfnsf	merktur
 .	.	.
-
 Þau	fphfn	það
 voru	sfg3fþ	vera
 í	aþ	í
@@ -2883,7 +2736,6 @@ alveg	aa	alveg
 sérstakt	lheosf	sérstakur
 tilefni	nheo	tilefni
 .	.	.
-
 Okkur	fp1fþ	ég
 þykir	sfg3en	þykja
 mjög	aa	mjög
@@ -2902,7 +2754,6 @@ búðinni	nveþg	búð
 hjá	aþ	hjá
 okkur	fp1fþ	ég
 .	.	.
-
 Er	sfg3en	vera
 hægt	lhensf	hægur
 að	cn	að
@@ -2913,7 +2764,6 @@ sængur	nvfo	sæng
 og	c	og
 kodda	nkfo	koddi
 ?	?	?
-
 Já	au	já
 ,	,	,
 mjög	aa	mjög
@@ -2939,7 +2789,6 @@ af	aþ	af
 ýmsum	fovfþ	ýmis
 gerðum	nvfþ	gerð
 .	.	.
-
 Dúnn	nken	dúnn
 er	sfg3en	vera
 mjög	aa	mjög
@@ -2962,7 +2811,6 @@ eins	aa	eins
 og	c	og
 dúnsængur	nvfn	dúnsæng
 .	.	.
-
 Í	aþ	í
 versluninni	nveþg	verslun
 Hjá	aþ	hjá
@@ -2977,7 +2825,6 @@ af	aþ	af
 ýmsum	fovfþ	ýmis
 gerðum	nvfþ	gerð
 .	.	.
-
 Jórunn	nven-s	Jórunn
 Ragnheiður	nven-s	Ragnheiður
 Brynjólfsdóttir	nven-s	Brynjólfsdóttir
@@ -2997,7 +2844,6 @@ landsins	nheeg	land
 95	ta	95
 ára	nhfe	ár
 .	.	.
-
 Hún	fpven	hún
 fór	sfg3eþ	fara
 að	cn	að
@@ -3018,7 +2864,6 @@ barn	nhen	barn
 í	aþ	í
 Hrísey	nveþ-s	Hrísey
 .	.	.
-
 Afi	nken	afi
 minn	feken	minn
 var	sfg3eþ	vera
@@ -3043,7 +2888,6 @@ lítil	lvensf	lítill
 segir	sfg3en	segja
 Jórunn	nven-s	Jórunn
 .	.	.
-
 Eftir	ao	eftir
 að	c	að
 fjögur	tfhfn	fjórir
@@ -3063,7 +2907,6 @@ vefnaðarvöruverslunum	nvfþ	vefnaðarvöruverslun
 Ólafs	nkee-s	Ólafur
 Jóhannessonar	nkee-s	Jóhannesson
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 með	ao	með
@@ -3083,7 +2926,6 @@ hans	fpkee	hann
 segir	sfg3en	segja
 hún	fpven	hún
 .	.	.
-
 Dúkar	nkfn	dúkur
 voru	sfg3fþ	vera
 vinsæl	lvensf	vinsæll
@@ -3108,7 +2950,6 @@ dúkum	nkfþ	dúkur
 á	aþ	á
 boðstólum	nkfþ	boðstólar
 .	.	.
-
 Hnitberg	nhen-s	Hnitberg
 var	sfg3eþ	vera
 með	ao	með
@@ -3124,7 +2965,6 @@ velja	sng	velja
 og	c	og
 selja	sng	selja
 .	.	.
-
 Mikið	lhensf	mikill
 var	sfg3eþ	vera
 keypt	sþghen	kaupa
@@ -3142,7 +2982,6 @@ kringlóttu	lkfnvf	kringlóttur
 voru	sfg3fþ	vera
 vinsælir	lkfnsf	vinsæll
 .	.	.
-
 Í	ao	í
 brúðkaupsveislur	nvfo	brúðkaupsveisla
 voru	sfg3fþ	vera
@@ -3175,7 +3014,6 @@ og	c	og
 allur	foken	allur
 útsaumaður	lkensf	útsaumaður
 .	.	.
-
 Hvítir	lkfnsf	hvítur
 dúkar	nkfn	dúkur
 eru	sfg3fn	vera
@@ -3213,7 +3051,6 @@ rúmfötum	nhfþ	rúmföt
 úr	aþ	úr
 silkidamaski	nheþ	silkidamask
 .	.	.
-
 Faktorshúsið	nhengs	Faktorshús
 í	aþ	í
 Hæstakaupstað	nkeþ-s	Hæstakaupstaður
@@ -3221,7 +3058,6 @@ var	sfg3eþ	vera
 byggt	sþghen	byggja
 1788	ta	1788
 .	.	.
-
 Það	fphen	það
 hefur	sfg3en	hafa
 nú	aa	nú
@@ -3246,7 +3082,6 @@ hluta	nkeþ	hluti
 efri	lveevm	efri
 hæðarinnar	nveeg	hæð
 .	.	.
-
 Aðrir	fokfn	annar
 hlutar	nkfn	hluti
 hússins	nheeg	hús
@@ -3255,7 +3090,6 @@ notaðir	sþgkfn	nota
 við	ao	við
 veitingarekstur	nkeo	veitingarekstur
 .	.	.
-
 Að	aþ	að
 sögn	nveþ	sögn
 Ásgerðar	nvee-s	Ásgerður
@@ -3281,7 +3115,6 @@ nútíma	nkee	nútími
 að	aþ	að
 sjálfsögðu	lheþsf	sjálfsagður
 .	.	.
-
 Í	aþ	í
 næsta	lheþve	næstur
 nágrenni	nheþ	nágrenni
@@ -3303,7 +3136,6 @@ stíl	nkeþ	stíll
 líka	aa	líka
 brúðarmyndum	nvfþ	brúðarmynd
 .	.	.
-
 Nautalundir	nvfn	nautalund
 Rossini	e	Rossini
 með	aþ	með
@@ -3343,7 +3175,6 @@ svitað	sþghen	svita
 í	aþ	í
 potti	nkeþ	pottur
 .	.	.
-
 Balsamedikinu	nheþg	balsamedik
 er	sfg3en	vera
 hellt	sþghen	hella
@@ -3359,7 +3190,6 @@ orðið	sþghen	verða
 að	aþ	að
 sírópi	nheþ	síróp
 .	.	.
-
 Madeira	nheþ	madeira
 hellt	sþghen	hella
 út	aa	út
@@ -3370,7 +3200,6 @@ niður	aa	niður
 um	ao	um
 helming	nkeo	helmingur
 .	.	.
-
 Kálfasoðinu	nheþg	kálfasoð
 bætt	ssg	bæta
 út	aa	út
@@ -3381,7 +3210,6 @@ niður	aa	niður
 um	ao	um
 helming	nkeo	helmingur
 .	.	.
-
 Smjöri	nheþ	smjör
 og	c	og
 timían	nheþ	timían
@@ -3401,7 +3229,6 @@ bætt	sþghen	bæta
 saman	aa	saman
 við	aa	við
 .	.	.
-
 Naut	nhen	naut
 og	c	og
 foie	e	foie
@@ -3440,7 +3267,6 @@ mínútur	nvfo	mínúta
 undir	aþ	undir
 álpappír	nkeþ	álpappír
 .	.	.
-
 Síðan	aa	síðan
 er	sfg3en	vera
 hita	nkeþ	hiti
@@ -3459,7 +3285,6 @@ fjórar	tfvfo	fjórir
 fallegar	lvfosf	fallegur
 steikur	nvfo	steik
 .	.	.
-
 Foie	e	Foie
 gras	nhen	gras
 er	sfg3en	vera
@@ -3476,7 +3301,6 @@ u.þ.b.	as	u.þ.b.
 tvær	tfvfo	tveir
 mínútur	nvfo	mínúta
 .	.	.
-
 Uxahali	nken	uxahali
 400	ta	400
 g	as	g
@@ -3499,7 +3323,6 @@ steikt	sþghen	steikja
 með	aþ	með
 uxahalanum	nkeþg	uxahali
 .	.	.
-
 Látið	sbg2fn	láta
 síðan	aa	síðan
 kjötið	nheog	kjöt
@@ -3513,7 +3336,6 @@ upp	aa	upp
 með	aþ	með
 vatni	nheþ	vatn
 .	.	.
-
 Látið	sbg2fn	láta
 krauma	sng	krauma
 í	ao	í
@@ -3528,7 +3350,6 @@ upp	aa	upp
 úr	aþ	úr
 vatninu	nheþg	vatn
 .	.	.
-
 Kjötið	nheng	kjöt
 er	sfg3en	vera
 hreinsað	sþghen	hreinsa
@@ -3540,7 +3361,6 @@ niður	aa	niður
 í	ao	í
 þræði	nkfo	þráður
 .	.	.
-
 Síðan	aa	síðan
 er	sfg3en	vera
 gott	lhensf	góður
@@ -3555,7 +3375,6 @@ hita	sng	hita
 upp	aa	upp
 þannig	aa	þannig
 .	.	.
-
 Vatnið	nheng	vatn
 af	aþ	af
 uxahölunum	nkfþg	uxahal
@@ -3567,7 +3386,6 @@ kraftur	nken	kraftur
 í	ao	í
 sósuna	nveog	sósa
 .	.	.
-
 Sveppa-ragú	nhen	sveppa-ragú
 1	ta	1
 ostrusveppur	nken	ostrusveppur
@@ -3593,7 +3411,6 @@ pönnu	nveþ	panna
 með	aþ	með
 smjörinu	nheþg	smjör
 .	.	.
-
 Rjómanum	nkeþg	rjómi
 er	sfg3en	vera
 hellt	sþghen	hella
@@ -3606,14 +3423,12 @@ niður	aa	niður
 um	ao	um
 helming	nkeo	helmingur
 .	.	.
-
 Kryddað	sþghen	krydda
 með	aþ	með
 salti	nheþ	salt
 og	c	og
 pipar	nkeþ	pipar
 .	.	.
-
 Laukflan	nhen	laukflan
 4	ta	4
 egg	nhfn	egg
@@ -3637,7 +3452,6 @@ tekið	sþghen	taka
 fínt	lheosf	fínn
 sigti	nheo	sigti
 .	.	.
-
 Bakað	sþghen	baka
 annaðhvort	c	annaðhvort
 við	ao	við
@@ -3651,7 +3465,6 @@ eða	c	eða
 80°	ta	80°
 í	ao	í
 klst.	as	klst.
-
 Kartöflumauk	nhen	kartöflumauk
 200	ta	200
 g	as	g
@@ -3679,14 +3492,12 @@ rjómanum	nkeþg	rjómi
 og	c	og
 smjörinu	nheþg	smjör
 .	.	.
-
 Kryddað	sþghen	krydda
 með	aþ	með
 salti	nheþ	salt
 og	c	og
 pipar	nkeþ	pipar
 .	.	.
-
 Kaupmáli	nken	kaupmáli
 er	sfg3en	vera
 lagagerningur	nken	lagagerningur
@@ -3709,7 +3520,6 @@ hjóna	nhfe	hjón
 um	ao	um
 sig	fpheo	sig
 .	.	.
-
 Anna	nven-s	Anna
 Linda	nven-s	Linda
 Bjarnadóttir	nven-s	Bjarnadóttir
@@ -3729,7 +3539,6 @@ eða	c	eða
 óvígð	lvensf	óvígður
 sambúð	nven	sambúð
 .	.	.
-
 Mismunandi	lvfnof	mismunandi
 réttarreglur	nvfn	réttarregla
 gilda	sfg3fn	gilda
@@ -3743,7 +3552,6 @@ segir	sfg3en	segja
 Anna	nven-s	Anna
 Linda	nven-s	Linda
 .	.	.
-
 Þá	aa	þá
 sérstaklega	aa	sérstaklega
 þegar	c	þegar
@@ -3753,7 +3561,6 @@ fjármálaskipan	nveþ	fjármálaskipan
 og	c	og
 erfðarétti	nkeþ	erfðaréttur
 .	.	.
-
 Með	aþ	með
 kaupmála	nkeþ	kaupmáli
 má	sfg3en	mega
@@ -3788,7 +3595,6 @@ er	sfg3en	vera
 mun	nkeþ	munur
 ódýrara	lhenvm	ódýr
 .	.	.
-
 Eftir	aþ	eftir
 því	fpheþ	það
 sem	ct	sem
@@ -3804,7 +3610,6 @@ er	sfg3en	vera
 gerður	sþgken	gera
 kaupmáli	nken	kaupmáli
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -3828,7 +3633,6 @@ við	ao	við
 barneign	nveo	barneign
 hjónanna	nhfeg	hjón
 .	.	.
-
 Með	aþ	með
 því	fpheþ	það
 að	cn	að
@@ -3852,7 +3656,6 @@ skilnað	nkeo	skilnaður
 eða	c	eða
 andlát	nheo	andlát
 .	.	.
-
 Ef	c	ef
 t.d.	as	t.d.
 fólk	nhen	fólk
@@ -3884,7 +3687,6 @@ verið	ssg	vera
 gerð	sþgven	gera
 erfðaskrá	nven	erfðaskrá
 .	.	.
-
 Unnt	lhensf	unnt
 er	sfg3en	vera
 að	cn	að
@@ -3894,7 +3696,6 @@ eigna	nvfe	eign
 með	aþ	með
 erfðaskrá	nveþ	erfðaskrá
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 algengt	lhensf	algengur
@@ -3922,7 +3723,6 @@ eignaminna	lhenvm	eignalítill
 báðir	fokfn	báðir
 aðilar	nkfn	aðili
 .	.	.
-
 Kaupmáli	nken	kaupmáli
 skal	sfg3en	skulu
 vera	sng	vera
@@ -3941,7 +3741,6 @@ sem	ct	sem
 sýslumenn	nkfn	sýslumaður
 halda	sfg3fn	halda
 .	.	.
-
 Dómsmálaráðuneyti	nhen	dómsmálaráðuneyti
 heldur	sfg3en	halda
 allsherjarskrá	nveo	allsherjarskrá
@@ -3969,7 +3768,6 @@ tekið	sþghen	taka
 kaupmálaskrá	nveo	kaupmálaskrá
 ráðuneytisins	nheeg	ráðuneyti
 .	.	.
-
 Bornar	sþgvfn	bera
 saman	aa	saman
 reglur	nvfn	regla
@@ -3992,7 +3790,6 @@ og	c	og
 óvígða	lveosf	óvígður
 sambúð	nveo	sambúð
 ?	?	?
-
 Námskeiðið	nheng	námskeið
 verður	sfg3en	verða
 haldið	sþghen	halda
@@ -4026,7 +3823,6 @@ ekki	aa	ekki
 síst	aae	síður
 erfðarétt	nkeo	erfðaréttur
 .	.	.
-
 Á	aþ	á
 námskeiðinu	nheþg	námskeið
 verða	sfg3fn	verða
@@ -4046,7 +3842,6 @@ sambúð	nveo	sambúð
 hins	fakee	hinn
 vegar	nkee	vegur
 .	.	.
-
 Farið	sþghen	fara
 verður	sfg3en	verða
 yfir	ao	yfir
@@ -4083,7 +3878,6 @@ skattalegar	lvfosf	skattalegur
 því	faheþ	sá
 sambandi	nheþ	samband
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 verður	sfg3en	verða
@@ -4097,7 +3891,6 @@ upplýsingaöflun	nveo	upplýsingaöflun
 í	aþ	í
 sifjarétti	nkeþ	sifjaréttur
 .	.	.
-
 Laugardaginn	nkeog	laugardagur
 18.	ta	18.
 febrúar	nkeo	febrúar
@@ -4113,7 +3906,6 @@ hjónaband	nheo	hjónaband
 í	aþ	í
 Grafarvogskirkju	nveþ-s	Grafarvogskirkja
 .	.	.
-
 Séra	nken	séra
 Vigfús	nken-s	Vigfús
 Árnason	nken-s	Árnason
@@ -4121,7 +3913,6 @@ gaf	sfg3eþ	gefa
 þau	fphfo	það
 saman	aa	saman
 .	.	.
-
 Við	fp1fn	ég
 hittumst	sfm1fþ	hitta
 fyrst	aae	fyrr
@@ -4145,7 +3936,6 @@ netinu	nheþg	net
 segir	sfg3en	segja
 Magnús	nken-s	Magnús
 .	.	.
-
 En	c	en
 hvernig	aa	hvernig
 höguðu	sfg3fþ	haga
@@ -4153,7 +3943,6 @@ höguðu	sfg3fþ	haga
 brúðkaupi	nheþ	brúðkaup
 sínu	feheþ	sinn
 ?	?	?
-
 Athöfnin	nveng	athöfn
 var	sfg3eþ	vera
 kl.	as	kl.
@@ -4175,7 +3964,6 @@ var	sfg3eþ	vera
 mjög	aa	mjög
 hátíðlegt	lhensf	hátíðlegur
 .	.	.
-
 Það	fphen	það
 dró	sfg3eþ	draga
 meira	lheovm	mikill
@@ -4213,7 +4001,6 @@ við	fp1fn	ég
 vildum	svg1fþ	vilja
 giftast	snm	gifta
 .	.	.
-
 Við	fp1fn	ég
 eigum	sfg1fn	eiga
 hvort	foheo	hvor
@@ -4250,7 +4037,6 @@ setja	sng	setja
 upp	aa	upp
 hringana	nkfog	hringur
 .	.	.
-
 Eftir	ao	eftir
 giftingu	nveo	gifting
 sagði	sfg3eþ	segja
@@ -4261,7 +4047,6 @@ kirkjunni	nveþg	kirkja
 að	cn	að
 klappa	sng	klappa
 .	.	.
-
 En	c	en
 hvernig	aa	hvernig
 var	sfg3eþ	vera
@@ -4276,7 +4061,6 @@ skreytt	lvensf	skreyttur
 af	aþ	af
 Blómavali	nheþ-s	Blómaval
 ?	?	?
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 frábær	lvensf	frábær
@@ -4299,7 +4083,6 @@ manns	nkee	maður
 og	c	og
 vinir	nkfn	vinur
 .	.	.
-
 Við	fp1fn	ég
 eigum	sfg1fn	eiga
 stórar	lvfosf	stór
@@ -4328,7 +4111,6 @@ til	ae	til
 að	cn	að
 bjóða	sng	bjóða
 .	.	.
-
 Veisluhald.is	v	veisluhald.is
 sá	sfg3eþ	sjá
 alveg	aa	alveg
@@ -4361,7 +4143,6 @@ og	c	og
 tók	sfg3eþ	taka
 brúðarmyndir	nvfo	brúðarmynd
 .	.	.
-
 Nú	aa	nú
 eru	sfg3fn	vera
 þau	fphfn	það
@@ -4385,7 +4166,6 @@ komast	snm	koma
 í	ao	í
 hana	fpveo	hún
 .	.	.
-
 Á	ao	á
 brúðkaupsnóttina	nveog	brúðkaupsnótt
 fór	sfg3eþ	fara
@@ -4412,7 +4192,6 @@ vel	aa	vel
 að	aþ	að
 lokum	nhfþ	lok
 .	.	.
-
 Tónlist	nven	tónlist
 er	sfg3en	vera
 mikilvægur	lkensf	mikilvægur
@@ -4421,7 +4200,6 @@ mikilvægur	lkensf	mikilvægur
 flestum	lhfþse	margur
 brúðkaupum	nhfþ	brúðkaup
 .	.	.
-
 Bæði	c	bæði
 í	aþ	í
 kirkju	nveþ	kirkja
@@ -4429,7 +4207,6 @@ og	c	og
 í	aþ	í
 brúðkaupsveislunni	nveþg	brúðkaupsveisla
 .	.	.
-
 Þrír	tfkfn	þrír
 sópranar	nkfn	sópran
 hafa	sfg3fn	hafa
@@ -4441,7 +4218,6 @@ saman	aa	saman
 fjölmörgum	lhfþsf	fjölmargur
 brúðkaupum	nhfþ	brúðkaup
 .	.	.
-
 Á	ao	á
 bak	nheo	bak
 við	ao	við
@@ -4458,7 +4234,6 @@ Svana	nven-s	Svana
 Berglind	nven-s	Berglind
 Karlsdóttir	nven-s	Karlsdóttir
 .	.	.
-
 Undirleikarinn	nkeng	undirleikari
 er	sfg3en	vera
 einnig	aa	einnig
@@ -4468,7 +4243,6 @@ Hólmfríður	nven-s	Hólmfríður
 Sigurðardóttir	nven-s	Sigurðardóttir
 píanóleikari	nken	píanóleikari
 .	.	.
-
 Samstarf	nhen	samstarf
 okkar	fp1fe	ég
 hófst	sfm3eþ	hefja
@@ -4499,7 +4273,6 @@ segir	sfg3en	segja
 Svana	nven-s	Svana
 Berglind	nven-s	Berglind
 .	.	.
-
 Við	fp1fn	ég
 höfðum	sfg1fþ	hafa
 áður	aa	áður
@@ -4531,7 +4304,6 @@ mynda	sng	mynda
 tríóið	nheog	tríó
 Sopranos	e	Sopranos
 .	.	.
-
 Við	fp1fn	ég
 syngjum	sfg1fn	syngja
 tónlist	nveo	tónlist
@@ -4547,7 +4319,6 @@ síst	aae	síður
 við	ao	við
 brúðkaup	nhfo	brúðkaup
 .	.	.
-
 En	c	en
 hvaða	fsven	hvaða
 tónlist	nven	tónlist
@@ -4559,7 +4330,6 @@ blaði	nheþ	blað
 hjá	aþ	hjá
 brúðhjónum	nhfþ	brúðhjón
 ?	?	?
-
 Svo	aa	svo
 skemmtilegt	lhensf	skemmtilegur
 er	sfg3en	vera
@@ -4577,7 +4347,6 @@ við	ao	við
 brúðkaup	nhfo	brúðkaup
 sín	fehfo	sinn
 .	.	.
-
 Alvinsælasta	lhenve	alvinsæll
 lagið	nheng	lag
 núna	aa	núna
@@ -4599,7 +4368,6 @@ að	cn	að
 elska	sng	elska
 þig	fp2eo	þú
 !	!	!
-
 Ég	fp1en	ég
 get	sfg1en	geta
 einnig	aa	einnig
@@ -4627,7 +4395,6 @@ say	e	say
 goodbye	e	goodbye
 )	)	)
 .	.	.
-
 Prestarnir	nkfng	prestur
 leggja	sfg3fn	leggja
 yfirleitt	aa	yfirleitt
@@ -4651,7 +4418,6 @@ eilíf	lvensf	eilífur
 elska	nven	elska
 vakir	sfg3en	vaka
 .	.	.
-
 En	c	en
 hvað	fshen	hver
 um	ao	um
@@ -4663,7 +4429,6 @@ er	sfg3en	vera
 vinsælust	lvense	vinsæll
 þar	aa	þar
 ?	?	?
-
 Í	aþ	í
 veislunum	nvfþg	veisla
 vilja	sfg3fn	vilja
@@ -4691,7 +4456,6 @@ Atla	nkeo-s	Atli
 Heimi	nkeo-s	Heimir
 Sveinsson	nkeo-s	Sveinsson
 .	.	.
-
 Í	aþ	í
 söngleikjalögunum	nhfþg	söngleikjalag
 erum	sfg1fn	vera
@@ -4714,7 +4478,6 @@ hægar	lvfosf	hægur
 og	c	og
 rómantískar	lvfosf	rómantískur
 .	.	.
-
 Svo	aa	svo
 má	sfg3en	mega
 ekki	aa	ekki
@@ -4737,18 +4500,15 @@ mig	fp1eo	ég
 mikið	aa	mikið
 )	)	)
 .	.	.
-
 Eftirminnilegasta	lhenve	eftirminnilegur
 brúðkaupið	nheng	brúðkaup
 !	!	!
-
 Hvaða	fshen	hvaða
 brúðkaup	nhen	brúðkaup
 er	sfg3en	vera
 þér	fp2eþ	þú
 eftirminnilegast	lhense	eftirminnilegur
 ?	?	?
-
 Ég	fp1en	ég
 verð	sfg1en	verða
 að	cn	að
@@ -4777,14 +4537,12 @@ brúðkaup	nhen	brúðkaup
 þennan	fakeo	þessi
 dag	nkeo	dagur
 .	.	.
-
 Allir	fokfn	allur
 voru	sfg3fþ	vera
 boðaðir	sþgkfn	boða
 í	ao	í
 skírn	nveo	skírn
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 svo	aa	svo
@@ -4805,7 +4563,6 @@ tónar	nkfn	tónn
 brúðkaupsmarsins	nkeeg	brúðkaupsmars
 hljómuðu	sfg3fþ	hljóma
 .	.	.
-
 Það	fphen	það
 ljómuðu	sfg3fþ	ljóma
 allir	fokfn	allur
@@ -4813,7 +4570,6 @@ eftir	ao	eftir
 þá	faveo	sá
 athöfn	nveo	athöfn
 .	.	.
-
 Hvernig	aa	hvernig
 eru	sfg3fn	vera
 þið	fp2fn	þú
@@ -4821,7 +4577,6 @@ klæddar	lvfnsf	klæddur
 við	ao	við
 sönginn	nkeog	söngur
 ?	?	?
-
 Við	fp1fn	ég
 erum	sfg1fn	vera
 alltaf	aa	alltaf
@@ -4834,7 +4589,6 @@ hafi	svg3fn	hafa
 aðrar	fovfo	annar
 óskir	nvfo	ósk
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 óskaplega	aa	óskaplega
@@ -4860,7 +4614,6 @@ gallabuxum	nvfþ	gallabuxur
 og	c	og
 bolum	nkfþ	bolur
 .	.	.
-
 Það	fphen	það
 lyftir	sfg3en	lyfta
 athöfninni	nveþg	athöfn
@@ -4878,7 +4631,6 @@ um	aa	um
 í	aþ	í
 veislum	nvfþ	veisla
 .	.	.
-
 Í	aþ	í
 veislunum	nvfþg	veisla
 reynum	sfg1fn	reyna
@@ -4896,7 +4648,6 @@ fjöðrum	nvfþ	fjöður
 og	c	og
 hönskum	nkfþ	hanski
 .	.	.
-
 Þess	fphee	það
 má	sfg3en	mega
 geta	sng	geta
@@ -4923,7 +4674,6 @@ brúðhjón	nhfo	brúðhjón
 og	c	og
 prest	nkeo	prestur
 .	.	.
-
 Sumt	fohen	sumur
 fólk	nhen	fólk
 veit	sfg3en	vita
@@ -4944,7 +4694,6 @@ tónlistin	nveng	tónlist
 að	cn	að
 vera	sng	vera
 .	.	.
-
 Það	fphen	það
 léttir	sfg3en	létta
 álagi	nheþ	álag
@@ -4961,7 +4710,6 @@ undirleikara	nkfo	undirleikari
 ef	c	ef
 þarf	sfg3en	þurfa
 .	.	.
-
 Brúðhjón	nhfn	brúðhjón
 vilja	sfg3fn	vilja
 auðvitað	aa	auðvitað
@@ -4976,7 +4724,6 @@ stóru	lveþvf	stór
 stundinni	nveþg	stund
 kemur	sfg3en	koma
 .	.	.
-
 Húðfegrunarstofan	nveng	húðfegrunarstofan
 ehf.	as	ehf.
 hefur	sfg3en	hafa
@@ -4994,7 +4741,6 @@ líkamsvöxtinn	nkeog	líkamsvöxtur
 og	c	og
 húðina	nveog	húð
 .	.	.
-
 Fólk	nhen	fólk
 kemur	sfg3en	koma
 hingað	aa	hingað

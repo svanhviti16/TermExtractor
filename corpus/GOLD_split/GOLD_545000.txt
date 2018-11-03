@@ -1,5 +1,4 @@
 .	.	.
-
 Með	aþ	með
 reglugerðarákvæði	nheþ	reglugerðarákvæði
 1	ta	1
@@ -11,9 +10,7 @@ gildissvið	nheo	gildissvið
 þessa	fahee	þessi
 ákvæðis	nhee	ákvæði
 .	.	.
-
 f.	x	f
-
 Atvinnurekendur	nkfn	atvinnurekandi
 í	aþ	í
 landbúnaði	nkeþ	landbúnaður
@@ -34,10 +31,8 @@ með	aa	með
 17	ta	17
 ára	nhfe	ár
 .	.	.
-
 g	x	g
 .	.	.
-
 Atvinnurekendur	nkfn	atvinnurekandi
 sem	ct	sem
 starfa	sfg3fn	starfa
@@ -53,7 +48,6 @@ getur	sfg3en	geta
 í	aþ	í
 f-lið	nkeþ	f-liður
 .	.	.
-
 Heimilt	lhensf	heimill
 er	sfg3en	vera
 að	cn	að
@@ -74,7 +68,6 @@ samkvæmt	aþ	samkvæmt
 erlendri	lveþsf	erlendur
 slysatryggingalöggjöf	nveþ	slysatryggingalöggjöf
 .	.	.
-
 Launþegi	nken	launþegi
 telst	sfm3en	telja
 hver	foken	hver
@@ -113,7 +106,6 @@ greiðslu	nveo	greiðsla
 fyrir	ao	fyrir
 ákvæðisvinnu	nveo	ákvæðisvinna
 .	.	.
-
 Maki	nken	maki
 atvinnurekanda	nkee	atvinnurekandi
 og	c	og
@@ -149,16 +141,13 @@ og	c	og
 laun	nhfo	laun
 fyrir	aa	fyrir
 .	.	.
-
 1	ta	1
 )	)	)
 Rg.	as	Rg.
 245/2002	ta	245/2002
 .	.	.
-
 30.	ta	30.
 gr.	as	gr.
-
 Þeir	fakfn	sá
 sem	ct	sem
 heimilisstörf	nhfo	heimilisstarf
@@ -187,14 +176,11 @@ hvers	fohee	hver
 að	aa	að
 lútandi	slg	lúta
 .	.	.
-
 B.	x	b.
 Bætur	nvfn	bót
 .	.	.
-
 31.	ta	31.
 gr.	as	gr.
-
 Bætur	nvfn	bót
 slysatrygginga	nvfe	slysatrygging
 eru	sfg3fn	vera
@@ -206,10 +192,8 @@ dagpeningar	nkfn	dagpeningar
 og	c	og
 dánarbætur	nvfn	dánarbætur
 .	.	.
-
 32.	ta	32.
 gr.	as	gr.
-
 Nú	aa	nú
 veldur	sfg3en	valda
 bótaskylt	lhensf	bótaskyldur
@@ -244,14 +228,12 @@ segir	sfg3en	segja
 :	:	:
 1	ta	1
 .	.	.
-
 Að	aþ	að
 fullu	lheþsf	fullur
 skal	sfg3en	skulu
 greiða	sng	greiða
 :	:	:
 a.	x	a.
-
 Læknishjálp	nveo	læknishjálp
 sem	ct	sem
 samið	sþghen	semja
@@ -265,11 +247,9 @@ um	ao	um
 sjúkratryggingar	nvfo	sjúkratrygging
 ]	]	]
 .	.	.
-
 1	ta	1
 )	)	)
 b.	x	b.
-
 Sjúkrahúsvist	nveo	sjúkrahúsvist
 ,	,	,
 svo	aa	svo
@@ -293,22 +273,17 @@ um	ao	um
 sjúkratryggingar	nvfo	sjúkratrygging
 ]	]	]
 .	.	.
-
 1	ta	1
 )	)	)
 ...	...	...
-
 1	ta	1
 )	)	)
 c.	x	c
-
 Lyf	nhfo	lyf
 og	c	og
 umbúðir	nvfo	umbúð
 .	.	.
-
 d.	x	d
-
 Viðgerð	nveo	viðgerð
 vegna	ae	vegna
 brots	nhee	brot
@@ -321,7 +296,6 @@ eða	c	eða
 vel	aa	vel
 viðgerðum	lvfþsf	viðgerður
 .	.	.
-
 Greiðslu	nveo	greiðsla
 fyrir	ao	fyrir
 sams	fbkee	samur
@@ -346,9 +320,7 @@ hefðu	svg3fþ	hafa
 verið	ssg	vera
 heilbrigðar	lvfnsf	heilbrigður
 .	.	.
-
 e.	x	e
-
 Gervilimi	nkfo	gervilimur
 eða	c	eða
 svipað	lheosf	svipaður
@@ -367,15 +339,12 @@ telst	sfm3en	telja
 ekki	aa	ekki
 fullnægjandi	lvenof	fullnægjandi
 .	.	.
-
 Sama	fbhen	sami
 gildir	sfg3en	gilda
 um	ao	um
 gervitennur	nvfo	gervitönn
 .	.	.
-
 f.	x	f
-
 Sjúkraflutning	nkeo	sjúkraflutningur
 með	aþ	með
 sjúkraflugvél	nveþ	sjúkraflugvél
@@ -415,7 +384,6 @@ er	sfg3en	vera
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 Sama	fbhen	sami
 gildir	sfg3en	gilda
 um	ao	um
@@ -430,25 +398,20 @@ ekki	aa	ekki
 við	aa	við
 komið	sþghen	koma
 .	.	.
-
 g	x	g
 .	.	.
-
 Sjúkraþjálfun	nveo	sjúkraþjálfun
 og	c	og
 orkulækningar	nvfo	orkulækning
 .	.	.
-
 2	ta	2
 .	.	.
-
 Að	aþ	að
 hluta	nkeþ	hluti
 skal	sfg3en	skulu
 greiða	sng	greiða
 :	:	:
 a.	x	a.
-
 Að	aþ	að
 hálfu	nveþ	hálfa
 ferðakostnað	nkeo	ferðakostnaður
@@ -470,7 +433,6 @@ með	aþ	með
 eða	c	eða
 strætisvagni	nkeþ	strætisvagn
 .	.	.
-
 Ekki	aa	ekki
 skal	sfg3en	skulu
 þó	aa	þó
@@ -494,9 +456,7 @@ venslamanna	nkfe	venslamaður
 hins	gkee	hinn
 slasaða	lkeevf	slasaður
 .	.	.
-
 b.	x	b.
-
 Að	aþ	að
 3/4	ta	3/4
 kostnað	nkeo	kostnaður
@@ -520,7 +480,6 @@ vegalengd	nveo	vegalengd
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 Geti	svg3en	geta
 sjúklingur	nken	sjúklingur
 ekki	aa	ekki
@@ -535,17 +494,14 @@ með	aþ	með
 að	aþ	að
 3/4	ta	3/4
 .	.	.
-
 3	ta	3
 .	.	.
-
 Heimilt	lhensf	heimill
 er	sfg3en	vera
 að	cn	að
 greiða	sng	greiða
 :	:	:
 a.	x	a.
-
 Hjúkrun	nveo	hjúkrun
 í	aþ	í
 heimahúsum	nhfþ	heimahús
@@ -554,9 +510,7 @@ veitta	lveosf	veittur
 af	aþ	af
 vandalausum	lkfþsf	vandalaus
 .	.	.
-
 b.	x	b.
-
 Styrk	nkeo	styrkur
 upp	aa	upp
 í	ao	í
@@ -579,9 +533,7 @@ hafa	sfg3fn	hafa
 við	ao	við
 slysið	nheog	slys
 .	.	.
-
 c.	x	c
-
 Ferðakostnað	nkeo	ferðakostnaður
 að	aþ	að
 3/4	ta	3/4
@@ -644,7 +596,6 @@ sex	tfkfe	sex
 mánaða	nkfe	mánuður
 tímabili	nheþ	tímabil
 .	.	.
-
 Að	aþ	að
 svo	aa	svo
 miklu	lheþsf	mikill
@@ -677,7 +628,6 @@ leyti	nheþ	leyti
 með	aþ	með
 reglugerð	nveþ	reglugerð
 .	.	.
-
 2	ta	2
 )	)	)
 Nú	aa	nú
@@ -720,7 +670,6 @@ greiddur	sþgken	greiða
 hjá	aþ	hjá
 sjúkratryggingum	nvfþ	sjúkratrygging
 .	.	.
-
 1	ta	1
 )	)	)
 L.	x	l
@@ -736,10 +685,8 @@ Rg.	as	Rg.
 sbr.	as	sbr.
 46/2004	ta	46/2004
 .	.	.
-
 33.	ta	33.
 gr.	as	gr.
-
 Dagpeningar	nkfn	dagpeningar
 greiðast	sfm3fn	greiða
 frá	aa	frá
@@ -763,7 +710,6 @@ minnst	aae	lítið
 10	ta	10
 daga	nkfo	dagur
 .	.	.
-
 Dagpeningar	nkfn	dagpeningar
 greiðast	sfm3fn	greiða
 þangað	aa	þangað
@@ -791,7 +737,6 @@ en	c	en
 52	ta	52
 vikur	nvfo	vika
 .	.	.
-
 [	[	[
 Sjúkratryggingastofnuninni	nveþgs	Sjúkratryggingastofnun
 ]	]	]
@@ -838,7 +783,6 @@ með	aþ	með
 lengri	lveþvm	langur
 bótagreiðslu	nveþ	bótagreiðsla
 .	.	.
-
 Dagpeningar	nkfn	dagpeningar
 eru	sfg3fn	vera
 1.184	ta	1.184
@@ -878,7 +822,6 @@ samkomulagi	nheþ	samkomulag
 eða	c	eða
 skilnaðarleyfisbréfi	nheþ	skilnaðarleyfisbréf
 .	.	.
-
 Greiðslur	nvfn	greiðsla
 samkvæmt	aþ	samkvæmt
 grein	nveþ	grein
@@ -907,7 +850,6 @@ er	c	er
 slysið	nheng	slys
 varð	sfg3eþ	verða
 .	.	.
-
 Nú	aa	nú
 greiðir	sfg3en	greiða
 vinnuveitandi	nken	vinnuveitandi
@@ -939,7 +881,6 @@ nemur	sfg3en	nema
 hlutum	nkfþ	hluti
 launanna	nhfeg	laun
 .	.	.
-
 1	ta	1
 )	)	)
 L.	x	l
@@ -947,10 +888,8 @@ L.	x	l
 ,	,	,
 57.	ta	57.
 gr.	as	gr.
-
 34.	ta	34.
 gr.	as	gr.
-
 Ef	c	ef
 slys	nhen	slys
 veldur	sfg3en	valda
@@ -976,7 +915,6 @@ eða	c	eða
 einu	lheþsf	einn
 lagi	nheþ	lag
 .	.	.
-
 Ef	c	ef
 örorkan	nveng	örorka
 er	sfg3en	vera
@@ -1010,7 +948,6 @@ greiðist	sfm3en	greiða
 fullur	lkensf	fullur
 lífeyrir	nken	lífeyrir
 .	.	.
-
 Skerðingarákvæði	nhfn	skerðingarákvæði
 5.	ta	5.
 mgr.	as	mgr.
@@ -1025,7 +962,6 @@ samkvæmt	aþ	samkvæmt
 þessari	faveþ	þessi
 grein	nveþ	grein
 .	.	.
-
 Nú	aa	nú
 er	sfg3en	vera
 örorkan	nveng	örorka
@@ -1069,7 +1005,6 @@ c-liða	nkfe	c-liður
 mgr.	as	mgr.
 35.	ta	35.
 gr.	as	gr.
-
 Ef	c	ef
 örorkan	nveng	örorka
 er	sfg3en	vera
@@ -1105,7 +1040,6 @@ hann	fpken	hann
 framfærir	sfg3en	framfæra
 síðar	aam	síðar
 .	.	.
-
 Sé	svg3en	vera
 orkutapið	nheng	orkutap
 minna	lhenvm	lítill
@@ -1124,7 +1058,6 @@ vantar	sfg3en	vanta
 75%	tp	75%
 örorku	nveo	örorka
 .	.	.
-
 Ef	c	ef
 orkutap	nhen	orkutap
 er	sfg3en	vera
@@ -1159,7 +1092,6 @@ er	ct	er
 ráðherra	nken	ráðherra
 setur	sfg3en	setja
 .	.	.
-
 Ella	aa	ella
 greiðist	sfm3en	greiða
 lífeyrir	nken	lífeyrir
@@ -1168,7 +1100,6 @@ hlutfalli	nheþ	hlutfall
 við	ao	við
 örorkuna	nveog	örorka
 .	.	.
-
 Örorkubætur	nvfn	örorkubætur
 greiðast	sfm3fn	greiða
 ekki	aa	ekki
@@ -1180,7 +1111,6 @@ minna	lhenvm	lítill
 en	c	en
 10%	tp	10%
 .	.	.
-
 1	ta	1
 )	)	)
 L.	x	l
@@ -1193,10 +1123,8 @@ gr.	as	gr.
 Rg.	as	Rg.
 187/2005	ta	187/2005
 .	.	.
-
 35.	ta	35.
 gr.	as	gr.
-
 Ef	c	ef
 slys	nhen	slys
 veldur	sfg3en	valda
@@ -1219,7 +1147,6 @@ hér	aa	hér
 segir	sfg3en	segja
 :	:	:
 a.	x	a.
-
 Ekkja	nven	ekkja
 eða	c	eða
 ekkill	nken	ekkill
@@ -1250,7 +1177,6 @@ dánardægri	nheþ	dánardægur
 hins	gkee	hinn
 látna	lkeevf	látinn
 .	.	.
-
 Bætur	nvfn	bót
 samkvæmt	aþ	samkvæmt
 þessum	fakeþ	þessi
@@ -1268,7 +1194,6 @@ hjúskapar	nkee	hjúskapur
 á	aa	á
 ný	aa	ný
 .	.	.
-
 Nú	aa	nú
 andast	sfm3en	anda
 ekkja	nven	ekkja
@@ -1316,9 +1241,7 @@ til	ae	til
 dánarbús	nhee	dánarbú
 hans	fpkee	hann
 .	.	.
-
 b.	x	b.
-
 Barnalífeyri	nkeo	barnalífeyrir
 ,	,	,
 219.408	ta	219.408
@@ -1335,9 +1258,7 @@ að	aþ	að
 leyti	nheþ	leyti
 20.	ta	20.
 gr.	as	gr.
-
 c.	x	c
-
 Barn	nhen	barn
 eldra	lhenvm	gamall
 en	c	en
@@ -1387,7 +1308,6 @@ við	ao	við
 fráfall	nheo	fráfall
 hans	fpkee	hann
 .	.	.
-
 Þó	aa	þó
 greiðast	sfm3fn	greiða
 ekki	aa	ekki
@@ -1399,7 +1319,6 @@ minni	lvenvm	lítill
 en	c	en
 33%	tp	33%
 .	.	.
-
 Bætur	nvfn	bót
 skv.	as	skv.
 a-	nkfþ	a-liður
@@ -1418,7 +1337,6 @@ fyrir	ao	fyrir
 hvert	foheo	hver
 slys	nheo	slys
 .	.	.
-
 Nú	aa	nú
 lætur	sfg3en	láta
 hinn	gken	hinn
@@ -1462,7 +1380,6 @@ til	ae	til
 dánarbús	nhee	dánarbú
 hans	fpkee	hann
 .	.	.
-
 Um	ao	um
 fósturbörn	nhfo	fósturbarn
 og	c	og
@@ -1475,7 +1392,6 @@ börn	nhfo	barn
 og	c	og
 foreldra	nkfo	foreldrar
 .	.	.
-
 Frá	aþ	frá
 dánarbótum	nvfþ	dánarbætur
 ,	,	,
@@ -1505,14 +1421,11 @@ vegna	ae	vegna
 sama	fbhee	sami
 slyss	nhee	slys
 .	.	.
-
 C.	x	c
 Tekjur	nvfn	tekja
 .	.	.
-
 36.	ta	36.
 gr.	as	gr.
-
 Útgjöld	nhfn	útgjöld
 slysatrygginga	nvfe	slysatrygging
 skulu	sfg3fn	skulu
@@ -1527,7 +1440,6 @@ iðgjöldum	nhfþ	iðgjald
 skv.	as	skv.
 3.	ta	3.
 mgr.	as	mgr.
-
 Þá	aa	þá
 skal	sfg3en	skulu
 árlega	aa	árlega
@@ -1553,7 +1465,6 @@ e-lið	nkeþ	e-liður
 mgr.	as	mgr.
 29.	ta	29.
 gr.	as	gr.
-
 [	[	[
 Sjúkratryggingastofnunin	nvengs	Sjúkratryggingastofnun
 ]	]	]
@@ -1572,7 +1483,6 @@ slysatrygginga	nvfe	slysatrygging
 næsta	lheove	næstur
 almanaksár	nheo	almanaksár
 .	.	.
-
 Iðgjöld	nhfn	iðgjald
 útgerðarmanna	nkfe	útgerðarmaður
 fiskiskipa	nhfe	fiskiskip
@@ -1595,7 +1505,6 @@ starfa	sfg3fn	starfa
 hverju	foheþ	hver
 sinni	nheþ	sinn
 .	.	.
-
 Iðgjöld	nhfn	iðgjald
 þessi	fahfn	þessi
 skulu	sfg3fn	skulu
@@ -1633,7 +1542,6 @@ við	ao	við
 tryggingu	nveo	trygging
 þessa	faveo	þessi
 .	.	.
-
 Iðgjöld	nhfn	iðgjald
 þeirra	fakfe	sá
 sem	ct	sem
@@ -1662,7 +1570,6 @@ sjúkratryggingastofnunarinnar	nveeg	sjúkratryggingastofnun
 vegna	ae	vegna
 framkvæmdarinnar	nveeg	framkvæmd
 .	.	.
-
 1	ta	1
 )	)	)
 L.	x	l
@@ -1670,13 +1577,10 @@ L.	x	l
 ,	,	,
 57.	ta	57.
 gr.	as	gr.
-
 V.	lkenvf	V.
 kafli	nken	kafli
 .	.	.
-
 ...	...	...
-
 1	ta	1
 )	)	)
 1	ta	1
@@ -1686,22 +1590,17 @@ L.	x	l
 ,	,	,
 57.	ta	57.
 gr.	as	gr.
-
 VI.	lkenvf	VI.
 kafli	nken	kafli
 .	.	.
-
 Sameiginleg	lhfnsf	sameiginlegur
 ákvæði	nhfn	ákvæði
 .	.	.
-
 A.	x	a.
 Bætur	nvfn	bót
 .	.	.
-
 48.	ta	48.
 gr.	as	gr.
-
 Bætur	nvfn	bót
 samkvæmt	aþ	samkvæmt
 lögum	nhfþ	lag
@@ -1724,7 +1623,6 @@ er	sfg3en	vera
 annan	fokeo	annar
 hátt	nkeo	háttur
 .	.	.
-
 Enginn	foken	enginn
 getur	sfg3en	geta
 samtímis	aa	samtímis
@@ -1738,14 +1636,12 @@ samkvæmt	aþ	samkvæmt
 lögum	nhfþ	lag
 þessum	fahfþ	þessi
 .	.	.
-
 Saman	aa	saman
 mega	sfg3fn	mega
 þó	aa	þó
 fara	sng	fara
 :	:	:
 a.	x	a.
-
 Bætur	nvfn	bót
 til	ae	til
 ekkju	nvee	ekkja
@@ -1762,23 +1658,17 @@ allar	fovfn	allur
 aðrar	fovfn	annar
 bætur	nvfn	bót
 .	.	.
-
 b.	x	b.
-
 Barnalífeyrir	nken	barnalífeyrir
 og	c	og
 dagpeningar	nkfn	dagpeningar
 .	.	.
-
 c.	x	c
-
 Slysadagpeningar	nkfn	slysadagpeningar
 og	c	og
 ellilífeyrir	nken	ellilífeyrir
 .	.	.
-
 d.	x	d
-
 Aðrar	fovfn	annar
 bætur	nvfn	bót
 ef	c	ef
@@ -1789,7 +1679,6 @@ mælt	sþghen	mæla
 í	aþ	í
 lögunum	nhfþg	lag
 .	.	.
-
 Ef	c	ef
 maður	nken	maður
 á	sfg3en	eiga
@@ -1813,7 +1702,6 @@ eða	c	eða
 hæstu	lvfove	hár
 bæturnar	nvfog	bót
 .	.	.
-
 Nú	aa	nú
 nýtur	sfg3en	njóta
 umsækjandi	nken	umsækjandi
@@ -1835,9 +1723,7 @@ dagpeningar	nkfn	dagpeningar
 nema	c	nema
 mismuninum	nkeþg	mismunur
 .	.	.
-
 ...	...	...
-
 1	ta	1
 )	)	)
 Ef	c	ef
@@ -1877,7 +1763,6 @@ undanfarna	lkfosf	undanfarinn
 tólf	tfkfo	tólf
 mánuði	nkfo	mánuður
 .	.	.
-
 Ef	c	ef
 ljóst	lhensf	ljós
 er	sfg3en	vera
@@ -1908,7 +1793,6 @@ eftir	ao	eftir
 upphaf	nheo	upphaf
 dvalar	nvee	dvöl
 .	.	.
-
 Heimilt	lhensf	heimill
 er	sfg3en	vera
 þó	aa	þó
@@ -1945,7 +1829,6 @@ tekjum	nvfþ	tekja
 skv.	as	skv.
 16.	ta	16.
 gr.	as	gr.
-
 [	[	[
 Ráðherra	nken	ráðherra
 ákveður	sfg3en	ákveða
@@ -1956,7 +1839,6 @@ aldraða	lkfosf	aldraður
 með	aþ	með
 reglugerð	nveþ	reglugerð
 .	.	.
-
 Tryggingastofnun	nveþ-s	Tryggingastofnun
 ríkisins	nheeg	ríki
 er	sfg3en	vera
@@ -1988,7 +1870,6 @@ um	ao	um
 málefni	nhfo	málefni
 aldraðra	lkfesf	aldraður
 .	.	.
-
 Vistunarframlag	nhen	vistunarframlag
 skal	sfg3en	skulu
 þó	aa	þó
@@ -2015,7 +1896,6 @@ málsl.	as	málsl.
 ]	]	]
 2	ta	2
 )	)	)
-
 Sjúkrahús	nhfn	sjúkrahús
 og	c	og
 stofnanir	nvfn	stofnun
@@ -2032,7 +1912,6 @@ upplýsingar	nvfo	upplýsing
 um	ao	um
 vistun	nveo	vistun
 .	.	.
-
 [	[	[
 Þegar	c	þegar
 lífeyrir	nken	lífeyrir
@@ -2067,7 +1946,6 @@ kr.	as	kr.
 á	aþ	á
 mánuði	nkeþ	mánuður
 .	.	.
-
 Við	ao	við
 útreikning	nkeo	útreikningur
 á	aþ	á
@@ -2080,7 +1958,6 @@ vasapeninga	nkfo	vasapeningur
 um	ao	um
 65%	tp	65%
 .	.	.
-
 Vasapeningar	nkfn	vasapeningur
 falla	sfg3fn	falla
 alveg	aa	alveg
@@ -2094,7 +1971,6 @@ kr.	as	kr.
 á	aþ	á
 ári	nheþ	ár
 .	.	.
-
 Með	aþ	með
 tekjum	nvfþ	tekja
 er	sfg3en	vera
@@ -2117,7 +1993,6 @@ samkvæmt	aþ	samkvæmt
 sömu	fbveþ	sami
 grein	nveþ	grein
 .	.	.
-
 Ef	c	ef
 tekjur	nvfn	tekja
 hlutaðeigandi	lkeeof	hlutaðeigandi
@@ -2169,7 +2044,6 @@ greiðslna	nvfe	greiðsla
 en	c	en
 peninga	nkfe	peningur
 .	.	.
-
 Tekjur	nvfn	tekja
 vegna	ae	vegna
 vinnu	nvee	vinna
@@ -2198,7 +2072,6 @@ málsl.	as	málsl.
 ]	]	]
 3	ta	3
 )	)	)
-
 Nú	aa	nú
 dvelst	sfm3en	dvelja
 lífeyrisþegi	nken	lífeyrisþegi
@@ -2232,7 +2105,6 @@ dag	nkeo	dagur
 þann	fakeo	sá
 tíma	nkeo	tími
 .	.	.
-
 Heimilt	lhensf	heimill
 er	sfg3en	vera
 að	cn	að
@@ -2246,7 +2118,6 @@ framkvæmd	nveo	framkvæmd
 ákvæðis	nhee	ákvæði
 þessa	fahee	þessi
 .	.	.
-
 1	ta	1
 )	)	)
 L.	x	l
@@ -2291,10 +2162,8 @@ rg.	as	rg.
 sbr.	as	sbr.
 296/2008	ta	296/2008
 .	.	.
-
 49.	ta	49.
 gr.	as	gr.
-
 Sama	fbkeo	samur
 rétt	nkeo	réttur
 til	ae	til
@@ -2325,7 +2194,6 @@ en	c	en
 eitt	tfheo	einn
 ár	nheo	ár
 .	.	.
-
 Sama	fbkeo	samur
 rétt	nkeo	réttur
 hafa	sfg3fn	hafa
@@ -2354,7 +2222,6 @@ skráð	sþgven	skrá
 í	aþ	í
 þjóðskrá	nveþ	þjóðskrá
 .	.	.
-
 Sama	fbhen	sami
 gildir	sfg3en	gilda
 um	ao	um
@@ -2366,7 +2233,6 @@ kyni	nheþ	kyn
 í	aþ	í
 sambúð	nveþ	sambúð
 .	.	.
-
 Sama	fbhen	sami
 gildir	sfg3en	gilda
 um	ao	um
@@ -2376,7 +2242,6 @@ sem	ct	sem
 eftir	aa	eftir
 lifir	sfg3en	lifa
 .	.	.
-
 Slíkt	fbhen	slíkur
 sambúðarfólk	nhen	sambúðarfólk
 öðlast	sfm3en	öðlast
@@ -2392,7 +2257,6 @@ ef	c	ef
 væru	svg3fþ	vera
 hjón	nhfn	hjón
 .	.	.
-
 Þó	aa	þó
 er	sfg3en	vera
 heimilt	lhensf	heimill
@@ -2401,7 +2265,6 @@ greiða	sng	greiða
 sambúðaraðila	nkeþ	sambúðaraðili
 slysabætur	nvfo	slysabætur
 .	.	.
-
 Sameiginlegt	lhensf	sameiginlegur
 lögheimili	nhen	lögheimili
 eða	c	eða
@@ -2424,10 +2287,8 @@ sambúðar	nvee	sambúð
 í	aþ	í
 þjóðskrá	nveþ	þjóðskrá
 .	.	.
-
 50.	ta	50.
 gr.	as	gr.
-
 Tryggingastofnunin	nvengs	Tryggingastofnun
 getur	sfg3en	geta
 greitt	ssg	greiða
@@ -2456,7 +2317,6 @@ samrýmist	svm3en	samrýma
 tilgangi	nkeþ	tilgangur
 laganna	nhfeg	lag
 .	.	.
-
 Slíkar	fbvfn	slíkur
 ráðstafanir	nvfn	ráðstöfun
 skulu	sfg3fn	skulu
@@ -2476,10 +2336,8 @@ að	cn	að
 ræða	sng	ræða
 barnalífeyri	nkeo	barnalífeyrir
 .	.	.
-
 51.	ta	51.
 gr.	as	gr.
-
 Bætur	nvfn	bót
 ,	,	,
 sem	ct	sem
@@ -2520,10 +2378,8 @@ undir	ao	undir
 nýtt	lheosf	nýr
 starf	nheo	starf
 .	.	.
-
 52.	ta	52.
 gr.	as	gr.
-
 Sækja	sng	sækja
 skal	sfg3en	skulu
 um	ao	um
@@ -2546,7 +2402,6 @@ skv.	as	skv.
 63.	ta	63.
 gr.	as	gr.
 ...	...	...
-
 1	ta	1
 )	)	)
 Örorkulífeyrisþegar	nkfn	örorkulífeyrisþegi
@@ -2568,7 +2423,6 @@ ná	sfg3fn	ná
 ára	nhfe	ár
 aldri	nkeþ	aldur
 .	.	.
-
 Umsóknir	nvfn	umsókn
 um	ao	um
 bætur	nvfo	bót
@@ -2606,7 +2460,6 @@ heimasíðum	nvfþ	heimasíða
 stofnananna	nvfeg	stofnun
 ]	]	]
 .	.	.
-
 1	ta	1
 )	)	)
 Umsækjanda	nkeþ	umsækjandi
@@ -2647,7 +2500,6 @@ og	c	og
 endurskoðun	nveo	endurskoðun
 þeirra	fpvfe	hún
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 maka	nkeþ	maki
@@ -2670,7 +2522,6 @@ hafa	sng	hafa
 fjárhæð	nveo	fjárhæð
 bóta	nvfe	bót
 .	.	.
-
 Tryggingastofnun	nveþ-s	Tryggingastofnun
 [	[	[
 eða	c	eða
@@ -2730,7 +2581,6 @@ eða	c	eða
 annan	fokeo	annar
 hátt	nkeo	háttur
 .	.	.
-
 [	[	[
 Enn	aa	enn
 fremur	aam	fremur
@@ -2801,7 +2651,6 @@ haft	ssg	hafa
 fjárhæð	nveo	fjárhæð
 bóta	nvfe	bót
 .	.	.
-
 Við	ao	við
 meðferð	nveo	meðferð
 persónuupplýsinga	nvfe	persónuupplýsingar
@@ -2825,7 +2674,6 @@ og	c	og
 meðferð	nveo	meðferð
 persónuupplýsinga	nvfe	persónuupplýsingar
 .	.	.
-
 Telji	svg3en	telja
 umsækjandi	nken	umsækjandi
 ,	,	,
@@ -2847,7 +2695,6 @@ gögn	nhfo	gagn
 til	ae	til
 staðfestingar	nvee	staðfesting
 .	.	.
-
 Umsækjanda	nkeþ	umsækjandi
 og	c	og
 bótaþega	nkeþ	bótaþegi
@@ -2878,7 +2725,6 @@ haft	ssg	hafa
 á	ao	á
 greiðslur	nvfo	greiðsla
 .	.	.
-
 Ef	c	ef
 gefnar	sþgvfn	gefa
 eru	sfg3fn	vera
@@ -2889,7 +2735,6 @@ beita	sng	beita
 ákvæðum	nhfþ	ákvæði
 55.	ta	55.
 gr.	as	gr.
-
 Ef	c	ef
 ekki	aa	ekki
 reynist	sfm3en	reyna
@@ -2946,7 +2791,6 @@ til	aa	til
 er	sfg3en	vera
 bætt	sþghen	bæta
 .	.	.
-
 Tryggingastofnun	nven-s	Tryggingastofnun
 [	[	[
 eða	c	eða
@@ -2974,7 +2818,6 @@ veita	sng	veita
 nauðsynlegar	lvfosf	nauðsynlegur
 upplýsingar	nvfo	upplýsing
 .	.	.
-
 Starfsfólk	nhen	starfsfólk
 Tryggingastofnunar	nvee-s	Tryggingastofnun
 og	c	og
@@ -3019,7 +2862,6 @@ og	c	og
 starfsreglum	nvfþ	starfsregla
 stofnunarinnar	nveeg	stofnun
 .	.	.
-
 Starfsfólki	nheþ	starfsfólk
 Tryggingastofnunar	nvee-s	Tryggingastofnun
 og	c	og
@@ -3062,7 +2904,6 @@ eða	c	eða
 eðli	nheþ	eðli
 máls	nhee	mál
 .	.	.
-
 Þagnarskylda	nven	þagnarskylda
 helst	sfm3en	halda
 þótt	c	þótt
@@ -3071,7 +2912,6 @@ sé	svg3en	vera
 af	aþ	af
 starfi	nheþ	starf
 .	.	.
-
 Þeim	fakfþ	sá
 heilbrigðisstarfsmönnum	nkfþ	heilbrigðisstarfsmaður
 sem	ct	sem
@@ -3125,7 +2965,6 @@ vegna	ae	vegna
 eftirlitshlutverks	nhee	eftirlitshlutverk
 stofnunarinnar	nveeg	stofnun
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 læknum	nkfþ	læknir
@@ -3166,7 +3005,6 @@ er	sfg3en	vera
 byggð	sþgven	byggja
 á	aa	á
 .	.	.
-
 Skoðun	nven	skoðun
 skal	sfg3en	skulu
 fara	sng	fara
@@ -3180,7 +3018,6 @@ sjúkraskrá	nven	sjúkraskrá
 er	sfg3en	vera
 varðveitt	sþgven	varðveita
 .	.	.
-
 Við	ao	við
 meðferð	nveo	meðferð
 persónuupplýsinga	nvfe	persónuupplýsingar
@@ -3217,7 +3054,6 @@ sem	ct	sem
 við	aa	við
 á	sfg3en	eiga
 .	.	.
-
 1	ta	1
 )	)	)
 L.	x	l
@@ -3225,10 +3061,8 @@ L.	x	l
 ,	,	,
 57.	ta	57.
 gr.	as	gr.
-
 53.	ta	53.
 gr.	as	gr.
-
 Allar	fovfn	allur
 umsóknir	nvfn	umsókn
 skulu	sfg3fn	skulu
@@ -3254,7 +3088,6 @@ skilyrðin	nhfog	skilyrði
 til	ae	til
 bótanna	nvfeg	bót
 .	.	.
-
 Bætur	nvfn	bót
 skv.	as	skv.
 III.	lkeþvf	III.
@@ -3290,7 +3123,6 @@ er	sfg3en	vera
 bótarétti	nkeþ	bótaréttur
 lýkur	sfg3en	ljúka
 .	.	.
-
 Bætur	nvfn	bót
 ,	,	,
 aðrar	fovfn	annar
@@ -3335,9 +3167,7 @@ bóta	nvfe	bót
 berast	sfm3fn	bera
 stofnuninni	nveþg	stofnun
 .	.	.
-
 ...	...	...
-
 1	ta	1
 )	)	)
 Grundvöll	nkeo	grundvöllur
@@ -3356,7 +3186,6 @@ sem	ct	sem
 orðið	ssg	verða
 hafa	sfg3fn	hafa
 .	.	.
-
 1	ta	1
 )	)	)
 L.	x	l
@@ -3364,10 +3193,8 @@ L.	x	l
 ,	,	,
 57.	ta	57.
 gr.	as	gr.
-
 54.	ta	54.
 gr.	as	gr.
-
 Bætur	nvfo	bót
 skal	sfg3en	skulu
 greiða	sng	greiða
@@ -3376,7 +3203,6 @@ dag	nkeo	dagur
 hvers	fokee	hver
 mánaðar	nkee	mánuður
 .	.	.
-
 Þó	aa	þó
 má	sfg3en	mega
 greiða	sng	greiða
@@ -3387,7 +3213,6 @@ fyrir	ao	fyrir
 styttri	lkeovm	stuttur
 tíma	nkeo	tími
 .	.	.
-
 Ákvarðaðar	lvfnsf	ákvarðaður
 bætur	nvfn	bót
 falla	sfg3fn	falla
@@ -3412,7 +3237,6 @@ rökstudd	lvensf	rökstuddur
 umsókn	nven	umsókn
 berst	sfm3en	bera
 .	.	.
-
 Tryggingastofnun	nven-s	Tryggingastofnun
 ríkisins	nheeg	ríki
 gefur	sfg3en	gefa
@@ -3441,7 +3265,6 @@ um	ao	um
 sjúkratryggingar	nvfo	sjúkratrygging
 ]	]	]
 .	.	.
-
 1	ta	1
 )	)	)
 1	ta	1
@@ -3451,10 +3274,8 @@ L.	x	l
 ,	,	,
 57.	ta	57.
 gr.	as	gr.
-
 55.	ta	55.
 gr.	as	gr.
-
 Hafi	svg3en	hafa
 Tryggingastofnun	nven-s	Tryggingastofnun
 ríkisins	nheeg	ríki
@@ -3495,7 +3316,6 @@ sbr.	as	sbr.
 þó	aa	þó
 2.	ta	2.
 mgr.	as	mgr.
-
 Einnig	aa	einnig
 á	sfg3en	eiga
 Tryggingastofnun	nven-s	Tryggingastofnun
@@ -3515,7 +3335,6 @@ samkvæmt	aþ	samkvæmt
 almennum	lvfþsf	almennur
 reglum	nvfþ	regla
 .	.	.
-
 Ef	c	ef
 tekjutengdar	lvfnsf	tekjutengdur
 bætur	nvfn	bót
@@ -3546,7 +3365,6 @@ síðar	aam	síðar
 rétt	nkeo	réttur
 til	aa	til
 .	.	.
-
 Þetta	fahen	þessi
 á	sfg3en	eiga
 eingöngu	aa	eingöngu
@@ -3582,7 +3400,6 @@ tekjuaukninguna	nveog	tekjuaukning
 sbr.	as	sbr.
 52.	ta	52.
 gr.	as	gr.
-
 Ekki	aa	ekki
 er	sfg3en	vera
 heimilt	lhensf	heimill
@@ -3619,7 +3436,6 @@ sé	svg3en	vera
 um	ao	um
 annað	foheo	annar
 .	.	.
-
 Hafi	svg3en	hafa
 Tryggingastofnun	nven-s	Tryggingastofnun
 ríkisins	nheeg	ríki
@@ -3644,7 +3460,6 @@ upp	aa	upp
 á	aa	á
 vantar	sfg3en	vanta
 .	.	.
-
 Þegar	c	þegar
 bætur	nvfn	bót
 eru	sfg3fn	vera
@@ -3678,7 +3493,6 @@ sbr.	as	sbr.
 þó	aa	þó
 53.	ta	53.
 gr.	as	gr.
-
 Sama	fbhen	sami
 á	sfg3en	eiga
 við	aa	við
@@ -3723,7 +3537,6 @@ sbr.	as	sbr.
 þó	aa	þó
 53.	ta	53.
 gr.	as	gr.
-
 Ef	c	ef
 bætur	nvfn	bót
 eru	sfg3fn	vera
@@ -3743,7 +3556,6 @@ falla	sfg3fn	falla
 vextir	nkfn	vöxtur
 niður	aa	niður
 .	.	.
-
 Þegar	c	þegar
 greiðsla	nven	greiðsla
 skv.	as	skv.
@@ -3771,7 +3583,6 @@ sem	ct	sem
 endurkröfuréttur	nken	endurkröfuréttur
 stofnast	sfm3en	stofna
 .	.	.
-
 Heimilt	lhensf	heimill
 er	sfg3en	vera
 að	cn	að
@@ -3798,7 +3609,6 @@ og	c	og
 afskriftir	nvfo	afskrift
 krafna	nvfe	krafa
 .	.	.
-
 1	ta	1
 )	)	)
 L.	x	l
@@ -3806,10 +3616,8 @@ L.	x	l
 ,	,	,
 57.	ta	57.
 gr.	as	gr.
-
 56.	ta	56.
 gr.	as	gr.
-
 Ef	c	ef
 bótaþegi	nken	bótaþegi
 er	sfg3en	vera
@@ -3841,7 +3649,6 @@ fangelsisvist	nveo	fangelsisvist
 eða	c	eða
 dvöl	nveo	dvöl
 .	.	.
-
 Þegar	c	þegar
 bætur	nvfn	bót
 hafa	sfg3fn	hafa
@@ -3862,7 +3669,6 @@ mgr.	as	mgr.
 48.	ta	48.
 gr.	as	gr.
 ...	...	...
-
 1	ta	1
 )	)	)
 Tryggingastofnunin	nvengs	Tryggingastofnun
@@ -3906,7 +3712,6 @@ sem	aa	sem
 mestu	lheþse	mikill
 gagni	nheþ	gagn
 .	.	.
-
 1	ta	1
 )	)	)
 L.	x	l
@@ -3914,10 +3719,8 @@ L.	x	l
 ,	,	,
 57.	ta	57.
 gr.	as	gr.
-
 57.	ta	57.
 gr.	as	gr.
-
 Óheimilt	lhensf	óheimill
 er	sfg3en	vera
 að	cn	að
@@ -3955,10 +3758,8 @@ samkvæmt	aþ	samkvæmt
 lögum	nhfþ	lag
 þessum	fahfþ	þessi
 .	.	.
-
 58.	ta	58.
 gr.	as	gr.
-
 Greiða	sng	greiða
 skal	sfg3en	skulu
 bótaþegum	nkfþ	bótaþegi
@@ -3999,11 +3800,9 @@ hér	aa	hér
 á	aþ	á
 landi	nheþ	land
 .	.	.
-
 1	ta	1
 )	)	)
 ...	...	...
-
 2	ta	2
 )	)	)
 [	[	[
@@ -4050,13 +3849,11 @@ hér	aa	hér
 á	aþ	á
 landi	nheþ	land
 .	.	.
-
 1	ta	1
 )	)	)
 Rg.	as	Rg.
 1076/2006	ta	1076/2006
 .	.	.
-
 2	ta	2
 )	)	)
 L.	x	l
@@ -4076,17 +3873,14 @@ gr.	as	gr.
 Rg.	as	Rg.
 463/1999	ta	463/1999
 .	.	.
-
 B.	x	b.
 Um	ao	um
 iðgjöld	nhfo	iðgjald
 ,	,	,
 innheimtu	nveo	innheimta
 o.fl.	as	o.fl.
-
 59.	ta	59.
 gr.	as	gr.
-
 Iðgjöld	nhfo	iðgjald
 skv.	as	skv.
 36.	ta	36.
@@ -4138,7 +3932,6 @@ sem	ct	sem
 við	aa	við
 á	sfg3en	eiga
 .	.	.
-
 Ákvæði	nhfn	ákvæði
 laga	nhfe	lag
 nr.	as	nr.
@@ -4171,7 +3964,6 @@ vegna	ae	vegna
 slysatrygginga	nvfe	slysatrygging
 sjómanna	nkfe	sjómaður
 .	.	.
-
 Að	aþ	að
 tekjuári	nheþ	tekjuár
 liðnu	lheþsf	liðinn
@@ -4194,7 +3986,6 @@ sérgreint	sþghen	sérgreina
 og	c	og
 skattskrá	nveþ	skattskrá
 .	.	.
-
 Ríkisskattstjóri	nken	ríkisskattstjóri
 skal	sfg3en	skulu
 halda	sng	halda
@@ -4221,7 +4012,6 @@ sjúkratryggingastofnunarinnar	nveeg	sjúkratryggingastofnun
 er	sfg3en	vera
 ákvörðuð	sþgven	ákvarða
 .	.	.
-
 Gjalddagar	nkfn	gjalddagi
 iðgjalda	nhfe	iðgjald
 skulu	sfg3fn	skulu
@@ -4229,7 +4019,6 @@ skulu	sfg3fn	skulu
 í	aþ	í
 reglugerð	nveþ	reglugerð
 .	.	.
-
 1	ta	1
 )	)	)
 L.	x	l
@@ -4237,10 +4026,8 @@ L.	x	l
 ,	,	,
 57.	ta	57.
 gr.	as	gr.
-
 60.	ta	60.
 gr.	as	gr.
-
 Iðgjöld	nhfn	iðgjald
 til	ae	til
 slysatrygginga	nvfe	slysatrygging
@@ -4255,7 +4042,6 @@ eða	c	eða
 sérstökum	lvfþsf	sérstakur
 innheimtustofnunum	nvfþ	innheimtustofnun
 .	.	.
-
 Ákvæði	nhfn	ákvæði
 laga	nhfe	lag
 nr.	as	nr.
@@ -4277,10 +4063,8 @@ um	ao	um
 innheimtu	nveo	innheimta
 iðgjalda	nhfe	iðgjald
 .	.	.
-
 61.	ta	61.
 gr.	as	gr.
-
 Iðgjöld	nhfn	iðgjald
 útgerðarmanna	nkfe	útgerðarmaður
 fiskiskipa	nhfe	fiskiskip
@@ -4309,15 +4093,12 @@ fyrir	aþ	fyrir
 gjöldum	nhfþ	gjald
 ríkissjóðs	nkee	ríkissjóður
 .	.	.
-
 C.	x	c
 Önnur	fohfn	annar
 ákvæði	nhfn	ákvæði
 .	.	.
-
 62.	ta	62.
 gr.	as	gr.
-
 Ráðherra	nkeþ	ráðherra
 er	sfg3en	vera
 heimilt	lhensf	heimill
@@ -4373,7 +4154,6 @@ en	c	en
 bætur	nvfo	bót
 almannatrygginga	nvfe	almannatrygging
 .	.	.
-
 Skerðing	nven	skerðing
 bóta	nvfe	bót
 á	aþ	á
@@ -4386,7 +4166,6 @@ skerðingarreglum	nvfþ	skerðingarregla
 hverjum	fokeþ	hver
 tíma	nkeþ	tími
 .	.	.
-
 Í	aþ	í
 reglugerð	nveþ	reglugerð
 1	ta	1
@@ -4399,16 +4178,13 @@ um	ao	um
 öryrkjavinnu	nveo	öryrkjavinna
 þessa	faveo	þessi
 .	.	.
-
 1	ta	1
 )	)	)
 Rg.	as	Rg.
 159/1995	ta	159/1995
 .	.	.
-
 63.	ta	63.
 gr.	as	gr.
-
 Hver	foken	hver
 sá	faken	sá
 sem	ct	sem
@@ -4454,7 +4230,6 @@ framfærsluframlaga	nhfe	framfærsluframlag
 samkvæmt	aþ	samkvæmt
 úrskurðinum	nkeþg	úrskurður
 .	.	.
-
 Sama	fbhen	sami
 skal	sfg3en	skulu
 gilda	sng	gilda
@@ -4474,7 +4249,6 @@ IX.	lkeþvf	IX.
 kafla	nkeþ	kafli
 barnalaga	nhfe	barnalag
 .	.	.
-
 Fyrirframgreiðsla	nven	fyrirframgreiðsla
 meðlags	nhee	meðlag
 frá	aþ	frá
@@ -4498,7 +4272,6 @@ og	c	og
 aldur	nkeo	aldur
 barna	nhfe	barn
 .	.	.
-
 Á	ao	á
 sama	fbkeo	samur
 hátt	nkeo	háttur
@@ -4516,7 +4289,6 @@ Tryggingastofnun	nveþ-s	Tryggingastofnun
 ríkisins	nheeg	ríki
 :	:	:
 a.	x	a.
-
 Framfærslulífeyri	nkeo	framfærslulífeyrir
 í	ao	í
 allt	foheo	allur
@@ -4530,9 +4302,7 @@ mgr.	as	mgr.
 gr.	as	gr.
 barnalaga	nhfe	barnalag
 .	.	.
-
 b.	x	b.
-
 Hjúkrunar-	nkeo	hjúkrunarstyrkur
 og	c	og
 framfærslustyrk	nkeo	framfærslustyrkur
@@ -4548,9 +4318,7 @@ mgr.	as	mgr.
 gr.	as	gr.
 barnalaga	nhfe	barnalag
 .	.	.
-
 c.	x	c
-
 Kostnað	nkeo	kostnaður
 vegna	ae	vegna
 meðgöngu	nvee	meðganga
@@ -4563,7 +4331,6 @@ mgr.	as	mgr.
 gr.	as	gr.
 barnalaga	nhfe	barnalag
 .	.	.
-
 Þegar	aa	þegar
 eftir	ao	eftir
 að	c	að
@@ -4599,7 +4366,6 @@ gr.	as	gr.
 laga	nhfe	lag
 setur	sfg3en	setja
 .	.	.
-
 Tryggingastofnuninni	nveþgs	Tryggingastofnun
 er	sfg3en	vera
 heimilt	lhensf	heimill
@@ -4651,7 +4417,6 @@ gr.	as	gr.
 ekki	aa	ekki
 við	aa	við
 .	.	.
-
 Þeir	fakfn	sá
 sem	ct	sem
 annast	sfm3fn	anna
@@ -4693,7 +4458,6 @@ við	aa	við
 getur	sfg3en	geta
 átt	ssg	eiga
 .	.	.
-
 Heimilt	lhensf	heimill
 er	sfg3en	vera
 að	cn	að
@@ -4729,10 +4493,8 @@ innir	sfg3en	inna
 af	aþ	af
 hendi	nveþ	hönd
 .	.	.
-
 64.	ta	64.
 gr.	as	gr.
-
 Tryggingastofnunin	nvengs	Tryggingastofnun
 skal	sfg3en	skulu
 senda	sng	senda
@@ -4748,7 +4510,6 @@ greiðslu	nveo	greiðsla
 skv.	as	skv.
 63.	ta	63.
 gr.	as	gr.
-
 Tilkynningunni	nveþg	tilkynning
 skal	sfg3en	skulu
 fylgja	sng	fylgja
@@ -4759,7 +4520,6 @@ eða	c	eða
 staðfestum	lkeþsf	staðfestur
 samningi	nkeþ	samningur
 .	.	.
-
 Innheimtustofnun	nven-s	Innheimtustofnun
 sveitarfélaga	nhfe	sveitarfélag
 endurgreiðir	sfg3en	endurgreiða
@@ -4776,7 +4536,6 @@ eftir	aþ	eftir
 sem	ct	sem
 innheimtist	sfm3en	innheimta
 .	.	.
-
 Um	ao	um
 skil	nhfo	skil
 vegna	ae	vegna
@@ -4790,7 +4549,6 @@ um	ao	um
 Innheimtustofnun	nveo-s	Innheimtustofnun
 sveitarfélaga	nhfe	sveitarfélag
 .	.	.
-
 Ríkissjóður	nken	ríkissjóður
 endurgreiðir	sfg3en	endurgreiða
 Tryggingastofnun	nveþ-s	Tryggingastofnun
@@ -4818,7 +4576,6 @@ meðlagsúrskurður	nken	meðlagsúrskurður
 liggur	sfg3en	liggja
 fyrir	aa	fyrir
 .	.	.
-
 Þegar	c	þegar
 svo	aa	svo
 háttar	sfg3en	hátta
@@ -4865,7 +4622,6 @@ vegna	ae	vegna
 sama	fbhee	sami
 tímabils	nhee	tímabil
 .	.	.
-
 Verður	sfg3en	verða
 þá	aa	þá
 ekki	aa	ekki
@@ -4881,10 +4637,8 @@ fyrir	ao	fyrir
 það	faheo	sá
 tímabil	nheo	tímabil
 .	.	.
-
 65.	ta	65.
 gr.	as	gr.
-
 Tryggingastofnunin	nvengs	Tryggingastofnun
 getur	sfg3en	geta
 tekið	ssg	taka
@@ -4900,10 +4654,8 @@ fyrir	ao	fyrir
 einstaka	lkfosf	einstakur
 lífeyrissjóði	nkfo	lífeyrissjóður
 .	.	.
-
 66.	ta	66.
 gr.	as	gr.
-
 Heimilt	lhensf	heimill
 er	sfg3en	vera
 Tryggingastofnuninni	nveþgs	Tryggingastofnun
@@ -4914,7 +4666,6 @@ sér	fpveþ	sig
 frjálsar	lvfosf	frjáls
 slysatryggingar	nvfo	slysatrygging
 .	.	.
-
 Skal	sfg3en	skulu
 þá	aa	þá
 jafnan	aa	jafnan
@@ -4922,7 +4673,6 @@ gefa	sng	gefa
 út	aa	út
 vátryggingarskírteini	nhfo	vátryggingarskírteini
 .	.	.
-
 Enn	aa	enn
 fremur	aam	fremur
 getur	sfg3en	geta
@@ -4935,7 +4685,6 @@ að	aþ	að
 sér	fpveþ	sig
 ábyrgðartryggingar	nvfo	ábyrgðartrygging
 .	.	.
-
 Ráðherra	nken	ráðherra
 ákveður	sfg3en	ákveða
 með	aþ	með
@@ -4965,10 +4714,8 @@ tekur	sfg3en	taka
 á	ao	á
 sig	fpveo	sig
 .	.	.
-
 67.	ta	67.
 gr.	as	gr.
-
 Útgerðarmenn	nkfn	útgerðarmaður
 fiskiskipa	nhfe	fiskiskip
 skulu	sfg3fn	skulu

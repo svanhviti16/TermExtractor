@@ -16,7 +16,6 @@ kynlífs-fræðsla	nven	kynlífsfræðsla
 -hegðun	nven	hegðun
 '	'	'
 .	.	.
-
 Hugtakið	nheng	hugtak
 kynlíf	nhen	kynlíf
 (	(	(
@@ -30,7 +29,6 @@ mjög	aa	mjög
 víðtæka	lveosf	víðtækur
 merkingu	nveo	merking
 .	.	.
-
 Íslenska	lhenvf	íslenskur
 orðið	nheng	orð
 er	sfg3en	vera
@@ -60,7 +58,6 @@ lifum	sfg1fn	lifa
 sem	c	sem
 kynverur	nvfn	kynvera
 .	.	.
-
 Í	aþ	í
 því	fpheþ	það
 felst	sfm3en	fela
@@ -93,7 +90,6 @@ fram	aa	fram
 við	ao	við
 aðra	fokfo	annar
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 skilgreiningu	nveþ	skilgreining
 bandarísku	lhfevf	bandarískur
@@ -116,7 +112,6 @@ um	ao	um
 hugtakið	nheog	hugtak
 kynlíf	nheo	kynlíf
 :	:	:
-
 Kynlíf	nhen	kynlíf
 felur	sfg3en	fela
 í	aþ	í
@@ -130,7 +125,6 @@ og	c	og
 hegðun	nveo	hegðun
 einstaklingsins	nkeeg	einstaklingur
 .	.	.
-
 Það	fphen	það
 nær	sfg3en	ná
 til	ae	til
@@ -159,7 +153,6 @@ tilfinninga	nvfe	tilfinning
 og	c	og
 sambanda	nhfe	samband
 .	.	.
-
 Siðferðislegir	lkfnsf	siðferðislegur
 ,	,	,
 trúarlegir	lkfnsf	trúarlegur
@@ -180,7 +173,6 @@ sér	fpkeþ	sig
 sem	c	sem
 kynvera	nven	kynvera
 .	.	.
-
 Þessi	faven	þessi
 skilgreining	nven	skilgreining
 SIECUS	as	SIECUS
@@ -198,7 +190,6 @@ klínískan	lkeosf	klínískur
 þátt	nkeo	þáttur
 kynlífsins	nheeg	kynlíf
 .	.	.
-
 Í	aþ	í
 bók	nveþ	bók
 Masters	e	Masters
@@ -225,7 +216,6 @@ og	c	og
 menningarlegan	lkeosf	menningarlegur
 þátt	nkeo	þáttur
 .	.	.
-
 Líffræðilegi	lkenvf	líffræðilegur
 þátturinn	nkeng	þáttur
 er	sfg3en	vera
@@ -240,7 +230,6 @@ geta	sng	geta
 eignast	ssm	eigna
 börn	nhfo	barn
 .	.	.
-
 Kynsvörun	nven	kynsvörun
 ,	,	,
 og	c	og
@@ -254,7 +243,6 @@ af	aþ	af
 líffræðilega	lkeþvf	líffræðilegur
 þættinum	nkeþg	þáttur
 .	.	.
-
 Sálfélagslegi	lkenvf	sálfélagslegur
 þátturinn	nkeng	þáttur
 á	sfg3en	eiga
@@ -269,7 +257,6 @@ og	c	og
 samspil	nheo	samspil
 einstaklinga	nkfe	einstaklingur
 .	.	.
-
 Hegðunarþátturinn	nkeng	hegðunarþáttur
 snýr	sfg3en	snúa
 að	aþ	að
@@ -291,7 +278,6 @@ og	c	og
 hefur	sfg3en	hafa
 kynmök	nhfo	kynmök
 .	.	.
-
 Sá	faken	sá
 þáttur	nken	þáttur
 byggist	sfm3en	byggja
@@ -302,7 +288,6 @@ og	c	og
 sálfélagslega	lkeþvf	sálfélagslegur
 þættinum	nkeþg	þáttur
 .	.	.
-
 Klíníski	lkenvf	klínískur
 þátturinn	nkeng	þáttur
 á	sfg3en	eiga
@@ -330,7 +315,6 @@ haft	ssg	hafa
 á	ao	á
 það	fpheo	það
 .	.	.
-
 Eins	aa	eins
 getur	sfg3en	geta
 kvíði	nken	kvíði
@@ -352,7 +336,6 @@ milli	ae	milli
 tveggja	tfkfe	tveir
 einstaklinga	nkfe	einstaklingur
 .	.	.
-
 Menningarlegi	lkenvf	menningarlegur
 þátturinn	nkeng	þáttur
 eru	sfg3fn	vera
@@ -366,7 +349,6 @@ kynlíf	nheo	kynlíf
 hverjum	fokeþ	hver
 menningarheimi	nkeþ	menningarheimur
 .	.	.
-
 Hér	aa	hér
 á	aþ	á
 landi	nheþ	land
@@ -384,7 +366,6 @@ greiningar	nvee	greining
 á	aþ	á
 alnæmi	nheþ	alnæmi
 .	.	.
-
 Sú	faven	sá
 umræða	nven	umræða
 gerði	sfg3eþ	gera
@@ -399,7 +380,6 @@ um	ao	um
 notkun	nveo	notkun
 smokksins	nkeeg	smokkur
 .	.	.
-
 Á	aþ	á
 síðustu	lkfþve	síðari
 áratugum	nkfþ	áratugur
@@ -415,7 +395,6 @@ að	cn	að
 skjóta	sng	skjóta
 rótum	nvfþ	rót
 .	.	.
-
 Alþjóðaheilbrigðismálastofnunin	nvengs	Alþjóðaheilbrigðismálastofnun
 skilgreinir	sfg3en	skilgreina
 kynlífsheilbrigði	nheo	kynlífsheilbrigði
@@ -423,7 +402,6 @@ kynlífsheilbrigði	nheo	kynlífsheilbrigði
 eftirfarandi	lkeoof	eftirfarandi
 hátt	nkeo	háttur
 :	:	:
-
 Það	fphen	það
 er	sfg3en	vera
 samþætting	nven	samþætting
@@ -456,7 +434,6 @@ SIECUS	as	SIECUS
 1999	ta	1999
 )	)	)
 .	.	.
-
 Til	ae	til
 að	cn	að
 stunda	sng	stunda
@@ -482,7 +459,6 @@ færni	nveo	færni
 mannlegum	lhfþsf	mannlegur
 samskiptum	nhfþ	samskipti
 .	.	.
-
 Hver	fsken	hver
 er	sfg3en	vera
 líffræðilegur	lkensf	líffræðilegur
@@ -497,7 +473,6 @@ hvað	fshen	hver
 þá	aa	þá
 raðfullnægingar	nvfo	raðfullnæging
 ?	?	?
-
 Þar	aa	þar
 sem	c	sem
 þessi	faven	þessi
@@ -516,7 +491,6 @@ frá	aþ	frá
 því	faheþ	sá
 sjónarhorni	nheþ	sjónarhorn
 .	.	.
-
 Tel	sfg1en	telja
 ég	fp1en	ég
 þó	aa	þó
@@ -532,7 +506,6 @@ eingöngu	aa	eingöngu
 líffræðilegt	lheosf	líffræðilegur
 fyrirbæri	nheo	fyrirbæri
 .	.	.
-
 William	e	William
 H.	as	H.
 Master	e	Master
@@ -562,7 +535,6 @@ Response	e	Response
 árið	nheog	ár
 1966	ta	1966
 .	.	.
-
 Þar	aa	þar
 greindu	sfg3fþ	greina
 þau	fphfn	það
@@ -593,7 +565,6 @@ slökunarstigi	nheþ	slökunarstig
 resolution	e	resolution
 )	)	)
 .	.	.
-
 Fullnægingarstigið	nheng	fullnægingarstig
 varir	sfg3en	vara
 í	ao	í
@@ -609,7 +580,6 @@ aðeins	aa	aðeins
 fáar	lvfosf	fár
 sekúndur	nvfo	sekúnda
 .	.	.
-
 Það	fphen	það
 eru	sfg3fn	vera
 aðallega	aa	aðallega
@@ -634,7 +604,6 @@ og	c	og
 aukin	lvensf	aukinn
 vöðvaspenna	nven	vöðvaspenna
 .	.	.
-
 Á	aþ	á
 fullnægingarstiginu	nheþg	fullnægingarstig
 hjá	aþ	hjá
@@ -648,7 +617,6 @@ andardráttur	nken	andardráttur
 verða	sfg3fn	verða
 örari	lkenvm	ör
 .	.	.
-
 Blóðsókn	nven	blóðsókn
 eykst	sfm3en	auka
 til	ae	til
@@ -661,7 +629,6 @@ brjósta	nhfe	brjóst
 og	c	og
 andlits	nhee	andlit
 .	.	.
-
 Samdráttur	nken	samdráttur
 vöðva	nkfe	vöðvi
 á	aþ	á
@@ -682,14 +649,12 @@ leggöng	nhfo	leggöng
 og	c	og
 legið	nheog	leg
 .	.	.
-
 Taktfastur	lkensf	taktfastur
 samdráttur	nken	samdráttur
 verður	sfg3en	verða
 í	aþ	í
 leginu	nheþg	leg
 .	.	.
-
 Eftir	ao	eftir
 fullnæginguna	nveog	fullnæging
 fer	sfg3en	fara
@@ -703,7 +668,6 @@ fyrir	aþ	fyrir
 frekara	lheþvm	frekur
 áreiti	nheþ	áreiti
 .	.	.
-
 Í	ao	í
 kjölfar	nheo	kjölfar
 fullnægingarstigs	nhee	fullnægingarstig
@@ -719,7 +683,6 @@ refractory	e	refractory
 period	e	period
 )	)	)
 .	.	.
-
 Þar	aa	þar
 sem	ct	sem
 konan	nveng	kona
@@ -762,7 +725,6 @@ DeLamater	e	DeLamater
 2000	ta	2000
 )	)	)
 .	.	.
-
 Sálkönnuðurinn	nkeng	sálkönnuður
 Sigmund	e	Sigmund
 Freud	e	Freud
@@ -779,7 +741,6 @@ fullnægingu	nveþ	fullnæging
 hjá	aþ	hjá
 konum	nvfþ	kona
 .	.	.
-
 Annars	fokee	annar
 vegar	nkee	vegur
 fullnæging	nven	fullnæging
@@ -793,7 +754,6 @@ vegar	nkee	vegur
 um	ao	um
 leggöng	nhfo	leggöng
 .	.	.
-
 Hann	fpken	hann
 taldi	sfg3eþ	telja
 að	c	að
@@ -823,7 +783,6 @@ hið	gheo	hinn
 kvenlega	lheovf	kvenlegur
 eðli	nheo	eðli
 .	.	.
-
 Var	sfg3eþ	vera
 andlegur	lkensf	andlegur
 krankleiki	nken	krankleiki
@@ -853,7 +812,6 @@ en	c	en
 ekki	aa	ekki
 aðrar	fovfn	annar
 ?	?	?
-
 Hvað	fshen	hver
 er	sfg3en	vera
 hægt	lhensf	hægur
@@ -868,7 +826,6 @@ henni	fpveþ	hún
 ?	?	?
 )	)	)
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 er	sfg3en	vera
@@ -894,7 +851,6 @@ leggöng	nhfn	leggöng
 brjóst	nhfn	brjóst
 )	)	)
 .	.	.
-
 Þetta	fahen	þessi
 þýðir	sfg3en	þýða
 þó	aa	þó
@@ -906,13 +862,11 @@ fullnægingar	nvfn	fullnæging
 séu	svg3fn	vera
 eins	aa	eins
 .	.	.
-
 Þær	fpvfn	hún
 eru	sfg3fn	vera
 mjög	aa	mjög
 mismunandi	lvfnof	mismunandi
 .	.	.
-
 Stundum	aa	stundum
 hefur	sfg3en	hafa
 komið	ssg	koma
@@ -928,7 +882,6 @@ og	c	og
 gífurlegt	lhensf	gífurlegur
 sprengigos	nhen	sprengigos
 .	.	.
-
 Hið	ghen	hinn
 sanna	lhenvf	sannur
 er	sfg3en	vera
@@ -948,7 +901,6 @@ fullnægingu	nveþ	fullnæging
 mismunandi	lkeoof	mismunandi
 hátt	nkeo	háttur
 .	.	.
-
 Ein	tfven	einn
 minntist	sfm3eþ	minna
 til	ae	til
@@ -985,7 +937,6 @@ Kitzinger	e	Kitzinger
 1986	ta	1986
 )	)	)
 .	.	.
-
 Fram	aa	fram
 hefur	sfg3en	hafa
 komið	ssg	koma
@@ -1015,7 +966,6 @@ Kolodny	e	Kolodny
 1982	ta	1982
 )	)	)
 .	.	.
-
 Líffræðilegur	lkensf	líffræðilegur
 tilgangur	nken	tilgangur
 fullnægingarinnar	nveeg	fullnæging
@@ -1034,7 +984,6 @@ eðlilega	lveosf	eðlilegur
 starfsemi	nveo	starfsemi
 kynfæra	nhfe	kynfæri
 .	.	.
-
 Jafnframt	aa	jafnframt
 sé	svg3en	vera
 mikilvæg	lvensf	mikilvægur
@@ -1053,7 +1002,6 @@ kjölfar	nheo	kjölfar
 miklu	lveevf	mikill
 spennulosunar	nvee	spennulosun
 .	.	.
-
 Jafnframt	aa	jafnframt
 virðast	sfm3fn	virða
 rannsóknaniðurstöður	nvfn	rannsóknaniðurstaða
@@ -1099,11 +1047,9 @@ Hurlbert	e	Hurlbert
 1998	ta	1998
 )	)	)
 .	.	.
-
 Viðbót	nven	viðbót
 ritstjórnar	nvee	ritstjórn
 :	:	:
-
 Að	aþ	að
 lokum	nhfþ	lok
 má	sfg3en	mega
@@ -1139,7 +1085,6 @@ gegna	sng	gegna
 öðrum	fokeþ	annar
 tilgangi	nkeþ	tilgangur
 .	.	.
-
 Fullnæging	nven	fullnæging
 hjá	aþ	hjá
 körlum	nkfþ	karl
@@ -1158,7 +1103,6 @@ frá	aþ	frá
 sjónarmiði	nheþ	sjónarmið
 þróunarfræðinnar	nveeg	þróunarfræði
 .	.	.
-
 Eini	lkenvf	einn
 munurinn	nkeng	munur
 á	aþ	á
@@ -1194,7 +1138,6 @@ fylgir	sfg3en	fylgja
 yfirleitt	aa	yfirleitt
 fullnæging	nven	fullnæging
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 rétt	lhensf	réttur
@@ -1218,7 +1161,6 @@ umdeilt	lhensf	umdeildur
 meðal	ae	meðal
 þróunarfræðinga	nkfe	þróunarfræðingur
 .	.	.
-
 Svo	aa	svo
 má	sfg3en	mega
 benda	sng	benda
@@ -1277,7 +1219,6 @@ fram	aa	fram
 meðal	ae	meðal
 þeirra	fphfe	það
 .	.	.
-
 Af	aþ	af
 hverju	fsheþ	hver
 hafa	sfg3fn	hafa
@@ -1287,7 +1228,6 @@ kynlífslöngun	nveo	kynlífslöngun
 en	c	en
 aðrir	fokfn	annar
 ?	?	?
-
 Sálkönnuðurinn	nkeng	sálkönnuður
 Sigmund	e	Sigmund
 Freud	e	Freud
@@ -1311,7 +1251,6 @@ Schuster	e	Schuster
 1992	ta	1992
 )	)	)
 .	.	.
-
 Oftast	aae	oft
 er	sfg3en	vera
 fjallað	sþghen	fjalla
@@ -1321,7 +1260,6 @@ sem	ct	sem
 kynlöngun	nveo	kynlöngun
 einstaklingsins	nkeeg	einstaklingur
 .	.	.
-
 Aðeins	aa	aðeins
 um	aa	um
 tuttugu	tfhfn	tuttugu
@@ -1340,7 +1278,6 @@ sexual	e	sexual
 desire	e	desire
 )	)	)
 .	.	.
-
 Við	ao	við
 frekari	lvfovm	frekur
 rannsóknir	nvfo	rannsókn
@@ -1353,7 +1290,6 @@ kynlöngun	nven	kynlöngun
 er	sfg3en	vera
 algeng	lvensf	algengur
 .	.	.
-
 Ein	foven	einn
 rannsókn	nven	rannsókn
 leiddi	sfg3eþ	leiða
@@ -1379,7 +1315,6 @@ DeLamater	e	DeLamater
 2000	ta	2000
 )	)	)
 .	.	.
-
 Fólk	nhen	fólk
 er	sfg3en	vera
 margbreytilegt	lhensf	margbreytilegur
@@ -1387,7 +1322,6 @@ og	c	og
 kynlöngun	nven	kynlöngun
 mismunandi	lvenof	mismunandi
 .	.	.
-
 Hér	aa	hér
 spila	sfg3fn	spila
 líklega	aa	líklega
@@ -1413,7 +1347,6 @@ DeLamater	e	DeLamater
 2000	ta	2000
 )	)	)
 .	.	.
-
 Sumir	fokfn	sumur
 hallast	sfm3fn	halla
 meira	aam	meira
@@ -1443,7 +1376,6 @@ Baldwin	nken-s	Baldwin
 1997	ta	1997
 )	)	)
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 lögð	sþgven	leggja
@@ -1452,7 +1384,6 @@ lögð	sþgven	leggja
 margvíslega	lkfosf	margvíslegur
 skýringarþætti	nkfo	skýringarþáttur
 .	.	.
-
 Ef	c	ef
 litið	sþghen	líta
 er	sfg3en	vera
@@ -1475,7 +1406,6 @@ Kaplan	e	Kaplan
 1981	ta	1981
 )	)	)
 .	.	.
-
 Hjá	aþ	hjá
 karlmönnum	nkfþ	karlmaður
 sjá	sfg3fn	sjá
@@ -1489,7 +1419,6 @@ eggjastokkarnir	nkfng	eggjastokkur
 hjá	aþ	hjá
 konum	nvfþ	kona
 .	.	.
-
 Karlmenn	nkfn	karlmaður
 hafa	sfg3fn	hafa
 meira	lheovm	mikill
@@ -1509,7 +1438,6 @@ meiri	lveovm	mikill
 kynlöngun	nveo	kynlöngun
 karla	nkfe	karl
 .	.	.
-
 Með	aþ	með
 lækkandi	lheþof	lækkandi
 magni	nheþ	magn
@@ -1526,7 +1454,6 @@ Kaplan	e	Kaplan
 1981	ta	1981
 )	)	)
 .	.	.
-
 Margt	lhensf	margur
 getur	sfg3en	geta
 haft	ssg	hafa
@@ -1540,7 +1467,6 @@ með	aa	með
 kynlöngun	nveo	kynlöngun
 mannsins	nkeeg	maður
 .	.	.
-
 Minni	lvenvm	lítill
 kynlöngun	nven	kynlöngun
 tengist	sfm3en	tengja
@@ -1554,7 +1480,6 @@ jafnframt	aa	jafnframt
 margvíslegri	lveþsf	margvíslegur
 lyfjameðferð	nveþ	lyfjameðferð
 .	.	.
-
 Eftir	ao	eftir
 fæðingu	nveo	fæðing
 barns	nhee	barn
@@ -1574,7 +1499,6 @@ o.fl.	as	o.fl.
 1999	ta	1999
 )	)	)
 .	.	.
-
 Konur	nvfn	kona
 hafa	sfg3fn	hafa
 jafnframt	aa	jafnframt
@@ -1596,7 +1520,6 @@ Kitzinger	e	Kitzinger
 1986	ta	1986
 )	)	)
 .	.	.
-
 Hvað	fshen	hver
 einstaklingseðlið	nheog	einstaklingseðli
 og	c	og
@@ -1628,7 +1551,6 @@ kynferðisleg	lvensf	kynferðislegur
 sé	svg3en	vera
 möguleg	lvensf	mögulegur
 .	.	.
-
 Rannsókn	nven	rannsókn
 Mitchell	e	Mitchell
 ,	,	,
@@ -1652,7 +1574,6 @@ kynferðislega	aa	kynferðislega
 örvandi	lhfoof	örvandi
 áhrif	nhfo	áhrif
 .	.	.
-
 Önnur	foven	annar
 rannsókn	nven	rannsókn
 leiddi	sfg3eþ	leiða
@@ -1673,7 +1594,6 @@ Bozman	e	Bozman
 1995	ta	1995
 )	)	)
 .	.	.
-
 Hjá	aþ	hjá
 konum	nvfþ	kona
 hafði	sfg3eþ	hafa
@@ -1684,7 +1604,6 @@ en	c	en
 hjá	aþ	hjá
 körlum	nkfþ	karl
 .	.	.
-
 Rannsókn	nven	rannsókn
 sem	ct	sem
 byggði	sfg3eþ	byggja
@@ -1704,7 +1623,6 @@ en	c	en
 hlutlaust	lhensf	hlutlaus
 efni	nhen	efni
 .	.	.
-
 Styrkur	nken	styrkur
 testósteróns	nhee	testósterón
 var	sfg3eþ	vera
@@ -1720,7 +1638,6 @@ o.fl.	as	o.fl.
 1999	ta	1999
 )	)	)
 .	.	.
-
 Einnig	aa	einnig
 virðist	sfm3en	virða
 það	fahen	sá
@@ -1734,7 +1651,6 @@ kynferðislegrar	lveesf	kynferðislegur
 skipta	sng	skipta
 máli	nheþ	mál
 .	.	.
-
 Rannsókn	nven	rannsókn
 Elliott	e	Elliott
 ,	,	,
@@ -1758,7 +1674,6 @@ dregur	sfg3en	draga
 kynferðislegri	lveþsf	kynferðislegur
 örvun	nveþ	örvun
 .	.	.
-
 Margt	lhensf	margur
 fleira	lhenvm	margur
 getur	sfg3en	geta
@@ -1771,7 +1686,6 @@ og	c	og
 með	aa	með
 kynlöngun	nveo	kynlöngun
 .	.	.
-
 Má	sfg3en	mega
 þar	aa	þar
 nefna	sng	nefna
@@ -1818,7 +1732,6 @@ DeLamater	e	DeLamater
 2000	ta	2000
 )	)	)
 .	.	.
-
 Samspil	nhen	samspil
 tveggja	tfkfe	tveir
 einstaklinga	nkfe	einstaklingur
@@ -1835,7 +1748,6 @@ sambandi	nheþ	samband
 við	ao	við
 kynlöngun	nveo	kynlöngun
 .	.	.
-
 Er	sfg3en	vera
 fólk	nhen	fólk
 ánægt	lhensf	ánægður
@@ -1843,7 +1755,6 @@ fólk	nhen	fólk
 parsambandi	nheþ	parsamband
 sínu	feheþ	sinn
 ?	?	?
-
 Nær	sfg3en	ná
 það	fphen	það
 að	cn	að
@@ -1853,7 +1764,6 @@ saman	aa	saman
 um	ao	um
 kynlíf	nheo	kynlíf
 ?	?	?
-
 Getur	sfg3en	geta
 það	fphen	það
 sagt	ssg	segja
@@ -1867,7 +1777,6 @@ og	c	og
 hvað	fsheo	hver
 ekki	aa	ekki
 ?	?	?
-
 Hefur	sfg3en	hafa
 það	fphen	það
 gert	ssg	gera
@@ -1878,7 +1787,6 @@ að	cn	að
 stjórna	sng	stjórna
 barneignum	nvfþ	barneign
 ?	?	?
-
 Tveir	tfkfn	tveir
 einstaklingar	nkfn	einstaklingur
 í	aþ	í
@@ -1894,7 +1802,6 @@ kynlífi	nheþ	kynlíf
 sama	fbkeþ	sami
 tíma	nkeþ	tími
 .	.	.
-
 Mjög	aa	mjög
 líklegt	lhensf	líklegur
 er	sfg3en	vera
@@ -1912,7 +1819,6 @@ daginn	nkeog	dagur
 hinn	faken	hinn
 aðilinn	nkeng	aðili
 .	.	.
-
 Þannig	aa	þannig
 getur	sfg3en	geta
 áhuginn	nkeng	áhugi
@@ -1926,7 +1832,6 @@ Kitzinger	e	Kitzinger
 1986	ta	1986
 )	)	)
 .	.	.
-
 Af	aþ	af
 þessum	favfþ	þessi
 upplýsingum	nvfþ	upplýsing
@@ -1949,14 +1854,12 @@ mismikil	lvensf	mismikill
 hjá	aþ	hjá
 fólki	nheþ	fólk
 .	.	.
-
 Hvenær	aa	hvenær
 var	sfg3eþ	vera
 smokkurinn	nkeng	smokkur
 fundinn	sþgken	finna
 upp	aa	upp
 ?	?	?
-
 Óvíst	lhensf	óvís
 er	sfg3en	vera
 hvenær	aa	hvenær
@@ -1966,7 +1869,6 @@ fyrst	aae	fyrr
 fundinn	sþgken	finna
 upp	aa	upp
 .	.	.
-
 Þó	aa	þó
 er	sfg3en	vera
 víst	lhensf	vís
@@ -1998,7 +1900,6 @@ skrauts	nhee	skraut
 og	c	og
 örvunar	nvee	örvun
 .	.	.
-
 Nokkurs	fokee	nokkur
 konar	nkee	konar
 slíður	nhen	slíður
@@ -2017,7 +1918,6 @@ um	ao	um
 fyrir	ao	fyrir
 Krist	nkeo-s	Kristur
 .	.	.
-
 Óvíst	lhensf	óvís
 er	sfg3en	vera
 um	ao	um
@@ -2034,7 +1934,6 @@ verið	ssg	vera
 til	ae	til
 skrauts	nhee	skraut
 .	.	.
-
 Árið	nheog	ár
 1564	ta	1564
 lýsti	sfg3eþ	lýsa
@@ -2045,7 +1944,6 @@ slíðri	nheþ	slíður
 úr	aþ	úr
 hör	nkeþ	hör
 .	.	.
-
 Fljótlega	aa	fljótlega
 fylgdu	sfg3fþ	fylgja
 í	ao	í
@@ -2054,7 +1952,6 @@ slíður	nhfn	slíður
 úr	aþ	úr
 dýragörn	nveþ	dýragörn
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 ekki	aa	ekki
@@ -2072,7 +1969,6 @@ nefna	sng	nefna
 slíður	nhfo	slíður
 smokka	nkfo	smokkur
 .	.	.
-
 Upp	aa	upp
 úr	aþ	úr
 1840	ta	1840
@@ -2115,7 +2011,6 @@ Everett	e	Everett
 1998	ta	1998
 )	)	)
 .	.	.
-
 Af	aþ	af
 hverju	fsheþ	hver
 fá	sfg3fn	fá
@@ -2126,7 +2021,6 @@ en	c	en
 ekki	aa	ekki
 aðrar	fovfn	annar
 ?	?	?
-
 Hvað	fshen	hver
 er	sfg3en	vera
 hægt	lhensf	hægur
@@ -2139,7 +2033,6 @@ líkurnar	nvfog	líkur
 á	aþ	á
 henni	fpveþ	hún
 ?	?	?
-
 Athyglisvert	lhensf	athyglisverður
 er	sfg3en	vera
 að	cn	að
@@ -2161,7 +2054,6 @@ virka	lveosf	virkur
 samkvæmt	aþ	samkvæmt
 þeim	fphfþ	það
 .	.	.
-
 Sigmund	e	Sigmund
 Freud	e	Freud
 taldi	sfg3eþ	telja
@@ -2184,7 +2076,6 @@ hins	fakee	hinn
 vegar	nkee	vegur
 snípörvun	nven	snípörvun
 .	.	.
-
 Hann	fpken	hann
 hélt	sfg3eþ	halda
 því	fpheþ	það
@@ -2221,7 +2112,6 @@ Rossi	e	Rossi
 1994	ta	1994
 )	)	)
 .	.	.
-
 Nefnir	sfg3en	nefna
 Rossi	e	Rossi
 að	c	að
@@ -2260,7 +2150,6 @@ Rossi	e	Rossi
 1994	ta	1994
 )	)	)
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 er	sfg3en	vera
@@ -2279,7 +2168,6 @@ beint	aa	beint
 eða	c	eða
 óbeint	aa	óbeint
 .	.	.
-
 Þegar	c	þegar
 kona	nven	kona
 fær	sfg3en	fá
@@ -2300,7 +2188,6 @@ kynferðislegri	lveþsf	kynferðislegur
 og	c	og
 fullnægingu	nveþ	fullnæging
 .	.	.
-
 Sjúkdómar	nkfn	sjúkdómur
 ,	,	,
 lyf	nhfn	lyf
@@ -2344,7 +2231,6 @@ Donohue	e	Donohue
 1997	ta	1997
 )	)	)
 .	.	.
-
 Skoða	sng	skoða
 ætti	svg3eþ	eiga
 slíka	fbkfo	slíkur
@@ -2368,7 +2254,6 @@ sem	ct	sem
 einangrað	lheosf	einangraður
 fyrirbæri	nheo	fyrirbæri
 .	.	.
-
 Gott	lhensf	góður
 kynlíf	nhen	kynlíf
 er	sfg3en	vera
@@ -2376,7 +2261,6 @@ afrakstur	nken	afrakstur
 almennrar	lveesf	almennur
 vellíðunar	nvee	vellíðun
 .	.	.
-
 Góð	lvensf	góður
 kynlífsreynsla	nven	kynlífsreynsla
 byggist	sfm3en	byggja
@@ -2395,7 +2279,6 @@ sem	ct	sem
 eina	lheovf	einn
 takmarkið	nheog	takmark
 .	.	.
-
 Það	fphen	það
 getur	sfg3en	geta
 dregið	ssg	draga
@@ -2409,7 +2292,6 @@ að	cn	að
 fá	sng	fá
 fullnægingu	nveo	fullnæging
 .	.	.
-
 Ef	c	ef
 einstaklingurinn	nkeng	einstaklingur
 nýtur	sfg3en	njóta
@@ -2425,7 +2307,6 @@ hann	fpken	hann
 njóti	svg3en	njóta
 kynmakanna	nhfeg	kynmök
 .	.	.
-
 Ýmsar	fovfn	ýmis
 ráðleggingar	nvfn	ráðlegging
 hafa	sfg3fn	hafa
@@ -2448,7 +2329,6 @@ einstaklingsins	nkeeg	einstaklingur
 og	c	og
 parsins	nheeg	par
 .	.	.
-
 Eitt	tfhen	einn
 af	aþ	af
 því	faheþ	sá
@@ -2467,21 +2347,18 @@ reynsla	nven	reynsla
 af	aþ	af
 fullnægingu	nveþ	fullnæging
 .	.	.
-
 Hefur	sfg3en	hafa
 viðkomandi	lvenof	viðkomandi
 fengið	ssg	fá
 fullnægingu	nveo	fullnæging
 áður	aa	áður
 ?	?	?
-
 Hvaða	fsven	hvaða
 leið	nven	leið
 var	sfg3eþ	vera
 þá	aa	þá
 farin	sþgven	fara
 ?	?	?
-
 Hvað	fshen	hver
 reyndist	sfm3eþ	reyna
 vel	aa	vel
@@ -2489,7 +2366,6 @@ og	c	og
 hvað	fshen	hver
 ekki	aa	ekki
 ?	?	?
-
 Það	fphen	það
 er	sfg3en	vera
 engin	foven	enginn
@@ -2500,7 +2376,6 @@ að	cn	að
 ná	sng	ná
 fullnægingu	nveþ	fullnæging
 .	.	.
-
 Kona	nven	kona
 sem	ct	sem
 hefur	sfg3en	hafa
@@ -2526,7 +2401,6 @@ hefur	sfg3en	hafa
 fengið	ssg	fá
 fullnægingu	nveo	fullnæging
 .	.	.
-
 Skoða	sng	skoða
 þarf	sfg3en	þurfa
 einnig	aa	einnig
@@ -2537,7 +2411,6 @@ farnar	sþgvfn	fara
 til	ae	til
 örvunar	nvee	örvun
 .	.	.
-
 Stundum	aa	stundum
 þarf	sfg3en	þurfa
 að	cn	að
@@ -2551,7 +2424,6 @@ gert	sþghen	gera
 hefur	sfg3en	hafa
 verið	ssg	vera
 .	.	.
-
 Mikilvægt	lhensf	mikilvægur
 er	sfg3en	vera
 að	c	að
@@ -2573,7 +2445,6 @@ Demmons	e	Demmons
 1999	ta	1999
 )	)	)
 .	.	.
-
 Sumum	fokfþ	sumur
 getur	sfg3en	geta
 til	ae	til
@@ -2585,7 +2456,6 @@ nota	sng	nota
 hjálpartæki	nhfo	hjálpartæki
 ástarlífsins	nheeg	ástarlíf
 .	.	.
-
 Ef	c	ef
 í	ao	í
 ljós	nheo	ljós
@@ -2605,7 +2475,6 @@ prófa	sng	prófa
 aðrar	fovfo	annar
 stellingar	nvfo	stelling
 .	.	.
-
 Ef	c	ef
 konan	nveng	kona
 er	sfg3en	vera
@@ -2623,7 +2492,6 @@ stjórna	sng	stjórna
 kynmökunum	nhfþg	kynmök
 betur	aam	vel
 .	.	.
-
 Mörg	lhfnsf	margur
 önnur	fohfn	annar
 ráð	nhfn	ráð
@@ -2643,7 +2511,6 @@ við	aa	við
 hverju	foheþ	hver
 sinni	nheþ	sinn
 .	.	.
-
 Það	fahen	sá
 sem	ct	sem
 hentar	sfg3en	henta
@@ -2653,7 +2520,6 @@ kannski	aa	kannski
 ekki	aa	ekki
 öðrum	fokeþ	annar
 .	.	.
-
 Þannig	aa	þannig
 verður	sfg3en	verða
 hver	foken	hver
@@ -2672,7 +2538,6 @@ kynlífsráðgjafa	nkfe	kynlífsráðgjafi
 eða	c	eða
 meðferðaraðila	nkfe	meðferðaraðili
 .	.	.
-
 Á	aþ	á
 vefsíðunni	nveþg	vefsíða
 SexualHealth.com	v	sexualhealth.com
@@ -2689,7 +2554,6 @@ líkur	nvfo	líkur
 á	aþ	á
 fullnægingu	nveþ	fullnæging
 .	.	.
-
 Þar	aa	þar
 telur	sfg3en	telja
 Cynthia	e	Cynthia
@@ -2704,7 +2568,6 @@ að	cn	að
 ná	sng	ná
 fullnægingu	nveþ	fullnæging
 .	.	.
-
 Fjallar	sfg3en	fjalla
 hún	fpven	hún
 þar	aa	þar
@@ -2720,7 +2583,6 @@ og	c	og
 líkamlega	lkfosf	líkamlegur
 þætti	nkfo	þáttur
 .	.	.
-
 Sjá	sng	sjá
 einnig	aa	einnig
 svar	nheo	svar
@@ -2732,7 +2594,6 @@ Hvað	fshen	hver
 er	sfg3en	vera
 fullnæging	nven	fullnæging
 ?	?	?
-
 Hvers	fshee	hver
 vegna	ae	vegna
 hafna	sfg3fn	hafna
@@ -2744,7 +2605,6 @@ eða	c	eða
 eftir	ao	eftir
 blæðingar	nvfo	blæðing
 ?	?	?
-
 Upplýsingar	nvfn	upplýsing
 um	ao	um
 kynlífshegðun	nveo	kynlífshegðun
@@ -2766,7 +2626,6 @@ eða	c	eða
 eftir	ao	eftir
 blæðingar	nvfo	blæðing
 .	.	.
-
 Konur	nvfn	kona
 eru	sfg3fn	vera
 með	ao	með
@@ -2801,7 +2660,6 @@ viðhorf	nhfo	viðhorf
 til	ae	til
 þeirra	fpvfe	hún
 .	.	.
-
 Hvað	fshen	hver
 varðar	sfg3en	varða
 blæðingar	nvfo	blæðing
@@ -2826,7 +2684,6 @@ hún	fpven	hún
 hefði	svg3eþ	hafa
 blæðingar	nvfo	blæðing
 .	.	.
-
 Kemur	sfg3en	koma
 það	fphen	það
 fram	aa	fram
@@ -2857,7 +2714,6 @@ kynmök	nhfo	kynmök
 á	aþ	á
 blæðingatíma	nkeþ	blæðingatími
 .	.	.
-
 Í	aþ	í
 Biblíunni	nveþgs	Biblía
 ,	,	,
@@ -2866,7 +2722,6 @@ Mósebók	nveþ-s	Mósebók
 kemur	sfg3en	koma
 fram	aa	fram
 :	:	:
-
 Nú	aa	nú
 hefur	sfg3en	hafa
 kona	nven	kona
@@ -2900,11 +2755,9 @@ vera	sng	vera
 til	ae	til
 kvelds	nhee	kveld
 .	.	.
-
 Síðar	aam	síðar
 segir	sfg3en	segja
 :	:	:
-
 Og	c	og
 ef	c	ef
 einhver	foken	einhver
@@ -2936,7 +2789,6 @@ hann	fpken	hann
 liggur	sfg3en	liggja
 í	aa	í
 .	.	.
-
 Ruth	e	Ruth
 Westheimer	e	Westheimer
 (	(	(
@@ -2950,7 +2802,6 @@ goðsagnir	nvfo	goðsögn
 gagnvart	aþ	gagnvart
 tíðablæðingum	nvfþ	tíðablæðing
 .	.	.
-
 Dæmi	nhfn	dæmi
 um	ao	um
 þær	fpvfo	hún
@@ -3000,7 +2851,6 @@ Westheimer	e	Westheimer
 1986	ta	1986
 )	)	)
 .	.	.
-
 Nútímaþekking	nven	nútímaþekking
 segir	sfg3en	segja
 okkur	fp1fþ	ég
@@ -3013,7 +2863,6 @@ meðan	c	meðan
 blæðingum	nvfþ	blæðing
 stendur	sfg3en	standa
 .	.	.
-
 Hver	foken	hver
 einstaklingur	nken	einstaklingur
 hefur	sfg3en	hafa
@@ -3023,7 +2872,6 @@ langanir	nvfo	löngun
 og	c	og
 þrár	nvfo	þrá
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 því	aa	því
@@ -3038,7 +2886,6 @@ og	c	og
 hvenær	aa	hvenær
 ekki	aa	ekki
 .	.	.
-
 Rannsóknir	nvfn	rannsókn
 á	aþ	á
 tengslum	nhfþ	tengsl
@@ -3062,7 +2909,6 @@ fram	aa	fram
 mismunandi	lvfoof	mismunandi
 niðurstöður	nvfo	niðurstaða
 .	.	.
-
 Sumar	fovfn	sumur
 rannsóknir	nvfn	rannsókn
 hafa	sfg3fn	hafa
@@ -3090,7 +2936,6 @@ eða	c	eða
 eftir	ao	eftir
 blæðingar	nvfo	blæðing
 .	.	.
-
 Enn	aa	enn
 aðrar	fovfn	annar
 rannsóknir	nvfn	rannsókn
@@ -3127,7 +2972,6 @@ Poll	e	Poll
 1997	ta	1997
 )	)	)
 .	.	.
-
 Abplanalp	e	Abplanalp
 o.fl.	as	o.fl.
 (	(	(
@@ -3169,7 +3013,6 @@ Poll	e	Poll
 1997	ta	1997
 )	)	)
 .	.	.
-
 Nýleg	lvensf	nýlegur
 vitneskja	nven	vitneskja
 hefur	sfg3en	hafa
@@ -3193,7 +3036,6 @@ fyrir	ao	fyrir
 kynlífsvirkni	nveo	kynlífsvirkni
 kvenna	nvfe	kona
 .	.	.
-
 Rannsókn	nven	rannsókn
 Van	e	Van
 Goozen	e	Goozen
@@ -3212,7 +3054,6 @@ kynlöngun	nveþ	kynlöngun
 og	c	og
 kynlífsvirkni	nveþ	kynlífsvirkni
 .	.	.
-
 Það	fphen	það
 virðist	sfm3en	virða
 vera	sng	vera
@@ -3227,7 +3068,6 @@ en	c	en
 eftir	ao	eftir
 þær	fpvfo	hún
 .	.	.
-
 Þær	favfn	sá
 rannsóknir	nvfn	rannsókn
 byggjast	sfm3fn	byggja
@@ -3242,7 +3082,6 @@ premenstrual	e	premenstrual
 syndrome	e	syndrome
 )	)	)
 .	.	.
-
 Rannsókn	nven	rannsókn
 Van	e	Van
 Goozen	e	Goozen
@@ -3281,7 +3120,6 @@ kynlöngun	nveo	kynlöngun
 fyrir	ao	fyrir
 blæðingar	nvfo	blæðing
 .	.	.
-
 Miriam	nven-s	Miriam
 Stoppard	e	Stoppard
 (	(	(
@@ -3299,7 +3137,6 @@ ekki	aa	ekki
 á	aþ	á
 kynlífi	nheþ	kynlíf
 .	.	.
-
 Það	fphen	það
 geta	sfg3fn	geta
 verið	ssg	vera
@@ -3328,7 +3165,6 @@ eitthvað	fohen	einhver
 eða	c	eða
 dónalegt	lhensf	dónalegur
 .	.	.
-
 Það	fphen	það
 getur	sfg3en	geta
 stafað	ssg	stafa
@@ -3344,7 +3180,6 @@ löngun	nveo	löngun
 til	ae	til
 kynlífs	nhee	kynlíf
 .	.	.
-
 Eins	aa	eins
 getur	sfg3en	geta
 erfið	lvensf	erfiður
@@ -3364,7 +3199,6 @@ sig	fpveo	sig
 að	aþ	að
 kynlífi	nheþ	kynlíf
 .	.	.
-
 Jafnframt	aa	jafnframt
 hefur	sfg3en	hafa
 það	fphen	það
@@ -3400,7 +3234,6 @@ sinn	fekeo	sinn
 um	ao	um
 kynlífið	nheog	kynlíf
 .	.	.
-
 Til	ae	til
 þess	fphee	það
 að	cn	að
@@ -3430,7 +3263,6 @@ ekki	aa	ekki
 í	aþ	í
 kynlífi	nheþ	kynlíf
 .	.	.
-
 Góð	lhfnsf	góður
 tjáskipti	nhfn	tjáskipti
 um	ao	um
@@ -3441,14 +3273,12 @@ fyrir	ao	fyrir
 gott	lheosf	góður
 kynlíf	nheo	kynlíf
 .	.	.
-
 Er	sfg3en	vera
 hollt	lhensf	hollur
 að	cn	að
 stunda	sng	stunda
 kynlíf	nheo	kynlíf
 ?	?	?
-
 Kynlíf	nhen	kynlíf
 er	sfg3en	vera
 heilsusamlegt	lhensf	heilsusamlegur
@@ -3484,7 +3314,6 @@ andlega	aa	andlega
 né	c	né
 líkamlega	aa	líkamlega
 .	.	.
-
 Að	cn	að
 lifa	sng	lifa
 heilbrigðu	lheþsf	heilbrigður
@@ -3501,7 +3330,6 @@ og	c	og
 líkamlegri	lveþsf	líkamlegur
 vellíðan	nveþ	vellíðan
 .	.	.
-
 Sú	faven	sá
 vellíðan	nven	vellíðan
 gefur	sfg3en	gefa
@@ -3510,7 +3338,6 @@ orku	nveo	orka
 og	c	og
 lífsgleði	nveo	lífsgleði
 .	.	.
-
 Hér	aa	hér
 á	aþ	á
 landi	nheþ	land
@@ -3525,7 +3352,6 @@ við	ao	við
 vandamálahliðar	nvfo	vandamálahlið
 þess	fphee	það
 .	.	.
-
 Í	aþ	í
 kennslu	nveþ	kennsla
 ,	,	,
@@ -3553,7 +3379,6 @@ að	aþ	að
 heilbrigði	nheþ	heilbrigði
 þess	fphee	það
 .	.	.
-
 Nemendur	nkfn	nemandi
 eru	sfg3fn	vera
 sjaldnast	aae	sjaldan
@@ -3587,7 +3412,6 @@ um	ao	um
 heilbrigt	lheosf	heilbrigður
 kynlíf	nheo	kynlíf
 .	.	.
-
 Miðað	sþghen	miða
 við	ao	við
 umfjöllun	nveo	umfjöllun
@@ -3611,7 +3435,6 @@ Evrópu	nveþ-s	Evrópa
 og	c	og
 Ameríku	nveþ-s	Ameríka
 .	.	.
-
 Í	aþ	í
 þeirri	faveþ	sá
 umræðu	nveþ	umræða
@@ -3637,7 +3460,6 @@ tveir	tfkfn	tveir
 eru	sfg3fn	vera
 nátengdir	lkfnsf	nátengdur
 .	.	.
-
 En	c	en
 hvað	fshen	hver
 er	sfg3en	vera
@@ -3645,7 +3467,6 @@ er	sfg3en	vera
 heilbrigt	lhensf	heilbrigður
 kynlíf	nhen	kynlíf
 ?	?	?
-
 Í	aþ	í
 þessu	faheþ	þessi
 svari	nheþ	svar
@@ -3679,7 +3500,6 @@ fólki	nheþ	fólk
 þessu	faheþ	þessi
 sviði	nheþ	svið
 .	.	.
-
 Heilbrigt	lhensf	heilbrigður
 kynlíf	nhen	kynlíf
 (	(	(
@@ -3702,14 +3522,12 @@ við	ao	við
 annan	fokeo	annar
 einstakling	nkeo	einstaklingur
 .	.	.
-
 Hér	aa	hér
 verður	sfg3en	verða
 þremur	tfvfþ	þrír
 aðferðum	nvfþ	aðferð
 lýst	sþghen	lýsa
 .	.	.
-
 Í	aþ	í
 fyrsta	lheþve	fyrstur
 lagi	nheþ	lag
@@ -3735,7 +3553,6 @@ af	aþ	af
 fyrri	lkfevm	fyrri
 tíma	nkfe	tími
 .	.	.
-
 Þá	aa	þá
 aukast	sfm3fn	auka
 vaxtagreiðslur	nvfn	vaxtagreiðsla
@@ -3752,7 +3569,6 @@ eru	sfg3fn	vera
 greiddir	sþgkfn	greiða
 vaxtavextir	nkfn	vaxtavextir
 .	.	.
-
 Í	aþ	í
 öðru	lheþsf	öðr
 lagi	nheþ	lag
@@ -3778,7 +3594,6 @@ um	ao	um
 árið	nheog	ár
 )	)	)
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 hægt	lhensf	hægur
@@ -3791,7 +3606,6 @@ kosti	nkeþ	kostur
 tvennum	lkeþsf	tvennur
 hætti	nkeþ	háttur
 .	.	.
-
 Við	ao	við
 notkun	nveo	notkun
 annarrar	fovee	annar
@@ -3828,7 +3642,6 @@ tímabili	nheþ	tímabil
 oftast	aae	oft
 ári	nheþ	ár
 .	.	.
-
 Þegar	c	þegar
 lánstíminn	nkeng	lánstími
 er	sfg3en	vera
@@ -3874,7 +3687,6 @@ væri	svg3eþ	vera
 jafn	lkensf	jafn
 viðmiðunartímabilinu	nheþg	viðmiðunartímabil
 .	.	.
-
 Á	aþ	á
 máli	nheþ	mál
 fræðimanna	nkfe	fræðimaður
@@ -3913,7 +3725,6 @@ discrete	e	discrete
 compounding	e	compounding
 )	)	)
 .	.	.
-
 Fyrri	lvenvm	fyrri
 aðferðin	nveng	aðferð
 byggir	sfg3en	byggja
@@ -3936,7 +3747,6 @@ um	ao	um
 bil	nheo	bil
 2,718	ta	2,718
 .	.	.
-
 Til	ae	til
 að	cn	að
 flækja	sng	flækja
@@ -3951,7 +3761,6 @@ dagatal	nhen	dagatal
 við	ao	við
 vaxtaútreikninga	nkfo	vaxtaútreikningur
 .	.	.
-
 Í	aþ	í
 því	fpheþ	það
 eru	sfg3fn	vera
@@ -3979,7 +3788,6 @@ og	c	og
 svo	aa	svo
 framvegis	aa	framvegis
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 augljóslega	aa	augljóslega
@@ -4016,7 +3824,6 @@ löngu	lheþsf	langur
 liðin	lvensf	liðinn
 tíð	nven	tíð
 .	.	.
-
 Við	fp1fn	ég
 skulum	sfg1fn	skulu
 skoða	sng	skoða
@@ -4027,7 +3834,6 @@ kemur	sfg3en	koma
 í	aþ	í
 dæmi	nheþ	dæmi
 .	.	.
-
 Höldum	svg1fn	halda
 okkur	fp1fo	ég
 við	ao	við
@@ -4056,7 +3862,6 @@ að	aþ	að
 láni	nheþ	lán
 )	)	)
 .	.	.
-
 Látum	svg1fn	láta
 d	nheo	d
 tákna	sng	tákna
@@ -4074,7 +3879,6 @@ vexti	nkfo	vöxtur
 í	aþ	í
 krónum	nvfþ	króna
 .	.	.
-
 Reiknireglurnar	nvfng	reikniregla
 fyrir	ao	fyrir
 þessar	favfo	þessi
@@ -4110,7 +3914,6 @@ vasareikni	nkeþ	vasareiknir
 eða	c	eða
 töflureikni	nkeþ	töflureiknir
 .	.	.
-
 Skoðum	svg1fn	skoða
 loks	aa	loks
 niðurstöðuna	nveog	niðurstaða
@@ -4146,7 +3949,6 @@ vexti	nkfo	vöxtur
 samfelldum	lkeþsf	samfelldur
 tíma	nkeþ	tími
 .	.	.
-
 Þá	aa	þá
 eru	sfg3fn	vera
 flatir	lkfnsf	flatur
@@ -4177,7 +3979,6 @@ jafnhagkvæmar	lvfnsf	jafnhagkvæmur
 fyrir	ao	fyrir
 lántakandann	nkeog	lántakandi
 .	.	.
-
 Þetta	fahen	þessi
 snýst	sfm3en	snúa
 vitaskuld	aa	vitaskuld
@@ -4185,7 +3986,6 @@ við	aa	við
 fyrir	ao	fyrir
 lánveitanda	nkeo	lánveitandi
 .	.	.
-
 ECR	as	ECR
 er	sfg3en	vera
 skammstöfun	nven	skammstöfun
@@ -4202,7 +4002,6 @@ sem	c	sem
 skilvirk	lvensf	skilvirkur
 neytendasvörun	nven	neytendasvörun
 .	.	.
-
 QR	as	QR
 er	sfg3en	vera
 skammstöfun	nven	skammstöfun
@@ -4216,7 +4015,6 @@ einfaldlega	aa	einfaldlega
 skjót	lhfnsf	skjótur
 viðbrögð	nhfn	viðbragð
 .	.	.
-
 Bæði	fohfn	báðir
 hugtökin	nhfng	hugtak
 eru	sfg3fn	vera
@@ -4239,7 +4037,6 @@ framleiðanda	nkeþ	framleiðandi
 til	ae	til
 neytenda	nkfe	neytandi
 .	.	.
-
 QR	as	QR
 kom	sfg3eþ	koma
 fyrst	aae	fyrr
@@ -4272,7 +4069,6 @@ og	c	og
 skyldar	lvfosf	skyldur
 vörur	nvfo	vara
 .	.	.
-
 Í	aþ	í
 sinni	feveþ	sinn
 einföldustu	lveþve	einfaldur
@@ -4307,7 +4103,6 @@ stað	nkeo	staður
 sem	ct	sem
 seljast	sfm3fn	selja
 .	.	.
-
 Árangur	nken	árangur
 á	aþ	á
 þessu	faheþ	þessi
@@ -4321,7 +4116,6 @@ dregið	ssg	draga
 úr	aþ	úr
 rýrnun	nveþ	rýrnun
 .	.	.
-
 QR	as	QR
 byggist	sfm3en	byggja
 meðal	ae	meðal
@@ -4348,7 +4142,6 @@ stað	nkeo	staður
 pappírs	nkee	pappír
 áður	aa	áður
 .	.	.
-
 ECR	as	ECR
 kom	sfg3eþ	koma
 fram	aa	fram
@@ -4361,7 +4154,6 @@ einnig	aa	einnig
 í	aþ	í
 Bandaríkjunum	nhfþgs	Bandaríki
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 upphaflega	aa	upphaflega
@@ -4377,7 +4169,6 @@ og	c	og
 skyldar	lvfosf	skyldur
 vörur	nvfo	vara
 .	.	.
-
 Það	fphen	það
 byggist	sfm3en	byggja
 að	aþ	að
@@ -4406,7 +4197,6 @@ hraðar	aam	hratt
 en	c	en
 fataverslanir	nvfn	fataverslun
 .	.	.
-
 Að	aþ	að
 mörgu	lheþsf	margur
 leyti	nheþ	leyti
@@ -4424,7 +4214,6 @@ lausnir	nvfo	lausn
 ýmsum	fohfþ	ýmis
 viðfangsefnum	nhfþ	viðfangsefni
 .	.	.
-
 ECR	as	ECR
 nær	sfg3en	ná
 til	ae	til
@@ -4443,7 +4232,6 @@ nokkuð	fohen	nokkur
 víðtækara	lhenvm	víðtækur
 hugtak	nhen	hugtak
 .	.	.
-
 Þá	aa	þá
 eru	sfg3fn	vera
 áherslur	nvfn	áhersla
@@ -4455,7 +4243,6 @@ milli	ae	milli
 þessara	fahfe	þessi
 kerfa	nhfe	kerfi
 .	.	.
-
 Hugmyndin	nveng	hugmynd
 með	aþ	með
 QR	as	QR
@@ -4479,7 +4266,6 @@ leiðir	nvfo	leið
 til	ae	til
 sparnaðar	nkee	sparnaður
 .	.	.
-
 Þótt	c	þótt
 bæði	c	bæði
 kerfin	nhfng	kerfi
@@ -4502,13 +4288,11 @@ og	c	og
 annars	fokee	annar
 staðar	nkee	staður
 .	.	.
-
 Gjaldmiðill	nken	gjaldmiðill
 Armeníu	nvee-s	Armenía
 nefnist	sfm3en	nefna
 dram	nhen	dram
 .	.	.
-
 Eitt	tfhen	einn
 dram	nhen	dram
 kostar	sfg3en	kosta
@@ -4523,7 +4307,6 @@ ritað	sþghen	rita
 (	(	(
 14.5.03	ta	14.5.03
 )	)	)
-
 Armenía	nven-s	Armenía
 var	sfg3eþ	vera
 fyrr	aam	fyrr
@@ -4539,7 +4322,6 @@ tilheyra	sfg3fn	tilheyra
 nú	aa	nú
 nágrannalöndunum	nhfþg	nágrannaland
 .	.	.
-
 Armenía	nven-s	Armenía
 var	sfg3eþ	vera
 hluti	nken	hluti
@@ -4567,14 +4349,12 @@ Sovétríkin	nhfogs	Sovétríkin
 árið	nheog	ár
 1920	ta	1920
 .	.	.
-
 Armenía	nven-s	Armenía
 varð	sfg3eþ	verða
 sjálfstætt	lhensf	sjálfstæður
 ríki	nhen	ríki
 1991	ta	1991
 .	.	.
-
 Meðan	c	meðan
 landið	nheng	land
 var	sfg3eþ	vera
@@ -4596,7 +4376,6 @@ upp	aa	upp
 árið	nheog	ár
 1993	ta	1993
 .	.	.
-
 Það	fphen	það
 virðist	sfm3en	virða
 óhætt	lhensf	óhætt
@@ -4622,7 +4401,6 @@ hve	aa	hve
 hún	fpven	hún
 er	sfg3en	vera
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 helst	aae	heldur
@@ -4650,7 +4428,6 @@ baráttu	nveþ	barátta
 við	ao	við
 verðbólgu	nveo	verðbólga
 .	.	.
-
 Hið	gheo	hinn
 sama	fbheo	sami
 má	sfg3en	mega
@@ -4672,7 +4449,6 @@ hve	aa	hve
 hún	fpven	hún
 er	sfg3en	vera
 .	.	.
-
 Almenna	lvenvf	almennur
 reglan	nveng	regla
 í	aþ	í
@@ -4712,7 +4488,6 @@ svo	aa	svo
 sem	c	sem
 verðlagsvísitölur	nvfo	verðlagsvísitala
 .	.	.
-
 Á	aþ	á
 Íslandi	nheþ-s	Ísland
 er	sfg3en	vera
@@ -4742,7 +4517,6 @@ en	c	en
 þriggja	tfhfe	þrír
 ára	nhfe	ár
 .	.	.
-
 Á	aþ	á
 lánum	nhfþ	lán
 sem	ct	sem
@@ -4773,7 +4547,6 @@ reiknar	sfg3en	reikna
 sem	c	sem
 viðmiðun	nveo	viðmiðun
 .	.	.
-
 Ekkert	fohen	enginn
 í	aþ	í
 lögum	nhfþ	lag
@@ -4794,7 +4567,6 @@ tíma	nkee	tími
 séu	svg3fn	vera
 óverðtryggð	lhfnsf	óverðtryggður
 .	.	.
-
 Ástæðan	nveng	ástæða
 fyrir	aþ	fyrir
 því	fpheþ	það
@@ -4849,7 +4621,6 @@ taka	sng	taka
 verðtryggð	lhfosf	verðtryggður
 lán	nhfo	lán
 .	.	.
-
 Í	aþ	í
 löndum	nhfþ	land
 þar	aa	þar
@@ -4889,7 +4660,6 @@ og	c	og
 óstöðugri	lveþsf	óstöðugur
 verðbólgu	nveþ	verðbólga
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 eðlilegt	lhensf	eðlilegur
@@ -4921,7 +4691,6 @@ við	aþ	við
 slíkum	fbkfþ	slíkur
 atburðum	nkfþ	atburður
 .	.	.
-
 Ef	c	ef
 lán	nhfn	lán
 til	ae	til
@@ -4942,7 +4711,6 @@ jafna	lkfosf	jafn
 nokkur	foven	nokkur
 verðtrygging	nven	verðtrygging
 .	.	.
-
 Þá	aa	þá
 taka	sfg3fn	taka
 vextir	nkfn	vöxtur
@@ -4964,7 +4732,6 @@ til	ae	til
 skamms	lkeesf	skammur
 tíma	nkee	tími
 .	.	.
-
 Vegna	ae	vegna
 þess	fphee	það
 að	c	að
@@ -4989,7 +4756,6 @@ komið	ssg	koma
 stað	nkeo	staður
 verðtryggingar	nvee	verðtrygging
 .	.	.
-
 Það	fphen	það
 getur	sfg3en	geta
 þó	aa	þó

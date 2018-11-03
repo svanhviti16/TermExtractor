@@ -7,7 +7,6 @@ athygli	nveo	athygli
 myndi	svg3eþ	munu
 vekja	sng	vekja
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 hitt	ssg	hitta
@@ -19,7 +18,6 @@ fengið	ssg	fá
 indælar	lvfosf	indæll
 tölvupósts-sendingar	nvfo	tölvupósts-sending
 .	.	.
-
 Umfjöllunin	nveng	umfjöllun
 um	ao	um
 þetta	faheo	þessi
@@ -29,7 +27,6 @@ verið	ssg	vera
 ansi	aa	ansi
 viðamikil	lvensf	viðamikill
 .	.	.
-
 Auðvitað	aa	auðvitað
 hefur	sfg3en	hafa
 þetta	fahen	þessi
@@ -44,7 +41,6 @@ líka	aa	líka
 hefðbundnum	lkfþsf	hefðbundinn
 fjölmiðlum	nkfþ	fjölmiðill
 .	.	.
-
 Ég	fp1en	ég
 komst	sfm1eþ	koma
 í	ao	í
@@ -66,7 +62,6 @@ heilsíðugrein	nven	heilsíðugrein
 um	ao	um
 uppboðið	nheog	uppboð
 .	.	.
-
 Svo	aa	svo
 var	sfg3eþ	vera
 viðtal	nhen	viðtal
@@ -75,7 +70,6 @@ mömmu	nveo	mamma
 daginn	nkeog	dagur
 eftir	aa	eftir
 .	.	.
-
 Sama	fbkeo	samur
 dag	nkeo	dagur
 og	c	og
@@ -92,7 +86,6 @@ mig	fp1eo	ég
 á	aþ	á
 NFS	as	NFS
 .	.	.
-
 Fyrir	ao	fyrir
 þá	fakfo	sá
 ,	,	,
@@ -108,7 +101,6 @@ horfa	sng	horfa
 viðtalið	nheog	viðtal
 hér	aa	hér
 .	.	.
-
 Þú	fp2en	þú
 þarft	sfg2en	þurfa
 bara	aa	bara
@@ -135,7 +127,6 @@ heppnast	ssm	heppnast
 nokkuð	fohen	nokkur
 vel	aa	vel
 .	.	.
-
 Síðan	aa	síðan
 kom	sfg3eþ	koma
 viðtal	nhen	viðtal
@@ -146,7 +137,6 @@ Mogganum	nkeþgs	Moggi
 síðasta	lkeove	síðari
 laugardag	nkeo	laugardagur
 .	.	.
-
 Umfjöllunin	nveng	umfjöllun
 í	aþ	í
 bloggheimum	nkfþ	bloggheimur
@@ -155,7 +145,6 @@ náttúrululega	aa	náttúrululega
 verið	ssg	vera
 mikil	lvensf	mikill
 .	.	.
-
 Flestar	lvfnse	margur
 heimsóknir	nvfn	heimsókn
 komu	sfg3fþ	koma
@@ -167,7 +156,6 @@ Geimur	nken-s	Geimur
 og	c	og
 B2	ta	b2
 .	.	.
-
 Svo	aa	svo
 linkuðu	sfg3fþ	linka
 nokkrar	fovfn	nokkur
@@ -194,7 +182,6 @@ fullt	lhensf	fullur
 af	aþ	af
 fleirum	lkfþsm	margur
 .	.	.
-
 Það	fphen	það
 væri	svg3eþ	vera
 of	aa	of
@@ -220,7 +207,6 @@ linkuðu	sfg3fþ	linka
 á	ao	á
 uppboðið	nheog	uppboð
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 líka	aa	líka
@@ -241,7 +227,6 @@ frá	aþ	frá
 framtaki	nheþ	framtak
 mínu	feheþ	minn
 .	.	.
-
 Og	c	og
 það	fphen	það
 er	sfg3en	vera
@@ -250,7 +235,6 @@ að	aþ	að
 mínu	feheþ	minn
 mati	nheþ	mat
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 svipað	lhensf	svipaður
@@ -258,7 +242,6 @@ og	c	og
 með	ao	með
 ferðalög	nhfo	ferðalag
 .	.	.
-
 Það	fphen	það
 þarf	sfg3en	þurfa
 bara	aa	bara
@@ -271,7 +254,6 @@ og	c	og
 gera	sng	gera
 eitthvað	foheo	einhver
 .	.	.
-
 Ekki	aa	ekki
 bara	aa	bara
 að	cn	að
@@ -285,7 +267,6 @@ ekki	aa	ekki
 gert	ssg	gera
 neitt	foheo	neinn
 .	.	.
-
 Það	fphen	það
 þarf	sfg3en	þurfa
 engin	fohfo	enginn
@@ -303,7 +284,6 @@ styðja	sng	styðja
 það	fpheo	það
 reglulega	aa	reglulega
 .	.	.
-
 En	c	en
 ég	fp1en	ég
 þarf	sfg1en	þurfa
@@ -337,7 +317,6 @@ jólagjafir	nvfo	jólagjöf
 handa	aþ	handa
 fjölskyldunni	nveþg	fjölskylda
 .	.	.
-
 En	c	en
 ég	fp1en	ég
 mun	sfg1en	munu
@@ -370,14 +349,12 @@ peningnum	nkeþg	peningur
 verður	sfg3en	verða
 varið	sþghen	verja
 .	.	.
-
 En	c	en
 þangað	aa	þangað
 til	aa	til
 :	:	:
 Takk	au	takk
 !	!	!
-
 Þáttur	nken	þáttur
 á	aþ	á
 RÚV	as	RÚV
@@ -385,7 +362,6 @@ desember	nkeo	desember
 20	ta	20
 ,	,	,
 2005	ta	2005
-
 Veit	sfg3en	vita
 einhver	foken	einhver
 hvar	aa	hvar
@@ -408,7 +384,6 @@ RÚV	as	RÚV
 í	aa	í
 gær	aa	gær
 ?	?	?
-
 Verður	sfg3en	verða
 þetta	fahen	þessi
 endursýnt	sþghen	endursýna
@@ -431,7 +406,6 @@ ekki	aa	ekki
 dönsku	nveo	danska
 )	)	)
 .	.	.
-
 Ég	fp1en	ég
 ætlaði	sfg1eþ	ætla
 að	cn	að
@@ -454,7 +428,6 @@ missti	sfg1eþ	missa
 af	aþ	af
 þættinum	nkeþg	þáttur
 .	.	.
-
 Bestu	lhfnve	góður
 lögin	nhfng	lag
 2005	ta	2005
@@ -462,7 +435,6 @@ desember	nkeo	desember
 19	ta	19
 ,	,	,
 2005	ta	2005
-
 Þá	aa	þá
 er	sfg3en	vera
 komið	sþghen	koma
@@ -484,7 +456,6 @@ að	aþ	að
 mínu	feheþ	minn
 mati	nheþ	mat
 .	.	.
-
 Í	ao	í
 þetta	faheo	þessi
 skiptið	nheog	skipti
@@ -496,14 +467,12 @@ skipta	sng	skipta
 í	ao	í
 tvennt	lheosf	tvennur
 .	.	.
-
 Fyrst	aae	fyrr
 lögin	nhfng	lag
 og	c	og
 síðan	aa	síðan
 plöturnar	nvfng	plata
 .	.	.
-
 En	c	en
 allavegana	aa	allavegana
 ,	,	,
@@ -518,7 +487,6 @@ að	aþ	að
 mínu	feheþ	minn
 mati	nheþ	mat
 .	.	.
-
 Kelly	e	Kelly
 Clarkson	e	Clarkson
 -	-	-
@@ -538,12 +506,10 @@ dottið	ssg	detta
 í	ao	í
 hug	nkeo	hugur
 .	.	.
-
 Kelly	e	Kelly
 fokking	aa	fokking
 Clarkson	e	Clarkson
 .	.	.
-
 American	e	American
 Idol	e	Idol
 og	c	og
@@ -551,7 +517,6 @@ allur	foken	allur
 sá	faken	sá
 viðbjóður	nken	viðbjóður
 .	.	.
-
 En	c	en
 þetta	fahen	þessi
 lag	nhen	lag
@@ -562,7 +527,6 @@ grípandi	lhenof	grípandi
 og	c	og
 skemmtilegt	lhensf	skemmtilegur
 .	.	.
-
 Ég	fp1en	ég
 gaf	sfg1eþ	gefa
 því	fpheþ	það
@@ -584,7 +548,6 @@ að	cn	að
 hrósa	sng	hrósa
 því	fpheþ	það
 .	.	.
-
 Og	c	og
 það	fphen	það
 er	sfg3en	vera
@@ -611,7 +574,6 @@ horfa	sng	horfa
 á	ao	á
 Ædol	nheo-s	Ædol
 .	.	.
-
 Ég	fp1en	ég
 gaf	sfg1eþ	gefa
 því	fpheþ	það
@@ -636,13 +598,11 @@ fast	lhensf	fastur
 margar	lvfosf	margur
 vikur	nvfo	vika
 .	.	.
-
 Einfaldlega	aa	einfaldlega
 besta	lhenve	góður
 lag	nhen	lag
 ársins	nheeg	ár
 .	.	.
-
 Það	fphen	það
 kom	sfg3eþ	koma
 þá	aa	þá
@@ -655,7 +615,6 @@ Idol	e	Idol
 vitleysu	nveþ	vitleysa
 allri	foveþ	allur
 .	.	.
-
 Sigur	nken-s	sigur
 Rós	nven-s	Rós
 -	-	-
@@ -678,7 +637,6 @@ hlustað	ssg	hlusta
 á	aþ	á
 árinu	nheþg	ár
 .	.	.
-
 Enda	c	enda
 er	sfg3en	vera
 þetta	fahen	þessi
@@ -689,14 +647,12 @@ frábærri	lveþsf	frábær
 plötu	nveþ	plata
 Sigurrósar	nvee-s	Sigurrós
 .	.	.
-
 Bloc	e	Bloc
 Party	e	Party
 -	-	-
 Like	e	Like
 Eating	e	Eating
 Glass	e	Glass
-
 The	e	The
 Cardigans	e	Cardigans
 -	-	-
@@ -724,7 +680,6 @@ einsog	c	einsog
 gerist	sfm3en	gera
 best	lhense	góður
 .	.	.
-
 Nina	e	Nina
 er	sfg3en	vera
 algjörlega	aa	algjörlega
@@ -734,7 +689,6 @@ toppnum	nkeþg	toppur
 þessu	faheþ	þessi
 lagi	nheþ	lag
 .	.	.
-
 Coldplay	e	Coldplay
 -	-	-
 Fix	e	Fix
@@ -758,7 +712,6 @@ meiru	lheþvm	meiru
 frá	aþ	frá
 Coldplay	e	Coldplay
 .	.	.
-
 En	c	en
 Fix	e	Fix
 You	e	You
@@ -769,7 +722,6 @@ sem	c	sem
 frábært	lhensf	frábær
 lag	nhen	lag
 .	.	.
-
 The	e	The
 Game	e	Game
 -	-	-
@@ -789,7 +741,6 @@ hans	fpkee	hann
 er	sfg3en	vera
 frábær	lvensf	frábær
 .	.	.
-
 Ég	fp1en	ég
 hélt	sfg1eþ	halda
 að	c	að
@@ -835,7 +786,6 @@ með	aþ	með
 The	e	The
 Game	e	Game
 .	.	.
-
 Queens	e	Queens
 of	e	of
 the	e	the
@@ -853,7 +803,6 @@ plötu	nveþ	plata
 frá	aþ	frá
 QOTSA	as	QOTSA
 .	.	.
-
 Weezer	e	Weezer
 -	-	-
 Perfect	e	Perfect
@@ -866,7 +815,6 @@ lélegri	lveþsf	lélegur
 Weezer	e	Weezer
 plötu	nveþ	plata
 .	.	.
-
 Antony	e	Antony
 and	e	and
 the	e	the
@@ -893,7 +841,6 @@ skríbentar	nkfn	skríbent
 á	aþ	á
 landinu	nheþg	land
 .	.	.
-
 Platan	nveng	plata
 er	sfg3en	vera
 *	*	*
@@ -909,7 +856,6 @@ margir	lkfnsf	margur
 vilja	sfg3fn	vilja
 meina	sng	meina
 .	.	.
-
 En	c	en
 þetta	fahen	þessi
 er	sfg3en	vera
@@ -917,7 +863,6 @@ besta	lhenve	góður
 lag	nhen	lag
 plötunnar	nveeg	plata
 .	.	.
-
 Madonna	e	Madonna
 -	-	-
 Hung	e	Hung
@@ -928,31 +873,26 @@ efa	nkee	efi
 danslag	nhen	danslag
 ársins	nheeg	ár
 .	.	.
-
 Fáránlega	aa	fáránlega
 grípandi	lhenof	grípandi
 hjá	aþ	hjá
 Madonnu	e	Madonnu
 .	.	.
-
 Snoop	e	Snoop
 Dogg	e	Dogg
 &	c	&
 Justin	e	Justin
 -	-	-
 Signs	e	Signs
-
 Eels	e	Eels
 -	-	-
 Railroad	e	Railroad
 Man	e	man
-
 Nine	e	Nine
 Inch	e	Inch
 Nails	e	Nails
 -	-	-
 Only	e	Only
-
 System	e	System
 of	e	of
 a	e	a
@@ -960,7 +900,6 @@ Down	e	Down
 -	-	-
 B.y.o.b	e	B.y.o.b
 .	.	.
-
 Ampop	e	Ampop
 -	-	-
 My	e	My
@@ -991,11 +930,9 @@ afsannar	sfg3en	afsanna
 kenningu	nveo	kenning
 mína	feveo	minn
 .	.	.
-
 Frábært	lhensf	frábær
 lag	nhen	lag
 .	.	.
-
 Nálægt	aþ	nálægt
 því	fpheþ	það
 að	cn	að
@@ -1043,7 +980,6 @@ Lost	e	Lost
 The	e	The
 Magic	e	Magic
 Numbers	e	Numbers
-
 Plöturnar	nvfng	plata
 koma	sfg3fn	koma
 svo	aa	svo
@@ -1052,7 +988,6 @@ seinna	aam	seint
 þessari	faveþ	þessi
 viku	nveþ	vika
 .	.	.
-
 Laugardagksvöld	nhen	laugardagksvöld
 fyrir	ao	fyrir
 jól	nhfo	jól
@@ -1060,7 +995,6 @@ desember	nkeo	desember
 17	ta	17
 ,	,	,
 2005	ta	2005
-
 Hvað	fsheo	hver
 gerir	sfg3en	gera
 ungur	lkensf	ungur
@@ -1068,7 +1002,6 @@ piparsveinn	nken	piparsveinn
 á	aþ	á
 laugardagskvöldi	nheþ	laugardagskvöld
 ?	?	?
-
 Jú	au	jú
 ,	,	,
 í	aþ	í
@@ -1093,11 +1026,9 @@ búandi	slg	búa
 til	aa	til
 sósur	nvfo	sósa
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 hressandi	lhenof	hressandi
-
 Einhvern	fokeo	einhver
 veginn	nkeog	vegur
 varð	sfg3eþ	verða
@@ -1116,7 +1047,6 @@ mér	fp1eþ	ég
 vonir	nvfo	von
 um	aa	um
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 svo	aa	svo
@@ -1126,7 +1056,6 @@ af	aþ	af
 nokkrum	fokfþ	nokkur
 atburðum	nkfþ	atburður
 .	.	.
-
 Dagurinn	nkeng	dagur
 í	ao	í
 dag	nkeo	dagur
@@ -1137,7 +1066,6 @@ stærsti	lkenve	stór
 sögu	nveþ	saga
 Serrano	e	Serrano
 .	.	.
-
 Við	fp1fn	ég
 höfum	sfg1fn	hafa
 aldrei	aa	aldrei
@@ -1160,7 +1088,6 @@ um	ao	um
 rúmlega	aa	rúmlega
 10%	tp	10%
 .	.	.
-
 Um	aa	um
 klukkan	nveng	klukka
 6	ta	6
@@ -1200,7 +1127,6 @@ kláraði	sfg1eþ	klára
 vaktina	nveog	vakt
 hennar	fpvee	hún
 .	.	.
-
 Ég	fp1en	ég
 veit	sfg1en	vita
 ekki	aa	ekki
@@ -1227,7 +1153,6 @@ er	sfg3en	vera
 að	cn	að
 gera	sng	gera
 .	.	.
-
 Ég	fp1en	ég
 fyllist	sfm1en	fylla
 einhverri	foveþ	einhver
@@ -1237,7 +1162,6 @@ við	ao	við
 allt	foheo	allur
 saman	aa	saman
 .	.	.
-
 Annars	aa	annars
 hef	sfg1en	hafa
 ég	fp1en	ég
@@ -1262,7 +1186,6 @@ boðið	ssg	bjóða
 á	aþ	á
 uppboðinu	nheþg	uppboð
 .	.	.
-
 Held	sfg1en	halda
 að	c	að
 ég	fp1en	ég
@@ -1280,7 +1203,6 @@ nokkuð	fohen	nokkur
 góður	lkensf	góður
 árangur	nken	árangur
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 birtist	sfm3eþ	birta
@@ -1291,7 +1213,6 @@ mig	fp1eo	ég
 í	aþ	í
 Mogganum	nkeþgs	Moggi
 .	.	.
-
 Þá	aa	þá
 eru	sfg3fn	vera
 búin	lhfnsf	búinn
@@ -1321,13 +1242,11 @@ NFS	as	NFS
 síðasta	lkeove	síðari
 miðvikudag	nkeo	miðvikudagur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 nokkuð	fohen	nokkur
 magnað	lhensf	magnaður
 .	.	.
-
 Ég	fp1en	ég
 þarf	sfg1en	þurfa
 að	cn	að
@@ -1344,7 +1263,6 @@ að	c	að
 klári	svg1en	klára
 hlutina	nkfog	hlutur
 .	.	.
-
 Núna	aa	núna
 þarf	sfg1en	þurfa
 ég	fp1en	ég
@@ -1381,7 +1299,6 @@ allt	foheo	allur
 á	aþ	á
 Þorláksmessu	nveþ-s	Þorláksmessa
 .	.	.
-
 Nei	au	nei
 ,	,	,
 núna	aa	núna
@@ -1408,7 +1325,6 @@ að	aþ	að
 jóla	nhfe	jól
 undirbúning	x	undirbúningur
 .	.	.
-
 Þarf	sfg1en	þurfa
 að	cn	að
 fara	sng	fara
@@ -1418,7 +1334,6 @@ mér	fp1eþ	ég
 í	ao	í
 hátíðarskap	nheo	hátíðarskap
 .	.	.
-
 Samt	aa	samt
 veit	sfg1en	vita
 ég	fp1en	ég
@@ -1436,7 +1351,6 @@ Aðfangadag	nkeo	aðfangadagur
 uppí	aþ	uppí
 kirkjugarði	nkeþ	kirkjugarður
 .	.	.
-
 Þá	aa	þá
 fyrst	aae	fyrr
 finnst	sfm3en	finna
@@ -1445,7 +1359,6 @@ jólin	nhfng	jól
 vera	sng	vera
 komin	lhfnsf	kominn
 .	.	.
-
 Ég	fp1en	ég
 held	sfg1en	halda
 að	c	að
@@ -1462,7 +1375,6 @@ jól	nhfo	jól
 síðustu	lhfove	síðari
 ár	nhfo	ár
 .	.	.
-
 Síðasta	lheove	síðari
 skipti	nheo	skipti
 ,	,	,
@@ -1491,7 +1403,6 @@ Avenue	e	Avenue
 í	ao	í
 jólagjafaleiðangur	nkeo	jólagjafaleiðangur
 .	.	.
-
 Kannski	aa	kannski
 er	sfg3en	vera
 þetta	fahen	þessi
@@ -1525,7 +1436,6 @@ búið	ssg	búa
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Einhvern	fokeo	einhver
 veginn	nkeog	vegur
 tengi	sfg1en	tengja
@@ -1544,7 +1454,6 @@ leit	nveþ	leit
 að	aþ	að
 jólagjöfum	nvfþ	jólagjöf
 .	.	.
-
 Því	aa	því
 get	sfg1en	geta
 ég	fp1en	ég
@@ -1559,7 +1468,6 @@ eru	sfg3fn	vera
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Því	fpheþ	það
 þeir	fpkfn	hann
 felast	sfm3fn	fela
@@ -1579,7 +1487,6 @@ allar	fovfo	allur
 gjafir	nvfo	gjöf
 fyrirfram	aa	fyrirfram
 .	.	.
-
 Innkaupin	nhfng	innkaup
 eru	sfg3fn	vera
 einsog	c	einsog
@@ -1592,7 +1499,6 @@ að	cn	að
 vera	sng	vera
 skemmtun	nven	skemmtun
 .	.	.
-
 Þó	aa	þó
 hef	sfg1en	hafa
 ég	fp1en	ég
@@ -1612,7 +1518,6 @@ breyttist	sfm3eþ	breyta
 hjá	aþ	hjá
 mér	fp1eþ	ég
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 finnst	sfm3en	finna
@@ -1636,7 +1541,6 @@ mínar	fevfo	minn
 eigin	lvfoof	eigin
 gjafir	nvfo	gjöf
 .	.	.
-
 Þess	fphee	það
 vegna	ae	vegna
 finnst	sfm3en	finna
@@ -1664,7 +1568,6 @@ minna	fehfe	minn
 á	ao	á
 aðfangadagskvöld	nheo	aðfangadagskvöld
 .	.	.
-
 Uppboð	nhen	uppboð
 :	:	:
 Nokkrar	fovfn	nokkur
@@ -1673,7 +1576,6 @@ desember	nkeo	desember
 16	ta	16
 ,	,	,
 2005	ta	2005
-
 Og	c	og
 þá	aa	þá
 er	sfg3en	vera
@@ -1682,7 +1584,6 @@ að	aþ	að
 nokkrum	fovfþ	nokkur
 bókum	nvfþ	bók
 .	.	.
-
 Flest	lhense	margur
 nokkuð	fohen	nokkur
 gamlar	lvfnsf	gamall
@@ -1696,7 +1597,6 @@ pláss	nheo	pláss
 íbúðinni	nveþg	íbúð
 minni	feveþ	minn
 .	.	.
-
 Þetta	fahen	þessi
 eru	sfg3fn	vera
 íslensk	lvensf	íslenskur
@@ -1710,7 +1610,6 @@ bækur	nvfn	bók
 íslenskri	lveþsf	íslenskur
 þýðingu	nveþ	þýðing
 .	.	.
-
 Hér	aa	hér
 getur	sfg2en	geta
 þú	fp2en	þú
@@ -1733,7 +1632,6 @@ stend	sfg1en	standa
 í	aþ	í
 því	fpheþ	það
 .	.	.
-
 Uppboðið	nheng	uppboð
 virkar	sfg3en	virka
 þannig	aa	þannig
@@ -1745,7 +1643,6 @@ tilboðið	nheog	tilboð
 í	ao	í
 ummælin	nhfog	ummæli
 .	.	.
-
 Auðveldast	lhense	auðveldur
 er	sfg3en	vera
 að	cn	að
@@ -1762,7 +1659,6 @@ strax	aa	strax
 fyrir	aa	fyrir
 aftan	aa	aftan
 .	.	.
-
 Ef	c	ef
 að	c	að
 þú	fp2en	þú
@@ -1783,12 +1679,10 @@ inn	aa	inn
 þá	faveo	sá
 upphæð	nveo	upphæð
 .	.	.
-
 Lágmark	nhen	lágmark
 :	:	:
 400	ta	400
 krónur	nvfn	króna
-
 Uppboðinu	nheþg	uppboð
 mun	sfg3en	munu
 ljúka	sng	ljúka
@@ -1797,7 +1691,6 @@ miðnætti	nheþ	miðnætti
 á	ao	á
 mánudag	nkeo	mánudagur
 .	.	.
-
 Íslensk	lvensf	íslenskur
 Knattspyrna	nven-s	knattspyrna
 -	-	-
@@ -1811,7 +1704,6 @@ safnið	nheng	safn
 í	aþ	í
 einum	tfkeþ	einn
 pakka	nkeþ	pakki
-
 Stephen	e	Stephen
 King	e	King
 -	-	-
@@ -1821,7 +1713,6 @@ King	e	King
 Rose	e	Rose
 Madder	e	Madder
 )	)	)
-
 Stephen	e	Stephen
 King	e	King
 -	-	-
@@ -1829,7 +1720,6 @@ Umsátur	nhen-s	Umsátur
 (	(	(
 Cujo	e	Cujo
 )	)	)
-
 Stephen	e	Stephen
 King	e	King
 -	-	-
@@ -1837,7 +1727,6 @@ Visnaðu	sbg2en	visna
 (	(	(
 Thinner	e	Thinner
 )	)	)
-
 Stephen	e	Stephen
 King	e	King
 -	-	-
@@ -1845,7 +1734,6 @@ Eldvakinn	nkengs	eldvaki
 (	(	(
 Firestarter	e	Firestarter
 )	)	)
-
 Stephen	e	Stephen
 King	e	King
 -	-	-
@@ -1855,7 +1743,6 @@ The	e	The
 Library	e	Library
 Policeman	e	Policeman
 )	)	)
-
 Stephen	e	Stephen
 King	e	King
 -	-	-
@@ -1867,7 +1754,6 @@ Man	e	man
 -	-	-
 vantar	sfg3en	vanta
 kápu	nveo	kápa
-
 Stephen	e	Stephen
 King	e	King
 -	-	-
@@ -1878,7 +1764,6 @@ Gerald	e	Gerald
 s	e	s
 Game	e	Game
 )	)	)
-
 Stephen	e	Stephen
 King	e	King
 -	-	-
@@ -1887,7 +1772,6 @@ Furðuflug	nhen-s	furðuflug
 The	e	The
 Langoliers	e	Langoliers
 )	)	)
-
 Stephen	e	Stephen
 King	e	King
 -	-	-
@@ -1896,7 +1780,6 @@ King	e	King
 Dolores	e	Dolores
 Claiborne	e	Claiborne
 )	)	)
-
 Stephen	e	Stephen
 King	e	King
 -	-	-
@@ -1908,7 +1791,6 @@ Shining	e	Shining
 -	-	-
 vantar	sfg3en	vanta
 kápu	nveo	kápa
-
 Uppboð	nhen	uppboð
 :	:	:
 Geisladiskar	nkfn	geisladiskur
@@ -1919,7 +1801,6 @@ desember	nkeo	desember
 16	ta	16
 ,	,	,
 2005	ta	2005
-
 Hérna	aa	hérna
 er	sfg3en	vera
 þriðji	lkenvf	þriðji
@@ -1927,7 +1808,6 @@ hlutinn	nkeng	hluti
 í	aþ	í
 geisladiskauppboðinu	nheþg	geisladiskauppboð
 .	.	.
-
 Núna	aa	núna
 flytjendur	nkfn	flytjandi
 ,	,	,
@@ -1936,7 +1816,6 @@ byrja	sfg3fn	byrja
 á	aþ	á
 R-Z	x	r-z
 .	.	.
-
 Hérna	aa	hérna
 er	sfg3en	vera
 hægt	lhensf	hægur
@@ -1951,7 +1830,6 @@ hérna	aa	hérna
 með	aþ	með
 H-Q	nhen	h-q
 .	.	.
-
 Athugið	sbg2fn	athuga
 að	c	að
 diskarnir	nkfng	diskur
@@ -1961,7 +1839,6 @@ mjööööög	aa	mjög
 misjöfnu	lheþsf	misjafn
 standi	nheþ	stand
 .	.	.
-
 Þeir	fpkfn	hann
 hafa	sfg3fn	hafa
 margir	lkfnsf	margur
@@ -1984,7 +1861,6 @@ rispaðir	lkfnsf	rispaður
 margir	lkfnsf	margur
 hverjir	fokfn	hver
 .	.	.
-
 Ég	fp1en	ég
 get	sfg1en	geta
 ekki	aa	ekki
@@ -2003,7 +1879,6 @@ alltof	aa	alltof
 mikil	lvensf	mikill
 vinna	nven	vinna
 .	.	.
-
 Ef	c	ef
 þú	fp2en	þú
 kaupir	sfg2en	kaupa
@@ -2036,7 +1911,6 @@ allt	fohen	allur
 til	ae	til
 góðgerðarmála	nhfe	góðgerðarmál
 .	.	.
-
 Hér	aa	hér
 getur	sfg2en	geta
 þú	fp2en	þú
@@ -2059,7 +1933,6 @@ stend	sfg1en	standa
 í	aþ	í
 því	fpheþ	það
 .	.	.
-
 Uppboðið	nheng	uppboð
 virkar	sfg3en	virka
 þannig	aa	þannig
@@ -2071,7 +1944,6 @@ tilboðið	nheog	tilboð
 í	ao	í
 ummælin	nhfog	ummæli
 .	.	.
-
 Auðveldast	lhense	auðveldur
 er	sfg3en	vera
 að	cn	að
@@ -2088,7 +1960,6 @@ strax	aa	strax
 fyrir	aa	fyrir
 aftan	aa	aftan
 .	.	.
-
 Ef	c	ef
 að	c	að
 þú	fp2en	þú
@@ -2109,7 +1980,6 @@ inn	aa	inn
 þá	faveo	sá
 upphæð	nveo	upphæð
 .	.	.
-
 Mér	fp1eþ	ég
 finnst	sfm3en	finna
 fínt	lhensf	fínn
@@ -2120,7 +1990,6 @@ kall	nkeo	kall
 fyrir	ao	fyrir
 geisladiskinn	nkeog	geisladiskur
 .	.	.
-
 Þetta	fahen	þessi
 fer	sfg3en	fara
 nú	aa	nú
@@ -2130,7 +1999,6 @@ allt	fohen	allur
 til	ae	til
 góðgerðarmála	nhfe	góðgerðarmál
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 til	aa	til
@@ -2148,7 +2016,6 @@ eða	c	eða
 fleiri	lkfnvm	margur
 diskar	nkfn	diskur
 .	.	.
-
 Uppboðinu	nheþg	uppboð
 mun	sfg3en	munu
 ljúka	sng	ljúka
@@ -2157,13 +2024,11 @@ miðnætti	nheþ	miðnætti
 á	ao	á
 sunnudag	nkeo	sunnudagur
 .	.	.
-
 Piparsveina-uppgjör	nhen	piparsveinauppgjör
 desember	nkeo	desember
 15	ta	15
 ,	,	,
 2005	ta	2005
-
 Ég	fp1en	ég
 horfði	sfg1eþ	horfa
 á	ao	á
@@ -2188,7 +2053,6 @@ spennó	lhenof	spennó
 sem	ct	sem
 gerðist	sfm3eþ	gera
 .	.	.
-
 Hann	fpken	hann
 valdi	sfg3eþ	velja
 Jenný	nveo-s	Jenný
@@ -2198,11 +2062,9 @@ eru	sfg3fn	vera
 voða	nkee	voði
 ánægð	lhfnsf	ánægður
 .	.	.
-
 Gott	lhensf	góður
 mál	nhen	mál
 .	.	.
-
 Þátturinn	nkeng	þáttur
 á	aa	á
 eftir	aa	eftir
@@ -2217,7 +2079,6 @@ var	sfg3eþ	vera
 öllu	foheþ	allur
 skárri	lkenvm	skárri
 .	.	.
-
 Jenný	nven-s	Jenný
 var	sfg3eþ	vera
 spurð	sþgven	spyrja
@@ -2250,7 +2111,6 @@ Guðna	nkeo-s	Guðni
 Ágústs	nkee-s	Ágúst
 )	)	)
 .	.	.
-
 Jenný	nven-s	Jenný
 sagði	sfg3eþ	segja
 að	c	að
@@ -2280,14 +2140,12 @@ sambandi	nheþ	samband
 með	aþ	með
 strák	nkeþ	strákur
 .	.	.
-
 Halló	au	halló
 ,	,	,
 halló	au	halló
 ,	,	,
 halló	au	halló
 !	!	!
-
 -	-	-
 er	sfg1en	vera
 ég	fp1en	ég
@@ -2295,7 +2153,6 @@ orðinn	sþgken	verða
 svona	aa	svona
 gamall	lkensf	gamall
 ?	?	?
-
 Hvenær	aa	hvenær
 varð	sfg3eþ	verða
 það	fphen	það
@@ -2306,7 +2163,6 @@ kysstust	svm3fþ	kyssa
 á	aþ	á
 djamminu	nheþg	djamm
 ?	?	?
-
 Varð	sfg3eþ	verða
 þetta	fahen	þessi
 til	aa	til
@@ -2321,7 +2177,6 @@ myndir	nvfo	mynd
 á	aþ	á
 skemmtistöðunum	nkfþg	skemmtistaður
 ?	?	?
-
 Eru	sfg3fn	vera
 stelpur	nvfn	stelpa
 að	cn	að
@@ -2353,7 +2208,6 @@ fyrir	ao	fyrir
 okkur	fp1fo	ég
 karlmenn	nkfo	karlmaður
 ?	?	?
-
 Já	au	já
 já	au	já
 ,	,	,
@@ -2375,12 +2229,10 @@ finnst	sfm3en	finna
 þetta	fahen	þessi
 eðlilegt	lhensf	eðlilegur
 ?	?	?
-
 Hver	fsken	hver
 er	sfg3en	vera
 tilgangurinn	nkeng	tilgangur
 ?	?	?
-
 Varla	aa	varla
 eru	sfg3fn	vera
 það	fphen	það
@@ -2401,7 +2253,6 @@ er	sfg3en	vera
 í	aþ	í
 sambandi	nheþ	samband
 .	.	.
-
 Æji	au	æji
 ,	,	,
 ég	fp1en	ég
@@ -2429,14 +2280,11 @@ hægri	lveevf	hægri
 og	c	og
 vinstri	lveevf	vinstri
 .	.	.
-
 Húrra	au	húrra
 !	!	!
-
 Áfram	aa	áfram
 stelpur	nvfn	stelpa
 !	!	!
-
 Uppáhaldslínan	nveng	uppáhaldslína
 mín	feven	minn
 í	aþ	í
@@ -2444,7 +2292,6 @@ mín	feven	minn
 hennar	fpvee	hún
 Sirrýjar	nvee-s	Sirrý
 .	.	.
-
 Það	fphen	það
 eru	sfg3fn	vera
 hérna	aa	hérna
@@ -2459,10 +2306,8 @@ alveg	aa	alveg
 klárt	lhensf	klár
 mál	nhen	mál
 .	.	.
-
 Jammmmm	au	jamm
 !	!	!
-
 Uppboð	nhen	uppboð
 :	:	:
 Geisladiskar	nkfn	geisladiskur
@@ -2473,7 +2318,6 @@ desember	nkeo	desember
 15	ta	15
 ,	,	,
 2005	ta	2005
-
 Hérna	aa	hérna
 er	sfg3en	vera
 annar	lkensf	annar
@@ -2481,7 +2325,6 @@ hlutinn	nkeng	hluti
 í	aþ	í
 geisladiskauppboðinu	nheþg	geisladiskauppboð
 .	.	.
-
 Núna	aa	núna
 flytjendur	nkfn	flytjandi
 ,	,	,
@@ -2490,7 +2333,6 @@ byrja	sfg3fn	byrja
 á	aþ	á
 H-Q	nhen	h-q
 .	.	.
-
 Hérna	aa	hérna
 er	sfg3en	vera
 hægt	lhensf	hægur
@@ -2501,7 +2343,6 @@ með	aþ	með
 flytjendum	nkfþ	flytjandi
 A-G	nhen	A-G
 .	.	.
-
 Ok	au	ok
 ,	,	,
 þá	aa	þá
@@ -2514,12 +2355,10 @@ hlustanum	x	hlutur
 þessu	faheþ	þessi
 uppboðu	nheþ	uppboða
 .	.	.
-
 Nefnilega	aa	nefnilega
 geisladiskunum	nkfþg	geisladiskur
 mínum	fekfþ	minn
 .	.	.
-
 Ansi	aa	ansi
 stór	lkensf	stór
 hluti	nken	hluti
@@ -2537,7 +2376,6 @@ eftir	aþ	eftir
 nafni	nheþ	nafn
 flytjanda	nkee	flytjandi
 .	.	.
-
 Athugið	sbg2fn	athuga
 að	c	að
 diskarnir	nkfng	diskur
@@ -2547,7 +2385,6 @@ mjööööög	aa	mjög
 misjöfnu	lheþsf	misjafn
 standi	nheþ	stand
 .	.	.
-
 Þeir	fpkfn	hann
 hafa	sfg3fn	hafa
 margir	lkfnsf	margur
@@ -2570,7 +2407,6 @@ rispaðir	lkfnsf	rispaður
 margir	lkfnsf	margur
 hverjir	fokfn	hver
 .	.	.
-
 Ég	fp1en	ég
 get	sfg1en	geta
 ekki	aa	ekki
@@ -2589,7 +2425,6 @@ alltof	aa	alltof
 mikil	lvensf	mikill
 vinna	nven	vinna
 .	.	.
-
 Ef	c	ef
 þú	fp2en	þú
 kaupir	sfg2en	kaupa
@@ -2622,7 +2457,6 @@ allt	fohen	allur
 til	ae	til
 góðgerðarmála	nhfe	góðgerðarmál
 .	.	.
-
 Hér	aa	hér
 getur	sfg2en	geta
 þú	fp2en	þú
@@ -2645,7 +2479,6 @@ stend	sfg1en	standa
 í	aþ	í
 því	fpheþ	það
 .	.	.
-
 Uppboðið	nheng	uppboð
 virkar	sfg3en	virka
 þannig	aa	þannig
@@ -2657,7 +2490,6 @@ tilboðið	nheog	tilboð
 í	ao	í
 ummælin	nhfog	ummæli
 .	.	.
-
 Auðveldast	lhense	auðveldur
 er	sfg3en	vera
 að	cn	að
@@ -2674,7 +2506,6 @@ strax	aa	strax
 fyrir	aa	fyrir
 aftan	aa	aftan
 .	.	.
-
 Ef	c	ef
 að	c	að
 þú	fp2en	þú
@@ -2695,7 +2526,6 @@ inn	aa	inn
 þá	faveo	sá
 upphæð	nveo	upphæð
 .	.	.
-
 Mér	fp1eþ	ég
 finnst	sfm3en	finna
 fínt	lhensf	fínn
@@ -2706,7 +2536,6 @@ kall	nkeo	kall
 fyrir	ao	fyrir
 geisladiskinn	nkeog	geisladiskur
 .	.	.
-
 Þetta	fahen	þessi
 fer	sfg3en	fara
 nú	aa	nú
@@ -2716,7 +2545,6 @@ allt	fohen	allur
 til	ae	til
 góðgerðarmála	nhfe	góðgerðarmál
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 til	aa	til
@@ -2734,7 +2562,6 @@ eða	c	eða
 fleiri	lkfnvm	margur
 diskar	nkfn	diskur
 .	.	.
-
 Uppboðinu	nheþg	uppboð
 mun	sfg3en	munu
 ljúka	sng	ljúka
@@ -2743,7 +2570,6 @@ miðnætti	nheþ	miðnætti
 á	ao	á
 sunnudag	nkeo	sunnudagur
 .	.	.
-
 Uppboð	nhen	uppboð
 :	:	:
 Geisladiskar	nkfn	geisladiskur
@@ -2752,7 +2578,6 @@ desember	nkeo	desember
 15	ta	15
 ,	,	,
 2005	ta	2005
-
 Ok	au	ok
 ,	,	,
 þá	aa	þá
@@ -2765,12 +2590,10 @@ hlustanum	x	hlutur
 þessu	faheþ	þessi
 uppboðu	nheþ	uppboða
 .	.	.
-
 Nefnilega	aa	nefnilega
 geisladiskunum	nkfþg	geisladiskur
 mínum	fekfþ	minn
 .	.	.
-
 Ansi	aa	ansi
 stór	lkensf	stór
 hluti	nken	hluti
@@ -2788,7 +2611,6 @@ eftir	aþ	eftir
 nafni	nheþ	nafn
 flytjanda	nkee	flytjandi
 .	.	.
-
 Athugið	sbg2fn	athuga
 að	c	að
 diskarnir	nkfng	diskur
@@ -2798,7 +2620,6 @@ mjööööög	aa	mjög
 misjöfnu	lheþsf	misjafn
 standi	nheþ	stand
 .	.	.
-
 Þeir	fpkfn	hann
 hafa	sfg3fn	hafa
 margir	lkfnsf	margur
@@ -2821,7 +2642,6 @@ rispaðir	lkfnsf	rispaður
 margir	lkfnsf	margur
 hverjir	fokfn	hver
 .	.	.
-
 Ég	fp1en	ég
 get	sfg1en	geta
 ekki	aa	ekki
@@ -2840,7 +2660,6 @@ alltof	aa	alltof
 mikil	lvensf	mikill
 vinna	nven	vinna
 .	.	.
-
 Ef	c	ef
 þú	fp2en	þú
 kaupir	sfg2en	kaupa
@@ -2873,7 +2692,6 @@ allt	fohen	allur
 til	ae	til
 góðgerðarmála	nhfe	góðgerðarmál
 .	.	.
-
 Hér	aa	hér
 getur	sfg2en	geta
 þú	fp2en	þú
@@ -2896,7 +2714,6 @@ stend	sfg1en	standa
 í	aþ	í
 því	fpheþ	það
 .	.	.
-
 Uppboðið	nheng	uppboð
 virkar	sfg3en	virka
 þannig	aa	þannig
@@ -2908,7 +2725,6 @@ tilboðið	nheog	tilboð
 í	ao	í
 ummælin	nhfog	ummæli
 .	.	.
-
 Auðveldast	lhense	auðveldur
 er	sfg3en	vera
 að	cn	að
@@ -2925,7 +2741,6 @@ strax	aa	strax
 fyrir	aa	fyrir
 aftan	aa	aftan
 .	.	.
-
 Ef	c	ef
 að	c	að
 þú	fp2en	þú
@@ -2946,7 +2761,6 @@ inn	aa	inn
 þá	faveo	sá
 upphæð	nveo	upphæð
 .	.	.
-
 Mér	fp1eþ	ég
 finnst	sfm3en	finna
 fínt	lhensf	fínn
@@ -2957,7 +2771,6 @@ kall	nkeo	kall
 fyrir	ao	fyrir
 geisladiskinn	nkeog	geisladiskur
 .	.	.
-
 Þetta	fahen	þessi
 fer	sfg3en	fara
 nú	aa	nú
@@ -2967,7 +2780,6 @@ allt	fohen	allur
 til	ae	til
 góðgerðarmála	nhfe	góðgerðarmál
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 til	aa	til
@@ -2985,7 +2797,6 @@ eða	c	eða
 fleiri	lkfnvm	margur
 diskar	nkfn	diskur
 .	.	.
-
 Uppboðinu	nheþg	uppboð
 mun	sfg3en	munu
 ljúka	sng	ljúka
@@ -2994,7 +2805,6 @@ miðnætti	nheþ	miðnætti
 á	ao	á
 laugardag	nkeo	laugardagur
 .	.	.
-
 Uppboð	nhen	uppboð
 :	:	:
 Hljómplötur	nvfn	hljómplata
@@ -3006,7 +2816,6 @@ desember	nkeo	desember
 14	ta	14
 ,	,	,
 2005	ta	2005
-
 Þá	aa	þá
 er	sfg3en	vera
 komið	sþghen	koma
@@ -3014,7 +2823,6 @@ að	aþ	að
 gömlum	lvfþsf	gamall
 plötum	nvfþ	plata
 .	.	.
-
 Er	sfg1en	vera
 með	ao	með
 slatta	nkeo	slatti
@@ -3022,7 +2830,6 @@ af	aþ	af
 misgóðum	lvfþsf	misgóður
 plötum	nvfþ	plata
 .	.	.
-
 Einnig	aa	einnig
 bæti	sfg1en	bæta
 ég	fp1en	ég
@@ -3033,7 +2840,6 @@ með	aþ	með
 geisladiskum	nkfþ	geisladiskur
 í	aa	í
 .	.	.
-
 Hér	aa	hér
 getur	sfg2en	geta
 þú	fp2en	þú
@@ -3056,7 +2862,6 @@ stend	sfg1en	standa
 í	aþ	í
 því	fpheþ	það
 .	.	.
-
 Uppboðið	nheng	uppboð
 virkar	sfg3en	virka
 þannig	aa	þannig
@@ -3068,7 +2873,6 @@ tilboðið	nheog	tilboð
 í	ao	í
 ummælin	nhfog	ummæli
 .	.	.
-
 Auðveldast	lhense	auðveldur
 er	sfg3en	vera
 að	cn	að
@@ -3085,7 +2889,6 @@ strax	aa	strax
 fyrir	aa	fyrir
 aftan	aa	aftan
 .	.	.
-
 Ef	c	ef
 að	c	að
 þú	fp2en	þú
@@ -3106,7 +2909,6 @@ inn	aa	inn
 þá	faveo	sá
 upphæð	nveo	upphæð
 .	.	.
-
 Eigum	svg1fn	eiga
 við	fp1fn	ég
 ekki	aa	ekki
@@ -3125,7 +2927,6 @@ sets	e	sets
 sé	svg3en	vera
 það	fphen	það
 800	ta	800
-
 Uppboðinu	nheþg	uppboð
 mun	sfg3en	munu
 ljúka	sng	ljúka
@@ -3134,7 +2935,6 @@ miðnætti	nheþ	miðnætti
 á	ao	á
 föstudag	nkeo	föstudagur
 .	.	.
-
 Uppboð	nhen	uppboð
 :	:	:
 Smá	lvensf	smár
@@ -3143,7 +2943,6 @@ desember	nkeo	desember
 14	ta	14
 ,	,	,
 2005	ta	2005
-
 Jæja	au	jæja
 ,	,	,
 fyrsta	lheþve	fyrstur
@@ -3163,7 +2962,6 @@ miðnætti	nheþ	miðnætti
 á	ao	á
 morgun	nkeo	morgunn
 .	.	.
-
 Ég	fp1en	ég
 tók	sfg1eþ	taka
 mig	fp1eo	ég
@@ -3196,11 +2994,9 @@ boð	nhfo	boð
 einum	tfkeþ	einn
 stað	nkeþ	staður
 .	.	.
-
 Lýkur	sfg3en	ljúka
 í	ao	í
 kvöld	nheo	kvöld
-
 Tæki	nhfn	tæki
 og	c	og
 nýjir	lkfnsf	nýr
@@ -3211,11 +3007,9 @@ samantekt	nveo	samantekt
 á	aþ	á
 hæstu	lhfþve	hár
 boðum	nhfþ	boð
-
 Lýkur	sfg3en	ljúka
 annað	foheo	annar
 kvöld	nheo	kvöld
-
 DVD	as	DVD
 Diskar	nkfn	diskur
 1	ta	1
@@ -3225,7 +3019,6 @@ samantekt	nveo	samantekt
 á	aþ	á
 hæstu	lhfþve	hár
 boðum	nhfþ	boð
-
 DVD	as	DVD
 Diskar	nkfn	diskur
 2	ta	2
@@ -3235,7 +3028,6 @@ samantekt	nveo	samantekt
 á	aþ	á
 hæstu	lhfþve	hár
 boðum	nhfþ	boð
-
 XBOX	e	XBOX
 leikir	nkfn	leikur
 -	-	-
@@ -3244,7 +3036,6 @@ samantekt	nveo	samantekt
 á	aþ	á
 hæstu	lhfþve	hár
 boðum	nhfþ	boð
-
 Gömul	lhfnsf	gamall
 Tölvuspil	nhfn	tölvuspil
 -	-	-
@@ -3254,7 +3045,6 @@ samantekt	nveo	samantekt
 hæstu	lhfþve	hár
 boðum	nhfþ	boð
 .	.	.
-
 Nota	e	Nota
 bene	e	bene
 ,	,	,
@@ -3270,7 +3060,6 @@ sjá	sbg2en	sjá
 sama	fbheo	sami
 komment	nheo	komment
 .	.	.
-
 Ýmislegt	lhensf	ýmislegur
 gamalt	lhensf	gamall
 dót	nhen	dót
@@ -3281,7 +3070,6 @@ samantekt	nveo	samantekt
 hæstu	lhfþve	hár
 boðum	nhfþ	boð
 .	.	.
-
 Gamlar	lvfnsf	gamall
 myndavélar	nvfn	myndavél
 -	-	-
@@ -3294,7 +3082,6 @@ boð	nhen	boð
 einn	tfkeo	einn
 hlut	nkeo	hlutur
 .	.	.
-
 Þriðji	lkenvf	þriðji
 hluti	nken	hluti
 DVD	as	DVD
@@ -3315,7 +3102,6 @@ setja	sng	setja
 inn	aa	inn
 geisladiska	nkfo	geisladiskur
 .	.	.
-
 Uppboð	nhen	uppboð
 :	:	:
 DVD	as	DVD
@@ -3326,7 +3112,6 @@ desember	nkeo	desember
 14	ta	14
 ,	,	,
 2005	ta	2005
-
 Ok	au	ok
 ,	,	,
 ég	fp1en	ég
@@ -3341,7 +3126,6 @@ diskum	nkfþ	diskur
 á	ao	á
 uppboðið	nheog	uppboð
 .	.	.
-
 Hér	aa	hér
 getur	sfg2en	geta
 þú	fp2en	þú
@@ -3364,7 +3148,6 @@ stend	sfg1en	standa
 í	aþ	í
 því	fpheþ	það
 .	.	.
-
 Sjá	sbg2en	sjá
 líka	aa	líka
 DVD	as	DVD
@@ -3374,7 +3157,6 @@ og	c	og
 uppboð	nheo	uppboð
 2	ta	2
 .	.	.
-
 Uppboðið	nheng	uppboð
 virkar	sfg3en	virka
 þannig	aa	þannig
@@ -3386,7 +3168,6 @@ tilboðið	nheog	tilboð
 í	ao	í
 ummælin	nhfog	ummæli
 .	.	.
-
 Auðveldast	lhense	auðveldur
 er	sfg3en	vera
 að	cn	að
@@ -3403,7 +3184,6 @@ strax	aa	strax
 fyrir	aa	fyrir
 aftan	aa	aftan
 .	.	.
-
 Ef	c	ef
 að	c	að
 þú	fp2en	þú
@@ -3424,7 +3204,6 @@ inn	aa	inn
 þá	faveo	sá
 upphæð	nveo	upphæð
 .	.	.
-
 Mér	fp1eþ	ég
 finnst	sfm3en	finna
 sanngjarnt	lhensf	sanngjarn
@@ -3449,7 +3228,6 @@ sem	c	sem
 á	aþ	á
 sjónvarpsþáttunum	nkfþg	sjónvarpsþáttur
 .	.	.
-
 Uppboðinu	nheþg	uppboð
 mun	sfg3en	munu
 ljúka	sng	ljúka
@@ -3458,7 +3236,6 @@ miðnætti	nheþ	miðnætti
 á	ao	á
 föstudag	nkeo	föstudagur
 .	.	.
-
 Uppboð	nhen	uppboð
 :	:	:
 Gamalt	lhensf	gamall
@@ -3469,7 +3246,6 @@ desember	nkeo	desember
 13	ta	13
 ,	,	,
 2005	ta	2005
-
 Ok	au	ok
 ,	,	,
 næsta	lhenve	næstur
@@ -3485,7 +3261,6 @@ börnum	nhfþ	barn
 Mið-Ameríku	nveþ-s	Mið-Ameríka
 áfram	aa	áfram
 .	.	.
-
 Núna	aa	núna
 ætla	sfg1en	ætla
 ég	fp1en	ég
@@ -3514,7 +3289,6 @@ haft	ssg	hafa
 gaman	nheo	gaman
 af	aa	af
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 samansafn	nhen	samansafn
@@ -3530,7 +3304,6 @@ hérna	aa	hérna
 íbúðinni	nveþg	íbúð
 minni	feveþ	minn
 .	.	.
-
 Vonandi	aa	vonandi
 að	c	að
 einhverjir	fokfn	einhver
@@ -3540,7 +3313,6 @@ gagn	nheo	gagn
 af	aþ	af
 þeim	fpkfþ	hann
 .	.	.
-
 Uppboðið	nheng	uppboð
 virkar	sfg3en	virka
 þannig	aa	þannig
@@ -3552,7 +3324,6 @@ tilboðið	nheog	tilboð
 í	ao	í
 ummælin	nhfog	ummæli
 .	.	.
-
 Auðveldast	lhense	auðveldur
 er	sfg3en	vera
 að	cn	að
@@ -3569,7 +3340,6 @@ strax	aa	strax
 fyrir	aa	fyrir
 aftan	aa	aftan
 .	.	.
-
 Ef	c	ef
 að	c	að
 þú	fp2en	þú
@@ -3590,7 +3360,6 @@ inn	aa	inn
 þá	faveo	sá
 upphæð	nveo	upphæð
 .	.	.
-
 Uppboðið	nheng	uppboð
 mun	sfg3en	munu
 ljúka	sng	ljúka
@@ -3598,10 +3367,8 @@ ljúka	sng	ljúka
 miðnætti	nheþ	miðnætti
 á	ao	á
 fimmtudag	nkeo	fimmtudagur
-
 Viskí	nhen	viskí
 Kristalglös	nhfn	kristalglas
-
 Lágmark	nhen	lágmark
 :	:	:
 1.000	ta	1.000
@@ -3610,7 +3377,6 @@ mynd	nveo	mynd
 1	ta	1
 -	-	-
 2	ta	2
-
 Þetta	fahen	þessi
 eru	sfg3fn	vera
 reyndar	aa	reyndar
@@ -3624,7 +3390,6 @@ ekki	aa	ekki
 verið	ssg	vera
 notuð	sþghfn	nota
 .	.	.
-
 Fékk	sfg1eþ	fá
 þau	fphfo	það
 að	aþ	að
@@ -3635,7 +3400,6 @@ viðskiptafundi	nkeþ	viðskiptafundur
 á	aþ	á
 Englandi	nheþ-s	England
 .	.	.
-
 Þetta	fahen	þessi
 eru	sfg3fn	vera
 semsagt	aa	semsagt
@@ -3645,7 +3409,6 @@ Tot	e	Tot
 »	»	»
 viskíglös	nhfn	viskíglas
 .	.	.
-
 Ég	fp1en	ég
 drekk	sfg1en	drekka
 ekki	aa	ekki
@@ -3670,18 +3433,14 @@ setja	sng	setja
 á	ao	á
 uppboðið	nheog	uppboð
 .	.	.
-
 Lenín	e	Lenín
 Peli	nken	peli
-
 Lágmark	nhen	lágmark
 :	:	:
 500	ta	500
-
 Sjá	sbg2en	sjá
 mynd	nveo	mynd
 1	ta	1
-
 Ódýr	lkensf	ódýr
 peli	nken	peli
 ,	,	,
@@ -3691,7 +3450,6 @@ keypti	sfg1eþ	kaupa
 í	aþ	í
 Rússlandi	nheþ-s	Rússland
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 úr	aþ	úr
@@ -3706,19 +3464,15 @@ ekki	aa	ekki
 hver	fsken	hver
 er	sfg3en	vera
 .	.	.
-
 Liverpool	e	Liverpool
 treyja	nven	treyja
 frá	aþ	frá
 1992	ta	1992
-
 Lágmark	nhen	lágmark
 :	:	:
 2000	ta	2000
-
 Sjá	sbg2en	sjá
 mynd	nveo	mynd
-
 Liverpool	e	Liverpool
 treyja	nven	treyja
 frá	aþ	frá
@@ -3733,7 +3487,6 @@ enn	aa	enn
 Adidas	e	Adidas
 treyjum	nvfþ	treyja
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 auðvitað	aa	auðvitað
@@ -3747,26 +3500,20 @@ mjög	aa	mjög
 vel	aa	vel
 út	aa	út
 .	.	.
-
 Stærðin	nveng	stærð
 er	sfg3en	vera
 38-40	ta	38-40
 .	.	.
-
 Liverpool	e	Liverpool
 treyja	nven	treyja
-
 Lágmark	nhen	lágmark
 :	:	:
 2000	ta	2000
-
 Sjá	sbg2en	sjá
 mynd	nveo	mynd
-
 Liverpool	e	Liverpool
 treyja	nven	treyja
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 auðvitað	aa	auðvitað
@@ -3779,21 +3526,16 @@ lítur	sfg3en	líta
 ágætlega	aa	ágætlega
 út	aa	út
 .	.	.
-
 Stærðin	nveng	stærð
 er	sfg3en	vera
 42-44	ta	42-44
 .	.	.
-
 Sjónauki	nken	sjónauki
-
 Lágmark	nhen	lágmark
 :	:	:
 500	ta	500
-
 Sjá	sbg2en	sjá
 mynd	nveo	mynd
-
 Lítið	aa	lítið
 notaður	lkensf	notaður
 sjónauki	nken	sjónauki
@@ -3807,19 +3549,16 @@ fyrir	aþ	fyrir
 einhvejrum	lhfþsf	einhver
 árum	nhfþ	ár
 .	.	.
-
 Í	aþ	í
 nánast	aae	náið
 fullkomnu	lheþsf	fullkominn
 ástandi	nheþ	ástand
 .	.	.
-
 Jólakort	nhfn	jólakort
 desember	nkeo	desember
 12	ta	12
 ,	,	,
 2005	ta	2005
-
 Ein	foven	einn
 stutt	lvensf	stuttur
 spurning	nven	spurning
@@ -3862,7 +3601,6 @@ farið	ssg	fara
 í	aa	í
 )	)	)
 ?	?	?
-
 Gerir	sfg3en	gera
 það	fphen	það
 kortin	nhfog	kort
@@ -3874,14 +3612,12 @@ er	sfg3en	vera
 bara	aa	bara
 asnalegt	lhensf	asnalegur
 ?	?	?
-
 Hvort	c	hvort
 vilduð	svg2fþ	vilja
 þið	fp2fn	þú
 frekar	aam	frekar
 fá	sng	fá
 ?	?	?
-
 Má	sfg3en	mega
 kannski	aa	kannski
 bara	aa	bara
@@ -3890,7 +3626,6 @@ barnamyndir	nvfo	barnamynd
 með	aþ	með
 jólakortum	nhfþ	jólakort
 ?	?	?
-
 Þessi	faken	þessi
 einstaklingur	nken	einstaklingur
 er	sfg3en	vera
@@ -3926,7 +3661,6 @@ X	nxen-s	X
 X	nxen-s	X
 »	»	»
 .	.	.
-
 Unnur	nven-s	Unnur
 Birna	nven-s	Birna
 stefnir	sfg3en	stefna
@@ -3935,12 +3669,10 @@ landsins	nheeg	land
 í	ao	í
 voða	nkeo	voði
 !	!	!
-
 desember	nkeo	desember
 12	ta	12
 ,	,	,
 2005	ta	2005
-
 Uppboðið	nheng	uppboð
 heldur	sfg3en	halda
 áfram	aa	áfram
@@ -3966,7 +3698,6 @@ meðan	c	meðan
 því	fpheþ	það
 stendur	sfg3en	standa
 .	.	.
-
 Gott	lhensf	góður
 og	c	og
 vel	aa	vel
@@ -3981,7 +3712,6 @@ fegurðarsamkeppnir	nvfn	fegurðarsamkeppni
 eru	sfg3fn	vera
 haldnar	sþgvfn	halda
 .	.	.
-
 Ég	fp1en	ég
 skil	sfg1en	skilja
 svo	aa	svo
@@ -3995,7 +3725,6 @@ sem	ct	sem
 koma	sfg3fn	koma
 fram	aa	fram
 .	.	.
-
 En	c	en
 er	sfg3en	vera
 ekki	aa	ekki
@@ -4029,13 +3758,11 @@ allt	foheo	allur
 móti	aþ	móti
 fegurðarsamkeppnum	nvfþ	fegurðarsamkeppni
 ?	?	?
-
 Væri	svg3eþ	vera
 það	fphen	það
 ekki	aa	ekki
 smekklegt	lhensf	smekklegur
 ?	?	?
-
 Ekki	aa	ekki
 var	sfg3eþ	vera
 tekið	sþghen	taka
@@ -4069,7 +3796,6 @@ og	c	og
 asnaleg	lvensf	asnalegur
 íþrótt	nven	íþrótt
 .	.	.
-
 Á	aþ	á
 leiðinni	nveþg	leið
 heim	aa	heim
@@ -4082,7 +3808,6 @@ viðtal	nheo	viðtal
 á	aþ	á
 NFS	as	NFS
 .	.	.
-
 Þáttastjórnendum	nkfþ	þáttastjórnandi
 þar	aa	þar
 fannst	sfm3eþ	finna
@@ -4114,7 +3839,6 @@ hennar	fpvee	hún
 í	aþ	í
 keppninni	nveþg	keppni
 .	.	.
-
 Þar	aa	þar
 snérist	sfg3eþ	snúa
 umræðan	nveng	umræða
@@ -4134,7 +3858,6 @@ stelpur	nvfo	stelpa
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Annar	foken	annar
 gestanna	nkfeg	gestur
 í	aþ	í
@@ -4143,7 +3866,6 @@ sagði	sfg3eþ	segja
 m.a.	as	m.a.
 eftirfarandi	lheoof	eftirfarandi
 :	:	:
-
 mér	fp1eþ	ég
 hrýs	sfg3en	hrjósa
 hugur	nken	hugur
@@ -4161,7 +3883,6 @@ einsog	c	einsog
 Unnur	nven-s	Unnur
 Birna	nven-s	Birna
 .	.	.
-
 Og	c	og
 með	aþ	með
 því	fpheþ	það
@@ -4187,7 +3908,6 @@ anorexíu-faraldar	nkee	anorexíufaraldur
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 !	!	!
-
 Látum	sfg1fn	láta
 það	fpheo	það
 vera	sng	vera
@@ -4205,7 +3925,6 @@ líka	aa	líka
 algjörlega	aa	algjörlega
 fáránlegt	lhensf	fáránlegur
 .	.	.
-
 Viðmælandinn	nkeng	viðmælandi
 hélt	sfg3eþ	halda
 svo	aa	svo
@@ -4223,7 +3942,6 @@ farið	ssg	fara
 í	ao	í
 brjóstastækkun	nveo	brjóstastækkun
 .	.	.
-
 Hérna	aa	hérna
 er	sfg3en	vera
 mynd	nven	mynd
@@ -4239,7 +3957,6 @@ er	sfg3en	vera
 önnur	foven	annar
 )	)	)
 .	.	.
-
 Ég	fp1en	ég
 spyr	sfg1en	spyrja
 ,	,	,
@@ -4249,7 +3966,6 @@ eitthvað	fohen	einhver
 við	ao	við
 hana	fpveo	hún
 ?	?	?
-
 Er	sfg3en	vera
 það	fphen	það
 eitthvað	fohen	einhver
@@ -4260,7 +3976,6 @@ vilji	svg3fn	vilja
 líkjast	snm	líkja
 henni	fpveþ	hún
 ?	?	?
-
 Hún	fpven	hún
 er	sfg3en	vera
 alveg	aa	alveg
@@ -4276,7 +3991,6 @@ vera	sng	vera
 eðlilega	aa	eðlilega
 vaxin	lvensf	vaxinn
 .	.	.
-
 Allavegana	aa	allavegana
 þekki	sfg1en	þekkja
 ég	fp1en	ég
@@ -4290,7 +4004,6 @@ svipaðar	lvfnsf	svipaður
 að	aþ	að
 vaxtarlagi	nheþ	vaxtarlag
 .	.	.
-
 Hún	fpven	hún
 hefur	sfg3en	hafa
 væntanlega	aa	væntanlega
@@ -4309,7 +4022,6 @@ ekki	aa	ekki
 of	aa	of
 grönn	lvensf	grannur
 .	.	.
-
 Hvað	fshen	hver
 í	aþ	í
 ósköpunum	nhfþg	ósköp
@@ -4323,7 +4035,6 @@ vilja	sng	vilja
 líkjast	snm	líkja
 henni	fpveþ	hún
 ?	?	?
-
 Ég	fp1en	ég
 hreinlega	aa	hreinlega
 get	sfg1en	geta
@@ -4331,7 +4042,6 @@ ekki	aa	ekki
 séð	ssg	sjá
 það	fpheo	það
 .	.	.
-
 Seinna	aam	seint
 í	aþ	í
 þættinum	nkeþg	þáttur
@@ -4362,7 +4072,6 @@ að	cn	að
 leggjast	snm	leggja
 lágt	aa	lágt
 .	.	.
-
 Alveg	aa	alveg
 slepptu	sfg3fþ	sleppa
 þær	fpvfn	hún
@@ -4389,7 +4098,6 @@ hamingju	nvee	hamingja
 með	ao	með
 árangurinn	nkeog	árangur
 .	.	.
-
 Ég	fp1en	ég
 skil	sfg1en	skilja
 ekki	aa	ekki
@@ -4409,7 +4117,6 @@ sem	ct	sem
 vill	sfg3en	vilja
 líkjast	snm	líkja
 .	.	.
-
 Af	aþ	af
 hverju	fsheþ	hver
 er	sfg3en	vera
@@ -4424,7 +4131,6 @@ Birnu	nveþ-s	Birna
 í	aþ	í
 vexti	nkeþ	vöxtur
 ?	?	?
-
 Á	aa	á
 meðan	c	meðan
 þær	fpvfn	hún
@@ -4446,7 +4152,6 @@ sé	sfg1en	sjá
 ekki	aa	ekki
 vandamálið	nheog	vandamál
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 fullt	lhensf	fullur
@@ -4466,7 +4171,6 @@ líkjast	snm	líkja
 ákveðnum	lhfþsf	ákveðinn
 sviðum	nhfþ	svið
 .	.	.
-
 Sem	ct	sem
 eru	sfg3fn	vera
 betur	aam	vel
@@ -4489,7 +4193,6 @@ og	c	og
 flottari	lhfþvm	flottur
 fötum	nhfþ	fat
 .	.	.
-
 Er	sfg3en	vera
 það	fphen	það
 eitthvað	fohen	einhver
@@ -4504,7 +4207,6 @@ líkjast	snm	líkja
 að	aþ	að
 hluta	nkeþ	hluti
 ?	?	?
-
 Ég	fp1en	ég
 vill	x	vilja
 ekki	aa	ekki
@@ -4525,7 +4227,6 @@ sem	ct	sem
 vil	sfg1en	vilja
 líkjast	snm	líkja
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 með	ao	með
@@ -4567,7 +4268,6 @@ lífsmynstur	nheo	lífsmynstur
 hverjum	fokeþ	hver
 degi	nkeþ	dagur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ekki	aa	ekki
@@ -4582,7 +4282,6 @@ eitt	foheo	einn
 né	c	né
 neitt	foheo	neinn
 .	.	.
-
 Ég	fp1en	ég
 held	sfg1en	halda
 að	c	að
@@ -4595,7 +4294,6 @@ eða	c	eða
 slíkar	fbvfo	slíkur
 fyrirmyndir	nvfo	fyrirmynd
 .	.	.
-
 Ég	fp1en	ég
 sé	sfg1en	sjá
 ekkert	foheo	enginn
@@ -4603,7 +4301,6 @@ athugavert	lheosf	athugaverður
 við	ao	við
 það	fpheo	það
 .	.	.
-
 Og	c	og
 það	fphen	það
 þarf	sfg3en	þurfa
@@ -4625,7 +4322,6 @@ leiða	sng	leiða
 til	ae	til
 átröskunnar	x	átröskun
 .	.	.
-
 Getur	sfg3en	geta
 ekki	aa	ekki
 alveg	aa	alveg
@@ -4647,7 +4343,6 @@ og	c	og
 stunda	sng	stunda
 líkamsrækt	nveo	líkamsrækt
 ?	?	?
-
 Einhvern	fokeo	einhver
 veginn	nkeog	vegur
 finnst	sfm3en	finna
@@ -4673,7 +4368,6 @@ klósettinu	nheþg	klósett
 hverju	foheþ	hver
 kvöldi	nheþ	kvöld
 .	.	.
-
 Af	aþ	af
 hverju	fsheþ	hver
 þarf	sfg3en	þurfa
@@ -4686,7 +4380,6 @@ annað	foheo	annar
 í	ao	í
 skyn	nheo	skyn
 ?	?	?
-
 Það	fphen	það
 er	sfg3en	vera
 ekkert	fohen	enginn
@@ -4701,11 +4394,9 @@ grannar	lvfnsf	grannur
 !	!	!
 !	!	!
 !	!	!
-
 Nákvæmlega	aa	nákvæmlega
 ekkert	fohen	enginn
 !	!	!
-
 Uppboð	nhen	uppboð
 :	:	:
 Gamlar	lvfnsf	gamall
@@ -4714,7 +4405,6 @@ desember	nkeo	desember
 12	ta	12
 ,	,	,
 2005	ta	2005
-
 Ok	au	ok
 ,	,	,
 næsta	lhenve	næstur
@@ -4730,7 +4420,6 @@ börnum	nhfþ	barn
 Mið-Ameríku	nveþ-s	Mið-Ameríka
 áfram	aa	áfram
 .	.	.
-
 Í	aþ	í
 þessum	fakeþ	þessi
 hluta	nkeþ	hluti
@@ -4740,7 +4429,6 @@ upp	aa	upp
 gamlar	lvfosf	gamall
 myndavélar	nvfo	myndavél
 .	.	.
-
 Misgamlar	lvfnsf	misgamall
 og	c	og
 misvelfarnar	lvfnsf	misvelfarinn
@@ -4753,7 +4441,6 @@ haft	ssg	hafa
 gagn	nheo	gagn
 af	aa	af
 .	.	.
-
 Ég	fp1en	ég
 vil	sfg1en	vilja
 einnig	aa	einnig
@@ -4767,7 +4454,6 @@ vélina	nveog	vél
 mína	feveo	minn
 er	sfg3en	vera
 10.000	ta	10.000
-
 Uppboðið	nheng	uppboð
 virkar	sfg3en	virka
 þannig	aa	þannig
@@ -4779,7 +4465,6 @@ tilboðið	nheog	tilboð
 í	ao	í
 ummælin	nhfog	ummæli
 .	.	.
-
 Auðveldast	lhense	auðveldur
 er	sfg3en	vera
 að	cn	að
@@ -4796,7 +4481,6 @@ strax	aa	strax
 fyrir	aa	fyrir
 aftan	aa	aftan
 .	.	.
-
 Ef	c	ef
 að	c	að
 þú	fp2en	þú
@@ -4817,7 +4501,6 @@ inn	aa	inn
 þá	faveo	sá
 upphæð	nveo	upphæð
 .	.	.
-
 Uppboðinu	nheþg	uppboð
 mun	sfg3en	munu
 ljúka	sng	ljúka
@@ -4825,10 +4508,8 @@ ljúka	sng	ljúka
 miðnætti	nheþ	miðnætti
 á	ao	á
 fimmtudag	nkeo	fimmtudagur
-
 Solida	e	Solida
 III	ta	III
-
 Lágmark	nhen	lágmark
 :	:	:
 3.000	ta	3.000
@@ -4836,7 +4517,6 @@ Myndir	nvfn	mynd
 :	:	:
 Solida	e	Solida
 III	ta	III
-
 Þessi	faven	þessi
 myndavél	nven	myndavél
 er	sfg3en	vera
@@ -4844,7 +4524,6 @@ frá	aþ	frá
 árinu	nheþg	ár
 1954	ta	1954
 .	.	.
-
 Hún	fpven	hún
 lítur	sfg3en	líta
 mjög	aa	mjög
@@ -4873,7 +4552,6 @@ filmu	nveo	filma
 í	ao	í
 hana	fpveo	hún
 .	.	.
-
 Sjá	sbg2en	sjá
 nánari	lvfovm	náinn
 upplýsingar	nvfo	upplýsing
@@ -4881,15 +4559,12 @@ um	ao	um
 vélina	nveog	vél
 hér	aa	hér
 .	.	.
-
 Kodak	e	Kodak
 Instamatic	e	Instamatic
 133-X	x	133-x
-
 Lágmark	nhen	lágmark
 :	:	:
 500	ta	500
-
 Fyrsta	lvenve	fyrstur
 myndavélin	nveng	myndavél
 ,	,	,
@@ -4897,7 +4572,6 @@ sem	ct	sem
 ég	fp1en	ég
 átti	sfg1eþ	eiga
 .	.	.
-
 Notaði	sfg1eþ	nota
 hana	fpveo	hún
 í	ao	í
@@ -4912,7 +4586,6 @@ mér	fp1eþ	ég
 um	ao	um
 myndavélar	nvfo	myndavél
 .	.	.
-
 Myndavélin	nveng	myndavél
 er	sfg3en	vera
 sennilega	aa	sennilega
@@ -4932,15 +4605,12 @@ hana	fpveo	hún
 að	aþ	að
 gjöf	nveþ	gjöf
 .	.	.
-
 Sjá	sbg2en	sjá
 mynd	nveo	mynd
 hér	aa	hér
 .	.	.
-
 Canon	e	Canon
 Canonet	e	Canonet
-
 Lágmark	nhen	lágmark
 :	:	:
 3.000	ta	3.000
@@ -4958,7 +4628,6 @@ frá	aþ	frá
 árinu	nheþg	ár
 1961	ta	1961
 .	.	.
-
 Hún	fpven	hún
 er	sfg3en	vera
 ekki	aa	ekki
@@ -4975,12 +4644,10 @@ samt	aa	samt
 ágætis	nhee	ágæti
 standi	nheþ	stand
 .	.	.
-
 Er	sfg3en	vera
 með	ao	með
 tösku	nveo	taska
 .	.	.
-
 Einsog	c	einsog
 með	ao	með
 Solida	e	Solida
@@ -4991,7 +4658,6 @@ hvort	c	hvort
 hún	fpven	hún
 virkar	sfg3en	virka
 .	.	.
-
 Sjá	sbg2en	sjá
 nánaru	x	nánar
 upplýsingar	nvfo	upplýsing

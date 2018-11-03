@@ -3,7 +3,6 @@ kemur	sfg3en	koma
 í	aþ	í
 framtíðinni	nveþg	framtíð
 .	.	.
-
 Uppfærsla	nven	uppfærsla
 Guðnýjar	nvee-s	Guðný
 Maríu	nvee-s	María
@@ -11,7 +10,6 @@ einkennist	sfm3en	einkenna
 af	aþ	af
 einfaldleika	nkeþ	einfaldleiki
 .	.	.
-
 Leikmynd	nven	leikmynd
 er	sfg3en	vera
 mjög	aa	mjög
@@ -33,7 +31,6 @@ búa	sng	búa
 til	aa	til
 sjó	nkeo	sjór
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 aðdáunarvert	lhensf	aðdáunarverður
@@ -43,7 +40,6 @@ skilar	sfg3en	skila
 verkinu	nheþg	verk
 ágætlega	aa	ágætlega
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 hefur	sfg3en	hafa
@@ -64,7 +60,6 @@ sviðspersónur	nvfo	sviðspersóna
 leikurum	nkfþ	leikari
 sínum	fekfþ	sinn
 .	.	.
-
 Að	aþ	að
 þessu	faheþ	þessi
 leyti	nheþ	leyti
@@ -83,7 +78,6 @@ hafi	svg3fn	hafa
 bitastæðari	lhfovm	bitastæður
 hlutverkin	nhfog	hlutverk
 .	.	.
-
 En	c	en
 þegar	c	þegar
 leikhópurinn	nkeng	leikhópur
@@ -110,7 +104,6 @@ að	cn	að
 sýna	sng	sýna
 listir	nvfo	list
 .	.	.
-
 Og	c	og
 þrátt	aa	þrátt
 fyrir	ao	fyrir
@@ -131,17 +124,14 @@ bak	nheo	bak
 við	ao	við
 handritið	nheog	handrit
 .	.	.
-
 Framtíðin	nveng	framtíð
 er	sfg3en	vera
 Agons	e	Agons
 og	c	og
 þeirra	fpkfe	hann
 .	.	.
-
 Þorgeir	nken-s	Þorgeir
 Tryggvason	nken-s	Tryggvason
-
 Eins	aa	eins
 og	c	og
 þekkt	lhensf	þekktur
@@ -158,7 +148,6 @@ deilum	nvfþ	deila
 og	c	og
 misklíð	nveþ	misklíð
 .	.	.
-
 Nauðsynlegt	lhensf	nauðsynlegur
 er	sfg3en	vera
 því	aa	því
@@ -177,7 +166,6 @@ frá	aþ	frá
 upphaflegum	lhfþsf	upphaflegur
 markmiðum	nhfþ	markmið
 .	.	.
-
 http://www.magnuss.is	v	http://www.magnuss.is
 /	/	/
 Þórunn	nven-s	Þórunn
@@ -211,7 +199,6 @@ fer	sfg3en	fara
 í	aþ	í
 stjórnmálum	nhfþ	stjórnmál
 .	.	.
-
 Hún	fpven	hún
 mætti	svg3eþ	mæta
 mikilli	lveþsf	mikill
@@ -235,12 +222,10 @@ um	aa	um
 70%	tp	70%
 atkvæða	nhfe	atkvæði
 .	.	.
-
 Geri	svg3en	gera
 aðrir	fokfn	annar
 betur	aam	vel
 .	.	.
-
 http://www.althingi.is	v	http://www.althingi.is
 /	/	/
 tsv	x	tsv
@@ -255,7 +240,6 @@ Hver	fsven	hver
 er	sfg3en	vera
 stefnan	nveng	stefna
 ?	?	?
-
 Miðað	sþghen	miða
 við	ao	við
 orð	nhfo	orð
@@ -270,14 +254,12 @@ skoðun	nveo	skoðun
 RÚV	as	RÚV
 málinu	nheþg	mál
 .	.	.
-
 Hver	fsven	hver
 er	sfg3en	vera
 þá	aa	þá
 sú	faven	sá
 skoðun	nven	skoðun
 ?	?	?
-
 Maður	nken	maður
 hlýtur	sfg3en	hljóta
 að	cn	að
@@ -314,10 +296,8 @@ og	c	og
 sölu	nvee	sala
 þess	fphee	það
 .	.	.
-
 http://www.katrinjul.is	v	http://www.katrinjul.is
 /	/	/
-
 REGLUR	nvfn	regla
 eru	sfg3fn	vera
 ekki	aa	ekki
@@ -345,7 +325,6 @@ upphafi	nheþ	upphaf
 í	aa	í
 gær	aa	gær
 .	.	.
-
 Frumvarp	nhen	frumvarp
 um	ao	um
 Ríkisútvarpið	nheogs	Ríkisútvarp
@@ -368,7 +347,6 @@ hefðbundnum	lhfþsf	hefðbundinn
 störfum	nhfþ	starf
 þingsins	nheeg	þing
 .	.	.
-
 Venjubundinn	lkensf	venjubundinn
 fyrirspurnartími	nken	fyrirspurnartími
 var	sfg3eþ	vera
@@ -383,7 +361,6 @@ gefinn	sþgken	gefa
 til	ae	til
 utandagskrárumræðna	nvfe	utandagskrárumræða
 .	.	.
-
 Ásta	nven-s	Ásta
 gerði	sfg3eþ	gera
 athugasemdir	nvfo	athugasemd
@@ -399,7 +376,6 @@ ráðherra	nkfe	ráðherra
 við	aþ	við
 fyrirspurnum	nvfþ	fyrirspurn
 .	.	.
-
 Elstu	lvfnve	gamall
 fyrirspurnirnar	nvfng	fyrirspurn
 eru	sfg3fn	vera
@@ -429,7 +405,6 @@ skriflegum	lvfþsf	skriflegur
 tíu	tfkfþ	tíu
 dögum	nkfþ	dagur
 .	.	.
-
 Steingrímur	nken-s	Steingrímur
 J.	as	J.
 Sigfússon	nken-s	Sigfússon
@@ -455,7 +430,6 @@ lögum	nhfþ	lag
 og	c	og
 stjórnarskrá	nveþ	stjórnarskrá
 .	.	.
-
 Það	fphen	það
 verður	sfg3en	verða
 að	cn	að
@@ -489,7 +463,6 @@ sjálfstæðismanna	nkfe	sjálfstæðismaður
 sagði	sfg3eþ	segja
 Steingrímur	nken-s	Steingrímur
 .	.	.
-
 Sigurður	nken-s	Sigurður
 Kári	nken-s	Kári
 Kristjánsson	nken-s	Kristjánsson
@@ -511,7 +484,6 @@ komist	svm3fn	koma
 á	ao	á
 dagskrá	nveo	dagskrá
 .	.	.
-
 Hér	aa	hér
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -583,13 +555,11 @@ og	c	og
 telja	sfg3fn	telja
 þarft	lheosf	þarfur
 .	.	.
-
 Ekki	aa	ekki
 lausn	nven	lausn
 að	cn	að
 takmarka	sng	takmarka
 ræðutíma	nkeo	ræðutími
-
 ÞAÐ	fphen	það
 ER	sfg3en	vera
 ekki	aa	ekki
@@ -620,7 +590,6 @@ forseta	nkee	forseti
 í	aa	í
 gær	aa	gær
 .	.	.
-
 Stjórnarandstöðuþingmenn	nkfn	stjórnarandstöðuþingmaður
 tóku	sfg3fþ	taka
 ummæli	nhfo	ummæli
@@ -665,7 +634,6 @@ ekki	aa	ekki
 flestum	lhfþse	margur
 nágrannalöndunum	nhfþg	nágrannaland
 .	.	.
-
 Jóhanna	nven-s	Jóhanna
 Sigurðardóttir	nven-s	Sigurðardóttir
 útilokaði	sfg3eþ	útiloka
@@ -688,7 +656,6 @@ breytinum	x	breyting
 störfum	nhfþ	starf
 þingsins	nheeg	þing
 .	.	.
-
 Löggjafarvaldið	nheng	löggjafarvald
 er	sfg3en	vera
 mjög	aa	mjög
@@ -724,7 +691,6 @@ ræðustóli	nkeþ	ræðustóll
 og	c	og
 mótmæla	sng	mótmæla
 .	.	.
-
 JÓNÍNA	nven-s	Jónína
 Bjartmarz	nven-s	Bjartmarz
 umhverfisráðherra	nken	umhverfisráðherra
@@ -746,7 +712,6 @@ jökulsins	nkeeg	jökull
 eru	sfg3fn	vera
 friðlýst	sþghfn	friðlýsa
 .	.	.
-
 Markmiðið	nheng	markmið
 með	aþ	með
 lögunum	nhfþg	lag
@@ -775,7 +740,6 @@ náttúru	nvee	náttúra
 og	c	og
 sögu	nvee	saga
 .	.	.
-
 Vatnajökulsþjóðgarður	nken-s	Vatnajökulsþjóðgarður
 verður	sfg3en	verða
 ríkisstofnun	nven	ríkisstofnun
@@ -800,7 +764,6 @@ við	ao	við
 ákveðin	lhfosf	ákveðinn
 svæðaráð	nhfo	svæðaráð
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 heilmikið	lhensf	heilmikill
@@ -817,7 +780,6 @@ að	aþ	að
 sagði	sfg3eþ	segja
 Jónína	nven-s	Jónína
 .	.	.
-
 Mörk	nhfn	mark
 þjóðgarðsins	nkeeg	þjóðgarður
 ráðast	sfm3fn	ráða
@@ -843,7 +805,6 @@ er	sfg3en	vera
 í	aþ	í
 einkaeign	nveþ	einkaeign
 .	.	.
-
 Náist	svm3en	ná
 það	fahen	sá
 samkomulag	nhen	samkomulag
@@ -866,7 +827,6 @@ til	ae	til
 átta	tfhfe	átta
 sveitarfélaga	nhfe	sveitarfélag
 .	.	.
-
 Rannveig	nven-s	Rannveig
 Guðmundsdóttir	nven-s	Guðmundsdóttir
 ,	,	,
@@ -889,7 +849,6 @@ hvort	c	hvort
 væri	svg3eþ	vera
 nauðsynlegt	lhensf	nauðsynlegur
 .	.	.
-
 Svo	aa	svo
 virðist	sfm3en	virða
 líka	aa	líka
@@ -903,7 +862,6 @@ koma	sng	koma
 stað	nkeo	staður
 Umhverfisstofnunar	nvee-s	Umhverfisstofnun
 .	.	.
-
 Kolbrún	nven-s	Kolbrún
 Halldórsdóttir	nven-s	Halldórsdóttir
 ,	,	,
@@ -932,7 +890,6 @@ koma	sng	koma
 að	aþ	að
 þjóðgarðinum	nkeþg	þjóðgarður
 .	.	.
-
 Jónína	nven-s	Jónína
 sagði	sfg3eþ	segja
 að	c	að
@@ -962,7 +919,6 @@ uppbyggingu	nveþ	uppbygging
 garðsins	nkeeg	garður
 síðar	aam	síðar
 .	.	.
-
 Frumvarpið	nheng	frumvarp
 verður	sfg3en	verða
 í	aþ	í
@@ -972,7 +928,6 @@ til	ae	til
 umhverfisnefndar	nvee	umhverfisnefnd
 Alþingis	nhee-s	Alþingi
 .	.	.
-
 Eftir	ao	eftir
 Höllu	nveo-s	Halla
 Gunnarsdóttur	nveo-s	Gunnarsdóttir
@@ -1001,7 +956,6 @@ meðalhófs	nhee	meðalhóf
 og	c	og
 sanngirni	nvee	sanngirni
 .	.	.
-
 Þetta	fahen	þessi
 kom	sfg3eþ	koma
 fram	aa	fram
@@ -1024,7 +978,6 @@ Alþingi	nheþ-s	Alþingi
 í	aa	í
 gær	aa	gær
 .	.	.
-
 Með	aþ	með
 þjóðlendum	nvfþ	þjóðlenda
 er	sfg3en	vera
@@ -1043,7 +996,6 @@ gagnrýndi	sfg3eþ	gagnrýna
 framgöngu	nveo	framganga
 óbyggðanefndar	nvee	óbyggðanefnd
 .	.	.
-
 Frámunaleg	lvensf	frámunalegur
 harka	nven	harka
 hefði	svg3eþ	hafa
@@ -1056,7 +1008,6 @@ ríkisvaldinu	nheþg	ríkisvald
 til	ae	til
 skammar	nvee	skömm
 .	.	.
-
 Lögunum	nhfþg	lag
 sem	ct	sem
 er	sfg3en	vera
@@ -1083,7 +1034,6 @@ bænda	nkfe	bóndi
 og	c	og
 landeigenda	nkfe	landeigandi
 .	.	.
-
 Björgvin	nken-s	Björgvin
 sagði	sfg3eþ	segja
 sönnunarbyrðina	nveog	sönnunarbyrði
@@ -1091,7 +1041,6 @@ liggja	sng	liggja
 á	aþ	á
 landeigendunum	nkfþg	landeigandi
 .	.	.
-
 Þinglýst	lhfnsf	þinglýstur
 landamerkjabréf	nhfn	landamerkjabréf
 frá	aþ	frá
@@ -1121,7 +1070,6 @@ dómstólum	nkfþ	dómstóll
 vegna	ae	vegna
 þessa	fahee	þessi
 .	.	.
-
 Árni	nken-s	Árni
 M.	as	M.
 Mathiesen	nken-s	Mathiesen
@@ -1149,7 +1097,6 @@ eign	nveþ	eign
 á	aþ	á
 landi	nheþ	land
 .	.	.
-
 Ríkinu	nheþg	ríki
 er	sfg3en	vera
 skylt	lhensf	skyldur
@@ -1177,7 +1124,6 @@ um	ao	um
 rétta	lveosf	réttur
 niðurstöðu	nveo	niðurstaða
 .	.	.
-
 Árni	nken-s	Árni
 hefur	sfg3en	hafa
 því	aa	því
@@ -1196,7 +1142,6 @@ lýsir	sfg3en	lýsa
 sínum	fevfþ	sinn
 kröfum	nvfþ	krafa
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 tíminn	nkeng	tími
@@ -1225,7 +1170,6 @@ verða	sfg3fn	verða
 sagði	sfg3eþ	segja
 Árni	nken-s	Árni
 .	.	.
-
 Jón	nken-s	Jón
 Kristjánsson	nken-s	Kristjánsson
 ,	,	,
@@ -1252,7 +1196,6 @@ stuðla	sng	stuðla
 að	aþ	að
 eignaupptöku	nveþ	eignaupptaka
 .	.	.
-
 Framkvæmdin	nveng	framkvæmd
 hefði	svg3eþ	hafa
 hins	fakee	hinn
@@ -1262,7 +1205,6 @@ allt	fohen	allur
 öðru	foheþ	annar
 vísi	aa	vísi
 .	.	.
-
 Logandi	lkenof	logandi
 ófriður	nken	ófriður
 hefur	sfg3en	hafa
@@ -1292,7 +1234,6 @@ bæta	sng	bæta
 þessa	faveo	þessi
 framkvæmd	nveo	framkvæmd
 .	.	.
-
 Bjarni	nken-s	Bjarni
 Benediktsson	nken-s	Benediktsson
 ,	,	,
@@ -1312,7 +1253,6 @@ felldi	svg3eþ	fella
 sína	fekfo	sinn
 dóma	nkfo	dómur
 .	.	.
-
 Það	fphen	það
 liggur	sfg3en	liggja
 fyrir	aa	fyrir
@@ -1343,7 +1283,6 @@ eignarrétt	nkeo	eignarréttur
 sagði	sfg3eþ	segja
 Bjarni	nken-s	Bjarni
 .	.	.
-
 Þegar	c	þegar
 menn	nkfn	maður
 setja	sfg3fn	setja
@@ -1406,7 +1345,6 @@ fram	aa	fram
 kröfugerðum	nvfþ	kröfugerð
 ríkisins	nheeg	ríki
 .	.	.
-
 Þingfundur	nken	þingfundur
 hefst	sfm3en	hefja
 að	aþ	að
@@ -1424,7 +1362,6 @@ KHÍ	as	KHÍ
 og	c	og
 HÍ	as	HÍ
 .	.	.
-
 Einnig	aa	einnig
 eru	sfg3fn	vera
 nokkrar	fovfn	nokkur
@@ -1432,7 +1369,6 @@ nokkrar	fovfn	nokkur
 á	aþ	á
 dagskrá	nveþ	dagskrá
 .	.	.
-
 SPENNUFALL	nhen	spennufall
 er	sfg3en	vera
 orðið	nheng	orð
@@ -1451,7 +1387,6 @@ viku	nveo	vika
 á	aþ	á
 Alþingi	nheþ-s	Alþingi
 .	.	.
-
 Stjórnarandstaðan	nveng	stjórnarandstaða
 tilkynnti	sfg3eþ	tilkynna
 á	ao	á
@@ -1475,7 +1410,6 @@ um	ao	um
 framtíð	nveo	framtíð
 RÚV	as	RÚV
 .	.	.
-
 Við	fp1fn	ég
 blaðamennirnir	nkfng	blaðamaður
 höfðum	sfg1fþ	hafa
@@ -1494,7 +1428,6 @@ um	ao	um
 þingmenn	nkfo	þingmaður
 meirihlutans	nkeeg	meirihluti
 .	.	.
-
 Þessar	favfn	þessi
 snöggu	lvfnvf	snöggur
 málalyktir	nvfn	málalykt
@@ -1523,7 +1456,6 @@ með	aþ	með
 hefðbundnara	lheþvm	hefðbundinn
 sniði	nheþ	snið
 .	.	.
-
 Allt	fohen	allur
 datt	sfg3eþ	detta
 í	ao	í
@@ -1540,7 +1472,6 @@ horni	nheþ	horn
 á	ao	á
 mánudag	nkeo	mánudagur
 .	.	.
-
 Í	aþ	í
 framhaldinu	nheþg	framhald
 fór	sfg3eþ	fara
@@ -1559,7 +1490,6 @@ tíma	nkeþ	tími
 alla	foveo	allur
 vikuna	nveog	vika
 .	.	.
-
 Flest	lhfnse	margur
 dagskrármálin	nhfng	dagskrármál
 hafa	sfg3fn	hafa
@@ -1569,7 +1499,6 @@ stjórnarfrumvörp	nhfn	stjórnarfrumvarp
 fyrstu	lveþve	fyrstur
 umræðu	nveþ	umræða
 .	.	.
-
 Þingmenn	nkfn	þingmaður
 hafa	sfg3fn	hafa
 þá	aa	þá
@@ -1604,7 +1533,6 @@ efniságreining	nkeo	efniságreiningur
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 Þingið	nheng	þing
 tók	sfg3eþ	taka
 þó	aa	þó
@@ -1643,7 +1571,6 @@ sínum	fehfþ	sinn
 í	ao	í
 kosningaskrifstofur	nvfo	kosningaskrifstofa
 .	.	.
-
 Ögmundur	nken-s	Ögmundur
 Jónasson	nken-s	Jónasson
 setti	sfg3eþ	setja
@@ -1667,7 +1594,6 @@ fyrir	ao	fyrir
 næstu	lveove	næstur
 ríkisstjórn	nveo	ríkisstjórn
 .	.	.
-
 Þó	aa	þó
 þótti	sfg3eþ	þykja
 meirihlutaþingmönnum	nkfþ	meirihlutaþingmaður
@@ -1686,7 +1612,6 @@ stefnu	nveo	stefna
 málefnum	nhfþ	málefni
 innflytjenda	nkfe	innflytjandi
 .	.	.
-
 Frjálslynda	lkeþvf	frjálslyndur
 flokknum	nkeþg	flokkur
 barst	sfm3eþ	bera
@@ -1708,7 +1633,6 @@ liðs	nhee	lið
 við	ao	við
 flokkinn	nkeog	flokkur
 .	.	.
-
 Þetta	fahen	þessi
 kom	sfg3eþ	koma
 kannski	aa	kannski
@@ -1740,7 +1664,6 @@ með	aþ	með
 matsalnum	nkeþg	matsalur
 nýverið	aa	nýverið
 .	.	.
-
 Frjálslyndir	lkfnsf	frjálslyndur
 eru	sfg3fn	vera
 þá	aa	þá
@@ -1759,7 +1682,6 @@ flokknum	nkeþg	flokkur
 vordögum	nkfþ	vordagur
 2005	ta	2005
 .	.	.
-
 Vistaskipti	nhfn	vistaskipti
 virðast	sfm3fn	virða
 þó	aa	þó
@@ -1769,7 +1691,6 @@ mismikil	lhfosf	mismikill
 á	ao	á
 menn	nkfo	maður
 .	.	.
-
 Valdimar	nken-s	Valdimar
 fílefldist	sfm3eþ	fílefla
 eftir	ao	eftir
@@ -1787,7 +1708,6 @@ upp	aa	upp
 í	ao	í
 ræðustól	nkeo	ræðustóll
 .	.	.
-
 Lítið	lhensf	lítill
 hefur	sfg3en	hafa
 hins	fakee	hinn
@@ -1811,7 +1731,6 @@ máls	nhee	mál
 allan	fokeo	allur
 vetur	nkeo	vetur
 .	.	.
-
 Kristinn	nken-s	Kristinn
 H.	as	H.
 Gunnarsson	nken-s	Gunnarsson
@@ -1834,7 +1753,6 @@ gefið	ssg	gefa
 þess	fahee	sá
 efnis	nhee	efni
 .	.	.
-
 Færi	svg3eþ	fara
 svo	aa	svo
 að	c	að
@@ -1871,9 +1789,7 @@ hjá	aþ	hjá
 fólkinu	nheþg	fólk
 á	aþ	á
 gólfinu	nheþg	gólf
-
 .	.	.
-
 Líklegt	lhensf	líklegur
 er	sfg3en	vera
 að	c	að
@@ -1891,7 +1807,6 @@ ber	sfg3en	bera
 hæst	aae	hátt
 varaformannskjörið	nheog	varaformannskjör
 .	.	.
-
 Guðjón	nken-s	Guðjón
 Arnar	nken-s	Arnar
 Kristjánsson	nken-s	Kristjánsson
@@ -1930,7 +1845,6 @@ flokksins	nkeeg	flokkur
 Margrét	nven-s	Margrét
 Sverrisdóttir	nven-s	Sverrisdóttir
 .	.	.
-
 Flokksforystan	nveng	flokksforysta
 hefur	sfg3en	hafa
 fengið	ssg	fá
@@ -1948,7 +1862,6 @@ karlarnir	nkfng	karl
 standi	svg3fn	standa
 saman	aa	saman
 .	.	.
-
 Kvenlægar	lvfosf	kvenlægur
 áhyggjur	nvfo	áhyggja
 ,	,	,
@@ -1961,7 +1874,6 @@ viðtali	nheþ	viðtal
 við	ao	við
 RÚV	as	RÚV
 .	.	.
-
 Ósjálfrátt	aa	ósjálfrátt
 rifjast	sfm3fn	rifja
 upp	aa	upp
@@ -1975,7 +1887,6 @@ kvenna	nvfe	kona
 á	aþ	á
 þingi	nheþ	þing
 .	.	.
-
 Eitthvað	fohen	einhver
 virðist	sfm3en	virða
 þó	aa	þó
@@ -2019,14 +1930,12 @@ samt	aa	samt
 ,	,	,
 tvisvar	aa	tvisvar
 .	.	.
-
 Halla	nven-s	Halla
 Gunnarsdóttir	nven-s	Gunnarsdóttir
 (	(	(
 halla@mbl.i	x	halla@mbl.is
 s	x	s
 )	)	)
-
 Þingfundur	nken	þingfundur
 hefst	sfm3en	hefja
 á	ao	á
@@ -2037,7 +1946,6 @@ með	aþ	með
 óundirbúnum	lvfþsf	óundirbúinn
 fyrirspurnum	nvfþ	fyrirspurn
 .	.	.
-
 Guðlaugur	nken-s	Guðlaugur
 Þór	nken-s	Þór
 Þórðarson	nken-s	Þórðarson
@@ -2057,7 +1965,6 @@ bjór	nkeþ	bjór
 í	aþ	í
 búðum	nvfþ	búð
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 í	ao	í
@@ -2076,7 +1983,6 @@ Sjálfstæðisflokki	nkeþ-s	Sjálfstæðisflokkur
 og	c	og
 Samfylkingu	nveþ-s	Samfylking
 .	.	.
-
 Guðlaugur	nken-s	Guðlaugur
 hikaði	sfg3eþ	hika
 ekki	aa	ekki
@@ -2124,7 +2030,6 @@ kaupa	sng	kaupa
 sér	fpheþ	sig
 áfengi	nheo	áfengi
 .	.	.
-
 Fundur	nken	fundur
 Alþingis	nhee-s	Alþingi
 hefst	sfm3en	hefja
@@ -2139,7 +2044,6 @@ er	sfg3en	vera
 á	aþ	á
 dagskrá	nveþ	dagskrá
 .	.	.
-
 Félagsmálaráðherra	nken	félagsmálaráðherra
 mælir	sfg3en	mæla
 meðal	ae	meðal
@@ -2155,7 +2059,6 @@ starfskjör	nhfn	starfskjör
 starfsmanna	nkfe	starfsmaður
 þeirra	fphfe	það
 .	.	.
-
 FYRIRTÆKI	nhfn	fyrirtæki
 sem	ct	sem
 losa	sfg3fn	losa
@@ -2184,7 +2087,6 @@ fram	aa	fram
 að	cn	að
 ganga	sng	ganga
 .	.	.
-
 Ríkisstjórnin	nveng	ríkisstjórn
 hefur	sfg3en	hafa
 þegar	c	þegar
@@ -2199,7 +2101,6 @@ lagt	sþghen	leggja
 fyrir	ao	fyrir
 Alþingi	nheo-s	Alþingi
 .	.	.
-
 Sérstök	lvensf	sérstakur
 nefnd	nven	nefnd
 ,	,	,
@@ -2227,7 +2128,6 @@ sett	sþghfn	setja
 með	aþ	með
 Kyoto-bókuninni	nveþgs	Kyoto-bókun
 .	.	.
-
 Fyrirtæki	nhfn	fyrirtæki
 geta	sfg3fn	geta
 því	aa	því
@@ -2238,7 +2138,6 @@ til	ae	til
 þessarar	favee	þessi
 nefndar	nvee	nefnd
 .	.	.
-
 Jónína	nven-s	Jónína
 Bjartmarz	nven-s	Bjartmarz
 segir	sfg3en	segja
@@ -2269,7 +2168,6 @@ en	c	en
 Kyoto-bókunin	nvengs	Kyoto-bókun
 leyfir	sfg3en	leyfa
 .	.	.
-
 Ef	c	ef
 ýtrustu	lhfnve	ýtrari
 áform	nhfn	áform
@@ -2317,7 +2215,6 @@ skuldbindingu	nveo	skuldbinding
 segir	sfg3en	segja
 Jónína	nven-s	Jónína
 .	.	.
-
 Þetta	fahen	þessi
 bannar	sfg3en	banna
 mönnum	nkfþ	maður
@@ -2337,7 +2234,6 @@ afla	sng	afla
 sér	fpkfþ	sig
 viðbótarheimilda	nvfe	viðbótarheimild
 .	.	.
-
 Það	fphen	það
 tryggir	sfg3en	tryggja
 líka	aa	líka
@@ -2355,7 +2251,6 @@ stjórnvöld	nhfo	stjórnvald
 segir	sfg3en	segja
 Jónína	nven-s	Jónína
 .	.	.
-
 Mikið	aa	mikið
 er	sfg3en	vera
 rætt	sþghen	ræða
@@ -2373,7 +2268,6 @@ kosningar	nvfo	kosning
 í	ao	í
 vor	nheo	vor
 .	.	.
-
 Ef	c	ef
 Kristinn	nken-s	Kristinn
 gengur	sfg3en	ganga
@@ -2390,7 +2284,6 @@ leiða	sng	leiða
 eitthvert	foheo	einhver
 kjördæmi	nheo	kjördæmi
 .	.	.
-
 Kristinn	nken-s	Kristinn
 sækir	sfg3en	sækja
 fylgi	nheo	fylgi
@@ -2408,7 +2301,6 @@ Guðjón	nken-s	Guðjón
 Arnar	nken-s	Arnar
 Kristjánsson	nken-s	Kristjánsson
 .	.	.
-
 Einhverjir	fokfn	einhver
 hafa	sfg3fn	hafa
 haldið	ssg	halda
@@ -2448,7 +2340,6 @@ lista	nkeþ	listi
 í	aþ	í
 NV	as	NV
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 spurning	nven	spurning
@@ -2465,7 +2356,6 @@ kragamaður	nken	kragamaður
 og	c	og
 Skagamaður	nken-s	Skagamaður
 .	.	.
-
 UM	aa	um
 TVÖ	to	tvö
 þúsund	tfvfþ	þúsund
@@ -2477,7 +2367,6 @@ hafnað	sþghen	hafna
 sl.	as	sl.
 haust	nheo	haust
 .	.	.
-
 Þó	aa	þó
 verður	sfg3en	verða
 að	cn	að
@@ -2504,7 +2393,6 @@ en	c	en
 einum	lkeþsf	einn
 stað	nkeþ	staður
 .	.	.
-
 Þetta	fahen	þessi
 kom	sfg3eþ	koma
 fram	aa	fram
@@ -2521,7 +2409,6 @@ Alþingi	nheþ-s	Alþingi
 í	aa	í
 gær	aa	gær
 .	.	.
-
 Að	aþ	að
 sögn	nveþ	sögn
 Þorgerðar	nvee-s	Þorgerður
@@ -2555,7 +2442,6 @@ hefur	sfg3en	hafa
 lokið	ssg	ljúka
 stúdentsprófi	nheþ	stúdentspróf
 .	.	.
-
 Við	fp1fn	ég
 erum	sfg1fn	vera
 líklega	aa	líklega
@@ -2576,7 +2462,6 @@ umsóknir	nvfo	umsókn
 sagði	sfg3eþ	segja
 Þorgerður	nven-s	Þorgerður
 .	.	.
-
 Björgvin	nken-s	Björgvin
 sagði	sfg3eþ	segja
 þennan	fakeo	þessi
@@ -2588,7 +2473,6 @@ endurskoðun	nveo	endurskoðun
 framboði	nheþ	framboð
 háskólamenntunar	nvee	háskólamenntun
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 að	aþ	að
@@ -2634,7 +2518,6 @@ ekki	aa	ekki
 með	ao	með
 stúdentspróf	nheo	stúdentspróf
 .	.	.
-
 Enginn	foken	enginn
 þingfundur	nken	þingfundur
 er	sfg3en	vera
@@ -2646,7 +2529,6 @@ nefndafundir	nkfn	nefndafundur
 standa	sfg3fn	standa
 yfir	aa	yfir
 .	.	.
-
 Næsti	lkenve	næstur
 fundur	nken	fundur
 er	sfg3en	vera
@@ -2658,7 +2540,6 @@ hefst	sfm3en	hefja
 kl.	as	kl.
 15	ta	15
 .	.	.
-
 MARKMIÐ	nhen	markmið
 okkar	fp1fe	ég
 er	sfg3en	vera
@@ -2716,7 +2597,6 @@ sinn	nheo	sinn
 Íslensku	lveþvf	íslenskur
 sjávarútvegssýningunni	nveþg	sjávarútvegssýning
 .	.	.
-
 Markaðs-	nkfn	markaðsmaður
 og	c	og
 sölumenn	nkfn	sölumaður
@@ -2747,7 +2627,6 @@ segir	sfg3en	segja
 Örn	nken-s	Örn
 Viðar	nken-s	Viðar
 .	.	.
-
 Við	ao	við
 sameiningu	nveo	sameining
 SÍF	as	SÍF
@@ -2772,7 +2651,6 @@ heimsvísu	nveo	heimsvísa
 ,	,	,
 SÍF-samstæðan	nvengs	SÍF-samstæðan
 .	.	.
-
 Hið	ghen	hinn
 sameinaða	lhenvf	sameinaður
 félag	nhen	félag
@@ -2805,7 +2683,6 @@ um	aa	um
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Á	aþ	á
 vegum	nkfþ	vegur
 fyrirtækisins	nheeg	fyrirtæki
@@ -2819,7 +2696,6 @@ Bandaríkjunum	nhfþgs	Bandaríki
 og	c	og
 Kanada	nheþ-s	Kanada
 .	.	.
-
 Dótturfyrirtæki	nhfn	dótturfyrirtæki
 og	c	og
 söluskrifstofur	nvfn	söluskrifstofa
@@ -2845,7 +2721,6 @@ Spáni	nkeþ-s	Spánn
 og	c	og
 Ítalíu	nveþ-s	Ítalía
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 á	sfg3en	eiga
@@ -2865,7 +2740,6 @@ framleiðslufyrirtæki	nheþ	framleiðslufyrirtæki
 í	aþ	í
 Færeyjum	nvfþ-s	Færeyjar
 .	.	.
-
 Traust	lhensf	traustur
 samstarf	nhen	samstarf
 við	ao	við
@@ -2903,7 +2777,6 @@ kjölfestu	nveo	kjölfesta
 starfi	nheþ	starf
 samstæðunnar	nveeg	samstæða
 .	.	.
-
 Vörur	nvfn	vara
 SÍF	as	SÍF
 eru	sfg3fn	vera
@@ -2942,7 +2815,6 @@ okkar	fp1fe	ég
 segir	sfg3en	segja
 hann	fpken	hann
 .	.	.
-
 Þrátt	aa	þrátt
 fyrir	ao	fyrir
 að	c	að
@@ -2967,7 +2839,6 @@ stendur	sfg3en	standa
 traustum	lkeþsf	traustur
 grunni	nkeþ	grunnur
 .	.	.
-
 Við	fp1fn	ég
 höfum	sfg1fn	hafa
 að	aþ	að
@@ -2988,7 +2859,6 @@ með	aþ	með
 tilkomu	nveþ	tilkoma
 evrunnar	nveeg	evra
 .	.	.
-
 Almenningur	nken	almenningur
 ,	,	,
 sérstaklega	aa	sérstaklega
@@ -3017,7 +2887,6 @@ framan	aa	framan
 af	aþ	af
 ári	nheþ	ár
 .	.	.
-
 Aukið	lhensf	aukinn
 umfang	nhen	umfang
 hjá	aþ	hjá
@@ -3046,7 +2915,6 @@ fyrr	aam	fyrr
 í	ao	í
 sumar	nheo	sumar
 .	.	.
-
 Samningar	nkfn	samningur
 um	ao	um
 þeesi	x	þeesi
@@ -3086,7 +2954,6 @@ tonnum	nhfþ	tonn
 af	aþ	af
 hráefni	nheþ	hráefni
 .	.	.
-
 Við	fp1fn	ég
 munum	sfg1fn	munu
 taka	sng	taka
@@ -3127,7 +2994,6 @@ segir	sfg3en	segja
 Örn	nken-s	Örn
 Viðar	nken-s	Viðar
 .	.	.
-
 Umbúðir	nvfn	umbúð
 og	c	og
 íbætiefni	nhfn	íbætiefni
@@ -3162,7 +3028,6 @@ framleiðslu	nvee	framleiðsla
 á	aþ	á
 sjávarafurðum	nvfþ	sjávarafurð
 .	.	.
-
 Þá	aa	þá
 tekur	sfg3en	taka
 fyrirtækið	nheng	fyrirtæki
@@ -3181,7 +3046,6 @@ framleiðslueiningar	nvfo	framleiðslueining
 SÍF-samstæðunnar	nveegs	SÍF-samstæðan
 erlendis	aa	erlendis
 .	.	.
-
 Fulltrúar	nkfn	fulltrúi
 Saltkaupa	nhfe-s	Saltkaup
 verða	sfg3fn	verða
@@ -3194,7 +3058,6 @@ ráðagerða	nvfe	ráðagerð
 fyrir	ao	fyrir
 framleiðendur	nkfo	framleiðandi
 .	.	.
-
 Þá	aa	þá
 verða	sfg3fn	verða
 einnig	aa	einnig
@@ -3236,7 +3099,6 @@ mikilvægur	lkensf	mikilvægur
 vöruframboði	nheþ	vöruframboð
 SÍF-samstæðunnar	nveegs	SÍF-samstæðan
 .	.	.
-
 Meðal	ae	meðal
 nýjunga	nvfe	nýjung
 er	sfg3en	vera
@@ -3279,7 +3141,6 @@ og	c	og
 mjög	aa	mjög
 nákvæmur	lkensf	nákvæmur
 .	.	.
-
 Einnig	aa	einnig
 verða	sfg3fn	verða
 kynntar	sþgvfn	kynna
@@ -3303,7 +3164,6 @@ að	aþ	að
 sögn	nveþ	sögn
 Ögmundar	nkee-s	Ögmundur
 .	.	.
-
 Astikið	e	Astikið
 markaði	sfg3eþ	marka
 tímamót	nhfo	tímamót
@@ -3326,7 +3186,6 @@ starfsafmæli	nheþ	starfsafmæli
 þessu	faheþ	þessi
 ári	nheþ	ár
 .	.	.
-
 Í	aþ	í
 upphafi	nheþ	upphaf
 hóf	sfg3eþ	hefja
@@ -3368,7 +3227,6 @@ sjávarútvegi	nkeþ	sjávarútvegur
 til	ae	til
 þessa	fahee	þessi
 .	.	.
-
 Á	aþ	á
 síldarárunum	nhfþg	síldarár
 varð	sfg3eþ	verða
@@ -3389,7 +3247,6 @@ helstu	lhfove	heldri
 síldveiðiskip	nhfo	síldveiðiskip
 Íslendinga	nkfe-s	Íslendingur
 .	.	.
-
 Markaði	sfg3eþ	marka
 þetta	fahen	þessi
 upphafið	nheog	upphaf
@@ -3406,7 +3263,6 @@ Simrad	e	Simrad
 íslenskum	lkeþsf	íslenskur
 markaði	nkeþ	markaður
 .	.	.
-
 Fyrirtækið	nheng	fyrirtæki
 FAJ	as	FAJ
 hefur	sfg3en	hafa
@@ -3435,7 +3291,6 @@ fyrir	ao	fyrir
 íslenskar	lvfosf	íslenskur
 útgerðir	nvfo	útgerð
 .	.	.
-
 Má	sfg3en	mega
 þar	aa	þar
 nefna	sng	nefna
@@ -3481,7 +3336,6 @@ byggð	sþghfn	byggja
 í	aþ	í
 Chile	e	Chile
 .	.	.
-
 Einnig	aa	einnig
 eru	sfg3fn	vera
 skip	nhfn	skip
@@ -3513,7 +3367,6 @@ tækjakosti	nkeþ	tækjakostur
 frá	aþ	frá
 FAJ	as	FAJ
 .	.	.
-
 Að	aþ	að
 sögn	nveþ	sögn
 Ögmundar	nkee-s	Ögmundur
@@ -3528,7 +3381,6 @@ sjávarútvegssýningunni	nveþg	sjávarútvegssýning
 frá	aþ	frá
 upphafi	nheþ	upphaf
 .	.	.
-
 Okkur	fp1fþ	ég
 finnst	sfm3en	finna
 sýningin	nveng	sýning
@@ -3553,7 +3405,6 @@ sjálfri	fbveþ	sjálfur
 eða	c	eða
 ekki	aa	ekki
 .	.	.
-
 Búnaðurinn	nkeng	búnaður
 ,	,	,
 sem	ct	sem
@@ -3578,7 +3429,6 @@ háskólann	nkeog	háskóli
 í	aþ	í
 Álaborg	nveþ-s	Álaborg
 .	.	.
-
 MarOrka	nven-s	Marorka
 hefur	sfg3en	hafa
 þróað	ssg	þróa
@@ -3596,7 +3446,6 @@ bestar	sfg3en	besta
 samsetningu	nveo	samsetning
 þeirra	fphfe	það
 .	.	.
-
 Félagið	nheng	félag
 veitir	sfg3en	veita
 ennfremur	aa	ennfremur
@@ -3621,7 +3470,6 @@ við	ao	við
 innleiðingu	nveo	innleiðing
 orkustjórnunar	nvee	orkustjórnun
 .	.	.
-
 Að	aþ	að
 sögn	nveþ	sögn
 Arnars	nkee-s	Arnar
@@ -3648,7 +3496,6 @@ og	c	og
 lækkar	sfg3en	lækka
 útgerðarkostnað	nkeo	útgerðarkostnaður
 .	.	.
-
 Maren	nxen-s	Maren
 samanstendur	sfg3en	samanstanda
 af	aþ	af
@@ -3680,7 +3527,6 @@ skipasmíðastöðvum	nvfþ	skipasmíðastöð
 og	c	og
 vélaframleiðendum	nkfþ	vélaframleiðandi
 .	.	.
-
 Hinsvegar	aa	hinsvegar
 er	sfg3en	vera
 Maren	nxen-s	Maren
@@ -3708,7 +3554,6 @@ er	sfg3en	vera
 ætlað	sþghen	ætla
 útgerðarmönnum	nkfþ	útgerðarmaður
 .	.	.
-
 Arnar	nken-s	Arnar
 segir	sfg3en	segja
 að	c	að
@@ -3728,7 +3573,6 @@ að	aa	að
 betri	lveþvm	góður
 orkunýtingu	nveþ	orkunýting
 .	.	.
-
 Þá	aa	þá
 knýi	svg3fn	knýja
 nýjar	lvfnsf	nýr
@@ -3746,7 +3590,6 @@ koltvíoxíðsútstreymi	nheþ	koltvíoxíðsútstreymi
 frá	aþ	frá
 fiskiskipum	nhfþ	fiskiskip
 .	.	.
-
 Ríkisstjórn	nven	ríkisstjórn
 Íslands	nhee-s	Ísland
 gerir	sfg3en	gera
@@ -3802,7 +3645,6 @@ alla	fokfo	allur
 hluta	nkfo	hluti
 orkukerfa	nhfe	orkukerfi
 .	.	.
-
 Arnar	nken-s	Arnar
 segir	sfg3en	segja
 að	c	að
@@ -3820,7 +3662,6 @@ hagkvæmustu	lveeve	hagkvæmur
 samsetningar	nvee	samsetning
 búnaðar	nkee	búnaður
 .	.	.
-
 Með	aþ	með
 Maren	nxeþ-s	Maren
 EDT	as	EDT
@@ -3836,7 +3677,6 @@ umfram	ao	umfram
 hefðbundnar	lvfosf	hefðbundinn
 hönnunaraðferðir	nvfo	hönnunaraðferð
 .	.	.
-
 Maren	nxen-s	Maren
 EDT	as	EDT
 inniheldur	sfg3en	innihalda
@@ -3861,7 +3701,6 @@ veiðarfærum	nhfþ	veiðarfæri
 og	c	og
 kælikerfum	nhfþ	kælikerfi
 .	.	.
-
 Áætlaður	lkensf	áætlaður
 útgáfudagur	nken	útgáfudagur
 Maren	nxee-s	Maren
@@ -3871,7 +3710,6 @@ fyrsti	lkenve	fyrstur
 febrúar	nken	febrúar
 2003	ta	2003
 .	.	.
-
 Hámörkun	nven	hámörkun
 orkunýtingar	nvee	orkunýting
 Maren	nxen-s	Maren
@@ -3889,7 +3727,6 @@ olíukostnað	nkeo	olíukostnaður
 við	ao	við
 útgerð	nveo	útgerð
 .	.	.
-
 Arnar	nken-s	Arnar
 segir	sfg3en	segja
 að	c	að
@@ -3910,7 +3747,6 @@ allt	foheo	allur
 að	c	að
 10%	tp	10%
 .	.	.
-
 Orkukerfi	nhen	orkukerfi
 skips	nhee	skip
 samanstendur	sfg3en	samanstanda
@@ -3923,7 +3759,6 @@ kælikerfum	nhfþ	kælikerfi
 og	c	og
 vinnslulínum	nvfþ	vinnslulína
 .	.	.
-
 MarOrka	nven-s	Marorka
 býr	sfg3en	búa
 til	aa	til
@@ -3937,7 +3772,6 @@ er	sfg3en	vera
 grunnur	nken	grunnur
 orkustjórnunarhermis	nkee	orkustjórnunarhermir
 .	.	.
-
 Orkustjórnunarhermirinn	nkeng	orkustjórnunarhermir
 líkir	sfg3en	líkja
 eftir	aþ	eftir
@@ -3961,7 +3795,6 @@ hegðun	nveo	hegðun
 orkukerfi	x	orkukerfi
 skipsins	nheeg	skip
 .	.	.
-
 Niðurstöður	nvfn	niðurstaða
 hermisins	nkeeg	hermir
 eru	sfg3fn	vera
@@ -3972,7 +3805,6 @@ lausn	nveo	lausn
 Maren	nxee-s	Maren
 EMT	as	EMT
 .	.	.
-
 Þannig	aa	þannig
 læra	sfg3fn	læra
 skipstjórnarmenn	nkfn	skipstjórnarmaður
@@ -3989,7 +3821,6 @@ orkunýtingu	nveo	orkunýting
 segir	sfg3en	segja
 Arnar	nken-s	Arnar
 .	.	.
-
 Áætlaður	lkensf	áætlaður
 útgáfudagur	nken	útgáfudagur
 Maren	nxee-s	Maren
@@ -4001,7 +3832,6 @@ október	nkeo	október
 næsta	lheþve	næstur
 ári	nheþ	ár
 .	.	.
-
 Snyrtilínan	nveng	snyrtilína
 ,	,	,
 sem	ct	sem
@@ -4045,7 +3875,6 @@ Hreinsson	nken-s	Hreinsson
 markaðsstjóri	nken	markaðsstjóri
 3X-Stál	nhee-s	3X-Stál
 .	.	.
-
 Við	fp1fn	ég
 erum	sfg1fn	vera
 að	cn	að
@@ -4060,7 +3889,6 @@ segir	sfg3en	segja
 Jón	nken-s	Jón
 Páll	nken-s	Páll
 .	.	.
-
 Að	aþ	að
 okkar	fp1fe	ég
 mati	nheþ	mat
@@ -4076,7 +3904,6 @@ hefur	sfg3en	hafa
 legið	ssg	liggja
 annarsstaðar	aa	annarsstaðar
 .	.	.
-
 Við	fp1fn	ég
 leggjum	sfg1fn	leggja
 mikið	lheosf	mikill
@@ -4099,7 +3926,6 @@ vinnufyrirkomulag	nheo	vinnufyrirkomulag
 og	c	og
 framleiðni	nveo	framleiðni
 .	.	.
-
 Til	ae	til
 að	cn	að
 mynda	sng	mynda
@@ -4130,7 +3956,6 @@ helming	nkeo	helmingur
 af	aþ	af
 flakinu	nheþg	flak
 .	.	.
-
 Vinnurannsóknir	nvfn	vinnurannsókn
 sýna	sfg3fn	sýna
 að	c	að
@@ -4150,7 +3975,6 @@ hefur	sfg3en	hafa
 staðfest	ssg	staðfesta
 það	fpheo	það
 .	.	.
-
 Ný	lvensf	nýr
 voga-	nven	vogalausn
 og	c	og
@@ -4182,7 +4006,6 @@ vogar-	nvfo	vogarlausn
 og	c	og
 hugbúnaðarlausnir	nvfo	hugbúnaðarlausn
 .	.	.
-
 Til	ae	til
 að	cn	að
 byrja	sng	byrja
@@ -4204,7 +4027,6 @@ eins	aa	eins
 og	c	og
 snyrtilínur	nvfo	snyrtilína
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 stórt	lhensf	stór
@@ -4232,7 +4054,6 @@ segir	sfg3en	segja
 Jón	nken-s	Jón
 Páll	nken-s	Páll
 .	.	.
-
 En	c	en
 til	ae	til
 þess	fphee	það
@@ -4251,7 +4072,6 @@ bara	aa	bara
 með	ao	með
 vogir	nvfo	vog
 .	.	.
-
 Þeir	fpkfn	hann
 þurfa	sfg3fn	þurfa
 líka	aa	líka
@@ -4264,7 +4084,6 @@ sem	ct	sem
 vogirnar	nvfng	vog
 gefa	sfg3fn	gefa
 .	.	.
-
 Þess	fphee	það
 vegna	ae	vegna
 höfum	sfg1fn	hafa
@@ -4280,7 +4099,6 @@ tekur	sfg3en	taka
 á	aþ	á
 upplýsingaþættinum	nkeþg	upplýsingaþáttur
 .	.	.
-
 Upplýsingakerfið	nheng	upplýsingakerfi
 er	sfg3en	vera
 byggt	sþghen	byggja
@@ -4301,7 +4119,6 @@ með	aþ	með
 nauðsynlegum	lvfþsf	nauðsynlegur
 upplýsingum	nvfþ	upplýsing
 .	.	.
-
 Við	fp1fn	ég
 teljum	sfg1fn	telja
 okkur	fp1fo	ég
@@ -4317,7 +4134,6 @@ heima	aa	heima
 og	c	og
 erlendis	aa	erlendis
 .	.	.
-
 Með	aþ	með
 nánu	lheþsf	náinn
 samstarfi	nheþ	samstarf
@@ -4330,7 +4146,6 @@ að	cn	að
 lágmarka	sng	lágmarka
 þróunarkostnað	nkeo	þróunarkostnaður
 .	.	.
-
 Nýjungar	nvfn	nýjung
 í	aþ	í
 hönnun	nveþ	hönnun
@@ -4354,7 +4169,6 @@ mjög	aa	mjög
 samkeppnishæfu	lheþsf	samkeppnishæfur
 verði	nheþ	verð
 .	.	.
-
 3X-Stál	nhen-s	3X-Stál
 kynnir	sfg3en	kynna
 snyrtilínuna	nveog	snyrtilína
@@ -4380,7 +4194,6 @@ vel	aa	vel
 þessu	faheþ	þessi
 ári	nheþ	ár
 .	.	.
-
 3X-Stál	nhen-s	3X-Stál
 verður	sfg3en	verða
 á	aþ	á
@@ -4389,7 +4202,6 @@ H52	x	h52
 á	aþ	á
 sýningunni	nveþg	sýning
 .	.	.
-
 RANNSÓKNASTOFNUN	nven-s	Rannsóknastofnun
 fiskiðnaðarins	nkeeg	fiskiðnaður
 mun	sfg3en	munu
@@ -4411,7 +4223,6 @@ auka	sng	auka
 verðmæti	nheo	verðmæti
 uppsjávarfisks	nkee	uppsjávarfiskur
 .	.	.
-
 Ráðstefnan	nveng	ráðstefna
 verður	sfg3en	verða
 haldin	sþgven	halda
@@ -4426,7 +4237,6 @@ hlið	nveo	hlið
 sjávarútvegssýningarinnar	nveeg	sjávarútvegssýning
 2002	ta	2002
 .	.	.
-
 Hún	fpven	hún
 hefst	sfm3en	hefja
 kl.	as	kl.
@@ -4440,7 +4250,6 @@ Sigurgísladóttur	nvee-s	Sigurgísladóttir
 forstjóra	nkee	forstjóri
 R.f	as	R.f
 .	.	.
-
 Ennfremur	aa	ennfremur
 mun	sfg3en	munu
 Sigurjón	nken-s	Sigurjón
@@ -4485,7 +4294,6 @@ niðurstöður	x	niðurstaða
 úr	aþ	úr
 tilraunum	nvfþ	tilraun
 .	.	.
-
 Þá	aa	þá
 mun	sfg3en	munu
 Sveinn	nken-s	Sveinn
@@ -4546,7 +4354,6 @@ bestun	nveo	bestun
 orkukerfa	nhfe	orkukerfi
 fiskiskipa	nhfe	fiskiskip
 .	.	.
-
 Aðgangur	nken	aðgangur
 að	aþ	að
 ráðstefnunni	nveþg	ráðstefna
@@ -4556,7 +4363,6 @@ og	c	og
 allir	fokfn	allur
 velkomnir	lkfnsf	velkominn
 .	.	.
-
 BRETAR	nkfn-s	Breti
 kaupa	sfg3fn	kaupa
 meira	lheovm	mikill
@@ -4569,7 +4375,6 @@ nokkru	foheþ	nokkur
 öðru	foheþ	annar
 landi	nheþ	land
 .	.	.
-
 Það	fphen	það
 á	sfg3en	eiga
 við	ao	við
@@ -4592,7 +4397,6 @@ sem	ct	sem
 flytja	sfg3fn	flytja
 inn	aa	inn
 .	.	.
-
 Þá	aa	þá
 seljum	sfg1fn	selja
 við	fp1fn	ég
@@ -4607,14 +4411,12 @@ fiskimjöli	nheþ	fiskimjöl
 og	c	og
 fiskilýsi	nheþ	fiskilýsi
 .	.	.
-
 Innflutningurinn	nkeng	innflutningur
 nemur	sfg3en	nema
 milljörðum	nkfþ	milljarður
 króna	nvfe	króna
 árlega	aa	árlega
 .	.	.
-
 Í	aþ	í
 SJÖTÍU	tfkfe	sjötíu
 fermetra	nkfe	fermetri
@@ -4650,7 +4452,6 @@ fyrir	ao	fyrir
 stærri	lkfovm	stór
 línubáta	nkfo	línubátur
 .	.	.
-
 Með	aþ	með
 þessu	faheþ	þessi
 nýja	lheþvf	nýr
@@ -4675,7 +4476,6 @@ sölustjóri	nken	sölustjóri
 hjá	aþ	hjá
 Dímon	nkeþ-s	Dímon
 .	.	.
-
 Tíu	tfkfn	tíu
 manns	nkee	maður
 starfa	sfg3fn	starfa
@@ -4701,7 +4501,6 @@ hinn	gkeo	hinn
 hefðbundna	lkeovf	hefðbundinn
 bátaflota	nkeo	bátafloti
 .	.	.
-
 Fyrirtækið	nheng	fyrirtæki
 selur	sfg3en	selja
 allar	fovfo	allur
@@ -4735,7 +4534,6 @@ að	aþ	að
 sögn	nveþ	sögn
 Einars	nkee-s	Einar
 .	.	.
-
 Þá	aa	þá
 kynnir	sfg3en	kynna
 fyrirtækið	nheng	fyrirtæki
@@ -4758,7 +4556,6 @@ framleiddir	sþgkfn	framleiða
 fjórum	tfvfþ	fjórir
 stærðum	nvfþ	stærð
 .	.	.
-
 Mikill	lkensf	mikill
 fjöldi	nken	fjöldi
 Meydam-niðurleggjara	nkfe-s	Meydam-niðurleggjari
@@ -4780,7 +4577,6 @@ eru	sfg3fn	vera
 ryðfríu	lheþsf	ryðfrír
 stáli	nheþ	stál
 .	.	.
-
 Síðustu	lhfove	síðari
 fjögur	tfhfo	fjórir
 árin	nhfog	ár
@@ -4793,7 +4589,6 @@ aukna	lveosf	aukinn
 á	ao	á
 beitusölu	nveo	beitusala
 .	.	.
-
 Sala	nven	sala
 á	aþ	á
 smokkfiski	nkeþ	smokkfiskur
@@ -4815,7 +4610,6 @@ síld	nveþ	síld
 og	c	og
 makríl	nkeþ	makríll
 .	.	.
-
 Helsti	lkenve	heldri
 markaður	nken	markaður
 fyrirtækisins	nheeg	fyrirtæki
@@ -4835,7 +4629,6 @@ sjö	tfhfe	sjö
 annarra	fohfe	annar
 landa	nhfe	land
 .	.	.
-
 Stofnunin	nveng	stofnun
 rekur	sfg3en	reka
 útibú	nhfo	útibú
@@ -4865,7 +4658,6 @@ og	c	og
 þrjú	tfhfo	þrír
 rannsóknaskip	nhfo	rannsóknaskip
 .	.	.
-
 Á	aþ	á
 Hafrannsóknastofnuninni	nveþgs	Hafrannsóknastofnunin
 starfa	sfg3fn	starfa
@@ -4875,7 +4667,6 @@ um	aa	um
 170	ta	170
 manns	nkee	maður
 .	.	.
-
 Hlutlæg	lvensf	hlutlægur
 ráðgjöf	nven	ráðgjöf
 Hafrannsóknastofnunin	nvengs	Hafrannsóknastofnunin
@@ -4900,7 +4691,6 @@ líffræðings	nkee	líffræðingur
 á	aþ	á
 stofnuninni	nveþg	stofnun
 .	.	.
-
 Stofnuninni	nveþg	stofnun
 ber	sfg3en	bera
 að	cn	að
@@ -4933,7 +4723,6 @@ atvinnusköpunar	nvee	atvinnusköpun
 og	c	og
 hagsældar	nvee	hagsæld
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 einnig	aa	einnig
@@ -4951,7 +4740,6 @@ nemendur	nkfo	nemandi
 og	c	og
 almenning	nkeo	almenningur
 .	.	.
-
 Síðast	aae	síðar
 en	c	en
 ekki	aa	ekki
@@ -4982,7 +4770,6 @@ plantna	nvfe	planta
 á	aþ	á
 Íslandsmiðum	nhfþ-s	Íslandsmið
 .	.	.
-
 Rannsóknir	nvfn	rannsókn
 og	c	og
 útgáfa	nven	útgáfa

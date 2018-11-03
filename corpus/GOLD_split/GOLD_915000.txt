@@ -13,7 +13,6 @@ ritgerðir	nvfo	ritgerð
 um	ao	um
 efnið	nheog	efni
 .	.	.
-
 Aðferðin	nveng	aðferð
 byggist	sfm3en	byggja
 á	aþ	á
@@ -42,7 +41,6 @@ fyrir	ao	fyrir
 áhrif	nhfo	áhrif
 geimgeisla	nkfe	geimgeisli
 .	.	.
-
 Jafnan	aa	jafnan
 fyrir	ao	fyrir
 myndun	nveo	myndun
@@ -50,7 +48,6 @@ myndun	nveo	myndun
 er	sfg3en	vera
 svona	aa	svona
 :	:	:
-
 nifteind	nven	nifteind
 +	+	+
 14N	ta	14n
@@ -70,7 +67,6 @@ róteindin	nveng	róteind
 með	aþ	með
 p	nheo	p
 )	)	)
-
 Hið	ghen	hinn
 nýja	lhenvf	nýr
 kolefni	nhen	kolefni
@@ -96,7 +92,6 @@ upp	aa	upp
 vefi	nkfo	vefur
 sína	fekfo	sinn
 .	.	.
-
 Í	aþ	í
 plöntuvefnum	nkeþg	plöntuvefur
 -	-	-
@@ -140,7 +135,6 @@ aftur	aa	aftur
 í	ao	í
 nitur	nheo	nitur
 .	.	.
-
 Aldur	nken	aldur
 geislakols	nhee	geislakol
 í	aþ	í
@@ -173,7 +167,6 @@ aftur	aa	aftur
 í	ao	í
 nitur	nheo	nitur
 .	.	.
-
 Sundrun	nven	sundrun
 C-14	ta	C-14
 er	sfg3en	vera
@@ -205,7 +198,6 @@ en	c	en
 35.000	ta	35.000
 ára	nhfe	ár
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 má	sfg3en	mega
@@ -221,7 +213,6 @@ samsætnanna	nvfeg	samsæta
 með	aþ	með
 massagreini	nkeþ	massagreinir
 .	.	.
-
 (	(	(
 Þær	fpvfn	hún
 eru	sfg3fn	vera
@@ -235,7 +226,6 @@ og	c	og
 14	ta	14
 )	)	)
 .	.	.
-
 En	c	en
 af	aþ	af
 þessum	favfþ	þessi
@@ -257,7 +247,6 @@ annarra	fohfe	annar
 geislavirkra	lhfesf	geislavirkur
 efna	nhfe	efni
 .	.	.
-
 Algengustu	lvfnve	algengur
 aðferðirnar	nvfng	aðferð
 nefnast	sfm3fn	nefna
@@ -281,7 +270,6 @@ og	c	og
 U-Pb	e	U-Pb
 )	)	)
 .	.	.
-
 Þær	fpvfn	hún
 hafa	sfg3fn	hafa
 allar	fovfn	allur
@@ -298,7 +286,6 @@ við	ao	við
 tilteknar	lvfosf	tiltekinn
 aðstæður	nvfo	aðstæður
 .	.	.
-
 Fyrstu	lveove	fyrstur
 beinu	lveosf	beinu
 aldursgreiningu	nveo	aldursgreining
@@ -310,7 +297,6 @@ Rutherford	e	Rutherford
 árið	nheog	ár
 1905	ta	1905
 .	.	.
-
 Hann	fpken	hann
 notaði	sfg3eþ	nota
 styrk	nkeo	styrkur
@@ -338,7 +324,6 @@ en	c	en
 milljón	tfhfe	milljón
 ára	nhfe	ár
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 byltingarkennd	lvensf	byltingarkenndur
@@ -379,7 +364,6 @@ en	c	en
 milljón	tfhfe	milljón
 ára	nhfe	ár
 .	.	.
-
 Árið	nheog	ár
 1913	ta	1913
 kom	sfg3eþ	koma
@@ -403,7 +387,6 @@ hinna	ghfe	hinn
 ýmsu	fohfe	ýmis
 jarðsöguskeiða	nhfe	jarðsöguskeið
 .	.	.
-
 Meðal	ae	meðal
 merkra	lkfesf	merkur
 áfanga	nkfe	áfangi
@@ -434,7 +417,6 @@ möguleika	nkeþ	möguleiki
 Eðlisfræðistofnunar	nvee-s	Eðlisfræðistofnun
 Háskólans	nkeegs	Háskóli
 .	.	.
-
 Sú	faven	sá
 skýrsla	nven	skýrsla
 var	sfg3eþ	vera
@@ -459,7 +441,6 @@ mæla	sng	mæla
 aldur	nkeo	aldur
 tunglgrjóts	nhee	tunglgrjót
 .	.	.
-
 Fyrsta	lhenve	fyrstur
 íslenska	lhenvf	íslenskur
 sýnið	nheng	sýni
@@ -474,7 +455,6 @@ héðan	aa	héðan
 sumarið	nheog	sumar
 1950	ta	1950
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 mósýni	nhen	mósýni
@@ -498,7 +478,6 @@ Hollendingurinn	nkengs	Hollendingur
 Jan	e	Jan
 Hospers	e	Hospers
 .	.	.
-
 Sýnið	nheng	sýni
 var	sfg3eþ	vera
 sent	sþghen	senda
@@ -533,7 +512,6 @@ varðandi	slg	varða
 kvarterjarðfræði	nveo	kvarterjarðfræði
 »	»	»
 .	.	.
-
 Náttúrufræðingurinn	nkeng	náttúrufræðingur
 34.	ta	34.
 árg.	as	árg.
@@ -543,7 +521,6 @@ bls.	as	bls.
 97-145	ta	97-145
 )	)	)
 .	.	.
-
 Aðra	foveo	annar
 tímamóta-aldursgreiningu	nveo	tímamóta-aldursgreining
 (	(	(
@@ -592,11 +569,9 @@ Goodwin	e	Goodwin
 ,	,	,
 1964	ta	1964
 .	.	.
-
 Earth	e	Earth
 Planet	e	Planet
 .	.	.
-
 Sci.	e	Sci.
 Letters	e	Letters
 4	ta	4
@@ -604,7 +579,6 @@ Letters	e	Letters
 197-205	ta	197-205
 )	)	)
 .	.	.
-
 Loks	aa	loks
 ber	sfg3en	bera
 að	cn	að
@@ -650,7 +624,6 @@ fallið	ssg	falla
 900	ta	900
 e.	as	e.
 Kr.	as	kr.
-
 Fyrir	aþ	fyrir
 fáeinum	fohfþ	fáeinir
 árum	nhfþ	ár
@@ -677,7 +650,6 @@ til	aa	til
 eða	c	eða
 frá	aa	frá
 .	.	.
-
 Þess	fphee	það
 vegna	ae	vegna
 heitir	sfg3en	heita
@@ -691,7 +663,6 @@ einmitt	aa	einmitt
 /	/	/
 -2	ta	-2
 .	.	.
-
 Sjá	sng	sjá
 einnig	aa	einnig
 svar	nheo	svar
@@ -706,7 +677,6 @@ kolefnisklukkan	nveng	kolefnisklukka
 alltaf	aa	alltaf
 áreiðanleg	lvensf	áreiðanlegur
 ?	?	?
-
 Elliðavogslögunum	nhfþgs	Elliðavogslag
 er	sfg3en	vera
 lýst	sþghen	lýsa
@@ -729,7 +699,6 @@ menning	nven	menning
 1991	ta	1991
 )	)	)
 .	.	.
-
 Við	ao	við
 Elliðavog	nkeo-s	Elliðavogur
 ,	,	,
@@ -752,7 +721,6 @@ hluta	nkeþ	hluti
 kvartertímabilsins	nheeg	kvartertímabil
 )	)	)
 .	.	.
-
 Setsniðið	nheng	setsnið
 er	sfg3en	vera
 um	aa	um
@@ -775,7 +743,6 @@ cm	as	cm
 þykkt	lhensf	þykkur
 surtarbrandslag	nhen	surtarbrandslag
 .	.	.
-
 Í	aþ	í
 surtarbrandinum	nkeþg	surtarbrandur
 hafa	sfg3fn	hafa
@@ -802,11 +769,9 @@ og	c	og
 ýmsum	fovfþ	ýmis
 jurtum	nvfþ	jurt
 .	.	.
-
 Þorleifur	nken-s	Þorleifur
 skrifar	sfg3en	skrifa
 :	:	:
-
 Myndunarsaga	nven	myndunarsaga
 Elliðavogslaganna	nhfegs	Elliðavogslag
 og	c	og
@@ -829,7 +794,6 @@ landslag	nheo	landslag
 ár-kvarteran	lkeosf	árkvarter
 berggrunninn	nkeog	berggrunnur
 .	.	.
-
 Þegar	c	þegar
 jökullinn	nkeng	jökull
 hopaði	sfg3eþ	hopa
@@ -846,7 +810,6 @@ inn	aa	inn
 yfir	ao	yfir
 láglendið	nheog	láglendi
 .	.	.
-
 Sjávarset	nhen	sjávarset
 settist	sfm3eþ	setja
 í	ao	í
@@ -855,7 +818,6 @@ lægðir	nvfo	lægð
 í	aþ	í
 berggrunninum	nkeþg	berggrunnur
 .	.	.
-
 Ofan	aa	ofan
 á	ao	á
 sjávarsetið	nheog	sjávarset
@@ -869,7 +831,6 @@ risið	sþghen	rísa
 úr	aþ	úr
 sjó	nkeþ	sjór
 .	.	.
-
 Ár	nvfn	á
 og	c	og
 lækir	nkfn	lækur
@@ -904,7 +865,6 @@ grágrýtinu	nheþg	grágrýti
 í	aþ	í
 Ártúnshöfða	nkeþ-s	Ártúnshöfði
 .	.	.
-
 Þessum	fakeþ	þessi
 gróðri	nkeþ	gróður
 var	sfg3eþ	vera
@@ -941,7 +901,6 @@ Borgarhólar	nkfn-s	Borgarhólar
 á	aþ	á
 Mosfellsheiði	nveþ-s	Mosfellsheiði
 .	.	.
-
 Við	ao	við
 gosið	nheog	gos
 varð	sfg3eþ	verða
@@ -951,7 +910,6 @@ flata	lvenvf	flatur
 grágrýtisdyngja	nven	grágrýtisdyngja
 Mosfellsheiði	nven-s	Mosfellsheiði
 ...	...	...
-
 Elliðavogslögin	nhfng	elliðavogslag
 virðast	sfm3fn	virða
 hafa	sng	hafa
@@ -978,7 +936,6 @@ hlýskeiði	nheþ	hlýskeið
 rann	sfg3eþ	renna
 Reykjavíkurgrágrýtið	nhengs	Reykjavíkurgrágrýtið
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 þessu	faheþ	þessi
 er	sfg3en	vera
@@ -989,7 +946,6 @@ um	aa	um
 ára	nhfe	ár
 gamalt	lhensf	gamall
 .	.	.
-
 Talið	sþghen	telja
 er	sfg3en	vera
 að	c	að
@@ -1004,7 +960,6 @@ suður	aa	suður
 Kötluhlaupinu	nheþgs	Kötluhlaup
 1918	ta	1918
 .	.	.
-
 Þá	aa	þá
 myndaðist	sfm3eþ	mynda
 Kötlutangi	nken-s	Kötlutangi
@@ -1041,7 +996,6 @@ Vík	nveþ-s	Vík
 í	aþ	í
 Mýrdal	nkeþ-s	Mýrdalur
 .	.	.
-
 Á	aþ	á
 landnámsöld	nveþ	landnámsöld
 ,	,	,
@@ -1081,7 +1035,6 @@ Kötluhlaupi	nheþ-s	Kötluhlaup
 Höfðárhlaup	nhen-s	Höfðárhlaup
 )	)	)
 .	.	.
-
 Þessi	fahfn	þessi
 tvö	tfhfn	tveir
 litlu	lhfnvf	lítill
@@ -1135,7 +1088,6 @@ til	ae	til
 aura	nkfe	aur
 Markarfljóts	nhee-s	Markarfljót
 .	.	.
-
 Þar	aa	þar
 fyrir	aa	fyrir
 utan	aa	utan
@@ -1161,7 +1113,6 @@ Lóni	nheþ-s	Lón
 í	aþ	í
 austri	nheþ	austur
 .	.	.
-
 Þykkastur	lkense	þykkur
 er	sfg3en	vera
 Landeyjasandur	nken-s	Landeyjasandur
@@ -1191,7 +1142,6 @@ víða	aa	víða
 m	as	m
 þykkur	lkensf	þykkur
 .	.	.
-
 Skeiðarársandur	nken-s	Skeiðarársandur
 virðist	sfm3en	virða
 vera	sng	vera
@@ -1213,7 +1163,6 @@ m	as	m
 að	aþ	að
 meðaltali	nheþ	meðaltal
 .	.	.
-
 Þótt	c	þótt
 hér	aa	hér
 sé	svg3en	vera
@@ -1263,7 +1212,6 @@ hafsauga	nheo	hafsauga
 með	aþ	með
 hafstraumum	nkfþ	hafstraumur
 .	.	.
-
 Berum	svg1fn	bera
 þetta	fahen	þessi
 nú	aa	nú
@@ -1283,7 +1231,6 @@ borist	ssm	bera
 til	ae	til
 sjávar	nkee	sjár
 .	.	.
-
 Þar	aa	þar
 er	sfg3en	vera
 verulegar	lvfosf	verulegur
@@ -1316,7 +1263,6 @@ fram	aa	fram
 myndarlega	lkfosf	myndarlegur
 setstafla	nkfo	setstafli
 .	.	.
-
 Úrkomu-vindáttin	nveng	úrkomu-vindátt
 á	aþ	á
 Íslandi	nheþ-s	Ísland
@@ -1343,7 +1289,6 @@ falla	sfg3fn	falla
 til	ae	til
 suðurs	nhee	suður
 .	.	.
-
 Af	aþ	af
 þeim	favfþ	sá
 sökum	nvfþ	sök
@@ -1364,7 +1309,6 @@ var	sfg3eþ	vera
 í	aþ	í
 ísaldarlok	nhfo	ísaldarlok
 .	.	.
-
 Búrfell	nhen-s	Búrfell
 í	aþ	í
 Grímsnesi	nheþ-s	Grímsnes
@@ -1387,7 +1331,6 @@ um	aa	um
 ára	nhfe	ár
 gamalt	lhensf	gamall
 .	.	.
-
 Fjallið	nheng	fjall
 er	sfg3en	vera
 ekki	aa	ekki
@@ -1400,7 +1343,6 @@ ekki	aa	ekki
 til	ae	til
 stapa	nkfe	stapi
 .	.	.
-
 Ef	c	ef
 kenningar	nvfn	kenning
 manna	nkfe	maður
@@ -1451,7 +1393,6 @@ saman	aa	saman
 í	ao	í
 móberg	nheo	móberg
 .	.	.
-
 Stapakenningin	nveng	stapakenning
 svonefnda	lvenvf	svonefndur
 ,	,	,
@@ -1482,7 +1423,6 @@ við	ao	við
 norðurenda	nkeo	norðurendi
 Tindaskaga	nkee-s	Tindaskagi
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 þeirri	faveþ	sá
 kenningu	nveþ	kenning
@@ -1502,7 +1442,6 @@ eða	c	eða
 í	aþ	í
 vatni	nheþ	vatn
 .	.	.
-
 Flestir	lkfnse	margur
 jarðfræðingar	nkfn	jarðfræðingur
 féllust	sfm3fþ	falla
@@ -1530,7 +1469,6 @@ sjálfum	fbkeþ	sjálfur
 Surtseyjargosinu	nheþgs	Surtseyjargos
 1963-67	ta	1963-67
 .	.	.
-
 Sjá	sng	sjá
 um	ao	um
 það	faheo	sá
@@ -1561,7 +1499,6 @@ Reykjavík	nveþ-s	Reykjavík
 1998	ta	1998
 )	)	)
 .	.	.
-
 Sjá	sng	sjá
 einnig	aa	einnig
 Hvaða	fsvfn	hvaða
@@ -1576,7 +1513,6 @@ hafa	sfg3fn	hafa
 séríslensk	lhfosf	séríslenskur
 einkenni	nhfo	einkenni
 ?	?	?
-
 Ingvar	nken-s	Ingvar
 spurði	sfg3eþ	spyrja
 :	:	:
@@ -1585,7 +1521,6 @@ verður	sfg3en	verða
 vatnið	nheng	vatn
 til	aa	til
 ?	?	?
-
 Hvaðan	aa	hvaðan
 kemur	sfg3en	koma
 vatnið	nheng	vatn
@@ -1594,7 +1529,6 @@ kemur	sfg3en	koma
 úr	aþ	úr
 uppsprettum	nvfþ	uppspretta
 ?	?	?
-
 Af	aþ	af
 hverju	fsheþ	hver
 er	sfg3en	vera
@@ -1604,7 +1538,6 @@ vatn	nhen	vatn
 í	aþ	í
 sjónum	nkeþg	sjór
 ?	?	?
-
 Símon	nken-s	Símon
 spurði	sfg3eþ	spyrja
 :	:	:
@@ -1616,7 +1549,6 @@ bundið	lhensf	bundinn
 í	aþ	í
 vatnshringrásinni	nveþg	vatnshringrás
 ?	?	?
-
 Auðunn	nken-s	Auðunn
 spurði	sfg3eþ	spyrja
 :	:	:
@@ -1625,7 +1557,6 @@ verður	sfg3en	verða
 vatn	nhen	vatn
 til	aa	til
 ?	?	?
-
 Sólkerfið	nheng	sólkerfi
 myndaðist	sfm3eþ	mynda
 fyrir	aþ	fyrir
@@ -1666,7 +1597,6 @@ fáeinar	fovfo	fáeinir
 afmarkaðar	lvfosf	afmarkaður
 reikistjörnur	nvfo	reikistjarna
 .	.	.
-
 Leifar	nvfo	leif
 af	aþ	af
 hinni	gveþ	hinn
@@ -1694,7 +1624,6 @@ vatns-	lkfnsf	vatnsríkur
 og	c	og
 kolefnisríkir	lkfnsf	kolefnisríkur
 .	.	.
-
 Gild	lhfnsf	gildur
 rök	nhfn	rök
 hafa	sfg3fn	hafa
@@ -1728,7 +1657,6 @@ yfirborðsins	nheeg	yfirborð
 sem	c	sem
 eldfjallagufur	nvfn	eldfjallagufa
 .	.	.
-
 Um	aa	um
 hálft	lhensf	hálfur
 prósent	nhen	prósent
@@ -1750,7 +1678,6 @@ andrúmsloftið	nheog	andrúmsloft
 í	aþ	í
 eldgosi	nheþ	eldgos
 .	.	.
-
 Skaftáreldagosið	nhengs	Skaftáreldagos
 mikla	lhenvf	mikill
 árin	nhfog	ár
@@ -1798,7 +1725,6 @@ sek	as	sek.
 229	ta	229
 daga	nkfo	dagur
 .	.	.
-
 Miðað	sþghen	miða
 við	ao	við
 að	c	að
@@ -1823,7 +1749,6 @@ vatni	nheþ	vatn
 milljón	tfhfþ	milljón
 árum	nhfþ	ár
 .	.	.
-
 Massi	nken	massi
 vatns	nhee	vatn
 á	aþ	á
@@ -1856,7 +1781,6 @@ jarðar	nvee	jörð
 milljónum	nvfþ	milljón
 ára	nhfe	ár
 .	.	.
-
 Þess	fphee	það
 ber	sfg3en	bera
 þó	aa	þó
@@ -1896,7 +1820,6 @@ djúpskorpu	nveo	djúpskorpa
 á	aþ	á
 niðurstreymisbeltum	nhfþ	niðurstreymisbelti
 .	.	.
-
 Mikið	lhensf	mikill
 af	aþ	af
 því	faheþ	sá
@@ -1921,7 +1844,6 @@ stuttan	lkeosf	stuttur
 eða	c	eða
 langan	lkeosf	langur
 .	.	.
-
 Vatnið	nheng	vatn
 er	sfg3en	vera
 í	aþ	í
@@ -1972,7 +1894,6 @@ aftur	aa	aftur
 með	aþ	með
 tímanum	nkeþg	tími
 .	.	.
-
 Uppsprettuvatn	nhen	uppsprettuvatn
 er	sfg3en	vera
 þannig	aa	þannig
@@ -1994,7 +1915,6 @@ uppsprettunni	nveþg	uppspretta
 eftir	aþ	eftir
 atvikum	nhfþ	atvik
 .	.	.
-
 Með	aþ	með
 mælingum	nvfþ	mæling
 á	aþ	á
@@ -2032,7 +1952,6 @@ jarðar	nvee	jörð
 sem	c	sem
 úrkoma	nven	úrkoma
 .	.	.
-
 Eins	aa	eins
 og	c	og
 ljóst	lhensf	ljós
@@ -2054,7 +1973,6 @@ vaxi	svg3en	vaxa
 með	aþ	með
 tímanum	nkeþg	tími
 .	.	.
-
 Þetta	faheo	þessi
 er	sfg3en	vera
 ekki	aa	ekki
@@ -2088,7 +2006,6 @@ kosti	nkeþ	kostur
 milljón	tfhfo	milljón
 ár	nhfo	ár
 .	.	.
-
 Sjá	sng	sjá
 einnig	aa	einnig
 svar	nheo	svar
@@ -2100,7 +2017,6 @@ Hvaðan	aa	hvaðan
 kom	sfg3eþ	koma
 hafið	nheng	haf
 ?	?	?
-
 Virkustu	lhfnve	virkur
 eldfjöll	nhfn	eldfjall
 á	aþ	á
@@ -2113,7 +2029,6 @@ Grímsvötn	nhfn-s	Grímsvötn
 og	c	og
 Katla	nven-s	Katla
 .	.	.
-
 Sé	svg3en	vera
 litið	sþghen	líta
 svo	aa	svo
@@ -2140,7 +2055,6 @@ mest	aae	mikið
 hefur	sfg3en	hafa
 gosið	ssg	gjósa
 .	.	.
-
 Lakagígahraunið	nhengs	Lakagígahraun
 eitt	lhensf	einn
 er	sfg3en	vera
@@ -2162,7 +2076,6 @@ hafa	sfg3fn	hafa
 sögulegum	lkeþsf	sögulegur
 tíma	nkeþ	tími
 .	.	.
-
 Að	aa	að
 auki	aa	auki
 eru	sfg3fn	vera
@@ -2182,7 +2095,6 @@ síðustu	lhfþve	síðari
 400	ta	400
 árum	nhfþ	ár
 .	.	.
-
 Ætla	sng	ætla
 má	sfg3en	mega
 að	c	að
@@ -2213,7 +2125,6 @@ nær	aþm	nær
 55	ta	55
 km3	ta	km3
 .	.	.
-
 Katla	nven-s	Katla
 hefur	sfg3en	hafa
 gosið	ssg	gjósa
@@ -2223,7 +2134,6 @@ sinnum	nhfþ	sinn
 sögulegum	lkeþsf	sögulegur
 tíma	nkeþ	tími
 .	.	.
-
 Eldgjá	nven-s	Eldgjá
 virðist	sfm3en	virða
 tengjast	snm	tengja
@@ -2246,14 +2156,12 @@ Kötlu	nveþ-s	Katla
 árið	nheog	ár
 934	ta	934
 .	.	.
-
 Eldgjárhraunið	nhengs	Eldgjárhraun
 nálgast	sfm3en	nálgast
 Lakagígahraunið	nheogs	Lakagígahraun
 að	aþ	að
 rúmmáli	nheþ	rúmmál
 .	.	.
-
 Sömuleiðis	aa	sömuleiðis
 lítur	sfg3en	líta
 út	aa	út
@@ -2271,7 +2179,6 @@ Grímsvötnum	nhfþ-s	Grímsvötn
 lítt	aa	lítt
 eftir	aa	eftir
 .	.	.
-
 Hekla	nven-s	Hekla
 hefur	sfg3en	hafa
 gosið	ssg	gjósa
@@ -2309,7 +2216,6 @@ sinnum	nhfþ	sinn
 og	c	og
 1991	ta	1991
 .	.	.
-
 Samanlagt	aa	samanlagt
 rúmmál	nhen	rúmmál
 gosmyndana	nvfe	gosmyndun
@@ -2327,7 +2233,6 @@ eftir	ao	eftir
 42	ta	42
 km3	ta	km3
 .	.	.
-
 Þennan	fakeo	þessi
 samanburð	nkeo	samanburður
 yfir	ao	yfir
@@ -2345,11 +2250,9 @@ saman	aa	saman
 í	aþ	í
 töflu	nveþ	tafla
 :	:	:
-
 <	<	<
 tafla	nven	tafla
 >	>	>
-
 Ástæða	nven	ástæða
 þess	fphee	það
 að	c	að
@@ -2369,7 +2272,6 @@ stöðug	lvensf	stöðugur
 nýmyndun	nven	nýmyndun
 lands	nhee	land
 .	.	.
-
 Nýja	lhenvf	nýr
 landið	nheng	land
 er	sfg3en	vera
@@ -2402,7 +2304,6 @@ eftir	ao	eftir
 1-200	ta	1-200
 ár	nhfo	ár
 .	.	.
-
 Þar	aa	þar
 til	aa	til
 fyrir	aþ	fyrir
@@ -2419,7 +2320,6 @@ af	aþ	af
 einu	tfheþ	einn
 meginlandi	nheþ	meginland
 .	.	.
-
 Síðan	aa	síðan
 klofnaði	sfg3eþ	klofna
 meginlandið	nheng	meginland
@@ -2449,7 +2349,6 @@ megin	aa	megin
 við	ao	við
 hafið	nheog	haf
 .	.	.
-
 Þær	favfn	sá
 myndanir	nvfn	myndun
 sjást	sfm3fn	sjá
@@ -2463,7 +2362,6 @@ Færeyjum	nvfþ-s	Færeyjar
 og	c	og
 Austur-Grænlandi	nheþ-s	Austur-Grænland
 .	.	.
-
 Mest	lvense	mikill
 var	sfg3eþ	vera
 eldvirknin	nveng	eldvirkni
@@ -2478,7 +2376,6 @@ nú	aa	nú
 er	sfg3en	vera
 Ísland	nhen-s	Ísland
 .	.	.
-
 Meðan	c	meðan
 Norður-Atlantshafið	nhengs	Norður-Atlantshaf
 var	sfg3eþ	vera
@@ -2494,7 +2391,6 @@ Grænlands	nhee-s	Grænland
 og	c	og
 Evrópu	nvee-s	Evrópa
 .	.	.
-
 En	c	en
 þegar	c	þegar
 hafið	nheng	haf
@@ -2513,7 +2409,6 @@ varð	sfg3eþ	verða
 að	aþ	að
 eyju	nveþ	eyja
 .	.	.
-
 Norður-Atlantshaf	nhen-s	Norður-Atlantshaf
 heldur	sfg3en	halda
 enn	aa	enn
@@ -2527,7 +2422,6 @@ heldur	sfg3en	halda
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Þannig	aa	þannig
 gliðnar	sfg3en	gliðna
 Ísland	nhen-s	Ísland
@@ -2585,7 +2479,6 @@ saman	aa	saman
 við	ao	við
 kólnun	nveo	kólnun
 .	.	.
-
 Þannig	aa	þannig
 má	sfg3en	mega
 ætla	sng	ætla
@@ -2620,7 +2513,6 @@ landinu	nheþg	land
 er	sfg3en	vera
 virkur	lkensf	virkur
 .	.	.
-
 Um	ao	um
 þetta	faheo	þessi
 efni	nheo	efni
@@ -2649,7 +2541,6 @@ og	c	og
 landeyðingar	nvee	landeyðing
 »	»	»
 .	.	.
-
 Mælifell	nhen-s	Mælifell
 mun	sfg3en	munu
 vera	sng	vera
@@ -2663,7 +2554,6 @@ seint	aa	seint
 á	aþ	á
 ísöld	nveþ	ísöld
 .	.	.
-
 Í	aþ	í
 fyrsta	lheþve	fyrstur
 lagi	nheþ	lag
@@ -2693,7 +2583,6 @@ hefur	sfg3en	hafa
 í	aþ	í
 huga	nkeþ	hugi
 .	.	.
-
 Í	aþ	í
 öðru	lheþsf	öðr
 lagi	nheþ	lag
@@ -2718,7 +2607,6 @@ myndast	sfm3en	mynda
 þeim	fakeþ	sá
 árstíma	nkeþ	árstími
 .	.	.
-
 Í	aþ	í
 þriðja	lheþvf	þriðji
 lagi	nheþ	lag
@@ -2742,7 +2630,6 @@ verður	sfg3en	verða
 sérlega	aa	sérlega
 ör	lvensf	ör
 .	.	.
-
 Þessi	fahfn	þessi
 efni	nhfn	efni
 gegna	sfg3fn	gegna
@@ -2757,7 +2644,6 @@ skiptir	sfg3en	skipta
 verulegu	lheþsf	verulegur
 máli	nheþ	mál
 .	.	.
-
 Þegar	c	þegar
 vetur	nken	vetur
 er	sfg3en	vera
@@ -2782,7 +2668,6 @@ séð	sþghen	sjá
 ofan	aa	ofan
 frá	aa	frá
 .	.	.
-
 Við	ao	við
 það	fpheo	það
 dregst	sfm3en	draga
@@ -2801,7 +2686,6 @@ frá	aþ	frá
 lægðarmiðjunni	nveþg	lægðarmiðja
 neðar	aam	neðar
 .	.	.
-
 Loftið	nheng	loft
 í	aþ	í
 lægðinni	nveþg	lægð
@@ -2813,7 +2697,6 @@ eða	c	eða
 um	ao	um
 -80°C	ta	-80°c
 .	.	.
-
 Við	ao	við
 þessi	fahfo	þessi
 skilyrði	nhfo	skilyrði
@@ -2855,7 +2738,6 @@ nituroxíð	nheo	nituroxíð
 NOx	x	nox
 )	)	)
 .	.	.
-
 Við	ao	við
 samruna	nkeo	samruni
 nituroxíðsameinda	nvfe	nituroxíðsameind
@@ -2873,7 +2755,6 @@ saltpétursýrusameindir	nvfn	saltpétursýrusameind
 HNO3	x	hno3
 )	)	)
 .	.	.
-
 Þegar	c	þegar
 myndun	nven	myndun
 þessara	fahfe	þessi
@@ -2887,7 +2768,6 @@ hluta	nkeo	hluti
 alls	fohee	allur
 Suðurskautslandsins	nheegs	Suðurskautsland
 .	.	.
-
 Þau	fphfn	það
 geta	sfg3fn	geta
 verkað	ssg	verka
@@ -2905,7 +2785,6 @@ nú	aa	nú
 verður	sfg3en	verða
 lýst	sþghen	lýsa
 .	.	.
-
 Eyðing	nven	eyðing
 ósonlagsins	nheeg	ósonlag
 getur	sfg3en	geta
@@ -2927,7 +2806,6 @@ við	ao	við
 O3	x	o3
 )	)	)
 .	.	.
-
 Klóratóm	nhfn	klóratóm
 losna	sfg3fn	losna
 úr	aþ	úr
@@ -2943,7 +2821,6 @@ sólargeisla	nkfe	sólargeisli
 í	aþ	í
 háloftunum	nhfþg	háloft
 .	.	.
-
 Talið	sþghen	telja
 er	sfg3en	vera
 að	c	að
@@ -2983,7 +2860,6 @@ hverfur	sfg3en	hverfa
 úr	aþ	úr
 heiðhvolfinu	nheþg	heiðhvolf
 .	.	.
-
 Meðal	ae	meðal
 sameinda	nvfe	sameind
 sem	ct	sem
@@ -3001,7 +2877,6 @@ vetnisklóríð	nheo	vetnisklóríð
 HCl	x	hcl
 )	)	)
 .	.	.
-
 Undir	aþ	undir
 «	«	«
 venjulegum	lvfþsf	venjulegur
@@ -3019,7 +2894,6 @@ skaðlaus	lhfnsf	skaðlaus
 fyrir	ao	fyrir
 ósonlagið	nheog	ósonlag
 .	.	.
-
 Ef	c	ef
 heimskautaský	nhfn	heimskautaský
 eru	sfg3fn	vera
@@ -3031,7 +2905,6 @@ gegnir	sfg3en	gegna
 öðru	foheþ	annar
 máli	nheþ	mál
 .	.	.
-
 Vetnisklóríðsameindir	nvfn	vetnisklóríðsameind
 sem	ct	sem
 komast	sfm3fn	koma
@@ -3060,13 +2933,11 @@ klórsameindir	nvfo	klórsameind
 Cl2	ta	cl2
 )	)	)
 .	.	.
-
 Slík	fbven	slíkur
 virkni	nven	virkni
 nefnist	sfm3en	nefna
 yfirborðshvötun	nven	yfirborðshvötun
 .	.	.
-
 Klórsameindir	nvfn	klórsameind
 geta	sfg3fn	geta
 því	fpheþ	það
@@ -3081,7 +2952,6 @@ myndast	sfm3fn	mynda
 nýjan	lkeosf	nýr
 leik	nkeo	leikur
 .	.	.
-
 Þannig	aa	þannig
 auka	sfg3fn	auka
 heimskautaskýin	nhfng	heimskautaský
@@ -3094,7 +2964,6 @@ heiðhvolfinu	nheþg	heiðhvolf
 yfir	aþ	yfir
 suðurskautinu	nheþg	suðurskaut
 .	.	.
-
 Sambærilegra	lhfesf	sambærilegur
 áhrifa	nhfe	áhrif
 frá	aþ	frá
@@ -3112,7 +2981,6 @@ talið	sþghen	telja
 yfir	aþ	yfir
 Bandaríkjunum	nhfþgs	Bandaríki
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 álitin	sþgven	álíta
@@ -3134,7 +3002,6 @@ staðar	nkee	staður
 á	aþ	á
 jörðinni	nveþg	jörð
 .	.	.
-
 Myndin	nveng	mynd
 hér	aa	hér
 á	aa	á
@@ -3189,7 +3056,6 @@ rauði	lkenvf	rauður
 ferillinn	nkeng	ferill
 )	)	)
 .	.	.
-
 Af	aþ	af
 þessu	faheþ	þessi
 má	sfg3en	mega
@@ -3228,7 +3094,6 @@ er	sfg3en	vera
 mestur	lkense	mikill
 )	)	)
 .	.	.
-
 Skýringar	nvfn	skýring
 við	ao	við
 myndina	nveog	mynd
@@ -3257,7 +3122,6 @@ vorlagi	nheþ	vorlag
 október	nkeþ	október
 )	)	)
 .	.	.
-
 Skammstöfunin	nveng	skammstöfun
 mb	as	mb
 stendur	sfg3en	standa
@@ -3283,7 +3147,6 @@ milljónasti	lkenve	milljónasti
 millibari	nheþ	millibar
 )	)	)
 .	.	.
-
 Heimildir	nvfn	heimild
 :	:	:
 Vefsíða	nven	vefsíða
@@ -3318,7 +3181,6 @@ bls.	as	bls.
 1991	ta	1991
 )	)	)
 .	.	.
-
 Sjá	sng	sjá
 einnig	aa	einnig
 svör	nhfo	svar
@@ -3338,7 +3200,6 @@ einhvern	fokeo	einhver
 tímann	nkeog	tími
 eyðast	snm	eyða
 ?	?	?
-
 Sólin	nveng	sól
 er	sfg3en	vera
 heit	lvensf	heitur
@@ -3352,7 +3213,6 @@ gat	sfg3eþ	geta
 á	ao	á
 ósónlagið	nheog	ósónlag
 ?	?	?
-
 Af	aþ	af
 hverju	fsheþ	hver
 er	sfg3en	vera
@@ -3368,7 +3228,6 @@ upp	aa	upp
 í	ao	í
 gufuhvolfið	nheog	gufuhvolf
 ?	?	?
-
 Hvaða	fshfo	hvaða
 áhrif	nhfo	áhrif
 hefur	sfg3en	hafa
@@ -3381,7 +3240,6 @@ ef	c	ef
 ósonlagið	nheng	ósonlag
 hverfur	sfg3en	hverfa
 ?	?	?
-
 Teikning	nven	teikning
 af	aþ	af
 háloftalægð	nveþ	háloftalægð
@@ -3390,7 +3248,6 @@ vortex	e	vortex
 )	)	)
 :	:	:
 HB	as	HB
-
 Oktantala	nven	oktantala
 er	sfg3en	vera
 mælikvarði	nken	mælikvarði
@@ -3412,7 +3269,6 @@ samfara	aþ	samfara
 bruna	nkeþ	bruni
 eldsneytisins	nheeg	eldsneyti
 .	.	.
-
 Í	aþ	í
 bensínknúnum	lvfþsf	bensínknúinn
 vélum	nvfþ	vél
@@ -3428,7 +3284,6 @@ til	aa	til
 gerðum	lkfþsf	gerður
 strokkum	nkfþ	strokkur
 .	.	.
-
 Gasblöndunni	nveþg	gasblanda
 er	sfg3en	vera
 því	fpheþ	það
@@ -3438,7 +3293,6 @@ saman	aa	saman
 með	aþ	með
 bullum	nvfþ	bulla
 .	.	.
-
 Þegar	c	þegar
 hámarksþjöppun	nveþ	hámarksþjöppun
 er	sfg3en	vera
@@ -3452,7 +3306,6 @@ neista	nkeþ	neisti
 frá	aþ	frá
 kveikikerti	nheþ	kveikikerti
 .	.	.
-
 Við	ao	við
 það	fpheo	það
 brennur	sfg3en	brenna
@@ -3470,7 +3323,6 @@ af	aþ	af
 miklum	lkeþsf	mikill
 krafti	nkeþ	kraftur
 .	.	.
-
 Þessu	faheþ	þessi
 fylgir	sfg3en	fylgja
 mikil	lvensf	mikill
@@ -3478,7 +3330,6 @@ varmamyndun	nven	varmamyndun
 og	c	og
 hitun	nven	hitun
 .	.	.
-
 Þegar	c	þegar
 vél	nven	vél
 er	sfg3en	vera
@@ -3507,7 +3358,6 @@ knýja	sng	knýja
 viðkomandi	lhfoof	viðkomandi
 tæki	nhfo	tæki
 .	.	.
-
 Til	ae	til
 að	cn	að
 forðast	snm	forða
@@ -3520,7 +3370,6 @@ yfirleitt	aa	yfirleitt
 notaður	sþgken	nota
 kælivökvi	nken	kælivökvi
 .	.	.
-
 Hann	fpken	hann
 hitnar	sfg3en	hitna
 um	ao	um
@@ -3538,7 +3387,6 @@ dæmis	nhee	dæmi
 í	aþ	í
 vatnskassa	nkeþ	vatnskassi
 .	.	.
-
 Öðru	foheþ	annar
 hverju	foheþ	hver
 getur	sfg3en	geta
@@ -3566,7 +3414,6 @@ greinir	sfg3en	greina
 þannig	aa	þannig
 raskast	ssm	raska
 .	.	.
-
 Afleiðing	nven	afleiðing
 þessa	fahee	þessi
 er	sfg3en	vera
@@ -3580,7 +3427,6 @@ og	c	og
 vélbúnað	nkeo	vélbúnaður
 eykst	sfm3en	auka
 .	.	.
-
 Slík	fbven	slíkur
 ótímabær	lvensf	ótímabær
 íkveikja	nven	íkveikja
@@ -3598,7 +3444,6 @@ frá	aþ	frá
 strokkum	nkfþ	strokkur
 vélarinnar	nveeg	vél
 .	.	.
-
 Þetta	faheo	þessi
 bank	nheo	bank
 er	sfg3en	vera
@@ -3614,7 +3459,6 @@ með	aþ	með
 hærri	lveþvm	hár
 oktantölu	nveþ	oktantala
 .	.	.
-
 Oktantala	nven	oktantala
 eldsneytis	nhee	eldsneyti
 er	sfg3en	vera
@@ -3646,7 +3490,6 @@ bank	nhen	bank
 )	)	)
 numin	sþghfn	nema
 .	.	.
-
 Því	fpheþ	það
 næst	aþe	nærri
 er	sfg3en	vera
@@ -3673,7 +3516,6 @@ isooktan	e	isooktan
 og	c	og
 heptan	nhen	heptan
 .	.	.
-
 Oktantala	nven	oktantala
 eldsneytis	nhee	eldsneyti
 er	sfg3en	vera
@@ -3696,7 +3538,6 @@ bank	nheo	bank
 og	c	og
 eldsneytið	nheng	eldsneyti
 .	.	.
-
 Oktan	nhen	oktan
 og	c	og
 heptan	nhen	heptan
@@ -3725,7 +3566,6 @@ af	aþ	af
 svipuðum	lvfþsf	svipaður
 sameindum	nvfþ	sameind
 .	.	.
-
 Bruni	nken	bruni
 á	aþ	á
 hreinu	lheþsf	hreinn
@@ -3744,7 +3584,6 @@ veldur	sfg3en	valda
 miklu	lheþsf	mikill
 banki	nheþ	bank
 .	.	.
-
 Miðlungsmikil	lhfnsf	miðlungsmikill
 bankhljóð	nhfn	bankhljóð
 stafa	nkfe	stafur
@@ -3758,7 +3597,6 @@ háð	lhensf	háður
 sameindasamsetningu	nveþ	sameindasamsetning
 þess	fphee	það
 .	.	.
-
 Þannig	aa	þannig
 er	sfg3en	vera
 til	ae	til
@@ -3786,7 +3624,6 @@ og	c	og
 af	aþ	af
 heptani	nheþ	heptan
 .	.	.
-
 Til	ae	til
 dæmis	nhee	dæmi
 má	sfg3en	mega
@@ -3808,7 +3645,6 @@ en	c	en
 oktana	nhfe	oktan
 bensín	nhen	bensín
 .	.	.
-
 Fyrir	ao	fyrir
 vikið	nheog	vik
 er	sfg3en	vera
@@ -3822,7 +3658,6 @@ en	c	en
 oktana	nhfe	oktan
 bensíns	nhee	bensín
 .	.	.
-
 Að	aþ	að
 sama	fbheþ	sami
 skapi	nheþ	skap
@@ -3844,7 +3679,6 @@ bruna	nkee	bruni
 oktana	nhfe	oktan
 bensíns	nhee	bensín
 .	.	.
-
 98	ta	98
 oktana	nhfe	oktan
 bensín	nhen	bensín
@@ -3866,7 +3700,6 @@ og	c	og
 á	ao	á
 vélbúnað	nkeo	vélbúnaður
 .	.	.
-
 Ástæðan	nveng	ástæða
 til	ae	til
 þess	fphee	það
@@ -3904,7 +3737,6 @@ er	sfg3en	vera
 vegna	ae	vegna
 umhverfisáhrifa	nhfe	umhverfisáhrif
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 er	sfg3en	vera
@@ -3914,7 +3746,6 @@ bensín	nhen	bensín
 mun	nkeþ	munur
 ódýrara	lhenvm	ódýr
 .	.	.
-
 Bílaframleiðendur	nkfn	bílaframleiðandi
 hafa	sfg3fn	hafa
 líka	aa	líka
@@ -3935,7 +3766,6 @@ af	aþ	af
 hærri	lveþvm	hár
 oktantölu	nveþ	oktantala
 .	.	.
-
 Til	aa	til
 er	sfg3en	vera
 eldsneyti	nhen	eldsneyti
@@ -3969,10 +3799,8 @@ ekki	aa	ekki
 almennum	lkeþsf	almennur
 markaði	nkeþ	markaður
 .	.	.
-
 Heimildir	nvfn	heimild
 :	:	:
-
 *	*	*
 Grein	nven	grein
 um	ao	um
@@ -3994,7 +3822,6 @@ Books	e	Books
 ,	,	,
 1983	ta	1983
 .	.	.
-
 *	*	*
 Íslenska	lvenvf	íslenskur
 alfræðiorðabókin	nveng	alfræðiorðabók
@@ -4005,7 +3832,6 @@ og	c	og
 Örlygur	nken-s	Örlygur
 1990	ta	1990
 .	.	.
-
 Í	aþ	í
 lotukerfinu	nheþg	lotukerfi
 (	(	(
@@ -4031,7 +3857,6 @@ sýna	sng	sýna
 í	aþ	í
 töflu	nveþ	tafla
 .	.	.
-
 Taflan	nveng	tafla
 sýnir	sfg3en	sýna
 innbyrðis	lkeoof	innbyrðis
@@ -4045,7 +3870,6 @@ sætistölu	nveþ	sætistala
 og	c	og
 rafeindaskipan	nveþ	rafeindaskipan
 .	.	.
-
 Lotukerfið	nheng	lotukerfi
 sýnir	sfg3en	sýna
 um	ao	um
@@ -4071,7 +3895,6 @@ hvert	fohen	hver
 um	ao	um
 sig	fpheo	sig
 .	.	.
-
 Frumeindir	nvfn	frumeind
 eru	sfg3fn	vera
 samsettar	lvfnsf	samsettur
@@ -4092,7 +3915,6 @@ electrons	e	electrons
 umhverfis	ao	umhverfis
 hann	fpkeo	hann
 .	.	.
-
 Frumeindarkjarni	nken	frumeindarkjarni
 inniheldur	sfg3en	innihalda
 meðal	ae	meðal
@@ -4107,7 +3929,6 @@ róteindir	nvfn	róteind
 protons	e	protons
 )	)	)
 .	.	.
-
 Fjöldi	nken	fjöldi
 rafeinda	nvfe	rafeind
 og	c	og
@@ -4124,7 +3945,6 @@ atomic	e	atomic
 number	e	number
 )	)	)
 .	.	.
-
 Rafeindir	nvfn	rafeind
 eru	sfg3fn	vera
 dreifðar	lvfnsf	dreifður
@@ -4141,7 +3961,6 @@ svigrúm	nhen	svigrúm
 orbital	e	orbital
 )	)	)
 .	.	.
-
 Svigrúm	nhfn	svigrúm
 eru	sfg3fn	vera
 auðkennd	sþghfn	auðkenna
@@ -4167,7 +3986,6 @@ m	e	m
 ofanvarpstala	nven	ofanvarpstala
 )	)	)
 .	.	.
-
 Gerð	nven	gerð
 svigrúma	nhfe	svigrúm
 er	sfg3en	vera
@@ -4207,7 +4025,6 @@ l	x	l
 3	ta	3
 )	)	)
 .	.	.
-
 Orka	nven	orka
 rafeinda	nvfe	rafeind
 í	aþ	í
@@ -4227,11 +4044,9 @@ er	sfg3en	vera
 mynd	nveþ	mynd
 1	ta	1
 .	.	.
-
 Mynd	nven	mynd
 1	ta	1
 .	.	.
-
 Orka	nven	orka
 viðbótarrafeindar	nvee	viðbótarrafeind
 í	aþ	í
@@ -4244,7 +4059,6 @@ svigrúm	nheo	svigrúm
 hún	fpven	hún
 sest	sfm3en	setja
 .	.	.
-
 Myndin	nveng	mynd
 skýrir	sfg3en	skýra
 í	aþ	í
@@ -4255,7 +4069,6 @@ raðast	sfm3fn	raða
 í	ao	í
 svigrúmin	nhfog	svigrúm
 .	.	.
-
 Pílurnar	nvfng	píla
 sýna	sfg3fn	sýna
 röðun	nveo	röðun
@@ -4272,7 +4085,6 @@ hefur	sfg3en	hafa
 sætistöluna	nveog	sætistala
 14	ta	14
 .	.	.
-
 Ekki	aa	ekki
 geta	sfg3fn	geta
 fleiri	lvfnvm	margur
@@ -4294,7 +4106,6 @@ aðstæður	nvfo	aðstæður
 orkulægstu	lhfove	orkulágur
 svigrúmin	nhfog	svigrúm
 .	.	.
-
 Niðurröðun	nven	niðurröðun
 rafeinda	nvfe	rafeind
 í	ao	í
@@ -4322,7 +4133,6 @@ pílunum	nvfþg	píla
 mynd	nveþ	mynd
 1	ta	1
 .	.	.
-
 Lotukerfið	nheng	lotukerfi
 endurspeglar	sfg3en	endurspegla
 skipan	nveo	skipan
@@ -4330,7 +4140,6 @@ rafeinda	nvfe	rafeind
 í	ao	í
 svigrúm	nheo	svigrúm
 .	.	.
-
 Rússneski	lkenvf	rússneskur
 efnafræðingurinn	nkeng	efnafræðingur
 D.	as	D.
@@ -4350,7 +4159,6 @@ mynd	nveþ	mynd
 árið	nheog	ár
 1869	ta	1869
 .	.	.
-
 Einföld	lvensf	einfaldur
 framsetning	nven	framsetning
 á	aþ	á
@@ -4377,11 +4185,9 @@ eru	sfg3fn	vera
 einnig	aa	einnig
 tilgreindar	sþgvfn	tilgreina
 .	.	.
-
 Mynd	nven	mynd
 2	ta	2
 .	.	.
-
 Tafla	nven	tafla
 um	ao	um
 lotukerfið	nheog	lotukerfi
@@ -4392,7 +4198,6 @@ og	c	og
 sætistölum	nvfþ	sætistala
 þeirra	fphfe	það
 .	.	.
-
 Efni	nhfn	efni
 sem	ct	sem
 hafa	sfg3fn	hafa
@@ -4406,7 +4211,6 @@ efnahvörfum	nhfþ	efnahvarf
 og	c	og
 efnasamböndum	nhfþ	efnasamband
 .	.	.
-
 Lárétt	lvensf	láréttur
 lína	nven	lína
 í	aþ	í
@@ -4417,7 +4221,6 @@ lota	nven	lota
 period	e	period
 )	)	)
 .	.	.
-
 Frumefnum	nhfþ	frumefni
 er	sfg3en	vera
 raðað	sþghen	raða
@@ -4440,7 +4243,6 @@ og	c	og
 niður	ao	niður
 töfluna	nveog	tafla
 .	.	.
-
 Jafnframt	aa	jafnframt
 eru	sfg3fn	vera
 hópar	nkfn	hópur
@@ -4477,7 +4279,6 @@ atómum	nhfþ	atóm
 í	aa	í
 kring	aa	kring
 .	.	.
-
 Frumeindir	nvfn	frumeind
 í	aþ	í
 ákveðnum	lkeþsf	ákveðinn
@@ -4508,7 +4309,6 @@ eða	c	eða
 f	x	f
 )	)	)
 .	.	.
-
 Einungis	aa	einungis
 meginskammtatalan	nveng	meginskammtatala
 n	x	n
@@ -4524,7 +4324,6 @@ fer	sfg3en	fara
 þá	aa	þá
 vaxandi	slg	vaxa
 .	.	.
-
 Þannig	aa	þannig
 hafa	sfg3fn	hafa
 frumefnin	nhfng	frumefni
@@ -4562,7 +4361,6 @@ n	x	n
 Pb	e	Pb
 )	)	)
 .	.	.
-
 Á	aþ	á
 mynd	nveþ	mynd
 3	ta	3
@@ -4587,17 +4385,14 @@ og	c	og
 p	x	p
 svigrúmum	nhfþ	svigrúm
 .	.	.
-
 Mynd	nven	mynd
 3	ta	3
 .	.	.
-
 Lotukerfið	nheng	lotukerfi
 og	c	og
 skammtatölur	nvfn	skammtatala
 svigrúma	nhfe	svigrúm
 .	.	.
-
 Í	ao	í
 ljós	nheo	ljós
 kemur	sfg3en	koma
@@ -4629,7 +4424,6 @@ eiginleika	nkfo	eiginleiki
 viðkomandi	lhfeof	viðkomandi
 efna	nhfe	efni
 .	.	.
-
 Þannig	aa	þannig
 er	sfg3en	vera
 til	ae	til
@@ -4668,7 +4462,6 @@ metals	e	metals
 hafa	sfg3fn	hafa
 málmeiginleika	nkfo	málmeiginleikar
 .	.	.
-
 Umrædd	lhfnsf	umræddur
 frumefni	nhfn	frumefni
 nefnast	sfm3fn	nefna
@@ -4678,7 +4471,6 @@ transition	e	transition
 metals	e	metals
 )	)	)
 .	.	.
-
 Frumefni	nhfn	frumefni
 í	aþ	í
 dálki	nkeþ	dálkur
@@ -4714,7 +4506,6 @@ alkaline	e	alkaline
 metals	e	metals
 )	)	)
 .	.	.
-
 Þá	aa	þá
 má	sfg3en	mega
 nefna	sng	nefna
@@ -4748,7 +4539,6 @@ dæmi	nhfn	dæmi
 séu	svg3fn	vera
 nefnd	sþghfn	nefna
 .	.	.
-
 Í	ao	í
 lotukerfið	nheog	lotukerfi
 er	sfg3en	vera
@@ -4765,7 +4555,6 @@ og	c	og
 eða	c	eða
 frumefni	nhfo	frumefni
 .	.	.
-
 Dæmi	nhfo	dæmi
 um	ao	um
 það	fpheo	það
@@ -4782,7 +4571,6 @@ hér	aa	hér
 eftir	aa	eftir
 )	)	)
 .	.	.
-
 Heimildir	nvfn	heimild
 og	c	og
 frekari	lkenvm	frekur
@@ -4814,12 +4602,10 @@ kennslubækur	nvfn	kennslubók
 almennri	lveþsf	almennur
 efnafræði	nveþ	efnafræði
 .	.	.
-
 Spyrjandi	nken	spyrjandi
 bætir	sfg3en	bæta
 við	aa	við
 :	:	:
-
 Maður	nken	maður
 kemur	sfg3en	koma
 til	ae	til
@@ -4835,7 +4621,6 @@ fyrir	aa	fyrir
 í	aþ	í
 herbergi	nheþ	herbergi
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 afar	aa	afar
@@ -4848,7 +4633,6 @@ um	ao	um
 skarpskyggni	nveo	skarpskyggni
 spyrjanda	nkee	spyrjandi
 .	.	.
-
 Því	fpheþ	það
 er	sfg3en	vera
 einmitt	aa	einmitt
@@ -4867,7 +4651,6 @@ við	ao	við
 sömu	fbvfo	sami
 aðstæður	nvfo	aðstæður
 .	.	.
-
 Svarið	nheng	svar
 við	aþ	við
 þessari	faveþ	þessi
@@ -4900,7 +4683,6 @@ eru	sfg3fn	vera
 fyllilega	aa	fyllilega
 réttmætar	lvfnsf	réttmætur
 .	.	.
-
 Fullyrðingin	nveng	fullyrðing
 «	«	«
 að	c	að
@@ -4938,7 +4720,6 @@ real	e	real
 gas	e	gas
 )	)	)
 .	.	.
-
 Kjörgas	nhen	kjörgas
 er	sfg3en	vera
 einfalt	lhensf	einfaldur
@@ -4964,7 +4745,6 @@ verki	svg3fn	verka
 milli	ae	milli
 eindanna	nvfeg	eind
 .	.	.
-
 Þá	aa	þá
 gildir	sfg3en	gilda
 svonefnt	lhensf	svonefndur
@@ -4981,7 +4761,6 @@ PV	x	pv
 /	/	/
 RT	x	rt
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 kjörgaslögmálinu	nheþg	kjörgaslögmál
 er	sfg3en	vera

@@ -26,7 +26,6 @@ sí	aa	sí
 og	c	og
 æ	aa	æ
 .	.	.
-
 Það	fahen	sá
 sem	ct	sem
 hann	fpken	hann
@@ -53,12 +52,10 @@ hann	fpken	hann
 að	cn	að
 gera	sng	gera
 .	.	.
-
 Setningar	nvfn	setning
 eins	aa	eins
 og	c	og
 :	:	:
-
 Hann	fpken	hann
 er	sfg3en	vera
 að	cn	að
@@ -78,7 +75,6 @@ tengslum	nhfþ	tengsl
 við	ao	við
 íþróttir	nvfo	íþrótt
 .	.	.
-
 Þó	aa	þó
 eru	sfg3fn	vera
 það	fphen	það
@@ -102,7 +98,6 @@ er	sfg3en	vera
 fyrir	ao	fyrir
 hana	fpveo	hún
 .	.	.
-
 Hver	fsken	hver
 hefur	sfg3en	hafa
 ekki	aa	ekki
@@ -111,7 +106,6 @@ setningu	nveo	setning
 eins	aa	eins
 og	c	og
 :	:	:
-
 Ég	fp1en	ég
 er	sfg1en	vera
 ekki	aa	ekki
@@ -125,9 +119,7 @@ ekki	aa	ekki
 að	cn	að
 nenna	sng	nenna
 þessu	faheþ	þessi
-
 ?	?	?
-
 Slík	fbven	slíkur
 ofnotkun	nven	ofnotkun
 sagnarinnar	nveeg	sögn
@@ -150,20 +142,17 @@ hjá	aþ	hjá
 unga	lheþvf	ungur
 fólkinu	nheþg	fólk
 .	.	.
-
 Er	sfg3en	vera
 þetta	fahen	þessi
 æskileg	lvensf	æskilegur
 þróun	nven	þróun
 ?	?	?
-
 Málfræðigildrurnar	nvfng	málfræðigildra
 í	aþ	í
 íslensku	nveþ	íslenska
 eru	sfg3fn	vera
 ófáar	lvfnsf	ófár
 .	.	.
-
 Fólk	nhen	fólk
 sem	ct	sem
 er	sfg3en	vera
@@ -184,7 +173,6 @@ setningauppbyggingin	nveng	setningauppbygging
 er	sfg3en	vera
 oft	aa	oft
 .	.	.
-
 Það	fphen	það
 einfaldar	sfg3en	einfalda
 útlendingum	nkfþ	útlendingur
@@ -204,7 +192,6 @@ tíma	nkeþ	tími
 og	c	og
 ótíma	nkeþ	ótími
 .	.	.
-
 Ég	fp1en	ég
 þekki	sfg1en	þekkja
 pólska	lveosf	pólskur
@@ -216,7 +203,6 @@ nýflutt	lvensf	nýfluttur
 til	ae	til
 landsins	nheeg	land
 .	.	.
-
 Hún	fpven	hún
 leggur	sfg3en	leggja
 sig	fpveo	sig
@@ -238,7 +224,6 @@ segir	sfg3en	segja
 eitthvað	foheo	einhver
 vitlaust	aa	vitlaust
 .	.	.
-
 Svo	aa	svo
 kennir	sfg3en	kenna
 hún	fpven	hún
@@ -249,7 +234,6 @@ orðin	nhfog	orð
 á	aa	á
 móti	aa	móti
 .	.	.
-
 Nýlega	aa	nýlega
 var	sfg3eþ	vera
 hún	fpven	hún
@@ -270,7 +254,6 @@ ha	au	ha
 ,	,	,
 fundur	nken	fundur
 ?	?	?
-
 Ég	fp1en	ég
 sagði	sfg1eþ	segja
 henni	fpveþ	hún
@@ -291,7 +274,6 @@ aðgreina	sng	aðgreina
 íslensk	lhfosf	íslenskur
 hljóð	nhfo	hljóð
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 finnst	sfm3en	finna
@@ -317,7 +299,6 @@ svo	aa	svo
 afskaplega	aa	afskaplega
 ólík	lhfnsf	ólíkur
 .	.	.
-
 Verðum	sfg1fn	verða
 við	fp1fn	ég
 ekki	aa	ekki
@@ -333,7 +314,6 @@ varðar	sfg3en	varða
 tungumálið	nheog	tungumál
 okkar	fp1fe	ég
 ?	?	?
-
 Mikið	lhensf	mikill
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -371,7 +351,6 @@ týna	sng	týna
 einhverjum	fokeþ	einhver
 tungumálablendingi	nkeþ	tungumálablendingur
 .	.	.
-
 Gerum	svg1fn	gera
 eins	aa	eins
 og	c	og
@@ -385,14 +364,12 @@ tala	sng	tala
 málið	nheog	mál
 okkar	fp1fe	ég
 .	.	.
-
 Sigrún	nven-s	Sigrún
 Ásmundar	nkee-s	Ásmundur
 (	(	(
 sia@mbl.i	v	sia@mbl.i
 s	x	s
 )	)	)
-
 Magnús	nken-s	Magnús
 Þorkell	nken-s	Þorkell
 Bernharðsson	nken-s	Bernharðsson
@@ -406,7 +383,6 @@ okkar	fp1fe	ég
 sögu	nveþ	saga
 Mið-Austurlanda	nhfe-s	Mið-Austurlönd
 .	.	.
-
 Hann	fpken	hann
 býr	sfg3en	búa
 að	aþ	að
@@ -435,7 +411,6 @@ um	ao	um
 stöðu	nveo	staða
 mála	nhfe	mál
 .	.	.
-
 Má	sfg3en	mega
 fullyrða	sng	fullyrða
 að	c	að
@@ -457,7 +432,6 @@ umræðu	nveþ	umræða
 um	ao	um
 Mið-Austurlönd	nhfo-s	Mið-Austurlönd
 .	.	.
-
 Af	aþ	af
 þessum	favfþ	þessi
 sökum	nvfþ	sök
@@ -476,7 +450,6 @@ Magnús	nkeo-s	Magnús
 opinberum	lkeþsf	opinber
 vettvangi	nkeþ	vettvangur
 .	.	.
-
 Sem	ct	sem
 er	sfg3en	vera
 kannski	aa	kannski
@@ -522,7 +495,6 @@ um	ao	um
 málefni	nhfo	málefni
 Mið-Austurlanda	nhfe-s	Mið-Austurlönd
 .	.	.
-
 Gengur	sfg3en	ganga
 Magnús	nken-s	Magnús
 svo	aa	svo
@@ -538,7 +510,6 @@ að	aþ	að
 málfrelsi	nheþ	málfrelsi
 fræðimanna	nkfe	fræðimaður
 .	.	.
-
 Nú	aa	nú
 vil	sfg1en	vilja
 ég	fp1en	ég
@@ -553,7 +524,6 @@ sérfræðingur	nken	sérfræðingur
 sögu	nveþ	saga
 Mið-Austurlanda	nhfe-s	Mið-Austurlönd
 .	.	.
-
 En	c	en
 ég	fp1en	ég
 tel	sfg1en	telja
@@ -593,7 +563,6 @@ fleiri	lkfovm	margur
 en	c	en
 þá	fpkfo	hann
 .	.	.
-
 Menn	nkfn	maður
 þurfa	sfg3fn	þurfa
 nú	aa	nú
@@ -619,11 +588,9 @@ um	ao	um
 ástand	nheo	ástand
 þar	aa	þar
 .	.	.
-
 Eða	c	eða
 hvað	fshen	hver
 ?	?	?
-
 Ég	fp1en	ég
 set	sfg1en	setja
 fram	aa	fram
@@ -688,7 +655,6 @@ um	ao	um
 málefni	nhfo	málefni
 Mið-Austurlanda	nhfe-s	Mið-Austurlönd
 .	.	.
-
 Virðist	sfm3en	virða
 sem	c	sem
 Magnús	nken-s	Magnús
@@ -718,7 +684,6 @@ sé	svg3en	vera
 á	aa	á
 takandi	slg	taka
 .	.	.
-
 Magnúsi	nkeþ-s	Magnús
 er	sfg3en	vera
 sérstaklega	aa	sérstaklega
@@ -751,7 +716,6 @@ The	e	The
 Brookings	e	Brookings
 Institute	e	Institute
 .	.	.
-
 Segir	sfg3en	segja
 Magnús	nken-s	Magnús
 að	c	að
@@ -778,7 +742,6 @@ slíkir	fbkfn	slíkur
 í	aþ	í
 fjölmiðlum	nkfþ	fjölmiðill
 .	.	.
-
 Á	aþ	á
 áttunda	lkeþvf	áttundi
 áratugnum	nkeþg	áratugur
@@ -809,7 +772,6 @@ heldur	sfg3en	halda
 svo	aa	svo
 áfram	aa	áfram
 :	:	:
-
 Þekking	nven	þekking
 þeirra	fpkfe	hann
 er	sfg3en	vera
@@ -834,7 +796,6 @@ hugmyndafræði	nveþ	hugmyndafræði
 á	ao	á
 framfæri	nheo	framfæri
 .	.	.
-
 Þessar	favfn	þessi
 hugmyndaveitur	nvfn	hugmyndaveita
 eru	sfg3fn	vera
@@ -847,7 +808,6 @@ málpípa	nven	málpípa
 ákveðins	lkeesf	ákveðinn
 málstaðar	nkee	málstaður
 .	.	.
-
 Hér	aa	hér
 þarf	sfg3en	þurfa
 engan	fokeo	enginn
@@ -865,7 +825,6 @@ um	ao	um
 mikinn	lkeosf	mikill
 hroka	nkeo	hroki
 .	.	.
-
 Verður	sfg3en	verða
 því	fpheþ	það
 þó	aa	þó
@@ -906,7 +865,6 @@ erkihaukinn	nkeog	erkihaukur
 Richard	e	Richard
 Perle	e	Perle
 .	.	.
-
 En	c	en
 mig	fp1eo	ég
 langar	sfg3en	langa
@@ -919,7 +877,6 @@ hanskann	nkeog	hanski
 fyrir	ao	fyrir
 Brookings-stofnunina	nveogs	Brookingsstofnun
 .	.	.
-
 Þegar	c	þegar
 skoðað	sþghen	skoða
 er	sfg3en	vera
@@ -948,7 +905,6 @@ er	sfg3en	vera
 að	cn	að
 fara	sng	fara
 .	.	.
-
 Ef	c	ef
 þeir	fakfn	sá
 tólf	tfkfn	tólf
@@ -991,7 +947,6 @@ um	ao	um
 umrædd	lhfosf	umræddur
 málefni	nhfo	málefni
 .	.	.
-
 Kannski	aa	kannski
 bara	aa	bara
 Magnús	nken-s	Magnús
@@ -1005,7 +960,6 @@ til	aa	til
 vina	nkfe	vinur
 hans	fpkee	hann
 ?	?	?
-
 Heimsókn	nven	heimsókn
 á	aþ	á
 heimasíðu	nveþ	heimasíða
@@ -1027,7 +981,6 @@ sérfræðingar	nkfn	sérfræðingur
 málefnum	nhfþ	málefni
 Mið-Austurlanda	nhfe-s	Mið-Austurlönd
 .	.	.
-
 Sumir	fokfn	sumur
 eru	sfg3fn	vera
 að	aþ	að
@@ -1070,7 +1023,6 @@ innrásar	nvee	innrás
 Írak	nheo-s	Írak
 )	)	)
 .	.	.
-
 Varla	aa	varla
 verður	sfg3en	verða
 mönnum	nkfþ	maður
@@ -1089,7 +1041,6 @@ sér	fpkfþ	sig
 mörgum	lhfþsf	margur
 sviðum	nhfþ	svið
 ?	?	?
-
 Meðal	ae	meðal
 annarra	fokfe	annar
 sem	ct	sem
@@ -1138,7 +1089,6 @@ málefnum	nhfþ	málefni
 Austurlanda	nhfe-s	Austurland
 nær	aam	nær
 .	.	.
-
 Indyk	e	Indyk
 kennir	sfg3en	kenna
 við	ao	við
@@ -1150,7 +1100,6 @@ býsna	aa	býsna
 virt	lvensf	virtur
 stofnun	nven	stofnun
 .	.	.
-
 Nú	aa	nú
 kann	sfg3en	kunna
 að	cn	að
@@ -1170,7 +1119,6 @@ undir	ao	undir
 málstað	nkeo	málstaður
 Ísraela	nkfe-s	Ísraeli
 .	.	.
-
 En	c	en
 það	fphen	það
 þýðir	sfg3en	þýða
@@ -1184,7 +1132,6 @@ um	ao	um
 málefni	nhfo	málefni
 Mið-Austurlanda	nhfe-s	Mið-Austurlönd
 .	.	.
-
 Og	c	og
 það	fphen	það
 er	sfg3en	vera
@@ -1201,7 +1148,6 @@ fræðimenn	nkfn	fræðimaður
 séu	svg3fn	vera
 sammála	lkfnof	sammála
 .	.	.
-
 Ég	fp1en	ég
 nefni	sfg1en	nefna
 fleiri	lkfovm	margur
@@ -1233,7 +1179,6 @@ Islamic	e	Islamic
 Democratic	e	Democratic
 Discourse	e	Discourse
 .	.	.
-
 Þá	aa	þá
 má	sfg3en	mega
 nefna	sng	nefna
@@ -1263,7 +1208,6 @@ leyniþjónustuna	nveog	leyniþjónusta
 ,	,	,
 CIA	as	CIA
 .	.	.
-
 Leverett	e	Leverett
 talar	sfg3en	tala
 arabísku	nveo	arabíska
@@ -1272,7 +1216,6 @@ skv.	as	skv.
 heimasíðu	nveþ	heimasíða
 Brookings	e	Brookings
 .	.	.
-
 Síðast	aae	síðar
 en	c	en
 ekki	aa	ekki
@@ -1314,7 +1257,6 @@ Human	e	Human
 Rights	e	Rights
 Watch	e	Watch
 .	.	.
-
 Áður	aa	áður
 hefur	sfg3en	hafa
 hann	fpken	hann
@@ -1327,7 +1269,6 @@ Princeton	e	Princeton
 og	c	og
 Columbia	e	Columbia
 .	.	.
-
 Ætli	svg3en	ætla
 Shibley	e	Shibley
 Telhami	e	Telhami
@@ -1345,7 +1286,6 @@ fúskara	nkeo	fúskari
 sínu	feheþ	sinn
 sviði	nheþ	svið
 ?	?	?
-
 Davíð	nken-s	Davíð
 Logi	nken-s	Logi
 Sigurðsson	nken-s	Sigurðsson
@@ -1353,14 +1293,12 @@ Sigurðsson	nken-s	Sigurðsson
 david@mbl.i	v	david@mbl.i
 s	x	s
 )	)	)
-
 Eru	sfg3fn	vera
 allar	fovfn	allur
 vestrænar	lvfnsf	vestrænn
 konur	nvfn	kona
 svona	aa	svona
 ?	?	?
-
 spurði	sfg3eþ	spyrja
 mig	fp1eo	ég
 kambódísk	lvensf	kambódískur
@@ -1376,7 +1314,6 @@ rútu	nveþ	rúta
 í	aþ	í
 Kambódíu	nveþ-s	Kambódía
 .	.	.
-
 Hún	fpven	hún
 benti	sfg3eþ	benda
 á	ao	á
@@ -1387,14 +1324,12 @@ fremst	aae	fremur
 í	aþ	í
 rútunni	nveþg	rúta
 .	.	.
-
 Hávaðinn	nkeng	hávaði
 úr	aþ	úr
 tækinu	nheþg	tæki
 var	sfg3eþ	vera
 ærandi	lkenof	ærandi
 .	.	.
-
 Britney	e	Britney
 Spears	e	Spears
 dillaði	sfg3eþ	dilla
@@ -1410,7 +1345,6 @@ mjöðmum	nvfþ	mjöðm
 og	c	og
 maga	nkeþ	magi
 .	.	.
-
 Konan	nveng	kona
 var	sfg3eþ	vera
 ekki	aa	ekki
@@ -1434,14 +1368,12 @@ af	aþ	af
 einskærri	lveþsf	einskær
 forvitni	nveþ	forvitni
 .	.	.
-
 Við	fp1fn	ég
 ræddum	sfg1fþ	ræða
 málin	nhfog	mál
 nokkra	foveo	nokkur
 stund	nveo	stund
 .	.	.
-
 Nei	au	nei
 ,	,	,
 þetta	fahen	þessi
@@ -1466,7 +1398,6 @@ að	aþ	að
 lokum	nhfþ	lok
 hugsi	lvenof	hugsi
 .	.	.
-
 Samtalið	nheng	samtal
 hefur	sfg3en	hafa
 komið	ssg	koma
@@ -1479,7 +1410,6 @@ daga	nkfo	dagur
 og	c	og
 vikur	nvfo	vika
 .	.	.
-
 Hvað	fsheo	hver
 sér	sfg3en	sjá
 fólk	nhen	fólk
@@ -1494,7 +1424,6 @@ og	c	og
 þessir	fakfn	þessi
 hópar	nkfn	hópur
 ?	?	?
-
 Í	aþ	í
 sjónvarpsfréttum	nvfþ	sjónvarpsfrétt
 um	ao	um
@@ -1514,7 +1443,6 @@ Basra	e	Basra
 í	aþ	í
 Írak	nheþ-s	Írak
 .	.	.
-
 Yfirvöld	nhfn	yfirvald
 í	aþ	í
 breska	lkeþvf	breskur
@@ -1540,7 +1468,6 @@ sem	ct	sem
 landinu	nheþg	land
 eru	sfg3fn	vera
 .	.	.
-
 Auðvitað	aa	auðvitað
 ekki	aa	ekki
 -	-	-
@@ -1562,7 +1489,6 @@ og	c	og
 í	ao	í
 hug	nkeo	hugur
 .	.	.
-
 Myndbandið	nheng	myndband
 getur	sfg3en	geta
 hins	fakee	hinn
@@ -1581,7 +1507,6 @@ yfirleitt	aa	yfirleitt
 í	aþ	í
 Írak	nheþ-s	Írak
 .	.	.
-
 Upp	aa	upp
 á	ao	á
 síðkastið	nheog	síðkastið
@@ -1597,7 +1522,6 @@ og	c	og
 öskureiðum	lkfþsf	öskureiður
 múslimum	nkfþ	múslimi
 .	.	.
-
 Það	fphen	það
 skal	sfg3en	skulu
 enginn	foken	enginn
@@ -1608,7 +1532,6 @@ sannleiksgildi	nheo	sannleiksgildi
 þeirra	favfe	sá
 mynda	nvfe	mynd
 .	.	.
-
 Fánar	nkfn	fáni
 voru	sfg3fþ	vera
 brenndir	sþgkfn	brenna
@@ -1618,7 +1541,6 @@ fólk	nhen	fólk
 og	c	og
 fordæmdi	sfg3eþ	fordæma
 .	.	.
-
 En	c	en
 hversu	aa	hversu
 lýsandi	lvfnof	lýsandi
@@ -1641,7 +1563,6 @@ fólk	nhen	fólk
 segir	sfg3en	segja
 gjarnan	aa	gjarnan
 ?	?	?
-
 Hversu	aa	hversu
 lýsandi	lvfnof	lýsandi
 voru	sfg3fþ	vera
@@ -1660,7 +1581,6 @@ jafnaði	nkeþ	jafnaður
 í	aþ	í
 Írak	nheþ-s	Írak
 ?	?	?
-
 Einhver	foken	einhver
 gæti	svg3eþ	geta
 viljað	ssg	vilja
@@ -1714,7 +1634,6 @@ hægrisinnaðar	lvfnsf	hægrisinnaður
 og	c	og
 áttræðar	lvfnsf	áttræður
 .	.	.
-
 Auðvitað	aa	auðvitað
 eru	sfg3fn	vera
 þær	fpvfn	hún
@@ -1736,7 +1655,6 @@ eins	aa	eins
 og	c	og
 Britney	e	Britney
 .	.	.
-
 Nú	aa	nú
 er	sfg3en	vera
 það	fphen	það
@@ -1747,7 +1665,6 @@ eru	sfg3fn	vera
 1,3	ta	1,3
 milljarðar	nkfn	milljarður
 .	.	.
-
 Ég	fp1en	ég
 get	sfg1en	geta
 hreinlega	aa	hreinlega
@@ -1793,7 +1710,6 @@ svona	aa	svona
 eða	c	eða
 hinsegin	aa	hinsegin
 .	.	.
-
 Ekki	aa	ekki
 einungis	aa	einungis
 eru	sfg3fn	vera
@@ -1809,7 +1725,6 @@ vitanlega	aa	vitanlega
 ólíkir	lkfnsf	ólíkur
 innbyrðis	aa	innbyrðis
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 auðvitað	aa	auðvitað
@@ -1844,7 +1759,6 @@ hinum	gkeþ	hinn
 kristna	lkeþvf	kristinn
 menningarheimi	nkeþ	menningarheimur
 .	.	.
-
 Hefur	sfg3en	hafa
 einhver	foken	einhver
 annars	aa	annars
@@ -1866,7 +1780,6 @@ um	ao	um
 múslimaheiminn	nkeog	múslimaheimur
 1	ta	1
 ?	?	?
-
 Ólíkir	lkfnsf	ólíkur
 múslimunum	nkfþg	múslimi
 vinum	nkfþ	vinur
@@ -1889,7 +1802,6 @@ Bosníu	nveþ-s	Bosnía
 í	aþ	í
 Evrópu	nveþ-s	Evrópa
 .	.	.
-
 Múslimar	nkfn	múslimi
 í	aþ	í
 Egyptalandi	nheþ-s	Egyptaland
@@ -1909,7 +1821,6 @@ og	c	og
 í	aþ	í
 Súdan	nheþ-s	Súdan
 .	.	.
-
 Í	aþ	í
 umræðum	nvfþ	umræða
 um	ao	um
@@ -1952,7 +1863,6 @@ umræða	nven	umræða
 stefnir	sfg3en	stefna
 eiginlega	aa	eiginlega
 .	.	.
-
 Ég	fp1en	ég
 veit	sfg1en	vita
 einungis	aa	einungis
@@ -1972,7 +1882,6 @@ múslima	nkfo	múslimi
 einhvern	fokeo	einhver
 svona-eruð-þið-flokk	nkeo	svona-eruð-þið-flokkur
 .	.	.
-
 Þegar	c	þegar
 við	fp1fn	ég
 tölum	sfg1fn	tala
@@ -1989,7 +1898,6 @@ fimmta	lkeovf	fimmti
 hluta	nkeo	hluti
 mannkyns	nhee	mannkyn
 .	.	.
-
 Flokkun	nven	flokkun
 á	aþ	á
 múslimum	nkfþ	múslimi
@@ -2007,7 +1915,6 @@ er	sfg3en	vera
 steypt	sþghen	steypa
 saman	aa	saman
 .	.	.
-
 Ekki	aa	ekki
 nema	c	nema
 200-300	ta	200-300
@@ -2022,7 +1929,6 @@ hins	fakee	hinn
 vegar	nkee	vegur
 arabar	nkfn	arabi
 .	.	.
-
 Múslimar	nkfn	múslimi
 í	aþ	í
 fjölmennasta	lheþve	fjölmennur
@@ -2043,7 +1949,6 @@ dæmis	nhee	dæmi
 ekki	aa	ekki
 arabar	nkfn	arabi
 .	.	.
-
 Ekki	aa	ekki
 allir	fokfn	allur
 arabar	nkfn	arabi
@@ -2057,7 +1962,6 @@ til	ae	til
 dæmis	nhee	dæmi
 kristnir	lkfnsf	kristinn
 .	.	.
-
 Íslendingar	nkfn-s	Íslendingur
 og	c	og
 kristið	lhensf	kristinn
@@ -2070,7 +1974,6 @@ og	c	og
 það	fahen	sá
 sama	fbhen	sami
 .	.	.
-
 Það	fphen	það
 sjá	sfg3fn	sjá
 allir	fokfn	allur
@@ -2100,7 +2003,6 @@ en	c	en
 ekki	aa	ekki
 Íslendingur	nken-s	Íslendingur
 .	.	.
-
 Ég	fp1en	ég
 fordæmi	sfg1en	fordæma
 ofbeldi	nheo	ofbeldi
@@ -2121,7 +2023,6 @@ dökkhærður	lkensf	dökkhærður
 eða	c	eða
 Reykvíkingur	nken-s	Reykvíkingur
 .	.	.
-
 Þegar	c	þegar
 fólk	nhen	fólk
 í	aa	í
@@ -2174,7 +2075,6 @@ hósta	sng	hósta
 og	c	og
 hiksta	sng	hiksta
 .	.	.
-
 Segjum	svg1fn	segja
 að	c	að
 hundrað	to	hundrað
@@ -2193,7 +2093,6 @@ og	c	og
 beitt	ssg	beita
 ofbeldi	nheþ	ofbeldi
 .	.	.
-
 Segjum	svg1fn	segja
 að	c	að
 fimm	to	fimm
@@ -2218,7 +2117,6 @@ láta	sng	láta
 í	ao	í
 ljós	nheo	ljós
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 meira	lheovm	mikill
@@ -2234,7 +2132,6 @@ upp	aa	upp
 eina	tfveo	einn
 milljón	nveo	milljón
 .	.	.
-
 Þá	aa	þá
 eru	sfg3fn	vera
 eftir	aa	eftir
@@ -2242,11 +2139,9 @@ eftir	aa	eftir
 milljónir	nvfn	milljón
 múslima	nkfe	múslimi
 .	.	.
-
 1,299	ta	1,299
 milljarðar	nkfn	milljarður
 .	.	.
-
 Hvað	fsheo	hver
 ætli	svg3en	ætla
 allt	fohen	allur
@@ -2257,7 +2152,6 @@ verið	ssg	vera
 að	cn	að
 gera	sng	gera
 ?	?	?
-
 Ef	c	ef
 50.000	ta	50.000
 manns	nkee	maður
@@ -2286,7 +2180,6 @@ og	c	og
 brennuvörgunum	nkfþg	brennuvargur
 8	ta	8
 ?	?	?
-
 Hvað	fshen	hver
 fyndist	svm3eþ	finna
 mér	fp1eþ	ég
@@ -2322,13 +2215,11 @@ um	aa	um
 með	aþ	með
 ófriði	nkeþ	ófriður
 ?	?	?
-
 Nei	au	nei
 ,	,	,
 bara	aa	bara
 pæling	nven	pæling
 .	.	.
-
 Sigríður	nven-s	Sigríður
 Víðis	nven-s	Víðis
 Jónsdóttir	nven-s	Jónsdóttir
@@ -2336,7 +2227,6 @@ Jónsdóttir	nven-s	Jónsdóttir
 sigridurv@mbl.i	v	sigridurv@mbl.i
 s	x	s
 )	)	)
-
 Umræða	nven	umræða
 um	ao	um
 kynferðislegt	lheosf	kynferðislegur
@@ -2349,7 +2239,6 @@ talsverð	lvensf	talsverður
 að	aþ	að
 undanförnu	lheþsf	undanfarinn
 .	.	.
-
 Auglýsingaherferð	nven	auglýsingaherferð
 Blátt	aa	blátt
 áfram	aa	áfram
@@ -2374,7 +2263,6 @@ fólk	nheo	fólk
 til	ae	til
 umhugsunar	nvee	umhugsun
 .	.	.
-
 Í	aþ	í
 auglýsingunum	nvfþg	auglýsing
 sjást	sfm3fn	sjá
@@ -2393,13 +2281,11 @@ gera	sng	gera
 við	ao	við
 þá	fpkfo	hann
 .	.	.
-
 Þær	fpvfn	hún
 eru	sfg3fn	vera
 nokkuð	fohen	nokkur
 áhrifamiklar	lvfnsf	áhrifamikill
 .	.	.
-
 Í	aþ	í
 Kompási	nkeþ-s	kompás
 var	sfg3eþ	vera
@@ -2425,7 +2311,6 @@ kynnum	nhfþ	kynni
 við	ao	við
 karlmenn	nkfo	karlmaður
 .	.	.
-
 Það	fphen	það
 stóð	sfg3eþ	standa
 heima	aa	heima
@@ -2447,7 +2332,6 @@ hennar	fpvee	hún
 dyldist	svm3eþ	dylja
 engum	fokeþ	enginn
 .	.	.
-
 Leikurinn	nkeng	leikur
 var	sfg3eþ	vera
 spunninn	sþgken	spinna
@@ -2497,7 +2381,6 @@ aðeins	aa	aðeins
 þrettán	tfhfe	þrettán
 ára	nhfe	ár
 .	.	.
-
 Það	fphen	það
 þarf	sfg3en	þurfa
 ekki	aa	ekki
@@ -2512,7 +2395,6 @@ sem	c	sem
 hún	fpven	hún
 er	sfg3en	vera
 .	.	.
-
 Í	aþ	í
 þættinum	nkeþg	þáttur
 kom	sfg3eþ	koma
@@ -2539,7 +2421,6 @@ fyrir	ao	fyrir
 ára	nhfe	ár
 aldur	nkeo	aldur
 .	.	.
-
 Ekki	aa	ekki
 kom	sfg3eþ	koma
 fram	aa	fram
@@ -2562,7 +2443,6 @@ af	aa	af
 fyrir	ao	fyrir
 sig	fpheo	sig
 .	.	.
-
 Aðeins	aa	aðeins
 þrjú	tfhfn	þrír
 prósent	nhfn	prósent
@@ -2587,7 +2467,6 @@ formlegrar	lveesf	formlegur
 ákæru	nvee	ákæra
 dóms	nkee	dómur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 sorgleg	lvensf	sorglegur
@@ -2599,7 +2478,6 @@ allt	fohen	allur
 of	aa	of
 fáar	lvfnsf	fár
 .	.	.
-
 Þau	fphfn	það
 vöktu	sfg3fþ	vekja
 sérstaka	lveosf	sérstakur
@@ -2620,7 +2498,6 @@ neyðarmóttöku	nveþ	neyðarmóttaka
 vegna	ae	vegna
 nauðgana	nvfe	nauðgun
 .	.	.
-
 Hann	fpken	hann
 sagði	sfg3eþ	segja
 að	c	að
@@ -2657,7 +2534,6 @@ en	c	en
 verða	sfg3fn	verða
 fullþroska	lhfnof	fullþroska
 .	.	.
-
 Þessi	fahfn	þessi
 ummæli	nhfn	ummæli
 læknisins	nkeeg	læknir
@@ -2677,7 +2553,6 @@ blaðinu	nheþg	blað
 17.	ta	17.
 febrúar	nkeo	febrúar
 .	.	.
-
 Þar	aa	þar
 talar	sfg3en	tala
 Ágústa	nven-s	Ágústa
@@ -2699,11 +2574,9 @@ niður	aa	niður
 ára	nhfe	ár
 aldur	nkeo	aldur
 .	.	.
-
 Ágústa	nven-s	Ágústa
 segir	sfg3en	segja
 :	:	:
-
 Hið	ghen	hinn
 eftirsótta	lhenvf	eftirsóttur
 útlit	nhen	útlit
@@ -2728,7 +2601,6 @@ sem	aa	sem
 mest	aae	mikið
 kynæsandi	lvfnof	kynæsandi
 !	!	!
-
 Sýna	sng	sýna
 allar	fovfo	allur
 línur	nvfo	lína
@@ -2747,7 +2619,6 @@ gat	nheo	gat
 í	aþ	í
 nafla	nkeþ	nafli
 o.s.frv.	as	o.s.frv.
-
 Hún	fpven	hún
 sakar	sfg3en	saka
 fyrirmyndirnar	nvfog	fyrirmynd
@@ -2776,7 +2647,6 @@ fyrirmyndir	nvfn	fyrirmynd
 heldur	c	heldur
 óraunhæfar	lvfnsf	óraunhæfur
 .	.	.
-
 Ágústa	nven-s	Ágústa
 spyr	sfg3en	spyrja
 hvort	c	hvort
@@ -2799,7 +2669,6 @@ stúlkum	nvfþ	stúlka
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Ég	fp1en	ég
 held	sfg1en	halda
 að	c	að
@@ -2832,7 +2701,6 @@ skortur	nken	skortur
 á	aþ	á
 sjálfsvirðingu	nveþ	sjálfsvirðing
 .	.	.
-
 Meinið	nheng	mein
 er	sfg3en	vera
 að	aþ	að
@@ -2844,7 +2712,6 @@ rótgrónara	lhenvm	rótgróinn
 en	c	en
 svo	aa	svo
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 staðreynd	nven	staðreynd
@@ -2869,7 +2736,6 @@ nærföt	nhfn	nærföt
 fullorðinna	lvfesf	fullorðinn
 kvenna	nvfe	kona
 .	.	.
-
 Ullarbolur	nken	ullarbolur
 ,	,	,
 bómullarbolur	nken	bómullarbolur
@@ -2896,7 +2762,6 @@ og	c	og
 uppstoppaður	lkensf	uppstoppaður
 brjóstahaldari	nken	brjóstahaldari
 .	.	.
-
 Þannig	aa	þannig
 lítur	sfg3en	líta
 barnið	nheng	barn
@@ -2917,7 +2782,6 @@ barmi	nkeþ	barmur
 sé	svg3en	vera
 fyrir	aa	fyrir
 .	.	.
-
 Og	c	og
 merkilegt	lhensf	merkilegur
 nokk	aa	nokk
@@ -2926,7 +2790,6 @@ nokk	aa	nokk
 virðist	sfm3en	virða
 seljast	snm	selja
 .	.	.
-
 Eru	sfg3fn	vera
 það	fphen	það
 ömmur	nvfn	amma
@@ -2944,14 +2807,12 @@ eru	sfg3fn	vera
 það	fphen	það
 foreldrar	nkfn	foreldrar
 ?	?	?
-
 Varla	aa	varla
 eru	sfg3fn	vera
 það	fphen	það
 börnin	nhfng	barn
 sjálf	fbhfn	sjálfur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 líka	aa	líka
@@ -2979,7 +2840,6 @@ kiss	e	kiss
 my	e	my
 ass	e	ass
 .	.	.
-
 Slík	fbven	slíkur
 klámvæðing	nven	klámvæðing
 gerir	sfg3en	gera
@@ -2992,7 +2852,6 @@ hann	fpkeo	hann
 að	aþ	að
 markaðsvöru	nveþ	markaðsvara
 .	.	.
-
 Ekki	aa	ekki
 bara	aa	bara
 með	aþ	með
@@ -3016,12 +2875,10 @@ hann	fpken	hann
 sjálfur	fbken	sjálfur
 söluvara	nven	söluvara
 .	.	.
-
 Kynþokki	nken	kynþokki
 er	sfg3en	vera
 söluvara	nven	söluvara
 .	.	.
-
 Telpan	nveng	telpa
 er	sfg3en	vera
 gerð	sþgven	gera
@@ -3057,7 +2914,6 @@ hún	fpven	hún
 sjálf	fbven	sjálfur
 kýs	sfg3en	kjósa
 .	.	.
-
 Það	fahen	sá
 fallegasta	lhenve	fallegur
 ,	,	,
@@ -3079,7 +2935,6 @@ peningapytt	nkeo	peningapyttur
 og	c	og
 markaðsmykjuhaug	nkeo	markaðsmykjuhaugur
 .	.	.
-
 Og	c	og
 dapurlegt	lhensf	dapurlegur
 er	sfg3en	vera
@@ -3092,7 +2947,6 @@ verða	sng	verða
 fyrir	aþ	fyrir
 ósköpunum	nhfþg	ósköp
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ömurleg	lvensf	ömurlegur
@@ -3131,7 +2985,6 @@ kynþokkafyllsta	lheove	kynþokkafullur
 fólk	nheo	fólk
 landsins	nheeg	land
 .	.	.
-
 Allir	fokfn	allur
 eru	sfg3fn	vera
 á	aþ	á
@@ -3145,7 +2998,6 @@ betur	aam	vel
 eða	c	eða
 verr	aam	illa
 .	.	.
-
 Í	ao	í
 fyrra	lheovm	fyrri
 varð	sfg3eþ	verða
@@ -3172,7 +3024,6 @@ tvíræða	lkeevf	tvíræður
 heiðurs	nkee	heiður
 aðnjótandi	lvenof	aðnjótandi
 .	.	.
-
 Í	ao	í
 verðlaun	nhfo	verðlaun
 voru	sfg3fþ	vera
@@ -3181,7 +3032,6 @@ hjálpartæki	nhfn	hjálpartæki
 og	c	og
 fleira	lhenvm	margur
 .	.	.
-
 Enn	aa	enn
 var	sfg3eþ	vera
 þessi	faven	þessi
@@ -3203,7 +3053,6 @@ Nótt	nven-s	Nótt
 skyldi	svg3eþ	skulu
 sigra	sng	sigra
 .	.	.
-
 Ber	sfg3en	bera
 það	fphen	það
 ekki	aa	ekki
@@ -3225,7 +3074,6 @@ hreppa	sng	hreppa
 fjórða	lheovf	fjórði
 sætið	nheog	sæti
 .	.	.
-
 Ef	c	ef
 ekki	aa	ekki
 þá	aa	þá
@@ -3278,7 +3126,6 @@ er	sfg3en	vera
 til	ae	til
 skammar	nvee	skömm
 .	.	.
-
 Hvaða	fsven	hvaða
 brenglun	nven	brenglun
 er	sfg3en	vera
@@ -3286,7 +3133,6 @@ hér	aa	hér
 í	aþ	í
 gangi	nkeþ	gangur
 ?	?	?
-
 Hafi	svg3en	hafa
 það	fphen	það
 verið	ssg	vera
@@ -3303,7 +3149,6 @@ sjálfu	fbheþ	sjálfur
 sér	fpheþ	sig
 hryllingsfrétt	nven	hryllingsfrétt
 .	.	.
-
 Hafi	svg3en	hafa
 fullorðnir	lkfnsf	fullorðinn
 gert	ssg	gera
@@ -3320,14 +3165,12 @@ fjórir	tfkfn	fjórir
 í	aþ	í
 Kompási	nkeþ-s	kompás
 .	.	.
-
 Bergþóra	nven-s	Bergþóra
 Jónsdóttir	nven-s	Jónsdóttir
 (	(	(
 begga@mbl.i	v	begga@mbl.i
 s	x	s
 )	)	)
-
 Þú	fp2en	þú
 ert	sfg2en	vera
 nú	aa	nú
@@ -3368,7 +3211,6 @@ frekar	aam	frekar
 risíbúð	nveþ	risíbúð
 minni	feveþ	minn
 .	.	.
-
 Og	c	og
 ekki	aa	ekki
 bætti	sfg3eþ	bæta
@@ -3382,7 +3224,6 @@ erlendu	lheþsf	erlendur
 bergi	nheþ	berg
 brotinn	lkensf	brotinn
 .	.	.
-
 Ég	fp1en	ég
 gaf	sfg1eþ	gefa
 mig	fp1eo	ég
@@ -3411,7 +3252,6 @@ félagslyndur	lkensf	félagslyndur
 að	aþ	að
 eðlisfari	nheþ	eðlisfar
 .	.	.
-
 Mér	fp1eþ	ég
 finnst	sfm3en	finna
 fjölbýli	nhen	fjölbýli
@@ -3439,7 +3279,6 @@ hreinlega	aa	hreinlega
 ekki	aa	ekki
 heima	aa	heima
 .	.	.
-
 Og	c	og
 dagurinn	nkeng	dagur
 kom	sfg3eþ	koma
@@ -3452,7 +3291,6 @@ hér	aa	hér
 á	aþ	á
 landi	nheþ	land
 .	.	.
-
 Nokkrum	fokfþ	nokkur
 dögum	nkfþ	dagur
 síðar	aam	síðar
@@ -3476,7 +3314,6 @@ heimili	nheþ	heimili
 gamallar	lveesf	gamall
 frænku	nvee	frænka
 .	.	.
-
 Allt	fohen	allur
 frekar	aam	frekar
 þröngt	lhensf	þröngur
@@ -3487,7 +3324,6 @@ leið	nveo	leið
 ofboðslega	aa	ofboðslega
 kósý	lhenof	kósýr
 .	.	.
-
 Minn	feken	minn
 nýi	lkenvf	nýr
 sambýlismaður	nken	sambýlismaður
@@ -3519,7 +3355,6 @@ margar	lvfosf	margur
 áhugaverðar	lvfosf	áhugaverður
 sögur	nvfo	saga
 .	.	.
-
 Í	ao	í
 morgun	nkeo	morgunn
 sátum	sfg1fþ	sitja
@@ -3537,7 +3372,6 @@ kotru	nveþ	kotra
 Backgammon	e	Backgammon
 )	)	)
 .	.	.
-
 Þá	aa	þá
 hefur	sfg3en	hafa
 hann	fpken	hann
@@ -3573,7 +3407,6 @@ borðtennis-	nkeo	borðtennisfélagi
 og	c	og
 badmintonfélaga	nkeo	badmintonfélagi
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 einkar	aa	einkar
@@ -3594,7 +3427,6 @@ inn	aa	inn
 líf	nheo	líf
 mitt	feheo	minn
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 skipulagður	lkensf	skipulagður
@@ -3619,7 +3451,6 @@ sígildur	lkensf	sígildur
 og	c	og
 ferskur	lkensf	ferskur
 .	.	.
-
 Auðvitað	aa	auðvitað
 á	sfg3en	eiga
 hann	fpken	hann
@@ -3641,7 +3472,6 @@ lifað	ssg	lifa
 með	aþ	með
 þeim	fpkfþ	hann
 .	.	.
-
 Ég	fp1en	ég
 trúi	sfg1en	trúa
 því	fpheþ	það
@@ -3662,7 +3492,6 @@ en	c	en
 ég	fp1en	ég
 fórna	sfg1en	fórna
 .	.	.
-
 Nú	aa	nú
 vona	sfg1en	vona
 ég	fp1en	ég
@@ -3693,7 +3522,6 @@ er	sfg3en	vera
 að	cn	að
 skýra	sng	skýra
 .	.	.
-
 Ef	c	ef
 við	fp1fn	ég
 nálgumst	sfm1fn	nálgast
@@ -3719,7 +3547,6 @@ en	c	en
 við	fp1fn	ég
 töpum	sfg1fn	tapa
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 t.d.	as	t.d.
@@ -3752,7 +3579,6 @@ vegna	ae	vegna
 komu	nvee	koma
 hans	fpkee	hann
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ekki	aa	ekki
@@ -3768,7 +3594,6 @@ ræni	svg3en	ræna
 mig	fp1eo	ég
 kærustunni	nveþg	kærasta
 .	.	.
-
 (	(	(
 Hann	fpken	hann
 er	sfg3en	vera
@@ -3823,7 +3648,6 @@ sínum	fevfþ	sinn
 góðu	lvfþvf	góður
 hugmyndum	nvfþ	hugmynd
 .	.	.
-
 Ég	fp1en	ég
 get	sfg1en	geta
 ekki	aa	ekki
@@ -3835,7 +3659,6 @@ geri	svg3en	gera
 okkur	fp1fþ	ég
 ógagn	nheo	ógagn
 .	.	.
-
 Það	fphen	það
 myndi	svg3eþ	munu
 ekki	aa	ekki
@@ -3864,7 +3687,6 @@ Dani	nken-s	Dani
 eða	c	eða
 Indverji	nken-s	Indverji
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 ný	lvensf	nýr
@@ -3891,7 +3713,6 @@ blómstra	sng	blómstra
 sem	c	sem
 manneskja	nven	manneskja
 .	.	.
-
 Ég	fp1en	ég
 lít	sfg1en	líta
 ekki	aa	ekki
@@ -3901,7 +3722,6 @@ minn	fekeo	minn
 sem	c	sem
 gest	nkeo	gestur
 .	.	.
-
 Ég	fp1en	ég
 lít	sfg1en	líta
 á	ao	á
@@ -3910,7 +3730,6 @@ sem	c	sem
 nýjan	lkeosf	nýr
 heimilismeðlim	nkeo	heimilismeðlimur
 .	.	.
-
 Hann	fpken	hann
 reynir	sfg3en	reyna
 sitt	feheo	sinn
@@ -3942,7 +3761,6 @@ honum	fpkeþ	hann
 um	ao	um
 leið	nveo	leið
 .	.	.
-
 Við	fp1fn	ég
 hófum	sfg1fþ	hefja
 sambýlið	nheog	sambýli
@@ -3953,7 +3771,6 @@ skýra	sng	skýra
 mörk	nhfo	mark
 okkar	fp1fe	ég
 .	.	.
-
 Ég	fp1en	ég
 vil	sfg1en	vilja
 ekki	aa	ekki
@@ -3975,7 +3792,6 @@ sinni	nheþ	sinn
 á	ao	á
 dag	nkeo	dagur
 .	.	.
-
 Þetta	faheo	þessi
 erum	sfg1fn	vera
 við	fp1fn	ég
@@ -3983,7 +3799,6 @@ báðir	fokfn	báðir
 kátir	lkfnsf	kátur
 með	aa	með
 .	.	.
-
 Um	ao	um
 helgina	nveog	helgi
 voru	sfg3fþ	vera
@@ -4006,7 +3821,6 @@ berjast	snm	berja
 gegn	aþ	gegn
 fordómum	nkfþ	fordómur
 .	.	.
-
 Við	fp1fn	ég
 leigjandinn	nkeng	leigjandi
 mættum	sfg1fþ	mæta
@@ -4031,7 +3845,6 @@ staðnum	nkeþg	staður
 á	aþ	á
 ensku	nveþ	enska
 .	.	.
-
 Leigjandinn	nkeng	leigjandi
 var	sfg3eþ	vera
 undrandi	lkenof	undrandi
@@ -4054,7 +3867,6 @@ samtökin	nhfng	samtök
 væru	svg3fþ	vera
 stofnuð	sþghfn	stofna
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 nefnilega	aa	nefnilega
@@ -4076,7 +3888,6 @@ að	cn	að
 rekja	sng	rekja
 erlendis	aa	erlendis
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ekki	aa	ekki
@@ -4089,7 +3900,6 @@ heldur	c	heldur
 stöðugri	lveþsf	stöðugur
 hugarfarsbreytingu	nveþ	hugarfarsbreyting
 .	.	.
-
 Kannanir	nvfn	könnun
 hafa	sfg3fn	hafa
 sýnt	ssg	sýna
@@ -4110,7 +3920,6 @@ meðal	ae	meðal
 ungs	lheesf	ungur
 fólks	nhee	fólk
 .	.	.
-
 Á	aþ	á
 stofnfundi	nkeþ	stofnfundur
 Ísland	nhen-s	Ísland
@@ -4127,7 +3936,6 @@ tíunda	lkeþvf	tíundi
 bekk	nkeþ	bekkur
 Austurbæjarskóla	nkee-s	Austurbæjarskóli
 .	.	.
-
 Hann	fpken	hann
 rakti	sfg3eþ	rekja
 þar	aa	þar
@@ -4146,7 +3954,6 @@ með	ao	með
 rétta	lkeovf	réttur
 húðlitinn	nkeog	húðlitur
 .	.	.
-
 Drengurinn	nkeng	drengur
 var	sfg3eþ	vera
 búinn	lkensf	búinn
@@ -4158,7 +3965,6 @@ búa	sng	búa
 tíu	tfhfo	tíu
 ár	nhfo	ár
 .	.	.
-
 Enginn	foken	enginn
 hreimur	nken	hreimur
 eða	c	eða
@@ -4187,7 +3993,6 @@ tala	sng	tala
 hingað	aa	hingað
 til	aa	til
 .	.	.
-
 Ég	fp1en	ég
 var	sfg1eþ	vera
 vægast	aae	vægt
@@ -4197,7 +4002,6 @@ af	aþ	af
 máli	nheþ	mál
 drengsins	nkeeg	drengur
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 ungur	lkensf	ungur
@@ -4208,7 +4012,6 @@ og	c	og
 góðar	lvfosf	góður
 skoðanir	nvfo	skoðun
 .	.	.
-
 Af	aþ	af
 persónulegri	lveþsf	persónulegur
 reynslu	nveþ	reynsla
@@ -4226,7 +4029,6 @@ og	c	og
 liðtækur	lkensf	liðtækur
 söngvari	nken	söngvari
 .	.	.
-
 Hann	fpken	hann
 hefur	sfg3en	hafa
 sannfæringu	nveo	sannfæring
@@ -4251,7 +4053,6 @@ vilja	sfg3fn	vilja
 kalla	sng	kalla
 atvinnumótmæli	nhfo	atvinnumótmæli
 .	.	.
-
 Sagði	sfg3eþ	segja
 hann	fpken	hann
 okkur	fp1fþ	ég
@@ -4268,7 +4069,6 @@ með	aþ	með
 vinum	nkfþ	vinur
 sínum	fekfþ	sinn
 .	.	.
-
 Ráðast	sfm3fn	ráða
 þá	aa	þá
 gjarnan	aa	gjarnan
@@ -4289,7 +4089,6 @@ vera	sng	vera
 í	aþ	í
 friði	nkeþ	friður
 .	.	.
-
 Svo	aa	svo
 talar	sfg3en	tala
 fólk	nhen	fólk
@@ -4312,7 +4111,6 @@ hann	fpken	hann
 sé	svg3en	vera
 Íslendingur	nken-s	Íslendingur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ekki	aa	ekki
@@ -4338,7 +4136,6 @@ og	c	og
 opnum	lkeþsf	opinn
 hug	nkeþ	hugur
 .	.	.
-
 Nýir	lkfnsf	nýr
 gestir	nkfn	gestur
 færa	sfg3fn	færa
@@ -4362,7 +4159,6 @@ en	c	en
 kreppta	lkfosf	krepptur
 hnefa	nkfo	hnefi
 .	.	.
-
 Svavar	nken-s	Svavar
 Knútur	nken-s	Knútur
 Kristinsson	nken-s	Kristinsson
@@ -4370,7 +4166,6 @@ Kristinsson	nken-s	Kristinsson
 svavar@mbl.i	v	svavar@mbl.i
 s	x	s
 )	)	)
-
 Hrun	nhen	hrun
 blasir	sfg3en	blasa
 við	aa	við
@@ -4387,7 +4182,6 @@ en	c	en
 í	aa	í
 gær	aa	gær
 .	.	.
-
 Getur	sfg3en	geta
 það	fphen	það
 verið	ssg	vera
@@ -4408,7 +4202,6 @@ og	c	og
 nagandi	lheeof	nagandi
 öryggisleysis	nhee	öryggisleysi
 ?	?	?
-
 Og	c	og
 gera	sng	gera
 okkur	fp1fo	ég
@@ -4419,7 +4212,6 @@ við	fp1fn	ég
 vorum	sfg1fþ	vera
 fiskinum	nkeþg	fiskur
 ?	?	?
-
 Ég	fp1en	ég
 er	sfg1en	vera
 alls	fohee	allur
@@ -4444,7 +4236,6 @@ en	c	en
 má	sfg3en	mega
 ofbjóða	sng	ofbjóða
 .	.	.
-
 Hvers	fshee	hver
 vegna	ae	vegna
 í	aþ	í
@@ -4466,7 +4257,6 @@ verið	ssg	vera
 fullsæmd	lhfnsf	fullsæmdur
 af	aa	af
 ?	?	?
-
 Þýðingarlaust	lhensf	þýðingarlaus
 er	sfg3en	vera
 að	cn	að
@@ -4477,7 +4267,6 @@ um	ao	um
 í	aþ	í
 stóriðjunni	nveþg	stóriðja
 .	.	.
-
 Maður	nken	maður
 kennir	sfg3en	kenna
 ekki	aa	ekki
@@ -4485,7 +4274,6 @@ hækjunni	nveþg	hækja
 um	ao	um
 heltina	nveog	helti
 .	.	.
-
 Segjum	svg1fn	segja
 nú	aa	nú
 að	c	að
@@ -4518,7 +4306,6 @@ með	ao	með
 persónulegt	lheosf	persónulegur
 mat	nheo	mat
 .	.	.
-
 Vonandi	aa	vonandi
 er	sfg3en	vera
 ekki	aa	ekki
@@ -4529,7 +4316,6 @@ iðrast	snm	iðra
 eftir	ao	eftir
 dauðann	nkeog	dauði
 .	.	.
-
 Hvernig	aa	hvernig
 hefðu	svg3fþ	hafa
 þá	aa	þá
@@ -4549,7 +4335,6 @@ eitthvað	foheo	einhver
 með	aþ	með
 markaðshyggjutali	nheþ	markaðshyggjutal
 ?	?	?
-
 Hann	fpken	hann
 hefði	svg3eþ	hafa
 að	aþ	að
@@ -4577,7 +4362,6 @@ hana	fpveo	hún
 eðlilegt	lheosf	eðlilegur
 verð	nheo	verð
 .	.	.
-
 Í	aþ	í
 öðru	lheþsf	öðr
 lagi	nheþ	lag
@@ -4605,7 +4389,6 @@ verðmiða	nkeo	verðmiði
 á	ao	á
 eilífðina	nveog	eilífð
 .	.	.
-
 Ekkert	fohen	enginn
 léttaverk	nhen	léttaverk
 en	c	en
@@ -4615,7 +4398,6 @@ undan	aþ	undan
 því	fpheþ	það
 vikist	sþmhen	víkja
 .	.	.
-
 Í	aþ	í
 þriðja	lheþvf	þriðji
 lagi	nheþ	lag
@@ -4636,7 +4418,6 @@ verksmiðjuna	nveog	verksmiðja
 og	c	og
 virkjunina	nveog	virkjun
 .	.	.
-
 Stjórnmálamenn	nkfn	stjórnmálamaður
 sem	ct	sem
 vilja	sfg3fn	vilja
@@ -4669,7 +4450,6 @@ lagagrundvöll	nkeo	lagagrundvöllur
 fyrir	ao	fyrir
 atvinnuþróun	nveo	atvinnuþróun
 .	.	.
-
 Landsvirkjun	nven	landsvirkjun
 er	sfg3en	vera
 enn	aa	enn
@@ -4707,7 +4487,6 @@ nýtist	sfm3en	nýta
 aðeins	aa	aðeins
 einkafyrirtæki	nheþ	einkafyrirtæki
 .	.	.
-
 Upplýsingar	nvfn	upplýsing
 sem	ct	sem
 fram	aa	fram
@@ -4754,7 +4533,6 @@ rísa	sfg3fn	rísa
 á	aþ	á
 okkur	fp1fþ	ég
 .	.	.
-
 Kannski	aa	kannski
 vissu	sfg3fþ	vita
 flestir	lkfnse	margur
@@ -4769,7 +4547,6 @@ var	sfg1eþ	vera
 fáfróða	lkeþvf	fáfróður
 hópnum	nkeþg	hópur
 .	.	.
-
 Auðvitað	aa	auðvitað
 er	sfg3en	vera
 Andri	nken-s	Andri
@@ -4793,7 +4570,6 @@ leyfi	nheo	leyfi
 til	ae	til
 þess	fphee	það
 .	.	.
-
 Hann	fpken	hann
 getur	sfg3en	geta
 bent	ssg	benda
@@ -4819,7 +4595,6 @@ hvort	c	hvort
 ég	fp1en	ég
 kaupi	svg1en	kaupa
 .	.	.
-
 Landsvirkjun	nven	landsvirkjun
 og	c	og
 iðnaðarráðuneytið	nheng	iðnaðarráðuneyti
@@ -4830,7 +4605,6 @@ vegar	nkee	vegur
 vasann	nkeog	vasi
 minn	fekeo	minn
 .	.	.
-
 Við	fp1fn	ég
 borgum	sfg1fn	borga
 áróðurinn	nkeog	áróður
@@ -4868,7 +4642,6 @@ framlög	nhfo	framlag
 til	ae	til
 áróðursmynda	nvfe	áróðursmynd
 .	.	.
-
 Ein	fohfn	einn
 rökin	nhfng	rök
 gegn	aþ	gegn
@@ -4896,7 +4669,6 @@ er	sfg3en	vera
 of	aa	of
 mikill	lkensf	mikill
 .	.	.
-
 Vita	sfg3fn	vita
 menn	nkfn	maður
 þetta	faheo	þessi
@@ -4904,7 +4676,6 @@ ekki	aa	ekki
 í	aþ	í
 Valhöll	nveþ-s	Valhöll
 ?	?	?
-
 Við	fp1fn	ég
 eigum	sfg1fn	eiga
 ekki	aa	ekki
@@ -4932,7 +4703,6 @@ sækja	sng	sækja
 vegna	ae	vegna
 búsetuþróunar	nvee	búsetuþróun
 .	.	.
-
 Heiðarlegast	lhense	heiðarlegur
 er	sfg3en	vera
 að	cn	að
@@ -4952,7 +4722,6 @@ gerst	ssm	gera
 í	aþ	í
 sögunni	nveþg	saga
 .	.	.
-
 Verði	svg3en	verða
 það	fphen	það
 reyndin	nveng	reynd
@@ -4979,7 +4748,6 @@ verða	sfg3fn	verða
 að	cn	að
 flytja	sng	flytja
 .	.	.
-
 Þegar	c	þegar
 byggðir	nvfn	byggð
 lögðust	sfm3fþ	leggja

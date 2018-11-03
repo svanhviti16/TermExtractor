@@ -6,7 +6,6 @@ fulltrúi	nken	fulltrúi
 illra	lhfesf	illur
 afla	nhfe	afl
 .	.	.
-
 Á	aþ	á
 miðöldum	nvfþ	miðöld
 urðu	sfg3fþ	verða
@@ -24,7 +23,6 @@ nærast	snm	næra
 blóði	nheþ	blóð
 þeirra	fpvfe	hún
 .	.	.
-
 Nornir	nvfn	norn
 áttu	sfg3fþ	eiga
 meðal	ae	meðal
@@ -36,7 +34,6 @@ sér	fpvfþ	sig
 í	ao	í
 kattarlíki	nhfo	kattarlíki
 .	.	.
-
 Verði	svg3en	verða
 svartur	lkensf	svartur
 köttur	nken	köttur
@@ -55,7 +52,6 @@ norn	nven	norn
 á	aþ	á
 ferðinni	nveþg	ferð
 .	.	.
-
 Kettir	nkfn	köttur
 eru	sfg3fn	vera
 oftast	aae	oft
@@ -86,7 +82,6 @@ inn	aa	inn
 nýtt	lheosf	nýr
 húsnæði	nheo	húsnæði
 .	.	.
-
 Því	fpheþ	það
 var	sfg3eþ	vera
 trúað	sþghen	trúa
@@ -109,7 +104,6 @@ bólfestu	nveo	bólfesta
 í	aþ	í
 honum	fpkeþ	hann
 .	.	.
-
 Kötturinn	nkeng	köttur
 var	sfg3eþ	vera
 með	aþ	með
@@ -127,7 +121,6 @@ sér	fpkeþ	sig
 allt	foheo	allur
 illt	lheosf	illur
 .	.	.
-
 Sagt	sþghen	segja
 er	sfg3en	vera
 að	c	að
@@ -156,7 +149,6 @@ fóru	sfg3fþ	fara
 sjálf	fbhfn	sjálfur
 inn	aa	inn
 .	.	.
-
 Svartir	lkfnsf	svartur
 kettir	nkfn	köttur
 boða	sfg3fn	boða
@@ -183,7 +175,6 @@ veg	nkeo	vegur
 fyrir	ao	fyrir
 mann	nkeo	maður
 .	.	.
-
 Víðast	aae	víða
 hvar	aa	hvar
 í	aþ	í
@@ -198,7 +189,6 @@ enn	aa	enn
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Það	fphen	það
 vekur	sfg3en	vekja
 mörgum	lkfþsf	margur
@@ -223,7 +213,6 @@ eða	c	eða
 áhættusömum	lhfþsf	áhættusamur
 erindum	nhfþ	erindi
 .	.	.
-
 Margir	lkfnsf	margur
 Bandaríkjamenn	nkfn-s	Bandaríkjamaður
 halda	sfg3fn	halda
@@ -252,7 +241,6 @@ hann	fpken	hann
 frá	aþ	frá
 hægri	lveþvf	hægri
 .	.	.
-
 Hvítir	lkfnsf	hvítur
 kettir	nkfn	köttur
 vita	sfg3fn	vita
@@ -262,7 +250,6 @@ móti	aa	móti
 á	ao	á
 gott	lheosf	góður
 .	.	.
-
 Í	aþ	í
 Englandi	nheþ-s	England
 snúa	sfg3fn	snúa
@@ -282,7 +269,6 @@ kettir	nkfn	köttur
 á	ao	á
 illt	lheosf	illur
 .	.	.
-
 Þá	aa	þá
 eru	sfg3fn	vera
 svartir	lkfnsf	svartur
@@ -305,7 +291,6 @@ veg	nkeo	vegur
 fyrir	ao	fyrir
 menn	nkfo	maður
 .	.	.
-
 Þess	fphee	það
 eru	sfg3fn	vera
 dæmi	nhfn	dæmi
@@ -342,7 +327,6 @@ vígslu	nveþ	vígsla
 til	ae	til
 heilla	nvfe	heill
 .	.	.
-
 Hjátrú	nven	hjátrú
 viðheldur	sfg3en	viðhalda
 jafnvægi	nheþ	jafnvægi
@@ -366,7 +350,6 @@ hinu	gheþ	hinn
 daglega	lheþvf	daglegur
 lífi	nheþ	líf
 .	.	.
-
 Allt	fohen	allur
 sem	ct	sem
 truflar	sfg3en	trufla
@@ -394,7 +377,6 @@ fyrirboði	nken	fyrirboði
 góðra	lhfesf	góður
 tíðinda	nhfe	tíðindi
 .	.	.
-
 Svartur	lkensf	svartur
 köttur	nken	köttur
 sem	ct	sem
@@ -425,7 +407,6 @@ talinn	sþgken	telja
 ills	lheesf	illur
 viti	nken	viti
 .	.	.
-
 Ótrúin	nveng	ótrú
 á	ao	á
 svarta	lkfosf	svartur
@@ -454,7 +435,6 @@ vegar	nkee	vegur
 djöfulleg	lvensf	djöfullegur
 skepna	nven	skepna
 .	.	.
-
 Vegna	ae	vegna
 hins	ghee	hinn
 nána	lheevf	náinn
@@ -480,7 +460,6 @@ raun	nven	raun
 ber	sfg3en	bera
 vitni	nheo	vitni
 .	.	.
-
 Annars	aa	annars
 er	sfg3en	vera
 ráð	nhen	ráð
@@ -507,21 +486,17 @@ að	cn	að
 afstýra	sng	afstýra
 óláni	nheþ	ólán
 .	.	.
-
 Símon	nken-s	Símon
 Jón	nken-s	Jón
 Jóhannsson	nken-s	Jóhannsson
 ,	,	,
 þjóðháttafræðingur	nken	þjóðháttafræðingur
 .	.	.
-
 VÍSINDAVEFUR	nken-s	Vísindavefur
 HÁSKÓLA	nkee-s	Háskóli
 ÍSLANDS	nhee-s	Ísland
-
 Svartir	lkfnsf	svartur
 kettir	nkfn	köttur
-
 Vísindavefur	nken-s	Vísindavefur
 Háskóla	nkee-s	Háskóli
 Íslands	nhee-s	Ísland
@@ -536,7 +511,6 @@ sem	ct	sem
 þau	fphfn	það
 nefnast	sfm3fn	nefna
 .	.	.
-
 Nýverið	aa	nýverið
 bauðst	sfm3eþ	bjóða
 þátttakendum	nkfþ	þátttakandi
@@ -563,7 +537,6 @@ spurningum	nvfþ	spurning
 fyrir	ao	fyrir
 Vísindavefinn	nkeogs	Vísindavefur
 .	.	.
-
 Meðal	ae	meðal
 spurninga	nvfe	spurning
 sem	ct	sem
@@ -611,7 +584,6 @@ tunglmyrkvi	nken	tunglmyrkvi
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 ?	?	?
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -627,10 +599,8 @@ fjölmörgum	lvfþsf	fjölmargur
 slóðinni	nveþg	slóð
 www.visindavefur.hi.is	v	www.visindavefur.hi.is
 .	.	.
-
 SVARTUR	lkensf	svartur
 KÖTTUR	nken	köttur
-
 Kettir	nkfn	köttur
 hafa	sfg3fn	hafa
 löngum	aa	löngum
@@ -639,7 +609,6 @@ taldar	x	telja
 dulmagnaðar	lvfnsf	dulmagnaður
 skepnur	nvfn	skepna
 .	.	.
-
 Ýmist	c	ýmist
 var	sfg3eþ	vera
 litið	sþghen	líta
@@ -653,7 +622,6 @@ fulltrúa	nkfo	fulltrúi
 illra	lhfesf	illur
 afla	nhfe	afl
 .	.	.
-
 Ef	c	ef
 bardaginn	nkeng	bardagi
 yrði	svg3eþ	verða
@@ -672,7 +640,6 @@ væru	svg3fþ	vera
 þess	fphee	það
 virði	nhen	virði
 .	.	.
-
 Farið	sþghen	fara
 yrði	svg3eþ	verða
 fram	aa	fram
@@ -687,7 +654,6 @@ verið	ssg	vera
 nægjanlega	aa	nægjanlega
 þjálfaðir	sþgkfn	þjálfa
 .	.	.
-
 Þingmenn	nkfn	þingmaður
 minnihlutans	nkeeg	minnihluti
 myndu	svg3fþ	munu
@@ -700,7 +666,6 @@ bandarísku	lveovf	bandarískur
 þjóðina	nveog	þjóð
 afvega	lveoof	afvega
 .	.	.
-
 Svona	aa	svona
 lýsti	sfg3eþ	lýsa
 Zen	e	Zen
@@ -752,7 +717,6 @@ baráttunni	nveþg	barátta
 um	ao	um
 Kyrrahafið	nheogs	Kyrrahaf
 .	.	.
-
 Í	aþ	í
 bardaganum	nkeþg	bardagi
 um	ao	um
@@ -778,7 +742,6 @@ tæplega	aa	tæplega
 7.000	ta	7.000
 bandarískir	lkfnsf	bandarískur
 .	.	.
-
 Að	aa	að
 auki	aa	auki
 særðust	sfm3fþ	særa
@@ -787,7 +750,6 @@ rúmlega	aa	rúmlega
 bandarískir	lkfnsf	bandarískur
 hermenn	nkfn	hermaður
 .	.	.
-
 Bardaginn	nkeng	bardagi
 sjálfur	fbken	sjálfur
 var	sfg3eþ	vera
@@ -798,7 +760,6 @@ bardögum	nkfþ	bardagi
 síðari	lveevm	síðari
 heimsstyrjaldarinnar	nveeg	heimsstyrjöld
 .	.	.
-
 Mynd	nven	mynd
 sem	ct	sem
 Joe	e	Joe
@@ -827,7 +788,6 @@ bardagann	nkeog	bardagi
 huga	nkeþ	hugi
 Bandaríkjamanna	nkfe-s	Bandaríkjamaður
 .	.	.
-
 Rosenthal	e	Rosenthal
 ,	,	,
 ljósmyndari	nken	ljósmyndari
@@ -841,7 +801,6 @@ myndina	nveog	mynd
 árið	nheog	ár
 1945	ta	1945
 .	.	.
-
 Í	ao	í
 lok	nhfo	lok
 árs	nhee	ár
@@ -861,7 +820,6 @@ afhjúpuð	sþgven	afhjúpa
 í	aþ	í
 Arlington-kirkjugarðinum	nkeþgs	Arlingtonkirkjugarður
 .	.	.
-
 Styttan	nveng	stytta
 var	sfg3eþ	vera
 helguð	sþgven	helga
@@ -877,7 +835,6 @@ verja	sng	verja
 þjóð	nveo	þjóð
 sína	feveo	sinn
 .	.	.
-
 Nú	aa	nú
 er	sfg3en	vera
 Clint	e	Clint
@@ -908,7 +865,6 @@ um	ao	um
 Iwo	e	Iwo
 Jima	e	Jima
 .	.	.
-
 Tilgangur	nken	tilgangur
 eða	c	eða
 tilgangsleysi	nhen	tilgangsleysi
@@ -936,7 +892,6 @@ Japana	nkfe-s	Japani
 yrðu	svg3fþ	verða
 erfiðari	lvfnvm	erfiður
 .	.	.
-
 Á	aþ	á
 eyjunni	nveþg	eyja
 voru	sfg3fþ	vera
@@ -950,7 +905,6 @@ leiðangur	nkeo	leiðangur
 sinn	fekeo	sinn
 á	aa	á
 .	.	.
-
 Eftir	ao	eftir
 að	c	að
 Bandaríkjamenn	nkfn-s	Bandaríkjamaður
@@ -973,7 +927,6 @@ flugu	sfg3fþ	fljúga
 til	ae	til
 Japan	nhee-s	Japan
 .	.	.
-
 Flugbrautirnar	nvfng	flugbraut
 voru	sfg3fþ	vera
 notaðar	sþgvfn	nota
@@ -1002,7 +955,6 @@ ná	sng	ná
 öruggri	lveþsf	öruggur
 lendingu	nveþ	lending
 .	.	.
-
 Eftir	ao	eftir
 að	c	að
 Bandaríkjamenn	nkfn-s	Bandaríkjamaður
@@ -1036,7 +988,6 @@ gera	sng	gera
 meginland	nheo	meginland
 Japan	nhee-s	Japan
 .	.	.
-
 Frá	aþ	frá
 herstöðinni	nveþg	herstöð
 á	aþ	á
@@ -1053,7 +1004,6 @@ Tókýó	nxeo-s	Tókýó
 og	c	og
 nágrenni	nheo	nágrenni
 .	.	.
-
 Japanir	nkfn-s	Japani
 bíða	sfg3fn	bíða
 og	c	og
@@ -1080,7 +1030,6 @@ hæfist	svm3eþ	hefja
 það	faheo	sá
 sumar	nheo	sumar
 .	.	.
-
 Í	aþ	í
 júlí	nkeþ	júlí
 það	faheo	sá
@@ -1101,7 +1050,6 @@ sem	ct	sem
 eftir	aa	eftir
 voru	sfg3fþ	vera
 .	.	.
-
 Japanir	nkfn-s	Japani
 höfðu	sfg3fþ	hafa
 þá	aa	þá
@@ -1115,7 +1063,6 @@ mikinn	lkeosf	mikill
 hluta	nkeo	hluti
 flughersins	nkeeg	flugher
 .	.	.
-
 Flugvélafloti	nken	flugvélafloti
 þeirra	fpkfe	hann
 var	sfg3eþ	vera
@@ -1127,7 +1074,6 @@ en	c	en
 apríl	nkeþ	apríl
 1945	ta	1945
 .	.	.
-
 Tadamichi	e	Tadamichi
 Kuribayashi	e	Kuribayashi
 ,	,	,
@@ -1149,7 +1095,6 @@ sjó-	nkeþg	sjóher
 eða	c	eða
 flughernum	nkeþg	flugher
 .	.	.
-
 Liðsstyrkur	nken	liðsstyrkur
 kom	sfg3eþ	koma
 frá	aþ	frá
@@ -1175,7 +1120,6 @@ sprengingar	nvfo	sprenging
 frá	aþ	frá
 óvininum	nkeþg	óvinur
 .	.	.
-
 Höfuðstöðvar	nvfn	höfuðstöðvar
 Kuirbayashi	e	Kuirbayashi
 voru	sfg3fþ	vera
@@ -1183,7 +1127,6 @@ voru	sfg3fþ	vera
 norðurhluta	nkeþ	norðurhluti
 eyjunnar	nveeg	eyja
 .	.	.
-
 Sunnar	aam	sunnar
 á	aþ	á
 eyjunni	nveþg	eyja
@@ -1205,7 +1148,6 @@ veðurstöð	nveþ	veðurstöð
 komið	sþghen	koma
 upp	aa	upp
 .	.	.
-
 Þar	aa	þar
 rétt	aa	rétt
 hjá	aa	hjá
@@ -1222,7 +1164,6 @@ Japana	nkfe-s	Japani
 á	aþ	á
 eyjunni	nveþg	eyja
 .	.	.
-
 Japanir	nkfn-s	Japani
 gerðu	sfg3fþ	gera
 tilraun	nveo	tilraun
@@ -1253,7 +1194,6 @@ að	cn	að
 klára	sng	klára
 þau	fphfo	það
 .	.	.
-
 Þegar	c	þegar
 Bandaríkjamenn	nkfn-s	Bandaríkjamaður
 stigu	sfg3fþ	stíga
@@ -1269,7 +1209,6 @@ kílómetra	nkfe	kílómetri
 göng	nhfn	göng
 fullkláruð	lhfnsf	fullkláraður
 .	.	.
-
 8.	ta	8.
 desember	nkeo	desember
 1944	ta	1944
@@ -1294,7 +1233,6 @@ innrásin	nveng	innrás
 sjálf	fbven	sjálfur
 hófst	sfm3eþ	hefja
 .	.	.
-
 Bandaríkjamenn	nkfn-s	Bandaríkjamaður
 hefja	sfg3fn	hefja
 innrás	nveo	innrás
@@ -1321,7 +1259,6 @@ Guadalcanal	e	Guadalcanal
 til	ae	til
 Guam	e	Guam
 .	.	.
-
 Þeir	fpkfn	hann
 töldu	sfg3fþ	telja
 sig	fpkfo	sig
@@ -1335,7 +1272,6 @@ upp	aa	upp
 gætu	svg3fþ	geta
 komið	ssg	koma
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 áætlun	nveþ	áætlun
 áttu	sfg3fþ	eiga
@@ -1349,7 +1285,6 @@ land	nheo	land
 austurströndum	nvfþ	austurströnd
 eyjunnar	nveeg	eyja
 .	.	.
-
 Þegar	c	þegar
 þær	fpvfn	hún
 væru	svg3fþ	vera
@@ -1369,13 +1304,10 @@ sem	ct	sem
 fyrir	aa	fyrir
 voru	sfg3fþ	vera
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 áætlun	nveþ	áætlun
-
 EYÐILEGGINGIN	nveng	eyðilegging
 ALGJÖR	lvensf	algjör
-
 Mannfallið	nheng	mannfall
 var	sfg3eþ	vera
 mikið	lhensf	mikill
@@ -1397,10 +1329,8 @@ Jima	e	Jima
 síðari	lveþvm	síðari
 heimsstyrjöldinni	nveþg	heimsstyrjöld
 .	.	.
-
 FÁNINN	nkeng	fáni
 REISTUR	sþgken	reisa
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 seinni	lkenvm	seinn
@@ -1417,7 +1347,6 @@ Suribachi-fjalli	nheþ-s	Suribachi-fjall
 Iwo	e	Iwo
 Jima	e	Jima
 .	.	.
-
 Fyrir	ao	fyrir
 þessa	faveo	þessi
 fréttamynd	nveo	fréttamynd
@@ -1431,11 +1360,9 @@ Pulizter-verðlaunin	nhfogs	Pulizter-verðlaun
 árið	nheog	ár
 1945	ta	1945
 .	.	.
-
 Svikull	lkensf	svikull
 svartur	lkensf	svartur
 sandur	nken	sandur
-
 Clint	e	Clint
 Eastwood	e	Eastwood
 er	sfg3en	vera
@@ -1466,7 +1393,6 @@ Jima	e	Jima
 síðari	lveþvm	síðari
 heimsstyrjöldinni	nveþg	heimsstyrjöld
 .	.	.
-
 Krýsuvík	nven-s	Krýsuvík
 var	sfg3eþ	vera
 talinn	x	telja
@@ -1489,18 +1415,15 @@ eldfjallaeyjunni	nveþg	eldfjallaeyja
 í	aþ	í
 Kyrrahafinu	nheþgs	Kyrrahaf
 .	.	.
-
 TADAMICHI	e	TADAMICHI
 KURIBAYASHI	e	KURIBAYASHI
 Herforingi	nken	herforingi
 Japana	nkfe-s	Japani
-
 RAYMOND	e	RAYMOND
 A.	as	A.
 SPRUANCE	e	SPRUANCE
 Herforingi	nken	herforingi
 Bandaríkjamanna	nkfe-s	Bandaríkjamaður
-
 Ekki	aa	ekki
 missa	sng	missa
 af	aþ	af
@@ -1510,11 +1433,9 @@ glysrokksveit	nveþ	glysrokksveit
 í	aþ	í
 heimi	nkeþ	heimur
 !	!	!
-
 Upphitunartónleikar	nkfn	upphitunartónleikar
 og	c	og
 áritun	nven	áritun
-
 Síminn	nkengs	Sími
 hefur	sfg3en	hafa
 nú	aa	nú
@@ -1551,7 +1472,6 @@ Gauknum	nkeþgs	Gaukur
 í	ao	í
 kvöld	nheo	kvöld
 .	.	.
-
 Sveitin	nveng	sveit
 tekur	sfg3en	taka
 meðal	ae	meðal
@@ -1580,7 +1500,6 @@ vitlaust	lheosf	vitlaus
 að	aþ	að
 undanförnu	lheþsf	undanfarinn
 .	.	.
-
 Að	aþ	að
 því	fpheþ	það
 loknu	lheþsf	lokinn
@@ -1605,14 +1524,12 @@ Roller	e	Roller
 in	e	in
 Kiev	e	Kiev
 .	.	.
-
 í	aþ	í
 samvinnu	nveþ	samvinna
 við	ao	við
 Concert	e	Concert
 og	c	og
 Bylgjuna	nveogs	Bylgja
-
 WIG	e	WIG
 WAM	e	WAM
 í	aþ	í
@@ -1621,18 +1538,15 @@ Smáralind	nveþ-s	Smáralind
 dag	nkeo	dagur
 kl.	as	kl.
 16.30	ta	16.30
-
 Síminn	nkengs	Sími
 býður	sfg3en	bjóða
 þér	fp2eþ	þú
 á	ao	á
 tónleika	nkfo	tónleikar
-
 ENGINN	foken	enginn
 AÐGANGSEYRIR	nken	aðgangseyrir
 Í	aþ	í
 SMÁRALIND	nveþ-s	Smáralind
-
 Þremur	tfvfþ	þrír
 klukkustundum	nvfþ	klukkustund
 eftir	ao	eftir
@@ -1658,7 +1572,6 @@ enn	aa	enn
 stærri	lkeovm	stór
 fána	nkeo	fáni
 .	.	.
-
 Myndin	nveng	mynd
 sem	ct	sem
 Joe	e	Joe
@@ -1675,7 +1588,6 @@ síðari	lveþvm	síðari
 náði	sfg3eþ	ná
 heimsfrægð	nveþ	heimsfrægð
 .	.	.
-
 Þar	aa	þar
 sjást	sfm3fn	sjá
 ,	,	,
@@ -1705,7 +1617,6 @@ og	c	og
 Harlon	e	Harlon
 Block	e	Block
 .	.	.
-
 Af	aþ	af
 þeim	fakfþ	sá
 sex	tfkfþ	sex
@@ -1723,7 +1634,6 @@ Bradley	e	Bradley
 og	c	og
 Gagnon	e	Gagnon
 .	.	.
-
 Sousley	e	Sousley
 ,	,	,
 Strank	e	Strank
@@ -1735,7 +1645,6 @@ bardaga	nkeþ	bardagi
 á	aþ	á
 eyjunni	nveþg	eyja
 .	.	.
-
 Michael	e	Michael
 Strank	e	Strank
 fæddist	sfm3eþ	fæða
@@ -1744,7 +1653,6 @@ fæddist	sfm3eþ	fæða
 í	aþ	í
 Tékkóslóvakíu	nveþ-s	Tékkóslóvakía
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 sá	faken	sá
@@ -1762,7 +1670,6 @@ stráka	nkfo	strákur
 með	aþ	með
 sér	fpkeþ	sig
 .	.	.
-
 Strank	e	Strank
 lést	sfm3eþ	láta
 1.	ta	1.
@@ -1776,7 +1683,6 @@ Arlington-kirkjugarðinum	nkeþgs	Arlingtonkirkjugarður
 í	aþ	í
 Washington	e	Washington
 .	.	.
-
 Harlon	e	Harlon
 Block	e	Block
 fæddist	sfm3eþ	fæða
@@ -1785,7 +1691,6 @@ fæddist	sfm3eþ	fæða
 í	aþ	í
 Texas	e	Texas
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 hægri	lvenvf	hægri
@@ -1799,7 +1704,6 @@ að	c	að
 Strank	e	Strank
 lést	sfm3eþ	láta
 .	.	.
-
 Í	ao	í
 átján	tfkfo	átján
 mánuði	nkfo	mánuður
@@ -1818,7 +1722,6 @@ Boston	e	Boston
 myndinni	nveþg	mynd
 frægu	lveþvf	frægur
 .	.	.
-
 Harlon	e	Harlon
 er	sfg3en	vera
 grafinn	lkensf	grafinn
@@ -1833,7 +1736,6 @@ Harlingen	e	Harlingen
 ,	,	,
 Texas	e	Texas
 .	.	.
-
 Franklin	e	Franklin
 Sousley	e	Sousley
 fæddist	sfm3eþ	fæða
@@ -1841,7 +1743,6 @@ fæddist	sfm3eþ	fæða
 í	aþ	í
 Kentucky	e	Kentucky
 .	.	.
-
 Hann	fpken	hann
 hafði	sfg3eþ	hafa
 gengið	ssg	ganga
@@ -1862,7 +1763,6 @@ Kyrrahafið	nheogs	Kyrrahaf
 ára	nhfe	ár
 afmælisdeginum	nkeþg	afmælisdagur
 .	.	.
-
 Franklin	e	Franklin
 var	sfg3eþ	vera
 síðasti	lkenve	síðari
@@ -1881,7 +1781,6 @@ mars	nkeo	mars
 19	ta	19
 ára	nhfe	ár
 .	.	.
-
 Ira	e	Ira
 Hayes	e	Hayes
 fæddist	sfm3eþ	fæða
@@ -1897,7 +1796,6 @@ síðar	aam	síðar
 heimaríki	nheþ	heimaríki
 sínu	feheþ	sinn
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 af	aþ	af
@@ -1916,7 +1814,6 @@ gekk	sfg3eþ	ganga
 í	ao	í
 herinn	nkeog	her
 .	.	.
-
 Hann	fpken	hann
 varð	sfg3eþ	verða
 þekktur	lkensf	þekktur
@@ -1936,7 +1833,6 @@ að	cn	að
 þola	sng	þola
 athyglina	nveog	athygli
 .	.	.
-
 Hann	fpken	hann
 átti	sfg3eþ	eiga
 í	aþ	í
@@ -1951,7 +1847,6 @@ sína	feveo	sinn
 árið	nheog	ár
 1955	ta	1955
 .	.	.
-
 Rene	e	Rene
 Gagnon	e	Gagnon
 fæddist	sfm3eþ	fæða
@@ -1968,7 +1863,6 @@ sínum	fekeþ	sinn
 árið	nheog	ár
 1979	ta	1979
 .	.	.
-
 Af	aþ	af
 fánaberunum	nkfþg	fánaberi
 var	sfg3eþ	vera
@@ -1989,7 +1883,6 @@ aftur	aa	aftur
 til	ae	til
 Bandaríkjanna	nhfegs	Bandaríki
 .	.	.
-
 Gagnon	e	Gagnon
 var	sfg3eþ	vera
 sá	faken	sá
@@ -2000,7 +1893,6 @@ fánann	nkeog	fáni
 upp	aa	upp
 fjallið	nheog	fjall
 .	.	.
-
 John	e	John
 Bradley	e	Bradley
 fæddist	sfm3eþ	fæða
@@ -2012,7 +1904,6 @@ varð	sfg3eþ	verða
 langlífastur	lkense	langlífur
 fánaberanna	nkfeg	fánaberi
 .	.	.
-
 Hann	fpken	hann
 lést	sfm3eþ	láta
 í	aþ	í
@@ -2021,7 +1912,6 @@ sínu	feheþ	sinn
 árið	nheog	ár
 1994	ta	1994
 .	.	.
-
 Bradley	e	Bradley
 var	sfg3eþ	vera
 ekki	aa	ekki
@@ -2038,7 +1928,6 @@ að	cn	að
 hjálpa	sng	hjálpa
 til	aa	til
 .	.	.
-
 Sonur	nken	sonur
 Bradleys	e	Bradleys
 skrifaði	sfg3eþ	skrifa
@@ -2054,19 +1943,16 @@ Eastwoods	e	Eastwoods
 byggist	sfm3en	byggja
 á	aa	á
 .	.	.
-
 Fáninn	nkeng	fáni
 sem	ct	sem
 feðurnir	nkfng	faðir
 báru	sfg3fþ	bera
-
 IWO	e	IWO
 JIMA	e	JIMA
 MINNISMERKIÐ	nheng	minnismerki
 Í	aþ	í
 WASHINGTON	e	WASHINGTON
 DC	e	DC
-
 Af	aþ	af
 fánaberunum	nkfþg	fánaberi
 sex	tfkfþ	sex
@@ -2078,7 +1964,6 @@ frá	aþ	frá
 Iwo	e	Iwo
 Jima	e	Jima
 .	.	.
-
 inni	aa	inni
 átti	sfg3eþ	eiga
 fljótlega	aa	fljótlega
@@ -2105,7 +1990,6 @@ eyjunni	nveþg	eyja
 yrði	svg3eþ	verða
 náð	sþghen	ná
 .	.	.
-
 Herflokkur	nken	herflokkur
 myndi	svg3eþ	munu
 á	aþ	á
@@ -2117,7 +2001,6 @@ og	c	og
 ná	sng	ná
 Suribachi-fjalli	nheþ-s	Suribachi-fjall
 .	.	.
-
 Ef	c	ef
 öldurnar	nvfng	alda
 yrðu	svg3fþ	verða
@@ -2143,7 +2026,6 @@ kæmi	svg3eþ	koma
 til	ae	til
 framkvæmda	nvfe	framkvæmd
 .	.	.
-
 Þremur	tfkfþ	þrír
 dögum	nkfþ	dagur
 fyrir	ao	fyrir
@@ -2161,11 +2043,9 @@ að	cn	að
 undirbúa	sng	undirbúa
 innrásina	nveog	innrás
 .	.	.
-
 Svartur	lkensf	svartur
 sandurinn	nkeng	sandur
 svíkur	sfg3en	svíkja
-
 Klukkan	nveng	klukka
 tvö	ta	tvö
 eftir	ao	eftir
@@ -2185,7 +2065,6 @@ D-dagur	nken-s	d-dagur
 væri	svg3eþ	vera
 hafinn	sþgken	hefja
 .	.	.
-
 Skömmu	lheþsf	skammur
 síðar	aam	síðar
 hófu	sfg3fþ	hefja
@@ -2194,13 +2073,11 @@ sprengjuflugvélar	nvfn	sprengjuflugvél
 þeirra	fphfe	það
 árás	nveo	árás
 .	.	.
-
 Öðru	foheþ	annar
 sinni	nheþ	sinn
 drundu	sfg3fþ	drynja
 fallbyssurnar	nvfng	fallbyssa
 .	.	.
-
 Klukkan	nveng	klukka
 hálf	aa	hálf
 níu	ta	níu
@@ -2211,7 +2088,6 @@ af	aþ	af
 um	aa	um
 30.000	ta	30.000
 .	.	.
-
 Bandaríkjamönnum	nkfþ-s	Bandaríkjamaður
 reyndist	sfm3eþ	reyna
 erfitt	lhensf	erfiður
@@ -2228,7 +2104,6 @@ litla	lveosf	lítill
 reynslu	nveo	reynsla
 af	aa	af
 .	.	.
-
 Vegna	ae	vegna
 þess	fphee	það
 hve	aa	hve
@@ -2245,7 +2120,6 @@ en	c	en
 von	nveo	von
 á	aa	á
 .	.	.
-
 Hermennirnir	nkfng	hermaður
 áttu	sfg3fþ	eiga
 hreinlega	aa	hreinlega
@@ -2256,7 +2130,6 @@ að	cn	að
 fóta	sng	fóta
 sig	fpkfo	sig
 .	.	.
-
 Við	ao	við
 lendinguna	nveog	lending
 mættu	sfg3fþ	mæta
@@ -2270,7 +2143,6 @@ en	c	en
 von	nveo	von
 á	aa	á
 .	.	.
-
 Japanarnir	nkfng	japani
 höfðu	sfg3fþ	hafa
 ákveðið	ssg	ákveða
@@ -2295,7 +2167,6 @@ inn	aa	inn
 í	ao	í
 landið	nheog	land
 .	.	.
-
 Að	aþ	að
 kvöldi	nheþ	kvöld
 fyrsta	lkeeve	fyrstur
@@ -2307,7 +2178,6 @@ hermenn	nkfn	hermaður
 umkringt	ssg	umkringja
 Suribachi-fjallið	nheogs	Suribachi-fjall
 .	.	.
-
 40.000	ta	40.000
 hermenn	nkfn	hermaður
 bættust	sfm3fþ	bæta
@@ -2315,7 +2185,6 @@ við	aa	við
 skömmu	lheþsf	skammur
 síðar	aam	síðar
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 þó	aa	þó
@@ -2338,7 +2207,6 @@ reisa	sng	reisa
 þar	aa	þar
 fánann	nkeog	fáni
 .	.	.
-
 En	c	en
 þótt	c	þótt
 fáninn	nkeng	fáni
@@ -2358,7 +2226,6 @@ fermetra	nkeo	fermetri
 fyrir	ao	fyrir
 fermetra	nkeo	fermetri
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 ekki	aa	ekki
@@ -2385,7 +2252,6 @@ sem	ct	sem
 veittu	sfg3fþ	veita
 mótspyrnu	nveo	mótspyrna
 .	.	.
-
 Vegna	ae	vegna
 stolts	nhee	stolt
 japanskra	lkfesf	japanskur
@@ -2407,7 +2273,6 @@ gegn	aþ	gegn
 stórskotaliði	nheþ	stórskotalið
 Bandaríkjahers	nkee-s	Bandaríkjaher
 .	.	.
-
 Bardögum	nkfþ	bardagi
 á	aþ	á
 Iwo	e	Iwo
@@ -2420,7 +2285,6 @@ en	c	en
 mars	nkeo	mars
 1945	ta	1945
 .	.	.
-
 Þá	aa	þá
 höfðu	sfg3fþ	hafa
 um	aa	um
@@ -2434,7 +2298,6 @@ um	aa	um
 19.000	ta	19.000
 særst	ssm	særa
 .	.	.
-
 Af	aþ	af
 þeim	fakfþ	sá
 rúmlega	aa	rúmlega
@@ -2451,13 +2314,11 @@ um	aa	um
 teknir	sþgkfn	taka
 fanga	nkfe	fangi
 .	.	.
-
 Aðrir	fokfn	annar
 höfðu	sfg3fþ	hafa
 látið	ssg	láta
 lífið	nheog	líf
 .	.	.
-
 Neðanjaðarkerfið	nheng	neðanjaðarkerfi
 sem	ct	sem
 Japanarnir	nkfngs	Japani
@@ -2475,7 +2336,6 @@ að	c	að
 átökum	nhfþ	átök
 lauk	sfg3eþ	ljúka
 .	.	.
-
 Byggingarnar	nvfng	bygging
 reyndust	sfm3fþ	reyna
 Bandaríkjaher	nkeþ-s	Bandaríkjaher
@@ -2505,12 +2365,10 @@ vinna	sng	vinna
 bug	nkeo	bugur
 á	aa	á
 .	.	.
-
 Súlfúreyjan	nvengs	Súlfúreyjan
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Eftir	ao	eftir
 að	c	að
 Bandaríkjamenn	nkfn-s	Bandaríkjamaður
@@ -2527,7 +2385,6 @@ eyjunni	nveþg	eyja
 til	aa	til
 1968	ta	1968
 .	.	.
-
 Nú	aa	nú
 býr	sfg3en	búa
 enginn	foken	enginn
@@ -2548,9 +2405,7 @@ koma	sng	koma
 til	ae	til
 hennar	fpvee	hún
 .	.	.
-
 svanborg@frettabladid.is	v	svanborg@frettabladid.is
-
 Arnar	nken-s	Arnar
 Gíslason	nken-s	Gíslason
 ,	,	,
@@ -2576,7 +2431,6 @@ bestu	lkfove	góður
 trommara	nkfo	trommari
 sögunnar	nveeg	saga
 .	.	.
-
 «	«	«
 John	e	John
 Bonham	e	Bonham
@@ -2584,7 +2438,6 @@ er	sfg3en	vera
 náttúrlega	aa	náttúrlega
 magnaður	lkensf	magnaður
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 á	aþ	á
@@ -2597,7 +2450,6 @@ Chad	e	Chad
 Smith	e	Smith
 líka	aa	líka
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 svona	aa	svona
@@ -2611,7 +2463,6 @@ var	sfg1eþ	vera
 að	cn	að
 læra	sng	læra
 .	.	.
-
 Ég	fp1en	ég
 hlustaði	sfg1eþ	hlusta
 á	ao	á
@@ -2629,7 +2480,6 @@ eitt	lheosf	einn
 segir	sfg3en	segja
 Arnar	nken-s	Arnar
 .	.	.
-
 «	«	«
 Ég	fp1en	ég
 stúderaði	sfg1eþ	stúdera
@@ -2644,7 +2494,6 @@ vindurinn	nkeng	vindur
 gamla	lkfosf	gamall
 daga	nkfo	dagur
 .	.	.
-
 Síðan	aa	síðan
 er	sfg3en	vera
 Dave	e	Dave
@@ -2652,7 +2501,6 @@ Lombardo	e	Lombardo
 mjög	aa	mjög
 góður	lkensf	góður
 .	.	.
-
 Ég	fp1en	ég
 sá	sfg1eþ	sjá
 hann	fpkeo	hann
@@ -2672,7 +2520,6 @@ var	sfg3eþ	vera
 alveg	aa	alveg
 magnað	lhensf	magnaður
 .	.	.
-
 Hann	fpken	hann
 sló	sfg3eþ	slá
 alveg	aa	alveg
@@ -2680,7 +2527,6 @@ alveg	aa	alveg
 mér	fp1eþ	ég
 taktinn	nkeog	taktur
 .	.	.
-
 Síðan	aa	síðan
 var	sfg1eþ	vera
 ég	fp1en	ég
@@ -2700,7 +2546,6 @@ hefur	sfg3en	hafa
 aldrei	aa	aldrei
 getað	ssg	geta
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 bara	aa	bara
@@ -2709,7 +2554,6 @@ misskilningur	nken	misskilningur
 mér	fp1eþ	ég
 .	.	.
 »	»	»
-
 Arnar	nken-s	Arnar
 er	sfg3en	vera
 einnig	aa	einnig
@@ -2718,7 +2562,6 @@ með	ao	með
 Dave	e	Dave
 Grohl	e	Grohl
 .	.	.
-
 «	«	«
 Hann	fpken	hann
 er	sfg3en	vera
@@ -2731,7 +2574,6 @@ utan	aa	utan
 bróðir	x	bróðir
 minn	fekeo	minn
 .	.	.
-
 Ég	fp1en	ég
 kann	sfg1en	kunna
 að	cn	að
@@ -2759,7 +2601,6 @@ eigið	lheosf	eiginn
 band	nheo	band
 .	.	.
 »	»	»
-
 Bróðir	nken	bróðir
 Arnars	nkee-s	Arnar
 er	sfg3en	vera
@@ -2770,7 +2611,6 @@ Gíslason	nken-s	Gíslason
 trommuleikari	nken	trommuleikari
 Botnleðju	nvee-s	Botnleðja
 .	.	.
-
 «	«	«
 Halli	nken-s	Halli
 bróðir	nken	bróðir
@@ -2785,7 +2625,6 @@ er	sfg3en	vera
 engin	foven	enginn
 spurning	nven	spurning
 .	.	.
-
 Síðan	aa	síðan
 er	sfg3en	vera
 Jonni	nken-s	Jonni
@@ -2798,7 +2637,6 @@ mjög	aa	mjög
 góður	lkensf	góður
 .	.	.
 »	»	»
-
 Aðspurður	lkensf	aðspurður
 segist	sfm3en	segja
 Arnar	nken-s	Arnar
@@ -2812,7 +2650,6 @@ hann	fpken	hann
 er	sfg3en	vera
 sjálfur	fbken	sjálfur
 .	.	.
-
 «	«	«
 Aðrir	fokfn	annar
 verða	sfg3fn	verða
@@ -2822,7 +2659,6 @@ finna	sng	finna
 úr	aþ	úr
 því	fpheþ	það
 .	.	.
-
 Ég	fp1en	ég
 tromma	sfg1en	tromma
 bara	aa	bara
@@ -2837,7 +2673,6 @@ af	aþ	af
 því	fpheþ	það
 .	.	.
 »	»	»
-
 Breska	lhenvf	breskur
 tímaritið	nheng	tímarit
 Classic	e	Classic
@@ -2855,7 +2690,6 @@ fyrr	aam	fyrr
 og	c	og
 síðar	aam	síðar
 .	.	.
-
 Listinn	nkeng	listi
 var	sfg3eþ	vera
 unnin	x	vinna
@@ -2876,7 +2710,6 @@ teljast	snm	telja
 afar	aa	afar
 marktækur	lkensf	marktækur
 .	.	.
-
 Þátttakendur	nkfn	þátttakandi
 voru	sfg3fþ	vera
 beðnir	sþgkfn	biðja
@@ -2927,7 +2760,6 @@ sínum	fekfþ	sinn
 úr	aþ	úr
 sveitinni	nveþg	sveit
 .	.	.
-
 Í	aþ	í
 efsta	lheþve	efri
 sæti	nheþ	sæti
@@ -2965,7 +2797,6 @@ Fighters	e	Fighters
 næstkomandi	lkeoof	næstkomandi
 þriðjudag	nkeo	þriðjudagur
 .	.	.
-
 Keith	e	Keith
 Moon	e	Moon
 úr	aþ	úr
@@ -2988,7 +2819,6 @@ Peart	e	Peart
 hljómsveitinni	nveþg	hljómsveit
 Rush	e	Rush
 .	.	.
-
 Chad	e	Chad
 Smith	e	Smith
 úr	aþ	úr
@@ -3001,7 +2831,6 @@ síðan	aa	síðan
 fimmta	lheovf	fimmti
 sætið	nheog	sæti
 .	.	.
-
 Á	aa	á
 meðal	ae	meðal
 þeirra	fakfe	sá
@@ -3107,7 +2936,6 @@ Kravitz	e	Kravitz
 50.	ta	50.
 )	)	)
 .	.	.
-
 JOHN	e	John
 BONHAM	e	Bonham
 Hrærði	sfg3eþ	hræra
@@ -3135,7 +2963,6 @@ eitthvað	foheo	einhver
 alveg	aa	alveg
 nýtt	lheosf	nýr
 .	.	.
-
 Eina	foveo	einn
 af	aþ	af
 hans	fpkee	hann
@@ -3158,7 +2985,6 @@ trommusóló	nheo	trommusóló
 magnaðan	lkeosf	magnaður
 hátt	nkeo	háttur
 .	.	.
-
 Bonham	e	Bonham
 var	sfg3eþ	vera
 eins	aa	eins
@@ -3173,7 +2999,6 @@ villt	lheosf	villtur
 líferni	nheo	líferni
 sitt	feheo	sinn
 .	.	.
-
 Árið	nheog	ár
 1980	ta	1980
 ,	,	,
@@ -3197,7 +3022,6 @@ eftir	ao	eftir
 stífa	lveosf	stífur
 drykkju	nveo	drykkja
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 aðeins	aa	aðeins
@@ -3205,7 +3029,6 @@ aðeins	aa	aðeins
 ára	nhfe	ár
 gamall	lkensf	gamall
 .	.	.
-
 Led	e	Led
 Zeppelin	e	Zeppelin
 hætti	sfg3eþ	hætta
@@ -3224,7 +3047,6 @@ við	ao	við
 sérstök	lhfosf	sérstakur
 tilefni	nhfo	tilefni
 .	.	.
-
 DAVE	e	DAVE
 GROHL	e	GROHL
 Sló	sfg3eþ	slá
@@ -3240,7 +3062,6 @@ tíma	nkfe	tími
 ,	,	,
 Nirvana	e	Nirvana
 .	.	.
-
 Mikill	lkensf	mikill
 kraftur	nken	kraftur
 ,	,	,
@@ -3259,7 +3080,6 @@ má	sfg3en	mega
 meistaraverkinu	nheþg	meistaraverk
 Nevermind	e	Nevermind
 .	.	.
-
 Grohl	e	Grohl
 klæjar	sfg3en	klæja
 greinilega	aa	greinilega
@@ -3299,7 +3119,6 @@ Nine	e	Nine
 Inch	e	Inch
 Nails	e	Nails
 .	.	.
-
 Grohl	e	Grohl
 lýsti	sfg3eþ	lýsa
 því	fpheþ	það
@@ -3326,7 +3145,6 @@ saman	aa	saman
 nýjan	lkeosf	nýr
 leik	nkeo	leikur
 .	.	.
-
 Hann	fpken	hann
 væri	svg3eþ	vera
 vafalítið	aa	vafalítið
@@ -3335,7 +3153,6 @@ maðurinn	nkeng	maður
 í	ao	í
 starfið	nheog	starf
 .	.	.
-
 KEITH	e	KEITH
 MOON	e	MOON
 Jafn	aa	jafn
@@ -3352,7 +3169,6 @@ sína	fekfo	sinn
 við	ao	við
 trommusettið	nheog	trommusett
 .	.	.
-
 Moon	e	Moon
 vann	sfg3eþ	vinna
 sér	fpkeþ	sig
@@ -3378,7 +3194,6 @@ götur	nvfo	gata
 í	aþ	í
 nasistabúningi	nkeþ	nasistabúningur
 .	.	.
-
 Hann	fpken	hann
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -3400,7 +3215,6 @@ the	e	the
 Loon	e	Loon
 »	»	»
 .	.	.
-
 Kappinn	nkeng	kappi
 lést	sfm3eþ	láta
 árið	nheog	ár
@@ -3414,7 +3228,6 @@ gamall	lkensf	gamall
 ofneyslu	nveþ	ofneysla
 lyfja	nhfe	lyf
 .	.	.
-
 NEIL	e	NEIL
 PEART	e	PEART
 Gekk	sfg3eþ	ganga
@@ -3424,7 +3237,6 @@ viðurnefninu	nheþg	viðurnefni
 Prófessorinn	nkengs	Prófessor
 »	»	»
 .	.	.
-
 Peart	e	Peart
 gekk	sfg3eþ	ganga
 til	ae	til
@@ -3445,7 +3257,6 @@ sem	c	sem
 hæfileikaríkur	lkensf	hæfileikaríkur
 textasmiður	nken	textasmiður
 .	.	.
-
 Sótti	sfg3eþ	sækja
 hann	fpken	hann
 áhrif	nhfo	áhrif
@@ -3455,7 +3266,6 @@ djasstrommarans	nkeeg	djasstrommari
 Buddy	e	Buddy
 Rich	e	Rich
 .	.	.
-
 Lítið	lhensf	lítill
 hefur	sfg3en	hafa
 spurst	ssm	spyrja
@@ -3479,7 +3289,6 @@ sína	feveo	sinn
 ári	nheþ	ár
 síðar	aam	síðar
 .	.	.
-
 CHAD	e	CHAD
 SMITH	e	SMITH
 Nútímalegur	lkensf	nútímalegur
@@ -3494,7 +3303,6 @@ Hot	e	Hot
 Chili	e	Chili
 Peppers	e	Peppers
 .	.	.
-
 Á	aa	á
 meðan	c	meðan
 félagar	nkfn	félagi
@@ -3513,7 +3321,6 @@ bak	nheo	bak
 við	ao	við
 tjöldin	nhfog	tjald
 .	.	.
-
 Hann	fpken	hann
 virðist	sfm3en	virða
 ráða	sng	ráða
@@ -3532,7 +3339,6 @@ er	sfg3en	vera
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 Lagið	nheng	lag
 Higher	e	Higher
 Ground	e	Ground
@@ -3543,15 +3349,12 @@ um	ao	um
 hæfileika	nkfo	hæfileiki
 hans	fpkee	hann
 .	.	.
-
 freyr@frettabladid.is	v	freyr@frettabladid.is
-
 Ný	lvensf	nýr
 plata	nven	plata
 og	c	og
 nýtt	lhensf	nýr
 heimili	nhen	heimili
-
 NEIL	e	NEIL
 PEART	e	PEART
 20	ta	20
@@ -3565,7 +3368,6 @@ Bonham	e	Bonham
 -	-	-
 Led	e	Led
 Zeppelin	e	Zeppelin
-
 2.	ta	2.
 Dave	e	Dave
 Grohl	e	Grohl
@@ -3590,20 +3392,17 @@ Joke	e	Joke
 ,	,	,
 Probot	e	Probot
 .	.	.
-
 3.	ta	3.
 Keith	e	Keith
 Moon	e	Moon
 -	-	-
 The	e	The
 Who	e	Who
-
 4.	ta	4.
 Neil	e	Neil
 Peart	e	Peart
 -	-	-
 Rush	e	Rush
-
 5.	ta	5.
 Chad	e	Chad
 Smith	e	Smith
@@ -3615,13 +3414,11 @@ Peppers	e	Peppers
 ,	,	,
 Glenn	e	Glenn
 Hughes	e	Hughes
-
 6.	ta	6.
 Dave	e	Dave
 Lombardo	e	Lombardo
 -	-	-
 Slayer	e	Slayer
-
 7.	ta	7.
 Mitch	e	Mitch
 Mitchell	e	Mitchell
@@ -3630,14 +3427,12 @@ The	e	The
 Jimi	e	Jimi
 Hendrix	e	Hendrix
 Experience	e	Experience
-
 8.	ta	8.
 Ian	e	Ian
 Paice	e	Paice
 -	-	-
 Deep	e	Deep
 Purple	e	Purple
-
 9.	ta	9.
 Cozy	e	Cozy
 Powell	e	Powell
@@ -3648,7 +3443,6 @@ Black	e	Black
 Sabbath	e	Sabbath
 ,	,	,
 MSG	e	MSG
-
 10.	ta	10.
 Charlie	e	Charlie
 Watts	e	Watts
@@ -3656,14 +3450,12 @@ Watts	e	Watts
 The	e	The
 Rolling	e	Rolling
 Stones	e	Stones
-
 11.	ta	11.
 Nicko	e	Nicko
 McBrain	e	McBrain
 -	-	-
 Iron	e	Iron
 Maiden	e	Maiden
-
 12.	ta	12.
 Ginger	e	Ginger
 Baker	e	Baker
@@ -3676,19 +3468,16 @@ Faith	e	Faith
 Masters	e	Masters
 of	e	of
 Reality	e	Reality
-
 13.	ta	13.
 Joey	e	Joey
 Jordison	e	Jordison
 -	-	-
 Slipknot	e	Slipknot
-
 14.	ta	14.
 Phil	e	Phil
 Collins	e	Collins
 -	-	-
 Genesis	e	Genesis
-
 15.	ta	15.
 Carl	e	Carl
 Palmer	e	Palmer
@@ -3700,7 +3489,6 @@ Lake	e	Lake
 Palmer	e	Palmer
 ,	,	,
 Asia	e	Asia
-
 16.	ta	16.
 Bill	e	Bill
 Bruford	e	Bruford
@@ -3709,35 +3497,30 @@ King	e	King
 Crimson	e	Crimson
 ,	,	,
 Yes	e	Yes
-
 17.	ta	17.
 Mike	e	Mike
 Portnoy	e	Portnoy
 -	-	-
 Dream	e	Dream
 Theater	e	Theater
-
 18.	ta	18.
 Stewart	e	Stewart
 Copeland	e	Copeland
 -	-	-
 The	e	The
 Police	e	Police
-
 19.	ta	19.
 Tommy	e	Tommy
 Lee	e	Lee
 -	-	-
 Mötley	e	Mötley
 Crüe	e	Crüe
-
 20.	ta	20.
 Bill	e	Bill
 Ward	e	Ward
 -	-	-
 Black	e	Black
 Sabbath	e	Sabbath
-
 John	e	John
 Bonham	e	Bonham
 ,	,	,
@@ -3761,7 +3544,6 @@ Rock	e	Rock
 stóð	sfg3eþ	standa
 fyrir	aa	fyrir
 .	.	.
-
 Íslandsvinurinn	nkengs	Íslandsvinur
 Dave	e	Dave
 Grohl	e	Grohl
@@ -3775,14 +3557,12 @@ kemur	sfg3en	koma
 hæla	nkfo	hæll
 hans	fpkee	hann
 .	.	.
-
 Bonham	e	Bonham
 sá	faken	sá
 besti	lkenve	góður
 fyrr	aam	fyrr
 og	c	og
 síðar	aam	síðar
-
 JOHN	e	John
 BONHAM	e	Bonham
 Fyrrum	aa	fyrrum
@@ -3797,7 +3577,6 @@ samkvæmt	aþ	samkvæmt
 Classic	e	Classic
 Rock	e	Rock
 .	.	.
-
 DAVE	e	DAVE
 GROHL	e	GROHL
 Sló	sfg3eþ	slá
@@ -3814,10 +3593,8 @@ stórkostlega	aa	stórkostlega
 plötunni	nveþg	plata
 Nevermind	e	Nevermind
 .	.	.
-
 KEITH	e	KEITH
 MOON	e	MOON
-
 Hinn	gken	hinn
 óstýriláti	lkenvf	óstýrilátur
 trommari	nken	trommari
@@ -3828,10 +3605,8 @@ eiturlyfja	nhfe	eiturlyf
 árið	nheog	ár
 1978	ta	1978
 .	.	.
-
 CHAD	e	CHAD
 SMITH	e	SMITH
-
 Hinn	gken	hinn
 hægláti	lkenvf	hæglátur
 Smith	e	Smith
@@ -3839,10 +3614,8 @@ Smith	e	Smith
 afar	aa	afar
 fjölhæfur	lkensf	fjölhæfur
 .	.	.
-
 ARNAR	nken-s	Arnar
 GÍSLASON	nken-s	Gíslason
-
 John	e	John
 Bonham	e	Bonham
 er	sfg3en	vera
@@ -3853,7 +3626,6 @@ hjá	aþ	hjá
 Arnari	nkeþ-s	Arnar
 Gíslasyni	nkeþ-s	Gíslason
 .	.	.
-
 Sumarsprengja	nven	sumarsprengja
 !	!	!
 ...	...	...
@@ -3864,7 +3636,6 @@ helgi	nveo	helgi
 -	-	-
 3.	ta	3.
 júlí	nkeo	júlí
-
 Hole	e	Hole
 in	e	in
 One	e	One
@@ -3881,11 +3652,9 @@ Sími	nken	sími
 4040	ta	4040
 --	--	--
 www.holeinone.is	v	www.holeinone.is
-
 Royal	e	Royal
 Club	e	Club
 burðarpoki	nken	burðarpoki
-
 Þægilegur	lkensf	þægilegur
 burðarpoki	nken	burðarpoki
 með	aþ	með
@@ -3893,16 +3662,13 @@ tvöfaldri	lveþsf	tvöfaldur
 axlaról	nveþ	axlaról
 og	c	og
 aukahólfum	nhfþ	aukahólf
-
 Verð	nhen	verð
 :	:	:
 3.900,-	ta	3.900,-
-
 Verð	nhen	verð
 áður	aa	áður
 :	:	:
 7.800,-	ta	7.800,-
-
 --	--	--
 Scanna	e	Scanna
 Titanium	e	Titanium
@@ -3916,7 +3682,6 @@ afsl.	as	afsl.
 -	-	-
 tilboð	nhen	tilboð
 1.596..--	ta	1.596..--
-
 Boltaveiðarar	nkfn	boltaveiðari
 með	aþ	með
 40%	tp	40%
@@ -3925,13 +3690,11 @@ afsl.	as	afsl.
 verð	nhen	verð
 frá	aþ	frá
 948..--	ta	948..--
-
 Valdir	lkfnsf	valinn
 golfskór	nkfn	golfskór
 með	aþ	með
 50%	tp	50%
 afsl.	as	afsl.
-
 --	--	--
 Fatnaður	nken	fatnaður
 í	aþ	í
@@ -3941,22 +3704,18 @@ allt	fohen	allur
 að	aa	að
 50%	tp	50%
 afsl.	as	afsl.
-
 Fleiri	lvfnvm	margur
 sprengjur	nvfn	sprengja
 !	!	!
-
 ...	...	...
 og	c	og
 svo	aa	svo
 miklu	lheþsf	mikill
 miklu	lheþsf	mikill
 meira	lhenvm	mikill
-
 Royal	e	Royal
 Kids	e	Kids
 barnagolfsett	nhen	barnagolfsett
-
 Það	fphen	það
 má	sfg3en	mega
 ekki	aa	ekki
@@ -3964,7 +3723,6 @@ gleyma	sng	gleyma
 litlu	lkfþvf	lítill
 golfurunum	nkfþg	golfari
 .	.	.
-
 Eigum	sfg1fn	eiga
 golfsett	nhfo	golfsett
 fyrir	ao	fyrir
@@ -3974,14 +3732,11 @@ fyrir	ao	fyrir
 og	c	og
 9-12	ta	9-12
 ára	nhfe	ár
-
 Verð	nhen	verð
 frá	aþ	frá
 5.530,-	ta	5.530,-
-
 Xtech	e	Xtech
 járnasett	nhen	járnasett
-
 Vandað	lhensf	vandaður
 járnasett	nhen	járnasett
 með	aþ	með
@@ -3990,10 +3745,8 @@ sumarafslætti	nkeþ	sumarafsláttur
 meðan	c	meðan
 birgðir	nvfn	birgðir
 endast	sfm3fn	endast
-
 50%	tp	50%
 afsláttur	nken	afsláttur
-
 -	-	-
 HJÁLMAR	nken-s	Hjálmar
 ÞÓRARINSSON	nken-s	Þórarinsson
@@ -4004,7 +3757,6 @@ FD	as	FD
 }	}	}
 -	-	-
 HEARTS	e	HEARTS
-
 Fór	sfg3eþ	fara
 til	ae	til
 Hearts	e	Hearts
@@ -4017,7 +3769,6 @@ lánsmaður	nken	lánsmaður
 frá	aþ	frá
 Þrótti	nkeþ-s	Þróttur
 .	.	.
-
 Hann	fpken	hann
 heillaði	sfg3eþ	heilla
 forráðamenn	nkfo	forráðamaður
@@ -4040,7 +3791,6 @@ nokkrum	fovfþ	nokkur
 vikum	nvfþ	vika
 síðan	aa	síðan
 .	.	.
-
 Hefur	sfg3en	hafa
 fengið	ssg	fá
 nokkur	fohfo	nokkur
@@ -4069,7 +3819,6 @@ sig	fpkeo	sig
 hreint	aa	hreint
 frábærlega	aa	frábærlega
 .	.	.
-
 Varð	sfg3eþ	verða
 hann	fpken	hann
 meðal	ae	meðal
@@ -4086,7 +3835,6 @@ með	ao	með
 18	ta	18
 mörk	nhfo	mark
 .	.	.
-
 Vill	sfg3en	vilja
 helst	aae	heldur
 spila	sng	spila
@@ -4101,7 +3849,6 @@ spilað	ssg	spila
 hægri	lkeþvf	hægri
 kantinum	nkeþg	kantur
 .	.	.
-
 Leikmaður	nken	leikmaður
 sem	ct	sem
 hefur	sfg3en	hafa
@@ -4119,7 +3866,6 @@ og	c	og
 mikla	lveosf	mikill
 leikni	nveo	leikni
 .	.	.
-
 GÆTI	svg3eþ	geta
 ORÐIÐ	ssg	verða
 HINN	gken	hinn
@@ -4127,9 +3873,7 @@ HINN	gken	hinn
 :	:	:
 JERMAIN	e	JERMAIN
 DEFOE	e	DEFOE
-
 SÓKNARMAÐUR	nken	sóknarmaður
-
 -	-	-
 KOLBEINN	nken-s	Kolbeinn
 SIGÞÓRSSON	nken-s	Sigþórsson
@@ -4140,7 +3884,6 @@ FD	as	FD
 }	}	}
 -	-	-
 VÍKINGUR	nken-s	Víkingur
-
 Leikmaður	nken	leikmaður
 sem	ct	sem
 getur	sfg3en	geta
@@ -4152,7 +3895,6 @@ allt	fohen	allur
 gengur	sfg3en	ganga
 upp	aa	upp
 .	.	.
-
 Hefur	sfg3en	hafa
 verið	ssg	vera
 yfirburðamaður	nken	yfirburðamaður
@@ -4183,7 +3925,6 @@ Vestmannaeyjum	nvfþ-s	Vestmannaeyjar
 í	aþ	í
 röð	nveþ	röð
 .	.	.
-
 Er	sfg3en	vera
 bróðir	nken	bróðir
 Andra	nkee-s	Andri
@@ -4203,7 +3944,6 @@ er	sfg3en	vera
 til	ae	til
 staðar	nkee	staður
 .	.	.
-
 Allir	fokfn	allur
 grunnþættir	nkfn	grunnþáttur
 eru	sfg3fn	vera
@@ -4220,7 +3960,6 @@ sending	nven	sending
 og	c	og
 skallatækni	nven	skallatækni
 .	.	.
-
 Er	sfg3en	vera
 einn	foken	einn
 af	aþ	af
@@ -4233,7 +3972,6 @@ með	ao	með
 óútskýranlega	lkfosf	óútskýranlegur
 fótboltahæfileika	nkfo	fótboltahæfileiki
 .	.	.
-
 Er	sfg3en	vera
 markaskorari	nken	markaskorari
 af	aþ	af
@@ -4255,7 +3993,6 @@ og	c	og
 sækja	sng	sækja
 boltann	nkeog	bolti
 .	.	.
-
 GÆTI	svg3eþ	geta
 ORÐIÐ	ssg	verða
 HINN	gken	hinn
@@ -4263,7 +4000,6 @@ HINN	gken	hinn
 :	:	:
 WAYNE	e	WAYNE
 ROONEY	e	ROONEY
-
 -	-	-
 KJARTAN	nken-s	Kjartan
 HENRY	nken-s	Henry
@@ -4275,7 +4011,6 @@ FD	as	FD
 }	}	}
 -	-	-
 CELTIC	e	CELTIC
-
 Flestir	lkfnse	margur
 þekkja	sfg3fn	þekkja
 hann	fpkeo	hann
@@ -4294,7 +4029,6 @@ KR	as	KR
 í	aþ	í
 Landsbankadeildinni	nveþgs	Landsbankadeild
 .	.	.
-
 Fór	sfg3eþ	fara
 til	ae	til
 Celtic	e	Celtic
@@ -4315,7 +4049,6 @@ en	c	en
 í	aþ	í
 febrúar	nkeþ	febrúar
 .	.	.
-
 Endaði	sfg3eþ	enda
 engu	foheþ	enginn
 síður	aam	síður
@@ -4337,7 +4070,6 @@ en	c	en
 mörg	lhfnsf	margur
 orð	nhfn	orð
 .	.	.
-
 Fæddur	sþgken	fæða
 markaskorari	nken	markaskorari
 sem	ct	sem
@@ -4357,7 +4089,6 @@ upp	aa	upp
 úr	aþ	úr
 engu	foheþ	enginn
 .	.	.
-
 Líkar	sfg3en	líka
 vel	aa	vel
 að	cn	að
@@ -4373,7 +4104,6 @@ vel	aa	vel
 frá	aþ	frá
 sér	fpkeþ	sig
 .	.	.
-
 Er	sfg3en	vera
 auk	ae	auk
 þess	fphee	það
@@ -4388,7 +4118,6 @@ með	ao	með
 fína	lveosf	fínn
 skallatækni	nveo	skallatækni
 .	.	.
-
 Er	sfg3en	vera
 hins	fakee	hinn
 vegar	nkee	vegur
@@ -4418,14 +4147,12 @@ spila	sng	spila
 sinn	fekeo	sinn
 leik	nkeo	leikur
 .	.	.
-
 GÆTI	svg3eþ	geta
 ORÐIÐ	ssg	verða
 HINN	gken	hinn
 ÍSLENSKI	lkenvf	íslenskur
 :	:	:
 ADRIANO	e	ADRIANO
-
 -	-	-
 THEÓDÓR	nken-s	Theódór
 ELMAR	nken-s	Elmar
@@ -4437,7 +4164,6 @@ FD	as	FD
 }	}	}
 -	-	-
 CELTIC	e	CELTIC
-
 Getur	sfg3en	geta
 spilað	ssg	spila
 nánast	aae	náið
@@ -4464,7 +4190,6 @@ miðjunni	nveþg	miðja
 frjálsri	lveþsf	frjáls
 stöðu	nveþ	staða
 .	.	.
-
 Meira	aam	meira
 skapandi	lkenof	skapandi
 leikmaður	nken	leikmaður
@@ -4480,7 +4205,6 @@ miðað	sþghen	miða
 við	ao	við
 aldur	nkeo	aldur
 .	.	.
-
 Getur	sfg3en	geta
 gert	ssg	gera
 hreyfingar	nvfo	hreyfing
@@ -4494,7 +4218,6 @@ flokkunum	nkfþg	flokkur
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Eitt	fohen	einn
 hans	fpkee	hann
 helsta	lhenve	heldri
@@ -4505,7 +4228,6 @@ stefnu-	nvfn	stefnubreyting
 og	c	og
 hraðabreytingar	nvfn	hraðabreyting
 .	.	.
-
 Er	sfg3en	vera
 auk	ae	auk
 þess	fphee	það
@@ -4523,7 +4245,6 @@ og	c	og
 mikla	lveosf	mikill
 yfirsýn	nveo	yfirsýn
 .	.	.
-
 Áhangendur	nkfn	áhangandi
 Celtic	e	Celtic
 fara	sfg3fn	fara
@@ -4550,7 +4271,6 @@ er	sfg3en	vera
 á	aþ	á
 enda	nkeþ	endi
 .	.	.
-
 Þarf	sfg3en	þurfa
 helst	aae	heldur
 að	cn	að
@@ -4571,7 +4291,6 @@ færustu	lkfþve	fær
 þjálfurum	nkfþ	þjálfari
 Skotlands	nhee-s	Skotland
 .	.	.
-
 Mikill	lkensf	mikill
 karakter	nken	karakter
 inni	aa	inni
@@ -4584,14 +4303,12 @@ U-19	x	u-19
 ára	nhfe	ár
 landsliðsins	nheeg	landslið
 .	.	.
-
 GÆTI	svg3eþ	geta
 ORÐIÐ	ssg	verða
 HINN	gken	hinn
 ÍSLENSKI	lkenvf	íslenskur
 :	:	:
 KAKA	nven	kaka
-
 BJARNI	nken-s	Bjarni
 ÞÓR	nken-s	Þór
 VIÐARSSON	nken-s	Viðarsson
@@ -4602,7 +4319,6 @@ FD	as	FD
 }	}	}
 -	-	-
 EVERTON	e	EVERTON
-
 Bróðir	nken	bróðir
 atvinnumannana	x	atvinnumaður
 Arnars	nkee-s	Arnar
@@ -4630,7 +4346,6 @@ voru	sfg3fþ	vera
 þessum	fakeþ	þessi
 aldri	nkeþ	aldur
 .	.	.
-
 Hefur	sfg3en	hafa
 verið	ssg	vera
 hjá	aþ	hjá
@@ -4645,7 +4360,6 @@ miklum	lhfþsf	mikill
 metum	nhfþ	met
 þar	aa	þar
 .	.	.
-
 Leikur	sfg3en	leika
 á	aþ	á
 miðjunni	nveþg	miðja
@@ -4658,7 +4372,6 @@ fyrir	aþ	fyrir
 öllu	foheþ	allur
 spili	nheþ	spil
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 fastamaður	nken	fastamaður
@@ -4672,7 +4385,6 @@ um	ao	um
 getu	nveo	geta
 Bjarna	nkee-s	Bjarni
 .	.	.
-
 Hann	fpken	hann
 hefur	sfg3en	hafa
 oft	aa	oft
@@ -4709,7 +4421,6 @@ hann	fpken	hann
 tapi	svg3en	tapa
 návígi	nheþ	návígi
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 draumur	nken	draumur
@@ -4741,7 +4452,6 @@ sem	ct	sem
 að	cn	að
 bæta	sng	bæta
 .	.	.
-
 GÆTI	svg3eþ	geta
 ORÐIÐ	ssg	verða
 HINN	gken	hinn
@@ -4749,7 +4459,6 @@ HINN	gken	hinn
 :	:	:
 PATRICK	e	Patrick
 VIERA	e	VIERA
-
 Ný	lvensf	nýr
 kynslóð	nven	kynslóð
 er	sfg3en	vera
@@ -4760,7 +4469,6 @@ upp	aa	upp
 íslenskri	lveþsf	íslenskur
 knattspyrnu	nveþ	knattspyrna
 .	.	.
-
 Senn	aa	senn
 líður	sfg3en	líða
 að	aþ	að
@@ -4780,7 +4488,6 @@ fyrir	ao	fyrir
 þá	fakfo	sá
 yngri	lkfovm	ungur
 .	.	.
-
 Þeir	fpkfn	hann
 sem	ct	sem
 fylgjast	sfm3fn	fylgja
@@ -4822,7 +4529,6 @@ og	c	og
 sjálfir	fbkfn	sjálfur
 vilja	sfg3fn	vilja
 .	.	.
-
 Vignir	nken-s	Vignir
 Guðjónsson	nken-s	Guðjónsson
 skoðaði	sfg3eþ	skoða
@@ -4846,14 +4552,12 @@ vonarstjörnur	nvfo	vonarstjarna
 næstu	lveeve	næstur
 kynslóðar	nvee	kynslóð
 .	.	.
-
 -	-	-
 Í	aþ	í
 ÍSLENSKA	lkeþvf	íslenskur
 FÓTBOLTANUM	nkeþg	fótbolti
 NÆSTA	lvenve	næstur
 KYNSLÓÐ	nven	kynslóð
-
 VIKTOR	nken-s	Viktor
 UNNAR	nken-s	Unnar
 ILLUGASON	nken-s	Illugason
@@ -4864,7 +4568,6 @@ FD	as	FD
 }	}	}
 »	»	»
 BREIÐABLIK	nhen-s	Breiðablik
-
 Stór	lkensf	stór
 og	c	og
 feikilega	aa	feikilega
@@ -4878,7 +4581,6 @@ sem	c	sem
 fremsti	lkenve	fremri
 maður	nken	maður
 .	.	.
-
 Hefur	sfg3en	hafa
 farið	ssg	fara
 til	ae	til
@@ -4895,7 +4597,6 @@ fleiri	lhfevm	margur
 erlendra	lhfesf	erlendur
 liða	nhfe	lið
 .	.	.
-
 Er	sfg3en	vera
 lykilmaður	nken	lykilmaður
 í	aþ	í
@@ -4913,7 +4614,6 @@ sigursæll	lkensf	sigursæll
 gegnum	ao	gegnum
 tíðina	nveog	tíð
 .	.	.
-
 Hefur	sfg3en	hafa
 stórkostlegt	lheosf	stórkostlegur
 vald	nheo	vald
@@ -4934,7 +4634,6 @@ leikmönnum	nkfþ	leikmaður
 þessum	fakeþ	þessi
 aldri	nkeþ	aldur
 .	.	.
-
 Einstaklega	aa	einstaklega
 þroskaður	lkensf	þroskaður
 miðað	sþghen	miða
@@ -4946,7 +4645,6 @@ leikinn	nkeog	leikur
 nánast	aae	náið
 fullkomnlega	aa	fullkomlega
 .	.	.
-
 Hans	fpkee	hann
 eini	lkenvf	einn
 löstur	nken	löstur
@@ -4962,7 +4660,6 @@ með	aþ	með
 sínum	fekfþ	sinn
 kostum	nkfþ	kostur
 .	.	.
-
 Er	sfg3en	vera
 auk	ae	auk
 þess	fphee	það
@@ -4978,7 +4675,6 @@ skref	nheo	skref
 -	-	-
 atvinnumennskuna	nveog	atvinnumennska
 .	.	.
-
 GÆTI	svg3eþ	geta
 ORÐIÐ	ssg	verða
 HINN	gken	hinn
@@ -4986,7 +4682,6 @@ HINN	gken	hinn
 :	:	:
 ALAN	e	ALAN
 SMITH	e	SMITH
-
 ARNÓR	nken-s	Arnór
 SMÁRASON	nken-s	Smárason
 {	{	{
@@ -4996,5 +4691,4 @@ FD	as	FD
 }	}	}
 -	-	-
 HEERENVEEN	e	HEERENVEEN
-
 Er	sfg3en	vera

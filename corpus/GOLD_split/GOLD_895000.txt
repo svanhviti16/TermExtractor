@@ -2,7 +2,6 @@
 og	c	og
 30	ta	30
 .	.	.
-
 Talan	nveng	tala
 60	ta	60
 er	sfg3en	vera
@@ -21,7 +20,6 @@ ganga	sfg3fn	ganga
 upp	aa	upp
 í	aa	í
 .	.	.
-
 Líklegt	lhensf	líklegur
 er	sfg3en	vera
 að	c	að
@@ -37,7 +35,6 @@ sömu	fbvfþ	sami
 rótum	nvfþ	rót
 runnin	lvensf	runninn
 .	.	.
-
 Talan	nveng	tala
 360	ta	360
 er	sfg3en	vera
@@ -48,7 +45,6 @@ frumþáttum	nkfþ	frumþáttur
 og	c	og
 60	ta	60
 .	.	.
-
 Hún	fpven	hún
 hefur	sfg3en	hafa
 enn	aa	enn
@@ -81,7 +77,6 @@ verði	svg3en	verða
 heil	lvensf	heill
 tala	nven	tala
 .	.	.
-
 Skipting	nven	skipting
 hringsins	nkeeg	hringur
 í	ao	í
@@ -101,7 +96,6 @@ skipt	sþghen	skipta
 360	ta	360
 gráður	nvfo	gráða
 .	.	.
-
 Hornrétt	aa	hornrétt
 á	ao	á
 hann	fpkeo	hann
@@ -115,7 +109,6 @@ norður-	nkeþ	norðurpóll
 og	c	og
 suðurpól	nkeþ	suðurpóll
 .	.	.
-
 Einnig	aa	einnig
 eru	sfg3fn	vera
 dregnir	sþgkfn	draga
@@ -131,7 +124,6 @@ gráður	nvfo	gráða
 í	ao	í
 suður	nheo	suður
 .	.	.
-
 Þurfi	svg3en	þurfa
 að	cn	að
 skipta	sng	skipta
@@ -165,15 +157,12 @@ hátt	nkeo	háttur
 og	c	og
 klukkustundinni	nveþg	klukkustund
 .	.	.
-
 Fleygrúnir	nvfn	fleygrún
-
 Leirtafla	nven	leirtafla
 með	aþ	með
 9-sinnum	nkfþ	9-sinnum
 töflunni	nveþg	tafla
 .	.	.
-
 Smellið	sbg2fn	smella
 til	ae	til
 að	cn	að
@@ -181,7 +170,6 @@ fá	sng	fá
 stærri	lveovm	stór
 mynd	nveo	mynd
 .	.	.
-
 Í	aþ	í
 Mesópótamíu	nveþ-s	Mesópótamía
 ,	,	,
@@ -199,7 +187,6 @@ um	ao	um
 1700	ta	1700
 f.	as	f.
 Kr.	as	kr.
-
 Varðveist	ssm	varðveita
 hafa	sfg3fn	hafa
 hundruð	nhfn	hundrað
@@ -208,7 +195,6 @@ með	aþ	með
 stærðfræðilegu	lheþsf	stærðfræðilegur
 efni	nheþ	efni
 .	.	.
-
 Tölur	nvfn	tala
 voru	sfg3fþ	vera
 ritaðar	sþgvfn	rita
@@ -229,7 +215,6 @@ með	aþ	með
 láréttum	lkeþsf	láréttur
 fleyg	nkeþ	fleygur
 .	.	.
-
 Þannig	aa	þannig
 hafa	sfg3fn	hafa
 til	ae	til
@@ -247,7 +232,6 @@ til	ae	til
 hliðar	nvee	hlið
 )	)	)
 .	.	.
-
 Út	aa	út
 frá	aþ	frá
 þeirri	faveþ	sá
@@ -283,7 +267,6 @@ notum	sfg1fn	nota
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Hvers	fshee	hver
 vegna	ae	vegna
 notum	sfg1fn	nota
@@ -298,7 +281,6 @@ umfram	ao	umfram
 önnur	fohfo	annar
 talnakerfi	nhfo	talnakerfi
 ?	?	?
-
 Einfaldasta	lvenve	einfaldur
 leiðin	nveng	leið
 til	ae	til
@@ -313,7 +295,6 @@ fyrir	ao	fyrir
 hverja	foveo	hver
 einingu	nveo	eining
 .	.	.
-
 Betri	lvenvm	góður
 yfirsýn	nven	yfirsýn
 fæst	sfm3en	fá
@@ -339,7 +320,6 @@ gert	sþghen	gera
 í	aþ	í
 spilamennsku	nveþ	spilamennska
 .	.	.
-
 Rómverskur	lkensf	rómverskur
 talnaritháttur	nken	talnaritháttur
 er	sfg3en	vera
@@ -356,7 +336,6 @@ ofar	aam	ofar
 í	aþ	í
 þróuninni	nveþg	þróun
 .	.	.
-
 Þá	aa	þá
 táknar	sfg3en	tákna
 bókstafurinn	nkeng	bókstafur
@@ -396,7 +375,6 @@ og	c	og
 svo	aa	svo
 framvegis	aa	framvegis
 .	.	.
-
 Galli	nken	galli
 þessa	fahee	þessi
 kerfis	nhee	kerfi
@@ -416,7 +394,6 @@ og	c	og
 hærri	lvfovm	hár
 tölur	nvfo	tala
 .	.	.
-
 Rómversk	lvensf	rómverskur
 talnaritun	nven	talnaritun
 var	sfg3eþ	vera
@@ -433,7 +410,6 @@ fram	aa	fram
 á	aþ	á
 talnagrindum	nvfþ	talnagrind
 .	.	.
-
 Þess	fphee	það
 vegna	ae	vegna
 er	sfg3en	vera
@@ -442,7 +418,6 @@ talna	nvfe	tala
 dálítið	lhensf	dálítill
 snilldarverk	nhen	snilldarverk
 .	.	.
-
 Aðeins	aa	aðeins
 þarf	sfg3en	þurfa
 að	cn	að
@@ -482,7 +457,6 @@ tákna	sng	tákna
 auð	lhfosf	auður
 sæti	nhfo	sæti
 .	.	.
-
 Teinar	nkfn	teinn
 í	aþ	í
 talnagrindum	nvfþ	talnagrind
@@ -506,7 +480,6 @@ talnaritunar	nvee	talnaritun
 með	aþ	með
 sætiskerfi	nheþ	sætiskerfi
 .	.	.
-
 Sætistalnaritun	nven	sætistalnaritun
 breiddist	sfm3eþ	breiða
 út	aa	út
@@ -527,7 +500,6 @@ fara	sng	fara
 með	ao	með
 tölur	nvfo	tala
 .	.	.
-
 Oft	aa	oft
 er	sfg3en	vera
 miðað	sþghen	miða
@@ -553,7 +525,6 @@ Fibonacci	e	Fibonacci
 sonur	nken	sonur
 Bonaccis	e	Bonaccis
 .	.	.
-
 Bonacci	e	Bonacci
 var	sfg3eþ	vera
 kaupmaður	nken	kaupmaður
@@ -574,7 +545,6 @@ talnaritunina	nveog	talnaritun
 af	aþ	af
 Indverjum	nkfþ-s	Indverji
 .	.	.
-
 Þekktastur	lkense	þekktur
 arabískra	lkfesf	arabískur
 höfunda	nkfe	höfundur
@@ -598,14 +568,12 @@ nú	aa	nú
 nefnist	sfm3en	nefna
 algebra	nven	algebra
 .	.	.
-
 En	c	en
 hvað	fshen	hver
 er	sfg3en	vera
 þá	aa	þá
 sætiskerfi	nhen	sætiskerfi
 ?	?	?
-
 Í	aþ	í
 stuttu	lheþsf	stuttur
 máli	nheþ	mál
@@ -619,14 +587,12 @@ sæti	nheþ	sæti
 í	aþ	í
 tölunni	nveþg	tala
 .	.	.
-
 Tökum	svg1fn	taka
 dæmi	nheo	dæmi
 af	aþ	af
 tölunni	nveþg	tala
 587.052	ta	587.052
 .	.	.
-
 Í	aþ	í
 þessari	faveþ	þessi
 talnasamstæðu	nveþ	talnasamstæða
@@ -637,7 +603,6 @@ tvisvar	aa	tvisvar
 sinnum	nhfþ	sinn
 fyrir	aa	fyrir
 .	.	.
-
 Hægra	lheþvf	hægri
 megin	aa	megin
 merkir	sfg3en	merkja
@@ -651,14 +616,12 @@ megin	aa	megin
 hundruð	to	hundrað
 þúsund	ta	þúsund
 .	.	.
-
 Töluna	nveog	tala
 má	sfg3en	mega
 liða	sng	liða
 þannig	aa	þannig
 niður	aa	niður
 :	:	:
-
 5	ta	5
 ·	·	·
 100000	ta	100000
@@ -680,7 +643,6 @@ niður	aa	niður
 10	ta	10
 +	+	+
 2	ta	2
-
 Í	aþ	í
 öllum	fokfþ	allur
 liðum	nkfþ	liður
@@ -697,7 +659,6 @@ hægri	lveþvf	hægri
 til	ae	til
 vinstri	lveevf	vinstri
 :	:	:
-
 5	ta	5
 ·	·	·
 105	ta	105
@@ -721,7 +682,6 @@ vinstri	lveevf	vinstri
 2	ta	2
 ·	·	·
 100	ta	100
-
 Auðséð	lhensf	auðséður
 er	sfg3en	vera
 að	c	að
@@ -740,7 +700,6 @@ og	c	og
 óskað	sþghen	óska
 er	sfg3en	vera
 .	.	.
-
 Engin	fohfn	enginn
 takmörk	nhfn	takmark
 eru	sfg3fn	vera
@@ -757,7 +716,6 @@ með	aþ	með
 þessum	fakeþ	þessi
 hætti	nkeþ	háttur
 .	.	.
-
 Í	aþ	í
 íslensku	lveþvf	íslenskur
 ritgerðinni	nveþg	ritgerð
@@ -767,10 +725,8 @@ frá	aþ	frá
 öld	nveþ	öld
 segir	sfg3en	segja
 :	:	:
-
 -	-	-
 ...	...	...
-
 sifra	nven	sifra
 (	(	(
 núll	nhen	núll
@@ -790,7 +746,6 @@ fígúrum	nvfþ	fígúra
 merking	x	merking
 »	»	»
 .	.	.
-
 Hlutverk	nhen	hlutverk
 núllsins	nheeg	núll
 er	sfg3en	vera
@@ -820,7 +775,6 @@ lykilhugtak	nhen	lykilhugtak
 í	aþ	í
 sætistalnarituninni	nveþg	sætistalnaritun
 .	.	.
-
 En	c	en
 hvers	fshee	hver
 vegna	ae	vegna
@@ -828,7 +782,6 @@ veldi	nhfn	veldi
 af	aþ	af
 tíu	ta	tíu
 ?	?	?
-
 Eflaust	aa	eflaust
 tengist	sfm3en	tengja
 það	fphen	það
@@ -841,7 +794,6 @@ með	ao	með
 tíu	tfkfo	tíu
 fingur	nkfo	fingur
 .	.	.
-
 En	c	en
 tíu	ta	tíu
 er	sfg3en	vera
@@ -853,7 +805,6 @@ notuð	sþgven	nota
 hefur	sfg3en	hafa
 verið	ssg	vera
 .	.	.
-
 Í	aþ	í
 fornum	lhfþsf	forn
 ritum	nhfþ	rit
@@ -870,7 +821,6 @@ voru	sfg3fþ	vera
 tíu	tfvfn	tíu
 tylftir	nvfn	tylft
 .	.	.
-
 Menningarþjóðin	nveng	menningarþjóð
 Babýloníumenn	nkfn-s	Babýloníumaður
 ,	,	,
@@ -907,7 +857,6 @@ varðveist	ssm	varðveita
 á	aþ	á
 leirtöflum	nvfþ	leirtafla
 .	.	.
-
 Babýloníumenn	nkfn	babýloníumaður
 notuðu	sfg3fþ	nota
 sætistalnaritun	nveo	sætistalnaritun
@@ -915,7 +864,6 @@ með	aþ	með
 grunntölunni	nveþg	grunntala
 60	ta	60
 .	.	.
-
 Þar	aa	þar
 sem	ct	sem
 grunntalan	nveng	grunntala
@@ -942,7 +890,6 @@ gildi	nhen	gildi
 sætisins	nheeg	sæti
 var	sfg3eþ	vera
 .	.	.
-
 Leifar	nvfo	leif
 af	aþ	af
 þessari	faveþ	þessi
@@ -964,7 +911,6 @@ mínútan	nveng	mínúta
 60	ta	60
 sekúndur	nvfn	sekúnda
 .	.	.
-
 Kostir	nkfn	kostur
 sætistalnaritunar	nvee	sætistalnaritun
 halda	sfg3fn	halda
@@ -979,20 +925,16 @@ tala	nven	tala
 sem	ct	sem
 er	sfg3en	vera
 .	.	.
-
 Látum	sfg1fn	láta
 g	nheo	g
 vera	sng	vera
 grunntölu	nveo	grunntala
 .	.	.
-
 Þá	aa	þá
 mætti	svg3eþ	mega
 rita	sng	rita
 :	:	:
-
 ...	...	...
-
 +	+	+
 f	x	f
 ·	·	·
@@ -1017,7 +959,6 @@ g1	x	g1
 a	x	a
 ·	·	·
 g0	x	g0
-
 Ekki	aa	ekki
 er	sfg3en	vera
 gott	lhensf	góður
@@ -1033,7 +974,6 @@ við	fp1fn	ég
 mörg	lhfosf	margur
 talnatákn	nhfo	talnatákn
 .	.	.
-
 Að	aþ	að
 sumu	foheþ	sumur
 leyti	nheþ	leyti
@@ -1058,7 +998,6 @@ og	c	og
 60	ta	60
 eru	sfg3fn	vera
 .	.	.
-
 En	c	en
 grunntala	nven	grunntala
 ,	,	,
@@ -1076,7 +1015,6 @@ einnig	aa	einnig
 sína	fekfo	sinn
 kosti	nkfo	kostur
 .	.	.
-
 Sætistalnaritun	nven	sætistalnaritun
 með	aþ	með
 grunntölunni	nveþg	grunntala
@@ -1093,7 +1031,6 @@ not	nhfo	not
 í	aþ	í
 tölvunarfræði	nveþ	tölvunarfræði
 .	.	.
-
 Þegar	c	þegar
 grunntalan	nveng	grunntala
 er	sfg3en	vera
@@ -1107,13 +1044,11 @@ talnatákn	nhfo	talnatákn
 og	c	og
 0	ta	0
 .	.	.
-
 Slíkt	fbhen	slíkur
 kerfi	nhen	kerfi
 nefnist	sfm3en	nefna
 tvíundakerfi	nhen	tvíundakerfi
 .	.	.
-
 Tvö	tfhfo	tveir
 tákn	nhfo	tákn
 er	sfg3en	vera
@@ -1124,7 +1059,6 @@ tákna	sng	tákna
 rafrænan	lkeosf	rafrænn
 hátt	nkeo	háttur
 .	.	.
-
 Þau	fphfo	það
 má	sfg3en	mega
 setja	sng	setja
@@ -1150,7 +1084,6 @@ og	c	og
 svo	aa	svo
 framvegis	aa	framvegis
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 óspart	aa	óspart
@@ -1158,7 +1091,6 @@ notað	sþghen	nota
 í	aþ	í
 tölvutækni	nveþ	tölvutækni
 .	.	.
-
 Tíu	tfvfn	tíu
 fyrstu	lvfnve	fyrstur
 tölurnar	nvfng	tala
@@ -1166,7 +1098,6 @@ tölurnar	nvfng	tala
 tvíundakerfinu	nheþg	tvíundakerfi
 eru	sfg3fn	vera
 :	:	:
-
 1	ta	1
 ,	,	,
 10	ta	10
@@ -1187,7 +1118,6 @@ eru	sfg3fn	vera
 ,	,	,
 1010	ta	1010
 .	.	.
-
 Tvíundakerfi	nhen	tvíundakerfi
 er	sfg3en	vera
 sætiskerfi	nhen	sætiskerfi
@@ -1207,15 +1137,12 @@ b	x	b
 c	x	c
 ,	,	,
 ...	...	...
-
 tákna	sfg3fn	tákna
 1	ta	1
 eða	c	eða
 0	ta	0
 :	:	:
-
 ...	...	...
-
 +	+	+
 f	x	f
 ·	·	·
@@ -1240,7 +1167,6 @@ b	x	b
 a	x	a
 ·	·	·
 20	ta	20
-
 Skoðum	svg1fn	skoða
 nú	aa	nú
 tengsl	nhfo	tengsl
@@ -1263,7 +1189,6 @@ hennar	fpvee	hún
 í	aþ	í
 tugakerfi	nheþ	tugakerfi
 :	:	:
-
 10101tví	x	10101tví
 =	=	=
 1	ta	1
@@ -1297,7 +1222,6 @@ tugakerfi	nheþ	tugakerfi
 1	ta	1
 =	=	=
 21tug	ta	21tug
-
 Ekkert	fohen	enginn
 er	sfg3en	vera
 því	aa	því
@@ -1321,7 +1245,6 @@ hægri	lveevf	hægri
 með	ao	með
 tölustafarununa	nveog	tölustafaruna
 :	:	:
-
 110,11tví	x	110,11tví
 =	=	=
 1	ta	1
@@ -1358,7 +1281,6 @@ tölustafarununa	nveog	tölustafaruna
 ¾	ta	¾
 tug	nkeo	tugur
 .	.	.
-
 Sýnt	sþghen	sýna
 er	sfg3en	vera
 að	c	að
@@ -1376,7 +1298,6 @@ eru	sfg3fn	vera
 ekki	aa	ekki
 auðlesnar	lvfnsf	auðlesinn
 .	.	.
-
 Þess	fphee	það
 vegna	ae	vegna
 hefur	sfg3en	hafa
@@ -1393,7 +1314,6 @@ sextán	ta	sextán
 er	sfg3en	vera
 grunntala	nven	grunntala
 .	.	.
-
 Þetta	fahen	þessi
 kerfi	nhen	kerfi
 er	sfg3en	vera
@@ -1405,7 +1325,6 @@ hexadecimal	e	hexadecimal
 system	e	system
 )	)	)
 .	.	.
-
 Lesandanum	nkeþg	lesandi
 er	sfg3en	vera
 látið	sþghen	láta
@@ -1423,11 +1342,9 @@ tengsl	nhfo	tengsl
 við	ao	við
 tvíundakerfi	nhfo	tvíundakerfi
 .	.	.
-
 <	<	<
 Heimildir	nvfn	heimild
 >	>	>
-
 Hvað	fshen	hver
 er	sfg3en	vera
 stærðfræðitáknið	nheng	stærðfræðitákn
@@ -1439,7 +1356,6 @@ stendur	sfg3en	standa
 það	fphen	það
 fyrir	ao	fyrir
 ?	?	?
-
 Táknið	nheng	tákn
 e	x	e
 stendur	sfg3en	standa
@@ -1449,12 +1365,10 @@ sem	ct	sem
 byrjar	sfg3en	byrja
 svona	aa	svona
 :	:	:
-
 e	x	e
 =	=	=
 2,71828182845904523536028..	ta	2,71828182845904523536028..
 .	.	.
-
 Aukastafarunan	nveng	aukastafaruna
 heldur	sfg3en	halda
 áfram	aa	áfram
@@ -1469,7 +1383,6 @@ aukastafir	nkfn	aukastafur
 tölunnar	nveeg	tala
 p	nhee	p
 .	.	.
-
 Raunar	aa	raunar
 eru	sfg3fn	vera
 tölurnar	nvfng	tala
@@ -1489,7 +1402,6 @@ transcendental	e	transcendental
 )	)	)
 talna	nvfe	tala
 .	.	.
-
 Tölurnar	nvfng	tala
 e	nhen	e
 og	c	og
@@ -1528,7 +1440,6 @@ með	aþ	með
 rauntölustuðlum	nkfþ	rauntölustuðull
 )	)	)
 .	.	.
-
 Þrátt	aa	þrátt
 fyrir	ao	fyrir
 torræðni	nveo	torræðni
@@ -1544,7 +1455,6 @@ af	aþ	af
 ræðum	lvfþsf	ræður
 tölum	nvfþ	tala
 :	:	:
-
 Upphrópunarmerkið	nheng	upphrópunarmerki
 er	sfg3en	vera
 útskýrt	sþghen	útskýra
@@ -1552,7 +1462,6 @@ er	sfg3en	vera
 þessu	faheþ	þessi
 svari	nheþ	svar
 .	.	.
-
 Talan	nveng	tala
 e	nhen	e
 er	sfg3en	vera
@@ -1585,7 +1494,6 @@ dæmis	nhee	dæmi
 talan	nveng	tala
 10	ta	10
 .	.	.
-
 Tíu-logrinn	nkeng	tíu-logri
 er	sfg3en	vera
 táknaður	sþgken	tákna
@@ -1594,13 +1502,11 @@ log	e	log
 á	aþ	á
 vasareiknum	nkfþ	vasareikn
 .	.	.
-
 Hvað	fshen	hver
 er	sfg3en	vera
 þá	aa	þá
 logri	nken	logri
 ?	?	?
-
 Í	aþ	í
 upphafi	nheþ	upphaf
 nýrrar	lveesf	nýr
@@ -1625,7 +1531,6 @@ mjög	aa	mjög
 stórum	lvfþsf	stór
 tölum	nvfþ	tala
 .	.	.
-
 Margföldun	nven	margföldun
 og	c	og
 deiling	nven	deiling
@@ -1650,7 +1555,6 @@ samlagningu	nveo	samlagning
 og	c	og
 frádrátt	nkeo	frádráttur
 .	.	.
-
 Valin	sþgven	velja
 var	sfg3eþ	vera
 grunntala	nven	grunntala
@@ -1674,11 +1578,9 @@ fá	sng	fá
 upphaflegu	lveovf	upphaflegur
 töluna	nveog	tala
 .	.	.
-
 Til	ae	til
 dæmis	nhee	dæmi
 er	sfg3en	vera
-
 2	ta	2
 =	=	=
 100,3010	ta	100,3010
@@ -1686,7 +1588,6 @@ og	c	og
 3	ta	3
 =	=	=
 100,4771	ta	100,4771
-
 Þá	aa	þá
 er	sfg3en	vera
 talan	nveng	tala
@@ -1700,12 +1601,10 @@ tíu-logrinn	nkeng	tíu-logri
 af	aþ	af
 3	ta	3
 .	.	.
-
 Nú	aa	nú
 má	sfg3en	mega
 reikna	sng	reikna
 :	:	:
-
 2	ta	2
 ·	·	·
 3	ta	3
@@ -1719,7 +1618,6 @@ reikna	sng	reikna
 100,7781	ta	100,7781
 =	=	=
 6	ta	6
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 að	aþ	að
@@ -1756,7 +1654,6 @@ tölur	nvfo	tala
 eða	c	eða
 stærri	lvfovm	stór
 .	.	.
-
 Þá	aa	þá
 má	sfg3en	mega
 spyrja	sng	spyrja
@@ -1768,7 +1665,6 @@ lograrnir	nkfng	logri
 voru	sfg3fþ	vera
 fundnir	sþgkfn	finna
 .	.	.
-
 Þeir	fpkfn	hann
 voru	sfg3fþ	vera
 reiknaðir	sþgkfn	reikna
@@ -1786,7 +1682,6 @@ gefnir	sþgkfn	gefa
 í	aþ	í
 töflum	nvfþ	tafla
 .	.	.
-
 Síðan	aa	síðan
 eru	sfg3fn	vera
 ákveðnar	sþgvfn	ákveða
@@ -1805,7 +1700,6 @@ logrunum	nkfþg	logur
 í	aþ	í
 töflunni	nveþg	tafla
 .	.	.
-
 Það	fphen	það
 kom	sfg3eþ	koma
 fljótt	aa	fljótt
@@ -1825,7 +1719,6 @@ sem	ct	sem
 grunntala	nven	grunntala
 logra	nkfe	logri
 .	.	.
-
 Það	fphen	það
 kemur	sfg3en	koma
 til	aa	til
@@ -1841,11 +1734,9 @@ gildi	nhfo	gildi
 á	aþ	á
 x	nheþ	x
 .	.	.
-
 Til	ae	til
 dæmis	nhee	dæmi
 er	sfg3en	vera
-
 Talan	nveng	tala
 e	nhen	e
 er	sfg3en	vera
@@ -1861,7 +1752,6 @@ mjög	aa	mjög
 smáum	lvfþsf	smár
 tölum	nvfþ	tala
 .	.	.
-
 Táknið	nheng	tákn
 e	nhen	e
 fyrir	ao	fyrir
@@ -1873,7 +1763,6 @@ svissneska	lkeþvf	svissneskur
 stærðfræðingnum	nkeþg	stærðfræðingur
 Euler	e	Euler
 .	.	.
-
 Euler	e	Euler
 setti	sfg3eþ	setja
 fram	aa	fram
@@ -1888,7 +1777,6 @@ var	sfg3eþ	vera
 árs	nhee	ár
 gamall	lkensf	gamall
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 þá	aa	þá
@@ -1927,7 +1815,6 @@ af	aþ	af
 fallbyssu	nveþ	fallbyssa
 »	»	»
 .	.	.
-
 Talan	nveng	tala
 e	nhen	e
 er	sfg3en	vera
@@ -1969,7 +1856,6 @@ grunntölur	nvfo	grunntala
 fyrir	ao	fyrir
 logra	nkfo	logri
 .	.	.
-
 Töluna	nveog	tala
 e	nhen	e
 má	sfg3en	mega
@@ -1980,7 +1866,6 @@ náttúrlega	lveosf	náttúrlegur
 annan	fokeo	annar
 hátt	nkeo	háttur
 .	.	.
-
 Meginferlum	nhfþ	meginferli
 lífsins	nheeg	líf
 ,	,	,
@@ -2009,7 +1894,6 @@ y	x	y
 =	=	=
 ex	e	ex
 .	.	.
-
 Talan	nveng	tala
 e	nhen	e
 er	sfg3en	vera
@@ -2036,7 +1920,6 @@ og	c	og
 jafnvel	aa	jafnvel
 hagfræði	nveþ	hagfræði
 .	.	.
-
 Til	aa	til
 eru	sfg3fn	vera
 tvö	tfhfn	tveir
@@ -2050,14 +1933,11 @@ eru	sfg3fn	vera
 eignuð	sþghfn	eigna
 Euler	e	Euler
 .	.	.
-
 Annað	fohen	annar
 þeirra	fphfe	það
 er	sfg3en	vera
-
 Hitt	fahen	hinn
 er	sfg3en	vera
-
 Ekki	aa	ekki
 verður	sfg3en	verða
 svo	aa	svo
@@ -2076,7 +1956,6 @@ að	cn	að
 skilgreina	sng	skilgreina
 hana	fpveo	hún
 .	.	.
-
 Sú	faven	sá
 fyrri	lvenvm	fyrri
 fjallar	sfg3en	fjalla
@@ -2086,7 +1965,6 @@ y	x	y
 =	=	=
 1/x	e	1/x
 .	.	.
-
 Ef	c	ef
 flatarmálið	nheng	flatarmál
 undir	aþ	undir
@@ -2114,11 +1992,9 @@ er	sfg3en	vera
 nákvæmlega	aa	nákvæmlega
 1	ta	1
 .	.	.
-
 Svarið	nheng	svar
 er	sfg3en	vera
 e.	as	e.
-
 Um	ao	um
 hina	faveo	hinn
 leiðina	nveog	leið
@@ -2163,7 +2039,6 @@ sinni	nheþ	sinn
 á	aþ	á
 ári	nheþ	ár
 .	.	.
-
 Enn	aa	enn
 hærri	lkenvm	hár
 verður	sfg3en	verða
@@ -2184,7 +2059,6 @@ sinnum	nhfþ	sinn
 á	aþ	á
 ári	nheþ	ár
 .	.	.
-
 Þannig	aa	þannig
 mætti	svg3eþ	mega
 stytta	sng	stytta
@@ -2199,7 +2073,6 @@ og	c	og
 óskað	sþghen	óska
 er	sfg3en	vera
 .	.	.
-
 Vextirnir	nkfng	vöxtur
 leggjast	sfm3fn	leggja
 strax	aa	strax
@@ -2211,7 +2084,6 @@ að	cn	að
 bera	sng	bera
 vaxtavexti	nkfo	vaxtavextir
 .	.	.
-
 En	c	en
 aukningin	nveng	aukning
 á	aþ	á
@@ -2219,7 +2091,6 @@ afrakstrinum	nkeþg	afrakstur
 hefur	sfg3en	hafa
 takmörk	nhfo	takmark
 .	.	.
-
 Ef	c	ef
 1	ta	1
 þúsund	tfvfn	þúsund
@@ -2244,7 +2115,6 @@ lok	nhfo	lok
 e	x	e
 þúsund	tfvfn	þúsund
 kr.	as	kr.
-
 Á	ao	á
 formlegan	lkeosf	formlegur
 hátt	nkeo	háttur
@@ -2255,7 +2125,6 @@ sett	sþgven	setja
 fram	aa	fram
 þannig	aa	þannig
 :	:	:
-
 Að	aþ	að
 lokum	nhfþ	lok
 má	sfg3en	mega
@@ -2275,7 +2144,6 @@ fegurstu	lveove	fagur
 jöfnu	nveo	jafna
 stærðfræðinnar	nveeg	stærðfræði
 .	.	.
-
 Til	ae	til
 að	cn	að
 skoða	sng	skoða
@@ -2290,7 +2158,6 @@ sögunnar	nveeg	saga
 töluna	nveog	tala
 i	e	i
 en	c	en
-
 Jafnan	aa	jafnan
 er	sfg3en	vera
 eip	e	eip
@@ -2298,7 +2165,6 @@ eip	e	eip
 1	ta	1
 =	=	=
 0	ta	0
-
 Jafnan	aa	jafnan
 er	sfg3en	vera
 raunar	aa	raunar
@@ -2321,7 +2187,6 @@ verður	sfg3en	verða
 rakin	sþgven	rekja
 hér	aa	hér
 .	.	.
-
 Hvert	fohen	hver
 er	sfg3en	vera
 upphaf	nhen	upphaf
@@ -2333,7 +2198,6 @@ hún	fpven	hún
 til	ae	til
 Evrópu	nvee-s	Evrópa
 ?	?	?
-
 Þegar	c	þegar
 flett	sþghen	fletta
 er	sfg3en	vera
@@ -2362,7 +2226,6 @@ fyrir	ao	fyrir
 daga	nkfo	dagur
 Krists	nkee-s	Kristur
 .	.	.
-
 Þessar	favfn	þessi
 þjóðir	nvfn	þjóð
 fengust	sfm3fþ	fá
@@ -2395,7 +2258,6 @@ annars	fohee	annar
 stigs	nhee	stig
 jöfnur	nvfo	jafna
 .	.	.
-
 Menn	nkfn	maður
 notuðu	sfg3fþ	nota
 hins	fakee	hinn
@@ -2416,7 +2278,6 @@ er	sfg3en	vera
 eiginlegri	lveþsf	eiginlegur
 algebru	nveþ	algebra
 .	.	.
-
 Önnur	foven	annar
 bók	nven	bók
 hins	ghee	hinn
@@ -2452,7 +2313,6 @@ telst	sfm3en	telja
 til	ae	til
 algebru	nvee	algebra
 .	.	.
-
 Þar	aa	þar
 eru	sfg3fn	vera
 til	ae	til
@@ -2502,7 +2362,6 @@ yfirfæra	sng	yfirfæra
 táknmál	nheo	táknmál
 algebru	nvee	algebra
 .	.	.
-
 Meðal	ae	meðal
 þeirra	fpvfe	hún
 er	sfg3en	vera
@@ -2513,7 +2372,6 @@ annars	fohee	annar
 stigs	nhee	stig
 jöfnu	nveo	jafna
 .	.	.
-
 Venjan	nveng	venja
 er	sfg3en	vera
 þó	aa	þó
@@ -2541,7 +2399,6 @@ Miðausturlönd	nhfo-s	Miðausturland
 og	c	og
 Norður-Afríku	nveo-s	Norður-Afríka
 .	.	.
-
 Arabar	nkfn-s	Arabi
 tóku	sfg3fþ	taka
 lausnir	nvfo	lausn
@@ -2562,7 +2419,6 @@ sköpuðu	sfg3fþ	skapa
 nýja	lveosf	nýr
 algebru	nveo	algebra
 .	.	.
-
 Í	aþ	í
 ritum	nhfþ	rit
 islamska	lkeevf	islamskur
@@ -2593,7 +2449,6 @@ annars	fohee	annar
 stigs	nhee	stig
 jöfnu	nvee	jafna
 .	.	.
-
 Orðið	nheng	orð
 algebra	nven	algebra
 er	sfg3en	vera
@@ -2628,7 +2483,6 @@ og	c	og
 samanburð	nkeo	samanburður
 )	)	)
 .	.	.
-
 Orðið	nheng	orð
 '	'	'
 al-jabr	e	al-jabr
@@ -2642,7 +2496,6 @@ algebra	nven	algebra
 evrópskum	lhfþsf	evrópskur
 tungumálum	nhfþ	tungumál
 .	.	.
-
 Að	aþ	að
 sögn	nveþ	sögn
 höfundar	nkee	höfundur
@@ -2681,7 +2534,6 @@ marvísleg	lhfosf	marvíslegur
 önnur	fohfo	annar
 efni	nhfo	efni
 .	.	.
-
 Ætlun	nven	ætlun
 al-Kwarizmis	e	al-Kwarizmis
 var	sfg3eþ	vera
@@ -2697,7 +2549,6 @@ en	c	en
 ekki	aa	ekki
 fræðileg	lhfosf	fræðilegur
 .	.	.
-
 Höfundur	nken	höfundur
 hefur	sfg3en	hafa
 þó	aa	þó
@@ -2716,7 +2567,6 @@ bókin	nveng	bók
 er	sfg3en	vera
 allfræðileg	lvensf	allfræðilegur
 .	.	.
-
 Þar	aa	þar
 eru	sfg3fn	vera
 gefnar	sþgvfn	gefa
@@ -2728,7 +2578,6 @@ sex	tfvfþ	sex
 gerðum	nvfþ	gerð
 jafna	nvfe	jafna
 .	.	.
-
 Al-Kwarizmi	e	Al-Kwarizmi
 ritaði	sfg3eþ	rita
 aðra	foveo	annar
@@ -2745,7 +2594,6 @@ reikniaðgerðir	nvfn	reikniaðgerð
 eru	sfg3fn	vera
 kynntar	sþgvfn	kynna
 .	.	.
-
 Nánar	aam	náið
 er	sfg3en	vera
 sagt	sþghen	segja
@@ -2764,7 +2612,6 @@ algrím	nhen	algrím
 til	aa	til
 komið	sþghen	koma
 ?	?	?
-
 Bækur	nvfn	bók
 hans	fpkee	hann
 tvær	tfvfn	tveir
@@ -2787,7 +2634,6 @@ endursögnum	nvfþ	endursögn
 12.	ta	12.
 öld	nveþ	öld
 .	.	.
-
 Á	aþ	á
 Ítalíu	nveþ-s	Ítalía
 og	c	og
@@ -2805,7 +2651,6 @@ vöxt	nkeo	vöxtur
 næstu	lvfþve	næstur
 öldum	nvfþ	öld
 .	.	.
-
 Þá	aa	þá
 varð	sfg3eþ	verða
 til	aa	til
@@ -2824,7 +2669,6 @@ viðskiptum	nhfþ	viðskipti
 og	c	og
 bókhaldi	nheþ	bókhald
 .	.	.
-
 Þörf	nven	þörf
 varð	sfg3eþ	verða
 á	aþ	á
@@ -2837,7 +2681,6 @@ við	ao	við
 að	cn	að
 reikna	sng	reikna
 .	.	.
-
 Þeir	fpkfn	hann
 nefndust	sfm3fþ	nefna
 á	aþ	á
@@ -2851,7 +2694,6 @@ abakistar	nkfn	abakisti
 eða	c	eða
 reiknigrindarmenn	nkfn	reiknigrindarmaður
 .	.	.
-
 Abakistar	nkfn	abakisti
 rituðu	sfg3fþ	rita
 bækur	nvfo	bók
@@ -2869,7 +2711,6 @@ utan	ae	utan
 hefðbundinna	lkfesf	hefðbundinn
 háskóla	nkfe	háskóli
 .	.	.
-
 Í	ao	í
 kjölfarið	nheog	kjölfar
 fengust	sfm3fþ	fá
@@ -2884,7 +2725,6 @@ að	cn	að
 leysa	sng	leysa
 jöfnur	nvfo	jafna
 .	.	.
-
 Islömsk	lvensf	islamskur
 algebra	nven	algebra
 var	sfg3eþ	vera
@@ -2902,7 +2742,6 @@ bókstafareikningur	nken	bókstafareikningur
 í	aþ	í
 nútímaskilningi	nkeþ	nútímaskilningur
 .	.	.
-
 Þótt	c	þótt
 menn	nkfn	maður
 kynnu	svg3fþ	kunna
@@ -2921,7 +2760,6 @@ veldi	nhfo	veldi
 af	aþ	af
 þeim	fpvfþ	hún
 .	.	.
-
 Allir	fokfn	allur
 reikningar	nkfn	reikningur
 voru	sfg3fþ	vera
@@ -2930,7 +2768,6 @@ skýrðir	sþgkfn	skýra
 með	aþ	með
 orðum	nhfþ	orð
 .	.	.
-
 Sama	fbheþ	sami
 máli	nheþ	mál
 gegndi	sfg3eþ	gegna
@@ -2953,7 +2790,6 @@ vísir	nken	vísir
 að	aþ	að
 táknmáli	nheþ	táknmál
 .	.	.
-
 Dæmi	nhfn	dæmi
 um	ao	um
 þær	fpvfo	hún
@@ -2980,7 +2816,6 @@ ferning	nkeo	ferningur
 annað	foheo	annar
 veldi	nheo	veldi
 .	.	.
-
 og	c	og
 Cu	e	Cu
 fyrir	ao	fyrir
@@ -2993,7 +2828,6 @@ tening	nkeo	teningur
 þriðja	lheovf	þriðji
 veldi	nheo	veldi
 .	.	.
-
 Viðfangsefnin	nhfng	viðfangsefni
 voru	sfg3fþ	vera
 talnadæmi	nhfn	talnadæmi
@@ -3006,7 +2840,6 @@ komu	sfg3fþ	koma
 ekki	aa	ekki
 fyrir	aa	fyrir
 .	.	.
-
 Undir	ao	undir
 lok	nhfo	lok
 15.	ta	15.
@@ -3028,7 +2861,6 @@ plús	nkeo	plús
 og	c	og
 mínus	nkeo	mínus
 .	.	.
-
 Jafnframt	aþ	jafnframt
 því	fpheþ	það
 tóku	sfg3fþ	taka
@@ -3044,7 +2876,6 @@ stigi	nheþ	stig
 en	c	en
 tveimur	ta	tveimur
 .	.	.
-
 Svipuð	lvensf	svipaður
 þróun	nven	þróun
 varð	sfg3eþ	verða
@@ -3052,7 +2883,6 @@ víðar	aam	víða
 um	ao	um
 Evrópu	nveo-s	Evrópa
 .	.	.
-
 Menn	nkfn	maður
 glímdu	sfg3fþ	glíma
 við	ao	við
@@ -3061,7 +2891,6 @@ og	c	og
 táknmál	nhen	táknmál
 þróaðist	sfm3eþ	þróa
 .	.	.
-
 Aðgerðatáknin	nhfng	aðgerðatákn
 +	+	+
 og	c	og
@@ -3080,7 +2909,6 @@ sömuleiðis	aa	sömuleiðis
 fyrir	ao	fyrir
 ferningsrót	nveo	ferningsrót
 .	.	.
-
 Á	aþ	á
 sextándu	lveþvf	sextándi
 öld	nveþ	öld
@@ -3096,7 +2924,6 @@ með	ao	með
 islamska	lveosf	islamskur
 algebru	nveo	algebra
 .	.	.
-
 Þeir	fpkfn	hann
 gátu	sfg3fþ	geta
 leyst	ssg	leysa
@@ -3110,7 +2937,6 @@ táknmálinu	nheþg	táknmál
 var	sfg3eþ	vera
 áfátt	lhensf	áfátt
 .	.	.
-
 Tákn	nhfn	tákn
 voru	sfg3fþ	vera
 notuð	sþghfn	nota
@@ -3125,7 +2951,6 @@ fyrir	ao	fyrir
 stuðla	nkfo	stuðull
 jöfnunnar	nveeg	jafna
 .	.	.
-
 Eina	lvenvf	einn
 leiðin	nveng	leið
 til	ae	til
@@ -3142,7 +2967,6 @@ nota	sng	nota
 töluleg	lhfosf	tölulegur
 dæmi	nhfo	dæmi
 .	.	.
-
 Hvergi	aa	hvergi
 var	sfg3eþ	vera
 formúlur	nvfo	formúla
@@ -3166,7 +2990,6 @@ aldahvörfin	nhfog	aldahvörf
 kannast	sfm3en	kanna
 við	aa	við
 .	.	.
-
 Með	aþ	með
 Frakkanum	nkeþgs	Frakki
 François	e	François
@@ -3183,7 +3006,6 @@ inn	aa	inn
 nýjar	lvfosf	nýr
 brautir	nvfo	braut
 .	.	.
-
 Í	aþ	í
 verkum	nhfþ	verk
 sínum	fehfþ	sinn
@@ -3201,7 +3023,6 @@ nýþýddum	lhfþsf	nýþýddur
 forngrískum	lhfþsf	forngrískur
 ritum	nhfþ	rit
 .	.	.
-
 Rithætti	nkeþ	ritháttur
 hans	fpkee	hann
 var	sfg3eþ	vera
@@ -3234,7 +3055,6 @@ C	e	C
 quadratum	e	quadratum
 '	'	'
 .	.	.
-
 En	c	en
 það	fahen	sá
 sem	ct	sem
@@ -3264,7 +3084,6 @@ voru	sfg3fþ	vera
 bundnir	lkfnsf	bundinn
 í	aa	í
 .	.	.
-
 Með	aþ	með
 því	fpheþ	það
 að	cn	að
@@ -3290,7 +3109,6 @@ einblína	sng	einblína
 lausnina	nveog	lausn
 sjálfa	fbveo	sjálfur
 .	.	.
-
 Í	aþ	í
 ritum	nhfþ	rit
 sínum	fehfþ	sinn
@@ -3315,7 +3133,6 @@ lýst	sþghen	lýsa
 hefur	sfg3en	hafa
 verið	ssg	vera
 .	.	.
-
 Sem	c	sem
 dæmi	nheo	dæmi
 má	sfg3en	mega
@@ -3353,7 +3170,6 @@ orðum	nhfþ	orð
 ritum	nhfþ	rit
 Forngrikkja	nkfe-s	Forngrikki
 .	.	.
-
 Til	ae	til
 marks	nhee	mark
 um	ao	um
@@ -3380,7 +3196,6 @@ mismunur	nken	mismunur
 sömu	fbvfe	sami
 talna	nvfe	tala
 .	.	.
-
 Þetta	faheo	þessi
 dæmi	nheo	dæmi
 leysti	sfg3eþ	leysa
@@ -3394,7 +3209,6 @@ Krist	nkeo-s	Kristur
 með	aþ	með
 tölum	nvfþ	tala
 .	.	.
-
 Jordanus	e	Jordanus
 de	e	de
 Nemore	e	Nemore
@@ -3419,7 +3233,6 @@ dæmið	nheog	dæmi
 með	aþ	með
 táknmáli	nheþ	táknmál
 .	.	.
-
 Saga	nven	saga
 algebrunnar	nveeg	algebra
 er	sfg3en	vera
@@ -3448,7 +3261,6 @@ nú	aa	nú
 um	ao	um
 þúsaldarmót	nhfo	þúsaldarmót
 .	.	.
-
 Nútíma	nkee	nútími
 algebra	nven	algebra
 felur	sfg3en	fela
@@ -3467,7 +3279,6 @@ og	c	og
 skýru	lheþsf	skýr
 formi	nheþ	form
 .	.	.
-
 Sérhvert	fohen	sérhver
 ungmenni	nhen	ungmenni
 sem	ct	sem
@@ -3491,7 +3302,6 @@ frá	aþ	frá
 sínum	fekeþ	sinn
 reynsluheimi	nkeþ	reynsluheimur
 .	.	.
-
 Rætt	sþghen	ræða
 er	sfg3en	vera
 um	aa	um
@@ -3526,7 +3336,6 @@ inn	aa	inn
 framandi	lkeoof	framandi
 hugmyndaheim	nkeo	hugmyndaheimur
 .	.	.
-
 Slíkt	fbhen	slíkur
 væri	svg3eþ	vera
 óneitanlega	aa	óneitanlega
@@ -3544,13 +3353,11 @@ verið	ssg	vera
 lýst	sþghen	lýsa
 hér	aa	hér
 .	.	.
-
 Hver	fsken	hver
 fann	sfg3eþ	finna
 upp	aa	upp
 stærðfræðina	nveog	stærðfræði
 ?	?	?
-
 «	«	«
 Guð	nken-s	Guð
 fann	sfg3eþ	finna
@@ -3575,7 +3382,6 @@ höfuðstærðfræðingum	nkfþ	höfuðstærðfræðingur
 19.	ta	19.
 aldar	nvee	öld
 .	.	.
-
 Öll	fohfn	allur
 menningarsamfélög	nhfn	menningarsamfélag
 hafa	sfg3fn	hafa
@@ -3589,7 +3395,6 @@ tölu	nveþ	tala
 tiltekinn	lkeosf	tiltekinn
 fjölda	nkeo	fjöldi
 .	.	.
-
 Að	aþ	að
 þessu	faheþ	þessi
 leyti	nheþ	leyti
@@ -3617,7 +3422,6 @@ líta	sng	líta
 svo	aa	svo
 á	aa	á
 .	.	.
-
 Hvenær	aa	hvenær
 varð	sfg3eþ	verða
 þá	aa	þá
@@ -3627,7 +3431,6 @@ annað	fohen	annar
 »	»	»
 til	aa	til
 ?	?	?
-
 Vitað	sþghen	vita
 er	sfg3en	vera
 um	ao	um
@@ -3660,7 +3463,6 @@ um	ao	um
 fyrir	ao	fyrir
 Krist	nkeo-s	Kristur
 .	.	.
-
 Um	ao	um
 þetta	faheo	þessi
 bera	sng	bera
@@ -3679,7 +3481,6 @@ rituð	lhfnsf	ritaður
 á	ao	á
 papýrus	nkeo	papýrus
 .	.	.
-
 Nokkru	foheþ	nokkur
 yngri	lhfnvm	ungur
 eru	sfg3fn	vera
@@ -3699,7 +3500,6 @@ finna	sng	finna
 um	ao	um
 stærðfræði	nveo	stærðfræði
 .	.	.
-
 Í	aþ	í
 framangreindum	lhfþsf	framangreindur
 ritum	nhfþ	rit
@@ -3719,7 +3519,6 @@ að	cn	að
 leysa	sng	leysa
 jöfnur	nvfo	jafna
 .	.	.
-
 Þær	fpvfn	hún
 bera	sfg3fn	bera
 þess	fphee	það
@@ -3737,7 +3536,6 @@ og	c	og
 jafnvel	aa	jafnvel
 trapiza	e	trapiza
 .	.	.
-
 Þessar	favfn	þessi
 þjóðir	nvfn	þjóð
 kunnu	sfg3fþ	kunna
@@ -3755,7 +3553,6 @@ námundað	ssg	námunda
 flatarmál	nheo	flatarmál
 hrings	nkee	hringur
 .	.	.
-
 Mismunandi	lhenof	mismunandi
 var	sfg3eþ	vera
 hvort	c	hvort
@@ -3775,7 +3572,6 @@ er	sfg3en	vera
 hlutfallsfastanum	nkeþg	hlutfallsfasti
 p	x	p
 .	.	.
-
 Þá	aa	þá
 má	sfg3en	mega
 víða	aa	víða
@@ -3804,7 +3600,6 @@ fyrir	ao	fyrir
 tiltekin	lhfosf	tiltekinn
 gildi	nhfo	gildi
 .	.	.
-
 Fræði	nhfn	fræði
 þessi	fahfn	þessi
 voru	sfg3fþ	vera
@@ -3822,7 +3617,6 @@ reiður	nvfo	reiða
 eigum	nvfþ	eiga
 sínum	fevfþ	sinn
 .	.	.
-
 Þar	aa	þar
 sem	c	sem
 ár	nvfn	á
@@ -3848,7 +3642,6 @@ nýju	lheþsf	nýr
 flóðum	nhfþ	flóð
 slotaði	sfg3eþ	slota
 .	.	.
-
 Þá	aa	þá
 þurfti	sfg3eþ	þurfa
 að	cn	að
@@ -3867,7 +3660,6 @@ sig	fpkeo	sig
 undir	ao	undir
 flóðatímabilin	nhfog	flóðatímabil
 .	.	.
-
 Þar	aa	þar
 sem	ct	sem
 miklar	lvfnsf	mikill
@@ -3889,7 +3681,6 @@ var	sfg3eþ	vera
 á	aþ	á
 rúmmálsreikningum	nkfþ	rúmmálsreikningur
 .	.	.
-
 Um	ao	um
 miðja	lveosf	miður
 þúsöldina	nveog	þúsöld
@@ -3905,7 +3696,6 @@ viðhorf	nhen	viðhorf
 til	ae	til
 stærðfræðiiðkana	nvfe	stærðfræðiiðkun
 .	.	.
-
 Ekki	aa	ekki
 var	sfg3eþ	vera
 lengur	aam	lengi
@@ -3930,7 +3720,6 @@ svarið	nheng	svar
 væri	svg3eþ	vera
 rétt	lhensf	réttur
 .	.	.
-
 Menn	nkfn	maður
 tóku	sfg3fþ	taka
 ekki	aa	ekki
@@ -3954,7 +3743,6 @@ spurningunni	nveþg	spurning
 Hvers	fshee	hver
 vegna	ae	vegna
 ?	?	?
-
 Kenningar	nvfn	kenning
 eru	sfg3fn	vera
 um	ao	um
@@ -3974,7 +3762,6 @@ að	aþ	að
 slíkum	fbkeþ	slíkur
 hugsunarhætti	nkeþ	hugsunarháttur
 .	.	.
-
 Grikkland	nhen-s	Grikkland
 var	sfg3eþ	vera
 þá	aa	þá
@@ -3987,7 +3774,6 @@ hvert	fohen	hver
 sínum	fehfþ	sinn
 lögum	nhfþ	lag
 .	.	.
-
 Lögin	nhfng	lag
 hvöttu	sfg3fþ	hvetja
 borgarana	nkfog	borgari
@@ -4003,7 +3789,6 @@ skiptast	snm	skipta
 á	aþ	á
 skoðunum	nvfþ	skoðun
 .	.	.
-
 Tímabilið	nheng	tímabil
 300	ta	300
 -	-	-
@@ -4015,7 +3800,6 @@ blómaskeið	nhen	blómaskeið
 grískrar	lveesf	grískur
 stærðfræði	nvee	stærðfræði
 .	.	.
-
 Í	aþ	í
 kennslubókinni	nveþg	kennslubók
 Undirstöður	nvfn-s	Undirstaða
@@ -4055,7 +3839,6 @@ og	c	og
 almennum	lvfþsf	almennur
 reglum	nvfþ	regla
 .	.	.
-
 Út	aa	út
 frá	aþ	frá
 þessum	favfþ	þessi
@@ -4066,7 +3849,6 @@ leitt	sþghen	leiða
 kerfi	nhen	kerfi
 stærðfræðireglna	nvfe	stærðfræðiregla
 .	.	.
-
 Bókin	nveng	bók
 fjallar	sfg3en	fjalla
 um	ao	um
@@ -4089,7 +3871,6 @@ annars	fohee	annar
 um	ao	um
 keilusnið	nheo	keilusnið
 .	.	.
-
 Viðhorf	nhen	viðhorf
 Grikkja	nkfe-s	Grikkur
 til	ae	til
@@ -4102,7 +3883,6 @@ heiminum	nkeþg	heimur
 æ	aa	æ
 síðan	aa	síðan
 .	.	.
-
 Engin	foven	enginn
 regla	nven	regla
 þykir	sfg3en	þykja
@@ -4116,7 +3896,6 @@ standi	svg3en	standa
 traustum	lkeþsf	traustur
 grunni	nkeþ	grunnur
 .	.	.
-
 Þegar	c	þegar
 spurt	sþghen	spyrja
 er	sfg3en	vera
@@ -4140,7 +3919,6 @@ stærðfræðina	nveog	stærðfræði
 einum	tfkeþ	einn
 manni	nkeþ	maður
 .	.	.
-
 Sumir	fokfn	sumur
 segja	sfg3fn	segja
 að	c	að
@@ -4175,7 +3953,6 @@ Gauss	e	Gauss
 1855	ta	1855
 )	)	)
 .	.	.
-
 En	c	en
 þá	aa	þá
 ber	sfg3en	bera
@@ -4205,7 +3982,6 @@ mikilla	lkfesf	mikill
 fyrirrennara	nkfe	fyrirrennari
 »	»	»
 .	.	.
-
 Hvernig	aa	hvernig
 reiknuðu	sfg3fþ	reikna
 menn	nkfn	maður
@@ -4215,7 +3991,6 @@ brotum	nhfþ	brot
 dögum	nkfþ	dagur
 Rómaveldis	nhee-s	Rómaveldi
 ?	?	?
-
 Upphafleg	lvensf	upphaflegur
 spurning	nven	spurning
 var	sfg3eþ	vera
@@ -4223,7 +3998,6 @@ sem	c	sem
 hér	aa	hér
 segir	sfg3en	segja
 :	:	:
-
 Notuðu	sfg3fþ	nota
 Rómverjar	nkfn-s	Rómverji
 brotareikning	nkeo	brotareikningur
@@ -4244,7 +4018,6 @@ X-um	nhfþ-s	X-
 og	c	og
 V-um	nhfþ-s	V-
 ?	?	?
-
 Engar	fovfn	enginn
 heimildir	nvfn	heimild
 eru	sfg3fn	vera
@@ -4266,7 +4039,6 @@ talnatáknum	nhfþ	talnatákn
 þess	fakee	sá
 tíma	nkee	tími
 .	.	.
-
 Reikningar	nkfn	reikningur
 voru	sfg3fþ	vera
 í	aþ	í
@@ -4283,7 +4055,6 @@ var	sfg3eþ	vera
 stráð	sþghen	strá
 á	aa	á
 .	.	.
-
 Markaðir	sþgkfn	marka
 voru	sfg3fþ	vera
 dálkar	nkfn	dálkur
@@ -4303,7 +4074,6 @@ calculi	e	calculi
 eða	c	eða
 lapuli	e	lapuli
 .	.	.
-
 Völurnar	nvfng	vala
 voru	sfg3fþ	vera
 gjarnan	aa	gjarnan
@@ -4322,7 +4092,6 @@ geymdar	sþgvfn	geyma
 nefndum	lvfþsf	nefndur
 loculi	e	loculi
 .	.	.
-
 Dálkarnir	nkfng	dálkur
 í	aþ	í
 sandinum	nkeþg	sandur
@@ -4330,7 +4099,6 @@ voru	sfg3fþ	vera
 undanfarar	nkfn	undanfari
 talnagrindar	nvee	talnagrind
 .	.	.
-
 Rómverskar	lvfnsf	rómverskur
 talnagrindur	nvfn	talnagrind
 ,	,	,
@@ -4360,7 +4128,6 @@ tvær	tfvfn	tveir
 hinum	fahfþ	hinn
 megin	aa	megin
 .	.	.
-
 Staka	lvenvf	stakur
 perlan	nveng	perla
 táknar	sfg3en	tákna
@@ -4372,7 +4139,6 @@ eina	tfveo	einn
 einingu	nveo	eining
 hver	foven	hver
 .	.	.
-
 Þannig	aa	þannig
 er	sfg3en	vera
 hægt	lhensf	hægur
@@ -4386,7 +4152,6 @@ upp	aa	upp
 í	ao	í
 níu	ta	níu
 .	.	.
-
 Slíkar	fbvfn	slíkur
 talnagrindur	nvfn	talnagrind
 er	x	vera
@@ -4404,7 +4169,6 @@ til	ae	til
 skamms	lkeesf	skammur
 tíma	nkee	tími
 .	.	.
-
 Dálkarnir	nkfng	dálkur
 í	aþ	í
 sandinum	nkeþg	sandur
@@ -4431,7 +4195,6 @@ og	c	og
 svo	aa	svo
 framvegis	aa	framvegis
 .	.	.
-
 Hvað	fshen	hver
 brot	nhfo	brot
 varðar	sfg3en	varða
@@ -4467,7 +4230,6 @@ lært	ssg	læra
 af	aþ	af
 þeim	fpkfþ	hann
 .	.	.
-
 Báðar	fovfn	báðir
 þessar	favfn	þessi
 þjóðir	nvfn	þjóð
@@ -4498,7 +4260,6 @@ og	c	og
 svo	aa	svo
 framvegis	aa	framvegis
 .	.	.
-
 Slík	fbhfn	slíkur
 brot	nhfn	brot
 voru	sfg3fþ	vera
@@ -4508,7 +4269,6 @@ hentug	lhfnsf	hentugur
 til	ae	til
 reikninga	nkfe	reikningur
 .	.	.
-
 Voru	sfg3fþ	vera
 útbúnar	sþgvfn	útbúa
 sérstakar	lvfnsf	sérstakur
@@ -4521,7 +4281,6 @@ og	c	og
 leggja	sng	leggja
 saman	aa	saman
 .	.	.
-
 Er	sfg3en	vera
 óhætt	lhensf	óhætt
 að	cn	að
@@ -4540,7 +4299,6 @@ hugareikning	nkeo	hugareikningur
 og	c	og
 töflur	nvfo	tafla
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 svo	aa	svo
@@ -4556,7 +4314,6 @@ tugasætiskerfið	nheng	tugasætiskerfi
 kom	sfg3eþ	koma
 fram	aa	fram
 .	.	.
-
 Almenn	lhfnsf	almennur
 brot	nhfn	brot
 með	aþ	með
@@ -4587,7 +4344,6 @@ aðrar	fovfo	annar
 vísindalegar	lvfosf	vísindalegur
 iðkanir	nvfo	iðkun
 .	.	.
-
 Þau	fphfn	það
 eru	sfg3fn	vera
 raunar	aa	raunar
@@ -4619,7 +4375,6 @@ partar	nkfn	partur
 úr	aþ	úr
 mínútu	nveþ	mínúta
 .	.	.
-
 Hnattstaða	nven	hnattstaða
 Reykjavíkur	nvee-s	Reykjavík
 er	sfg3en	vera
@@ -4644,7 +4399,6 @@ sekúndur	nvfn	sekúnda
 norðlægrar	lveesf	norðlægur
 breiddar	nvee	breidd
 .	.	.
-
 Sextugabrot	nhfn	sextugabrot
 voru	sfg3fþ	vera
 rituð	sþghfn	rita
@@ -4664,7 +4418,6 @@ uppi	aa	uppi
 eftir	ao	eftir
 Krist	nkeo-s	Kristur
 .	.	.
-
 Ptólemaíos	e	Ptólemaíos
 reiknaði	sfg3eþ	reikna
 og	c	og
@@ -4679,14 +4432,12 @@ kósínus	nkeþ	kósínus
 vorra	fekfe	vor
 tíma	nkfe	tími
 .	.	.
-
 Töflurnar	nvfng	tafla
 voru	sfg3fþ	vera
 reiknaðar	sþgvfn	reikna
 í	aþ	í
 sextugakerfi	nheþ	sextugakerfi
 .	.	.
-
 Ptólemaíos	e	Ptólemaíos
 ritaði	sfg3eþ	rita
 á	aþ	á
@@ -4709,7 +4460,6 @@ laut	sfg3eþ	lúta
 rómverska	lheþvf	rómverskur
 heimsveldinu	nheþg	heimsveldi
 .	.	.
-
 Grikkir	nkfn	grikkur
 rituðu	sfg3fþ	rita
 tölur	nvfo	tala
@@ -4744,7 +4494,6 @@ táknuð	sþghfn	tákna
 sama	fbkeo	samur
 hátt	nkeo	háttur
 .	.	.
-
 Ptólemaíos	e	Ptólemaíos
 ritaði	sfg3eþ	rita
 til	ae	til
@@ -4760,14 +4509,12 @@ e	x	e
 me	e	me
 kx	x	kx
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 eins	fokee	einn
 konar	nkee	konar
 sætiskerfi	nhen	sætiskerfi
 .	.	.
-
 Til	ae	til
 dæmis	nhee	dæmi
 kemur	sfg3en	koma
@@ -4786,7 +4533,6 @@ sem	c	sem
 5	ta	5
 mínútur	nvfn	mínúta
 .	.	.
-
 Hafa	sng	hafa
 verður	sfg3en	verða
 í	aþ	í
@@ -4807,7 +4553,6 @@ mættust	sfm3fþ	mæta
 margir	lkfnsf	margur
 menningarstraumar	nkfn	menningarstraumur
 .	.	.
-
 Sextugakerfið	nheng	sextugakerfi
 er	sfg3en	vera
 ættað	lhensf	ættaður
@@ -4827,7 +4572,6 @@ einingabrotin	nhfng	einingabrot
 frá	aþ	frá
 Egyptum	nkfþ-s	Egypti
 .	.	.
-
 Landsvæðið	nheng	landsvæði
 þar	aa	þar
 sem	c	sem
@@ -4852,7 +4596,6 @@ eftir	ao	eftir
 Krists	nkee-s	Kristur
 burð	nkeo	burður
 .	.	.
-
 En	c	en
 hellensk	lvensf	hellenskur
 menning	nven	menning
@@ -4867,7 +4610,6 @@ Rómaveldi	nheþ-s	Rómaveldi
 var	sfg3eþ	vera
 gríska	nven	gríska
 .	.	.
-
 Mörgum	lkfþsf	margur
 menningarþáttum	nkfþ	menningarþáttur
 laust	sfg3eþ	ljósta
@@ -4887,7 +4629,6 @@ eða	c	eða
 annarri	foveþ	annar
 fræðiiðkun	nveþ	fræðiiðkun
 .	.	.
-
 Ptólemaíos	e	Ptólemaíos
 blandaði	sfg3eþ	blanda
 til	ae	til
@@ -4898,7 +4639,6 @@ talnaritun	nveþ	talnaritun
 og	c	og
 sextugakerfi	nheþ	sextugakerfi
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 átti	sfg3eþ	eiga
@@ -4908,7 +4648,6 @@ við	ao	við
 ólík	lhfosf	ólíkur
 viðfangsefni	nhfo	viðfangsefni
 .	.	.
-
 Sætistalnaritun	nven	sætistalnaritun
 í	aþ	í
 tugakerfi	nheþ	tugakerfi
@@ -4925,7 +4664,6 @@ nefnd	sþgven	nefna
 indóarabísk	lvensf	indóarabískur
 talnaritun	nven	talnaritun
 .	.	.
-
 Upphaf	nhen	upphaf
 slíkrar	fbvee	slíkur
 talnaritunar	nvee	talnaritun
@@ -4951,7 +4689,6 @@ eftir	ao	eftir
 Leonardo	e	Leonardo
 Fibonacci	e	Fibonacci
 .	.	.
-
 Talnaritunin	nveng	talnaritun
 breiddist	sfm3eþ	breiða
 hratt	aa	hratt
@@ -4983,7 +4720,6 @@ tíunduhlutanna	nkfeg	tíunduhluti
 árið	nheog	ár
 1585	ta	1585
 .	.	.
-
 Fram	aa	fram
 til	ae	til
 þess	fakee	sá

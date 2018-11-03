@@ -1,7 +1,6 @@
 af	aþ	af
 fjölmörgum	lhfþsf	fjölmargur
 .	.	.
-
 Ósamsett	lhfnsf	ósamsettur
 nöfn	nhfn	nafn
 ,	,	,
@@ -16,7 +15,6 @@ eru	sfg3fn	vera
 miklu	lheþsf	mikill
 færri	lhfnvm	fár
 .	.	.
-
 Nefna	sng	nefna
 má	sfg3en	mega
 Ynja	nven-s	Ynja
@@ -35,7 +33,6 @@ Viðar	nken-s	Viðar
 ,	,	,
 Þengill	nken-s	Þengill
 .	.	.
-
 Sá	faken	sá
 siður	nken	siður
 hefur	sfg3en	hafa
@@ -65,7 +62,6 @@ Stormur	nken-s	Stormur
 og	c	og
 Vísa	nven-s	Vísa
 .	.	.
-
 Í	aþ	í
 ensku	nveþ	enska
 er	sfg3en	vera
@@ -100,7 +96,6 @@ sígarettuna	nveog	sígaretta
 óformlegu	lheþsf	óformlegur
 máli	nheþ	mál
 .	.	.
-
 Orðið	nheng	orð
 virðist	sfm3en	virða
 frá	aþ	frá
@@ -110,7 +105,6 @@ lok	nhfo	lok
 19.	ta	19.
 aldar	nvee	öld
 .	.	.
-
 Orðið	nheng	orð
 fag	e	fag
 þekkist	sfm3en	þekkja
@@ -141,7 +135,6 @@ um	ao	um
 samkynhneigðan	lkeosf	samkynhneigður
 mann	nkeo	maður
 .	.	.
-
 Skýringin	nveng	skýring
 á	aþ	á
 notkuninni	nveþg	notkun
@@ -173,7 +166,6 @@ lok	nhfo	lok
 fyrri	lveevm	fyrri
 heimsstyrjaldar	nvee	heimsstyrjöld
 .	.	.
-
 (	(	(
 Dictionary	e	Dictionary
 of	e	of
@@ -182,7 +174,6 @@ Slang	e	Slang
 1967:176	ta	1967:176
 )	)	)
 .	.	.
-
 Fag	e	fag
 í	aþ	í
 merkingunni	nveþg	merking
@@ -199,7 +190,6 @@ faggot	e	faggot
 sömu	fbveþ	sami
 merkingu	nveþ	merking
 .	.	.
-
 Elsta	lhenve	gamall
 dæmi	nhen	dæmi
 í	aþ	í
@@ -215,7 +205,6 @@ er	sfg3en	vera
 frá	aþ	frá
 1914	ta	1914
 .	.	.
-
 Þar	aa	þar
 er	sfg3en	vera
 orðið	nheng	orð
@@ -227,7 +216,6 @@ komi	svg3en	koma
 frá	aþ	frá
 Bandaríkjunum	nhfþgs	Bandaríki
 .	.	.
-
 Í	aþ	í
 Dictionary	e	Dictionary
 of	e	of
@@ -265,7 +253,6 @@ samkynhneigður	lkensf	samkynhneigður
 »	»	»
 komin	sþgven	koma
 .	.	.
-
 Svo	aa	svo
 virðist	sfm3en	virða
 því	aa	því
@@ -287,12 +274,10 @@ algengari	lvenvm	algengur
 í	aþ	í
 Bretlandi	nheþ-s	Bretland
 .	.	.
-
 Mynd	nven	mynd
 :	:	:
 Chud.com	e	Chud.com
 .	.	.
-
 Því	aa	því
 engi	foken	engi
 er	sfg3en	vera
@@ -333,13 +318,11 @@ sínum	fehfþ	sinn
 eru	sfg3fn	vera
 fædd	sþghfn	fæða
 .	.	.
-
 (	(	(
 Sveinbjörn	nken-s	Sveinbjörn
 Egilsson	nken-s	Egilsson
 1948	ta	1948
 )	)	)
-
 Þetta	faheo	þessi
 lætur	sfg3en	láta
 skáldið	nheng	skáld
@@ -364,7 +347,6 @@ ort	sþghen	yrkja
 fyrir	ao	fyrir
 Krist	nkeo-s	Kristur
 .	.	.
-
 Í	ao	í
 þúsundir	nvfo	þúsund
 ára	nhfe	ár
@@ -384,7 +366,6 @@ elstu	lvfþve	gamall
 rituðum	lvfþsf	ritaður
 heimildum	nvfþ	heimild
 .	.	.
-
 Þótt	c	þótt
 meginhlutverk	nhen	meginhlutverk
 nafna	nhfe	nafn
@@ -403,7 +384,6 @@ að	aþ	að
 baki	nheþ	bak
 nafngiftum	nvfþ	nafngift
 .	.	.
-
 Gyðingar	nkfn-s	Gyðingur
 gáfu	sfg3fþ	gefa
 oft	aa	oft
@@ -425,7 +405,6 @@ að	aþ	að
 nýjum	lkeþsf	nýr
 manni	nkeþ	maður
 .	.	.
-
 Í	aþ	í
 Biblíunni	nveþgs	Biblía
 eru	sfg3fn	vera
@@ -443,7 +422,6 @@ hæfi	svg3eþ	hefja
 nafnbera	nkeþ	nafnberi
 betur	aam	vel
 .	.	.
-
 Sumir	fokfn	sumur
 þjóðflokkar	nkfn	þjóðflokkur
 trúa	sfg3fn	trúa
@@ -462,7 +440,6 @@ breyta	sng	breyta
 um	ao	um
 nafn	nheo	nafn
 .	.	.
-
 Indíánaþjóðflokkur	nken	indíánaþjóðflokkur
 einn	foken	einn
 í	aþ	í
@@ -499,7 +476,6 @@ yfir	aa	yfir
 í	ao	í
 dauðraríkið	nheog	dauðraríki
 .	.	.
-
 Til	ae	til
 þess	fphee	það
 að	cn	að
@@ -514,7 +490,6 @@ upp	aa	upp
 ný	lhfosf	nýr
 nöfn	nhfo	nafn
 .	.	.
-
 Með	aþ	með
 því	fpheþ	það
 telja	sfg3fn	telja
@@ -532,7 +507,6 @@ hann	fpken	hann
 ekki	aa	ekki
 aftur	aa	aftur
 .	.	.
-
 Af	aþ	af
 því	faheþ	sá
 sem	ct	sem
@@ -557,7 +531,6 @@ nöfn	nhfn	nafn
 eru	sfg3fn	vera
 gefin	sþghfn	gefa
 .	.	.
-
 Þrátt	aa	þrátt
 fyrir	ao	fyrir
 leit	nveo	leit
@@ -571,54 +544,43 @@ heimildir	nvfo	heimild
 um	ao	um
 slíkt	fbheo	slíkur
 .	.	.
-
 Heimildir	nvfn	heimild
 :	:	:
 -	-	-
 Sveinbjörn	nken-s	Sveinbjörn
 Egilsson	nken-s	Egilsson
 .	.	.
-
 1948	ta	1948
 .	.	.
-
 Kviður	nvfn	kviða
 Hómers	nkee-s	Hómer
 .	.	.
-
 II.	ta	II.
 Bindi	nhen	bindi
 .	.	.
-
 Ódysseifskviða	nven-s	Ódysseifskviða
 .	.	.
-
 Bókaútgáfa	nven-s	Bókaútgáfa
 Menningarsjóðs	nkee-s	Menningarsjóður
 ,	,	,
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 -	-	-
 Guðrún	nven-s	Guðrún
 Kvaran	nven-s	Kvaran
 .	.	.
-
 1991	ta	1991
 .	.	.
-
 Formáli	nken	formáli
 að	aþ	að
 verkinu	nheþg	verk
 Nöfn	nhfn-s	Nafn
 Íslendinga	nkfe-s	Íslendingur
 .	.	.
-
 Heimskringla	nven-s	Heimskringla
 ,	,	,
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 -	-	-
 Kapla	e	Kapla
 ,	,	,
@@ -628,16 +590,13 @@ Bernays	e	Bernays
 ,	,	,
 Anne	e	Anne
 .	.	.
-
 1997	ta	1997
 .	.	.
-
 The	e	The
 Language	e	Language
 of	e	of
 Names	e	Names
 .	.	.
-
 Simon	e	Simon
 &	c	&
 Schuster	e	Schuster
@@ -645,7 +604,6 @@ Schuster	e	Schuster
 New	e	New
 York	e	York
 .	.	.
-
 Skammstöfunin	nveng	skammstöfun
 WC	as	WC
 stendur	sfg3en	standa
@@ -656,7 +614,6 @@ closet	e	closet
 vatnssalerni	nheo	vatnssalerni
 »	»	»
 .	.	.
-
 Closet	e	Closet
 er	sfg3en	vera
 notað	sþghen	nota
@@ -685,7 +642,6 @@ sig	fpkeo	sig
 í	ao	í
 hlé	nheo	hlé
 .	.	.
-
 Orðið	nheng	orð
 er	sfg3en	vera
 skylt	lhensf	skyldur
@@ -710,7 +666,6 @@ læstur	lkensf	læstur
 staður	nken	staður
 »	»	»
 .	.	.
-
 Fyrr	aam	fyrr
 á	aþ	á
 tímum	nkfþ	tími
@@ -741,7 +696,6 @@ salerni	nhfo	salerni
 í	aþ	í
 húsum	nhfþ	hús
 .	.	.
-
 Slík	fbhfn	slíkur
 salerni	nhfn	salerni
 voru	sfg3fþ	vera
@@ -768,7 +722,6 @@ stytt	sþghfn	stytta
 í	aþ	í
 WC	as	WC
 .	.	.
-
 Á	aþ	á
 íslensku	nveþ	íslenska
 var	sfg3eþ	vera
@@ -781,7 +734,6 @@ um	ao	um
 aldamótin	nhfog	aldamót
 1900	ta	1900
 .	.	.
-
 Skoðið	sbg2fn	skoða
 einnig	aa	einnig
 svör	nhfo	svar
@@ -794,14 +746,12 @@ fann	sfg3eþ	finna
 upp	aa	upp
 vatnsklósettið	nheog	vatnsklósett
 ?	?	?
-
 Hvenær	aa	hvenær
 og	c	og
 hvar	aa	hvar
 var	sfg3eþ	vera
 það	fphen	það
 ?	?	?
-
 -	-	-
 Getur	sfg3en	geta
 verið	ssg	vera
@@ -814,7 +764,6 @@ af	aþ	af
 orðinu	nheþg	orð
 closed	e	closed
 ?	?	?
-
 Hér	aa	hér
 áður	aa	áður
 fyrr	aam	fyrr
@@ -826,12 +775,10 @@ með	aþ	með
 þessu	faheþ	þessi
 orði	nheþ	orð
 .	.	.
-
 Mynd	nven	mynd
 :	:	:
 Period	e	Period
 Features	e	Features
-
 Hin	gven	hinn
 svonefna	x	svonefinn
 «	«	«
@@ -859,7 +806,6 @@ fol	e	fol
 .	.	.
 )	)	)
 .	.	.
-
 Handritið	nheng	handrit
 er	sfg3en	vera
 frá	aþ	frá
@@ -880,7 +826,6 @@ er	sfg3en	vera
 höfundur	nken	höfundur
 ókunnur	lkensf	ókunnur
 .	.	.
-
 Höfundur	nken	höfundur
 ritgerðarinnar	nveeg	ritgerð
 hefur	sfg3en	hafa
@@ -905,7 +850,6 @@ helstu	lkfnve	heldri
 málfræðingar	nkfn	málfræðingur
 fornaldar	nvee	fornöld
 .	.	.
-
 Málfræðirit	nhfn	málfræðirit
 þeirra	fpkfe	hann
 voru	sfg3fþ	vera
@@ -920,7 +864,6 @@ fram	aa	fram
 eftir	aþ	eftir
 öldum	nvfþ	öld
 .	.	.
-
 Efni	nhen	efni
 ritgerðarinnar	nveeg	ritgerð
 er	sfg3en	vera
@@ -947,7 +890,6 @@ henni	fpveþ	hún
 frumlegan	lkeosf	frumlegur
 hátt	nkeo	háttur
 .	.	.
-
 Meginverk	nhen	meginverk
 hans	fpkee	hann
 fólst	sfm3eþ	fela
@@ -961,7 +903,6 @@ að	aþ	að
 hljóðkerfi	nheþ	hljóðkerfi
 íslensku	lheþsf	íslenskur
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 langt	aa	langt
@@ -991,7 +932,6 @@ fram	aa	fram
 20.	ta	20.
 öld	nveo	öld
 .	.	.
-
 Með	aþ	með
 lágmarkspari	nheþ	lágmarkspar
 er	sfg3en	vera
@@ -1023,7 +963,6 @@ að	c	að
 séu	svg3fn	vera
 samhljóða	lhfnof	samhljóða
 .	.	.
-
 Sem	c	sem
 dæmi	nheo	dæmi
 mætti	svg3eþ	mega
@@ -1035,7 +974,6 @@ mar-far	x	mar-far
 ,	,	,
 par-var	x	par-var
 .	.	.
-
 Þarna	aa	þarna
 eru	sfg3fn	vera
 samhljóðarnir	nkfng	samhljóði
@@ -1043,7 +981,6 @@ samhljóðarnir	nkfng	samhljóði
 framstöðu	nveþ	framstaða
 merkingargreinandi	lkfnof	merkingargreinandi
 .	.	.
-
 Því	fpheþ	það
 hefur	sfg3en	hafa
 oft	aa	oft
@@ -1072,7 +1009,6 @@ miðja	lveosf	miður
 20.	ta	20.
 öld	nveo	öld
 .	.	.
-
 Um	ao	um
 fyrstu	lveove	fyrstur
 málfræðiritgerðina	nveog	málfræðiritgerð
@@ -1090,7 +1026,6 @@ Treatise	e	Treatise
 frá	aþ	frá
 1972	ta	1972
 .	.	.
-
 Skoðið	sbg2fn	skoða
 einnig	aa	einnig
 svar	nheo	svar
@@ -1103,7 +1038,6 @@ var	sfg3eþ	vera
 fyrsta	lvenve	fyrstur
 málfræðiritgerðin	nveng	málfræðiritgerð
 ?	?	?
-
 Spurningin	nveng	spurning
 í	aþ	í
 heild	nveþ	heild
@@ -1111,14 +1045,12 @@ sinni	feveþ	sinn
 hljóðaði	sfg3eþ	hljóða
 svona	aa	svona
 :	:	:
-
 Í	ao	í
 hvaða	fsveo	hvaða
 átt	nveo	átt
 er	sfg3en	vera
 humátt	nven	humátt
 ?	?	?
-
 Af	aþ	af
 hverju	fsheþ	hver
 er	sfg3en	vera
@@ -1132,7 +1064,6 @@ humátt	nveo	humátt
 eftir	aþ	eftir
 einhverjum	fokeþ	einhver
 ?	?	?
-
 Humátt	nven	humátt
 er	sfg3en	vera
 eitt	fohen	einn
@@ -1143,7 +1074,6 @@ afbökunum	nvfþ	afbökun
 orðinu	nheþg	orð
 hámót	nhen	hámót
 .	.	.
-
 Hámót	nhen	hámót
 merkir	sfg3en	merkja
 «	«	«
@@ -1255,7 +1185,6 @@ dag	nkeo	dagur
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Elsta	lhenve	gamall
 dæmi	nhen	dæmi
 Orðabókarinnar	nveegs	Orðabók
@@ -1269,7 +1198,6 @@ um	ao	um
 aldamótin	nhfog	aldamót
 1700	ta	1700
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 úr	aþ	úr
@@ -1286,7 +1214,6 @@ humátt	nveo	humátt
 til	ae	til
 e-s	as	e-s
 .	.	.
-
 Orðasambandið	nheng	orðasamband
 ganga	sng	ganga
 /	/	/
@@ -1305,7 +1232,6 @@ miðja	lveosf	miður
 19.	ta	19.
 öld	nveo	öld
 .	.	.
-
 Aðrar	fovfn	annar
 hliðarmyndir	nvfn	hliðarmynd
 eru	sfg3fn	vera
@@ -1328,7 +1254,6 @@ lokum	nhfþ	lok
 18.	ta	18.
 aldar	nvee	öld
 .	.	.
-
 Í	aþ	í
 íslenskri	lveþsf	íslenskur
 þjóðtrú	nveþ	þjóðtrú
@@ -1344,7 +1269,6 @@ vikudegi	nkeþ	vikudagur
 barn	nhen	barn
 fæddist	sfm3eþ	fæða
 .	.	.
-
 Í	aþ	í
 þjóðsögum	nvfþ	þjóðsaga
 Jóns	nkee-s	Jón
@@ -1357,7 +1281,6 @@ bindi	nheþ	bindi
 )	)	)
 stendur	sfg3en	standa
 :	:	:
-
 Sagt	sþghen	segja
 er	sfg3en	vera
 að	c	að
@@ -1405,7 +1328,6 @@ laugardag	nkeo	laugardagur
 til	ae	til
 lukku	nvee	lukka
 .	.	.
-
 Ekki	aa	ekki
 er	sfg3en	vera
 trútt	lhensf	trúr
@@ -1426,7 +1348,6 @@ hefur	sfg3en	hafa
 verið	ssg	vera
 byrjað	sþghen	byrja
 .	.	.
-
 Þessi	faven	þessi
 þula	nven	þula
 er	sfg3en	vera
@@ -1458,7 +1379,6 @@ miðvikudagur	nken	miðvikudagur
 til	ae	til
 minnis	nhee	minni
 .	.	.
-
 Miðvikudagur	nken	miðvikudagur
 til	ae	til
 moldar	nvee	mold
@@ -1493,7 +1413,6 @@ aðra	foveo	annar
 grófari	lveovm	grófur
 sveitavinnu	nveo	sveitavinna
 .	.	.
-
 Þótt	c	þótt
 flestir	lkfnse	margur
 séu	svg3fn	vera
@@ -1528,7 +1447,6 @@ til	ae	til
 mæðu	nvee	mæða
 )	)	)
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 vel	aa	vel
@@ -1550,7 +1468,6 @@ eða	c	eða
 á	aþ	á
 mánudegi	nkeþ	mánudagur
 .	.	.
-
 Þær	fpvfn	hún
 fitjuðu	sfg3fþ	fitja
 frekar	aam	frekar
@@ -1568,7 +1485,6 @@ til	ae	til
 næsta	lkeeve	næstur
 dags	nkee	dagur
 .	.	.
-
 Orðasambandið	nheng	orðasamband
 frá	aþ	frá
 blautu	lheþsf	blautur
@@ -1620,7 +1536,6 @@ en	c	en
 bein	nhfn	bein
 fullorðinna	lkfesf	fullorðinn
 .	.	.
-
 Bein	lvensf	beinn
 merking	nven	merking
 er	sfg3en	vera
@@ -1650,14 +1565,12 @@ barnsbeini	nheþ	barnsbein
 /	/	/
 barnsbeinum	nhfþ	barnsbein
 .	.	.
-
 Orðasambandið	nheng	orðasamband
 á	aþ	á
 sér	fpheþ	sig
 erlenda	lveosf	erlendur
 fyrirmynd	nveo	fyrirmynd
 .	.	.
-
 Í	aþ	í
 dönsku	nveþ	danska
 er	sfg3en	vera
@@ -1705,7 +1618,6 @@ Mynd	nven	mynd
 Carolyn	e	Carolyn
 Sandstrom	e	Sandstrom
 Photography	e	Photography
-
 Í	aþ	í
 gildi	nheþ	gildi
 eru	sfg3fn	vera
@@ -1726,7 +1638,6 @@ B	x	b
 nr.	as	nr.
 133/1974	ta	133/1974
 .	.	.
-
 Þessar	favfn	þessi
 reglur	nvfn	regla
 ,	,	,
@@ -1744,7 +1655,6 @@ heimasíðu	nveþ	heimasíða
 Íslenskrar	lveesf	íslenskur
 málstöðvar	nvee	málstöð
 .	.	.
-
 Ætlunin	nveng	ætlun
 er	sfg3en	vera
 að	cn	að
@@ -1765,7 +1675,6 @@ hluta	nkeþ	hluti
 næsta	lheeve	næstur
 árs	nhee	ár
 .	.	.
-
 Nafnið	nheng	nafn
 Blær	nken-s	Blær
 er	sfg3en	vera
@@ -1793,7 +1702,6 @@ eða	c	eða
 síðara	lheovm	síðari
 nafn	nheo	nafn
 .	.	.
-
 Það	fphen	það
 beygist	sfm3en	beygja
 :	:	:
@@ -1805,7 +1713,6 @@ Blæ	nkeo-s	Blær
 Blæ	nkeþ-s	Blær
 ef.	as	ef.
 Blæs	nkee-s	Blær
-
 Í	aþ	í
 lögum	nhfþ	lag
 nr.	as	nr.
@@ -1827,7 +1734,6 @@ verið	ssg	vera
 frá	aþ	frá
 1991	ta	1991
 :	:	:
-
 Stúlku	nveþ	stúlka
 skal	sfg3en	skulu
 gefa	sng	gefa
@@ -1838,7 +1744,6 @@ skal	sfg3en	skulu
 gefa	sng	gefa
 karlmannsnafn	nheo	karlmannsnafn
 .	.	.
-
 Þar	aa	þar
 sem	c	sem
 Blær	nken-s	Blær
@@ -1853,7 +1758,6 @@ stúlku	nveo	stúlka
 það	faheo	sá
 nafn	nheo	nafn
 .	.	.
-
 Aðeins	aa	aðeins
 ein	tfven	einn
 kona	nven	kona
@@ -1874,7 +1778,6 @@ lagaákvæðisins	nheeg	lagaákvæði
 árið	nheog	ár
 1991	ta	1991
 .	.	.
-
 Orðið	nheng	orð
 einvígi	nhen	einvígi
 er	sfg3en	vera
@@ -1888,7 +1791,6 @@ vopnaviðskipti	nhfo	vopnaviðskipti
 tveggja	tfkfe	tveir
 manna	nkfe	maður
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 samgermanskt	lhensf	samgermanskur
@@ -1904,7 +1806,6 @@ og	c	og
 fornensku	nveþ	fornenska
 ânwîg	e	ânwîg
 .	.	.
-
 Algengara	lhenvm	algengur
 var	sfg3eþ	vera
 þó	aa	þó
@@ -1939,7 +1840,6 @@ einvígi	nheþ	einvígi
 og	c	og
 hólmgöngu	nveþ	hólmganga
 .	.	.
-
 Mynd	nven	mynd
 af	aþ	af
 einvígi	nheþ	einvígi
@@ -1950,7 +1850,6 @@ Shakespeare	e	Shakespeare
 s	e	s
 England	e	England
 .	.	.
-
 Með	aþ	með
 orðinu	nheþg	orð
 einvígi	nheþ	einvígi
@@ -1975,7 +1874,6 @@ frá	aþ	frá
 sínum	fekfþ	sinn
 mönnum	nkfþ	maður
 .	.	.
-
 Sama	fbhen	sami
 orð	nhen	orð
 er	sfg3en	vera
@@ -2011,7 +1909,6 @@ láni	nheþ	lán
 latínu	nveþ	latína
 duellum	e	duellum
 .	.	.
-
 Duellum	e	Duellum
 mun	sfg3en	munu
 vera	sng	vera
@@ -2037,7 +1934,6 @@ tveir	tfkfn	tveir
 »	»	»
 )	)	)
 .	.	.
-
 Hugsunin	nveng	hugsun
 er	sfg3en	vera
 nánast	aae	náið
@@ -2050,7 +1946,6 @@ einvígi	nheþ	einvígi
 og	c	og
 duel	e	duel
 .	.	.
-
 Í	aþ	í
 hinu	gheþ	hinn
 fyrra	lheþvm	fyrri
@@ -2089,11 +1984,9 @@ III	ta	III
 :	:	:
 533-535	ta	533-535
 .	.	.
-
 -	-	-
 The	e	The
 Duel	e	Duel
-
 Sögnin	nveng	sögn
 að	cn	að
 tvínóna	sng	tvínóna
@@ -2118,7 +2011,6 @@ heimildum	nvfþ	heimild
 Orðabókar	nvee-s	Orðabók
 Háskólans	nkeegs	Háskóli
 .	.	.
-
 Merkingin	nveng	merking
 er	sfg3en	vera
 «	«	«
@@ -2179,7 +2071,6 @@ og	c	og
 langa	lveosf	langur
 nónmessu	nveo	nónmessa
 .	.	.
-
 Til	ae	til
 þess	fphee	það
 bendir	sfg3en	benda
@@ -2187,7 +2078,6 @@ fyrri	lkenvm	fyrri
 liðurinn	nkeng	liður
 tví-	x	tví
 .	.	.
-
 Við	ao	við
 það	fpheo	það
 hefur	sfg3en	hafa
@@ -2214,7 +2104,6 @@ fór	sfg3eþ	fara
 í	ao	í
 messuna	nveog	messa
 .	.	.
-
 Spurningin	nveng	spurning
 í	aþ	í
 heild	nveþ	heild
@@ -2222,7 +2111,6 @@ sinni	feveþ	sinn
 hljóðaði	sfg3eþ	hljóða
 svona	aa	svona
 :	:	:
-
 Hvaðan	aa	hvaðan
 eru	sfg3fn	vera
 orðið	nheng	orð
@@ -2243,7 +2131,6 @@ fram	aa	fram
 íslenskri	lveþsf	íslenskur
 tungu	nveþ	tunga
 ?	?	?
-
 Hafa	sfg3fn	hafa
 þau	fphfn	það
 alltaf	aa	alltaf
@@ -2251,7 +2138,6 @@ haft	ssg	hafa
 sömu	fbveo	sami
 merkingu	nveo	merking
 ?	?	?
-
 [	[	[
 Hér	aa	hér
 er	sfg3en	vera
@@ -2282,7 +2168,6 @@ aðalmerkingar	nvfo	aðalmerking
 í	aþ	í
 íslensku	nveþ	íslenska
 .	.	.
-
 Annars	fokee	annar
 vegar	nkee	vegur
 er	sfg3en	vera
@@ -2311,7 +2196,6 @@ stinga	sng	stinga
 sundur	aa	sundur
 hnausa	nkfo	hnaus
 .	.	.
-
 Hann	fpken	hann
 líkist	sfm3en	líkja
 skóflu	nveþ	skófla
@@ -2320,7 +2204,6 @@ blaðið	nheng	blað
 er	sfg3en	vera
 mjórra	lhenvm	mjór
 .	.	.
-
 Jörð	nven	jörð
 ,	,	,
 sem	ct	sem
@@ -2331,7 +2214,6 @@ er	sfg3en	vera
 kölluð	sþgven	kalla
 pæla	nven	pæla
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 er	sfg3en	vera
@@ -2352,7 +2234,6 @@ gegnum	ao	gegnum
 eitthvert	foheo	einhver
 verkefni	nheo	verkefni
 .	.	.
-
 Fyrri	lvenvm	fyrri
 merkingin	nveng	merking
 virðist	sfm3en	virða
@@ -2368,7 +2249,6 @@ frá	aþ	frá
 17.	ta	17.
 öld	nveþ	öld
 .	.	.
-
 Elstu	lhfnve	gamall
 dæmi	nhfn	dæmi
 um	ao	um
@@ -2382,7 +2262,6 @@ miðja	lveosf	miður
 19.	ta	19.
 öld	nveo	öld
 .	.	.
-
 Orðasambandið	nheng	orðasamband
 að	cn	að
 pæla	sng	pæla
@@ -2460,7 +2339,6 @@ lokum	nhfþ	lok
 18.	ta	18.
 aldar	nvee	öld
 .	.	.
-
 Sú	faven	sá
 merking	nven	merking
 sem	ct	sem
@@ -2496,7 +2374,6 @@ er	sfg3en	vera
 svipaðri	lveþsf	svipaður
 merkingu	nveþ	merking
 .	.	.
-
 Athugasemd	nven	athugasemd
 ritstjórnar	nvee	ritstjórn
 :	:	:
@@ -2521,7 +2398,6 @@ frá	aþ	frá
 Boga	nkeþ-s	Bogi
 Agnarssyni	nkeþ-s	Agnarsson
 .	.	.
-
 Þeir	fpkfn	hann
 hafa	sfg3fn	hafa
 báðir	fokfn	báðir
@@ -2546,7 +2422,6 @@ tönkum	nkfþ	tankur
 var	sfg3eþ	vera
 mæld	sþgven	mæla
 .	.	.
-
 Í	aþ	í
 þessari	faveþ	þessi
 merkingu	nveþ	merking
@@ -2567,7 +2442,6 @@ við	ao	við
 orðið	nheog	orð
 pál	nkeo	páll
 .	.	.
-
 Sögnin	nveng	sögn
 pejle	e	pejle
 merkir	sfg3en	merkja
@@ -2605,7 +2479,6 @@ segir	sfg3en	segja
 bréfi	nheþ	bréf
 sínu	feheþ	sinn
 :	:	:
-
 Á	aþ	á
 flutninga-	nhfþ	flutningaskip
 og	c	og
@@ -2625,7 +2498,6 @@ vatnshæð	nveo	vatnshæð
 í	aþ	í
 tönkum	nkfþ	tankur
 .	.	.
-
 Gilti	sfg3eþ	gilda
 það	fphen	það
 bæði	c	bæði
@@ -2634,7 +2506,6 @@ vatns-	nkfo	vatnstankur
 og	c	og
 sjótanka	nkfo	sjótankur
 .	.	.
-
 T.d.	as	T.d.
 gæti	svg3eþ	geta
 skipstjóri	nken	skipstjóri
@@ -2662,7 +2533,6 @@ væri	svg3eþ	vera
 í	aþ	í
 stefnistank	nkeþ	stefnistankur
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 komið	sþghen	koma
@@ -2670,11 +2540,9 @@ beint	aa	beint
 úr	aþ	úr
 dönsku	nveþ	danska
 .	.	.
-
 Mynd	nven	mynd
 :	:	:
 Soilworkshop	e	Soilworkshop
-
 Orðið	nheng	orð
 renta	nven	renta
 er	sfg3en	vera
@@ -2689,7 +2557,6 @@ eða	c	eða
 öðrum	fohfþ	annar
 verðmætum	nhfþ	verðmæti
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 tökuorð	nhen	tökuorð
@@ -2703,7 +2570,6 @@ frá	aþ	frá
 16.	ta	16.
 öld	nveþ	öld
 .	.	.
-
 Orðatiltækið	nheng	orðatiltæki
 að	cn	að
 bera	sng	bera
@@ -2732,7 +2598,6 @@ en	c	en
 einni	tfveþ	einn
 gerð	nveþ	gerð
 .	.	.
-
 Hin	gven	hinn
 elsta	lvenve	gamall
 í	aþ	í
@@ -2752,7 +2617,6 @@ miðri	lveþsf	miður
 17.	ta	17.
 öld	nveþ	öld
 .	.	.
-
 Aðeins	aa	aðeins
 yngra	lhenvm	ungur
 er	sfg3en	vera
@@ -2764,7 +2628,6 @@ fyrir	ao	fyrir
 utan	aa	utan
 rentu	nveo	renta
 .	.	.
-
 Að	cn	að
 bera	sng	bera
 nafn	nheo	nafn
@@ -2786,7 +2649,6 @@ nafn	nheo	nafn
 með	aþ	með
 rentu	nveþ	renta
 .	.	.
-
 Renta	nven	renta
 er	sfg3en	vera
 líka	aa	líka
@@ -2801,7 +2663,6 @@ rentu	nveþ	renta
 eða	c	eða
 rentum	nvfþ	renta
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 yfirleitt	aa	yfirleitt
@@ -2837,7 +2698,6 @@ meira	lheovm	mikill
 en	c	en
 það	fpheo	það
 .	.	.
-
 Orðasambandið	nheng	orðasamband
 um	ao	um
 úlfaldann	nkeog	úlfaldi
@@ -2851,7 +2711,6 @@ til	ae	til
 Nýja	lheevf	nýr
 testamentisins	nheeg	testamenti
 .	.	.
-
 Í	aþ	í
 samstofna	lhfþof	samstofna
 guðsjöllunum	nhfþg	guðspjall
@@ -2875,7 +2734,6 @@ biblíuútgáfunni	nveþg	biblíuútgáfa
 frá	aþ	frá
 1981	ta	1981
 :	:	:
-
 Enn	aa	enn
 segi	sfg1en	segja
 ég	fp1en	ég
@@ -2897,7 +2755,6 @@ inn	aa	inn
 Guðs	nkee-s	Guð
 ríki	nheo	ríki
 .	.	.
-
 Í	aþ	í
 elstu	lveþve	gamall
 þýðingu	nveþ	þýðing
@@ -2921,7 +2778,6 @@ stafsetningu	nveþ	stafsetning
 breytt	sþghen	breyta
 )	)	)
 :	:	:
-
 auðveldara	lhenvm	auðveldur
 er	sfg3en	vera
 úlfbaldanum	nkeþg	úlfbaldi
@@ -2940,7 +2796,6 @@ ganga	sng	ganga
 guðs	nkee	guð
 ríki	nheo	ríki
 .	.	.
-
 Í	aþ	í
 útgáfu	nveþ	útgáfa
 Viðeyjarbiblíu	nvee-s	Viðeyjarbiblía
@@ -2950,7 +2805,6 @@ er	sfg3en	vera
 þýtt	sþghen	þýða
 þannig	aa	þannig
 :	:	:
-
 auðveldara	lhenvm	auðveldur
 er	sfg3en	vera
 úlfaldanum	nkeþg	úlfaldi
@@ -2968,7 +2822,6 @@ inn	aa	inn
 Guðs	nkee-s	Guð
 ríki	nheo	ríki
 .	.	.
-
 Þótt	c	þótt
 Oddur	nken-s	Oddur
 noti	svg3en	nota
@@ -2991,7 +2844,6 @@ staðar	nkee	staður
 hin	gven	hinn
 sama	fbven	sami
 .	.	.
-
 Úlfaldinn	nkeng	úlfaldi
 var	sfg3eþ	vera
 eitt	fohen	einn
@@ -3013,7 +2865,6 @@ nálarauga	nheo	nálarauga
 var	sfg3eþ	vera
 fjarstæðukennd	lvensf	fjarstæðukenndur
 .	.	.
-
 Með	aþ	með
 samlíkingu	nveþ	samlíking
 sinni	feveþ	sinn
@@ -3048,7 +2899,6 @@ komist	svm3en	koma
 gegnum	ao	gegnum
 nálarauga	nheo	nálarauga
 .	.	.
-
 Þess	fphee	það
 má	sfg3en	mega
 geta	sng	geta
@@ -3071,7 +2921,6 @@ múrnum	nkeþg	múr
 umhverfis	ao	umhverfis
 Jerúsalem	nveo-s	Jerúsalem
 .	.	.
-
 Þetta	fahen	þessi
 hlið	nhen	hlið
 var	sfg3eþ	vera
@@ -3089,7 +2938,6 @@ um	aa	um
 með	ao	með
 úlfalda	nkeo	úlfaldi
 .	.	.
-
 Í	aþ	í
 fornu	lheþsf	forn
 máli	nheþ	mál
@@ -3151,7 +2999,6 @@ tigu	nxfo	tigur
 þf.	as	þf.
 )	)	)
 .	.	.
-
 Aðrar	fovfn	annar
 tölur	nvfn	tala
 ,	,	,
@@ -3175,7 +3022,6 @@ eins	aa	eins
 og	c	og
 nú	aa	nú
 .	.	.
-
 Síðar	aam	síðar
 breytast	sfm3fn	breyta
 tölurnar	nvfng	tala
@@ -3191,7 +3037,6 @@ liðurinn	nkeng	liður
 varð	sfg3eþ	verða
 óbeygjanlegur	lkensf	óbeygjanlegur
 .	.	.
-
 Þetta	fahen	þessi
 gerðist	sfm3eþ	gera
 um	ao	um
@@ -3207,7 +3052,6 @@ skipti	sfg3eþ	skipta
 um	ao	um
 beygingarflokk	nkeo	beygingarflokkur
 .	.	.
-
 Um	ao	um
 fyrri	lkeovm	fyrri
 liðinn	nkeog	liður
@@ -3238,7 +3082,6 @@ með	aþ	með
 og	c	og
 bindistaf	nkeþ	bindistafur
 .	.	.
-
 Þegar	c	þegar
 kemur	sfg3en	koma
 fram	aa	fram
@@ -3279,7 +3122,6 @@ kemur	sfg3en	koma
 þó	aa	þó
 fyrir	aa	fyrir
 .	.	.
-
 Á	aþ	á
 14.	ta	14.
 og	c	og
@@ -3318,7 +3160,6 @@ upp	aa	upp
 16.	ta	16.
 öld	nveþ	öld
 .	.	.
-
 Um	ao	um
 þróun	nveo	þróun
 orðsins	nheeg	orð
@@ -3350,7 +3191,6 @@ algeng	lhfnsf	algengur
 15.	ta	15.
 öld	nveþ	öld
 .	.	.
-
 Á	aþ	á
 13.	ta	13.
 öld	nveþ	öld
@@ -3417,13 +3257,11 @@ verður	sfg3en	verða
 framburði	nkeþ	framburður
 )	)	)
 .	.	.
-
 Sama	fbhen	sami
 gilti	sfg3eþ	gilda
 um	ao	um
 fjörutíu	tfhfo	fjörutíu
 .	.	.
-
 Tengihljóðið	nheng	tengihljóð
 -u-	nhen	u
 í	aþ	í
@@ -3445,7 +3283,6 @@ ríkjandi	lvenof	ríkjandi
 síðustu	lvfove	síðari
 aldir	nvfo	öld
 .	.	.
-
 Heimildir	nvfn	heimild
 :	:	:
 -	-	-
@@ -3453,10 +3290,8 @@ Björn	nken-s	Björn
 Karel	nken-s	Karel
 Þórólfsson	nken-s	Þórólfsson
 .	.	.
-
 1925	ta	1925
 .	.	.
-
 Um	ao	um
 íslenzkar	lvfosf	íslenskur
 orðmyndir	nvfo	orðmynd
@@ -3471,35 +3306,27 @@ breytingar	nvfn	breyting
 úr	aþ	úr
 fornmálinu	nheþg	fornmál
 .	.	.
-
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 -	-	-
 Oskar	e	Oskar
 Bandle	e	Bandle
 .	.	.
-
 1956	ta	1956
 .	.	.
-
 Die	e	Die
 Sprache	e	Sprache
 der	e	der
 Gudbrandsbiblia	e	Gudbrandsbiblia
 .	.	.
-
 Bibliotheca	e	Bibliotheca
 arnamagnæana	e	arnamagnæana
 .	.	.
-
 Vol.	as	Vol.
 Xvii	ta	xvii
 .	.	.
-
 København	e	København
 .	.	.
-
 Spurningin	nveng	spurning
 í	aþ	í
 heild	nveþ	heild
@@ -3507,13 +3334,11 @@ sinni	feveþ	sinn
 hljóðaði	sfg3eþ	hljóða
 svona	aa	svona
 :	:	:
-
 Er	sfg3en	vera
 orðið	nheng	orð
 ógnanir	nvfn	ógnun
 til	aa	til
 ?	?	?
-
 Ég	fp1en	ég
 er	sfg1en	vera
 í	aþ	í
@@ -3535,7 +3360,6 @@ vitlaust	lhensf	vitlaus
 hjá	aþ	hjá
 þeim	fpkfþ	hann
 ?	?	?
-
 Orðið	nheng	orð
 ógnun	nven	ógnun
 er	sfg3en	vera
@@ -3567,7 +3391,6 @@ beitir	sfg3en	beita
 einhvern	fokeo	einhver
 annan	fokeo	annar
 .	.	.
-
 Orðið	nheng	orð
 mun	sfg3en	munu
 ekki	aa	ekki
@@ -3582,7 +3405,6 @@ upphafi	nheþ	upphaf
 20.	ta	20.
 aldar	nvee	öld
 .	.	.
-
 Sögnin	nveng	sögn
 ógna	sng	ógna
 merkir	sfg3en	merkja
@@ -3685,7 +3507,6 @@ fremur	aam	fremur
 um	ao	um
 ástand	nheo	ástand
 .	.	.
-
 Samhengið	nheng	samhengi
 sker	sfg3en	skera
 úr	aa	úr
@@ -3700,7 +3521,6 @@ nota	sng	nota
 eða	c	eða
 ógnun	nveo	ógnun
 .	.	.
-
 Sögnin	nveng	sögn
 að	cn	að
 bursta	sng	bursta
@@ -3736,7 +3556,6 @@ børste	e	børste
 17.	ta	17.
 öld	nveþ	öld
 .	.	.
-
 Á	aþ	á
 20.	ta	20.
 öld	nveþ	öld
@@ -3786,11 +3605,9 @@ ryk	nhen	ryk
 af	aþ	af
 fati	nheþ	fat
 .	.	.
-
 Algert	lhensf	alger
 burst	nhen	burst
 !	!	!
-
 Af	aþ	af
 sögninni	nveþg	sögn
 í	aþ	í
@@ -3823,13 +3640,11 @@ Mynd	nven	mynd
 :	:	:
 BBC	as	BBC
 Sport	e	Sport
-
 Upphaflega	aa	upphaflega
 var	sfg3eþ	vera
 spurningin	nveng	spurning
 svona	aa	svona
 :	:	:
-
 Hvað	fsheo	hver
 þýðir	sfg3en	þýða
 orðið	nheng	orð
@@ -3848,7 +3663,6 @@ verða	sng	verða
 fyrir	aþ	fyrir
 svaka	nkeþ	svaki
 ?	?	?
-
 Nafnorðið	nheng	nafnorð
 svaki	nken	svaki
 er	sfg3en	vera
@@ -3866,7 +3680,6 @@ vind	nkeo	vindur
 og	c	og
 hláku	nveo	hláka
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ruddamerkingin	nveng	ruddamerking
@@ -3879,7 +3692,6 @@ liðnum	nkeþg	liður
 í	aa	í
 svakalegur	lkensf	svakalegur
 .	.	.
-
 Til	ae	til
 dæmis	nhee	dæmi
 er	sfg3en	vera
@@ -3901,7 +3713,6 @@ verður	sfg3en	verða
 þá	aa	þá
 ofstopafullur	lkensf	ofstopafullur
 .	.	.
-
 Ef	c	ef
 einhver	foken	einhver
 er	sfg3en	vera
@@ -3922,7 +3733,6 @@ skelfilegur	lkensf	skelfilegur
 veki	svg3en	vekja
 ótta	nkeo	ótti
 .	.	.
-
 Nafnorðið	nheng	nafnorð
 svak	nhen	svak
 er	sfg3en	vera
@@ -3952,14 +3762,12 @@ vera	sng	vera
 hvass	lkensf	hvass
 »	»	»
 .	.	.
-
 Fótboltabullur	nvfn	fótboltabulla
 eru	sfg3fn	vera
 oft	aa	oft
 miklir	lkfnsf	mikill
 svakar	nkfn	svaki
 .	.	.
-
 Oft	aa	oft
 er	sfg3en	vera
 talað	sþghen	tala
@@ -3992,7 +3800,6 @@ sé	svg3en	vera
 ógeðslega	aa	ógeðslega
 fallegt	lhensf	fallegur
 .	.	.
-
 Upphaflega	lvenvf	upphaflegur
 merkingin	nveng	merking
 í	aa	í
@@ -4009,7 +3816,6 @@ herðandi	slg	herða
 gagnstæðri	lveþsf	gagnstæður
 merkingu	nveþ	merking
 .	.	.
-
 Forliðurinn	nkeng	forliður
 svaka-	x	svaki
 er	sfg3en	vera
@@ -4033,12 +3839,10 @@ var	sfg3eþ	vera
 svakagrín	nhen	svakagrín
 »	»	»
 .	.	.
-
 Mynd	nven	mynd
 :	:	:
 Estados	e	Estados
 .	.	.
-
 Orðasambandið	nheng	orðasamband
 að	cn	að
 sofa	sng	sofa
@@ -4065,7 +3869,6 @@ láni	nheþ	lán
 úr	aþ	úr
 dönsku	nveþ	danska
 .	.	.
-
 Þar	aa	þar
 er	sfg3en	vera
 talað	sþghen	tala
@@ -4083,7 +3886,6 @@ hann	fpken	hann
 ætlaði	sfg3eþ	ætla
 sér	fpkeþ	sig
 .	.	.
-
 Ekkert	fohen	enginn
 er	sfg3en	vera
 að	aþ	að
@@ -4122,7 +3924,6 @@ seint	aa	seint
 vinnuna	nveog	vinna
 .	.	.
 »	»	»
-
 Sumir	fokfn	sumur
 sofa	sfg3fn	sofa
 hvorki	c	hvorki
@@ -4139,11 +3940,9 @@ stað	nkeo	staður
 í	aþ	í
 vinnunni	nveþg	vinna
 .	.	.
-
 Mynd	nven	mynd
 :	:	:
 www.astro.princeton.edu	v	www.astro.princeton.edu
-
 Sögnin	nveng	sögn
 að	cn	að
 melda	sng	melda
@@ -4171,7 +3970,6 @@ um	ao	um
 e-ð	as	e-ð
 »	»	»
 .	.	.
-
 Í	aþ	í
 íslensku	nveþ	íslenska
 hefur	sfg3en	hafa
@@ -4193,7 +3991,6 @@ aðallega	aa	aðallega
 í	aþ	í
 talmáli	nheþ	talmál
 .	.	.
-
 Elsta	lhenve	gamall
 dæmið	nheng	dæmi
 í	aþ	í
@@ -4204,7 +4001,6 @@ er	sfg3en	vera
 frá	aþ	frá
 1815	ta	1815
 .	.	.
-
 Það	fahen	sá
 sama	fbhen	sami
 gildir	sfg3en	gilda
@@ -4231,12 +4027,10 @@ og	c	og
 hið	ghen	hinn
 íslenska	lhenvf	íslenskur
 .	.	.
-
 Villumelding	nven	villumelding
 í	aþ	í
 tölvu	nveþ	tölva
 .	.	.
-
 Mynd	nven	mynd
 :	:	:
 Free	e	Free
@@ -4244,7 +4038,6 @@ images	e	images
 :	:	:
 Computer	e	Computer
 .	.	.
-
 Eitt	lhensf	einn
 sér	lhenof	sér
 virðist	sfm3en	virða
@@ -4257,7 +4050,6 @@ til	aa	til
 í	aþ	í
 málinu	nheþg	mál
 .	.	.
-
 Bæði	c	bæði
 -kund	x	kund
 og	c	og
@@ -4277,7 +4069,6 @@ og	c	og
 fornu	lheþsf	forn
 máli	nheþ	mál
 .	.	.
-
 Í	aþ	í
 gotnesku	nveþ	gotneska
 ,	,	,
@@ -4311,7 +4102,6 @@ samsvaraði	svg3eþ	samsvara
 a	x	a
 )	)	)
 .	.	.
-
 Í	aþ	í
 fornháþýsku	nveþ	fornháþýska
 ,	,	,
@@ -4362,7 +4152,6 @@ sögninni	nveþg	sögn
 að	cn	að
 koma	sng	koma
 .	.	.
-
 Samkunda	nven	samkunda
 er	sfg3en	vera
 þá	aa	þá
@@ -4372,14 +4161,12 @@ sem	ct	sem
 koma	sfg3fn	koma
 saman	aa	saman
 »	»	»
-
 Samkunda	nven	samkunda
 -	-	-
 alþingi	nhen	alþingi
 til	ae	til
 forna	lkeevf	forn
 .	.	.
-
 Bæði	c	bæði
 samkoma	nven	samkoma
 og	c	og
@@ -4413,7 +4200,6 @@ sam-	x	sam-
 í	aþ	í
 íslensku	nveþ	íslenska
 .	.	.
-
 Sem	c	sem
 dæmi	nheo	dæmi
 mætti	svg3eþ	mega
@@ -4427,17 +4213,14 @@ latneska	lheþvf	latneskur
 orðinu	nheþg	orð
 conscientia	e	conscientia
 .	.	.
-
 Mynd	nven	mynd
 :	:	:
 Kynningarbæklingur	nken	kynningarbæklingur
 Alþingis	nhee-s	Alþingi
 .	.	.
-
 Vefur	nken	vefur
 Alþingis	nhee-s	Alþingi
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 seðlasöfnum	nhfþ	seðlasafn
 Orðabókar	nvee-s	Orðabók
@@ -4469,7 +4252,6 @@ Jóns	nkee-s	Jón
 úr	aþ	úr
 Grunnavík	nveþ-s	Grunnavík
 .	.	.
-
 Orðasambandið	nheng	orðasamband
 virðist	sfm3en	virða
 orðið	ssg	verða
@@ -4490,7 +4272,6 @@ einhverjum	fokeþ	einhver
 báða	fokfo	báðir
 heimana	nkfog	heimur
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 boxara	nkeþ	boxari
@@ -4499,7 +4280,6 @@ sýnt	sþghen	sýna
 tvo	tfkfo	tveir
 heimana	nkfog	heimur
 .	.	.
-
 Merkingin	nveng	merking
 er	sfg3en	vera
 að	cn	að
@@ -4549,7 +4329,6 @@ eða	c	eða
 vondan	lkeosf	vondur
 )	)	)
 .	.	.
-
 Hann	fpken	hann
 sér	sfg3en	sjá
 þá	aa	þá
@@ -4572,12 +4351,10 @@ honum	fpkeþ	hann
 eftir	ao	eftir
 dauðann	nkeog	dauði
 .	.	.
-
 Mynd	nven	mynd
 :	:	:
 Redbird	e	Redbird
 Nation	e	Nation
-
 Nafnið	nheng	nafn
 á	aþ	á
 leiktækinu	nheþg	leiktæki
@@ -4598,7 +4375,6 @@ og	c	og
 nafnorðinu	nheþg	nafnorð
 salt	nhen	salt
 .	.	.
-
 Talað	sþghen	tala
 er	sfg3en	vera
 um	ao	um
@@ -4628,7 +4404,6 @@ að	cn	að
 vega	sng	vega
 ?	?	?
 »	»	»
-
 Orðin	nhfng	orð
 flytjast	sfm3fn	flytja
 síðan	aa	síðan
@@ -4643,7 +4418,6 @@ verður	sfg3en	verða
 heitið	nheng	heiti
 vegasalt	nhen	vegasalt
 .	.	.
-
 Líkingin	nveng	líking
 er	sfg3en	vera
 sennilega	aa	sennilega
@@ -4664,7 +4438,6 @@ skyldi	svg3eþ	skulu
 hverjum	fokeþ	hver
 sekk	nkeþ	sekkur
 .	.	.
-
 Ef	c	ef
 svo	aa	svo
 var	sfg3eþ	vera
@@ -4679,7 +4452,6 @@ sem	c	sem
 sekkurinn	nkeng	sekkur
 var	sfg3eþ	vera
 .	.	.
-
 Sambandið	nheng	samband
 að	cn	að
 vega	sng	vega
@@ -4701,7 +4473,6 @@ vera	sng	vera
 í	aþ	í
 jafnvægi	nheþ	jafnvægi
 .	.	.
-
 Til	ae	til
 dæmis	nhee	dæmi
 þurfa	sfg3fn	þurfa
@@ -4714,14 +4485,12 @@ að	cn	að
 vega	sng	vega
 salt	nheo	salt
 .	.	.
-
 Eigum	sfg1fn	eiga
 við	fp1fn	ég
 að	cn	að
 vega	sng	vega
 salt	nheo	salt
 ?	?	?
-
 Þrautin	nveng	þraut
 að	cn	að
 vega	sng	vega
@@ -4732,7 +4501,6 @@ salt	nheo	salt
 fornu	lheþsf	forn
 máli	nheþ	mál
 .	.	.
-
 Önnur	fohfn	annar
 nöfn	nhfn	nafn
 á	aþ	á
@@ -4762,7 +4530,6 @@ að	cn	að
 ríða	sng	ríða
 ása	nkfo	ás
 .	.	.
-
 Í	aþ	í
 ritinu	nheþg	rit
 Íslenzkar	lvfnsf	íslenskur
@@ -4802,7 +4569,6 @@ af	aþ	af
 fornaldarsögum	nvfþ	fornaldarsaga
 Norðurlanda	nhfe-s	Norðurlönd
 .	.	.
-
 Sagt	sþghen	segja
 er	sfg3en	vera
 frá	aþ	frá
@@ -4823,7 +4589,6 @@ upp	aa	upp
 á	ao	á
 bæjarhúsin	nhfog	bæjarhús
 .	.	.
-
 Þar	aa	þar
 hafi	svg3fn	hafa
 þeir	fpkfn	hann
@@ -4846,7 +4611,6 @@ dyrum	nvfþ	dyr
 fyrir	aþ	fyrir
 þeim	fpkfþ	hann
 .	.	.
-
 Til	aa	til
 eru	sfg3fn	vera
 gamlar	lvfnsf	gamall
@@ -4862,7 +4626,6 @@ er	sfg3en	vera
 lýst	sþghen	lýsa
 svona	aa	svona
 :	:	:
-
 Voru	sfg3fþ	vera
 þeir	fpkfn	hann
 lengi	aa	lengi
@@ -4885,7 +4648,6 @@ var	sfg3eþ	vera
 í	aþ	í
 bæjarlási	nkeþ	bæjarlás
 .	.	.
-
 Ólafur	nken-s	Ólafur
 Davíðsson	nken-s	Davíðsson
 lýsir	sfg3en	lýsa
@@ -4897,13 +4659,11 @@ hátt	nkeo	háttur
 155	ta	155
 )	)	)
 :	:	:
-
 Optast	aae	oft
 vega	sfg3fn	vega
 tveir	tfkfn	tveir
 salt	nheo	salt
 .	.	.
-
 Talan	nveng	tala
 60	ta	60
 var	sfg3eþ	vera
@@ -4913,7 +4673,6 @@ grunntala	nven	grunntala
 talnaritunarkerfi	nheþ	talnaritunarkerfi
 þeirra	fpkfe	hann
 .	.	.
-
 Þess	fphee	það
 sér	sfg3en	sjá
 stað	nkeo	staður
@@ -4936,7 +4695,6 @@ mínútunni	nveþg	mínúta
 60	ta	60
 sekúndur	nvfo	sekúnda
 .	.	.
-
 En	c	en
 hvers	fshee	hver
 vegna	ae	vegna
@@ -4947,7 +4705,6 @@ notuð	sþgven	nota
 sem	c	sem
 grunntala	nven	grunntala
 ?	?	?
-
 Það	fphen	það
 er	sfg3en	vera
 ekki	aa	ekki
@@ -4968,7 +4725,6 @@ upp	aa	upp
 í	ao	í
 60	ta	60
 .	.	.
-
 Tölurnar	nvfng	tala
 2	ta	2
 ,	,	,

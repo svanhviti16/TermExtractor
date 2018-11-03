@@ -37,7 +37,6 @@ bráðaveikindum	nhfþ	bráðaveikindi
 og	c	og
 slysum	nhfþ	slys
 .	.	.
-
 Óhætt	lhensf	óhætt
 er	sfg3en	vera
 að	cn	að
@@ -61,7 +60,6 @@ spítala	nkfe	spítali
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Vinnan	nveng	vinna
 við	ao	við
 ferlana	nkfog	ferill
@@ -117,7 +115,6 @@ læknisfræði	nveþ	læknisfræði
 og	c	og
 sjúkraflutningum	nkfþ	sjúkraflutningur
 .	.	.
-
 Slökkvilið	nhen	slökkvilið
 Reykjavíkur	nvee-s	Reykjavík
 átti	sfg3eþ	eiga
@@ -158,7 +155,6 @@ Brynjars	nkee-s	Brynjar
 Þórs	nkee-s	Þór
 Friðrikssonar	nkee-s	Friðriksson
 .	.	.
-
 Margir	lkfnsf	margur
 hafa	sfg3fn	hafa
 komið	ssg	koma
@@ -190,7 +186,6 @@ einhverjir	fokfn	einhver
 séu	svg3fn	vera
 nefndir	sþgkfn	nefna
 .	.	.
-
 Til	ae	til
 að	cn	að
 leggja	sng	leggja
@@ -210,14 +205,12 @@ nú	aa	nú
 í	aþ	í
 desember	nkeþ	desember
 .	.	.
-
 Framlag	nhen	framlag
 í	ao	í
 Líknarsjóðinn	nkeogs	líknarsjóður
 |	|	|
 29-12-2006	ta	29-12-2006
 |	|	|
-
 Orkuveita	nven-s	Orkuveita
 Reykjavíkur	nvee-s	Reykjavík
 hefur	sfg3en	hafa
@@ -242,7 +235,6 @@ nú	aa	nú
 í	ao	í
 haust	nheo	haust
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 Ásgeir	nken-s	Ásgeir
@@ -266,7 +258,6 @@ Sverrir	nken-s	Sverrir
 Björn	nken-s	Björn
 Björnsson	nken-s	Björnsson
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 formaður	nken	formaður
@@ -277,7 +268,6 @@ umsjón	nveo	umsjón
 með	aþ	með
 sjóðnum	nkeþg	sjóður
 .	.	.
-
 Í	aþ	í
 bréfi	nheþ	bréf
 sem	ct	sem
@@ -315,7 +305,6 @@ aðfaranótt	nveo	aðfaranótt
 28.	ta	28.
 september	nkeo	september
 sl.	as	sl.
-
 Það	fphen	það
 sé	svg3en	vera
 mat	nhen	mat
@@ -347,7 +336,6 @@ og	c	og
 búnaði	nkeþ	búnaður
 virkjunarinnar	nveeg	virkjun
 .	.	.
-
 Grunnatriði	nhfn	grunnatriði
 eldvarna	nvfe	eldvörn
 á	aþ	á
@@ -357,7 +345,6 @@ tungumálum	nhfþ	tungumál
 |	|	|
 19-12-2006	ta	19-12-2006
 |	|	|
-
 Slökkvilið	nhen	slökkvilið
 höfuðborgarsvæðisins	nheeg	höfuðborgarsvæði
 hefur	sfg3en	hafa
@@ -379,7 +366,6 @@ tungumálum	nhfþ	tungumál
 auk	ae	auk
 íslensku	nvee	íslenska
 .	.	.
-
 Efnið	nheng	efni
 er	sfg3en	vera
 sérstaklega	aa	sérstaklega
@@ -398,7 +384,6 @@ og	c	og
 skemmri	lkeovm	skammur
 tíma	nkeo	tími
 .	.	.
-
 Bæklingarnir	nkfng	bæklingur
 eru	sfg3fn	vera
 tveir	tfkfn	tveir
@@ -421,7 +406,6 @@ brennandi	lveþof	brennandi
 og	c	og
 slökkvitæki	nhfo	slökkvitæki
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 fjallað	sþghen	fjalla
@@ -449,7 +433,6 @@ Rauða	lkeovf	rauður
 kross	nkeo	kross
 Íslands	nhee-s	Ísland
 .	.	.
-
 Jón	nken-s	Jón
 Viðar	nken-s	Viðar
 Matthíasson	nken-s	Matthíasson
@@ -489,7 +472,6 @@ eldvörnum	nvfþ	eldvörn
 er	sfg3en	vera
 ábótavant	lhensf	ábótavant
 .	.	.
-
 -	-	-
 Við	fp1fn	ég
 erum	sfg1fn	vera
@@ -507,7 +489,6 @@ nýjum	lkfþsf	nýr
 íbúum	nkfþ	íbúi
 lágmarksþjónustu	nveo	lágmarksþjónusta
 .	.	.
-
 Bæklingunum	nkfþg	bæklingur
 verður	sfg3en	verða
 nú	aa	nú
@@ -534,7 +515,6 @@ sem	c	sem
 þurfa	sng	þurfa
 þykir	sfg3en	þykja
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 er	sfg3en	vera
@@ -546,7 +526,6 @@ hér	aa	hér
 á	aþ	á
 vefnum	nkeþg	vefur
 .	.	.
-
 Þekki	svg3en	þekkja
 fólk	nhen	fólk
 útlendinga	nkfo	útlendingur
@@ -576,7 +555,6 @@ segir	sfg3en	segja
 Jón	nken-s	Jón
 Viðar	nken-s	Viðar
 .	.	.
-
 Garðar	nken-s	Garðar
 H.	as	H.
 Guðjónsson	nken-s	Guðjónsson
@@ -605,7 +583,6 @@ tælensku	nveo	tælenska
 og	c	og
 serbnesku	nveo	serbneska
 .	.	.
-
 Efni	nhen	efni
 bæklinganna	nkfeg	bæklingur
 hefur	sfg3en	hafa
@@ -625,7 +602,6 @@ náð	ssg	ná
 mikilli	lveþsf	mikill
 útbreiðslu	nveþ	útbreiðsla
 .	.	.
-
 Grunnatriði	nhfn	grunnatriði
 eldvarna	nvfe	eldvörn
 á	aþ	á
@@ -639,7 +615,6 @@ litháísku	nveþ	litháíska
 (	(	(
 PDF	as	PDF
 )	)	)
-
 Grunnatriði	nhfn	grunnatriði
 eldvarna	nvfe	eldvörn
 á	aþ	á
@@ -653,7 +628,6 @@ serbnesku	nveþ	serbneska
 (	(	(
 PDF	as	PDF
 )	)	)
-
 Slökkviliðsmenn	nkfn	slökkviliðsmaður
 heiðraðir	sþgkfn	heiðra
 af	aþ	af
@@ -661,7 +635,6 @@ Sjóvá	nveþ-s	Sjóvá
 |	|	|
 18-12-2006	ta	18-12-2006
 |	|	|
-
 Sjóvá	nven-s	Sjóvá
 hefur	sfg3en	hafa
 veitt	ssg	veita
@@ -675,7 +648,6 @@ starf	nheo	starf
 að	aþ	að
 brunavörnum	nvfþ	brunavörn
 .	.	.
-
 Slökkviliðið	nheng	slökkvilið
 fær	sfg3en	fá
 þessa	faveo	þessi
@@ -704,7 +676,6 @@ mun	nkeþ	munur
 stærri	lhfþvm	stór
 löndum	nhfþ	land
 .	.	.
-
 Slökkviliðsmenn	nkfn	slökkviliðsmaður
 þurfa	sfg3fn	þurfa
 oft	aa	oft
@@ -721,7 +692,6 @@ fólk	nhen	fólk
 treystir	sfg3en	treysta
 á	aa	á
 .	.	.
-
 Mikil	lvensf	mikill
 framþróun	nven	framþróun
 hefur	sfg3en	hafa
@@ -749,7 +719,6 @@ sjúklingum	nkfþ	sjúklingur
 á	aþ	á
 slysstað	nkeþ	slysstaður
 .	.	.
-
 Sú	faven	sá
 fagmennska	nven	fagmennska
 sem	ct	sem
@@ -764,7 +733,6 @@ lífsgæði	nhfo	lífsgæði
 allra	fokfe	allur
 landsmanna	nkfe	landsmaður
 .	.	.
-
 Slökkvilið	nhen	slökkvilið
 höfuðborgarsvæðisins	nheeg	höfuðborgarsvæði
 hefur	sfg3en	hafa
@@ -779,7 +747,6 @@ fyrirtækjum	nhfþ	fyrirtæki
 á	aþ	á
 höfuðborgarsvæðinu	nheþg	höfuðborgarsvæði
 .	.	.
-
 Auk	ae	auk
 sjúkraflutninga	nkfe	sjúkraflutningur
 og	c	og
@@ -813,7 +780,6 @@ aðstoð	nveo	aðstoð
 við	ao	við
 almenning	nkeo	almenningur
 .	.	.
-
 Starfsmenn	nkfn	starfsmaður
 liðsins	nheeg	lið
 gegna	sfg3fn	gegna
@@ -828,7 +794,6 @@ fjölbreyttrar	lveesf	fjölbreyttur
 og	c	og
 tækjabúnaðar	nkee	tækjabúnaður
 .	.	.
-
 Í	aþ	í
 liðinu	nheþg	lið
 eru	sfg3fn	vera
@@ -859,7 +824,6 @@ annarra	fohfe	annar
 tilfallandi	lhfeof	tilfallandi
 starfa	nhfe	starf
 .	.	.
-
 Sjóvá	nven-s	Sjóvá
 hefur	sfg3en	hafa
 þrisvar	aa	þrisvar
@@ -868,7 +832,6 @@ sinnum	nhfþ	sinn
 veitt	ssg	veita
 heiðursskjöldinn	nkeog	heiðursskjöldur
 .	.	.
-
 Herdís	nven-s	Herdís
 Storgaard	nven-s	Storgaard
 hlaut	sfg3eþ	hljóta
@@ -882,7 +845,6 @@ slysavarnir	nvfo	slysavörn
 þágu	nveo	þága
 barna	nhfe	barn
 .	.	.
-
 Árið	nheog	ár
 2000	ta	2000
 hlutu	sfg3fþ	hljóta
@@ -897,7 +859,6 @@ Jökulsá	nveþ-s	Jökulsá
 á	aþ	á
 Fjöllum	nhfþ-s	Fjall
 .	.	.
-
 Lögreglan	nveng	lögregla
 í	aþ	í
 Hafnarfirði	nkeþ-s	Hafnarfjörður
@@ -916,14 +877,12 @@ mælanlegan	lkeosf	mælanlegur
 fækkun	nveþ	fækkun
 afbrota	nhfe	afbrot
 .	.	.
-
 Samningur	nken	samningur
 við	ao	við
 Faxaflóahafnir	nvfo-s	Faxaflóahöfn
 |	|	|
 14-12-2006	ta	14-12-2006
 |	|	|
-
 Jón	nken-s	Jón
 Viðar	nken-s	Viðar
 Matthíasson	nken-s	Matthíasson
@@ -949,7 +908,6 @@ milli	ae	milli
 Slökkviliðs	nhee-s	Slökkvilið
 Höfuðborgarsvæðisins	nheegs	Höfuðborgarsvæði
 bs.	as	bs.
-
 og	c	og
 Faxaflóahafna	nvfe-s	Faxaflóahöfn
 sf.	as	sf.
@@ -962,7 +920,6 @@ mengunaróhappa	nhfe	mengunaróhapp
 hafnarsvæði	nheþ	hafnarsvæði
 Faxaflóahafna	nvfe-s	Faxaflóahöfn
 sf.	as	sf.
-
 Í	aþ	í
 samningnum	nkeþg	samningur
 felst	sfm3en	fela
@@ -971,7 +928,6 @@ Slökkvilið	nhen-s	slökkvilið
 Höfuðborgarsvæðisins	nheegs	Höfuðborgarsvæði
 bs	as	bs
 .	.	.
-
 fer	sfg3en	fara
 með	ao	með
 stjórnun	nveo	stjórnun
@@ -980,7 +936,6 @@ aðgerða	nvfe	aðgerð
 mengunaróhöpp	nhfn	mengunaróhapp
 verða	sfg3fn	verða
 .	.	.
-
 Samningurinn	nkeng	samningur
 er	sfg3en	vera
 m.a.	as	m.a.
@@ -997,7 +952,6 @@ frá	aþ	frá
 árinu	nheþg	ár
 2004	ta	2004
 .	.	.
-
 Búnaður	nken	búnaður
 Faxaflóahafna	nvfe-s	Faxaflóahöfn
 sf.	as	sf.
@@ -1024,7 +978,6 @@ skipulagningu	nveo	skipulagning
 nauðsynlegra	lvfesf	nauðsynlegur
 æfinga	nvfe	æfing
 .	.	.
-
 Samningur	nken	samningur
 þessi	faken	þessi
 er	sfg3en	vera
@@ -1068,7 +1021,6 @@ samstarf	nheo	samstarf
 ýmsum	fohfþ	ýmis
 málum	nhfþ	mál
 .	.	.
-
 Tengiliðir	nkfn	tengiliður
 fyrirtækjanna	nhfeg	fyrirtæki
 vegna	ae	vegna
@@ -1087,14 +1039,12 @@ f.h.	as	f.h.
 Slökkviliðs	nhee-s	Slökkvilið
 Höfuðborgarsvæðisins	nheegs	Höfuðborgarsvæði
 bs.	as	bs.
-
 Erill	nken	erill
 um	ao	um
 helgina	nveog	helgi
 |	|	|
 11-12-2006	ta	11-12-2006
 |	|	|
-
 Mikill	lkensf	mikill
 erill	nken	erill
 var	sfg3eþ	vera
@@ -1114,7 +1064,6 @@ rigning	nven	rigning
 og	c	og
 slydda	nven	slydda
 .	.	.
-
 Niðurföll	nhfn	niðurfall
 höfðu	sfg3fþ	hafa
 víða	aa	víða
@@ -1147,7 +1096,6 @@ hafði	sfg3eþ	hafa
 safnast	ssm	safna
 saman	aa	saman
 .	.	.
-
 Víðast	aae	víða
 urðu	sfg3fþ	verða
 þó	aa	þó
@@ -1166,14 +1114,12 @@ Kristjáns	nkee-s	Kristján
 Henryssonar	nkee-s	Henrysson
 aðstoðarvarðstjóra	nkee	aðstoðarvarðstjóri
 .	.	.
-
 Njóta	sfg3fn	njóta
 mikils	lheesf	mikill
 trausts	nhee	traust
 |	|	|
 27-11-2006	ta	27-11-2006
 |	|	|
-
 Fólk	nhen	fólk
 ber	sfg3en	bera
 mikið	lheosf	mikill
@@ -1188,7 +1134,6 @@ nýrri	lveþsf	nýr
 könnun	nveþ	könnun
 Gallups	e	Gallups
 .	.	.
-
 Nær	aam	nær
 99	ta	99
 prósent	nhfn	prósent
@@ -1199,7 +1144,6 @@ traust	nheo	traust
 til	ae	til
 þeirra	fpkfe	hann
 .	.	.
-
 Svokallað	lhensf	svokallaður
 ánægjugildi	nhen	ánægjugildi
 mældist	sfm3eþ	mæla
@@ -1224,7 +1168,6 @@ stofnanir	nvfo	stofnun
 til	ae	til
 þessa	fahee	þessi
 .	.	.
-
 Þá	aa	þá
 lýstu	sfg3fþ	lýsa
 um	aa	um
@@ -1242,7 +1185,6 @@ flestir	lkfnse	margur
 mjög	aa	mjög
 ánægðir	lkfnsf	ánægður
 .	.	.
-
 Ánægjan	nveng	ánægja
 mælist	sfm3en	mæla
 nær	aam	nær
@@ -1257,7 +1199,6 @@ að	cn	að
 nota	sng	nota
 þjónustuna	nveog	þjónusta
 .	.	.
-
 Átak	nhen	átak
 í	aþ	í
 eldvörnum	nvfþ	eldvörn
@@ -1265,7 +1206,6 @@ innflytjenda	nkfe	innflytjandi
 |	|	|
 24-11-2006	ta	24-11-2006
 |	|	|
-
 Slökkvilið	nhen	slökkvilið
 höfuðborgarsvæðisins	nheeg	höfuðborgarsvæði
 er	sfg3en	vera
@@ -1287,7 +1227,6 @@ leiðbeininga	nvfe	leiðbeining
 átta	tfhfþ	átta
 tungumálum	nhfþ	tungumál
 .	.	.
-
 Á	aþ	á
 sama	fbkeþ	sami
 tíma	nkeþ	tími
@@ -1303,7 +1242,6 @@ um	ao	um
 allt	foheo	allur
 land	nheo	land
 .	.	.
-
 Í	aþ	í
 nýrri	lveþsf	nýr
 skoðanakönnun	nveþ	skoðanakönnun
@@ -1320,7 +1258,6 @@ sé	svg3en	vera
 afar	aa	afar
 mikilvægt	lhensf	mikilvægur
 .	.	.
-
 Könnun	nven	könnun
 Gallup	e	Gallup
 á	aþ	á
@@ -1332,7 +1269,6 @@ almennings	nkee	almenningur
 til	ae	til
 eldvarna	nvfe	eldvörn
 :	:	:
-
 Eldvörnum	nvfþ	eldvörn
 er	sfg3en	vera
 verulega	aa	verulega
@@ -1340,7 +1276,6 @@ verulega	aa	verulega
 á	aþ	á
 mörgum	lhfþsf	margur
 heimilum	nhfþ	heimili
-
 Eldvarnaátak	nhen	eldvarnaátak
 Landssambands	nhee-s	Landssamband
 slökkviliðs-	nkfe	slökkviliðsmaður
@@ -1353,7 +1288,6 @@ um	ao	um
 allt	foheo	allur
 land	nheo	land
 .	.	.
-
 Könnun	nven	könnun
 Gallup	e	Gallup
 sýnir	sfg3en	sýna
@@ -1365,7 +1299,6 @@ er	sfg3en	vera
 mörgum	lhfþsf	margur
 heimilum	nhfþ	heimili
 .	.	.
-
 Almenningur	nken	almenningur
 telur	sfg3en	telja
 Eldvarnaátakið	nheogs	eldvarnaátak
@@ -1379,7 +1312,6 @@ slökkviliðs-	nkfe	slökkviliðsmaður
 og	c	og
 sjúkraflutningamanna	nkfe	sjúkraflutningamaður
 .	.	.
-
 Slökkvilið	nhen	slökkvilið
 höfuðborgarsvæðisins	nheeg	höfuðborgarsvæði
 gerir	sfg3en	gera
@@ -1389,7 +1321,6 @@ eldvörnum	nvfþ	eldvörn
 meðal	ae	meðal
 innflytjenda	nkfe	innflytjandi
 .	.	.
-
 Eldvarnaátak	nhen	eldvarnaátak
 Landssambands	nhee-s	Landssamband
 slökkviliðs-	nkfe	slökkviliðsmaður
@@ -1413,7 +1344,6 @@ heimilin	nhfog	heimili
 um	ao	um
 eldvarnir	nvfo	eldvörn
 .	.	.
-
 Könnun	nven	könnun
 sem	ct	sem
 Gallup	e	Gallup
@@ -1460,7 +1390,6 @@ neyðaráætlun	nveo	neyðaráætlun
 fyrir	ao	fyrir
 heimilið	nheog	heimili
 .	.	.
-
 Að	aþ	að
 jafnaði	nkeþ	jafnaður
 farast	sfm3fn	fara
@@ -1474,7 +1403,6 @@ hérlendis	aa	hérlendis
 ári	nheþ	ár
 hverju	foheþ	hver
 .	.	.
-
 Eldsvoðar	nkfn	eldsvoði
 valda	sfg3fn	valda
 árlega	aa	árlega
@@ -1487,7 +1415,6 @@ hálfan	lkeosf	hálfur
 milljarð	nkeo	milljarður
 króna	nvfe	króna
 .	.	.
-
 Reynslan	nveng	reynsla
 sýnir	sfg3en	sýna
 að	c	að
@@ -1505,7 +1432,6 @@ rafmagns	nhee	rafmagn
 og	c	og
 kertaljósa	nhfe	kertaljós
 .	.	.
-
 Slökkviliðs-	nkfn	slökkviliðsmaður
 og	c	og
 sjúkraflutningamenn	nkfn	sjúkraflutningamaður
@@ -1520,7 +1446,6 @@ sér	fpkfþ	sig
 grunnatriði	nhfo	grunnatriði
 eldvarna	nvfe	eldvörn
 .	.	.
-
 Könnun	nven	könnun
 Gallup	e	Gallup
 sýnir	sfg3en	sýna
@@ -1547,14 +1472,12 @@ mikilvægt	lheosf	mikilvægur
 14,7%	tp	14,7%
 )	)	)
 .	.	.
-
 Slökkviliðs-	nkfn	slökkviliðsmaður
 og	c	og
 sjúkraflutningamenn	nkfn	sjúkraflutningamaður
 njóta	sfg3fn	njóta
 mikils	lheesf	mikill
 trausts	nhee	traust
-
 Könnun	nven	könnun
 Gallup	e	Gallup
 leiðir	sfg3en	leiða
@@ -1571,7 +1494,6 @@ slökkviliðs-	nkfe	slökkviliðsmaður
 og	c	og
 sjúkraflutningamanna	nkfe	sjúkraflutningamaður
 .	.	.
-
 Nær	aam	nær
 99	ta	99
 prósent	nhfn	prósent
@@ -1582,7 +1504,6 @@ traust	nheo	traust
 til	ae	til
 þeirra	fpkfe	hann
 .	.	.
-
 Ánægjugildið	nheng	ánægjugildi
 í	ao	í
 þeirra	fpkfe	hann
@@ -1609,7 +1530,6 @@ stofnanir	nvfo	stofnun
 til	ae	til
 þessa	fahee	þessi
 .	.	.
-
 Þá	aa	þá
 lýstu	sfg3fþ	lýsa
 um	aa	um
@@ -1627,7 +1547,6 @@ flestir	lkfnse	margur
 mjög	aa	mjög
 ánægðir	lkfnsf	ánægður
 .	.	.
-
 Ánægjan	nveng	ánægja
 mælist	sfm3en	mæla
 nær	aam	nær
@@ -1642,14 +1561,12 @@ að	cn	að
 nota	sng	nota
 þjónustuna	nveog	þjónusta
 .	.	.
-
 Eldvarnabúnað	nkeo	eldvarnabúnaður
 vantar	sfg3en	vanta
 á	ao	á
 alltof	aa	alltof
 mörg	lhfosf	margur
 heimili	nhfo	heimili
-
 Sérfræðingar	nkfn	sérfræðingur
 í	aþ	í
 eldvörnum	nvfþ	eldvörn
@@ -1685,7 +1602,6 @@ er	sfg3en	vera
 um	ao	um
 seinan	lkeosf	seinn
 .	.	.
-
 Í	aþ	í
 óvenju	nvee	óvenja
 tíðum	lkfþsf	tíður
@@ -1704,7 +1620,6 @@ hvað	fohen	hver
 eftir	ao	eftir
 annað	foheo	annar
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 könnun	nveþ	könnun
 Gallup	e	Gallup
@@ -1732,7 +1647,6 @@ Reykjavík	nveþ-s	Reykjavík
 8,4	ta	8,4
 prósent	nhfn	prósent
 .	.	.
-
 Um	aa	um
 þriðjungur	nken	þriðjungur
 hefur	sfg3en	hafa
@@ -1745,7 +1659,6 @@ tvo	tfkfo	tveir
 eða	c	eða
 fleiri	lkfovm	margur
 .	.	.
-
 Talsvert	aa	talsvert
 virðist	sfm3en	virða
 einnig	aa	einnig
@@ -1764,7 +1677,6 @@ og	c	og
 viðhaldi	nheþ	viðhald
 þeirra	fpkfe	hann
 .	.	.
-
 Innan	aa	innan
 við	aa	við
 helmingur	nken	helmingur
@@ -1788,7 +1700,6 @@ slökkvitæki	nheo	slökkvitæki
 og	c	og
 eldvarnateppi	nheo	eldvarnateppi
 .	.	.
-
 Eins	aa	eins
 og	c	og
 tíðir	lkfnsf	tíður
@@ -1809,7 +1720,6 @@ og	c	og
 eignir	nvfo	eign
 fólks	nhee	fólk
 .	.	.
-
 Spurt	sþghen	spyrja
 var	sfg3eþ	vera
 í	aþ	í
@@ -1832,7 +1742,6 @@ prósent	nhfn	prósent
 því	fpheþ	það
 játandi	slg	játa
 .	.	.
-
 Slökkvilið	nhen	slökkvilið
 höfuðborgarsvæðisins	nheeg	höfuðborgarsvæði
 gerir	sfg3en	gera
@@ -1841,7 +1750,6 @@ gerir	sfg3en	gera
 eldvörnum	nvfþ	eldvörn
 meðal	ae	meðal
 innflytjenda	nkfe	innflytjandi
-
 Í	aþ	í
 Slökkviliðsmanninum	nkeþgs	Slökkviliðsmaður
 ,	,	,
@@ -1867,7 +1775,6 @@ tungumálum	nhfþ	tungumál
 en	c	en
 íslensku	nveþ	íslenska
 .	.	.
-
 Efnið	nheng	efni
 birtist	sfm3en	birta
 einnig	aa	einnig
@@ -1881,7 +1788,6 @@ fólk	nhen	fólk
 er	sfg3en	vera
 flest	lhense	margur
 .	.	.
-
 Birting	nven	birting
 efnisins	nheeg	efni
 er	sfg3en	vera
@@ -1918,7 +1824,6 @@ eða	c	eða
 skemmri	lkeovm	skammur
 tíma	nkeo	tími
 .	.	.
-
 Átakið	nheng	átak
 er	sfg3en	vera
 gert	sþghen	gera
@@ -1933,7 +1838,6 @@ Neyðarlínuna	nveogs	Neyðarlínan
 ,	,	,
 112	ta	112
 .	.	.
-
 Ljóst	lhensf	ljós
 er	sfg3en	vera
 að	c	að
@@ -1953,7 +1857,6 @@ eldvörnum	nvfþ	eldvörn
 er	sfg3en	vera
 ábótavant	lhensf	ábótavant
 .	.	.
-
 SHS	as	SHS
 hefur	sfg3en	hafa
 því	aa	því
@@ -1968,7 +1871,6 @@ sjö	tfhfo	sjö
 erlend	lhfosf	erlendur
 tungumál	nhfo	tungumál
 .	.	.
-
 Átak	nhen	átak
 SHS	as	SHS
 hefst	sfm3en	hefja
@@ -1994,14 +1896,12 @@ sem	c	sem
 er	sfg3en	vera
 þörf	nven	þörf
 .	.	.
-
 Borgarstjóri	nken	borgarstjóri
 á	aþ	á
 sjúkrabíl	nkeþ	sjúkrabíll
 |	|	|
 16-11-2006	ta	16-11-2006
 |	|	|
-
 Vilhjálmur	nken-s	Vilhjálmur
 Þ.	as	Þ.
 Vilhjálmsson	nken-s	Vilhjálmsson
@@ -2027,7 +1927,6 @@ enda	c	enda
 stjórnarformaður	nken	stjórnarformaður
 SHS	as	SHS
 .	.	.
-
 Hann	fpken	hann
 fór	sfg3eþ	fara
 í	ao	í
@@ -2062,7 +1961,6 @@ ræddi	sfg3eþ	ræða
 við	ao	við
 starfsmenn	nkfo	starfsmaður
 .	.	.
-
 «	«	«
 Það	fphen	það
 er	sfg3en	vera
@@ -2074,7 +1972,6 @@ starfinu	nheþg	starf
 þennan	fakeo	þessi
 hátt	nkeo	háttur
 .	.	.
-
 Nú	aa	nú
 veit	sfg1en	vita
 ég	fp1en	ég
@@ -2088,7 +1985,6 @@ starfsemin	nveng	starfsemi
 er	sfg3en	vera
 fólgin	sþgven	fela
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ótrúlega	aa	ótrúlega
@@ -2101,7 +1997,6 @@ hér	aa	hér
 sagði	sfg3eþ	segja
 borgarstjóri	nken	borgarstjóri
 .	.	.
-
 Starfsmönnum	nkfþ	starfsmaður
 þótti	sfg3eþ	þykja
 borgarstjóri	nken	borgarstjóri
@@ -2122,7 +2017,6 @@ fyrsta	lheove	fyrstur
 á	aþ	á
 sjúkrabílnum	nkeþg	sjúkrabíll
 .	.	.
-
 Ekki	aa	ekki
 afstaða	nven	afstaða
 slökkviliðsins	nheeg	slökkvilið
@@ -2170,7 +2064,6 @@ Viðar	nken-s	Viðar
 Matthíasson	nken-s	Matthíasson
 slökkviliðsstjóri	nken	slökkviliðsstjóri
 .	.	.
-
 Í	aþ	í
 Blaðinu	nheþgs	Blað
 í	ao	í
@@ -2200,7 +2093,6 @@ og	c	og
 útgönguleiðir	nvfo	útgönguleið
 vanti	svg3en	vanta
 .	.	.
-
 «	«	«
 Þessi	faven	þessi
 fyrirsögn	nven	fyrirsögn
@@ -2235,7 +2127,6 @@ viðtali	nheþ	viðtal
 Blaðinu	nheþgs	Blað
 .	.	.
 »	»	»
-
 Jón	nken-s	Jón
 Viðar	nken-s	Viðar
 segir	sfg3en	segja
@@ -2294,7 +2185,6 @@ brunavörnum	nvfþ	brunavörn
 er	sfg3en	vera
 háttað	sþghen	hátta
 .	.	.
-
 Ein	foven	einn
 veigamesta	lvenve	veigamikill
 eldvörnin	nveng	eldvörn
@@ -2318,7 +2208,6 @@ eldvarnarteppi	nheo	eldvarnarteppi
 við	ao	við
 hendina	nveog	hönd
 .	.	.
-
 Þetta	fahen	þessi
 eru	sfg3fn	vera
 ódýrar	lvfnsf	ódýr
@@ -2342,7 +2231,6 @@ eða	c	eða
 í	aþ	í
 leigu	nveþ	leiga
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 rétt	lhensf	réttur
@@ -2368,7 +2256,6 @@ vera	sng	vera
 á	ao	á
 svalir	nvfo	svalir
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 nauðsynlegt	lhensf	nauðsynlegur
@@ -2391,7 +2278,6 @@ reykhólfun	nveo	reykhólfun
 að	aþ	að
 stigahúsinu	nheþg	stigahús
 .	.	.
-
 Þetta	fahen	þessi
 tryggir	sfg3en	tryggja
 annars	fokee	annar
@@ -2422,7 +2308,6 @@ komast	snm	koma
 út	aa	út
 þar	aa	þar
 .	.	.
-
 Ef	c	ef
 ekki	aa	ekki
 þá	aa	þá
@@ -2439,7 +2324,6 @@ kemur	sfg3en	koma
 á	ao	á
 vettvang	nkeo	vettvangur
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 fólki	nheþ	fólk
@@ -2466,7 +2350,6 @@ og	c	og
 öðrum	fohfþ	annar
 heimilistækjum	nhfþ	heimilistæki
 .	.	.
-
 «	«	«
 Eldvarnir	nvfn	eldvörn
 eru	sfg3fn	vera
@@ -2488,7 +2371,6 @@ gera	sng	gera
 betur	aam	vel
 .	.	.
 »	»	»
-
 Hann	fpken	hann
 segir	sfg3en	segja
 að	c	að
@@ -2512,7 +2394,6 @@ nýleg	lhfnsf	nýlegur
 dæmi	nhfn	dæmi
 sanni	svg3fn	sanna
 .	.	.
-
 Hann	fpken	hann
 hvetur	sfg3en	hvetja
 fólk	nheo	fólk
@@ -2538,7 +2419,6 @@ tími	nken	tími
 er	sfg3en	vera
 framundan	aa	framundan
 .	.	.
-
 «	«	«
 Það	fphen	það
 er	sfg3en	vera
@@ -2569,13 +2449,11 @@ að	aþ	að
 eldvörnum	nvfþ	eldvörn
 .	.	.
 »	»	»
-
 Nýr	lkensf	nýr
 eiturefnabúnaður	nken	eiturefnabúnaður
 |	|	|
 26-10-2006	ta	26-10-2006
 |	|	|
-
 Slökkvilið	nhen	slökkvilið
 höfuðborgarsvæðisins	nheeg	höfuðborgarsvæði
 hefur	sfg3en	hafa
@@ -2590,7 +2468,6 @@ fást	snm	fá
 við	ao	við
 eiturefnaslys	nhfo	eiturefnaslys
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 gerlegt	lhensf	gerlegur
@@ -2604,7 +2481,6 @@ frá	aþ	frá
 Brunamálastofnun	nveþ-s	brunamálastofnun
 ríkisins	nheeg	ríki
 .	.	.
-
 Keyptir	sþgkfn	kaupa
 hafa	sfg3fn	hafa
 verið	ssg	vera
@@ -2624,7 +2500,6 @@ tjöld	nhfn	tjald
 frá	aþ	frá
 Trelleborg	e	Trelleborg
 .	.	.
-
 Tjöldin	nhfng	tjald
 eru	sfg3fn	vera
 alls	fohee	allur
@@ -2641,7 +2516,6 @@ tveim	tfvfþ	tveir
 sjálfstæðum	lvfþsf	sjálfstæður
 einingum	nvfþ	eining
 .	.	.
-
 Með	aþ	með
 þeim	fphfþ	það
 var	sfg3eþ	vera
@@ -2652,7 +2526,6 @@ vatnsdæla	nven	vatnsdæla
 og	c	og
 hitablásarar	nkfn	hitablásari
 .	.	.
-
 Tjöldin	nhfog	tjald
 sem	ct	sem
 eru	sfg3fn	vera
@@ -2681,7 +2554,6 @@ manns	nkee	maður
 á	aþ	á
 sjúkrabörum	nvfþ	sjúkrabörur
 .	.	.
-
 Aðeins	aa	aðeins
 tók	sfg3eþ	taka
 um	ao	um
@@ -2709,14 +2581,12 @@ vatnslögnum	nvfþ	vatnslögn
 og	c	og
 hita	nkeþ	hiti
 o.s.frv.	as	o.s.frv.
-
 11	ta	11
 nýir	lkfnsf	nýr
 slökkviliðsmenn	nkfn	slökkviliðsmaður
 |	|	|
 13-10-2006	ta	13-10-2006
 |	|	|
-
 Slökkvilið	nhen	slökkvilið
 höfuðborgarsvæðisins	nheeg	höfuðborgarsvæði
 hefur	sfg3en	hafa
@@ -2727,7 +2597,6 @@ slökkviliðsmenn	nkfo	slökkviliðsmaður
 til	ae	til
 starfa	nhfe	starf
 .	.	.
-
 Rösklega	aa	rösklega
 fimmtíu	tfkfn	fimmtíu
 manns	nkee	maður
@@ -2745,7 +2614,6 @@ umsóknar	nvee	umsókn
 byrjun	nveþ	byrjun
 ágúst	nkee	ágúst
 .	.	.
-
 Eftir	ao	eftir
 langt	lheosf	langur
 ráðningaferli	nheo	ráðningaferli
@@ -2756,7 +2624,6 @@ ráða	sng	ráða
 þennan	fakeo	þessi
 hóp	nkeo	hópur
 .	.	.
-
 Ástæðan	nveng	ástæða
 fyrir	aþ	fyrir
 svo	aa	svo
@@ -2787,7 +2654,6 @@ sem	ct	sem
 hafa	sfg3fn	hafa
 losnað	ssg	losna
 .	.	.
-
 Nýju	lkfnvf	nýr
 starfsmennirnir	nkfng	starfsmaður
 hefja	sfg3fn	hefja
@@ -2813,14 +2679,12 @@ slökkviliðs-	nkfn	slökkviliðsmaður
 og	c	og
 sjúkraflutningamenn	nkfn	sjúkraflutningamaður
 .	.	.
-
 21	ta	21
 næsta	lheove	næstur
 ár	nheo	ár
 |	|	|
 22-08-2006	ta	22-08-2006
 |	|	|
-
 Fjórir	tfkfn	fjórir
 fatlaðir	lkfnsf	fatlaður
 einstaklingar	nkfn	einstaklingur
@@ -2841,7 +2705,6 @@ náðu	sfg3fþ	ná
 frábærum	lkeþsf	frábær
 árangri	nkeþ	árangur
 .	.	.
-
 «	«	«
 Þetta	fahen	þessi
 var	sfg3eþ	vera
@@ -2871,7 +2734,6 @@ var	sfg3eþ	vera
 í	aþ	í
 hjólastólunum	nkfþg	hjólastóll
 .	.	.
-
 «	«	«
 Þetta	fahen	þessi
 er	sfg3en	vera
@@ -2884,7 +2746,6 @@ sem	ct	sem
 tek	sfg1en	taka
 þátt	nkeo	þáttur
 .	.	.
-
 Í	ao	í
 fyrra	lheovm	fyrri
 fórum	sfg1fþ	fara
@@ -2904,16 +2765,13 @@ kílómetra	nkeo	kílómetri
 að	aþ	að
 ári	nheþ	ár
 .	.	.
-
 Ekki	aa	ekki
 spurning	nven	spurning
 !	!	!
 »	»	»
-
 sagði	sfg3eþ	segja
 Pálmi	nken-s	Pálmi
 .	.	.
-
 Hópurinn	nkeng	hópur
 náði	sfg3eþ	ná
 frábærum	lkeþsf	frábær
@@ -2929,7 +2787,6 @@ og	c	og
 sex	tfvfþ	sex
 mínútum	nvfþ	mínúta
 .	.	.
-
 Allar	fovfn	allur
 aðstæður	nvfn	aðstæður
 voru	sfg3fþ	vera
@@ -2950,13 +2807,11 @@ manns	nkee	maður
 í	aþ	í
 hlaupinu	nheþg	hlaup
 .	.	.
-
 Fjöldi	nken	fjöldi
 umsókna	nvfe	umsókn
 |	|	|
 16-08-2006	ta	16-08-2006
 |	|	|
-
 Nokkur	foken	nokkur
 fjöldi	nken	fjöldi
 umsókna	nvfe	umsókn
@@ -2982,14 +2837,12 @@ um	ao	um
 þessar	favfo	þessi
 mundir	nvfo	mund
 .	.	.
-
 Umsóknarfrestur	nken	umsóknarfrestur
 er	sfg3en	vera
 til	ae	til
 22.	ta	22.
 ágúst	nkee	ágúst
 .	.	.
-
 Um	ao	um
 er	sfg3en	vera
 að	cn	að
@@ -3018,7 +2871,6 @@ hérlendis	aa	hérlendis
 og	c	og
 erlendis	aa	erlendis
 .	.	.
-
 Laun	nhfn	laun
 eru	sfg3fn	vera
 skv.	as	skv.
@@ -3031,7 +2883,6 @@ slökkviliðs-	nkfe	slökkviliðsmaður
 og	c	og
 sjúkraflutningamanna	nkfe	sjúkraflutningamaður
 .	.	.
-
 Slökkviliðs-	nkfe	slökkviliðsmaður
 og	c	og
 sjúkraflutningamenn	nkfn	sjúkraflutningamaður
@@ -3045,7 +2896,6 @@ að	cn	að
 sækja	sng	sækja
 um	aa	um
 .	.	.
-
 Ráðgert	sþghen	ráðgera
 er	sfg3en	vera
 að	c	að
@@ -3059,12 +2909,10 @@ lagi	nheþ	lag
 1.	ta	1.
 nóvember	nkeo	nóvember
 .	.	.
-
 Viltu	sfg2en	vilja
 starfa	sng	starfa
 hjá	aþ	hjá
 SHS	as	SHS
-
 Á	aþ	á
 hjólastólum	nkfþ	hjólastóll
 í	ao	í
@@ -3072,7 +2920,6 @@ maraþonið	nheog	maraþon
 |	|	|
 17-08-2006	ta	17-08-2006
 |	|	|
-
 Tuttugu	tfkfn	tuttugu
 slökkviliðsmenn	nkfn	slökkviliðsmaður
 ætla	sfg3fn	ætla
@@ -3093,7 +2940,6 @@ Reykjavíkurmaraþoninu	nheþgs	Reykjavíkurmaraþon
 á	ao	á
 laugardag	nkeo	laugardagur
 .	.	.
-
 Hlaupararnir	nkfng	hlaupari
 verða	sfg3fn	verða
 ræstir	sþgkfn	ræsa
@@ -3117,7 +2963,6 @@ að	cn	að
 hlaupa	sng	hlaupa
 vegalengdina	nveog	vegalengd
 .	.	.
-
 «	«	«
 Við	fp1fn	ég
 gerðum	sfg1fþ	gera
@@ -3166,7 +3011,6 @@ með	aa	með
 í	aþ	í
 hlaupinu	nheþg	hlaup
 .	.	.
-
 Það	fphen	það
 eru	sfg3fn	vera
 Bónus	nken-s	Bónus
@@ -3180,7 +3024,6 @@ sem	ct	sem
 styrkja	sfg3fn	styrkja
 hlaupið	nheog	hlaup
 .	.	.
-
 Ágóðinn	nkeng	ágóði
 rennur	sfg3en	renna
 til	ae	til
@@ -3192,21 +3035,18 @@ og	c	og
 Líknarsjóðs	nkee-s	líknarsjóður
 Brunavarðafélagsins	nheegs	brunavarðafélag
 .	.	.
-
 Öryggismál	nhfn	öryggismál
 á	aþ	á
 Menningarnótt	nveþ-s	menningarnótt
 |	|	|
 16-08-2006	ta	16-08-2006
 |	|	|
-
 Menningarnótt	nven-s	Menningarnótt
 er	sfg3en	vera
 stærsti	lkenve	stór
 viðburður	nken	viðburður
 landsins	nheeg	land
 .	.	.
-
 Gert	sþghen	gera
 er	sfg3en	vera
 ráð	nhen	ráð
@@ -3229,7 +3069,6 @@ viðbúnað	nkeo	viðbúnaður
 í	aþ	í
 borginni	nveþg	borg
 .	.	.
-
 Afar	aa	afar
 gott	lhensf	góður
 samstarf	nhen	samstarf
@@ -3247,7 +3086,6 @@ umferðarmálum	nhfþ	umferðarmál
 á	ao	á
 Menningarnótt	nveo-s	Menningarnótt
 .	.	.
-
 Eins	aa	eins
 og	c	og
 áður	aa	áður
@@ -3281,7 +3119,6 @@ bera	sfg3fn	bera
 á	ao	á
 Menningarnótt	nveo-s	Menningarnótt
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 í	ao	í
@@ -3315,7 +3152,6 @@ umferðarmálum	nhfþ	umferðarmál
 á	ao	á
 Menningarnótt	nveo-s	menningarnótt
 .	.	.
-
 Og	c	og
 ekki	aa	ekki
 síður	aam	síður
@@ -3328,7 +3164,6 @@ gesta	nkfe	gestur
 þennan	fakeo	þessi
 dag	nkeo	dagur
 .	.	.
-
 Lögreglan	nveng	lögregla
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
@@ -3351,7 +3186,6 @@ handan	ae	handan
 Seðlabankans	nkeegs	Seðlabanki
 )	)	)
 .	.	.
-
 Þar	aa	þar
 verða	sfg3fn	verða
 sjúkra-	nvfn	sjúkrabifreið
@@ -3363,7 +3197,6 @@ lögreglubifreiðar	nvfn	lögreglubifreið
 stjórnstöðvarbifreið	nveþ	stjórnstöðvarbifreið
 Flugbjörgunarsveitarinnar	nveegs	Flugbjörgunarsveit
 .	.	.
-
 Körfubifreið	nven	körfubifreið
 Slökkviliðs	nhee-s	Slökkvilið
 höfuðborgarsvæðisins	nheeg	höfuðborgarsvæði
@@ -3391,7 +3224,6 @@ bjáti	svg3en	bjáta
 eitthvað	fohen	einhver
 á	aa	á
 .	.	.
-
 Slökkvilið	nhen	slökkvilið
 höfuðborgarsvæðisins	nheeg	höfuðborgarsvæði
 mun	sfg3en	munu
@@ -3408,7 +3240,6 @@ ferðinni	nveþg	ferð
 vegna	ae	vegna
 þeirra	fpkfe	hann
 .	.	.
-
 Þegar	c	þegar
 líður	sfg3en	líða
 á	ao	á
@@ -3426,7 +3257,6 @@ mönnuð	sþgven	manna
 verður	sfg3en	verða
 aukaslökkvibifreið	nven	aukaslökkvibifreið
 .	.	.
-
 Um	ao	um
 kvöldið	nheog	kvöld
 verður	sfg3en	verða
@@ -3447,7 +3277,6 @@ Sölvhólsgötu	nveo-s	Sölvhólsgata
 sameiginlegri	lveþsf	sameiginlegur
 aðstöðu	nveþ	aðstaða
 .	.	.
-
 Þar	aa	þar
 verður	sfg3en	verða
 jafnframt	aa	jafnframt
@@ -3466,7 +3295,6 @@ er	sfg3en	vera
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 Bátur	nken	bátur
 frá	aþ	frá
 slökkviliðinu	nheþg	slökkvilið
@@ -3480,7 +3308,6 @@ meðan	c	meðan
 flugeldasýningunni	nveþg	flugeldasýning
 stendur	sfg3en	standa
 .	.	.
-
 Lögreglan	nveng	lögregla
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
@@ -3514,7 +3341,6 @@ eftir	ao	eftir
 hefðbundna	lveosf	hefðbundinn
 dagskrá	nveo	dagskrá
 .	.	.
-
 Þó	aa	þó
 er	sfg3en	vera
 alveg	aa	alveg
@@ -3529,7 +3355,6 @@ undir	ao	undir
 einhverjar	fovfo	einhver
 umferðartafir	nvfo	umferðartöf
 .	.	.
-
 Öflug	lvensf	öflugur
 umferðarlöggæsla	nven	umferðarlöggæsla
 verður	sfg3en	verða
@@ -3556,7 +3381,6 @@ Bústaðaveg	nkeo-s	Bústaðavegur
 að	aþ	að
 Suðurhlíð	nveþ-s	Suðurhlíð
 .	.	.
-
 Verða	sfg3fn	verða
 lögreglumenn	nkfn	lögreglumaður
 á	aþ	á
@@ -3582,7 +3406,6 @@ og	c	og
 að	aþ	að
 Háaleitisbraut	nveþ-s	Háaleitisbraut
 .	.	.
-
 Þá	aa	þá
 verða	sfg3fn	verða
 lögreglumenn	nkfn	lögreglumaður
@@ -3597,7 +3420,6 @@ og	c	og
 með	aþ	með
 Suðurhlíð	nveþ	suðurhlíð
 .	.	.
-
 Samhliða	aþ	samhliða
 umferðarstjórnuninni	nveþg	umferðarstjórnun
 verða	sfg3fn	verða
@@ -3616,7 +3438,6 @@ formlegri	lveþsf	formlegur
 dagskrá	nveþ	dagskrá
 lýkur	sfg3en	ljúka
 .	.	.
-
 Vonast	sþmhen	vona
 er	sfg3en	vera
 til	ae	til
@@ -3629,7 +3450,6 @@ fyrir	aþ	fyrir
 allri	foveþ	allur
 umferð	nveþ	umferð
 .	.	.
-
 Þess	fphee	það
 ber	sfg3en	bera
 sérstaklega	aa	sérstaklega
@@ -3652,7 +3472,6 @@ Geirsgötu	nveo-s	Geirsgata
 frá	aþ	frá
 Ægisgötu	nveþ-s	Ægisgata
 .	.	.
-
 Þá	aa	þá
 verða	sfg3fn	verða
 lögreglumenn	nkfn	lögreglumaður
@@ -3666,7 +3485,6 @@ lögreglunnar	nveeg	lögregla
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Aðstaða	nven	aðstaða
 fyrir	ao	fyrir
 útkallslið	nheo	útkallslið
@@ -3684,14 +3502,12 @@ og	c	og
 var	sfg3eþ	vera
 getið	sþghen	geta
 .	.	.
-
 Þaðan	aa	þaðan
 mun	sfg3en	munu
 löggæslu	nveþ	löggæsla
 verða	sng	verða
 stjórnað	sþghen	stjórna
 .	.	.
-
 Lögreglan	nveng	lögregla
 vill	sfg3en	vilja
 brýna	sng	brýna
@@ -3713,7 +3529,6 @@ lýkur	sfg3en	ljúka
 með	aþ	með
 flugeldasýningu	nveþ	flugeldasýning
 .	.	.
-
 Lögreglan	nveng	lögregla
 mun	sfg3en	munu
 taka	sng	taka
@@ -3732,7 +3547,6 @@ foreldra	nkfe	foreldrar
 alvarlega	lheþvf	alvarlegur
 máli	nheþ	mál
 .	.	.
-
 Lögreglan	nveng	lögregla
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
@@ -3747,7 +3561,6 @@ tengslum	nhfþ	tengsl
 við	ao	við
 Menningarnótt	nveo-s	menningarnótt
 .	.	.
-
 Fjölmörgum	lvfþsf	fjölmargur
 götum	nvfþ	gata
 verður	sfg3en	verða
@@ -3776,7 +3589,6 @@ fer	sfg3en	fara
 sama	fbkeo	samur
 dag	nkeo	dagur
 .	.	.
-
 Ræst	sþghen	ræsa
 verður	sfg3en	verða
 í	ao	í
@@ -3790,7 +3602,6 @@ hætt	sþghen	hætta
 klukkan	nveng	klukka
 15:00	ta	15:00
 .	.	.
-
 Ökumenn	nkfn	ökumaður
 eru	sfg3fn	vera
 beðnir	sþgkfn	biðja
@@ -3807,7 +3618,6 @@ lokað	sþghen	loka
 vegna	ae	vegna
 hlaupsins	nheeg	hlaup
 .	.	.
-
 Á	aþ	á
 heimasíðu	nveþ	heimasíða
 lögreglunnar	nveeg	lögregla
@@ -3826,7 +3636,6 @@ lokanir	nvfo	lokun
 vegna	ae	vegna
 Menningarnætur	nvee-s	Menningarnótt
 .	.	.
-
 Ákveðið	sþghen	ákveða
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -3841,7 +3650,6 @@ allri	foveþ	allur
 almennri	lveþsf	almennur
 umferð	nveþ	umferð
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 gert	sþghen	gera
@@ -3851,7 +3659,6 @@ með	ao	með
 í	aþ	í
 huga	nkeþ	hugi
 .	.	.
-
 Ökumenn	nkfn	ökumaður
 eru	sfg3fn	vera
 beðnir	sþgkfn	biðja
@@ -3859,7 +3666,6 @@ að	cn	að
 virða	sng	virða
 þetta	faheo	þessi
 .	.	.
-
 Þá	aa	þá
 skal	sfg3en	skulu
 þess	fphee	það
@@ -3884,7 +3690,6 @@ að	aþ	að
 þeim	fakeþ	sá
 tíma	nkeþ	tími
 .	.	.
-
 Aðsetur	nhen	aðsetur
 leigubíla	nkfe	leigubíll
 verður	sfg3en	verða
@@ -3897,7 +3702,6 @@ gegnt	aþ	gegnt
 á	aþ	á
 Hverfisgötu	nveþ-s	Hverfisgata
 .	.	.
-
 Þrátt	aa	þrátt
 fyrir	ao	fyrir
 allar	fovfo	allur
@@ -3927,7 +3731,6 @@ fylgja	sng	fylgja
 fyrirmælum	nhfþ	fyrirmæli
 lögreglu	nvee	lögregla
 .	.	.
-
 Íbúar	nkfn	íbúi
 í	aþ	í
 miðborg	nveþ	miðborg
@@ -3945,7 +3748,6 @@ og	c	og
 kostur	nken	kostur
 er	sfg3en	vera
 .	.	.
-
 Björgunarsveitir	nvfn	björgunarsveit
 aðstoða	sfg3fn	aðstoða
 við	ao	við
@@ -3955,7 +3757,6 @@ Menningarnætur	nvee-s	Menningarnótt
 ýmsan	fokeo	ýmis
 hátt	nkeo	háttur
 .	.	.
-
 Þær	fpvfn	hún
 sjá	sfg3fn	sjá
 um	ao	um
@@ -3966,7 +3767,6 @@ er	sfg3en	vera
 af	aþ	af
 Orkuveitunni	nveþgs	Orkuveita
 .	.	.
-
 Til	ae	til
 að	cn	að
 tryggja	sng	tryggja
@@ -3996,7 +3796,6 @@ kostað	sþghen	kosta
 af	aþ	af
 höfninni	nveþg	höfn
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 aðstoða	sfg3fn	aðstoða
@@ -4011,7 +3810,6 @@ tónleika	nkfo	tónleikar
 á	aþ	á
 Miklatúni	nheþ-s	Miklatún
 .	.	.
-
 Stjórnstöðvarbíll	nken	stjórnstöðvarbíll
 flugbjörgunarsveitarinnar	nveeg	flugbjörgunarsveit
 verður	sfg3en	verða
@@ -4024,7 +3822,6 @@ lögreglu	nveþ	lögregla
 og	c	og
 slökkviliði	nheþ	slökkvilið
 .	.	.
-
 Eftir	ao	eftir
 að	c	að
 formlegri	lveþsf	formlegur
@@ -4043,10 +3840,8 @@ ef	c	ef
 að	cn	að
 halda	sng	halda
 .	.	.
-
 Týnd	lhfnsf	týndur
 börn	nhfn	barn
-
 Athvarf	nhen	athvarf
 fyrir	ao	fyrir
 týnd	lhfosf	týndur
@@ -4061,7 +3856,6 @@ við	ao	við
 Amtmannsstíg	nkeo-s	Amtmannsstígur
 5a	ta	5a
 .	.	.
-
 Athvarfið	nheng	athvarf
 þjónar	sfg3en	þjóna
 fjölskyldur	nvfo	fjölskylda
@@ -4082,7 +3876,6 @@ barna	nhfe	barn
 á	aþ	á
 Menningarnótt	nveþ-s	menningarnótt
 .	.	.
-
 Reynt	sþghen	reyna
 verður	sfg3en	verða
 eftir	aþ	eftir
@@ -4110,7 +3903,6 @@ ef	c	ef
 skiljast	sfm3fn	skilja
 að	aa	að
 .	.	.
-
 Athvarfið	nheng	athvarf
 er	sfg3en	vera
 í	aþ	í
@@ -4122,7 +3914,6 @@ Hlíða	nvfe-s	Hlíð
 og	c	og
 ÍTR	as	ÍTR
 .	.	.
-
 Félagsráðgjafi	nken	félagsráðgjafi
 og	c	og
 starfsmaður	nken	starfsmaður
@@ -4137,7 +3928,6 @@ kl.	as	kl.
 til	aa	til
 01.00	ta	01.00
 .	.	.
-
 Símanúmer	nhen	símanúmer
 Reykjavíkurborgar	nvee-s	Reykjavíkurborg
 verður	sfg3en	verða
@@ -4171,7 +3961,6 @@ um	ao	um
 týnd	lhfosf	týndur
 börn	nhfo	barn
 .	.	.
-
 Foreldrar	nkfn	foreldrar
 og	c	og
 aðstandendur	nkfn	aðstandandi
@@ -4197,7 +3986,6 @@ miðborginni	nveþg	miðborg
 á	aþ	á
 Menningarnótt	nveþ-s	menningarnótt
 .	.	.
-
 Miðbæjarathvarf	nhen	miðbæjarathvarf
 í	aþ	í
 Foreldrahúsi	nheþ-s	foreldrahús
@@ -4218,7 +4006,6 @@ fram	aa	fram
 eftir	aþ	eftir
 nóttu	nveþ	nótt
 .	.	.
-
 Þjónustumiðstöðvar	nvfn	þjónustumiðstöð
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
@@ -4237,7 +4024,6 @@ að	aþ	að
 rekstri	nkeþ	rekstur
 Miðbæjarathvarfsins	nheegs	miðbæjarathvarf
 .	.	.
-
 Lögreglan	nveng	lögregla
 færir	sfg3en	færa
 börn	nhfo	barn
@@ -4273,7 +4059,6 @@ eða	c	eða
 annara	fokfe	anna
 vímugjafa	nkfe	vímugjafi
 .	.	.
-
 Starfsemi	nven	starfsemi
 Miðbæjarathvarfsins	nheegs	miðbæjarathvarf
 er	sfg3en	vera
@@ -4300,9 +4085,7 @@ að	c	að
 útivistartíma	nkeþ	útivistartími
 lýkur	sfg3en	ljúka
 .	.	.
-
 Gönguhópar	nkfn	gönguhópur
-
 Eftir	ao	eftir
 að	c	að
 flugeldasýningu	nveþ	flugeldasýning
@@ -4336,7 +4119,6 @@ og	c	og
 annarra	fohfe	annar
 vímuefna	nhfe	vímuefni
 .	.	.
-
 (	(	(
 Hlutverk	nhen	hlutverk
 gönguhópanna	nkfeg	gönguhópur
@@ -4356,7 +4138,6 @@ að	c	að
 flugeldasýningu	nveþ	flugeldasýning
 lýkur	sfg3en	ljúka
 .	.	.
-
 Annað	fohen	annar
 hvort	c	hvort
 verða	sfg3fn	verða
@@ -4384,7 +4165,6 @@ vegum	nkfþ	vegur
 miðbænum	nkeþg	miðbær
 )	)	)
 .	.	.
-
 Fjórir	tfkfn	fjórir
 gönguhópar	nkfn	gönguhópur
 verða	sfg3fn	verða
@@ -4406,7 +4186,6 @@ einn	tfken	einn
 starfsmaður	nken	starfsmaður
 ÍTR	as	ÍTR
 .	.	.
-
 Frá	aþ	frá
 1.	ta	1.
 mai	x	maí
@@ -4429,7 +4208,6 @@ er	sfg3en	vera
 til	aa	til
 24:00	ta	24:00
 .	.	.
-
 Landhelgisgæslan	nveng	landhelgisgæsla
 lánar	sfg3en	lána
 varðskipið	nheog	varðskip
@@ -4446,7 +4224,6 @@ verður	sfg3en	verða
 um	ao	um
 kvöldið	nheog	kvöld
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 verður	sfg3en	verða
@@ -4460,10 +4237,8 @@ bátaumferð	nveþ	bátaumferð
 um	ao	um
 höfnina	nveog	höfn
 .	.	.
-
 Slysadeild	nven	slysadeild
 LSH	as	LSH
-
 Slysadeild	nven	slysadeild
 verður	sfg3en	verða
 með	ao	með
@@ -4484,7 +4259,6 @@ er	sfg3en	vera
 á	aþ	á
 gamlárskvöldi	nheþ	gamlárskvöld
 .	.	.
-
 Fulltrúi	nken	fulltrúi
 slysadeildar	nvee	slysadeild
 fylgist	sfm3en	fylgja
@@ -4508,11 +4282,9 @@ ef	c	ef
 að	cn	að
 halda	sng	halda
 .	.	.
-
 Reykjavíkurdeild	nven-s	Reykjavíkurdeild
 Rauða	lkeevf	rauður
 krossins	nkeeg	kross
-
 Skyndihjálparhópur	nken	skyndihjálparhópur
 Reykjavíkurdeildar	nvee-s	Reykjavíkurdeild
 Rauða	lkeevf	rauður
@@ -4543,10 +4315,8 @@ börn	nhfo	barn
 starfsfólki	nheþ	starfsfólk
 Reykjavíkurborgar	nvee-s	Reykjavíkurborg
 .	.	.
-
 Framkvæmdasvið	nhen	framkvæmdasvið
 Reykjavíkurborgar	nvee-s	Reykjavíkurborg
-
 Það	fphen	það
 verður	sfg3en	verða
 í	aþ	í
@@ -4564,7 +4334,6 @@ Reykjavíkurmarathons	nhee	Reykjavíkurmaraþon
 og	c	og
 Menningarnætur	nvee-s	Menningarnótt
 .	.	.
-
 Alls	fohee	allur
 kyns	nhee	kyn
 þjónustu	nveo	þjónusta
@@ -4587,7 +4356,6 @@ auk	ae	auk
 erlendir	lkfnsf	erlendur
 sjálfboðaliðar	nkfn	sjálfboðaliði
 .	.	.
-
 Starfsmenn	nkfn	starfsmaður
 verða	sfg3fn	verða
 lögreglunni	nveþg	lögregla
@@ -4606,7 +4374,6 @@ m.a.	as	m.a.
 vegna	ae	vegna
 flugeldasýningarinnar	nveeg	flugeldasýning
 .	.	.
-
 Þegar	c	þegar
 líður	sfg3en	líða
 á	ao	á
@@ -4625,13 +4392,11 @@ fram	aa	fram
 eftir	aþ	eftir
 sunnudagsmorgni	nkeþ	sunnudagsmorgunn
 .	.	.
-
 Nýir	lkfnsf	nýr
 sjúkrabílar	nkfn	sjúkrabíll
 |	|	|
 08-08-2006	ta	08-08-2006
 |	|	|
-
 Tveir	tfkfn	tveir
 nýir	lkfnsf	nýr
 sjúkrabílar	nkfn	sjúkrabíll
@@ -4642,7 +4407,6 @@ bílaflota	nkeo	bílafloti
 Slökkviliðs	nhee-s	Slökkvilið
 höfuðborgarsvæðisins	nheeg	höfuðborgarsvæði
 .	.	.
-
 Þeir	fpkfn	hann
 eru	sfg3fn	vera
 af	aþ	af
@@ -4651,7 +4415,6 @@ Mercedes	e	Mercedes
 Bens	e	Bens
 Sprinter	e	Sprinter
 .	.	.
-
 Sjúkrabílarnir	nkfng	sjúkrabíll
 nýju	lkfnvf	nýr
 eru	sfg3fn	vera
@@ -4668,7 +4431,6 @@ eru	sfg3fn	vera
 186	ta	186
 hestöfl	nhfn	hestafl
 .	.	.
-
 Breytingavinna	nven	breytingavinna
 og	c	og
 smíði	nven	smíði
@@ -4697,7 +4459,6 @@ bílanna	nkfeg	bíll
 og	c	og
 sjúkraflutningamenn	nkfo	sjúkraflutningamaður
 .	.	.
-
 Bílarnir	nkfng	bíll
 nýju	lkfnvf	nýr
 eru	sfg3fn	vera
@@ -4727,7 +4488,6 @@ landsmanna	nkfe	landsmaður
 síðustu	lhfove	síðari
 ár	nhfo	ár
 .	.	.
-
 Landsmenn	nkfn	landsmaður
 ánægðir	lkfnsf	ánægður
 með	ao	með
@@ -4735,7 +4495,6 @@ með	ao	með
 |	|	|
 21-06-2006	ta	21-06-2006
 |	|	|
-
 Landsmenn	nkfn	landsmaður
 eru	sfg3fn	vera
 afar	aa	afar
@@ -4751,7 +4510,6 @@ Gallup	e	Gallup
 hefur	sfg3en	hafa
 gert	ssg	gera
 .	.	.
-
 Ánægjan	nveng	ánægja
 í	ao	í
 garð	nkeo	garður
@@ -4777,12 +4535,10 @@ af	aþ	af
 þessu	faheþ	þessi
 tagi	nheþ	tag
 .	.	.
-
 Meðaltalið	nheng	meðaltal
 er	sfg3en	vera
 3,9	ta	3,9
 .	.	.
-
 Könnunin	nveng	könnun
 leiðir	sfg3en	leiða
 jafnframt	aa	jafnframt
@@ -4800,7 +4556,6 @@ er	sfg3en	vera
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Í	aþ	í
 samsvarandi	lveþof	samsvarandi
 könnun	nveþ	könnun
@@ -4819,7 +4574,6 @@ svöruðu	sfg3fþ	svara
 spurningunni	nveþg	spurning
 rétt	aa	rétt
 .	.	.
-
 Spurt	sþghen	spyrja
 var	sfg3eþ	vera
 :	:	:
@@ -4839,7 +4593,6 @@ Neyðarlínunni	nveþgs	Neyðarlínan
 -	-	-
 112	ta	112
 ?	?	?
-
 Niðurstaðan	nveng	niðurstaða
 var	sfg3eþ	vera
 eftirfarandi	lvenof	eftirfarandi
@@ -4879,7 +4632,6 @@ neikvæð	lvensf	neikvæður
 ur	x	ur
 )	)	)
 0,6%	tp	0,6%
-
 Könnun	nven	könnun
 IMG	as	IMG
 Gallup	e	Gallup
@@ -4892,7 +4644,6 @@ til	ae	til
 apríl	nkeo	apríl
 síðastliðinn	lkeosf	síðastliðinn
 .	.	.
-
 Úrtakið	nheng	úrtak
 var	sfg3eþ	vera
 1.350	ta	1.350
@@ -4906,7 +4657,6 @@ aldrinum	nkeþg	aldur
 16-75	ta	16-75
 ára	nhfe	ár
 .	.	.
-
 Greint	sþghen	greina
 var	sfg3eþ	vera
 eftir	aþ	eftir
@@ -4934,7 +4684,6 @@ til	ae	til
 samkvæmt	aþ	samkvæmt
 því	fpheþ	það
 .	.	.
-
 Þó	aa	þó
 reyndist	sfm3eþ	reyna
 marktækur	lkensf	marktækur
@@ -4956,7 +4705,6 @@ en	c	en
 þeir	fpkfn	hann
 yngri	lkfnvm	ungur
 .	.	.
-
 Af	aþ	af
 þeim	fakfþ	sá
 sem	ct	sem
@@ -4982,7 +4730,6 @@ eða	c	eða
 í	aþ	í
 meðallagi	nheþ	meðallag
 .	.	.
-
 9,2%	tp	9,2%
 sögðust	sfm3fþ	segja
 hins	fakee	hinn
@@ -4993,7 +4740,6 @@ eða	c	eða
 mjög	aa	mjög
 óánægðir	lkfnsf	óánægður
 .	.	.
-
 Sjúkragámur	nken	sjúkragámur
 tekinn	sþgken	taka
 í	ao	í

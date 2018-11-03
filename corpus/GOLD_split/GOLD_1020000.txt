@@ -1,7 +1,6 @@
 |	|	|
 19-06-2006	ta	19-06-2006
 |	|	|
-
 SHS	as	SHS
 hefur	sfg3en	hafa
 útbúið	ssg	útbúa
@@ -23,7 +22,6 @@ júní	nkeo	júní
 liðna	lveosf	liðinn
 helgi	nveo	helgi
 .	.	.
-
 Gámurinn	nkeng	gámur
 var	sfg3eþ	vera
 staðsettur	lkensf	staðsettur
@@ -45,7 +43,6 @@ og	c	og
 veikum	lkfþsf	veikur
 þjóðhátíðagestum	nkfþ	þjóðhátíðagestur
 .	.	.
-
 Alls	aa	alls
 þurftu	sfg3fþ	þurfa
 15	ta	15
@@ -57,7 +54,6 @@ halda	sng	halda
 í	aþ	í
 gámnum	nkeþg	gámur
 .	.	.
-
 Engan	fokeo	enginn
 þurfti	sfg3eþ	þurfa
 þó	aa	þó
@@ -91,7 +87,6 @@ súrefnistaska	nven	súrefnistaska
 öðrum	fokeþ	annar
 skyndihjálparbúnaði	nkeþ	skyndihjálparbúnaður
 .	.	.
-
 Þrír	tfkfn	þrír
 sjúkraflutningamenn	nkfn	sjúkraflutningamaður
 sinntu	sfg3fþ	sinna
@@ -104,7 +99,6 @@ meðan	c	meðan
 hátíðahöldunum	nhfþg	hátíðahald
 stóð	sfg3eþ	standa
 .	.	.
-
 Því	fpheþ	það
 má	sfg3en	mega
 bæta	sng	bæta
@@ -119,7 +113,6 @@ stjórnstöð	nveo	stjórnstöð
 við	ao	við
 brunastað	nkeo	brunastaður
 .	.	.
-
 Ævintýri	nhen	ævintýri
 á	aþ	á
 Vatnajökli	nkeþ-s	Vatnajökull
@@ -161,7 +154,6 @@ börnum	nhfþ	barn
 í	aþ	í
 heimalandinu	nheþg	heimaland
 .	.	.
-
 Þeir	fpkfn	hann
 hófu	sfg3fþ	hefja
 ferðina	nveog	ferð
@@ -180,7 +172,6 @@ gærkvöldi	nheþ	gærkvöld
 16.	ta	16.
 júní	nkeo	júní
 .	.	.
-
 Slökkviliðsmennirnir	nkfng	slökkviliðsmaður
 eru	sfg3fn	vera
 frá	aþ	frá
@@ -190,7 +181,6 @@ sýslu	nvee	sýsla
 í	aþ	í
 Bretlandi	nheþ-s	Bretland
 .	.	.
-
 Tim	e	Tim
 hefur	sfg3en	hafa
 nokkrum	fohfþ	nokkur
@@ -215,7 +205,6 @@ ganga	sng	ganga
 yfir	ao	yfir
 Vatnajökul	nkeo-s	Vatnajökull
 .	.	.
-
 Hann	fpken	hann
 fékk	sfg3eþ	fá
 sex	tfkfo	sex
@@ -240,7 +229,6 @@ leiða	sng	leiða
 í	aþ	í
 leiðinni	nveþg	leið
 .	.	.
-
 Þeir	fpkfn	hann
 ákváðu	sfg3fþ	ákveða
 að	cn	að
@@ -259,7 +247,6 @@ að	cn	að
 styrkja	sng	styrkja
 ferðina	nveog	ferð
 .	.	.
-
 Tim	e	Tim
 sagði	sfg3eþ	segja
 ,	,	,
@@ -275,7 +262,6 @@ safnast	ssm	safna
 þúsund	tfhfn	þúsund
 pund	nhfn	pund
 .	.	.
-
 «	«	«
 Ferðin	nvengs	Ferð
 gekk	sfg3eþ	ganga
@@ -308,7 +294,6 @@ var	sfg3eþ	vera
 sagði	sfg3eþ	segja
 Tim	e	Tim
 .	.	.
-
 «	«	«
 Við	fp1fn	ég
 vorum	sfg1fþ	vera
@@ -325,7 +310,6 @@ tóku	sfg3fþ	taka
 undir	ao	undir
 það	fpheo	það
 .	.	.
-
 Einn	tfken	einn
 þeirra	fpkfe	hann
 sagðist	sfm3eþ	segja
@@ -350,7 +334,6 @@ von	nveo	von
 þessum	fakeþ	þessi
 árstíma	nkeþ	árstími
 .	.	.
-
 Og	c	og
 það	fphen	það
 var	sfg3eþ	vera
@@ -367,7 +350,6 @@ aldrei	aa	aldrei
 reynt	ssg	reyna
 áður	aa	áður
 .	.	.
-
 Þeir	fpkfn	hann
 fóru	sfg3fþ	fara
 nefnilega	aa	nefnilega
@@ -385,7 +367,6 @@ skíði	nhfo	skíði
 fyrsta	lheove	fyrstur
 sinn	nheo	sinn
 .	.	.
-
 Þeir	fpkfn	hann
 gistu	sfg3fþ	gista
 í	aþ	í
@@ -400,7 +381,6 @@ vel	aa	vel
 af	aþ	af
 vistinni	nveþg	vist
 .	.	.
-
 «	«	«
 Þetta	fahen	þessi
 var	sfg3eþ	vera
@@ -428,7 +408,6 @@ tóku	sfg3fþ	taka
 undir	ao	undir
 það	fpheo	það
 .	.	.
-
 Einn	tfken	einn
 leiðangursmanna	nkfe	leiðangursmaður
 bætti	sfg3eþ	bæta
@@ -450,7 +429,6 @@ gæti	svg3eþ	geta
 tekið	ssg	taka
 tíma	nkeo	tími
 .	.	.
-
 Frábært	lhensf	frábær
 en	c	en
 erfitt	lhensf	erfiður
@@ -476,7 +454,6 @@ landið	nheog	land
 þennan	fakeo	þessi
 hátt	nkeo	háttur
 .	.	.
-
 Við	fp1fn	ég
 erum	sfg1fn	vera
 búnir	lkfnsf	búinn
@@ -510,7 +487,6 @@ hjólunum	nhfþg	hjól
 undir	aþ	undir
 Hafnarfjalli	nheþ-s	Hafnarfjall
 .	.	.
-
 Nú	aa	nú
 er	sfg3en	vera
 bara	aa	bara
@@ -528,7 +504,6 @@ málefnið	nheng	málefni
 frábært	lhensf	frábær
 .	.	.
 »	»	»
-
 Þetta	faheo	þessi
 sagði	sfg3eþ	segja
 Sigmundur	nken-s	Sigmundur
@@ -541,7 +516,6 @@ Suðurnesja	nhfe-s	Suðurnes
 nú	aa	nú
 síðdegis	nhee	síðdegi
 .	.	.
-
 Þá	aa	þá
 var	sfg3eþ	vera
 hann	fpken	hann
@@ -570,7 +544,6 @@ félagi	nheþ	félag
 langveikra	lhfesf	langveikur
 barna	nhfe	barn
 .	.	.
-
 Framundan	aa	framundan
 var	sfg3eþ	vera
 síðasti	lkenve	síðari
@@ -594,7 +567,6 @@ með	aa	með
 loka	sng	loka
 hringnum	nkeþg	hringur
 .	.	.
-
 Með	aþ	með
 Sigmundi	nkeþ-s	Sigmundur
 hafa	sfg3fn	hafa
@@ -617,7 +589,6 @@ og	c	og
 Jóhannes	nken-s	Jóhannes
 Kristbjörnsson	nken-s	Kristbjörnsson
 .	.	.
-
 Þeir	fpkfn	hann
 lögðu	sfg3fþ	leggja
 upp	aa	upp
@@ -633,7 +604,6 @@ síðar	aam	síðar
 lýkur	sfg3en	ljúka
 hjólaferðinni	nveþg	hjólaferð
 .	.	.
-
 Þeir	fakfn	sá
 félagar	nkfn	félagi
 voru	sfg3fþ	vera
@@ -661,7 +631,6 @@ fyrir	ao	fyrir
 þá	fpkfo	hann
 gera	sng	gera
 .	.	.
-
 Víða	aa	víða
 höfðu	sfg3fþ	hafa
 þeir	fpkfn	hann
@@ -678,7 +647,6 @@ hópinn	nkeog	hópur
 stuttan	lkeosf	stuttur
 spöl	nkeo	spölur
 .	.	.
-
 Sú	faven	sá
 var	sfg3eþ	vera
 raunin	nveng	raun
@@ -716,7 +684,6 @@ sig	fpkfo	sig
 af	aþ	af
 laginu	nheþg	lag
 .	.	.
-
 En	c	en
 hvers	fshee	hver
 vegna	ae	vegna
@@ -731,7 +698,6 @@ söfnunarátak	nheo	söfnunarátak
 fyrir	ao	fyrir
 Umhyggju	nveo-s	umhyggja
 ?	?	?
-
 «	«	«
 Ástæðan	nveng	ástæða
 er	sfg3en	vera
@@ -741,7 +707,6 @@ einföld	lvensf	einfaldur
 sagði	sfg3eþ	segja
 Sigmundur	nken-s	Sigmundur
 .	.	.
-
 «	«	«
 Þetta	fahen	þessi
 eru	sfg3fn	vera
@@ -757,7 +722,6 @@ aðstoð	nveþ	aðstoð
 að	cn	að
 halda	sng	halda
 .	.	.
-
 Við	fp1fn	ég
 þekkjum	sfg1fn	þekkja
 þetta	faheo	þessi
@@ -781,7 +745,6 @@ langveikum	lhfþsf	langveikur
 börnum	nhfþ	barn
 .	.	.
 »	»	»
-
 Sigmundur	nken-s	Sigmundur
 sagði	sfg3eþ	segja
 aðspurður	lkensf	aðspurður
@@ -809,7 +772,6 @@ sjálfsögðu	lheþsf	sjálfsagður
 góða	lheovf	góður
 málefni	nheo	málefni
 .	.	.
-
 Fyrirhugað	sþghen	fyrirhuga
 er	sfg3en	vera
 að	cn	að
@@ -823,7 +785,6 @@ kemur	sfg3en	koma
 17.	ta	17.
 júní	nkeo	júní
 .	.	.
-
 Þjónustan	nveng	þjónusta
 sem	ct	sem
 veitt	sþghen	veita
@@ -838,7 +799,6 @@ mjög	aa	mjög
 jákvæðar	lvfosf	jákvæður
 undirtektir	nvfo	undirtekt
 .	.	.
-
 Fljótlega	aa	fljótlega
 komu	sfg3fþ	koma
 þó	aa	þó
@@ -858,7 +818,6 @@ minningu	nveþ	minning
 viðkomandi	lkfeof	viðkomandi
 einstaklinga	nkfe	einstaklingur
 .	.	.
-
 Nú	aa	nú
 eru	sfg3fn	vera
 þessar	favfn	þessi
@@ -867,7 +826,6 @@ orðnar	sþgvfn	verða
 að	aþ	að
 veruleika	nkeþ	veruleiki
 .	.	.
-
 Aðstandendur	nkfn	aðstandandi
 geta	sfg3fn	geta
 nú	aa	nú
@@ -881,7 +839,6 @@ hér	aa	hér
 á	aþ	á
 gardur.is	v	gardur.is
 .	.	.
-
 Upplýsingarnar	nvfng	upplýsing
 geta	sfg3fn	geta
 verið	ssg	vera
@@ -900,7 +857,6 @@ og	c	og
 einnig	aa	einnig
 myndir	nvfn	mynd
 .	.	.
-
 Nafn	nhen	nafn
 :	:	:
 Jón	nken-s	Jón
@@ -911,7 +867,6 @@ Heimili	nhen	heimili
 Voldgade	e	Voldgade
 8	ta	8
 Kaupmannahöfn	nveþ-s	Kaupmannahöfn
-
 Fæðingardagur	nken	fæðingardagur
 :	:	:
 17-06-1811	ta	17-06-1811
@@ -919,7 +874,6 @@ Staða	nven	staða
 :	:	:
 Forseti	nken	forseti
 Alþingism	x	alþingi
-
 Dánardagur	nken	dánardagur
 :	:	:
 07-12-1879	ta	07-12-1879
@@ -928,18 +882,15 @@ Kirkjugarður	nken	kirkjugarður
 Hólavallagarður	nken-s	Hólavallagarður
 við	ao	við
 Suðurgötu	nveo-s	Suðurgata
-
 Jarðsetningardagur	nken	jarðsetningardagur
 :	:	:
 04-05-1880	ta	04-05-1880
 Reitur	nken	reitur
 :	:	:
 R-0418	x	r-0418
-
 *	*	*
 Ítarefni	nhen	ítarefni
 .	.	.
-
 Jón	nken-s	Jón
 Sigurðsson	nken-s	Sigurðsson
 var	sfg3eþ	vera
@@ -955,7 +906,6 @@ júní	nkeo	júní
 árið	nheog	ár
 1811	ta	1811
 .	.	.
-
 Foreldrar	nkfn	foreldrar
 hans	fpkee	hann
 voru	sfg3fþ	vera
@@ -970,7 +920,6 @@ hans	fpkee	hann
 Þórdís	nven-s	Þórdís
 Jónsdóttir	nven-s	Jónsdóttir
 .	.	.
-
 Voru	sfg3fþ	vera
 þau	fphfn	það
 þrjú	tfhfn	þrír
@@ -986,7 +935,6 @@ Jens	nken-s	Jens
 og	c	og
 Margrét	nven-s	Margrét
 .	.	.
-
 Tæplega	aa	tæplega
 18	ta	18
 ára	nhfe	ár
@@ -1004,7 +952,6 @@ hann	fpken	hann
 tók	sfg3eþ	taka
 stúdentspróf	nheo	stúdentspróf
 .	.	.
-
 Frá	aþ	frá
 1833	ta	1833
 til	aa	til
@@ -1019,7 +966,6 @@ nám	nheo	nám
 og	c	og
 störf	nhfo	starf
 .	.	.
-
 Vorið	nheog	vor
 1845	ta	1845
 hélt	sfg3eþ	halda
@@ -1045,7 +991,6 @@ Dómkirkjunni	nveþgs	Dómkirkja
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Jón	nken-s	Jón
 Sigurðsson	nken-s	Sigurðsson
 var	sfg3eþ	vera
@@ -1073,7 +1018,6 @@ stöðu	nveþ	staða
 jafn	aa	jafn
 lengi	aa	lengi
 .	.	.
-
 Árið	nheog	ár
 1848	ta	1848
 afsalaði	sfg3eþ	afsala
@@ -1081,7 +1025,6 @@ Danakonungur	nken-s	Danakonungur
 sér	fpkeþ	sig
 einveldi	nheþ	einveldi
 .	.	.
-
 Þá	aa	þá
 birti	sfg3eþ	birta
 Jón	nken-s	Jón
@@ -1104,7 +1047,6 @@ undir	aþ	undir
 forystu	nveþ	forysta
 hans	fpkee	hann
 .	.	.
-
 Jón	nken-s	Jón
 Sigurðsson	nken-s	Sigurðsson
 andaðist	sfm3eþ	anda
@@ -1119,7 +1061,6 @@ mánaða	nkfe	mánuður
 erfið	lhfosf	erfiður
 veikindi	nhfo	veikindi
 .	.	.
-
 Kona	nven	kona
 hans	fpkee	hann
 ,	,	,
@@ -1141,7 +1082,6 @@ síðar	aam	síðar
 en	c	en
 hann	fpken	hann
 .	.	.
-
 Þau	fahfn	sá
 hjón	nhfn	hjón
 hvíla	sfg3fn	hvíla
@@ -1152,7 +1092,6 @@ Suðurgötu	nveo-s	Suðurgata
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Á	aþ	á
 silfursveig	nkeþ	silfursveigur
 sem	ct	sem
@@ -1179,7 +1118,6 @@ og	c	og
 skjöldur	nken	skjöldur
 .	.	.
 »	»	»
-
 *	*	*
 Ítarefnið	nhengs	Ítarefni
 er	sfg3en	vera
@@ -1187,7 +1125,6 @@ kostað	sþghen	kosta
 af	aa	af
 :	:	:
 ......	......	......
-
 Minnisvarði	nken	minnisvarði
 um	ao	um
 Jón	nkeo-s	Jón
@@ -1195,7 +1132,6 @@ Sigurðsson	nkeo-s	Sigurðsson
 í	aþ	í
 Suðurgötukirkjugarði	nkeþ-s	Suðurgötukirkjugarður
 .	.	.
-
 Gamli	lkenvf	gamall
 bærinn	nkeng	bær
 ,	,	,
@@ -1207,7 +1143,6 @@ Sigurðssonar	nkee-s	Sigurðsson
 að	aþ	að
 Hrafnseyri	nveþ-s	Hrafnseyri
 .	.	.
-
 Kista	nven	kista
 Jóns	nkee-s	Jón
 Sigurðssonar	nkee-s	Sigurðsson
@@ -1217,10 +1152,8 @@ Aðalstræti	nheþ-s	Aðalstræti
 árið	nheog	ár
 1880	ta	1880
 .	.	.
-
 Einstaklingurinn	nkeng	einstaklingur
 :	:	:
-
 Nafn	nhen	nafn
 :	:	:
 Guðrún	nven-s	Guðrún
@@ -1229,35 +1162,29 @@ Heimili	nhen	heimili
 :	:	:
 Hringbraut	nven-s	Hringbraut
 50	ta	50
-
 Fæðingardagur	nken	fæðingardagur
 :	:	:
 24-06-1906	ta	24-06-1906
 Staða	nven	staða
 :	:	:
 Húsmóðir	nven	húsmóðir
-
 Dánardagur	nken	dánardagur
 :	:	:
 26-04-2000	ta	26-04-2000
 Kirkjugarður	nken	kirkjugarður
 :	:	:
 Fossvogskirkjugarður	nken-s	Fossvogskirkjugarður
-
 Jarðsetningardagur	nken	jarðsetningardagur
 :	:	:
 06-05-2000	ta	06-05-2000
 Reitur	nken	reitur
 :	:	:
 B-2117	ta	B-2117
-
 Ítarefni	nhen	ítarefni
 .	.	.
-
 Tilbúið	lhensf	tilbúinn
 sýnishorn	nhen	sýnishorn
 .	.	.
-
 Guðrún	nven-s	Guðrún
 Björnsdóttir	nven-s	Björnsdóttir
 fæddist	sfm3eþ	fæða
@@ -1267,7 +1194,6 @@ Sauðárkróki	nkeþ-s	Sauðárkrókur
 júní	nkeo	júní
 1906	ta	1906
 .	.	.
-
 Hún	fpven	hún
 lést	sfm3eþ	láta
 í	aþ	í
@@ -1276,7 +1202,6 @@ Reykjavík	nveþ-s	Reykjavík
 apríl	nkeo	apríl
 2000	ta	2000
 .	.	.
-
 Foreldrar	nkfn	foreldrar
 hennar	fpvee	hún
 voru	sfg3fþ	vera
@@ -1293,7 +1218,6 @@ bjuggu	sfg3fþ	búa
 Ingólfsstræti	nheþ-s	Ingólfsstræti
 80	ta	80
 .	.	.
-
 Bræður	nkfn	bróðir
 hennar	fpvee	hún
 voru	sfg3fþ	vera
@@ -1316,13 +1240,11 @@ búsettur	lkensf	búsettur
 á	aþ	á
 Siglufirði	nkeþ-s	Siglufjörður
 .	.	.
-
 Þeir	fpkfn	hann
 eru	sfg3fn	vera
 allir	fokfn	allur
 látnir	lkfnsf	látinn
 .	.	.
-
 Guðrún	nven-s	Guðrún
 giftist	sfm3en	gifta
 16.	ta	16.
@@ -1332,7 +1254,6 @@ Sigurði	nkeþ-s	Sigurður
 Ólafssyni	nkeþ-s	Ólafsson
 kennara	nkeþ	kennari
 .	.	.
-
 Þau	fphfn	það
 bjuggu	sfg3fþ	búa
 fyrst	aae	fyrr
@@ -1353,7 +1274,6 @@ um	ao	um
 áratuga	nkfe	áratugur
 skeið	nheo	skeið
 .	.	.
-
 Þeim	fphfþ	það
 varð	sfg3eþ	verða
 fimm	tfhfe	fimm
@@ -1373,13 +1293,11 @@ Jónsdóttur	nveþ-s	Jónsdóttir
 ,	,	,
 hjúkrunarfræðingi	nkeþ	hjúkrunarfræðingur
 .	.	.
-
 Þau	fphfn	það
 eiga	sfg3fn	eiga
 tvær	tfvfo	tveir
 dætur	nvfo	dóttir
 .	.	.
-
 2	ta	2
 )	)	)
 Anna	nven-s	Anna
@@ -1390,13 +1308,11 @@ gift	lvensf	giftur
 Ragnari	nkeþ-s	Ragnar
 Gíslasyni	nkeþ-s	Gíslason
 .	.	.
-
 Þau	fphfn	það
 eiga	sfg3fn	eiga
 sex	tfhfo	sex
 börn	nhfo	barn
 .	.	.
-
 3	ta	3
 )	)	)
 Sigvaldi	nken-s	Sigvaldi
@@ -1404,7 +1320,6 @@ Sigvaldi	nken-s	Sigvaldi
 fv.	as	fv.
 kennari	nken	kennari
 .	.	.
-
 4	ta	4
 )	)	)
 Birna	nven-s	Birna
@@ -1421,13 +1336,11 @@ sem	ct	sem
 er	sfg3en	vera
 látinn	lkensf	látinn
 .	.	.
-
 Þau	fphfn	það
 eignuðust	sfm3fþ	eigna
 tvö	tfhfo	tveir
 börn	nhfo	barn
 .	.	.
-
 5	ta	5
 )	)	)
 Gunnlaugur	nken-s	Gunnlaugur
@@ -1440,13 +1353,11 @@ Sveinsdóttur	nveþ-s	Sveinsdóttir
 ,	,	,
 sjúkraliða	nkeþ	sjúkraliði
 .	.	.
-
 Þau	fphfn	það
 eiga	sfg3fn	eiga
 tvö	tfhfo	tveir
 börn	nhfo	barn
 .	.	.
-
 Guðrún	nven-s	Guðrún
 var	sfg3eþ	vera
 húsmóðir	nven	húsmóðir
@@ -1456,7 +1367,6 @@ og	c	og
 mannmörgu	lheþsf	mannmargur
 heimili	nheþ	heimili
 .	.	.
-
 Síðustu	lhfove	síðari
 hjúskaparár	nhfo	hjúskaparár
 sín	fehfo	sinn
@@ -1465,14 +1375,12 @@ bjuggu	sfg3fþ	búa
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Sigurður	nken-s	Sigurður
 lést	sfm3eþ	láta
 17.	ta	17.
 apríl	nkeo	apríl
 1977	ta	1977
 .	.	.
-
 Síðustu	lhfove	síðari
 árin	nhfog	ár
 dvaldist	sfm3eþ	dvelja
@@ -1492,7 +1400,6 @@ umönnun	nveo	umönnun
 og	c	og
 hjúkrun	nveo	hjúkrun
 .	.	.
-
 Útför	nven	útför
 Guðrúnar	nvee-s	Guðrún
 fór	sfg3eþ	fara
@@ -1504,11 +1411,9 @@ að	aþ	að
 hinnar	gvee	hinn
 látnu	lveevf	látinn
 .	.	.
-
 Umsókn	nven	umsókn
 um	ao	um
 ítarefni	nheo	ítarefni
-
 Garður.is	v	garður.is
 býður	sfg3en	bjóða
 nú	aa	nú
@@ -1525,7 +1430,6 @@ upplýsingar	nvfo	upplýsing
 um	ao	um
 einstaklinginn	nkeog	einstaklingur
 .	.	.
-
 (	(	(
 Sjá	sng	sjá
 eyðublaðið	nheog	eyðublað
@@ -1541,7 +1445,6 @@ smella	sng	smella
 hér	aa	hér
 .	.	.
 )	)	)
-
 Um	ao	um
 er	sfg3en	vera
 að	cn	að
@@ -1561,7 +1464,6 @@ stutt	lheosf	stuttur
 150	ta	150
 orð	nhfo	orð
 .	.	.
-
 sem	c	sem
 munu	sfg3fn	munu
 birtast	snm	birta
@@ -1571,7 +1473,6 @@ leitarniðurstöðu	nveþ	leitarniðurstaða
 vefsíðunni	nveþg	vefsíða
 www.gardur.is	v	www.gardur.is
 .	.	.
-
 Gardur.is	v	gardur.is
 hefur	sfg3en	hafa
 gert	ssg	gera
@@ -1641,11 +1542,9 @@ birtingu	nveo	birting
 og	c	og
 mynd	nveþ	mynd
 .	.	.
-
 Dæmi	nhen	dæmi
 1	ta	1
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -1663,11 +1562,9 @@ að	cn	að
 smella	sng	smella
 hér	aa	hér
 .	.	.
-
 Dæmi	nhen	dæmi
 2	ta	2
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -1685,7 +1582,6 @@ að	cn	að
 smella	sng	smella
 hér	aa	hér
 .	.	.
-
 Með	aþ	með
 þessu	faheþ	þessi
 munu	sfg3fn	munu
@@ -1705,7 +1601,6 @@ um	ao	um
 ókomna	lveosf	ókominn
 tíð	nveo	tíð
 .	.	.
-
 Kostnaður	nken	kostnaður
 við	ao	við
 að	cn	að
@@ -1730,7 +1625,6 @@ sendur	sþgken	senda
 til	ae	til
 verkkaupa	nkee	verkkaupi
 .	.	.
-
 Gefinn	sþgken	gefa
 er	sfg3en	vera
 verulegur	lkensf	verulegur
@@ -1752,7 +1646,6 @@ hjón	nhfo	hjón
 eða	c	eða
 sambúðarfólk	nheo	sambúðarfólk
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 veittur	sþgken	veita
@@ -1771,7 +1664,6 @@ sjá	sng	sjá
 verðskrá	nveo	verðskrá
 )	)	)
 .	.	.
-
 Tekið	sþghen	taka
 skal	sfg3en	skulu
 fram	aa	fram
@@ -1789,7 +1681,6 @@ um	ao	um
 ókomna	lveosf	ókominn
 tíð	nveo	tíð
 .	.	.
-
 Fái	svg3en	fá
 þessi	faven	þessi
 hugmynd	nven	hugmynd
@@ -1822,10 +1713,8 @@ um	ao	um
 land	nheo	land
 allt	foheo	allur
 .	.	.
-
 Verðskrá	nven	verðskrá
 :	:	:
-
 Ef	c	ef
 pantað	sþghen	panta
 er	sfg3en	vera
@@ -1833,9 +1722,7 @@ fyrir	ao	fyrir
 einn	tfkeo	einn
 einstakling	nkeo	einstaklingur
 ..............................	..............................	..............................
-
 kr.	as	kr.
-
 5.000	ta	5.000
 Ef	c	ef
 pantað	sþghen	panta
@@ -1846,7 +1733,6 @@ hjón	nhfo	hjón
 eða	c	eða
 sambúðarfólk	nheo	sambúðarfólk
 ........	........	........
-
 -	-	-
 3.500	ta	3.500
 á	ao	á
@@ -1862,13 +1748,11 @@ einstaklinga	nkfo	einstaklingur
 eða	c	eða
 fleiri	lkfovm	margur
 ....................	....................	....................
-
 -	-	-
 2.500	ta	2.500
 á	ao	á
 hvern	fokeo	hver
 einstakling	nkeo	einstaklingur
-
 Rétthafi	nken	rétthafi
 leiðis	nhee	leiði
 eða	c	eða
@@ -1883,7 +1767,6 @@ hér	aa	hér
 að	aa	að
 neðan	aa	neðan
 .	.	.
-
 Ef	c	ef
 nota	sng	nota
 á	sfg3en	eiga
@@ -1913,7 +1796,6 @@ eru	sfg3fn	vera
 fáanleg	lhfnsf	fáanlegur
 þaðan	aa	þaðan
 .	.	.
-
 Ef	c	ef
 textinn	nkeng	texti
 er	sfg3en	vera
@@ -1965,7 +1847,6 @@ Vesturhlíð	nveþ-s	Vesturhlíð
 105	ta	105
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Starfsmenn	nkfn	starfsmaður
 Garðs.is	v	garðs.is
 munu	sfg3fn	munu
@@ -1981,7 +1862,6 @@ setja	sng	setja
 inn	aa	inn
 textann	nkeog	texti
 .	.	.
-
 Öllum	fohfþ	allur
 gögnum	nhfþ	gagn
 verður	sfg3en	verða
@@ -1991,7 +1871,6 @@ að	aþ	að
 verki	nheþ	verk
 loknu	lheþsf	lokinn
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -2010,13 +1889,11 @@ og	c	og
 virkum	lkfþsf	virkur
 dögum	nkfþ	dagur
 .	.	.
-
 Umsókn	nven	umsókn
 um	ao	um
 æviágrip	nheo	æviágrip
 og	c	og
 mynd	nveo	mynd
-
 Um	ao	um
 tvær	tfvfo	tveir
 aðferðir	nvfo	aðferð
@@ -2026,7 +1903,6 @@ velja	sng	velja
 :	:	:
 1	ta	1
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -2037,7 +1913,6 @@ inn	aa	inn
 tölvupósti	nkeþ	tölvupóstur
 2	ta	2
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 hægt	lhensf	hægur
@@ -2060,7 +1935,6 @@ verði	svg3en	verða
 birt	sþgven	birta
 á	aþ	á
 gardur.is	v	gardur.is
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -2079,21 +1953,18 @@ er	sfg3en	vera
 á	aþ	á
 vefnum	nkeþg	vefur
 .	.	.
-
 Frekari	lvfovm	frekur
 upplýsingar	nvfo	upplýsing
 má	sfg3en	mega
 fá	sng	fá
 í	aþ	í
 síma	nkeþ	sími
-
 Helsti	lkenve	heldri
 styrktaraðili	nken	styrktaraðili
 gardur.is	v	gardur.is
 er	sfg3en	vera
 Kirkjugarðasjóður	nken-s	kirkjugarðasjóður
 .	.	.
-
 Einnig	aa	einnig
 hefur	sfg3en	hafa
 Alþingi	nhen-s	Alþingi
@@ -2107,7 +1978,6 @@ fl.	as	fl.
 styrkt	ssg	styrkja
 verkefnið	nheog	verkefni
 .	.	.
-
 Eftirfarandi	lhenof	eftirfarandi
 kort	nhen	kort
 sýnir	sfg3en	sýna
@@ -2124,7 +1994,6 @@ verið	ssg	vera
 síðustu	lveþve	síðari
 öld	nveþ	öld
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -2138,7 +2007,6 @@ skoða	sng	skoða
 það	fpheo	það
 nánar	aam	náið
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 hægt	lhensf	hægur
@@ -2156,7 +2024,6 @@ upplýsingar	nvfn	upplýsing
 verða	sfg3fn	verða
 aðgengilegar	lvfnsf	aðgengilegur
 .	.	.
-
 Við	ao	við
 það	fpheo	það
 kemur	sfg3en	koma
@@ -2179,11 +2046,9 @@ og	c	og
 skoða	sng	skoða
 nánar	aam	náið
 .	.	.
-
 Veldu	sbg2en	velja
 kirkjugarð	nkeo	kirkjugarður
 :	:	:
-
 Listinn	nkeng	listi
 hér	aa	hér
 fyrir	aa	fyrir
@@ -2201,11 +2066,9 @@ vefnum	nkeþg	vefur
 í	aþ	í
 stafrófsröð	nveþ	stafrófsröð
 .	.	.
-
 Kirkjugarðar	nkfn	kirkjugarður
 og	c	og
 skipulag	nhen	skipulag
-
 Á	aþ	á
 Íslandi	nheþ-s	Ísland
 eru	sfg3fn	vera
@@ -2224,7 +2087,6 @@ garða	nkfe	garður
 og	c	og
 heimagrafreita	nkfe	heimagrafreitur
 .	.	.
-
 Flestir	lkfnse	margur
 þessara	fakfe	þessi
 garða	nkfe	garður
@@ -2241,7 +2103,6 @@ er	sfg3en	vera
 ekki	aa	ekki
 mikill	lkensf	mikill
 .	.	.
-
 Þeim	fpkfþ	hann
 er	sfg3en	vera
 stýrt	sþghen	stýra
@@ -2258,7 +2119,6 @@ hafa	sfg3fn	hafa
 sérstaka	lveosf	sérstakur
 kirkjugarðsstjórn	nveo	kirkjugarðsstjórn
 .	.	.
-
 Stærstu	lkfnve	stór
 kirkjugarðar	nkfn	kirkjugarður
 á	aþ	á
@@ -2277,7 +2137,6 @@ um	aa	um
 þúsund	tfvfn	þúsund
 grafir	nvfn	gröf
 .	.	.
-
 Þar	aa	þar
 á	aa	á
 eftir	aa	eftir
@@ -2289,9 +2148,7 @@ um	ao	um
 7000	ta	7000
 grafir	nvfo	gröf
 .	.	.
-
 Kirkjugarðar	nkfn	kirkjugarður
-
 Kirkjugarður	nken	kirkjugarður
 er	sfg3en	vera
 afmarkað	lhensf	afmarkaður
@@ -2304,7 +2161,6 @@ vígt	sþghen	vígja
 hefur	sfg3en	hafa
 verið	ssg	vera
 .	.	.
-
 Kirkjugarðar	nkfn	kirkjugarður
 þjóðkirkjunnar	nveeg	þjóðkirkja
 skulu	sfg3fn	skulu
@@ -2325,14 +2181,12 @@ hlutaðeigandi	lvenof	hlutaðeigandi
 kirkjugarðsstjórn	nven	kirkjugarðsstjórn
 samþykkir	sfg3en	samþykkja
 .	.	.
-
 Kirkjugarðar	nkfn	kirkjugarður
 og	c	og
 grafreitir	nkfn	grafreitur
 eru	sfg3fn	vera
 friðhelgir	lkfnsf	friðhelgur
 .	.	.
-
 Það	fphen	það
 má	sfg3en	mega
 ekki	aa	ekki
@@ -2357,10 +2211,8 @@ nánd	nveþ	nánd
 við	ao	við
 kirkjugarða	nkfo	kirkjugarður
 .	.	.
-
 Rekstur	nken	rekstur
 kirkjugarðanna	nkfeg	kirkjugarður
-
 Hver	foken	hver
 kirkjugarður	nken	kirkjugarður
 þjóðkirkjunnar	nveeg	þjóðkirkja
@@ -2385,7 +2237,6 @@ prófasta	nkfe	prófastur
 og	c	og
 biskups	nkee	biskup
 .	.	.
-
 Sóknarnefnd	nven	sóknarnefnd
 eða	c	eða
 sérnefnd	nven	sérnefnd
@@ -2405,7 +2256,6 @@ og	c	og
 fjárhald	nheo	fjárhald
 kirkjugarðs	nkee	kirkjugarður
 .	.	.
-
 Hún	fpven	hún
 sér	sfg3en	sjá
 um	ao	um
@@ -2430,14 +2280,12 @@ prestþjónustu	nveþ	prestþjónusta
 vegna	ae	vegna
 útfara	nvfe	útför
 .	.	.
-
 Kirkjugarðsgjaldið	nheng	kirkjugarðsgjald
 stendur	sfg3en	standa
 undir	aþ	undir
 rekstri	nkeþ	rekstur
 kirkjugarða	nkfe	kirkjugarður
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 reiknað	sþghen	reikna
@@ -2472,7 +2320,6 @@ starfssvæði	nheþ	starfssvæði
 hvers	fokee	hver
 kirkjugarðs	nkee	kirkjugarður
 .	.	.
-
 Kirkjugarðsgjaldið	nheng	kirkjugarðsgjald
 er	sfg3en	vera
 ekki	aa	ekki
@@ -2492,7 +2339,6 @@ af	aþ	af
 tekjum	nvfþ	tekja
 sínum	fevfþ	sinn
 .	.	.
-
 Eigendur	nkfn	eigandi
 kirkjugarða	nkfe	kirkjugarður
 landsins	nheeg	land
@@ -2512,7 +2358,6 @@ kirkjusafnaða	nkfe	kirkjusöfnuður
 eða	c	eða
 ekki	aa	ekki
 .	.	.
-
 Fjárveitingar	nvfn	fjárveiting
 ríkisins	nheeg	ríki
 til	ae	til
@@ -2547,7 +2392,6 @@ og	c	og
 fjölgun	nveo	fjölgun
 greftrana	nvfe	greftrun
 .	.	.
-
 Hver	foken	hver
 kirkjugarður	nken	kirkjugarður
 fær	sfg3en	fá
@@ -2567,7 +2411,6 @@ garði	nkeþ	garður
 grafarkostnaður	nken	grafarkostnaður
 )	)	)
 .	.	.
-
 Kirkjugarðaráð	nhen	Kirkjugarðaráð
 hefur	sfg3en	hafa
 falið	ssg	fela
@@ -2597,7 +2440,6 @@ fyrir	aþ	fyrir
 nokkrum	fohfþ	nokkur
 árum	nhfþ	ár
 .	.	.
-
 Kirkjugarðaráð	nhen	kirkjugarðaráð
 hefur	sfg3en	hafa
 yfir	aþ	yfir
@@ -2613,7 +2455,6 @@ kirkjugarðar	nkfn	kirkjugarður
 greiða	sfg3fn	greiða
 í	aa	í
 .	.	.
-
 Úr	aþ	úr
 honum	fpkeþ	hann
 eru	sfg3fn	vera
@@ -2628,7 +2469,6 @@ höllum	lkeþsf	hallur
 fæti	nkeþ	fótur
 fjárhagslega	aa	fjárhagslega
 .	.	.
-
 Umsóknir	nvfn	umsókn
 um	ao	um
 styrki	nkfo	styrkur
@@ -2664,7 +2504,6 @@ með	aþ	með
 þeim	favfþ	sá
 framkvæmdum	nvfþ	framkvæmd
 .	.	.
-
 Við	ao	við
 úthlutun	nveo	úthlutun
 úr	aþ	úr
@@ -2694,11 +2533,9 @@ heildarmynd	nven	heildarmynd
 hefur	sfg3en	hafa
 náðst	ssm	ná
 .	.	.
-
 Umsjón	nven	umsjón
 og	c	og
 verkefni	nhfn	verkefni
-
 Verkefni	nhfn	verkefni
 kirkjugarða	nkfe	kirkjugarður
 eru	sfg3fn	vera
@@ -2706,7 +2543,6 @@ margvísleg	lhfnsf	margvíslegur
 og	c	og
 mikilvæg	lhfnsf	mikilvægur
 .	.	.
-
 Helstu	lhfnve	heldri
 verkefni	nhfn	verkefni
 eru	sfg3fn	vera
@@ -2742,7 +2578,6 @@ og	c	og
 sérstakt	lhensf	sérstakur
 skrifstofuhald	nhen	skrifstofuhald
 .	.	.
-
 Verkefnin	nhfng	verkefni
 flokkast	sfm3fn	flokka
 að	aþ	að
@@ -2760,7 +2595,6 @@ skipulags-	nhfo	skipulagsmál
 og	c	og
 heilbrigðismál	nhfo	heilbrigðismál
 .	.	.
-
 Engu	foheþ	enginn
 að	aa	að
 síður	aam	síður
@@ -2775,7 +2609,6 @@ stýra	sfg3fn	stýra
 langflestum	lvfþse	langflestur
 þeirra	fpvfe	hún
 .	.	.
-
 Þrátt	aa	þrátt
 fyrir	ao	fyrir
 mikinn	lkeosf	mikill
@@ -2795,7 +2628,6 @@ sem	ct	sem
 aðskilur	sfg3en	aðskilja
 þá	fpkfo	hann
 .	.	.
-
 Nefna	sng	nefna
 má	sfg3en	mega
 viðhald	nheo	viðhald
@@ -2803,7 +2635,6 @@ garðanna	nkfeg	garður
 og	c	og
 minjavernd	nveo	minjavernd
 .	.	.
-
 Í	aþ	í
 fámennum	lkfþsf	fámennur
 sveitarkirkjugörðum	nkfþ	sveitarkirkjugarður
@@ -2837,7 +2668,6 @@ að	aþ	að
 hverjum	fokeþ	hver
 garði	nkeþ	garður
 .	.	.
-
 Kirkjugarðsstjórnum	nvfþ	kirkjugarðsstjórn
 (	(	(
 sóknarnefndum	nvfþ	sóknarnefnd
@@ -2864,7 +2694,6 @@ mörg	lhfnsf	margur
 hafa	sfg3fn	hafa
 minjagildi	nheo	minjagildi
 .	.	.
-
 Kirkjugarðaráð	nhen	Kirkjugarðaráð
 hefur	sfg3en	hafa
 umsjón	nveo	umsjón
@@ -2882,7 +2711,6 @@ lögum	nhfþ	lag
 nr.	as	nr.
 36/1993	ta	36/1993
 .	.	.
-
 Í	aþ	í
 því	fpheþ	það
 eiga	sfg3fn	eiga
@@ -2919,14 +2747,12 @@ kosinn	sþgken	kjósa
 af	aþ	af
 kirkjuþingi	nheþ	kirkjuþing
 .	.	.
-
 Skipunartími	nken	skipunartími
 nefndarinnar	nveeg	nefnd
 er	sfg3en	vera
 fjögur	tfhfn	fjórir
 ár	nhfn	ár
 .	.	.
-
 Biskup	nken	biskup
 Íslands	nhee-s	Ísland
 eða	c	eða
@@ -2937,7 +2763,6 @@ vera	sng	vera
 formaður	nken	formaður
 kirkjugarðaráðs	nhee	kirkjugarðaráð
 .	.	.
-
 Ef	c	ef
 atkvæði	nhfn	atkvæði
 falla	sfg3fn	falla
@@ -2948,7 +2773,6 @@ ræður	sfg3en	ráða
 atkvæði	nhen	atkvæði
 biskups	nkee	biskup
 .	.	.
-
 Kirkjugarðaráð	nhen	kirkjugarðaráð
 ræður	sfg3en	ráða
 framkvæmdastjóra	nkeo	framkvæmdastjóri
@@ -2958,7 +2782,6 @@ setur	sfg3en	setja
 honum	fpkeþ	hann
 erindisbréf	nheo	erindisbréf
 .	.	.
-
 Hann	fpken	hann
 skal	sfg3en	skulu
 vera	sng	vera
@@ -2969,7 +2792,6 @@ og	c	og
 skipulag	nheo	skipulag
 kirkjugarða	nkfe	kirkjugarður
 .	.	.
-
 Laun	nhfn	laun
 hans	fpkee	hann
 og	c	og
@@ -2987,7 +2809,6 @@ greiðist	sfm3en	greiða
 úr	aþ	úr
 kirkjugarðasjóði	nkeþ	kirkjugarðasjóður
 .	.	.
-
 Kirkjugarðaráð	nhen	kirkjugarðaráð
 er	sfg3en	vera
 jafnframt	aa	jafnframt
@@ -3002,9 +2823,7 @@ hans	fpkee	hann
 sbr.	as	sbr.
 40.	ta	40.
 gr.	as	gr.
-
 Legstaðaskrá	nven	legstaðaskrá
-
 Kirkjugarðsstjórn	nven	kirkjugarðsstjórn
 og	c	og
 sóknarnefndir	nvfn	sóknarnefnd
@@ -3018,7 +2837,6 @@ sem	ct	sem
 kirkjugarðaráð	nhen	kirkjugarðaráð
 ákveður	sfg3en	ákveða
 .	.	.
-
 Í	aþ	í
 legstaðaskrá	nveþ	legstaðaskrá
 er	sfg3en	vera
@@ -3062,7 +2880,6 @@ leiði	nhfn	leiði
 þeirra	fpkfe	hann
 þekkjast	sfm3fn	þekkja
 .	.	.
-
 Legstaðaskrár	nvfn	legstaðaskrá
 margra	lkfesf	margur
 kirkjugarða	nkfe	kirkjugarður
@@ -3071,7 +2888,6 @@ eru	sfg3fn	vera
 handskrifuðu	lheþsf	handskrifaður
 formi	nheþ	form
 .	.	.
-
 Kirkjugarðsstjórnir	nvfn	kirkjugarðsstjórn
 og	c	og
 sóknarnefndir	nvfn	sóknarnefnd
@@ -3104,7 +2920,6 @@ verið	ssg	vera
 sléttað	sþghen	slétta
 yfir	aa	yfir
 .	.	.
-
 Hverri	foveþ	hver
 legstaðaskrá	nveþ	legstaðaskrá
 fylgir	sfg3en	fylgja
@@ -3114,7 +2929,6 @@ kort	nhen	kort
 af	aþ	af
 kirkjugarðinum	nkeþg	kirkjugarður
 .	.	.
-
 Á	aþ	á
 kortinu	nheþg	kort
 er	sfg3en	vera
@@ -3131,7 +2945,6 @@ vita	sfg3fn	vita
 deili	nhfo	deili
 á	aa	á
 .	.	.
-
 Lýsing	nven	lýsing
 fylgi	svg3en	fylgja
 á	aþ	á
@@ -3153,7 +2966,6 @@ nöfnum	nhfþ	nafn
 og	c	og
 dánarári	nheþ	dánarár
 .	.	.
-
 Til	ae	til
 að	cn	að
 auðvelda	sng	auðvelda
@@ -3179,7 +2991,6 @@ u.þ.b.	as	u.þ.b.
 kirkjugörðum	nkfþ	kirkjugarður
 landsins	nheeg	land
 .	.	.
-
 Þessi	faven	þessi
 vinna	nven	vinna
 hófst	sfm3eþ	hefja
@@ -3190,9 +3001,7 @@ lauk	sfg3eþ	ljúka
 árið	nheog	ár
 1997	ta	1997
 .	.	.
-
 Áttirnar	nvfng	átt
-
 Kirkjur	nvfn	kirkja
 snúa	sfg3fn	snúa
 í	aa	í
@@ -3208,7 +3017,6 @@ austri	nheþ	austur
 til	ae	til
 birtunnar	nveeg	birta
 .	.	.
-
 Helstu	lvfnve	heldri
 ástæður	nvfn	ástæða
 fyrir	aþ	fyrir
@@ -3218,7 +3026,6 @@ voru	sfg3fþ	vera
 trúarlegs	lheesf	trúarlegur
 eðlis	nhee	eðli
 .	.	.
-
 Í	aþ	í
 austri	nheþ	austur
 lá	sfg3eþ	liggja
@@ -3254,7 +3061,6 @@ Matt.	as	Matt.
 24.27	ta	24.27
 )	)	)
 .	.	.
-
 Uppstigning	nven	uppstigning
 Jesú	nkee-s	Jesús
 Krists	nkee-s	Kristur
@@ -3271,7 +3077,6 @@ menn	nkfn	maður
 endurkomu	nvee	endurkoma
 hans	fpkee	hann
 .	.	.
-
 Sólin	nveng	sól
 rís	sfg3en	rísa
 í	aþ	í
@@ -3289,7 +3094,6 @@ upprisu	nvee	upprisa
 og	c	og
 endurkomu	nvee	endurkoma
 .	.	.
-
 Altarið	nheng	altari
 ,	,	,
 sem	ct	sem
@@ -3302,7 +3106,6 @@ er	sfg3en	vera
 austurenda	nkeþ	austurendi
 hennar	fpvee	hún
 .	.	.
-
 Fólk	nhen	fólk
 beinir	sfg3en	beina
 bænum	nvfþ	bæn
@@ -3321,7 +3124,6 @@ látnu	lkfnvf	látinn
 í	aþ	í
 kirkjugarðinum	nkeþg	kirkjugarður
 .	.	.
-
 Hinir	gkfn	hinn
 látnu	lkfnvf	látinn
 eru	sfg3fn	vera
@@ -3338,7 +3140,6 @@ austri	nheþ	austur
 í	ao	í
 sólarátt	nveo	sólarátt
 .	.	.
-
 Sama	fbheo	sami
 má	sfg3en	mega
 segja	sng	segja
@@ -3362,14 +3163,12 @@ austur	nheo	austur
 til	ae	til
 upprisunnar	nveeg	upprisa
 .	.	.
-
 Vestur	nhen	vestur
 er	sfg3en	vera
 hins	fakee	hinn
 vegar	nkee	vegur
 andstæðan	nveng	andstæða
 .	.	.
-
 Vestur	aa	vestur
 er	sfg3en	vera
 tákn	nhen	tákn
@@ -3379,9 +3178,7 @@ sólarlag	nhen	sólarlag
 tákn	nhen	tákn
 dauða	nkee	dauði
 .	.	.
-
 Leiði	nhfn	leiði
-
 Allflest	lhfnse	allflestur
 leiði	nhfn	leiði
 í	aþ	í
@@ -3417,7 +3214,6 @@ tölu	nveþ	tala
 í	aþ	í
 legstaðaskrá	nveþ	legstaðaskrá
 .	.	.
-
 Krossinn	nkeng	kross
 og	c	og
 krosstáknið	nheng	krosstákn
@@ -3435,7 +3231,6 @@ og	c	og
 fyrirgefningar	nvee	fyrirgefning
 syndanna	nvfeg	synd
 .	.	.
-
 Krossinn	nkeng	kross
 er	sfg3en	vera
 ekki	aa	ekki
@@ -3448,7 +3243,6 @@ sem	ct	sem
 sigraði	sfg3eþ	sigra
 dauðann	nkeog	dauði
 .	.	.
-
 Allar	fovfn	allur
 grafir	nvfn	gröf
 eru	sfg3fn	vera
@@ -3457,7 +3251,6 @@ friðaðar	sþgvfn	friða
 75	ta	75
 ár	nhfo	ár
 .	.	.
-
 Að	aþ	að
 þeim	fakeþ	sá
 tíma	nkeþ	tími
@@ -3478,7 +3271,6 @@ ef	c	ef
 er	sfg3en	vera
 óskað	sþghen	óska
 .	.	.
-
 Kirkjugarðsstjórn	nven	kirkjugarðsstjórn
 getur	sfg3en	geta
 friðað	ssg	friða
@@ -3497,9 +3289,7 @@ vel	aa	vel
 við	aa	við
 haldið	sþghen	halda
 .	.	.
-
 Grafartaka	nven	grafartaka
-
 Á	aþ	á
 Íslandi	nheþ-s	Ísland
 ,	,	,
@@ -3514,7 +3304,6 @@ að	aþ	að
 skipulagningu	nveþ	skipulagning
 kirkjugarða	nkfe	kirkjugarður
 .	.	.
-
 Í	aþ	í
 mörgum	lkfþsf	margur
 eldri	lkfþvm	gamall
@@ -3534,7 +3323,6 @@ hvert	foheo	hver
 leiði	nheo	leiði
 misstórt	lhensf	misstór
 .	.	.
-
 Kirkjugarðar	nkfn	kirkjugarður
 Kvíabekkjarkirkju	nvee-s	Kvíabekkjarkirkja
 og	c	og
@@ -3546,7 +3334,6 @@ dæmi	nhfn	dæmi
 um	ao	um
 það	fpheo	það
 .	.	.
-
 Margir	lkfnsf	margur
 kirkjugarðar	nkfn	kirkjugarður
 hafa	sfg3fn	hafa
@@ -3567,7 +3354,6 @@ var	sfg3eþ	vera
 að	cn	að
 moka	sng	moka
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 ber	sfg3en	bera
@@ -3603,7 +3389,6 @@ eða	c	eða
 umboðsmaður	nken	umboðsmaður
 hennar	fpvee	hún
 .	.	.
-
 Grafir	nvfn	gröf
 skulu	sfg3fn	skulu
 vera	sng	vera
@@ -3618,7 +3403,6 @@ kistuloki	nheþ	kistulok
 á	ao	á
 grafarbarm	nkeo	grafarbarmur
 .	.	.
-
 Kirkjugarðsstjórn	nven	kirkjugarðsstjórn
 getur	sfg3en	geta
 heimilað	ssg	heimila
@@ -3651,7 +3435,6 @@ var	sfg3eþ	vera
 áður	aa	áður
 grafinn	sþgken	grafa
 .	.	.
-
 Skal	sfg3en	skulu
 þá	aa	þá
 grafardýpt	nven	grafardýpt
@@ -3662,10 +3445,8 @@ vera	sng	vera
 21/2	ta	21/2
 metri	nken	metri
 .	.	.
-
 Niðurlagðir	lkfnsf	niðurlagður
 kirkjugarðar	nkfn	kirkjugarður
-
 Hér	aa	hér
 á	aþ	á
 landi	nheþ	land
@@ -3684,7 +3465,6 @@ eru	sfg3fn	vera
 úr	aþ	úr
 Íslandssögunni	nveþgs	íslandssaga
 .	.	.
-
 Víkurgarður	nken-s	Víkurgarður
 sem	ct	sem
 síðar	aam	síðar
@@ -3696,7 +3476,6 @@ dæmi	nhen	dæmi
 um	ao	um
 slíkan	fbkeo	slíkur
 .	.	.
-
 Talið	sþghen	telja
 er	sfg3en	vera
 að	c	að
@@ -3718,7 +3497,6 @@ grafreit	nkeo	grafreitur
 umhverfis	ao	umhverfis
 hana	fpveo	hún
 .	.	.
-
 Staður	nken	staður
 þessi	faken	þessi
 var	sfg3eþ	vera
@@ -3731,7 +3509,6 @@ Aðalstrætis	nhee-s	Aðalstræti
 og	c	og
 Kirkjustrætis	nhee-s	Kirkjustræti
 .	.	.
-
 Garðurinn	nkeng	garður
 var	sfg3eþ	vera
 um	aa	um
@@ -3756,7 +3533,6 @@ rúm	lhfosf	rúmur
 800	ta	800
 ár	nhfo	ár
 .	.	.
-
 Ætla	sng	ætla
 má	sfg3en	mega
 að	c	að
@@ -3768,11 +3544,9 @@ Reykvíkinga	nkfe-s	Reykvíkingur
 hvíli	svg3fn	hvíla
 þar	aa	þar
 .	.	.
-
 Merking	nven	merking
 fornra	lkfesf	forn
 staða	nkfe	staður
-
 Eitt	tfhen	einn
 af	aþ	af
 hlutverkum	nhfþ	hlutverk
@@ -3792,7 +3566,6 @@ kirkjur	nvfn	kirkja
 eða	c	eða
 bænahús	nhfn	bænahús
 .	.	.
-
 Með	aþ	með
 aukinni	lveþsf	aukinn
 umferð	nveþ	umferð
@@ -3815,7 +3588,6 @@ upplýsingar	nvfo	upplýsing
 þessum	fakfþ	þessi
 stöðum	nkfþ	staður
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 um	ao	um
@@ -3846,7 +3618,6 @@ að	c	að
 vel	aa	vel
 fari	svg3en	fara
 .	.	.
-
 Niðurlögðum	lkfþsf	niðurlagður
 kirkjugörðum	nkfþ	kirkjugarður
 er	sfg3en	vera
@@ -3855,7 +3626,6 @@ nokkuð	fohen	nokkur
 vel	aa	vel
 við	aa	við
 .	.	.
-
 Þar	aa	þar
 eru	sfg3fn	vera
 minnismerkjum	nhfþ	minnismerki
@@ -3881,7 +3651,6 @@ nema	c	nema
 með	aþ	með
 undanþágu	nveþ	undanþága
 .	.	.
-
 Áður	aa	áður
 en	c	en
 sléttað	sþghen	slétta
@@ -3902,7 +3671,6 @@ og	c	og
 sendir	sfg3en	senda
 biskupi	nkeþ	biskup
 .	.	.
-
 Vandamenn	nkfn	vandamaður
 eiga	sfg3fn	eiga
 rétt	nkeo	réttur
@@ -3920,9 +3688,7 @@ flytja	sng	flytja
 burt	aa	burt
 þaðan	aa	þaðan
 .	.	.
-
 Heimagrafreitir	nkfn	heimagrafreitur
-
 Fjölmargir	lkfnsf	fjölmargur
 heimagrafreitir	nkfn	heimagrafreitur
 eru	sfg3fn	vera
@@ -3935,7 +3701,6 @@ eru	sfg3fn	vera
 þeir	fpkfn	hann
 vígðir	lkfnsf	vígður
 .	.	.
-
 Aðalsteinn	nken-s	Aðalsteinn
 Steindórsson	nken-s	Steindórsson
 ,	,	,
@@ -3957,7 +3722,6 @@ heimagrafreitum	nkfþ	heimagrafreitur
 mörgum	lhfþsf	margur
 prófastsdæmum	nhfþ	prófastsdæmi
 .	.	.
-
 Þessu	faheþ	þessi
 verkefni	nheþ	verkefni
 var	sfg3eþ	vera
@@ -3972,7 +3736,6 @@ er	sfg3en	vera
 nú	aa	nú
 lokið	sþghen	ljúka
 .	.	.
-
 Prófastar	nkfn	prófastur
 halda	sfg3fn	halda
 nákvæma	lveosf	nákvæmur
@@ -3994,7 +3757,6 @@ afrit	nhfo	afrit
 af	aþ	af
 skoðunargerðum	nvfþ	skoðunargerð
 .	.	.
-
 Þessi	faven	þessi
 heimasíða	nven	heimasíða
 er	sfg3en	vera
@@ -4008,7 +3770,6 @@ Kirkjugarðasambands	nhee-s	kirkjugarðasamband
 KGSÍ	as	KGSÍ
 )	)	)
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 opnuð	sþgven	opna
@@ -4016,7 +3777,6 @@ opnuð	sþgven	opna
 júní	nkeo	júní
 2001	ta	2001
 .	.	.
-
 Söfnun	nven	söfnun
 og	c	og
 skráning	nven	skráning
@@ -4025,7 +3785,6 @@ hefur	sfg3en	hafa
 gengið	ssg	ganga
 vel	aa	vel
 .	.	.
-
 Kappkostað	sþghen	kappkosta
 er	sfg3en	vera
 að	cn	að
@@ -4069,7 +3828,6 @@ inn	aa	inn
 í	ao	í
 gagnasafnið	nheog	gagnasafn
 .	.	.
-
 Þessi	faven	þessi
 uppfærsla	nven	uppfærsla
 hefur	sfg3en	hafa
@@ -4094,7 +3852,6 @@ við	ao	við
 Hagstofu	nveo-s	Hagstofa
 Íslands	nhee-s	Ísland
 .	.	.
-
 gardur.is	v	gardur.is
 byggir	sfg3en	byggja
 á	aþ	á
@@ -4115,7 +3872,6 @@ kirkjugörðum	nkfþ	kirkjugarður
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Tilgangurinn	nkeng	tilgangur
 er	sfg3en	vera
 að	cn	að
@@ -4134,7 +3890,6 @@ manna	nkfe	maður
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Jafnframt	aa	jafnframt
 eru	sfg3fn	vera
 á	aþ	á
@@ -4153,7 +3908,6 @@ myndir	nvfn	mynd
 og	c	og
 teikningar	nvfn	teikning
 .	.	.
-
 Helstu	lkfnve	heldri
 styrktaraðilar	nkfn	styrktaraðili
 gardur.is	v	gardur.is
@@ -4162,7 +3916,6 @@ Alþingi	nhen-s	Alþingi
 og	c	og
 Kirkjugarðasjóður	nken-s	kirkjugarðasjóður
 .	.	.
-
 Einnig	aa	einnig
 hefur	sfg3en	hafa
 Menningarsjóður	nken-s	Menningarsjóður
@@ -4170,13 +3923,11 @@ KEA	nxee-s	KEA
 styrkt	ssg	styrkja
 verkefnið	nheog	verkefni
 .	.	.
-
 Netgarður	nken-s	Netgarður
 ehf	as	ehf
 hannaði	sfg3eþ	hanna
 vefinn	nkeog	vefur
 .	.	.
-
 Nú	aa	nú
 eru	sfg3fn	vera
 113634	ta	113634
@@ -4184,7 +3935,6 @@ nöfn	nhfn	nafn
 í	aþ	í
 grunninum	nkeþg	grunnur
 .	.	.
-
 Í	aþ	í
 stjórn	nveþ	stjórn
 IN	e	IN
@@ -4192,13 +3942,11 @@ MEMORIAM	e	MEMORIAM
 EHF	as	ehf
 eru	sfg3fn	vera
 :	:	:
-
 Þórsteinn	nken-s	Þórsteinn
 Ragnarsson	nken-s	Ragnarsson
 ,	,	,
 formaður	nken	formaður
 ,	,	,
-
 Smári	nken-s	Smári
 Sigurðsson	nken-s	Sigurðsson
 ,	,	,
@@ -4215,14 +3963,12 @@ frá	aþ	frá
 Kirkjugarðasambandi	nheþ-s	kirkjugarðasamband
 Íslands	nhee-s	Ísland
 .	.	.
-
 Upplýsingar	nvfn	upplýsing
 og	c	og
 svör	nhfn	svar
 við	aþ	við
 spurningum	nvfþ	spurning
 .	.	.
-
 ·	·	·
 Ef	c	ef
 þig	fp2eo	þú
@@ -4249,7 +3995,6 @@ samband	nheo	samband
 við	ao	við
 Þórstein	nkeo-s	Þórsteinn
 Ragnarsson	nkeo-s	Ragnarsson
-
 ·	·	·
 Ef	c	ef
 spurningar	nvfn	spurning
@@ -4279,7 +4024,6 @@ samband	nheo	samband
 við	ao	við
 Arnfinn	nkeo-s	Arnfinnur
 Einarsson	nkeo-s	Einarsson
-
 ·	·	·
 Önnur	fohfn	annar
 gögn	nhfn	gagn
@@ -4288,7 +4032,6 @@ til	aa	til
 :	:	:
 Kirkjugarðar	nkfn-s	Kirkjugarður
 Reykjavíkurprófastsdæma	nhfe-s	Reykjavíkurprófastsdæmi
-
 Vesturhlíð	nveþ-s	Vesturhlíð
 8	ta	8
 105	ta	105
@@ -4296,10 +4039,8 @@ Reykjavík	nveþ-s	Reykjavík
 eða	c	eða
 á	aþ	á
 tölvupósti	nkeþ	tölvupóstur
-
 Almanak	nhen	almanak
 Þjóðvinafélagsins	nheegs	Þjóðvinafélagið
-
 Skrá	nven	skrá
 úr	aþ	úr
 Almanaki	nheþ-s	Almanak
@@ -4315,11 +4056,9 @@ létust	sfm3fþ	láta
 tímabilinu	nheþg	tímabil
 1873-1964	ta	1873-1964
 .	.	.
-
 Flutt	sþghfn	flytja
 frá	aþ	frá
 Reykjavík	nveþ-s	Reykjavík
-
 Skrá	nven	skrá
 yfir	ao	yfir
 11809	ta	11809
@@ -4334,9 +4073,7 @@ til	ae	til
 annarra	fokfe	annar
 kirkjugarða	nkfe	kirkjugarður
 .	.	.
-
 Óstaðsettir	lkfnsf	óstaðsettur
-
 Skráin	nveng	skrá
 heldur	sfg3en	halda
 utan	aa	utan
@@ -4352,11 +4089,9 @@ hjá	aþ	hjá
 Kirkjugörðum	nkfþ-s	Kirkjugarður
 Reykjavíkur	nvee-s	Reykjavík
 .	.	.
-
 Hvílustaður	nken	hvílustaður
 óviss	lkensf	óviss
 .	.	.
-
 Hér	aa	hér
 getur	sfg2en	geta
 þú	fp2en	þú
@@ -4385,7 +4120,6 @@ eða	c	eða
 almennu	lvfþvf	almennur
 upplýsingunum	nvfþg	upplýsing
 .	.	.
-
 Gardur.is	v	gardur.is
 mun	sfg3en	munu
 svo	aa	svo
@@ -4398,7 +4132,6 @@ og	c	og
 auðið	lhensf	auðið
 er	sfg3en	vera
 .	.	.
-
 gardur.is	v	gardur.is
 |	|	|
 Fös	x	fös
@@ -4429,7 +4162,6 @@ að	aþ	að
 þjónustu	nveþ	þjónusta
 koma	sfg3fn	koma
 .	.	.
-
 Kirkjugarðasamband	nhen-s	kirkjugarðasamband
 Íslands	nhee-s	Ísland
 og	c	og
@@ -4453,7 +4185,6 @@ tæplega	aa	tæplega
 manns	nkee	maður
 boðið	nheog	boð
 .	.	.
-
 Þingfulltrúar	nkfn	þingfulltrúi
 sigldu	sfg3fþ	sigla
 út	aa	út
@@ -4467,7 +4198,6 @@ baka	aa	baka
 kl.	as	kl.
 15:15	ta	15:15
 .	.	.
-
 Haldin	sþghfn	halda
 voru	sfg3fþ	vera
 5	ta	5
@@ -4480,14 +4210,12 @@ umræður	nvfn	umræða
 og	c	og
 fyrirspurnir	nvfn	fyrirspurn
 .	.	.
-
 Prófastar	nkfn	prófastur
 í	aþ	í
 Reykjavíkurprófastsdæmum	nhfþ-s	Reykjavíkurprófastsdæmi
 stýrðu	sfg3fþ	stýra
 fundi	nkeþ	fundur
 .	.	.
-
 Fundargerð	nveo	fundargerð
 málþingsins	nheeg	málþing
 má	sfg3en	mega
@@ -4498,7 +4226,6 @@ slóðinni	nveþg	slóð
 www.gardur.is	v	www.gardur.is
 /	/	/
 videy	x	videy
-
 gardur.is	v	gardur.is
 |	|	|
 Fim	x	fim
@@ -4509,7 +4236,6 @@ Næsti	lkenve	næstur
 aðalfundur	nken	aðalfundur
 Kirkjugarðasambands	nhee-s	kirkjugarðasamband
 Ísland	x	Ísland
-
 Næsti	lkenve	næstur
 aðalfundur	nken	aðalfundur
 Kirkjugarðasambands	nhee-s	kirkjugarðasamband
@@ -4529,7 +4255,6 @@ sunnudaginn	nkeog	sunnudagur
 maí	nkeo	maí
 2007	ta	2007
 .	.	.
-
 Undanfarin	lhfosf	undanfarinn
 ár	nhfo	ár
 hafa	sfg3fn	hafa
@@ -4551,7 +4276,6 @@ fróðleik	nkeþ	fróðleikur
 og	c	og
 skemmtun	nveþ	skemmtun
 .	.	.
-
 Margir	lkfnsf	margur
 hafa	sfg3fn	hafa
 eignast	ssm	eigna
@@ -4590,7 +4314,6 @@ að	cn	að
 ræða	sng	ræða
 málin	nhfog	mál
 .	.	.
-
 Síðasti	lkenve	síðari
 aðalfundur	nken	aðalfundur
 var	sfg3eþ	vera
@@ -4612,7 +4335,6 @@ með	aþ	með
 mökum	nkfþ	maki
 fundarmanna	nkfe	fundarmaður
 .	.	.
-
 Myndin	nveng	mynd
 er	sfg3en	vera
 tekin	sþgven	taka
@@ -4641,7 +4363,6 @@ upp	aa	upp
 janúar	nkeo	janúar
 2005	ta	2005
 .	.	.
-
 gardur.is	v	gardur.is
 |	|	|
 Mið	x	mið.
@@ -4652,7 +4373,6 @@ Hólavallagarður	nken-s	Hólavallagarður
 við	ao	við
 Suðurgötu	nveo-s	Suðurgata
 .	.	.
-
 Út	aa	út
 er	sfg3en	vera
 komin	sþgven	koma
@@ -4676,7 +4396,6 @@ menningarsögulegs	lheesf	menningarsögulegur
 gildis	nhee	gildi
 þeirra	fpvfe	hún
 .	.	.
-
 Farið	sþghen	fara
 var	sfg3eþ	vera
 nákvæmlega	aa	nákvæmlega
@@ -4692,7 +4411,6 @@ alls	fohee	allur
 7465	ta	7465
 minjar	nvfo	minjar
 .	.	.
-
 Mat	nhen	mat
 á	aþ	á
 gildi	nheþ	gildi
@@ -4725,7 +4443,6 @@ mikið	aa	mikið
 síðastliðin	lhfosf	síðastliðinn
 misseri	nhfo	misseri
 .	.	.
-
 Höfundur	nken	höfundur
 skýrslunnar	nveeg	skýrsla
 er	sfg3en	vera
@@ -4734,7 +4451,6 @@ Bollason	nken-s	Bollason
 ,	,	,
 sagnfræðingur	nken	sagnfræðingur
 .	.	.
-
 Í	aþ	í
 febrúar	nkeþ	febrúar
 2002	ta	2002
@@ -4754,12 +4470,10 @@ Hólavallagarði	nkeþ-s	Hólavallagarður
 við	ao	við
 Suðurgötu	nveo-s	Suðurgata
 .	.	.
-
 Samningurinn	nkeng	samningur
 var	sfg3eþ	vera
 þríþættur	lkensf	þríþættur
 .	.	.
-
 Í	aþ	í
 fyrsta	lheþve	fyrstur
 lagi	nheþ	lag
@@ -4790,7 +4504,6 @@ grindverka	nhfe	grindverk
 kringum	ao	kringum
 leiðin	nhfog	leiði
 .	.	.
-
 Í	aþ	í
 öðru	lheþsf	öðr
 lagi	nheþ	lag
@@ -4807,7 +4520,6 @@ að	aþ	að
 varðveislu	nveþ	varðveisla
 minjanna	nvfeg	minjar
 .	.	.
-
 Í	aþ	í
 þriðja	lheþvf	þriðji
 lagi	nheþ	lag
@@ -4846,7 +4558,6 @@ vefsvæði	nheþ	vefsvæði
 Kirkjugarða	nkfe-s	Kirkjugarður
 Reykjavíkurprófastsdæma	nhfe-s	Reykjavíkurprófastsdæmi
 .	.	.
-
 Verkið	nheng	verk
 var	sfg3eþ	vera
 kostað	sþghen	kosta
@@ -4856,7 +4567,6 @@ Reykjavíkurprófastsdæma	nhfe-s	Reykjavíkurprófastsdæmi
 og	c	og
 Kirkjugarðasjóði	nkeþ-s	kirkjugarðasjóður
 .	.	.
-
 Myndin	nveng	mynd
 er	sfg3en	vera
 frá	aþ	frá
@@ -4875,7 +4585,6 @@ KGRP	as	KGRP
 í	aþ	í
 Fossvogi	nkeþ-s	Fossvogur
 .	.	.
-
 Kristín	nven-s	Kristín
 Huld	nven-s	Huld
 Sigurðardóttir	nven-s	Sigurðardóttir
@@ -4891,7 +4600,6 @@ Ragnarssyni	nkeþ-s	Ragnarsson
 forstjóra	nkeþ	forstjóri
 KGRP	as	KGRP
 .	.	.
-
 Talið	sþghen	telja
 frá	aþ	frá
 vinstri	lveþvf	vinstri
@@ -4924,7 +4632,6 @@ sagnfræðingur	nken	sagnfræðingur
 höfundur	nken	höfundur
 skýrslunnar	nveeg	skýrsla
 .	.	.
-
 gardur.is	v	gardur.is
 |	|	|
 Mið	x	mið.
@@ -4962,7 +4669,6 @@ eftir	aþ	eftir
 vígslu	nveþ	vígsla
 garðsins	nkeeg	garður
 .	.	.
-
 Vígsluathöfnin	nveng	vígsluathöfn
 ,	,	,
 sem	ct	sem
@@ -4981,7 +4687,6 @@ með	aþ	með
 eftirfarandi	lkeþof	eftirfarandi
 hætti	nkeþ	háttur
 :	:	:
-
 Ávarp	nhen	ávarp
 Gunnars	nkee-s	Gunnar
 I.	as	I.
@@ -4990,9 +4695,7 @@ Birgissonar	nkee-s	Birgisson
 bæjarstjóra	nkee	bæjarstjóri
 Kópavogsbæjar	nkee-s	Kópavogsbær
 .	.	.
-
 Kórsöngur	nken	kórsöngur
-
 Biskup	nken	biskup
 Íslands	nhee-s	Ísland
 ,	,	,

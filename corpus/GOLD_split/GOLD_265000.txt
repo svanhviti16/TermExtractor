@@ -8,7 +8,6 @@ og	c	og
 starði	sfg3eþ	stara
 einbeittur	lkensf	einbeittur
 .	.	.
-
 Víkkaði	sfg3eþ	víkka
 stígurinn	nkeng	stígur
 þarna	aa	þarna
@@ -16,7 +15,6 @@ fyrir	ao	fyrir
 framan	aa	framan
 hann	fpkeo	hann
 ?	?	?
-
 Aron	nken-s	Aron
 skokkaði	sfg3eþ	skokka
 áfram	aa	áfram
@@ -36,7 +34,6 @@ hrasaði	sfg3eþ	hrasa
 með	aþ	með
 tilburðum	nkfþ	tilburður
 .	.	.
-
 Aron	nken-s	Aron
 lá	sfg3eþ	liggja
 kylliflatur	lkensf	kylliflatur
@@ -49,12 +46,10 @@ augun	nhfog	auga
 og	c	og
 dæsti	sfg3eþ	dæsa
 .	.	.
-
 Gat	sfg3eþ	geta
 þetta	fahen	þessi
 versnað	ssg	versna
 ?	?	?
-
 En	c	en
 þá	aa	þá
 fann	sfg3eþ	finna
@@ -71,7 +66,6 @@ hann	fpkeo	hann
 í	ao	í
 bakið	nheog	bak
 .	.	.
-
 Hann	fpken	hann
 beit	sfg3eþ	bíta
 á	ao	á
@@ -91,7 +85,6 @@ sig	fpkeo	sig
 eftir	aþ	eftir
 vasaljósinu	nheþg	vasaljós
 .	.	.
-
 Aron	nken-s	Aron
 lýsti	sfg3eþ	lýsa
 í	aa	í
@@ -122,7 +115,6 @@ litina	nkfog	litur
 alls	fokee	allur
 staðar	nkee	staður
 .	.	.
-
 Þó	aa	þó
 var	sfg3eþ	vera
 það	fphen	það
@@ -136,7 +128,6 @@ kominn	sþgken	koma
 þykku	lheþsf	þykkur
 kjarrinu	nheþg	kjarr
 .	.	.
-
 Aron	nken-s	Aron
 stóð	sfg3eþ	standa
 á	ao	á
@@ -150,7 +141,6 @@ gapti	sfg3eþ	gapa
 af	aþ	af
 undrun	nveþ	undrun
 .	.	.
-
 Þarna	aa	þarna
 blasti	sfg3eþ	blasa
 við	aa	við
@@ -161,7 +151,6 @@ megin	aa	megin
 í	aþ	í
 rjóðrinu	nheþg	rjóður
 !	!	!
-
 Aron	nken-s	Aron
 gleymdi	sfg3eþ	gleyma
 öllum	fokfþ	allur
@@ -180,7 +169,6 @@ aftan	aa	aftan
 á	aþ	á
 húsinu	nheþg	hús
 .	.	.
-
 Hann	fpken	hann
 rak	sfg3eþ	reka
 vasaljósið	nheog	vasaljós
@@ -206,13 +194,11 @@ og	c	og
 ógreinilegum	lhfþsf	ógreinilegur
 tækjum	nhfþ	tæki
 .	.	.
-
 Þarna	aa	þarna
 bjó	sfg3eþ	búa
 greinilega	aa	greinilega
 fólk	nhen	fólk
 !	!	!
-
 Aron	nken-s	Aron
 fylgdi	sfg3eþ	fylgja
 húsveggnum	nkeþg	húsveggur
@@ -222,7 +208,6 @@ inn	aa	inn
 um	ao	um
 gluggana	nkfog	gluggi
 .	.	.
-
 Hvergi	aa	hvergi
 var	sfg3eþ	vera
 kveikt	lhensf	kveiktur
@@ -240,7 +225,6 @@ hafði	sfg3eþ	hafa
 ekki	aa	ekki
 rafmagn	nheo	rafmagn
 ?	?	?
-
 Gamlar	lvfnsf	gamall
 dyr	nvfn	dyr
 úr	aþ	úr
@@ -257,11 +241,9 @@ laust	aa	laust
 á	ao	á
 þær	fpvfo	hún
 .	.	.
-
 Ekkert	fohen	enginn
 svar	nhen	svar
 .	.	.
-
 Hann	fpken	hann
 prófaði	sfg3eþ	prófa
 aftur	aa	aftur
@@ -270,13 +252,11 @@ aðeins	aa	aðeins
 meiri	lkeþvm	mikill
 krafti	nkeþ	kraftur
 .	.	.
-
 Enn	aa	enn
 kom	sfg3eþ	koma
 ekkert	fohen	enginn
 svar	nhen	svar
 .	.	.
-
 Aron	nken-s	Aron
 var	sfg3eþ	vera
 ekki	aa	ekki
@@ -293,7 +273,6 @@ og	c	og
 hann	fpken	hann
 gat	sfg3eþ	geta
 .	.	.
-
 Dyrnar	nvfng	dyr
 opnuðust	svm3fþ	opna
 þá	aa	þá
@@ -302,7 +281,6 @@ með	aþ	með
 drungalegu	lheþsf	drungalegur
 ískri	nheþ	ískur
 .	.	.
-
 Aron	nken-s	Aron
 hrökk	sfg3eþ	hrökkva
 við	aa	við
@@ -322,17 +300,14 @@ og	c	og
 niður	ao	niður
 dyrnar	nvfog	dyr
 .	.	.
-
 -	-	-
 Halló	au	halló
 ?	?	?
 !	!	!
-
 Er	sfg3en	vera
 einhver	foken	einhver
 þarna	aa	þarna
 ?	?	?
-
 Í	ao	í
 nokkrar	fovfo	nokkur
 sekúndur	nvfo	sekúnda
@@ -358,7 +333,6 @@ opnast	ssm	opna
 við	ao	við
 bankið	nheog	bank
 .	.	.
-
 Aron	nken-s	Aron
 nálgaðist	sfm3eþ	nálgast
 þær	fpvfo	hún
@@ -370,7 +344,6 @@ að	cn	að
 kalla	sng	kalla
 aftur	aa	aftur
 .	.	.
-
 Þegar	c	þegar
 ekkert	fohen	enginn
 svar	nhen	svar
@@ -389,7 +362,6 @@ hughreysti	sfg3eþ	hughreysta
 sjálfan	fbkeo	sjálfur
 sig	fpkeo	sig
 .	.	.
-
 -	-	-
 Þetta	fahen	þessi
 er	sfg3en	vera
@@ -397,7 +369,6 @@ bara	aa	bara
 smá	lhenof	smá
 myrkur	nhen	myrkur
 ...	...	...
-
 Aron	nken-s	Aron
 læddist	sfm3eþ	læða
 eftir	aþ	eftir
@@ -410,7 +381,6 @@ lýsa	sng	lýsa
 upp	aa	upp
 rýmið	nheog	rými
 .	.	.
-
 Húsið	nheng	hús
 var	sfg3eþ	vera
 á	aþ	á
@@ -430,7 +400,6 @@ komið	sþghen	koma
 í	ao	í
 eyði	nheo	eyði
 .	.	.
-
 Einhver	foken	einhver
 hafði	sfg3eþ	hafa
 þó	aa	þó
@@ -449,7 +418,6 @@ til	aa	til
 eftir	ao	eftir
 sig	fpkeo	sig
 .	.	.
-
 Aron	nken-s	Aron
 sparkaði	sfg3eþ	sparka
 laust	aa	laust
@@ -471,7 +439,6 @@ finna	sng	finna
 aðstoð	nveo	aðstoð
 þarna	aa	þarna
 .	.	.
-
 Hann	fpken	hann
 hélt	sfg3eþ	halda
 samt	aa	samt
@@ -491,13 +458,11 @@ eða	c	eða
 jafnvel	aa	jafnvel
 ætt	lheosf	ætur
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 orðinn	sþgken	verða
 glorhungraður	lkensf	glorhungraður
 .	.	.
-
 Það	fphen	það
 reyndist	sfm3eþ	reyna
 vera	sng	vera
@@ -517,7 +482,6 @@ séð	ssg	sjá
 gegnum	ao	gegnum
 gluggann	nkeog	gluggi
 .	.	.
-
 Aron	nken-s	Aron
 opnaði	sfg3eþ	opna
 annan	fokeo	annar
@@ -536,7 +500,6 @@ fjóra	tfkfo	fjórir
 gamla	lkfosf	gamall
 prjóna	nkfo	prjónn
 .	.	.
-
 Í	aþ	í
 skápnum	nkeþg	skápur
 við	ao	við
@@ -554,7 +517,6 @@ gat	sfg3eþ	geta
 verið	ssg	vera
 matarkyns	nhee	matarkyn
 .	.	.
-
 Aron	nken-s	Aron
 teygði	sfg3eþ	teygja
 sig	fpkeo	sig
@@ -567,7 +529,6 @@ heyrðist	sfm3eþ	heyra
 hávær	lkensf	hávær
 skrækur	nken	skrækur
 !	!	!
-
 Aron	nken-s	Aron
 varð	sfg3eþ	verða
 skelfingu	nveþ	skelfing
@@ -581,7 +542,6 @@ stökk	sfg3eþ	stökkva
 á	aþ	á
 honum	fpkeþ	hann
 .	.	.
-
 Dýrið	nheng	dýr
 skreið	sfg3eþ	skríða
 eldfljótt	lhensf	eldfljótur
@@ -595,7 +555,6 @@ niður	aa	niður
 á	ao	á
 gólf	nheo	gólf
 .	.	.
-
 Aron	nken-s	Aron
 hélt	sfg3eþ	halda
 að	c	að
@@ -605,7 +564,6 @@ sér	fpkeþ	sig
 myndi	svg3eþ	munu
 springa	sng	springa
 !	!	!
-
 Hann	fpken	hann
 náði	sfg3eþ	ná
 samt	aa	samt
@@ -628,7 +586,6 @@ kassa	nkeo	kassi
 við	ao	við
 vegginn	nkeog	veggur
 .	.	.
-
 Aron	nken-s	Aron
 stóð	sfg3eþ	standa
 stjarfur	lkensf	stjarfur
@@ -651,7 +608,6 @@ toguðu	sfg3fþ	toga
 úr	aþ	úr
 húsinu	nheþg	hús
 .	.	.
-
 Næturmyrkrið	nheng	næturmyrkur
 var	sfg3eþ	vera
 núna	aa	núna
@@ -661,7 +617,6 @@ vakti	sfg3eþ	vekja
 enga	foveo	enginn
 skelfingu	nveo	skelfing
 .	.	.
-
 Aron	nken-s	Aron
 vissi	sfg3eþ	vita
 vel	aa	vel
@@ -691,7 +646,6 @@ af	aþ	af
 þessu	faheþ	þessi
 húsi	nheþ	hús
 .	.	.
-
 Trjágreinar	nvfn	trjágrein
 í	aþ	í
 skógarþykkninu	nheþg	skógarþykkni
@@ -713,14 +667,12 @@ hægja	sng	hægja
 á	aþ	á
 sér	fpkeþ	sig
 .	.	.
-
 Hann	fpken	hann
 vildi	sfg3eþ	vilja
 bara	aa	bara
 komast	snm	koma
 burt	aa	burt
 .	.	.
-
 Aron	nken-s	Aron
 var	sfg3eþ	vera
 orðinn	sþgken	verða
@@ -734,7 +686,6 @@ hann	fpkeo	hann
 hvarf	sfg3eþ	hverfa
 skyndilega	aa	skyndilega
 .	.	.
-
 Í	ao	í
 stað	nkeo	staður
 laufblaða	nhfe	laufblað
@@ -755,7 +706,6 @@ augljóslega	aa	augljóslega
 lítill	lkensf	lítill
 vegur	nken	vegur
 !	!	!
-
 Aron	nken-s	Aron
 stansaði	sfg3eþ	stansa
 og	c	og
@@ -778,7 +728,6 @@ og	c	og
 kastaði	sfg3eþ	kasta
 mæðinni	nveþg	mæði
 .	.	.
-
 -	-	-
 <	<	<
 tákn	nhfn	tákn
@@ -807,7 +756,6 @@ blóði	nheþ	blóð
 og	c	og
 drullu	nveþ	drulla
 .	.	.
-
 Hann	fpken	hann
 bullaði	sfg3eþ	bulla
 einhverja	foveo	einhver
@@ -827,7 +775,6 @@ augun	nhfog	auga
 á	aþ	á
 henni	fpveþ	hún
 .	.	.
-
 Var	sfg3eþ	vera
 þetta	fahen	þessi
 Putonghua-kínverska	nven-s	Putonghua-kínverska
@@ -839,7 +786,6 @@ reyna	sng	reyna
 að	cn	að
 tala	sng	tala
 ?	?	?
-
 Hún	fpven	hún
 yppti	sfg3eþ	yppta
 öxlum	nvfþ	öxl
@@ -862,7 +808,6 @@ fletta	sng	fletta
 lítilli	lveþsf	lítill
 bók	nveþ	bók
 .	.	.
-
 Hún	fpven	hún
 byrjaði	sfg3eþ	byrja
 að	cn	að
@@ -888,7 +833,6 @@ skýrar	aam	skýrt
 þetta	faheo	þessi
 sinn	nheo	sinn
 .	.	.
-
 -	-	-
 <	<	<
 tákn	nhfn	tákn
@@ -898,7 +842,6 @@ skildi	sfg3eþ	skilja
 hún	fpven	hún
 hann	fpkeo	hann
 !	!	!
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 að	cn	að
@@ -906,7 +849,6 @@ biðja	sng	biðja
 um	ao	um
 hjálp	nveo	hjálp
 !	!	!
-
 Hún	fpven	hún
 kinkaði	sfg3eþ	kinka
 ákveðin	lvensf	ákveðinn
@@ -918,7 +860,6 @@ að	cn	að
 fylgja	sng	fylgja
 sér	fpveþ	sig
 .	.	.
-
 Það	fphen	það
 kætti	sfg3eþ	kæta
 unga	lkeovf	ungur
@@ -933,10 +874,8 @@ hlýlega	lheþvf	hlýlegur
 tannlausa	lheþvf	tannlaus
 brosi	nheþ	bros
 .	.	.
-
 Loksins	aa	loksins
 !	!	!
-
 Aron	nken-s	Aron
 tróð	sfg3eþ	troða
 bókinni	nveþg	bók
@@ -949,7 +888,6 @@ elti	sfg3eþ	elta
 gömlu	lveovf	gamall
 konuna	nveog	kona
 .	.	.
-
 Nú	aa	nú
 myndi	svg3eþ	munu
 hann	fpken	hann
@@ -963,7 +901,6 @@ Ling	e	Ling
 og	c	og
 Zhong	e	Zhong
 .	.	.
-
 Hann	fpken	hann
 hafði	sfg3eþ	hafa
 aldrei	aa	aldrei
@@ -983,7 +920,6 @@ og	c	og
 mjúkt	lheosf	mjúkur
 rúm	nheo	rúm
 !	!	!
-
 Hvað	fsheo	hver
 hann	fpken	hann
 myndi	svg3eþ	munu
@@ -999,7 +935,6 @@ aftur	aa	aftur
 hótelið	nheog	hótel
 núna	aa	núna
 !	!	!
-
 Eftir	ao	eftir
 um	ao	um
 tuttugu	tfvfe	tuttugu
@@ -1022,7 +957,6 @@ vera	sng	vera
 á	aþ	á
 ferli	nkeþ	ferill
 .	.	.
-
 Öðru	foheþ	annar
 sinni	nheþ	sinn
 fann	sfg3eþ	finna
@@ -1037,7 +971,6 @@ foss	nkeo	foss
 í	aþ	í
 leiðindaveðri	nheþ	leiðindaveður
 .	.	.
-
 Ragna	nven-s	Ragna
 furðaði	sfg3eþ	furða
 sig	fpveo	sig
@@ -1057,7 +990,6 @@ endað	ssg	enda
 með	aþ	með
 dauðaslysi	nheþ	dauðaslys
 .	.	.
-
 En	c	en
 það	fphen	það
 gerðist	sfm3eþ	gera
@@ -1066,7 +998,6 @@ betur	aam	vel
 fór	sfg3eþ	fara
 ekki	aa	ekki
 .	.	.
-
 Eitt	tfheo	einn
 sinn	nheo	sinn
 spurði	sfg3eþ	spyrja
@@ -1091,7 +1022,6 @@ sem	c	sem
 ekkert	fohen	enginn
 veitt	ssg	veiða
 .	.	.
-
 Sæli	nken-s	Sæli
 hló	sfg3eþ	hlæja
 og	c	og
@@ -1119,7 +1049,6 @@ að	cn	að
 sýna	sng	sýna
 heima	aa	heima
 .	.	.
-
 Veiðimennirnir	nkfng	veiðimaður
 urðu	sfg3fþ	verða
 langflestir	lkfnse	langflestur
@@ -1131,7 +1060,6 @@ fjölskyldunnar	nveeg	fjölskylda
 á	aþ	á
 Laugabóli	nheþ-s	Laugaból
 .	.	.
-
 Skemmtileg	lvensf	skemmtilegur
 hefð	nven	hefð
 myndaðist	sfm3eþ	mynda
@@ -1143,7 +1071,6 @@ Rögnu	nvee-s	Ragna
 og	c	og
 þeirra	fpkfe	hann
 .	.	.
-
 Á	aþ	á
 hverju	foheþ	hver
 hausti	nheþ	haust
@@ -1156,7 +1083,6 @@ fullan	lkeosf	fullur
 af	aþ	af
 aðalbláberjum	nhfþ	aðalbláber
 .	.	.
-
 Á	aþ	á
 aðventunni	nveþg	aðventa
 kom	sfg3eþ	koma
@@ -1170,7 +1096,6 @@ gjöfum	nvfþ	gjöf
 og	c	og
 góðgæti	nheþ	góðgæti
 .	.	.
-
 Sæli	nken-s	Sæli
 og	c	og
 félagar	nkfn	félagi
@@ -1182,7 +1107,6 @@ leigu	nveþ	leiga
 tuttugu	tfhfo	tuttugu
 ár	nhfo	ár
 .	.	.
-
 Þeir	fakfn	sá
 sem	ct	sem
 tóku	sfg3fþ	taka
@@ -1199,7 +1123,6 @@ var	sfg3eþ	vera
 kringum	ao	kringum
 þá	fpkfo	hann
 .	.	.
-
 Ragna	nven-s	Ragna
 veiðivörður	nken	veiðivörður
 saknaði	sfg3eþ	sakna
@@ -1218,7 +1141,6 @@ umfram	ao	umfram
 allt	foheo	allur
 brennivín	nheo	brennivín
 .	.	.
-
 Veiðifélagið	nheng	veiðifélag
 sagði	sfg3eþ	segja
 Rögnu	nveþ-s	Ragna
@@ -1234,7 +1156,6 @@ aldrei	aa	aldrei
 verið	ssg	vera
 gjöfulli	lvenvm	gjöfull
 .	.	.
-
 Hún	fpven	hún
 vissi	sfg3eþ	vita
 ekki	aa	ekki
@@ -1248,7 +1169,6 @@ gegn	aþ	gegn
 yfirgangi	nkeþ	yfirgangur
 karlanna	nkfeg	karl
 .	.	.
-
 Þar	aa	þar
 með	aa	með
 lauk	sfg3eþ	ljúka
@@ -1261,7 +1181,6 @@ annast	ssm	anna
 sex	tfhfo	sex
 ár	nhfo	ár
 .	.	.
-
 19.	ta	19.
 kafli	nken	kafli
 Skólamál	nhfn	skólamál
@@ -1281,7 +1200,6 @@ komust	sfm3fþ	koma
 á	ao	á
 legg	nkeo	leggur
 .	.	.
-
 Þau	fphfn	það
 voru	sfg3fþ	vera
 þó	aa	þó
@@ -1305,7 +1223,6 @@ lesa	sng	lesa
 og	c	og
 skrifa	sng	skrifa
 .	.	.
-
 Síðan	aa	síðan
 varð	sfg1eþ	verða
 ég	fp1en	ég
@@ -1315,7 +1232,6 @@ senda	sng	senda
 í	ao	í
 Reykjanes	nheo-s	Reykjanes
 .	.	.
-
 Þau	fphfn	það
 fengu	sfg3fþ	fá
 að	cn	að
@@ -1332,7 +1248,6 @@ burtu	aa	burtu
 mestallan	fokeo	mestallur
 veturinn	nkeog	vetur
 .	.	.
-
 Þá	aa	þá
 var	sfg3eþ	vera
 tómlegt	lhensf	tómlegur
@@ -1340,7 +1255,6 @@ heima	aa	heima
 á	aþ	á
 Laugabóli	nheþ-s	Laugaból
 .	.	.
-
 Aðeins	aa	aðeins
 ég	fp1en	ég
 ,	,	,
@@ -1364,7 +1278,6 @@ ekki	aa	ekki
 að	aþ	að
 voða	nkeþ	voði
 .	.	.
-
 Þegar	c	þegar
 börnin	nhfng	barn
 komust	sfm3fþ	koma
@@ -1378,7 +1291,6 @@ eitt	fohen	einn
 af	aþ	af
 öðru	foheþ	annar
 .	.	.
-
 Að	aþ	að
 vetrinum	nkeþg	vetur
 fóru	sfg3fþ	fara
@@ -1398,7 +1310,6 @@ og	c	og
 á	ao	á
 vinnumarkaðinn	nkeog	vinnumarkaður
 .	.	.
-
 Oft	aa	oft
 var	sfg3eþ	vera
 dauflegt	lhensf	dauflegur
@@ -1416,7 +1327,6 @@ voru	sfg3fþ	vera
 að	aa	að
 heiman	aa	heiman
 .	.	.
-
 Guðjón	nken-s	Guðjón
 vinnumaður	nken	vinnumaður
 fór	sfg3eþ	fara
@@ -1432,7 +1342,6 @@ Hafnarfirði	nkeþ-s	Hafnarfjörður
 hjá	aþ	hjá
 Rebekku	nveþ-s	Rebekka
 .	.	.
-
 Stundum	aa	stundum
 voru	sfg3fþ	vera
 Ragna	nven-s	Ragna
@@ -1459,7 +1368,6 @@ og	c	og
 sinna	sng	sinna
 skepnunum	nvfþg	skepna
 .	.	.
-
 Bella	nven-s	Bella
 var	sfg3eþ	vera
 að	cn	að
@@ -1481,7 +1389,6 @@ gerði	sfg3eþ	gera
 sínum	fekeþ	sinn
 tíma	nkeþ	tími
 .	.	.
-
 Ragna	nven-s	Ragna
 hugsaði	sfg3eþ	hugsa
 stundum	aa	stundum
@@ -1501,7 +1408,6 @@ var	sfg3eþ	vera
 í	aþ	í
 Bellu	nveþ-s	Bella
 .	.	.
-
 Í	aþ	í
 skammdeginu	nheþg	skammdegi
 og	c	og
@@ -1524,7 +1430,6 @@ rífa	sng	rífa
 sig	fpveo	sig
 upp	aa	upp
 .	.	.
-
 Þá	aa	þá
 var	sfg3eþ	vera
 vinnan	nveng	vinna
@@ -1538,7 +1443,6 @@ trú	nveo	trú
 á	ao	á
 tilveruna	nveog	tilvera
 .	.	.
-
 Hugur	nken	hugur
 hennar	fpvee	hún
 reikaði	sfg3eþ	reika
@@ -1559,7 +1463,6 @@ allt	fohen	allur
 önnur	fohfo	annar
 lífsskilyrði	nhfo	lífsskilyrði
 .	.	.
-
 Nú	aa	nú
 voru	sfg3fþ	vera
 öll	fohfn	allur
@@ -1577,7 +1480,6 @@ fækkaði	sfg3eþ	fækka
 í	aþ	í
 Ísafjarðardjúpi	nheþ-s	Ísafjarðardjúp
 .	.	.
-
 Rögnu	nveþ-s	Ragna
 þótti	sfg3eþ	þykja
 einsýnt	lhensf	einsýnn
@@ -1602,7 +1504,6 @@ fluttu	sfg3fþ	flytja
 í	aa	í
 burtu	aa	burtu
 .	.	.
-
 Eitt	foheo	einn
 sinn	nheo	sinn
 hafði	sfg3eþ	hafa
@@ -1617,7 +1518,6 @@ voru	sfg3fþ	vera
 allir	fokfn	allur
 farnir	sþgkfn	fara
 .	.	.
-
 Á	aþ	á
 Ögurnesi	nheþ-s	Ögurnes
 hafði	sfg3eþ	hafa
@@ -1631,7 +1531,6 @@ var	sfg3eþ	vera
 þar	aa	þar
 enginn	foken	enginn
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 ekki	aa	ekki
@@ -1656,7 +1555,6 @@ taka	sng	taka
 við	aþ	við
 Laugabóli	nheþ-s	Laugaból
 .	.	.
-
 Öll	fohfn	allur
 höfðu	sfg3fþ	hafa
 þau	fphfn	það
@@ -1705,7 +1603,6 @@ hugur	nken	hugur
 hans	fpkee	hann
 stefndi	svg3eþ	stefna
 .	.	.
-
 Í	aþ	í
 desember	nkeþ	desember
 1972	ta	1972
@@ -1718,7 +1615,6 @@ kom	sfg3eþ	koma
 að	aþ	að
 Laugabóli	nheþ-s	Laugaból
 .	.	.
-
 Það	fphen	það
 varð	sfg3eþ	verða
 góð	lvensf	góður
@@ -1733,7 +1629,6 @@ burtu	aa	burtu
 mestu	lveþve	mikill
 einsemdinni	nveþg	einsemd
 .	.	.
-
 Sumarið	nheog	sumar
 1974	ta	1974
 var	sfg3eþ	vera
@@ -1743,7 +1638,6 @@ framkvæmdir	nvfo	framkvæmd
 á	aþ	á
 Laugabóli	nheþ-s	Laugaból
 .	.	.
-
 Fjárhús	nhfn	fjárhús
 voru	sfg3fþ	vera
 reist	sþghfn	reisa
@@ -1765,7 +1659,6 @@ sjö	tfkfe	sjö
 kílómetra	nkfe	kílómetri
 leið	nveo	leið
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 nauðsynlegt	lhensf	nauðsynlegur
@@ -1785,7 +1678,6 @@ fram	aa	fram
 í	ao	í
 dalinn	nkeog	dalur
 .	.	.
-
 Mikill	lkensf	mikill
 munur	nken	munur
 var	sfg3eþ	vera
@@ -1807,7 +1699,6 @@ falli	nheþ	fall
 á	aþ	á
 hestum	nkfþ	hestur
 .	.	.
-
 Vegleysurnar	nvfng	vegleysa
 og	c	og
 sambandsleysið	nheng	sambandsleysi
@@ -1826,7 +1717,6 @@ að	cn	að
 komast	snm	koma
 sjóleiðina	nveog	sjóleið
 .	.	.
-
 Frá	aþ	frá
 Laugabóli	nheþ-s	Laugaból
 var	sfg3eþ	vera
@@ -1850,7 +1740,6 @@ Eyri	nveþ-s	Eyri
 í	aþ	í
 Seyðisfirði	nkeþ-s	Seyðisfjörður
 .	.	.
-
 Það	fphen	það
 hyllti	sfg3eþ	hylla
 undir	ao	undir
@@ -1868,7 +1757,6 @@ vegar	nkee	vegur
 frá	aþ	frá
 Ísafirði	nkeþ-s	Ísafjörður
 .	.	.
-
 Árið	nheog	ár
 1975	ta	1975
 rann	sfg3eþ	renna
@@ -1888,7 +1776,6 @@ fær	lvensf	fær
 öllum	fokfþ	allur
 bílum	nkfþ	bíll
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 hrein	lvensf	hreinn
@@ -1911,7 +1798,6 @@ klukkustundum	nvfþ	klukkustund
 til	ae	til
 Ísafjarðar	nkee-s	Ísafjörður
 .	.	.
-
 Ragna	nven-s	Ragna
 hafði	sfg3eþ	hafa
 áhyggjur	nvfo	áhyggja
@@ -1920,7 +1806,6 @@ eldri	lkfþvm	gamall
 krökkunum	nkfþg	krakki
 sínum	fekfþ	sinn
 .	.	.
-
 Þau	fphfn	það
 voru	sfg3fþ	vera
 sjálfstæð	lhfnsf	sjálfstæður
@@ -1943,7 +1828,6 @@ vera	sng	vera
 á	aþ	á
 Laugabóli	nheþ-s	Laugaból
 .	.	.
-
 Bella	nven-s	Bella
 hafði	sfg3eþ	hafa
 þó	aa	þó
@@ -1961,7 +1845,6 @@ Bændaskólann	nkeogs	Bændaskóli
 á	aþ	á
 Hvanneyri	nveþ-s	Hvanneyri
 .	.	.
-
 Ragna	nven-s	Ragna
 dauðsá	sfg3eþ	dauðsjá
 eftir	aþ	eftir
@@ -1990,7 +1873,6 @@ Héraðsskólann	nkeogs	Héraðsskóli
 að	aþ	að
 Núpi	nkeþ-s	Núpur
 .	.	.
-
 Í	aþ	í
 Reykjanesskóla	nkeþ-s	Reykjanesskóli
 höfðu	sfg3fþ	hafa
@@ -2007,7 +1889,6 @@ sem	c	sem
 einstæð	lvensf	einstæður
 móðir	nven	móðir
 .	.	.
-
 Þá	aa	þá
 fannst	sfm3eþ	finna
 Rögnu	nveþ-s	Ragna
@@ -2019,7 +1900,6 @@ kennurum	nkfþ	kennari
 og	c	og
 óregla	nven	óregla
 .	.	.
-
 Þeir	fakfn	sá
 sem	ct	sem
 áttu	sfg3fþ	eiga
@@ -2030,7 +1910,6 @@ fyrirmyndir	nvfn	fyrirmynd
 brugðust	sfm3fþ	bregða
 algjörlega	aa	algjörlega
 .	.	.
-
 Henni	fpveþ	hún
 fannst	sfm3eþ	finna
 skólayfirvöld	nhfn	skólayfirvöld
@@ -2043,7 +1922,6 @@ gerðist	svm3eþ	gera
 í	aþ	í
 skólastarfinu	nheþg	skólastarf
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 eins	aa	eins
@@ -2068,7 +1946,6 @@ skaða	nkee	skaði
 fyrir	ao	fyrir
 börnin	nhfog	barn
 .	.	.
-
 Kennarar	nkfn	kennari
 voru	sfg3fþ	vera
 oft	aa	oft
@@ -2081,7 +1958,6 @@ sitt	feheo	sinn
 á	ao	á
 kennsluna	nveog	kennsla
 .	.	.
-
 Börnin	nhfng	barn
 urðu	sfg3fþ	verða
 eins	aa	eins
@@ -2099,7 +1975,6 @@ að	cn	að
 verða	sng	verða
 kennarar	nkfn	kennari
 .	.	.
-
 Ragna	nven-s	Ragna
 skrifaði	sfg3eþ	skrifa
 grein	nveo	grein
@@ -2131,7 +2006,6 @@ og	c	og
 væru	svg3fþ	vera
 fangar	nkfn	fangi
 .	.	.
-
 Þar	aa	þar
 rifjaði	sfg3eþ	rifja
 Ragna	nven-s	Ragna
@@ -2148,7 +2022,6 @@ auk	ae	auk
 úr	aþ	úr
 liði	nkeþ	liður
 .	.	.
-
 Drengnum	nkeþg	drengur
 var	sfg3eþ	vera
 komið	sþghen	koma
@@ -2166,7 +2039,6 @@ að	cn	að
 sækja	sng	sækja
 fé	nheo	fé
 .	.	.
-
 Siglt	sþghen	sigla
 var	sfg3eþ	vera
 vítt	aa	vítt
@@ -2182,7 +2054,6 @@ drenginn	nkeog	drengur
 um	ao	um
 borð	nheo	borð
 .	.	.
-
 Þegar	c	þegar
 hann	fpken	hann
 loks	aa	loks
@@ -2208,7 +2079,6 @@ gera	sng	gera
 að	aþ	að
 brotinu	nheþg	brot
 .	.	.
-
 Rögnu	nveþ-s	Ragna
 fannst	sfm3eþ	finna
 þessi	faven	þessi
@@ -2221,7 +2091,6 @@ vakti	sfg3eþ	vekja
 því	fpheþ	það
 athygli	nveo	athygli
 .	.	.
-
 Hún	fpven	hún
 þurfti	sfg3eþ	þurfa
 að	cn	að
@@ -2239,7 +2108,6 @@ bót	nveo	bót
 meina	nhfe	mein
 sinna	fehfe	sinn
 .	.	.
-
 Kornið	nheng	korn
 sem	ct	sem
 fyllti	sfg3eþ	fylla
@@ -2265,7 +2133,6 @@ fjölda	nkeþ	fjöldi
 annarra	fohfe	annar
 skólasystkina	nhfe	skólasystkin
 .	.	.
-
 Ekki	aa	ekki
 vildi	sfg3eþ	vilja
 betur	aam	vel
@@ -2282,7 +2149,6 @@ sem	ct	sem
 kom	sfg3eþ	koma
 aðvífandi	aa	aðvífandi
 .	.	.
-
 Kennarinn	nkeng	kennari
 þreif	sfg3eþ	þrífa
 til	ae	til
@@ -2295,7 +2161,6 @@ hann	fpkeo	hann
 með	aþ	með
 sér	fpkeþ	sig
 .	.	.
-
 Bjarki	nken-s	Bjarki
 var	sfg3eþ	vera
 sterkur	lkensf	sterkur
@@ -2306,7 +2171,6 @@ auðveldlega	aa	auðveldlega
 af	aþ	af
 sér	fpkeþ	sig
 .	.	.
-
 Stympingunum	nvfþg	stymping
 lauk	sfg3eþ	ljúka
 með	aþ	með
@@ -2317,7 +2181,6 @@ lenti	sfg3eþ	lenda
 á	aþ	á
 vegg	nkeþ	veggur
 .	.	.
-
 Í	aþ	í
 framhaldinu	nheþg	framhald
 var	sfg3eþ	vera
@@ -2328,7 +2191,6 @@ Bjarka	nkeþ-s	Bjarki
 úr	aþ	úr
 skólanum	nkeþg	skóli
 .	.	.
-
 Rögnu	nveþ-s	Ragna
 fannst	sfm3eþ	finna
 þetta	fahen	þessi
@@ -2351,7 +2213,6 @@ var	sfg3eþ	vera
 refsað	sþghen	refsa
 harðlega	aa	harðlega
 .	.	.
-
 Greinin	nveng	grein
 vakti	sfg3eþ	vekja
 mikla	lveosf	mikill
@@ -2367,7 +2228,6 @@ hálsi	nkeþ	háls
 annarri	foveþ	annar
 grein	nveþ	grein
 .	.	.
-
 Ragna	nven-s	Ragna
 ákvað	sfg3eþ	ákveða
 að	c	að
@@ -2387,20 +2247,17 @@ Núpsskóla	nkeo-s	Núpsskóli
 í	aþ	í
 Dýrafirði	nkeþ-s	Dýrafjörður
 .	.	.
-
 Þar	aa	þar
 farnaðist	sfm3eþ	farnast
 honum	fpkeþ	hann
 vel	aa	vel
 .	.	.
-
 Öll	fohfn	allur
 börnin	nhfng	barn
 fóru	sfg3fþ	fara
 til	ae	til
 framhaldsnáms	nhee	framhaldsnám
 .	.	.
-
 Bella	nven-s	Bella
 lauk	sfg3eþ	ljúka
 búfræðinni	nveþg	búfræði
@@ -2409,14 +2266,12 @@ Smári	nken-s	Smári
 varð	sfg3eþ	verða
 húsasmíðameistari	nken	húsasmíðameistari
 .	.	.
-
 Bjarki	nken-s	Bjarki
 lagði	sfg3eþ	leggja
 stund	nveo	stund
 á	ao	á
 vélvirkjun	nveo	vélvirkjun
 .	.	.
-
 Oft	aa	oft
 var	sfg3eþ	vera
 erfitt	lhensf	erfiður
@@ -2427,14 +2282,12 @@ veturinn	nkeng	vetur
 var	sfg3eþ	vera
 harðastur	lkense	harður
 .	.	.
-
 Ragna	nven-s	Ragna
 gaf	sfg3eþ	gefa
 skepnunum	nvfþg	skepna
 og	c	og
 mjólkaði	sfg3eþ	mjólka
 .	.	.
-
 Stundum	aa	stundum
 var	sfg3eþ	vera
 hún	fpven	hún
@@ -2458,7 +2311,6 @@ eða	c	eða
 skemmri	lkeovm	skammur
 tíma	nkeo	tími
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 óumflýjanlegt	lhensf	óumflýjanlegur
@@ -2469,7 +2321,6 @@ vinnumenn	nkfo	vinnumaður
 að	aþ	að
 vetrinum	nkeþg	vetur
 .	.	.
-
 Einn	tfken	einn
 þeirra	fakfe	sá
 sem	ct	sem
@@ -2480,7 +2331,6 @@ var	sfg3eþ	vera
 Jón	nken-s	Jón
 Hansson	nken-s	Hansson
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 dugnaðarforkur	nken	dugnaðarforkur
@@ -2497,7 +2347,6 @@ hverfa	sng	hverfa
 stóð	sfg3eþ	standa
 á	aa	á
 .	.	.
-
 Rögnu	nveo-s	Ragna
 munaði	sfg3eþ	muna
 svo	aa	svo
@@ -2509,7 +2358,6 @@ halda	sng	halda
 búinu	nheþg	bú
 gangandi	slg	ganga
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 í	aþ	í
@@ -2521,7 +2369,6 @@ til	ae	til
 allra	fohfe	allur
 verka	nhfe	verk
 .	.	.
-
 En	c	en
 það	fphen	það
 getur	sfg3en	geta
@@ -2539,7 +2386,6 @@ alfarið	aa	alfarið
 sjálfan	fbkeo	sjálfur
 sig	fpkeo	sig
 .	.	.
-
 Það	fpheo	það
 fékk	sfg3eþ	fá
 Ragna	nven-s	Ragna
@@ -2549,7 +2395,6 @@ reyna	sng	reyna
 vetrarbyrjun	nveþ	vetrarbyrjun
 1973	ta	1973
 .	.	.
-
 Hún	fpven	hún
 hafði	sfg3eþ	hafa
 stundum	aa	stundum
@@ -2574,7 +2419,6 @@ fljótt	aa	fljótt
 strik	nheo	strik
 aftur	aa	aftur
 .	.	.
-
 Hún	fpven	hún
 hafði	sfg3eþ	hafa
 nokkrum	fohfþ	nokkur
@@ -2591,7 +2435,6 @@ að	c	að
 væri	svg3eþ	vera
 brjósklos	nhen	brjósklos
 .	.	.
-
 Lagt	sþghen	leggja
 var	sfg3eþ	vera
 að	aþ	að
@@ -2601,7 +2444,6 @@ gangast	snm	ganga
 undir	ao	undir
 uppskurð	nkeo	uppskurður
 .	.	.
-
 Ragna	nven-s	Ragna
 vissi	sfg3eþ	vita
 að	c	að
@@ -2620,7 +2462,6 @@ og	c	og
 jafnvel	aa	jafnvel
 farlama	lvenof	farlama
 .	.	.
-
 Hún	fpven	hún
 hafnaði	sfg3eþ	hafna
 því	fpheþ	það
@@ -2643,14 +2484,12 @@ vega	nkfo	vegur
 ekki	aa	ekki
 versna	sng	versna
 .	.	.
-
 En	c	en
 það	fphen	það
 reyndist	sfm3eþ	reyna
 borin	lvensf	borinn
 von	nven	von
 .	.	.
-
 Þann	fakeo	sá
 28.	ta	28.
 janúar	nkeo	janúar
@@ -2668,7 +2507,6 @@ eins	aa	eins
 og	c	og
 skotin	lvensf	skotinn
 .	.	.
-
 Nístandi	lkenof	nístandi
 verkur	nken	verkur
 í	aþ	í
@@ -2681,7 +2519,6 @@ var	sfg3eþ	vera
 á	aþ	á
 seyði	nkeþ	seyðir
 .	.	.
-
 Ragna	nven-s	Ragna
 reyndi	sfg3eþ	reyna
 að	cn	að
@@ -2694,7 +2531,6 @@ var	sfg3eþ	vera
 sem	c	sem
 lömuð	lvensf	lamaður
 .	.	.
-
 Með	aþ	með
 erfiðismunum	nkfþ	erfiðismunir
 tókst	sfm3eþ	taka
@@ -2705,14 +2541,12 @@ heim	aa	heim
 í	ao	í
 bæ	nkeo	bær
 .	.	.
-
 Næstu	lkfove	næstur
 dagana	nkfog	dagur
 var	sfg3eþ	vera
 hún	fpven	hún
 rúmföst	lvensf	rúmfastur
 .	.	.
-
 Smári	nken-s	Smári
 var	sfg3eþ	vera
 heima	aa	heima
@@ -2720,7 +2554,6 @@ og	c	og
 annaðist	sfm3eþ	anna
 skepnurnar	nvfog	skepna
 .	.	.
-
 Þannig	aa	þannig
 liðu	sfg3fþ	líða
 nokkrir	fokfn	nokkur
@@ -2736,7 +2569,6 @@ inn	aa	inn
 á	ao	á
 sjúkrahús	nheo	sjúkrahús
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 þrautin	nveng	þraut
@@ -2754,7 +2586,6 @@ og	c	og
 til	ae	til
 Ísafjarðar	nkee-s	Ísafjörður
 .	.	.
-
 Illfært	lhensf	illfær
 var	sfg3eþ	vera
 fram	aa	fram
@@ -2771,7 +2602,6 @@ ekki	aa	ekki
 setið	ssg	sitja
 upprétt	lvensf	uppréttur
 .	.	.
-
 Þá	aa	þá
 var	sfg3eþ	vera
 gripið	sþghen	grípa
@@ -2791,7 +2621,6 @@ og	c	og
 sækja	sng	sækja
 sjúklinginn	nkeog	sjúklingur
 .	.	.
-
 Útbúinn	sþgken	útbúa
 var	sfg3eþ	vera
 kassi	nken	kassi
@@ -2807,7 +2636,6 @@ komið	sþghen	koma
 fyrir	aa	fyrir
 liggjandi	slg	liggja
 .	.	.
-
 Síðan	aa	síðan
 var	sfg3eþ	vera
 ekið	sþghen	aka
@@ -2815,7 +2643,6 @@ ekið	sþghen	aka
 í	ao	í
 Ögur	nheo-s	ögur
 .	.	.
-
 Kvalirnar	nvfng	kvöl
 í	aþ	í
 bakinu	nheþg	bak
@@ -2834,7 +2661,6 @@ verri	lvfnvm	verri
 en	c	en
 sársaukinn	nkeng	sársauki
 .	.	.
-
 Það	fphen	það
 gat	sfg3eþ	geta
 tekið	ssg	taka
@@ -2851,7 +2677,6 @@ aldrei	aa	aldrei
 fullri	lveþsf	fullur
 heilsu	nveþ	heilsa
 .	.	.
-
 Smári	nken-s	Smári
 sagði	sfg3eþ	segja
 móður	nveþ	móðir
@@ -2861,7 +2686,6 @@ hafa	sng	hafa
 engar	fovfo	enginn
 áhyggjur	nvfo	áhyggja
 .	.	.
-
 Þau	fahfn	sá
 systkinin	nhfng	systkin
 myndu	svg3fþ	munu
@@ -2886,7 +2710,6 @@ ná	sng	ná
 aftur	aa	aftur
 heilsu	nveþ	heilsa
 .	.	.
-
 Ragna	nven-s	Ragna
 var	sfg3eþ	vera
 borin	sþgven	bera
@@ -2900,7 +2723,6 @@ fyrir	aa	fyrir
 í	aþ	í
 koju	nveþ	koja
 .	.	.
-
 Hún	fpven	hún
 fékk	sfg3eþ	fá
 sterk	lhfosf	sterkur
@@ -2912,7 +2734,6 @@ til	ae	til
 varð	sfg3eþ	verða
 bærileg	lvensf	bærilegur
 .	.	.
-
 Á	aþ	á
 Ísafjarðarspítala	nkeþ-s	Ísafjarðarspítali
 var	sfg3eþ	vera
@@ -2927,7 +2748,6 @@ brjósklos	nhen	brjósklos
 tveimur	tfkfþ	tveir
 hryggjarliðum	nkfþ	hryggjarliður
 .	.	.
-
 Hugur	nken	hugur
 hennar	fpvee	hún
 var	sfg3eþ	vera
@@ -2949,7 +2769,6 @@ vel	aa	vel
 um	ao	um
 skepnurnar	nvfog	skepna
 .	.	.
-
 Dagarnir	nkfng	dagur
 siluðust	sfm3fþ	sila
 áfram	aa	áfram
@@ -2968,7 +2787,6 @@ heimsótti	sfg3eþ	heimsækja
 hana	fpveo	hún
 daglega	aa	daglega
 .	.	.
-
 Sigga	nven-s	Sigga
 bjó	sfg3eþ	búa
 á	aþ	á
@@ -2984,7 +2802,6 @@ hennar	fpvee	hún
 hafði	sfg3eþ	hafa
 reist	ssg	reisa
 .	.	.
-
 Hún	fpven	hún
 hafði	sfg3eþ	hafa
 gifst	ssm	gifta
@@ -2998,7 +2815,6 @@ honum	fpkeþ	hann
 myndarlegan	lkeosf	myndarlegur
 barnahóp	nkeo	barnahópur
 .	.	.
-
 Þótt	c	þótt
 Ragna	nven-s	Ragna
 og	c	og
@@ -3020,7 +2836,6 @@ heima	nkfo	heimur
 og	c	og
 geima	nkfo	geimur
 .	.	.
-
 Enn	aa	enn
 þrjóskaðist	sfm3eþ	þrjóskast
 Ragna	nven-s	Ragna
@@ -3048,7 +2863,6 @@ gangast	snm	ganga
 undir	ao	undir
 uppskurð	nkeo	uppskurður
 .	.	.
-
 Mánuði	nkeþ	mánuður
 eftir	ao	eftir
 að	c	að
@@ -3068,7 +2882,6 @@ inn	aa	inn
 á	ao	á
 Borgarspítalann	nkeogs	Borgarspítali
 .	.	.
-
 Þar	aa	þar
 fór	sfg3eþ	fara
 hún	fpven	hún
@@ -3082,7 +2895,6 @@ enda	nkeo	endi
 að	cn	að
 taka	sng	taka
 .	.	.
-
 Ragna	nven-s	Ragna
 hafði	sfg3eþ	hafa
 áhyggjur	nvfo	áhyggja
@@ -3094,7 +2906,6 @@ við	aa	við
 eftir	ao	eftir
 uppskurðinn	nkeog	uppskurður
 .	.	.
-
 Ef	c	ef
 hann	fpken	hann
 mistækist	svm3eþ	mistaka
@@ -3115,7 +2926,6 @@ yrði	svg3eþ	verða
 um	ao	um
 jörðina	nveog	jörð
 ?	?	?
-
 Ragna	nven-s	Ragna
 var	sfg3eþ	vera
 skorin	sþgven	skera
@@ -3126,7 +2936,6 @@ sprengidag	nkeo	sprengidagur
 byrjun	nveþ	byrjun
 mars	nkee	mars
 .	.	.
-
 Næstu	lkfove	næstur
 daga	nkfo	dagur
 varð	sfg3eþ	verða
@@ -3138,7 +2947,6 @@ og	c	og
 henni	fpveþ	hún
 leiddist	sfm3eþ	leiða
 .	.	.
-
 Hugur	nken	hugur
 hennar	fpvee	hún
 var	sfg3eþ	vera
@@ -3167,7 +2975,6 @@ en	c	en
 um	ao	um
 sauðburðinn	nkeog	sauðburður
 .	.	.
-
 Aðgerðin	nveng	aðgerð
 virtist	sfm3eþ	virða
 þó	aa	þó
@@ -3179,7 +2986,6 @@ læknarnir	nkfng	læknir
 voru	sfg3fþ	vera
 ánægðir	lkfnsf	ánægður
 .	.	.
-
 Hálfum	lkeþsf	hálfur
 mánuði	nkeþ	mánuður
 eftir	ao	eftir
@@ -3190,7 +2996,6 @@ send	sþgven	senda
 á	ao	á
 Reykjalund	nkeo-s	Reykjalundur
 .	.	.
-
 Þar	aa	þar
 hófst	sfm3eþ	hefja
 ströng	lvensf	strangur
@@ -3205,7 +3010,6 @@ um	aa	um
 á	aþ	á
 hækjum	nvfþ	hækja
 .	.	.
-
 Á	aþ	á
 Reykjalundi	nkeþ-s	Reykjalundur
 kynntist	sfm3eþ	kynna
@@ -3213,7 +3017,6 @@ hún	fpven	hún
 öðrum	fokfþ	annar
 sjúklingum	nkfþ	sjúklingur
 .	.	.
-
 Þeirra	fpkfe	hann
 á	aa	á
 meðal	ae	meðal
@@ -3225,7 +3028,6 @@ sem	ct	sem
 hafði	sfg3eþ	hafa
 lamast	ssm	lama
 .	.	.
-
 Hann	fpken	hann
 sagði	sfg3eþ	segja
 henni	fpveþ	hún
@@ -3235,7 +3037,6 @@ sem	ct	sem
 var	sfg3eþ	vera
 átakanleg	lvensf	átakanlegur
 .	.	.
-
 Hann	fpken	hann
 hafði	sfg3eþ	hafa
 búið	ssg	búa
@@ -3253,7 +3054,6 @@ sjö	tfhfþ	sjö
 börnum	nhfþ	barn
 þeirra	fphfe	það
 .	.	.
-
 Hjónin	nhfng	hjón
 höfðu	sfg3fþ	hafa
 gengið	ssg	ganga
@@ -3272,7 +3072,6 @@ vörubíl	nkeþ	vörubíll
 og	c	og
 dó	sfg3eþ	deyja
 .	.	.
-
 Árið	nheog	ár
 1966	ta	1966
 lést	sfm3eþ	láta
@@ -3291,7 +3090,6 @@ sínum	fehfþ	sinn
 til	ae	til
 manns	nkee	maður
 .	.	.
-
 Sjálfur	fbken	sjálfur
 veiktist	sfm3eþ	veikja
 hann	fpken	hann
@@ -3299,7 +3097,6 @@ síðan	aa	síðan
 og	c	og
 lamaðist	sfm3eþ	lama
 .	.	.
-
 Hann	fpken	hann
 fékk	sfg3eþ	fá
 svokallaða	lveosf	svokallaður
@@ -3316,7 +3113,6 @@ aftur	aa	aftur
 fullum	lkeþsf	fullur
 styrk	nkeþ	styrkur
 .	.	.
-
 Hann	fpken	hann
 hafði	sfg3eþ	hafa
 áhyggjur	nvfo	áhyggja
@@ -3357,7 +3153,6 @@ og	c	og
 raun	nveþ	raun
 hálfvegalaus	lhfnsf	hálfvegalaus
 .	.	.
-
 Rögnu	nveþ-s	Ragna
 runnu	sfg3fþ	renna
 erfiðleikar	nkfn	erfiðleiki
@@ -3368,7 +3163,6 @@ hans	fpkee	hann
 til	ae	til
 rifja	nhfe	rif
 .	.	.
-
 Þarna	aa	þarna
 var	sfg3eþ	vera
 enn	aa	enn
@@ -3381,7 +3175,6 @@ gat	sfg3eþ	geta
 verið	ssg	vera
 miskunnarlaust	lhensf	miskunnarlaus
 .	.	.
-
 Á	aþ	á
 Reykjalundi	nkeþ-s	Reykjalundur
 var	sfg3eþ	vera
@@ -3396,7 +3189,6 @@ bundinn	sþgken	binda
 var	sfg3eþ	vera
 hjólastól	nkeþ	hjólastóll
 .	.	.
-
 Ragna	nven-s	Ragna
 vildi	sfg3eþ	vilja
 allt	foheo	allur
@@ -3425,7 +3217,6 @@ gera	sng	gera
 honum	fpkeþ	hann
 dagamun	nkeo	dagamunur
 .	.	.
-
 Stranglega	aa	stranglega
 var	sfg3eþ	vera
 bannað	sþghen	banna
@@ -3448,7 +3239,6 @@ Helga	nkeþ-s	Helgi
 í	ao	í
 leikhús	nheo	leikhús
 .	.	.
-
 Hann	fpken	hann
 þáði	sfg3eþ	þiggja
 það	fpheo	það
@@ -3461,7 +3251,6 @@ læddist	sfm3eþ	læða
 ferningin	nveng	ferning
 út	aa	út
 .	.	.
-
 Ragna	nven-s	Ragna
 og	c	og
 félagar	nkfn	félagi
@@ -3477,7 +3266,6 @@ sem	ct	sem
 beið	sfg3eþ	bíða
 þeirra	fphfe	það
 .	.	.
-
 Leikhúsferðin	nveng	leikhúsferð
 heppnaðist	sfm3eþ	heppnast
 vel	aa	vel
@@ -3488,7 +3276,6 @@ sér	fpkfþ	sig
 hið	gheo	hinn
 besta	lheove	góður
 .	.	.
-
 En	c	en
 þegar	c	þegar
 þau	fphfn	það
@@ -3511,7 +3298,6 @@ gegn	aþ	gegn
 reglum	nvfþ	regla
 spítalans	nkeeg	spítali
 .	.	.
-
 Rögnu	nveþ-s	Ragna
 fannst	sfm3eþ	finna
 það	fphen	það
@@ -3543,7 +3329,6 @@ en	c	en
 og	c	og
 erfiðleika	nkfo	erfiðleiki
 .	.	.
-
 Þrjú	tfhfn	þrír
 yngstu	lhfnve	ungur
 börn	nhfn	barn
@@ -3556,7 +3341,6 @@ heimsókn	nveo	heimsókn
 til	ae	til
 hans	fpkee	hann
 .	.	.
-
 Rögnu	nveþ-s	Ragna
 fannst	sfm3eþ	finna
 sárt	lhensf	sár
@@ -3567,7 +3351,6 @@ upp	aa	upp
 umkomuleysi	nheo	umkomuleysi
 þeirra	fphfe	það
 .	.	.
-
 Sérstaklega	aa	sérstaklega
 virtist	sfm3eþ	virða
 sem	c	sem
@@ -3575,7 +3358,6 @@ Hjörvari	nkeþ-s	Hjörvar
 liði	svg3eþ	líða
 illa	aa	illa
 .	.	.
-
 Hann	fpken	hann
 strauk	sfg3eþ	strjúka
 af	aþ	af
@@ -3590,7 +3372,6 @@ sendur	sþgken	senda
 til	aa	til
 baka	aa	baka
 .	.	.
-
 Rögnu	nveþ-s	Ragna
 var	sfg3eþ	vera
 hugsað	sþghen	hugsa
@@ -3612,7 +3393,6 @@ atlæti	nheo	atlæti
 og	c	og
 skjól	nheo	skjól
 .	.	.
-
 Um	ao	um
 miðjan	lkeosf	miður
 maí	nkeo	maí
@@ -3631,7 +3411,6 @@ heim	aa	heim
 á	ao	á
 Laugaból	nheo-s	Laugaból
 .	.	.
-
 Þar	aa	þar
 var	sfg3eþ	vera
 snjór	nken	snjór
@@ -3643,7 +3422,6 @@ vor	nhen	vor
 í	aþ	í
 lofti	nheþ	loft
 .	.	.
-
 Rögnu	nveþ-s	Ragna
 til	ae	til
 léttis	nkee	léttir
@@ -3655,7 +3433,6 @@ skorðum	nvfþ	skorða
 á	aþ	á
 Laugabóli	nheþ-s	Laugaból
 .	.	.
-
 Smári	nken-s	Smári
 og	c	og
 Bella	nven-s	Bella
@@ -3665,7 +3442,6 @@ búið	nheog	bú
 af	aþ	af
 samviskusemi	nveþ	samviskusemi
 .	.	.
-
 Og	c	og
 skemmtilegasti	lkenve	skemmtilegur
 tíminn	nkeng	tími
@@ -3679,7 +3455,6 @@ sauðburðurinn	nkeng	sauðburður
 var	sfg3eþ	vera
 hafinn	sþgken	hefja
 .	.	.
-
 Skömmu	lheþsf	skammur
 eftir	ao	eftir
 að	c	að
@@ -3693,7 +3468,6 @@ hana	fpveo	hún
 frá	aþ	frá
 Reykjalundi	nkeþ-s	Reykjalundur
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 áhyggjufullur	lkensf	áhyggjufullur
@@ -3712,7 +3486,6 @@ veginn	nkeog	vegur
 á	aþ	á
 barnaheimilinu	nheþg	barnaheimili
 .	.	.
-
 Hann	fpken	hann
 spurði	sfg3eþ	spyrja
 hvort	c	hvort
@@ -3739,7 +3512,6 @@ að	cn	að
 jafna	sng	jafna
 sig	fpkeo	sig
 .	.	.
-
 Ragna	nven-s	Ragna
 hugsaði	sfg3eþ	hugsa
 sig	fpveo	sig
@@ -3754,7 +3526,6 @@ að	c	að
 væru	svg3fþ	vera
 velkomnir	lkfnsf	velkominn
 .	.	.
-
 Nokkrum	fokfþ	nokkur
 dögum	nkfþ	dagur
 síðar	aam	síðar
@@ -3765,7 +3536,6 @@ Laugabóli	nheþ-s	Laugaból
 orðin	sþghfn	verða
 fimm	tfhfn	fimm
 .	.	.
-
 Rögnvaldur	nken-s	Rögnvaldur
 átti	sfg3eþ	eiga
 eftir	aa	eftir
@@ -3783,7 +3553,6 @@ til	ae	til
 að	cn	að
 vera	sng	vera
 .	.	.
-
 20.	ta	20.
 kafli	nken	kafli
 Hundurinn	nkeng	hundur
@@ -3796,7 +3565,6 @@ eru	sfg3fn	vera
 mér	fp1eþ	ég
 mikilvæg	lhfnsf	mikilvægur
 .	.	.
-
 Hjá	aþ	hjá
 þeim	fphfþ	það
 finn	sfg1en	finna
@@ -3806,7 +3574,6 @@ og	c	og
 skilyrðislausa	lveosf	skilyrðislaus
 væntumþykju	nveo	væntumþykja
 .	.	.
-
 Þegar	c	þegar
 ég	fp1en	ég
 hef	sfg1en	hafa
@@ -3836,7 +3603,6 @@ um	aa	um
 við	ao	við
 fólk	nheo	fólk
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 aldrei	aa	aldrei
@@ -3853,7 +3619,6 @@ að	cn	að
 líkna	sng	líkna
 þeim	fphfþ	það
 .	.	.
-
 Ég	fp1en	ég
 vil	sfg1en	vilja
 ekki	aa	ekki
@@ -3862,7 +3627,6 @@ sinni	nheþ	sinn
 drepa	sng	drepa
 fiska	nkfo	fiskur
 .	.	.
-
 Aðrir	fokfn	annar
 verða	sfg3fn	verða
 að	cn	að
@@ -3870,7 +3634,6 @@ sjá	sng	sjá
 um	ao	um
 það	fpheo	það
 .	.	.
-
 Ragna	nven-s	Ragna
 fékk	sfg3eþ	fá
 gjarnan	aa	gjarnan
@@ -3888,7 +3651,6 @@ slátra	sng	slátra
 fyrir	ao	fyrir
 sig	fpveo	sig
 .	.	.
-
 Henni	fpveþ	hún
 var	sfg3eþ	vera
 alla	foveo	allur
@@ -3899,7 +3661,6 @@ að	cn	að
 aflífa	sng	aflífa
 skepnur	nvfo	skepna
 .	.	.
-
 Einu	lhfovf	einn
 skiptin	nhfog	skipti
 sem	ct	sem
@@ -3921,7 +3682,6 @@ gátu	sfg3fþ	geta
 ekki	aa	ekki
 borið	ssg	bera
 .	.	.
-
 Hún	fpven	hún
 gat	sfg3eþ	geta
 aðeins	aa	aðeins
@@ -3932,7 +3692,6 @@ var	sfg3eþ	vera
 að	cn	að
 bjarga	sng	bjarga
 .	.	.
-
 Hún	fpven	hún
 vildi	sfg3eþ	vilja
 heldur	aam	heldur
@@ -3949,7 +3708,6 @@ láta	sng	láta
 þær	fpvfo	hún
 kveljast	snm	kvelja
 .	.	.
-
 Ragna	nven-s	Ragna
 var	sfg3eþ	vera
 sannfærð	lvensf	sannfærður
@@ -3967,7 +3725,6 @@ gætu	svg3fþ	geta
 ekki	aa	ekki
 borið	ssg	bera
 .	.	.
-
 Í	ao	í
 stað	nkeo	staður
 þess	fphee	það
@@ -3993,7 +3750,6 @@ leið	sfg3eþ	líða
 á	ao	á
 meðgönguna	nveog	meðganga
 .	.	.
-
 Þá	aa	þá
 fæddust	sfm3fþ	fæða
 lömbin	nhfng	lamb
@@ -4007,7 +3763,6 @@ leið	nveo	leið
 í	ao	í
 heiminn	nkeog	heimur
 .	.	.
-
 Sumir	fokfn	sumur
 notuðu	sfg3fþ	nota
 þá	faveo	sá
@@ -4027,7 +3782,6 @@ sem	ct	sem
 leið	sfg3eþ	líða
 á	aa	á
 .	.	.
-
 Þá	aa	þá
 varð	sfg3eþ	verða
 fóstrið	nheng	fóstur
@@ -4054,7 +3808,6 @@ gjarnan	aa	gjarnan
 í	aþ	í
 fæðingu	nveþ	fæðing
 .	.	.
-
 Ragna	nven-s	Ragna
 beitti	sfg3eþ	beita
 aðferðinni	nveþg	aðferð
@@ -4064,7 +3817,6 @@ við	ao	við
 kindurnar	nvfog	kind
 sínar	fevfo	sinn
 .	.	.
-
 Hún	fpven	hún
 hugsaði	sfg3eþ	hugsa
 þetta	faheo	þessi
@@ -4076,7 +3828,6 @@ með	ao	með
 börnin	nhfog	barn
 sín	fehfo	sinn
 .	.	.
-
 Þá	aa	þá
 gætti	sfg3eþ	gæta
 hún	fpven	hún
@@ -4091,7 +3842,6 @@ ekki	aa	ekki
 of	aa	of
 stór	lhfnsf	stór
 .	.	.
-
 Tvö	tfhfn	tveir
 barnanna	nhfeg	barn
 hennar	fpvee	hún
@@ -4112,7 +3862,6 @@ kjörþyngd	nven	kjörþyngd
 við	ao	við
 fæðingu	nveo	fæðing
 .	.	.
-
 Garðar	nken-s	Garðar
 Smári	nken-s	Smári
 var	sfg3eþ	vera
@@ -4126,7 +3875,6 @@ að	aþ	að
 mati	nheþ	mat
 Rögnu	nvee-s	Ragna
 .	.	.
-
 Þótt	c	þótt
 Ragna	nven-s	Ragna
 væri	svg3eþ	vera
@@ -4147,7 +3895,6 @@ kunni	sfg3eþ	kunna
 ættarsögu	nveo	ættarsaga
 þeirra	fpvfe	hún
 .	.	.
-
 Kindur	nvfn	kind
 hafa	sfg3fn	hafa
 margræðan	lkeosf	margræður
@@ -4157,7 +3904,6 @@ eins	aa	eins
 og	c	og
 fólk	nhen	fólk
 .	.	.
-
 Ragna	nven-s	Ragna
 þekkti	sfg3eþ	þekkja
 lundarfar	nheo	lundarfar
@@ -4167,7 +3913,6 @@ og	c	og
 háttu	nkfo	hátta
 þeirra	fpvfe	hún
 .	.	.
-
 Það	fphen	það
 gat	sfg3eþ	geta
 verið	ssg	vera
@@ -4190,7 +3935,6 @@ hausti	nheþ	haust
 eða	c	eða
 vori	nheþ	vor
 .	.	.
-
 Þær	favfn	sá
 kindur	nvfn	kind
 sem	ct	sem
@@ -4217,7 +3961,6 @@ hverri	foveþ	hver
 sínum	fekeþ	sinn
 stað	nkeþ	staður
 .	.	.
-
 Einhverjir	fokfn	einhver
 hafa	sfg3fn	hafa
 haldið	ssg	halda
@@ -4236,7 +3979,6 @@ að	c	að
 er	sfg3en	vera
 alrangt	lhensf	alrangur
 .	.	.
-
 Kindur	nvfn	kind
 eru	sfg3fn	vera
 með	ao	með
@@ -4254,7 +3996,6 @@ sannarlega	aa	sannarlega
 sínu	feheþ	sinn
 viti	nheþ	vit
 .	.	.
-
 Sama	fbhen	sami
 er	sfg3en	vera
 uppi	aa	uppi
@@ -4265,13 +4006,11 @@ kýrnar	nvfog	kýr
 og	c	og
 hundana	nkfog	hundur
 .	.	.
-
 Þetta	fahen	þessi
 eru	sfg3fn	vera
 allt	fohen	allur
 skynsemisverur	nvfn	skynsemisvera
 .	.	.
-
 Einn	fokeo	einn
 morguninn	nkeog	morgunn
 á	aþ	á
@@ -4293,7 +4032,6 @@ kannaðist	sfm3eþ	kanna
 ekkert	fohen	enginn
 við	aa	við
 .	.	.
-
 Hundurinn	nkeng	hundur
 vék	sfg3eþ	víkja
 sér	fpkeþ	sig
@@ -4304,7 +4042,6 @@ og	c	og
 lét	sfg3eþ	láta
 vinalega	aa	vinalega
 .	.	.
-
 Ragna	nven-s	Ragna
 þekkti	sfg3eþ	þekkja
 hundana	nkfog	hundur
@@ -4317,7 +4054,6 @@ var	sfg3eþ	vera
 enginn	foken	enginn
 þeirra	fpkfe	hann
 .	.	.
-
 Við	ao	við
 eftirgrennslan	nveo	eftirgrennslan
 kom	sfg3eþ	koma
@@ -4342,7 +4078,6 @@ Kátur	nken-s	Kátur
 annálaður	lkensf	annálaður
 smalahundur	nken	smalahundur
 .	.	.
-
 Gunnar	nken-s	Gunnar
 bóndi	nken	bóndi
 kom	sfg3eþ	koma
@@ -4352,7 +4087,6 @@ Kát	nken-s	Kátur
 nokkru	foheþ	nokkur
 síðar	aam	síðar
 .	.	.
-
 Það	fphen	það
 leyndi	sfg3eþ	leyna
 sér	fpheþ	sig
@@ -4369,7 +4103,6 @@ með	aþ	með
 húsbónda	nkeþ	húsbóndi
 sínum	fekeþ	sinn
 .	.	.
-
 Nokkrum	fokfþ	nokkur
 dögum	nkfþ	dagur
 síðar	aam	síðar
@@ -4392,7 +4125,6 @@ hann	fpken	hann
 sá	sfg3eþ	sjá
 Rögnu	nveo-s	Ragna
 .	.	.
-
 Enn	aa	enn
 kom	sfg3eþ	koma
 Gunnar	nken-s	Gunnar
@@ -4407,7 +4139,6 @@ gekk	sfg3eþ	ganga
 nokkrum	fohfþ	nokkur
 sinnum	nhfþ	sinn
 .	.	.
-
 Hundurinn	nkeng	hundur
 var	sfg3eþ	vera
 varla	aa	varla
@@ -4424,7 +4155,6 @@ fjall	nheo	fjall
 að	aþ	að
 Laugabóli	nheþ-s	Laugaból
 .	.	.
-
 Gunnar	nken-s	Gunnar
 bóndi	nken	bóndi
 var	sfg3eþ	vera
@@ -4455,7 +4185,6 @@ að	cn	að
 lóga	sng	lóga
 honum	fpkeþ	hann
 .	.	.
-
 Hann	fpken	hann
 lét	sfg3eþ	láta
 ekki	aa	ekki
@@ -4470,7 +4199,6 @@ Laugabóli	nheþ-s	Laugaból
 með	ao	með
 byssu	nveo	byssa
 .	.	.
-
 Ragna	nven-s	Ragna
 mátti	sfg3eþ	mega
 ekki	aa	ekki
@@ -4491,7 +4219,6 @@ að	cn	að
 hlífa	sng	hlífa
 Káti	nkeþ-s	Kátur
 .	.	.
-
 «	«	«
 Ég	fp1en	ég
 skal	sfg1en	skulu
@@ -4504,7 +4231,6 @@ mér	fp1eþ	ég
 sagði	sfg3eþ	segja
 hún	fpven	hún
 .	.	.
-
 Gunnar	nken-s	Gunnar
 bóndi	nken	bóndi
 samþykkti	sfg3eþ	samþykkja
@@ -4517,7 +4243,6 @@ fékk	sfg3eþ	fá
 að	cn	að
 lifa	sng	lifa
 .	.	.
-
 Hann	fpken	hann
 reyndist	sfm3eþ	reyna
 vel	aa	vel
@@ -4543,7 +4268,6 @@ bæ	nkeþ	bær
 elti	sfg3eþ	elta
 hann	fpken	hann
 .	.	.
-
 Eitt	foheo	einn
 sinn	nheo	sinn
 í	aþ	í
@@ -4561,7 +4285,6 @@ hann	fpkeo	hann
 til	ae	til
 dýralæknis	nkee	dýralæknir
 .	.	.
-
 Helst	aae	heldur
 hefði	svg3eþ	hafa
 hún	fpven	hún
@@ -4580,7 +4303,6 @@ að	cn	að
 vera	sng	vera
 heima	aa	heima
 .	.	.
-
 Kunningjafólk	nhen	kunningjafólk
 hennar	fpvee	hún
 á	aþ	á
@@ -4597,7 +4319,6 @@ meðan	c	meðan
 lækningu	nveþ	lækning
 stóð	sfg3eþ	standa
 .	.	.
-
 Kátur	nken-s	Kátur
 braggaðist	sfm3eþ	braggast
 í	aþ	í
@@ -4614,7 +4335,6 @@ benti	sfg3eþ	benda
 til	ae	til
 heimþrár	nvee	heimþrá
 .	.	.
-
 Eitt	foheo	einn
 sinn	nheo	sinn
 þegar	c	þegar
@@ -4631,7 +4351,6 @@ sprett	nkeo	sprettur
 í	aa	í
 burtu	aa	burtu
 .	.	.
-
 Seinast	aae	seint
 sást	sfm3eþ	sjá
 til	ae	til
@@ -4644,7 +4363,6 @@ Dagverðardal	nkeo-s	Dagverðardalur
 botni	nkeþ	botn
 Skutulsfjarðar	nkee-s	Skutulsfjörður
 .	.	.
-
 Tíðindin	nhfng	tíðindi
 af	aþ	af
 týnda	lkeþvf	týndur
@@ -4653,7 +4371,6 @@ fengu	sfg3fþ	fá
 á	ao	á
 Rögnu	nveo-s	Ragna
 .	.	.
-
 Stórhríð	nven	stórhríð
 geisaði	sfg3eþ	geisa
 og	c	og
@@ -4670,7 +4387,6 @@ af	aa	af
 á	aþ	á
 fjöllum	nhfþ	fjall
 .	.	.
-
 Þegar	c	þegar
 ekkert	fohen	enginn
 hafði	sfg3eþ	hafa
@@ -4687,7 +4403,6 @@ honum	fpkeþ	hann
 í	aþ	í
 útvarpi	nheþ	útvarp
 .	.	.
-
 Nokkrir	fokfn	nokkur
 dagar	nkfn	dagur
 liðu	sfg3fþ	líða
@@ -4699,14 +4414,12 @@ spyrðist	svm3eþ	spyrja
 til	ae	til
 hundsins	nkeeg	hundur
 .	.	.
-
 Þá	aa	þá
 var	sfg3eþ	vera
 hringt	sþghen	hringja
 úr	aþ	úr
 Barðastrandarsýslu	nveþ-s	Barðastrandarsýsla
 .	.	.
-
 Mórauður	lkensf	mórauður
 ,	,	,
 illa	aa	illa
@@ -4732,14 +4445,12 @@ samband	nhen	samband
 við	ao	við
 Rögnu	nveo-s	Ragna
 .	.	.
-
 Þarna	aa	þarna
 var	sfg3eþ	vera
 Kátur	nken-s	Kátur
 ljóslifandi	lkenof	ljóslifandi
 kominn	sþgken	koma
 .	.	.
-
 Ragna	nven-s	Ragna
 lagði	sfg3eþ	leggja
 á	ao	á
@@ -4756,7 +4467,6 @@ ná	sng	ná
 í	ao	í
 hundinn	nkeog	hundur
 .	.	.
-
 Fagnaðarlátum	nhfþ	fagnaðarlæti
 Káts	nkee-s	Kátur
 ætlaði	sfg3eþ	ætla
@@ -4769,7 +4479,6 @@ sá	sfg3eþ	sjá
 fóstru	nveo	fóstra
 sína	feveo	sinn
 .	.	.
-
 Þegar	c	þegar
 nokkur	fohfn	nokkur
 ár	nhfn	ár
@@ -4792,7 +4501,6 @@ Fagranesi	nheþ-s	Fagranes
 til	ae	til
 Ísafjarðar	nkee-s	Ísafjörður
 .	.	.
-
 Kátur	nken-s	Kátur
 elti	sfg3eþ	elta
 hana	fpveo	hún
@@ -4813,7 +4521,6 @@ stökkið	nheog	stökk
 um	ao	um
 borð	nheo	borð
 .	.	.
-
 Ekki	aa	ekki
 var	sfg3eþ	vera
 hægt	lhensf	hægur
@@ -4833,7 +4540,6 @@ upp	aa	upp
 á	ao	á
 bryggju	nveo	bryggja
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 seinasti	lkenve	seinn
@@ -4857,7 +4563,6 @@ keyra	sng	keyra
 yfir	ao	yfir
 hundinn	nkeog	hundur
 .	.	.
-
 Kátur	nken-s	Kátur
 særðist	sfm3eþ	særa
 illa	aa	illa
@@ -4872,7 +4577,6 @@ hálfskríða	sng	hálfskríða
 að	aþ	að
 Laugabóli	nheþ-s	Laugaból
 .	.	.
-
 Hann	fpken	hann
 komst	sfm3eþ	koma
 þó	aa	þó
@@ -4888,7 +4592,6 @@ gaf	sfg3eþ	gefa
 upp	aa	upp
 öndina	nveog	önd
 .	.	.
-
 Ragna	nven-s	Ragna
 sá	sfg3eþ	sjá
 eftir	aþ	eftir
@@ -4912,7 +4615,6 @@ yrði	svg3eþ	verða
 húsbóndi	nken	húsbóndi
 hans	fpkee	hann
 .	.	.
-
 21.	ta	21.
 kafli	nken	kafli
 Hinrik	nken-s	Hinrik
@@ -4936,7 +4638,6 @@ lenda	sfg3fn	lenda
 vegna	ae	vegna
 þess	fphee	það
 .	.	.
-
 Alkóhólistar	nkfn	alkóhólisti
 eru	sfg3fn	vera
 ekki	aa	ekki
@@ -4949,7 +4650,6 @@ stjórnast	sfm3en	stjórna
 af	aþ	af
 fíkninni	nveþg	fíkn
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 alla	foveo	allur
@@ -4966,7 +4666,6 @@ er	sfg3en	vera
 þeim	fahfþ	sá
 sporum	nhfþ	spor
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 næstum	aa	næstum
@@ -4980,7 +4679,6 @@ heljartök	nhfo	heljartak
 á	aþ	á
 fólki	nheþ	fólk
 .	.	.
-
 En	c	en
 ég	fp1en	ég
 hef	sfg1en	hafa
@@ -4994,7 +4692,6 @@ fleiri	lhfnvm	margur
 en	c	en
 gleðistundirnar	nvfng	gleðistund
 .	.	.
-
 Einn	fokeo	einn
 dag	nkeo	dagur
 var	sfg3eþ	vera

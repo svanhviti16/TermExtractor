@@ -1,4 +1,3 @@
-
 Það	fphen	það
 þreifaðist	sfm3eþ	þreifa
 innkýlt	lhensf	innkýldur
@@ -18,7 +17,6 @@ yfir	aa	yfir
 til	ae	til
 hægri	lveevf	hægri
 .	.	.
-
 Var	sfg3eþ	vera
 A	nken-s	A
 hvellaumur	lkensf	hvellaumur
@@ -27,7 +25,6 @@ nefinu	nheþg	nef
 þeim	fahfþ	sá
 megin	aa	megin
 .	.	.
-
 Þá	aa	þá
 var	sfg3eþ	vera
 hann	fpken	hann
@@ -42,7 +39,6 @@ reyndist	sfm3eþ	reyna
 ekki	aa	ekki
 brotið	lhensf	brotinn
 .	.	.
-
 Gerð	sþgven	gera
 var	sfg3eþ	vera
 nefrétting	nven	nefrétting
@@ -54,7 +50,6 @@ fékkst	sfm3eþ	fá
 á	aþ	á
 nefbrotinu	nheþg	nefbrot
 .	.	.
-
 A	nxen-s	A
 leitaði	sfg3eþ	leita
 aftur	aa	aftur
@@ -75,7 +70,6 @@ aftur	aa	aftur
 sinn	fekeo	sinn
 stað	nkeo	staður
 .	.	.
-
 Var	sfg3eþ	vera
 hann	fpken	hann
 því	aa	því
@@ -108,7 +102,6 @@ vottorðið	nheng	vottorð
 var	sfg3eþ	vera
 ritað	sþghen	rita
 .	.	.
-
 Með	aþ	með
 bréfi	nheþ	bréf
 lögreglustjórans	nkeeg	lögreglustjóri
@@ -135,7 +128,6 @@ laga	nhfe	lag
 nr.	as	nr.
 19/1991	ta	19/1991
 .	.	.
-
 Lögmaður	nken	lögmaður
 brotaþola	nkee	brotaþoli
 óskaði	sfg3eþ	óska
@@ -151,7 +143,6 @@ bréfi	nheþ	bréf
 apríl	nkeo	apríl
 2005	ta	2005
 .	.	.
-
 Rökstuðningur	nken	rökstuðningur
 lögreglustjórans	nkeeg	lögreglustjóri
 kemur	sfg3en	koma
@@ -177,7 +168,6 @@ maí	nkeo	maí
 til	ae	til
 ríkissaksóknara	nkee	ríkissaksóknari
 .	.	.
-
 Með	aþ	með
 bréfi	nheþ	bréf
 ríkissaksóknara	nkee	ríkissaksóknari
@@ -211,7 +201,6 @@ til	ae	til
 frekari	lveevm	frekur
 rannsóknar	nvee	rannsókn
 .	.	.
-
 Ákæra	nven	ákæra
 ríkissaksóknara	nkee	ríkissaksóknari
 var	sfg3eþ	vera
@@ -228,7 +217,6 @@ greinir	sfg3en	greina
 maí	nkeo	maí
 2006	ta	2006
 .	.	.
-
 Verður	sfg3en	verða
 nú	aa	nú
 rakinn	sþgken	rekja
@@ -239,7 +227,6 @@ vitna	nhfe	vitni
 fyrir	aþ	fyrir
 dómi	nkeþ	dómur
 .	.	.
-
 Ákærða	lvenvf	ákærður
 ,	,	,
 X	nven-s	X
@@ -277,7 +264,6 @@ hana	fpveo	hún
 í	ao	í
 höndina	nveog	hönd
 .	.	.
-
 Hún	fpven	hún
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -289,7 +275,6 @@ hefði	svg3eþ	hafa
 brotið	ssg	brjóta
 glasið	nheog	glas
 .	.	.
-
 Hún	fpven	hún
 hafi	svg3en	hafa
 verið	ssg	vera
@@ -310,7 +295,6 @@ glasinu	nheþg	glas
 að	aþ	að
 henni	fpveþ	hún
 .	.	.
-
 Hafi	svg3en	hafa
 margir	lkfnsf	margur
 komið	ssg	koma
@@ -326,7 +310,6 @@ hana	fpveo	hún
 úr	aþ	úr
 þvögunni	nveþg	þvaga
 .	.	.
-
 Hún	fpven	hún
 kvaðst	sfm3eþ	kveða
 hafa	sng	hafa
@@ -341,7 +324,6 @@ með	aa	með
 á	aþ	á
 gangstéttinni	nveþg	gangstétt
 .	.	.
-
 Hún	fpven	hún
 kvað	sfg3eþ	kveða
 flöskuna	nveog	flaska
@@ -358,7 +340,6 @@ hafi	svg3en	hafa
 ekki	aa	ekki
 brotnað	ssg	brotna
 .	.	.
-
 Hún	fpven	hún
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -396,7 +377,6 @@ hafi	svg3en	hafa
 ekki	aa	ekki
 brotnað	ssg	brotna
 .	.	.
-
 Þá	aa	þá
 kvaðst	sfm3eþ	kveða
 hún	fpven	hún
@@ -412,7 +392,6 @@ sök	nveo	sök
 hnakka	nkeþ	hnakki
 A	nxee-s	A
 .	.	.
-
 Hún	fpven	hún
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -425,7 +404,6 @@ séð	ssg	sjá
 gera	sng	gera
 neitt	foheo	neinn
 .	.	.
-
 Hann	fpken	hann
 hafi	svg3en	hafa
 einungis	aa	einungis
@@ -445,7 +423,6 @@ með	ao	með
 hana	fpveo	hún
 heim	aa	heim
 .	.	.
-
 Hún	fpven	hún
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -474,7 +451,6 @@ rifin	sþgven	rífa
 í	aa	í
 burtu	aa	burtu
 .	.	.
-
 Hún	fpven	hún
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -492,7 +468,6 @@ eða	c	eða
 gera	sng	gera
 neitt	foheo	neinn
 .	.	.
-
 Hún	fpven	hún
 kvað	sfg3eþ	kveða
 nokkra	fokfo	nokkur
@@ -505,7 +480,6 @@ ráðist	ssm	ráða
 að	aþ	að
 Ö	nxeþ-s	Ö
 .	.	.
-
 Fullt	lhensf	fullur
 af	aþ	af
 fólki	nheþ	fólk
@@ -516,7 +490,6 @@ að	aa	að
 þetta	fahen	þessi
 gerðist	sfm3eþ	gera
 .	.	.
-
 Hún	fpven	hún
 kvaðst	sfm3eþ	kveða
 hafa	sng	hafa
@@ -536,7 +509,6 @@ komið	ssg	koma
 þarna	aa	þarna
 að	aa	að
 .	.	.
-
 Hún	fpven	hún
 gæti	svg3eþ	geta
 ekki	aa	ekki
@@ -553,7 +525,6 @@ verið	ssg	vera
 í	aþ	í
 uppnámi	nheþ	uppnám
 .	.	.
-
 Kvað	sfg3eþ	kveða
 hún	fpven	hún
 Tælendingana	nkfogs	Tælendingur
@@ -584,14 +555,12 @@ henni	fpveþ	hún
 í	aþ	í
 hópi	nkeþ	hópur
 .	.	.
-
 Hún	fpven	hún
 kvaðst	sfm3eþ	kveða
 hafna	sng	hafna
 bótakröfu	nveþ	bótakrafa
 A	nxee-s	A
 .	.	.
-
 Hún	fpven	hún
 kvað	sfg3eþ	kveða
 A	nxeo-s	A
@@ -616,7 +585,6 @@ sinni	feveþ	sinn
 ,	,	,
 G	nveþ-s	g
 .	.	.
-
 Hún	fpven	hún
 kvað	sfg3eþ	kveða
 ekki	aa	ekki
@@ -638,7 +606,6 @@ hana	fpveo	hún
 úr	aþ	úr
 átökunum	nhfþg	átök
 .	.	.
-
 Áður	aa	áður
 en	c	en
 hann	fpken	hann
@@ -655,7 +622,6 @@ væri	svg3eþ	vera
 á	aþ	á
 staðnum	nkeþg	staður
 .	.	.
-
 Hún	fpven	hún
 kvaðst	sfm3eþ	kveða
 hafa	sng	hafa
@@ -668,7 +634,6 @@ stóð	sfg3eþ	standa
 við	ao	við
 götuna	nveog	gata
 .	.	.
-
 Ákærði	lkenvf	ákærður
 ,	,	,
 Y	nken-s	y
@@ -681,7 +646,6 @@ gælunafninu	nheþg	gælunafn
 ...	...	...
 ]	]	]
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 kannast	snm	kanna
@@ -692,7 +656,6 @@ A	nxee-s	A
 ,	,	,
 E	nveo-s	E
 .	.	.
-
 Þetta	faheo	þessi
 kvöld	nheo	kvöld
 hefði	svg3eþ	hafa
@@ -709,7 +672,6 @@ og	c	og
 E	nxen-s	E
 verið	ssg	vera
 .	.	.
-
 Hafi	svg3en	hafa
 hann	fpken	hann
 farið	ssg	fara
@@ -726,14 +688,12 @@ væri	svg3eþ	vera
 kærastan	nveng	kærasta
 hans	fpkee	hann
 .	.	.
-
 A	nken-s	A
 hafi	svg3en	hafa
 þá	aa	þá
 orðið	ssg	verða
 afbrýðisamur	lkensf	afbrýðisamur
 .	.	.
-
 Þeir	fpkfn	hann
 hafi	svg3fn	hafa
 eitthvað	fohen	einhver
@@ -750,7 +710,6 @@ inn	aa	inn
 á	aþ	á
 staðnum	nkeþg	staður
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 síðan	aa	síðan
@@ -772,7 +731,6 @@ kallaður	sþgken	kalla
 inná	ao	inná
 klósett	nheo	klósett
 .	.	.
-
 Þar	aa	þar
 hafi	svg3en	hafa
 A	nxen-s	A
@@ -792,7 +750,6 @@ að	cn	að
 hunskast	snm	hunska
 heim	aa	heim
 .	.	.
-
 Síðan	aa	síðan
 hafi	svg3en	hafa
 hann	fpken	hann
@@ -801,7 +758,6 @@ farið	ssg	fara
 ásamt	aþ	ásamt
 Ö	nxeþ-s	Ö
 .	.	.
-
 Þegar	c	þegar
 þeir	fpkfn	hann
 komu	sfg3fþ	koma
@@ -821,7 +777,6 @@ rassinn	nkeog	rass
 á	aþ	á
 A	nxeþ-s	A
 .	.	.
-
 Það	fphen	það
 hafi	svg3fn	hafa
 4-5	ta	4-5
@@ -837,7 +792,6 @@ meðáærða	lkeovf	meðáærður
 ,	,	,
 Ö	nxeo-s	Ö
 .	.	.
-
 Margir	lkfnsf	margur
 hafi	svg3fn	hafa
 verið	ssg	vera
@@ -850,7 +804,6 @@ gangi	nkeþ	gangur
 fram	aa	fram
 hjá	aa	hjá
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -875,7 +828,6 @@ heyrt	ssg	heyra
 glas	nheo	glas
 brotna	sng	brotna
 .	.	.
-
 Ákærði	lkenvf	ákærður
 kvað	sfg3eþ	kveða
 að	c	að
@@ -897,7 +849,6 @@ verið	ssg	vera
 saman	aa	saman
 komnir	sþgkfn	koma
 .	.	.
-
 Ákærði	lkenvf	ákærður
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -916,7 +867,6 @@ rassinn	nkeog	rass
 á	aþ	á
 honum	fpkeþ	hann
 .	.	.
-
 Hann	fpken	hann
 hafi	svg3en	hafa
 heldur	aam	heldur
@@ -946,7 +896,6 @@ verið	ssg	vera
 fjöldi	nken	fjöldi
 manns	nkee	maður
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 hafa	sng	hafa
@@ -967,7 +916,6 @@ eða	c	eða
 einhverjum	fokeþ	einhver
 öðrum	fokeþ	annar
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -984,7 +932,6 @@ hafnar	sfg3en	hafna
 bótakröfu	nveþ	bótakrafa
 hans	fpkee	hann
 .	.	.
-
 Hann	fpken	hann
 taldi	sfg3eþ	telja
 sig	fpkeo	sig
@@ -1011,7 +958,6 @@ hafi	svg3fn	hafa
 brotist	ssm	brjóta
 út	aa	út
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -1055,7 +1001,6 @@ var	sfg3eþ	vera
 margt	lhensf	margur
 fólk	nhen	fólk
 .	.	.
-
 Hann	fpken	hann
 kvað	sfg3eþ	kveða
 meðákærða	lkeovf	meðákærður
@@ -1081,7 +1026,6 @@ fyrir	ao	fyrir
 aftan	aa	aftan
 hann	fpkeo	hann
 .	.	.
-
 Síðan	aa	síðan
 hafi	svg3fn	hafa
 4-5	ta	4-5
@@ -1101,7 +1045,6 @@ andlitið	nheog	andlit
 með	aþ	með
 flösku	nveþ	flaska
 .	.	.
-
 Ö	nxen-s	Ö
 hafi	svg3en	hafa
 ekkert	fohen	enginn
@@ -1111,7 +1054,6 @@ komist	ssm	koma
 við	ao	við
 A.	as	A.
 .	.	.
-
 Ákærði	lkenvf	ákærður
 sagðist	sfm3eþ	segja
 ekki	aa	ekki
@@ -1129,7 +1071,6 @@ sem	ct	sem
 við	ao	við
 hópinn	nkeog	hópur
 .	.	.
-
 Hann	fpken	hann
 kvað	sfg3eþ	kveða
 að	c	að
@@ -1159,7 +1100,6 @@ hafi	svg3en	hafa
 komið	ssg	koma
 að	aa	að
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -1176,7 +1116,6 @@ en	c	en
 ,	,	,
 Ö	nkeo-s	ö
 .	.	.
-
 Ákærði	lkenvf	ákærður
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -1213,7 +1152,6 @@ flösku	nveo	flaska
 höfði	nheþ	höfuð
 A	nxee-s	A
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 hafa	sng	hafa
@@ -1227,7 +1165,6 @@ F	nxeo-s	F
 á	aþ	á
 staðnum	nkeþg	staður
 .	.	.
-
 Ákærði	lkenvf	ákærður
 kvað	sfg3eþ	kveða
 meðákærða	lkeovf	meðákærður
@@ -1254,7 +1191,6 @@ túlka	sng	túlka
 á	aa	á
 milli	aa	milli
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -1283,7 +1219,6 @@ slá	sng	slá
 til	ae	til
 A	nxee-s	A
 .	.	.
-
 Ákærði	lkenvf	ákærður
 ,	,	,
 Þ	nken-s	þ
@@ -1312,7 +1247,6 @@ fyrir	ao	fyrir
 utan	aa	utan
 D	nxeo-s	D
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 hins	fakee	hinn
@@ -1341,7 +1275,6 @@ verið	ssg	vera
 að	cn	að
 slást	snm	slá
 .	.	.
-
 Hann	fpken	hann
 hafi	svg3en	hafa
 þá	aa	þá
@@ -1355,7 +1288,6 @@ að	cn	að
 koma	sng	koma
 heim	aa	heim
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 hafa	sng	hafa
@@ -1395,7 +1327,6 @@ með	ao	með
 hana	fpveo	hún
 heim	aa	heim
 .	.	.
-
 Hafi	svg3en	hafa
 hann	fpken	hann
 þá	aa	þá
@@ -1410,7 +1341,6 @@ séð	ssg	sjá
 hana	fpveo	hún
 þar	aa	þar
 .	.	.
-
 Honum	fpkeþ	hann
 hafi	svg3en	hafa
 verið	ssg	vera
@@ -1420,7 +1350,6 @@ hún	fpven	hún
 væri	svg3eþ	vera
 farin	sþgven	fara
 .	.	.
-
 Er	c	er
 hann	fpken	hann
 hafi	svg3en	hafa
@@ -1436,7 +1365,6 @@ vera	sng	vera
 að	cn	að
 slást	snm	slá
 .	.	.
-
 Hann	fpken	hann
 hafi	svg3en	hafa
 dregið	ssg	draga
@@ -1445,7 +1373,6 @@ meðákærðu	lveovf	meðákærður
 úr	aþ	úr
 slagsmálunum	nhfþg	slagsmál
 .	.	.
-
 Ákærði	lkenvf	ákærður
 kvað	sfg3eþ	kveða
 A	nxeo-s	A
@@ -1456,7 +1383,6 @@ flösku	nveo	flaska
 í	aþ	í
 hendinni	nveþg	hönd
 .	.	.
-
 Hann	fpken	hann
 kvað	sfg3eþ	kveða
 þetta	faheo	þessi
@@ -1479,7 +1405,6 @@ slegið	ssg	slá
 í	ao	í
 A	nxeo-s	A
 .	.	.
-
 Kvaðst	sfm3eþ	kveða
 hann	fpken	hann
 ekki	aa	ekki
@@ -1494,7 +1419,6 @@ hafi	svg3en	hafa
 verið	ssg	vera
 blóðugur	lkensf	blóðugur
 .	.	.
-
 Hann	fpken	hann
 hafi	svg3en	hafa
 hins	fakee	hinn
@@ -1512,7 +1436,6 @@ verið	ssg	vera
 eitthvert	fohen	einhver
 blóð	nhen	blóð
 .	.	.
-
 Ákærði	lkenvf	ákærður
 kvaðst	sfm3eþ	kveða
 hafa	sng	hafa
@@ -1527,7 +1450,6 @@ við	ao	við
 þrjá	tfkfo	þrír
 Íslendinga	nkfo-s	Íslendingur
 .	.	.
-
 Hafi	svg3en	hafa
 hann	fpken	hann
 legið	ssg	liggja
@@ -1542,7 +1464,6 @@ berja	sng	berja
 á	aþ	á
 honum	fpkeþ	hann
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -1557,7 +1478,6 @@ meðákærða	lkeovf	meðákærður
 við	ao	við
 A.	as	A.
 .	.	.
-
 Það	fphen	það
 hafi	svg3en	hafa
 verið	ssg	vera
@@ -1579,7 +1499,6 @@ aðrir	fokfn	annar
 voru	sfg3fþ	vera
 þar	aa	þar
 .	.	.
-
 Meðákærði	lkenvf	meðákærður
 ,	,	,
 Y	nken-s	y
@@ -1611,7 +1530,6 @@ ekki	aa	ekki
 sagt	ssg	segja
 nákvæmlega	aa	nákvæmlega
 .	.	.
-
 Hann	fpken	hann
 hafi	svg3en	hafa
 séð	ssg	sjá
@@ -1646,7 +1564,6 @@ kominn	sþgken	koma
 sér	fphfþ	sig
 stað	nkeo	staður
 .	.	.
-
 Hann	fpken	hann
 kvað	sfg3eþ	kveða
 sér	fpkeþ	sig
@@ -1662,7 +1579,6 @@ A	nxeþ-s	A
 í	aþ	í
 sameiningu	nveþ	sameining
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 hafna	sng	hafna
@@ -1670,7 +1586,6 @@ fram	aa	fram
 kominni	lveþsf	kominn
 bótakröfu	nveþ	bótakrafa
 .	.	.
-
 Ákærði	lkenvf	ákærður
 Z	nken-s	z
 ,	,	,
@@ -1682,7 +1597,6 @@ gælunafninu	nheþg	gælunafn
 ...	...	...
 ]	]	]
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -1709,7 +1623,6 @@ slagsmálin	nhfng	slagsmál
 verið	ssg	vera
 yfirstaðin	lhfnsf	yfirstaðinn
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -1721,7 +1634,6 @@ flösku	nveþ	flaska
 í	ao	í
 höfuðið	nheog	höfuð
 .	.	.
-
 Hann	fpken	hann
 hafi	svg3en	hafa
 hins	fakee	hinn
@@ -1744,7 +1656,6 @@ leka	sng	leka
 úr	aþ	úr
 sárinu	nheþg	sár
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -1754,7 +1665,6 @@ A	nxeo-s	A
 fyrir	aa	fyrir
 utan	aa	utan
 .	.	.
-
 Aðrir	fokfn	annar
 ákærðu	lkfnvf	ákærður
 hafi	svg3en	hafa
@@ -1765,7 +1675,6 @@ komnir	sþgkfn	koma
 undan	aþ	undan
 honum	fpkeþ	hann
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 hafna	sng	hafna
@@ -1773,7 +1682,6 @@ fram	aa	fram
 kominni	lveþsf	kominn
 bótakröfu	nveþ	bótakrafa
 .	.	.
-
 Ákærði	lkenvf	ákærður
 ,	,	,
 Æ	nken-s	Æ
@@ -1786,7 +1694,6 @@ gælunafninu	nheþg	gælunafn
 ...	...	...
 ]	]	]
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -1802,7 +1709,6 @@ E	nxeo-s	E
 þessum	fakeþ	þessi
 tíma	nkeþ	tími
 .	.	.
-
 Hann	fpken	hann
 kvað	sfg3eþ	kveða
 að	c	að
@@ -1834,7 +1740,6 @@ róa	sng	róa
 báða	fokfo	báðir
 niður	aa	niður
 .	.	.
-
 Hann	fpken	hann
 kvað	sfg3eþ	kveða
 A	nxeo-s	A
@@ -1854,7 +1759,6 @@ alla	fokfo	allur
 á	ao	á
 spítala	nkeo	spítali
 .	.	.
-
 Hann	fpken	hann
 hafi	svg3en	hafa
 svo	aa	svo
@@ -1862,7 +1766,6 @@ farið	ssg	fara
 að	cn	að
 dansa	sng	dansa
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -1875,7 +1778,6 @@ A	nxeo-s	A
 þetta	faheo	þessi
 kvöld	nheo	kvöld
 .	.	.
-
 Þegar	c	þegar
 hann	fpken	hann
 svo	aa	svo
@@ -1895,7 +1797,6 @@ að	cn	að
 koma	sng	koma
 að	aa	að
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -1910,7 +1811,6 @@ reiður	lkensf	reiður
 í	ao	í
 þá	fpkfo	hann
 .	.	.
-
 Hann	fpken	hann
 viti	svg3en	vita
 ekki	aa	ekki
@@ -1931,7 +1831,6 @@ hafi	svg3en	hafa
 verið	ssg	vera
 blóðugur	lkensf	blóðugur
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -1943,7 +1842,6 @@ eða	c	eða
 slegið	ssg	slá
 hann	fpkeo	hann
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -1953,7 +1851,6 @@ hræddur	lkensf	hræddur
 við	ao	við
 A	nxeo-s	A
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 hafa	sng	hafa
@@ -1971,7 +1868,6 @@ blóðug	lvensf	blóðugur
 á	aþ	á
 hendinni	nveþg	hönd
 .	.	.
-
 Hann	fpken	hann
 kveðst	sfm3en	kveða
 ekki	aa	ekki
@@ -2000,14 +1896,12 @@ með	aa	með
 þetta	faheo	þessi
 kvöld	nheo	kvöld
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 hafna	sng	hafna
 bótakröfu	nveþ	bótakrafa
 A	nxee-s	A
 .	.	.
-
 Ákærði	lkenvf	ákærður
 ,	,	,
 Ö	nken-s	ö
@@ -2018,7 +1912,6 @@ við	ao	við
 þingfestingu	nveo	þingfesting
 málsins	nheeg	mál
 .	.	.
-
 Hann	fpken	hann
 gat	sfg3eþ	geta
 ekki	aa	ekki
@@ -2030,7 +1923,6 @@ málsins	nheeg	mál
 vegna	ae	vegna
 veikinda	nhfe	veikindi
 .	.	.
-
 Vitnið	nheng	vitni
 A	nxen-s	A
 ,	,	,
@@ -2052,7 +1944,6 @@ C	nxeo-s	C
 umrætt	lheosf	umræddur
 kvöld	nheo	kvöld
 .	.	.
-
 Hún	fpven	hún
 hafi	svg3en	hafa
 ætlað	ssg	ætla
@@ -2064,7 +1955,6 @@ kunningjum	nkfþ	kunningi
 sínum	fekfþ	sinn
 þar	aa	þar
 .	.	.
-
 Honum	fpkeþ	hann
 hafi	svg3en	hafa
 ekki	aa	ekki
@@ -2083,7 +1973,6 @@ frekar	aam	frekar
 á	ao	á
 D	nxeo-s	D
 .	.	.
-
 Á	aþ	á
 leiðinni	nveþg	leið
 út	aa	út
@@ -2105,7 +1994,6 @@ ráðast	snm	ráða
 á	ao	á
 hann	fpkeo	hann
 .	.	.
-
 Dyravörður	nken	dyravörður
 hafi	svg3en	hafa
 stoppað	ssg	stoppa
@@ -2117,7 +2005,6 @@ farið	ssg	fara
 á	ao	á
 D	nxeo-s	D
 .	.	.
-
 Þegar	c	þegar
 þau	fphfn	það
 hefðu	svg3fþ	hafa
@@ -2144,7 +2031,6 @@ var	sfg3eþ	vera
 komið	sþghen	koma
 þangað	aa	þangað
 .	.	.
-
 Hafi	svg3fn	hafa
 þau	fphfn	það
 farið	ssg	fara
@@ -2157,7 +2043,6 @@ utan	aa	utan
 í	ao	í
 hann	fpkeo	hann
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 aldrei	aa	aldrei
@@ -2167,7 +2052,6 @@ séð	ssg	sjá
 fólk	nheo	fólk
 áður	aa	áður
 .	.	.
-
 Þegar	c	þegar
 hann	fpken	hann
 hitti	sfg3eþ	hitta
@@ -2190,7 +2074,6 @@ hvað	fshen	hver
 væri	svg3eþ	vera
 að	aa	að
 .	.	.
-
 Honum	fpkeþ	hann
 hafi	svg3en	hafa
 skilist	ssm	skilja
@@ -2206,7 +2089,6 @@ mál	nhen	mál
 væri	svg3eþ	vera
 búið	lhensf	búinn
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -2217,7 +2099,6 @@ hótunum	nvfþ	hótun
 við	ao	við
 mennina	nkfog	maður
 .	.	.
-
 Síðan	aa	síðan
 hafi	svg3en	hafa
 konan	nveng	kona
@@ -2240,7 +2121,6 @@ hann	fpken	hann
 vildi	svg3eþ	vilja
 fara	sng	fara
 .	.	.
-
 Þegar	c	þegar
 þau	fphfn	það
 hafi	svg3fn	hafa
@@ -2260,7 +2140,6 @@ aftan	aa	aftan
 í	ao	í
 hann	fpkeo	hann
 .	.	.
-
 Hafi	svg3en	hafa
 hann	fpken	hann
 séð	ssg	sjá
@@ -2288,7 +2167,6 @@ fyrir	ao	fyrir
 utan	aa	utan
 C	nxeo-s	C
 .	.	.
-
 Hafi	svg3fn	hafa
 þeir	fpkfn	hann
 gert	ssg	gera
@@ -2315,7 +2193,6 @@ sparkaði	sfg3eþ	sparka
 í	ao	í
 hann	fpkeo	hann
 .	.	.
-
 Hann	fpken	hann
 hafi	svg3en	hafa
 heyrt	ssg	heyra
@@ -2334,7 +2211,6 @@ báðir	fokfn	báðir
 hann	fpkeo	hann
 .	.	.
 »	»	»
-
 Hafi	svg3en	hafa
 Íslendingurinn	nkengs	Íslendingur
 tekið	ssg	taka
@@ -2356,7 +2232,6 @@ séð	ssg	sjá
 hann	fpkeo	hann
 meir	aam	meir
 .	.	.
-
 Kvað	sfg3eþ	kveða
 vitnið	nheng	vitni
 að	aþ	að
@@ -2385,7 +2260,6 @@ hausinn	nkeog	haus
 á	aþ	á
 honum	fpkeþ	hann
 .	.	.
-
 Hafi	svg3en	hafa
 vitninu	nheþg	vitni
 verið	ssg	vera
@@ -2399,7 +2273,6 @@ sem	ct	sem
 það	fpheo	það
 gerði	sfg3eþ	gera
 .	.	.
-
 Hafi	svg3en	hafa
 hann	fpken	hann
 svo	aa	svo
@@ -2426,7 +2299,6 @@ brotna	sng	brotna
 höfði	nheþ	höfuð
 sínu	feheþ	sinn
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 þá	aa	þá
@@ -2451,7 +2323,6 @@ yfir	ao	yfir
 andlit	nheo	andlit
 hans	fpkee	hann
 .	.	.
-
 Í	ao	í
 kjölfarið	nheog	kjölfar
 hafi	svg3en	hafa
@@ -2464,7 +2335,6 @@ kýlt	sþghen	kýla
 á	ao	á
 kinn	nveo	kinn
 .	.	.
-
 Barsmíðarnar	nvfng	barsmíð
 hafi	svg3fn	hafa
 svo	aa	svo
@@ -2512,7 +2382,6 @@ hafi	svg3en	hafa
 ekki	aa	ekki
 brotnað	ssg	brotna
 .	.	.
-
 Vitnið	nheng	vitni
 kvað	sfg3eþ	kveða
 að	c	að
@@ -2524,7 +2393,6 @@ staðið	ssg	standa
 að	aþ	að
 árásinni	nveþg	árás
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 aldrei	aa	aldrei
@@ -2535,7 +2403,6 @@ skýringu	nveo	skýring
 á	aþ	á
 árásinni	nveþg	árás
 .	.	.
-
 Hann	fpken	hann
 neitaði	sfg3eþ	neita
 því	fpheþ	það
@@ -2570,7 +2437,6 @@ glas	nheo	glas
 í	aþ	í
 hendinni	nveþg	hönd
 .	.	.
-
 Vitnið	nheng	vitni
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -2598,7 +2464,6 @@ gangast	snm	ganga
 undir	ao	undir
 aðgerð	nveo	aðgerð
 .	.	.
-
 Nefbeinið	nheng	nefbein
 sé	svg3en	vera
 nú	aa	nú
@@ -2621,7 +2486,6 @@ aðgerðina	nveog	aðgerð
 á	aþ	á
 nefi	nheþ	nef
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -2636,7 +2500,6 @@ stíflur	nvfo	stífla
 í	aþ	í
 nös	nveþ	nös
 .	.	.
-
 Vitnið	nheng	vitni
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -2669,7 +2532,6 @@ burtu	aa	burtu
 byrjun	nveþ	byrjun
 slagsmálanna	nhfeg	slagsmál
 .	.	.
-
 Vitnið	nheng	vitni
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -2680,7 +2542,6 @@ orðið	ssg	verða
 af	aþ	af
 honum	fpkeþ	hann
 .	.	.
-
 Vitnið	nheng	vitni
 kvað	sfg3eþ	kveða
 að	c	að
@@ -2701,13 +2562,11 @@ kæru	nveþ	kæra
 í	aþ	í
 málinu	nheþg	mál
 .	.	.
-
 Hafi	svg3en	hafa
 hann	fpken	hann
 hafnað	ssg	hafna
 því	fpheþ	það
 .	.	.
-
 Vitnið	nheng	vitni
 ,	,	,
 F	nxen-s	F
@@ -2728,7 +2587,6 @@ væru	svg3fþ	vera
 ekki	aa	ekki
 vinkonur	nvfn	vinkona
 .	.	.
-
 Hún	fpven	hún
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -2738,7 +2596,6 @@ brotaþola	nkeo	brotaþoli
 ,	,	,
 A	nxeo-s	A
 .	.	.
-
 Hún	fpven	hún
 kvaðst	sfm3eþ	kveða
 hafa	sng	hafa
@@ -2756,7 +2613,6 @@ D	nxeþ-s	D
 umrætt	lheosf	umræddur
 kvöld	nheo	kvöld
 .	.	.
-
 Hún	fpven	hún
 kvaðst	sfm3eþ	kveða
 hafa	sng	hafa
@@ -2779,7 +2635,6 @@ voru	sfg3fþ	vera
 að	cn	að
 slást	snm	slá
 .	.	.
-
 Margt	lhensf	margur
 fólk	nhen	fólk
 hefði	svg3eþ	hafa
@@ -2800,7 +2655,6 @@ einhverjir	fokfn	einhver
 voru	sfg3fþ	vera
 þar	aa	þar
 .	.	.
-
 Hún	fpven	hún
 kvað	sfg3eþ	kveða
 þó	aa	þó
@@ -2811,7 +2665,6 @@ hefðu	svg3fþ	hafa
 verið	ssg	vera
 þar	aa	þar
 .	.	.
-
 Er	c	er
 hún	fpven	hún
 var	sfg3eþ	vera
@@ -2840,7 +2693,6 @@ frá	aþ	frá
 þeim	fakeþ	sá
 framburði	nkeþ	framburður
 .	.	.
-
 Hún	fpven	hún
 kvað	sfg3eþ	kveða
 ákærða	lkeovf	ákærður
@@ -2861,7 +2713,6 @@ verið	ssg	vera
 með	aþ	með
 henni	fpveþ	hún
 .	.	.
-
 Vitnið	nheng	vitni
 ,	,	,
 E	nxen-s	E
@@ -2876,7 +2727,6 @@ A	nxeþ-s	A
 á	ao	á
 C	nxeo-s	C
 .	.	.
-
 Hún	fpven	hún
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -2897,7 +2747,6 @@ A	nxee-s	A
 og	c	og
 Y.	nxee-s	Y.
 .	.	.
-
 Vinkona	nven	vinkona
 hennar	fpvee	hún
 hafi	svg3en	hafa
@@ -2908,7 +2757,6 @@ fara	sng	fara
 eitthvað	foheo	einhver
 annað	foheo	annar
 .	.	.
-
 Því	aa	því
 hafi	svg3en	hafa
 hún	fpven	hún
@@ -2919,7 +2767,6 @@ A	nxeþ-s	A
 D	nxeo-s	D
 kaffi	nheo	kaffi
 .	.	.
-
 Þá	aa	þá
 hafi	svg3en	hafa
 ákærði	lkenvf	ákærður
@@ -2932,7 +2779,6 @@ vinir	nkfn	vinur
 komið	ssg	koma
 þangað	aa	þangað
 .	.	.
-
 Vinkona	nven	vinkona
 hennar	fpvee	hún
 hafi	svg3en	hafa
@@ -2955,7 +2801,6 @@ farið	ssg	fara
 af	aþ	af
 D	nxeþ-s	D
 .	.	.
-
 Þá	c	þá
 hafi	svg3en	hafa
 ákærði	lkenvf	ákærður
@@ -2967,7 +2812,6 @@ fyrir	ao	fyrir
 utan	aa	utan
 veitingastaðinn	nkeog	veitingastaður
 .	.	.
-
 Þar	aa	þar
 hafi	svg3en	hafa
 einnig	aa	einnig
@@ -2980,7 +2824,6 @@ X	nxee-s	X
 Z	nken-s	z
 )	)	)
 .	.	.
-
 Hafi	svg3en	hafa
 ákærði	lkenvf	ákærður
 ,	,	,
@@ -2994,7 +2837,6 @@ aftanvert	aa	aftanvert
 á	aþ	á
 kálfa	nkeþ	kálfi
 .	.	.
-
 Þá	aa	þá
 hafi	svg3en	hafa
 ákærði	lkenvf	ákærður
@@ -3016,7 +2858,6 @@ hvar	aa	hvar
 höggið	nheng	högg
 lenti	sfg3eþ	lenda
 .	.	.
-
 Þá	aa	þá
 hafi	svg3fn	hafa
 komið	ssg	koma
@@ -3028,7 +2869,6 @@ stöðvað	ssg	stöðva
 ,	,	,
 Ö.	nkeo-s	Ö.
 .	.	.
-
 Vinir	nkfn	vinur
 ákærða	lkeevf	ákærður
 ,	,	,
@@ -3038,7 +2878,6 @@ hafi	svg3fn	hafa
 drifið	ssg	drífa
 að	aa	að
 .	.	.
-
 Vitnið	nheng	vitni
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -3054,7 +2893,6 @@ frekar	aam	frekar
 hlut	nkeo	hlutur
 A	nxee-s	A
 .	.	.
-
 Vitnið	nheng	vitni
 kvaðst	sfm3eþ	kveða
 hafa	sng	hafa
@@ -3082,7 +2920,6 @@ hafi	svg3en	hafa
 flaskan	nveng	flaska
 brotnað	ssg	brotna
 .	.	.
-
 Vitnið	nheng	vitni
 kvaðst	sfm3eþ	kveða
 hafa	sng	hafa
@@ -3105,7 +2942,6 @@ hafi	svg3en	hafa
 ekki	aa	ekki
 brotnað	ssg	brotna
 .	.	.
-
 Vitnið	nheng	vitni
 kvað	sfg3eþ	kveða
 ástæðu	nveo	ástæða
@@ -3114,7 +2950,6 @@ hafa	sng	hafa
 verið	ssg	vera
 afbrýðisemi	nveo	afbrýðisemi
 .	.	.
-
 Vitnið	nheng	vitni
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -3127,7 +2962,6 @@ neitt	foheo	neinn
 hlut	nkeo	hlutur
 ákærðu	lveevf	ákærður
 .	.	.
-
 Vitnið	nheng	vitni
 kvaðst	sfm3eþ	kveða
 hafa	sng	hafa
@@ -3139,7 +2973,6 @@ meðan	c	meðan
 slagsmálunum	nhfþg	slagsmál
 stóð	sfg3eþ	standa
 .	.	.
-
 Vitnið	nheng	vitni
 kvaðst	sfm3eþ	kveða
 hafa	sng	hafa
@@ -3151,7 +2984,6 @@ sem	ct	sem
 voru	sfg3fþ	vera
 þarna	aa	þarna
 .	.	.
-
 Nánar	aam	náið
 spurð	sþgven	spyrja
 ,	,	,
@@ -3167,7 +2999,6 @@ sparka	sng	sparka
 í	ao	í
 A	nxeo-s	A
 .	.	.
-
 Ákærða	lvenvf	ákærður
 ,	,	,
 X	nven-s	X
@@ -3189,7 +3020,6 @@ höfðinu	nheþg	höfuð
 og	c	og
 brotnað	ssg	brotna
 .	.	.
-
 Vitnið	nheng	vitni
 kvaðst	sfm3eþ	kveða
 hafa	sng	hafa
@@ -3210,7 +3040,6 @@ hafi	svg3en	hafa
 ekki	aa	ekki
 brotnað	ssg	brotna
 .	.	.
-
 Vitnið	nheng	vitni
 kvað	sfg3eþ	kveða
 Ö	nxeo-s	Ö
@@ -3230,7 +3059,6 @@ A	nxeo-s	A
 í	ao	í
 andlitið	nheog	andlit
 .	.	.
-
 Hún	fpven	hún
 kvaðst	sfm3eþ	kveða
 þó	aa	þó
@@ -3238,7 +3066,6 @@ ekki	aa	ekki
 vera	sng	vera
 viss	lvensf	viss
 .	.	.
-
 Vitnið	nheng	vitni
 kvað	sfg3eþ	kveða
 ákærða	lkeovf	ákærður
@@ -3258,7 +3085,6 @@ konuna	nveog	kona
 sína	feveo	sinn
 af	aa	af
 .	.	.
-
 Vitnið	nheng	vitni
 kvað	sfg3eþ	kveða
 ákærða	lkeovf	ákærður
@@ -3281,7 +3107,6 @@ hvar	aa	hvar
 höggið	nheng	högg
 lenti	sfg3eþ	lenda
 .	.	.
-
 Vitnið	nheng	vitni
 kvað	sfg3eþ	kveða
 A	nkeo-s	A
@@ -3312,7 +3137,6 @@ hafi	svg3en	hafa
 verið	ssg	vera
 brotið	lhensf	brotinn
 .	.	.
-
 Vitnið	nheng	vitni
 kvað	sfg3eþ	kveða
 engin	fohfo	enginn
@@ -3330,7 +3154,6 @@ hafi	svg3fn	hafa
 verið	ssg	vera
 kærustupar	nhen	kærustupar
 .	.	.
-
 Langt	aa	langt
 sé	svg3en	vera
 síðan	aa	síðan
@@ -3338,7 +3161,6 @@ síðan	aa	síðan
 hættu	sfg3fþ	hætta
 saman	aa	saman
 .	.	.
-
 Vitnið	nheng	vitni
 kvaðst	sfm3eþ	kveða
 hafa	sng	hafa
@@ -3364,7 +3186,6 @@ undir	aþ	undir
 áhrifum	nhfþ	áhrif
 áfengis	nhee	áfengi
 .	.	.
-
 Vitnið	nheng	vitni
 ,	,	,
 Arnþór	nken-s	Arnþór
@@ -3400,7 +3221,6 @@ og	c	og
 árásarmennirnir	nkfng	árásarmaður
 farnir	sþgkfn	fara
 .	.	.
-
 Hann	fpken	hann
 hafi	svg3en	hafa
 fengið	ssg	fá
@@ -3416,7 +3236,6 @@ slysadeild	nveþ	slysadeild
 eða	c	eða
 vettvangi	nkeþ	vettvangur
 .	.	.
-
 Vitnið	nheng	vitni
 kvaðst	sfm3eþ	kveða
 hafa	sng	hafa
@@ -3428,7 +3247,6 @@ rætt	ssg	ræða
 við	ao	við
 A	nxeo-s	A
 .	.	.
-
 Vitnið	nheng	vitni
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -3438,7 +3256,6 @@ hann	fpken	hann
 var	sfg3eþ	vera
 ölvaður	lkensf	ölvaður
 .	.	.
-
 Vitnið	nheng	vitni
 ,	,	,
 H	nxen-s	H
@@ -3479,7 +3296,6 @@ hefði	svg3eþ	hafa
 gert	ssg	gera
 hvað	fsheo	hver
 .	.	.
-
 Hún	fpven	hún
 kvað	sfg3eþ	kveða
 erfitt	lheosf	erfiður
@@ -3499,7 +3315,6 @@ tóku	sfg3fþ	taka
 í	aþ	í
 slagsmálunum	nhfþg	slagsmál
 .	.	.
-
 Hún	fpven	hún
 hafi	svg3en	hafa
 verið	ssg	vera
@@ -3512,7 +3327,6 @@ nokkrum	fokfþ	nokkur
 af	aþ	af
 ákærðu	lkfþvf	ákærður
 .	.	.
-
 Hún	fpven	hún
 hafi	svg3en	hafa
 hins	fakee	hinn
@@ -3549,7 +3363,6 @@ sjá	sng	sjá
 almennilega	aa	almennilega
 til	aa	til
 .	.	.
-
 Hún	fpven	hún
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -3577,7 +3390,6 @@ tíma	nkeþ	tími
 og	c	og
 hún	fpven	hún
 .	.	.
-
 Já	au	já
 ,	,	,
 svo	aa	svo
@@ -3588,7 +3400,6 @@ fær	sfg3en	fá
 slitið	ssg	slíta
 hann	fpkeo	hann
 .	.	.
-
 Þótt	c	þótt
 dauðinn	nkeng	dauði
 virðist	svm3en	virða
@@ -3600,7 +3411,6 @@ er	sfg3en	vera
 svo	aa	svo
 ekki	aa	ekki
 .	.	.
-
 Því	fpheþ	það
 dauðinn	nkeng	dauði
 er	sfg3en	vera
@@ -3642,7 +3452,6 @@ hana	fpveo	hún
 eða	c	eða
 ekki	aa	ekki
 .	.	.
-
 Hún	fpven	hún
 er	sfg3en	vera
 þarna	aa	þarna
@@ -3652,7 +3461,6 @@ og	c	og
 eldsneytistankur	nken	eldsneytistankur
 lífríkisins	nheeg	lífríki
 .	.	.
-
 Okkur	fp1fþ	ég
 er	sfg3en	vera
 nóg	lhensf	nógur
@@ -3661,7 +3469,6 @@ finna	sng	finna
 yl	nkeo	ylur
 hennar	fpvee	hún
 .	.	.
-
 Sumarið	nheng	sumar
 býður	sfg3en	bjóða
 okkur	fp1fþ	ég
@@ -3698,7 +3505,6 @@ aðeins	aa	aðeins
 sem	ct	sem
 er	sfg3en	vera
 .	.	.
-
 Já	au	já
 ,	,	,
 það	fahen	sá
@@ -3735,7 +3541,6 @@ setningum	nvfþ	setning
 í	aþ	í
 Njálssögu	nveþ-s	Njálssaga
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 þessi	faven	þessi
@@ -3763,14 +3568,12 @@ er	sfg3en	vera
 hjartsláttur	nken	hjartsláttur
 skaparans	nkeeg	skapari
 .	.	.
-
 Og	c	og
 manneskjan	nveng	manneskja
 er	sfg3en	vera
 í	aþ	í
 heiminum	nkeþg	heimur
 .	.	.
-
 Hún	fpven	hún
 er	sfg3en	vera
 og	aa	og
@@ -3799,7 +3602,6 @@ fram	aa	fram
 vettvang	nkeo	vettvangur
 dagsins	nkeeg	dagur
 .	.	.
-
 Skynjar	sfg3en	skynja
 dynjandi	lkeoof	dynjandi
 æðaslátt	nkeo	æðasláttur
@@ -3820,7 +3622,6 @@ og	c	og
 annarra	fovfe	annar
 jurta	nvfe	jurt
 .	.	.
-
 Í	aþ	í
 miðju	nveþ	miðja
 lífsins	nheeg	líf
@@ -3842,7 +3643,6 @@ stendur	sfg3en	standa
 miðjum	lkeþsf	miður
 garðinum	nkeþg	garður
 .	.	.
-
 Lykilorðið	nheng	lykilorð
 er	sfg3en	vera
 ekki	aa	ekki
@@ -3876,7 +3676,6 @@ hljóði	nheþ	hljóð
 Jesús	nken-s	Jesús
 Kristur	nken-s	Kristur
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 græðandi	lvenof	græðandi
@@ -3899,7 +3698,6 @@ plægir	sfg3en	plægja
 og	c	og
 umbyltir	sfg3en	umbylta
 .	.	.
-
 Flytur	sfg3en	flytja
 tré	nheo	tré
 úr	aþ	úr
@@ -3915,7 +3713,6 @@ að	c	að
 það	fphen	það
 dafni	svg3en	dafna
 .	.	.
-
 Strýkur	sfg3en	strjúka
 okkur	fp1fþ	ég
 um	ao	um
@@ -3927,7 +3724,6 @@ tár	nhfo	tár
 af	aþ	af
 hvarmi	nkeþ	hvarmur
 .	.	.
-
 Vökvar	sfg3en	vökva
 sálina	nveog	sál
 með	aþ	með
@@ -3940,7 +3736,6 @@ upp	aa	upp
 til	ae	til
 lífsins	nheeg	líf
 .	.	.
-
 Tekur	sfg3en	taka
 í	ao	í
 litla	lveosf	lítill
@@ -3952,7 +3747,6 @@ inn	aa	inn
 í	ao	í
 lífið	nheog	líf
 .	.	.
-
 Opnar	sfg3en	opna
 augu	nhfo	auga
 okkar	fp1fe	ég
@@ -3976,9 +3770,7 @@ hið	ghen	hinn
 eilífa	lhenvf	eilífur
 sumar	nhen	sumar
 .	.	.
-
 29/06/2006	ta	29/06/2006
-
 Hvað	fsheo	hver
 þýðir	sfg3en	þýða
 það	fphen	það
@@ -3987,7 +3779,6 @@ vera	sng	vera
 kristin	lvensf	kristinn
 manneskja	nven	manneskja
 ?	?	?
-
 Aldrei	aa	aldrei
 sem	c	sem
 nú	aa	nú
@@ -4004,7 +3795,6 @@ lífið	nheog	líf
 og	c	og
 tilveruna	nveog	tilvera
 .	.	.
-
 Samtími	nken	samtími
 okkar	fp1fe	ég
 er	sfg3en	vera
@@ -4033,7 +3823,6 @@ smakka	sng	smakka
 á	aþ	á
 þeim	fpvfþ	hún
 .	.	.
-
 Nýir	lkfnsf	nýr
 réttir	nkfn	réttur
 eru	sfg3fn	vera
@@ -4063,7 +3852,6 @@ vel	aa	vel
 hugmyndamaga	nkeo	hugmyndamagi
 þeirra	fpkfe	hann
 .	.	.
-
 Einn	tfken	einn
 af	aþ	af
 þeim	fakfþ	sá
@@ -4090,7 +3878,6 @@ hangikjöti	nheþ	hangikjöt
 eða	c	eða
 harðfiski	nkeþ	harðfiskur
 .	.	.
-
 Eitthvað	fohen	einhver
 sem	ct	sem
 stendur	sfg3en	standa
@@ -4098,7 +3885,6 @@ alltaf	aa	alltaf
 fyrir	aþ	fyrir
 sínu	feheþ	sinn
 .	.	.
-
 Stundum	aa	stundum
 er	sfg3en	vera
 sagt	sþghen	segja
@@ -4112,7 +3898,6 @@ fæti	nkeþ	fótur
 hugmyndaflaumi	nkeþ	hugmyndaflaumur
 samtímans	nkeeg	samtími
 .	.	.
-
 Hún	fpven	hún
 sé	svg3en	vera
 nánast	aae	náið
@@ -4130,7 +3915,6 @@ réttum	nkfþ	réttur
 og	c	og
 frumlegum	lkfþsf	frumlegur
 .	.	.
-
 Hún	fpven	hún
 sé	svg3en	vera
 fyrst	aae	fyrr
@@ -4158,7 +3942,6 @@ er	sfg3en	vera
 öllum	fovfþ	allur
 veislum	nvfþ	veisla
 .	.	.
-
 Fólk	nhen	fólk
 leiði	svg3en	leiða
 hugann	nkeog	hugi
@@ -4168,7 +3951,6 @@ til	ae	til
 kristinnar	lveesf	kristinn
 trúar	nvee	trú
 .	.	.
-
 Í	aþ	í
 því	faheþ	sá
 sambandi	nheþ	samband
@@ -4200,7 +3982,6 @@ hans	fpkee	hann
 og	c	og
 starf	nheo	starf
 .	.	.
-
 Flestir	lkfnse	margur
 hafa	sfg3fn	hafa
 þó	aa	þó
@@ -4231,7 +4012,6 @@ er	sfg3en	vera
 orðum	nhfþ	orð
 hans	fpkee	hann
 .	.	.
-
 Þegar	c	þegar
 vindar	nkfn	vindur
 ýmissa	fohfe	ýmis
@@ -4251,7 +4031,6 @@ trúar	nvee	trú
 fyrir	ao	fyrir
 okkur	fp1fo	ég
 .	.	.
-
 Hvað	fshen	hver
 það	fphen	það
 sé	svg3en	vera
@@ -4269,7 +4048,6 @@ köllum	svg1fn	kalla
 okkur	fp1fo	ég
 kristin	lhfosf	kristinn
 .	.	.
-
 Kristin	lvensf	kristinn
 trú	nven	trú
 er	sfg3en	vera
@@ -4303,7 +4081,6 @@ aðeins	aa	aðeins
 einni	tfveþ	einn
 verslun	nveþ	verslun
 .	.	.
-
 Þegar	c	þegar
 við	fp1fn	ég
 reynum	sfg1fn	reyna
@@ -4324,14 +4101,12 @@ löngu	lheþsf	langur
 liðins	lkeesf	liðinn
 tíma	nkee	tími
 .	.	.
-
 Leitar	sfg3en	leita
 til	ae	til
 upphafs	nhee	upphaf
 kristinnar	lveesf	kristinn
 trúar	nvee	trú
 .	.	.
-
 Kristin	lvensf	kristinn
 trú	nven	trú
 í	aþ	í
@@ -4354,7 +4129,6 @@ meistarans	nkeeg	meistari
 frá	aþ	frá
 Nasaret	e	Nasaret
 .	.	.
-
 Fylgjum	sfg1fn	fylgja
 honum	fpkeþ	hann
 um	ao	um
@@ -4389,7 +4163,6 @@ töluð	sþghfn	tala
 til	ae	til
 okkar	fp1fe	ég
 .	.	.
-
 Fortíð	nven	fortíð
 og	c	og
 nútíð	nven	nútíð
@@ -4399,7 +4172,6 @@ saman	aa	saman
 einn	tfkeo	einn
 þráð	nkeo	þráður
 .	.	.
-
 Kristin	lvensf	kristinn
 trú	nven	trú
 verður	sfg3en	verða
@@ -4431,7 +4203,6 @@ spinnur	sfg3en	spinna
 með	aþ	með
 okkur	fp1fþ	ég
 .	.	.
-
 Þessi	faven	þessi
 saga	nven	saga
 er	sfg3en	vera
@@ -4452,7 +4223,6 @@ gengur	sfg3en	ganga
 samskiptum	nhfþ	samskipti
 sögupersónanna	nvfeg	sögupersóna
 .	.	.
-
 Á	aþ	á
 þessari	faveþ	þessi
 ferð	nveþ	ferð
@@ -4479,7 +4249,6 @@ okkur	fp1fþ	ég
 sem	c	sem
 leiðakerfi	nhen	leiðakerfi
 .	.	.
-
 Við	fp1fn	ég
 rýnum	sfg1fn	rýna
 í	ao	í
@@ -4496,7 +4265,6 @@ og	c	og
 aðrar	fovfn	annar
 skýrar	lvfnsf	skýr
 .	.	.
-
 Okkar	fp1fe	ég
 er	sfg3en	vera
 að	cn	að
@@ -4506,7 +4274,6 @@ lesa	sng	lesa
 og	c	og
 túlka	sng	túlka
 .	.	.
-
 Við	fp1fn	ég
 erum	sfg1fn	vera
 á	aþ	á
@@ -4520,7 +4287,6 @@ leiðsögumann	nkeo	leiðsögumaður
 með	aþ	með
 okkur	fp1fþ	ég
 .	.	.
-
 Kristin	lvensf	kristinn
 trú	nven	trú
 er	sfg3en	vera
@@ -4529,14 +4295,12 @@ hávaðasöm	lvensf	hávaðasamur
 né	c	né
 væmin	lvensf	væminn
 .	.	.
-
 Hún	fpven	hún
 er	sfg3en	vera
 bjartsýn	lvensf	bjartsýnn
 og	c	og
 djörf	lvensf	djarfur
 .	.	.
-
 Kannski	aa	kannski
 karlmannleg	lvensf	karlmannlegur
 og	c	og
@@ -4551,7 +4315,6 @@ ofur	aa	ofur
 lítið	aa	lítið
 karlmannleg	lvensf	karlmannlegur
 .	.	.
-
 Lætur	sfg3en	láta
 ekki	aa	ekki
 undan	aa	undan
@@ -4564,7 +4327,6 @@ frekar	aam	frekar
 en	c	en
 kærleikurinn	nkeng	kærleikur
 .	.	.
-
 Hún	fpven	hún
 lætur	sfg3en	láta
 ekki	aa	ekki
@@ -4583,7 +4345,6 @@ við	ao	við
 dularfullar	lvfosf	dularfullur
 kennisetningar	nvfo	kennisetning
 .	.	.
-
 Kristin	lvensf	kristinn
 manneskja	nven	manneskja
 getur	sfg3en	geta
@@ -4605,7 +4366,6 @@ að	cn	að
 lesa	sng	lesa
 þær	fpvfo	hún
 .	.	.
-
 Kjarni	nken	kjarni
 trúarinnar	nveeg	trú
 er	sfg3en	vera
@@ -4628,7 +4388,6 @@ og	c	og
 einhver	foken	einhver
 tískureyfari	nken	tískureyfari
 .	.	.
-
 Frásagnirnar	nvfng	frásögn
 eru	sfg3fn	vera
 nefnilega	aa	nefnilega
@@ -4658,7 +4417,6 @@ manns	nkee	maður
 í	aþ	í
 heiminum	nkeþg	heimur
 .	.	.
-
 Sögu	nveo	saga
 sem	ct	sem
 hver	foken	hver
@@ -4668,7 +4426,6 @@ einn	foken	einn
 að	cn	að
 túlka	sng	túlka
 .	.	.
-
 Þessi	faven	þessi
 saga	nven	saga
 segir	sfg3en	segja
@@ -4681,7 +4438,6 @@ heimild	nven	heimild
 um	ao	um
 hana	fpveo	hún
 .	.	.
-
 Hún	fpven	hún
 verður	sfg3en	verða
 lifandi	lvenof	lifandi
@@ -4699,7 +4455,6 @@ aftur	aa	aftur
 og	c	og
 aftur	aa	aftur
 .	.	.
-
 Spyrja	sng	spyrja
 þarf	sfg3en	þurfa
 spurninga	nvfe	spurning
@@ -4716,7 +4471,6 @@ og	c	og
 lesa	sng	lesa
 sig	fpkeo	sig
 .	.	.
-
 Á	ao	á
 þann	fakeo	sá
 hátt	nkeo	háttur
@@ -4737,7 +4491,6 @@ bundin	lvensf	bundinn
 samsafni	nheþ	samsafn
 vanahugmynda	nvfe	vanahugmynd
 .	.	.
-
 Trúin	nveng	trú
 mótar	sfg3en	móta
 viðhorf	nheo	viðhorf
@@ -4779,7 +4532,6 @@ minna	lheovm	lítill
 mega	sfg3fn	mega
 sín	fpkfe	sig
 .	.	.
-
 Já	au	já
 ,	,	,
 hrópa	sng	hrópa
@@ -4811,11 +4563,8 @@ og	c	og
 fuglglöðum	lkeþsf	fuglglaður
 morgni	nkeþ	morgunn
 .	.	.
-
 01/06/2006	ta	01/06/2006
-
 Hvíldarstaður	nken	hvíldarstaður
-
 Það	fphen	það
 er	sfg3en	vera
 ekki	aa	ekki
@@ -4835,7 +4584,6 @@ skoðanir	nvfn	skoðun
 takast	sfm3fn	taka
 á	aa	á
 .	.	.
-
 Ekki	aa	ekki
 bara	aa	bara
 þar	aa	þar
@@ -4856,7 +4604,6 @@ nokkuð	fohen	nokkur
 lengi	aa	lengi
 við	aa	við
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 nefnilega	aa	nefnilega
@@ -4885,7 +4632,6 @@ er	sfg3en	vera
 hugur	nken	hugur
 okkar	fp1fe	ég
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 veröld	nven	veröld
@@ -4902,7 +4648,6 @@ okkar	fp1fe	ég
 í	aþ	í
 lífsbaráttunni	nveþg	lífsbarátta
 .	.	.
-
 Hugur	nken	hugur
 sem	ct	sem
 virðist	sfm3en	virða
@@ -4923,7 +4668,6 @@ skiptir	sfg3en	skipta
 öllu	foheþ	allur
 máli	nheþ	mál
 .	.	.
-
 Þar	aa	þar
 eru	sfg3fn	vera
 stórar	lvfnsf	stór
@@ -4950,7 +4694,6 @@ látið	sþghen	láta
 að	aa	að
 gert	sþghen	gera
 .	.	.
-
 Þessar	favfn	þessi
 bækistöðvar	nvfn	bækistöð
 hafa	sfg3fn	hafa
@@ -4973,7 +4716,6 @@ er	sfg3en	vera
 orðin	sþgven	verða
 mislöng	lvensf	mislangur
 .	.	.
-
 Inn	aa	inn
 í	ao	í
 bækistöðvar	nvfo	bækistöð

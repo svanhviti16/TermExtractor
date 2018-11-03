@@ -1,7 +1,6 @@
 -	-	-
 Magnús	nken-s	Magnús
 Magnúss.	as	Magnúss.
-
 37	ta	37
 Andrés	nken-s	Andrés
 Þórarinss	x	þórarinss
@@ -11,18 +10,15 @@ Halldór	nken-s	Halldór
 22	ta	22
 Geirlaug	nven-s	Geirlaug
 Magnúsd.	as	Magnúsd.
-
 -	-	-
 Torfi	nken-s	Torfi
 Axelss.	as	Axelss.
-
 18	ta	18
 Ómar	nken-s	Ómar
 Óskarsson	nken-s	Óskarsson
 -	-	-
 Böðvar	nken-s	Böðvar
 Magnúss.	as	Magnúss.
-
 5	ta	5
 Efstu	lhfnve	efri
 pör	nhfn	par
@@ -35,7 +31,6 @@ Hallgrímss	x	Hallgrímss.
 -	-	-
 Leifur	nken-s	Leifur
 Aðalsteinss.	as	Aðalsteinss.
-
 15	ta	15
 Friðrik	nken-s	Friðrik
 Jónss	as	Jónss.
@@ -48,14 +43,12 @@ Sverriss	x	Sverriss.
 -	-	-
 Guðlaugur	nken-s	Guðlaugur
 Sveinss.	as	Sveinss.
-
 5	ta	5
 Arngunnur	nven-s	Arngunnur
 Jónsdóttir	nven-s	Jónsdóttir
 -	-	-
 Birna	nven-s	Birna
 Stefnisd.	x	Stefnisd.
-
 1	ta	1
 Efstu	lhfnve	efri
 pör	nhfn	par
@@ -78,7 +71,6 @@ Björn	nken-s	Björn
 /	/	/
 Matthías	nken-s	Matthías
 Þorv.	as	Þorv.
-
 15	ta	15
 Erla	nven-s	Erla
 Sigurjónsd	as	Sigurjónsd.
@@ -109,7 +101,6 @@ föstudaga	nkfe	föstudagur
 allt	foheo	allur
 sumar	nheo	sumar
 .	.	.
-
 Spilastaður	nken	spilastaður
 er	sfg3en	vera
 húsnæði	nhen	húsnæði
@@ -134,7 +125,6 @@ sigurvegarar	nkfn	sigurvegari
 fá	sfg3fn	fá
 verðlaun	nhfo	verðlaun
 .	.	.
-
 Á	aþ	á
 dagskrá	nveþ	dagskrá
 eru	sfg3fn	vera
@@ -148,7 +138,6 @@ spilamennskan	nveng	spilamennska
 klukkan	nveng	klukka
 19	ta	19
 .	.	.
-
 Hin	gven	hinn
 landsfræga	lvenvf	landsfrægur
 Miðnætursveitakeppni	nven-s	miðnætursveitakeppni
@@ -181,7 +170,6 @@ Matthíasi	nkeþ-s	Matthías
 síma	nkeþ	sími
 8601003	ta	8601003
 .	.	.
-
 Gullsmárabrids	nhen-s	gullsmárabrids
 Bridsdeild	nven	bridsdeild
 FEBK	as	FEBK
@@ -191,11 +179,9 @@ mánudaginn	nkeog	mánudagur
 17.	ta	17.
 maí	nkeo	maí
 .	.	.
-
 Miðlungur	nken	miðlungur
 220	ta	220
 .	.	.
-
 Efst	lhfnse	efri
 voru	sfg3fþ	vera
 :	:	:
@@ -205,13 +191,11 @@ Markússon	nken-s	Markússon
 -	-	-
 Sverrir	nken-s	Sverrir
 Gunnarss.	as	Gunnarss.
-
 255	ta	255
 Sigtryggur	nken-s	Sigtryggur
 Ellerts	nkee-s	Ellert
 --Þórður	nken-s	--Þórður
 Jörundss.	as	Jörundss.
-
 249	ta	249
 Dóra	nven-s	Dóra
 Friðleifsdóttir	nven-s	Friðleifsdóttir
@@ -224,19 +208,16 @@ Gestsdóttir	nven-s	Gestsdóttir
 -	-	-
 Ingólfur	nken-s	Ingólfur
 Viktorss.	as	Viktorss.
-
 229	ta	229
 AV	as	AV
 Ásta	nven-s	Ásta
 Erlendsd.	as	Erlendsd.
-
 -	-	-
 Haukur	nken-s	Haukur
 Guðmundss	as	Guðmundss.
 256	ta	256
 Auðunn	nken-s	Auðunn
 Bergsv.	as	Bergsv.
-
 -	-	-
 Sigurþór	nken-s	Sigurþór
 Halldórs	nkee-s	Halldór
@@ -244,7 +225,6 @@ Halldórs	nkee-s	Halldór
 Viggó	nken-s	Viggó
 M.	as	M.
 Sigurðss.	as	Sigurðss.
-
 -	-	-
 Þórhallur	nken-s	Þórhallur
 Árna	nkee-s	Árni
@@ -254,7 +234,6 @@ Steindór	nken-s	Steindór
 -	-	-
 Tómas	nken-s	Tómas
 Sigurðss.	as	Sigurðss.
-
 225	ta	225
 Ekki	aa	ekki
 er	sfg3en	vera
@@ -286,18 +265,15 @@ meðlæti	nheo	meðlæti
 boði	nheþ	boð
 spilaklúbbsins	nkeeg	spilaklúbbur
 .	.	.
-
 Einnig	aa	einnig
 fer	sfg3en	fara
 fram	aa	fram
 verðlaunaafhending	nven	verðlaunaafhending
 .	.	.
-
 Sumarbrids	nhen	sumarbrids
 hafið	sþghen	hefja
 hjá	aþ	hjá
 BA	as	BA
-
 Nú	aa	nú
 er	sfg3en	vera
 lokið	sþghen	ljúka
@@ -311,7 +287,6 @@ við	aa	við
 á	aþ	á
 þriðjudögum	nkfþ	þriðjudagur
 .	.	.
-
 Vetrarstarfinu	nheþg	vetrarstarf
 lauk	sfg3eþ	ljúka
 með	aþ	með
@@ -327,7 +302,6 @@ ný	lvensf	nýr
 stjórn	nven	stjórn
 kosin	sþgven	kjósa
 .	.	.
-
 Úr	aþ	úr
 stjórn	nveþ	stjórn
 gengu	sfg3fþ	ganga
@@ -348,7 +322,6 @@ starf	nhen	starf
 liðnum	lhfþsf	liðinn
 árum	nhfþ	ár
 .	.	.
-
 Nýja	lvenvf	nýr
 stjórnin	nveng	stjórn
 á	sfg3en	eiga
@@ -383,7 +356,6 @@ og	c	og
 Jón	nken-s	Jón
 Sverrisson	nken-s	Sverrisson
 .	.	.
-
 Tveimur	tfhfþ	tveir
 kvöldum	nhfþ	kvöld
 er	sfg3en	vera
@@ -393,7 +365,6 @@ sumarbrids	nheþ	sumarbrid
 þetta	faheo	þessi
 árið	nheog	ár
 .	.	.
-
 Þriðjudaginn	nkeog	þriðjudagur
 18.	ta	18.
 maí	nkeo	maí
@@ -428,14 +399,12 @@ Víglundsson	nken-s	Víglundsson
 -	-	-
 Marínó	nken-s	Marínó
 Steinarss.	as	Steinarss.
-
 23	ta	23
 Björn	nken-s	Björn
 Þorláksson	nken-s	Þorláksson
 -	-	-
 Frímann	nken-s	Frímann
 Stefánss.	as	Stefánss.
-
 22	ta	22
 Þriðjudaginn	nkeog	þriðjudagur
 25.	ta	25.
@@ -465,7 +434,6 @@ Björn	nken-s	Björn
 -	-	-
 Frímann	nken-s	Frímann
 Stefánss.	as	Stefánss.
-
 40	ta	40
 Hjalti	nken-s	Hjalti
 Bergmann	nken-s	Bergmann
@@ -478,14 +446,12 @@ Steinarsson	nken-s	Steinarsson
 -	-	-
 Smári	nken-s	Smári
 Víglundss.	as	Víglundss.
-
 9	ta	9
 Stefán	nken-s	Stefán
 Sveinbjörnsson	nken-s	Sveinbjörnsson
 -	-	-
 Reynir	nken-s	Reynir
 Helgas.	as	Helgas.
-
 9	ta	9
 Sumarbrids	nhen	sumarbrids
 er	sfg3en	vera
@@ -504,7 +470,6 @@ eru	sfg3fn	vera
 allir	fokfn	allur
 velkomnir	lkfnsf	velkominn
 .	.	.
-
 Að	aþ	að
 lokum	nhfþ	lok
 vill	sfg3en	vilja
@@ -520,7 +485,6 @@ hamingju	nvee	hamingja
 með	ao	með
 árangurinn	nkeog	árangur
 .	.	.
-
 BRIDS	nhen	brids
 -	-	-
 Guðmundur	nken-s	Guðmundur
@@ -558,7 +522,6 @@ AV	as	AV
 á	aþ	á
 hættu	nveþ	hætta
 .	.	.
-
 --	--	--
 >	>	>
 Lesandinn	nkeng	lesandi
@@ -592,7 +555,6 @@ AV	as	AV
 á	aþ	á
 hættu	nveþ	hætta
 .	.	.
-
 Norður	nhen-s	Norður
 &	c	&
 spade	e	spade
@@ -678,7 +640,6 @@ gegn	aþ	gegn
 þremur	tfhfþ	þrír
 gröndum	nhfþ	grand
 .	.	.
-
 Sú	faven	sá
 varð	sfg3eþ	verða
 þó	aa	þó
@@ -730,7 +691,6 @@ skiptingin	nveng	skipting
 er	sfg3en	vera
 mikil	lvensf	mikill
 .	.	.
-
 Norður	nhen-s	Norður
 veit	sfg3en	vita
 sem	ct	sem
@@ -760,7 +720,6 @@ lauflitnum	nkeþg	lauflitur
 á	ao	á
 framfæri	nheo	framfæri
 .	.	.
-
 Hann	fpken	hann
 vill	sfg3en	vilja
 setja	sng	setja
@@ -777,7 +736,6 @@ segir	sfg3en	segja
 3-4	ta	3-4
 hjörtu	nhfo	hjarta
 .	.	.
-
 En	c	en
 hér	aa	hér
 er	sfg3en	vera
@@ -798,12 +756,10 @@ stökki	nheþ	stökk
 þrjú	tfhfo	þrír
 grönd	nhfo	grand
 .	.	.
-
 Aftur	aa	aftur
 til	ae	til
 vesturs	nhee	vestur
 .	.	.
-
 Honum	fpkeþ	hann
 hugnast	sfm3en	hugna
 ekki	aa	ekki
@@ -813,7 +769,6 @@ byrjar	sfg3en	byrja
 á	aþ	á
 spaðagosa	nkeþ	spaðagosi
 .	.	.
-
 Suður	nhen	suður
 tekur	sfg3en	taka
 þann	fakeo	sá
@@ -824,7 +779,6 @@ og	c	og
 spilar	sfg3en	spila
 laufkóng	nkeo	laufkóngur
 .	.	.
-
 Vestur	nhen	vestur
 dúkkar	sfg3en	dúkka
 ,	,	,
@@ -835,14 +789,12 @@ slag	nkeo	slagur
 á	ao	á
 laufás	nkeo	laufás
 .	.	.
-
 Hvað	fsheo	hver
 á	sfg3en	eiga
 nú	aa	nú
 að	cn	að
 gera	sng	gera
 ?	?	?
-
 Jafnvel	aa	jafnvel
 á	aþ	á
 opnu	lheþsf	opinn
@@ -862,7 +814,6 @@ spila	sng	spila
 nú	aa	nú
 spaðaTÍU	nveþ	spaðatía
 .	.	.
-
 Vestur	nhen	vestur
 veit	sfg3en	vita
 sem	ct	sem
@@ -887,7 +838,6 @@ fyrir	aþ	fyrir
 lauflit	nkeþ	lauflitur
 blinds	lkeesf	blindur
 .	.	.
-
 Eina	lvenvf	einn
 vonin	nveng	von
 er	sfg3en	vera
@@ -910,7 +860,6 @@ tígulkóng	nkeo	tígulkóngur
 og	c	og
 laufás	nkeo	laufás
 .	.	.
-
 En	c	en
 það	fphen	það
 er	sfg3en	vera
@@ -931,7 +880,6 @@ heldur	aam	heldur
 litlum	lkeþsf	lítill
 spaða	nkeþ	spaði
 .	.	.
-
 Ef	c	ef
 það	fphen	það
 er	sfg3en	vera
@@ -955,7 +903,6 @@ upp	aa	upp
 í	aþ	í
 tígli	nkeþ	tígull
 .	.	.
-
 Með	aþ	með
 spaðatíunni	nveþg	spaðatía
 tryggir	sfg3en	tryggja
@@ -986,11 +933,9 @@ hjarta	nheþ	hjarta
 kröftuglega	aa	kröftuglega
 )	)	)
 .	.	.
-
 Víkverji	nken-s	Víkverji
 skrifar	sfg3en	skrifa
 ...	...	...
-
 :	:	:
 Annan	fokeo	annar
 hvern	fokeo	hver
@@ -1012,7 +957,6 @@ fjölskyldunnar	nveeg	fjölskylda
 umdæmi	nheþ	umdæmi
 Orkubúsins	nheegs	Orkubú
 .	.	.
-
 --	--	--
 >	>	>
 Annan	fokeo	annar
@@ -1035,7 +979,6 @@ fjölskyldunnar	nveeg	fjölskylda
 umdæmi	nheþ	umdæmi
 Orkubúsins	nheegs	Orkubú
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 í	aþ	í
@@ -1071,20 +1014,17 @@ skýringar	nvfo	skýring
 á	aþ	á
 honum	fpkeþ	hann
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 svokallað	lhensf	svokallaður
 fastagjald	nhen	fastagjald
 .	.	.
-
 Tveir	tfkfn	tveir
 rafmagnsmælar	nkfn	rafmagnsmælir
 eru	sfg3fn	vera
 í	aþ	í
 húsinu	nheþg	hús
 .	.	.
-
 Annar	foken	annar
 mælir	nken	mælir
 tekur	sfg3en	taka
@@ -1101,7 +1041,6 @@ vegna	ae	vegna
 almennrar	lveesf	almennur
 notkunar	nvee	notkun
 .	.	.
-
 Mælarnir	nkfng	mælir
 eru	sfg3fn	vera
 alveg	aa	alveg
@@ -1118,7 +1057,6 @@ almennt	aa	almennt
 í	aþ	í
 húsum	nhfþ	hús
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 er	sfg3en	vera
@@ -1127,7 +1065,6 @@ af	aþ	af
 þeim	fpkfþ	hann
 mismunandi	lhenof	mismunandi
 .	.	.
-
 Af	aþ	af
 mælinum	nkeþg	mælir
 sem	ct	sem
@@ -1148,7 +1085,6 @@ af	aþ	af
 hinum	fakeþ	hinn
 46,80	ta	46,80
 .	.	.
-
 Þar	aa	þar
 af	aa	af
 leiðandi	slg	leiða
@@ -1167,7 +1103,6 @@ af	aþ	af
 hinum	fakfþ	hinn
 2.808	ta	2.808
 kr.	as	kr.
-
 Þessi	faken	þessi
 munur	nken	munur
 á	aþ	á
@@ -1189,7 +1124,6 @@ fyrir	aþ	fyrir
 mikla	lkeþvf	mikill
 mun	nkeþ	munur
 .	.	.
-
 Er	sfg3en	vera
 Víkverji	nken-s	Víkverji
 helst	aae	heldur
@@ -1233,7 +1167,6 @@ til	ae	til
 almennrar	lveesf	almennur
 notkunar	nvee	notkun
 .	.	.
-
 Á	aþ	á
 dögunum	nkfþg	dagur
 fór	sfg3eþ	fara
@@ -1259,7 +1192,6 @@ Skeljungi	nkeþ-s	Skeljungur
 í	aþ	í
 Mosfellsbæ	nkeþ-s	Mosfellsbær
 .	.	.
-
 Kostaði	sfg3eþ	kosta
 lítrinn	nkeng	lítri
 104,20	ta	104,20
@@ -1267,7 +1199,6 @@ kr.	as	kr.
 í	aþ	í
 sjálfsafgreiðslu	nveþ	sjálfsafgreiðsla
 .	.	.
-
 Næst	aae	nærri
 var	sfg3eþ	vera
 bensín	nhen	bensín
@@ -1297,7 +1228,6 @@ glíma	sng	glíma
 við	ao	við
 kortasjálfsala	nkeo	kortasjálfsali
 .	.	.
-
 Er	sfg3en	vera
 Víkverji	nken-s	Víkverji
 hræddur	lkensf	hræddur
@@ -1349,7 +1279,6 @@ tekið	ssg	taka
 við	aþ	við
 reiðufé	nheþ	reiðufé
 .	.	.
-
 Þykir	sfg3en	þykja
 Víkverja	nkeþ-s	Víkverji
 sjálfsafgreiðsluafsláttur	nken	sjálfsafgreiðsluafsláttur
@@ -1362,7 +1291,6 @@ skorinn	lkensf	skorinn
 við	ao	við
 nögl	nveo	nögl
 .	.	.
-
 Það	fphen	það
 vantar	sfg3en	vanta
 samkeppnina	nveog	samkeppni
@@ -1378,7 +1306,6 @@ var	sfg3eþ	vera
 á	ao	á
 bensínverðið	nheog	bensínverð
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 vantar	sfg3en	vanta
@@ -1400,7 +1327,6 @@ bensín	nhen	bensín
 tveimur	tfkfþ	tveir
 stöðum	nkfþ	staður
 .	.	.
-
 Hjá	aþ	hjá
 Esso	nxeþ-s	ESSO
 á	aþ	á
@@ -1429,7 +1355,6 @@ með	aþ	með
 fullri	lveþsf	fullur
 þjónustu	nveþ	þjónusta
 .	.	.
-
 Á	aþ	á
 bakaleiðinni	nveþg	bakaleið
 komst	sfm3eþ	koma
@@ -1453,7 +1378,6 @@ en	c	en
 gegn	aþ	gegn
 sjálfsafgreiðslu	nveþ	sjálfsafgreiðsla
 .	.	.
-
 BRIDS	nhen	brids
 -	-	-
 Guðmundur	nken-s	Guðmundur
@@ -1469,7 +1393,6 @@ vekur	sfg3en	vekja
 fjórum	tfkfþ	fjórir
 spöðum	nkfþ	spaði
 .	.	.
-
 Enginn	foken	enginn
 hreyfir	sfg3en	hreyfa
 andmælum	nhfþ	andmæli
@@ -1518,7 +1441,6 @@ myndi	svg3eþ	munu
 lesandinn	nkeng	lesandi
 spila	sng	spila
 ?	?	?
-
 --	--	--
 >	>	>
 Suður	nhen	suður
@@ -1530,7 +1452,6 @@ vekur	sfg3en	vekja
 fjórum	tfkfþ	fjórir
 spöðum	nkfþ	spaði
 .	.	.
-
 Enginn	foken	enginn
 hreyfir	sfg3en	hreyfa
 andmælum	nhfþ	andmæli
@@ -1579,7 +1500,6 @@ myndi	svg3eþ	munu
 lesandinn	nkeng	lesandi
 spila	sng	spila
 ?	?	?
-
 Vörnin	nveng	vörn
 hefur	sfg3en	hafa
 byrjað	ssg	byrja
@@ -1593,7 +1513,6 @@ að	cn	að
 gefast	snm	gefa
 upp	aa	upp
 .	.	.
-
 Hugsanlega	aa	hugsanlega
 er	sfg3en	vera
 hjartaliturinn	nkeng	hjartalitur
@@ -1613,7 +1532,6 @@ taka	sng	taka
 fjóra	tfkfo	fjórir
 slagi	nkfo	slagur
 .	.	.
-
 Þar	aa	þar
 kemur	sfg3en	koma
 tvennt	lhensf	tvennur
@@ -1629,7 +1547,6 @@ tvíspili	nheþ	tvíspil
 eða	c	eða
 DGxx	x	dgxx
 .	.	.
-
 Ef	c	ef
 sú	faven	sá
 er	sfg3en	vera
@@ -1751,7 +1668,6 @@ að	cn	að
 sækja	sng	sækja
 laufásinn	nkeog	laufás
 .	.	.
-
 Þá	aa	þá
 á	sfg3en	eiga
 vörnin	nveng	vörn
@@ -1764,7 +1680,6 @@ tekur	sfg3en	taka
 báða	fokfo	báðir
 hjartaslagina	nkfog	hjartaslagur
 .	.	.
-
 Sú	faven	sá
 vörn	nven	vörn
 er	sfg3en	vera
@@ -1786,7 +1701,6 @@ gæti	svg3eþ	geta
 vel	aa	vel
 fundist	ssm	finna
 .	.	.
-
 Spilið	nheng	spil
 kom	sfg3eþ	koma
 upp	aa	upp
@@ -1812,7 +1726,6 @@ strax	aa	strax
 fjóra	tfkfo	fjórir
 slagi	nkfo	slagur
 .	.	.
-
 BRIDS	nhen	brids
 -	-	-
 Umsjón	nven	umsjón
@@ -1859,7 +1772,6 @@ Alheimstvímenning	nkeo-s	alheimstvímenningur
 laugardeginum	nkeþg	laugardagur
 )	)	)
 .	.	.
-
 --	--	--
 >	>	>
 Sumarbrids	nhen	sumarbrids
@@ -1901,7 +1813,6 @@ Alheimstvímenning	nkeo-s	alheimstvímenningur
 laugardeginum	nkeþg	laugardagur
 )	)	)
 .	.	.
-
 Hér	aa	hér
 má	sfg3en	mega
 sjá	sng	sjá
@@ -1910,7 +1821,6 @@ pör	nhfo	par
 undanfarinna	lhfesf	undanfarinn
 spilakvölda	nhfe	spilakvöld
 .	.	.
-
 Miðvikudagskvöldið	nheog	miðvikudagskvöld
 26.	ta	26.
 maí	nkeo	maí
@@ -1926,14 +1836,12 @@ Sigurjónsdóttir	nven-s	Sigurjónsdóttir
 -	-	-
 Guðni	nken-s	Guðni
 Ingvarss.	as	Ingvarss.
-
 12	ta	12
 Friðrik	nken-s	Friðrik
 Jónsson	nken-s	Jónsson
 -	-	-
 Jóhannes	nken-s	Jóhannes
 Guðmannss.	as	Guðmannss.
-
 9	ta	9
 Fimmtudagskvöldið	nheog	fimmtudagskvöld
 27.	ta	27.
@@ -1941,27 +1849,21 @@ maí	nkeo	maí
 :	:	:
 Hermann	nken-s	Hermann
 Friðr.	as	Friðr.
-
 -	-	-
 Hlynur	nken-s	Hlynur
 Angantýss.	as	Angantýss.
-
 19	ta	19
 Sturlaugur	nken-s	Sturlaugur
 Eyjólfss.	as	Eyjólfss.
-
 -	-	-
 Jón	nken-s	Jón
 Jóhanness.	as	Jóhanness.
-
 18	ta	18
 Hrafnhildur	nven-s	Hrafnhildur
 Skúlad.	as	Skúlad.
-
 -	-	-
 Jörundur	nken-s	Jörundur
 Þórðars.	as	Þórðars.
-
 3	ta	3
 Föstudagskvöldið	nheog	föstudagskvöld
 28.	ta	28.
@@ -1969,26 +1871,21 @@ maí	nkeo	maí
 :	:	:
 Gylfi	nken-s	Gylfi
 Baldurss.	as	Baldurss.
-
 -	-	-
 Guðmundur	nken-s	Guðmundur
 Baldurss.	as	Baldurss.
-
 59	ta	59
 Lilja	nven-s	Lilja
 Kristjánsdóttir	nven-s	Kristjánsdóttir
 -	-	-
 Örlygur	nken-s	Örlygur
 Örlygss.	as	Örlygss.
-
 40	ta	40
 Sigurður	nken-s	Sigurður
 Steingrímss.	as	Steingrímss.
-
 -	-	-
 Gísli	nken-s	Gísli
 Steingr.	as	Steingr.
-
 29	ta	29
 Að	aþ	að
 loknum	lkeþsf	lokinn
@@ -2024,7 +1921,6 @@ og	c	og
 Brynja	nven-s	Brynja
 Dýrborgardóttir	nven-s	Dýrborgardóttir
 .	.	.
-
 Mánudagskvöldið	nheog	mánudagskvöld
 31.	ta	31.
 maí	nkeo	maí
@@ -2038,20 +1934,16 @@ Hafliðason	nken-s	Hafliðason
 Unnar	nken-s	Unnar
 A.	as	A.
 Guðm.	as	Guðm.
-
 -	-	-
 Jón	nken-s	Jón
 Halldór	nken-s	Halldór
 Guðm.	as	Guðm.
-
 9	ta	9
 Magnús	nken-s	Magnús
 Sverriss.	as	Sverriss.
-
 -	-	-
 Eðvarð	nken-s	Eðvarð
 Hallgrímss.	as	Hallgrímss.
-
 5	ta	5
 Júlíus	nken-s	Júlíus
 Snorrason	nken-s	Snorrason
@@ -2076,7 +1968,6 @@ föstudaga	nkfe	föstudagur
 allt	foheo	allur
 sumar	nheo	sumar
 .	.	.
-
 Bridsdeild	nven	bridsdeild
 Félags	nhee-s	Félag
 eldri	lkfevm	gamall
@@ -2093,19 +1984,16 @@ mánud.	as	mánud.
 maí	nkeo	maí
 2004	ta	2004
 .	.	.
-
 Spilað	sþghen	spila
 var	sfg3eþ	vera
 á	aþ	á
 10	ta	10
 borðum	nhfþ	borð
 .	.	.
-
 Meðalskor	nhen	meðalskor
 216	ta	216
 stig	nhfn	stig
 .	.	.
-
 Árangur	nken	árangur
 N-S	x	n-s
 :	:	:
@@ -2114,7 +2002,6 @@ Jónsson	nken-s	Jónsson
 -	-	-
 Þorsteinn	nken-s	Þorsteinn
 Sveinss.	as	Sveinss.
-
 264	ta	264
 Björn	nken-s	Björn
 E.	as	E.
@@ -2143,12 +2030,10 @@ Halla	nven-s	Halla
 -	-	-
 Friðrik	nken-s	Friðrik
 Hermannss.	as	Hermannss.
-
 250	ta	250
 Jóhann	nken-s	Jóhann
 M.	as	M.
 Guðm.	as	Guðm.
-
 -	-	-
 Hjálmar	nken-s	Hjálmar
 Gíslason	nken-s	Gíslason
@@ -2157,37 +2042,30 @@ Tvímenningskeppni	nven	tvímenningskeppni
 spiluð	sþgven	spila
 fimmtud.	as	fimmtud.
 27.5.	ta	27.5.
-
 Spilað	sþghen	spila
 var	sfg3eþ	vera
 á	aþ	á
 9	ta	9
 borðum	nhfþ	borð
 .	.	.
-
 Meðalskor	nhen	meðalskor
 216	ta	216
 stig	nhfn	stig
 .	.	.
-
 Árangur	nken	árangur
 N-S	x	n-s
 :	:	:
 Olíver	nken-s	Olíver
 Kristóf.	as	Kristóf.
-
 -	-	-
 Sæmundur	nken-s	Sæmundur
 Björnss.	as	Björnss.
-
 273	ta	273
 Ólafur	nken-s	Ólafur
 Ingvarss.	as	Ingvarss.
-
 -	-	-
 Ægir	nken-s	Ægir
 Ferdinandss.	as	Ferdinandss.
-
 254	ta	254
 Ragnar	nken-s	Ragnar
 Björnsson	nken-s	Björnsson
@@ -2216,7 +2094,6 @@ Hansen	nven-s	Hansen
 Jón	nken-s	Jón
 Lárusson	nken-s	Lárusson
 233	ta	233
-
 BRIDS	nhen	brids
 -	-	-
 Umsjón	nven	umsjón
@@ -2247,7 +2124,6 @@ laugardaginn	nkeog	laugardagur
 5.	ta	5.
 júní	nkeo	júní
 .	.	.
-
 Ekki	aa	ekki
 er	sfg3en	vera
 nauðsynlegt	lhensf	nauðsynlegur
@@ -2262,7 +2138,6 @@ er	sfg3en	vera
 sjálfstæð	lvensf	sjálfstæður
 keppni	nven	keppni
 .	.	.
-
 --	--	--
 >	>	>
 Alheimstvímenningurinn	nkeng	alheimstvímenningur
@@ -2288,7 +2163,6 @@ laugardaginn	nkeog	laugardagur
 5.	ta	5.
 júní	nkeo	júní
 .	.	.
-
 Ekki	aa	ekki
 er	sfg3en	vera
 nauðsynlegt	lhensf	nauðsynlegur
@@ -2303,7 +2177,6 @@ er	sfg3en	vera
 sjálfstæð	lvensf	sjálfstæður
 keppni	nven	keppni
 .	.	.
-
 Spilað	sþghen	spila
 er	sfg3en	vera
 samtímis	aa	samtímis
@@ -2317,7 +2190,6 @@ fram	aa	fram
 á	aþ	á
 Netinu	nheþgs	Net
 .	.	.
-
 Á	aþ	á
 Íslandi	nheþ-s	Ísland
 fer	sfg3en	fara
@@ -2340,7 +2212,6 @@ og	c	og
 á	aþ	á
 Hornafirði	nkeþ-s	Hornafjörður
 .	.	.
-
 Allir	fokfn	allur
 þátttakendur	nkfn	þátttakandi
 fá	sfg3fn	fá
@@ -2353,7 +2224,6 @@ umfjöllun	nveþ	umfjöllun
 um	ao	um
 þau	fphfo	það
 .	.	.
-
 Í	ao	í
 fyrra	lheovm	fyrri
 spiluðu	sfg3fþ	spila
@@ -2374,7 +2244,6 @@ tæplega	aa	tæplega
 300	ta	300
 bridgefélög	nhfn	bridgefélag
 .	.	.
-
 Sigurvegarar	nkfn	sigurvegari
 föstudagsins	nkeeg	föstudagur
 voru	sfg3fþ	vera
@@ -2399,14 +2268,12 @@ um	ao	um
 73%	tp	73%
 )	)	)
 .	.	.
-
 Bæði	fohfn	báðir
 pörin	nhfng	par
 spiluðu	sfg3fþ	spila
 í	aþ	í
 Bandaríkjunum	nhfþgs	Bandaríki
 .	.	.
-
 Á	aþ	á
 Íslandi	nheþ-s	Ísland
 spiluðu	sfg3fþ	spila
@@ -2418,7 +2285,6 @@ var	sfg3eþ	vera
 ágæt	lvensf	ágætur
 þátttaka	nven	þátttaka
 .	.	.
-
 Spilamennskan	nveng	spilamennska
 hefst	sfm3en	hefja
 kl.	as	kl.
@@ -2426,7 +2292,6 @@ kl.	as	kl.
 á	ao	á
 föstudagskvöldið	nheog	föstudagskvöld
 .	.	.
-
 Hjálpað	sþghen	hjálpa
 er	sfg3en	vera
 til	aa	til
@@ -2438,7 +2303,6 @@ sé	svg3en	vera
 þess	fphee	það
 óskað	sþghen	óska
 .	.	.
-
 Í	aþ	í
 Síðumúla	nkeþ-s	Síðumúli
 verður	sfg3en	verða
@@ -2453,19 +2317,16 @@ að	aþ	að
 föstudagstvímenningnum	nkeþg	föstudagstvímenningur
 loknum	lkeþsf	lokinn
 .	.	.
-
 Laugardagskeppnin	nveng	laugardagskeppni
 hefst	sfm3en	hefja
 kl.	as	kl.
 13	ta	13
 .	.	.
-
 Spilað	sþghen	spila
 er	sfg3en	vera
 um	ao	um
 gullstig	nhfo	gullstig
 .	.	.
-
 Nánari	lvfovm	náinn
 upplýsingar	nvfo	upplýsing
 um	ao	um
@@ -2488,7 +2349,6 @@ Matthíasi	nkeþ-s	Matthías
 8601003	ta	8601003
 )	)	)
 .	.	.
-
 Dregið	sþghen	draga
 í	ao	í
 1.	ta	1.
@@ -2517,7 +2377,6 @@ en	c	en
 undanfarin	lhfosf	undanfarinn
 ár	nhfo	ár
 .	.	.
-
 Á	aþ	á
 kjördæmamótinu	nheþg	kjördæmamót
 var	sfg3eþ	vera
@@ -2536,7 +2395,6 @@ Sigurbjörnsson	nken-s	Sigurbjörnsson
 Kjartan	nken-s	Kjartan
 Ásmundss.	as	Ásmundss.
 .	.	.
-
 -	-	-
 Söluf.	as	söluf.
 garðyrkjumanna	nkfe	garðyrkjumaður
@@ -2546,7 +2404,6 @@ Hákon	nken-s	Hákon
 Sigmundsson	nken-s	Sigmundsson
 Sparisjóður	nken-s	Sparisjóður
 Vestfj.	as	Vestfj.
-
 -	-	-
 Eðvarð	nken-s	Eðvarð
 Hallgrímsson	nken-s	Hallgrímsson
@@ -2564,7 +2421,6 @@ einnig	aa	einnig
 2.	ta	2.
 umferð	nveþ	umferð
 .	.	.
-
 Geta	sfg3fn	geta
 þeir	fakfn	sá
 sem	ct	sem
@@ -2583,7 +2439,6 @@ ef	c	ef
 sýnist	sfm3en	sýna
 svo	aa	svo
 .	.	.
-
 Í	aþ	í
 2.	ta	2.
 umferð	nveþ	umferð
@@ -2655,7 +2510,6 @@ garðyrkjumanna	nkfe	garðyrkjumaður
 -	-	-
 Aðalsteinn	nken-s	Aðalsteinn
 Sveins.	as	Sveins.
-
 Sp.	as	Sp.
 Siglufjarðar	nkee-s	Siglufjörður
 -	-	-
@@ -2672,19 +2526,16 @@ Skúladóttir	nven-s	Skúladóttir
 -	-	-
 Samskipti	nhen-s	samskipti
 ehf.	as	ehf.
-
 Solway	e	Solway
 -	-	-
 Georg	nken-s	Georg
 og	c	og
 félagar	nkfn	félagi
 Suðurnesjasv.	as	Suðurnesjav.
-
 -	-	-
 Haraldur	nken-s	Haraldur
 Þ.	as	Þ.
 Gunnlss.	as	Gunnlss.
-
 Síðasti	lkenve	síðari
 spiladagur	nken	spiladagur
 hverrar	fovee	hver
@@ -2695,25 +2546,21 @@ umf.	as	umf.
 sunnudagur	nken	sunnudagur
 20.	ta	20.
 júní	nken	júní
-
 2.	ta	2.
 umf.	as	umf.
 sunnudagur	nken	sunnudagur
 18.	ta	18.
 júlí	nken	júlí
-
 3.	ta	3.
 umf.	as	umf.
 sunnudagur	nken	sunnudagur
 15.	ta	15.
 ágúst	nken	ágúst
-
 4.	ta	4.
 umf.	as	umf.
 sunnudagur	nken	sunnudagur
 12.	ta	12.
 sept.	as	sept.
-
 Undanúrslit	nhfn	undanúrslit
 og	c	og
 úrslit	nhfn	úrslit
@@ -2723,7 +2570,6 @@ spiluð	sþghfn	spila
 og	c	og
 26.	ta	26.
 sept.	as	sept.
-
 Fyrirliðar	nkfn	fyrirliði
 eru	sfg3fn	vera
 minntir	sþgkfn	minna
@@ -2736,7 +2582,6 @@ fljótt	aa	fljótt
 og	c	og
 vel	aa	vel
 .	.	.
-
 Frá	aþ	frá
 eldri	lkfþvm	gamall
 borgurum	nkfþ	borgari
@@ -2752,7 +2597,6 @@ maí	nkeo	maí
 sjö	tfhfþ	sjö
 borðum	nhfþ	borð
 .	.	.
-
 Úrslit	nhfn	úrslit
 urðu	sfg3fþ	verða
 þessi	fahfn	þessi
@@ -2766,7 +2610,6 @@ Bjarnason	nken-s	Bjarnason
 Þorvarður	nken-s	Þorvarður
 S.	as	S.
 Guðm.	as	Guðm.
-
 201	ta	201
 Ásgeir	nken-s	Ásgeir
 Sölvason	nken-s	Sölvason
@@ -2788,22 +2631,18 @@ Hermannsson	nken-s	Hermannsson
 -	-	-
 Ólafur	nken-s	Ólafur
 Gíslas.	as	Gíslas.
-
 212	ta	212
 Árni	nken-s	Árni
 Guðmundsson	nken-s	Guðmundsson
 -	-	-
 Hera	nven-s	Hera
 Guðjónsd.	as	Guðjónsd.
-
 191	ta	191
 Sófus	nken-s	Sófus
 Berthels.	as	Berthels.
-
 -	-	-
 Haukur	nken-s	Haukur
 Guðmundss.	as	Guðmannss.
-
 178	ta	178
 Úrslit	nhfn	úrslit
 í	aþ	í
@@ -2813,28 +2652,23 @@ tvímenningskeppni	nveþ	tvímenningskeppni
 júní	nkeo	júní
 2004	ta	2004
 .	.	.
-
 N	nhen	N
 /	/	/
 S	x	s
 Bragi	nken-s	Bragi
 Björnss.	as	Björnss.
-
 _	_	_
 Auðunn	nken-s	Auðunn
 Guðmundss.	as	Guðmannss.
-
 180	ta	180
 Einar	nken-s	Einar
 Péturss.	as	Péturss.
-
 _	_	_
 Ólafur	nken-s	Ólafur
 Gíslason	nken-s	Gíslason
 177	ta	177
 Jóna	nven-s	Jóna
 Kristinsd.	as	Kristinsd.
-
 _	_	_
 Sveinn	nken-s	Sveinn
 Jensson	nken-s	Jensson
@@ -2853,7 +2687,6 @@ Berthelsen	nken-s	Berthelsen
 _	_	_
 Haukur	nken-s	Haukur
 Guðmundss.	as	Guðmundss.
-
 186	ta	186
 Jón	nken-s	Jón
 Ól.	as	Ól.
@@ -2861,7 +2694,6 @@ Bjarnas.	as	Bjarnas.
 _	_	_
 Ásmundur	nken-s	Ásmundur
 Þórarinss.	as	Þórarinss.
-
 185	ta	185
 Aðalfundur	nken	aðalfundur
 Bridsfélags	nhee-s	bridsfélag
@@ -2881,7 +2713,6 @@ Bridssambandsins	nheegs	bridssamband
 Síðumúla	nkeþ-s	Síðumúli
 37	ta	37
 .	.	.
-
 Fundurinn	nkeng	fundur
 hefst	sfm3en	hefja
 klukkan	nveng	klukka
@@ -2901,7 +2732,6 @@ byrjar	sfg3en	byrja
 klukkan	nveng	klukka
 19:00	ta	19:00
 .	.	.
-
 Á	aþ	á
 dagskrá	nveþ	dagskrá
 fundarins	nkeeg	fundur
@@ -2913,7 +2743,6 @@ kosning	nven	kosning
 nýrrar	lveesf	nýr
 stjórnar	nvee	stjórn
 .	.	.
-
 Félagsmenn	nkfn	félagsmaður
 eru	sfg3fn	vera
 hvattir	sþgkfn	hvetja
@@ -2922,7 +2751,6 @@ til	ae	til
 að	cn	að
 mæta	sng	mæta
 .	.	.
-
 Gólfþjónusta	nven-s	gólfþjónusta
 Íslands	nhee-s	Ísland
 sérhæfir	sfg3en	sérhæfa
@@ -2972,7 +2800,6 @@ eitthvað	fohen	einhver
 sé	svg3en	vera
 nefnt	sþghen	nefna
 .	.	.
-
 Erlendur	nken-s	Erlendur
 kvaðst	sfm3eþ	kveða
 hafa	sng	hafa
@@ -2998,7 +2825,6 @@ en	c	en
 einmitt	aa	einmitt
 nú	aa	nú
 .	.	.
-
 Erlendur	nken-s	Erlendur
 var	sfg3eþ	vera
 við	ao	við
@@ -3030,7 +2856,6 @@ Gólfþjónustunnar	nveegs	gólfþjónusta
 væru	svg3fþ	vera
 fimm	tfkfn	fimm
 .	.	.
-
 Með	aþ	með
 skýrri	lveþsf	skýr
 verkaskiptingu	nveþ	verkaskipting
@@ -3058,7 +2883,6 @@ parketslípun	nveþ	parketslípun
 og	c	og
 yfirborðsmeðhöndlun	nveþ	yfirborðsmeðhöndlun
 .	.	.
-
 Parketslípun	nven	parketslípun
 og	c	og
 yfirborðsmeðhöndlun	nven	yfirborðsmeðhöndlun
@@ -3076,7 +2900,6 @@ til	aa	til
 15	ta	15
 árum	nhfþ	ár
 .	.	.
-
 Oftast	aae	oft
 væri	svg3eþ	vera
 þó	aa	þó
@@ -3095,7 +2918,6 @@ slípa	sng	slípa
 það	fpheo	það
 upp	aa	upp
 .	.	.
-
 Við	ao	við
 slípun	nveo	slípun
 á	aþ	á
@@ -3113,7 +2935,6 @@ notaðar	sþgvfn	nota
 stórvirkar	lvfnsf	stórvirkur
 slípivélar	nvfn	slípivél
 .	.	.
-
 Notkun	nven	notkun
 slíkra	fbvfe	slíkur
 véla	nvfe	vél
@@ -3130,7 +2951,6 @@ skemmdum	nvfþ	skemmd
 á	aþ	á
 gólfinu	nheþg	gólf
 .	.	.
-
 Við	fp1fn	ég
 hjá	aþ	hjá
 Gólfþjónustunni	nveþgs	gólfþjónusta
@@ -3153,7 +2973,6 @@ fallegt	lhensf	fallegur
 sagði	sfg3eþ	segja
 Erlendur	nken-s	Erlendur
 .	.	.
-
 Hann	fpken	hann
 tók	sfg3eþ	taka
 ennfremur	aa	ennfremur
@@ -3170,7 +2989,6 @@ og	c	og
 bæsun	nveo	bæsun
 parketgólfa	nhfe	parketgólf
 .	.	.
-
 Olíuborið	lhensf	olíuborinn
 parket	nhen	parket
 er	sfg3en	vera
@@ -3186,7 +3004,6 @@ viðkvæmara	lhenvm	viðkvæmur
 fyrir	aþ	fyrir
 rispum	nvfþ	rispa
 .	.	.
-
 Engu	foheþ	enginn
 að	aa	að
 síður	aam	síður
@@ -3208,7 +3025,6 @@ halda	sng	halda
 gólfum	nhfþ	gólf
 við	aa	við
 .	.	.
-
 Hvað	fshen	hver
 varðar	sfg3en	varða
 parketlökkun	nveo	parketlökkun
@@ -3233,7 +3049,6 @@ olíulakk	nhen	olíulakk
 og	c	og
 þynnislakk	nhen	þynnislakk
 .	.	.
-
 Vatnsleysanlega	lhenvf	vatnsleysanlegur
 lakkið	nheng	lakk
 væri	svg3eþ	vera
@@ -3253,7 +3068,6 @@ verða	sng	verða
 alls	fohee	allur
 ráðandi	lhenof	ráðandi
 .	.	.
-
 Í	aþ	í
 þynnislakki	nheþ	þynnislakk
 væru	svg3fþ	vera
@@ -3268,7 +3082,6 @@ notað	sþghen	nota
 á	ao	á
 parketgólf	nheo	parketgólf
 .	.	.
-
 Erlendur	nken-s	Erlendur
 benti	sfg3eþ	benda
 ennfremur	aa	ennfremur
@@ -3285,7 +3098,6 @@ að	cn	að
 bæsa	sng	bæsa
 það	fpheo	það
 .	.	.
-
 Eik	nveo	eik
 er	sfg3en	vera
 til	ae	til
@@ -3331,7 +3143,6 @@ fljótandi	lheoof	fljótandi
 eða	c	eða
 gegnheilt	lheosf	gegnheill
 .	.	.
-
 Lagning	nven	lagning
 og	c	og
 frágangur	nken	frágangur
@@ -3345,7 +3156,6 @@ krefst	sfm3en	krefja
 og	c	og
 reynslu	nvee	reynsla
 .	.	.
-
 Við	fp1fn	ég
 bjóðum	sfg1fn	bjóða
 upp	aa	upp
@@ -3376,7 +3186,6 @@ framtíðar	nvee	framtíð
 sagði	sfg3eþ	segja
 Erlendur	nken-s	Erlendur
 .	.	.
-
 Erlendur	nken-s	Erlendur
 sagði	sfg3eþ	segja
 að	c	að
@@ -3404,7 +3213,6 @@ dæmis	nhee	dæmi
 varðandi	slg	varða
 gólfbón	nheo	gólfbón
 .	.	.
-
 Bónun	nven	bónun
 er	sfg3en	vera
 verk	nhen	verk
@@ -3417,7 +3225,6 @@ rétt	aa	rétt
 sagði	sfg3eþ	segja
 hann	fpken	hann
 .	.	.
-
 Eigi	svg3en	eiga
 gólfið	nheng	gólf
 að	cn	að
@@ -3436,7 +3243,6 @@ sé	svg3en	vera
 rétt	aa	rétt
 framkvæmd	sþgven	framkvæma
 .	.	.
-
 Ákveða	sng	ákveða
 þarf	sfg3en	þurfa
 hvort	c	hvort
@@ -3457,7 +3263,6 @@ en	c	en
 bónað	sþghen	bóna
 er	sfg3en	vera
 .	.	.
-
 Erlendur	nken-s	Erlendur
 benti	sfg3eþ	benda
 ennfremur	aa	ennfremur
@@ -3499,7 +3304,6 @@ ekki	aa	ekki
 dúknum	nkeþg	dúkur
 sjálfum	fbkeþ	sjálfur
 .	.	.
-
 Það	fphen	það
 færi	svg3eþ	fara
 svo	aa	svo
@@ -3513,7 +3317,6 @@ efni	nhfn	efni
 væru	svg3fþ	vera
 notuð	sþghfn	nota
 .	.	.
-
 Erlendur	nken-s	Erlendur
 sagði	sfg3eþ	segja
 einnig	aa	einnig
@@ -3548,7 +3351,6 @@ með	aþ	með
 röngum	lhfþsf	rangur
 hreinsiefnum	nhfþ	hreinsiefni
 .	.	.
-
 Hann	fpken	hann
 nefndi	sfg3eþ	nefna
 ennfremur	aa	ennfremur
@@ -3568,7 +3370,6 @@ væri	svg3eþ	vera
 með	aþ	með
 háhraðadiskavélum	nvfþ	háhraðadiskavél
 .	.	.
-
 Viðhaldsbónun	nveo	viðhaldsbónun
 væri	svg3eþ	vera
 hægt	lhensf	hægur
@@ -3589,7 +3390,6 @@ og	c	og
 þornar	sfg3en	þorna
 strax	aa	strax
 .	.	.
-
 Mikilvægt	lhensf	mikilvægur
 væri	svg3eþ	vera
 að	cn	að
@@ -3606,7 +3406,6 @@ gólfinu	nheþg	gólf
 alltaf	aa	alltaf
 fallegu	lheþsf	fallegur
 .	.	.
-
 Hvað	fshen	hver
 varðaði	sfg3eþ	varða
 marmaraslípun	nveo	marmaraslípun
@@ -3636,7 +3435,6 @@ náttúrulegu	lheþsf	náttúrulegur
 útliti	nheþ	útlit
 marmarans	nkeeg	marmari
 .	.	.
-
 Með	aþ	með
 réttu	lheþsf	réttur
 viðhaldi	nheþ	viðhald
@@ -3653,7 +3451,6 @@ hálku-	nveo	hálkuvörn
 og	c	og
 blettavörn	nveo	blettavörn
 .	.	.
-
 Við	ao	við
 þetta	faheo	þessi
 má	sfg3en	mega
@@ -3688,7 +3485,6 @@ tækjum	nhfþ	tæki
 og	c	og
 efnum	nhfþ	efni
 .	.	.
-
 Þá	aa	þá
 eru	sfg3fn	vera
 ótaldar	lvfnsf	ótalinn
@@ -3704,9 +3500,7 @@ steingólfa	nhfe	steingólf
 og	c	og
 korkgólfa	nhfe	korkgólf
 .	.	.
-
 svg@mbl.is	v	svg@mbl.is
-
 Fyrstu	lhfnve	fyrstur
 götuljósin	nhfng	götuljós
 í	aþ	í
@@ -3720,7 +3514,6 @@ sett	sþghfn	setja
 upp	aa	upp
 1876	ta	1876
 .	.	.
-
 Þessi	fahfn	þessi
 ljósker	nhfn	ljósker
 voru	sfg3fþ	vera
@@ -3731,7 +3524,6 @@ helstu	lvfove	heldri
 umferðargötur	nvfo	umferðargata
 bæjarins	nkeeg	bær
 .	.	.
-
 Fyrsta	lhenve	fyrstur
 götuljóskerið	nheng	götuljósker
 var	sfg3eþ	vera
@@ -3747,7 +3539,6 @@ kveikt	sþghen	kveikja
 2.	ta	2.
 september	nkeo	september
 .	.	.
-
 Hafnarsjóður	nken-s	Hafnarsjóður
 veitti	sfg3eþ	veita
 bæjarsjóði	nkeþ	bæjarsjóður
@@ -3766,7 +3557,6 @@ lýsa	sng	lýsa
 upp	aa	upp
 bæinn	nkeog	bær
 .	.	.
-
 Sérstakir	lkfnsf	sérstakur
 menn	nkfn	maður
 voru	sfg3fþ	vera
@@ -3794,7 +3584,6 @@ slökktu	sfg3fþ	slökkva
 á	aþ	á
 þeim	fphfþ	það
 .	.	.
-
 Þeir	fpkfn	hann
 áttu	sfg3fþ	eiga
 líka	aa	líka
@@ -3808,14 +3597,12 @@ kveikja	sng	kveikja
 á	aþ	á
 ljósunum	nhfþg	ljós
 .	.	.
-
 Ávallt	aa	ávallt
 var	sfg3eþ	vera
 slökkt	sþghen	slökkva
 á	aþ	á
 miðnætti	nheþ	miðnætti
 .	.	.
-
 Hjá	aþ	hjá
 fasteignasölunni	nveþg	fasteignasala
 Gimli	nheþ-s	Gimli
@@ -3838,7 +3625,6 @@ og	c	og
 móti	aþ	móti
 Hraunborgum	nvfþ-s	Hraunborg
 .	.	.
-
 Landið	nheng	land
 er	sfg3en	vera
 í	aþ	í
@@ -3856,7 +3642,6 @@ fjarlægð	nveþ	fjarlægð
 frá	aþ	frá
 Selfossi	nkeþ-s	Selfoss
 .	.	.
-
 Verð	nhen	verð
 er	sfg3en	vera
 1,8	ta	1,8
@@ -3879,7 +3664,6 @@ ha.	as	ha.
 2,20	ta	2,20
 ha	x	HA
 .	.	.
-
 Heimilt	lhensf	heimill
 er	sfg3en	vera
 að	cn	að
@@ -3892,7 +3676,6 @@ heilsárshús	nheo	heilsárshús
 á	aþ	á
 lóð	nveþ	lóð
 .	.	.
-
 1	ta	1
 Þetta	fahen	þessi
 er	sfg3en	vera
@@ -3919,7 +3702,6 @@ Svavarsson	nken-s	Svavarsson
 hjá	aþ	hjá
 Gimli	nheþ-s	Gimli
 .	.	.
-
 Sparisjóður	nken	sparisjóður
 Reykjavíkur	nvee-s	Reykjavík
 og	c	og
@@ -3943,7 +3725,6 @@ af	aþ	af
 endanlegum	lkeþsf	endanlegur
 byggingarkostnaði	nkeþ	byggingarkostnaður
 .	.	.
-
 Landeigandinn	nkeng	landeigandi
 tekur	sfg3en	taka
 að	aþ	að
@@ -3953,7 +3734,6 @@ jarðvinnu	nveo	jarðvinna
 á	aþ	á
 lóðunum	nvfþg	lóð
 .	.	.
-
 Þegar	c	þegar
 yfirborð	nhen	yfirborð
 viðar	nkee	viður
@@ -3975,7 +3755,6 @@ vera	sng	vera
 vel	aa	vel
 þurr	lkensf	þurr
 .	.	.
-
 *	*	*
 Það	fphen	það
 að	cn	að
@@ -3992,7 +3771,6 @@ margfaldar	sfg3en	margfalda
 endingu	nveo	ending
 viðarvarnar	nvee	viðarvörn
 .	.	.
-
 *	*	*
 Sé	svg3en	vera
 viðurinn	nkeng	viður
@@ -4013,7 +3791,6 @@ að	cn	að
 fá	sng	fá
 burt	aa	burt
 .	.	.
-
 *	*	*
 Best	lhense	góður
 er	sfg3en	vera
@@ -4049,7 +3826,6 @@ með	aþ	með
 þekjandi	lhfþof	þekjandi
 efnum	nhfþ	efni
 .	.	.
-
 *	*	*
 Á	ao	á
 palla	nkfo	pallur
@@ -4058,7 +3834,6 @@ að	cn	að
 bera	sng	bera
 pallaolíu	nveo	pallaolía
 .	.	.
-
 Olían	nveng	olía
 er	sfg3en	vera
 feitari	lvenvm	feitur
@@ -4072,7 +3847,6 @@ betur	aam	vel
 og	c	og
 veður	nheo	veður
 .	.	.
-
 NÚ	aa	nú
 ER	sfg3en	vera
 róið	sþghen	róa
@@ -4099,7 +3873,6 @@ ekki	aa	ekki
 það	fahen	sá
 hæsta	lhenve	hár
 .	.	.
-
 Í	aþ	í
 blokkinni	nveþg	blokk
 eiga	sfg3fn	eiga
@@ -4121,7 +3894,6 @@ einni	tfveþ	einn
 eða	c	eða
 tveimur	tfvfþ	tveir
 .	.	.
-
 Þessi	faven	þessi
 þrí-eina-blokk	nven	þrí-eina-blokk
 er	sfg3en	vera
@@ -4138,7 +3910,6 @@ standa	sfg3fn	standa
 frammi	aa	frammi
 fyrir	aa	fyrir
 .	.	.
-
 Annar	foken	annar
 er	sfg3en	vera
 lífleysi	nhen	lífleysi
@@ -4146,7 +3917,6 @@ miðbæjarins	nkeeg	miðbær
 og	c	og
 ljótleiki	nken	ljótleiki
 .	.	.
-
 Hinn	faken	hinn
 er	sfg3en	vera
 mikill	lkensf	mikill
@@ -4162,7 +3932,6 @@ byggðar	nvee	byggð
 á	aþ	á
 Akureyri	nveþ-s	Akureyri
 .	.	.
-
 Ég	fp1en	ég
 ætla	sfg1en	ætla
 ekki	aa	ekki
@@ -4173,7 +3942,6 @@ um	ao	um
 forsendur	nvfo	forsenda
 umræðunnar	nveeg	umræða
 .	.	.
-
 Gefum	svg1fn	gefa
 okkur	fp1fþ	ég
 að	c	að
@@ -4190,7 +3958,6 @@ beint	aa	beint
 í	ao	í
 lausnina	nveog	lausn
 .	.	.
-
 Er	sfg3en	vera
 það	fphen	það
 sjálfgefið	lhensf	sjálfgefinn
@@ -4212,7 +3979,6 @@ leysa	sng	leysa
 umræddan	lkeosf	umræddur
 vanda	nkeo	vandi
 ?	?	?
-
 Er	sfg3en	vera
 endilega	aa	endilega
 víst	lhensf	vís
@@ -4227,7 +3993,6 @@ gera	sng	gera
 miðbæinn	nkeog	miðbær
 fallegan	lkeosf	fallegur
 ?	?	?
-
 Er	sfg3en	vera
 sjálfgefið	lhensf	sjálfgefinn
 að	c	að
@@ -4241,10 +4006,8 @@ kaupa	sng	kaupa
 í	aþ	í
 blokkunum	nvfþg	blokk
 ?	?	?
-
 1	ta	1
 .	.	.
-
 Kannski	aa	kannski
 verða	sfg3fn	verða
 það	fphen	það
@@ -4268,7 +4031,6 @@ flykkjast	sfm3fn	flykkja
 í	ao	í
 miðbæjarblokkina	nveog	miðbæjarblokk
 .	.	.
-
 Ef	c	ef
 það	fphen	það
 gerist	sfm3en	gera
@@ -4282,7 +4044,6 @@ um	ao	um
 sjálft	fbheo	sjálfur
 sig	fpheo	sig
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 mun	sfg3en	munu
@@ -4296,10 +4057,8 @@ síst	aae	síður
 eftir	aþ	eftir
 miðnætti	nheþ	miðnætti
 .	.	.
-
 2	ta	2
 .	.	.
-
 Segjum	svg1fn	segja
 að	c	að
 blokkin	nveng	blokk
@@ -4307,7 +4066,6 @@ fyllist	svm3en	fylla
 af	aþ	af
 bæjarbúum	nkfþ	bæjarbúi
 .	.	.
-
 Markmiðinu	nheþg	markmið
 um	ao	um
 þéttingu	nveo	þétting
@@ -4333,7 +4091,6 @@ ella	aa	ella
 hefði	svg3eþ	hafa
 orðið	ssg	verða
 .	.	.
-
 Kannski	aa	kannski
 mun	sfg3en	munu
 þetta	fahen	þessi
@@ -4349,7 +4106,6 @@ engan	fokeo	enginn
 veginn	nkeog	vegur
 víst	lhensf	vís
 .	.	.
-
 Hinn	faken	hinn
 möguleikinn	nkeng	möguleiki
 í	aþ	í
@@ -4377,10 +4133,8 @@ sækja	sng	sækja
 í	ao	í
 bæ	nkeo	bær
 .	.	.
-
 3	ta	3
 .	.	.
-
 Ég	fp1en	ég
 sé	sfg1en	sjá
 fyrir	aa	fyrir
@@ -4423,7 +4177,6 @@ bíó	nhfn	bíó
 og	c	og
 sjoppur	nvfn	sjoppa
 .	.	.
-
 Að	aþ	að
 vísu	lheþsf	vís
 myndu	svg3fþ	munu
@@ -4446,7 +4199,6 @@ frá	aþ	frá
 þessum	fakfþ	þessi
 stöðum	nkfþ	staður
 .	.	.
-
 Kaupmenn	nkfn	kaupmaður
 í	aþ	í
 miðbænum	nkeþg	miðbær
@@ -4470,7 +4222,6 @@ sér	fpkfþ	sig
 að	aþ	að
 öðru	foheþ	annar
 .	.	.
-
 Miðbær	nken	miðbær
 Akureyrar	nvee-s	Akureyri
 yrði	svg3eþ	verða
@@ -4486,10 +4237,8 @@ risablokkinni	nveþg	risablokk
 á	aþ	á
 Sjallareitnum	nkeþgs	Sjallareitur
 .	.	.
-
 4	ta	4
 .	.	.
-
 Menn	nkfn	maður
 geta	sfg3fn	geta
 deilt	ssg	deila
@@ -4513,7 +4262,6 @@ hefur	sfg3en	hafa
 verið	ssg	vera
 byggð	sþgven	byggja
 .	.	.
-
 En	c	en
 af	aþ	af
 hverju	fsheþ	hver
@@ -4524,7 +4272,6 @@ leggja	sng	leggja
 slíka	fbveo	slíkur
 tilraunastarfsemi	nveo	tilraunastarfsemi
 ?	?	?
-
 Akureyri	nven-s	Akureyri
 á	aþ	á
 sér	fpveþ	sig
@@ -4539,7 +4286,6 @@ að	cn	að
 ganga	sng	ganga
 gegn	aa	gegn
 .	.	.
-
 Við	fp1fn	ég
 eigum	sfg1fn	eiga
 að	cn	að
@@ -4565,7 +4311,6 @@ vegna	ae	vegna
 náttúrufegurðar	nvee	náttúrufegurð
 hans	fpkee	hann
 .	.	.
-
 Við	fp1fn	ég
 eigum	sfg1fn	eiga
 ekki	aa	ekki
@@ -4602,7 +4347,6 @@ og	c	og
 Þórunnar	nvee-s	Þórunn
 hyrnu	nvee	hyrna
 .	.	.
-
 Við	fp1fn	ég
 eigum	sfg1fn	eiga
 heldur	aam	heldur
@@ -4623,7 +4367,6 @@ stefnan	nveng	stefna
 á	aþ	á
 Sjallareitnum	nkeþgs	Sjallareitur
 .	.	.
-
 Enn	aa	enn
 og	c	og
 aftur	aa	aftur
@@ -4638,7 +4381,6 @@ og	c	og
 sjálfum	fbhfþ	sjálfur
 okkur	fp1fþ	ég
 .	.	.
-
 Já	au	já
 ,	,	,
 ég	fp1en	ég
@@ -4686,7 +4428,6 @@ hún	fpven	hún
 stendur	sfg3en	standa
 yfir	aa	yfir
 .	.	.
-
 Þessi	faven	þessi
 framkoma	nven	framkoma
 bæjarfulltrúanna	nkfeg	bæjarfulltrúi
@@ -4705,7 +4446,6 @@ að	aþ	að
 hálfgerðum	lkfþsf	hálfgerður
 kjánum	nkfþ	kjáni
 .	.	.
-
 Sama	fbhee	sami
 virðingarleysis	nhee	virðingarleysi
 gætir	sfg3en	gæta
@@ -4733,12 +4473,10 @@ og	c	og
 á	aþ	á
 Sjallareitnum	nkeþgs	Sjallareitur
 .	.	.
-
 Höfundur	nken	höfundur
 er	sfg3en	vera
 sagnfræðingur	nken	sagnfræðingur
 .	.	.
-
 Nú	aa	nú
 er	sfg3en	vera
 tíminn	nkeng	tími
@@ -4763,7 +4501,6 @@ skipuleggja	sng	skipuleggja
 gróðursetningu	nveo	gróðursetning
 sumarsins	nheeg	sumar
 .	.	.
-
 Ef	c	ef
 jarðraki	nken	jarðraki
 er	sfg3en	vera
@@ -4787,7 +4524,6 @@ og	c	og
 er	sfg3en	vera
 harðgerður	lkensf	harðgerður
 .	.	.
-
 Hann	fpken	hann
 hentar	sfg3en	henta
 vel	aa	vel
@@ -4798,7 +4534,6 @@ er	sfg3en	vera
 á	aþ	á
 skjólbeltum	nhfþ	skjólbelti
 .	.	.
-
 Þegar	c	þegar
 gott	lhensf	góður
 skjól	nhen	skjól
@@ -4816,7 +4551,6 @@ inn	aa	inn
 milli	ae	milli
 víðisins	nheeg	víði
 .	.	.
-
 Sitkagreni	nhen	sitkagreni
 þrífst	sfm3en	þrífa
 vel	aa	vel
@@ -4830,7 +4564,6 @@ fljótt	aa	fljótt
 hávaxinn	lkeosf	hávaxinn
 skóg	nkeo	skógur
 .	.	.
-
 Sitkagreni	nhen	sitkagreni
 úr	aþ	úr
 bakka	nkeþ	bakki
@@ -4850,7 +4583,6 @@ hátt	aa	hátt
 tíu	tfhfþ	tíu
 árum	nhfþ	ár
 .	.	.
-
 Sitkagreni	nhen	sitkagreni
 þolir	sfg3en	þola
 vel	aa	vel
@@ -4859,7 +4591,6 @@ vera	sng	vera
 við	ao	við
 sjó	nkeo	sjór
 .	.	.
-
 Reyktur	lkensf	reyktur
 fiskur	nken	fiskur
 *	*	*
@@ -4874,14 +4605,12 @@ leggið	sbg2fn	leggja
 á	ao	á
 álpappír	nkeo	álpappír
 .	.	.
-
 Eitt	tfheo	einn
 stykki	nheo	stykki
 í	ao	í
 hvern	fokeo	hver
 pakka	nkeo	pakki
 .	.	.
-
 Setjið	sbg2fn	setja
 nokkra	fokfo	nokkur
 tómatbita	nkfo	tómatbiti
@@ -4897,7 +4626,6 @@ smjör	nheo	smjör
 hvern	fokeo	hver
 pakka	nkeo	pakki
 .	.	.
-
 Lokið	sbg2fn	loka
 þeim	fpkfþ	hann
 síðan	aa	síðan
@@ -4914,7 +4642,6 @@ til	aa	til
 30	ta	30
 mínútur	nvfo	mínúta
 .	.	.
-
 Berið	sbg2fn	bera
 það	fpheo	það
 síðan	aa	síðan
@@ -4924,7 +4651,6 @@ með	aþ	með
 nýsoðnum	lvfþsf	nýsoðinn
 kartöflum	nvfþ	kartafla
 .	.	.
-
 Kjötbúðingur	nken	kjötbúðingur
 *	*	*
 Skerið	sbg2fn	skera
@@ -4940,7 +4666,6 @@ himnuna	nveog	himna
 á	aþ	á
 þeim	fpvfþ	hún
 .	.	.
-
 Steikið	sbg2fn	steikja
 sneiðarnar	nvfog	sneið
 síðan	aa	síðan
@@ -4951,7 +4676,6 @@ smjöri	nheþ	smjör
 á	aþ	á
 pönnu	nveþ	panna
 .	.	.
-
 Þá	aa	þá
 myndast	sfm3fn	mynda
 eins	fokee	einn
@@ -4976,7 +4700,6 @@ og	c	og
 öðru	foheþ	annar
 matarkyns	nhee	matarkyn
 .	.	.
-
 Næturbiti	nken	næturbiti
 *	*	*
 Brúnið	sbg2fn	brúna
@@ -4995,6 +4718,5 @@ franskbrauðsneiðar	nvfo	franskbrauðsneið
 með	aþ	með
 tómötum	nkfþ	tómatur
 .	.	.
-
 Stráið	sbg2fn	strá
 yfir	aa	yfir

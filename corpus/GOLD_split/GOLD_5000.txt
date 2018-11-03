@@ -14,7 +14,6 @@ hafi	svg3en	hafa
 meðferð	nveþ	meðferð
 málsins	nheeg	mál
 .	.	.
-
 Einnig	aa	einnig
 sé	svg3en	vera
 vakin	sþgven	vekja
@@ -46,7 +45,6 @@ a.m.k.	as	a.m.k.
 fyrri	lhfþvm	fyrri
 stigum	nhfþ	stig
 .	.	.
-
 Af	aþ	af
 hálfu	nveþ	hálfa
 stefnda	lkeevf	stefndur
@@ -73,7 +71,6 @@ unnið	sþghen	vinna
 var	sfg3eþ	vera
 með	aa	með
 .	.	.
-
 Kennarinn	nkeng	kennari
 hafi	svg3en	hafa
 varað	ssg	vara
@@ -96,7 +93,6 @@ um	ao	um
 blöndun	nveo	blöndun
 þeirra	fphfe	það
 .	.	.
-
 Hafi	svg3en	hafa
 stefnandi	nken	stefnandi
 raunar	aa	raunar
@@ -107,7 +103,6 @@ fyrri	lhfþvm	fyrri
 samskiptum	nhfþ	samskipti
 aðila	nkfe	aðili
 .	.	.
-
 Stefnandi	nken	stefnandi
 hafi	svg3en	hafa
 hins	fakee	hinn
@@ -118,7 +113,6 @@ að	aþ	að
 þessum	favfþ	þessi
 leiðbeiningum	nvfþ	leiðbeining
 .	.	.
-
 Óhjákvæmilegt	lhensf	óhjákvæmilegur
 sé	svg3en	vera
 í	aþ	í
@@ -141,7 +135,6 @@ krefjist	svm3fn	krefja
 sérstakrar	lveesf	sérstakur
 meðhöndlunar	nvee	meðhöndlun
 .	.	.
-
 Stefnandi	nken	stefnandi
 hafi	svg3en	hafa
 fengið	ssg	fá
@@ -167,7 +160,6 @@ hennar	fpvee	hún
 og	c	og
 áhættu	nveo	áhætta
 .	.	.
-
 Stefnandi	nken	stefnandi
 hafi	svg3en	hafa
 meðhöndlað	ssg	meðhöndla
@@ -193,7 +185,6 @@ og	c	og
 ekki	aa	ekki
 stefnda	lkeevf	stefndur
 .	.	.
-
 Stefndi	lkenvf	stefndur
 vísar	sfg3en	vísa
 jafnframt	aa	jafnframt
@@ -246,7 +237,6 @@ eftir	aþ	eftir
 atvikum	nhfþ	atvik
 bótarétti	nkeþ	bótaréttur
 .	.	.
-
 Stefndi	lkenvf	stefndur
 telur	sfg3en	telja
 orsakatengsl	nhfo	orsakatengsl
@@ -273,7 +263,6 @@ Björns	nkee-s	Björn
 Rúnars	nkee-s	Rúnar
 Lúðvíkssonar	nkee-s	Lúðvíksson
 .	.	.
-
 Verði	svg3en	verða
 af	aþ	af
 þessum	favfþ	þessi
@@ -285,7 +274,6 @@ hvers	fokee	hver
 konar	nkee	konar
 bótaskyldu	nveþ	bótaskylda
 .	.	.
-
 Stefndi	lkenvf	stefndur
 vísar	sfg3en	vísa
 jafnframt	aa	jafnframt
@@ -313,7 +301,6 @@ að	cn	að
 hafa	sng	hafa
 haft	ssg	hafa
 .	.	.
-
 Telur	sfg3en	telja
 stefndi	lkenvf	stefndur
 að	c	að
@@ -334,7 +321,6 @@ sönnunarskorti	nkeþ	sönnunarskortur
 þessu	faheþ	þessi
 tilliti	nheþ	tillit
 .	.	.
-
 Stefndi	lkenvf	stefndur
 vísar	sfg3en	vísa
 einnig	aa	einnig
@@ -361,7 +347,6 @@ ofnæmi	nheo	ofnæmi
 fyrir	aþ	fyrir
 epoxýefnum	nhfþ	epoxýefni
 .	.	.
-
 Hún	fpven	hún
 hafi	svg3en	hafa
 m.ö.o.	as	m.ö.o.
@@ -391,7 +376,6 @@ unnið	ssg	vinna
 með	ao	með
 epoxýefni	nhfo	epoxýefni
 .	.	.
-
 Verði	svg3en	verða
 stefnandi	nken	stefnandi
 ,	,	,
@@ -409,7 +393,6 @@ sönnunarskorti	nkeþ	sönnunarskortur
 þessu	faheþ	þessi
 efni	nheþ	efni
 .	.	.
-
 Um	ao	um
 fjárhæð	nveo	fjárhæð
 bótakröfu	nvee	bótakrafa
@@ -428,7 +411,6 @@ sé	svg3en	vera
 metin	sþgven	meta
 5%	tp	5%
 .	.	.
-
 Af	aþ	af
 hálfu	nveþ	hálfa
 stefnda	lkeevf	stefndur
@@ -443,7 +425,6 @@ sé	svg3en	vera
 15	ta	15
 stig	nhfn	stig
 .	.	.
-
 Þá	aa	þá
 hafnar	sfg3en	hafna
 hann	fpken	hann
@@ -456,7 +437,6 @@ rétt	nkeo	réttur
 til	ae	til
 þjáningabóta	nvfe	þjáningabót
 .	.	.
-
 Í	aþ	í
 því	faheþ	sá
 sambandi	nheþ	samband
@@ -477,7 +457,6 @@ að	aþ	að
 óverulegu	lheþsf	óverulegur
 leyti	nheþ	leyti
 .	.	.
-
 Hafi	svg3en	hafa
 hún	fpven	hún
 áfram	aa	áfram
@@ -495,7 +474,6 @@ með	aþ	með
 uppsettum	lkeþsf	uppsettur
 einingafjölda	nkeþ	einingafjöldi
 .	.	.
-
 Um	ao	um
 lagarök	nhfo	lagarök
 vísar	sfg3en	vísa
@@ -512,7 +490,6 @@ með	aþ	með
 síðari	lvfþvm	síðari
 breytingum	nvfþ	breyting
 .	.	.
-
 Kröfu	nveo	krafa
 sína	feveo	sinn
 um	ao	um
@@ -531,9 +508,7 @@ um	ao	um
 meðferð	nveo	meðferð
 einkamála	nhfe	einkamál
 .	.	.
-
 NIÐURSTAÐA	nven	niðurstaða
-
 Af	aþ	af
 gögnum	nhfþ	gagn
 og	c	og
@@ -557,7 +532,6 @@ Listaháskólanum	nkeþgs	Listaháskóli
 janúar	nkeþ	janúar
 2001	ta	2001
 .	.	.
-
 Nemendur	nkfn	nemandi
 höfðu	sfg3fþ	hafa
 meðhöndlað	ssg	meðhöndla
@@ -581,7 +555,6 @@ var	sfg3eþ	vera
 til	ae	til
 staðar	nkee	staður
 .	.	.
-
 Ekki	aa	ekki
 er	sfg3en	vera
 alveg	aa	alveg
@@ -600,7 +573,6 @@ notuð	sþgven	nota
 sem	c	sem
 skyldi	svg3eþ	skulu
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 merkingum	nvfþ	merking
 á	aþ	á
@@ -622,7 +594,6 @@ og	c	og
 ætti	svg3eþ	eiga
 föt	nhfo	fat
 .	.	.
-
 Í	aþ	í
 tölvubréfi	nheþ	tölvubréf
 frá	aþ	frá
@@ -646,7 +617,6 @@ hættuna	nveog	hætta
 meðhöndlun	nveþ	meðhöndlun
 efnanna	nhfeg	efni
 .	.	.
-
 Einnig	aa	einnig
 kemur	sfg3en	koma
 þar	aa	þar
@@ -673,7 +643,6 @@ gólf	nheo	gólf
 og	c	og
 vinnuborð	nhfo	vinnuborð
 .	.	.
-
 Ryk	nhen	ryk
 af	aþ	af
 þessu	faheþ	þessi
@@ -685,7 +654,6 @@ ertingu	nveþ	erting
 í	aþ	í
 öndunarfærum	nhfþ	öndunarfæri
 .	.	.
-
 Í	aþ	í
 vitnaleiðslum	nvfþ	vitnaleiðsla
 kom	sfg3eþ	koma
@@ -704,7 +672,6 @@ en	c	en
 ekki	aa	ekki
 allir	fokfn	allur
 .	.	.
-
 Því	fpheþ	það
 er	sfg3en	vera
 haldið	sþghen	halda
@@ -727,7 +694,6 @@ verið	ssg	vera
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 Ekki	aa	ekki
 er	sfg3en	vera
 þó	aa	þó
@@ -743,7 +709,6 @@ fengu	sfg3fþ	fá
 þessar	favfo	þessi
 upplýsingar	nvfo	upplýsing
 .	.	.
-
 En	c	en
 þegar	c	þegar
 til	ae	til
@@ -785,7 +750,6 @@ vafa	nkeþ	vafi
 um	ao	um
 þetta	faheo	þessi
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 álit	nhen	álit
@@ -818,7 +782,6 @@ annaðist	sfm3eþ	anna
 umrætt	lheosf	umræddur
 námskeið	nheo	námskeið
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 reglum	nvfþ	regla
 um	ao	um
@@ -841,7 +804,6 @@ til	ae	til
 notkunar	nvee	notkun
 efnanna	nhfeg	efni
 .	.	.
-
 Ljóst	lhensf	ljós
 er	sfg3en	vera
 að	c	að
@@ -872,7 +834,6 @@ Listaháskóla	nkeþ-s	Listaháskóli
 janúar	nkeþ	janúar
 2001	ta	2001
 .	.	.
-
 Gert	sþghen	gera
 var	sfg3eþ	vera
 «	«	«
@@ -892,7 +853,6 @@ Heilsuverndarstöðinni	nveþgs	Heilsuverndarstöð
 ágúst	nkeþ	ágúst
 2001	ta	2001
 .	.	.
-
 Kom	sfg3eþ	koma
 þá	aa	þá
 í	ao	í
@@ -909,7 +869,6 @@ litur	nken	litur
 og	c	og
 ilmefnum	nhfþ	ilmefni
 .	.	.
-
 Stefnandi	nken	stefnandi
 byggir	sfg3en	byggja
 á	aþ	á
@@ -955,7 +914,6 @@ að	cn	að
 búa	sng	búa
 til	aa	til
 .	.	.
-
 Dómurinn	nkeng	dómur
 telur	sfg3en	telja
 að	c	að
@@ -978,7 +936,6 @@ snertiofnæmi	nhen	snertiofnæmi
 formi	nheþ	form
 exems	nhee	exem
 .	.	.
-
 Hugsanlegt	lhensf	hugsanlegur
 er	sfg3en	vera
 að	c	að
@@ -1009,7 +966,6 @@ atvik	nhen	atvik
 sér	fpheþ	sig
 stað	nkeo	staður
 .	.	.
-
 Ofnæmi	nhen	ofnæmi
 fyrir	aþ	fyrir
 skyldum	lhfþsf	skyldur
@@ -1030,7 +986,6 @@ einnig	aa	einnig
 komið	ssg	koma
 fram	aa	fram
 .	.	.
-
 MDA	as	MDA
 ofnæmispróf	nhen	ofnæmispróf
 var	sfg3eþ	vera
@@ -1047,7 +1002,6 @@ Heilsuverndarstöðinni	nveþgs	Heilsuverndarstöð
 ágúst	nkeþ	ágúst
 2001	ta	2001
 .	.	.
-
 Þetta	fahen	þessi
 próf	nhen	próf
 var	sfg3eþ	vera
@@ -1076,7 +1030,6 @@ ekki	aa	ekki
 sem	c	sem
 ofnæmisvaldur	nken	ofnæmisvaldur
 .	.	.
-
 Í	aþ	í
 prófinu	nheþg	próf
 í	aþ	í
@@ -1088,7 +1041,6 @@ ofnæmi	nhen	ofnæmi
 fyrir	aþ	fyrir
 DMDI	as	DMDI
 .	.	.
-
 Því	aa	því
 er	sfg3en	vera
 ekki	aa	ekki
@@ -1104,7 +1056,6 @@ staðar	nkee	staður
 janúar	nkeþ	janúar
 2001	ta	2001
 .	.	.
-
 Vel	aa	vel
 þekkt	lhensf	þekktur
 er	sfg3en	vera
@@ -1126,7 +1077,6 @@ við	ao	við
 snertingu	nveo	snerting
 DMDI	as	DMDI
 .	.	.
-
 Ekki	aa	ekki
 er	sfg3en	vera
 hægt	lhensf	hægur
@@ -1139,7 +1089,6 @@ tegunda	nvfe	tegund
 við	ao	við
 skoðun	nveo	skoðun
 .	.	.
-
 Áreitisexemi	nheþ	áreitisexem
 má	sfg3en	mega
 e.t.v.	as	e.t.v.
@@ -1178,7 +1127,6 @@ ekki	aa	ekki
 hafa	sfg3fn	hafa
 ofnæmi	nheo	ofnæmi
 .	.	.
-
 Talið	sþghen	telja
 er	sfg3en	vera
 mun	sfg3en	munu
@@ -1190,7 +1138,6 @@ valdi	svg3en	valda
 en	c	en
 ofnæmisexemi	nheþ	ofnæmisexem
 .	.	.
-
 DMDI	as	DMDI
 er	sfg3en	vera
 því	aa	því
@@ -1207,7 +1154,6 @@ ofnæmi	nhen	ofnæmi
 gegn	aþ	gegn
 því	fpheþ	það
 .	.	.
-
 Einkenni	nhfn	einkenni
 þau	fahfn	sá
 sem	ct	sem
@@ -1223,7 +1169,6 @@ ofsakláða	nkeþ	ofsakláði
 urticaria	e	urticaria
 )	)	)
 .	.	.
-
 Stefnandi	nken	stefnandi
 fékk	sfg3eþ	fá
 þá	faveo	sá
@@ -1235,7 +1180,6 @@ Rothenborg	e	Rothenborg
 í	aþ	í
 Kaupmannahöfn	nveþ-s	Kaupmannahöfn
 .	.	.
-
 Þau	fahfn	sá
 einkenni	nhfn	einkenni
 eru	sfg3fn	vera
@@ -1271,7 +1215,6 @@ dermatografia	e	dermatografia
 skrifhúð	nven	skrifhúð
 )	)	)
 .	.	.
-
 Ótal	nhen	ótal
 orsakir	nvfn	orsök
 geta	sfg3fn	geta
@@ -1296,7 +1239,6 @@ talin	sþghfn	telja
 epoxy	e	epoxy
 efni	nhfn	efni
 .	.	.
-
 Almennt	aa	almennt
 er	sfg3en	vera
 mjög	aa	mjög
@@ -1310,7 +1252,6 @@ staðfesta	sng	staðfesta
 slíkt	fbheo	slíkur
 orsakasamband	nheo	orsakasamband
 .	.	.
-
 Orsakir	nvfn	orsök
 urticariu	e	urticariu
 geta	sfg3fn	geta
@@ -1323,7 +1264,6 @@ dæmi	nhfn	dæmi
 séu	svg3fn	vera
 nefnd	sþghfn	nefna
 .	.	.
-
 Dómurinn	nkeng	dómur
 telur	sfg3en	telja
 ekki	aa	ekki
@@ -1344,7 +1284,6 @@ er	sfg3en	vera
 til	ae	til
 úrlausnar	nvee	úrlausn
 .	.	.
-
 Ljóst	lhensf	ljós
 er	sfg3en	vera
 að	c	að
@@ -1358,7 +1297,6 @@ ofnæmi	nheþ	ofnæmi
 fyrir	aþ	fyrir
 DMDI	as	DMDI
 .	.	.
-
 Er	sfg3en	vera
 þannig	aa	þannig
 ekki	aa	ekki
@@ -1391,7 +1329,6 @@ urticaria	e	urticaria
 ofsakláði	nken	ofsakláði
 )	)	)
 .	.	.
-
 Verður	sfg3en	verða
 varanleg	lvensf	varanlegur
 örorka	nven	örorka
@@ -1411,7 +1348,6 @@ fyrir	ao	fyrir
 sig	fpveo	sig
 hér	aa	hér
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 er	sfg3en	vera
@@ -1443,7 +1379,6 @@ Listaháskólanum	nkeþgs	Listaháskóli
 janúar	nkeþ	janúar
 2001	ta	2001
 .	.	.
-
 Hér	aa	hér
 að	c	að
 framan	aa	framan
@@ -1482,7 +1417,6 @@ stefnda	lkeevf	stefndur
 janúar	nkeþ	janúar
 2001	ta	2001
 .	.	.
-
 Fyrir	aa	fyrir
 liggur	sfg3en	liggja
 það	fahen	sá
@@ -1509,7 +1443,6 @@ febrúar	nkee	febrúar
 sama	fbhee	sami
 árs	nhee	ár
 .	.	.
-
 Þá	aa	þá
 telur	sfg3en	telja
 dómurinn	nkeng	dómur
@@ -1545,7 +1478,6 @@ líkamstjóni	nheþ	líkamstjón
 greiða	sng	greiða
 miskabætur	nvfo	miskabætur
 .	.	.
-
 Þykja	sfg3fn	þykja
 bætur	nvfn	bót
 til	ae	til
@@ -1564,7 +1496,6 @@ greinir	sfg3en	greina
 í	aþ	í
 dómsorði	nheþ	dómsorð
 .	.	.
-
 Málskostnaður	nken	málskostnaður
 á	aa	á
 milli	ae	milli
@@ -1572,7 +1503,6 @@ aðila	nkfe	aðili
 fellur	sfg3en	falla
 niður	aa	niður
 .	.	.
-
 Stefnandi	nken	stefnandi
 fékk	sfg3eþ	fá
 gjafsóknarleyfi	nheo	gjafsóknarleyfi
@@ -1614,9 +1544,7 @@ krónur	nvfn	króna
 úr	aþ	úr
 ríkissjóði	nkeþ	ríkissjóður
 .	.	.
-
 DÓMSORÐ	nhen	dómsorð
-
 Stefndi	lkenvf	stefndur
 ,	,	,
 Listaháskóli	nken-s	Listaháskóli
@@ -1651,7 +1579,6 @@ desember	nkeþ	desember
 til	ae	til
 greiðsludags	nkee	greiðsludagur
 .	.	.
-
 Málskostnaður	nken	málskostnaður
 á	aa	á
 milli	ae	milli
@@ -1659,7 +1586,6 @@ aðila	nkfe	aðili
 fellur	sfg3en	falla
 niður	aa	niður
 .	.	.
-
 Gjafsóknarkostnaður	nken	gjafsóknarkostnaður
 stefnanda	nkee	stefnandi
 ,	,	,
@@ -1670,29 +1596,23 @@ greiðist	svm3en	greiða
 úr	aþ	úr
 ríkissjóði	nkeþ	ríkissjóður
 .	.	.
-
 Allan	e	Allan
 V.	as	v.
 Magnússon	nken-s	Magnússon
-
 Elín	nven-s	Elín
 Þ.	as	Þ.
 Ólafsdóttir	nven-s	Ólafsdóttir
-
 Jón	nken-s	Jón
 Hjaltalín	nken-s	Hjaltalín
 Ólafsson	nken-s	Ólafsson
-
 Fimmtudaginn	nkeog	fimmtudagur
 13.	ta	13.
 desember	nkeo	desember
 2007	ta	2007
 .	.	.
-
 Nr.	as	Nr.
 244/2007	ta	244/2007
 .	.	.
-
 Ákæruvaldið	nheng	ákæruvald
 (	(	(
 Sigríður	nven-s	Sigríður
@@ -1724,20 +1644,15 @@ Arnór	nken-s	Arnór
 Pálsson	nken-s	Pálsson
 hrl.	as	hrl.
 )	)	)
-
 Líkamsárás	nven	líkamsárás
 .	.	.
-
 Skýrslugjöf	nven	skýrslugjöf
 .	.	.
-
 Ómerking	nven	ómerking
 héraðsdóms	nkee	héraðsdómur
 .	.	.
-
 Heimvísun	nven	heimvísun
 .	.	.
-
 Héraðsdómur	nken	héraðsdómur
 var	sfg3eþ	vera
 ómerktur	sþgken	ómerkja
@@ -1769,7 +1684,6 @@ mæltir	lkfnsf	mæltur
 íslenska	lveosf	íslenskur
 tungu	nveo	tunga
 .	.	.
-
 Þótti	sfg3eþ	þykja
 þetta	fahen	þessi
 í	aþ	í
@@ -1795,11 +1709,9 @@ gr.	as	gr.
 mannréttindasáttmála	nkee	mannréttindasáttmáli
 Evrópu	nvee-s	Evrópa
 .	.	.
-
 Dómur	nken	dómur
 Hæstaréttar	nkee-s	Hæstiréttur
 .	.	.
-
 Mál	nheo	mál
 þetta	faheo	þessi
 dæma	sfg3fn	dæma
@@ -1814,7 +1726,6 @@ og	c	og
 Ingibjörg	nven-s	Ingibjörg
 Benediktsdóttir	nven-s	Benediktsdóttir
 .	.	.
-
 Ríkissaksóknari	nken	ríkissaksóknari
 skaut	sfg3eþ	skjóta
 málinu	nheþg	mál
@@ -1895,7 +1806,6 @@ greinir	sfg3en	greina
 nóvember	nkeo	nóvember
 2006	ta	2006
 .	.	.
-
 Ákærða	lvenvf	ákærður
 X	nven-s	X
 krefst	sfm3en	krefja
@@ -1927,7 +1837,6 @@ af	aþ	af
 nóvember	nkeo	nóvember
 2006	ta	2006
 .	.	.
-
 Ákærði	lkenvf	ákærður
 Y	nken-s	Y
 krefst	sfm3en	krefja
@@ -1975,7 +1884,6 @@ hún	fpven	hún
 verði	svg3en	verða
 milduð	sþgven	milda
 .	.	.
-
 Þá	aa	þá
 krefst	sfm3en	krefja
 hann	fpken	hann
@@ -1998,7 +1906,6 @@ bætur	nvfn	bót
 verði	svg3fn	verða
 lækkaðar	sþgvfn	lækka
 .	.	.
-
 Ákærði	lkenvf	ákærður
 Z	nken-s	z
 krefst	sfm3en	krefja
@@ -2014,7 +1921,6 @@ krefst	sfm3en	krefja
 hann	fpken	hann
 sýknu	nvee	sýkna
 .	.	.
-
 Þá	aa	þá
 krefst	sfm3en	krefja
 hann	fpken	hann
@@ -2030,7 +1936,6 @@ vísað	sþghen	vísa
 frá	aþ	frá
 dómi	nkeþ	dómur
 .	.	.
-
 Aðalmeðferð	nven	aðalmeðferð
 fór	sfg3eþ	fara
 upphaflega	aa	upphaflega
@@ -2060,7 +1965,6 @@ túlka	sng	túlka
 fyrir	ao	fyrir
 ákærðu	lhfovf	ákærður
 .	.	.
-
 Málið	nheng	mál
 var	sfg3eþ	vera
 þá	aa	þá
@@ -2074,7 +1978,6 @@ dómsuppsögu	nvee	dómsuppsaga
 nóvember	nkeo	nóvember
 2006	ta	2006
 .	.	.
-
 Þann	fakeo	sá
 3.	ta	3.
 nóvember	nkeo	nóvember
@@ -2095,7 +1998,6 @@ og	c	og
 fulltrúa	nkeþ	fulltrúi
 ákæruvalds	nhee	ákæruvald
 .	.	.
-
 Var	sfg3eþ	vera
 þá	aa	þá
 bókað	sþghen	bóka
@@ -2137,7 +2039,6 @@ og	c	og
 stundum	aa	stundum
 villandi	lvenof	villandi
 .	.	.
-
 Því	aa	því
 er	sfg3en	vera
 ákveðið	sþghen	ákveða
@@ -2161,7 +2062,6 @@ desember	nkeo	desember
 nk	as	nk
 ...	...	...
 »	»	»
-
 Í	aþ	í
 þinghaldi	nheþ	þinghald
 4.	ta	4.
@@ -2183,7 +2083,6 @@ hinu	gheþ	hinn
 fyrra	lheþvm	fyrri
 máli	nheþ	mál
 .	.	.
-
 Aðalmeðferð	nven	aðalmeðferð
 málsins	nheeg	mál
 hófst	sfm3eþ	hefja
@@ -2224,7 +2123,6 @@ munnlega	aa	munnlega
 að	aþ	að
 nýju	lheþsf	nýr
 .	.	.
-
 Í	aþ	í
 fyrsta	lheþve	fyrstur
 þinghaldinu	nheþg	þinghald
@@ -2257,7 +2155,6 @@ túlki	nkeþ	túlkur
 til	ae	til
 starfans	nkeeg	starfi
 .	.	.
-
 Í	aþ	í
 því	faheþ	sá
 þinghaldi	nheþ	þinghald
@@ -2273,7 +2170,6 @@ kæranda	nkeþ	kærandi
 í	aþ	í
 málinu	nheþg	mál
 .	.	.
-
 Í	aþ	í
 málflutningi	nkeþ	málflutningur
 fyrir	aþ	fyrir
@@ -2303,7 +2199,6 @@ né	c	né
 lok	nhfo	lok
 hennar	fpvee	hún
 .	.	.
-
 Í	aþ	í
 þingbók	nveþ	þingbók
 er	sfg3en	vera
@@ -2328,7 +2223,6 @@ túlka	sng	túlka
 fyrir	ao	fyrir
 ákærðu	lhfovf	ákærður
 .	.	.
-
 Í	aþ	í
 13.	ta	13.
 gr.	as	gr.
@@ -2367,7 +2261,6 @@ fær	lkensf	fær
 í	aþ	í
 íslensku	nveþ	íslenska
 .	.	.
-
 Ákvæði	nheo	ákvæði
 þetta	faheo	þessi
 ber	sfg3en	bera
@@ -2425,7 +2318,6 @@ er	sfg3en	vera
 fyrir	aþ	fyrir
 dómi	nkeþ	dómur
 .	.	.
-
 Hefur	sfg3en	hafa
 og	c	og
 verið	ssg	vera
@@ -2450,7 +2342,6 @@ mgr.	as	mgr.
 gr.	as	gr.
 sáttmálans	nkeeg	sáttmáli
 .	.	.
-
 Af	aþ	af
 þingbók	nveþ	þingbók
 málsins	nheeg	mál
@@ -2484,7 +2375,6 @@ af	aþ	af
 kæranda	nkeþ	kærandi
 málsins	nheeg	mál
 .	.	.
-
 Er	sfg3en	vera
 málsmeðferð	nven	málsmeðferð
 að	aþ	að
@@ -2534,7 +2424,6 @@ að	c	að
 verði	svg3fn	verða
 túlkaðar	sþgvfn	túlka
 .	.	.
-
 Ákvörðun	nven	ákvörðun
 um	ao	um
 sakarkostnað	nkeo	sakarkostnaður
@@ -2571,10 +2460,8 @@ greinir	sfg3en	greina
 í	aþ	í
 dómsorði	nheþ	dómsorð
 .	.	.
-
 Dómsorð	nhen	dómsorð
 :	:	:
-
 Héraðsdómur	nken	héraðsdómur
 er	sfg3en	vera
 ómerktur	sþgken	ómerkja
@@ -2608,7 +2495,6 @@ túlkaðar	sþgvfn	túlka
 fyrir	ao	fyrir
 ákærðu	lhfovf	ákærður
 .	.	.
-
 Ákvörðun	nven	ákvörðun
 sakarkostnaðar	nkee	sakarkostnaður
 bíður	sfg3en	bíða
@@ -2650,7 +2536,6 @@ greiðast	sfm3fn	greiða
 úr	aþ	úr
 ríkissjóði	nkeþ	ríkissjóður
 .	.	.
-
 Dómur	nken	dómur
 Héraðsdóms	nkee-s	Héraðsdómur
 Reykjavíkur	nvee-s	Reykjavík
@@ -2658,7 +2543,6 @@ Reykjavíkur	nvee-s	Reykjavík
 janúar	nkeo	janúar
 2007	ta	2007
 .	.	.
-
 Mál	nhen	mál
 þetta	fahen	þessi
 var	sfg3eþ	vera
@@ -2806,7 +2690,6 @@ hnakka	nkeo	hnakki
 og	c	og
 nefbrotnaði	sfg3eþ	nefbrotna
 .	.	.
-
 Ákæruvaldið	nheng	ákæruvald
 telur	sfg3en	telja
 þetta	faheo	þessi
@@ -2844,7 +2727,6 @@ dæmd	sþghfn	dæma
 til	ae	til
 refsingar	nvee	refsing
 .	.	.
-
 Af	aþ	af
 hálfu	nveþ	hálfa
 A	nxee-s	A
@@ -2971,7 +2853,6 @@ degi	nkeþ	dagur
 til	ae	til
 greiðsludags	nkee	greiðsludagur
 .	.	.
-
 Loks	aa	loks
 er	sfg3en	vera
 gerð	sþgven	gera
@@ -2987,7 +2868,6 @@ halda	sng	halda
 uppi	aa	uppi
 bótakröfu	nveþ	bótakrafa
 .	.	.
-
 Önnur	foven	annar
 ákæra	nven	ákæra
 lögreglustjórans	nkeeg	lögreglustjóri
@@ -3080,7 +2960,6 @@ hægri	lveovf	hægri
 öxl	nveo	öxl
 »	»	»
 .	.	.
-
 Ákæruvaldið	nheng	ákæruvald
 telur	sfg3en	telja
 þetta	faheo	þessi
@@ -3111,7 +2990,6 @@ dæmd	sþghfn	dæma
 til	ae	til
 refsingar	nvee	refsing
 .	.	.
-
 Af	aþ	af
 hálfu	nveþ	hálfa
 B	nxee-s	B
@@ -3165,7 +3043,6 @@ degi	nkeþ	dagur
 til	ae	til
 greiðsludags	nkee	greiðsludagur
 .	.	.
-
 Af	aþ	af
 hálfu	nveþ	hálfa
 ákærðu	lhfevf	ákærður
@@ -3180,7 +3057,6 @@ er	sfg3en	vera
 krafist	sþmhen	krefja
 sýknu	nvee	sýkna
 .	.	.
-
 Af	aþ	af
 hálfu	nveþ	hálfa
 ákærðu	lhfevf	ákærður
@@ -3197,7 +3073,6 @@ sem	ct	sem
 lög	nhfn	lag
 leyfa	sfg3fn	leyfa
 .	.	.
-
 Þá	aa	þá
 krefjast	sfm3fn	krefja
 ákærðu	lhfnvf	ákærður
@@ -3216,7 +3091,6 @@ sýknu	nvee	sýkna
 af	aþ	af
 kröfunni	nveþg	krafa
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 krafist	sþmhen	krefja
@@ -3233,7 +3107,6 @@ greiðist	svm3en	greiða
 úr	aþ	úr
 ríkissjóði	nkeþ	ríkissjóður
 .	.	.
-
 Ákærða	lvenvf	ákærður
 ,	,	,
 X	nven-s	X
@@ -3247,7 +3120,6 @@ frá	aþ	frá
 nóvember	nkeþ	nóvember
 2006	ta	2006
 .	.	.
-
 Þá	aa	þá
 krefst	sfm3en	krefja
 hún	fpven	hún
@@ -3266,7 +3138,6 @@ sýknu	nvee	sýkna
 af	aþ	af
 kröfunni	nveþg	krafa
 .	.	.
-
 Þá	aa	þá
 krefst	sfm3en	krefja
 verjandi	nken	verjandi
@@ -3276,7 +3147,6 @@ að	aþ	að
 mati	nheþ	mat
 dómsins	nkeeg	dómur
 .	.	.
-
 Málsatvik	nhen	málsatvik
 varðandi	slg	varða
 ákæru	nveo	ákæra
@@ -3286,7 +3156,6 @@ frá	aþ	frá
 maí	nkeþ	maí
 2006	ta	2006
 .	.	.
-
 Aðfaranótt	nveo	aðfaranótt
 sunnudagsins	nkeeg	sunnudagur
 4.	ta	4.
@@ -3315,7 +3184,6 @@ utandyra	aa	utandyra
 eftir	ao	eftir
 líkamsárás	nveo	líkamsárás
 .	.	.
-
 Á	aþ	á
 vettvangi	nkeþ	vettvangur
 veittu	sfg3fþ	veita
@@ -3332,7 +3200,6 @@ aka	sng	aka
 af	aþ	af
 stað	nkeþ	staður
 .	.	.
-
 Hittu	sfg3fþ	hitta
 lögreglumenn	nkfn	lögreglumaður
 fyrir	aa	fyrir
@@ -3367,7 +3234,6 @@ A	nxeo-s	A
 á	aþ	á
 slysadeild	nveþ	slysadeild
 .	.	.
-
 Kvaðst	sfm3eþ	kveða
 hann	fpken	hann
 hafa	sng	hafa
@@ -3398,7 +3264,6 @@ fengið	ssg	fá
 sig	fpkeo	sig
 spörk	nhfo	spark
 .	.	.
-
 Þá	aa	þá
 var	sfg3eþ	vera
 hann	fpken	hann
@@ -3410,7 +3275,6 @@ kámug	lhfnsf	kámugur
 af	aþ	af
 blóði	nheþ	blóð
 .	.	.
-
 E	nxen-s	E
 kvaðst	sfm3eþ	kveða
 þekkja	sng	þekkja
@@ -3423,7 +3287,6 @@ hún	fpven	hún
 gælunöfn	nhfo	gælunafn
 þeirra	fpkfe	hann
 .	.	.
-
 A	nxen-s	A
 lagði	sfg3eþ	leggja
 fram	aa	fram
@@ -3434,7 +3297,6 @@ lögreglu	nveþ	lögregla
 apríl	nkeo	apríl
 2004	ta	2004
 .	.	.
-
 Sagði	sfg3eþ	segja
 hann	fpken	hann
 svo	aa	svo
@@ -3487,7 +3349,6 @@ illu	lheþsf	illur
 frá	aþ	frá
 þeim	fphfþ	það
 .	.	.
-
 Að	aþ	að
 sögn	nveþ	sögn
 A	nxee-s	A
@@ -3516,7 +3377,6 @@ hægra	lheovf	hægri
 læri	nheo	læri
 A	nxee-s	A
 .	.	.
-
 Fóru	sfg3fþ	fara
 þau	fphfn	það
 E	nxen-s	E
@@ -3524,7 +3384,6 @@ E	nxen-s	E
 veitingastaðinn	nkeog	veitingastaður
 D	nxeo-s	D
 .	.	.
-
 Hópurinn	nkeng	hópur
 af	aþ	af
 C	nxeþ-s	C
@@ -3544,7 +3403,6 @@ sér	fpkeþ	sig
 af	aþ	af
 A	nxeþ-s	A
 .	.	.
-
 Kvaðst	sfm3eþ	kveða
 hann	fpken	hann
 hafa	sng	hafa
@@ -3578,7 +3436,6 @@ staðinn	nkeog	staður
 ásamt	aþ	ásamt
 E	nxeþ-s	E
 .	.	.
-
 Lýsti	sfg3eþ	lýsa
 A	nxen-s	A
 meintri	lveþsf	meintur
@@ -3617,7 +3474,6 @@ hann	fpkeo	hann
 á	aþ	á
 C	nxeþ-s	C
 .	.	.
-
 Kvaðst	sfm3eþ	kveða
 A	nxen-s	A
 hafa	sng	hafa
@@ -3643,7 +3499,6 @@ allir	fokfn	allur
 hann	fpkeo	hann
 »	»	»
 !	!	!
-
 A	nxen-s	A
 kvaðst	sfm3eþ	kveða
 hafa	sng	hafa
@@ -3683,7 +3538,6 @@ hefði	svg3eþ	hafa
 þeirra	fpvfe	hún
 brotnað	ssg	brotna
 .	.	.
-
 Kvaðst	sfm3eþ	kveða
 A	nxen-s	A
 hafa	sng	hafa
@@ -3709,7 +3563,6 @@ duttu	sfg3fþ	detta
 af	aþ	af
 honum	fpkeþ	hann
 .	.	.
-
 Hefði	svg3eþ	hafa
 hann	fpken	hann
 verið	ssg	vera
@@ -3735,7 +3588,6 @@ fékk	sfg3eþ	fá
 fleiri	lhfovm	margur
 högg	nhfo	högg
 .	.	.
-
 Fólkið	nheng	fólk
 hefði	svg3eþ	hafa
 skyndilega	aa	skyndilega
@@ -3747,7 +3599,6 @@ og	c	og
 árásinni	nveþg	árás
 lokið	ssg	ljúka
 .	.	.
-
 Ákærði	lkenvf	ákærður
 ,	,	,
 Þ	nken-s	þ
@@ -3760,7 +3611,6 @@ lögreglu	nveþ	lögregla
 júní	nkeo	júní
 2004	ta	2004
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -3786,7 +3636,6 @@ hans	fpkee	hann
 ,	,	,
 X	nxeþ-s	X
 .	.	.
-
 Þegar	c	þegar
 Þ	nxen-s	þ
 kom	sfg3eþ	koma
@@ -3798,7 +3647,6 @@ verið	ssg	vera
 orðinn	sþgken	verða
 blóðugur	lkensf	blóðugur
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -3812,7 +3660,6 @@ af	aþ	af
 sínum	fehfþ	sinn
 völdum	nhfþ	vald
 .	.	.
-
 Ákærða	lvenvf	ákærður
 ,	,	,
 X	nven-s	X
@@ -3855,7 +3702,6 @@ meiddist	sfm3eþ	meiða
 vinstri	lveþvf	vinstri
 hendi	nveþ	hönd
 .	.	.
-
 Hefði	svg3eþ	hafa
 hún	fpven	hún
 talið	ssg	telja
@@ -3880,7 +3726,6 @@ hnakkann	nkeog	hnakki
 með	aþ	með
 henni	fpveþ	hún
 .	.	.
-
 Hefði	svg3eþ	hafa
 ákærði	lkenvf	ákærður
 ,	,	,
@@ -3900,7 +3745,6 @@ X	nxeo-s	X
 af	aþ	af
 vettvangi	nkeþ	vettvangur
 .	.	.
-
 Við	ao	við
 yfirheyrslu	nveo	yfirheyrsla
 hjá	aþ	hjá
@@ -3922,7 +3766,6 @@ með	aa	með
 hefði	svg3eþ	hafa
 brotnað	ssg	brotna
 .	.	.
-
 Kvaðst	sfm3eþ	kveða
 hún	fpven	hún
 ekki	aa	ekki
@@ -3938,7 +3781,6 @@ eins	fokee	einn
 í	aþ	í
 átökunum	nhfþg	átök
 .	.	.
-
 Ákærði	lkenvf	ákærður
 ,	,	,
 Y	nken-s	y
@@ -3990,7 +3832,6 @@ inni	aa	inni
 salerni	nheþ	salerni
 skemmtistaðarins	nkeeg	skemmtistaður
 .	.	.
-
 A	nxen-s	A
 hefði	svg3eþ	hafa
 þá	aa	þá
@@ -4006,7 +3847,6 @@ rassinn	nkeog	rass
 á	aþ	á
 A	nxeþ-s	A
 .	.	.
-
 Hópur	nken	hópur
 Íslendinga	nkfe-s	Íslendingur
 hefði	svg3eþ	hafa
@@ -4026,7 +3866,6 @@ hjá	aa	hjá
 og	c	og
 beðið	ssg	bíða
 .	.	.
-
 Annar	foken	annar
 hópur	nken	hópur
 Íslendinga	nkfe-s	Íslendingur
@@ -4039,7 +3878,6 @@ og	c	og
 hafist	ssm	hefja
 áflog	nhfn	áflog
 .	.	.
-
 Vinir	nkfn	vinur
 ákærða	lkeevf	ákærður
 hefðu	svg3fþ	hafa
@@ -4048,7 +3886,6 @@ komið	ssg	koma
 af	aþ	af
 D	nxeþ-s	D
 .	.	.
-
 Ákærði	lkenvf	ákærður
 kvaðst	sfm3eþ	kveða
 hafa	sng	hafa
@@ -4080,7 +3917,6 @@ rassinn	nkeog	rass
 á	aþ	á
 honum	fpkeþ	hann
 .	.	.
-
 Þá	aa	þá
 gaf	sfg3eþ	gefa
 ákærði	lkenvf	ákærður
@@ -4091,7 +3927,6 @@ lögreglu	nveþ	lögregla
 desember	nkeo	desember
 2005	ta	2005
 .	.	.
-
 Sagði	sfg3eþ	segja
 hann	fpken	hann
 frá	aa	frá
@@ -4124,7 +3959,6 @@ fyrir	ao	fyrir
 utan	aa	utan
 D	nxeo-s	D
 .	.	.
-
 Kvaðst	sfm3eþ	kveða
 hann	fpken	hann
 því	aa	því
@@ -4137,7 +3971,6 @@ rassinn	nkeog	rass
 á	aþ	á
 A	nxeþ-s	A
 .	.	.
-
 Einhverjir	fokfn	einhver
 hefðu	svg3fþ	hafa
 þá	aa	þá
@@ -4156,7 +3989,6 @@ hann	fpken	hann
 farið	ssg	fara
 þangað	aa	þangað
 .	.	.
-
 Þá	aa	þá
 hefði	svg3eþ	hafa
 hann	fpken	hann
@@ -4173,7 +4005,6 @@ hvort	c	hvort
 hann	fpken	hann
 hitti	svg3eþ	hitta
 .	.	.
-
 Þarna	aa	þarna
 hefði	svg3eþ	hafa
 verið	ssg	vera
@@ -4194,7 +4025,6 @@ flösku	nveo	flaska
 á	ao	á
 A	nxeo-s	A
 .	.	.
-
 Þó	aa	þó
 hefði	svg3eþ	hafa
 hann	fpken	hann
@@ -4202,7 +4032,6 @@ heyrt	ssg	heyra
 eitthvað	foheo	einhver
 brotna	sng	brotna
 .	.	.
-
 A	nken-s	A
 hefði	svg3eþ	hafa
 verið	ssg	vera
@@ -4213,7 +4042,6 @@ framan	aa	framan
 lögreglan	nveng	lögregla
 kom	sfg3eþ	koma
 .	.	.
-
 Ákærði	lkenvf	ákærður
 ,	,	,
 Y	nken-s	y
@@ -4230,7 +4058,6 @@ verið	ssg	vera
 eftir	ao	eftir
 sig	fpkeo	sig
 .	.	.
-
 Ákærði	lkenvf	ákærður
 ,	,	,
 Z	nken-s	z
@@ -4271,7 +4098,6 @@ lent	ssg	lenda
 einhverjum	fohfþ	einhver
 átökum	nhfþ	átök
 .	.	.
-
 Hefði	svg3eþ	hafa
 verið	ssg	vera
 þvaga	nven	þvaga
@@ -4284,7 +4110,6 @@ vinahóp	nkeþ	vinahópur
 ,	,	,
 Z	nkee-s	z
 .	.	.
-
 Átökin	nhfng	átök
 hefðu	svg3fþ	hafa
 verið	ssg	vera
@@ -4294,7 +4119,6 @@ er	c	er
 komu	sfg3fþ	koma
 út	aa	út
 .	.	.
-
 Þau	fphfn	það
 hafi	svg3fn	hafa
 því	aa	því
@@ -4305,7 +4129,6 @@ vettvangi	nkeþ	vettvangur
 vinum	nkfþ	vinur
 sínum	fekfþ	sinn
 .	.	.
-
 Z	nxen-s	Z
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -4317,7 +4140,6 @@ A	nxeþ-s	A
 á	aþ	á
 staðnum	nkeþg	staður
 .	.	.
-
 Z	nxen-s	Z
 kvað	sfg3eþ	kveða
 ekki	aa	ekki
@@ -4332,7 +4154,6 @@ höfuðið	nheog	höfuð
 með	aþ	með
 flösku	nveþ	flaska
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -4346,7 +4167,6 @@ verið	ssg	vera
 eftir	ao	eftir
 sig	fpkeo	sig
 .	.	.
-
 Ákærði	lkenvf	ákærður
 ,	,	,
 Ö	nken-s	Ö
@@ -4383,7 +4203,6 @@ veitt	ssg	veita
 honum	fpkeþ	hann
 áverka	nkfo	áverki
 .	.	.
-
 Ö	nxen-s	Ö
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -4397,7 +4216,6 @@ verið	ssg	vera
 eftir	ao	eftir
 sig	fpkeo	sig
 .	.	.
-
 Ákærði	lkenvf	ákærður
 ,	,	,
 Æ	nken-s	Æ
@@ -4428,7 +4246,6 @@ af	aþ	af
 skemmtistaðnum	nkeþg	skemmtistaður
 D	nxeþ-s	D
 .	.	.
-
 Hann	fpken	hann
 hefði	svg3eþ	hafa
 fylgt	ssg	fylgja
@@ -4436,7 +4253,6 @@ vinahópnum	nkeþg	vinahópur
 af	aþ	af
 vettvangi	nkeþ	vettvangur
 .	.	.
-
 Kvaðst	sfm3eþ	kveða
 ákærði	lkenvf	ákærður
 muna	sng	muna
@@ -4458,7 +4274,6 @@ ráðist	ssm	ráða
 á	ao	á
 A	nxeo-s	A
 .	.	.
-
 Hópur	nken	hópur
 Íslendinga	nkfe-s	Íslendingur
 hefði	svg3eþ	hafa
@@ -4467,7 +4282,6 @@ verið	ssg	vera
 kringum	ao	kringum
 A	nxeo-s	A
 .	.	.
-
 Hann	fpken	hann
 kvaðst	sfm3eþ	kveða
 ekki	aa	ekki
@@ -4481,7 +4295,6 @@ verið	ssg	vera
 eftir	ao	eftir
 sig	fpkeo	sig
 .	.	.
-
 Vitnið	nheng	vitni
 ,	,	,
 E	nxen-s	E
@@ -4494,7 +4307,6 @@ lögreglu	nveþ	lögregla
 júní	nkeo	júní
 2004	ta	2004
 .	.	.
-
 Kvað	sfg3eþ	kveða
 hún	fpven	hún
 þau	fphfo	það
@@ -4522,7 +4334,6 @@ ef	c	ef
 færu	svg3fþ	fara
 ekki	aa	ekki
 .	.	.
-
 Er	c	er
 þau	fphfn	það
 komu	sfg3fþ	koma
@@ -4555,7 +4366,6 @@ gengu	sfg3fþ	ganga
 niður	ao	niður
 Bankastrætið	nheogs	Bankastræti
 .	.	.
-
 Árásin	nveng	árás
 hefði	svg3eþ	hafa
 hafist	ssm	hefja
@@ -4583,7 +4393,6 @@ haldið	ssg	halda
 Ö	nxeþ-s	Ö
 frá	aa	frá
 .	.	.
-
 Mágur	nken	mágur
 ákærðu	lveevf	ákærður
 ,	,	,
@@ -4608,7 +4417,6 @@ eftir	aþ	eftir
 annarri	foveþ	annar
 flösku	nveþ	flaska
 .	.	.
-
 Hefði	svg3eþ	hafa
 svo	aa	svo
 allur	foken	allur
@@ -4622,7 +4430,6 @@ ráðist	ssm	ráða
 á	ao	á
 A	nxeo-s	A
 .	.	.
-
 E	nxen-s	E
 kvað	sfg3eþ	kveða
 árásina	nveog	árás
@@ -4651,7 +4458,6 @@ aðrir	fokfn	annar
 hefðu	svg3fþ	hafa
 sparkað	ssg	sparka
 .	.	.
-
 Kvaðst	sfm3eþ	kveða
 hún	fpven	hún
 hafa	sng	hafa
@@ -4667,7 +4473,6 @@ höfuðið	nheog	höfuð
 með	aþ	með
 flösku	nveþ	flaska
 .	.	.
-
 Hefði	svg3eþ	hafa
 árásinni	nveþg	árás
 lokið	ssg	ljúka
@@ -4678,7 +4483,6 @@ látið	ssg	láta
 sig	fpkeo	sig
 hverfa	sng	hverfa
 .	.	.
-
 Þá	aa	þá
 gaf	sfg3eþ	gefa
 E	nxen-s	E
@@ -4689,7 +4493,6 @@ lögreglu	nveþ	lögregla
 desember	nkeo	desember
 2005	ta	2005
 .	.	.
-
 Hún	fpven	hún
 sagði	sfg3eþ	segja
 frá	aa	frá
@@ -4713,7 +4516,6 @@ fyrst	aae	fyrr
 í	ao	í
 A	nxeo-s	A
 .	.	.
-
 Hún	fpven	hún
 sagðist	sfm3eþ	segja
 þó	aa	þó
@@ -4754,7 +4556,6 @@ sparka	sng	sparka
 í	ao	í
 A	nxeo-s	A
 .	.	.
-
 Þegar	c	þegar
 ákærða	lvenvf	ákærður
 ,	,	,
@@ -4772,7 +4573,6 @@ hefði	svg3eþ	hafa
 flaskan	nveng	flaska
 brotnað	ssg	brotna
 .	.	.
-
 Einhverjir	fokfn	einhver
 Íslendingar	nkfn-s	Íslendingur
 hefðu	svg3fþ	hafa
@@ -4799,7 +4599,6 @@ staðinn	nkeog	staður
 stuttu	lheþsf	stuttur
 síðar	aam	síðar
 .	.	.
-
 Vitnið	nheng	vitni
 ,	,	,
 F	nxen-s	F
@@ -4825,7 +4624,6 @@ sínum	fekeþ	sinn
 ákærða	lkeþvf	ákærður
 Z	nkeþ-s	z
 .	.	.
-
 Þegar	c	þegar
 þau	fphfn	það
 komu	sfg3fþ	koma
@@ -4845,7 +4643,6 @@ einhvers	fokee	einhver
 konar	nkee	konar
 átökum	nhfþ	átök
 .	.	.
-
 Hún	fpven	hún
 hefði	svg3eþ	hafa
 beðið	ssg	bíða
@@ -4869,7 +4666,6 @@ hefðu	svg3fþ	hafa
 verið	ssg	vera
 afstaðin	lhfnsf	afstaðinn
 .	.	.
-
 Í	aþ	í
 málinu	nheþg	mál
 liggur	sfg3en	liggja
@@ -4887,7 +4683,6 @@ Birgi	nkeþ-s	Birgir
 Briem	nkeþ-s	Briem
 lækni	nkeþ	læknir
 .	.	.
-
 Þar	aa	þar
 kemur	sfg3en	koma
 fram	aa	fram
@@ -4902,7 +4697,6 @@ aðfaranótt	nveo	aðfaranótt
 apríl	nkee	apríl
 2004	ta	2004
 .	.	.
-
 Var	sfg3eþ	vera
 hann	fpken	hann
 þá	aa	þá
@@ -4921,7 +4715,6 @@ með	aþ	með
 fimm	tfhfþ	fimm
 sporum	nhfþ	spor
 .	.	.
-
 Á	aþ	á
 gagnaugasvæði	nheþ	gagnaugasvæði
 var	sfg3eþ	vera
@@ -4943,7 +4736,6 @@ með	aþ	með
 fimm	tfhfþ	fimm
 sporum	nhfþ	spor
 .	.	.
-
 Aftan	aa	aftan
 á	aþ	á
 hnakka	nkeþ	hnakki
@@ -4960,7 +4752,6 @@ spor	nhen	spor
 sett	sþghen	setja
 þar	aa	þar
 .	.	.
-
 Sári	nheþ	sár
 á	aþ	á
 nefi	nheþ	nef
@@ -4969,7 +4760,6 @@ lokað	sþghen	loka
 með	aþ	með
 plástri	nkeþ	plástur
 .	.	.
-
 Tíu	tfkfþ	tíu
 dögum	nkfþ	dagur
 seinna	aam	seint
@@ -4985,7 +4775,6 @@ nef-	nveo	nefdeild
 og	c	og
 eyrnadeild	nveo	eyrnadeild
 .	.	.
-
 Litu	sfg3fþ	líta
 skurðirnir	nkfng	skurður
 allir	fokfn	allur

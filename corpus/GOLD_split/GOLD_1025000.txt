@@ -3,9 +3,7 @@ Sigurbjörnsson	nken-s	Sigurbjörnsson
 vígir	sfg3en	vígja
 garðinn	nkeog	garður
 .	.	.
-
 Kórsöngur	nken	kórsöngur
-
 Jarðsetning	nven	jarðsetning
 duftkers	nhee	duftker
 Guðmundar	nkee-s	Guðmundur
@@ -18,7 +16,6 @@ er	sfg3en	vera
 vökumaður	nken	vökumaður
 garðsins	nkeeg	garður
 .	.	.
-
 Þegar	c	þegar
 þessar	favfn	þessi
 línur	nvfn	lína
@@ -39,7 +36,6 @@ og	c	og
 12	ta	12
 kistur	nvfn	kista
 .	.	.
-
 Ljóst	lhensf	ljós
 er	sfg3en	vera
 á	aþ	á
@@ -57,13 +53,10 @@ næststærsta	lheþve	næststærstur
 sveitarfélagi	nheþ	sveitarfélag
 landsins	nheeg	land
 .	.	.
-
 Bálfararbeiðni	nven	bálfararbeiðni
-
 Ágæti	lkenvf	ágætur
 lesandi	nken	lesandi
 !	!	!
-
 Líkbrennsla	nven	líkbrennsla
 hefur	sfg3en	hafa
 færst	ssm	færa
@@ -87,7 +80,6 @@ höfuðborgarsvæðinu	nheþg	höfuðborgarsvæði
 er	sfg3en	vera
 bálför	nven	bálför
 .	.	.
-
 Ekkert	fohen	enginn
 er	sfg3en	vera
 þó	aa	þó
@@ -136,7 +128,6 @@ duftkerið	nheng	duftker
 verður	sfg3en	verða
 jarðsett	sþghen	jarðsetja
 .	.	.
-
 Duftker	nhfn	duftker
 eru	sfg3fn	vera
 að	aþ	að
@@ -167,7 +158,6 @@ leyfi	nheþ	leyfi
 umsjónarmanns	nkee	umsjónarmaður
 leiðis	nhee	leiði
 .	.	.
-
 Sjá	sng	sjá
 2.	ta	2.
 gr.	as	gr.
@@ -179,19 +169,15 @@ greftrun	nveo	greftrun
 og	c	og
 líkbrennslu	nveo	líkbrennsla
 .	.	.
-
 Duftgarður	nken-s	duftgarður
 í	aþ	í
 Fossvogi	nkeþ-s	Fossvogur
 .	.	.
-
 Duftker	nhfn	duftker
-
 Duftreitur	nken	duftreitur
 í	aþ	í
 Gufuneskirkjugarði	nkeþ-s	Gufuneskirkjugarður
 .	.	.
-
 Fólk	nhen	fólk
 á	aþ	á
 öllum	fokeþ	allur
@@ -209,7 +195,6 @@ hafa	sng	hafa
 af	aþ	af
 dauðastundinni	nveþg	dauðastund
 .	.	.
-
 Hér	aa	hér
 þarf	sfg3en	þurfa
 fyrirhyggju	nveo	fyrirhyggja
@@ -223,7 +208,6 @@ fyrirhyggja	nven	fyrirhyggja
 er	sfg3en	vera
 skynsamleg	lvensf	skynsamlegur
 .	.	.
-
 Margir	lkfnsf	margur
 ,	,	,
 sem	ct	sem
@@ -262,7 +246,6 @@ vilji	nken	vilji
 þessum	fahfþ	þessi
 efnum	nhfþ	efni
 .	.	.
-
 Ef	c	ef
 þú	fp2en	þú
 ert	sfg2en	vera
@@ -279,7 +262,6 @@ n	x	n
 sjá	sng	sjá
 lög	nhfo	lag
 nr.	as	nr.
-
 71/1997	ta	71/1997
 )	)	)
 og	c	og
@@ -307,7 +289,6 @@ hér	aa	hér
 að	aa	að
 neðan	aa	neðan
 .	.	.
-
 Þú	fp2en	þú
 verður	sfg2en	verða
 að	cn	að
@@ -326,7 +307,6 @@ og	c	og
 heimilisföng	nhfo	heimilisfang
 þeirra	fpkfe	hann
 .	.	.
-
 Þú	fp2en	þú
 og	c	og
 þeir	fakfn	sá
@@ -361,7 +341,6 @@ sé	svg3en	vera
 með	aþ	með
 felldu	lheþsf	felldur
 .	.	.
-
 Viljayfirlýsingin	nveng	viljayfirlýsing
 verður	sfg3en	verða
 síðan	aa	síðan
@@ -370,7 +349,6 @@ geymd	sþgven	geyma
 tölvu	nveþ	tölva
 KGRP	as	KGRP
 .	.	.
-
 Ef	c	ef
 viljayfirlýsing	nven	viljayfirlýsing
 um	ao	um
@@ -414,7 +392,6 @@ vita	sng	vita
 um	ao	um
 það	fpheo	það
 .	.	.
-
 Í	aþ	í
 slíkum	fbhfþ	slíkur
 tilfellum	nhfþ	tilfelli
@@ -429,9 +406,7 @@ hér	aa	hér
 á	aþ	á
 netinu	nheþg	net
 .	.	.
-
 Starfsemi	nven	starfsemi
-
 Kirkjugarðsstjórnir	nvfn	kirkjugarðsstjórn
 á	aþ	á
 Íslandi	nheþ-s	Ísland
@@ -441,7 +416,6 @@ lögum	nhfþ	lag
 nr.	as	nr.
 36/1993	ta	36/1993
 .	.	.
-
 Í	aþ	í
 8.	ta	8.
 gr.	as	gr.
@@ -475,7 +449,6 @@ prófasta	nkfe	prófastur
 og	c	og
 biskups	nkee	biskup
 .	.	.
-
 Sóknarnefnd	nven	sóknarnefnd
 eða	c	eða
 sérnefnd	nven	sérnefnd
@@ -504,7 +477,6 @@ mælt	sþghen	mæla
 lögum	nhfþ	lag
 þessum	fahfþ	þessi
 .	.	.
-
 Er	sfg3en	vera
 hún	fpven	hún
 hér	aa	hér
@@ -513,7 +485,6 @@ nefnd	sþgven	nefna
 kirkjugarðsstjórn	nven	kirkjugarðsstjórn
 .	.	.
 »	»	»
-
 Kirkjugarðar	nkfn-s	Kirkjugarður
 Reykjavíkurprófastsdæma	nhfe-s	Reykjavíkurprófastsdæmi
 (	(	(
@@ -546,7 +517,6 @@ dóms-	nheþ	dómsmálaráðuneyti
 og	c	og
 kirkjumálaráðuneyti	nheþ	kirkjumálaráðuneyti
 .	.	.
-
 Starfsemi	nven	starfsemi
 KGRP	as	KGRP
 skiptist	sfm3en	skipta
@@ -557,10 +527,8 @@ til	aa	til
 fjögur	tfhfo	fjórir
 svið	nhfo	svið
 :	:	:
-
 1	ta	1
 .	.	.
-
 Þjónusta	nven	þjónusta
 í	aþ	í
 Fossvogskirkju	nveþ-s	Fossvogskirkja
@@ -568,38 +536,29 @@ Fossvogskirkju	nveþ-s	Fossvogskirkja
 sjá	sng	sjá
 þjónustubækling	nkeo	þjónustubæklingur
 .	.	.
-
 2	ta	2
 .	.	.
-
 Grafartaka	nven	grafartaka
 .	.	.
-
 3	ta	3
 .	.	.
-
 Viðhald	nhen	viðhald
 og	c	og
 hirðing	nven	hirðing
 garðanna	nkfeg	garður
 .	.	.
-
 4	ta	4
 .	.	.
-
 Almennt	lhensf	almennur
 skrifstofuhald	nhen	skrifstofuhald
 og	c	og
 stjórnun	nven	stjórnun
 .	.	.
-
 1	ta	1
 .	.	.
-
 Þjónusta	nven	þjónusta
 í	aþ	í
 Fossvogskirkju	nveþ-s	Fossvogskirkja
-
 Í	aþ	í
 Fossvogskirkju	nveþ-s	Fossvogskirkja
 er	sfg3en	vera
@@ -617,7 +576,6 @@ bálstofa	nven	bálstofa
 og	c	og
 skrifstofa	nven	skrifstofa
 .	.	.
-
 Fossvogskirkja	nven-s	Fossvogskirkja
 er	sfg3en	vera
 ekki	aa	ekki
@@ -649,7 +607,6 @@ allar	fovfo	allur
 kirkjulegar	lvfosf	kirkjulegur
 athafnir	nvfo	athöfn
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 meðaltalstölum	nvfþ	meðaltalstala
 koma	sfg3fn	koma
@@ -678,7 +635,6 @@ sína	feveo	sinn
 í	ao	í
 Fossvogskirkjugarð	nkeo-s	Fossvogskirkjugarður
 .	.	.
-
 Þrír	tfkfn	þrír
 starfsmenn	nkfn	starfsmaður
 sjá	sfg3fn	sjá
@@ -687,13 +643,11 @@ um	ao	um
 í	aþ	í
 Fossvogskirkju	nveþ-s	Fossvogskirkja
 .	.	.
-
 Verkefni	nhfn	verkefni
 þeirra	fpkfe	hann
 eru	sfg3fn	vera
 margþætt	lhfnsf	margþættur
 .	.	.
-
 Þeir	fpkfn	hann
 sjá	sfg3fn	sjá
 um	ao	um
@@ -708,7 +662,6 @@ prestar	nkfn	prestur
 biðja	sfg3fn	biðja
 um	aa	um
 .	.	.
-
 Þeir	fpkfn	hann
 taka	sfg3fn	taka
 á	aa	á
@@ -726,7 +679,6 @@ líkhúss	nhee	líkhús
 og	c	og
 bálstofu	nvee	bálstofa
 .	.	.
-
 Náin	lvensf	náinn
 samvinna	nven	samvinna
 er	sfg3en	vera
@@ -746,12 +698,9 @@ og	c	og
 við	ao	við
 athafnir	nvfo	athöfn
 .	.	.
-
 2	ta	2
 .	.	.
-
 Grafartaka	nven	grafartaka
-
 Árið	nheog	ár
 2005	ta	2005
 voru	sfg3fþ	vera
@@ -762,7 +711,6 @@ teknar	sþgvfn	taka
 kirkjugörðum	nkfþ	kirkjugarður
 KGRP	as	KGRP
 .	.	.
-
 Að	aþ	að
 meðaltali	nheþ	meðaltal
 eru	sfg3fn	vera
@@ -775,7 +723,6 @@ virka	lkfosf	virkur
 daga	nkfo	dagur
 ársins	nheeg	ár
 .	.	.
-
 Fjórir	tfkfn	fjórir
 starfsmenn	nkfn	starfsmaður
 vinna	sfg3fn	vinna
@@ -801,7 +748,6 @@ og	c	og
 hirðingu	nveþ	hirðing
 garðanna	nkfeg	garður
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 23.	ta	23.
 gr.	as	gr.
@@ -835,7 +781,6 @@ kistuloki	nheþ	kistulok
 á	ao	á
 grafarbarm	nkeo	grafarbarmur
 .	.	.
-
 Kirkjugarðsstjórn	nven	kirkjugarðsstjórn
 getur	sfg3en	geta
 heimilað	ssg	heimila
@@ -868,7 +813,6 @@ var	sfg3eþ	vera
 áður	aa	áður
 grafinn	sþgken	grafa
 .	.	.
-
 Skal	sfg3en	skulu
 þá	aa	þá
 grafardýpt	nven	grafardýpt
@@ -881,7 +825,6 @@ vera	sng	vera
 metri	nken	metri
 .	.	.
 »	»	»
-
 REGLUGERÐ	nven	reglugerð
 um	ao	um
 kistur	nvfo	kista
@@ -892,15 +835,12 @@ greftrun	nveo	greftrun
 og	c	og
 líkbrennslu	nveo	líkbrennsla
 .	.	.
-
 3	ta	3
 .	.	.
-
 Viðhald	nhen	viðhald
 og	c	og
 hirðing	nven	hirðing
 garðanna	nkfeg	garður
-
 Hjá	aþ	hjá
 KGRP	as	KGRP
 starfa	sfg3fn	starfa
@@ -909,7 +849,6 @@ garðyrkjumenn	nkfn	garðyrkjumaður
 allt	foheo	allur
 árið	nheog	ár
 .	.	.
-
 Starfsemi	nven	starfsemi
 garðyrkjustjóra	nkee	garðyrkjustjóri
 og	c	og
@@ -928,7 +867,6 @@ umhirðu	nvee	umhirða
 um	ao	um
 minnismerki	nhfo	minnismerki
 .	.	.
-
 Svo	aa	svo
 er	sfg3en	vera
 áratuga	nkfe	áratugur
@@ -963,7 +901,6 @@ og	c	og
 fegurð	nveo	fegurð
 náttúrunnar	nveeg	náttúra
 .	.	.
-
 Ef	c	ef
 til	aa	til
 vill	sfg3en	vilja
@@ -1000,7 +937,6 @@ sem	ct	sem
 eftir	aa	eftir
 lifa	sfg3fn	lifa
 .	.	.
-
 Yfir	ao	yfir
 sumartímann	nkeog	sumartími
 starfa	sfg3fn	starfa
@@ -1018,7 +954,6 @@ til	ae	til
 við	ao	við
 garðyrkjustörf	nhfo	garðyrkjustarf
 .	.	.
-
 Allt	fohen	allur
 er	sfg3en	vera
 reynt	sþghen	reyna
@@ -1038,7 +973,6 @@ til	ae	til
 þessa	fahee	þessi
 verkefnis	nhee	verkefni
 .	.	.
-
 Í	ao	í
 Hólavallagarð	nkeo-s	Hólavallagarður
 var	sfg3eþ	vera
@@ -1064,7 +998,6 @@ en	c	en
 milli	ae	milli
 heimsstyrjalda	nvfe	heimsstyrjöld
 .	.	.
-
 Tegundasamsetning	nven	tegundasamsetning
 trjágróðurs	nkee	trjágróður
 í	aþ	í
@@ -1085,7 +1018,6 @@ vígður	sþgken	vígja
 árið	nheog	ár
 1932	ta	1932
 .	.	.
-
 Gufuneskirkjugarður	nken-s	Gufuneskirkjugarður
 var	sfg3eþ	vera
 vígður	sþgken	vígja
@@ -1113,7 +1045,6 @@ og	c	og
 við	ao	við
 Suðurgötu	nveo-s	Suðurgata
 .	.	.
-
 Í	aþ	í
 görðunum	nkfþg	garður
 ber	sfg3en	bera
@@ -1125,7 +1056,6 @@ ilmreyni	nkeþ	ilmreynir
 og	c	og
 silfurreyni	nkeþ	silfurreynir
 .	.	.
-
 Þar	aa	þar
 er	sfg3en	vera
 einnig	aa	einnig
@@ -1135,7 +1065,6 @@ sitkagreni	nheþ	sitkagreni
 og	c	og
 Alaskaösp	nveþ-s	Alaskaösp
 .	.	.
-
 Einnig	aa	einnig
 má	sfg3en	mega
 sjá	sng	sjá
@@ -1148,7 +1077,6 @@ auk	ae	auk
 konar	nkee	konar
 runnategunda	nvfe	runnategund
 .	.	.
-
 Langflestir	lkfnse	langflestur
 aðstandendur	nkfn	aðstandandi
 þeirra	fakfe	sá
@@ -1167,7 +1095,6 @@ látinna	lkfesf	látinn
 ættingja	nkfe	ættingi
 sinna	fekfe	sinn
 .	.	.
-
 Þeir	fakfn	sá
 ,	,	,
 sem	ct	sem
@@ -1191,7 +1118,6 @@ og	c	og
 þess	fakee	sá
 háttar	nkee	háttur
 .	.	.
-
 Kostnaði	nkeþ	kostnaður
 við	ao	við
 slíka	fbveo	slíkur
@@ -1201,10 +1127,8 @@ haldið	sþghen	halda
 í	aþ	í
 lágmarki	nheþ	lágmark
 .	.	.
-
 REGLUR	nvfn	regla
 nr.	as	nr.
-
 787/2004	ta	787/2004
 um	ao	um
 stærð	nveo	stærð
@@ -1216,22 +1140,18 @@ umdæmi	nheþ	umdæmi
 kirkjugarða	nkfe	kirkjugarður
 Reykjavíkurprófastsdæma	nhfe-s	Reykjavíkurprófastsdæmi
 .	.	.
-
 4	ta	4
 .	.	.
-
 Almennt	lhensf	almennur
 skrifstofuhald	nhen	skrifstofuhald
 og	c	og
 stjórnun	nven	stjórnun
-
 Aðalskrifstofa	nven	aðalskrifstofa
 KGRP	as	KGRP
 er	sfg3en	vera
 í	aþ	í
 Fossvogi	nkeþ-s	Fossvogur
 .	.	.
-
 Þar	aa	þar
 starfa	sfg3fn	starfa
 3	ta	3
@@ -1262,7 +1182,6 @@ veitir	sfg3en	veita
 stofnuninni	nveþg	stofnun
 forstöðu	nveo	forstaða
 .	.	.
-
 Umsvif	nhfn	umsvif
 KGRP	as	KGRP
 er	sfg3en	vera
@@ -1274,7 +1193,6 @@ eða	c	eða
 meðal	lheoof	meðal
 sveitarfélag	nheo	sveitarfélag
 .	.	.
-
 Verkefnin	nhfng	verkefni
 eru	sfg3fn	vera
 margvísleg	lhfnsf	margvíslegur
@@ -1289,7 +1207,6 @@ króna	nvfe	króna
 á	aþ	á
 ári	nheþ	ár
 .	.	.
-
 Fjárveitingar	nvfn	fjárveiting
 ríkisins	nheeg	ríki
 til	ae	til
@@ -1324,7 +1241,6 @@ og	c	og
 fjölgun	nveo	fjölgun
 greftrana	nvfe	greftrun
 .	.	.
-
 Hver	foken	hver
 kirkjugarður	nken	kirkjugarður
 fær	sfg3en	fá
@@ -1344,7 +1260,6 @@ garði	nkeþ	garður
 grafarkostnaður	nken	grafarkostnaður
 )	)	)
 .	.	.
-
 Kirkjugarðaráð	nhen	Kirkjugarðaráð
 hefur	sfg3en	hafa
 falið	ssg	fela
@@ -1374,7 +1289,6 @@ fyrir	aþ	fyrir
 nokkrum	fohfþ	nokkur
 árum	nhfþ	ár
 .	.	.
-
 Á	aþ	á
 skrifstofum	nvfþ	skrifstofa
 KGRP	as	KGRP
@@ -1391,7 +1305,6 @@ ef	c	ef
 með	aa	með
 þarf	sfg3en	þurfa
 .	.	.
-
 Öflugt	lhensf	öflugur
 tölvukerfi	nhen	tölvukerfi
 heldur	sfg3en	halda
@@ -1433,15 +1346,11 @@ heima	aa	heima
 hjá	aþ	hjá
 sér	fpkfþ	sig
 .	.	.
-
 5	ta	5
 .	.	.
-
 Sérþjónusta	nven	sérþjónusta
-
 Sumarþjónustan	nveng	sumarþjónusta
 .	.	.
-
 Yfir	ao	yfir
 vorið	nheog	vor
 og	c	og
@@ -1451,7 +1360,6 @@ umferð	nven	umferð
 um	ao	um
 garðana	nkfog	garður
 .	.	.
-
 Margir	lkfnsf	margur
 setja	sfg3fn	setja
 sumarblóm	nhfo	sumarblóm
@@ -1467,7 +1375,6 @@ fegurri	lkeþvm	fagur
 heildarsvip	nkeþ	heildarsvipur
 garðanna	nkfeg	garður
 .	.	.
-
 Þeir	fpkfn	hann
 eru	sfg3fn	vera
 einnig	aa	einnig
@@ -1488,7 +1395,6 @@ hirðingu	nveo	hirðing
 og	c	og
 ráðgjöf	nveo	ráðgjöf
 .	.	.
-
 Starfsmenn	nkfn	starfsmaður
 kirkjugarðanna	nkfeg	kirkjugarður
 hafa	sfg3fn	hafa
@@ -1511,7 +1417,6 @@ hirðingu	nveo	hirðing
 yfir	ao	yfir
 sumarið	nheog	sumar
 .	.	.
-
 Leiðishafar	nkfn	leiðishafi
 eða	c	eða
 aðstandendur	nkfn	aðstandandi
@@ -1538,7 +1443,6 @@ t.d.	as	t.d.
 maí	nkeþ	maí
 )	)	)
 .	.	.
-
 Í	aþ	í
 kirkjugörðunum	nkfþg	kirkjugarður
 eru	sfg3fn	vera
@@ -1553,7 +1457,6 @@ eftir	aþ	eftir
 yfir	ao	yfir
 sumartímann	nkeog	sumartími
 .	.	.
-
 Þjónusta	nven	þjónusta
 á	aþ	á
 jólum	nhfþ	jól
@@ -1563,7 +1466,6 @@ allra	fokfe	allur
 heilagra	lkfesf	heilagur
 messu	nveþ	messa
 .	.	.
-
 Mikill	lkensf	mikill
 fjöldi	nken	fjöldi
 fólks	nhee	fólk
@@ -1585,7 +1487,6 @@ kirkjugarðana	nkfog	kirkjugarður
 á	aþ	á
 jólum	nhfþ	jól
 .	.	.
-
 Kirkjugarðarnir	nkfng	kirkjugarður
 veita	sfg3fn	veita
 sérstaka	lveosf	sérstakur
@@ -1596,7 +1497,6 @@ og	c	og
 aðfangadag	nkeo	aðfangadagur
 jóla	nhfe	jól
 .	.	.
-
 Þá	aa	þá
 eru	sfg3fn	vera
 starfsmenn	nkfn	starfsmaður
@@ -1612,7 +1512,6 @@ ef	c	ef
 með	aa	með
 þarf	sfg3en	þurfa
 .	.	.
-
 Algengt	lhensf	algengur
 er	sfg3en	vera
 orðið	sþghen	verða
@@ -1626,14 +1525,12 @@ jól	nhfo	jól
 og	c	og
 áramót	nhfo	áramót
 .	.	.
-
 Tvö	tfhfn	tveir
 fyrirtæki	nhfn	fyrirtæki
 bjóða	sfg3fn	bjóða
 þessa	faveo	þessi
 þjónustu	nveo	þjónusta
 .	.	.
-
 Nánari	lvfnvm	náinn
 upplýsingar	nvfn	upplýsing
 um	ao	um
@@ -1645,7 +1542,6 @@ veittar	sþgvfn	veita
 skrifstofum	nvfþ	skrifstofa
 garðanna	nkfeg	garður
 .	.	.
-
 Á	aþ	á
 allra	fokfe	allur
 heilagrar	lvensf	heilagur
@@ -1684,7 +1580,6 @@ ræða	sng	ræða
 við	ao	við
 prest	nkeo	prestur
 .	.	.
-
 Þessi	faven	þessi
 þjónusta	nven	þjónusta
 var	sfg3eþ	vera
@@ -1698,7 +1593,6 @@ almenn	lvensf	almennur
 með	ao	með
 hana	fpveo	hún
 .	.	.
-
 Þjónustan	nveng	þjónusta
 er	sfg3en	vera
 skipulögð	sþgven	skipuleggja
@@ -1708,14 +1602,11 @@ við	ao	við
 starfsmenn	nkfo	starfsmaður
 Reykjavíkurprófastsdæma	nhfe-s	Reykjavíkurprófastsdæmi
 .	.	.
-
 6	ta	6
 .	.	.
-
 Samskipti	nhfn	samskipti
 við	ao	við
 útlönd	nhfo	útland
-
 Viðskiptaleg	lhfnsf	viðskiptalegur
 sambönd	nhfn	samband
 eru	sfg3fn	vera
@@ -1727,7 +1618,6 @@ Danmörku	nveo-s	Danmörk
 og	c	og
 Svíþjóð	nveo-s	Svíþjóð
 .	.	.
-
 Kirkjugarðarnir	nkfng	kirkjugarður
 kaupa	sfg3fn	kaupa
 þaðan	aa	þaðan
@@ -1747,7 +1637,6 @@ jarðsetningu	nveo	jarðsetning
 og	c	og
 garðyrkju	nveo	garðyrkja
 .	.	.
-
 Fagleg	lhfnsf	faglegur
 samskipti	nhfn	samskipti
 eru	sfg3fn	vera
@@ -1775,7 +1664,6 @@ Kirkjugarðasamband	nheo-s	kirkjugarðasamband
 KGSÍ	as	KGSÍ
 )	)	)
 .	.	.
-
 Þess	fphee	það
 má	sfg3en	mega
 geta	sng	geta
@@ -1822,7 +1710,6 @@ að	c	að
 gert	sþghen	gera
 verði	svg3en	verða
 .	.	.
-
 Á	aþ	á
 Norðurlöndunum	nhfþgs	Norðurlönd
 voru	sfg3fþ	vera
@@ -1855,7 +1742,6 @@ Kirkegårds-	e	Kirkegårdsspörsmål
 og	e	og
 Krematoriespörsmål	e	Krematoriespörsmål
 .	.	.
-
 Þessi	fahfn	þessi
 tvö	tfhfn	tveir
 samtök	nhfn	samtök
@@ -1876,7 +1762,6 @@ kirkegårdar	e	kirkegårdar
 og	e	og
 krematorier	e	krematorier
 .	.	.
-
 Kirkjugarðar	nkfn	kirkjugarður
 Reykjavíkurprófastsdæma	nhfe-s	Reykjavíkurprófastsdæmi
 hafa	sfg3fn	hafa
@@ -1914,7 +1799,6 @@ mann	nkeo	maður
 stjórn	nveþ	stjórn
 NFKK	as	NFKK
 .	.	.
-
 Með	aþ	með
 sífellt	aa	sífellt
 meiri	lhfþvm	mikill
@@ -1958,7 +1842,6 @@ Noregs	nkee-s	Noregur
 í	aþ	í
 ESB	as	ESB
 .	.	.
-
 Faglegt	lhensf	faglegur
 og	c	og
 viðskiptalegt	lhensf	viðskiptalegur
@@ -1980,7 +1863,6 @@ sem	aa	sem
 og	c	og
 öðrum	fohfþ	annar
 .	.	.
-
 KGRP	as	KGRP
 eru	sfg3fn	vera
 í	aþ	í
@@ -2008,7 +1890,6 @@ lúta	sfg3fn	lúta
 að	aþ	að
 bálförum	nvfþ	bálför
 .	.	.
-
 Forstjóri	nken	forstjóri
 KGRP	as	KGRP
 er	sfg3en	vera
@@ -2018,9 +1899,7 @@ og	c	og
 siðfræðinefnd	nveþ	siðfræðinefnd
 sambandsins	nheeg	samband
 .	.	.
-
 Blindrafélagið	nheng	blindrafélagið
-
 Félagið	nheng	félag
 býður	sfg3en	bjóða
 upp	aa	upp
@@ -2039,7 +1918,6 @@ og	c	og
 til	ae	til
 þjónustuveitna	nvfe	þjónustuveita
 .	.	.
-
 Það	fphen	það
 veitir	sfg3en	veita
 félagsráðgjöf	nveo	félagsráðgjöf
@@ -2057,7 +1935,6 @@ eftirfylgd	nveo	eftirfylgd
 á	aþ	á
 vinnustað	nkeþ	vinnustaður
 .	.	.
-
 Það	fphen	það
 stendur	sfg3en	standa
 fyrir	aþ	fyrir
@@ -2100,7 +1977,6 @@ léttir	sfg3en	létta
 daglegt	lheosf	daglegur
 líf	nheo	líf
 .	.	.
-
 Félagið	nheng	félag
 hefur	sfg3en	hafa
 náð	ssg	ná
@@ -2115,7 +1991,6 @@ um	ao	um
 ferðaþjónustu	nveo	ferðaþjónusta
 blindra	lkfesf	blindur
 .	.	.
-
 Félagið	nheng	félag
 fylgist	sfm3en	fylgja
 með	aþ	með
@@ -2134,7 +2009,6 @@ hér	aa	hér
 á	aþ	á
 landi	nheþ	land
 .	.	.
-
 Félagið	nheng	félag
 hefur	sfg3en	hafa
 stuðlað	ssg	stuðla
@@ -2146,7 +2020,6 @@ með	aþ	með
 ýmsu	foheþ	ýmis
 móti	nheþ	mót
 .	.	.
-
 Blindrafélagið	nheng	blindrafélagið
 á	sfg3en	eiga
 fulltrúá	x	fulltrúi
@@ -2164,7 +2037,6 @@ að	aþ	að
 málefnum	nhfþ	málefni
 félagsmanna	nkfe	félagsmaður
 .	.	.
-
 Þá	aa	þá
 tekur	sfg3en	taka
 félagið	nheng	félag
@@ -2180,12 +2052,10 @@ blindra	lkfesf	blindur
 og	c	og
 sjónskertra	lkfesf	sjónskertur
 .	.	.
-
 Hverjir	fskfn	hver
 geta	sfg3fn	geta
 gerst	ssm	gera
 félagar	nkfn	félagi
-
 nemur	sfg3en	nema
 6/18	ta	6/18
 eða	c	eða
@@ -2218,7 +2088,6 @@ við	ao	við
 ákvörðun	nveo	ákvörðun
 aðalfundar	nkee	aðalfundur
 .	.	.
-
 Forráðamenn	nkfn	forráðamaður
 ólögráða	lhfesf	ólögráða
 barna	nhfe	barn
@@ -2238,7 +2107,6 @@ og	c	og
 skyldur	nvfo	skylda
 barnanna	nhfeg	barn
 .	.	.
-
 Sama	fbhen	sami
 á	sfg3en	eiga
 við	aa	við
@@ -2263,7 +2131,6 @@ gætt	ssg	gæta
 hagsmuna	nkfe	hagsmunir
 sinna	fekfe	sinn
 .	.	.
-
 Aðrir	fokfn	annar
 en	c	en
 að	aa	að
@@ -2281,7 +2148,6 @@ tillögurétt	nkeo	tillöguréttur
 á	aþ	á
 félagsfundum	nkfþ	félagsfundur
 .	.	.
-
 Styrktarfélagar	nkfn	styrktarfélagi
 eru	sfg3fn	vera
 kjörgengir	lkfnsf	kjörgengur
@@ -2309,7 +2175,6 @@ setu	nvee	seta
 í	aa	í
 »	»	»
 .	.	.
-
 Glitnir	nken-s	Glitnir
 heitir	sfg3en	heita
 á	ao	á
@@ -2317,12 +2182,10 @@ starfsmenn	nkfo	starfsmaður
 í	aþ	í
 Reykjavíkurmaraþoni	nheþ-s	Reykjavíkurmaraþon
 .	.	.
-
 Áheit	nhfn	áheit
 í	aþ	í
 Reykjavíkurmaraþoni	nheþ-s	Reykjavíkurmaraþon
 Glitnis	nkee-s	Glitnir
-
 Glitnir	nken-s	Glitnir
 hefur	sfg3en	hafa
 ákveðið	ssg	ákveða
@@ -2343,7 +2206,6 @@ verður	sfg3en	verða
 19.	ta	19.
 ágúst	nkeo	ágúst
 n.k.	as	n.k.
-
 Bankinn	nkeng	banki
 mun	sfg3en	munu
 greiða	sng	greiða
@@ -2365,7 +2227,6 @@ sem	ct	sem
 starfsmaðurinn	nkeng	starfsmaður
 velur	sfg3en	velja
 .	.	.
-
 Einnig	aa	einnig
 getur	sfg3en	geta
 almenningur	nken	almenningur
@@ -2386,7 +2247,6 @@ sem	ct	sem
 starfsmaðurinn	nkeng	starfsmaður
 valdi	sfg3eþ	velja
 .	.	.
-
 Þökkum	sfg1fn	þakka
 við	fp1fn	ég
 þeim	fpkfþ	hann
@@ -2399,7 +2259,6 @@ fyrirtæki	nhfo	fyrirtæki
 til	ae	til
 áheita	nhfe	áheit
 .	.	.
-
 Áheit	nhfn	áheit
 :	:	:
 www.glitnir.is	v	www.glitnir.is
@@ -2408,7 +2267,6 @@ Marathon	e	Marathon
 /	/	/
 Aheit	x	áheit
 /	/	/
-
 Nöfn	nhfn	nafn
 þeirra	fakfe	sá
 starfsmanna	nkfe	starfsmaður
@@ -2418,30 +2276,22 @@ heita	sfg3fn	heita
 Blindrafélagið	nheogs	Blindrafélagið
 eru	sfg3fn	vera
 :	:	:
-
 Björg	nven-s	Björg
 Þórarinsdóttir	nven-s	Þórarinsdóttir
-
 Elísabet	nven-s	Elísabet
 Hilmarsdóttir	nven-s	Hilmarsdóttir
-
 Erlingur	nken-s	Erlingur
 Þór	nken-s	Þór
 Tryggvason	nken-s	Tryggvason
-
 Hannes	nken-s	Hannes
 Guðmundsson	nken-s	Guðmundsson
-
 Ingibjörg	nven-s	Ingibjörg
 Ögmundsdóttir	nven-s	Ögmundsdóttir
-
 Sigurlína	nven-s	Sigurlína
 Dögg	nven-s	Dögg
 Tómasdóttir	nven-s	Tómasdóttir
-
 Tryggvi	nken-s	Tryggvi
 Björnsson	nken-s	Björnsson
-
 Allar	fovfo	allur
 nánari	lvfovm	náinn
 upplýsingar	nvfo	upplýsing
@@ -2455,15 +2305,12 @@ finna	sng	finna
 á	aþ	á
 www.glitnir.is	v	www.glitnir.is
 .	.	.
-
 Frá	aþ	frá
 Vestmannsvatni	nheþ-s	Vestmannsvatn
-
 Sumarbúðir	nvfn	sumarbúðir
 kirkjumiðstöðvarinnar	nveeg	kirkjumiðstöð
 við	ao	við
 Vestmannsvatn	nheo-s	Vestmannsvatn
-
 Fyrir	ao	fyrir
 eldri	lkfovm	gamall
 borgara	nkfo	borgari
@@ -2489,7 +2336,6 @@ eins	tfkee	einn
 manns	nkee	maður
 herbergi	nheþ	herbergi
 .	.	.
-
 Staðfestingargjald	nhen	staðfestingargjald
 er	sfg3en	vera
 kr.	as	kr.
@@ -2501,14 +2347,12 @@ viku	nvee	vika
 frá	aþ	frá
 skráningu	nveþ	skráning
 .	.	.
-
 Boðið	sþghen	bjóða
 er	sfg3en	vera
 upp	aa	upp
 á	ao	á
 visa-Raðgreiðslur	nvfo	visa-raðgreiðsla
 .	.	.
-
 Skráning	nven	skráning
 fer	sfg3en	fara
 fram	aa	fram
@@ -2526,16 +2370,13 @@ Aðalgeiri	nkeþ-s	Aðalgeir
 Sigurðssyni	nkeþ-s	Sigurðsson
 framkvæmdastjóra	nkeþ	framkvæmdastjóri
 .	.	.
-
 Vorhappdrætti	nhen	vorhappdrætti
 Blindrafélagsins	nheegs	Blindrafélagið
-
 Útdráttur	nken	útdráttur
 9.	ta	9.
 júní	nkeo	júní
 2006	ta	2006
 Vinningaskrá	nven	vinningaskrá
-
 Gistivinningur	nken	gistivinningur
 á	aþ	á
 einhverju	foheþ	einhver
@@ -2552,7 +2393,6 @@ kvöldverðar	nkee	kvöldverður
 ,	,	,
 kr.	as	kr.
 43.700	ta	43.700
-
 Vinninga	nkfe	vinningur
 ber	sfg3en	bera
 að	cn	að
@@ -2569,14 +2409,11 @@ Hamrahlíð	nveþ-s	Hamrahlíð
 105	ta	105
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Birt	sþghen	birta
 án	ae	án
 ábyrgðar	nvee	ábyrgð
 .	.	.
-
 Samskipti	nhfn	samskipti
-
 Blindrafélagið	nheng	blindrafélagið
 -	-	-
 Samtök	nhfn-s	Samtök
@@ -2585,18 +2422,15 @@ og	c	og
 sjónskertra	lkfesf	sjónskertur
 á	aþ	á
 Íslandi	nheþ-s	Ísland
-
 Hamrahlíð	nveþ-s	Hamrahlíð
 17	ta	17
 ,	,	,
 105	ta	105
 Reykjavík	nveþ-s	Reykjavík
 -	-	-
-
 Vorferð	nven	vorferð
 opins	lheesf	opinn
 húss	nhee	hús
-
 Þriðjudaginn	nkeog	þriðjudagur
 30.	ta	30.
 maí	nkeo	maí
@@ -2607,7 +2441,6 @@ vorferð	nveo	vorferð
 opins	lheesf	opinn
 húss	nhee	hús
 .	.	.
-
 Lagt	sþghen	leggja
 verður	sfg3en	verða
 af	aþ	af
@@ -2617,7 +2450,6 @@ Hamrahlíð	nveþ-s	Hamrahlíð
 kl.	as	kl.
 13:00	ta	13:00
 .	.	.
-
 Keyrt	sþghen	keyra
 eins	aa	eins
 og	c	og
@@ -2645,7 +2477,6 @@ Borgarfjarðar	nkee-s	Borgarfjörður
 verður	sfg3en	verða
 skoðað	sþghen	skoða
 .	.	.
-
 Þar	aa	þar
 eru	sfg3fn	vera
 tvær	tfvfn	tveir
@@ -2656,14 +2487,12 @@ Egilssýning	nven-s	Egilssýning
 og	c	og
 Landnámssýning	nven-s	landnámssýning
 .	.	.
-
 Snæddur	sþgken	snæða
 verður	sfg3en	verða
 kvöldverður	nken	kvöldverður
 á	aþ	á
 staðnum	nkeþg	staður
 .	.	.
-
 Borinn	sþgken	bera
 verður	sfg3en	verða
 fram	aa	fram
@@ -2675,7 +2504,6 @@ og	c	og
 gljáðu	lheþsf	gljáður
 grænmeti	nheþ	grænmeti
 .	.	.
-
 Í	ao	í
 eftirrétt	nkeo	eftirréttur
 veður	x	veður
@@ -2683,14 +2511,12 @@ kaffi	nhen	kaffi
 og	c	og
 gulrótarkaka	nven	gulrótarkaka
 .	.	.
-
 Verð	nhen	verð
 alls	fohee	allur
 á	ao	á
 mann	nkeo	maður
 kr.	as	kr.
 3.200,-	ta	3.200,-
-
 Endilega	aa	endilega
 látið	sbg2fn	láta
 skrá	sng	skrá
@@ -2701,9 +2527,7 @@ hjá	aþ	hjá
 Hörpu	nveþ-s	Harpa
 eða	c	eða
 Steinunni	nveþ-s	Steinunn
-
 ATH.	as	ATH.
-
 Þennan	fakeo	þessi
 dag	nkeo	dagur
 verður	sfg3en	verða
@@ -2713,19 +2537,16 @@ hús	nhen	hús
 í	aþ	í
 Hamrahlíð	nveþ-s	Hamrahlíð
 17	ta	17
-
 Skólamál	nhfn	skólamál
 blindra	lhfesf	blindur
 barna	nhfe	barn
 í	aþ	í
 ólestri	nkeþ	ólestur
 .	.	.
-
 Ályktun	nven	ályktun
 aðalfundar	nkee	aðalfundur
 Blindrafélagsins	nheegs	Blindrafélagið
 .	.	.
-
 Ályktun	nven	ályktun
 borin	sþgven	bera
 upp	aa	upp
@@ -2740,7 +2561,6 @@ Blindrafélagsins	nheegs	Blindrafélagið
 maí	nkeo	maí
 2006	ta	2006
 .	.	.
-
 «	«	«
 Aðalfundur	nken	aðalfundur
 Blindrafélagsins	nheegs	Blindrafélagið
@@ -2773,7 +2593,6 @@ niður	aa	niður
 haustið	nheog	haust
 2004	ta	2004
 .	.	.
-
 Fundurinn	nkeng	fundur
 hvetur	sfg3en	hvetja
 menntamálaráðherra	nkeo	menntamálaráðherra
@@ -2802,7 +2621,6 @@ nám	nheo	nám
 grunnskólum	nkfþ	grunnskóli
 landsins	nheeg	land
 .	.	.
-
 Þeim	fphfþ	það
 til	ae	til
 viðbótar	nvee	viðbót
@@ -2823,7 +2641,6 @@ eru	sfg3fn	vera
 á	aþ	á
 framhaldsskólaaldri	nkeþ	framhaldsskólaaldur
 .	.	.
-
 Ráðgjöf	nven	ráðgjöf
 fyrir	ao	fyrir
 þennan	fakeo	þessi
@@ -2834,7 +2651,6 @@ af	aþ	af
 skornum	lkeþsf	skorinn
 skammti	nkeþ	skammtur
 .	.	.
-
 Einungis	aa	einungis
 einn	tfken	einn
 blindrakennari	nken	blindrakennari
@@ -2859,7 +2675,6 @@ nú	aa	nú
 í	ao	í
 vor	nheo	vor
 .	.	.
-
 Í	ao	í
 haust	nheo	haust
 blasir	sfg3en	blasa
@@ -2870,7 +2685,6 @@ neyðarástand	nhen	neyðarástand
 þessum	fahfþ	þessi
 málum	nhfþ	mál
 .	.	.
-
 Enginn	foken	enginn
 blindrakennari	nken	blindrakennari
 hefur	sfg3en	hafa
@@ -2880,7 +2694,6 @@ til	ae	til
 þessara	fahfe	þessi
 starfa	nhfe	starf
 .	.	.
-
 Leita	sng	leita
 verður	sfg3en	verða
 leiða	nvfe	leið
@@ -2897,7 +2710,6 @@ og	c	og
 sjónskertra	lhfesf	sjónskertur
 barna	nhfe	barn
 .	.	.
-
 Grunnskólar	nkfn	grunnskóli
 landsins	nheeg	land
 hafa	sfg3fn	hafa
@@ -2914,7 +2726,6 @@ sinna	sng	sinna
 þessara	fahfe	þessi
 barna	nhfe	barn
 .	.	.
-
 Aðalfundurinn	nkeng	aðalfundur
 minnir	sfg3en	minna
 á	ao	á
@@ -2967,7 +2778,6 @@ sjónskertra	lhfesf	sjónskertur
 barna	nhfe	barn
 .	.	.
 »	»	»
-
 Aðalfundur	nken	aðalfundur
 Blindrafélagsins	nheegs	Blindrafélagið
 var	sfg3eþ	vera
@@ -2979,7 +2789,6 @@ að	aþ	að
 Hamrahlíð	nveþ-s	Hamrahlíð
 17	ta	17
 .	.	.
-
 Kosnir	sþgkfn	kjósa
 voru	sfg3fþ	vera
 2	ta	2
@@ -2992,24 +2801,20 @@ og	c	og
 í	ao	í
 varastjórn	nveo	varastjórn
 .	.	.
-
 Atkvæði	nhfn	atkvæði
 féllu	sfg3fþ	falla
 sem	ct	sem
 hér	aa	hér
 segir	sfg3en	segja
 :	:	:
-
 til	ae	til
 stjórnar	nvee	stjórn
 :	:	:
-
 Kristinn	nken-s	Kristinn
 Einarsson	nken-s	Einarsson
 ,	,	,
 45	ta	45
 atkvæði	nhfn	atkvæði
-
 Kolbrún	nven-s	Kolbrún
 H.	as	H.
 Sigurjónsdóttir	nven-s	Sigurjónsdóttir
@@ -3022,39 +2827,33 @@ Már	nken-s	Már
 ,	,	,
 14	ta	14
 atkvæði	nhfn	atkvæði
-
 Sveinn	nken-s	Sveinn
 Lúðvík	nken-s	Lúðvík
 Björnsson	nken-s	Björnsson
 ,	,	,
 11	ta	11
 atkvæði	nhfn	atkvæði
-
 Bergvin	nken-s	Bergvin
 Oddsson	nken-s	Oddsson
 ,	,	,
 9	ta	9
 atkvæði	nhfn	atkvæði
-
 Einar	nken-s	Einar
 Lee	e	Lee
 ,	,	,
 5	ta	5
 atkvæði	nhfn	atkvæði
-
 Auðir	lkfnsf	auður
 ,	,	,
 1	ta	1
 atkvæði	nhfn	atkvæði
 .	.	.
-
 Alls	aa	alls
 greiddu	sfg3fþ	greiða
 64	ta	64
 einstaklingar	nkfn	einstaklingur
 128	ta	128
 atkvæði	nhfo	atkvæði
-
 Kristinn	nken-s	Kristinn
 og	c	og
 Kolbrún	nven-s	Kolbrún
@@ -3064,42 +2863,35 @@ réttkjörin	lhfnsf	réttkjörinn
 í	ao	í
 aðalstjórn	nveo	aðalstjórn
 .	.	.
-
 Til	ae	til
 varastjórnar	nvee	varastjórn
 :	:	:
-
 Gunnar	nken-s	Gunnar
 Már	nken-s	Már
 Óskarsson	nken-s	Óskarsson
 ,	,	,
 36	ta	36
 atkvæði	nhfn	atkvæði
-
 Sveinn	nken-s	Sveinn
 Luðvík	x	Lúðvík
 Björnsson	nken-s	Björnsson
 ,	,	,
 30	ta	30
 atkvæði	nhfn	atkvæði
-
 Sigurjón	nken-s	Sigurjón
 Einarsson	nken-s	Einarsson
 ,	,	,
 25	ta	25
 atkvæði	nhfn	atkvæði
-
 Bergvin	nken-s	Bergvin
 Oddsson	nken-s	Oddsson
 ,	,	,
 15	ta	15
 atkvæði	nhfn	atkvæði
-
 Auðir	lkfnsf	auður
 ,	,	,
 22	ta	22
 atkvæði	nhfn	atkvæði
-
 Gunnar	nken-s	Gunnar
 Már	nken-s	Már
 og	c	og
@@ -3111,7 +2903,6 @@ réttkjörnir	lkfnsf	réttkjörinn
 í	ao	í
 varastjórn	nveo	varastjórn
 .	.	.
-
 Eftirtalin	lhfnsf	eftirtalinn
 voru	sfg3fþ	vera
 kosnir	lkfnsf	kosinn
@@ -3120,7 +2911,6 @@ félagsins	nheeg	félag
 hjá	aþ	hjá
 ÖBÍ	as	ÖBÍ
 :	:	:
-
 Halldór	nken-s	Halldór
 Sævar	nken-s	Sævar
 Guðbergsson	nken-s	Guðbergsson
@@ -3128,24 +2918,20 @@ Guðbergsson	nken-s	Guðbergsson
 fulltrúi	nken	fulltrúi
 í	aþ	í
 aðasstjórn	nkeþ	aðalstjórn
-
 Helgi	nken-s	Helgi
 Hjörvar	nken-s	Hjörvar
 ,	,	,
 í	ao	í
 fulltrúaráð	nheo	fulltrúaráð
-
 Ásrún	nven-s	Ásrún
 Hauksdóttir	nven-s	Hauksdóttir
 ,	,	,
 í	ao	í
 fulltrúaráð	nheo	fulltrúaráð
 .	.	.
-
 Til	ae	til
 vara	nkee	vari
 :	:	:
-
 Brynja	nven-s	Brynja
 Arthúrsdóttir	nven-s	Arthúrsdóttir
 ,	,	,
@@ -3154,73 +2940,52 @@ Einarsson	nken-s	Einarsson
 ,	,	,
 Bergvin	nken-s	Bergvin
 Oddsson	nken-s	Oddsson
-
 Í	aþ	í
 skemmtinefnd	nveþ	skemmtinefnd
 :	:	:
-
 Karl	nken-s	Karl
 Vignir	nken-s	Vignir
 Þorsteinsson	nken-s	Þorsteinsson
-
 Brynja	nven-s	Brynja
 Arthúrsdóttir	nven-s	Arthúrsdóttir
-
 Steinunn	nven-s	Steinunn
 Hákonardóttir	nven-s	Hákonardóttir
-
 Jón	nken-s	Jón
 Hjalti	nken-s	Hjalti
 Sigurðsson	nken-s	Sigurðsson
-
 Jóna	nven-s	Jóna
 Garðarsdóttir	nven-s	Garðarsdóttir
-
 Grímur	nken-s	Grímur
 Þóroddsson	nken-s	Þóroddsson
-
 Sigurjón	nken-s	Sigurjón
 Einarsson	nken-s	Einarsson
-
 Þórður	nken-s	Þórður
 Jónsson	nken-s	Jónsson
-
 í	aþ	í
 tómstundanefnd	nveþ	tómstundanefnd
 :	:	:
-
 Friðgeir	nken-s	Friðgeir
 Jóhannesson	nken-s	Jóhannesson
-
 Karl	nken-s	Karl
 Vignir	nken-s	Vignir
 Þorsteinsson	nken-s	Þorsteinsson
-
 Harpa	nven-s	Harpa
 Völundardóttir	nven-s	Völundardóttir
-
 Halla	nven-s	Halla
 Guðmundsdóttir	nven-s	Guðmundsdóttir
-
 Hrafnhildur	nven-s	Hrafnhildur
 Bergsveinsdóttir	nven-s	Bergsveinsdóttir
-
 Guðlaug	nven-s	Guðlaug
 Erlendsdóttir	nven-s	Erlendsdóttir
-
 Auður	nven-s	Auður
 Sveinsdóttir	nven-s	Sveinsdóttir
-
 í	aþ	í
 kjörnefnd	nveþ	kjörnefnd
 :	:	:
-
 Brynja	nven-s	Brynja
 Arthúrsdóttir	nven-s	Arthúrsdóttir
-
 Bessi	nken-s	Bessi
 Gíslason	nken-s	Gíslason
-
 Ragnar	nken-s	Ragnar
 R	x	R
 Magnússon	nken-s	Magnússon
@@ -3229,7 +2994,6 @@ vara	nkee	vari
 :	:	:
 Sigtryggur	nken-s	Sigtryggur
 Eyþórsson	nken-s	Eyþórsson
-
 Þrátt	aa	þrátt
 fyrir	ao	fyrir
 kosningarnar	nvfog	kosning
@@ -3248,7 +3012,6 @@ var	sfg3eþ	vera
 mjög	aa	mjög
 jákvæð	lhfnsf	jákvæður
 .	.	.
-
 Úti	aa	úti
 var	sfg3eþ	vera
 sólskin	nhen	sólskin
@@ -3268,7 +3031,6 @@ en	c	en
 oft	aa	oft
 áður	aa	áður
 .	.	.
-
 Í	aþ	í
 hádeginu	nheþg	hádegi
 var	sfg3eþ	vera
@@ -3284,7 +3046,6 @@ kokkinum	nkeþg	kokkur
 lok	nhfo	lok
 fundar	nkee	fundur
 .	.	.
-
 Gerð	sþgven	gera
 verður	sfg3en	verða
 sérstök	lvensf	sérstakur
@@ -3297,13 +3058,11 @@ var	sfg3eþ	vera
 á	aþ	á
 fundinum	nkeþg	fundur
 .	.	.
-
 Undirritaður	sþgken	undirrita
 samningur	nken	samningur
 við	ao	við
 118	ta	118
 .	.	.
-
 Nú	aa	nú
 hafa	sfg3fn	hafa
 bæði	fohfn	báðir
@@ -3322,7 +3081,6 @@ upplýsingum	nvfþ	upplýsing
 um	ao	um
 símanúmer	nhfo	símanúmer
 .	.	.
-
 Nú	aa	nú
 gildir	sfg3en	gilda
 samningurinn	nkeng	samningur
@@ -3336,7 +3094,6 @@ sem	ct	sem
 úr	aþ	úr
 heimasímum	nkfþ	heimasími
 .	.	.
-
 Á	aþ	á
 myndinni	nveþg	mynd
 eru	sfg3fn	vera
@@ -3347,7 +3104,6 @@ undirrita	sng	undirrita
 góðan	lkeosf	góður
 samning	nkeo	samningur
 .	.	.
-
 Sumarbúðir	nvfn	sumarbúðir
 kirkjumiðstöðvarinnar	nveeg	kirkjumiðstöð
 við	ao	við
@@ -3365,15 +3121,12 @@ júlí	nkee	júlí
 Auglýst	sþghen	auglýsa
 nánar	aam	náið
 síðar	aam	síðar
-
 Frá	aþ	frá
 Vestmannsvatni	nheþ-s	Vestmannsvatn
-
 Orlofsvikur	nvfn	orlofsvika
 Bergmáls	nhee-s	Bergmál
 á	aþ	á
 Sólheimum	nkfþ-s	Sólheimar
-
 Eins	aa	eins
 og	c	og
 undanfarin	lhfosf	undanfarinn
@@ -3400,7 +3153,6 @@ Grímsnesi	nheþ-s	Grímsnes
 að	aþ	að
 kostnaðarlausu	lheþsf	kostnaðarlaus
 .	.	.
-
 Fyrri	lvenvm	fyrri
 vikan	nveng	vika
 er	sfg3en	vera
@@ -3419,7 +3171,6 @@ til	ae	til
 31.	ta	31.
 ágúst	nkee	ágúst
 .	.	.
-
 Fjölbreytt	lvensf	fjölbreyttur
 dagskrá	nven	dagskrá
 verður	sfg3en	verða
@@ -3433,7 +3184,6 @@ kvöldvökur	nvfn	kvöldvaka
 með	aþ	með
 listafólki	nheþ	listafólk
 .	.	.
-
 Skráning	nven	skráning
 er	sfg3en	vera
 hafin	sþgven	hefja
@@ -3448,7 +3198,6 @@ fyrir	ao	fyrir
 15.	ta	15.
 maí	nkeo	maí
 nk.	as	nk.
-
 Allar	fovfn	allur
 nánari	lvfnvm	náinn
 upplýsingar	nvfn	upplýsing
@@ -3459,12 +3208,10 @@ formanni	nkeþ	formaður
 og	c	og
 varaformanni	nkeþ	varaformaður
 .	.	.
-
 Frábær	lvensf	frábær
 starfsmannaferð	nven	starfsmannaferð
 Blindravinnustofunnar	nveegs	Blindravinnustofan
 .	.	.
-
 Blindravinnustofan	nveng	blindravinnustofan
 fór	sfg3eþ	fara
 ásamt	aþ	ásamt
@@ -3476,7 +3223,6 @@ Veiðisafnið	nheogs	Veiðisafnið
 á	aþ	á
 Stokkseyri	nveþ-s	Stokkseyri
 .	.	.
-
 Farið	sþghen	fara
 var	sfg3eþ	vera
 eftir	ao	eftir
@@ -3488,7 +3234,6 @@ um	ao	um
 um	ao	um
 kvöldið	nheog	kvöld
 .	.	.
-
 Haldið	sþghen	halda
 var	sfg3eþ	vera
 eins	aa	eins
@@ -3504,7 +3249,6 @@ Stokkseyri	nveo-s	Stokkseyri
 blíðskapar	nkee	blíðskapur
 veðri	nheþ	veður
 .	.	.
-
 Ekið	sþghen	aka
 var	sfg3eþ	vera
 um	ao	um
@@ -3515,7 +3259,6 @@ og	c	og
 umhverfinu	nheþg	umhverfi
 lýst	sþghen	lýsa
 .	.	.
-
 M.a.	as	M.a.
 sagt	sþghen	segja
 frá	aþ	frá
@@ -3527,7 +3270,6 @@ sem	ct	sem
 er	sfg3en	vera
 væntanleg	lvensf	væntanlegur
 .	.	.
-
 Síðan	aa	síðan
 var	sfg3eþ	vera
 farið	sþghen	fara
@@ -3551,14 +3293,12 @@ heimsóknin	nveng	heimsókn
 þeirra	fpkfe	hann
 boði	nheþ	boð
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 eins	fokee	einn
 konar	nkee	konar
 snertisafarí	nhen	snertisafarí
 .	.	.
-
 Útbýtt	sþghen	útbýta
 var	sfg3eþ	vera
 einnota	lkfþof	einnota
@@ -3571,7 +3311,6 @@ ekki	aa	ekki
 feld	nkeo	feldur
 dýranna	nhfeg	dýr
 .	.	.
-
 Þá	aa	þá
 var	sfg3eþ	vera
 farinn	sþgken	fara
@@ -3585,7 +3324,6 @@ bak	nheo	bak
 og	c	og
 fyrir	aa	fyrir
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 gullið	lhensf	gullinn
@@ -3608,7 +3346,6 @@ sem	ct	sem
 þarna	aa	þarna
 voru	sfg3fþ	vera
 .	.	.
-
 Þeir	fakfn	sá
 sem	ct	sem
 sjónskertir	lkfnsf	sjónskertur
@@ -3628,7 +3365,6 @@ við	ao	við
 eðlilegar	lvfosf	eðlilegur
 aðstæður	nvfo	aðstæður
 .	.	.
-
 Páll	nken-s	Páll
 eigandi	nken	eigandi
 safnsins	nheeg	safn
@@ -3641,7 +3377,6 @@ að	aþ	að
 árlegum	lkeþsf	árlegur
 viðburði	nkeþ	viðburður
 .	.	.
-
 Hann	fpken	hann
 og	c	og
 kona	nven	kona
@@ -3655,7 +3390,6 @@ safnsins	nheeg	safn
 að	aþ	að
 lífsstíl	nkeþ	lífsstíll
 .	.	.
-
 Þau	fphfn	það
 hafa	sfg3fn	hafa
 með	aþ	með
@@ -3686,7 +3420,6 @@ sem	ct	sem
 hér	aa	hér
 búum	sfg1fn	búa
 .	.	.
-
 Að	aþ	að
 heimsókninni	nveþg	heimsókn
 í	ao	í
@@ -3707,7 +3440,6 @@ og	c	og
 Prins	nxen-s	prins
 Póló	nhen-s	Póló
 .	.	.
-
 Gengið	sþghen	ganga
 var	sfg3eþ	vera
 út	aa	út
@@ -3720,7 +3452,6 @@ með	aþ	með
 mikilli	lveþsf	mikill
 áfergju	nveþ	áfergja
 .	.	.
-
 Síðan	aa	síðan
 var	sfg3eþ	vera
 haldið	sþghen	halda
@@ -3737,7 +3468,6 @@ utan	aa	utan
 við	ao	við
 þorpið	nheog	þorp
 .	.	.
-
 Þar	aa	þar
 beið	sfg3eþ	bíða
 gesta	nkfe	gestur
@@ -3750,7 +3480,6 @@ og	c	og
 fersku	lheþsf	ferskur
 salati	nheþ	salat
 .	.	.
-
 Í	aþ	í
 rútinni	x	rúta
 var	sfg3eþ	vera
@@ -3764,7 +3493,6 @@ gamansögur	nvfn	gamansaga
 og	c	og
 fróðleiksmolar	nkfn	fróðleiksmoli
 .	.	.
-
 Allir	fokfn	allur
 skemmtu	sfg3fþ	skemmta
 sér	fpkfþ	sig
@@ -3775,17 +3503,13 @@ vel	aa	vel
 af	aþ	af
 ferðinni	nveþg	ferð
 .	.	.
-
 Kvennadeild	nven	kvennadeild
 -	-	-
 Rauðará	nven-s	Rauðará
-
 Frá	aþ	frá
 kvennadeild	nveþ	kvennadeild
-
 Halló	au	halló
 stelpur	nvfn	stelpa
-
 Nú	aa	nú
 er	sfg3en	vera
 komið	sþghen	koma
@@ -3803,7 +3527,6 @@ förum	svg1fn	fara
 að	cn	að
 borða	sng	borða
 .	.	.
-
 Föstudaginn	nkeog	föstudagur
 12.	ta	12.
 maí	nkeo	maí
@@ -3829,7 +3552,6 @@ framreiddur	sþgken	framreiða
 rétta	nkfe	réttur
 málsverður	nken	málsverður
 .	.	.
-
 Valið	nheng	val
 verður	sfg3en	verða
 á	aa	á
@@ -3845,7 +3567,6 @@ eftirrétt	nkeo	eftirréttur
 verður	sfg3en	verða
 ostakaka	nven	ostakaka
 .	.	.
-
 Verð	nhen	verð
 á	ao	á
 mann	nkeo	maður
@@ -3862,7 +3583,6 @@ að	aþ	að
 sögn	nveþ	sögn
 Stefáns	nkee-s	Stefán
 stórkokks	nkee	stórkokkur
-
 Skráning	nven	skráning
 fer	sfg3en	fara
 fram	aa	fram
@@ -3876,24 +3596,17 @@ en	c	en
 9.	ta	9.
 maí	nkeo	maí
 .	.	.
-
 Stjórn	nven	stjórn
 kvennadeildar	nvee	kvennadeild
 :	:	:
-
 Ásrún	nven-s	Ásrún
-
 Arnbjörg	nven-s	Arnbjörg
-
 Jolee	e	Jolee
-
 Lilja	nven-s	Lilja
-
 Utankjörfundarkosning	nven	utankjörfundarkosning
 vegna	ae	vegna
 aðalfundar	nkee	aðalfundur
 .	.	.
-
 Utankjörundarkosning	nven	utankjörundarkosning
 er	sfg3en	vera
 hafin	sþgven	hefja
@@ -3906,7 +3619,6 @@ til	ae	til
 stjórnar	nvee	stjórn
 félagsins	nheeg	félag
 .	.	.
-
 Þeir	fakfn	sá
 sem	ct	sem
 verða	sfg3fn	verða
@@ -3926,7 +3638,6 @@ sér	fpkfþ	sig
 þennan	fakeo	þessi
 kost	nkeo	kostur
 .	.	.
-
 Dagskrá	nven	dagskrá
 aðalfundar	nkee	aðalfundur
 Blindrafélagsins	nheegs	Blindrafélagið
@@ -3934,7 +3645,6 @@ Blindrafélagsins	nheegs	Blindrafélagið
 maí	nkeo	maí
 2006	ta	2006
 .	.	.
-
 Í	aþ	í
 samræmi	nheþ	samræmi
 við	ao	við
@@ -3954,60 +3664,46 @@ Hamrahlíð	nveþ-s	Hamrahlíð
 17	ta	17
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Fundurinn	nkeng	fundur
 hefst	sfm3en	hefja
 kl.	as	kl.
 10	ta	10
 árdegis	aa	árdegis
 .	.	.
-
 Dagskrá	nven	dagskrá
 samkvæmt	aþ	samkvæmt
 lögum	nhfþ	lag
 félagsins	nheeg	félag
 :	:	:
-
 1	ta	1
 .	.	.
-
 Formaður	nken	formaður
 félagsins	nheeg	félag
 setur	sfg3en	setja
 fund	nkeo	fundur
 .	.	.
-
 2	ta	2
 .	.	.
-
 Kosning	nven	kosning
 fundarstjóra	nkee	fundarstjóri
 og	c	og
 fundarritara	nkee	fundarritari
-
 3	ta	3
 .	.	.
-
 Kynning	nven	kynning
 viðstaddra	lkfesf	viðstaddur
-
 4	ta	4
 .	.	.
-
 Látinna	lkfesf	látinn
 aðalfélaga	nkfe	aðalfélagi
 minnst	sþmhen	minna
-
 5	ta	5
 .	.	.
-
 Inntaka	nven	inntaka
 nýrra	lkfesf	nýr
 félaga	nkfe	félagi
-
 6	ta	6
 .	.	.
-
 Fundargerð	nven	fundargerð
 síðasta	lkeeve	síðari
 aðalfundar	nkee	aðalfundur
@@ -4015,35 +3711,28 @@ borin	sþgven	bera
 upp	aa	upp
 til	ae	til
 samþykktar	nvee	samþykkt
-
 7.	ta	7.
-
 Skýrslur	nvfn	skýrsla
 lagðar	sþgvfn	leggja
 fram	aa	fram
 :	:	:
-
 a	x	a
 )	)	)
 Formaður	nken	formaður
 flytur	sfg3en	flytja
 skýrslu	nveo	skýrsla
 stjórnar	nvee	stjórn
-
 b	x	b
 )	)	)
 Umræður	nvfn	umræða
 um	ao	um
 skýrslur	nvfo	skýrsla
-
 8.	ta	8.
-
 Ársreikningar	nkfn	ársreikningur
 fyrir	ao	fyrir
 árið	nheog	ár
 2005	ta	2005
 :	:	:
-
 a	x	a
 )	)	)
 Ólafur	nken-s	Ólafur
@@ -4055,13 +3744,11 @@ kynnir	sfg3en	kynna
 ársreikninga	nkfo	ársreikningur
 félagsins	nheeg	félag
 .	.	.
-
 b	x	b
 )	)	)
 Umræður	nvfn	umræða
 um	ao	um
 ársreikningana	nkfog	ársreikningur
-
 c	x	c
 )	)	)
 Ársreikningar	nkfn	ársreikningur
@@ -4069,9 +3756,7 @@ bornir	sþgkfn	bera
 upp	aa	upp
 til	ae	til
 samþykktar	nvee	samþykkt
-
 9.	ta	9.
-
 Ákveðið	sþghen	ákveða
 árstillag	nhen	árstillag
 félagsmanna	nkfe	félagsmaður
@@ -4081,13 +3766,10 @@ gjalddagi	nken	gjalddagi
 og	c	og
 tillag	nhen	tillag
 ævifélaga	nkfe	ævifélagi
-
 10	ta	10
 .	.	.
-
 Kosningar	nvfn	kosning
 :	:	:
-
 a	x	a
 )	)	)
 Kosning	nven	kosning
@@ -4097,7 +3779,6 @@ Blindrafélagsins	nheegs	Blindrafélagið
 til	ae	til
 tveggja	tfhfe	tveir
 ára	nhfe	ár
-
 b	x	b
 )	)	)
 Kosning	nven	kosning
@@ -4108,7 +3789,6 @@ stjórn	nveo	stjórn
 til	ae	til
 tveggja	tfhfe	tveir
 ára	nhfe	ár
-
 c	x	c
 )	)	)
 Kosning	nven	kosning
@@ -4133,28 +3813,20 @@ lögum	nhfþ	lag
 auk	ae	auk
 varamanna	nkfe	varamaður
 .	.	.
-
 d	x	d
 )	)	)
 Kosning	nven	kosning
 í	ao	í
 nefndir	nvfo	nefnd
-
 11	ta	11
 .	.	.
-
 Lagabreytingar	nvfn	lagabreyting
-
 12.	ta	12.
-
 Önnur	fohfn	annar
 mál	nhfn	mál
-
 13	ta	13
 .	.	.
-
 Fundarslit	nhfn	fundarslit
-
 Gert	sþghen	gera
 verður	sfg3en	verða
 fundarhlé	nhen	fundarhlé
@@ -4165,15 +3837,12 @@ upp	aa	upp
 léttan	lkeosf	léttur
 hádegisverð	nkeo	hádegisverður
 .	.	.
-
 Stjórn	nven	stjórn
 Blindrafélagsins	nheegs	Blindrafélagið
-
 Vorfagnaður	nken	vorfagnaður
 fyrir	ao	fyrir
 félagsmenn	nkfo	félagsmaður
 Blindrafélagsins	nheegs	Blindrafélagið
-
 Hinn	gken	hinn
 árlegi	lkenvf	árlegur
 vorfagnaður	nken	vorfagnaður
@@ -4191,13 +3860,11 @@ Vonarstræti	nheþ-s	Vonarstræti
 10	ta	10
 kl.	as	kl.
 15.00	ta	15.00
-
 Gómsætar	lvfnsf	gómsætur
 veitingar	nvfn	veiting
 í	aþ	í
 boði	nheþ	boð
 Bergþórusystra	nvfe-s	Bergþórusystir
-
 Vonumst	sfm1fn	vona
 eftir	aþ	eftir
 að	cn	að
@@ -4207,15 +3874,12 @@ flesta	lkfose	margur
 félagsmenn	nkfo	félagsmaður
 Blindrafélagsins	nheegs	Blindrafélagið
 .	.	.
-
 Bergþórusystur	nvfn-s	Bergþórusystir
-
 Framboð	nhfn	framboð
 til	ae	til
 stjórnar	nvee	stjórn
 Blindrafélagsins	nheegs	Blindrafélagið
 .	.	.
-
 kl.	as	kl.
 10.00	ta	10.00
 í	ao	í
@@ -4233,7 +3897,6 @@ og	c	og
 varastjórnar	nvee	varastjórn
 Blindrafélagsins	nheegs	Blindrafélagið
 .	.	.
-
 Kjörnefnd	nven	kjörnefnd
 félagsins	nheeg	félag
 kom	sfg3eþ	koma
@@ -4253,7 +3916,6 @@ höfðu	sfg3fþ	hafa
 skrifstofu	nveþ	skrifstofa
 félagsins	nheeg	félag
 .	.	.
-
 Eftirtaldir	lkfnsf	eftirtalinn
 einstaklingar	nkfn	einstaklingur
 gefa	sfg3fn	gefa
@@ -4270,25 +3932,19 @@ tveggja	tfhfe	tveir
 :	:	:
 Bergvin	nken-s	Bergvin
 Oddsson	nken-s	Oddsson
-
 Einar	nken-s	Einar
 Lee	nken-s	Lee
-
 Gunnar	nken-s	Gunnar
 Már	nken-s	Már
 Óskarsson	nken-s	Óskarsson
-
 Kolbrún	nven-s	Kolbrún
 Hulda	nven-s	Hulda
 Sigurjónsdóttir	nven-s	Sigurjónsdóttir
-
 Kristinn	nken-s	Kristinn
 Einarsson	nken-s	Einarsson
-
 Sveinn	nken-s	Sveinn
 Lúðvík	nken-s	Lúðvík
 Björnsson	nken-s	Björnsson
-
 Eftirtaldir	lkfnsf	eftirtalinn
 aðilar	nkfn	aðili
 gefa	sfg3fn	gefa
@@ -4304,25 +3960,19 @@ tveggja	tfhfe	tveir
 :	:	:
 Bergvin	nken-s	Bergvin
 Oddsson	nken-s	Oddsson
-
 Gunnar	nken-s	Gunnar
 Már	nken-s	Már
 Óskarsson	nken-s	Óskarsson
-
 Kolbrún	nven-s	Kolbrún
 Hulda	nven-s	Hulda
 Sigurjónsdóttir	nven-s	Sigurjónsdóttir
-
 Kristinn	nken-s	Kristinn
 Einarsson	nken-s	Einarsson
-
 Sveinn	nken-s	Sveinn
 Lúðvík	nken-s	Lúðvík
 Björnsson	nken-s	Björnsson
-
 Sigurjón	nken-s	Sigurjón
 Einarsson	nken-s	Einarsson
-
 Laugardagur	nken	laugardagur
 22.	ta	22.
 apríl	nken	apríl
@@ -4331,21 +3981,17 @@ apríl	nken	apríl
 Kjörnefnd	nven-s	Kjörnefnd
 Blindrafélagsins	nheegs	Blindrafélagið
 ,	,	,
-
 Ragnar	nken-s	Ragnar
 R.	as	R.
 Magnússon	nken-s	Magnússon
 Brynja	nven-s	Brynja
 Arthúrsdóttir	nven-s	Arthúrsdóttir
-
 Bessi	nken-s	Bessi
 Gíslason	nken-s	Gíslason
-
 Frá	aþ	frá
 aðalfundi	nkeþ	aðalfundur
 UngBlindar	nxee-s	Ungblind
 .	.	.
-
 Í	ao	í
 kvöld	nheo	kvöld
 25.	ta	25.
@@ -4356,7 +4002,6 @@ fram	aa	fram
 aðalfundur	nken	aðalfundur
 UngBlind	nxee-s	Ungblind
 .	.	.
-
 Á	aþ	á
 fundinum	nkeþg	fundur
 voru	sfg3fþ	vera
@@ -4365,51 +4010,37 @@ ný	lhfnsf	nýr
 lög	nhfn	lag
 UngBlind	nxee-s	Ungblind
 .	.	.
-
 Úrslit	nhfn	úrslit
 stjórnarkjörs	nhee	stjórnarkjör
 voru	sfg3fþ	vera
 eftirfarandi	lhfnof	eftirfarandi
 :	:	:
-
 Í	aþ	í
 stjórn	nveþ	stjórn
 :	:	:
-
 Hlynur	nken-s	Hlynur
 Þór	nken-s	Þór
 Agnarsson	nken-s	Agnarsson
-
 Bergvin	nken-s	Bergvin
 Oddson	nken-s	Oddson
-
 Svava	nven-s	Svava
 Sigurðardóttir	nven-s	Sigurðardóttir
-
 Varastjórn	nven	varastjórn
-
 Linda	nven-s	Linda
 Ósk	nven-s	Ósk
 Hilmarsdóttir	nven-s	Hilmarsdóttir
-
 Einar	nken-s	Einar
 Lee	nken-s	Lee
-
 Á	aþ	á
 döfinni	nveþg	döf
 í	aþ	í
 félagssstarfi	nheþ	félagssstarf
 Blindrafélagsins	nheegs	Blindrafélagið
-
 Yfirlit	nhen	yfirlit
-
 Sumarmálavaka	nven	sumarmálavaka
-
 Frá	aþ	frá
 kvennadeild	nveþ	kvennadeild
-
 Sumarmálavaka	nven	sumarmálavaka
-
 Við	fp1fn	ég
 minnum	sfg1fn	minna
 á	ao	á
@@ -4434,7 +4065,6 @@ Séra	nken	séra
 Vigfús	nken-s	Vigfús
 Þór	nken-s	Þór
 Árnason	nken-s	Árnason
-
 Djasskvartett	nken	djasskvartett
 og	c	og
 Kári	nken-s	Kári
@@ -4443,9 +4073,7 @@ og	c	og
 c	x	c
 /	/	/
 o	x	o
-
 Fjöldasöngur	nken	fjöldasöngur
-
 Matseðill	nken	matseðill
 :	:	:
 Súpa	nven	súpa
@@ -4455,7 +4083,6 @@ kjötbollur	nvfn	kjötbolla
 eftirréttur	nken	eftirréttur
 og	c	og
 kaffi	nhen	kaffi
-
 Tilkynnið	sbg2fn	tilkynna
 þáttöku	nveo	þáttaka
 til	ae	til
@@ -4464,20 +4091,15 @@ Vignis	nkee-s	Vignir
 eða	c	eða
 til	ae	til
 Hólmfríðar	nvee-s	Hólmfríður
-
 Sjáumst	sfm1fn	sjá
 kát	lhfnsf	kátur
 og	c	og
 hress	lhfnsf	hress
-
 Líknarnefnd	nven	líknarnefnd
-
 Frá	aþ	frá
 kvennadeild	nveþ	kvennadeild
-
 Halló	au	halló
 stelpur	nvfn	stelpa
-
 Nú	aa	nú
 er	sfg3en	vera
 komið	sþghen	koma
@@ -4495,7 +4117,6 @@ förum	svg1fn	fara
 að	cn	að
 borða	sng	borða
 .	.	.
-
 Föstudaginn	nkeog	föstudagur
 12.	ta	12.
 maí	nkeo	maí
@@ -4521,7 +4142,6 @@ framreiddur	sþgken	framreiða
 rétta	nkfe	réttur
 málsverður	nken	málsverður
 .	.	.
-
 Valið	nheng	val
 verður	sfg3en	verða
 á	aa	á
@@ -4537,7 +4157,6 @@ eftirrétt	nkeo	eftirréttur
 verður	sfg3en	verða
 ostakaka	nven	ostakaka
 .	.	.
-
 Verð	nhen	verð
 á	ao	á
 mann	nkeo	maður
@@ -4567,18 +4186,13 @@ en	c	en
 9.	ta	9.
 maí	nkeo	maí
 .	.	.
-
 Stjórn	nven	stjórn
 kvennadeildar	nvee	kvennadeild
 :	:	:
 Ásrún	nven-s	Ásrún
-
 Arnbjörg	nven-s	Arnbjörg
-
 Jolee	e	Jolee
-
 Lilja	nven-s	Lilja
-
 Atvinna	nven	atvinna
 :	:	:
 Bókari	nken	bókari
@@ -4587,7 +4201,6 @@ Bókari	nken	bókari
 skrifstofu	nveo	skrifstofa
 Blindrafélagsins	nheegs	Blindrafélagið
 .	.	.
-
 Blindrafélagið	nhengs	Blindrafélagið
 óskar	sfg3en	óska
 eftir	aþ	eftir
@@ -4598,7 +4211,6 @@ bókara	nkeo	bókari
 100%	tp	100%
 starf	nheo	starf
 .	.	.
-
 Um	ao	um
 er	sfg3en	vera
 að	cn	að
@@ -4620,7 +4232,6 @@ viðskiptamanna-	nheþ	viðskiptamannabókhald
 og	c	og
 birgðabókhaldi	nheþ	birgðabókhald
 .	.	.
-
 Bókari	nken	bókari
 þarf	sfg3en	þurfa
 að	cn	að
@@ -4635,7 +4246,6 @@ uppgjörum	nhfþ	uppgjör
 til	ae	til
 endurskoðanda	nkee	endurskoðandi
 .	.	.
-
 Leitað	sþghen	leita
 er	sfg3en	vera
 að	aþ	að
@@ -4664,7 +4274,6 @@ eða	c	eða
 Navision	e	Navision
 tölvukerfum	nhfþ	tölvukerfi
 .	.	.
-
 Bókarinn	nkeng	bókari
 þarf	sfg3en	þurfa
 að	cn	að
@@ -4672,7 +4281,6 @@ geta	sng	geta
 unnið	ssg	vinna
 sjálfstætt	aa	sjálfstætt
 .	.	.
-
 Starfið	nheng	starf
 er	sfg3en	vera
 auglýst	sþghen	auglýsa
@@ -4683,7 +4291,6 @@ til	ae	til
 21.	ta	21.
 apríl	nkee	apríl
 .	.	.
-
 Eftir	ao	eftir
 það	fpheo	það
 verður	sfg3en	verða
@@ -4692,7 +4299,6 @@ leitað	sþghen	leita
 almennum	lkeþsf	almennur
 markaði	nkeþ	markaður
 .	.	.
-
 Nánari	lvfovm	náinn
 upplýsingar	nvfo	upplýsing
 um	ao	um
@@ -4704,17 +4310,14 @@ Haraldsson	nken-s	Haraldsson
 framkvæmdastjóri	nken	framkvæmdastjóri
 Blindrafélagsins	nheegs	Blindrafélagið
 .	.	.
-
 7.	ta	7.
 apríl	nkeo	apríl
 2006	ta	2006
-
 fh.	as	fh.
 Blindrafélagsins	nheeg	blindrafélagið
 ,	,	,
 Ólafur	nken-s	Ólafur
 Haraldsson	nken-s	Haraldsson
-
 Tilkynning	nven	tilkynning
 frá	aþ	frá
 stjórn	nveþ	stjórn
@@ -4727,7 +4330,6 @@ laugardaginn	nkeog	laugardagur
 maí	nkeo	maí
 2005	ta	2005
 .	.	.
-
 Aðalfundur	nken	aðalfundur
 Blindrafélagsins	nheegs	Blindrafélagið
 verður	sfg3en	verða
@@ -4743,19 +4345,16 @@ kl.	as	kl.
 10:00	ta	10:00
 árdegis	aa	árdegis
 .	.	.
-
 Á	aþ	á
 dagskrá	nveþ	dagskrá
 verða	sfg3fn	verða
 venjuleg	lhfnsf	venjulegur
 aðalfundarstörf	nhfn	aðalfundarstörf
 .	.	.
-
 Nánar	aam	náið
 auglýst	sþghen	auglýsa
 síðar	aam	síðar
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 lögum	nhfþ	lag
 Blindrafélagsins	nheegs	Blindrafélagið
@@ -4774,7 +4373,6 @@ varamenn	nkfn	varamaður
 í	ao	í
 stjórn	nveo	stjórn
 .	.	.
-
 Minnt	sþghen	minna
 er	sfg3en	vera
 á	ao	á
@@ -4808,7 +4406,6 @@ laugardaginn	nkeog	laugardagur
 22.	ta	22.
 apríl	nkeo	apríl
 nk.	as	nk.
-
 Vakin	sþgven	vekja
 er	sfg3en	vera
 athygli	nven	athygli
@@ -4837,7 +4434,6 @@ kjöri	nheþ	kjör
 sem	ct	sem
 aðalmaður	nken	aðalmaður
 .	.	.
-
 Því	aa	því
 þarf	sfg3en	þurfa
 að	cn	að
@@ -4857,7 +4453,6 @@ sér	fpkeþ	sig
 sem	c	sem
 varamaður	nken	varamaður
 .	.	.
-
 Framboðum	nhfþ	framboð
 má	sfg3en	mega
 skila	sng	skila
@@ -4872,7 +4467,6 @@ snældu	nveþ	snælda
 eða	c	eða
 geisladiski	nkeþ	geisladiskur
 .	.	.
-
 Einnig	aa	einnig
 má	sfg3en	mega
 senda	sng	senda
@@ -4890,7 +4484,6 @@ Haraldssonar	nkee-s	Haraldsson
 framkvæmdastjóra	nkee	framkvæmdastjóri
 Blindrafélagsins	nheegs	Blindrafélagið
 .	.	.
-
 Tillögum	nvfþ	tillaga
 til	ae	til
 breytinga	nvfe	breyting
@@ -4906,17 +4499,13 @@ fyrir	ao	fyrir
 sama	fbkeo	samur
 tíma	nkeo	tími
 .	.	.
-
 Stjórn	nven	stjórn
 Blindrafélagsins	nheegs	Blindrafélagið
-
 Aðalfundur	nken	aðalfundur
 UngBlind	nxee-s	Ungblind
 .	.	.
-
 Kæru	lkfnvf	kær
 félagsmen	x	félagsmaður
-
 UngBlind	nxen-s	Ungblind
 boðar	sfg3en	boða
 til	ae	til
@@ -4935,15 +4524,12 @@ Húsins	x	hús
 Pósthússtræti	nheþ-s	Pósthússtræti
 3-5	ta	3-5
 .	.	.
-
 Dagskrá	nven	dagskrá
 :	:	:
 Skýrsla	nven	skýrsla
 stjórnar	nvee	stjórn
-
 Ársreikningar	nkfn	ársreikningur
 2005	ta	2005
-
 Kostning	nven	kosning
 í	ao	í
 stjórn	nveo	stjórn
@@ -4953,15 +4539,12 @@ aðalmenn	nkfn	aðalmaður
 ,	,	,
 2	ta	2
 vara	nkee	vara
-
 Tillaga	nven	tillaga
 að	aþ	að
 lögum	nhfþ	lag
 UngBlind	nxee-s	Ungblind
-
 Önnur	fohfn	annar
 mál	nhfn	mál
-
 Kjörgengir	lkfnsf	kjörgengur
 eru	sfg3fn	vera
 félagsmenn	nkfn	félagsmaður
@@ -4969,7 +4552,6 @@ félagsmenn	nkfn	félagsmaður
 aldurbilinu	nheþg	aldurbil
 1991-1971	ta	1991-1971
 .	.	.
-
 Kynnt	sþghfn	kynna
 drög	nhfn	drag
 að	aþ	að
@@ -4988,13 +4570,11 @@ og	c	og
 samsvarandi	lhfeof	samsvarandi
 æskulýðssamtaka	nhfe	æskulýðssamtök
 .	.	.
-
 Allir	fokfn	allur
 velkomnir	lkfnsf	velkominn
 -	-	-
 Stjórn	nven	stjórn
 UngBlind	nxee-s	Ungblind
-
 Vorferðalag	nhen	vorferðalag
 Daufblindrafélags	nhee-s	Daufblindrafélag
 Íslands	nhee-s	Ísland

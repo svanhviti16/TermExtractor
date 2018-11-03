@@ -3,7 +3,6 @@ mannfólkið	nheng	mannfólk
 sífellt	aa	sífellt
 gáfaðra	lhenvm	gáfaður
 ?	?	?
-
 *	*	*
 Af	aþ	af
 hverju	fsheþ	hver
@@ -13,7 +12,6 @@ gáfaðri	lkfnvm	gáfaður
 en	c	en
 aðrir	fokfn	annar
 ?	?	?
-
 *	*	*
 Hversu	aa	hversu
 háa	lveosf	hár
@@ -26,7 +24,6 @@ fá	sng	fá
 í	aþ	í
 greindaprófi	nheþ	greindapróf
 ?	?	?
-
 Ekki	aa	ekki
 tókst	sfm3eþ	taka
 að	cn	að
@@ -47,7 +44,6 @@ setið	ssg	sitja
 í	aþ	í
 fangelsi	nheþ	fangelsi
 .	.	.
-
 processor	e	processor
 /	/	/
 CPU	as	CPU
@@ -56,7 +52,6 @@ er	sfg3en	vera
 hjarta	nhen	hjarta
 tölvunnar	nveeg	tölva
 .	.	.
-
 Kannski	aa	kannski
 er	sfg3en	vera
 réttara	lhenvm	réttur
@@ -77,7 +72,6 @@ sem	ct	sem
 tölvan	nveng	tölva
 gerir	sfg3en	gera
 .	.	.
-
 Örgjörvinn	nkeng	örgjörvi
 «	«	«
 skilur	sfg3en	skilja
@@ -86,7 +80,6 @@ skilur	sfg3en	skilja
 safn	nheo	safn
 skipana	nvfe	skipun
 .	.	.
-
 Skipanirnar	nvfng	skipun
 eru	sfg3fn	vera
 í	aþ	í
@@ -103,7 +96,6 @@ og	c	og
 framkvæmir	sfg3en	framkvæma
 þær	fpvfo	hún
 .	.	.
-
 Þetta	fahen	þessi
 eru	sfg3fn	vera
 gjarnan	aa	gjarnan
@@ -145,7 +137,6 @@ og	c	og
 svo	aa	svo
 framvegis	aa	framvegis
 .	.	.
-
 Til	ae	til
 þess	fphee	það
 að	cn	að
@@ -174,7 +165,6 @@ sem	ct	sem
 örgjörvinn	nkeng	örgjörvi
 skilur	sfg3en	skilja
 .	.	.
-
 Svokallaðar	lvfnsf	svokallaður
 keyrsluskrár	nvfn	keyrsluskrá
 (	(	(
@@ -220,7 +210,6 @@ skipunina	nveog	skipun
 í	aþ	í
 því	fpheþ	það
 .	.	.
-
 Raunar	aa	raunar
 er	sfg3en	vera
 Windows	e	Windows
@@ -239,7 +228,6 @@ sem	ct	sem
 framkvæmir	sfg3en	framkvæma
 sjálfur	fbken	sjálfur
 .	.	.
-
 Nær	aam	nær
 allt	fohen	allur
 sem	ct	sem
@@ -269,7 +257,6 @@ að	cn	að
 spila	sng	spila
 tölvuleik	nkeo	tölvuleikur
 .	.	.
-
 Það	fphen	það
 skiptir	sfg3en	skipta
 því	aa	því
@@ -298,7 +285,6 @@ eru	sfg3fn	vera
 bornar	sþgvfn	bera
 saman	aa	saman
 .	.	.
-
 Sum	fohfn	sumur
 verkefni	nhfn	verkefni
 hafa	sfg3fn	hafa
@@ -313,7 +299,6 @@ tefja	sng	tefja
 hann	fpkeo	hann
 ekki	aa	ekki
 .	.	.
-
 Nú	aa	nú
 eru	sfg3fn	vera
 það	fphen	það
@@ -331,7 +316,6 @@ vinnunni	nveþg	vinna
 í	aþ	í
 tölvuleikjunum	nkfþg	tölvuleikur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 þó	aa	þó
@@ -347,7 +331,6 @@ látinn	sþgken	láta
 taka	sng	taka
 við	aa	við
 .	.	.
-
 Ef	c	ef
 við	fp1fn	ég
 tökum	sfg1fn	taka
@@ -366,7 +349,6 @@ Pentium	e	Pentium
 4	ta	4
 örgjörva	nkeo	örgjörvi
 .	.	.
-
 Tíðnin	nveng	tíðni
 2GHz	ta	2ghz
 þýðir	sfg3en	þýða
@@ -381,7 +363,6 @@ sinnum	nhfþ	sinn
 á	aþ	á
 sekúndu	nveþ	sekúnda
 .	.	.
-
 Nýjustu	lkfnve	nýr
 örgjörvarnir	nkfng	örgjörvi
 geta	sfg3fn	geta
@@ -395,7 +376,6 @@ skipun	nveo	skipun
 hverju	foheþ	hver
 klukkutifi	nheþ	klukkutif
 .	.	.
-
 Þannig	aa	þannig
 getur	sfg3en	geta
 Pentium	e	Pentium
@@ -418,7 +398,6 @@ er	sfg3en	vera
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 Það	fphen	það
 eru	sfg3fn	vera
 því	aa	því
@@ -433,7 +412,6 @@ sekúndu	nveþ	sekúnda
 í	aþ	í
 örgjörvanum	nkeþg	örgjörvi
 !	!	!
-
 Ein	tfven	einn
 af	aþ	af
 þessum	favfþ	þessi
@@ -450,7 +428,6 @@ tvær	tfvfo	tveir
 stafa	nkfe	stafur
 tölur	nvfo	tala
 .	.	.
-
 Hvað	fshen	hver
 getið	sfg2fn	geta
 þið	fp2fn	þú
@@ -462,7 +439,6 @@ samlagningar	nvfo	samlagning
 sekúndu	nveþ	sekúnda
 ?	?	?
 !	!	!
-
 Myndin	nveng	mynd
 sýnir	sfg3en	sýna
 Pentium4	ta	Pentium4
@@ -473,7 +449,6 @@ fengin	sþgven	fá
 hjá	aþ	hjá
 Intel	e	Intel
 .	.	.
-
 Það	fphen	það
 má	sfg3en	mega
 líta	sng	líta
@@ -498,7 +473,6 @@ er	sfg3en	vera
 öllum	fovfþ	allur
 PC-tölvum	nvfþ-s	PC-tölva
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 brennt	sþghen	brenna
@@ -513,7 +487,6 @@ yfirleitt	aa	yfirleitt
 ekki	aa	ekki
 breytt	sþghen	breyta
 .	.	.
-
 Helsta	lhenve	heldri
 hlutverk	nhen	hlutverk
 BIOS	as	BIOS
@@ -529,7 +502,6 @@ er	sfg3en	vera
 á	aþ	á
 henni	fpveþ	hún
 .	.	.
-
 Þegar	c	þegar
 örgjörvi	nken	örgjörvi
 fær	sfg3en	fá
@@ -563,7 +535,6 @@ sem	ct	sem
 eru	sfg3fn	vera
 þar	aa	þar
 .	.	.
-
 Þessi	faken	þessi
 staður	nken	staður
 ,	,	,
@@ -586,7 +557,6 @@ skipanir	nvfo	skipun
 BIOS	as	BIOS
 forritinu	nheþg	forrit
 .	.	.
-
 Þegar	c	þegar
 BIOS	as	BIOS
 forritið	nheng	forrit
@@ -607,7 +577,6 @@ boot	e	boot
 sequence	e	sequence
 )	)	)
 .	.	.
-
 Í	aþ	í
 henni	fpveþ	hún
 felast	sfm3fn	fela
@@ -619,7 +588,6 @@ hinum	gkfþ	hinn
 hlutum	nkfþ	hluti
 tölvunnar	nveeg	tölva
 .	.	.
-
 Til	ae	til
 dæmis	nhee	dæmi
 er	sfg3en	vera
@@ -633,7 +601,6 @@ og	c	og
 það	fphen	það
 upphafsstillt	lhensf	upphafsstilltur
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 leitað	sþghen	leita
@@ -650,7 +617,6 @@ og	c	og
 svo	aa	svo
 framvegis	aa	framvegis
 .	.	.
-
 Oftast	aae	oft
 eru	sfg3fn	vera
 niðurstöður	nvfn	niðurstaða
@@ -692,7 +658,6 @@ endur	aa	endur
 )	)	)
 ræst	sþgven	ræsa
 .	.	.
-
 Meðan	c	meðan
 á	aþ	á
 þessum	favfþ	þessi
@@ -711,7 +676,6 @@ stjórnforrit	nheo	stjórnforrit
 BIOS	as	BIOS
 forritsins	nheeg	forrit
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 nokkuð	fohen	nokkur
@@ -723,7 +687,6 @@ hvernig	aa	hvernig
 er	sfg3en	vera
 gert	sþghen	gera
 .	.	.
-
 Algengast	lhense	algengur
 er	sfg3en	vera
 að	c	að
@@ -739,7 +702,6 @@ Del	ta	del
 á	aþ	á
 lyklaborðinu	nheþg	lyklaborð
 .	.	.
-
 Einnig	aa	einnig
 þekkist	sfm3en	þekkja
 að	cn	að
@@ -763,7 +725,6 @@ Esc	e	Esc
 ]	]	]
 -lykilinn	nkeog	lykill
 .	.	.
-
 Upplýsingar	nvfn	upplýsing
 um	ao	um
 þetta	faheo	þessi
@@ -783,7 +744,6 @@ er	sfg3en	vera
 í	aþ	í
 keyrslu	nveþ	keyrsla
 .	.	.
-
 Dæmigert	lhensf	dæmigerður
 stjórnforrit	nhen	stjórnforrit
 fyrir	ao	fyrir
@@ -800,7 +760,6 @@ breyta	sng	breyta
 stillingum	nvfþ	stilling
 tölvunnar	nveeg	tölva
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 þó	aa	þó
@@ -827,7 +786,6 @@ geta	sfg3fn	geta
 orðið	ssg	verða
 afdrifaríkar	lvfnsf	afdrifaríkur
 !	!	!
-
 Það	fahen	sá
 síðasta	lhenve	síðari
 sem	ct	sem
@@ -844,7 +802,6 @@ að	cn	að
 ræsa	sng	ræsa
 stýrikerfið	nheog	stýrikerfi
 .	.	.
-
 Oftast	aae	oft
 er	sfg3en	vera
 stýrikerfið	nheng	stýrikerfi
@@ -868,7 +825,6 @@ eða	c	eða
 jafnvel	aa	jafnvel
 disklingi	nkeþ	disklingur
 .	.	.
-
 Stýrikerfið	nheng	stýrikerfi
 gæti	svg3eþ	geta
 verið	ssg	vera
@@ -890,7 +846,6 @@ keyra	sfg3fn	keyra
 á	aþ	á
 PC-tölvum	nvfþ-s	PC-tölva
 .	.	.
-
 Eins	aa	eins
 og	c	og
 nafnið	nheng	nafn
@@ -918,7 +873,6 @@ að	aþ	að
 vélbúnaði	nkeþ	vélbúnaður
 tölvunnar	nveeg	tölva
 .	.	.
-
 Sum	fohfn	sumur
 stýrikerfi	nhfn	stýrikerfi
 nota	sfg3fn	nota
@@ -930,7 +884,6 @@ af	aþ	af
 sínum	fehfþ	sinn
 kerfisforritum	nhfþ	kerfisforrit
 .	.	.
-
 Til	ae	til
 dæmis	nhee	dæmi
 ,	,	,
@@ -960,7 +913,6 @@ skrifa	sng	skrifa
 sjálf	fbhfo	sjálfur
 gögnin	nhfog	gagn
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 hins	fakee	hinn
@@ -985,7 +937,6 @@ Windows	e	Windows
 hluta	nkeo	hluti
 sjálft	fbhen	sjálfur
 .	.	.
-
 Minniskubbur	nken	minniskubbur
 með	aþ	með
 BIOS	as	BIOS
@@ -1017,7 +968,6 @@ skrifa	sfg3fn	skrifa
 BIOS	as	BIOS
 forritið	nheog	forrit
 .	.	.
-
 Gerðir	nvfn	gerð
 BIOS-forrita	nhfe-s	BIOS-forrit
 eru	sfg3fn	vera
@@ -1039,7 +989,6 @@ verið	ssg	vera
 að	aa	að
 ofan	aa	ofan
 .	.	.
-
 Eins	aa	eins
 og	c	og
 áður	aa	áður
@@ -1051,7 +1000,6 @@ yfirleitt	aa	yfirleitt
 ekki	aa	ekki
 breytt	sþghen	breyta
 .	.	.
-
 Þó	aa	þó
 getur	sfg3en	geta
 það	fphen	það
@@ -1097,20 +1045,16 @@ forritið	nheng	forrit
 var	sfg3eþ	vera
 skrifað	sþghen	skrifa
 .	.	.
-
 <	<	<
 Frekara	lhenvm	frekur
 lesefni	nhen	lesefni
 >	>	>
-
 Netkort	nhen	netkort
 fyrir	ao	fyrir
 PCI-braut	nveo-s	PCI-braut
-
 Netkort	nhen	netkort
 fyrir	ao	fyrir
 PCI-braut	nveo-s	PCI-braut
-
 Netkort	nhen	netkort
 er	sfg3en	vera
 notað	sþghen	nota
@@ -1132,7 +1076,6 @@ Network	e	Network
 LAN	as	LAN
 )	)	)
 .	.	.
-
 Tölvan	nveng	tölva
 verður	sfg3en	verða
 þá	aa	þá
@@ -1170,7 +1113,6 @@ tengd	sþgven	tengja
 út	aa	út
 »	»	»
 .	.	.
-
 Sérhver	foven	sérhver
 tölva	nven	tölva
 á	aþ	á
@@ -1204,7 +1146,6 @@ einu	tfheþ	einn
 sinni	nheþ	sinn
 fyrir	aa	fyrir
 .	.	.
-
 Mótald	nhen	mótald
 er	sfg3en	vera
 aðferð	nven	aðferð
@@ -1229,7 +1170,6 @@ símanum	nkeþg	sími
 !	!	!
 )	)	)
 .	.	.
-
 Sú	faven	sá
 tölva	nven	tölva
 getur	sfg3en	geta
@@ -1258,7 +1198,6 @@ um	aa	um
 á	aþ	á
 Veraldarvefnum	nkeþgs	Veraldarvefur
 .	.	.
-
 Netsnúra	nven	netsnúra
 til	ae	til
 vinstri	lveevf	vinstri
@@ -1266,7 +1205,6 @@ og	c	og
 símasnúra	nven	símasnúra
 til	ae	til
 hægri	lveevf	hægri
-
 Netsnúra	nven	netsnúra
 til	ae	til
 vinstri	lveevf	vinstri
@@ -1274,7 +1212,6 @@ og	c	og
 símasnúra	nven	símasnúra
 til	ae	til
 hægri	lveevf	hægri
-
 Helsti	lkenve	heldri
 munurinn	nkeng	munur
 á	aþ	á
@@ -1299,7 +1236,6 @@ geta	sfg3fn	geta
 verið	ssg	vera
 mismunandi	lkfnof	mismunandi
 .	.	.
-
 Á	aþ	á
 síðustu	lhfþve	síðari
 árum	nhfþ	ár
@@ -1327,7 +1263,6 @@ notuð	sþghfn	nota
 í	aþ	í
 skólum	nkfþ	skóli
 .	.	.
-
 Símalínur	nvfn	símalína
 eru	sfg3fn	vera
 hannaðar	sþgvfn	hanna
@@ -1342,7 +1277,6 @@ gögn	nhfo	gagn
 úr	aþ	úr
 tölvu	nveþ	tölva
 .	.	.
-
 Gögnunum	nhfþg	gagn
 þarf	sfg3en	þurfa
 þess	fphee	það
@@ -1358,7 +1292,6 @@ send	sþghfn	senda
 eftir	aþ	eftir
 símalínunni	nveþg	símalína
 .	.	.
-
 Af	aþ	af
 þessu	faheþ	þessi
 leiðir	sfg3en	leiða
@@ -1387,7 +1320,6 @@ sem	ct	sem
 netkortin	nhfng	netkort
 nota	sfg3fn	nota
 .	.	.
-
 Mesti	lkenve	mikill
 sendihraði	nken	sendihraði
 mótalds	nhee	mótald
@@ -1408,7 +1340,6 @@ bita	nkfo	biti
 á	aþ	á
 sekúndu	nveþ	sekúnda
 .	.	.
-
 Á	aa	á
 móti	aa	móti
 kemur	sfg3en	koma
@@ -1447,7 +1378,6 @@ eða	c	eða
 á	aþ	á
 Akureyri	nveþ-s	Akureyri
 .	.	.
-
 Þannig	aa	þannig
 má	sfg3en	mega
 segja	sng	segja
@@ -1462,10 +1392,8 @@ til	ae	til
 síns	fehee	sinn
 brúks	nhee	brúk
 .	.	.
-
 Myndir	nvfn	mynd
 :	:	:
-
 *	*	*
 Netkort	nhen	netkort
 fyrir	ao	fyrir
@@ -1473,7 +1401,6 @@ PCI-braut	nveo-s	PCI-braut
 hjá	aþ	hjá
 macsense.com	v	macsense.com
 .	.	.
-
 *	*	*
 Þráðlaust	lhensf	þráðlaus
 netkort	nhen	netkort
@@ -1482,7 +1409,6 @@ PCMCIA-rauf	nveo-s	PCMCIA-rauf
 hjá	aþ	hjá
 linden-computech.com	v	linden-computech.com
 .	.	.
-
 *	*	*
 Netsnúra	nven	netsnúra
 og	c	og
@@ -1490,7 +1416,6 @@ símasnúra	nven	símasnúra
 hjá	aþ	hjá
 isservices.tcd.ie	v	isservices.tcd.ie
 .	.	.
-
 Skel	nven	skel
 er	sfg3en	vera
 sá	faken	sá
@@ -1514,7 +1439,6 @@ stýrikerfisins	nheeg	stýrikerfi
 til	ae	til
 framkvæmdar	nvee	framkvæmd
 .	.	.
-
 Í	ao	í
 árdaga	nkfo	árdagur
 Unix-stýrikerfisins	nheegs	Unix-stýrikerfi
@@ -1545,7 +1469,6 @@ samskipti	nhfo	samskipti
 við	ao	við
 stýrikerfið	nheog	stýrikerfi
 .	.	.
-
 Forritin	nhfng	forrit
 sem	ct	sem
 tóku	sfg3fþ	taka
@@ -1566,7 +1489,6 @@ voru	sfg3fþ	vera
 kölluð	sþghfn	kalla
 skeljar	nvfn	skel
 .	.	.
-
 Ástæðan	nveng	ástæða
 fyrir	aþ	fyrir
 nafninu	nheþg	nafn
@@ -1595,7 +1517,6 @@ bara	aa	bara
 !	!	!
 )	)	)
 .	.	.
-
 Skeljar	nvfn	skel
 bjóða	sfg3fn	bjóða
 jafnvel	aa	jafnvel
@@ -1608,7 +1529,6 @@ skipanir	nvfo	skipun
 í	ao	í
 röð	nveo	röð
 .	.	.
-
 Slíkar	fbvfn	slíkur
 skipanaskrár	nvfn	skipanaskrá
 kallast	sfm3en	kalla
@@ -1618,7 +1538,6 @@ e.	as	e.
 shellscript	e	shellscript
 )	)	)
 .	.	.
-
 Í	aþ	í
 þeim	fphfþ	það
 er	sfg3en	vera
@@ -1635,7 +1554,6 @@ eiginleika	nkfo	eiginleiki
 venjulegra	lhfesf	venjulegur
 forritunarmála	nhfe	forritunarmál
 .	.	.
-
 Þær	favfn	sá
 skipanir	nvfn	skipun
 sem	ct	sem
@@ -1673,7 +1591,6 @@ hvernig	aa	hvernig
 eru	sfg3fn	vera
 túlkaðar	sþgvfn	túlka
 .	.	.
-
 Með	aþ	með
 tilkomu	nveþ	tilkoma
 myndrænna	lhfesf	myndrænn
@@ -1730,7 +1647,6 @@ remove	e	remove
 '	'	'
 )	)	)
 .	.	.
-
 Forritin	nhfng	forrit
 sem	ct	sem
 bjóða	sfg3fn	bjóða
@@ -1759,7 +1675,6 @@ forritað	ssg	forrita
 runur	nvfo	runa
 skipana	nvfe	skipun
 .	.	.
-
 Í	aþ	í
 Unix	nxeþ-s	Unix
 (	(	(
@@ -1792,7 +1707,6 @@ ksh	e	ksh
 og	c	og
 Bash	e	Bash
 .	.	.
-
 Skeljarreikningur	nken	skeljarreikningur
 (	(	(
 e.	as	e.
@@ -1809,7 +1723,6 @@ Unix	nxeo-s	Unix
 eða	c	eða
 Linux-skel	nveo-s	linux-skel
 .	.	.
-
 Þá	aa	þá
 hefur	sfg3en	hafa
 notandinn	nkeng	notandi
@@ -1826,7 +1739,6 @@ upp	aa	upp
 grafísk	lhfosf	grafískur
 forrit	nhfo	forrit
 .	.	.
-
 Notendur	nkfn	notandi
 verða	sfg3fn	verða
 að	cn	að
@@ -1860,7 +1772,6 @@ skipanir	nvfo	skipun
 og	c	og
 skeljaforritun	nveo	skeljaforritun
 .	.	.
-
 Oftast	aae	oft
 bjóða	sfg3fn	bjóða
 þjónustuaðilar	nkfn	þjónustuaðili
@@ -1887,7 +1798,6 @@ að	aþ	að
 skipanalínuskel	nveþ	skipanalínuskel
 tölvunnar	nveeg	tölva
 .	.	.
-
 Í	aþ	í
 stuttu	lheþsf	stuttur
 máli	nheþ	mál
@@ -1910,7 +1820,6 @@ að	cn	að
 þjappa	sng	þjappa
 gögnum	nhfþ	gagn
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 þó	aa	þó
@@ -1933,7 +1842,6 @@ komast	snm	koma
 til	ae	til
 skila	nhfe	skil
 .	.	.
-
 En	c	en
 það	fphen	það
 fer	sfg3en	fara
@@ -1954,7 +1862,6 @@ við	fp1fn	ég
 getum	sfg1fn	geta
 þjappað	ssg	þjappa
 .	.	.
-
 Tökum	svg1fn	taka
 einfalt	lheosf	einfaldur
 dæmi	nheo	dæmi
@@ -1971,7 +1878,6 @@ til	ae	til
 kunningja	nkee	kunningi
 okkar	fp1fe	ég
 .	.	.
-
 Hvor	foven	hvor
 skráin	nveng	skrá
 um	ao	um
@@ -1994,7 +1900,6 @@ hin	faven	hinn
 texta	nkeo	texti
 Grettissögu	nvee-s	Grettissaga
 .	.	.
-
 Ef	c	ef
 móttakandinn	nkeng	móttakandi
 veit	sfg3en	vita
@@ -2036,7 +1941,6 @@ en	c	en
 fyrir	ao	fyrir
 Grettissögu	nveo-s	Grettissaga
 .	.	.
-
 Með	aþ	með
 þessu	faheþ	þessi
 höfum	sfg1fn	hafa
@@ -2052,7 +1956,6 @@ niður	aa	niður
 einn	tfkeo	einn
 bita	nkeo	biti
 !	!	!
-
 Ef	c	ef
 móttakandinn	nkeng	móttakandi
 hefur	sfg3en	hafa
@@ -2084,7 +1987,6 @@ ekki	aa	ekki
 miklu	lveþvf	mikill
 þjöppun	nveþ	þjöppun
 .	.	.
-
 En	c	en
 athugið	sbg2fn	athuga
 að	c	að
@@ -2117,7 +2019,6 @@ um	aa	um
 KB	as	KB
 texti	nken	texti
 !	!	!
-
 Þú	fp2en	þú
 sem	ct	sem
 lesandi	nken	lesandi
@@ -2136,7 +2037,6 @@ sameiginlega	lveosf	sameiginlegur
 þekkingu	nveo	þekking
 okkar	fp1fe	ég
 .	.	.
-
 En	c	en
 þá	aa	þá
 má	sfg3en	mega
@@ -2160,7 +2060,6 @@ sér	fpkeþ	sig
 sameiginlega	lveosf	sameiginlegur
 þekkingu	nveo	þekking
 .	.	.
-
 Flest	lhfnse	margur
 gagnaþjöppunarforrit	nhfn	gagnaþjöppunarforrit
 á	aþ	á
@@ -2179,7 +2078,6 @@ nein	foven	neinn
 utanaðkomandi	lvenof	utanaðkomandi
 vitneskja	nven	vitneskja
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 gert	sþghen	gera
@@ -2207,7 +2105,6 @@ til	ae	til
 afþjöppunarhluta	nkee	afþjöppunarhluti
 forritsins	nheeg	forrit
 .	.	.
-
 Það	fphen	það
 væri	svg3eþ	vera
 þó	aa	þó
@@ -2254,7 +2151,6 @@ ná	sng	ná
 betri	lveþvm	góður
 þjöppun	nveþ	þjöppun
 .	.	.
-
 Afþjöppunarforritið	nheng	afþjöppunarforrit
 yrði	svg3eþ	verða
 þá	aa	þá
@@ -2273,7 +2169,6 @@ eins	aa	eins
 almenna	lveosf	almennur
 þjöppun	nveo	þjöppun
 .	.	.
-
 Það	fphen	það
 koma	sfg3fn	koma
 til	ae	til
@@ -2305,7 +2200,6 @@ uppfæra	sng	uppfæra
 öll	fohfo	allur
 þjöppunarforrit	nhfo	þjöppunarforrit
 .	.	.
-
 Ef	c	ef
 við	fp1fn	ég
 skoðum	sfg1fn	skoða
@@ -2336,7 +2230,6 @@ að	aþ	að
 einhverju	foheþ	einhver
 leyti	nheþ	leyti
 .	.	.
-
 Svonefnd	lvensf	svonefndur
 viðsnúanleg	lvensf	viðsnúanlegur
 þjöppun	nven	þjöppun
@@ -2351,7 +2244,6 @@ upplýsingarnar	nvfog	upplýsing
 gögnunum	nhfþg	gagn
 nákvæmlega	aa	nákvæmlega
 .	.	.
-
 Við	ao	við
 afþjöppun	nveo	afþjöppun
 fæst	sfm3en	fá
@@ -2364,7 +2256,6 @@ sem	ct	sem
 þjappað	sþghen	þjappa
 var	sfg3eþ	vera
 .	.	.
-
 Tapandi	lvenof	tapandi
 þjöppun	nven	þjöppun
 (	(	(
@@ -2382,7 +2273,6 @@ að	cn	að
 breyta	sng	breyta
 upplýsingunum	nvfþg	upplýsing
 .	.	.
-
 Í	aþ	í
 mörgum	lhfþsf	margur
 tilfellum	nhfþ	tilfelli
@@ -2409,7 +2299,6 @@ og	c	og
 afþjöppuðu	lhfþvf	afþjappaður
 gögnunum	nhfþg	gagn
 .	.	.
-
 Slíkt	fbhen	slíkur
 á	sfg3en	eiga
 til	ae	til
@@ -2422,7 +2311,6 @@ ljósmyndir	nvfo	ljósmynd
 og	c	og
 kvikmyndir	nvfo	kvikmynd
 .	.	.
-
 Tapandi	lvenof	tapandi
 þjöppun	nven	þjöppun
 hefur	sfg3en	hafa
@@ -2433,7 +2321,6 @@ eiginleg	lhfosf	eiginlegur
 neðri	lhfovm	neðri
 mörk	nhfo	mark
 .	.	.
-
 Við	fp1fn	ég
 getum	sfg1fn	geta
 tekið	ssg	taka
@@ -2451,7 +2338,6 @@ himinn	nken	himinn
 stórt	lheosf	stór
 svæði	nheo	svæði
 .	.	.
-
 Hægt	lhensf	hægur
 væri	svg3eþ	vera
 að	cn	að
@@ -2492,7 +2378,6 @@ lit	nkeþ	litur
 þeir	fpkfn	hann
 hefðu	svg3fþ	hafa
 .	.	.
-
 Það	fphen	það
 kemur	sfg3en	koma
 auðvitað	aa	auðvitað
@@ -2514,14 +2399,12 @@ enginn	foken	enginn
 eftir	aþ	eftir
 því	fpheþ	það
 .	.	.
-
 Sama	fbheo	sami
 má	sfg3en	mega
 segja	sng	segja
 um	ao	um
 tónlist	nveo	tónlist
 .	.	.
-
 Mannseyrað	nheng	mannseyra
 hefur	sfg3en	hafa
 ákveðnar	lvfosf	ákveðinn
@@ -2536,7 +2419,6 @@ við	ao	við
 þjöppun	nveo	þjöppun
 tónlistar	nvee	tónlist
 .	.	.
-
 Til	ae	til
 dæmis	nhee	dæmi
 nemur	sfg3en	nema
@@ -2553,7 +2435,6 @@ hátt	lhensf	hár
 hljóð	nhen	hljóð
 heyrist	sfm3en	heyra
 .	.	.
-
 Það	fphen	það
 má	sfg3en	mega
 því	aa	því
@@ -2572,7 +2453,6 @@ mun	nkeo	munur
 á	aþ	á
 því	fpheþ	það
 !	!	!
-
 Viðsnúanlegri	lveþsf	viðsnúanlegur
 þjöppun	nveþ	þjöppun
 er	sfg3en	vera
@@ -2594,7 +2474,6 @@ eftir	ao	eftir
 og	c	og
 afþjöppun	nveo	afþjöppun
 .	.	.
-
 Undir	aþ	undir
 vissum	lvfþsf	viss
 kringumstæðum	nvfþ	kringumstæður
@@ -2612,7 +2491,6 @@ keyrsluskrá	nveo	keyrsluskrá
 EXE-skrá	nveo-s	EXE-skrá
 )	)	)
 .	.	.
-
 Keyrsluskrá	nven	keyrsluskrá
 samanstendur	sfg3en	samanstanda
 af	aþ	af
@@ -2640,7 +2518,6 @@ merkingu	nveo	merking
 en	c	en
 áður	aa	áður
 .	.	.
-
 Forritið	nheng	forrit
 mundi	svg3eþ	munu
 þá	aa	þá
@@ -2658,7 +2535,6 @@ geta	sng	geta
 lokið	ssg	ljúka
 keyrslu	nveþ	keyrsla
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 óviðunandi	lhenof	óviðunandi
@@ -2678,7 +2554,6 @@ verki	svg3en	verka
 ekki	aa	ekki
 lengur	aam	lengi
 .	.	.
-
 Sama	fbhen	sami
 gildir	sfg3en	gilda
 um	ao	um
@@ -2691,7 +2566,6 @@ fleiri	lvfovm	margur
 gerðir	nvfo	gerð
 gagna	nhfe	gagn
 .	.	.
-
 Viðsnúanleg	lvensf	viðsnúanlegur
 þjöppun	nven	þjöppun
 verður	sfg3en	verða
@@ -2703,7 +2577,6 @@ og	c	og
 tapandi	lvenof	tapandi
 þjöppun	nven	þjöppun
 .	.	.
-
 Hversu	aa	hversu
 mikil	lvensf	mikill
 þjöppunin	nveng	þjöppun
@@ -2714,7 +2587,6 @@ af	aþ	af
 eðli	nheþ	eðli
 gagnanna	nhfeg	gagn
 .	.	.
-
 Þá	aa	þá
 skiptir	sfg3en	skipta
 mestu	lheþse	mikill
@@ -2731,7 +2603,6 @@ redundancy	e	redundancy
 í	aþ	í
 gögnunum	nhfþg	gagn
 .	.	.
-
 Skoðið	sbg2fn	skoða
 eftirfarandi	lvenof	eftirfarandi
 tvær	tfvfo	tveir
@@ -2739,12 +2610,10 @@ tvær	tfvfo	tveir
 stafa	nkfe	stafur
 talnarunur	nvfo	talnaruna
 :	:	:
-
 77777777777777777777	ta	77777777777777777777
 og	c	og
 35897932384626433832	ta	35897932384626433832
 .	.	.
-
 Hvora	fsveo	hvor
 rununa	nveog	runa
 er	sfg3en	vera
@@ -2752,7 +2621,6 @@ auðveldara	lhenvm	auðveldur
 að	cn	að
 muna	sng	muna
 ?	?	?
-
 Þá	faveo	sá
 fyrri	lveovm	fyrri
 ,	,	,
@@ -2775,7 +2643,6 @@ af	aþ	af
 »	»	»
 )	)	)
 .	.	.
-
 Það	fphen	það
 virðist	sfm3en	virða
 engin	foven	enginn
@@ -2788,7 +2655,6 @@ og	c	og
 engar	fovfn	enginn
 endurtekningar	nvfn	endurtekning
 .	.	.
-
 Fyrri	lvenvm	fyrri
 talnarunan	nveng	talnaruna
 þjappast	sfm3fn	þjappa
@@ -2798,7 +2664,6 @@ en	c	en
 sú	faven	sá
 seinni	lvenvm	seinn
 .	.	.
-
 Reyndar	aa	reyndar
 er	sfg3en	vera
 til	aa	til
@@ -2818,7 +2683,6 @@ til	aa	til
 pí	nheþ	pí
 »	»	»
 .	.	.
-
 Sú	faven	sá
 «	«	«
 þjöppun	nven	þjöppun
@@ -2837,7 +2701,6 @@ um	ao	um
 töluna	nveog	tala
 pí	nheo	pí
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -2867,7 +2730,6 @@ tölustöfunum	nkfþg	tölustafur
 í	aþ	í
 pí	nheþ	pí
 .	.	.
-
 Hvor	foven	hvor
 skrá	nven	skrá
 um	ao	um
@@ -2876,7 +2738,6 @@ er	sfg3en	vera
 10.000	ta	10.000
 bæti	nhfn	bæti
 .	.	.
-
 Þegar	c	þegar
 skránni	nveþg	skrá
 með	aþ	með
@@ -2902,7 +2763,6 @@ af	aþ	af
 upphaflegri	lveþsf	upphaflegur
 stærð	nveþ	stærð
 .	.	.
-
 En	c	en
 skráin	nveng	skrá
 með	aþ	með
@@ -2926,7 +2786,6 @@ upphaflegri	lveþsf	upphaflegur
 stærð	nveþ	stærð
 skrárinnar	nveeg	skrá
 .	.	.
-
 Í	aþ	í
 forritum	nhfþ	forrit
 eins	aa	eins
@@ -2950,7 +2809,6 @@ sem	ct	sem
 skráin	nveng	skrá
 stækkaði	svg3eþ	stækka
 .	.	.
-
 Til	ae	til
 dæmis	nhee	dæmi
 verður	sfg3en	verða
@@ -2972,7 +2830,6 @@ af	aþ	af
 upphaflegri	lveþsf	upphaflegur
 stærð	nveþ	stærð
 .	.	.
-
 Skoðið	sbg2fn	skoða
 einnig	aa	einnig
 skyld	lhfosf	skyldur
@@ -2981,7 +2838,6 @@ eftir	ao	eftir
 sama	fbkeo	samur
 höfund	nkeo	höfundur
 :	:	:
-
 *	*	*
 Tapa	sfg3fn	tapa
 lög	nhfn	lag
@@ -3001,13 +2857,11 @@ flutning	nkeo	flutningur
 milli	ae	milli
 tölva	nvfe	tölva
 ?	?	?
-
 *	*	*
 Hvað	fshen	hver
 er	sfg3en	vera
 mp3	ta	MP3
 ?	?	?
-
 Það	fphen	það
 eru	sfg3fn	vera
 eflaust	aa	eflaust
@@ -3026,7 +2880,6 @@ diskar	nkfn	diskur
 sjást	sfm3fn	sjá
 varla	aa	varla
 .	.	.
-
 Þó	aa	þó
 er	sfg3en	vera
 ein	tfven	einn
@@ -3038,7 +2891,6 @@ veldur	sfg3en	valda
 þar	aa	þar
 mestu	lheþse	mikill
 .	.	.
-
 Harðir	lkfnsf	harður
 diskar	nkfn	diskur
 eru	sfg3fn	vera
@@ -3054,7 +2906,6 @@ inni	aa	inni
 sterku	lheþsf	sterkur
 málmhulstri	nheþ	málmhulstur
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -3084,14 +2935,12 @@ sjá	sbg2en	sjá
 mynd	nveo	mynd
 )	)	)
 .	.	.
-
 Harður	lkensf	harður
 diskur	nken	diskur
 með	aþ	með
 tíu	tfvfþ	tíu
 skífum	nvfþ	skífa
 .	.	.
-
 Framleiðendur	nkfn	framleiðandi
 harðra	lkfesf	harður
 diska	nkfe	diskur
@@ -3111,7 +2960,6 @@ með	aþ	með
 tilteknum	lkeþsf	tiltekinn
 þéttleika	nkeþ	þéttleiki
 .	.	.
-
 Til	ae	til
 dæmis	nhee	dæmi
 eru	sfg3fn	vera
@@ -3133,7 +2981,6 @@ eina	tfveo	einn
 hlið	nveo	hlið
 skífu	nvee	skífa
 .	.	.
-
 Það	fphen	það
 þýðir	sfg3en	þýða
 að	c	að
@@ -3163,7 +3010,6 @@ leshausar	nkfn	leshaus
 eru	sfg3fn	vera
 notaðir	sþgkfn	nota
 .	.	.
-
 Minnsti	lkenve	lítill
 fáanlegi	lkenvf	fáanlegur
 diskurinn	nkeng	diskur
@@ -3201,7 +3047,6 @@ og	c	og
 þrjá	tfkfo	þrír
 leshausa	nkfo	leshaus
 o.s.frv.	as	o.s.frv.
-
 Það	fphen	það
 myndi	svg3eþ	munu
 ekki	aa	ekki
@@ -3223,7 +3068,6 @@ af	aþ	af
 einfalda	lheþvf	einfaldur
 fyrirkomulagi	nheþ	fyrirkomulag
 .	.	.
-
 Myndin	nveng	mynd
 er	sfg3en	vera
 fengin	sþgven	fá
@@ -3240,7 +3084,6 @@ um	ao	um
 vélbúnað	nkeo	vélbúnaður
 tölva	nvfe	tölva
 .	.	.
-
 Örgjörvar	nkfn	örgjörvi
 tölva	nvfe	tölva
 ráða	sfg3fn	ráða
@@ -3257,7 +3100,6 @@ skipanir	nvfo	skipun
 svokallaðar	lvfosf	svokallaður
 vélarmálsskipanir	nvfo	vélarmálsskipun
 .	.	.
-
 Með	aþ	með
 þeim	fpvfþ	hún
 er	sfg3en	vera
@@ -3283,7 +3125,6 @@ einfalda	lkfosf	einfaldur
 á	aþ	á
 þeim	fpvfþ	hún
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 mjög	aa	mjög
@@ -3321,7 +3162,6 @@ verið	ssg	vera
 kóðinn	nkeng	kóði
 47	ta	47
 .	.	.
-
 Næsta	lvenve	næstur
 tala	nven	tala
 á	aa	á
@@ -3344,7 +3184,6 @@ staðsetning	nven	staðsetning
 seinni	lveevm	seinn
 tölunnar	nveeg	tala
 .	.	.
-
 Þannig	aa	þannig
 myndi	svg3eþ	munu
 talnarunan	nveng	talnaruna
@@ -3370,7 +3209,6 @@ númer	nhen	númer
 1002	ta	1002
 »	»	»
 .	.	.
-
 Það	fphen	það
 segir	sfg3en	segja
 sig	fpheo	sig
@@ -3393,7 +3231,6 @@ mörg	lhfþsf	margur
 slíkra	fbvfe	slíkur
 vélarmálsskipana	nvfe	vélarmálsskipun
 .	.	.
-
 Tölvunarfræðingar	nkfn	tölvunarfræðingur
 hafa	sfg3fn	hafa
 því	aa	því
@@ -3414,7 +3251,6 @@ plani	nheþ	plan
 en	c	en
 vélarmálsskipanirnar	nvfng	vélarmálsskipun
 .	.	.
-
 Sem	c	sem
 dæmi	nhfo	dæmi
 um	ao	um
@@ -3433,7 +3269,6 @@ og	c	og
 ýmis	fohfo	ýmis
 fleiri	lhfovm	margur
 .	.	.
-
 Forritarar	nkfn	forritari
 skrifa	sfg3fn	skrifa
 þá	aa	þá
@@ -3464,7 +3299,6 @@ forrit	nhfo	forrit
 á	aþ	á
 vélarmáli	nheþ	vélarmál
 .	.	.
-
 Þýðendur	nkfn	þýðandi
 eru	sfg3fn	vera
 flókin	lhfnsf	flókinn
@@ -3493,7 +3327,6 @@ frá	aþ	frá
 C++	x	c++
 forritinu	nheþg	forrit
 .	.	.
-
 Þýðendagerð	nven	þýðendagerð
 er	sfg3en	vera
 mjög	aa	mjög
@@ -3522,7 +3355,6 @@ fyrir	ao	fyrir
 æðri	lhfovm	æðri
 forritunarmál	nhfo	forritunarmál
 .	.	.
-
 Hér	aa	hér
 að	c	að
 neðan	aa	neðan
@@ -3534,11 +3366,9 @@ forrit	nhen	forrit
 í	aþ	í
 C++	x	c++
 :	:	:
-
 <	<	<
 kóði	nken	kóði
 >	>	>
-
 Þetta	fahen	þessi
 forrit	nhen	forrit
 biður	sfg3en	biðja
@@ -3558,7 +3388,6 @@ prentar	sfg3en	prenta
 það	fpheo	það
 út	aa	út
 .	.	.
-
 Eftir	ao	eftir
 að	c	að
 búið	lhensf	búinn
@@ -3578,7 +3407,6 @@ yfir	aþ	yfir
 5000	ta	5000
 vélarmálskipunum	nvfþ	vélarmálskipun
 .	.	.
-
 Þannig	aa	þannig
 má	sfg3en	mega
 sjá	sng	sjá
@@ -3603,7 +3431,6 @@ gerðinni	nveþg	gerð
 47,1002,3918	ta	47,1002,3918
 »	»	»
 !	!	!
-
 POSIX	as	POSIX
 (	(	(
 Portable	e	Portable
@@ -3622,7 +3449,6 @@ stýrikerfis	nhee	stýrikerfi
 gagnvart	aþ	gagnvart
 notendaforritum	nhfþ	notendaforrit
 .	.	.
-
 Þessi	faken	þessi
 staðall	nken	staðall
 er	sfg3en	vera
@@ -3655,7 +3481,6 @@ notkun	nveþ	notkun
 þeim	fakeþ	sá
 tíma	nkeþ	tími
 .	.	.
-
 Þetta	fahen	þessi
 voru	sfg3fþ	vera
 stýrikerfi	nhfn	stýrikerfi
@@ -3699,7 +3524,6 @@ AT	as	AT
 T	x	t
 UNIX-ið	nhengs	UNIX
 .	.	.
-
 Þegar	c	þegar
 ljóst	lhensf	ljós
 var	sfg3eþ	vera
@@ -3740,7 +3564,6 @@ ganga	sng	ganga
 á	aþ	á
 hinum	fahfþ	hinn
 .	.	.
-
 Venjulegt	lhensf	venjulegur
 notendaforrit	nhen	notendaforrit
 þarf	sfg3en	þurfa
@@ -3756,7 +3579,6 @@ mun	sfg3en	munu
 keyra	sng	keyra
 á	aa	á
 .	.	.
-
 Til	ae	til
 dæmis	nhee	dæmi
 sér	sfg3en	sjá
@@ -3783,7 +3605,6 @@ einnig	aa	einnig
 alla	foveo	allur
 skráarvinnslu	nveo	skráarvinnsla
 .	.	.
-
 Ef	c	ef
 forritið	nheng	forrit
 þarf	sfg3en	þurfa
@@ -3805,7 +3626,6 @@ að	cn	að
 úthluta	sng	úthluta
 því	fpheþ	það
 .	.	.
-
 Flest	lhfnse	margur
 netsamskipti	nhfn	netsamskipti
 fara	sfg3fn	fara
@@ -3825,7 +3645,6 @@ og	c	og
 heimildum	nvfþ	heimild
 þeirra	fpkfe	hann
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 því	aa	því
@@ -3854,7 +3673,6 @@ sem	ct	sem
 keyra	sfg3fn	keyra
 á	aa	á
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 eru	sfg3fn	vera
@@ -3893,7 +3711,6 @@ fæst	lhfnse	fár
 Windows	e	Windows
 stýrikerfin	nhfng	stýrikerfi
 .	.	.
-
 Samtökin	nhfng	samtök
 IEEE	e	IEEE
 viðhalda	sfg3fn	viðhalda
@@ -3908,7 +3725,6 @@ uppfylli	svg3en	uppfylla
 POSIX	as	POSIX
 staðalinn	nkeog	staðall
 .	.	.
-
 Vegna	ae	vegna
 kostnaðar	nkee	kostnaður
 við	ao	við
@@ -3927,7 +3743,6 @@ staðlinum	nkeþg	staðall
 fengið	ssg	fá
 vottun	nveo	vottun
 .	.	.
-
 Einnig	aa	einnig
 hafa	sfg3fn	hafa
 stýrikerfi	nhfn	stýrikerfi
@@ -3950,7 +3765,6 @@ sem	c	sem
 Windows	e	Windows
 NT	as	NT
 4.0.	ta	4.0.
-
 Fyrirtækin	nhfng	fyrirtæki
 AMD	as	AMD
 og	c	og
@@ -3978,7 +3792,6 @@ AMD	as	AMD
 og	c	og
 Intel	e	Intel
 .	.	.
-
 Þessar	favfn	þessi
 örgjörvafjölskyldur	nvfn	örgjörvafjölskylda
 hafa	sfg3fn	hafa
@@ -3996,7 +3809,6 @@ bera	sng	bera
 þær	fpvfo	hún
 saman	aa	saman
 .	.	.
-
 Á	aþ	á
 undanförnum	lhfþsf	undanfarinn
 árum	nhfþ	ár
@@ -4044,7 +3856,6 @@ til	aa	til
 var	sfg3eþ	vera
 ætlast	sþmhen	ætla
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 kannski	aa	kannski
@@ -4065,7 +3876,6 @@ frá	aþ	frá
 tveimur	tfhfþ	tveir
 fyrirtækjum	nhfþ	fyrirtæki
 .	.	.
-
 Stærsti	lkenve	stór
 sameiginlegi	lkenvf	sameiginlegur
 eiginleikinn	nkeng	eiginleiki
@@ -4084,7 +3894,6 @@ skilja	sfg3fn	skilja
 sömu	fbvfo	sami
 vélamálsskipanirnar	nvfog	vélamálsskipun
 .	.	.
-
 Þetta	fahen	þessi
 skipanasafn	nhen	skipanasafn
 er	sfg3en	vera
@@ -4113,7 +3922,6 @@ Architecture	e	Architecture
 bits	e	bits
 »	»	»
 .	.	.
-
 Þessar	favfn	þessi
 vélamálsskipanir	nvfn	vélamálsskipun
 komu	sfg3fþ	koma
@@ -4147,7 +3955,6 @@ kom	sfg3eþ	koma
 fram	aa	fram
 1978	ta	1978
 .	.	.
-
 Síðan	aa	síðan
 «	«	«
 IA-32	x	ia-32
@@ -4213,7 +4020,6 @@ kallað	sþghen	kalla
 AMD64	ta	AMD64
 )	)	)
 .	.	.
-
 Aðalatriðið	nheng	aðalatriði
 er	sfg3en	vera
 samt	aa	samt
@@ -4240,7 +4046,6 @@ eins	aa	eins
 báðum	fovfþ	báðir
 örgjörvagerðunum	nvfþg	örgjörvagerð
 .	.	.
-
 Viðbótarskipanirnar	nvfng	viðbótarskipun
 sem	ct	sem
 eru	sfg3fn	vera
@@ -4262,7 +4067,6 @@ takmarka	sfg3fn	takmarka
 notkun	nveo	notkun
 keyrsluskránna	nvfeg	keyrsluskrá
 .	.	.
-
 Reyndar	aa	reyndar
 hefur	sfg3en	hafa
 AMD	as	AMD
@@ -4286,7 +4090,6 @@ upp	aa	upp
 AMD	as	AMD
 skipanirnar	nvfog	skipun
 .	.	.
-
 Aðrir	fokfn	annar
 örgjörvar	nkfn	örgjörvi
 ,	,	,
@@ -4313,7 +4116,6 @@ Intel	e	Intel
 og	c	og
 AMD	as	AMD
 .	.	.
-
 Það	fphen	það
 þýðir	sfg3en	þýða
 að	c	að
@@ -4339,7 +4141,6 @@ eða	c	eða
 AMD	as	AMD
 örgjörvum	nkfþ	örgjörvi
 .	.	.
-
 Það	fphen	það
 þarf	sfg3en	þurfa
 því	aa	því
@@ -4359,7 +4160,6 @@ nota	sng	nota
 sama	fbheo	sami
 stýrikerfið	nheog	stýrikerfi
 .	.	.
-
 Þó	aa	þó
 að	c	að
 örgjörvarnir	nkfng	örgjörvi
@@ -4384,7 +4184,6 @@ endilega	aa	endilega
 alveg	aa	alveg
 eins	aa	eins
 .	.	.
-
 Báðar	fovfn	báðir
 gerðirnar	nvfng	gerð
 þýða	sfg3fn	þýða
@@ -4424,7 +4223,6 @@ micro-ops	e	micro-ops
 »	»	»
 )	)	)
 .	.	.
-
 Þessar	favfn	þessi
 örskipanir	nvfn	örskipun
 eru	sfg3fn	vera
@@ -4441,7 +4239,6 @@ aldrei	aa	aldrei
 utan	ae	utan
 örgjörvans	nkeeg	örgjörvi
 .	.	.
-
 Nýjustu	lkfnve	nýr
 AMD	as	AMD
 og	c	og
@@ -4474,7 +4271,6 @@ auka	sng	auka
 hraða	nkeo	hraði
 örgjörvanna	nkfeg	örgjörvi
 .	.	.
-
 Önnur	foven	annar
 leið	nven	leið
 til	ae	til
@@ -4508,7 +4304,6 @@ notkun	nveþ	notkun
 hverjum	fokeþ	hver
 tíma	nkeþ	tími
 .	.	.
-
 Klukkutíðni	nven	klukkutíðni
 örgjörvanna	nkfeg	örgjörvi
 segir	sfg3en	segja
@@ -4523,14 +4318,12 @@ settar	sþgvfn	setja
 í	ao	í
 framkvæmd	nveo	framkvæmd
 .	.	.
-
 Hærri	lvenvm	hár
 klukkutíðni	nven	klukkutíðni
 þýðir	sfg3en	þýða
 meiri	lhfovm	mikill
 afköst	nhfo	afkast
 .	.	.
-
 Einnig	aa	einnig
 skiptir	sfg3en	skipta
 máli	nheþ	mál
@@ -4555,7 +4348,6 @@ og	c	og
 harða	lkeovf	harður
 diskinn	nkeog	diskur
 .	.	.
-
 AMD	as	AMD
 og	c	og
 Intel	e	Intel
@@ -4584,7 +4376,6 @@ hann	fpken	hann
 sé	svg3en	vera
 mikilvægastur	lkense	mikilvægur
 .	.	.
-
 Fyrir	ao	fyrir
 hinn	gkeo	hinn
 almenna	lkeovf	almennur
@@ -4607,7 +4398,6 @@ eða	c	eða
 frá	aþ	frá
 AMD	as	AMD
 .	.	.
-
 Báðir	fokfn	báðir
 framleiðendurnir	nkfng	framleiðandi
 hafa	sfg3fn	hafa
@@ -4646,14 +4436,12 @@ Intel-	nken-s	Intel-örgjörvi
 eða	c	eða
 AMD-örgjörvi	nken-s	AMD-örgjörvi
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 einnig	aa	einnig
 svarað	sþghen	svara
 spurningunni	nveþg	spurning
 :	:	:
-
 Hvaða	fshfn	hvaða
 forrit	nhfn	forrit
 eru	sfg3fn	vera
@@ -4661,7 +4449,6 @@ til	aa	til
 fyrir	ao	fyrir
 forritun	nveo	forritun
 ?	?	?
-
 Forrit	nhfn	forrit
 eru	sfg3fn	vera
 búin	sþghfn	búa
@@ -4670,7 +4457,6 @@ með	aþ	með
 hjálp	nveþ	hjálp
 annarra	fohfe	annar
 forrita	nhfe	forrit
-
 Það	fphen	það
 er	sfg3en	vera
 rétt	lhensf	réttur
@@ -4683,7 +4469,6 @@ að	cn	að
 skrifa	sng	skrifa
 forrit	nhfo	forrit
 .	.	.
-
 Til	ae	til
 þess	fphee	það
 eru	sfg3fn	vera
@@ -4693,7 +4478,6 @@ ritill	nken	ritill
 og	c	og
 þýðandi	nken	þýðandi
 .	.	.
-
 Þegar	c	þegar
 hafist	sþmhen	hefja
 er	sfg3en	vera
@@ -4723,7 +4507,6 @@ e.	as	e.
 editor	e	editor
 )	)	)
 .	.	.
-
 Ritillinn	nkeng	ritill
 gæti	svg3eþ	geta
 til	ae	til
@@ -4747,7 +4530,6 @@ Studio	e	Studio
 frá	aþ	frá
 Microsoft	e	Microsoft
 .	.	.
-
 Ritillinn	nkeng	ritill
 auðveldar	sfg3en	auðvelda
 manni	nkeþ	maður
@@ -4777,7 +4559,6 @@ sem	ct	sem
 eftir	aa	eftir
 kemur	sfg3en	koma
 .	.	.
-
 Þegar	c	þegar
 allt	fohen	allur
 forritið	nheng	forrit
@@ -4795,7 +4576,6 @@ harða	lkeþvf	harður
 diski	nkeþ	diskur
 tölvunnar	nveeg	tölva
 .	.	.
-
 En	c	en
 þar	aa	þar
 sem	c	sem
@@ -4831,7 +4611,6 @@ getur	sfg3en	geta
 unnið	ssg	vinna
 úr	aa	úr
 .	.	.
-
 Það	fahen	sá
 forritunarmál	nhen	forritunarmál
 sem	ct	sem
@@ -4844,7 +4623,6 @@ er	sfg3en	vera
 mjög	aa	mjög
 frumstætt	lhensf	frumstæður
 .	.	.
-
 Að	cn	að
 forrita	sng	forrita
 á	aþ	á
@@ -4855,7 +4633,6 @@ seinvirkt	lhensf	seinvirkur
 og	c	og
 erfitt	lhensf	erfiður
 .	.	.
-
 Forritarar	nkfn	forritari
 nútímans	nkeeg	nútími
 nota	sfg3fn	nota
@@ -4872,7 +4649,6 @@ bók	nveþ	bók
 sem	ct	sem
 þessari	faveþ	þessi
 .	.	.
-
 Skipanir	nvfn	skipun
 á	aþ	á
 vélarmáli	nheþ	vélarmál
@@ -4881,7 +4657,6 @@ táknaðar	sþgvfn	tákna
 með	aþ	með
 tölum	nvfþ	tala
 .	.	.
-
 Þannig	aa	þannig
 gæti	svg3eþ	geta
 talan	nveng	tala
@@ -4904,7 +4679,6 @@ gildi	nheo	gildi
 minnishólfi	nheþ	minnishólf
 tölvunnar	nveeg	tölva
 .	.	.
-
 Þannig	aa	þannig
 myndi	svg3eþ	munu
 talnarunan	nveng	talnaruna
@@ -4925,7 +4699,6 @@ minnishólfs	nhee	minnishólf
 númer	nhen	númer
 456	ta	456
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 augljóslega	aa	augljóslega
@@ -4938,7 +4711,6 @@ forritunarmáli	nheþ	forritunarmál
 sem	c	sem
 þessu	faheþ	þessi
 .	.	.
-
 Þess	fphee	það
 vegna	ae	vegna
 hafa	sfg3fn	hafa
@@ -4982,7 +4754,6 @@ nota	sng	nota
 og	c	og
 skilja	sng	skilja
 .	.	.
-
 Vélarmál	nhfn	vélarmál
 tölvanna	nvfeg	tölva
 eru	sfg3fn	vera

@@ -3,7 +3,6 @@ við	ao	við
 aðrar	fovfo	annar
 einingar	nvfo	eining
 .	.	.
-
 Einingin	nveng	eining
 er	sfg3en	vera
 merkingarlaus	lvensf	merkingarlaus
@@ -16,7 +15,6 @@ gefa	sfg3fn	gefa
 henni	fpveþ	hún
 merkingu	nveo	merking
 .	.	.
-
 Þetta	faheo	þessi
 má	sfg3en	mega
 útskýra	sng	útskýra
@@ -31,7 +29,6 @@ greiningu	nveþ	greining
 á	aþ	á
 henni	fpveþ	hún
 :	:	:
-
 Faðir	nken	faðir
 og	c	og
 sonur	nken	sonur
@@ -46,7 +43,6 @@ rýkur	sfg3en	rjúka
 í	aþ	í
 fússi	nheþ	fúss
 .	.	.
-
 Á	aþ	á
 förnum	lkeþsf	farinn
 vegi	nkeþ	vegur
@@ -56,7 +52,6 @@ farandleikara	nkeo	farandleikari
 og	c	og
 flökkulýð	nkeo	flökkulýður
 .	.	.
-
 slæst	sfm3en	slá
 í	ao	í
 för	nveo	för
@@ -66,7 +61,6 @@ og	c	og
 gerist	sfm3en	gera
 trúður	nken	trúður
 .	.	.
-
 Leikflokkurinn	nkeng	leikflokkur
 setur	sfg3en	setja
 upp	aa	upp
@@ -78,7 +72,6 @@ spilavíti	nheo	spilavíti
 undirheimum	nkfþ	undirheimur
 borgarinnar	nveeg	borg
 .	.	.
-
 Nokkrum	fohfþ	nokkur
 árum	nhfþ	ár
 síðar	aam	síðar
@@ -98,7 +91,6 @@ sinn	fekeo	sinn
 bakvið	ao	bakvið
 trúðsfarðann	nkeog	trúðsfarði
 .	.	.
-
 Þeir	fpkfn	hann
 fallast	sfm3fn	falla
 í	ao	í
@@ -106,7 +98,6 @@ faðma	nkfo	faðmur
 og	c	og
 sættast	sfm3fn	sætta
 .	.	.
-
 Síðan	aa	síðan
 fylgir	sfg3en	fylgja
 sonurinn	nkeng	sonur
@@ -121,7 +112,6 @@ tekur	sfg3en	taka
 við	aþ	við
 fjölskyldufyrirtækinu	nheþg	fjölskyldufyrirtæki
 .	.	.
-
 Strúktúralísk	lvensf	strúktúralískur
 greining	nven	greining
 á	aþ	á
@@ -145,7 +135,6 @@ gegn	aþ	gegn
 hinu	gheþ	hinn
 háa	lheþvf	hár
 .	.	.
-
 Hið	ghen	hinn
 lága	lhenvf	lágur
 hrapar	sfg3en	hrapa
@@ -158,7 +147,6 @@ trúð	nkeo	trúður
 í	aþ	í
 undirheimum	nkfþ	undirheimur
 .	.	.
-
 Hið	ghen	hinn
 háa	lhenvf	hár
 mætir	sfg3en	mæta
@@ -182,7 +170,6 @@ fylgjast	sfm3fn	fylgja
 saman	aa	saman
 heim	aa	heim
 .	.	.
-
 Þar	aa	þar
 verða	sfg3fn	verða
 síðan	aa	síðan
@@ -208,7 +195,6 @@ verður	sfg3en	verða
 yfirskipað	lhensf	yfirskipaður
 föðurnum	nkeþg	faðir
 .	.	.
-
 Strúktúralísk	lvensf	strúktúralískur
 greining	nven	greining
 skiptir	sfg3en	skipta
@@ -223,7 +209,6 @@ innbyrðis	lhfþof	innbyrðis
 tengslum	nhfþ	tengsl
 þeirra	fpvfe	hún
 .	.	.
-
 Engu	foheþ	enginn
 hefði	svg3eþ	hafa
 skipt	ssg	skipta
@@ -247,7 +232,6 @@ dóttirin	nveng	dóttir
 hið	gheo	hinn
 lága	lheovf	lágur
 .	.	.
-
 Og	c	og
 sagan	nveng	saga
 hefði	svg3eþ	hafa
@@ -279,7 +263,6 @@ upp	aa	upp
 af	aþ	af
 ljóni	nheþ	ljón
 .	.	.
-
 Í	aþ	í
 strúktúralískri	lveþsf	strúktúralískur
 greiningu	nveþ	greining
@@ -292,7 +275,6 @@ heldur	c	heldur
 aðeins	aa	aðeins
 formgerðin	nveng	formgerð
 .	.	.
-
 Svo	aa	svo
 lengi	aa	lengi
 sem	c	sem
@@ -310,7 +292,6 @@ söguna	nveog	saga
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 Þessu	faheþ	þessi
 er	sfg3en	vera
 ólíkt	lhensf	ólíkur
@@ -321,7 +302,6 @@ greiningaraðferðum	nvfþ	greiningaraðferð
 er	sfg3en	vera
 beitt	sþghen	beita
 .	.	.
-
 Sálfræðileg	lvensf	sálfræðilegur
 rýni	nven	rýni
 myndi	svg3eþ	munu
@@ -339,7 +319,6 @@ faðir	nken	faðir
 og	c	og
 sonur	nken	sonur
 .	.	.
-
 Deilur	nvfn	deila
 á	aa	á
 milli	ae	milli
@@ -359,7 +338,6 @@ allt	fohen	allur
 aðra	foveo	annar
 merkingu	nveo	merking
 .	.	.
-
 Í	aþ	í
 sálfræðilegri	lveþsf	sálfræðilegur
 rýni	nveþ	rýni
@@ -381,7 +359,6 @@ fyrir	ao	fyrir
 utan	aa	utan
 söguna	nveog	saga
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 vert	lhensf	verður
@@ -412,7 +389,6 @@ slæmar	lvfnsf	slæmur
 '	'	'
 bókmenntir	nvfn	bókmennt
 .	.	.
-
 Það	fphen	það
 eru	sfg3fn	vera
 engir	fokfn	enginn
@@ -422,7 +398,6 @@ innifaldir	lkfnsf	innifalinn
 strúktúralískri	lveþsf	strúktúralískur
 greiningu	nveþ	greining
 .	.	.
-
 Strúktúralisma	nkeþ	strúktúralismi
 var	sfg3eþ	vera
 mikið	lhensf	mikill
@@ -443,7 +418,6 @@ til	ae	til
 dæmis	nhee	dæmi
 þjóðsögur	nvfn	þjóðsaga
 .	.	.
-
 Þriðja	lvenvf	þriðji
 athugun	nven	athugun
 Saussure	e	Saussure
@@ -454,7 +428,6 @@ sé	svg3en	vera
 tilfallandi	lvenof	tilfallandi
 eining	nven	eining
 .	.	.
-
 Með	aþ	með
 því	fpheþ	það
 er	sfg3en	vera
@@ -479,7 +452,6 @@ vísað	sþghen	vísa
 er	sfg3en	vera
 til	aa	til
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ekki	aa	ekki
@@ -501,7 +473,6 @@ notuð	sþgven	nota
 yfir	ao	yfir
 dýrið	nheog	dýr
 .	.	.
-
 Forsendurnar	nvfng	forsenda
 tvær	tfvfn	tveir
 um	ao	um
@@ -528,7 +499,6 @@ grafa	sfg3fn	grafa
 undan	aþ	undan
 henni	fpveþ	hún
 .	.	.
-
 Af	aþ	af
 því	fpheþ	það
 að	c	að
@@ -564,7 +534,6 @@ gefa	sng	gefa
 einingunum	nvfþg	eining
 merkingu	nveo	merking
 .	.	.
-
 En	c	en
 vegna	ae	vegna
 þess	fphee	það
@@ -593,7 +562,6 @@ kerfi	nhfo	kerfi
 sömu	fbvfþ	sami
 einingum	nvfþ	eining
 .	.	.
-
 Þannig	aa	þannig
 felur	sfg3en	fela
 myndun	nven	myndun
@@ -617,7 +585,6 @@ annars	fokee	annar
 konar	nkee	konar
 merkingar	nvee	merking
 .	.	.
-
 Það	fphen	það
 hefði	svg3eþ	hafa
 allt	fohen	allur
@@ -664,7 +631,6 @@ og	c	og
 rauðum	lkeþsf	rauður
 dúk	nkeþ	dúkur
 .	.	.
-
 Margir	lkfnsf	margur
 benda	sfg3fn	benda
 á	ao	á
@@ -688,7 +654,6 @@ beinst	ssm	beina
 formi	nheþ	form
 póststrúktúralismans	nkeeg	póststrúktúralismi
 .	.	.
-
 Í	aþ	í
 þeirri	faveþ	sá
 gagnrýni	nveþ	gagnrýni
@@ -706,7 +671,6 @@ eru	sfg3fn	vera
 höfuðeinkenni	nhfn	höfuðeinkenni
 strúktúralismans	nkeeg	strúktúralismi
 .	.	.
-
 Þeir	fpkfn	hann
 sem	ct	sem
 vilja	sfg3fn	vilja
@@ -728,7 +692,6 @@ greinar	nvfo	grein
 <	<	<
 Heimildir	nvfn	heimild
 >	>	>
-
 Þessari	faveþ	þessi
 spurningu	nveþ	spurning
 má	sfg3en	mega
@@ -765,7 +728,6 @@ er	sfg3en	vera
 frá	aþ	frá
 Eden	e	Eden
 .	.	.
-
 Þannig	aa	þannig
 er	sfg3en	vera
 til	ae	til
@@ -807,7 +769,6 @@ við	ao	við
 einstök	lhfosf	einstakur
 atriði	nhfo	atriði
 .	.	.
-
 En	c	en
 spurningin	nveng	spurning
 þarf	sfg3en	þurfa
@@ -849,7 +810,6 @@ sér	fpkfþ	sig
 þennan	fakeo	þessi
 stað	nkeo	staður
 .	.	.
-
 Í	aþ	í
 þeim	fakeþ	sá
 skilningi	nkeþ	skilningur
@@ -897,7 +857,6 @@ skilningi	nkeþ	skilningur
 þeirra	fahfe	sá
 orða	nhfe	orð
 .	.	.
-
 En	c	en
 spurningin	nveng	spurning
 sem	ct	sem
@@ -934,7 +893,6 @@ Eden	e	Eden
 varð	sfg3eþ	verða
 til	aa	til
 .	.	.
-
 Þetta	fahen	þessi
 kemur	sfg3en	koma
 betur	aam	vel
@@ -944,7 +902,6 @@ hér	aa	hér
 á	aa	á
 eftir	aa	eftir
 .	.	.
-
 Ýmsar	fovfn	ýmis
 kenningar	nvfn	kenning
 hafa	sfg3fn	hafa
@@ -959,7 +916,6 @@ aldingarðsins	nkeeg	aldingarður
 á	aþ	á
 landakorti	nheþ	landakort
 .	.	.
-
 Í	aþ	í
 1.	ta	1.
 Mósebók	nveþ-s	Mósebók
@@ -988,7 +944,6 @@ hafði	sfg3eþ	hafa
 myndað	ssg	mynda
 .	.	.
 »	»	»
-
 (	(	(
 2:8	ta	2:8
 )	)	)
@@ -1003,7 +958,6 @@ tengist	sfm3en	tengja
 fjórum	tfhfþ	fjórir
 stórfljótum	nhfþ	stórfljót
 :	:	:
-
 Fljót	nhen	fljót
 rann	sfg3eþ	renna
 frá	aþ	frá
@@ -1023,7 +977,6 @@ að	aþ	að
 fjórum	tfvfþ	fjórir
 stórám	nvfþ	stórá
 .	.	.
-
 Hin	gven	hinn
 fyrsta	lvenve	fyrstur
 heitir	sfg3en	heita
@@ -1041,7 +994,6 @@ sem	c	sem
 gullið	lhensf	gullinn
 fæst	sfm3en	fá
 .	.	.
-
 [	[	[
 ...	...	...
 ]	]	]
@@ -1050,38 +1002,32 @@ stóráin	nveng	stórá
 heitir	sfg3en	heita
 Gíhon	nxen-s	Gíhon
 .	.	.
-
 Hún	fpven	hún
 fellur	sfg3en	falla
 um	ao	um
 allt	foheo	allur
 Kúsland	nheo-s	Kúsland
 .	.	.
-
 Þriðja	lvenvf	þriðji
 stóráin	nveng	stórá
 heitir	sfg3en	heita
 Kíddekel	e	Kíddekel
 .	.	.
-
 Hún	fpven	hún
 fellur	sfg3en	falla
 fyrir	ao	fyrir
 vestan	aa	vestan
 Assýríu	nveo-s	Assýría
 .	.	.
-
 Fjórða	lvenvf	fjórði
 stóráin	nveng	stórá
 er	sfg3en	vera
 Efrat	e	Efrat
 .	.	.
-
 (	(	(
 2:10	ta	2:10
 -14	ta	-14
 )	)	)
-
 Eftir	ao	eftir
 að	c	að
 Adam	nken-s	Adam
@@ -1128,12 +1074,10 @@ lífsins	nheeg	líf
 tré	nheþ	tré
 .	.	.
 »	»	»
-
 (	(	(
 3:24	ta	3:24
 )	)	)
 .	.	.
-
 Ef	c	ef
 Biblían	nvengs	Biblía
 er	sfg3en	vera
@@ -1150,7 +1094,6 @@ Eden	e	Eden
 finnist	svm3en	finna
 ekki	aa	ekki
 .	.	.
-
 Mynd	nven	mynd
 Enricos	e	Enricos
 Baj	e	Baj
@@ -1168,7 +1111,6 @@ rekin	sþghfn	reka
 úr	aþ	úr
 aldingarðinum	nkeþg	aldingarður
 .	.	.
-
 Sagnaritarinn	nkeng	sagnaritari
 Flavíus	e	Flavíus
 Jósefus	e	Jósefus
@@ -1191,7 +1133,6 @@ Tígris	nxeþ-s	Tígris
 og	c	og
 Níl	nveþ-s	Níl
 .	.	.
-
 Hann	fpken	hann
 taldi	sfg3eþ	telja
 til	ae	til
@@ -1210,7 +1151,6 @@ væri	svg3eþ	vera
 vegna	ae	vegna
 Nílarfljót	nhen-s	Nílarfljót
 .	.	.
-
 Þessi	faven	þessi
 túlkun	nven	túlkun
 felur	sfg3en	fela
@@ -1241,7 +1181,6 @@ sín	fehfo	sinn
 sama	fbkeþ	sami
 stað	nkeþ	staður
 .	.	.
-
 Eden	e	Eden
 hefur	sfg3en	hafa
 yfirleitt	aa	yfirleitt
@@ -1273,7 +1212,6 @@ var	sfg3eþ	vera
 til	ae	til
 forna	lkeevf	forn
 .	.	.
-
 Að	aþ	að
 lokum	nhfþ	lok
 er	sfg3en	vera
@@ -1303,7 +1241,6 @@ verið	ssg	vera
 norðlægari	lvfþvm	norðlægur
 slóðum	nvfþ	slóð
 .	.	.
-
 Árið	nheog	ár
 1885	ta	1885
 gaf	sfg3eþ	gefa
@@ -1367,7 +1304,6 @@ nú	aa	nú
 er	sfg3en	vera
 Norðurpóllinn	nkengs	Norðurpóll
 .	.	.
-
 Rök	nhfn	rök
 Warrens	e	Warrens
 voru	sfg3fþ	vera
@@ -1403,7 +1339,6 @@ fundist	ssm	finna
 á	aþ	á
 Norður-Grænlandi	nheþ-s	Norður-Grænland
 .	.	.
-
 Fæstir	lkfnse	fár
 leggja	sfg3fn	leggja
 þó	aa	þó
@@ -1435,13 +1370,11 @@ líkindum	nhfþ	líkindi
 verið	ssg	vera
 þar	aa	þar
 .	.	.
-
 <	<	<
 Heimildir	nvfn	heimild
 og	c	og
 mynd	nven	mynd
 >	>	>
-
 Aðrir	fokfn	annar
 spyrjendur	nkfn	spyrjandi
 eru	sfg3fn	vera
@@ -1451,7 +1384,6 @@ nemendur	nkfn	nemandi
 bekkjar	nkee	bekkur
 Lágafellsskóla	nkee-s	Lágafellsskóli
 :	:	:
-
 Harpa	nven-s	Harpa
 Methúsalemsdóttir	nven-s	Methúsalemsdóttir
 ,	,	,
@@ -1472,7 +1404,6 @@ Gústavsdóttir	nven-s	Gústavsdóttir
 ,	,	,
 Alex	nken-s	Alex
 Jökulsson	nken-s	Jökulsson
-
 Við	fp1fn	ég
 höfum	sfg1fn	hafa
 áður	aa	áður
@@ -1501,7 +1432,6 @@ lægra	aam	lágt
 á	aþ	á
 lofti	nheþ	loft
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -1523,7 +1453,6 @@ rauðu	lheþsf	rauður
 í	aþ	í
 sólinni	nveþg	sól
 ?	?	?
-
 Sólarljósið	nheng	sólarljós
 er	sfg3en	vera
 í	aþ	í
@@ -1537,7 +1466,6 @@ af	aþ	af
 öllum	fokfþ	allur
 litum	nkfþ	litur
 .	.	.
-
 Þegar	c	þegar
 sólarljósið	nheng	sólarljós
 fellur	sfg3en	falla
@@ -1556,14 +1484,12 @@ en	c	en
 endurkasta	sfg3fn	endurkasta
 hinu	faheþ	hinn
 .	.	.
-
 Endurkastið	nheng	endurkast
 ræður	sfg3en	ráða
 litnum	nkeþg	litur
 á	aþ	á
 hlutnum	nkeþg	hlutur
 .	.	.
-
 Hlutir	nkfn	hlutur
 sem	ct	sem
 endurkasta	sfg3fn	endurkasta
@@ -1587,7 +1513,6 @@ eða	c	eða
 strigi	nken	strigi
 málarans	nkeeg	málari
 .	.	.
-
 Þegar	c	þegar
 við	fp1fn	ég
 málum	sfg1fn	mála
@@ -1616,7 +1541,6 @@ verður	sfg3en	verða
 striginn	nkeng	strigi
 gulur	lkensf	gulur
 .	.	.
-
 Hér	aa	hér
 sést	sfm3en	sjá
 skipting	nven	skipting
@@ -1632,7 +1556,6 @@ ljós	nheo	ljós
 eftir	aþ	eftir
 bylgjulengdum	nvfþ	bylgjulengd
 .	.	.
-
 Plöntur	nvfn	planta
 og	c	og
 gras	nhen	gras
@@ -1651,7 +1574,6 @@ græna	lkeþvf	grænn
 og	c	og
 gula	lkeþvf	gulur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 skýringin	nveng	skýring
@@ -1663,7 +1585,6 @@ grasið	nheng	gras
 er	sfg3en	vera
 grænt	lhensf	grænn
 .	.	.
-
 Sama	fbven	sami
 skýring	nven	skýring
 er	sfg3en	vera
@@ -1675,7 +1596,6 @@ grasið	nheng	gras
 er	sfg3en	vera
 grænt	lhensf	grænn
 .	.	.
-
 Litarefnið	nheng	litarefni
 blaðgræna	nven	blaðgræna
 sem	ct	sem
@@ -1704,7 +1624,6 @@ af	aþ	af
 bláu	lheþsf	blár
 ljósi	nheþ	ljós
 .	.	.
-
 Plantan	nveng	planta
 drekkur	sfg3en	drekka
 ljóseindirnar	nvfog	ljóseind
@@ -1732,7 +1651,6 @@ gula	lkeevf	gulur
 hluta	nkee	hluti
 sólarljóssins	nheeg	sólarljós
 .	.	.
-
 Þeim	fpkfþ	hann
 er	sfg3en	vera
 endurkastað	sþghen	endurkasta
@@ -1745,7 +1663,6 @@ er	sfg3en	vera
 grasið	nheng	gras
 grænt	lhensf	grænn
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -1771,7 +1688,6 @@ fjólubláar	lvfnsf	fjólublár
 eða	c	eða
 svartar	lvfnsf	svartur
 ?	?	?
-
 og	c	og
 þeir	fakfn	sá
 sem	ct	sem
@@ -1789,7 +1705,6 @@ Hvað	fshen	hver
 eru	sfg3fn	vera
 litir	nkfn	litur
 ?	?	?
-
 *	*	*
 Eru	sfg3fn	vera
 til	aa	til
@@ -1799,7 +1714,6 @@ mannsaugað	nheng	mannsauga
 greinir	sfg3en	greina
 ekki	aa	ekki
 ?	?	?
-
 *	*	*
 Eru	sfg3fn	vera
 hvítt	lhensf	hvítur
@@ -1807,7 +1721,6 @@ og	c	og
 svart	lhensf	svartur
 litir	nkfn	litur
 ?	?	?
-
 *	*	*
 Hvaða	fshfn	hvaða
 dýr	nhfn	dýr
@@ -1815,7 +1728,6 @@ sjá	sfg3fn	sjá
 liti	nkfo	litur
 rétt	aa	rétt
 ?	?	?
-
 Langjökull	nken-s	Langjökull
 hét	sfg3eþ	heita
 einu	foheþ	einn
@@ -1832,7 +1744,6 @@ hnöttur	nken	hnöttur
 eða	c	eða
 kúla	nven	kúla
 .	.	.
-
 Langjökull	nken-s	Langjökull
 er	sfg3en	vera
 annar	lkensf	annar
@@ -1851,7 +1762,6 @@ alls	fohee	allur
 metra	nkfe	metri
 hár	lkensf	hár
 .	.	.
-
 Í	aþ	í
 svari	nheþ	svar
 eftir	ao	eftir
@@ -1873,7 +1783,6 @@ við	ao	við
 óbreytta	lveosf	óbreyttur
 þróun	nveo	þróun
 ?	?	?
-
 er	sfg3en	vera
 hægt	lhensf	hægur
 að	cn	að
@@ -1891,7 +1800,6 @@ næstu	lveþve	næstur
 hálfri	lveþsf	hálfur
 öld	nveþ	öld
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ekki	aa	ekki
@@ -1904,7 +1812,6 @@ Hekla	nven-s	Hekla
 gýs	sfg3en	gjósa
 næst	aae	nærri
 .	.	.
-
 Þegar	c	þegar
 Hekla	nven-s	Hekla
 gaus	sfg3eþ	gjósa
@@ -1921,7 +1828,6 @@ reglulega	aa	reglulega
 ára	nhfe	ár
 fresti	nkeþ	frestur
 .	.	.
-
 Næst	aae	nærri
 hefði	svg3eþ	hafa
 hún	fpven	hún
@@ -1933,7 +1839,6 @@ gjósa	sng	gjósa
 nálægt	aa	nálægt
 2045	ta	2045
 .	.	.
-
 Þetta	fahen	þessi
 gekk	sfg3eþ	ganga
 ekki	aa	ekki
@@ -1951,7 +1856,6 @@ gosið	ssg	gjósa
 og	c	og
 2000	ta	2000
 .	.	.
-
 Miðað	sþghen	miða
 við	ao	við
 það	fpheo	það
@@ -1972,7 +1876,6 @@ slá	sng	slá
 algjörlega	aa	algjörlega
 föstu	lheþsf	fastur
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -1993,7 +1896,6 @@ Hekla	nven-s	Hekla
 árið	nheog	ár
 2000	ta	2000
 ?	?	?
-
 Á	aþ	á
 Veraldarvefnum	nkeþgs	Veraldarvefur
 er	sfg3en	vera
@@ -2006,7 +1908,6 @@ staðarnöfnum	nhfþ	staðarnafn
 sérstakri	lveþsf	sérstakur
 Örnefnaskrá	nveþ-s	Örnefnaskrá
 .	.	.
-
 Ef	c	ef
 slegnir	sþgkfn	slá
 eru	sfg3fn	vera
@@ -2028,7 +1929,6 @@ byrja	sfg3fn	byrja
 á	aþ	á
 stöfunum	nkfþg	stafur
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 talningu	nveþ	talning
 byrja	sfg3fn	byrja
@@ -2040,7 +1940,6 @@ og	c	og
 2783	ta	2783
 á	aþ	á
 H.	nheþ	h
-
 Hér	aa	hér
 sést	sfm3en	sjá
 kort	nhen	kort
@@ -2051,7 +1950,6 @@ sem	ct	sem
 byrja	sfg3fn	byrja
 á	aþ	á
 H.	nheþ	h
-
 Jarðvísindamenn	nkfn	jarðvísindamaður
 stunda	sfg3fn	stunda
 margir	lkfnsf	margur
@@ -2060,7 +1958,6 @@ mælingar	nvfo	mæling
 eldvirkni	nveþ	eldvirkni
 eldfjalla	nhfe	eldfjall
 .	.	.
-
 Um	ao	um
 slíkar	fbvfo	slíkur
 rannsóknir	nvfo	rannsókn
@@ -2081,7 +1978,6 @@ eldvirkni	nven	eldvirkni
 sveiflukennd	lvensf	sveiflukenndur
 ?	?	?
 .	.	.
-
 Þar	aa	þar
 kemur	sfg3en	koma
 til	ae	til
@@ -2095,7 +1991,6 @@ háð	lvensf	háður
 rúmmáli	nheþ	rúmmál
 þeirra	fphfe	það
 .	.	.
-
 Lítil	lhfnsf	lítill
 gosa	x	gosi
 koma	sfg3fn	koma
@@ -2110,7 +2005,6 @@ stórgos	nhfn	stórgos
 ára	nhfe	ár
 fresti	nkeþ	frestur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 auðvitað	aa	auðvitað
@@ -2135,7 +2029,6 @@ sem	ct	sem
 við	fp1fn	ég
 segjum	sfg1fn	segja
 .	.	.
-
 Við	fp1fn	ég
 vitum	sfg1fn	vita
 flest	lhfnse	margur
@@ -2156,7 +2049,6 @@ okkar	fp1fe	ég
 ákveðinn	lkeosf	ákveðinn
 hátt	nkeo	háttur
 .	.	.
-
 Hundar	nkfn	hundur
 geta	sfg3fn	geta
 til	ae	til
@@ -2183,7 +2075,6 @@ biðjum	sfg1fn	biðja
 um	ao	um
 það	fpheo	það
 .	.	.
-
 Við	fp1fn	ég
 getum	sfg1fn	geta
 þess	fphee	það
@@ -2238,7 +2129,6 @@ kemur	sfg3en	koma
 úr	aþ	úr
 sturtu	nveþ	sturta
 ?	?	?
-
 Hitt	fahen	hinn
 er	sfg3en	vera
 annað	fohen	annar
@@ -2272,7 +2162,6 @@ hvað	fsheo	hver
 við	fp1fn	ég
 segjum	sfg1fn	segja
 .	.	.
-
 Um	ao	um
 greind	nveo	greind
 dýra	nhfe	dýr
@@ -2303,12 +2192,10 @@ fyrir	ao	fyrir
 utan	aa	utan
 manninn	nkeog	maður
 ?	?	?
-
 *	*	*
 Dreymir	sfg3en	dreyma
 dýr	nhfo	dýr
 ?	?	?
-
 *	*	*
 Fengju	svg3fþ	fá
 apar	nkfn	api
@@ -2322,7 +2209,6 @@ kenna	sng	kenna
 að	cn	að
 tala	sng	tala
 ?	?	?
-
 *	*	*
 Hvað	fshen	hver
 er	sfg3en	vera
@@ -2341,7 +2227,6 @@ lært	ssg	læra
 að	cn	að
 tala	sng	tala
 ?	?	?
-
 Við	fp1fn	ég
 vitum	sfg1fn	vita
 ekki	aa	ekki
@@ -2382,7 +2267,6 @@ næstu	lveþve	næstur
 hálfri	lveþsf	hálfur
 öld	nveþ	öld
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 jafnmikil	lvensf	jafnmikill
@@ -2393,7 +2277,6 @@ alla	foveo	allur
 20.	ta	20.
 öldina	nveog	öld
 .	.	.
-
 Ef	c	ef
 sú	faven	sá
 rýrnun	nven	rýrnun
@@ -2432,7 +2315,6 @@ haft	ssg	hafa
 þessa	faveo	þessi
 tölu	nveo	tala
 .	.	.
-
 Loftslag	nhen	loftslag
 gæti	svg3eþ	geta
 til	ae	til
@@ -2448,7 +2330,6 @@ vegna	ae	vegna
 bráðnað	ssg	bráðna
 hraðar	aam	hratt
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -2475,7 +2356,6 @@ við	ao	við
 óbreytta	lveosf	óbreyttur
 þróun	nveo	þróun
 ?	?	?
-
 og	c	og
 þar	aa	þar
 er	sfg3en	vera
@@ -2486,7 +2366,6 @@ myndir	nvfo	mynd
 af	aþ	af
 Vatnajökli	nkeþ-s	Vatnajökull
 .	.	.
-
 Hæsti	lkenve	hár
 foss	nken	foss
 í	aþ	í
@@ -2503,14 +2382,12 @@ nefnt	ssg	nefna
 hann	fpkeo	hann
 Englafoss	nkeo-s	Englafoss
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 979	ta	979
 m	as	m
 hár	lkensf	hár
 .	.	.
-
 Á	aþ	á
 spænsku	nveþ	spænska
 kallast	sfm3en	kalla
@@ -2523,7 +2400,6 @@ ensku	nveþ	enska
 Angel	e	Angel
 Falls	e	Falls
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 nefndur	sþgken	nefna
@@ -2540,7 +2416,6 @@ fossinum	nkeþg	foss
 árið	nheog	ár
 1937	ta	1937
 .	.	.
-
 Vegna	ae	vegna
 þess	fphee	það
 hve	aa	hve
@@ -2555,11 +2430,9 @@ best	aae	vel
 úr	aþ	úr
 lofti	nheþ	loft
 .	.	.
-
 <	<	<
 Heimild	nven	heimild
 >	>	>
-
 Við	fp1fn	ég
 vitum	sfg1fn	vita
 ekki	aa	ekki
@@ -2571,7 +2444,6 @@ orðið	nheng	orð
 í	aþ	í
 heiminum	nkeþg	heimur
 .	.	.
-
 Það	fphen	það
 gæti	svg3eþ	geta
 verið	ssg	vera
@@ -2592,7 +2464,6 @@ um	aa	um
 milljónir	nvfn	milljón
 manna	nkfe	maður
 .	.	.
-
 Ensku	nveo	enska
 tala	sfg3fn	tala
 um	aa	um
@@ -2615,11 +2486,9 @@ um	ao	um
 algengustu	lhfove	algengur
 orðin	nhfog	orð
 :	:	:
-
 <	<	<
 ...	...	...
 >	>	>
-
 Samkvæmt	aþ	samkvæmt
 Íslenskri	lveþsf	íslenskur
 orðtíðnibók	nveþ	orðtíðnibók
@@ -2654,7 +2523,6 @@ hann	fpken	hann
 sem	ct	sem
 *	*	*
 hafa	sng	hafa
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -2677,11 +2545,9 @@ bókstafa	nkfe	bókstafur
 íslensku	lheþsf	íslenskur
 ritmáli	nheþ	ritmál
 ?	?	?
-
 <	<	<
 Heimild	nven	heimild
 >	>	>
-
 Á	aþ	á
 Íslandi	nheþ-s	Ísland
 eru	sfg3fn	vera
@@ -2698,14 +2564,12 @@ en	c	en
 á	aþ	á
 Suðurheimskautinu	nheþgs	Suðurheimskaut
 .	.	.
-
 Þar	aa	þar
 eru	sfg3fn	vera
 um	aa	um
 65	ta	65
 fuglategundir	nvfn	fuglategund
 .	.	.
-
 Flestar	lvfnse	margur
 fuglategundir	nvfn	fuglategund
 eru	sfg3fn	vera
@@ -2716,7 +2580,6 @@ um	aa	um
 3.700	ta	3.700
 talsins	nheeg	tal
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -2736,7 +2599,6 @@ til	aa	til
 margar	lvfnsf	margur
 fuglategundir	nvfn	fuglategund
 ?	?	?
-
 *	*	*
 Hvað	fshen	hver
 eru	sfg3fn	vera
@@ -2745,7 +2607,6 @@ dýrategundir	nvfn	dýrategund
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 ?	?	?
-
 Í	aþ	í
 Papey	nveþ-s	Papey
 er	sfg3en	vera
@@ -2759,7 +2620,6 @@ bjuggu	sfg3fþ	búa
 þar	aa	þar
 menn	nkfn	maður
 .	.	.
-
 Eyjan	nveng	eyja
 dregur	sfg3en	draga
 nafn	nheo	nafn
@@ -2776,7 +2636,6 @@ búið	ssg	búa
 til	aa	til
 forna	lkeevf	forn
 .	.	.
-
 Um	ao	um
 byggð	nveo	byggð
 þeirra	fpkfe	hann
@@ -2804,7 +2663,6 @@ landnám	nheo	landnám
 norrænna	lkfesf	norrænn
 manna	nkfe	maður
 ?	?	?
-
 Papey	nven-s	Papey
 var	sfg3eþ	vera
 eina	lvenvf	einn
@@ -2821,7 +2679,6 @@ af	aa	af
 árið	nheog	ár
 1966	ta	1966
 .	.	.
-
 Í	aþ	í
 Papey	nveþ-s	Papey
 er	sfg3en	vera
@@ -2830,7 +2687,6 @@ vegar	nkee	vegur
 mikið	lhensf	mikill
 fuglalíf	nhen	fuglalíf
 .	.	.
-
 Þar	aa	þar
 eru	sfg3fn	vera
 tæplega	aa	tæplega
@@ -2851,11 +2707,9 @@ pör	nhfn	par
 af	aþ	af
 lunda	nkeþ	lundi
 .	.	.
-
 <	<	<
 Heimildir	nvfn	heimild
 >	>	>
-
 Við	fp1fn	ég
 höfum	sfg1fn	hafa
 ekki	aa	ekki
@@ -2878,7 +2732,6 @@ rúmlega	aa	rúmlega
 2000	ta	2000
 rit	nhfn	rit
 .	.	.
-
 Af	aþ	af
 þeim	fphfþ	það
 flokkast	sfm3fn	flokka
@@ -2904,7 +2757,6 @@ hljómplötur	nvfn	hljómplata
 og	c	og
 margmiðlunardiskar	nkfn	margmiðlunardiskur
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -2941,7 +2793,6 @@ gefnar	sþgvfn	gefa
 hverju	foheþ	hver
 ári	nheþ	ár
 ?	?	?
-
 Í	aþ	í
 svari	nheþ	svar
 Hjalta	nkee-s	Hjalti
@@ -2963,7 +2814,6 @@ var	sfg3eþ	vera
 aldrei	aa	aldrei
 til	aa	til
 ?	?	?
-
 segir	sfg3en	segja
 Hjalti	nken-s	Hjalti
 að	c	að
@@ -2986,7 +2836,6 @@ um	ao	um
 tilvist	nveo	tilvist
 Guðs	nkee-s	Guð
 .	.	.
-
 Hjalti	nken-s	Hjalti
 bendir	sfg3en	benda
 á	ao	á
@@ -3016,7 +2865,6 @@ aldrei	aa	aldrei
 verið	ssg	vera
 til	aa	til
 .	.	.
-
 Slíkar	fbvfn	slíkur
 '	'	'
 sannanir	nvfn	sönnun
@@ -3031,7 +2879,6 @@ nein	fohfo	neinn
 á	ao	á
 trúarbrögðin	nhfog	trúarbrögð
 .	.	.
-
 Við	fp1fn	ég
 bendum	sfg1fn	benda
 lesendum	nkfþ	lesandi
@@ -3053,7 +2900,6 @@ lítur	sfg3en	líta
 Guð	nken-s	Guð
 út	aa	út
 ?	?	?
-
 Við	fp1fn	ég
 þorum	sfg1fn	þora
 að	cn	að
@@ -3075,7 +2921,6 @@ innan	ae	innan
 50	ta	50
 ára	nhfe	ár
 .	.	.
-
 Sólin	nveng	sól
 á	sfg3en	eiga
 eftir	aa	eftir
@@ -3102,7 +2947,6 @@ um	aa	um
 milljarða	nkfo	milljarður
 ára	nhfe	ár
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 mun	nkeþ	munur
@@ -3117,7 +2961,6 @@ er	sfg3en	vera
 milljarða	nkfe	milljarður
 ára	nhfe	ár
 .	.	.
-
 Um	ao	um
 sólstjörnur	nvfo	sólstjarna
 er	sfg3en	vera
@@ -3134,7 +2977,6 @@ er	sfg3en	vera
 sólstjarna	nvfe	sólstjarna
 háttað	sþghen	hátta
 ?	?	?
-
 Ólymposfjall	nhen-s	Ólymposfjall
 er	sfg3en	vera
 hæsta	lhenve	hár
@@ -3145,7 +2987,6 @@ Grikklands	nhee-s	Grikkland
 metra	nkfe	metri
 hátt	lhensf	hár
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 í	aþ	í
@@ -3163,7 +3004,6 @@ heimkynni	nhfn	heimkynni
 grískra	lkfesf	grískur
 guða	nkfe	guð
 .	.	.
-
 Sennilega	aa	sennilega
 veit	sfg3en	vita
 enginn	foken	enginn
@@ -3197,7 +3037,6 @@ sé	svg3en	vera
 alltaf	aa	alltaf
 logn	nhen	logn
 .	.	.
-
 Um	ao	um
 grískar	lvfosf	grískur
 goðsögur	nvfo	goðsaga
@@ -3219,13 +3058,11 @@ sannleikskorn	nhen	sannleikskorn
 grísku	lvfþvf	grískur
 goðsögunum	nvfþg	goðsaga
 ?	?	?
-
 *	*	*
 Hver	fsken	hver
 var	sfg3eþ	vera
 Akkilles	e	Akkilles
 ?	?	?
-
 *	*	*
 Hver	fshfn	hver
 voru	sfg3fþ	vera
@@ -3233,7 +3070,6 @@ Bellerófon	e	Bellerófon
 og	c	og
 Kímera	nven-s	Kímera
 ?	?	?
-
 Múslímar	nkfn	múslími
 telja	sfg3fn	telja
 að	c	að
@@ -3249,7 +3085,6 @@ saman	aa	saman
 ára	nhfe	ár
 tímabili	nheþ	tímabil
 .	.	.
-
 Lögregla	nven	lögregla
 hefur	sfg3en	hafa
 aðeins	aa	aðeins
@@ -3282,7 +3117,6 @@ líklegir	lkfnsf	líklegur
 til	ae	til
 þess	fphee	það
 .	.	.
-
 Nánari	lvfovm	náinn
 heimildir	nvfo	heimild
 um	ao	um
@@ -3292,7 +3126,6 @@ finna	sng	finna
 í	aþ	í
 lögreglulögum	nhfþ	lögreglulög
 .	.	.
-
 Lög	nhfn	lag
 -	-	-
 í	aþ	í
@@ -3319,7 +3152,6 @@ lögreglan	nveng	lögregla
 vinnur	sfg3en	vinna
 eftir	aa	eftir
 .	.	.
-
 Algengt	lhensf	algengur
 er	sfg3en	vera
 að	c	að
@@ -3342,7 +3174,6 @@ um	ao	um
 ákveðin	lhfosf	ákveðinn
 atriði	nhfo	atriði
 .	.	.
-
 Mikið	lhensf	mikill
 af	aþ	af
 lagaákvæðum	nhfþ	lagaákvæði
@@ -3357,7 +3188,6 @@ að	cn	að
 geyma	sng	geyma
 handtökuheimildir	nvfo	handtökuheimild
 .	.	.
-
 Núgildandi	lhenof	núgildandi
 lagasafn	nhen	lagasafn
 er	sfg3en	vera
@@ -3390,7 +3220,6 @@ blaðsíður	nvfn	blaðsíða
 að	aþ	að
 lengd	nveþ	lengd
 .	.	.
-
 Lagasafnið	nheng	lagasafn
 er	sfg3en	vera
 gefið	sþghen	gefa
@@ -3418,7 +3247,6 @@ Alþingi	nheþ-s	Alþingi
 ár	nheo	ár
 hvert	foheo	hver
 .	.	.
-
 Eins	aa	eins
 og	c	og
 áður	aa	áður
@@ -3439,7 +3267,6 @@ að	cn	að
 brjóta	sng	brjóta
 þau	fphfo	það
 .	.	.
-
 Lögin	nhfng	lag
 eru	sfg3fn	vera
 frekar	aam	frekar
@@ -3460,7 +3287,6 @@ stofnun	nveo	stofnun
 eða	c	eða
 starfsemi	nveo	starfsemi
 .	.	.
-
 Á	aþ	á
 heimasíðu	nveþ	heimasíða
 Alþingis	nhee-s	Alþingi
@@ -3489,7 +3315,6 @@ til	ae	til
 sín	fpkee	sig
 taka	sng	taka
 .	.	.
-
 Nýlega	aa	nýlega
 voru	sfg3fþ	vera
 til	ae	til
@@ -3514,7 +3339,6 @@ um	ao	um
 Orkuveitu	nveo-s	Orkuveita
 Húsavíkur	nvee-s	Húsavík
 .	.	.
-
 Hvergi	aa	hvergi
 í	aþ	í
 þessum	fahfþ	þessi
@@ -3555,7 +3379,6 @@ fleira	lheovm	margur
 þeim	fakeþ	sá
 dúr	nkeþ	dúr
 .	.	.
-
 Væru	svg3fþ	vera
 þessi	fahfn	þessi
 lög	nhfn	lag
@@ -3572,7 +3395,6 @@ brotamenn	nkfn	brotamaður
 »	»	»
 handteknir	sþgkfn	handtaka
 .	.	.
-
 Viðurlög	nhfn	viðurlag
 við	aþ	við
 slíkum	fbhfþ	slíkur
@@ -3606,7 +3428,6 @@ sagt	sþghen	segja
 upp	aa	upp
 starfi	nheþ	starf
 .	.	.
-
 Lögregla	nven	lögregla
 myndi	svg3eþ	munu
 hins	fakee	hinn
@@ -3618,7 +3439,6 @@ af	aþ	af
 slíkum	fbhfþ	slíkur
 málum	nhfþ	mál
 .	.	.
-
 Ef	c	ef
 við	fp1fn	ég
 skoðum	sfg1fn	skoða
@@ -3639,7 +3459,6 @@ vetur	nkeo	vetur
 um	ao	um
 veðurþjónustu	nveo	veðurþjónusta
 .	.	.
-
 Í	aþ	í
 8.	ta	8.
 grein	nveþ	grein
@@ -3667,7 +3486,6 @@ og	c	og
 annarra	fokfe	annar
 miðla	nkfe	miðill
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 því	aa	því
@@ -3689,7 +3507,6 @@ eigi	svg3fn	eiga
 að	cn	að
 gera	sng	gera
 .	.	.
-
 En	c	en
 hvernig	aa	hvernig
 færi	svg3eþ	fara
@@ -3701,7 +3518,6 @@ vanrækja	sng	vanrækja
 skyldu	nveo	skylda
 sína	feveo	sinn
 ?	?	?
-
 Lögregla	nven	lögregla
 gæti	svg3eþ	geta
 ekki	aa	ekki
@@ -3720,7 +3536,6 @@ upplýsingarnar	nvfog	upplýsing
 rétta	lkfosf	réttur
 aðila	nkfo	aðili
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 miklu	lheþsf	mikill
@@ -3742,7 +3557,6 @@ koma	sng	koma
 upplýsingum	nvfþ	upplýsing
 áleiðis	aa	áleiðis
 .	.	.
-
 Fari	svg3en	fara
 svo	aa	svo
 að	c	að
@@ -3791,7 +3605,6 @@ tiltal	nheo	tiltal
 eða	c	eða
 áminningu	nveo	áminning
 .	.	.
-
 Haraldur	nken-s	Haraldur
 Ólafsson	nken-s	Ólafsson
 veðurfræðingur	nken	veðurfræðingur
@@ -3800,7 +3613,6 @@ undirbúa	sng	undirbúa
 veðurfréttir	nvfo	veðurfrétt
 Sjónvarpsins	nheegs	Sjónvarp
 .	.	.
-
 Aðalatriðið	nheng	aðalatriði
 er	sfg3en	vera
 að	c	að
@@ -3841,7 +3653,6 @@ handtöku	nveo	handtaka
 eða	c	eða
 fangavist	nveo	fangavist
 .	.	.
-
 Álitaefnið	nheng	álitaefni
 sem	ct	sem
 er	sfg3en	vera
@@ -3853,7 +3664,6 @@ verið	ssg	vera
 réttarheimspekingum	nkfþ	réttarheimspekingur
 hugleikið	lhensf	hugleikinn
 .	.	.
-
 Sumir	fokfn	sumur
 hafa	sfg3fn	hafa
 haldið	ssg	halda
@@ -3885,7 +3695,6 @@ annarri	foveþ	annar
 merkingu	nveþ	merking
 beitt	sþghen	beita
 .	.	.
-
 Meðal	ae	meðal
 þeirra	fakfe	sá
 sem	ct	sem
@@ -3899,7 +3708,6 @@ réttarheimspekingurinn	nkeng	réttarheimspekingur
 John	e	John
 Austin	e	Austin
 .	.	.
-
 Annar	foken	annar
 réttarheimspekingur	nken	réttarheimspekingur
 ,	,	,
@@ -3922,7 +3730,6 @@ kom	sfg3eþ	koma
 út	aa	út
 árið	nheog	ár
 .	.	.
-
 Til	ae	til
 að	cn	að
 reifa	sng	reifa
@@ -3977,7 +3784,6 @@ ekki	aa	ekki
 fylgt	sþghen	fylgja
 eftir	aa	eftir
 .	.	.
-
 Fylgni	nven	fylgni
 og	c	og
 hlýðni	nven	hlýðni
@@ -4013,14 +3819,12 @@ fyrirkomulag	nheo	fyrirkomulag
 tilteknu	lheþsf	tiltekinn
 sviði	nheþ	svið
 .	.	.
-
 Skoðið	sbg2fn	skoða
 skyld	lhfosf	skyldur
 svör	nhfo	svar
 á	aþ	á
 Vísindavefnum	nkeþgs	Vísindavefur
 :	:	:
-
 *	*	*
 Má	sfg3en	mega
 lögregla	nven	lögregla
@@ -4044,13 +3848,11 @@ er	sfg3en	vera
 grunaður	sþgken	gruna
 um	aa	um
 ?	?	?
-
 eftir	ao	eftir
 Halldór	nkeo-s	Halldór
 Gunnar	nkeo-s	Gunnar
 Haraldsson	nkeo-s	Haraldsson
 .	.	.
-
 *	*	*
 Hve	aa	hve
 langt	aa	langt
@@ -4067,12 +3869,10 @@ einstaklings	nkee	einstaklingur
 sérstakrar	lveesf	sérstakur
 heimildar	nvee	heimild
 ?	?	?
-
 eftir	ao	eftir
 Skúla	nkeo-s	Skúli
 Magnússon	nkeo-s	Magnússon
 .	.	.
-
 *	*	*
 Má	sfg3en	mega
 lögreglan	nveng	lögregla
@@ -4095,12 +3895,10 @@ eða	c	eða
 einhverju	foheþ	einhver
 slíku	fbheþ	slíkur
 ?	?	?
-
 eftir	ao	eftir
 Sigurð	nkeo-s	Sigurður
 Guðmundsson	nkeo-s	Guðmundsson
 .	.	.
-
 Ekkert	fohen	enginn
 ákvæði	nhen	ákvæði
 í	aþ	í
@@ -4115,7 +3913,6 @@ nekt	nveþ	nekt
 á	aþ	á
 almannafæri	nheþ	almannafæri
 .	.	.
-
 Í	aþ	í
 209.	ta	209.
 grein	nveþ	grein
@@ -4155,7 +3952,6 @@ undir	ao	undir
 þetta	faheo	þessi
 ákvæði	nheo	ákvæði
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 er	sfg3en	vera
@@ -4185,7 +3981,6 @@ fallið	ssg	falla
 þar	aa	þar
 undir	aa	undir
 .	.	.
-
 Nekt	nven	nekt
 á	aþ	á
 almannafæri	nheþ	almannafæri
@@ -4202,7 +3997,6 @@ tilvik	nheo	tilvik
 fyrir	ao	fyrir
 sig	fpheo	sig
 .	.	.
-
 Ef	c	ef
 nektin	nveng	nekt
 er	sfg3en	vera
@@ -4242,7 +4036,6 @@ gegn	aþ	gegn
 ákvæðum	nhfþ	ákvæði
 lögreglusamþykktar	nvee	lögreglusamþykkt
 .	.	.
-
 Ef	c	ef
 hún	fpven	hún
 birtist	sfm3en	birta
@@ -4277,7 +4070,6 @@ brjóti	svg3en	brjóta
 gegn	aþ	gegn
 lögreglusamþykkt	nveþ	lögreglusamþykkt
 .	.	.
-
 Sá	faken	sá
 sem	ct	sem
 kvartaði	svg3eþ	kvarta
@@ -4303,7 +4095,6 @@ um	ao	um
 fáklæddar	lvfosf	fáklæddur
 konur	nvfo	kona
 .	.	.
-
 Bandaríski	lkenvf	bandarískur
 listamaðurinn	nkeng	listamaður
 Spencer	e	Spencer
@@ -4319,7 +4110,6 @@ að	cn	að
 fækka	sng	fækka
 fötum	nhfþ	fat
 .	.	.
-
 Hér	aa	hér
 sést	sfm3en	sjá
 í	ao	í
@@ -4333,7 +4123,6 @@ London	e	London
 árið	nheog	ár
 2003	ta	2003
 .	.	.
-
 Þetta	fahen	þessi
 byggir	sfg3en	byggja
 því	aa	því
@@ -4343,7 +4132,6 @@ mati	nheþ	mat
 hvert	foheo	hver
 skipti	nheo	skipti
 .	.	.
-
 Nokkur	fohfn	nokkur
 skemmtileg	lhfnsf	skemmtilegur
 dæmi	nhfn	dæmi
@@ -4355,7 +4143,6 @@ komið	ssg	koma
 borð	nheo	borð
 lögreglu	nvee	lögregla
 .	.	.
-
 Í	aþ	í
 dagbók	nveþ	dagbók
 lögreglu	nvee	lögregla
@@ -4375,7 +4162,6 @@ af	aþ	af
 nöktu	lheþsf	nakinn
 fólki	nheþ	fólk
 .	.	.
-
 Eitt	foheo	einn
 sinn	nheo	sinn
 þurfti	sfg3eþ	þurfa
@@ -4401,7 +4187,6 @@ að	cn	að
 klæða	sng	klæða
 sig	fpkeo	sig
 .	.	.
-
 Þegar	c	þegar
 lögregla	nven	lögregla
 kom	sfg3eþ	koma
@@ -4414,7 +4199,6 @@ vegar	nkee	vegur
 klætt	ssg	klæða
 sig	fpkeo	sig
 .	.	.
-
 Í	ao	í
 önnur	fohfo	annar
 skipti	nhfo	skipti
@@ -4425,7 +4209,6 @@ vera	sng	vera
 orsök	nven	orsök
 uppátækisins	nheeg	uppátæki
 .	.	.
-
 Eitt	foheo	einn
 sinn	nheo	sinn
 fékk	sfg3eþ	fá
@@ -4449,7 +4232,6 @@ hún	fpven	hún
 kom	sfg3eþ	koma
 heim	aa	heim
 .	.	.
-
 Hún	fpven	hún
 sagðist	sfm3eþ	segja
 hafa	sng	hafa
@@ -4469,7 +4251,6 @@ komast	snm	koma
 aftur	aa	aftur
 inn	aa	inn
 .	.	.
-
 Er	c	er
 lögregla	nven	lögregla
 kom	sfg3eþ	koma
@@ -4488,7 +4269,6 @@ sögu	nveo	saga
 að	cn	að
 segja	sng	segja
 .	.	.
-
 Hann	fpken	hann
 sagðist	sfm3eþ	segja
 hafa	sng	hafa
@@ -4507,7 +4287,6 @@ kasta	sng	kasta
 honum	fpkeþ	hann
 út	aa	út
 .	.	.
-
 Lögregla	nven	lögregla
 rakst	sfm3eþ	reka
 á	ao	á
@@ -4522,7 +4301,6 @@ hálfþrjú	ta	hálfþrjú
 nótt	nveo	nótt
 eina	foveo	einn
 .	.	.
-
 Lögreglumennirnir	nkfng	lögreglumaður
 hlupu	sfg3fþ	hlaupa
 manninn	nkeog	maður
@@ -4543,7 +4321,6 @@ koma	sng	koma
 af	aþ	af
 stefnumóti	nheþ	stefnumót
 .	.	.
-
 Honum	fpkeþ	hann
 var	sfg3eþ	vera
 sleppt	sþghen	sleppa
@@ -4551,7 +4328,6 @@ að	aþ	að
 loknu	lheþsf	lokinn
 tiltali	nheþ	tiltal
 .	.	.
-
 Svo	aa	svo
 virðist	sfm3en	virða
 sem	c	sem
@@ -4575,7 +4351,6 @@ skipti	nheo	skipti
 frekari	lhfevm	frekur
 eftirmála	nhfe	eftirmál
 .	.	.
-
 Eins	aa	eins
 og	c	og
 áður	aa	áður
@@ -4602,7 +4377,6 @@ særa	sng	særa
 blygðunarkennd	nveo	blygðunarkennd
 manna	nkfe	maður
 .	.	.
-
 Á	ao	á
 þetta	faheo	þessi
 reyndi	sfg3eþ	reyna
@@ -4625,7 +4399,6 @@ upp	aa	upp
 í	aþ	í
 Vestmannaeyjum	nvfþ-s	Vestmannaeyjar
 .	.	.
-
 Málavextir	nkfn	málavextir
 voru	sfg3fþ	vera
 þeir	fpkfn	hann
@@ -4662,7 +4435,6 @@ glugga	nkeo	gluggi
 bifreiðarinnar	nveeg	bifreið
 .	.	.
 »	»	»
-
 Lögregla	nven	lögregla
 fór	sfg3eþ	fara
 á	ao	á
@@ -4674,7 +4446,6 @@ eftir	ao	eftir
 nokkra	foveo	nokkur
 leit	nveo	leit
 .	.	.
-
 Útskýrði	sfg3eþ	útskýra
 einn	foken	einn
 mannanna	nkfeg	maður
@@ -4694,7 +4465,6 @@ með	aþ	með
 þessum	fakeþ	þessi
 hætti	nkeþ	háttur
 .	.	.
-
 «	«	«
 Ákærði	lkenvf	ákærður
 kvað	sfg3eþ	kveða
@@ -4731,7 +4501,6 @@ segir	sfg3en	segja
 í	aþ	í
 dómnum	nkeþg	dómur
 .	.	.
-
 Málið	nheng	mál
 fór	sfg3eþ	fara
 fyrir	ao	fyrir
@@ -4752,7 +4521,6 @@ með	aþ	með
 þessum	fahfþ	þessi
 orðum	nhfþ	orð
 :	:	:
-
 Telja	sng	telja
 verður	sfg3en	verða
 ,	,	,
@@ -4799,7 +4567,6 @@ misbjóða	sng	misbjóða
 almennu	lheþsf	almennur
 velsæmi	nheþ	velsæmi
 .	.	.
-
 Á	ao	á
 hinn	fakeo	hinn
 bóginn	nkeog	bógur
@@ -4821,7 +4588,6 @@ kynferðislegur	lkensf	kynferðislegur
 verið	ssg	vera
 í	aa	í
 .	.	.
-
 Hæstiréttur	nken	hæstiréttur
 staðfesti	sfg3eþ	staðfesta
 héraðsdóm	nkeo	héraðsdómur
@@ -4842,7 +4608,6 @@ voru	sfg3fþ	vera
 við	ao	við
 athæfið	nheog	athæfi
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 þótti	sfg3eþ	þykja
@@ -4854,7 +4619,6 @@ undir	ao	undir
 grein	nveo	grein
 hegningarlaga	nhfe	hegningarlög
 .	.	.
-
 Meginreglan	nveng	meginregla
 um	ao	um
 ríkisborgararétt	nkeo	ríkisborgararéttur
@@ -4870,7 +4634,6 @@ séu	svg3fn	vera
 ríkisborgarar	nkfn	ríkisborgari
 þess	fphee	það
 .	.	.
-
 Tveimur	tfvfþ	tveir
 meginaðferðum	nvfþ	meginaðferð
 er	sfg3en	vera
@@ -4918,7 +4681,6 @@ samkvæmt	aþ	samkvæmt
 foreldra	nkfe	foreldrar
 sinna	fekfe	sinn
 .	.	.
-
 Íslenskur	lkensf	íslenskur
 ríkisborgararéttur	nken	ríkisborgararéttur
 byggir	sfg3en	byggja
@@ -4947,7 +4709,6 @@ samkvæmt	aþ	samkvæmt
 lögum	nhfþ	lag
 100/1952	ta	100/1952
 .	.	.
-
 Það	fphen	það
 fer	sfg3en	fara
 því	aa	því
@@ -4965,7 +4726,6 @@ ríkisborgararétt	nkeo	ríkisborgararéttur
 eða	c	eða
 ekki	aa	ekki
 .	.	.
-
 Í	aþ	í
 14.	ta	14.
 viðauka	nkeþ	viðauki
@@ -4973,11 +4733,9 @@ bandarísku	lveevf	bandarískur
 stjórnarskrárinnar	nveeg	stjórnarskrá
 segir	sfg3en	segja
 :	:	:
-
 <	<	<
 ...	...	...
 >	>	>
-
 Þessi	faven	þessi
 regla	nven	regla
 myndi	svg3eþ	munu
@@ -4987,7 +4745,6 @@ lauslegri	lveþsf	lauslegur
 útleggjast	snm	útleggja
 svona	aa	svona
 :	:	:
-
 Allir	fokfn	allur
 þeir	fakfn	sá
 sem	ct	sem

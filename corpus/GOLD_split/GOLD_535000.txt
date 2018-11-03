@@ -1,10 +1,8 @@
 seldur	sþgken	selja
 .	.	.
-
 Um	ao	um
 8.	ta	8.
 gr.	as	gr.
-
 Þessi	faven	þessi
 grein	nven	grein
 er	sfg3en	vera
@@ -43,7 +41,6 @@ fyrir	aþ	fyrir
 ágangi	nkeþ	ágangur
 búfjár	nhee	búfé
 .	.	.
-
 Umráðamaður	nken	umráðamaður
 lands	nhee	land
 verður	sfg3en	verða
@@ -68,7 +65,6 @@ verið	ssg	vera
 af	aþ	af
 búnaðarsambandi	nheþ	búnaðarsamband
 .	.	.
-
 Slíka	fbveo	slíkur
 ákvörðun	nveo	ákvörðun
 skal	sfg3en	skulu
@@ -81,7 +77,6 @@ hana	fpveo	hún
 í	aþ	í
 Stjórnartíðindum	nhfþ-s	Stjórnartíðindi
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 fjallað	sþghen	fjalla
@@ -108,7 +103,6 @@ vörslulínur	nvfn	vörslulína
 séu	svg3fn	vera
 fullnægjandi	lvfnof	fullnægjandi
 .	.	.
-
 Um	ao	um
 kostnað	nkeo	kostnaður
 við	ao	við
@@ -125,7 +119,6 @@ girðingar-	nhfe	girðingarlög
 og	c	og
 vegalaga	nhfe	vegalög
 .	.	.
-
 En	c	en
 sé	svg3en	vera
 um	ao	um
@@ -151,11 +144,9 @@ uppsetningu	nveþ	uppsetning
 og	c	og
 viðhaldi	nheþ	viðhald
 .	.	.
-
 Um	ao	um
 9.	ta	9.
 gr.	as	gr.
-
 Þessi	faven	þessi
 grein	nven	grein
 er	sfg3en	vera
@@ -176,7 +167,6 @@ heimild	nveþ	heimild
 í	aþ	í
 8.	ta	8.
 gr.	as	gr.
-
 Greinin	nveng	grein
 fjallar	sfg3en	fjalla
 um	ao	um
@@ -200,7 +190,6 @@ hvernig	aa	hvernig
 málsmeðferðin	nveng	málsmeðferð
 er	sfg3en	vera
 .	.	.
-
 Mikilvægt	lhensf	mikilvægur
 er	sfg3en	vera
 að	c	að
@@ -232,7 +221,6 @@ búfjár	nhee	búfé
 sækir	sfg3en	sækja
 það	fpheo	það
 .	.	.
-
 Umráðamaður	nken	umráðamaður
 búfjár	nhee	búfé
 ber	sfg3en	bera
@@ -266,7 +254,6 @@ sólarhringa	nkfe	sólarhringur
 frá	aþ	frá
 tilkynningu	nveþ	tilkynning
 .	.	.
-
 Hafi	svg3en	hafa
 umráðamaður	nken	umráðamaður
 búfjár	nhee	búfé
@@ -298,7 +285,6 @@ samráði	nheþ	samráð
 við	ao	við
 sveitarstjórn	nveo	sveitarstjórn
 .	.	.
-
 Í	aþ	í
 2.	ta	2.
 mgr.	as	mgr.
@@ -322,7 +308,6 @@ fyrir	aþ	fyrir
 sannanlegum	lkeþsf	sannanlegur
 kostnaði	nkeþ	kostnaður
 .	.	.
-
 Komi	svg3en	koma
 í	ao	í
 ljós	nheo	ljós
@@ -351,7 +336,6 @@ og	c	og
 fóðrun	nveþ	fóðrun
 búfjárins	nheeg	búfé
 .	.	.
-
 Valdi	svg3en	valda
 búféð	nheng	búfé
 tjóni	nheþ	tjón
@@ -363,11 +347,9 @@ eftir	aþ	eftir
 almennu	lveþvf	almennur
 sakarreglunni	nveþg	sakarregla
 .	.	.
-
 Um	ao	um
 10.	ta	10.
 gr.	as	gr.
-
 Mikil	lvensf	mikill
 umræða	nven	umræða
 varð	sfg3eþ	verða
@@ -377,7 +359,6 @@ um	ao	um
 vistun	nveo	vistun
 búfjáreftirlitsins	nheeg	búfjáreftirlit
 .	.	.
-
 Nauðsyn	nven	nauðsyn
 þótti	sfg3eþ	þykja
 að	cn	að
@@ -403,7 +384,6 @@ væri	svg3eþ	vera
 á	aþ	á
 hagsmunaárekstrum	nkfþ	hagsmunaárekstur
 .	.	.
-
 Niðurstaðan	nveng	niðurstaða
 varð	sfg3eþ	verða
 sú	faven	sá
@@ -433,7 +413,6 @@ við	ao	við
 sameiningu	nveo	sameining
 sveitarfélaga	nhfe	sveitarfélag
 .	.	.
-
 Í	aþ	í
 1.	ta	1.
 mgr.	as	mgr.
@@ -460,14 +439,12 @@ um	aa	um
 í	aþ	í
 reglugerð	nveþ	reglugerð
 .	.	.
-
 Stærstu	lhfnve	stór
 sveitarfélögin	nhfng	sveitarfélag
 geta	sfg3fn	geta
 verið	ssg	vera
 sjálfstæð	lhfnsf	sjálfstæður
 .	.	.
-
 Í	aþ	í
 2.	ta	2.
 mgr.	as	mgr.
@@ -481,7 +458,6 @@ hans	fpkee	hann
 og	c	og
 starfsskyldur	nvfo	starfsskylda
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 er	sfg3en	vera
@@ -509,7 +485,6 @@ með	aþ	með
 helstu	lvfþve	heldri
 upplýsingum	nvfþ	upplýsing
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 sérstaklega	aa	sérstaklega
@@ -520,7 +495,6 @@ búfjáreftirlitsmanna	nkfe	búfjáreftirlitsmaður
 samkvæmt	aþ	samkvæmt
 stjórnsýslulögum	nhfþ	stjórnsýslulög
 .	.	.
-
 En	c	en
 í	aþ	í
 3.	ta	3.
@@ -540,7 +514,6 @@ og	c	og
 áhrif	nhfo	áhrif
 þess	fphee	það
 .	.	.
-
 Í	aþ	í
 3.	ta	3.
 mgr.	as	mgr.
@@ -586,7 +559,6 @@ með	aþ	með
 þessum	fakfþ	þessi
 þáttum	nkfþ	þáttur
 .	.	.
-
 Í	aþ	í
 4.	ta	4.
 mgr.	as	mgr.
@@ -624,7 +596,6 @@ sem	ct	sem
 landbúnaðarráðherra	nken	landbúnaðarráðherra
 staðfestir	sfg3en	staðfesta
 .	.	.
-
 Eftirlitsgjaldið	nheng	eftirlitsgjald
 skal	sfg3en	skulu
 standa	sng	standa
@@ -645,7 +616,6 @@ hjá	aþ	hjá
 hverjum	fokeþ	hver
 aðila	nkeþ	aðili
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 heimilað	sþghen	heimila
@@ -679,7 +649,6 @@ getur	sfg3en	geta
 hverju	foheþ	hver
 tilviki	nheþ	tilvik
 .	.	.
-
 Nauðsynlegt	lhensf	nauðsynlegur
 er	sfg3en	vera
 að	cn	að
@@ -702,7 +671,6 @@ leggja	sng	leggja
 á	aa	á
 eftirlitsgjald	nheo	eftirlitsgjald
 .	.	.
-
 Sjálfsforræði	nhen	sjálfsforræði
 sveitarfélaga	nhfe	sveitarfélag
 í	aþ	í
@@ -713,7 +681,6 @@ að	cn	að
 vera	sng	vera
 tryggt	sþghen	tryggja
 .	.	.
-
 Ef	c	ef
 vilji	nken	vilji
 er	sfg3en	vera
@@ -742,7 +709,6 @@ er	sfg3en	vera
 að	cn	að
 nýta	sng	nýta
 .	.	.
-
 Í	aþ	í
 5.	ta	5.
 mgr.	as	mgr.
@@ -751,7 +717,6 @@ fjallað	sþghen	fjalla
 um	ao	um
 búfjáreftirlitsnefnd	nveo	búfjáreftirlitsnefnd
 .	.	.
-
 Hún	fpven	hún
 kemur	sfg3en	koma
 fram	aa	fram
@@ -779,11 +744,9 @@ eru	sfg3fn	vera
 samskipti	nhfn	samskipti
 við	aa	við
 .	.	.
-
 Um	ao	um
 11.	ta	11.
 gr.	as	gr.
-
 Í	aþ	í
 1.	ta	1.
 mgr.	as	mgr.
@@ -805,7 +768,6 @@ búfjár	nhee	búfé
 sínu	feheþ	sinn
 starfssvæði	nheþ	starfssvæði
 .	.	.
-
 Í	aþ	í
 haustskýrslunni	nveþg	haustskýrsla
 eiga	sfg3fn	eiga
@@ -831,7 +793,6 @@ og	c	og
 með	aa	með
 beit	nveo	beit
 .	.	.
-
 Einnig	aa	einnig
 skulu	sfg3fn	skulu
 koma	sng	koma
@@ -846,7 +807,6 @@ uppruna	nkeo	uppruni
 og	c	og
 fyrningar	nvfo	fyrning
 .	.	.
-
 Þá	aa	þá
 skulu	sfg3fn	skulu
 auk	ae	auk
@@ -859,7 +819,6 @@ kaup	nhfo	kaup
 á	aþ	á
 heyi	nheþ	hey
 .	.	.
-
 Geta	sng	geta
 skal	sfg3en	skulu
 um	ao	um
@@ -871,7 +830,6 @@ er	sfg3en	vera
 í	aþ	í
 hagagöngu	nveþ	hagaganga
 .	.	.
-
 Senda	sng	senda
 skal	sfg3en	skulu
 skýrsluna	nveog	skýrsla
@@ -884,7 +842,6 @@ lagi	nheþ	lag
 20.	ta	20.
 nóvember	nkeo	nóvember
 .	.	.
-
 Gert	sþghen	gera
 er	sfg3en	vera
 ráð	nhen	ráð
@@ -901,7 +858,6 @@ skila	sng	skila
 rafrænu	lheþsf	rafrænn
 formi	nheþ	form
 .	.	.
-
 Skili	svg3en	skila
 umráðamaður	nken	umráðamaður
 búfjár	nhee	búfé
@@ -930,7 +886,6 @@ við	ao	við
 gildandi	lveoof	gildandi
 gjaldskrá	nveo	gjaldskrá
 .	.	.
-
 Sá	faken	sá
 aukakostnaður	nken	aukakostnaður
 sem	ct	sem
@@ -963,7 +918,6 @@ skýrslum	nvfþ	skýrsla
 fyrir	ao	fyrir
 frestlok	nhfo	frestlok
 .	.	.
-
 Í	aþ	í
 ákvæðinu	nheþg	ákvæði
 segir	sfg3en	segja
@@ -987,7 +941,6 @@ upplýsingar	nvfn	upplýsing
 liggja	sfg3fn	liggja
 fyrir	aa	fyrir
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 t.d.	as	t.d.
@@ -1000,7 +953,6 @@ við	ao	við
 einstaklingsmerkingu	nveo	einstaklingsmerking
 gripa	nkfe	gripur
 .	.	.
-
 Þá	aa	þá
 nær	sfg3en	ná
 heimildin	nveng	heimild
@@ -1013,11 +965,9 @@ upplýsingaöflun	nveo	upplýsingaöflun
 að	aþ	að
 hluta	nkeþ	hluti
 .	.	.
-
 Um	ao	um
 12.	ta	12.
 gr.	as	gr.
-
 Í	aþ	í
 greininni	nveþg	grein
 er	sfg3en	vera
@@ -1025,7 +975,6 @@ fjallað	sþghen	fjalla
 um	ao	um
 grunneftirlit	nheo	grunneftirlit
 .	.	.
-
 Kveðið	sþghen	kveða
 er	sfg3en	vera
 á	aa	á
@@ -1060,7 +1009,6 @@ gæðastjórnun	nveo	gæðastjórnun
 búum	nhfþ	bú
 sínum	fehfþ	sinn
 .	.	.
-
 Gæðastjórnunin	nveng	gæðastjórnun
 verður	sfg3en	verða
 að	cn	að
@@ -1070,7 +1018,6 @@ af	aþ	af
 Bændasamtökum	nhfþ-s	Bændasamtök
 Íslands	nhee-s	Ísland
 .	.	.
-
 Óeðlilegt	lhensf	óeðlilegur
 er	sfg3en	vera
 að	c	að
@@ -1092,7 +1039,6 @@ af	aþ	af
 Bændasamtökum	nhfþ-s	Bændasamtök
 Íslands	nhee-s	Ísland
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 er	sfg3en	vera
@@ -1147,7 +1093,6 @@ kostnaðinn	nkeog	kostnaður
 báðum	fohfþ	báðir
 tilvikum	nhfþ	tilvik
 .	.	.
-
 Í	aþ	í
 eftirlitsferðinni	nveþg	eftirlitsferð
 skal	sfg3en	skulu
@@ -1163,7 +1108,6 @@ sannreyna	sng	sannreyna
 fjölda	nkeo	fjöldi
 þess	fphee	það
 .	.	.
-
 Hafi	svg3fn	hafa
 verið	ssg	vera
 gerðar	sþgvfn	gera
@@ -1198,7 +1142,6 @@ fara	sng	fara
 í	ao	í
 aukaeftirlitsferðir	nvfo	aukaeftirlitsferð
 .	.	.
-
 Ekki	aa	ekki
 er	sfg3en	vera
 ætlast	sþmhen	ætla
@@ -1224,7 +1167,6 @@ aðgerða	nvfe	aðgerð
 skv.	as	skv.
 16.	ta	16.
 gr.	as	gr.
-
 Í	aþ	í
 2.	ta	2.
 mgr.	as	mgr.
@@ -1248,11 +1190,9 @@ mgr.	as	mgr.
 gr.	as	gr.
 laganna	nhfeg	lag
 .	.	.
-
 Um	ao	um
 13.	ta	13.
 gr.	as	gr.
-
 Í	aþ	í
 greininni	nveþg	grein
 er	sfg3en	vera
@@ -1280,7 +1220,6 @@ desember	nkeo	desember
 ár	nheo	ár
 hvert	foheo	hver
 .	.	.
-
 Búnaðarsamböndin	nhfng	búnaðarsamband
 yfirfara	sfg3fn	yfirfara
 gögnin	nhfog	gagn
@@ -1295,7 +1234,6 @@ en	c	en
 20.	ta	20.
 janúar	nkeo	janúar
 .	.	.
-
 Bændasamtökin	nhfngs	Bændasamtök
 annast	sfm3fn	anna
 úrvinnslu	nveo	úrvinnsla
@@ -1324,11 +1262,9 @@ fengnu	lheþsf	fenginn
 leyfi	nheþ	leyfi
 landbúnaðarráðuneytisins	nheeg	landbúnaðarráðuneyti
 .	.	.
-
 Um	ao	um
 14.	ta	14.
 gr.	as	gr.
-
 Greinin	nveng	grein
 fjallar	sfg3en	fjalla
 um	ao	um
@@ -1342,7 +1278,6 @@ ber	sfg3en	bera
 á	aþ	á
 því	fpheþ	það
 .	.	.
-
 Séu	svg3fn	vera
 gripir	nkfn	gripur
 í	aþ	í
@@ -1368,7 +1303,6 @@ fyrirframsamþykktan	lkeosf	fyrirframsamþykktur
 af	aþ	af
 sveitarstjórn	nveþ	sveitarstjórn
 .	.	.
-
 Tilsjónarmaður	nken	tilsjónarmaður
 sér	sfg3en	sjá
 um	ao	um
@@ -1382,7 +1316,6 @@ og	c	og
 beitilöndum	nhfþ	beitiland
 þess	fphee	það
 .	.	.
-
 Tilsjónarmaður	nken	tilsjónarmaður
 skal	sfg3en	skulu
 skráður	sþgken	skrá
@@ -1390,7 +1323,6 @@ skráður	sþgken	skrá
 viðkomandi	lveoof	viðkomandi
 skýrslu	nveo	skýrsla
 .	.	.
-
 Umráðamaður	nken	umráðamaður
 lands	nhee	land
 ber	sfg3en	bera
@@ -1406,11 +1338,9 @@ og	c	og
 umráðamann	nkeo	umráðamaður
 þess	fphee	það
 .	.	.
-
 Um	ao	um
 15.	ta	15.
 gr.	as	gr.
-
 Greinin	nveng	grein
 fjallar	sfg3en	fjalla
 um	ao	um
@@ -1435,7 +1365,6 @@ upplýsingaöflun	nveþ	upplýsingaöflun
 samkvæmt	aþ	samkvæmt
 lögunum	nhfþg	lag
 .	.	.
-
 Greinin	nveng	grein
 er	sfg3en	vera
 efnislega	aa	efnislega
@@ -1447,11 +1376,9 @@ gr.	as	gr.
 núgildandi	lhfeof	núgildandi
 laga	nhfe	lag
 .	.	.
-
 Um	ao	um
 16.	ta	16.
 gr.	as	gr.
-
 Héraðsdýralæknir	nken	héraðsdýralæknir
 ber	sfg3en	bera
 ábyrgð	nveo	ábyrgð
@@ -1488,7 +1415,6 @@ yfir	aa	yfir
 á	ao	á
 lögreglustjóra	nkeo	lögreglustjóri
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 leitast	sþmhen	leita
@@ -1499,7 +1425,6 @@ aðgerðir	nvfo	aðgerð
 eftirlitsaðila	nkfe	eftirlitsaðili
 skilvirkar	lvfosf	skilvirkur
 .	.	.
-
 Þegar	c	þegar
 mál	nhfn	mál
 eru	sfg3fn	vera
@@ -1523,7 +1448,6 @@ styttir	sþgkfn	stytta
 til	ae	til
 muna	nkfe	munur
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 er	sfg3en	vera
@@ -1537,7 +1461,6 @@ með	ao	með
 hverju	foheþ	hver
 stigi	nheþ	stig
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 einnig	aa	einnig
@@ -1571,7 +1494,6 @@ skaða	nkeþ	skaði
 sbr.	as	sbr.
 5.	ta	5.
 mgr.	as	mgr.
-
 Í	aþ	í
 1.	ta	1.
 mgr.	as	mgr.
@@ -1598,7 +1520,6 @@ búféð	nheng	búfé
 beitt	sþghen	beita
 harðýðgi	nveþ	harðýðgi
 .	.	.
-
 Skal	sfg3en	skulu
 þá	aa	þá
 héraðsdýralæknir	nken	héraðsdýralæknir
@@ -1636,7 +1557,6 @@ eða	c	eða
 fulltrúa	nkeo	fulltrúi
 yfirdýralæknis	nkee	yfirdýralæknir
 .	.	.
-
 Héraðsdýralæknir	nken	héraðsdýralæknir
 og	c	og
 héraðsráðunautur	nken	héraðsráðunautur
@@ -1649,7 +1569,6 @@ fyrirmæli	nhfo	fyrirmæli
 um	ao	um
 úrbætur	nvfo	úrbót
 .	.	.
-
 Nauðsynlegt	lhensf	nauðsynlegur
 er	sfg3en	vera
 að	c	að
@@ -1658,7 +1577,6 @@ sérfræðingar	nkfn	sérfræðingur
 gefi	svg3fn	gefa
 fyrirmælin	nhfog	fyrirmæli
 .	.	.
-
 Mikilvægt	lhensf	mikilvægur
 er	sfg3en	vera
 að	cn	að
@@ -1669,7 +1587,6 @@ frest	nkeo	frestur
 til	ae	til
 úrbóta	nvfe	úrbót
 .	.	.
-
 Frestur	nken	frestur
 til	ae	til
 úrbóta	nvfe	úrbót
@@ -1695,7 +1612,6 @@ aðbúnaði	nkeþ	aðbúnaður
 er	sfg3en	vera
 ábótavant	lhensf	ábótavant
 .	.	.
-
 Andmælafrestur	nken	andmælafrestur
 aðila	nkfe	aðili
 skal	sfg3en	skulu
@@ -1704,7 +1620,6 @@ vera	sng	vera
 fjórir	tfkfn	fjórir
 sólarhringar	nkfn	sólarhringur
 .	.	.
-
 Í	aþ	í
 2.	ta	2.
 mgr.	as	mgr.
@@ -1730,7 +1645,6 @@ og	c	og
 eða	c	eða
 beitilöndum	nhfþ	beitiland
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 nauðsynlegt	lhensf	nauðsynlegur
@@ -1753,7 +1667,6 @@ lögreglustjóri	nken	lögreglustjóri
 eftir	aþ	eftir
 dómsúrskurði	nkeþ	dómsúrskurður
 .	.	.
-
 Hér	aa	hér
 verður	sfg3en	verða
 að	cn	að
@@ -1776,7 +1689,6 @@ dómsúrskurð	nkeo	dómsúrskurður
 til	ae	til
 aðgerða	nvfe	aðgerð
 .	.	.
-
 Í	aþ	í
 3.	ta	3.
 mgr.	as	mgr.
@@ -1812,7 +1724,6 @@ umráðamann	nkeo	umráðamaður
 búfjárins	nheeg	búfé
 búfénu	nheþg	búfé
 .	.	.
-
 Lögreglustjóri	nken	lögreglustjóri
 tekur	sfg3en	taka
 aðgerðir	nvfo	aðgerð
@@ -1824,7 +1735,6 @@ og	c	og
 stýrir	sfg3en	stýra
 þeim	fpvfþ	hún
 .	.	.
-
 Í	aþ	í
 4.	ta	4.
 mgr.	as	mgr.
@@ -1843,7 +1753,6 @@ héraðsdýralækni	nkeo	héraðsdýralæknir
 og	c	og
 sveitarstjórn	nveo	sveitarstjórn
 .	.	.
-
 Kveðið	sþghen	kveða
 er	sfg3en	vera
 á	aa	á
@@ -1861,7 +1770,6 @@ andmælafresti	nkeþ	andmælafrestur
 umráðamanns	nkee	umráðamaður
 búfjár	nhee	búfé
 .	.	.
-
 Í	aþ	í
 5.	ta	5.
 mgr.	as	mgr.
@@ -1899,14 +1807,12 @@ eða	c	eða
 slæms	lkeesf	slæmur
 aðbúnaðar	nkee	aðbúnaður
 .	.	.
-
 Lögreglustjóri	nken	lögreglustjóri
 ber	sfg3en	bera
 ábyrgð	nveo	ábyrgð
 á	aþ	á
 aðgerðum	nvfþ	aðgerð
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 nauðsynlegt	lhensf	nauðsynlegur
@@ -1919,7 +1825,6 @@ meti	svg3en	meta
 ástand	nheo	ástand
 búfjárins	nheeg	búfé
 .	.	.
-
 Í	aþ	í
 6.	ta	6.
 mgr.	as	mgr.
@@ -1955,7 +1860,6 @@ tekið	sþghen	taka
 vörslu	nveþ	varsla
 búfjáreiganda	nkee	búfjáreigandi
 .	.	.
-
 Þessar	favfn	þessi
 skyldur	nvfn	skylda
 eru	sfg3fn	vera
@@ -1989,7 +1893,6 @@ nánari	lhfovm	náinn
 afdrif	nhfo	afdrif
 þess	fphee	það
 .	.	.
-
 Í	aþ	í
 7.	ta	7.
 mgr.	as	mgr.
@@ -2026,7 +1929,6 @@ af	aþ	af
 þessari	faveþ	þessi
 grein	nveþ	grein
 .	.	.
-
 Þó	aa	þó
 er	sfg3en	vera
 kveðið	sþghen	kveða
@@ -2045,11 +1947,9 @@ af	aþ	af
 tilefnislausri	lveþsf	tilefnislaus
 tilkynningu	nveþ	tilkynning
 .	.	.
-
 Um	ao	um
 17.	ta	17.
 gr.	as	gr.
-
 Hér	aa	hér
 er	sfg3en	vera
 kveðið	sþghen	kveða
@@ -2060,7 +1960,6 @@ sem	ct	sem
 landbúnaðarráðherra	nken	landbúnaðarráðherra
 setur	sfg3en	setja
 .	.	.
-
 Í	aþ	í
 gildandi	lhfþof	gildandi
 lögum	nhfþ	lag
@@ -2079,7 +1978,6 @@ og	c	og
 framkvæmd	nveo	framkvæmd
 þess	fphee	það
 .	.	.
-
 Nauðsynlegt	lhensf	nauðsynlegur
 þykir	sfg3en	þykja
 að	c	að
@@ -2101,23 +1999,18 @@ búfjár	nhee	búfé
 sérstökum	lvfþsf	sérstakur
 reglugerðum	nvfþ	reglugerð
 .	.	.
-
 Um	ao	um
 18.-19.	ta	18.-19.
 gr.	as	gr.
-
 Greinarnar	nvfng	grein
 þarfnast	sfm3fn	þarfnast
 ekki	aa	ekki
 skýringar	nvee	skýring
 .	.	.
-
 Fylgiskjal	nhen	fylgiskjal
 I.	ta	I.
-
 Sérálit	nhen	sérálit
 .	.	.
-
 Undirritaður	lkensf	undirritaður
 skilar	sfg3en	skila
 hér	aa	hér
@@ -2130,7 +2023,6 @@ laga	nhfe	lag
 um	ao	um
 búfjárhald	nheo	búfjárhald
 o.fl.	as	o.fl.
-
 Í	aþ	í
 4.	ta	4.
 mgr.	as	mgr.
@@ -2143,7 +2035,6 @@ kostnað	nkeo	kostnaður
 við	ao	við
 búfjáreftirlit	nheo	búfjáreftirlit
 .	.	.
-
 Eins	aa	eins
 og	c	og
 greinin	nveng	grein
@@ -2166,7 +2057,6 @@ kostnaði	nkeþ	kostnaður
 við	ao	við
 eftirlitið	nheog	eftirlit
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 skoðun	nven	skoðun
@@ -2187,7 +2077,6 @@ en	c	en
 við	ao	við
 bændur	nkfo	bóndi
 .	.	.
-
 Því	aa	því
 getur	sfg3en	geta
 undirritaður	lkensf	undirritaður
@@ -2221,7 +2110,6 @@ kveða	sfg3fn	kveða
 á	aa	á
 um	aa	um
 .	.	.
-
 Þann	fakeo	sá
 þátt	nkeo	þáttur
 í	aþ	í
@@ -2240,7 +2128,6 @@ af	aþ	af
 opinberu	lheþsf	opinber
 fé	nheþ	fé
 .	.	.
-
 Þetta	fahen	þessi
 sérálit	nhen	sérálit
 er	sfg3en	vera
@@ -2255,7 +2142,6 @@ um	ao	um
 þetta	faheo	þessi
 mál	nheo	mál
 .	.	.
-
 Upphaf	nhen	upphaf
 12.	ta	12.
 gr.	as	gr.
@@ -2280,7 +2166,6 @@ búfjár	nhee	búfé
 sínu	feheþ	sinn
 umdæmi	nheþ	umdæmi
 .	.	.
-
 Bændasamtök	nhfn-s	Bændasamtök
 Íslands	nhee-s	Ísland
 hafa	sfg3fn	hafa
@@ -2297,32 +2182,26 @@ eftirlit	nheo	eftirlit
 eða	c	eða
 gæðastjórnun	nveo	gæðastjórnun
 .	.	.
-
 Þau	fphfn	það
 skulu	sfg3fn	skulu
 láta	sng	láta
 búfjáreftirlitsmanni	nkeþ	búfjáreftirlitsmaður
 ...	...	...
-
 (	(	(
 greinin	nveng	grein
 síðan	aa	síðan
 óbreytt	lvensf	óbreyttur
 )	)	)
 .	.	.
-
 Gunnar	nken-s	Gunnar
 Sæmundsson	nken-s	Sæmundsson
 .	.	.
-
 Fylgiskjal	nhen	fylgiskjal
 II.	ta	II.
-
 Fjármálaráðuneyti	nhen	fjármálaráðuneyti
 ,	,	,
 fjárlagaskrifstofa	nven	fjárlagaskrifstofa
 :	:	:
-
 Umsögn	nven	umsögn
 um	ao	um
 frumvarp	nheo	frumvarp
@@ -2331,7 +2210,6 @@ laga	nhfe	lag
 um	ao	um
 búfjárhald	nheo	búfjárhald
 o.fl.	as	o.fl.
-
 Tilgangur	nken	tilgangur
 frumvarpsins	nheeg	frumvarp
 er	sfg3en	vera
@@ -2345,7 +2223,6 @@ gera	sng	gera
 það	fpheo	það
 skilvirkara	lheovm	skilvirkur
 .	.	.
-
 Í	aþ	í
 frumvarpinu	nheþg	frumvarp
 er	sfg3en	vera
@@ -2362,7 +2239,6 @@ við	ao	við
 þá	faveo	sá
 starfsemi	nveo	starfsemi
 .	.	.
-
 Sveitarfélögum	nhfþ	sveitarfélag
 verður	sfg3en	verða
 heimilt	lhensf	heimill
@@ -2384,7 +2260,6 @@ kostnaði	nkeþ	kostnaður
 við	ao	við
 eftirlitið	nheog	eftirlit
 .	.	.
-
 Verði	svg3en	verða
 frumvarpið	nheng	frumvarp
 óbreytt	lhensf	óbreyttur
@@ -2405,19 +2280,16 @@ sér	fpheþ	sig
 fyrir	ao	fyrir
 ríkissjóð	nkeo	ríkissjóður
 .	.	.
-
 128.	ta	128.
 löggjafarþing	nhen	löggjafarþing
 2002-2003	ta	2002-2003
 .	.	.
-
 Þskj.	as	Þskj.
 427	ta	427
 -	-	-
 375.	ta	375.
 mál	nhen	mál
 .	.	.
-
 Frumvarp	nhen	frumvarp
 til	ae	til
 laga	nhfe	lag
@@ -2426,7 +2298,6 @@ björgunarsveitir	nvfo	björgunarsveit
 og	c	og
 björgunarsveitarmenn	nkfo	björgunarsveitarmaður
 .	.	.
-
 (	(	(
 Lagt	sþghen	leggja
 fyrir	ao	fyrir
@@ -2436,20 +2307,16 @@ Alþingi	nheo-s	Alþingi
 löggjafarþingi	nheþ	löggjafarþing
 2002-2003.	ta	2002-2003.
 )	)	)
-
 I.	lkensf	I.
 KAFLI	nken	kafli
 Gildissvið	nhen	gildissvið
 og	c	og
 skilgreiningar	nvfn	skilgreining
 .	.	.
-
 1.	ta	1.
 gr.	as	gr.
-
 Gildissvið	nhen	gildissvið
 .	.	.
-
 Lög	nhfn	lag
 þessi	fahfn	þessi
 taka	sfg3fn	taka
@@ -2464,13 +2331,10 @@ viðurkenndra	lhfesf	viðurkenndur
 heildarsamtaka	nhfe	heildarsamtök
 björgunarsveita	nvfe	björgunarsveit
 .	.	.
-
 2.	ta	2.
 gr.	as	gr.
-
 Skilgreiningar	nvfn	skilgreining
 .	.	.
-
 Með	aþ	með
 björgunarsveit	nveþ	björgunarsveit
 er	sfg3en	vera
@@ -2493,7 +2357,6 @@ að	aþ	að
 beiðni	nveþ	beiðni
 stjórnvalda	nhfe	stjórnvald
 .	.	.
-
 Með	aþ	með
 björgunarsveitarmanni	nkeþ	björgunarsveitarmaður
 er	sfg3en	vera
@@ -2515,7 +2378,6 @@ leit	nveþ	leit
 og	c	og
 gæslu	nveþ	gæsla
 .	.	.
-
 Með	aþ	með
 stjórnvöldum	nhfþ	stjórnvald
 er	sfg3en	vera
@@ -2536,7 +2398,6 @@ leitarmála	nhfe	leitarmál
 hverjum	fokeþ	hver
 tíma	nkeþ	tími
 .	.	.
-
 Með	aþ	með
 björgun	nveþ	björgun
 er	sfg3en	vera
@@ -2552,7 +2413,6 @@ hættu	nveþ	hætta
 eða	c	eða
 tjóni	nheþ	tjón
 .	.	.
-
 Með	aþ	með
 leit	nveþ	leit
 er	sfg3en	vera
@@ -2564,7 +2424,6 @@ mönnum	nkfþ	maður
 eða	c	eða
 verðmætum	nhfþ	verðmæti
 .	.	.
-
 Með	aþ	með
 gæslu	nveþ	gæsla
 er	sfg3en	vera
@@ -2586,10 +2445,8 @@ verið	ssg	vera
 vegna	ae	vegna
 hættuástands	nhee	hættuástand
 .	.	.
-
 II.	lkensf	II.
 KAFLI	nken	kafli
-
 Hlutverk	nhen	hlutverk
 ,	,	,
 réttindi	nhfn	réttindi
@@ -2599,16 +2456,13 @@ björgunarsveita	nvfe	björgunarsveit
 og	c	og
 björgunarsveitarmanna	nkfe	björgunarsveitarmaður
 .	.	.
-
 3.	ta	3.
 gr.	as	gr.
-
 Hlutverk	nhen	hlutverk
 björgunarsveita	nvfe	björgunarsveit
 og	c	og
 björgunarsveitarmanna	nkfe	björgunarsveitarmaður
 .	.	.
-
 Hlutverk	nhen	hlutverk
 björgunarsveita	nvfe	björgunarsveit
 og	c	og
@@ -2636,7 +2490,6 @@ samvinnu	nveþ	samvinna
 við	ao	við
 þau	fphfo	það
 .	.	.
-
 Stjórnvöld	nhfn	stjórnvald
 skulu	sfg3fn	skulu
 í	aþ	í
@@ -2666,16 +2519,13 @@ upplýsingaskyldu	nveo	upplýsingaskylda
 og	c	og
 boðskipti	nhfo	boðskipti
 .	.	.
-
 4.	ta	4.
 gr.	as	gr.
-
 Skyldur	nvfn	skylda
 björgunarsveita	nvfe	björgunarsveit
 og	c	og
 björgunarsveitarmanna	nkfe	björgunarsveitarmaður
 .	.	.
-
 Björgunarsveitum	nvfþ	björgunarsveit
 er	sfg3en	vera
 skylt	lhensf	skyldur
@@ -2694,7 +2544,6 @@ er	sfg3en	vera
 af	aþ	af
 stjórnvaldi	nheþ	stjórnvald
 .	.	.
-
 Björgunarsveitarmönnum	nkfþ	björgunarsveitarmaður
 er	sfg3en	vera
 skylt	lhensf	skyldur
@@ -2724,13 +2573,10 @@ og	c	og
 eðli	nheþ	eðli
 málsins	nheeg	mál
 .	.	.
-
 5.	ta	5.
 gr.	as	gr.
-
 Tryggingar	nvfn	trygging
 .	.	.
-
 Björgunarsveitum	nvfþ	björgunarsveit
 er	sfg3en	vera
 skylt	lhensf	skyldur
@@ -2741,7 +2587,6 @@ fyrir	ao	fyrir
 félagsmenn	nkfo	félagsmaður
 sína	fekfo	sinn
 .	.	.
-
 Björgunarsveitum	nvfþ	björgunarsveit
 er	sfg3en	vera
 skylt	lhensf	skyldur
@@ -2776,7 +2621,6 @@ leit	nveo	leit
 og	c	og
 gæslu	nveo	gæsla
 .	.	.
-
 Björgunarsveitum	nvfþ	björgunarsveit
 er	sfg3en	vera
 skylt	lhensf	skyldur
@@ -2803,16 +2647,12 @@ munum	nkfþ	munur
 og	c	og
 umhverfi	nheþ	umhverfi
 .	.	.
-
 III.	lkenvf	III.
 KAFLI	nken	kafli
-
 Gildistaka	nven	gildistaka
 .	.	.
-
 6.	ta	6.
 gr.	as	gr.
-
 Lög	nhfn	lag
 þessi	fahfn	þessi
 öðlast	sfm3fn	öðlast
@@ -2821,18 +2661,15 @@ gildi	nheo	gildi
 júlí	nkeo	júlí
 2003	ta	2003
 .	.	.
-
 Athugasemdir	nvfn	athugasemd
 við	ao	við
 lagafrumvarp	nheo	lagafrumvarp
 þetta	faheo	þessi
 .	.	.
-
 I.	ta	I.
 Almennar	lvfnsf	almennur
 athugasemdir	nvfn	athugasemd
 .	.	.
-
 Þann	fakeo	sá
 15.	ta	15.
 apríl	nkeo	apríl
@@ -2919,7 +2756,6 @@ af	aþ	af
 öðrum	fovfþ	annar
 ástæðum	nvfþ	ástæða
 .	.	.
-
 Nefndin	nveng	nefnd
 kom	sfg3eþ	koma
 saman	aa	saman
@@ -2937,7 +2773,6 @@ um	ao	um
 alllangt	lheosf	alllangur
 skeið	nheo	skeið
 .	.	.
-
 Nefndin	nveng	nefnd
 tók	sfg3eþ	taka
 til	ae	til
@@ -2948,7 +2783,6 @@ nýju	lheþsf	nýr
 apríl	nkeþ	apríl
 2001	ta	2001
 .	.	.
-
 Inn	aa	inn
 í	ao	í
 nefndina	nveog	nefnd
@@ -2987,7 +2821,6 @@ viðskiptafræðingur	nken	viðskiptafræðingur
 í	aþ	í
 fjármálaráðuneytinu	nheþg	fjármálaráðuneyti
 .	.	.
-
 Bogi	nken-s	Bogi
 Hjálmtýsson	nken-s	Hjálmtýsson
 ,	,	,
@@ -3011,7 +2844,6 @@ dóms-	nheþg	dómsmálaráðuneyti
 og	c	og
 kirkjumálaráðuneytinu	nheþg	kirkjumálaráðuneyti
 .	.	.
-
 Nefndarstörfum	nhfþ	nefndarstarf
 lauk	sfg3eþ	ljúka
 í	aþ	í
@@ -3037,16 +2869,13 @@ björgunarsveitarmenn	nkfo	björgunarsveitarmaður
 ásamt	aþ	ásamt
 greinargerð	nveþ	greinargerð
 .	.	.
-
 II.	ta	II.
-
 Helstu	lvfnve	heldri
 breytingar	nvfn	breyting
 og	c	og
 nýmæli	nhfn	nýmæli
 frumvarpsins	nheeg	frumvarp
 .	.	.
-
 Í	aþ	í
 íslenskri	lveþsf	íslenskur
 löggjöf	nveþ	löggjöf
@@ -3060,7 +2889,6 @@ björgunarsveitir	nvfo	björgunarsveit
 eða	c	eða
 björgunarsveitarmenn	nkfo	björgunarsveitarmaður
 .	.	.
-
 Heitið	nheog	heiti
 björgunarmenn	nkfo	björgunarmaður
 er	sfg3en	vera
@@ -3072,7 +2900,6 @@ siglingalögum	nhfþ	siglingalög
 nr.	as	nr.
 34/1985	ta	34/1985
 .	.	.
-
 Í	aþ	í
 lögum	nhfþ	lag
 nr.	as	nr.
@@ -3089,7 +2916,6 @@ björgunar-	nhen	björgunarlið
 og	c	og
 hjálparlið	nhen	hjálparlið
 .	.	.
-
 Í	aþ	í
 lögum	nhfþ	lag
 nr.	as	nr.
@@ -3103,7 +2929,6 @@ talað	sþghen	tala
 um	ao	um
 hjálparlið	nheo	hjálparlið
 .	.	.
-
 Í	aþ	í
 lögum	nhfþ	lag
 nr.	as	nr.
@@ -3120,7 +2945,6 @@ og	c	og
 annað	foheo	annar
 hjálparlið	nheo	hjálparlið
 .	.	.
-
 Í	aþ	í
 lögreglulögum	nhfþ	lögreglulög
 ,	,	,
@@ -3144,7 +2968,6 @@ björgunaraðgerða	nvfe	björgunaraðgerð
 á	aþ	á
 landi	nheþ	land
 .	.	.
-
 Um	ao	um
 björgun	nveo	björgun
 sem	ct	sem
@@ -3156,7 +2979,6 @@ gilda	sfg3fn	gilda
 sérstök	lhfnsf	sérstakur
 lög	nhfn	lag
 .	.	.
-
 Ráðherra	nken	ráðherra
 setur	sfg3en	setja
 reglur	nvfo	regla
@@ -3166,7 +2988,6 @@ lögreglu	nvee	lögregla
 og	c	og
 björgunarsveita	nvfe	björgunarsveit
 .	.	.
-
 Í	aþ	í
 7.	ta	7.
 mgr.	as	mgr.
@@ -3207,7 +3028,6 @@ gr.	as	gr.
 sömu	fbhfe	sami
 laga	nhfe	lag
 .	.	.
-
 Lengi	aa	lengi
 hafa	sfg3fn	hafa
 fjölmargir	lkfnsf	fjölmargur
@@ -3224,7 +3044,6 @@ slysavarna-	nhfo	slysavarnastarf
 og	c	og
 björgunarstörf	nhfo	björgunarstarf
 .	.	.
-
 Enginn	foken	enginn
 efast	sfm3en	efa
 um	ao	um
@@ -3238,7 +3057,6 @@ starfs	nhee	starf
 þágu	nveþ	þága
 almannaheilla	nvfe	almannaheill
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 hefur	sfg3en	hafa
@@ -3266,7 +3084,6 @@ draga	sng	draga
 úr	aþ	úr
 óvissu	nveþ	óvissa
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 kveðið	sþghen	kveða
@@ -3314,18 +3131,15 @@ varðandi	slg	varða
 og	c	og
 tryggingar	nvfo	trygging
 .	.	.
-
 Athugasemdir	nvfn	athugasemd
 við	ao	við
 einstakar	lvfosf	einstakur
 greinar	nvfo	grein
 frumvarpsins	nheeg	frumvarp
 .	.	.
-
 Um	ao	um
 1.	ta	1.
 gr.	as	gr.
-
 Starfandi	slg	starfa
 eru	sfg3fn	vera
 ein	lhfnsf	einn
@@ -3336,7 +3150,6 @@ björgunarsveita	nvfe	björgunarsveit
 Slysavarnafélagið	nhengs	Slysavarnafélag
 Landsbjörg	nven-s	Landsbjörg
 .	.	.
-
 Félagið	nheng	félag
 var	sfg3eþ	vera
 stofnað	sþghen	stofna
@@ -3353,7 +3166,6 @@ Landsbjargar	nvee-s	Landsbjörg
 landssambands	nhee	landssamband
 björgunarsveita	nvfe	björgunarsveit
 .	.	.
-
 Slysavarnafélagið	nhengs	Slysavarnafélag
 Landsbjörg	nven-s	Landsbjörg
 hefur	sfg3en	hafa
@@ -3363,7 +3175,6 @@ vébanda	nhfe	vébönd
 5.000	ta	5.000
 björgunarsveitarmenn	nkfo	björgunarsveitarmaður
 .	.	.
-
 Björgunarsveitarmenn	nkfn	björgunarsveitarmaður
 innan	ae	innan
 samtakanna	nhfeg	samtök
@@ -3379,7 +3190,6 @@ um	ao	um
 allt	foheo	allur
 land	nheo	land
 .	.	.
-
 Sveitir	nvfn	sveit
 þessar	favfn	þessi
 eru	sfg3fn	vera
@@ -3396,7 +3206,6 @@ sem	ct	sem
 starfa	sfg3fn	starfa
 í	aa	í
 .	.	.
-
 Innan	ae	innan
 björgunarsveita	nvfe	björgunarsveit
 starfa	sfg3fn	starfa
@@ -3423,7 +3232,6 @@ og	c	og
 svo	aa	svo
 framvegis	aa	framvegis
 .	.	.
-
 Félagar	nkfn	félagi
 í	aþ	í
 Slysavarnafélaginu	nheþgs	Slysavarnafélag
@@ -3443,7 +3251,6 @@ fyrir	ao	fyrir
 félaga	nkfo	félagi
 sveitanna	nvfeg	sveit
 .	.	.
-
 Árlega	aa	árlega
 eru	sfg3fn	vera
 haldin	sþghfn	halda
@@ -3459,7 +3266,6 @@ allt	foheo	allur
 vegum	nkfþ	vegur
 skólans	nkeeg	skóli
 .	.	.
-
 Starf	nhen	starf
 björgunarsveita	nvfe	björgunarsveit
 Slysavarnafélagsins	nheegs	Slysavarnafélag
@@ -3481,7 +3287,6 @@ með	aþ	með
 skipulagðri	lveþsf	skipulagður
 svæðisstjórn	nveþ	svæðisstjórn
 .	.	.
-
 Svæðisstjórnir	nvfn	svæðisstjórn
 stjórna	sfg3fn	stjórna
 björgunaraðgerðum	nvfþ	björgunaraðgerð
@@ -3492,7 +3297,6 @@ svæðis	nhee	svæði
 umboði	nheþ	umboð
 sveitanna	nvfeg	sveit
 .	.	.
-
 Til	ae	til
 að	cn	að
 samræma	sng	samræma
@@ -3526,7 +3330,6 @@ ef	c	ef
 er	sfg3en	vera
 til	aa	til
 .	.	.
-
 Sjá	sng	sjá
 enn	aa	enn
 fremur	aam	fremur
@@ -3537,11 +3340,9 @@ um	ao	um
 Slysavarnafélagið	nheogs	Slysavarnafélag
 Landsbjörg	nveo-s	Landsbjörg
 .	.	.
-
 Um	ao	um
 2.	ta	2.
 gr.	as	gr.
-
 Hvað	fshen	hver
 varðar	sfg3en	varða
 skilgreiningu	nveo	skilgreining
@@ -3588,7 +3389,6 @@ sýslumenn	nkfn	sýslumaður
 sem	c	sem
 lögreglustjórar	nkfn	lögreglustjóri
 .	.	.
-
 Hvað	fshen	hver
 hugtakið	nheng	hugtak
 gæslu	nveo	gæsla
@@ -3622,7 +3422,6 @@ stórslysa	nhfe	stórslys
 eða	c	eða
 náttúruhamfara	nvfe	náttúruhamfarir
 .	.	.
-
 Hér	aa	hér
 á	aþ	á
 landi	nheþ	land
@@ -3634,7 +3433,6 @@ sinnt	ssg	sinna
 þessu	faheþ	þessi
 hlutverki	nheþ	hlutverk
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 lagt	sþghen	leggja
@@ -3679,7 +3477,6 @@ stórslysa	nhfe	stórslys
 eða	c	eða
 náttúruhamfara	nvfe	náttúruhamfarir
 .	.	.
-
 Með	aþ	með
 gæslu	nveþ	gæsla
 í	aþ	í
@@ -3698,7 +3495,6 @@ heimsóknir	nvfo	heimsókn
 erlendra	lkfesf	erlendur
 þjóðhöfðingja	nkfe	þjóðhöfðingi
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 gert	sþghen	gera
@@ -3720,7 +3516,6 @@ yfir	aa	yfir
 lengri	lkeovm	langur
 tíma	nkeo	tími
 .	.	.
-
 Telja	sng	telja
 verður	sfg3en	verða
 of	aa	of
@@ -3748,7 +3543,6 @@ fyrir	ao	fyrir
 störf	nhfo	starf
 sín	fehfo	sinn
 .	.	.
-
 Þegar	c	þegar
 gæsla	nven	gæsla
 er	sfg3en	vera
@@ -3766,7 +3560,6 @@ um	ao	um
 þátttöku	nveo	þátttaka
 björgunarsveita	nvfe	björgunarsveit
 .	.	.
-
 Þá	aa	þá
 mundi	svg3eþ	munu
 ákvæði	nhen	ákvæði
@@ -3787,11 +3580,9 @@ vegna	ae	vegna
 yfirvofandi	lheeof	yfirvofandi
 ofsaveðurs	nhee	ofsaveður
 .	.	.
-
 Um	ao	um
 3.	ta	3.
 gr.	as	gr.
-
 Í	aþ	í
 1.	ta	1.
 mgr.	as	mgr.
@@ -3824,7 +3615,6 @@ samvinnu	nveþ	samvinna
 við	ao	við
 stjórnvöld	nhfo	stjórnvald
 .	.	.
-
 Ljóst	lhensf	ljós
 er	sfg3en	vera
 að	c	að
@@ -3845,7 +3635,6 @@ leitir	nvfo	leit
 og	c	og
 björgunaraðgerðir	nvfo	björgunaraðgerð
 .	.	.
-
 Hlutverk	nhen	hlutverk
 stjórnvalda	nhfe	stjórnvald
 er	sfg3en	vera
@@ -3864,7 +3653,6 @@ innra	lheþvm	innri
 skipulagi	nheþ	skipulag
 björgunarsveita	nvfe	björgunarsveit
 .	.	.
-
 Í	aþ	í
 því	fpheþ	það
 að	c	að
@@ -3885,7 +3673,6 @@ jafnframt	aa	jafnframt
 ábyrgð	nveo	ábyrgð
 stjórnvalda	nhfe	stjórnvald
 .	.	.
-
 Ekki	aa	ekki
 er	sfg3en	vera
 gert	sþghen	gera
@@ -3917,7 +3704,6 @@ og	c	og
 æðri	lhfevm	æðri
 stjórnvalda	nhfe	stjórnvald
 .	.	.
-
 Þannig	aa	þannig
 hefur	sfg3en	hafa
 þegar	aa	þegar
@@ -3949,7 +3735,6 @@ lögreglu	nvee	lögregla
 og	c	og
 björgunarsveita	nvfe	björgunarsveit
 .	.	.
-
 Ekkert	fohen	enginn
 ætti	svg3eþ	eiga
 þó	aa	þó
@@ -3980,7 +3765,6 @@ mannafla	nkeþ	mannafli
 og	c	og
 búnaði	nkeþ	búnaður
 .	.	.
-
 Í	aþ	í
 132.	ta	132.
 gr.	as	gr.
@@ -4045,7 +3829,6 @@ fyrir	ao	fyrir
 slíka	fbveo	slíkur
 aðstoð	nveo	aðstoð
 .	.	.
-
 Þá	aa	þá
 segir	sfg3en	segja
 í	aþ	í
@@ -4068,7 +3851,6 @@ lögreglu	nvee	lögregla
 og	c	og
 björgunarsveita	nvfe	björgunarsveit
 .	.	.
-
 Markmið	nhen	markmið
 slíks	fbhee	slíkur
 samkomulags	nhee	samkomulag
@@ -4129,11 +3911,9 @@ stjórnun	nveo	stjórnun
 á	aþ	á
 vettvangi	nkeþ	vettvangur
 o.s.frv.	as	o.s.frv.
-
 Um	ao	um
 4.	lveovf	4.
 gr.	as	gr.
-
 Ákvæði	nhen	ákvæði
 1.	ta	1.
 mgr.	as	mgr.
@@ -4157,7 +3937,6 @@ björgun	nveo	björgun
 eða	c	eða
 gæslu	nveo	gæsla
 .	.	.
-
 Hér	aa	hér
 má	sfg3en	mega
 benda	sng	benda
@@ -4222,7 +4001,6 @@ störfum	nhfþ	starf
 þágu	nveþ	þága
 almannavarna	nvfe	almannavarnir
 .	.	.
-
 Við	ao	við
 samningu	nveo	samning
 ákvæðis	nhee	ákvæði
@@ -4246,11 +4024,9 @@ starfsmanna	nkfe	starfsmaður
 nr.	as	nr.
 70/1996	ta	70/1996
 .	.	.
-
 Um	ao	um
 5.	ta	5.
 gr.	as	gr.
-
 Gert	sþghen	gera
 er	sfg3en	vera
 ráð	nhen	ráð
@@ -4280,7 +4056,6 @@ fyrir	aa	fyrir
 eða	c	eða
 valda	sng	valda
 .	.	.
-
 Með	aþ	með
 þessu	faheþ	þessi
 ákvæði	nheþ	ákvæði
@@ -4290,7 +4065,6 @@ tryggð	sþghfn	tryggja
 mikilsverð	lhfnsf	mikilsverður
 réttindi	nhfn	réttindi
 .	.	.
-
 Í	aþ	í
 ákvæði	nheþ	ákvæði
 um	ao	um
@@ -4327,7 +4101,6 @@ ofhitnun	nveo	ofhitnun
 og	c	og
 eitrun	nveo	eitrun
 .	.	.
-
 Í	aþ	í
 2.	ta	2.
 mgr	as	mgr.
@@ -4361,7 +4134,6 @@ leit	nveo	leit
 og	c	og
 gæslu	nveo	gæsla
 .	.	.
-
 Með	aþ	með
 tjóni	nheþ	tjón
 sem	ct	sem
@@ -4387,7 +4159,6 @@ sinna	fehfe	sinn
 fyrir	ao	fyrir
 björgunarsveit	nveo	björgunarsveit
 .	.	.
-
 Þó	aa	þó
 er	sfg3en	vera
 ekki	aa	ekki
@@ -4404,31 +4175,25 @@ vélsleða	nkfo	vélsleði
 eigu	nveþ	eiga
 björgunarsveitamanna	nkfe	björgunarsveitamaður
 .	.	.
-
 Um	ao	um
 6.	ta	6.
 gr.	as	gr.
-
 Greinin	nveng	grein
 þarfnast	sfm3en	þarfnast
 ekki	aa	ekki
 skýringa	nvfe	skýring
 .	.	.
-
 Fylgiskjal	nhen	fylgiskjal
 I.	ta	I.
-
 Slysavarnafélagið	nhengs	Slysavarnafélag
 Landsbjörg	nven-s	Landsbjörg
 .	.	.
-
 Þróttmikið	lhensf	þróttmikill
 starf	nhen	starf
 í	aþ	í
 þágu	nveþ	þága
 þjóðar	nvee	þjóð
 .	.	.
-
 Slysavarnafélagið	nhengs	Slysavarnafélag
 Landsbjörg	nven-s	Landsbjörg
 eru	sfg3fn	vera
@@ -4451,7 +4216,6 @@ slysavarna-	nvfþ	slysavarnadeild
 og	c	og
 unglingadeildum	nvfþ	unglingadeild
 .	.	.
-
 Sameiginlegt	lhensf	sameiginlegur
 baráttumál	nhen	baráttumál
 þeirra	fpkfe	hann
@@ -4468,7 +4232,6 @@ veg	nkeo	vegur
 fyrir	ao	fyrir
 slys	nhfo	slys
 .	.	.
-
 Slysavarnafélagið	nhengs	Slysavarnafélag
 Landsbjörg	nven-s	Landsbjörg
 á	sfg3en	eiga
@@ -4507,7 +4270,6 @@ um	ao	um
 allt	foheo	allur
 land	nheo	land
 .	.	.
-
 Hlutverk	nhen	hlutverk
 félagsins	nheeg	félag
 og	c	og
@@ -4532,10 +4294,8 @@ og	c	og
 ráðamanna	nkfe	ráðamaður
 hennar	fpvee	hún
 .	.	.
-
 Björgunarsveitir	nvfn	björgunarsveit
 .	.	.
-
 Björgunarsveitir	nvfn	björgunarsveit
 Slysavarnafélagsins	nheegs	Slysavarnafélag
 Landsbjargar	nvee-s	Landsbjörg
@@ -4565,7 +4325,6 @@ allan	fokeo	allur
 ársins	nheeg	ár
 hring	nkeo	hringur
 .	.	.
-
 Sú	faven	sá
 fagmennska	nven	fagmennska
 sem	ct	sem
@@ -4585,7 +4344,6 @@ víða	aa	víða
 um	ao	um
 heim	nkeo	heimur
 .	.	.
-
 Við	ao	við
 sérhæfingu	nveo	sérhæfing
 einstakra	lkfesf	einstakur
@@ -4613,7 +4371,6 @@ sjós	nkee	sjór
 og	c	og
 lands	nhee	land
 .	.	.
-
 Félagsmenn	nkfn	félagsmaður
 sækja	sfg3fn	sækja
 þá	faveo	sá
@@ -4627,7 +4384,6 @@ lands	nhee	land
 sem	ct	sem
 utan	aa	utan
 .	.	.
-
 Björgunarsveitirnar	nvfng	björgunarsveit
 hafa	sfg3fn	hafa
 yfir	aþ	yfir
@@ -4664,7 +4420,6 @@ hraðbáta	nkfo	hraðbátur
 100	ta	100
 slöngubáta	nkfo	slöngubátur
 .	.	.
-
 Búnaður	nken	búnaður
 björgunarsveitanna	nvfeg	björgunarsveit
 er	sfg3en	vera
@@ -4697,7 +4452,6 @@ köfun	nveþ	köfun
 og	c	og
 víðavangsleit	nveþ	víðavangsleit
 .	.	.
-
 Ísland	nhen-s	Ísland
 er	sfg3en	vera
 harðbýlt	lhensf	harðbýll
@@ -4722,7 +4476,6 @@ en	c	en
 dugmikil	lvensf	dugmikill
 þjóð	nven	þjóð
 .	.	.
-
 Þar	aa	þar
 af	aa	af
 leiðandi	slg	leiða
@@ -4741,7 +4494,6 @@ stóráföll	nhfo	stóráfall
 mjög	aa	mjög
 mikið	lhensf	mikill
 .	.	.
-
 Þannig	aa	þannig
 koma	sfg3fn	koma
 að	aþ	að
@@ -4764,7 +4516,6 @@ björgunarsveita	nvfe	björgunarsveit
 Slysavarnafélagsins	nheegs	Slysavarnafélag
 Landsbjargar	nvee-s	Landsbjörg
 .	.	.
-
 (	(	(
 Aftast	aae	aftur
 í	aþ	í
@@ -4783,10 +4534,8 @@ Slysavarnafélagsins	nheegs	Slysavarnafélag
 Landsbjargar	nvee-s	Landsbjörg
 .	.	.
 )	)	)
-
 Slysavarnadeildir	nvfn	slysavarnadeild
 .	.	.
-
 Innan	ae	innan
 Slysavarnafélagsins	nheegs	Slysavarnafélag
 Landsbjargar	nvee-s	Landsbjörg
@@ -4809,7 +4558,6 @@ slys	nhfo	slys
 og	c	og
 óhöpp	nhfo	óhapp
 .	.	.
-
 Öflugt	lhensf	öflugur
 fræðslu-	nhen	fræðslustarf
 og	c	og
@@ -4829,7 +4577,6 @@ samstarfsverkefnum	nhfþ	samstarfsverkefni
 á	ao	á
 landsvísu	nveo	landsvísa
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 oft	aa	oft
@@ -4846,7 +4593,6 @@ og	c	og
 öryggi	nheo	öryggi
 barna	nhfe	barn
 .	.	.
-
 Víða	aa	víða
 um	ao	um
 land	nheo	land
@@ -4872,10 +4618,8 @@ vegna	ae	vegna
 og	c	og
 aðgerða	nvfe	aðgerð
 .	.	.
-
 Unglingadeildir	nvfn	unglingadeild
 .	.	.
-
 Innan	ae	innan
 unglingadeilda	nvfe	unglingadeild
 félagsins	nheeg	félag
@@ -4894,7 +4638,6 @@ og	c	og
 uppbyggjandi	lhfeof	uppbyggjandi
 starfa	nhfe	starf
 .	.	.
-
 Unglingadeildirnar	nvfng	unglingadeild
 eru	sfg3fn	vera
 35	ta	35
@@ -4910,7 +4653,6 @@ víða	aa	víða
 um	ao	um
 land	nheo	land
 .	.	.
-
 Þar	aa	þar
 kynnast	sfm3fn	kynna
 unglingarnir	nkfng	unglingur
@@ -4919,7 +4661,6 @@ björgunar-	nvfe	björgunarsveit
 og	c	og
 slysavarnasveita	nvfe	slysavarnasveit
 .	.	.
-
 Gildi	nhen	gildi
 unglingadeildastarfsins	nheeg	unglingadeildastarf
 er	sfg3en	vera
@@ -4948,12 +4689,10 @@ björgunar-	nhen	björgunarfólk
 og	c	og
 slysavarnafólk	nhen	slysavarnafólk
 .	.	.
-
 Framfaraspor	nhfn	framfaraspor
 í	aþ	í
 öryggismálum	nhfþ	öryggismál
 .	.	.
-
 Slysavarnafélagið	nhengs	Slysavarnafélag
 Landsbjörg	nven-s	Landsbjörg
 hefur	sfg3en	hafa
@@ -4978,7 +4717,6 @@ starfi	nheþ	starf
 sem	c	sem
 leik	nkeþ	leikur
 .	.	.
-
 Má	sfg3en	mega
 þar	aa	þar
 nefna	sng	nefna

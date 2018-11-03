@@ -1,6 +1,5 @@
 upplýsingar	nvfo	upplýsing
 .	.	.
-
 Algengustu	lvfnve	algengur
 aðrar	fovfn	annar
 hringingar	nvfn	hringing
@@ -36,7 +35,6 @@ um	ao	um
 ákvæði	nhfo	ákvæði
 byggingareglugerðar	nvee	byggingareglugerð
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 oft	aa	oft
@@ -52,7 +50,6 @@ skólum	nkfþ	skóli
 eða	c	eða
 leiksvæðum	nhfþ	leiksvæði
 .	.	.
-
 Dæmi	nhfn	dæmi
 um	ao	um
 önnur	fohfo	annar
@@ -100,7 +97,6 @@ greinaskrif	nhfo	greinaskrif
 eða	c	eða
 ritgerðir	nvfo	ritgerð
 o.s.frv.	as	o.s.frv.
-
 Nánara	lheovm	náinn
 yfirlit	nheo	yfirlit
 yfir	ao	yfir
@@ -116,7 +112,6 @@ finna	sng	finna
 í	aþ	í
 fylgiskjali	nheþ	fylgiskjal
 II.	ta	II.
-
 Að	aa	að
 auki	aa	auki
 er	sfg3en	vera
@@ -138,7 +133,6 @@ um	ao	um
 öryggismál	nhfo	öryggismál
 barna	nhfe	barn
 .	.	.
-
 Yfirlit	nhen	yfirlit
 yfir	ao	yfir
 fjölda	nkeo	fjöldi
@@ -152,12 +146,9 @@ finna	sng	finna
 eftirfarandi	lveþof	eftirfarandi
 töflu	nveþ	tafla
 .	.	.
-
 III.	ta	III.
-
 Nefndastörf	nhfn	nefndastarf
 .	.	.
-
 Framkvæmdastjóri	nken	framkvæmdastjóri
 Árvekni	nvee-s	Árvekni
 hefur	sfg3en	hafa
@@ -169,7 +160,6 @@ nefndum	nvfþ	nefnd
 vegum	nkfþ	vegur
 Árvekni	nvee-s	Árvekni
 .	.	.
-
 Sumar	fovfn	sumur
 þessarra	x	þessarra
 nefnda	nvfe	nefnd
@@ -181,7 +171,6 @@ en	c	en
 var	sfg3eþ	vera
 stofnuð	sþgven	stofna
 .	.	.
-
 Var	sfg3eþ	vera
 framkvæmdastjóri	nken	framkvæmdastjóri
 skipaður	sþgken	skipa
@@ -204,7 +193,6 @@ sem	ct	sem
 fulltrúi	nken	fulltrúi
 Árvekni	nvee-s	Árvekni
 .	.	.
-
 Að	aa	að
 neðan	aa	neðan
 eru	sfg3fn	vera
@@ -224,7 +212,6 @@ finna	sng	finna
 í	aþ	í
 fylgiskjali	nheþ	fylgiskjal
 III.	ta	III.
-
 Nefnd	nven	nefnd
 um	ao	um
 öryggi	nheo	öryggi
@@ -234,7 +221,6 @@ og	c	og
 við	ao	við
 kennslulaugar	nvfo	kennslulaug
 .	.	.
-
 Samstarfshópur	nken	samstarfshópur
 um	ao	um
 öryggi	nheo	öryggi
@@ -242,14 +228,12 @@ barna	nhfe	barn
 í	aþ	í
 bílum	nkfþ	bíll
 .	.	.
-
 Átaksverkefni	nhen	átaksverkefni
 á	aþ	á
 vegum	nkfþ	vegur
 Orkuveitu	nvee-s	Orkuveita
 Reykjavíkur	nvee-s	Reykjavík
 .	.	.
-
 Samstarfshópur	nken	samstarfshópur
 um	ao	um
 skólaakstur	nkeo	skólaakstur
@@ -258,33 +242,27 @@ vegum	nkfþ	vegur
 Umboðsmanns	nkee-s	Umboðsmaður
 barna	nhfe	barn
 .	.	.
-
 Samráðshópur	nken	samráðshópur
 um	ao	um
 öryggis-	nhfo	öryggismál
 og	c	og
 staðlamál	nhfo	staðlamál
 .	.	.
-
 Öryggisnefnd	nven	öryggisnefnd
 íþróttahúsa	nhfe	íþróttahús
 .	.	.
-
 Vinnuhópur	nken	vinnuhópur
 um	ao	um
 öryggi	nheo	öryggi
 skotelda	nkfe	skoteldur
 .	.	.
-
 IV	ta	IV
 .	.	.
-
 Alþjóðlegt	lhensf	alþjóðlegur
 samstarf	nhen	samstarf
 og	c	og
 námsferðir	nvfn	námsferð
 .	.	.
-
 Norræn	lvensf	norrænn
 nefnd	nven	nefnd
 um	ao	um
@@ -292,7 +270,6 @@ slysavarnir	nvfo	slysavörn
 í	aþ	í
 heimahúsum	nhfþ	heimahús
 .	.	.
-
 Í	aþ	í
 byrjun	nveþ	byrjun
 janúar	nkee	janúar
@@ -316,7 +293,6 @@ fund	nkeo	fundur
 í	aþ	í
 janúar	nkeþ	janúar
 .	.	.
-
 Þar	aa	þar
 átti	sfg3eþ	eiga
 að	cn	að
@@ -339,7 +315,6 @@ tileinka	sng	tileinka
 því	faheþ	sá
 málefni	nheþ	málefni
 .	.	.
-
 Ætlunin	nveng	ætlun
 er	sfg3en	vera
 að	cn	að
@@ -361,7 +336,6 @@ efni	nheo	efni
 hin	fahfo	hinn
 norðurlandamálin	nhfog	norðurlandamál
 .	.	.
-
 Þessi	faken	þessi
 bæklingur	nken	bæklingur
 yrði	svg3eþ	verða
@@ -378,7 +352,6 @@ við	ao	við
 alla	fokfo	allur
 aldurshópa	nkfo	aldurshópur
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 ætlunin	nveng	ætlun
@@ -399,7 +372,6 @@ verkefnið	nheog	verkefni
 í	aþ	í
 gangi	nkeþ	gangur
 .	.	.
-
 Framkvæmdastjóri	nken	framkvæmdastjóri
 sótti	sfg3eþ	sækja
 fundinn	nkeog	fundur
@@ -412,7 +384,6 @@ verkefninu	nheþg	verkefni
 var	sfg3eþ	vera
 kynnt	sþgven	kynna
 .	.	.
-
 Leitað	sþghen	leita
 var	sfg3eþ	vera
 eftir	aþ	eftir
@@ -435,7 +406,6 @@ hér	aa	hér
 á	aþ	á
 landi	nheþ	land
 .	.	.
-
 Farið	sþghen	fara
 verður	sfg3en	verða
 af	aþ	af
@@ -455,14 +425,12 @@ frá	aþ	frá
 norrænu	lveþvf	norrænn
 ráðherranefndinni	nveþg	ráðherranefnd
 .	.	.
-
 Evrópsk	lvensf	evrópskur
 nefnd	nven	nefnd
 um	ao	um
 öryggi	nheo	öryggi
 leikvallatækja	nhfe	leikvallatæki
 .	.	.
-
 Nefndin	nveng	nefnd
 hefur	sfg3en	hafa
 unnið	ssg	vinna
@@ -477,7 +445,6 @@ að	cn	að
 fyrir	ao	fyrir
 leikvallatæki	nhfo	leikvallatæki
 .	.	.
-
 Framkvæmdarstjóri	nken	framkvæmdarstjóri
 hefur	sfg3en	hafa
 átt	ssg	eiga
@@ -494,7 +461,6 @@ tekið	ssg	taka
 gerð	nveþ	gerð
 staðlanna	nkfeg	staðall
 .	.	.
-
 Fundur	nken	fundur
 var	sfg3eþ	vera
 haldinn	sþgken	halda
@@ -506,7 +472,6 @@ og	c	og
 maí	nkeo	maí
 1999	ta	1999
 .	.	.
-
 Búið	lhensf	búinn
 er	sfg3en	vera
 að	cn	að
@@ -531,13 +496,11 @@ til	aa	til
 staðlar	nkfn	staðall
 fyrir	aa	fyrir
 .	.	.
-
 Safe	e	Safe
 Com	e	Com
 3	ta	3
 Nord	e	Nord
 .	.	.
-
 Þriðja	lvenvf	þriðji
 norræna	lvenvf	norrænn
 ráðstefnan	nveng	ráðstefna
@@ -562,7 +525,6 @@ Slysavarnafélag	nhen-s	Slysavarnafélag
 fyrir	aþ	fyrir
 henni	fpveþ	hún
 .	.	.
-
 Framkvæmdarstjóri	nken	framkvæmdarstjóri
 Árvekni	nvee-s	Árvekni
 hefur	sfg3en	hafa
@@ -577,13 +539,11 @@ var	sfg3eþ	vera
 formaður	nken	formaður
 nú	aa	nú
 .	.	.
-
 Ráðstefnan	nveng	ráðstefna
 var	sfg3eþ	vera
 vel	aa	vel
 sótt	sþgven	sækja
 .	.	.
-
 Haldnir	sþgkfn	halda
 voru	sfg3fþ	vera
 14	ta	14
@@ -594,13 +554,11 @@ til	ae	til
 undirbúnings	nkee	undirbúningur
 ráðstefnunni	nveþg	ráðstefna
 .	.	.
-
 Námsheimsókn	nven	námsheimsókn
 framkvæmdastjóra	nkee	framkvæmdastjóri
 til	ae	til
 Bandaríkjanna	nhfegs	Bandaríki
 .	.	.
-
 Vikuna	nveog	vika
 15.	ta	15.
 til	ae	til
@@ -617,7 +575,6 @@ stofnana	nvfe	stofnun
 Washington	e	Washington
 DC	e	DC
 .	.	.
-
 Heimsóknin	nveng	heimsókn
 var	sfg3eþ	vera
 gagnleg	lvensf	gagnlegur
@@ -642,12 +599,10 @@ sem	ct	sem
 eru	sfg3fn	vera
 eftirtaldar	lvfnsf	eftirtalinn
 :	:	:
-
 Safe	e	Safe
 Kids	e	Kids
 USA	as	USA
 .	.	.
-
 Verkefnið	nheng	verkefni
 hófst	sfm3eþ	hefja
 fyrir	aþ	fyrir
@@ -671,7 +626,6 @@ aðila	nkfe	aðili
 í	aþ	í
 Bandaríkjunum	nhfþgs	Bandaríki
 .	.	.
-
 Á	aþ	á
 undanförnum	lhfþsf	undanfarinn
 árum	nhfþ	ár
@@ -685,7 +639,6 @@ hvert	foheo	hver
 ríki	nheo	ríki
 Bandríkjanna	nhfegs	Bandaríki
 .	.	.
-
 Aðalskrifstofan	nveng	aðalskrifstofa
 hefur	sfg3en	hafa
 á	aþ	á
@@ -723,7 +676,6 @@ sínu	feheþ	sinn
 sinni	feveþ	sinn
 heimabyggð	nveþ	heimabyggð
 .	.	.
-
 Aðalskrifstofan	nveng	aðalskrifstofa
 í	aþ	í
 Washington	e	Washington
@@ -746,7 +698,6 @@ beltin	nhfog	belti
 Ameríka	nven-s	Ameríka
 »	»	»
 .	.	.
-
 U.	e	U.
 S.	as	S.
 Consumer	e	Consumer
@@ -754,7 +705,6 @@ Products	e	Products
 Safety	e	Safety
 Commission	e	Commission
 .	.	.
-
 Farið	sþghen	fara
 var	sfg3eþ	vera
 í	ao	í
@@ -767,7 +717,6 @@ kynntu	sfg3fþ	kynna
 sína	feveo	sinn
 deild	nveo	deild
 .	.	.
-
 Má	sfg3en	mega
 segja	sng	segja
 að	c	að
@@ -786,7 +735,6 @@ hættulega	lveosf	hættulegur
 vöru	nveo	vara
 fer	sfg3en	fara
 .	.	.
-
 Heimsóknin	nveng	heimsókn
 var	sfg3eþ	vera
 mjög	aa	mjög
@@ -824,7 +772,6 @@ kölluð	sþgven	kalla
 af	aþ	af
 markaði	nkeþ	markaður
 .	.	.
-
 Skráning	nven	skráning
 slysa	nhfe	slys
 vakti	sfg3eþ	vekja
@@ -846,7 +793,6 @@ frá	aþ	frá
 útvöldum	lhfþsf	útvalinn
 sjúkrahúsum	nhfþ	sjúkrahús
 .	.	.
-
 National	e	National
 Highway	e	Highway
 and	e	and
@@ -854,7 +800,6 @@ Traffic	e	Traffic
 Safety	e	Safety
 Administration	e	Administration
 .	.	.
-
 Lýst	sþghen	lýsa
 var	sfg3eþ	vera
 uppbyggingu	nveþ	uppbygging
@@ -872,7 +817,6 @@ unnið	sþghen	vinna
 er	sfg3en	vera
 að	aa	að
 .	.	.
-
 Sagt	sþghen	segja
 var	sfg3eþ	vera
 frá	aþ	frá
@@ -902,7 +846,6 @@ að	c	að
 umferðaröryggismálum	nhfþ	umferðaröryggismál
 barna	nhfe	barn
 .	.	.
-
 Prófanir	nvfn	prófun
 á	aþ	á
 búnaði	nkeþ	búnaður
@@ -911,12 +854,10 @@ reglur	nvfn	regla
 um	ao	um
 búnaðinn	nkeog	búnaður
 .	.	.
-
 Akstur	nken	akstur
 yngstu	lkfeve	ungur
 ökumannanna	nkfeg	ökumaður
 .	.	.
-
 Ölvunarakstur	nken	ölvunarakstur
 og	c	og
 forvarnarfræðsla	nven	forvarnarfræðsla
@@ -925,13 +866,11 @@ skólum	nkfþ	skóli
 um	ao	um
 málaflokkinn	nkeog	málaflokkur
 .	.	.
-
 Tölvudeild	nven	tölvudeild
 og	c	og
 skráning	nven	skráning
 slysa	nhfe	slys
 .	.	.
-
 Hjólreiðar	nvfn	hjólreið
 barna	nhfe	barn
 og	c	og
@@ -939,19 +878,16 @@ unglinga	nkfe	unglingur
 og	c	og
 hjálmanotkun	nven	hjálmanotkun
 .	.	.
-
 Öryggi	nhen	öryggi
 barna	nhfe	barn
 í	aþ	í
 bílum	nkfþ	bíll
 .	.	.
-
 Öryggi	nhen	öryggi
 barna	nhfe	barn
 í	aþ	í
 sjúkrabílum	nkfþ	sjúkrabíll
 .	.	.
-
 Þá	aa	þá
 var	sfg3eþ	vera
 kynnt	sþghen	kynna
@@ -980,7 +916,6 @@ hlutverk	nheo	hlutverk
 í	aþ	í
 forvörnum	nvfþ	forvörn
 .	.	.
-
 Ekki	aa	ekki
 eigi	svg3en	eiga
 að	cn	að
@@ -998,7 +933,6 @@ lítið	lhensf	lítill
 brotið	nheng	brot
 er	sfg3en	vera
 .	.	.
-
 Talið	sþghen	telja
 er	sfg3en	vera
 að	c	að
@@ -1018,9 +952,7 @@ slysavörnum	nvfþ	slysavörn
 undanförnum	lhfþsf	undanfarinn
 árum	nhfþ	ár
 .	.	.
-
 Niðurlag	nhen	niðurlag
-
 Skýrsla	nven	skýrsla
 þessi	faven	þessi
 er	sfg3en	vera
@@ -1028,7 +960,6 @@ fyrsta	lvenve	fyrstur
 ársskýrsla	nven	ársskýrsla
 Árvekni	nvee-s	Árvekni
 .	.	.
-
 Mestur	lkense	mikill
 hluti	nken	hluti
 starfsins	nheeg	starf
@@ -1040,7 +971,6 @@ verið	ssg	vera
 nauðsynleg	lvensf	nauðsynlegur
 undirbúningsvinna	nven	undirbúningsvinna
 .	.	.
-
 Mörg	lhfnsf	margur
 verkefni	nhfn	verkefni
 eru	sfg3fn	vera
@@ -1053,7 +983,6 @@ veginn	nkeog	vegur
 að	cn	að
 hefjast	snm	hefja
 .	.	.
-
 Ekki	aa	ekki
 er	sfg3en	vera
 skortur	nken	skortur
@@ -1081,7 +1010,6 @@ raunar	aa	raunar
 aldrei	aa	aldrei
 enda	nkeo	endi
 .	.	.
-
 Þetta	fahen	þessi
 leiðir	sfg3en	leiða
 hugann	nkeog	hugi
@@ -1104,7 +1032,6 @@ nafnið	nheog	nafn
 ,	,	,
 lýkur	sfg3en	ljúka
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 stjórnvalda	nhfe	stjórnvald
@@ -1125,7 +1052,6 @@ yfir	aþ	yfir
 að	aþ	að
 sinni	nheþ	sinn
 .	.	.
-
 Verkefnisstjórn	nven	verkefnisstjórn
 og	c	og
 framkvæmdastjóri	nken	framkvæmdastjóri
@@ -1152,20 +1078,16 @@ samstarfi	nheþ	samstarf
 komandi	lhfþof	komandi
 árum	nhfþ	ár
 .	.	.
-
 Fylgiskjal	nhen	fylgiskjal
 II	ta	II
-
 Helstu	lhfnve	heldri
 erindi	nhfn	erindi
 sem	ct	sem
 bárust	sfm3fþ	bera
 á	aþ	á
 árinu	nheþg	ár
-
 Janúar	nken	janúar
 :	:	:
-
 Kvörtun	nven	kvörtun
 barst	sfm3eþ	bera
 frá	aþ	frá
@@ -1183,7 +1105,6 @@ fannst	sfm3eþ	finna
 sandkassa	nkeþ	sandkassi
 leikskólans	nkeeg	leikskóli
 .	.	.
-
 Í	aþ	í
 framhaldi	nheþ	framhald
 af	aþ	af
@@ -1227,7 +1148,6 @@ af	aþ	af
 þessu	faheþ	þessi
 tagi	nheþ	tag
 .	.	.
-
 Búið	lhensf	búinn
 er	sfg3en	vera
 að	cn	að
@@ -1240,7 +1160,6 @@ sem	ct	sem
 málið	nheng	mál
 varðar	sfg3en	varða
 .	.	.
-
 Beiðni	nven	beiðni
 kom	sfg3eþ	koma
 frá	aþ	frá
@@ -1270,7 +1189,6 @@ að	cn	að
 kenna	sng	kenna
 sundlaugarvörðum	nkfþ	sundlaugarvörður
 .	.	.
-
 Efnið	nheng	efni
 er	sfg3en	vera
 unnið	sþghen	vinna
@@ -1285,7 +1203,6 @@ og	c	og
 við	ao	við
 kennslulaugar	nvfo	kennslulaug
 .	.	.
-
 Aðstoðin	nveng	aðstoð
 fólst	sfm3eþ	fela
 í	aþ	í
@@ -1295,17 +1212,14 @@ og	c	og
 yfirlestri	nkeþ	yfirlestur
 efnis	nhee	efni
 .	.	.
-
 Efnið	nheng	efni
 var	sfg3eþ	vera
 tilbúið	lhensf	tilbúinn
 sumarið	nheog	sumar
 1999	ta	1999
 .	.	.
-
 Febrúar	nken	febrúar
 :	:	:
-
 Anna	nven-s	Anna
 Björg	nven-s	Björg
 Aradóttir	nven-s	Aradóttir
@@ -1329,7 +1243,6 @@ sér	fpveþ	sig
 starfsemi	nveo	starfsemi
 Árvekni	nvee-s	Árvekni
 .	.	.
-
 Erindi	nhen	erindi
 frá	aþ	frá
 Páli	nkeþ-s	Páll
@@ -1359,7 +1272,6 @@ barna	nhfe	barn
 og	c	og
 unglinga	nkfe	unglingur
 .	.	.
-
 Ólafur	nken-s	Ólafur
 Gísli	nken-s	Gísli
 og	c	og
@@ -1386,7 +1298,6 @@ hugmyndir	nvfn	hugmynd
 um	ao	um
 málið	nheog	mál
 .	.	.
-
 Niðurstaða	nven	niðurstaða
 fundarins	nkeeg	fundur
 var	sfg3eþ	vera
@@ -1410,7 +1321,6 @@ var	sfg3eþ	vera
 það	fphen	það
 gert	sþghen	gera
 .	.	.
-
 Ekki	aa	ekki
 var	sfg3eþ	vera
 unnið	sþghen	vinna
@@ -1430,7 +1340,6 @@ frekar	aam	frekar
 árinu	nheþg	ár
 2000	ta	2000
 .	.	.
-
 Ætlunin	nveng	ætlun
 var	sfg3eþ	vera
 að	c	að
@@ -1446,7 +1355,6 @@ gerð	nveo	gerð
 þessara	fakfe	þessi
 þátta	nkfe	þáttur
 .	.	.
-
 Af	aþ	af
 hálfu	nveþ	hálfa
 Árvekni	nvee-s	Árvekni
@@ -1473,7 +1381,6 @@ en	c	en
 væri	svg3eþ	vera
 sýnt	sþghen	sýna
 .	.	.
-
 Beiðni	nven	beiðni
 barst	sfm3eþ	bera
 frá	aþ	frá
@@ -1501,7 +1408,6 @@ lóðamála	nhfe	lóðamál
 í	aþ	í
 skólanum	nkeþg	skóli
 .	.	.
-
 Framkvæmdarstjóri	nken	framkvæmdarstjóri
 sat	sfg3eþ	sitja
 fundinn	nkeog	fundur
@@ -1516,7 +1422,6 @@ að	aþ	að
 góðri	lveþsf	góður
 niðurstöðu	nveþ	niðurstaða
 .	.	.
-
 Beiðni	nven	beiðni
 kom	sfg3eþ	koma
 frá	aþ	frá
@@ -1538,7 +1443,6 @@ til	ae	til
 og	c	og
 slysavarna	nvfe	slysavörn
 .	.	.
-
 Um	ao	um
 leið	nveo	leið
 á	sfg3en	eiga
@@ -1555,7 +1459,6 @@ sama	fbven	sami
 teikning	nven	teikning
 )	)	)
 .	.	.
-
 Eftir	ao	eftir
 að	c	að
 skoðun	nven	skoðun
@@ -1571,7 +1474,6 @@ hússins	nheeg	hús
 og	c	og
 byggingaraðila	nkee	byggingaraðili
 .	.	.
-
 Bent	sþghen	benda
 var	sfg3eþ	vera
 á	ao	á
@@ -1599,10 +1501,8 @@ koma	sfg3fn	koma
 þessar	favfo	þessi
 stöðvar	nvfo	stöð
 .	.	.
-
 Mars	nken	mars
 :	:	:
-
 Pétur	nken-s	Pétur
 Jónsson	nken-s	Jónsson
 ,	,	,
@@ -1628,7 +1528,6 @@ skóla	nkeo	skóli
 í	aþ	í
 Hafnarfirði	nkeþ-s	Hafnarfjörður
 .	.	.
-
 Farið	sþghen	fara
 var	sfg3eþ	vera
 yfir	ao	yfir
@@ -1652,10 +1551,8 @@ farið	ssg	fara
 við	ao	við
 framkvæmdina	nveog	framkvæmd
 .	.	.
-
 Apríl	nken	apríl
 :	:	:
-
 Beiðni	nven	beiðni
 kom	sfg3eþ	koma
 frá	aþ	frá
@@ -1687,7 +1584,6 @@ hurðar	nvee	hurð
 í	aþ	í
 leikskólanum	nkeþg	leikskóli
 .	.	.
-
 Hurðirnar	nvfng	hurð
 voru	sfg3fþ	vera
 skoðaðar	sþgvfn	skoða
@@ -1705,7 +1601,6 @@ veg	nkeo	vegur
 fyrir	ao	fyrir
 klemmuslys	nhfo	klemmuslys
 .	.	.
-
 Beiðni	nven	beiðni
 um	ao	um
 skoðun	nveo	skoðun
@@ -1725,7 +1620,6 @@ sem	ct	sem
 þar	aa	þar
 varð	sfg3eþ	verða
 .	.	.
-
 Árið	nheog	ár
 1999	ta	1999
 var	sfg3eþ	vera
@@ -1742,7 +1636,6 @@ samkvæmt	aþ	samkvæmt
 þeim	favfþ	sá
 ábendingum	nvfþ	ábending
 .	.	.
-
 Þótti	sfg3eþ	þykja
 skólastjóra	nkeþ	skólastjóri
 ástæða	nven	ástæða
@@ -1753,7 +1646,6 @@ væri	svg3eþ	vera
 yfir	ao	yfir
 endurbæturnar	nvfog	endurbót
 .	.	.
-
 Beiðni	nven	beiðni
 frá	aþ	frá
 foreldrafélagi	nheþ	foreldrafélag
@@ -1771,7 +1663,6 @@ stóð	sfg3eþ	standa
 við	ao	við
 skólann	nkeog	skóli
 .	.	.
-
 Var	sfg3eþ	vera
 leikaðstaðan	nveng	leikaðstaða
 skoðuð	sþgven	skoða
@@ -1782,7 +1673,6 @@ foreldrafélagsins	nheeg	foreldrafélag
 og	c	og
 skólastjóra	nkee	skólastjóri
 .	.	.
-
 Erindi	nhen	erindi
 frá	aþ	frá
 barnadeild	nveþ	barnadeild
@@ -1805,7 +1695,6 @@ um	ao	um
 slysavarnir	nvfo	slysavörn
 barna	nhfe	barn
 .	.	.
-
 Verið	sþghen	vera
 er	sfg3en	vera
 að	cn	að
@@ -1821,7 +1710,6 @@ var	sfg3eþ	vera
 af	aþ	af
 Landlæknisembættinu	nheþgs	Landlæknisembættið
 .	.	.
-
 Farið	sþghen	fara
 var	sfg3eþ	vera
 í	aa	í
@@ -1841,7 +1729,6 @@ afhentir	sþgkfn	afhenda
 og	c	og
 hvenær	aa	hvenær
 .	.	.
-
 Í	aþ	í
 undirbúningi	nkeþ	undirbúningur
 er	sfg3en	vera
@@ -1859,7 +1746,6 @@ ung-	nvee	ungbarnvernd
 og	c	og
 smábarnaverndar	nvee	smábarnavernd
 .	.	.
-
 Beiðni	nven	beiðni
 kom	sfg3eþ	koma
 frá	aþ	frá
@@ -1872,7 +1758,6 @@ leikskólahúsnæði	nheo	leikskólahúsnæði
 fyrir	ao	fyrir
 Hafnarfjarðarbæ	nkeo-s	Hafnarfjarðarbær
 .	.	.
-
 Bað	sfg3eþ	biðja
 arkitektinn	nkeng	arkitekt
 um	ao	um
@@ -1889,7 +1774,6 @@ allar	fovfn	allur
 væru	svg3fþ	vera
 uppfylltar	sþgvfn	uppfylla
 .	.	.
-
 Ósk	nven	ósk
 um	ao	um
 þessa	faveo	þessi
@@ -1899,7 +1783,6 @@ frá	aþ	frá
 byggingarfulltrúa	nkeþ	byggingarfulltrúi
 Hafnarfjarðar	nkee-s	Hafnarfjörður
 .	.	.
-
 Beiðni	nven	beiðni
 kom	sfg3eþ	koma
 frá	aþ	frá
@@ -1931,7 +1814,6 @@ samkvæmt	aþ	samkvæmt
 íslenskum	lkfþsf	íslenskur
 stöðlum	nkfþ	staðall
 .	.	.
-
 Svæðið	nheng	svæði
 var	sfg3eþ	vera
 skoðað	sþghen	skoða
@@ -1939,10 +1821,8 @@ og	c	og
 ráðleggingar	nvfn	ráðlegging
 gefnar	sþgvfn	gefa
 .	.	.
-
 Maí	nken	maí
 :	:	:
-
 Beiðni	nven	beiðni
 frá	aþ	frá
 Landlæknisembættinu	nheþgs	Landlæknisembættið
@@ -1958,7 +1838,6 @@ nálum	nvfþ	nál
 og	c	og
 sprautum	nvfþ	sprauta
 .	.	.
-
 Efnið	nheng	efni
 var	sfg3eþ	vera
 lesið	sþghen	lesa
@@ -1975,7 +1854,6 @@ senda	sng	senda
 þessar	favfo	þessi
 upplýsingar	nvfo	upplýsing
 .	.	.
-
 Beiðni	nven	beiðni
 frá	aþ	frá
 LH	as	LH
@@ -1988,7 +1866,6 @@ vegna	ae	vegna
 undirbúnings	nkee	undirbúningur
 slysaskráningar	nvee	slysaskráning
 .	.	.
-
 Var	sfg3eþ	vera
 þeim	fphfþ	það
 bent	sþghen	benda
@@ -2022,7 +1899,6 @@ formanni	nkeþ	formaður
 stjórnar	nvee	stjórn
 Árvekni	nvee-s	Árvekni
 .	.	.
-
 Ekki	aa	ekki
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -2034,10 +1910,8 @@ sem	c	sem
 komið	sþghen	koma
 er	sfg3en	vera
 .	.	.
-
 Júní	nken	júní
 :	:	:
-
 Beiðni	nven	beiðni
 frá	aþ	frá
 einstaklingi	nkeþ	einstaklingur
@@ -2056,7 +1930,6 @@ innflutning	nkeo	innflutningur
 á	aþ	á
 leikvallatækjum	nhfþ	leikvallatæki
 .	.	.
-
 Var	sfg3eþ	vera
 honum	fpkeþ	hann
 gerð	sþgven	gera
@@ -2073,7 +1946,6 @@ hér	aa	hér
 á	aþ	á
 landi	nheþ	land
 .	.	.
-
 Honum	fpkeþ	hann
 var	sfg3eþ	vera
 ráðlagt	sþghen	ráðleggja
@@ -2089,10 +1961,8 @@ Löggildingarstofu	nveþ-s	Löggildingarstofa
 um	ao	um
 málið	nheog	mál
 .	.	.
-
 Júlí	nken	júlí
 :	:	:
-
 Ákveðið	sþghen	ákveða
 var	sfg3eþ	vera
 í	aþ	í
@@ -2129,7 +1999,6 @@ hálsfestar	nvfo	hálsfesti
 eða	c	eða
 armbönd	nhfo	armband
 .	.	.
-
 Margar	lvfnsf	margur
 ábendingar	nvfn	ábending
 hafa	sfg3fn	hafa
@@ -2143,10 +2012,8 @@ vegna	ae	vegna
 tegunda	nvfe	tegund
 sælgætis	nhee	sælgæti
 .	.	.
-
 September	nken	september
 :	:	:
-
 Beiðni	nven	beiðni
 frá	aþ	frá
 forstöðumanni	nkeþ	forstöðumaður
@@ -2164,7 +2031,6 @@ lóð	nveþ	lóð
 og	c	og
 húsnæði	nheþ	húsnæði
 .	.	.
-
 Dimmahvarf	nhen-s	Dimmahvarf
 er	sfg3en	vera
 heimili	nhen	heimili
@@ -2172,7 +2038,6 @@ fyrir	ao	fyrir
 einhverfa	lkfosf	einhverfur
 unglinga	nkfo	unglingur
 .	.	.
-
 Húsnæðið	nheng	húsnæði
 og	c	og
 lóðin	nveng	lóð
@@ -2189,7 +2054,6 @@ síðar	aam	síðar
 voru	sfg3fþ	vera
 lagfærðir	sþgkfn	lagfæra
 .	.	.
-
 Beiðni	nven	beiðni
 frá	aþ	frá
 skólastjóra	nkeþ	skólastjóri
@@ -2205,7 +2069,6 @@ skólann	nkeog	skóli
 yrði	svg3eþ	verða
 skoðað	sþghen	skoða
 .	.	.
-
 Starfsfólk	nhen	starfsfólk
 skólans	nkeeg	skóli
 hafði	sfg3eþ	hafa
@@ -2224,7 +2087,6 @@ var	sfg3eþ	vera
 ekki	aa	ekki
 afgirt	lhensf	afgirtur
 .	.	.
-
 Góð	lvensf	góður
 gæsla	nven	gæsla
 er	sfg3en	vera
@@ -2248,7 +2110,6 @@ illa	aa	illa
 við	ao	við
 þetta	faheo	þessi
 .	.	.
-
 Bréf	nhen	bréf
 var	sfg3eþ	vera
 sent	sþghen	senda
@@ -2258,7 +2119,6 @@ Reykjavíkur	nvee-s	Reykjavík
 um	ao	um
 málið	nheog	mál
 .	.	.
-
 Beiðni	nven	beiðni
 frá	aþ	frá
 framkvæmdarstjóra	nkeþ	framkvæmdarstjóri
@@ -2278,7 +2138,6 @@ leita	sfg3fn	leita
 í	aþ	í
 huga	nkeþ	hugi
 .	.	.
-
 Gerð	sþgven	gera
 var	sfg3eþ	vera
 ítarleg	lvensf	ítarlegur
@@ -2294,7 +2153,6 @@ viðstaddur	lkensf	viðstaddur
 ásamt	aþ	ásamt
 framkvæmdarstjóra	nkeþ	framkvæmdarstjóri
 .	.	.
-
 Beiðni	nven	beiðni
 frá	aþ	frá
 skólastjóra	nkeþ	skólastjóri
@@ -2317,7 +2175,6 @@ hefur	sfg3en	hafa
 verið	ssg	vera
 endurunnin	sþgven	endurvinna
 .	.	.
-
 Farið	sþghen	fara
 var	sfg3eþ	vera
 á	ao	á
@@ -2334,7 +2191,6 @@ nálægt	aþ	nálægt
 öðru	foheþ	annar
 leiktæki	nheþ	leiktæki
 .	.	.
-
 Gerð	sþgven	gera
 var	sfg3eþ	vera
 tillaga	nven	tillaga
@@ -2346,12 +2202,10 @@ fundinn	sþgken	finna
 annar	foken	annar
 staður	nken	staður
 .	.	.
-
 Byggingarfulltrúi	nken	byggingarfulltrúi
 látinn	sþgken	láta
 vita	sng	vita
 .	.	.
-
 Beiðni	nven	beiðni
 kom	sfg3eþ	koma
 frá	aþ	frá
@@ -2371,7 +2225,6 @@ til	ae	til
 öryggis	nhee	öryggi
 barna	nhfe	barn
 .	.	.
-
 Var	sfg3eþ	vera
 farið	sþghen	fara
 í	ao	í
@@ -2381,7 +2234,6 @@ Hagkaups	nhee-s	Hagkaup
 á	aþ	á
 höfuðborgarsvæðinu	nheþg	höfuðborgarsvæði
 .	.	.
-
 Lagfæringar	nvfn	lagfæring
 voru	sfg3fþ	vera
 gerðar	sþgvfn	gera
@@ -2393,10 +2245,8 @@ samræmi	nheþ	samræmi
 við	ao	við
 ábendingar	nvfo	ábending
 .	.	.
-
 Október	nken	október
 :	:	:
-
 Ábending	nven	ábending
 kom	sfg3eþ	koma
 frá	aþ	frá
@@ -2412,7 +2262,6 @@ auglýsingu	nveo	auglýsing
 í	aþ	í
 sjónvarpi	nheþ	sjónvarp
 .	.	.
-
 Auglýsingin	nveng	auglýsing
 sýndi	sfg3eþ	sýna
 frystikistu	nveo	frystikista
@@ -2431,7 +2280,6 @@ niðri	aa	niðri
 í	aþ	í
 kistunni	nveþg	kista
 .	.	.
-
 Að	aþ	að
 mati	nheþ	mat
 þeirra	fakfe	sá
@@ -2477,7 +2325,6 @@ ekki	aa	ekki
 út	aa	út
 aftur	aa	aftur
 .	.	.
-
 Í	aþ	í
 framhaldi	nheþ	framhald
 af	aþ	af
@@ -2500,7 +2347,6 @@ var	sfg3eþ	vera
 hún	fpven	hún
 bönnuð	sþgven	banna
 .	.	.
-
 Nokkrum	fokfþ	nokkur
 mánuðum	nkfþ	mánuður
 áður	aa	áður
@@ -2528,7 +2374,6 @@ utan	aa	utan
 eitt	foheo	einn
 húsanna	nhfeg	hús
 .	.	.
-
 Mikil	lvensf	mikill
 mildi	nven	mildi
 var	sfg3eþ	vera
@@ -2538,7 +2383,6 @@ voru	sfg3fþ	vera
 að	aþ	að
 atburðinum	nkeþg	atburður
 .	.	.
-
 Í	aþ	í
 framhaldi	nheþ	framhald
 af	aþ	af
@@ -2553,7 +2397,6 @@ um	ao	um
 þessa	faveo	þessi
 hættu	nveo	hætta
 .	.	.
-
 Haft	sþghen	hafa
 var	sfg3eþ	vera
 samband	nhen	samband
@@ -2596,7 +2439,6 @@ grindverk	nhfo	grindverk
 eftir	ao	eftir
 lokun	nveo	lokun
 .	.	.
-
 Beiðni	nven	beiðni
 frá	aþ	frá
 skólastjóra	nkeþ	skólastjóri
@@ -2616,7 +2458,6 @@ viðbrögðum	nhfþ	viðbragð
 við	aþ	við
 slysum	nhfþ	slys
 .	.	.
-
 Garðabær	nken-s	Garðabær
 er	sfg3en	vera
 að	cn	að
@@ -2627,7 +2468,6 @@ sér	fpkeþ	sig
 fyrir	ao	fyrir
 leikskólana	nkfog	leikskóli
 .	.	.
-
 Beiðni	nven	beiðni
 frá	aþ	frá
 Heilsuverndarstöð	nveþ-s	Heilsuverndarstöð
@@ -2650,7 +2490,6 @@ heilbrigðismál	nhfo	heilbrigðismál
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Var	sfg3eþ	vera
 starf	nhen	starf
 Árvekni	nvee-s	Árvekni
@@ -2665,7 +2504,6 @@ hana	fpveo	hún
 í	ao	í
 Umferðarráð	nheo-s	Umferðarráð
 .	.	.
-
 Stúkan	nveng	stúka
 er	sfg3en	vera
 sjálfboðaliði	nken	sjálfboðaliði
@@ -2678,7 +2516,6 @@ heilbrigðis-	nhfþ	heilbrigðismál
 og	c	og
 öryggismálum	nhfþ	öryggismál
 .	.	.
-
 Beiðni	nven	beiðni
 kom	sfg3eþ	koma
 frá	aþ	frá
@@ -2695,7 +2532,6 @@ rennibraut	nven	rennibraut
 yrði	svg3eþ	verða
 skoðuð	sþgven	skoða
 .	.	.
-
 Slæmt	lhensf	slæmur
 slys	nhen	slys
 hafði	sfg3eþ	hafa
@@ -2711,7 +2547,6 @@ hálsinn	nkeog	háls
 enda	nkeo	endi
 rennibrautarinnar	nveeg	rennibraut
 .	.	.
-
 Farið	sþghen	fara
 var	sfg3eþ	vera
 og	c	og
@@ -2722,7 +2557,6 @@ garðyrkjustjóra	nkeþ	garðyrkjustjóri
 og	c	og
 byggingarfulltrúa	nkeþ	byggingarfulltrúi
 .	.	.
-
 Í	ao	í
 ljós	nheo	ljós
 kom	sfg3eþ	koma
@@ -2738,7 +2572,6 @@ breyta	sng	breyta
 hluta	nkeþ	hluti
 rennibrautar	nvee	rennibraut
 .	.	.
-
 Erindi	nhen	erindi
 frá	aþ	frá
 Hollvinasamtökum	nhfþ-s	Hollvinasamtök
@@ -2757,7 +2590,6 @@ voru	sfg3fþ	vera
 íslenskar	lvfnsf	íslenskur
 heilbrigðisstéttir	nvfn	heilbrigðisstétt
 .	.	.
-
 Árvekni	nveþ-s	Árvekni
 var	sfg3eþ	vera
 boðið	sþghen	bjóða
@@ -2772,7 +2604,6 @@ Læknagarðs	nkee-s	læknagarður
 öðrum	fokfþ	annar
 aðilum	nkfþ	aðili
 .	.	.
-
 Kynning	nven	kynning
 þessi	faven	þessi
 fór	sfg3eþ	fara
@@ -2783,10 +2614,8 @@ til	ae	til
 31.	ta	31.
 október	nkee	október
 .	.	.
-
 Nóvember	nken	nóvember
 :	:	:
-
 Beiðni	nven	beiðni
 frá	aþ	frá
 daggæslufulltrúa	nkeþ	daggæslufulltrúi
@@ -2799,7 +2628,6 @@ gæsluvelli	nkfo	gæsluvöllur
 í	aþ	í
 Kópavogi	nkeþ-s	Kópavogur
 .	.	.
-
 Vinna	nven	vinna
 þessi	faven	þessi
 er	sfg3en	vera
@@ -2816,7 +2644,6 @@ lok	nhfo	lok
 janúar	nkee	janúar
 2000	ta	2000
 .	.	.
-
 Í	ao	í
 kjölfar	nheo	kjölfar
 þess	fphee	það
@@ -2827,7 +2654,6 @@ fyrir	aþ	fyrir
 starfsfólki	nheþ	starfsfólk
 gæsluvalla	nkfe	gæsluvöllur
 .	.	.
-
 Beiðni	nven	beiðni
 frá	aþ	frá
 bæjarstjórn	nveþ	bæjarstjórn
@@ -2844,7 +2670,6 @@ skólalóðir	nvfn	skólalóð
 yrðu	svg3fþ	verða
 skoðaðar	sþgvfn	skoða
 .	.	.
-
 Ákveðið	sþghen	ákveða
 var	sfg3eþ	vera
 að	c	að
@@ -2853,10 +2678,8 @@ hæfist	svm3eþ	hefja
 eftir	ao	eftir
 áramót	nhfo	áramót
 .	.	.
-
 Desember	nken	desember
 :	:	:
-
 Beiðni	nven	beiðni
 frá	aþ	frá
 skólaheilsugæslunni	nveþg	skólaheilsugæsla
@@ -2869,7 +2692,6 @@ varðandi	slg	varða
 í	aþ	í
 skólum	nkfþ	skóli
 .	.	.
-
 Ákveðið	sþghen	ákveða
 var	sfg3eþ	vera
 að	cn	að
@@ -2889,7 +2711,6 @@ og	c	og
 skólum	nkfþ	skóli
 Kópavogs	nkee-s	Kópavogur
 .	.	.
-
 Þessi	faven	þessi
 vinna	nven	vinna
 hófst	sfm3eþ	hefja
@@ -2903,17 +2724,14 @@ haldið	sþghen	halda
 árinu	nheþg	ár
 2000	ta	2000
 .	.	.
-
 Fylgiskjal	nhen	fylgiskjal
 III	ta	III
-
 Nefndir	nvfn	nefnd
 og	c	og
 vinnuhópar	nkfn	vinnuhópur
 með	aþ	með
 þátttöku	nveþ	þátttaka
 Árvekni	nvee-s	Árvekni
-
 Nefnd	nven	nefnd
 um	ao	um
 öryggi	nheo	öryggi
@@ -2923,7 +2741,6 @@ og	c	og
 við	ao	við
 kennslulaugar	nvfo	kennslulaug
 .	.	.
-
 Nefndin	nveng	nefnd
 var	sfg3eþ	vera
 upprunalega	aa	upprunalega
@@ -2932,7 +2749,6 @@ af	aþ	af
 menntamálaráðherra	nkeþ	menntamálaráðherra
 1993	ta	1993
 .	.	.
-
 Markmið	nhen	markmið
 nefndarinnar	nveeg	nefnd
 var	sfg3eþ	vera
@@ -2951,7 +2767,6 @@ tækju	svg3fþ	taka
 á	aþ	á
 sundstöðum	nkfþ	sundstaður
 .	.	.
-
 Árið	nheog	ár
 1994	ta	1994
 litu	sfg3fþ	líta
@@ -2982,7 +2797,6 @@ að	cn	að
 framfylgja	sng	framfylgja
 reglunum	nvfþg	regla
 .	.	.
-
 Slysavarnafélag	nhen-s	Slysavarnafélag
 Íslands	nhee-s	Ísland
 kannaði	sfg3eþ	kanna
@@ -2994,7 +2808,6 @@ reglurnar	nvfog	regla
 ári	nheþ	ár
 síðar	aam	síðar
 .	.	.
-
 Í	ao	í
 ljós	nheo	ljós
 kom	sfg3eþ	koma
@@ -3006,7 +2819,6 @@ kröfurnar	nvfog	krafa
 að	aþ	að
 fullu	lheþsf	fullur
 .	.	.
-
 Sundlaugar	nvfn	sundlaug
 í	aþ	í
 stærri	lhfþvm	stór
@@ -3027,7 +2839,6 @@ um	ao	um
 öryggi	nheo	öryggi
 gesta	nkfe	gestur
 .	.	.
-
 Öryggisreglur	nvfn	öryggisregla
 fyrir	ao	fyrir
 sundstaði	nkfo	sundstaður
@@ -3037,7 +2848,6 @@ lagastoð	nveo	lagastoð
 í	aþ	í
 íþróttalögum	nhfþ	íþróttalög
 .	.	.
-
 Þegar	c	þegar
 farið	sþghen	fara
 var	sfg3eþ	vera
@@ -3055,7 +2865,6 @@ var	sfg3eþ	vera
 sumu	foheþ	sumur
 ábótavant	lhensf	ábótavant
 .	.	.
-
 Var	sfg3eþ	vera
 því	aa	því
 ákveðið	sþghen	ákveða
@@ -3069,7 +2878,6 @@ vinnu	nveþ	vinna
 haustið	nheog	haust
 1999	ta	1999
 .	.	.
-
 Reglurnar	nvfng	regla
 voru	sfg3fþ	vera
 sendar	sþgvfn	senda
@@ -3079,14 +2887,12 @@ sveitarfélaga	nhfe	sveitarfélag
 og	c	og
 sundstaða	nkfe	sundstaður
 .	.	.
-
 Öryggishandbókin	nveng	öryggishandbók
 var	sfg3eþ	vera
 endurskoðuð	sþgven	endurskoða
 og	c	og
 endurbætt	sþgven	endurbæta
 .	.	.
-
 Talið	sþghen	telja
 er	sfg3en	vera
 að	c	að
@@ -3108,7 +2914,6 @@ lok	nhfo	lok
 janúar	nkee	janúar
 2000	ta	2000
 .	.	.
-
 Í	aþ	í
 byrjun	nveþ	byrjun
 árs	nhee	ár
@@ -3137,7 +2942,6 @@ gerist	sfm3en	gera
 í	aþ	í
 Bandríkjunum	nhfþgs	Bandaríki
 .	.	.
-
 Gerð	nven	gerð
 kennsluefnis	nhee	kennsluefni
 hófst	sfm3eþ	hefja
@@ -3150,7 +2954,6 @@ byrjun	nveþ	byrjun
 sumars	nhee	sumar
 1999	ta	1999
 .	.	.
-
 Fljótlega	aa	fljótlega
 eftir	ao	eftir
 það	fpheo	það
@@ -3159,7 +2962,6 @@ fyrsta	lhenve	fyrstur
 leiðbeinendanámskeiðið	nheng	leiðbeinendanámskeið
 haldið	sþghen	halda
 .	.	.
-
 Um	ao	um
 haustið	nheog	haust
 var	sfg3eþ	vera
@@ -3174,7 +2976,6 @@ menntamálaráðuneytið	nheng	menntamálaráðuneyti
 gaf	sfg3eþ	gefa
 út	aa	út
 .	.	.
-
 Hefur	sfg3en	hafa
 honum	fpkeþ	hann
 verið	ssg	vera
@@ -3192,7 +2993,6 @@ honum	fpkeþ	hann
 til	ae	til
 heilsugæslustöðva	nvfe	heilsugæslustöð
 .	.	.
-
 Ætlast	sþmhen	ætla
 er	sfg3en	vera
 til	ae	til
@@ -3211,7 +3011,6 @@ heim	aa	heim
 til	ae	til
 foreldra	nkfe	foreldrar
 .	.	.
-
 Vinnu	nveþ	vinna
 í	aþ	í
 sundlauganefnd	nveþ	sundlauganefnd
@@ -3220,7 +3019,6 @@ lauk	sfg3eþ	ljúka
 október	nkeþ	október
 1999	ta	1999
 .	.	.
-
 Haldnir	sþgkfn	halda
 voru	sfg3fþ	vera
 10	ta	10
@@ -3228,7 +3026,6 @@ fundir	nkfn	fundur
 á	aþ	á
 árinu	nheþg	ár
 .	.	.
-
 Samstarfshópur	nken	samstarfshópur
 um	ao	um
 öryggi	nheo	öryggi
@@ -3236,7 +3033,6 @@ barna	nhfe	barn
 í	aþ	í
 bílum	nkfþ	bíll
 .	.	.
-
 Samstarfshópurinn	nkeng	samstarfshópur
 var	sfg3eþ	vera
 stofnaður	sþgken	stofna
@@ -3253,7 +3049,6 @@ Slysavarnarfélagi	nheþ-s	Slysavarnarfélag
 og	c	og
 Reykjavíkurborg	nveþ-s	Reykjavíkurborg
 .	.	.
-
 Árið	nheog	ár
 1999	ta	1999
 kom	sfg3eþ	koma
@@ -3270,7 +3065,6 @@ lengur	aam	lengi
 í	aþ	í
 samstarfshópnum	nkeþg	samstarfshópur
 .	.	.
-
 Hlutverk	nhen	hlutverk
 hópsins	nkeeg	hópur
 er	sfg3en	vera
@@ -3302,7 +3096,6 @@ notkun	nveo	notkun
 á	aþ	á
 öryggisbúnaði	nkeþ	öryggisbúnaður
 .	.	.
-
 Samstarfshópurinn	nkeng	samstarfshópur
 hefur	sfg3en	hafa
 gert	ssg	gera
@@ -3314,7 +3107,6 @@ nemenda	nkfe	nemandi
 leikskólaskor	nveþ	leikskólaskor
 Kennaraháskólans	nkeegs	Kennaraháskóli
 .	.	.
-
 Niðurstöður	nvfn	niðurstaða
 hafa	sfg3fn	hafa
 verið	ssg	vera
@@ -3331,7 +3123,6 @@ og	c	og
 í	aþ	í
 leikskólum	nkfþ	leikskóli
 .	.	.
-
 Gert	sþghen	gera
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -3352,7 +3143,6 @@ um	ao	um
 þessi	fahfo	þessi
 mál	nhfo	mál
 .	.	.
-
 Útbúið	sþghen	útbúa
 var	sfg3eþ	vera
 fræðslumyndband	nhen	fræðslumyndband
@@ -3366,7 +3156,6 @@ og	c	og
 á	aþ	á
 heilsugæslustöðvum	nvfþ	heilsugæslustöð
 .	.	.
-
 Haldnir	sþgkfn	halda
 voru	sfg3fþ	vera
 7	ta	7
@@ -3374,14 +3163,12 @@ fundir	nkfn	fundur
 á	aþ	á
 árinu	nheþg	ár
 .	.	.
-
 Átaksverkefni	nhen	átaksverkefni
 á	aþ	á
 vegum	nkfþ	vegur
 Orkuveitu	nvee-s	Orkuveita
 Reykjavíkur	nvee-s	Reykjavík
 .	.	.
-
 Árið	nheog	ár
 1998	ta	1998
 kom	sfg3eþ	koma
@@ -3398,7 +3185,6 @@ völdum	nhfþ	vald
 heita	lheevf	heitur
 vatnsins	nheeg	vatn
 .	.	.
-
 Boðað	sþghen	boða
 var	sfg3eþ	vera
 til	aa	til
@@ -3412,7 +3198,6 @@ sem	ct	sem
 máli	nheþ	mál
 tengjast	sfm3fn	tengja
 .	.	.
-
 Ákveðið	sþghen	ákveða
 var	sfg3eþ	vera
 að	cn	að
@@ -3432,7 +3217,6 @@ að	cn	að
 fækka	sng	fækka
 slysum	nhfþ	slys
 .	.	.
-
 Auglýsingastofa	nven	auglýsingastofa
 var	sfg3eþ	vera
 ráðin	sþgven	ráða
@@ -3454,7 +3238,6 @@ svæði	nheþ	svæði
 Orkuveitu	nvee-s	Orkuveita
 Reykjavíkur	nvee-s	Reykjavík
 .	.	.
-
 Heilsugæslustöðvar	nvfn	heilsugæslustöð
 á	aþ	á
 svæðinu	nheþg	svæði
@@ -3466,7 +3249,6 @@ veggspjöldum	nhfþ	veggspjald
 með	aþ	með
 aðvörunarorðum	nhfþ	aðvörunarorð
 .	.	.
-
 Í	aþ	í
 nóvember	nkeþ	nóvember
 voru	sfg3fþ	vera
@@ -3485,7 +3267,6 @@ kynningu	nveo	kynning
 á	aþ	á
 verkefninu	nheþg	verkefni
 .	.	.
-
 Neytendasamtökin	nhfng	neytendasamtök
 eru	sfg3fn	vera
 frjáls	lhfnsf	frjáls
@@ -3506,14 +3287,12 @@ fullra	lhfesf	fullur
 félagslegra	lhfesf	félagslegur
 réttinda	nhfe	réttindi
 .	.	.
-
 Neytendasamtökin	nhfng	neytendasamtök
 byggjast	sfm3fn	byggja
 á	aþ	á
 einstaklingsbundinni	lveþsf	einstaklingsbundinn
 aðild	nveþ	aðild
 .	.	.
-
 Í	aþ	í
 ársbyrjun	nveþ	ársbyrjun
 2006	ta	2006
@@ -3524,7 +3303,6 @@ Neytendasamtökunum	nhfþgs	Neytendasamtök
 10.600	ta	10.600
 talsins	nheeg	tal
 .	.	.
-
 Skrifstofa	nven	skrifstofa
 Neytendasamtakanna	nhfegs	Neytendasamtök
 er	sfg3en	vera
@@ -3545,12 +3323,10 @@ með	aþ	með
 einum	tfkeþ	einn
 starfsmanni	nkeþ	starfsmaður
 .	.	.
-
 Þjónusta	nven	þjónusta
 fyrir	ao	fyrir
 félagsmenn	nkfo	félagsmaður
 Neytendasamtakanna	nhfegs	Neytendasamtök
-
 Neytendablaðið	nhengs	neytendablað
 :	:	:
 4	ta	4
@@ -3558,7 +3334,6 @@ tölublöð	nhfn	tölublað
 á	aþ	á
 ári	nheþ	ár
 .	.	.
-
 Aðgangur	nken	aðgangur
 að	aþ	að
 fyrri	lhfþvm	fyrri
@@ -3567,7 +3342,6 @@ hér	aa	hér
 á	aþ	á
 vefnum	nkeþg	vefur
 .	.	.
-
 Heimasíða	nven	heimasíða
 :	:	:
 Fullur	lkensf	fullur
@@ -3593,7 +3367,6 @@ vefnum	nkeþg	vefur
 læstum	lvfþsf	læstur
 síðum	nvfþ	síða
 .	.	.
-
 Þeir	fakfn	sá
 félagsmenn	nkfn	félagsmaður
 sem	ct	sem
@@ -3611,7 +3384,6 @@ sent	ssg	senda
 pósti	nkeþ	póstur
 endurgjaldslaust	aa	endurgjaldslaust
 .	.	.
-
 Útgáfurit	nhfn	útgáfurit
 :	:	:
 Tilboðsverð	nhen	tilboðsverð
@@ -3625,7 +3397,6 @@ neytendasamtaka	nhfe	neytendasamtök
 nágrannalöndum	nhfþ	nágrannaland
 okkar	fp1fe	ég
 .	.	.
-
 Upplýsingaþjónusta	nven	upplýsingaþjónusta
 :	:	:
 Leiðbeiningar	nvfn	leiðbeining
@@ -3635,7 +3406,6 @@ kaup	nhfn	kaup
 eru	sfg3fn	vera
 gerð	sþghfn	gera
 .	.	.
-
 Endurgjaldslaus	lvensf	endurgjaldslaus
 aðstoð	nven	aðstoð
 :	:	:
@@ -3664,7 +3434,6 @@ einn	lkensf	einn
 síns	fehee	sinn
 liðs	nhee	lið
 .	.	.
-
 Lögfræðiþjónusta	nven	lögfræðiþjónusta
 :	:	:
 Félagsmenn	nkfn	félagsmaður
@@ -3680,7 +3449,6 @@ Reykjavík	nveþ-s	Reykjavík
 eftir	aþ	eftir
 samkomulagi	nheþ	samkomulag
 .	.	.
-
 Samband	nhen	samband
 við	ao	við
 formann	nkeo	formaður
@@ -3696,22 +3464,18 @@ samkvæmt	aþ	samkvæmt
 nánara	lheþvm	náinn
 samkomulagi	nheþ	samkomulag
 .	.	.
-
 Lög	nhfn	lag
 Neytendasamtakanna	nhfegs	Neytendasamtök
 1	ta	1
 .	.	.
-
 KAFLI	nken	kafli
 1.	ta	1.
 gr.	as	gr.
-
 Nafn	nhen	nafn
 samtakanna	nhfeg	samtök
 er	sfg3en	vera
 Neytendasamtökin	nhfngs	Neytendasamtök
 .	.	.
-
 Heimili	nhen	heimili
 og	c	og
 varnarþing	nhen	varnarþing
@@ -3719,7 +3483,6 @@ er	sfg3en	vera
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Neytendasamtökin	nhfng	neytendasamtök
 eru	sfg3fn	vera
 hagsmunasamtök	nhfn	hagsmunasamtök
@@ -3727,7 +3490,6 @@ neytenda	nkfe	neytandi
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Neytendasamtökin	nhfng	neytendasamtök
 eru	sfg3fn	vera
 sjálfstæð	lhfnsf	sjálfstæður
@@ -3746,7 +3508,6 @@ og	c	og
 opinberum	lkfþsf	opinber
 aðilum	nkfþ	aðili
 .	.	.
-
 Neytendasamtökin	nhfngs	Neytendasamtök
 skulu	sfg3fn	skulu
 ætíð	aa	ætíð
@@ -3763,10 +3524,8 @@ neytenda	nkfe	neytandi
 öðrum	fohfþ	annar
 sjónarmiðum	nhfþ	sjónarmið
 .	.	.
-
 2.	ta	2.
 gr.	as	gr.
-
 Tilgangur	nken	tilgangur
 Neytendasamtakanna	nhfegs	Neytendasamtök
 er	sfg3en	vera
@@ -3777,7 +3536,6 @@ neytenda	nkfe	neytandi
 í	aþ	í
 þjóðfélaginu	nheþg	þjóðfélag
 .	.	.
-
 Tilgangi	nkeþ	tilgangur
 sínum	fekeþ	sinn
 hyggjast	sfm3fn	hyggja
@@ -3788,7 +3546,6 @@ annars	fohee	annar
 með	aþ	með
 því	fpheþ	það
 :	:	:
-
 að	cn	að
 vinna	sng	vinna
 að	aþ	að
@@ -3865,10 +3622,8 @@ hagsbóta	nvfe	hagsbót
 fyrir	ao	fyrir
 neytendur	nkfo	neytandi
 .	.	.
-
 3.	ta	3.
 gr.	as	gr.
-
 Allir	fokfn	allur
 þeir	fakfn	sá
 sem	ct	sem
@@ -3891,10 +3646,8 @@ skuldlausir	lkfnsf	skuldlaus
 við	ao	við
 samtökin	nhfog	samtök
 .	.	.
-
 4.	ta	4.
 gr.	as	gr.
-
 Einstök	lhfnsf	einstakur
 neytendafélög	nhfn	neytendafélag
 geta	sfg3fn	geta
@@ -3914,7 +3667,6 @@ við	ao	við
 lög	nhfo	lag
 Neytendasamtakanna	nhfegs	Neytendasamtök
 .	.	.
-
 Neytendasamtökin	nhfngs	Neytendasamtök
 og	c	og
 viðkomandi	lhenof	viðkomandi
@@ -3926,10 +3678,8 @@ með	aþ	með
 sér	fphfþ	sig
 samstarfssamning	nkeo	samstarfssamningur
 .	.	.
-
 5.	ta	5.
 gr.	as	gr.
-
 Félög	nhfn	félag
 eða	c	eða
 samtök	nhfn	samtök
@@ -3948,7 +3698,6 @@ að	aþ	að
 hagsmunamálum	nhfþ	hagsmunamál
 neytenda	nkfe	neytandi
 .	.	.
-
 Óski	svg3en	óska
 félag	nhen	félag
 eða	c	eða
@@ -3960,7 +3709,6 @@ samþykki	nheo	samþykki
 stjórnar	nvee	stjórn
 Neytendasamtakanna	nhfegs	Neytendasamtök
 .	.	.
-
 Sé	svg3en	vera
 stuðningsaðild	nven	stuðningsaðild
 samþykkt	sþgven	samþykkja
@@ -3979,17 +3727,14 @@ stuðningsaðildin	nveng	stuðningsaðild
 skuli	svg3en	skulu
 vera	sng	vera
 .	.	.
-
 2	ta	2
 .	.	.
-
 KAFLI	nken	kafli
 -	-	-
 Þing	nhen	þing
 Neytendasamtakanna	nhfegs	Neytendasamtök
 6.	ta	6.
 gr.	as	gr.
-
 Þing	nhen	þing
 Neytendasamtakanna	nhfegs	Neytendasamtök
 skal	sfg3en	skulu
@@ -3999,14 +3744,12 @@ annaðhvort	foheo	annaðhvort
 í	aþ	í
 septembermánuði	nkeþ	septembermánuður
 .	.	.
-
 Kjörtímabil	nhen	kjörtímabil
 stjórnar	nvee	stjórn
 er	sfg3en	vera
 milli	ae	milli
 þinga	nhfe	þing
 .	.	.
-
 Þing	nhen	þing
 Neytendasamtakanna	nhfegs	Neytendasamtök
 er	sfg3en	vera
@@ -4016,7 +3759,6 @@ vald	nhen	vald
 málefnum	nhfþ	málefni
 þeirra	fphfe	það
 .	.	.
-
 Aukaþing	nhen	aukaþing
 getur	sfg3en	geta
 stjórnin	nveng	stjórn
@@ -4030,7 +3772,6 @@ er	sfg3en	vera
 ekki	aa	ekki
 haldið	sþghen	halda
 .	.	.
-
 Til	ae	til
 þings	nhee	þing
 og	c	og
@@ -4046,10 +3787,8 @@ auglýsingu	nveþ	auglýsing
 í	aþ	í
 dagblöðum	nhfþ	dagblað
 .	.	.
-
 7.	ta	7.
 gr.	as	gr.
-
 Allir	fokfn	allur
 skuldlausir	lkfnsf	skuldlaus
 félagar	nkfn	félagi
@@ -4069,7 +3808,6 @@ a.m.k.	as	a.m.k.
 viku	nvee	vika
 fyrirvara	nkeþ	fyrirvari
 .	.	.
-
 Stjórn	nveþ	stjórn
 samtakanna	nhfeg	samtök
 er	sfg3en	vera
@@ -4095,7 +3833,6 @@ greiða	sfg3fn	greiða
 um	ao	um
 málið	nheog	mál
 .	.	.
-
 Stjórn	nven	stjórn
 Neytendasamtakanna	nhfegs	Neytendasamtök
 skal	sfg3en	skulu
@@ -4108,10 +3845,8 @@ landshluta	nkeþ	landshluti
 á	ao	á
 þingið	nheog	þing
 .	.	.
-
 8.	ta	8.
 gr.	as	gr.
-
 Þing	nhen	þing
 Neytendasamtakanna	nhfegs	Neytendasamtök
 er	sfg3en	vera
@@ -4123,7 +3858,6 @@ til	ae	til
 þess	fphee	það
 boðað	sþghen	boða
 .	.	.
-
 Þing	nhen	þing
 Neytendasamtakanna	nhfegs	Neytendasamtök
 skal	sfg3en	skulu
@@ -4137,7 +3871,6 @@ og	c	og
 almenn	lhfosf	almennur
 neytendamál	nhfo	neytendamál
 .	.	.
-
 Á	aþ	á
 reglulegu	lheþsf	reglulegur
 þingi	nheþ	þing
@@ -4160,7 +3893,6 @@ starfsemi	nveo	starfsemi
 næstu	lhfove	næstur
 starfsár	nhfo	starfsár
 .	.	.
-
 Endurskoðaðir	lkfnsf	endurskoðaður
 reikningar	nkfn	reikningur
 samtakanna	nhfeg	samtök
@@ -4168,7 +3900,6 @@ skulu	sfg3fn	skulu
 lagðir	sþgkfn	leggja
 fram	aa	fram
 .	.	.
-
 Skulu	sfg3fn	skulu
 tveir	tfkfn	tveir
 skoðunarmenn	nkfn	skoðunarmaður
@@ -4188,33 +3919,27 @@ stjórnarmanna	nkfe	stjórnarmaður
 og	c	og
 starfsmanna	nkfe	starfsmaður
 .	.	.
-
 9.	ta	9.
 gr.	as	gr.
-
 Dagskrá	nven	dagskrá
 þings	nhee	þing
 samtakanna	nhfeg	samtök
 skal	sfg3en	skulu
 vera	sng	vera
 :	:	:
-
 Þingsetning	nven	þingsetning
 .	.	.
-
 Kjör	nhen	kjör
 þingforseta	nkee	þingforseti
 og	c	og
 annarra	fokfe	annar
 embættismanna	nkfe	embættismaður
 .	.	.
-
 Skýrsla	nven	skýrsla
 stjórnar	nvee	stjórn
 og	c	og
 starfsnefnda	nvfe	starfsnefnd
 .	.	.
-
 Endurskoðaðir	lkfnsf	endurskoðaður
 reikningar	nkfn	reikningur
 lagðir	sþgkfn	leggja
@@ -4224,19 +3949,15 @@ afgreiðslu	nvee	afgreiðsla
 og	c	og
 samþykktar	nvee	samþykkt
 .	.	.
-
 Lagabreytingar	nvfn	lagabreyting
 .	.	.
-
 Lýst	sþghen	lýsa
 kjöri	nheþ	kjör
 formanns	nkee	formaður
 .	.	.
-
 Kosning	nven	kosning
 annarra	fokfe	annar
 stjórnarmanna	nkfe	stjórnarmaður
-
 Kjör	nhen	kjör
 tveggja	tfkfe	tveir
 skoðunarmanna	nkfe	skoðunarmaður
@@ -4246,17 +3967,14 @@ tveggja	tfkfe	tveir
 til	ae	til
 vara	nkee	vari
 .	.	.
-
 Ný	lvensf	nýr
 stjórn	nven	stjórn
 tekur	sfg3en	taka
 við	aa	við
 .	.	.
-
 Önnur	fohfn	annar
 mál	nhfn	mál
 .	.	.
-
 Þingi	nheþ	þing
 er	sfg3en	vera
 heimilt	lhensf	heimill
@@ -4279,10 +3997,8 @@ framar	aam	framar
 í	aþ	í
 dagskránni	nveþg	dagskrá
 .	.	.
-
 10.	ta	10.
 gr.	as	gr.
-
 Þingið	nheng	þing
 úrskurðar	sfg3en	úrskurða
 sjálft	fbhen	sjálfur
@@ -4298,7 +4014,6 @@ gr.	as	gr.
 og	c	og
 7.	ta	7.
 gr.	as	gr.
-
 Einfaldur	lkensf	einfaldur
 meirihluti	nken	meirihluti
 ræður	sfg3en	ráða
@@ -4309,17 +4024,14 @@ sbr.	as	sbr.
 þó	aa	þó
 17.	ta	17.
 gr.	as	gr.
-
 3	ta	3
 .	.	.
-
 KAFLI	nken	kafli
 -	-	-
 Stjórn	nven	stjórn
 Neytendasamtakanna	nhfegs	Neytendasamtök
 11.gr	as	11.gr
 .	.	.
-
 Stjórn	nven	stjórn
 Neytendasamtakanna	nhfegs	Neytendasamtök
 er	sfg3en	vera
@@ -4327,7 +4039,6 @@ skipuð	lvensf	skipaður
 21	ta	21
 stjórnarmanni	nkeþ	stjórnarmaður
 .	.	.
-
 Formaður	nken	formaður
 er	sfg3en	vera
 kjörinn	sþgken	kjósa
@@ -4345,10 +4056,8 @@ stjórnarmenn	nkfn	stjórnarmaður
 þingi	nheþ	þing
 samtakanna	nhfeg	samtök
 .	.	.
-
 12.	ta	12.
 gr.	as	gr.
-
 Framboð	nhfn	framboð
 til	ae	til
 formanns	nkee	formaður
@@ -4370,7 +4079,6 @@ reglulegt	lhensf	reglulegur
 er	sfg3en	vera
 haldið	sþghen	halda
 .	.	.
-
 Framboði	nheþ	framboð
 til	ae	til
 formanns	nkee	formaður
@@ -4389,7 +4097,6 @@ félagsmanna	nkfe	félagsmaður
 hið	ghen	hinn
 flesta	lhense	margur
 .	.	.
-
 Berist	svm3en	bera
 framboð	nhen	framboð
 til	ae	til
@@ -4420,7 +4127,6 @@ vera	sng	vera
 framboði	nheþ	framboð
 hans	fpkee	hann
 .	.	.
-
 Berist	svm3en	bera
 einungis	aa	einungis
 eitt	tfhen	einn
@@ -4466,7 +4172,6 @@ reglulegt	lhensf	reglulegur
 er	sfg3en	vera
 haldið	sþghen	halda
 .	.	.
-
 Kosningin	nveng	kosning
 er	sfg3en	vera
 bréfleg	lvensf	bréflegur
@@ -4497,7 +4202,6 @@ og	c	og
 í	aþ	í
 auglýsingum	nvfþ	auglýsing
 .	.	.
-
 Í	aþ	í
 öllum	fohfþ	allur
 tilvikum	nhfþ	tilvik
@@ -4506,7 +4210,6 @@ gætt	sþghen	gæða
 nafnleyndar	nvee	nafnleynd
 kjósanda	nkee	kjósandi
 .	.	.
-
 Frambjóðandi	nken	frambjóðandi
 til	ae	til
 formanns	nkee	formaður
@@ -4535,7 +4238,6 @@ bókhaldsgögnum	nhfþ	bókhaldsgögn
 og	c	og
 ársreikningum	nkfþ	ársreikningur
 .	.	.
-
 Stjórn	nven	stjórn
 Neytendasamtakanna	nhfegs	Neytendasamtök
 skal	sfg3en	skulu
@@ -4549,10 +4251,8 @@ fyrir	ao	fyrir
 lok	nhfo	lok
 framboðsfrests	nkee	framboðsfrestur
 .	.	.
-
 13.	ta	13.
 gr.	as	gr.
-
 Stjórn	nven	stjórn
 Neytendasamtakanna	nhfegs	Neytendasamtök
 kýs	sfg3en	kjósa
@@ -4573,7 +4273,6 @@ reglulegt	lhensf	reglulegur
 er	sfg3en	vera
 haldið	sþghen	halda
 .	.	.
-
 Stjórn	nven	stjórn
 Neytendasamtakanna	nhfegs	Neytendasamtök
 setur	sfg3en	setja
@@ -4590,7 +4289,6 @@ um	ao	um
 framkvæmd	nveo	framkvæmd
 kosninga	nvfe	kosning
 .	.	.
-
 Hlutverk	nhen	hlutverk
 uppstillinganefndar	nvee	uppstillinganefnd
 er	sfg3en	vera
@@ -4630,7 +4328,6 @@ kjörstjórnar	nvee	kjörstjórn
 við	ao	við
 formannskjör	nheo	formannskjör
 .	.	.
-
 Að	aþ	að
 loknu	lheþsf	lokinn
 formannskjöri	nheþ	formannskjör
@@ -4651,7 +4348,6 @@ starfa	sng	starfa
 með	aþ	með
 nefndinni	nveþg	nefnd
 .	.	.
-
 Við	ao	við
 uppstillingu	nveo	uppstilling
 til	ae	til
@@ -4666,7 +4362,6 @@ jafnræðis	nhee	jafnræði
 milli	ae	milli
 landshluta	nkfe	landshluti
 .	.	.
-
 Tillögur	nvfn	tillaga
 uppstillinganefndar	nvee	uppstillinganefnd
 um	ao	um
@@ -4683,7 +4378,6 @@ mánuði	nkeþ	mánuður
 fyrir	ao	fyrir
 þingbyrjun	nveo	þingbyrjun
 .	.	.
-
 Tillögur	nvfo	tillaga
 um	ao	um
 stjórnarmenn	nkfo	stjórnarmaður
@@ -4701,10 +4395,8 @@ dagskrá	nveo	dagskrá
 þings	nhee	þing
 Neytendasamtakanna	nhfegs	Neytendasamtök
 .	.	.
-
 14.	ta	14.
 gr.	as	gr.
-
 Þing	nhen	þing
 Neytendasamtakanna	nhfegs	Neytendasamtök
 kýs	sfg3en	kjósa
@@ -4712,7 +4404,6 @@ kýs	sfg3en	kjósa
 stjórnarmenn	nkfo	stjórnarmaður
 samtakanna	nhfeg	samtök
 .	.	.
-
 Kosning	nven	kosning
 til	ae	til
 stjórnar	nvee	stjórn
@@ -4722,7 +4413,6 @@ bundin	lvensf	bundinn
 og	c	og
 skrifleg	lvensf	skriflegur
 .	.	.
-
 Stjórn	nven	stjórn
 Neytendasamtakanna	nhfegs	Neytendasamtök
 kýs	sfg3en	kjósa
@@ -4735,10 +4425,8 @@ ritara	nkeo	ritari
 og	c	og
 gjaldkera	nkeo	gjaldkeri
 .	.	.
-
 15.	ta	15.
 gr.	as	gr.
-
 Stjórnarfundi	nkfo	stjórnarfundur
 skal	sfg3en	skulu
 halda	sng	halda
@@ -4758,7 +4446,6 @@ september	nkeþ	september
 og	c	og
 nóvember	nkeþ	nóvember
 .	.	.
-
 Krefjist	svm3en	krefja
 einn	tfken	einn
 stjórnarmaður	nken	stjórnarmaður
@@ -4780,7 +4467,6 @@ um	ao	um
 stjórnarfund	nkeo	stjórnarfundur
 barst	sfm3eþ	bera
 .	.	.
-
 Á	aþ	á
 stjórnarfundum	nkfþ	stjórnarfundur
 skal	sfg3en	skulu
@@ -4800,7 +4486,6 @@ fjárhagslegri	lveþsf	fjárhagslegur
 stöðu	nveþ	staða
 samtakanna	nhfeg	samtök
 .	.	.
-
 Meginverkefni	nhen	meginverkefni
 stjórnarfunda	nkfe	stjórnarfundur
 er	sfg3en	vera
@@ -4815,10 +4500,8 @@ fyrir	ao	fyrir
 næsta	lheove	næstur
 tímabil	nheo	tímabil
 .	.	.
-
 16.	ta	16.
 gr.	as	gr.
-
 Allir	fokfn	allur
 skuldlausir	lkfnsf	skuldlaus
 félagar	nkfn	félagi
@@ -4851,10 +4534,8 @@ eru	sfg3fn	vera
 þingi	nheþ	þing
 Neytendasamtakanna	nhfegs	Neytendasamtök
 .	.	.
-
 17.	ta	17.
 gr.	as	gr.
-
 Formaður	nken	formaður
 ,	,	,
 varaformaður	nken	varaformaður
@@ -4873,13 +4554,11 @@ af	aþ	af
 stjórn	nveþ	stjórn
 Neytendasamtakanna	nhfegs	Neytendasamtök
 .	.	.
-
 Formaður	nken	formaður
 stjórnar	sfg3en	stjórna
 fundum	nkfþ	fundur
 framkvæmdastjórnar	nvee	framkvæmdastjórn
 .	.	.
-
 Hlutverk	nhen	hlutverk
 framkvæmdastjórnar	nvee	framkvæmdastjórn
 er	sfg3en	vera
@@ -4901,7 +4580,6 @@ sem	ct	sem
 samtökunum	nhfþg	samtök
 berast	sfm3fn	bera
 .	.	.
-
 Fundir	nkfn	fundur
 skulu	sfg3fn	skulu
 haldnir	sþgkfn	halda
@@ -4918,7 +4596,6 @@ fundur	nken	fundur
 verið	ssg	vera
 haldinn	sþgken	halda
 .	.	.
-
 Framkvæmdastjórn	nven	framkvæmdastjórn
 tekur	sfg3en	taka
 ákvarðanir	nvfo	ákvörðun
@@ -4938,10 +4615,8 @@ við	ao	við
 framkvæmdastjóra	nkeo	framkvæmdastjóri
 samtakanna	nhfeg	samtök
 .	.	.
-
 4	ta	4
 .	.	.
-
 Kafli	nken	kafli
 -	-	-
 Reikningskil	nhfn	reikningskil
@@ -4949,13 +4624,11 @@ og	c	og
 lagabreytingar	nvfn	lagabreyting
 18.	ta	18.
 gr.	as	gr.
-
 Reikningstímabil	nhen	reikningstímabil
 Neytendasamtakanna	nhfegs	Neytendasamtök
 er	sfg3en	vera
 almanaksárið	nheng	almanaksár
 .	.	.
-
 Árgjöld	nhfn	árgjald
 skulu	sfg3fn	skulu
 ákveðin	sþghfn	ákveða
@@ -4974,10 +4647,8 @@ frá	aþ	frá
 opinberum	lkfþsf	opinber
 aðilum	nkfþ	aðili
 .	.	.
-
 19.	ta	19.
 gr.	as	gr.
-
 Lögum	nhfþ	lag
 þessum	fahfþ	þessi
 má	sfg3en	mega

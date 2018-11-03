@@ -10,27 +10,21 @@ E-7823	ta	e-7823
 /	/	/
 2006	ta	2006
 :	:	:
-
 Áslaug	nven-s	Áslaug
 Þorgeirsdóttir	nven-s	Þorgeirsdóttir
-
 (	(	(
 Benedikt	nken-s	Benedikt
 Ólafsson	nken-s	Ólafsson
 hrl.	as	hrl.
 )	)	)
-
 gegn	aþ	gegn
-
 Listaháskóla	nkeþ-s	Listaháskóli
 Íslands	nhee-s	Ísland
-
 (	(	(
 Sigurbjörn	nken-s	Sigurbjörn
 Magnússon	nken-s	Magnússon
 hrl.	as	hrl.
 )	)	)
-
 Ár	nheo	ár
 2008	ta	2008
 ,	,	,
@@ -74,28 +68,22 @@ málinu	nheþg	mál
 nr.	as	nr.
 E-	x	e
 7823/2006	ta	7823/2006
-
 Áslaug	nven-s	Áslaug
 Þorgeirsdóttir	nven-s	Þorgeirsdóttir
-
 (	(	(
 Benedikt	nken-s	Benedikt
 Ólafsson	nken-s	Ólafsson
 hrl.	as	hrl.
 )	)	)
-
 gegn	aþ	gegn
-
 Listaháskóla	nkeþ-s	Listaháskóli
 Íslands	nhee-s	Ísland
-
 (	(	(
 Stefán	nken-s	Stefán
 A.	as	A.
 Svensson	nken-s	Svensson
 hdl.	as	hdl.
 )	)	)
-
 Mál	nhen	mál
 þetta	fahen	þessi
 ,	,	,
@@ -115,7 +103,6 @@ birtri	sþgveþ	birta
 desember	nkeo	desember
 2006	ta	2006
 .	.	.
-
 Stefnandi	nken	stefnandi
 er	sfg3en	vera
 Áslaug	nven-s	Áslaug
@@ -126,7 +113,6 @@ Nygaardsvej	e	Nygaardsvej
 ,	,	,
 Kaupmannahöfn	nveþ-s	Kaupmannahöfn
 .	.	.
-
 Stefndi	lkenvf	stefndur
 er	sfg3en	vera
 Listaháskóli	nken-s	Listaháskóli
@@ -137,7 +123,6 @@ Skipholti	nheþ-s	Skipholt
 ,	,	,
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Dómkröfur	nvfn	dómkrafa
 stefnanda	nkee	stefnandi
 eru	sfg3fn	vera
@@ -192,7 +177,6 @@ degi	nkeþ	dagur
 til	ae	til
 greiðsludags	nkee	greiðsludagur
 .	.	.
-
 Til	ae	til
 vara	nkee	vari
 er	sfg3en	vera
@@ -248,7 +232,6 @@ degi	nkeþ	dagur
 til	ae	til
 greiðsludags	nkee	greiðsludagur
 .	.	.
-
 Til	ae	til
 þrautavara	nkee	þrautavari
 er	sfg3en	vera
@@ -304,7 +287,6 @@ degi	nkeþ	dagur
 til	ae	til
 greiðsludags	nkee	greiðsludagur
 .	.	.
-
 Til	aa	til
 enn	aa	enn
 frekari	lkeevm	frekur
@@ -362,7 +344,6 @@ degi	nkeþ	dagur
 til	ae	til
 greiðsludags	nkee	greiðsludagur
 .	.	.
-
 Í	aþ	í
 öllum	fohfþ	allur
 tilvikum	nhfþ	tilvik
@@ -377,7 +358,6 @@ væri	svg3eþ	vera
 ekki	aa	ekki
 gjafsóknarmál	nhen	gjafsóknarmál
 .	.	.
-
 Af	aþ	af
 hálfu	nveþ	hálfa
 stefnda	lkeevf	stefndur
@@ -394,7 +374,6 @@ af	aþ	af
 dómkröfum	nvfþ	dómkrafa
 stefnanda	nkee	stefnandi
 .	.	.
-
 Til	ae	til
 vara	nkee	vari
 er	sfg3en	vera
@@ -407,7 +386,6 @@ verði	svg3fn	verða
 stórlega	aa	stórlega
 lækkaðar	sþgvfn	lækka
 .	.	.
-
 Í	aþ	í
 báðum	fohfþ	báðir
 tilvikum	nhfþ	tilvik
@@ -417,9 +395,7 @@ krafa	nven	krafa
 um	ao	um
 málskostnað	nkeo	málskostnaður
 .	.	.
-
 Málavextir	nkfn	málavextir
-
 Stefnandi	nken	stefnandi
 var	sfg3eþ	vera
 nemandi	nken	nemandi
@@ -433,7 +409,6 @@ veturinn	nkeog	vetur
 til	ae	til
 2001	ta	2001
 .	.	.
-
 Vikuna	nveog	vika
 15.	ta	15.
 til	ae	til
@@ -458,7 +433,6 @@ undir	aþ	undir
 handleiðslu	nveþ	handleiðsla
 kennara	nkee	kennari
 .	.	.
-
 Smíði	nven	smíði
 þessi	faven	þessi
 var	sfg3eþ	vera
@@ -466,7 +440,6 @@ hluti	nken	hluti
 af	aþ	af
 náminu	nheþg	nám
 .	.	.
-
 Skólinn	nkeng	skóli
 lét	sfg3eþ	láta
 henni	fpveþ	hún
@@ -479,7 +452,6 @@ tæki	nhfo	tæki
 til	ae	til
 smíðinnar	nveeg	smíði
 .	.	.
-
 Við	ao	við
 smíðina	nveog	smíði
 var	sfg3eþ	vera
@@ -507,7 +479,6 @@ efnunum	nhfþg	efni
 blandað	sþghen	blanda
 saman	aa	saman
 .	.	.
-
 Af	aþ	af
 hálfu	nveþ	hálfa
 stefnanda	nkee	stefnandi
@@ -540,7 +511,6 @@ efnin	nhfog	efni
 sérstakra	lvfesf	sérstakur
 varúðarráðstafana	nvfe	varúðarráðstöfun
 .	.	.
-
 Af	aþ	af
 hálfu	nveþ	hálfa
 stefnda	lkeevf	stefndur
@@ -577,7 +547,6 @@ um	ao	um
 blöndun	nveo	blöndun
 þeirra	fphfe	það
 .	.	.
-
 Hann	fpken	hann
 hafi	svg3en	hafa
 leiðbeint	ssg	leiðbeina
@@ -605,7 +574,6 @@ námskeiðum	nhfþ	námskeið
 hjá	aþ	hjá
 honum	fpkeþ	hann
 .	.	.
-
 Nokkrum	fokfþ	nokkur
 dögum	nkfþ	dagur
 eftir	ao	eftir
@@ -621,7 +589,6 @@ og	c	og
 leitað	ssg	leita
 læknishjálpar	nvee	læknishjálp
 .	.	.
-
 Stefnandi	nken	stefnandi
 hafi	svg3en	hafa
 veikst	ssm	veikja
@@ -633,7 +600,6 @@ undir	aþ	undir
 læknishendi	nveþ	læknishönd
 síðan	aa	síðan
 .	.	.
-
 Þegar	c	þegar
 stefnandi	nken	stefnandi
 varð	sfg3eþ	verða
@@ -658,7 +624,6 @@ til	ae	til
 viðeigandi	lvfeof	viðeigandi
 ráðstafana	nvfe	ráðstöfun
 .	.	.
-
 Við	ao	við
 nánari	lveovm	náinn
 rannsókn	nveo	rannsókn
@@ -694,7 +659,6 @@ bruna	nkeþ	bruni
 á	aþ	á
 húð	nveþ	húð
 .	.	.
-
 Einnig	aa	einnig
 geti	svg3en	geta
 efnið	nheng	efni
@@ -710,7 +674,6 @@ berist	svm3en	bera
 í	ao	í
 lungun	nhfog	lunga
 .	.	.
-
 Áhrif	nhfn	áhrif
 þessarar	favee	þessi
 eitrunar	nvee	eitrun
@@ -718,7 +681,6 @@ geti	svg3fn	geta
 verið	ssg	vera
 óafturkræf	lhfnsf	óafturkræfur
 .	.	.
-
 Afleiðingar	nvfn	afleiðing
 af	aþ	af
 notkun	nveþ	notkun
@@ -744,7 +706,6 @@ halda	sng	halda
 vegna	ae	vegna
 þessa	fahee	þessi
 .	.	.
-
 Stefnandi	nken	stefnandi
 hafi	svg3en	hafa
 verið	ssg	vera
@@ -771,7 +732,6 @@ Arkitektaakademíunni	nveþgs	Arkitektaakademía
 í	aþ	í
 Kaupmannahöfn	nveþ-s	Kaupmannahöfn
 .	.	.
-
 Því	fpheþ	það
 er	sfg3en	vera
 haldið	sþghen	halda
@@ -796,7 +756,6 @@ hennar	fpvee	hún
 til	ae	til
 tekjuöflunar	nvee	tekjuöflun
 .	.	.
-
 Að	aþ	að
 tilhlutan	nveþ	tilhlutan
 stefnanda	nkee	stefnandi
@@ -830,7 +789,6 @@ ofnæmissjúkdómum	nkfþ	ofnæmissjúkdómur
 og	c	og
 lyflækningum	nvfþ	lyflækningar
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 matsgerð	nveþ	matsgerð
 þeirra	fpkfe	hann
@@ -864,7 +822,6 @@ hún	fpven	hún
 hafi	svg3en	hafa
 hlotið	ssg	hljóta
 .	.	.
-
 Telji	svg3fn	telja
 þeir	fpkfn	hann
 að	c	að
@@ -886,7 +843,6 @@ skv.	as	skv.
 sömu	fbhfþ	sami
 lögum	nhfþ	lag
 .	.	.
-
 Með	aþ	með
 beiðni	nveþ	beiðni
 ,	,	,
@@ -909,11 +865,9 @@ mat	nheo	mat
 á	ao	á
 eftirfarandi	lheoof	eftirfarandi
 :	:	:
-
 «	«	«
 1	ta	1
 .	.	.
-
 Tímabil	nheo	tímabil
 frá	aþ	frá
 því	fpheþ	það
@@ -961,10 +915,8 @@ sbr.	as	sbr.
 gr.	as	gr.
 laganna	nhfeg	lag
 .	.	.
-
 2	ta	2
 .	.	.
-
 Varanlegan	lkeosf	varanlegur
 miska	nkeo	miski
 matsþola	nkee	matsþoli
@@ -974,10 +926,8 @@ sbr.	as	sbr.
 gr.	as	gr.
 laganna	nhfeg	lag
 .	.	.
-
 3	ta	3
 .	.	.
-
 Varanlega	lveosf	varanlegur
 örorku	nveo	örorka
 matsþola	nkee	matsþoli
@@ -987,7 +937,6 @@ sbr.	as	sbr.
 gr.	as	gr.
 laganna	nhfeg	lag
 .	.	.
-
 Jafnframt	aa	jafnframt
 var	sfg3eþ	vera
 ,	,	,
@@ -1012,10 +961,8 @@ um	ao	um
 eftirfarandi	lhfoof	eftirfarandi
 atriði	nhfo	atriði
 :	:	:
-
 1	ta	1
 .	.	.
-
 Hefur	sfg3en	hafa
 matsþoli	nken	matsþoli
 ofnæmi	nheo	ofnæmi
@@ -1028,20 +975,16 @@ dicyclohexylmethane-4	e	dicyclohexylmethane-4
 diisocyanate	e	diisocyanate
 »	»	»
 ?	?	?
-
 2	ta	2
 .	.	.
-
 Hefur	sfg3en	hafa
 matsþoli	nken	matsþoli
 ofnæmi	nheo	ofnæmi
 fyrir	aþ	fyrir
 epoxýefnum	nhfþ	epoxýefni
 ?	?	?
-
 3	ta	3
 .	.	.
-
 Ef	c	ef
 svarið	nheng	svar
 við	aþ	við
@@ -1066,10 +1009,8 @@ hafi	svg3en	hafa
 þróað	ssg	þróa
 ofnæmisvakann	nkeog	ofnæmisvaki
 ?	?	?
-
 4	ta	4
 .	.	.
-
 Eru	sfg3fn	vera
 óyggjandi	lhfnof	óyggjandi
 tengsl	nhfn	tengsl
@@ -1091,7 +1032,6 @@ hins	fakee	hinn
 vegar	nkee	vegur
 ?	?	?
 »	»	»
-
 Í	aþ	í
 matsgerð	nveþ	matsgerð
 matsmannanna	nkfeg	matsmaður
@@ -1112,7 +1052,6 @@ frá	aþ	frá
 segir	sfg3en	segja
 m.a	as	m.a
 :	:	:
-
 «	«	«
 Niðurstöður	nvfn	niðurstaða
 matsmanna	nkfe	matsmaður
@@ -1120,7 +1059,6 @@ matsmanna	nkfe	matsmaður
 stuttu	lheþsf	stuttur
 máli	nheþ	mál
 .	.	.
-
 Matsmenn	nkfn	matsmaður
 telja	sfg3fn	telja
 ,	,	,
@@ -1134,7 +1072,6 @@ hafi	svg3en	hafa
 ofnæmi	nheo	ofnæmi
 fyrir	aþ	fyrir
 DMDI.	as	DMDl
-
 Matsmenn	nkfn	matsmaður
 telja	sfg3fn	telja
 að	c	að
@@ -1147,7 +1084,6 @@ epoxyefninu	nheþg	epoxyefni
 MDA	as	MDA
 )	)	)
 .	.	.
-
 Matsmenn	nkfn	matsmaður
 telja	sfg3fn	telja
 nánast	aae	náið
@@ -1175,7 +1111,6 @@ prepolymer	e	prepolymer
 janúar	nkeþ	janúar
 2001	ta	2001
 .	.	.
-
 Matsmenn	nkfn	matsmaður
 telja	sfg3fn	telja
 sterk	lhfosf	sterkur
@@ -1189,7 +1124,6 @@ DMDl	as	DMDl
 og	c	og
 MDA	as	MDA
 .	.	.
-
 Matsmenn	nkfn	matsmaður
 telja	sfg3fn	telja
 að	c	að
@@ -1204,7 +1138,6 @@ til	ae	til
 febrúar	nkee	febrúar
 2001	ta	2001
 .	.	.
-
 Matsmenn	nkfn	matsmaður
 telja	sfg3fn	telja
 að	c	að
@@ -1216,7 +1149,6 @@ metinn	sþgken	meta
 15	ta	15
 stig	nhfn	stig
 .	.	.
-
 Matsmenn	nkfn	matsmaður
 telja	sfg3fn	telja
 að	c	að
@@ -1228,7 +1160,6 @@ metin	sþgven	meta
 15%	tp	15%
 .	.	.
 »	»	»
-
 Með	aþ	með
 beiðni	nveþ	beiðni
 ,	,	,
@@ -1246,7 +1177,6 @@ varanlegri	lveþsf	varanlegur
 örorku	nveþ	örorka
 stefnanda	nkee	stefnandi
 .	.	.
-
 Í	aþ	í
 matsgerð	nveþ	matsgerð
 yfirmatsmanna	nkfe	yfirmatsmaður
@@ -1264,12 +1194,10 @@ lögfræðings	nkee	lögfræðingur
 segir	sfg3en	segja
 m.a	as	m.a
 :	:	:
-
 «	«	«
 Álit	nhen	álit
 yfirmatsmanna	nkfe	yfirmatsmaður
 .	.	.
-
 Matsþoli	nken	matsþoli
 vann	sfg3eþ	vinna
 með	ao	með
@@ -1296,7 +1224,6 @@ LHÍ	as	LHÍ
 janúar	nkeþ	janúar
 2001	ta	2001
 .	.	.
-
 Það	fphen	það
 verður	sfg3en	verða
 að	cn	að
@@ -1331,7 +1258,6 @@ Contact	e	Contact
 Escema	e	Escema
 )	)	)
 .	.	.
-
 Heimildir	nvfn	heimild
 :	:	:
 bera	sfg3fn	bera
@@ -1357,7 +1283,6 @@ og	c	og
 slímhúðir	nvfo	slímhúð
 öndunarfæra	nhfe	öndunarfæri
 .	.	.
-
 Ofnæmi	nhen	ofnæmi
 fyrir	aþ	fyrir
 DMDI	as	DMDI
@@ -1367,7 +1292,6 @@ aftur	aa	aftur
 móti	aa	móti
 sjaldgæft	lhensf	sjaldgæfur
 .	.	.
-
 Ekki	aa	ekki
 et	x	vera
 þó	aa	þó
@@ -1392,7 +1316,6 @@ Malmö	e	Malmö
 júlí	nkeþ	júlí
 2007	ta	2007
 .	.	.
-
 Í	aþ	í
 sama	fbheþ	sami
 prófi	nheþ	próf
@@ -1405,7 +1328,6 @@ MDA	as	MDA
 epoxyherðir	nken	epoxyherðir
 )	)	)
 .	.	.
-
 Matsmenn	nkfn	matsmaður
 telja	sfg3fn	telja
 ekkert	foheo	enginn
@@ -1424,7 +1346,6 @@ MDA	as	MDA
 og	c	og
 DMDI	as	DMDI
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 ljóst	lhensf	ljós
@@ -1460,7 +1381,6 @@ hafa	sng	hafa
 orðið	ssg	verða
 þar	aa	þar
 .	.	.
-
 Svokallað	lhensf	svokallaður
 seríu	nvee	sería
 lappapróf	nhen	lappapróf
@@ -1481,13 +1401,11 @@ atvinnusjúkdómadeild	nveþ	atvinnusjúkdómadeild
 Heilsuverndarstöðvar	nvee-s	Heilsuverndarstöð
 Reykjavíkur	nvee-s	Reykjavík
 .	.	.
-
 Niðurstaða	nven	niðurstaða
 þess	fphee	það
 var	sfg3eþ	vera
 neikvæð	lvensf	neikvæður
 .	.	.
-
 Lappapróf	nhen	lappapróf
 var	sfg3eþ	vera
 gert	sþghen	gera
@@ -1518,7 +1436,6 @@ MDA	as	MDA
 og	c	og
 DMDI	as	DMDI
 .	.	.
-
 Á	aa	á
 milli	ae	milli
 prófanna	nhfeg	próf
@@ -1545,7 +1462,6 @@ sínu	feheþ	sinn
 í	aþ	í
 Kaupmannahöfn	nveþ-s	Kaupmannahöfn
 .	.	.
-
 Næming	nven	næming
 (	(	(
 sensitisering	e	sensitisering
@@ -1560,7 +1476,6 @@ kviknað	ssg	kvikna
 þeim	fakeþ	sá
 tíma	nkeþ	tími
 .	.	.
-
 Í	ao	í
 grunninn	nkeog	grunnur
 er	sfg3en	vera
@@ -1598,7 +1513,6 @@ með	ao	með
 frjókornaofnæmi	nheo	frjókornaofnæmi
 )	)	)
 .	.	.
-
 Varðandi	slg	varða
 húðeinkenni	nhfo	húðeinkenni
 matsþola	nkee	matsþoli
@@ -1649,7 +1563,6 @@ skrifhúð	nven	skrifhúð
 Dermatografismi	e	Dermatografismi
 )	)	)
 .	.	.
-
 Matsmönnum	nkfþ	matsmaður
 er	sfg3en	vera
 ekki	aa	ekki
@@ -1671,7 +1584,6 @@ DMDI	as	DMDI
 eða	c	eða
 MDA	as	MDA
 .	.	.
-
 Slík	fbhfn	slíkur
 einkenni	nhfn	einkenni
 eru	sfg3fn	vera
@@ -1683,7 +1595,6 @@ sjaldnast	aae	sjaldan
 tengd	lhfnsf	tengdur
 ofnæmi	nheþ	ofnæmi
 .	.	.
-
 Mun	nkeþ	munur
 algengara	lhenvm	algengur
 er	sfg3en	vera
@@ -1705,7 +1616,6 @@ og	c	og
 þess	fakee	sá
 háttar	nkee	háttur
 .	.	.
-
 Matsþoli	nken	matsþoli
 hefur	sfg3en	hafa
 haldið	ssg	halda
@@ -1725,7 +1635,6 @@ fyrir	ao	fyrir
 húðvandamál	nhfo	húðvandamál
 sín	fehfo	sinn
 .	.	.
-
 Gera	sng	gera
 má	sfg3en	mega
 ráð	nheo	ráð
@@ -1753,7 +1662,6 @@ starfi	nheþ	starf
 sem	c	sem
 arkitekt	nken	arkitekt
 .	.	.
-
 Þó	aa	þó
 er	sfg3en	vera
 rétt	lhensf	réttur
@@ -1774,7 +1682,6 @@ eins	aa	eins
 var	sfg3eþ	vera
 nefnt	sþghen	nefna
 .	.	.
-
 Hún	fpven	hún
 þarf	sfg3en	þurfa
 því	aa	því
@@ -1797,7 +1704,6 @@ efni	nhfo	efni
 á	aþ	á
 byggingarstað	nkeþ	byggingarstaður
 .	.	.
-
 Það	fahen	sá
 álitaefni	nhen	álitaefni
 sem	ct	sem
@@ -1833,7 +1739,6 @@ afla	sng	afla
 sér	fpkeþ	sig
 vinnutekna	nvfe	vinnutekjur
 .	.	.
-
 Matsþoli	nken	matsþoli
 starfar	sfg3en	starfa
 nú	aa	nú
@@ -1852,7 +1757,6 @@ völdum	nhfþ	vald
 líkamstjóns	nhee	líkamstjón
 síns	fehee	sinn
 .	.	.
-
 Matsþoli	nken	matsþoli
 forðast	sfm3en	forða
 að	cn	að
@@ -1871,7 +1775,6 @@ hefur	sfg3en	hafa
 ofnæmi	nheo	ofnæmi
 fyrir	aa	fyrir
 .	.	.
-
 Þannig	aa	þannig
 leitast	sfm3en	leita
 matsþoli	nken	matsþoli
@@ -1893,7 +1796,6 @@ mgr.	as	mgr.
 gr.	as	gr.
 skaðabótalaga	nhfe	skaðabótalög
 .	.	.
-
 Yfirmatsmenn	nkfn	yfirmatsmaður
 benda	sfg3fn	benda
 á	ao	á
@@ -1906,7 +1808,6 @@ lítill	lkensf	lítill
 starfi	nheþ	starf
 arkitekta	nkfe	arkitekt
 .	.	.
-
 Þrívíddarmyndir	nvfn	þrívíddarmynd
 unnar	sþgvfn	vinna
 í	aþ	í
@@ -1919,7 +1820,6 @@ komið	ssg	koma
 stað	nkeo	staður
 módela	nhfe	módel
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 módelsmíði	nven	módelsmíði
@@ -1941,7 +1841,6 @@ hjá	aþ	hjá
 sérstökum	lkfþsf	sérstakur
 módelsmiðum	nkfþ	módelsmiður
 .	.	.
-
 Einnig	aa	einnig
 benda	sfg3fn	benda
 yfirmatsmenn	nkfn	yfirmatsmaður
@@ -1966,7 +1865,6 @@ líkön	nhfo	líkan
 úr	aþ	úr
 pappa	nkeþ	pappi
 .	.	.
-
 Yfirmatsmenn	nkfn	yfirmatsmaður
 telja	sfg3fn	telja
 því	aa	því
@@ -1989,7 +1887,6 @@ teljandi	lhfoof	teljandi
 tekjumöguleika	nkfo	tekjumöguleiki
 hennar	fpvee	hún
 .	.	.
-
 Matsmenn	nkfn	matsmaður
 tekja	x	telja
 heldur	aam	heldur
@@ -2012,7 +1909,6 @@ starfsframa	nkee	starfsframi
 sem	c	sem
 arkitekt	nken	arkitekt
 .	.	.
-
 Yfirmatsmenn	nkfn	yfirmatsmaður
 telja	sfg3fn	telja
 hins	fakee	hinn
@@ -2049,7 +1945,6 @@ líður	sfg3en	líða
 á	ao	á
 starfsævina	nveog	starfsævi
 .	.	.
-
 Í	aþ	í
 því	faheþ	sá
 ljósi	nheþ	ljós
@@ -2066,7 +1961,6 @@ skaðabótalögum	nhfþ	skaðabótalög
 5%	tp	5%
 .	.	.
 »	»	»
-
 Með	aþ	með
 beiðni	nveþ	beiðni
 ,	,	,
@@ -2090,10 +1984,8 @@ svara	sng	svara
 eftirfarandi	lvfþof	eftirfarandi
 matsspurningum	nvfþ	matsspurning
 :	:	:
-
 1	ta	1
 .	.	.
-
 Er	sfg3en	vera
 líklegra	lhenvm	líklegur
 að	c	að
@@ -2172,10 +2064,8 @@ hennar	fpvee	hún
 fyrir	aþ	fyrir
 DMDI	as	DMDI
 ?	?	?
-
 2	ta	2
 .	.	.
-
 Ef	c	ef
 svarið	nheng	svar
 við	ao	við
@@ -2200,7 +2090,6 @@ hennar	fpvee	hún
 fyrir	aþ	fyrir
 MDA	as	MDA
 ?	?	?
-
 Í	aþ	í
 matsgerð	nveþ	matsgerð
 dr.	as	dr.
@@ -2216,12 +2105,10 @@ október	nkeo	október
 segir	sfg3en	segja
 m.a	as	m.a
 :	:	:
-
 «	«	«
 Sértækar	lvfnsf	sértækur
 spurningar	nvfn	spurning
 :	:	:
-
 Er	sfg3en	vera
 líklegra	lhenvm	líklegur
 að	c	að
@@ -2249,7 +2136,6 @@ PPD	as	PPD
 eða	c	eða
 nikkel	nheþ	nikkel
 ?	?	?
-
 Nú	aa	nú
 liggur	sfg3en	liggja
 fyrir	aa	fyrir
@@ -2271,7 +2157,6 @@ varð	sfg3eþ	verða
 fyrir	aþ	fyrir
 DMDI	as	DMDI
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 verður	sfg3en	verða
@@ -2302,7 +2187,6 @@ skilgreiningar	nvfo	skilgreining
 á	aþ	á
 sjúkdóminum	nkeþg	sjúkdómur
 .	.	.
-
 Ber	sfg3en	bera
 þar	aa	þar
 aðallega	aa	aðallega
@@ -2339,7 +2223,6 @@ vera	sng	vera
 mjög	aa	mjög
 sjaldgæft	lhensf	sjaldgæfur
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 er	sfg3en	vera
@@ -2359,7 +2242,6 @@ framkvæmt	sþghen	framkvæma
 fyrir	aþ	fyrir
 efninu	nheþg	efni
 .	.	.
-
 Þó	aa	þó
 svo	aa	svo
 að	c	að
@@ -2396,7 +2278,6 @@ verið	ssg	vera
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 Ef	c	ef
 eingöngu	aa	eingöngu
 er	sfg3en	vera
@@ -2420,7 +2301,6 @@ verið	ssg	vera
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 Í	aþ	í
 því	faheþ	sá
 sambandi	nheþ	samband
@@ -2451,7 +2331,6 @@ innihélt	sfg3eþ	innihalda
 m.a.	as	m.a.
 DMDI	as	DMDI
 .	.	.
-
 Var	sfg3eþ	vera
 þar	aa	þar
 ályktað	sþghen	álykta
@@ -2482,7 +2361,6 @@ ofnæmisexems	nhee	ofnæmisexem
 7	ta	7
 )	)	)
 .	.	.
-
 Þar	aa	þar
 sem	ct	sem
 matsþoli	nken	matsþoli
@@ -2512,7 +2390,6 @@ exem	nheo	exem
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 Í	aþ	í
 rannsókn	nveþ	rannsókn
 á	aþ	á
@@ -2549,7 +2426,6 @@ prófað	sþghen	prófa
 var	sfg3eþ	vera
 fyrir	aa	fyrir
 .	.	.
-
 Niðurstaða	nven	niðurstaða
 rannsakendanna	nkfeg	rannsakandi
 var	sfg3eþ	vera
@@ -2573,7 +2449,6 @@ ofnæmisvaldar	nkfn	ofnæmisvaldur
 8	ta	8
 )	)	)
 .	.	.
-
 Í	aþ	í
 þessu	faheþ	þessi
 sambandi	nheþ	samband
@@ -2596,7 +2471,6 @@ grundvallar	nkee	grundvöllur
 á	aþ	á
 sjúkdómsgreiningunni	nveþg	sjúkdómsgreining
 .	.	.
-
 En	c	en
 ljóst	lhensf	ljós
 er	sfg3en	vera
@@ -2626,7 +2500,6 @@ prófsins	nheeg	próf
 9	ta	9
 )	)	)
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 ef	c	ef
@@ -2654,7 +2527,6 @@ við	ao	við
 MDA	as	MDA
 ofnæmi	nheo	ofnæmi
 .	.	.
-
 Efnin	nhfng	efni
 sem	ct	sem
 hér	aa	hér
@@ -2665,7 +2537,6 @@ af	aþ	af
 flokki	nkeþ	flokkur
 isocyanates	e	isocyanates
 .	.	.
-
 Þau	fphfn	það
 eru	sfg3fn	vera
 síðan	aa	síðan
@@ -2678,7 +2549,6 @@ eða	c	eða
 aliphatic	e	aliphatic
 efni	nhfo	efni
 .	.	.
-
 Árleg	lvensf	árlegur
 framleiðsla	nven	framleiðsla
 efnanna	nhfeg	efni
@@ -2705,7 +2575,6 @@ Bandaríkjunum	nhfþgs	Bandaríki
 lO	x	lo
 )	)	)
 .	.	.
-
 DMDI	as	DMDI
 telst	sfm3en	telja
 til	ae	til
@@ -2724,7 +2593,6 @@ methylene-44	e	methylene-44
 HMDI	as	HMDI
 )	)	)
 .	.	.
-
 Alipahtisku	e	Alipahtisku
 efnin	nhfng	efni
 eru	sfg3fn	vera
@@ -2741,7 +2609,6 @@ af	aþ	af
 markaði	nkeþ	markaður
 isocyantes	e	isocyantes
 .	.	.
-
 Hafa	sfg3fn	hafa
 þau	fphfn	það
 helst	aae	heldur
@@ -2750,7 +2617,6 @@ notuð	sþghfn	nota
 í	aþ	í
 límgerð	nveþ	límgerð
 .	.	.
-
 Upplýsingar	nvfn	upplýsing
 um	ao	um
 tengsl	nhfo	tengsl
@@ -2778,7 +2644,6 @@ nokkurra	fovfe	nokkur
 smærri	lvfevm	smár
 rannsókna	nvfe	rannsókn
 .	.	.
-
 Sú	faven	sá
 stærsta	lvenve	stór
 sem	ct	sem
@@ -2812,7 +2677,6 @@ frá	aþ	frá
 til	ae	til
 04.2001	ta	04.2001
 .	.	.
-
 Talið	sþghen	telja
 var	sfg3eþ	vera
 að	c	að
@@ -2823,7 +2687,6 @@ hefðu	svg3fþ	hafa
 fengið	ssg	fá
 exem	nheo	exem
 .	.	.
-
 Af	aþ	af
 þeim	fpkfþ	hann
 voru	sfg3fþ	vera
@@ -2842,7 +2705,6 @@ sem	ct	sem
 svöruðu	sfg3fþ	svara
 MDA	as	MDA
 .	.	.
-
 Enginn	foken	enginn
 þeirra	fakfe	sá
 er	ct	er
@@ -2854,7 +2716,6 @@ einnig	aa	einnig
 aromatisku	e	aromatisku
 efnunum	nhfþg	efni
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 ,	,	,
@@ -2873,7 +2734,6 @@ MDA	as	MDA
 l	x	l
 )	)	)
 .	.	.
-
 Aðal	lkenof	aðal
 ágalli	nken	ágalli
 þessarar	favee	þessi
@@ -2896,7 +2756,6 @@ falskt	aa	falskt
 jákvæðar	lvfosf	jákvæður
 niðurstöðu	x	niðurstaða
 .	.	.
-
 Eina	lvenvf	einn
 leiðin	nveng	leið
 til	ae	til
@@ -2929,7 +2788,6 @@ einkenni	nhfo	einkenni
 um	ao	um
 exem	nheo	exem
 .	.	.
-
 Matsgjafa	nkeþ	matsgjafi
 er	sfg3en	vera
 ekki	aa	ekki
@@ -2949,7 +2807,6 @@ prófun	nveo	prófun
 ofnagreindra	lhfesf	ofnagreindur
 efnasambanda	nhfe	efnasamband
 .	.	.
-
 Almennt	aa	almennt
 gildir	sfg3en	gilda
 um	ao	um
@@ -2982,7 +2839,6 @@ sem	ct	sem
 viðurkennd	sþghfn	viðurkenna
 eru	sfg3fn	vera
 .	.	.
-
 Líklegt	lheosf	líklegur
 verður	sfg3en	verða
 að	cn	að
@@ -3026,7 +2882,6 @@ minni	lvenvm	lítill
 9	ta	9
 )	)	)
 .	.	.
-
 Þar	aa	þar
 sem	ct	sem
 að	aa	að
@@ -3076,7 +2931,6 @@ ofnæmi	nheo	ofnæmi
 fyrir	aþ	fyrir
 MDA	as	MDA
 .	.	.
-
 Kemur	sfg3en	koma
 þar	aa	þar
 aðallega	aa	aðallega
@@ -3121,7 +2975,6 @@ með	aþ	með
 öðrum	fokeþ	annar
 hætti	nkeþ	háttur
 .	.	.
-
 Gæti	svg3eþ	geta
 það	fphen	það
 helst	aae	heldur
@@ -3142,7 +2995,6 @@ getið	sþghen	geta
 í	aþ	í
 greinagerðinni	nveþg	greinagerð
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 möguleiki	nken	möguleiki
@@ -3164,7 +3016,6 @@ prófi	nheþ	próf
 í	aþ	í
 Gentofte	e	Gentofte
 .	.	.
-
 Tengsl	nhfn	tengsl
 PPD	as	PPD
 og	c	og
@@ -3172,7 +3023,6 @@ nikkels	nhee	nikkel
 við	ao	við
 MDA	as	MDA
 .	.	.
-
 Matsþoli	nken	matsþoli
 reyndist	sfm3eþ	reyna
 hafa	sng	hafa
@@ -3195,7 +3045,6 @@ snertiofnæmisprófuð	sþgven	snertiofnæmisprófa
 á	aþ	á
 Heilsuverndarstöðinni	nveþgs	Heilsuverndarstöð
 .	.	.
-
 Mjög	aa	mjög
 margar	lvfnsf	margur
 vísindalegar	lvfnsf	vísindalegur
@@ -3210,7 +3059,6 @@ við	ao	við
 MDA	as	MDA
 svörun	nveo	svörun
 .	.	.
-
 í	aþ	í
 matsgerð	nveþ	matsgerð
 Dr.	as	Dr.
@@ -3236,7 +3084,6 @@ fram	aa	fram
 slík	fbhfo	slíkur
 tengsl	nhfo	tengsl
 .	.	.
-
 Ef	c	ef
 þessar	favfn	þessi
 rannsóknir	nvfn	rannsókn
@@ -3253,7 +3100,6 @@ alls	fohee	allur
 71202	ta	71202
 einstaklingar	nkfn	einstaklingur
 .	.	.
-
 Af	aþ	af
 þeim	fpkfþ	hann
 voru	sfg3fþ	vera
@@ -3267,7 +3113,6 @@ svörun	nveo	svörun
 fyrir	aþ	fyrir
 MDA	as	MDA
 .	.	.
-
 Af	aþ	af
 þeim	fpkfþ	hann
 voru	sfg3fþ	vera
@@ -3281,7 +3126,6 @@ PPD	as	PPD
 og	c	og
 MDA	as	MDA
 .	.	.
-
 Því	fpheþ	það
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -3303,7 +3147,6 @@ PPD	as	PPD
 við	ao	við
 MDA	as	MDA
 .	.	.
-
 Því	aa	því
 verður	sfg3en	verða
 að	cn	að
@@ -3336,7 +3179,6 @@ að	cn	að
 vera	sng	vera
 afgerandi	lhfnof	afgerandi
 .	.	.
-
 Mun	nkeþ	munur
 lélegri	lhfnvm	lélegur
 tengsl	nhfn	tengsl
@@ -3347,7 +3189,6 @@ ofnæmis	nhee	ofnæmi
 og	c	og
 MDA	as	MDA
 .	.	.
-
 Kemur	sfg3en	koma
 þar	aa	þar
 aðallega	aa	aðallega
@@ -3367,7 +3208,6 @@ er	sfg3en	vera
 sérstaklega	aa	sérstaklega
 kannað	sþghen	kanna
 .	.	.
-
 Að	aþ	að
 framansögðu	lheþsf	framansagður
 verða	sfg3fn	verða
@@ -3401,7 +3241,6 @@ DMDI	as	DMDI
 eða	c	eða
 nikkel	nheo	nikkel
 .	.	.
-
 Er	sfg3en	vera
 líklegra	lhenvm	líklegur
 að	c	að
@@ -3436,7 +3275,6 @@ matsþola	nkee	matsþoli
 í	aþ	í
 Kaupmannahöfn	nveþ-s	Kaupmannahöfn
 ?	?	?
-
 Ef	c	ef
 um	ao	um
 raunverulegt	lheosf	raunverulegur
@@ -3468,7 +3306,6 @@ fínna	x	fínn
 við	ao	við
 iðnað	nkeo	iðnaður
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 er	sfg3en	vera
@@ -3486,7 +3323,6 @@ verið	ssg	vera
 fyrir	aa	fyrir
 dagsdaglega	aa	dagsdaglega
 .	.	.
-
 Teygjusokkum	nkfþ	teygjusokkur
 ,	,	,
 ýmsum	fokfþ	ýmis
@@ -3496,7 +3332,6 @@ gerviþráðum	nkfþ	gerviþráður
 ,	,	,
 skordýraeitri	nheþ	skordýraeitur
 o.f.l.	as	o.f.l.
-
 Þó	aa	þó
 svo	aa	svo
 að	c	að
@@ -3546,7 +3381,6 @@ sé	svg3en	vera
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 hefur	sfg3en	hafa
@@ -3578,7 +3412,6 @@ predictive	e	predictive
 value	e	value
 )	)	)
 .	.	.
-
 Af	aþ	af
 þessu	faheþ	þessi
 sögðu	lheþsf	sagður
@@ -3601,7 +3434,6 @@ næmst	ssm	næma
 fyrir	aþ	fyrir
 MDA	as	MDA
 .	.	.
-
 Þar	aa	þar
 sem	c	sem
 að	c	að
@@ -3646,7 +3478,6 @@ eftir	ao	eftir
 téðan	lkeosf	téður
 atburð	nkeo	atburður
 .	.	.
-
 Þó	aa	þó
 er	sfg3en	vera
 ljóst	lhensf	ljós
@@ -3665,7 +3496,6 @@ fyrir	ao	fyrir
 epoxy	e	epoxy
 límefnum	nhfþ	límefni
 .	.	.
-
 Hvenær	aa	hvenær
 og	c	og
 hvernig	aa	hvernig
@@ -3682,7 +3512,6 @@ segja	sng	segja
 til	aa	til
 um	aa	um
 .	.	.
-
 Líklegast	lheose	líklegur
 verður	sfg3en	verða
 að	cn	að
@@ -3705,7 +3534,6 @@ sitt	feheo	sinn
 í	aþ	í
 Kaupmannahöfn	nveþ-s	Kaupmannahöfn
 .	.	.
-
 Í	aþ	í
 þessu	faheþ	þessi
 sambandi	nheþ	samband
@@ -3731,7 +3559,6 @@ við	ao	við
 umræddan	lkeosf	umræddur
 atburð	nkeo	atburður
 .	.	.
-
 Einkenni	nhfn	einkenni
 matsþola	nkee	matsþoli
 nú	aa	nú
@@ -3744,7 +3571,6 @@ urticaria	e	urticaria
 ásamt	aþ	ásamt
 dermatographisma	e	dermatographisma
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 sannanlega	aa	sannanlega
@@ -3760,7 +3586,6 @@ og	c	og
 í	aþ	í
 Kaupmannahöfn	nveþ-s	Kaupmannahöfn
 .	.	.
-
 Undirrituðum	lkeþsf	undirritaður
 er	sfg3en	vera
 ekki	aa	ekki
@@ -3793,7 +3618,6 @@ frá	aþ	frá
 mögulegu	lkfþvf	mögulegur
 áreitisvöldum	nkfþ	áreitisvaldur
 .	.	.
-
 Er	sfg3en	vera
 það	fphen	það
 því	aa	því
@@ -3821,7 +3645,6 @@ nú	aa	nú
 við	ao	við
 DMDI	as	DMDI
 .	.	.
-
 Er	sfg3en	vera
 líklegra	lhenvm	líklegur
 að	c	að
@@ -3849,7 +3672,6 @@ hennar	fpvee	hún
 fyrir	aþ	fyrir
 DMDI	as	DMDI
 ?	?	?
-
 Út	aa	út
 frá	aþ	frá
 gögnum	nhfþ	gagn
@@ -3885,7 +3707,6 @@ ofnæmi	nheþ	ofnæmi
 fyrir	aþ	fyrir
 MDA	as	MDA
 .	.	.
-
 Áður	aa	áður
 en	c	en
 matsþoli	nken	matsþoli
@@ -3920,7 +3741,6 @@ síðar	aam	síðar
 fékkst	sfm3eþ	fá
 staðfest	sþghen	staðfesta
 .	.	.
-
 Því	aa	því
 eru	sfg3fn	vera
 litlar	lvfnsf	lítill
@@ -3946,7 +3766,6 @@ DMDI	as	DMDI
 á	aþ	á
 námskeiðinu	nheþg	námskeið
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 vegna	ae	vegna
@@ -3982,7 +3801,6 @@ einstaklingur	nken	einstaklingur
 slíkra	fbkfe	slíkur
 áhættuþátta	nkfe	áhættuþáttur
 .	.	.
-
 Ef	c	ef
 eingöngu	aa	eingöngu
 er	sfg3en	vera
@@ -4021,7 +3839,6 @@ enga	foveo	enginn
 ættarsögu	nveo	ættarsaga
 hafa	sfg3fn	hafa
 .	.	.
-
 Var	sfg3eþ	vera
 því	aa	því
 ljóst	lhensf	ljós
@@ -4059,7 +3876,6 @@ og	c	og
 dermatographism	e	dermatographism
 )	)	)
 .	.	.
-
 Því	aa	því
 telur	sfg3en	telja
 matsgjafi	nken	matsgjafi
@@ -4091,7 +3907,6 @@ snertingu	nveo	snerting
 við	ao	við
 efnið	nheog	efni
 .	.	.
-
 Þar	aa	þar
 að	aa	að
 auki	aa	auki
@@ -4115,7 +3930,6 @@ hér	aa	hér
 að	aa	að
 ofan	aa	ofan
 .	.	.
-
 Því	aa	því
 er	sfg3en	vera
 það	fphen	það
@@ -4141,7 +3955,6 @@ hér	aa	hér
 að	aa	að
 ofan	aa	ofan
 .	.	.
-
 Ef	c	ef
 svarið	nheng	svar
 við	aþ	við
@@ -4166,7 +3979,6 @@ hennar	fpvee	hún
 fyrir	aþ	fyrir
 MDA	as	MDA
 .	.	.
-
 Þar	aa	þar
 sem	c	sem
 niðurstaða	nven	niðurstaða
@@ -4209,7 +4021,6 @@ að	aa	að
 ofan	aa	ofan
 .	.	.
 »	»	»
-
 Af	aþ	af
 hálfu	nveþ	hálfa
 stefnanda	nkee	stefnandi
@@ -4243,7 +4054,6 @@ frá	aþ	frá
 setningu	nveþ	setning
 laganna	nhfeg	lag
 .	.	.
-
 Tekjuviðmið	nhfn	tekjuviðmið
 áranna	nhfeg	ár
 1998	ta	1998
@@ -4293,7 +4103,6 @@ fyrir	ao	fyrir
 árið	nheog	ár
 2000	ta	2000
 .	.	.
-
 Meðaltalsárstekjur	nvfn	meðaltalsárstekjur
 þessara	fahfe	þessi
 þriggja	tfhfe	þrír
@@ -4303,7 +4112,6 @@ séu	svg3fn	vera
 5.938.285	ta	5.938.285
 krónur	nvfn	króna
 .	.	.
-
 Þrautavarakrafan	nveng	þrautavarakrafa
 og	c	og
 enn	aa	enn
@@ -4319,7 +4127,6 @@ mgr.	as	mgr.
 gr.	as	gr.
 skaðabótalaga	nhfe	skaðabótalög
 .	.	.
-
 Stefnandi	nken	stefnandi
 byggir	sfg3en	byggja
 í	aþ	í
@@ -4361,7 +4168,6 @@ um	ao	um
 tímabil	nhfo	tímabil
 þjáningabóta	nvfe	þjáningabót
 .	.	.
-
 Í	aþ	í
 varakröfu	nveþ	varakrafa
 er	sfg3en	vera
@@ -4379,20 +4185,17 @@ komi	svg3en	koma
 í	aþ	í
 yfirmatsgerð	nveþ	yfirmatsgerð
 .	.	.
-
 Aðalkrafan	nveng	aðalkrafa
 15.414.976	ta	15.414.976
 krónur	nvfn	króna
 sundurliðast	sfm3fn	sundurliða
 þannig	aa	þannig
 :	:	:
-
 Þjáningabætur	nvfn	þjáningabót
 án	ae	án
 rúmlegu	nvee	rúmlega
 frá	aþ	frá
 28.01.2001	ta	28.01.2001
-
 til	ae	til
 06.02.2001	ta	06.02.2001
 (	(	(
@@ -4403,12 +4206,10 @@ x	x	x
 8	ta	8
 )	)	)
 6.960	ta	6.960
-
 Bætur	nvfn	bót
 fyrir	ao	fyrir
 varanlegan	lkeosf	varanlegur
 miska	nkeo	miski
-
 (	(	(
 4.000.000	ta	4.000.000
 x	x	x
@@ -4417,12 +4218,10 @@ x	x	x
 15%	tp	15%
 )	)	)
 745.500	ta	745.500
-
 Bætur	nvfn	bót
 fyrir	ao	fyrir
 varanlega	lveosf	varanlegur
 örorku	nveo	örorka
-
 (	(	(
 5.938.285	ta	5.938.285
 x	x	x
@@ -4431,14 +4230,12 @@ x	x	x
 16,461	ta	16,461
 )	)	)
 14.662.516	ta	14.662.516
-
 Varakrafan	nveng	varakrafa
 5.639.065	ta	5.639.065
 krónur	nvfn	króna
 sundurliðast	sfm3fn	sundurliða
 þannig	aa	þannig
 :	:	:
-
 Þjáningabætur	nvfn	þjáningabót
 án	ae	án
 rúmlegu	nvee	rúmlega
@@ -4454,12 +4251,10 @@ x	x	x
 8	ta	8
 )	)	)
 6.960	ta	6.960
-
 Bætur	nvfn	bót
 fyrir	ao	fyrir
 varanlegan	lkeosf	varanlegur
 miska	nkeo	miski
-
 (	(	(
 4.000.000	ta	4.000.000
 x	x	x
@@ -4468,12 +4263,10 @@ x	x	x
 15%	tp	15%
 )	)	)
 745.500	ta	745.500
-
 Bætur	nvfn	bót
 fyrir	ao	fyrir
 varanlega	lveosf	varanlegur
 örorku	nveo	örorka
-
 (	(	(
 5.938.285	ta	5.938.285
 x	x	x
@@ -4482,14 +4275,12 @@ x	x	x
 16,461	ta	16,461
 )	)	)
 4.887.505	ta	4.887.505
-
 Þrautavarakrafan	nveng	þrautavarakrafa
 4.680.078	ta	4.680.078
 krónur	nvfn	króna
 sundurliðast	sfm3en	sundurliða
 þannig	aa	þannig
 :	:	:
-
 Þjáningabætur	nvfn	þjáningabót
 án	ae	án
 rúmlegu	nvee	rúmlega
@@ -4505,12 +4296,10 @@ x	x	x
 8	ta	8
 )	)	)
 6.960	ta	6.960
-
 Bætur	nvfn	bót
 fyrir	ao	fyrir
 varanlegan	lkeosf	varanlegur
 miska	nkeo	miski
-
 (	(	(
 4.000.000	ta	4.000.000
 x	x	x
@@ -4519,12 +4308,10 @@ x	x	x
 15%	tp	15%
 )	)	)
 745.500	ta	745.500
-
 Bætur	nvfn	bót
 fyrir	ao	fyrir
 varanlega	lveosf	varanlegur
 örorku	nveo	örorka
-
 (	(	(
 1.590.676	ta	1.590.676
 x	x	x
@@ -4533,7 +4320,6 @@ x	x	x
 16,461	ta	16,461
 )	)	)
 3.927.618	ta	3.927.618
-
 Enn	aa	enn
 frekari	lvenvm	frekur
 þrautavarakrafan	nveng	þrautavarakrafa
@@ -4542,7 +4328,6 @@ krónur	nvfn	króna
 sundurliðast	sfm3en	sundurliða
 þannig	aa	þannig
 :	:	:
-
 Þjáningabætur	nvfn	þjáningabót
 án	ae	án
 rúmlegu	nvee	rúmlega
@@ -4558,12 +4343,10 @@ x	x	x
 8	ta	8
 )	)	)
 6.960	ta	6.960
-
 Bætur	nvfn	bót
 fyrir	ao	fyrir
 varanlegan	lkeosf	varanlegur
 miska	nkeo	miski
-
 (	(	(
 4.000.000	ta	4.000.000
 x	x	x
@@ -4572,12 +4355,10 @@ x	x	x
 15%	tp	15%
 )	)	)
 745.500	ta	745.500
-
 Bætur	nvfn	bót
 fyrir	ao	fyrir
 varanlega	lveosf	varanlegur
 örorku	nveo	örorka
-
 (	(	(
 1.590.676	ta	1.590.676
 x	x	x
@@ -4586,10 +4367,8 @@ x	x	x
 16,461	ta	16,461
 )	)	)
 1.309.206	ta	1.309.206
-
 MÁLSÁSTÆÐUR	nvfn	málsástæða
 :	:	:
-
 Stefnandi	nken	stefnandi
 byggir	sfg3en	byggja
 aðallega	aa	aðallega
@@ -4597,7 +4376,6 @@ aðallega	aa	aðallega
 eftirfarandi	lvfþof	eftirfarandi
 málsástæðum	nvfþ	málsástæða
 :	:	:
-
 Stefnandi	nken	stefnandi
 var	sfg3eþ	vera
 nemandi	nken	nemandi
@@ -4619,7 +4397,6 @@ að	cn	að
 vinna	sng	vinna
 með	aa	með
 .	.	.
-
 Unnið	sþghen	vinna
 var	sfg3eþ	vera
 með	ao	með
@@ -4653,7 +4430,6 @@ varúðarráðstafana	nvfe	varúðarráðstöfun
 var	sfg3eþ	vera
 gætt	sþghen	gæða
 .	.	.
-
 Stefnda	lkeþvf	stefndur
 bar	sfg3eþ	bera
 að	cn	að
@@ -4695,7 +4471,6 @@ væri	svg3eþ	vera
 fyrir	ao	fyrir
 nemendur	nkfo	nemandi
 .	.	.
-
 Stefnandi	nken	stefnandi
 veiktist	sfm3eþ	veikja
 í	aþ	í
@@ -4711,7 +4486,6 @@ nemendur	nkfn	nemandi
 veiktust	sfm3fþ	veikja
 einnig	aa	einnig
 .	.	.
-
 Beint	lhensf	beinn
 orsakasamband	nhen	orsakasamband
 sé	svg3en	vera
@@ -4727,7 +4501,6 @@ og	c	og
 veikinda	nhfe	veikindi
 hennar	fpvee	hún
 .	.	.
-
 Ástand	nhen	ástand
 stefnanda	nkee	stefnandi
 í	aþ	í
@@ -4769,7 +4542,6 @@ hana	fpveo	hún
 vinna	sng	vinna
 með	aa	með
 .	.	.
-
 Kennarinn	nkeng	kennari
 sem	ct	sem
 hafi	svg3en	hafa
@@ -4788,7 +4560,6 @@ og	c	og
 tjóni	nheþ	tjón
 stefnanda	nkee	stefnandi
 .	.	.
-
 Stefndi	lkenvf	stefndur
 beri	svg3en	bera
 húsbóndaábyrgð	nveo	húsbóndaábyrgð
@@ -4807,7 +4578,6 @@ skaðabótaréttar	nkee	skaðabótaréttur
 um	ao	um
 húsbóndaábyrgð	nveo	húsbóndaábyrgð
 .	.	.
-
 Stefnandi	nken	stefnandi
 hafi	svg3en	hafa
 orðið	ssg	verða
@@ -4820,7 +4590,6 @@ vegna	ae	vegna
 þessa	fakee	þessi
 atburðar	nkee	atburður
 .	.	.
-
 Stefnandi	nken	stefnandi
 vísar	sfg3en	vísa
 um	ao	um
@@ -4842,7 +4611,6 @@ skaðabótalaga	nhfe	skaðabótalög
 nr.	as	nr.
 50/1993	ta	50/1993
 .	.	.
-
 Krafa	nven	krafa
 um	ao	um
 málskostnað	nkeo	málskostnaður
@@ -4855,7 +4623,6 @@ gr.	as	gr.
 nr.	as	nr.
 91/1991	ta	91/1991
 .	.	.
-
 Af	aþ	af
 hálfu	nveþ	hálfa
 stefnda	lkeevf	stefndur
@@ -4872,7 +4639,6 @@ frá	aþ	frá
 tímamarki	nheþ	tímamark
 tjónsatburðar	nkee	tjónsatburður
 .	.	.
-
 Hinn	gken	hinn
 langi	lkenvf	langur
 tími	nken	tími
@@ -4890,7 +4656,6 @@ eðli	nheþ	eðli
 málsins	nheeg	mál
 samkvæmt	aþ	samkvæmt
 .	.	.
-
 Hafi	svg3en	hafa
 stefndi	lkenvf	stefndur
 af	aþ	af
@@ -4918,7 +4683,6 @@ ella	aa	ella
 verið	ssg	vera
 unnt	lhensf	unnt
 .	.	.
-
 Komi	svg3en	koma
 þetta	fahen	þessi
 niður	aa	niður
@@ -4928,7 +4692,6 @@ stefnda	lkeevf	stefndur
 í	aþ	í
 málinu	nheþg	mál
 .	.	.
-
 Stefndi	lkenvf	stefndur
 hafi	svg3en	hafa
 ekkert	fohen	enginn
@@ -4942,7 +4705,6 @@ aðila	nkfe	aðili
 árinu	nheþg	ár
 2004	ta	2004
 .	.	.
-
 Hafi	svg3en	hafa
 stefndi	lkenvf	stefndur
 um	ao	um
@@ -4961,7 +4723,6 @@ málið	nheog	mál
 niður	aa	niður
 falla	sng	falla
 .	.	.
-
 Hafi	svg3en	hafa
 stefndi	lkenvf	stefndur
 þannig	aa	þannig
@@ -4994,7 +4755,6 @@ sem	c	sem
 venja	nven	venja
 sé	svg3en	vera
 .	.	.
-
 Sjónarmið	nhen	sjónarmið
 sem	ct	sem
 vísað	sþghen	vísa

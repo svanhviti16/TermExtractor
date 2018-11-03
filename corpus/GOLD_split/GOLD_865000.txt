@@ -18,7 +18,6 @@ Samband	nheo-s	Samband
 íslenskra	lkfesf	íslenskur
 myndlistarmanna	nkfe	myndlistarmaður
 .	.	.
-
 Safnið	nheng	safn
 sér	sfg3en	sjá
 einnig	aa	einnig
@@ -42,7 +41,6 @@ e.	x	e
 d	x	d
 )	)	)
 .	.	.
-
 Borgarbókavörður	nken	borgarbókavörður
 ,	,	,
 Anna	nven-s	Anna
@@ -58,7 +56,6 @@ yfir	aþ	yfir
 hverju	foheþ	hver
 safni	nheþ	safn
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 áætlun	nveþ	áætlun
 fyrir	ao	fyrir
@@ -71,7 +68,6 @@ starfsmenn	nkfn	starfsmaður
 85,3	ta	85,3
 stöðugildum	nhfþ	stöðugildi
 .	.	.
-
 Fjárhagsrammi	nken	fjárhagsrammi
 fyrir	ao	fyrir
 árið	nheog	ár
@@ -80,7 +76,6 @@ er	sfg3en	vera
 486.207.000	ta	486.207.000
 krónur	nvfn	króna
 .	.	.
-
 Gestafjöldi	nken	gestafjöldi
 er	sfg3en	vera
 áætlaður	sþgken	áætla
@@ -96,7 +91,6 @@ skipulögðum	lvfþsf	skipulagður
 heimsóknum	nvfþ	heimsókn
 6.000	ta	6.000
 .	.	.
-
 Áætlaður	lkensf	áætlaður
 safnkostur	nken	safnkostur
 er	sfg3en	vera
@@ -120,7 +114,6 @@ Reykjavíkurborg	nven-s	Reykjavíkurborg
 2007	ta	2007
 )	)	)
 .	.	.
-
 2.4.3	ta	2.4.3
 Menningarmiðstöðin	nveng	menningarmiðstöð
 Gerðuberg	nhen-s	Gerðuberg
@@ -132,13 +125,11 @@ starfa	nhfe	starf
 árið	nheog	ár
 1983	ta	1983
 .	.	.
-
 Starfsemi	nven	starfsemi
 Menningarstofnunarinnar	nveegs	Menningarstofnun
 er	sfg3en	vera
 tvíþætt	lvensf	tvíþættur
 .	.	.
-
 Annars	fokee	annar
 vegar	nkee	vegur
 er	sfg3en	vera
@@ -175,7 +166,6 @@ tón-	nhfþ	tónþing
 og	c	og
 sjónþingum	nhfþ	sjónþing
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 er	sfg3en	vera
@@ -192,7 +182,6 @@ búsetu	nveþ	búseta
 og	c	og
 aldri	nkeþ	aldur
 .	.	.
-
 Félagsstarfið	nheng	félagsstarf
 er	sfg3en	vera
 afmarkaður	lkensf	afmarkaður
@@ -218,7 +207,6 @@ tilheyrir	sfg3en	tilheyra
 alfarið	aa	alfarið
 Gerðubergi	nheþ-s	Gerðuberg
 .	.	.
-
 Framkvæmdastjóri	nken	framkvæmdastjóri
 frá	aþ	frá
 upphafi	nheþ	upphaf
@@ -237,7 +225,6 @@ e.	x	e
 d	x	d
 )	)	)
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 áætlun	nveþ	áætlun
 fyrir	ao	fyrir
@@ -250,7 +237,6 @@ starfsmenn	nkfn	starfsmaður
 10,8	ta	10,8
 stöðugildum	nhfþ	stöðugildi
 .	.	.
-
 Fjárhagsrammi	nken	fjárhagsrammi
 fyrir	ao	fyrir
 árið	nheog	ár
@@ -259,7 +245,6 @@ er	sfg3en	vera
 85.752.000	ta	85.752.000
 krónur	nvfn	króna
 .	.	.
-
 Gestafjöldi	nken	gestafjöldi
 er	sfg3en	vera
 áætlaður	sþgken	áætla
@@ -279,7 +264,6 @@ skólanemum	nkfþ	skólanemi
 skipulögðum	lvfþsf	skipulagður
 heimsóknum	nvfþ	heimsókn
 .	.	.
-
 Fjöldi	nken	fjöldi
 viðburða	nkfe	viðburður
 verða	sfg3fn	verða
@@ -298,7 +282,6 @@ Reykjavíkurborg	nven-s	Reykjavíkurborg
 2007	ta	2007
 )	)	)
 .	.	.
-
 2.4.4	ta	2.4.4
 Listasafn	nhen-s	Listasafn
 Reykjavíkur	nvee-s	Reykjavík
@@ -321,7 +304,6 @@ og	c	og
 í	aþ	í
 Ásmundarsafni	nheþ-s	Ásmundarsafn
 .	.	.
-
 Árið	nheog	ár
 2006	ta	2006
 var	sfg3eþ	vera
@@ -355,7 +337,6 @@ erlendri	lveþsf	erlendur
 sem	c	sem
 innlendri	lveþsf	innlendur
 .	.	.
-
 Listasafn	nhen-s	Listasafn
 Reykjavíkur	nvee-s	Reykjavík
 í	aþ	í
@@ -371,7 +352,6 @@ apríl	nkeþ	apríl
 árið	nheog	ár
 2000	ta	2000
 .	.	.
-
 Þar	aa	þar
 eru	sfg3fn	vera
 settar	sþgvfn	setja
@@ -400,14 +380,12 @@ sýningar	nvfn	sýning
 verkum	nhfþ	verk
 Errós	nkee-s	Erró
 .	.	.
-
 Kjarvalsstaðir	nkfn-s	Kjarvalsstaðir
 voru	sfg3fþ	vera
 opnaðir	sþgkfn	opna
 árið	nheog	ár
 1973	ta	1973
 .	.	.
-
 Þar	aa	þar
 er	sfg3en	vera
 varðveitt	sþgven	varðveita
@@ -424,7 +402,6 @@ Jóhannesar	nkee-s	Jóhannes
 S.	as	S.
 Kjarvals	nkee-s	Kjarval
 .	.	.
-
 Á	aþ	á
 Kjarvalsstöðum	nkfþ-s	Kjarvalsstaðir
 eru	sfg3fn	vera
@@ -443,7 +420,6 @@ með	ao	með
 á	ao	á
 samtímalist	nveo	samtímalist
 .	.	.
-
 Sýningar	nvfn	sýning
 á	aþ	á
 verkum	nhfþ	verk
@@ -458,7 +434,6 @@ sess	nkeo	sess
 austursal	nkeþ	austursalur
 safnsins	nheeg	safn
 .	.	.
-
 Ásmundarsafn	nhen-s	Ásmundarsafn
 var	sfg3eþ	vera
 formlega	aa	formlega
@@ -466,7 +441,6 @@ opnað	sþghen	opna
 árið	nheog	ár
 1983	ta	1983
 .	.	.
-
 Húsið	nheng	hús
 ,	,	,
 sem	ct	sem
@@ -485,7 +459,6 @@ af	aþ	af
 honum	fpkeþ	hann
 sjálfum	fbkeþ	sjálfur
 .	.	.
-
 Ásmundur	nken-s	Ásmundur
 ánafnaði	sfg3eþ	ánafna
 Reykjavíkurborg	nveþ-s	Reykjavíkurborg
@@ -497,7 +470,6 @@ eftir	ao	eftir
 sinn	fekeo	sinn
 dag	nkeo	dagur
 .	.	.
-
 Í	aþ	í
 safninu	nheþg	safn
 er	sfg3en	vera
@@ -526,7 +498,6 @@ e.	x	e
 d	x	d
 )	)	)
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 áætlun	nveþ	áætlun
 fyrir	ao	fyrir
@@ -551,7 +522,6 @@ hlutastörfum	nhfþ	hlutastarf
 við	ao	við
 sýningahald	nheo	sýningahald
 .	.	.
-
 Fjárhagsrammi	nken	fjárhagsrammi
 fyrir	ao	fyrir
 árið	nheog	ár
@@ -560,7 +530,6 @@ er	sfg3en	vera
 239.760.000	ta	239.760.000
 krónur	nvfn	króna
 .	.	.
-
 Gestafjöldi	nken	gestafjöldi
 er	sfg3en	vera
 áætlaður	sþgken	áætla
@@ -580,7 +549,6 @@ skólanemum	nkfþ	skólanemi
 skipulögðum	lvfþsf	skipulagður
 heimsóknum	nvfþ	heimsókn
 .	.	.
-
 Fjöldi	nken	fjöldi
 viðburða	nkfe	viðburður
 verða	sfg3fn	verða
@@ -588,7 +556,6 @@ verða	sfg3fn	verða
 á	aþ	á
 árinu	nheþg	ár
 .	.	.
-
 Fjöldi	nken	fjöldi
 listaverka	nhfe	listaverk
 í	aþ	í
@@ -605,7 +572,6 @@ safnsins	nheeg	safn
 er	sfg3en	vera
 135	ta	135
 .	.	.
-
 Hafþór	nken-s	Hafþór
 Yngvason	nken-s	Yngvason
 er	sfg3en	vera
@@ -618,7 +584,6 @@ Reykjavíkurborg	nven-s	Reykjavíkurborg
 2007	ta	2007
 )	)	)
 .	.	.
-
 2.4.5	ta	2.4.5
 Ljósmyndasafn	nhen-s	Ljósmyndasafn
 Reykjavíkur	nvee-s	Reykjavík
@@ -629,7 +594,6 @@ stofnað	sþghen	stofna
 árið	nheog	ár
 1981	ta	1981
 .	.	.
-
 Upprunalega	aa	upprunalega
 var	sfg3eþ	vera
 það	fphen	það
@@ -642,7 +606,6 @@ safnið	nheog	safn
 árið	nheog	ár
 1987	ta	1987
 .	.	.
-
 Ljósmyndasafnið	nheng	ljósmyndasafn
 er	sfg3en	vera
 eina	lhenvf	einn
@@ -652,7 +615,6 @@ ljósmyndasafnið	nheng	ljósmyndasafn
 á	aþ	á
 landinu	nheþg	land
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 áður	aa	áður
@@ -681,7 +643,6 @@ og	c	og
 Borgarskjalasafni	nheþ-s	Borgarskjalasafn
 Reykjavíkur	nvee-s	Reykjavík
 .	.	.
-
 Ljósmyndasafnið	nheng	ljósmyndasafn
 leggur	sfg3en	leggja
 áherslu	nveo	áhersla
@@ -712,7 +673,6 @@ fyrir	ao	fyrir
 öll	fohfo	allur
 skólastigin	nhfog	skólastig
 .	.	.
-
 Myndvinnsla	nven	myndvinnsla
 er	sfg3en	vera
 starfrækt	sþgven	starfrækja
@@ -730,7 +690,6 @@ safn	nheo	safn
 og	c	og
 viðskiptavini	nkfo	viðskiptavinur
 .	.	.
-
 Safnið	nheng	safn
 veitir	sfg3en	veita
 almenningi	nkeþ	almenningur
@@ -746,7 +705,6 @@ og	c	og
 sviði	nheþ	svið
 ljósmyndunar	nvee	ljósmyndun
 .	.	.
-
 Á	aþ	á
 heimasíðu	nveþ	heimasíða
 Ljósmyndasafns	nhee-s	Ljósmyndasafn
@@ -758,7 +716,6 @@ hinum	fahfþ	hinn
 ýmsu	fohfþ	ýmis
 ljósmyndasöfnum	nhfþ	ljósmyndasafn
 .	.	.
-
 Safnið	nheng	safn
 stendur	sfg3en	standa
 fyrir	aþ	fyrir
@@ -790,7 +747,6 @@ Reykjavíkurborg	nven-s	Reykjavíkurborg
 e.d.	as	e.d.
 )	)	)
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 áætlun	nveþ	áætlun
 fyrir	ao	fyrir
@@ -804,7 +760,6 @@ Ljósmyndasafnsins	nheegs	Ljósmyndasafn
 5	ta	5
 stöðugildum	nhfþ	stöðugildi
 .	.	.
-
 Fjárhagsrammi	nken	fjárhagsrammi
 fyrir	ao	fyrir
 árið	nheog	ár
@@ -813,7 +768,6 @@ er	sfg3en	vera
 31.532.000	ta	31.532.000
 krónur	nvfn	króna
 .	.	.
-
 Gestafjöldi	nken	gestafjöldi
 er	sfg3en	vera
 áætlaður	sþgken	áætla
@@ -834,7 +788,6 @@ skólanemum	nkfþ	skólanemi
 skipulögðum	lvfþsf	skipulagður
 heimsóknum	nvfþ	heimsókn
 .	.	.
-
 Fjöldi	nken	fjöldi
 viðburða	nkfe	viðburður
 verða	sfg3fn	verða
@@ -842,7 +795,6 @@ verða	sfg3fn	verða
 á	aþ	á
 árinu	nheþg	ár
 .	.	.
-
 Forstöðumaður	nken	forstöðumaður
 Ljósmyndasafnsins	nheegs	Ljósmyndasafn
 er	sfg3en	vera
@@ -855,7 +807,6 @@ Reykjavíkurborg	nven-s	Reykjavíkurborg
 2007	ta	2007
 )	)	)
 .	.	.
-
 2.4.6	ta	2.4.6
 Minjasafn	nhen-s	Minjasafn
 Reykjavíkur	nvee-s	Reykjavík
@@ -876,7 +827,6 @@ að	aþ	að
 Skúlatúni	nheþ-s	Skúlatún
 2	ta	2
 .	.	.
-
 Árið	nheog	ár
 1957	ta	1957
 samþykkti	sfg3eþ	samþykkja
@@ -922,14 +872,12 @@ hefðu	svg3fþ	hafa
 menningarsögulegt	lheosf	menningarsögulegur
 gildi	nheo	gildi
 .	.	.
-
 Safnið	nheng	safn
 var	sfg3eþ	vera
 opnað	sþghen	opna
 sama	fbheo	sami
 ár	nheo	ár
 .	.	.
-
 Fyrsta	lhenve	fyrstur
 verkefni	nhen	verkefni
 hins	ghee	hinn
@@ -956,7 +904,6 @@ og	c	og
 endurbyggja	sng	endurbyggja
 þau	fphfo	það
 .	.	.
-
 Árið	nheog	ár
 1968	ta	1968
 voru	sfg3fþ	vera
@@ -973,7 +920,6 @@ er	sfg3en	vera
 Minjasafn	nhen-s	Minjasafn
 Reykjavíkur	nvee-s	Reykjavík
 .	.	.
-
 Hlutverk	nhen	hlutverk
 Minjasafnsins	nheegs	Minjasafn
 felst	sfm3en	fela
@@ -985,7 +931,6 @@ borgarinnar	nveeg	borg
 og	c	og
 minjavörslu	nveþ	minjavarsla
 .	.	.
-
 Það	fphen	það
 hefur	sfg3en	hafa
 umsjón	nveo	umsjón
@@ -1005,13 +950,11 @@ og	c	og
 gamalla	lvfesf	gamall
 bygginga	nvfe	bygging
 .	.	.
-
 Starfsemi	nven	starfsemi
 Minjasafnsins	nheegs	Minjasafn
 er	sfg3en	vera
 fjölbreytt	lvensf	fjölbreyttur
 .	.	.
-
 Í	aþ	í
 Árbæjarsafni	nheþ-s	Árbæjarsafn
 ,	,	,
@@ -1032,7 +975,6 @@ lifnaðarhætti	nkfo	lifnaðarháttur
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 er	sfg3en	vera
@@ -1051,7 +993,6 @@ einstökum	lkfþsf	einstakur
 sögu	nveþ	saga
 Reykjavíkurborgar	nvee-s	Reykjavíkurborg
 .	.	.
-
 Þar	aa	þar
 er	sfg3en	vera
 einnig	aa	einnig
@@ -1068,7 +1009,6 @@ leiðsögn	nven	leiðsögn
 um	ao	um
 safnið	nheog	safn
 .	.	.
-
 Landnámssýningin	nveng	landnámssýning
 Reykjavík	nven-s	Reykjavík
 871±2	ta	871±2
@@ -1078,7 +1018,6 @@ einnig	aa	einnig
 umsjón	nveþ	umsjón
 Minjasafnsins	nheegs	Minjasafn
 .	.	.
-
 Sýningin	nveng	sýning
 er	sfg3en	vera
 í	aþ	í
@@ -1092,7 +1031,6 @@ maí	nkeþ	maí
 árið	nheog	ár
 2006	ta	2006
 .	.	.
-
 Þegar	c	þegar
 grafið	sþghen	grafa
 var	sfg3eþ	vera
@@ -1122,7 +1060,6 @@ Reykjavíkur	nvee-s	Reykjavík
 e.d.	as	e.d.
 )	)	)
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 áætlun	nveþ	áætlun
 fyrir	ao	fyrir
@@ -1136,7 +1073,6 @@ Minjasafnsins	nheegs	Minjasafn
 15,9	ta	15,9
 stöðugildum	nhfþ	stöðugildi
 .	.	.
-
 Fjárhagsrammi	nken	fjárhagsrammi
 fyrir	ao	fyrir
 árið	nheog	ár
@@ -1145,7 +1081,6 @@ er	sfg3en	vera
 109.915.000	ta	109.915.000
 krónur	nvfn	króna
 .	.	.
-
 Gestafjöldi	nken	gestafjöldi
 er	sfg3en	vera
 áætlaður	sþgken	áætla
@@ -1166,7 +1101,6 @@ skólanemum	nkfþ	skólanemi
 skipulögðum	lvfþsf	skipulagður
 heimsóknum	nvfþ	heimsókn
 .	.	.
-
 Fjöldi	nken	fjöldi
 viðburða	nkfe	viðburður
 verða	sfg3fn	verða
@@ -1176,7 +1110,6 @@ fjöldi	nken	fjöldi
 útgáfuverka	nhfe	útgáfuverk
 10	ta	10
 .	.	.
-
 Starfsmannafjöldi	nken	starfsmannafjöldi
 Landnámssýningarinnar	nveegs	landnámssýning
 er	sfg3en	vera
@@ -1185,13 +1118,11 @@ er	sfg3en	vera
 2,75	ta	2,75
 stöðugildum	nhfþ	stöðugildi
 .	.	.
-
 Fjárhagsrammi	nken	fjárhagsrammi
 sýningarinnar	nveeg	sýning
 er	sfg3en	vera
 49.501.000	ta	49.501.000
 .	.	.
-
 Borgarminjavörður	nken	borgarminjavörður
 ,	,	,
 Guðný	nven-s	Guðný
@@ -1208,7 +1139,6 @@ Reykjavíkurborg	nven-s	Reykjavíkurborg
 2007	ta	2007
 )	)	)
 .	.	.
-
 Þriðji	lkenvf	þriðji
 kafli	nken	kafli
 -	-	-
@@ -1216,7 +1146,6 @@ Leiðin	nveng	leið
 til	ae	til
 Swann	e	Swann
 3.1.	ta	3.1.
-
 Hinn	gken	hinn
 andvaka	lkenof	andvaka
 sögumaður	nken	sögumaður
@@ -1275,7 +1204,6 @@ að	cn	að
 fara	sng	fara
 .	.	.
 »	»	»
-
 Í	aþ	í
 Leiðinni	nveþgs	leið
 til	ae	til
@@ -1303,7 +1231,6 @@ og	c	og
 í	ao	í
 yfirstærð	nveo	yfirstærð
 .	.	.
-
 Maður	nken	maður
 áttar	sfg3en	átta
 sig	fpkeo	sig
@@ -1320,7 +1247,6 @@ bókin	nveng	bók
 raunverulega	aa	raunverulega
 fjallar	sfg3en	fjalla
 .	.	.
-
 Án	ae	án
 þess	fphee	það
 að	cn	að
@@ -1348,7 +1274,6 @@ er	sfg3en	vera
 byggð	sþgven	byggja
 upp	aa	upp
 .	.	.
-
 Og	c	og
 svo	aa	svo
 mun	sfg1en	munu
@@ -1369,7 +1294,6 @@ við	ao	við
 og	c	og
 sjálfsævisögufræðin	nhfog	sjálfsævisögufræði
 .	.	.
-
 Ytri	lkenvm	ytri
 tími	nken	tími
 Leiðarinnar	nveegs	Leið
@@ -1379,7 +1303,6 @@ er	sfg3en	vera
 ein	tfven	einn
 nótt	nven	nótt
 .	.	.
-
 Sögumaðurinn	nkeng	sögumaður
 sofnar	sfg3en	sofna
 út	aa	út
@@ -1392,7 +1315,6 @@ vaknar	sfg3en	vakna
 á	aþ	á
 miðnætti	nheþ	miðnætti
 .	.	.
-
 Eftir	ao	eftir
 það	fpheo	það
 liggur	sfg3en	liggja
@@ -1409,7 +1331,6 @@ upp	aa	upp
 æsku	nveo	æska
 sína	feveo	sinn
 .	.	.
-
 En	c	en
 þetta	fahen	þessi
 er	sfg3en	vera
@@ -1421,11 +1342,9 @@ heldur	c	heldur
 margar	lvfnsf	margur
 svipaðar	lvfnsf	svipaður
 .	.	.
-
 Hann	fpken	hann
 segir	sfg3en	segja
 :	:	:
-
 Staðan	nveng	staða
 er	sfg3en	vera
 þessi	faven	þessi
@@ -1449,7 +1368,6 @@ frá	aþ	frá
 þessum	favfþ	þessi
 nóttum	nvfþ	nótt
 .	.	.
-
 Hann	fpken	hann
 rifjar	sfg3en	rifja
 helst	aae	heldur
@@ -1474,7 +1392,6 @@ II.	lkensf	II.
 hluti	nken	hluti
 verksins	nheeg	verk
 .	.	.
-
 Sagan	nveng	saga
 um	ao	um
 ástarsamband	nheo	ástarsamband
@@ -1497,7 +1414,6 @@ en	c	en
 Marcel	e	Marcel
 fæðist	sfm3en	fæða
 .	.	.
-
 En	c	en
 hún	fpven	hún
 kallast	sfm3en	kalla
@@ -1519,7 +1435,6 @@ Swann	e	Swann
 og	c	og
 Odette	e	Odette
 .	.	.
-
 Þessar	favfn	þessi
 sögur	nvfn	saga
 skipa	sfg3fn	skipa
@@ -1529,7 +1444,6 @@ sess	nkeo	sess
 sjálfsmynd	nveþ	sjálfsmynd
 sögumannsins	nkeeg	sögumaður
 .	.	.
-
 Þetta	fahen	þessi
 eru	sfg3fn	vera
 sögurnar	nvfng	saga
@@ -1547,7 +1461,6 @@ hver	fsken	hver
 er	sfg1en	vera
 ég	fp1en	ég
 ?	?	?
-
 Sagan	nveng	saga
 um	ao	um
 ástina	nveog	ást
@@ -1574,7 +1487,6 @@ nánar	aam	náið
 það	fpheo	það
 hér	aa	hér
 .	.	.
-
 Ég	fp1en	ég
 ætla	sfg1en	ætla
 að	cn	að
@@ -1615,7 +1527,6 @@ vill	sfg3en	vilja
 verða	sng	verða
 rithöfundur	nken	rithöfundur
 .	.	.
-
 Þrátt	aa	þrátt
 fyrir	ao	fyrir
 að	c	að
@@ -1641,7 +1552,6 @@ afgerandi	aa	afgerandi
 í	ao	í
 tvennt	lheosf	tvennur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 þegar	c	þegar
@@ -1669,7 +1579,6 @@ frænku	nveþ	frænka
 í	aþ	í
 Combray	e	Combray
 .	.	.
-
 Fyrir	ao	fyrir
 kökuátið	nheog	kökuát
 mundi	sfg3eþ	muna
@@ -1714,7 +1623,6 @@ hans	fpkee	hann
 um	ao	um
 nóttina	nveog	nótt
 .	.	.
-
 Til	ae	til
 að	cn	að
 hugga	sng	hugga
@@ -1753,7 +1661,6 @@ les	sfg3en	lesa
 fyrir	ao	fyrir
 hann	fpkeo	hann
 .	.	.
-
 Þannig	aa	þannig
 tengist	sfm3en	tengja
 fyrsta	lvenve	fyrstur
@@ -1774,7 +1681,6 @@ hans	fpkee	hann
 af	aþ	af
 bókmenntum	nvfþ	bókmennt
 .	.	.
-
 Eftir	ao	eftir
 kökuátið	nheog	kökuát
 koma	sfg3fn	koma
@@ -1794,7 +1700,6 @@ mynda	sfg3fn	mynda
 II.	lkeosf	II.
 kafla	nkeo	kafli
 .	.	.
-
 Sá	faken	sá
 kafli	nken	kafli
 er	sfg3en	vera
@@ -1809,7 +1714,6 @@ segir	sfg3en	segja
 Steinarnir	nkfng	steinn
 tala	sfg3fn	tala
 .	.	.
-
 Frásögnin	nveng	frásögn
 hefst	sfm3en	hefja
 á	aþ	á
@@ -1833,7 +1737,6 @@ Marcels	e	Marcel
 meira	lheovm	mikill
 pláss	nheo	pláss
 .	.	.
-
 Hann	fpken	hann
 verður	sfg3en	verða
 sjálfsmeðvitaður	lkensf	sjálfsmeðvitaður
@@ -1841,7 +1744,6 @@ og	c	og
 sjálfið	nheng	sjálf
 þroskast	sfm3en	þroska
 .	.	.
-
 Sá	faken	sá
 þroski	nken	þroski
 tengist	sfm3en	tengja
@@ -1858,7 +1760,6 @@ hans	fpkee	hann
 rithöfundinum	nkeþg	rithöfundur
 Bergotte	e	Bergotte
 .	.	.
-
 Og	c	og
 að	aþ	að
 lokum	nhfþ	lok
@@ -1876,7 +1777,6 @@ af	aþ	af
 frumsömdum	lkeþsf	frumsaminn
 texta	nkeþ	texti
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 hliðstætt	lhensf	hliðstæður
@@ -1889,7 +1789,6 @@ verðandi	lkeþof	verðandi
 vísindamanni	nkeþ	vísindamaður
 Bergi	nkeþ-s	Bergur
 .	.	.
-
 Þroski	nken	þroski
 Marcels	e	Marcel
 á	aþ	á
@@ -1915,7 +1814,6 @@ en	c	en
 í	aþ	í
 Ofvitanum	nkeþgs	Ofviti
 .	.	.
-
 Og	c	og
 saga	nven	saga
 Prousts	e	Prousts
@@ -1925,7 +1823,6 @@ af	aþ	af
 fleiri	lvfþvm	margur
 ástæðum	nvfþ	ástæða
 .	.	.
-
 Ekki	aa	ekki
 síst	aae	síður
 vegna	ae	vegna
@@ -1946,7 +1843,6 @@ til	aa	til
 tekið	sþghen	taka
 skáldskapur	nken	skáldskapur
 .	.	.
-
 En	c	en
 eins	aa	eins
 og	c	og
@@ -1967,7 +1863,6 @@ rannsóknum	nvfþ	rannsókn
 á	aþ	á
 sjálfinu	nheþg	sjálf
 .	.	.
-
 Frásögn	nven	frásögn
 sögumannsins	nkeeg	sögumaður
 er	sfg3en	vera
@@ -2004,7 +1899,6 @@ minnir	sfg3en	minna
 persónulega	lveosf	persónulegur
 esseyju	nveo	esseyja
 .	.	.
-
 Það	fahen	sá
 sem	ct	sem
 breytist	sfm3en	breyta
@@ -2033,7 +1927,6 @@ um	ao	um
 eigið	lheosf	eiginn
 sjálf	nheo	sjálf
 .	.	.
-
 Á	ao	á
 hinn	fakeo	hinn
 bóginn	nkeog	bógur
@@ -2058,7 +1951,6 @@ að	cn	að
 koma	sng	koma
 fram	aa	fram
 .	.	.
-
 Nú	aa	nú
 er	sfg3en	vera
 nóg	lhensf	nógur
@@ -2075,9 +1967,7 @@ skoða	sng	skoða
 hana	fpveo	hún
 sjálfa	fbveo	sjálfur
 .	.	.
-
 3.2.	ta	3.2.
-
 Combray	e	Combray
 Sögumaðurinn	nkeng	sögumaður
 hefur	sfg3en	hafa
@@ -2098,7 +1988,6 @@ upp	aa	upp
 á	ao	á
 magðalenukökurnar	nvfog	magðalenukaka
 .	.	.
-
 Hún	fpven	hún
 lagðist	sfm3eþ	leggja
 í	ao	í
@@ -2130,7 +2019,6 @@ Combray	e	Combray
 66	ta	66
 )	)	)
 .	.	.
-
 Með	aþ	með
 því	fpheþ	það
 að	cn	að
@@ -2164,7 +2052,6 @@ Combray	e	Combray
 um	ao	um
 leið	nveo	leið
 .	.	.
-
 Í	aþ	í
 bænum	nkeþg	bær
 gerist	sfm3en	gera
@@ -2175,7 +2062,6 @@ allir	fokfn	allur
 þekkja	sfg3fn	þekkja
 alla	fokfo	allur
 .	.	.
-
 Því	aa	því
 kallar	sfg3en	kalla
 allt	fohen	allur
@@ -2202,7 +2088,6 @@ seint	aa	seint
 í	ao	í
 messu	nveo	messa
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 svipuð	lvensf	svipaður
@@ -2225,7 +2110,6 @@ lesandinn	nkeng	lesandi
 nákvæma	lveosf	nákvæmur
 lýsingu	nveo	lýsing
 .	.	.
-
 Í	aþ	í
 þessum	fakeþ	þessi
 hluta	nkeþ	hluti
@@ -2246,7 +2130,6 @@ sjáum	sfg1fn	sjá
 við	fp1fn	ég
 Combray	e	Combray
 .	.	.
-
 Í	aþ	í
 fyrri	lkeþvm	fyrri
 helmingi	nkeþ	helmingur
@@ -2257,7 +2140,6 @@ Léonie	e	Léonie
 raun	nveþ	raun
 aðalpersónan	nveng	aðalpersóna
 .	.	.
-
 Allt	fohen	allur
 heimilishaldið	nheng	heimilishald
 snýst	sfm3en	snúa
@@ -2276,7 +2158,6 @@ reyna	sng	reyna
 að	cn	að
 breyta	sng	breyta
 .	.	.
-
 Hún	fpven	hún
 og	c	og
 smásmugulegar	lvfnsf	smásmugulegur
@@ -2291,7 +2172,6 @@ tímann	nkeog	tími
 í	aþ	í
 bakgrunni	nkeþ	bakgrunnur
 .	.	.
-
 Þegar	c	þegar
 sögumaðurinn	nkeng	sögumaður
 hefur	sfg3en	hafa
@@ -2327,21 +2207,18 @@ vanagang	x	vanagangur
 [	[	[
 sins	x	sins
 ]	]	]
-
 (	(	(
 118	ta	118
 )	)	)
 hennar	fpvee	hún
 Léonie	e	Léonie
 .	.	.
-
 Líf	nhen	líf
 fjölskyldunnar	nveeg	fjölskylda
 fylgir	sfg3en	fylgja
 niðurnjörvaðri	lveþsf	niðurnjörvaður
 rútínu	nveþ	rútína
 .	.	.
-
 Dagskráin	nveng	dagskrá
 er	sfg3en	vera
 eins	aa	eins
@@ -2379,7 +2256,6 @@ en	c	en
 aðra	fokfo	annar
 daga	nkfo	dagur
 .	.	.
-
 Lífið	nheng	líf
 er	sfg3en	vera
 svo	aa	svo
@@ -2411,7 +2287,6 @@ sögur	nvfo	saga
 119	ta	119
 )	)	)
 .	.	.
-
 Vanafestan	nveng	vanafesta
 gefur	sfg3en	gefa
 endurminningunum	nvfþg	endurminning
@@ -2419,7 +2294,6 @@ tímalausan	lkeosf	tímalaus
 goðsagnablæ	nkeo	goðsagnablær
 æskunnar	nveeg	æska
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 erfitt	lhensf	erfiður
@@ -2445,7 +2319,6 @@ Leiðina	nveogs	leið
 til	ae	til
 Swann	e	Swann
 :	:	:
-
 Hver	foken	hver
 dagur	nken	dagur
 er	sfg3en	vera
@@ -2463,7 +2336,6 @@ sem	c	sem
 «	«	«
 dæmigerður	lkensf	dæmigerður
 dagur	nken	dagur
-
 ;	;	;
 hefst	sfm3en	hefja
 um	ao	um
@@ -2473,7 +2345,6 @@ endar	sfg3en	enda
 að	aþ	að
 kvöldi	nheþ	kvöld
 .	.	.
-
 Á	aþ	á
 þessu	faheþ	þessi
 skeiði	nheþ	skeið
@@ -2483,7 +2354,6 @@ Marcel	e	Marcel
 hlutlaus	lkensf	hlutlaus
 áhorfandi	nken	áhorfandi
 .	.	.
-
 Hann	fpken	hann
 talar	sfg3en	tala
 um	ao	um
@@ -2511,7 +2381,6 @@ utan	aa	utan
 95	ta	95
 )	)	)
 .	.	.
-
 Og	c	og
 í	aþ	í
 framhaldinu	nheþg	framhald
@@ -2558,7 +2427,6 @@ innihaldið	nheog	innihald
 95	ta	95
 )	)	)
 .	.	.
-
 Þannig	aa	þannig
 að	c	að
 á	aþ	á
@@ -2577,7 +2445,6 @@ að	cn	að
 snerta	sng	snerta
 veruleikann	nkeog	veruleiki
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 fyrir	aa	fyrir
@@ -2586,7 +2453,6 @@ og	c	og
 horfir	sfg3en	horfa
 á	aa	á
 .	.	.
-
 Í	aþ	í
 þessari	faveþ	þessi
 einangrun	nveþ	einangrun
@@ -2612,7 +2478,6 @@ náið	aa	náið
 með	aþ	með
 umhverfinu	nheþg	umhverfi
 .	.	.
-
 Dæmi	nhen	dæmi
 um	ao	um
 það	faheo	sá
@@ -2635,7 +2500,6 @@ heilar	lvfosf	heill
 átta	tfvfo	átta
 blaðsíður	nvfo	blaðsíða
 .	.	.
-
 Hún	fpven	hún
 er	sfg3en	vera
 það	fahen	sá
@@ -2656,7 +2520,6 @@ hugfanginn	lkensf	hugfanginn
 af	aþ	af
 henni	fpveþ	hún
 .	.	.
-
 Hann	fpken	hann
 grandskoðar	sfg3en	grandskoða
 hana	fpveo	hún
@@ -2672,7 +2535,6 @@ enn	aa	enn
 og	c	og
 mótanlegur	lkensf	mótanlegur
 .	.	.
-
 Aðrar	fovfn	annar
 kirkjur	nvfn	kirkja
 sem	ct	sem
@@ -2718,7 +2580,6 @@ lífveru	nveo	lífvera
 79	ta	79
 )	)	)
 .	.	.
-
 Minningar	nvfn	minning
 um	ao	um
 aðrar	fovfo	annar
@@ -2739,7 +2600,6 @@ lífi	nheþ	líf
 hans	fpkee	hann
 sjálfs	fbkee	sjálfur
 .	.	.
-
 Marcel	e	Marcel
 er	sfg3en	vera
 líka	aa	líka
@@ -2768,7 +2628,6 @@ nemur	sfg3en	nema
 tímavídd	nveo	tímavídd
 kirkjunnar	nveeg	kirkja
 .	.	.
-
 «	«	«
 Þetta	fahen	þessi
 var	sfg3eþ	vera
@@ -2804,7 +2663,6 @@ kapellu	nveþ	kapella
 75	ta	75
 )	)	)
 .	.	.
-
 Áhugi	nken	áhugi
 Marcels	e	Marcel
 á	aþ	á
@@ -2816,7 +2674,6 @@ leiðarstef	nhen	leiðarstef
 gegnum	ao	gegnum
 söguna	nveog	saga
 .	.	.
-
 Roger	e	Roger
 Shattuck	e	Shattuck
 heldur	sfg3en	halda
@@ -2851,7 +2708,6 @@ Leitarinnar	nveegs	Leit
 heild	nveþ	heild
 sinni	feveþ	sinn
 .	.	.
-
 Og	c	og
 í	aþ	í
 því	faheþ	sá
@@ -2875,7 +2731,6 @@ lengi	aa	lengi
 í	aþ	í
 byggingu	nveþ	bygging
 .	.	.
-
 Proust	e	Proust
 notar	sfg3en	nota
 kirkjuna	nveog	kirkja
@@ -2898,7 +2753,6 @@ frá	aþ	frá
 ólíkum	lhfþsf	ólíkur
 sjónarhornum	nhfþ	sjónarhorn
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 athyglinni	nveþg	athygli
@@ -2913,7 +2767,6 @@ er	sfg3en	vera
 sameiningartákn	nhen	sameiningartákn
 fyrir	aa	fyrir
 .	.	.
-
 Hún	fpven	hún
 verður	sfg3en	verða
 svo	aa	svo
@@ -2933,7 +2786,6 @@ eru	sfg3fn	vera
 kirkjuturnar	nkfn	kirkjuturn
 yrkisefnið	nheng	yrkisefni
 .	.	.
-
 Þar	aa	þar
 með	aa	með
 eru	sfg3fn	vera
@@ -2972,7 +2824,6 @@ fyrir	aþ	fyrir
 sjálfum	fbkeþ	sjálfur
 sér	fpkeþ	sig
 .	.	.
-
 Kirkjan	nveng	kirkja
 skipar	sfg3en	skipa
 þennan	fakeo	þessi
@@ -2999,7 +2850,6 @@ hennar	fpvee	hún
 í	aþ	í
 lestri	nkeþ	lestur
 .	.	.
-
 Dómkirkjur	nvfn	dómkirkja
 eru	sfg3fn	vera
 nefnilega	aa	nefnilega
@@ -3015,7 +2865,6 @@ af	aþ	af
 uppáhaldsrithöfundinum	nkeþg	uppáhaldsrithöfundur
 Bergotte	e	Bergotte
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 hins	fakee	hinn
@@ -3040,7 +2889,6 @@ og	c	og
 setningar	nvfn	setning
 höfundarins	nkeeg	höfundur
 .	.	.
-
 Og	c	og
 þegar	c	þegar
 hann	fpken	hann
@@ -3081,7 +2929,6 @@ hugsað	ssg	hugsa
 merkilegar	lvfosf	merkilegur
 hugsanir	nvfo	hugsun
 .	.	.
-
 Með	aþ	með
 miklum	lkeþsf	mikill
 lestri	nkeþ	lestur
@@ -3104,7 +2951,6 @@ sjálfur	fbken	sjálfur
 orðið	ssg	verða
 rithöfundur	nken	rithöfundur
 .	.	.
-
 Bóklesturinn	nkeng	bóklestur
 gegnir	sfg3en	gegna
 því	faheþ	sá
@@ -3124,7 +2970,6 @@ hjá	aþ	hjá
 fyrir	ao	fyrir
 vísindastörf	nhfo	vísindastarf
 .	.	.
-
 Samfélaginu	nheþg	samfélag
 sem	ct	sem
 Marcel	e	Marcel
@@ -3157,7 +3002,6 @@ jafnt	aa	jafnt
 milli	ae	milli
 stétta	nvfe	stétt
 .	.	.
-
 Og	c	og
 þetta	fahen	þessi
 er	sfg3en	vera
@@ -3165,7 +3009,6 @@ mjög	aa	mjög
 stéttskipt	lhensf	stéttskiptur
 samfélag	nhen	samfélag
 .	.	.
-
 Léonie	e	Léonie
 frænka	nven	frænka
 er	sfg3en	vera
@@ -3180,7 +3023,6 @@ og	c	og
 hefur	sfg3en	hafa
 þjónustufólk	nheo	þjónustufólk
 .	.	.
-
 Francoise	e	Francoise
 er	sfg3en	vera
 komin	sþgven	koma
@@ -3197,7 +3039,6 @@ sem	ct	sem
 þjónustukona	nven	þjónustukona
 Léonie	e	Léonie
 .	.	.
-
 Faðir	nken	faðir
 Swann	e	Swann
 var	sfg3eþ	vera
@@ -3219,7 +3060,6 @@ mætir	sfg3en	mæta
 í	ao	í
 matarboð	nhfo	matarboð
 .	.	.
-
 Afi	nken	afi
 Marcels	e	Marcel
 var	sfg3eþ	vera
@@ -3241,7 +3081,6 @@ heimsóknir	nvfo	heimsókn
 til	ae	til
 fjölskyldunnar	nveeg	fjölskylda
 .	.	.
-
 Þau	fphfn	það
 líta	sfg3fn	líta
 hálfpartinn	nkeog	hálfpartur
@@ -3267,7 +3106,6 @@ hann	fpken	hann
 umgengst	sfm3en	umgangast
 aðalsmenn	nkfo	aðalsmaður
 .	.	.
-
 Verkfræðingurinn	nkeng	verkfræðingur
 Legrandine	e	Legrandine
 er	sfg3en	vera
@@ -3293,7 +3131,6 @@ sinni	feveþ	sinn
 í	aþ	í
 Balbec	e	Balbec
 .	.	.
-
 Hæst	lvense	hár
 í	aþ	í
 þjóðfélagsstiga	nkeþ	þjóðfélagsstigi
@@ -3311,7 +3148,6 @@ um	ao	um
 að	cn	að
 hitta	sng	hitta
 .	.	.
-
 Marcel	e	Marcel
 er	sfg3en	vera
 svo	aa	svo
@@ -3327,7 +3163,6 @@ af	aþ	af
 framtíð	nveþ	framtíð
 hans	fpkee	hann
 .	.	.
-
 Hans	nken-s	Hans
 virðist	sfm3en	virða
 ekki	aa	ekki
@@ -3352,7 +3187,6 @@ Bergotte	e	Bergotte
 og	c	og
 Swann	e	Swann
 .	.	.
-
 Í	aþ	í
 þeim	fphfþ	það
 hefur	sfg3en	hafa
@@ -3367,7 +3201,6 @@ virðingar	nvee	virðing
 í	aþ	í
 samfélaginu	nheþg	samfélag
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 ólíkt	lhensf	ólíkur
@@ -3389,7 +3222,6 @@ að	cn	að
 verða	sng	verða
 bóndi	nken	bóndi
 .	.	.
-
 Þórbergur	nken-s	Þórbergur
 flytur	sfg3en	flytja
 síðar	aam	síðar
@@ -3411,7 +3243,6 @@ hann	fpkeo	hann
 í	aþ	í
 æsku	nveþ	æska
 .	.	.
-
 Marcel	e	Marcel
 elst	sfm3en	ala
 hins	fakee	hinn
@@ -3426,7 +3257,6 @@ fyrirmyndirnar	nvfng	fyrirmynd
 eru	sfg3fn	vera
 fleiri	lvfnvm	margur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 til	aa	til
@@ -3452,7 +3282,6 @@ til	ae	til
 að	cn	að
 lesa	sng	lesa
 .	.	.
-
 Þannig	aa	þannig
 að	c	að
 hann	fpken	hann
@@ -3474,7 +3303,6 @@ hans	fpkee	hann
 ólíkt	lhensf	ólíkur
 Þórbergi	nkeþ-s	Þórbergur
 .	.	.
-
 En	c	en
 þeir	fpkfn	hann
 eiga	sfg3fn	eiga
@@ -3488,7 +3316,6 @@ við	ao	við
 fjölskyldur	nvfo	fjölskylda
 sínar	fevfo	sinn
 .	.	.
-
 Áður	aa	áður
 en	c	en
 lengra	aam	langt
@@ -3514,7 +3341,6 @@ heldur	c	heldur
 sem	c	sem
 skáldsaga	nven	skáldsaga
 .	.	.
-
 Hlutinn	nkeng	hluti
 um	ao	um
 Combray	e	Combray
@@ -3552,7 +3378,6 @@ lítið	aa	lítið
 ævi	nveþ	ævi
 hans	fpkee	hann
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 mikilvægt	lhensf	mikilvægur
@@ -3568,7 +3393,6 @@ rannsóknar-aðferðarinnar	nveeg	rannsóknaraðferð
 í	aþ	í
 bókmenntum	nvfþ	bókmennt
 .	.	.
-
 Hann	fpken	hann
 skrifaði	sfg3eþ	skrifa
 bók	nveo	bók
@@ -3592,7 +3416,6 @@ talsmaður	nken	talsmaður
 þeirrar	favee	sá
 aðferðar	nvee	aðferð
 .	.	.
-
 Hún	fpven	hún
 hét	sfg3eþ	heita
 Contre	e	Contre
@@ -3619,7 +3442,6 @@ að	cn	að
 ævi	nveo	ævi
 höfundarins	nkeeg	höfundur
 .	.	.
-
 Sjálfsævisögur	nvfn	sjálfsævisaga
 hljóta	sfg3fn	hljóta
 að	cn	að
@@ -3636,7 +3458,6 @@ frá	aþ	frá
 ævisögulegu	lveþvf	ævisögulegur
 aðferðinni	nveþg	aðferð
 .	.	.
-
 Þær	fpvfn	hún
 fjalla	sfg3fn	fjalla
 um	ao	um
@@ -3658,7 +3479,6 @@ gagni	nheþ	gagn
 fyrir	ao	fyrir
 túlkandann	nkeog	túlkandi
 .	.	.
-
 Þrátt	aa	þrátt
 fyrir	ao	fyrir
 þetta	faheo	þessi
@@ -3681,7 +3501,6 @@ er	sfg3en	vera
 sviðsett	lvensf	sviðsettur
 sjálfsævisaga	nven	sjálfsævisaga
 .	.	.
-
 Maður	nken	maður
 hlýtur	sfg3en	hljóta
 að	cn	að
@@ -3709,7 +3528,6 @@ mjög	aa	mjög
 svipaða	lveosf	svipaður
 ævi	nveo	ævi
 ?	?	?
-
 Slík	fbven	slíkur
 saga	nven	saga
 hlýtur	sfg3en	hljóta
@@ -3723,7 +3541,6 @@ sem	c	sem
 sjálfsævisaga	nven	sjálfsævisaga
 hans	fpkee	hann
 .	.	.
-
 Svarið	nheng	svar
 tengist	sfm3en	tengja
 að	aþ	að
@@ -3736,7 +3553,6 @@ módernisma	nkeþ	módernismi
 þessum	fakeþ	þessi
 tíma	nkeþ	tími
 .	.	.
-
 Margir	lkfnsf	margur
 höfundar	nkfn	höfundur
 ,	,	,
@@ -3764,7 +3580,6 @@ m.a.	as	m.a.
 með	aþ	með
 vitundarflæði	nheþ	vitundarflæði
 .	.	.
-
 Hjá	aþ	hjá
 þeim	fphfþ	það
 er	sfg3en	vera
@@ -3779,7 +3594,6 @@ sem	ct	sem
 skiptir	sfg3en	skipta
 máli	nheþ	mál
 .	.	.
-
 Tilraunir	nvfn	tilraun
 Proust	e	Proust
 með	ao	með
@@ -3791,7 +3605,6 @@ af	aþ	af
 svipuðum	lkeþsf	svipaður
 toga	nkeþ	togi
 .	.	.
-
 Í	aþ	í
 þessari	faveþ	þessi
 umfjöllun	nveþ	umfjöllun
@@ -3823,7 +3636,6 @@ sagan	nveng	saga
 er	sfg3en	vera
 trúverðug	lvensf	trúverðugur
 .	.	.
-
 Margir	lkfnsf	margur
 hafa	sfg3fn	hafa
 einmitt	aa	einmitt
@@ -3839,7 +3651,6 @@ t.d.	as	t.d.
 Cynthia	e	Cynthia
 Gamble	e	Gamble
 :	:	:
-
 Kannski	aa	kannski
 væri	svg3eþ	vera
 best	lhense	góður
@@ -3869,7 +3680,6 @@ að	cn	að
 lýsa	sng	lýsa
 raunveruleikanum	nkeþg	raunveruleiki
 .	.	.
-
 Næst	aae	nærri
 ætla	sfg1en	ætla
 ég	fp1en	ég
@@ -3887,7 +3697,6 @@ um	ao	um
 leiðirnar	nvfog	leið
 tvær	tfvfo	tveir
 .	.	.
-
 Þær	fpvfn	hún
 vísa	sfg3fn	vísa
 til	ae	til
@@ -3902,7 +3711,6 @@ eitthvað	fohen	einhver
 og	c	og
 þroskast	sfm3en	þroska
 .	.	.
-
 William	e	William
 C.	as	C.
 Carter	e	Carter
@@ -3938,7 +3746,6 @@ salónanna	nhfeg	salón
 París	nveþ-s	París
 »	»	»
 .	.	.
-
 Túlkunin	nveng	túlkun
 miðar	sfg3en	miða
 við	ao	við
@@ -3981,7 +3788,6 @@ af	aþ	af
 aðalsætt	nveþ	aðalsætt
 sveitarinnar	nveeg	sveit
 .	.	.
-
 Hér	aa	hér
 verður	sfg3en	verða
 einungis	aa	einungis
@@ -4022,9 +3828,7 @@ hans	fpkee	hann
 á	aþ	á
 bókmenntasviðinu	nheþg	bókmenntasvið
 .	.	.
-
 3.3.	ta	3.3.
-
 Leiðin	nveng	leið
 til	ae	til
 Méséglise	e	Méséglise
@@ -4049,7 +3853,6 @@ sem	ct	sem
 rithöfundinn	nkeog	rithöfundur
 Bergotte	e	Bergotte
 .	.	.
-
 Hann	fpken	hann
 verður	sfg3en	verða
 að	aþ	að
@@ -4062,7 +3865,6 @@ hann	fpken	hann
 sér	sfg3en	sjá
 hana	fpveo	hún
 .	.	.
-
 Þegar	c	þegar
 hann	fpken	hann
 hittir	sfg3en	hitta
@@ -4082,7 +3884,6 @@ fyrir	ao	fyrir
 persónuleika	nkeo	persónuleiki
 hans	fpkee	hann
 .	.	.
-
 Í	aþ	í
 fyrsta	lheþve	fyrstur
 lagi	nheþ	lag
@@ -4113,7 +3914,6 @@ raun	nveþ	raun
 verið	ssg	vera
 svört	lhfnsf	svartur
 .	.	.
-
 Hann	fpken	hann
 hlýtur	sfg3en	hljóta
 að	cn	að
@@ -4141,7 +3941,6 @@ augun	nhfog	auga
 væri	svg3eþ	vera
 röng	lvensf	rangur
 .	.	.
-
 Í	aþ	í
 öðru	lheþsf	öðr
 lagi	nheþ	lag
@@ -4179,7 +3978,6 @@ hún	fpven	hún
 þekkti	svg3eþ	þekkja
 Bergotte	e	Bergotte
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 markar	sfg3en	marka
@@ -4197,7 +3995,6 @@ skotinn	lkensf	skotinn
 í	aþ	í
 stelpu	nveþ	stelpa
 .	.	.
-
 Það	fphen	það
 verða	sfg3fn	verða
 hvörf	nhfn	hvarf
@@ -4228,7 +4025,6 @@ inn	aa	inn
 í	ao	í
 kirkjuna	nveog	kirkja
 .	.	.
-
 Marcel	e	Marcel
 fer	sfg3en	fara
 að	cn	að
@@ -4283,7 +4079,6 @@ hætti	nkeþ	háttur
 160	ta	160
 )	)	)
 .	.	.
-
 Og	c	og
 hann	fpken	hann
 áttar	sfg3en	átta
@@ -4318,7 +4113,6 @@ skipti	nheo	skipti
 160	ta	160
 )	)	)
 .	.	.
-
 Svo	aa	svo
 virðist	sfm3en	virða
 sem	c	sem
@@ -4342,7 +4136,6 @@ styður	sfg3en	styðja
 þann	fakeo	sá
 lestur	nkeo	lestur
 .	.	.
-
 Hann	fpken	hann
 fær	sfg3en	fá
 hins	fakee	hinn
@@ -4356,7 +4149,6 @@ engin	foven	enginn
 bóndakona	nven	bóndakona
 birtist	sfm3en	birta
 .	.	.
-
 Smám	aa	smám
 saman	aa	saman
 sættir	sfg3en	sætta
@@ -4379,7 +4171,6 @@ vefja	sng	vefja
 göngum	nvfþ	ganga
 sínum	fevfþ	sinn
 .	.	.
-
 Hann	fpken	hann
 hættir	sfg3en	hætta
 að	cn	að
@@ -4393,7 +4184,6 @@ hans	fpkee	hann
 verður	sfg3en	verða
 raunsærri	lvenvm	raunsær
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 á	aþ	á
@@ -4401,7 +4191,6 @@ ferð	nveþ	ferð
 mikil	lvensf	mikill
 gerjun	nven	gerjun
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 orðinn	sþgken	verða
@@ -4414,7 +4203,6 @@ eru	sfg3fn	vera
 ekki	aa	ekki
 raunverulegir	lkfnsf	raunverulegur
 .	.	.
-
 Áður	aa	áður
 var	sfg3eþ	vera
 veruleikinn	nkeng	veruleiki
@@ -4427,7 +4215,6 @@ og	c	og
 veruleiki	nken	veruleiki
 barns	nhee	barn
 .	.	.
-
 Nú	aa	nú
 er	sfg3en	vera
 eins	aa	eins
@@ -4451,7 +4238,6 @@ ferðast	sfm3en	ferðast
 um	aa	um
 í	aa	í
 .	.	.
-
 Og	c	og
 hann	fpken	hann
 er	sfg3en	vera
@@ -4472,7 +4258,6 @@ að	cn	að
 skemmta	sng	skemmta
 sér	fpkeþ	sig
 .	.	.
-
 Þegar	c	þegar
 hann	fpken	hann
 er	sfg3en	vera
@@ -4505,7 +4290,6 @@ með	aþ	með
 vinkonu	nveþ	vinkona
 sinni	feveþ	sinn
 .	.	.
-
 Kynlíf	nhen	kynlíf
 þeirra	fpvfe	hún
 er	sfg3en	vera
@@ -4527,7 +4311,6 @@ vanhelganir	nvfo	vanhelgun
 167	ta	167
 )	)	)
 .	.	.
-
 Þegar	c	þegar
 Marcel	e	Marcel
 hefur	sfg3en	hafa
@@ -4542,7 +4325,6 @@ lengur	aam	lengi
 saklaust	lhensf	saklaus
 barn	nhen	barn
 .	.	.
-
 Kaflinn	nkeng	kafli
 um	ao	um
 leiðina	nveog	leið
@@ -4562,7 +4344,6 @@ um	ao	um
 og	c	og
 kynlíf	nheo	kynlíf
 .	.	.
-
 Hann	fpken	hann
 hefst	sfm3en	hefja
 á	aþ	á
@@ -4587,7 +4368,6 @@ dekkri	lveþvm	dökkur
 hlið	nveþ	hlið
 kynlífs	nhee	kynlíf
 .	.	.
-
 Marcel	e	Marcel
 verður	sfg3en	verða
 hins	fakee	hinn
@@ -4623,7 +4403,6 @@ lífi	nheþ	líf
 168	ta	168
 )	)	)
 .	.	.
-
 Vinteuil	e	Vinteuil
 er	sfg3en	vera
 ,	,	,
@@ -4642,7 +4421,6 @@ hann	fpken	hann
 er	sfg3en	vera
 tónskáld	nhen	tónskáld
 .	.	.
-
 Og	c	og
 hér	aa	hér
 verður	sfg3en	verða
@@ -4664,7 +4442,6 @@ svívirtur	sþgken	svívirða
 eftir	ao	eftir
 dauðann	nkeog	dauði
 .	.	.
-
 Meðferð	nven	meðferð
 fröken	nvee	fröken
 Vinteuil	e	Vinteuil
@@ -4682,7 +4459,6 @@ Marcel	e	Marcel
 þau	fphfn	það
 hittast	sfm3fn	hitta
 .	.	.
-
 Hún	fpven	hún
 starir	sfg3en	stara
 á	ao	á
@@ -4716,7 +4492,6 @@ móðgun	nveo	móðgun
 148	ta	148
 )	)	)
 .	.	.
-
 Eftir	ao	eftir
 þennan	fakeo	þessi
 fund	nkeo	fundur
@@ -4745,7 +4520,6 @@ náttúrulögmála	nhfe	náttúrulögmál
 149	ta	149
 )	)	)
 .	.	.
-
 Herra	nken	herra
 Vinteuil	e	Vinteuil
 virðist	sfm3en	virða
@@ -4772,7 +4546,6 @@ mætti	svg3eþ	mega
 setja	sng	setja
 Swann	e	Swann
 .	.	.
-
 Þeir	fpkfn	hann
 eru	sfg3fn	vera
 óheppnir	lkfnsf	óheppinn
@@ -4785,7 +4558,6 @@ sig	fpkeo	sig
 með	aþ	með
 þeim	fpkfþ	hann
 .	.	.
-
 Það	fphen	það
 verður	sfg3en	verða
 sérstaklega	aa	sérstaklega
@@ -4813,7 +4585,6 @@ Marcels	e	Marcel
 gagnvart	aþ	gagnvart
 Gilberte	e	Gilberte
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 kannski	aa	kannski
@@ -4849,7 +4620,6 @@ séu	svg3fn	vera
 í	aþ	í
 ástarmálum	nhfþ	ástarmál
 .	.	.
-
 Í	aþ	í
 greininni	nveþg	grein
 «	«	«
@@ -4875,7 +4645,6 @@ vaxandi	lveoof	vaxandi
 vitund	nveo	vitund
 Marcels	e	Marcel
 .	.	.
-
 Þeim	fpvfþ	hún
 megi	svg3en	mega
 svo	aa	svo
@@ -4932,7 +4701,6 @@ innri	lkeþvm	innri
 heimi	nkeþ	heimur
 .	.	.
 »	»	»
-
 Í	aþ	í
 fyrri	lkeþvm	fyrri
 flokknum	nkeþg	flokkur
@@ -4959,7 +4727,6 @@ endanum	nkeþg	endi
 slæm	lvensf	slæmur
 fyrirmynd	nven	fyrirmynd
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 tvennt	lhensf	tvennur

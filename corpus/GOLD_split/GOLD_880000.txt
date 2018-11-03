@@ -20,7 +20,6 @@ hafa	sfg3fn	hafa
 fasta	lveosf	fastur
 búsetu	nveo	búseta
 ...	...	...
-
 Því	aa	því
 er	sfg3en	vera
 svarið	nheng	svar
@@ -41,7 +40,6 @@ sjálfkrafa	aa	sjálfkrafa
 bandarískan	lkeosf	bandarískur
 ríkisborgararétt	nkeo	ríkisborgararéttur
 .	.	.
-
 Þess	fphee	það
 má	sfg3en	mega
 þó	aa	þó
@@ -86,7 +84,6 @@ aðeins	aa	aðeins
 öðru	foheþ	annar
 landinu	nheþg	land
 .	.	.
-
 Já	au	já
 ,	,	,
 Alþingi	nhen-s	Alþingi
@@ -100,14 +97,12 @@ sinnt	ssg	sinna
 hefðbundnum	lhfþsf	hefðbundinn
 þingstörfum	nhfþ	þingstarf
 .	.	.
-
 Í	aþ	í
 37.	ta	37.
 grein	nveþ	grein
 stjórnarskrárinnar	nveeg	stjórnarskrá
 segir	sfg3en	segja
 :	:	:
-
 Samkomustaður	nken	samkomustaður
 Alþingis	nhee-s	Alþingi
 er	sfg3en	vera
@@ -115,7 +110,6 @@ jafnaðarlega	aa	jafnaðarlega
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Þegar	c	þegar
 sérstaklega	aa	sérstaklega
 er	sfg3en	vera
@@ -139,7 +133,6 @@ stað	nkeþ	staður
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Heimildin	nveng	heimild
 til	ae	til
 að	cn	að
@@ -175,7 +168,6 @@ samanber	sfg3en	samanbera
 grein	nveo	grein
 stjórnarskrárinnar	nveeg	stjórnarskrá
 .	.	.
-
 Forsetinn	nkeng	forseti
 myndi	svg3eþ	munu
 svo	aa	svo
@@ -187,7 +179,6 @@ samanber	sfg3en	samanbera
 19.	ta	19.
 grein	nveo	grein
 .	.	.
-
 Ekki	aa	ekki
 kemur	sfg3en	koma
 oft	aa	oft
@@ -199,7 +190,6 @@ heimild	nveþ	heimild
 er	sfg3en	vera
 beitt	sþghen	beita
 .	.	.
-
 Þess	fphee	það
 eru	sfg3fn	vera
 þó	aa	þó
@@ -222,7 +212,6 @@ júlí	nkeo	júlí
 árið	nheog	ár
 2000	ta	2000
 .	.	.
-
 Á	aþ	á
 fundinum	nkeþg	fundur
 var	sfg3eþ	vera
@@ -240,7 +229,6 @@ tóku	sfg3fþ	taka
 til	ae	til
 máls	nhee	mál
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 í	ao	í
@@ -258,7 +246,6 @@ endurreisn	nveþ	endurreisn
 árið	nheog	ár
 1843	ta	1843
 .	.	.
-
 Fyrir	ao	fyrir
 utan	aa	utan
 hátíðleg	lhfosf	hátíðlegur
@@ -296,14 +283,12 @@ annarra	fovfe	annar
 ófyrirsjáanlegra	lvfesf	ófyrirsjáanlegur
 ástæðna	nvfe	ástæða
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 einnig	aa	einnig
 svarað	sþghen	svara
 spurningunni	nveþg	spurning
 :	:	:
-
 o	x	o
 Hver	fshfn	hver
 eru	sfg3fn	vera
@@ -311,11 +296,9 @@ skilyrðin	nhfng	skilyrði
 til	ae	til
 kosningaréttar	nkee	kosningaréttur
 ?	?	?
-
 (	(	(
 Róbert	nken-s	Róbert
 )	)	)
-
 Í	aþ	í
 stjórnarskránni	nveþg	stjórnarskrá
 er	sfg3en	vera
@@ -335,14 +318,12 @@ embættis	nhee	embætti
 forseta	nkee	forseti
 Íslands	nhee-s	Ísland
 .	.	.
-
 Í	aþ	í
 4.	ta	4.
 grein	nveþ	grein
 stjórnarskrárinnar	nveeg	stjórnarskrá
 segir	sfg3en	segja
 :	:	:
-
 Kjörgengur	lkensf	kjörgengur
 til	ae	til
 forseta	nkee	forseti
@@ -364,13 +345,11 @@ að	c	að
 fráskildu	lheþsf	fráskilinn
 búsetuskilyrðinu	nheþg	búsetuskilyrði
 .	.	.
-
 Í	aþ	í
 34.	ta	34.
 grein	nveþ	grein
 segir	sfg3en	segja
 :	:	:
-
 Kjörgengur	lkensf	kjörgengur
 við	ao	við
 kosningar	nvfo	kosning
@@ -390,14 +369,12 @@ hefur	sfg3en	hafa
 óflekkað	lheosf	óflekkaður
 mannorð	nheo	mannorð
 .	.	.
-
 Hæstaréttardómarar	nkfn	hæstaréttardómari
 eru	sfg3fn	vera
 þó	aa	þó
 ekki	aa	ekki
 kjörgengir	lkfnsf	kjörgengur
 .	.	.
-
 Báðar	fovfn	báðir
 greinarnar	nvfng	grein
 vísa	sfg3fn	vísa
@@ -407,7 +384,6 @@ reglna	nvfe	regla
 um	ao	um
 kosningarétt	nkeo	kosningaréttur
 .	.	.
-
 Skilyrði	nhfo	skilyrði
 þess	fphee	það
 að	cn	að
@@ -425,7 +401,6 @@ hljóðar	sfg3en	hljóða
 hún	fpven	hún
 svo	aa	svo
 :	:	:
-
 Kosningarrétt	nkeo	kosningarréttur
 við	ao	við
 kosningar	nvfo	kosning
@@ -448,7 +423,6 @@ hafa	sfg3fn	hafa
 íslenskan	lkeosf	íslenskur
 ríkisborgararétt	nkeo	ríkisborgararéttur
 .	.	.
-
 Lögheimili	nhen	lögheimili
 á	aþ	á
 Íslandi	nheþ-s	Ísland
@@ -477,7 +451,6 @@ kosningar	nvfo	kosning
 til	ae	til
 Alþingis	nhee-s	Alþingi
 .	.	.
-
 Í	aþ	í
 1.	ta	1.
 grein	nveþ	grein
@@ -489,7 +462,6 @@ til	ae	til
 Alþingis	nhee-s	Alþingi
 segir	sfg3en	segja
 :	:	:
-
 Kosningarrétt	nkeo	kosningarréttur
 við	ao	við
 kosningar	nvfo	kosning
@@ -516,14 +488,12 @@ hér	aa	hér
 á	aþ	á
 landi	nheþ	land
 .	.	.
-
 Í	aþ	í
 4.	ta	4.
 grein	nveþ	grein
 laganna	nhfeg	lag
 segir	sfg3en	segja
 :	:	:
-
 Kjörgengur	lkensf	kjörgengur
 við	ao	við
 kosningar	nvfo	kosning
@@ -543,7 +513,6 @@ hefur	sfg3en	hafa
 óflekkað	lheosf	óflekkaður
 mannorð	nheo	mannorð
 .	.	.
-
 Hæstaréttardómarar	nkfn	hæstaréttardómari
 og	c	og
 umboðsmaður	nken	umboðsmaður
@@ -553,7 +522,6 @@ eru	sfg3fn	vera
 ekki	aa	ekki
 kjörgengir	lkfnsf	kjörgengur
 .	.	.
-
 Ef	c	ef
 við	fp1fn	ég
 tökum	sfg1fn	taka
@@ -574,7 +542,6 @@ forseti	nken	forseti
 Íslands	nhee-s	Ísland
 eru	sfg3fn	vera
 :	:	:
-
 o	x	o
 35	ta	35
 ára	nhfe	ár
@@ -582,7 +549,6 @@ aldur	nken	aldur
 o	x	o
 Íslenskur	lkensf	íslenskur
 ríkisborgararéttur	nken	ríkisborgararéttur
-
 Skilyrði	nhfn	skilyrði
 til	ae	til
 þess	fphee	það
@@ -596,7 +562,6 @@ eru	sfg3fn	vera
 hins	fakee	hinn
 vegar	nkee	vegur
 :	:	:
-
 o	x	o
 18	ta	18
 ára	nhfe	ár
@@ -619,7 +584,6 @@ hæstaréttardómara	nkee	hæstaréttardómari
 eða	c	eða
 umboðsmanns	nkee	umboðsmaður
 Alþingis	nhee-s	Alþingi
-
 Af	aþ	af
 þessu	faheþ	þessi
 er	sfg3en	vera
@@ -635,7 +599,6 @@ kröfur	nvfo	krafa
 um	ao	um
 íslenskukunnáttu	nveo	íslenskukunnátta
 .	.	.
-
 Íslensks	lkeesf	íslenskur
 ríkisborgararéttar	nkee	ríkisborgararéttur
 er	sfg3en	vera
@@ -643,7 +606,6 @@ hins	fakee	hinn
 vegar	nkee	vegur
 krafist	sþmhen	krefja
 .	.	.
-
 Í	aþ	í
 lögum	nhfþ	lag
 100/1952	ta	100/1952
@@ -663,7 +625,6 @@ fá	sng	fá
 íslenskan	lkeosf	íslenskur
 ríkisborgararétt	nkeo	ríkisborgararéttur
 .	.	.
-
 Íslenskukunnátta	nven	íslenskukunnátta
 er	sfg3en	vera
 ekki	aa	ekki
@@ -672,7 +633,6 @@ af	aþ	af
 þeim	fahfþ	sá
 skilyrðum	nhfþ	skilyrði
 .	.	.
-
 Lagalega	aa	lagalega
 eru	sfg3fn	vera
 því	aa	því
@@ -686,7 +646,6 @@ að	cn	að
 njóta	sng	njóta
 kjörgengis	nhee	kjörgengi
 .	.	.
-
 Í	aþ	í
 lögum	nhfþ	lag
 er	sfg3en	vera
@@ -721,7 +680,6 @@ beita	sng	beita
 öðrum	fovfþ	annar
 aðferðum	nvfþ	aðferð
 .	.	.
-
 Í	aþ	í
 þessu	faheþ	þessi
 felst	sfm3en	fela
@@ -768,7 +726,6 @@ yfir	aþ	yfir
 líkama	nkeþ	líkami
 sínum	fekeþ	sinn
 .	.	.
-
 Lög	nhfn	lag
 banna	sfg3fn	banna
 til	ae	til
@@ -793,7 +750,6 @@ hreyfingarleysi	nheþ	hreyfingarleysi
 eða	c	eða
 ofáti	nheþ	ofát
 .	.	.
-
 Slíkar	fbvfn	slíkur
 reglur	nvfn	regla
 myndu	svg3fþ	munu
@@ -829,7 +785,6 @@ eða	c	eða
 ekki	aa	ekki
 lægju	svg3fþ	liggja
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 undir	aþ	undir
@@ -852,14 +807,12 @@ skaðar	sfg3en	skaða
 ekki	aa	ekki
 aðra	fokfo	annar
 .	.	.
-
 Meira	lheovm	mikill
 um	ao	um
 mannát	nheo	mannát
 á	aþ	á
 Vísindavefnum	nkeþgs	Vísindavefur
 :	:	:
-
 o	x	o
 Eru	sfg3fn	vera
 til	aa	til
@@ -868,12 +821,10 @@ sem	ct	sem
 borða	sfg3fn	borða
 mannakjöt	nheo	mannakjöt
 ?	?	?
-
 Hvar	aa	hvar
 eru	sfg3fn	vera
 þær	fpvfn	hún
 ?	?	?
-
 eftir	ao	eftir
 Arnar	nkeo-s	Arnar
 Árnason	nkeo-s	Árnason
@@ -885,7 +836,6 @@ stundaði	sfg3eþ	stunda
 Amín	e	Amín
 mannát	nheo	mannát
 ?	?	?
-
 eftir	ao	eftir
 Jón	nkeo-s	Jón
 Gunnar	nkeo-s	Gunnar
@@ -902,12 +852,10 @@ fyrir	aþ	fyrir
 2000	ta	2000
 árum	nhfþ	ár
 ?	?	?
-
 eftir	ao	eftir
 Valgerði	nveo-s	Valgerður
 G.	as	G.
 Johnsen	nveo-s	Johnsen
-
 Svarið	nheng	svar
 við	aþ	við
 þessari	faveþ	þessi
@@ -924,7 +872,6 @@ með	ao	með
 djarfar	lvfosf	djarfur
 fullorðinsmyndir	nvfo	fullorðinsmynd
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 210.	ta	210.
 gr.	as	gr.
@@ -946,10 +893,8 @@ og	c	og
 dreifa	sng	dreifa
 klámmyndum	nvfþ	klámmynd
 .	.	.
-
 210.	ta	210.
 gr.	as	gr.
-
 Ef	c	ef
 klám	nhen	klám
 birtist	sfm3en	birta
@@ -978,7 +923,6 @@ að	aa	að
 6	ta	6
 mánuðum	nkfþ	mánuður
 .	.	.
-
 Sömu	fbveo	sami
 refsingu	nveo	refsing
 varðar	sfg3en	varða
@@ -1034,7 +978,6 @@ er	sfg3en	vera
 sama	fbkeo	samur
 hátt	nkeo	háttur
 .	.	.
-
 [	[	[
 Þegar	c	þegar
 slíkt	fbhen	slíkur
@@ -1057,7 +1000,6 @@ að	aþ	að
 árum	nhfþ	ár
 .	.	.
 ]	]	]
-
 Við	fp1fn	ég
 getum	sfg1fn	geta
 því	aa	því
@@ -1079,7 +1021,6 @@ myndin	nveng	mynd
 undir	ao	undir
 ákvæðið	nheog	ákvæði
 .	.	.
-
 Ef	c	ef
 ekki	aa	ekki
 er	sfg3en	vera
@@ -1091,7 +1032,6 @@ framleiða	sng	framleiða
 slíka	fbveo	slíkur
 mynd	nveo	mynd
 .	.	.
-
 Nánari	lvenvm	náinn
 útskýring	nven	útskýring
 á	aþ	á
@@ -1101,7 +1041,6 @@ er	sfg3en	vera
 ekki	aa	ekki
 auðfundin	lvensf	auðfundinn
 .	.	.
-
 Hegningarlögin	nhfng	hegningarlög
 voru	sfg3fþ	vera
 sett	sþghfn	setja
@@ -1130,7 +1069,6 @@ talsvert	aa	talsvert
 síðan	aa	síðan
 þá	aa	þá
 .	.	.
-
 Utan	ae	utan
 lögfræðilegrar	lveesf	lögfræðilegur
 umræðu	nvee	umræða
@@ -1159,7 +1097,6 @@ Hvað	fshen	hver
 er	sfg3en	vera
 klám	nhen	klám
 ?	?	?
-
 Í	aþ	í
 lagalegum	lkeþsf	lagalegur
 skilningi	nkeþ	skilningur
@@ -1199,7 +1136,6 @@ tjáning	nven	tjáning
 ástar	nvee	ást
 »	»	»
 .	.	.
-
 Ennfremur	aa	ennfremur
 er	sfg3en	vera
 gerður	sþgken	gera
@@ -1227,7 +1163,6 @@ kemur	sfg3en	koma
 við	ao	við
 sögu	nveo	saga
 .	.	.
-
 Við	ao	við
 þessa	faveo	þessi
 skilgreiningu	nveo	skilgreining
@@ -1243,7 +1178,6 @@ og	c	og
 dreifingu	nveo	dreifing
 þeirra	fpvfe	hún
 .	.	.
-
 Skilgreiningin	nveng	skilgreining
 er	sfg3en	vera
 frá	aþ	frá
@@ -1260,7 +1194,6 @@ Menningarstofnunar	nvee-s	Menningarstofnun
 Sameinuðu	lvfevf	sameinaður
 þjóðanna	nvfeg	þjóð
 .	.	.
-
 Hæstiréttur	nken	hæstiréttur
 hefur	sfg3en	hafa
 þrívegis	aa	þrívegis
@@ -1277,7 +1210,6 @@ máli	nheþ	mál
 H	x	h
 321/2000	ta	321/2000
 .	.	.
-
 Þannig	aa	þannig
 er	sfg3en	vera
 einkum	aa	einkum
@@ -1307,7 +1239,6 @@ tjáningu	nveo	tjáning
 að	cn	að
 gera	sng	gera
 .	.	.
-
 Því	aa	því
 getur	sfg3en	geta
 mynd	nven	mynd
@@ -1338,7 +1269,6 @@ flokkist	svm3en	flokka
 sem	c	sem
 klámmynd	nven	klámmynd
 .	.	.
-
 En	c	en
 þrátt	aa	þrátt
 fyrir	ao	fyrir
@@ -1376,7 +1306,6 @@ myndar	sfg3en	mynda
 hverju	foheþ	hver
 sinni	nheþ	sinn
 .	.	.
-
 Sú	faven	sá
 regla	nven	regla
 að	c	að
@@ -1392,7 +1321,6 @@ fram	aa	fram
 settu	lheþsf	settur
 lagaákvæði	nheþ	lagaákvæði
 .	.	.
-
 Regluna	nveog	regla
 má	sfg3en	mega
 leiða	sng	leiða
@@ -1410,7 +1338,6 @@ lög	nhfn	lag
 standist	svm3fn	standa
 stjórnarskrá	nveo	stjórnarskrá
 .	.	.
-
 Styðst	sfm3en	styðja
 þessi	faven	þessi
 regla	nven	regla
@@ -1419,7 +1346,6 @@ mörg	lhfosf	margur
 fordæmi	nhfo	fordæmi
 dómstóla	nkfe	dómstóll
 .	.	.
-
 Hæstiréttur	nken	hæstiréttur
 hefur	sfg3en	hafa
 nokkrum	fohfþ	nokkur
@@ -1436,7 +1362,6 @@ fyrst	aae	fyrr
 svokölluðu	lheþsf	svokallaður
 Hrafnkötlumáli	nheþ-s	Hrafnkötlumál
 .	.	.
-
 Þá	aa	þá
 komst	sfm3eþ	koma
 dómurinn	nkeng	dómur
@@ -1470,7 +1395,6 @@ gegn	aþ	gegn
 tjáningarfrelsisákvæði	nheþ	tjáningarfrelsisákvæði
 stjórnarskrárinnar	nveeg	stjórnarskrá
 .	.	.
-
 Reglan	nveng	regla
 um	ao	um
 endurskoðunarvald	nheo	endurskoðunarvald
@@ -1493,7 +1417,6 @@ breyta	sng	breyta
 megi	svg3en	mega
 stjórnarskránni	nveþg	stjórnarskrá
 .	.	.
-
 2	ta	2
 Staða	nven	staða
 stjórnarskrárinnar	nveeg	stjórnarskrá
@@ -1515,7 +1438,6 @@ gagnvart	aþ	gagnvart
 öðrum	fohfþ	annar
 lögum	nhfþ	lag
 .	.	.
-
 Slíkt	fbhen	slíkur
 ákvæði	nhen	ákvæði
 myndi	svg3eþ	munu
@@ -1542,7 +1464,6 @@ er	sfg3en	vera
 öðrum	fohfþ	annar
 lögum	nhfþ	lag
 .	.	.
-
 Sett	lhfnsf	settur
 lög	nhfn	lag
 frá	aþ	frá
@@ -1568,7 +1489,6 @@ ekki	aa	ekki
 gild	lvensf	gildur
 réttarheimild	nven	réttarheimild
 .	.	.
-
 Þetta	fahen	þessi
 á	sfg3en	eiga
 við	aa	við
@@ -1586,7 +1506,6 @@ varðandi	slg	varða
 mannréttindakafla	nkeo	mannréttindakafli
 hennar	fpvee	hún
 .	.	.
-
 Þrátt	aa	þrátt
 fyrir	ao	fyrir
 að	c	að
@@ -1620,7 +1539,6 @@ hennar	fpvee	hún
 verði	svg3en	verða
 mótmælt	sþghen	mótmæla
 .	.	.
-
 Stjórnarskráin	nveng	stjórnarskrá
 er	sfg3en	vera
 það	fahen	sá
@@ -1649,7 +1567,6 @@ höfum	sfg1fn	hafa
 í	aþ	í
 heiðri	nkeþ	heiður
 .	.	.
-
 Hún	fpven	hún
 á	sfg3en	eiga
 að	cn	að
@@ -1668,7 +1585,6 @@ stundarátök	nhfo	stundarátök
 »	»	»
 3	ta	3
 .	.	.
-
 Ísland	nhen-s	Ísland
 er	sfg3en	vera
 að	aþ	að
@@ -1686,7 +1602,6 @@ flest	lhfnse	margur
 ríki	nhfn	ríki
 heimsins	nkeeg	heimur
 .	.	.
-
 Fyrsta	lvenve	fyrstur
 nútíma	nkee	nútími
 stjórnarskráin	nveng	stjórnarskrá
@@ -1698,7 +1613,6 @@ Bandaríkjunum	nhfþgs	Bandaríki
 18.	ta	18.
 öld	nveþ	öld
 .	.	.
-
 Höfundar	nkfn	höfundur
 hennar	fpvee	hún
 sóttu	sfg3fþ	sækja
@@ -1716,7 +1630,6 @@ og	c	og
 John	e	John
 Locke	e	Locke
 .	.	.
-
 Þeir	fpkfn	hann
 vildu	sfg3fþ	vilja
 tryggja	sng	tryggja
@@ -1748,7 +1661,6 @@ og	c	og
 breyta	sng	breyta
 stjórnarskránni	nveþg	stjórnarskrá
 .	.	.
-
 Með	aþ	með
 bandarísku	lveþvf	bandarískur
 stjórnarskránni	nveþg	stjórnarskrá
@@ -1770,10 +1682,8 @@ saman	aa	saman
 eina	tfveo	einn
 heild	nveo	heild
 .	.	.
-
 4	ta	4
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 er	sfg3en	vera
@@ -1792,7 +1702,6 @@ er	sfg3en	vera
 ekki	aa	ekki
 eilíf	lvensf	eilífur
 .	.	.
-
 Samfélög	nhfn	samfélag
 manna	nkfe	maður
 þróast	sfm3fn	þróa
@@ -1815,7 +1724,6 @@ hæglega	aa	hæglega
 seinna	aam	seint
 meir	aam	meir
 .	.	.
-
 Breytingar	nvfn	breyting
 í	aþ	í
 samfélaginu	nheþg	samfélag
@@ -1842,7 +1750,6 @@ löggjöfina	nveog	löggjöf
 og	c	og
 stjórnarskrána	nveog	stjórnarskrá
 .	.	.
-
 Kæmist	svm3eþ	koma
 sá	faken	sá
 stjórnmálaflokkur	nken	stjórnmálaflokkur
@@ -1878,7 +1785,6 @@ eða	c	eða
 ógilt	ssg	ógilda
 hana	fpveo	hún
 .	.	.
-
 Breytingar	nvfn	breyting
 á	aþ	á
 stjórnarskránni	nveþg	stjórnarskrá
@@ -1912,7 +1818,6 @@ til	ae	til
 almennra	lvfesf	almennur
 þingkosninga	nvfe	þingkosning
 .	.	.
-
 Nýkosið	lhensf	nýkosinn
 Alþingi	nhen-s	Alþingi
 tekur	sfg3en	taka
@@ -1931,7 +1836,6 @@ taka	sfg3fn	taka
 þau	fphfn	það
 gildi	nheo	gildi
 .	.	.
-
 Næðist	svm3eþ	ná
 víðtæk	lvensf	víðtækur
 pólitísk	lvensf	pólitískur
@@ -1962,7 +1866,6 @@ með	aþ	með
 löglegum	lkeþsf	löglegur
 hætti	nkeþ	háttur
 .	.	.
-
 Eðlilegt	lhensf	eðlilegur
 er	sfg3en	vera
 að	c	að
@@ -1973,7 +1876,6 @@ breytist	svm3en	breyta
 með	aþ	með
 tímanum	nkeþg	tími
 .	.	.
-
 Tilgangurinn	nkeng	tilgangur
 með	aþ	með
 stjórnarskránni	nveþg	stjórnarskrá
@@ -1993,7 +1895,6 @@ samfélagsins	nheeg	samfélag
 hverju	foheþ	hver
 sinni	nheþ	sinn
 .	.	.
-
 Ef	c	ef
 stjórnarskráin	nveng	stjórnarskrá
 nær	sfg3en	ná
@@ -2028,78 +1929,60 @@ hirðir	sfg3en	hirða
 um	aa	um
 ...	...	...
 »	»	»
-
 4	ta	4
 Tilvísanir	nvfn	tilvísun
 :	:	:
 1	ta	1
 .	.	.
-
 Um	ao	um
 lög	nhfo	lag
 og	c	og
 lögfræði	nveo	lögfræði
 .	.	.
-
 Sigurður	nken-s	Sigurður
 Líndal	nken-s	Líndal
 .	.	.
-
 Bls.	as	bls.
 86	ta	86
 .	.	.
-
 2	ta	2
 .	.	.
-
 Gunnar	nken-s	Gunnar
 G.	as	G.
 Schram	nken-s	Schram
 .	.	.
-
 Stjórnskipunarréttur	nken	stjórnskipunarréttur
 .	.	.
-
 Bls.	as	bls.
 24	ta	24
 .	.	.
-
 3	ta	3
 .	.	.
-
 Atli	nken-s	Atli
 Harðarson	nken-s	Harðarson
 .	.	.
-
 Lýðræði	nhen	lýðræði
 .	.	.
-
 Líndæla	nven-s	Líndæla
 -	-	-
 Sigurður	nken-s	Sigurður
 Líndal	nken-s	Líndal
 sjötugur	lkensf	sjötugur
 .	.	.
-
 Bls.	as	bls.
 25-26	ta	25-26
 .	.	.
-
 4	ta	4
 .	.	.
-
 Gunnar	nken-s	Gunnar
 G.	as	G.
 Schram	nken-s	Schram
 .	.	.
-
 Stjórnskipunarréttur	nken	stjórnskipunarréttur
 .	.	.
-
 Bls.	as	bls.
 24	ta	24
 .	.	.
-
 Spurningin	nveng	spurning
 í	aþ	í
 heild	nveþ	heild
@@ -2107,14 +1990,12 @@ sinni	feveþ	sinn
 hljóðaði	sfg3eþ	hljóða
 svona	aa	svona
 :	:	:
-
 Geta	sfg3fn	geta
 einkaaðilar	nkfn	einkaaðili
 tekið	ssg	taka
 land	nheo	land
 eignarnámi	nheþ	eignarnám
 ?	?	?
-
 Ef	c	ef
 svo	aa	svo
 er	sfg3en	vera
@@ -2126,7 +2007,6 @@ tekur	sfg3en	taka
 um	ao	um
 eignarnámið	nheog	eignarnám
 ?	?	?
-
 Í	aþ	í
 1.	ta	1.
 mgr.	as	mgr.
@@ -2139,16 +2019,13 @@ um	ao	um
 vernd	nveo	vernd
 eignarréttarins	nkeeg	eignarréttur
 .	.	.
-
 Þar	aa	þar
 segir	sfg3en	segja
 :	:	:
-
 Eignarrétturinn	nkeng	eignarréttur
 er	sfg3en	vera
 friðhelgur	lkensf	friðhelgur
 .	.	.
-
 Engan	fokeo	enginn
 má	sfg3en	mega
 skylda	sng	skylda
@@ -2163,7 +2040,6 @@ nema	c	nema
 almenningsþörf	nven	almenningsþörf
 krefji	svg3en	krefja
 .	.	.
-
 Þarf	sfg3en	þurfa
 til	ae	til
 þess	fphee	það
@@ -2174,7 +2050,6 @@ fullt	lhensf	fullur
 verð	nhen	verð
 fyrir	aa	fyrir
 .	.	.
-
 Þetta	fahen	þessi
 ákvæði	nhen	ákvæði
 setur	sfg3en	setja
@@ -2183,7 +2058,6 @@ skilyrði	nhfo	skilyrði
 fyrir	aþ	fyrir
 eignarnámi	nheþ	eignarnám
 .	.	.
-
 Að	c	að
 almenningsþörf	nven	almenningsþörf
 krefji	svg3en	krefja
@@ -2202,7 +2076,6 @@ bætur	nvfn	bót
 komi	svg3en	koma
 fyrir	aa	fyrir
 .	.	.
-
 Fyrstu	lhfnve	fyrstur
 tvö	tfhfn	tveir
 skilyrðin	nhfng	skilyrði
@@ -2228,7 +2101,6 @@ sem	ct	sem
 heimila	sfg3fn	heimila
 eignarnám	nheo	eignarnám
 .	.	.
-
 Matsnefnd	nven	matsnefnd
 um	ao	um
 eignarnámsbætur	nvfo	eignarnámsbætur
@@ -2242,7 +2114,6 @@ eignarnámið	nheog	eignarnám
 skv.	as	skv.
 lögum	nhfþ	lag
 11/1973	ta	11/1973
-
 Heimildir	nvfn	heimild
 löggjafans	nkeeg	löggjafi
 til	ae	til
@@ -2266,7 +2137,6 @@ séu	svg3fn	vera
 veittar	sþgvfn	veita
 eignarnámsheimildir	nvfn	eignarnámsheimild
 .	.	.
-
 Algengast	lhense	algengur
 er	sfg3en	vera
 að	c	að
@@ -2277,7 +2147,6 @@ heimild	nven	heimild
 til	ae	til
 eignarnáms	nhee	eignarnám
 .	.	.
-
 Heimildin	nveng	heimild
 er	sfg3en	vera
 oftast	aae	oft
@@ -2298,7 +2167,6 @@ við	ao	við
 ákveðin	lhfosf	ákveðinn
 skilyrði	nhfo	skilyrði
 .	.	.
-
 Sem	c	sem
 dæmi	nheo	dæmi
 má	sfg3en	mega
@@ -2330,7 +2198,6 @@ til	ae	til
 lagningar	nvee	lagning
 vega	nkfe	vegur
 .	.	.
-
 Ýmislegt	lhensf	ýmislegur
 mælir	sfg3en	mæla
 hins	fakee	hinn
@@ -2357,7 +2224,6 @@ til	ae	til
 einstaklinga	nkfe	einstaklingur
 eru	sfg3fn	vera
 .	.	.
-
 Fyrst	aae	fyrr
 má	sfg3en	mega
 nefna	sng	nefna
@@ -2394,7 +2260,6 @@ andmælareglu	nveo	andmælaregla
 og	c	og
 fleira	lheovm	margur
 .	.	.
-
 Dæmi	nhfn	dæmi
 eru	sfg3fn	vera
 um	ao	um
@@ -2424,7 +2289,6 @@ en	c	en
 var	sfg3eþ	vera
 tekin	sþgven	taka
 .	.	.
-
 Stjórnsýslulögin	nhfng	stjórnsýslulög
 ná	sfg3fn	ná
 ekki	aa	ekki
@@ -2451,7 +2315,6 @@ eigi	svg3en	eiga
 í	aþ	í
 hlut	nkeþ	hlutur
 .	.	.
-
 Í	aþ	í
 öðru	lheþsf	öðr
 lagi	nheþ	lag
@@ -2480,7 +2343,6 @@ hafa	sfg3fn	hafa
 fyrir	ao	fyrir
 almenning	nkeo	almenningur
 .	.	.
-
 Ef	c	ef
 fyrirtæki	nhen	fyrirtæki
 fengi	svg3eþ	fá
@@ -2516,7 +2378,6 @@ stæðist	svm3eþ	standa
 ekki	aa	ekki
 stjórnarskrá	nveo	stjórnarskrá
 .	.	.
-
 Skilyrðinu	nheþg	skilyrði
 um	ao	um
 almenningsþörf	nveo	almenningsþörf
@@ -2549,7 +2410,6 @@ lögin	nhfng	lag
 standist	svm3fn	standa
 stjórnarskrá	nveo	stjórnarskrá
 .	.	.
-
 Í	aþ	í
 þriðja	lheþvf	þriðji
 lagi	nheþ	lag
@@ -2571,7 +2431,6 @@ höndum	nvfþ	hönd
 hins	ghee	hinn
 opinbera	lheevf	opinber
 .	.	.
-
 Sú	faven	sá
 skipan	nven	skipan
 mála	nhfe	mál
@@ -2606,7 +2465,6 @@ eignarnámsheimildum	nvfþ	eignarnámsheimild
 að	cn	að
 halda	sng	halda
 .	.	.
-
 Svarið	nheng	svar
 við	aþ	við
 spurningunni	nveþg	spurning
@@ -2628,7 +2486,6 @@ við	ao	við
 opinbera	lkfosf	opinber
 aðila	nkfo	aðili
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 er	sfg3en	vera
@@ -2655,7 +2512,6 @@ höndum	nvfþ	hönd
 hins	ghee	hinn
 opinbera	lheevf	opinber
 .	.	.
-
 Gerðardómur	nken	gerðardómur
 er	sfg3en	vera
 eitt	fohen	einn
@@ -2672,7 +2528,6 @@ hins	ghee	hinn
 hefðbundna	lheevf	hefðbundinn
 dómstólakerfis	nhee	dómstólakerfi
 .	.	.
-
 Ákveða	sng	ákveða
 má	sfg3en	mega
 með	aþ	með
@@ -2685,7 +2540,6 @@ aðila	nkfe	aðili
 í	ao	í
 gerð	nveo	gerð
 .	.	.
-
 Niðurstaða	nven	niðurstaða
 slíks	fbkee	slíkur
 gerðardóms	nkee	gerðardómur
@@ -2703,7 +2557,6 @@ mál	nheo	mál
 fyrir	ao	fyrir
 dómstóla	nkfo	dómstóll
 .	.	.
-
 Sé	svg3en	vera
 það	fphen	það
 gert	sþghen	gera
@@ -2720,7 +2573,6 @@ krafa	nven	krafa
 um	ao	um
 það	faheo	sá
 .	.	.
-
 Í	aþ	í
 samningi	nkeþ	samningur
 um	ao	um
@@ -2738,7 +2590,6 @@ sitja	sng	sitja
 í	aþ	í
 gerðardómi	nkeþ	gerðardómur
 .	.	.
-
 Ef	c	ef
 svo	aa	svo
 er	sfg3en	vera
@@ -2778,7 +2629,6 @@ um	ao	um
 samningsbundna	lkfosf	samningsbundinn
 gerðardóma	nkfo	gerðardómur
 .	.	.
-
 Í	aþ	í
 lögunum	nhfþg	lag
 er	sfg3en	vera
@@ -2802,7 +2652,6 @@ málsmeðferð	nveo	málsmeðferð
 fyrir	aþ	fyrir
 dóminum	nkeþg	dómur
 .	.	.
-
 Gerðardómssamningur	nken	gerðardómssamningur
 getur	sfg3en	geta
 falið	ssg	fela
@@ -2837,7 +2686,6 @@ lögð	sþghfn	leggja
 fyrir	ao	fyrir
 gerðardóm	nkeo	gerðardómur
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 algengt	lhensf	algengur
@@ -2854,7 +2702,6 @@ skuli	svg3en	skulu
 í	ao	í
 gerð	nveo	gerð
 .	.	.
-
 Slík	fbhfn	slíkur
 ákvæði	nhfn	ákvæði
 eru	sfg3fn	vera
@@ -2876,7 +2723,6 @@ lagður	sþgken	leggja
 fyrir	ao	fyrir
 gerðardóm	nkeo	gerðardómur
 .	.	.
-
 Auk	ae	auk
 samninga	nkfe	samningur
 um	ao	um
@@ -2895,7 +2741,6 @@ tiltekinn	lkeosf	tiltekinn
 í	ao	í
 gerðardóm	nkeo	gerðardómur
 .	.	.
-
 Nýverið	aa	nýverið
 samþykkti	sfg3eþ	samþykkja
 Alþingi	nhen-s	Alþingi
@@ -2918,7 +2763,6 @@ kom	sfg3eþ	koma
 þó	aa	þó
 ekki	aa	ekki
 .	.	.
-
 Ákvæði	nhen	ákvæði
 um	ao	um
 gerðardóm	nkeo	gerðardómur
@@ -2958,7 +2802,6 @@ og	c	og
 í	ao	í
 gerð	nveo	gerð
 .	.	.
-
 Ekki	aa	ekki
 má	sfg3en	mega
 leggja	sng	leggja
@@ -2969,7 +2812,6 @@ er	sfg3en	vera
 undir	ao	undir
 gerðardóm	nkeo	gerðardómur
 .	.	.
-
 Einungis	aa	einungis
 má	sfg3en	mega
 leggja	sng	leggja
@@ -2983,7 +2825,6 @@ hafa	sfg3fn	hafa
 forræði	nheo	forræði
 yfir	aa	yfir
 .	.	.
-
 Því	aa	því
 væri	svg3eþ	vera
 til	ae	til
@@ -3002,19 +2843,15 @@ eða	c	eða
 fyrir	ao	fyrir
 gerðardóm	nkeo	gerðardómur
 .	.	.
-
 Heimild	nven	heimild
 :	:	:
 Einkamálaréttarfar	nhen	einkamálaréttarfar
 .	.	.
-
 Markús	nken-s	Markús
 Sigurbjörnsson	nken-s	Sigurbjörnsson
 .	.	.
-
 2003	ta	2003
 .	.	.
-
 Samkynhneigðir	lkfnsf	samkynhneigður
 á	aþ	á
 Íslandi	nheþ-s	Ísland
@@ -3028,7 +2865,6 @@ svokallaðrar	lveesf	svokallaður
 frumættleiðingar	nvee	frumættleiðing
 barna	nhfe	barn
 .	.	.
-
 Samkynhneigður	lkensf	samkynhneigður
 aðili	nken	aðili
 í	aþ	í
@@ -3050,7 +2886,6 @@ hans	fpkee	hann
 á	sfg3en	eiga
 fyrir	aa	fyrir
 .	.	.
-
 Þetta	fahen	þessi
 kemur	sfg3en	koma
 fram	aa	fram
@@ -3072,7 +2907,6 @@ um	ao	um
 staðfesta	lveosf	staðfestur
 samvist	nveo	samvist
 .	.	.
-
 Nýlega	aa	nýlega
 var	sfg3eþ	vera
 gefin	sþgven	gefa
@@ -3091,7 +2925,6 @@ tillögur	nvfo	tillaga
 til	ae	til
 úrbóta	nvfe	úrbót
 .	.	.
-
 Nefndin	nveng	nefnd
 lagði	sfg3eþ	leggja
 meðal	ae	meðal
@@ -3124,7 +2957,6 @@ að	cn	að
 erlend	lhfosf	erlendur
 börn	nhfo	barn
 .	.	.
-
 Þrír	tfkfn	þrír
 nefndarmenn	nkfn	nefndarmaður
 töldu	sfg3fþ	telja
@@ -3139,7 +2971,6 @@ voru	sfg3fþ	vera
 á	aa	á
 móti	aa	móti
 .	.	.
-
 Rökin	nhfng	rök
 fyrir	aþ	fyrir
 því	fpheþ	það
@@ -3161,7 +2992,6 @@ erlend	lhfosf	erlendur
 ríki	nhfo	ríki
 spillst	ssm	spilla
 .	.	.
-
 Var	sfg3eþ	vera
 þar	aa	þar
 einkum	aa	einkum
@@ -3184,7 +3014,6 @@ Indland	nheo-s	Indland
 og	c	og
 Kólumbíu	nveo-s	Kólumbía
 .	.	.
-
 Talið	sþghen	telja
 var	sfg3eþ	vera
 að	c	að
@@ -3202,7 +3031,6 @@ frá	aþ	frá
 þessum	fahfþ	þessi
 löndum	nhfþ	land
 .	.	.
-
 Þess	fphee	það
 má	sfg3en	mega
 geta	sng	geta
@@ -3223,7 +3051,6 @@ að	cn	að
 erlend	lhfosf	erlendur
 börn	nhfo	barn
 .	.	.
-
 Sá	faken	sá
 misskilningur	nken	misskilningur
 skal	sfg3en	skulu
@@ -3243,7 +3070,6 @@ sig	fpkfo	sig
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Samkynhneigðum	lkfþsf	samkynhneigður
 er	sfg3en	vera
 ekki	aa	ekki
@@ -3260,7 +3086,6 @@ ganga	sng	ganga
 staðfesta	lveosf	staðfestur
 samvist	nveo	samvist
 .	.	.
-
 Þetta	fahen	þessi
 tvennt	lhensf	tvennur
 er	sfg3en	vera
@@ -3280,7 +3105,6 @@ sömu	fbhfn	sami
 og	c	og
 hjóna	nhfe	hjón
 .	.	.
-
 Kirkjuleg	lvensf	kirkjulegur
 gifting	nven	gifting
 fer	sfg3en	fara
@@ -3297,7 +3121,6 @@ vígir	sfg3en	vígja
 saman	aa	saman
 hjón	nhfo	hjón
 .	.	.
-
 Borgaraleg	lvensf	borgaralegur
 gifting	nven	gifting
 fer	sfg3en	fara
@@ -3315,7 +3138,6 @@ framkvæma	sfg3fn	framkvæma
 staðfestingu	nveo	staðfesting
 samvistar	nvee	samvist
 .	.	.
-
 Þess	fphee	það
 má	sfg3en	mega
 einnig	aa	einnig
@@ -3344,7 +3166,6 @@ fengið	ssg	fá
 kirkjulega	lveosf	kirkjulegur
 vígslu	nveo	vígsla
 .	.	.
-
 Forsætisráðuneytið	nheng	forsætisráðuneyti
 lét	sfg3eþ	láta
 vinna	sng	vinna
@@ -3370,13 +3191,11 @@ samkynhneigðra	lkfesf	samkynhneigður
 í	aþ	í
 framtíðinni	nveþg	framtíð
 .	.	.
-
 Skýrsluna	nveog	skýrsla
 má	sfg3en	mega
 nálgast	snm	nálgast
 hér	aa	hér
 .	.	.
-
 Þess	fphee	það
 má	sfg3en	mega
 geta	sng	geta
@@ -3405,7 +3224,6 @@ og	c	og
 ættleiða	sng	ættleiða
 börn	nhfo	barn
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -3432,7 +3250,6 @@ mér	fp1eþ	ég
 frá	aþ	frá
 því	fpheþ	það
 ?	?	?
-
 o	x	o
 Er	sfg3en	vera
 hægt	lhensf	hægur
@@ -3448,7 +3265,6 @@ hefur	sfg3en	hafa
 verið	ssg	vera
 ættleiddur	sþgken	ættleiða
 ?	?	?
-
 Hér	aa	hér
 snýr	sfg3en	snúa
 málið	nheng	mál
@@ -3461,7 +3277,6 @@ hverjar	fsvfn	hver
 aðstæðurnar	nvfng	aðstæður
 eru	sfg3fn	vera
 .	.	.
-
 Ef	c	ef
 upplýsingar	nvfn	upplýsing
 OPEC	e	OPEC
@@ -3479,7 +3294,6 @@ olíu	nveþ	olía
 í	aþ	í
 jörðu	nveþ	jörð
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 mati	nheþ	mat
 OPEC	e	OPEC
@@ -3497,7 +3311,6 @@ við	ao	við
 núverandi	lveoof	núverandi
 notkun	nveo	notkun
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 má	sfg3en	mega
@@ -3539,7 +3352,6 @@ mun	nkeþ	munur
 styttri	lkenvm	stuttur
 tími	nken	tími
 .	.	.
-
 Á	aþ	á
 síðustu	lhfþve	síðari
 árum	nhfþ	ár
@@ -3556,7 +3368,6 @@ fjórðung	nkeo	fjórðungur
 af	aþ	af
 olíuframleiðslunni	nveþg	olíuframleiðsla
 .	.	.
-
 Allt	fohen	allur
 virðist	sfm3en	virða
 því	aa	því
@@ -3580,7 +3391,6 @@ komið	ssg	koma
 stað	nkeo	staður
 olíunnar	nveeg	olía
 .	.	.
-
 Meðan	c	meðan
 hún	fpven	hún
 er	sfg3en	vera
@@ -3613,7 +3423,6 @@ leiðandi	slg	leiða
 minna	lheevm	lítill
 framboðs	nhee	framboð
 .	.	.
-
 Hvernig	aa	hvernig
 leit	sfg3eþ	líta
 snareðla	nven	snareðla
@@ -3623,7 +3432,6 @@ hvernig	aa	hvernig
 lifði	sfg3eþ	lifa
 hún	fpven	hún
 ?	?	?
-
 Leifar	nvfn	leif
 snareðlu	nvee	snareðla
 (	(	(
@@ -3644,7 +3452,6 @@ Mongólíu	nveþ-s	Mongólía
 og	c	og
 Kína	nheþ-s	Kína
 .	.	.
-
 Aldur	nken	aldur
 þeirra	fpvfe	hún
 er	sfg3en	vera
@@ -3654,7 +3461,6 @@ vera	sng	vera
 milljónir	nvfn	milljón
 ára	nhfe	ár
 .	.	.
-
 Fyrstu	lvfove	fyrstur
 leifarnar	nvfog	leif
 fann	sfg3eþ	finna
@@ -3676,7 +3482,6 @@ kosti	nkeþ	kostur
 12	ta	12
 dýra	nhfe	dýr
 .	.	.
-
 Snareðla	nven	snareðla
 tilheyrir	sfg3en	tilheyra
 skriðdýraættbálknum	nkeþg	skriðdýraættbálkur
@@ -3705,7 +3510,6 @@ framlimina	nkfog	framlimur
 sem	c	sem
 griplimi	nkfo	griplimur
 .	.	.
-
 Snareðla	nven	snareðla
 varð	sfg3eþ	verða
 allt	fohen	allur
@@ -3733,7 +3537,6 @@ en	c	en
 15	ta	15
 kg	as	kg
 .	.	.
-
 Höfuðið	nheng	höfuð
 virðist	sfm3en	virða
 hafa	sng	hafa
@@ -3749,7 +3552,6 @@ en	c	en
 frekar	aam	frekar
 lágt	lhensf	lágur
 .	.	.
-
 Snareðlurnar	nvfng	snareðla
 sem	ct	sem
 sýndar	sþgvfn	sýna
@@ -3772,7 +3574,6 @@ klóeðlum	nvfþ	klóeðla
 Deinonychus	e	Deinonychus
 )	)	)
 .	.	.
-
 Snareðla	nven	snareðla
 var	sfg3eþ	vera
 aflöng	lvensf	aflangur
@@ -3794,7 +3595,6 @@ en	c	en
 nasaopin	nhfng	nasaop
 framarlega	aa	framarlega
 .	.	.
-
 Heilakassinn	nkeng	heilakassi
 var	sfg3eþ	vera
 frekar	aam	frekar
@@ -3810,7 +3610,6 @@ verið	ssg	vera
 hlutfallslega	aa	hlutfallslega
 stór	lkensf	stór
 .	.	.
-
 Fyrir	ao	fyrir
 vikið	nheog	vik
 er	sfg3en	vera
@@ -3823,7 +3622,6 @@ sem	ct	sem
 gáfuðustu	lveove	gáfaður
 risaeðluna	nveog	risaeðla
 .	.	.
-
 Kjálkarnir	nkfng	kjáli
 voru	sfg3fþ	vera
 langir	lkfnsf	langur
@@ -3848,7 +3646,6 @@ vel	aa	vel
 við	ao	við
 fæðuöflun	nveo	fæðuöflun
 .	.	.
-
 Allt	fohen	allur
 að	aþ	að
 því	fpheþ	það
@@ -3872,7 +3669,6 @@ að	aþ	að
 cm	as	cm
 langar	lvfnsf	langur
 .	.	.
-
 Munur	nken	munur
 á	aþ	á
 tönnum	nvfþ	tönn
@@ -3884,7 +3680,6 @@ kjálkunum	nkfþg	kjálki
 var	sfg3eþ	vera
 óverulegur	lkensf	óverulegur
 .	.	.
-
 Háls	nken	háls
 snareðlunnar	nveeg	snareðla
 var	sfg3eþ	vera
@@ -3900,7 +3695,6 @@ en	c	en
 frekar	aam	frekar
 sver	lkensf	sver
 .	.	.
-
 Bakið	nheng	bak
 var	sfg3eþ	vera
 ofurlítið	aa	ofurlítið
@@ -3914,7 +3708,6 @@ af	aþ	af
 lengd	nveþ	lengd
 dýrsins	nheeg	dýr
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 sterklegur	lkensf	sterklegur
@@ -3937,7 +3730,6 @@ var	sfg3eþ	vera
 á	aþ	á
 hlaupum	nhfþ	hlaup
 .	.	.
-
 Framlimirnir	nkfng	framlimur
 voru	sfg3fþ	vera
 mun	nkeþ	munur
@@ -3962,7 +3754,6 @@ grameðlu	nveþ	grameðla
 Tyrannosaurus	e	Tyrannosaurus
 )	)	)
 .	.	.
-
 Á	aþ	á
 framlimum	nkfþ	framlimur
 voru	sfg3fþ	vera
@@ -3972,7 +3763,6 @@ fingur	nkfn	fingur
 með	ao	með
 klær	nvfo	kló
 .	.	.
-
 Beinin	nhfng	bein
 í	aþ	í
 úlnlið	nkeþ	úlnliður
@@ -3992,7 +3782,6 @@ eins	aa	eins
 og	c	og
 fuglsvængi	nkfo	fuglsvængur
 .	.	.
-
 Afturlimirnir	nkfng	afturlimur
 voru	sfg3fþ	vera
 langir	lkfnsf	langur
@@ -4004,7 +3793,6 @@ en	c	en
 lipurlega	aa	lipurlega
 byggðir	lkfnsf	byggður
 .	.	.
-
 Hnén	nhfng	hné
 sneru	sfg3fþ	snúa
 fram	aa	fram
@@ -4044,7 +3832,6 @@ skriðdýrum	nhfþ	skriðdýr
 og	c	og
 nefdýrum	nhfþ	nefdýr
 .	.	.
-
 Dýrið	nheng	dýr
 hafði	sfg3eþ	hafa
 fjórar	tfvfo	fjórir
@@ -4071,7 +3858,6 @@ og	c	og
 tá	nveþ	tá
 )	)	)
 .	.	.
-
 Fyrsta	lvenve	fyrstur
 táin	nveng	tá
 var	sfg3eþ	vera
@@ -4099,7 +3885,6 @@ hreyft	ssg	hreyfa
 og	c	og
 inn	aa	inn
 .	.	.
-
 Líklega	aa	líklega
 hefur	sfg3en	hafa
 snareðlan	nveng	snareðla
@@ -4120,7 +3905,6 @@ með	aa	með
 önnur	fohfo	annar
 dýr	nhfo	dýr
 .	.	.
-
 Snareðla	nven	snareðla
 var	sfg3eþ	vera
 greinilega	aa	greinilega
@@ -4157,7 +3941,6 @@ klukkustund	nveþ	klukkustund
 stuttum	lvfþsf	stuttur
 sprettum	nvfþ	spretta
 .	.	.
-
 Talið	sþghen	telja
 er	sfg3en	vera
 að	c	að
@@ -4176,7 +3959,6 @@ og	c	og
 ljón	nhfn	ljón
 gera	sfg3fn	gera
 .	.	.
-
 Fótspor	nhfn	fótspor
 snareðla	nvfe	snareðla
 hafa	sfg3fn	hafa
@@ -4204,7 +3986,6 @@ og	c	og
 greinilega	aa	greinilega
 umkringd	lvensf	umkringdur
 .	.	.
-
 Af	aþ	af
 setlögum	nhfþ	setlag
 sem	ct	sem
@@ -4231,7 +4012,6 @@ nágrenni	nheþ	nágrenni
 við	ao	við
 eyðimerkur	nvfo	eyðimörk
 .	.	.
-
 Húðin	nveng	húð
 virðist	sfm3en	virða
 hafa	sng	hafa
@@ -4270,7 +4050,6 @@ trjám	nhfþ	tré
 og	c	og
 runnum	nkfþ	runni
 .	.	.
-
 Annað	foheo	annar
 slagið	nheog	slag
 hafa	sfg3fn	hafa
@@ -4295,7 +4074,6 @@ verið	ssg	vera
 endanlega	aa	endanlega
 staðfest	sþghen	staðfesta
 .	.	.
-
 Hvort	c	hvort
 þróuðust	sfm3fþ	þróa
 fuglar	nkfn	fugl
@@ -4305,7 +4083,6 @@ eðlungum	nkfþ	eðlungur
 eða	c	eða
 fleglum	nkfþ	flegill
 ?	?	?
-
 Upprunalega	lvenvf	upprunalegur
 spurningin	nveng	spurning
 var	sfg3eþ	vera
@@ -4313,7 +4090,6 @@ sem	c	sem
 hér	aa	hér
 segir	sfg3en	segja
 :	:	:
-
 Í	aþ	í
 bók	nveþ	bók
 um	ao	um
@@ -4360,12 +4136,10 @@ kennt	sþghen	kenna
 í	aþ	í
 framhaldskóla	nkeþ	framhaldsskóli
 .	.	.
-
 Er	sfg3en	vera
 það	fphen	það
 rétt	lhensf	réttur
 ?	?	?
-
 Ef	c	ef
 svo	aa	svo
 er	sfg3en	vera
@@ -4387,7 +4161,6 @@ og	c	og
 fuglar	nkfn	fugl
 )	)	)
 ?	?	?
-
 Löngum	aa	löngum
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -4422,7 +4195,6 @@ bil	nheo	bil
 milljónum	nvfþ	milljón
 ára	nhfe	ár
 .	.	.
-
 Einnig	aa	einnig
 var	sfg3eþ	vera
 þá	aa	þá
@@ -4450,7 +4222,6 @@ rekja	sng	rekja
 til	ae	til
 boleðla	nvfe	boleðla
 .	.	.
-
 Því	aa	því
 var	sfg3eþ	vera
 álitið	sþghen	álíta
@@ -4482,7 +4253,6 @@ til	aa	til
 ?	?	?
 )	)	)
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 hafa	sfg3fn	hafa
@@ -4523,7 +4293,6 @@ elsti	lkenve	gamall
 hópur	nken	hópur
 eðlunga	nkfe	eðlungur
 .	.	.
-
 Sá	faken	sá
 hópur	nken	hópur
 þrítáunga	nkfe	þrítáungi
@@ -4549,7 +4318,6 @@ stinnhalar	nkfn	stinnhali
 Tetanurae	e	Tetanurae
 )	)	)
 .	.	.
-
 Fagurkjálki	nken	fagurkjálki
 (	(	(
 Compsognathus	e	Compsognathus
@@ -4584,7 +4352,6 @@ um	ao	um
 þvengeðlu	nveo	þvengeðla
 )	)	)
 .	.	.
-
 Þvengeðla	nven	þvengeðla
 er	sfg3en	vera
 af	aþ	af
@@ -4603,7 +4370,6 @@ best	aae	vel
 þekktur	lkensf	þekktur
 frumfugla	nkfe	frumfugl
 .	.	.
-
 Það	fahen	sá
 sem	ct	sem
 öglir	nken	öglir
@@ -4634,7 +4400,6 @@ með	aþ	með
 leifum	nvfþ	leif
 öglisins	nkeeg	öglir
 .	.	.
-
 Í	aþ	í
 hauskúpugerð	nveþ	hauskúpugerð
 ,	,	,
@@ -4647,7 +4412,6 @@ dýrin	nhfng	dýr
 mjög	aa	mjög
 lík	lhfnsf	líkur
 .	.	.
-
 Öglir	nken	öglir
 hefur	sfg3en	hafa
 vart	aa	vart
@@ -4668,7 +4432,6 @@ carina	e	carina
 á	aþ	á
 brjóstbeininu	nheþg	brjóstbein
 .	.	.
-
 Slíkur	fbken	slíkur
 kjölur	nken	kjölur
 er	sfg3en	vera
@@ -4686,7 +4449,6 @@ vöðva	nkfo	vöðvi
 í	ao	í
 vængina	nkfog	vængur
 .	.	.
-
 Bein	nhfn	bein
 öglisins	nkeeg	öglir
 voru	sfg3fþ	vera
@@ -4728,7 +4490,6 @@ hann	fpken	hann
 stóð	sfg3eþ	standa
 uppréttur	lkensf	uppréttur
 .	.	.
-
 Í	aþ	í
 lendarbyggingu	nveþ	lendarbygging
 er	sfg3en	vera
@@ -4747,7 +4508,6 @@ fugla	nkfe	fugl
 hins	fakee	hinn
 vegar	nkee	vegur
 .	.	.
-
 Hjá	aþ	hjá
 öllum	fohfþ	allur
 skriðdýrum	nhfþ	skriðdýr
@@ -4773,7 +4533,6 @@ og	c	og
 hjá	aþ	hjá
 eðlungum	nkfþ	eðlungur
 .	.	.
-
 Hjá	aþ	hjá
 fleglum	nkfþ	flegill
 og	c	og
@@ -4806,7 +4565,6 @@ praepubis	e	praepubis
 sjá	sng	sjá
 skýringarmynd	nveo	skýringarmynd
 .	.	.
-
 Hjá	aþ	hjá
 ögli	nkeþ	öglir
 snýr	sfg3en	snúa
@@ -4823,7 +4581,6 @@ upp	aa	upp
 við	ao	við
 þjóbeinið	nheog	þjóbein
 .	.	.
-
 Flestir	lkfnse	margur
 fræðimenn	nkfn	fræðimaður
 líta	sfg3fn	líta
@@ -4863,7 +4620,6 @@ um	ao	um
 garð	nkeo	garður
 gengin	lvensf	genginn
 .	.	.
-
 Því	aa	því
 telja	sfg3fn	telja
 flestir	lkfnse	margur
@@ -4916,7 +4672,6 @@ og	c	og
 fækkun	nveo	fækkun
 tanna	nvfe	tönn
 .	.	.
-
 Hverjar	fsvfn	hver
 eru	sfg3fn	vera
 helstu	lvfnve	heldri
@@ -4929,7 +4684,6 @@ fjöldadauða	nkeo	fjöldadauði
 lok	nhfo	lok
 tríastímabilsins	nheeg	tríastímabil
 ?	?	?
-
 Talið	sþghen	telja
 er	sfg3en	vera
 að	aþ	að
@@ -4960,7 +4714,6 @@ um	aa	um
 milljónum	nvfþ	milljón
 ára	nhfe	ár
 .	.	.
-
 Meira	lhenvm	mikill
 en	c	en
 20%	tp	20%
@@ -4981,7 +4734,6 @@ leyti	nheo	leyti
 dóu	sfg3fþ	deyja
 út	aa	út
 .	.	.
-
 Einnig	aa	einnig
 hefur	sfg3en	hafa
 verið	ssg	vera

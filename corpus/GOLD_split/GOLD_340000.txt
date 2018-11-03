@@ -20,7 +20,6 @@ mun	nkeþ	munur
 meiri	lveþvm	mikill
 kostgæfni	nveþ	kostgæfni
 .	.	.
-
 Hún	fpven	hún
 yrði	svg3eþ	verða
 að	cn	að
@@ -39,12 +38,10 @@ skers	nhee	sker
 og	c	og
 báru	nvee	bára
 .	.	.
-
 Nóttin	nveng	nótt
 leið	sfg3eþ	líða
 hratt	aa	hratt
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 ekki	aa	ekki
@@ -54,7 +51,6 @@ að	cn	að
 hefjast	snm	hefja
 handa	nvfe	hönd
 .	.	.
-
 Hún	fpven	hún
 opnaði	sfg3eþ	opna
 blekbyttuna	nveog	blekbytta
@@ -106,7 +102,6 @@ ektaherra	nken	ektaherra
 Eyjólfur	nken-s	Eyjólfur
 Sölmundsson	nken-s	Sölmundsson
 !	!	!
-
 Henni	fpveþ	hún
 hafði	sfg3eþ	hafa
 tekist	ssm	taka
@@ -116,7 +111,6 @@ hann	fpkeo	hann
 sem	c	sem
 skyldi	svg3eþ	skulu
 .	.	.
-
 Ástsemi	nven	ástsemi
 guðs	nkee	guð
 vors	fekee	vor
@@ -127,7 +121,6 @@ sál	nveþ	sál
 og	c	og
 lífi	nheþ	líf
 !	!	!
-
 Heilsan	nveng	heilsa
 í	aþ	í
 guði	nkeþ	guð
@@ -137,7 +130,6 @@ yður	fp2fþ	þér
 alla	fokfo	allur
 tíma	nkfo	tími
 !	!	!
-
 Ég	fp1en	ég
 minnist	sfm1en	minna
 við	ao	við
@@ -150,7 +142,6 @@ og	c	og
 langvarandi	lveþof	langvarandi
 elsku	nveþ	elska
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 búin	lvensf	búinn
@@ -171,7 +162,6 @@ ný	aa	ný
 í	aþ	í
 tárum	nhfþ	tár
 .	.	.
-
 Hún	fpven	hún
 varð	sfg3eþ	verða
 að	cn	að
@@ -192,7 +182,6 @@ hennar	fpvee	hún
 og	c	og
 ástarjátningu	nveo	ástarjátning
 .	.	.
-
 Hún	fpven	hún
 þráði	sfg3eþ	þrá
 svo	aa	svo
@@ -203,7 +192,6 @@ hrjúfar	lvfosf	hrjúfur
 hendur	nvfo	hönd
 hans	fpkee	hann
 .	.	.
-
 Hún	fpven	hún
 gat	sfg3eþ	geta
 ekki	aa	ekki
@@ -218,7 +206,6 @@ enn	aa	enn
 við	aþ	við
 fyrirbænum	nvfþ	fyrirbæn
 .	.	.
-
 Ávarpið	nheng	ávarp
 náði	sfg3eþ	ná
 yfir	ao	yfir
@@ -243,7 +230,6 @@ sparlega	aa	sparlega
 með	ao	með
 pappírinn	nkeog	pappír
 .	.	.
-
 Hún	fpven	hún
 dýfði	sfg3eþ	dýfa
 fjaðurpennanum	nkeþg	fjaðurpenni
@@ -266,7 +252,6 @@ einmitt	aa	einmitt
 þessari	faveþ	þessi
 stundu	nveþ	stund
 .	.	.
-
 Stæði	svg3eþ	standa
 ekki	aa	ekki
 vetrarvertíðin	nveng	vetrarvertíð
@@ -274,24 +259,20 @@ einmitt	aa	einmitt
 sem	aa	sem
 hæst	aa	hæst
 ?	?	?
-
 Hvernig	aa	hvernig
 skyldi	svg3eþ	skulu
 tíðin	nveng	tíð
 vera	sng	vera
 ?	?	?
-
 Hvernig	aa	hvernig
 fiskast	sfm3en	fiska
 ?	?	?
-
 Væri	svg3eþ	vera
 hann	fpken	hann
 einn	lkensf	einn
 að	cn	að
 bjástra	sng	bjástra
 ?	?	?
-
 Hvernig	aa	hvernig
 skyldi	svg3eþ	skulu
 honum	fpkeþ	hann
@@ -300,13 +281,11 @@ vegnað	ssg	vegna
 án	ae	án
 hennar	fpvee	hún
 ?	?	?
-
 Vonandi	aa	vonandi
 vel	aa	vel
 eða	c	eða
 hvað	fshen	hver
 ?	?	?
-
 Í	ao	í
 það	fpheo	það
 minnsta	lheove	lítill
@@ -319,12 +298,10 @@ og	c	og
 flekkaðri	lveþsf	flekkaður
 ambátt	nveþ	ambátt
 .	.	.
-
 Minn	feken	minn
 ástkæri	lkenvf	ástkær
 ektamaður	nken	ektamaður
 !	!	!
-
 Enn	aa	enn
 þó	aa	þó
 ég	fp1en	ég
@@ -419,7 +396,6 @@ og	c	og
 langa	lkfosf	langur
 lífdaga	nkfo	lífdagar
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 enn	aa	enn
@@ -429,7 +405,6 @@ biðja	sng	biðja
 fyrir	aþ	fyrir
 honum	fpkeþ	hann
 .	.	.
-
 Hún	fpven	hún
 sá	sfg3eþ	sjá
 Eyjólf	nkeo-s	Eyjólfur
@@ -453,7 +428,6 @@ undan	aþ	undan
 ensku	lkfþvf	enskur
 ræningjunum	nkfþg	ræningi
 .	.	.
-
 Sá	sfg3eþ	sjá
 hann	fpken	hann
 koma	sng	koma
@@ -481,11 +455,9 @@ fyrir	ao	fyrir
 framan	aa	framan
 sig	fpkeo	sig
 .	.	.
-
 Bjargvættur	nken	bjargvættur
 hennar	fpvee	hún
 .	.	.
-
 Hún	fpven	hún
 mundi	sfg3eþ	muna
 svo	aa	svo
@@ -505,7 +477,6 @@ og	c	og
 einnig	aa	einnig
 síðar	aam	síðar
 .	.	.
-
 Hún	fpven	hún
 þakkaði	sfg3eþ	þakka
 honum	fpkeþ	hann
@@ -525,7 +496,6 @@ hefði	svg3eþ	hafa
 auðsýnt	ssg	auðsýna
 henni	fpveþ	hún
 .	.	.
-
 Bara	aa	bara
 að	c	að
 hann	fpken	hann
@@ -534,7 +504,6 @@ bjargað	ssg	bjarga
 henni	fpveþ	hún
 nú	aa	nú
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 mikill	lkensf	mikill
@@ -542,7 +511,6 @@ háski	nken	háski
 á	aþ	á
 ferðum	nvfþ	ferð
 .	.	.
-
 Sá	faken	sá
 mesti	lkenve	mikill
 að	c	að
@@ -550,7 +518,6 @@ hún	fpven	hún
 gæfist	svm3eþ	gefa
 upp	aa	upp
 .	.	.
-
 Hana	fpveo	hún
 langaði	sfg3eþ	langa
 að	cn	að
@@ -559,7 +526,6 @@ hátt	aa	hátt
 á	ao	á
 björgun	nveo	björgun
 .	.	.
-
 Langaði	sfg3eþ	langa
 svo	aa	svo
 heitt	aa	heitt
@@ -568,7 +534,6 @@ hann	fpken	hann
 kæmi	svg3eþ	koma
 strax	aa	strax
 .	.	.
-
 Hún	fpven	hún
 hafði	sfg3eþ	hafa
 ekki	aa	ekki
@@ -577,21 +542,18 @@ til	ae	til
 að	cn	að
 bíða	sng	bíða
 .	.	.
-
 Hana	fpveo	hún
 var	sfg3eþ	vera
 að	cn	að
 bresta	sng	bresta
 þolgæði	nheo	þolgæði
 .	.	.
-
 Fannst	sfm3eþ	finna
 hún	fpven	hún
 vera	sng	vera
 að	cn	að
 kikna	sng	kikna
 .	.	.
-
 Vissi	sfg3eþ	vita
 þó	aa	þó
 um	ao	um
@@ -603,7 +565,6 @@ mátti	sfg3eþ	mega
 ekki	aa	ekki
 henda	sng	henda
 .	.	.
-
 Ef	c	ef
 hún	fpven	hún
 átti	sfg3eþ	eiga
@@ -627,7 +588,6 @@ sýna	sng	sýna
 og	c	og
 þrautseigju	nveo	þrautseigja
 .	.	.
-
 Annars	aa	annars
 gæti	svg3eþ	geta
 farið	ssg	fara
@@ -638,21 +598,18 @@ og	c	og
 Önnu	nveþ-s	Anna
 Katrine	e	Katrine
 .	.	.
-
 Hún	fpven	hún
 mátti	sfg3eþ	mega
 ekki	aa	ekki
 gefast	snm	gefa
 upp	aa	upp
 !	!	!
-
 Vér	fp1fn	vér
 vitum	sfg1fn	vita
 hvað	fsheo	hver
 vér	fp1fn	vér
 skrifum	sfg1fn	skrifa
 .	.	.
-
 Hún	fpven	hún
 veit	sfg3en	vita
 líka	aa	líka
@@ -661,7 +618,6 @@ hún	fpven	hún
 skrifar	sfg3en	skrifa
 ekki	aa	ekki
 .	.	.
-
 Hún	fpven	hún
 skrifar	sfg3en	skrifa
 ekkert	foheo	enginn
@@ -672,7 +628,6 @@ má	sfg3en	mega
 ekki	aa	ekki
 lesa	sng	lesa
 .	.	.
-
 En	c	en
 það	fphen	það
 ,	,	,
@@ -720,11 +675,8 @@ einum	tfkeþ	einn
 Tyrkja	nkeþ-s	Tyrki
 ,	,	,
 .	.	.
-
 .	.	.
-
 .	.	.
-
 Hún	fpven	hún
 áræddi	sfg3eþ	áræða
 ekki	aa	ekki
@@ -733,13 +685,9 @@ nefna	sng	nefna
 nafn	nheo	nafn
 mannsins	nkeeg	maður
 .	.	.
-
 .	.	.
-
 .	.	.
-
 .	.	.
-
 hjá	aþ	hjá
 einum	tfkeþ	einn
 Tyrkja	nkeþ-s	Tyrki
@@ -812,18 +760,14 @@ og	c	og
 nokkurn	fokeo	nokkur
 part	nkeo	partur
 .	.	.
-
 .	.	.
-
 .	.	.
-
 Hún	fpven	hún
 dýfði	sfg3eþ	dýfa
 fjöðrinni	nveþg	fjöður
 í	ao	í
 blekið	nheog	blek
 .	.	.
-
 Hvernig	aa	hvernig
 gat	sfg3eþ	geta
 hún	fpven	hún
@@ -866,7 +810,6 @@ eða	c	eða
 í	ao	í
 gröfina	nveog	gröf
 ?	?	?
-
 Hvað	fsheo	hver
 átti	sfg3eþ	eiga
 hún	fpven	hún
@@ -891,7 +834,6 @@ efnisbarn	nhen	efnisbarn
 sem	ct	sem
 fyrr	aam	fyrr
 ?	?	?
-
 Átti	sfg3eþ	eiga
 hún	fpven	hún
 að	cn	að
@@ -909,7 +851,6 @@ hafði	sfg3eþ	hafa
 mátt	ssg	mega
 þola	sng	þola
 ?	?	?
-
 Átti	sfg3eþ	eiga
 hún	fpven	hún
 að	cn	að
@@ -935,7 +876,6 @@ ekki	aa	ekki
 síst	aae	síður
 börnin	nhfog	barn
 ?	?	?
-
 Að	c	að
 hann	fpken	hann
 hefði	svg3eþ	hafa
@@ -950,7 +890,6 @@ guð	nken	guð
 nema	c	nema
 Allah	e	Allah
 ?	?	?
-
 Nei	au	nei
 ,	,	,
 slíkt	fbheo	slíkur
@@ -961,7 +900,6 @@ setja	sng	setja
 á	ao	á
 blað	nheo	blað
 .	.	.
-
 Samanborið	sþghen	samanbera
 við	ao	við
 skattastefnu	nveo	skattastefna
@@ -981,7 +919,6 @@ mjög	aa	mjög
 í	ao	í
 óhag	nkeo	óhagur
 .	.	.
-
 Þannig	aa	þannig
 eru	sfg3fn	vera
 ,	,	,
@@ -1007,7 +944,6 @@ til	ae	til
 framfærslukostnaðar	nkee	framfærslukostnaður
 barna	nhfe	barn
 .	.	.
-
 Bragi	nken-s	Bragi
 (	(	(
 1994	ta	1994
@@ -1047,7 +983,6 @@ við	ao	við
 framtal	nheo	framtal
 barnafjölskyldna	nvfe	barnafjölskylda
 .	.	.
-
 Svo	aa	svo
 er	sfg3en	vera
 þó	aa	þó
@@ -1072,7 +1007,6 @@ Bragi	nken-s	Bragi
 1994	ta	1994
 )	)	)
 .	.	.
-
 Niðurstaða	nven	niðurstaða
 Braga	nkee-s	Bragi
 (	(	(
@@ -1117,7 +1051,6 @@ fjölskyldumálum	nhfþ	fjölskyldumál
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Velferðarkerfið	nheng	velferðarkerfi
 er	sfg3en	vera
 almennt	aa	almennt
@@ -1131,7 +1064,6 @@ en	c	en
 velferð	nveþ	velferð
 fjölskyldunnar	nveeg	fjölskylda
 .	.	.
-
 Það	fphen	það
 beinist	sfm3en	beina
 þannig	aa	þannig
@@ -1160,7 +1092,6 @@ verður	sfg3en	verða
 einskonar	lvenof	einskonar
 afgangsstærð	nven	afgangsstærð
 .	.	.
-
 Þá	aa	þá
 sé	svg3en	vera
 velferðarkerfið	nheng	velferðarkerfi
@@ -1190,7 +1121,6 @@ til	ae	til
 þarfa	nvfe	þörf
 fjölskyldunnar	nveeg	fjölskylda
 .	.	.
-
 Aðgerðir	nvfn	aðgerð
 stjórnvalda	nhfe	stjórnvald
 geta	sfg3fn	geta
@@ -1199,7 +1129,6 @@ haft	ssg	hafa
 mótverkandi	lhfoof	mótverkandi
 áhrif	nhfo	áhrif
 .	.	.
-
 Opinber	lvensf	opinber
 umræða	nven	umræða
 um	ao	um
@@ -1222,7 +1151,6 @@ markmið	nhen	markmið
 hins	ghee	hinn
 opinbera	lheevf	opinber
 .	.	.
-
 Farveg	nkeo	farvegur
 skorti	sfg3eþ	skorta
 einfaldlega	aa	einfaldlega
@@ -1230,7 +1158,6 @@ fyrir	ao	fyrir
 þá	faveo	sá
 umfjöllun	nveo	umfjöllun
 .	.	.
-
 Að	aþ	að
 mati	nheþ	mat
 Braga	nkee-s	Bragi
@@ -1268,7 +1195,6 @@ við	aþ	við
 slíkum	fbvfþ	slíkur
 spurningum	nvfþ	spurning
 .	.	.
-
 Síðan	aa	síðan
 Bragi	nken-s	Bragi
 fjallaði	sfg3eþ	fjalla
@@ -1289,7 +1215,6 @@ að	aþ	að
 mótun	nveþ	mótun
 fjölskyldustefnu	nvee	fjölskyldustefna
 .	.	.
-
 Alþingi	nhen-s	Alþingi
 samþykkti	sfg3eþ	samþykkja
 þann	fakeo	sá
@@ -1303,7 +1228,6 @@ styrkja	sng	styrkja
 stöðu	nveo	staða
 fjölskyldunnar	nveeg	fjölskylda
 .	.	.
-
 Þá	aa	þá
 var	sfg3eþ	vera
 stofnað	sþghen	stofna
@@ -1320,7 +1244,6 @@ fjölskyldustefnu	nvee	fjölskyldustefna
 í	aþ	í
 landinu	nheþg	land
 .	.	.
-
 Í	aþ	í
 þingsályktuninni	nveþg	þingsályktun
 frá	aþ	frá
@@ -1337,7 +1260,6 @@ og	c	og
 uppspretta	nven	uppspretta
 lífsgilda	nhfe	lífsgildi
 .	.	.
-
 Þar	aa	þar
 er	sfg3en	vera
 kveðið	sþghen	kveða
@@ -1360,7 +1282,6 @@ stefnu	nveo	stefna
 málefnum	nhfþ	málefni
 fjölskyldunnar	nveeg	fjölskylda
 .	.	.
-
 Markmið	nhen	markmið
 opinberrar	lveesf	opinber
 fjölskyldustefnu	nvee	fjölskyldustefna
@@ -1384,7 +1305,6 @@ hennar	fpvee	hún
 og	c	og
 búsetu	nvee	búseta
 .	.	.
-
 Í	aþ	í
 þingsályktuninni	nveþg	þingsályktun
 segir	sfg3en	segja
@@ -1416,7 +1336,6 @@ Félagsmálaráðuneytið	nheng	félagsmálaráðuneyti
 2001	ta	2001
 )	)	)
 .	.	.
-
 147	ta	147
 Fjölskylduráð	nhen	fjölskylduráð
 er	sfg3en	vera
@@ -1430,7 +1349,6 @@ að	aþ	að
 mótun	nveþ	mótun
 fjölskyldustefnunnar	nveeg	fjölskyldustefna
 .	.	.
-
 Ráðið	nheng	ráð
 vill	sfg3en	vilja
 m.a.	as	m.a.
@@ -1455,7 +1373,6 @@ og	c	og
 ábyrgir	lkfnsf	ábyrgur
 einstaklingar	nkfn	einstaklingur
 .	.	.
-
 Samtímis	aa	samtímis
 vill	sfg3en	vilja
 ráðið	nheng	ráð
@@ -1478,7 +1395,6 @@ ríkis	nhee	ríki
 og	c	og
 sveitarfélaga	nhfe	sveitarfélag
 .	.	.
-
 Fjölskylduráð	nhen	fjölskylduráð
 bendir	sfg3en	benda
 m.a.	as	m.a.
@@ -1508,7 +1424,6 @@ Félagsmálaráðuneytið	nheng	félagsmálaráðuneyti
 2001	ta	2001
 )	)	)
 .	.	.
-
 148	ta	148
 Ráðið	nheng	ráð
 leggur	sfg3en	leggja
@@ -1525,7 +1440,6 @@ fjölskyldulífs	nhee	fjölskyldulíf
 og	c	og
 atvinnulífs	nhee	atvinnulíf
 .	.	.
-
 Þetta	faheo	þessi
 megi	svg3en	mega
 t.d.	as	t.d.
@@ -1542,7 +1456,6 @@ vegna	ae	vegna
 barna	nhfe	barn
 sinna	fehfe	sinn
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 einnig	aa	einnig
@@ -1570,7 +1483,6 @@ auknar	lvfnsf	aukinn
 högum	nkfþ	hagur
 fjölskyldunnar	nveeg	fjölskylda
 .	.	.
-
 Í	aþ	í
 samræmi	nheþ	samræmi
 við	ao	við
@@ -1592,7 +1504,6 @@ lokið	ssg	ljúka
 þeirri	faveþ	sá
 vinnu	nveþ	vinna
 .	.	.
-
 Þannig	aa	þannig
 var	sfg3eþ	vera
 t.d.	as	t.d.
@@ -1610,7 +1521,6 @@ Akureyrarbær	nken-s	Akureyrarbær
 2002	ta	2002
 )	)	)
 .	.	.
-
 Sú	faven	sá
 fjölskyldustefna	nven	fjölskyldustefna
 greinir	sfg3en	greina
@@ -1635,7 +1545,6 @@ sinna	sng	sinna
 hlutverki	nheþ	hlutverk
 sínu	feheþ	sinn
 .	.	.
-
 Í	aþ	í
 stefnu	nveþ	stefna
 bæjarins	nkeeg	bær
@@ -1655,7 +1564,6 @@ og	c	og
 hlutverk	nheo	hlutverk
 þeirra	fpvfe	hún
 .	.	.
-
 Þar	aa	þar
 er	sfg3en	vera
 skýrt	sþghen	skýra
@@ -1685,7 +1593,6 @@ fjölskyldna	nvfe	fjölskylda
 á	ao	á
 hana	fpveo	hún
 .	.	.
-
 Gert	sþghen	gera
 er	sfg3en	vera
 ráð	nhen	ráð
@@ -1703,7 +1610,6 @@ mótun	nveo	mótun
 starfsáætlana	nvfe	starfsáætlun
 sinna	fevfe	sinn
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 yfirleitt	aa	yfirleitt
@@ -1735,7 +1641,6 @@ um	ao	um
 úrlausn	nveo	úrlausn
 verkefna	nhfe	verkefni
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 um	ao	um
@@ -1752,7 +1657,6 @@ fjölskyldna	nvfe	fjölskylda
 í	aþ	í
 bæjarfélaginu	nheþg	bæjarfélag
 .	.	.
-
 Mikilvægur	lkensf	mikilvægur
 liður	nken	liður
 í	aþ	í
@@ -1769,7 +1673,6 @@ unglinga	nkfe	unglingur
 með	ao	með
 geðraskanir	nvfo	geðröskun
 .	.	.
-
 Um	ao	um
 þetta	faheo	þessi
 efni	nheo	efni
@@ -1798,7 +1701,6 @@ Bjarklind	nven-s	Bjarklind
 2002	ta	2002
 )	)	)
 .	.	.
-
 Þar	aa	þar
 er	sfg3en	vera
 rætt	sþghen	ræða
@@ -1829,7 +1731,6 @@ unglinga	nkfe	unglingur
 með	ao	með
 geðraskanir	nvfo	geðröskun
 .	.	.
-
 Ljóst	lhensf	ljós
 er	sfg3en	vera
 að	c	að
@@ -1869,7 +1770,6 @@ til	ae	til
 búsetu	nvee	búseta
 hans	fpkee	hann
 .	.	.
-
 7.2.6	ta	7.2.6
 Tölfræði	nven	tölfræði
 fjölskyldunnar	nveeg	fjölskylda
@@ -1896,7 +1796,6 @@ helmingi	nkeþ	helmingur
 20.	ta	20.
 aldar	nvee	öld
 .	.	.
-
 Upplýsingar	nvfn	upplýsing
 Hagstofunnar	nveegs	Hagstofa
 um	ao	um
@@ -1927,7 +1826,6 @@ sambúð	nveþ	sambúð
 42,8%	tp	42,8%
 landsmanna	nkfe	landsmaður
 .	.	.
-
 Í	aþ	í
 töflunni	nveþg	tafla
 hér	aa	hér
@@ -1967,7 +1865,6 @@ ekkla	nkfo	ekkill
 eða	c	eða
 ekkjur	nvfo	ekkja
 .	.	.
-
 Einnig	aa	einnig
 sýnir	sfg3en	sýna
 hún	fpven	hún
@@ -1985,7 +1882,6 @@ mannfjöldann	nkeog	mannfjöldi
 í	aþ	í
 heild	nveþ	heild
 .	.	.
-
 Næsti	lkenve	næstur
 dálkur	nken	dálkur
 sýnir	sfg3en	sýna
@@ -2011,7 +1907,6 @@ giftir	lkfnsf	giftur
 eða	c	eða
 kvæntir	lkfnsf	kvæntur
 .	.	.
-
 Þriðji	lkenvf	þriðji
 dálkurinn	nkeng	dálkur
 sýnir	sfg3en	sýna
@@ -2036,7 +1931,6 @@ hafa	sfg3fn	hafa
 löglegum	lvfþsf	löglegur
 samvistum	nvfþ	samvist
 .	.	.
-
 Loks	aa	loks
 sýnir	sfg3en	sýna
 fimmti	lkenvf	fimmti
@@ -2056,7 +1950,6 @@ giftir	lkfnsf	giftur
 eða	c	eða
 kvæntir	lkfnsf	kvæntur
 .	.	.
-
 Séu	svg3fn	vera
 tölurnar	nvfng	tala
 í	aþ	í
@@ -2076,7 +1969,6 @@ birtist	sfm3en	birta
 dálki	nkeþ	dálkur
 tvö	ta	tvö
 .	.	.
-
 Meðalaldur	nken	meðalaldur
 brúðguma	nkfe	brúðgumi
 og	c	og
@@ -2088,7 +1980,6 @@ hækkandi	slg	hækka
 undanförnum	lkfþsf	undanfarinn
 áratugum	nkfþ	áratugur
 .	.	.
-
 Frá	aþ	frá
 því	fpheþ	það
 á	aþ	á
@@ -2109,7 +2000,6 @@ tæplega	aa	tæplega
 34	ta	34
 ár	nhfo	ár
 .	.	.
-
 Meðalaldur	nken	meðalaldur
 brúða	nvfe	brúður
 hefur	sfg3en	hafa
@@ -2124,7 +2014,6 @@ hækkað	ssg	hækka
 31	ta	31
 ár	nhfo	ár
 .	.	.
-
 Þá	aa	þá
 hefur	sfg3en	hafa
 meðalaldur	nken	meðalaldur
@@ -2150,7 +2039,6 @@ brúða	nvfe	brúður
 41	ta	41
 ár	nhfo	ár
 .	.	.
-
 Meðalaldur	nken	meðalaldur
 áður	aa	áður
 ókvæntra	lkfesf	ókvæntur
@@ -2172,7 +2060,6 @@ sjöunda	lkeþvf	sjöundi
 tíunda	lkeþvf	tíundi
 áratugnum	nkeþg	áratugur
 .	.	.
-
 Meðalaldur	nken	meðalaldur
 áður	aa	áður
 ókvæntra	lvfesf	ókvæntur
@@ -2194,7 +2081,6 @@ sjöunda	lkeþvf	sjöundi
 tíunda	lkeþvf	tíundi
 áratugnum	nkeþg	áratugur
 .	.	.
-
 Áttundi	lkenvf	áttundi
 áratugurinn	nkeng	áratugur
 sker	sfg3en	skera
@@ -2221,7 +2107,6 @@ og	c	og
 giftra	lvfesf	giftur
 brúða	nvfe	brúður
 .	.	.
-
 Frá	aþ	frá
 1991	ta	1991
 til	aa	til
@@ -2230,7 +2115,6 @@ fjölgar	sfg3en	fjölga
 íslenskum	lvfþsf	íslenskur
 kjarnafjölskyldum	nvfþ	kjarnafjölskylda
 .	.	.
-
 Af	aþ	af
 þessum	favfþ	þessi
 fjölskyldum	nvfþ	fjölskylda
@@ -2262,7 +2146,6 @@ um	aa	um
 tæplega	aa	tæplega
 1%	tp	1%
 .	.	.
-
 Feðrum	nkfþ	faðir
 með	ao	með
 börn	nhfo	barn
@@ -2272,7 +2155,6 @@ um	ao	um
 frá	aþ	frá
 1991	ta	1991
 .	.	.
-
 Mæðrum	nvfþ	móðir
 með	ao	með
 börn	nhfo	barn
@@ -2282,7 +2164,6 @@ um	ao	um
 frá	aþ	frá
 1991	ta	1991
 .	.	.
-
 Um	ao	um
 41%	tp	41%
 einstæðra	lkfesf	einstæður
@@ -2297,7 +2178,6 @@ og	c	og
 einstæðra	lvfesf	einstæður
 mæðra	nvfe	móðir
 .	.	.
-
 Kjarnafjölskyldum	nvfþ	kjarnafjölskylda
 fjölgar	sfg3en	fjölga
 um	ao	um
@@ -2307,7 +2187,6 @@ frá	aþ	frá
 til	aa	til
 2000	ta	2000
 .	.	.
-
 Á	aþ	á
 sama	fbkeþ	sami
 tíma	nkeþ	tími
@@ -2318,7 +2197,6 @@ landinu	nheþg	land
 um	ao	um
 9%	tp	9%
 .	.	.
-
 Hlutfall	nhen	hlutfall
 einhleypra	lkfesf	einhleypur
 karla	nkfe	karl
@@ -2335,7 +2213,6 @@ eykst	sfm3en	auka
 tímabilinu	nheþg	tímabil
 1995-1999	ta	1995-1999
 .	.	.
-
 Aukningin	nveng	aukning
 er	sfg3en	vera
 úr	aþ	úr
@@ -2343,7 +2220,6 @@ er	sfg3en	vera
 í	ao	í
 0,7%	tp	0,7%
 .	.	.
-
 Hlutfall	nhen	hlutfall
 samsvarandi	lkeeof	samsvarandi
 hóps	nkee	hópur
@@ -2378,7 +2254,6 @@ og	c	og
 á	aþ	á
 Suðurnesjum	nhfþ-s	Suðurnes
 .	.	.
-
 Hlutfall	nhen	hlutfall
 karla	nkfe	karl
 sem	ct	sem
@@ -2392,7 +2267,6 @@ samtímis	aa	samtímis
 örlítið	aa	örlítið
 lækkandi	slg	lækka
 .	.	.
-
 Hlutfallið	nheng	hlutfall
 er	sfg3en	vera
 tæp	lhfnsf	tæpur
@@ -2403,7 +2277,6 @@ tæp	lhfnsf	tæpur
 31%	tp	31%
 1999	ta	1999
 .	.	.
-
 Hlutfall	nhen	hlutfall
 kvenna	nvfe	kona
 í	aþ	í
@@ -2415,7 +2288,6 @@ breytist	sfm3en	breyta
 svipaðan	lkeosf	svipaður
 hátt	nkeo	háttur
 .	.	.
-
 Árið	nheog	ár
 2000	ta	2000
 er	sfg3en	vera
@@ -2442,7 +2314,6 @@ en	c	en
 öðrum	fokfþ	annar
 landshlutum	nkfþ	landshluti
 .	.	.
-
 Þessar	favfn	þessi
 niðurstöður	nvfn	niðurstaða
 gefa	sfg3fn	gefa
@@ -2481,7 +2352,6 @@ níunda	lkeþvf	níundi
 20.	ta	20.
 aldar	nvee	öld
 .	.	.
-
 Tölfræðiupplýsingarnar	nvfng	tölfræðiupplýsing
 hér	aa	hér
 á	aa	á
@@ -2492,7 +2362,6 @@ einnig	aa	einnig
 sömu	fbveo	sami
 átt	nveo	átt
 .	.	.
-
 Hlutfall	nhen	hlutfall
 barna	nhfe	barn
 á	aþ	á
@@ -2514,7 +2383,6 @@ tæpum	lhfþsf	tæpur
 um	aa	um
 80%	tp	80%
 .	.	.
-
 Samtímis	aa	samtímis
 eykst	sfm3en	auka
 hlutfall	nhen	hlutfall
@@ -2534,7 +2402,6 @@ liðlega	aa	liðlega
 um	aa	um
 20%	tp	20%
 .	.	.
-
 Árið	nheog	ár
 2000	ta	2000
 er	sfg3en	vera
@@ -2559,7 +2426,6 @@ staðar	nkee	staður
 á	aþ	á
 landinu	nheþg	land
 .	.	.
-
 Samtímis	aa	samtímis
 er	sfg3en	vera
 hlutfall	nhen	hlutfall
@@ -2580,7 +2446,6 @@ og	c	og
 á	aþ	á
 höfuðborgarsvæðinu	nheþg	höfuðborgarsvæði
 .	.	.
-
 Hjónavígslum	nvfþ	hjónavígsla
 fjölgar	sfg3en	fjölga
 fram	aa	fram
@@ -2596,7 +2461,6 @@ verður	sfg3en	verða
 mikil	lvensf	mikill
 breyting	nven	breyting
 .	.	.
-
 Eftirfarandi	lvenof	eftirfarandi
 tafla	nven	tafla
 sýnir	sfg3en	sýna
@@ -2619,7 +2483,6 @@ lítillega	aa	lítillega
 þeim	fakeþ	sá
 tíunda	lkeþvf	tíundi
 .	.	.
-
 Lögskilnuðum	nkfþ	lögskilnaður
 fjölgar	sfg3en	fjölga
 aftur	aa	aftur
@@ -2645,7 +2508,6 @@ hjón	nhfo	hjón
 árið	nheog	ár
 2000	ta	2000
 .	.	.
-
 Flestir	lkfnse	margur
 eru	sfg3fn	vera
 lögskilnaðirnir	nkfng	lögskilnaður
@@ -2661,7 +2523,6 @@ fæstir	lkfnse	fár
 árið	nheog	ár
 1956	ta	1956
 .	.	.
-
 Sem	c	sem
 hlutfall	nhen	hlutfall
 af	aþ	af
@@ -2686,7 +2547,6 @@ lítillega	aa	lítillega
 tíunda	lkeþvf	tíundi
 áratugnum	nkeþg	áratugur
 .	.	.
-
 Þegar	c	þegar
 lögskilnaðir	nkfn	lögskilnaður
 eru	sfg3fn	vera
@@ -2717,7 +2577,6 @@ tíunda	lkeevf	tíundi
 varðandi	slg	varða
 konur	nvfo	kona
 .	.	.
-
 Miðað	sþghen	miða
 við	ao	við
 fimm	tfhfe	fimm
@@ -2747,7 +2606,6 @@ og	c	og
 frá	aþ	frá
 1996	ta	1996
 .	.	.
-
 Algengasti	lkenve	algengur
 aldur	nken	aldur
 kvenna	nvfe	kona
@@ -2768,7 +2626,6 @@ fram	aa	fram
 til	ae	til
 2000	ta	2000
 .	.	.
-
 Þessi	faven	þessi
 þróun	nven	þróun
 er	sfg3en	vera
@@ -2792,7 +2649,6 @@ einkum	aa	einkum
 þó	aa	þó
 karla	nkfe	karl
 .	.	.
-
 Við	ao	við
 lögskilnað	nkeo	lögskilnaður
 eftir	aþ	eftir
@@ -2814,7 +2670,6 @@ konurnar	nvfng	kona
 þeim	fakeþ	sá
 sjöunda	lkeþvf	sjöundi
 .	.	.
-
 Upplýsingar	nvfn	upplýsing
 um	ao	um
 lögskilnaði	nkfo	lögskilnaður
@@ -2858,7 +2713,6 @@ yfir	aa	yfir
 frá	aþ	frá
 1991-2000	ta	1991-2000
 .	.	.
-
 Frá	aþ	frá
 árinu	nheþg	ár
 1971	ta	1971
@@ -2893,7 +2747,6 @@ börnin	nhfng	barn
 séu	svg3fn	vera
 tvö	tfhfn	tveir
 .	.	.
-
 Þróun	nven	þróun
 lögskilnaða	nkfe	lögskilnaður
 eftir	aþ	eftir
@@ -2929,7 +2782,6 @@ vegna	ae	vegna
 aldurs	nkee	aldur
 hjóna	nhfe	hjón
 .	.	.
-
 Í	aþ	í
 þessu	faheþ	þessi
 sambandi	nheþ	samband
@@ -2954,7 +2806,6 @@ viðmiðum	nhfþ	viðmið
 varðandi	slg	varða
 fjölskylduna	nveog	fjölskylda
 .	.	.
-
 Þessar	favfn	þessi
 breytingar	nvfn	breyting
 urðu	sfg3fþ	verða
@@ -2973,7 +2824,6 @@ víðtæk	lhfosf	víðtækur
 þessara	fahfe	þessi
 landa	nhfe	land
 .	.	.
-
 7.2.7	ta	7.2.7
 Hvernig	aa	hvernig
 ber	sfg3en	bera
@@ -2985,7 +2835,6 @@ hjónaskilnaða	nkfe	hjónaskilnaður
 síðari	lhfþvm	síðari
 árum	nhfþ	ár
 ?	?	?
-
 Að	aþ	að
 því	fpheþ	það
 gefnu	lheþsf	gefinn
@@ -3021,7 +2870,6 @@ undarlega	aa	undarlega
 fyrir	ao	fyrir
 sjónir	nvfo	sjón
 .	.	.
-
 Hvernig	aa	hvernig
 ber	sfg3en	bera
 að	cn	að
@@ -3030,7 +2878,6 @@ túlka	sng	túlka
 þessara	favfe	þessi
 talna	nvfe	tala
 ?	?	?
-
 Umræða	nven	umræða
 um	ao	um
 þessa	fakfo	þessi
@@ -3052,17 +2899,14 @@ Breytinga	nvfe	breyting
 á	aþ	á
 lögum	nhfþ	lag
 .	.	.
-
 Efnahagslegra	lvfesf	efnahagslegur
 breytinga	nvfe	breyting
 .	.	.
-
 Breytinga	nvfe	breyting
 á	aþ	á
 félagslegum	lvfþsf	félagslegur
 viðmiðum	nhfþ	viðmið
 .	.	.
-
 McGregor	e	McGregor
 (	(	(
 1957	ta	1957
@@ -3089,7 +2933,6 @@ frá	aþ	frá
 maka	nkeþ	maki
 sínum	fekeþ	sinn
 .	.	.
-
 Á	aþ	á
 sjötta	lkeþvf	sjötti
 áratug	nkeþ	áratugur
@@ -3113,7 +2956,6 @@ yngri	lvfnvm	ungur
 en	c	en
 áður	aa	áður
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 andstætt	lhensf	andstæður
@@ -3140,7 +2982,6 @@ Hagstofa	nven-s	Hagstofa
 2002	ta	2002
 )	)	)
 .	.	.
-
 McGregor	e	McGregor
 (	(	(
 1957	ta	1957
@@ -3181,7 +3022,6 @@ uppeldi	nheþ	uppeldi
 barna	nhfe	barn
 sinna	fehfe	sinn
 .	.	.
-
 Þessi	faven	þessi
 staðreynd	nven	staðreynd
 kann	sfg3en	kunna
@@ -3196,7 +3036,6 @@ að	aþ	að
 aukinni	lveþsf	aukinn
 skilnaðatíðni	nveþ	skilnaðatíðni
 .	.	.
-
 Hann	fpken	hann
 bendir	sfg3en	benda
 einnig	aa	einnig
@@ -3215,7 +3054,6 @@ fjölskyldunnar	nveeg	fjölskylda
 einkum	aa	einkum
 kvenna	nvfe	kona
 .	.	.
-
 Atvinnuþátttaka	nven	atvinnuþátttaka
 kvenna	nvfe	kona
 hefur	sfg3en	hafa
@@ -3225,7 +3063,6 @@ haft	ssg	hafa
 þessu	faheþ	þessi
 sambandi	nheþ	samband
 .	.	.
-
 Daniel	e	Daniel
 Bell	e	Bell
 (	(	(
@@ -3240,7 +3077,6 @@ efnahagslegt	lheosf	efnahagslegur
 sjálfstæði	nheo	sjálfstæði
 þeirra	fpvfe	hún
 .	.	.
-
 Aukin	lvensf	aukinn
 atvinnuþátttaka	nven	atvinnuþátttaka
 giftra	lvfesf	giftur
@@ -3255,7 +3091,6 @@ mati	nheþ	mat
 margra	lkfesf	margur
 félagsfræðinga	nkfe	félagsfræðingur
 .	.	.
-
 Þeir	fpkfn	hann
 hafa	sfg3fn	hafa
 einkum	aa	einkum
@@ -3274,7 +3109,6 @@ móður	nvee	móðir
 og	c	og
 barna	nhfe	barn
 .	.	.
-
 Cox	e	Cox
 (	(	(
 1991	ta	1991
@@ -3307,7 +3141,6 @@ upplifi	svg3fn	upplifa
 umtalsverða	lveosf	umtalsverður
 streitu	nveo	streita
 .	.	.
-
 Ástæður	nvfn	ástæða
 aukinnar	lveesf	aukinn
 atvinnuþátttöku	nvee	atvinnuþátttaka
@@ -3316,7 +3149,6 @@ kvenna	nvfe	kona
 eru	sfg3fn	vera
 mismunandi	lvfnof	mismunandi
 .	.	.
-
 Sumar	fovfn	sumur
 giftar	lvfnsf	giftur
 konur	nvfn	kona
@@ -3332,7 +3164,6 @@ einhæfni	nvee	einhæfni
 heima	aa	heima
 fyrir	aa	fyrir
 .	.	.
-
 Streita	nven	streita
 útivinnandi	lvfeof	útivinnandi
 mæðra	nvfe	móðir
@@ -3352,7 +3183,6 @@ til	ae	til
 sama	fbhee	sami
 hlutverks	nhee	hlutverk
 .	.	.
-
 Rannsókn	nven	rannsókn
 Yudkin	e	Yudkin
 og	c	og
@@ -3396,7 +3226,6 @@ eru	sfg3fn	vera
 að	cn	að
 vinna	sng	vinna
 .	.	.
-
 Hátt	lhensf	hár
 hlutfall	nhen	hlutfall
 fráskilinna	lkfesf	fráskilinn
@@ -3429,7 +3258,6 @@ máli	nheþ	mál
 varðandi	slg	varða
 skilnaðartíðnina	nveog	skilnaðartíðni
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 er	sfg3en	vera
@@ -3460,7 +3288,6 @@ skilja	sfg3fn	skilja
 á	ao	á
 víxl	nhfo	víxl
 .	.	.
-
 Í	aþ	í
 þessu	faheþ	þessi
 sambandi	nheþ	samband
@@ -3484,7 +3311,6 @@ tilliti	nheþ	tillit
 til	ae	til
 skilnaða	nkfe	skilnaður
 .	.	.
-
 Félagslegt	lhensf	félagslegur
 taumhald	nhen	taumhald
 ættarinnar	nveeg	ætt
@@ -3503,7 +3329,6 @@ og	c	og
 áður	aa	áður
 fyrr	aam	fyrr
 .	.	.
-
 Nútíma	nkee	nútími
 kjarnafjölskylda	nven	kjarnafjölskylda
 er	sfg3en	vera
@@ -3532,7 +3357,6 @@ stuðning	nkeo	stuðningur
 og	c	og
 áður	aa	áður
 .	.	.
-
 Hún	fpven	hún
 er	sfg3en	vera
 einnig	aa	einnig
@@ -3554,7 +3378,6 @@ framleiðslu-	nven	framleiðslueining
 og	c	og
 neyslueining	nven	neyslueining
 .	.	.
-
 Ennfremur	aa	ennfremur
 er	sfg3en	vera
 vert	lhensf	verður
@@ -3566,7 +3389,6 @@ hlutverka	nhfe	hlutverk
 í	aþ	í
 fjölskyldunni	nveþg	fjölskylda
 .	.	.
-
 Áður	aa	áður
 voru	sfg3fþ	vera
 hlutverkin	nhfng	hlutverk
@@ -3580,7 +3402,6 @@ mikið	aa	mikið
 til	aa	til
 aðskilin	lhfnsf	aðskildur
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 einnig	aa	einnig
@@ -3606,7 +3427,6 @@ streitu	nvee	streita
 nútíma	nkee	nútími
 samfélagi	nheþ	samfélag
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 einnig	aa	einnig
@@ -3626,7 +3446,6 @@ til	ae	til
 varanleika	nkee	varanleiki
 fjölskyldunnar	nveeg	fjölskylda
 .	.	.
-
 7.3	ta	7.3
 HEILBRIGÐI	nhen	heilbrigði
 Í	aþ	í
@@ -3650,7 +3469,6 @@ unglinga	nkfe	unglingur
 og	c	og
 fullorðinna	lkfesf	fullorðinn
 .	.	.
-
 Þau	fphfn	það
 skipta	sfg3fn	skipta
 líka	aa	líka
@@ -3659,7 +3477,6 @@ fyrir	ao	fyrir
 heilbrigði	nheo	heilbrigði
 einstaklinga	nkfe	einstaklingur
 .	.	.
-
 Hversu	aa	hversu
 vel	aa	vel
 fjölskyldan	nveng	fjölskylda
@@ -3690,7 +3507,6 @@ Menaghan	e	Menaghan
 1995	ta	1995
 )	)	)
 .	.	.
-
 150	ta	150
 Félagsleg	lhfnsf	félagslegur
 tengsl	nhfn	tengsl
@@ -3704,7 +3520,6 @@ um	ao	um
 langa	lveosf	langur
 hríð	nveo	hríð
 .	.	.
-
 Rannsóknir	nvfn	rannsókn
 hafa	sfg3fn	hafa
 m.a.	as	m.a.
@@ -3719,7 +3534,6 @@ aldraðra	lkfesf	aldraður
 og	c	og
 langtímaveikra	lkfesf	langtímaveikur
 .	.	.
-
 Niðurstöður	nvfn	niðurstaða
 þessara	favfe	þessi
 rannsókna	nvfe	rannsókn
@@ -3757,7 +3571,6 @@ Vilhjálmsson	nken-s	Vilhjálmsson
 1987	ta	1987
 )	)	)
 .	.	.
-
 151	ta	151
 Rannsóknir	nvfn	rannsókn
 á	aþ	á
@@ -3786,7 +3599,6 @@ félagsfræði	nveo	félagsfræði
 og	c	og
 sálfræði	nveo	sálfræði
 .	.	.
-
 Sumar	fovfn	sumur
 þessara	favfe	þessi
 rannsókna	nvfe	rannsókn
@@ -3831,7 +3643,6 @@ verndandi	lhfosf	verndandi
 áhrif	nhfo	áhrif
 þeirra	fphfe	það
 .	.	.
-
 Í	aþ	í
 umfjöllun	nveþ	umfjöllun
 Christine	e	Christine
@@ -3856,7 +3667,6 @@ sérstakt	lhensf	sérstakur
 áhugamál	nhen	áhugamál
 iðjuþjálfa	nkfe	iðjuþjálfi
 .	.	.
-
 Hún	fpven	hún
 bendir	sfg3en	benda
 á	ao	á
@@ -3874,7 +3684,6 @@ sé	svg3en	vera
 við	aa	við
 haldið	sþghen	halda
 .	.	.
-
 Í	aþ	í
 framhaldi	nheþ	framhald
 af	aþ	af
@@ -3892,7 +3701,6 @@ fjölskyldunnar	nveeg	fjölskylda
 í	aþ	í
 heilsugæslu	nveþ	heilsugæsla
 .	.	.
-
 7.3.1	ta	7.3.1
 Tilgangur	nken	tilgangur
 fjölskyldunnar	nveeg	fjölskylda
@@ -3911,7 +3719,6 @@ grundvallareining	nven	grundvallareining
 félagslegra	lhfesf	félagslegur
 samskipta	nhfe	samskipti
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 félagsfræðinni	nveþg	félagsfræði
 er	sfg3en	vera
@@ -3926,7 +3733,6 @@ kerfi	nhen	kerfi
 félagslegra	lhfesf	félagslegur
 samskipta	nhfe	samskipti
 .	.	.
-
 Fjölskylda	nven	fjölskylda
 getur	sfg3en	geta
 t.d.	as	t.d.
@@ -3947,7 +3753,6 @@ og	c	og
 börn	nhfn	barn
 þeirra	fpkfe	hann
 .	.	.
-
 Þó	aa	þó
 börn	nhfn	barn
 séu	svg3fn	vera
@@ -3965,7 +3770,6 @@ eða	c	eða
 alls	fohee	allur
 ekki	aa	ekki
 .	.	.
-
 Þegar	c	þegar
 félagsfræðingar	nkfn	félagsfræðingur
 ræða	sfg3fn	ræða
@@ -3993,7 +3797,6 @@ fyrir	ao	fyrir
 einstakar	lvfosf	einstakur
 fjölskyldur	nvfo	fjölskylda
 .	.	.
-
 Áður	aa	áður
 en	c	en
 byrjað	sþghen	byrja
@@ -4025,7 +3828,6 @@ barna	nhfe	barn
 innan	ae	innan
 fjölskyldunnar	nveeg	fjölskylda
 .	.	.
-
 Um	ao	um
 þetta	faheo	þessi
 hefur	sfg3en	hafa
@@ -4053,7 +3855,6 @@ bætt	ssg	bæta
 öðru	foheþ	annar
 við	aa	við
 .	.	.
-
 Algeng	lvensf	algengur
 aðferð	nven	aðferð
 við	ao	við
@@ -4072,14 +3873,12 @@ hefur	sfg3en	hafa
 í	aþ	í
 samfélaginu	nheþg	samfélag
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 t.d.	as	t.d.
 aðferð	nven	aðferð
 samvirknihyggjunnar	nveeg	samvirknihyggja
 .	.	.
-
 Í	aþ	í
 nútíma	nkee	nútími
 samfélagi	nheþ	samfélag
@@ -4095,13 +3894,11 @@ Fullnægja	sng	fullnægja
 kynlífsþörfum	nvfþ	kynlífsþörf
 fullorðinna	lkfesf	fullorðinn
 .	.	.
-
 Annast	snm	anna
 æxlunar-	nhfo	æxlunarverkefni
 og	c	og
 uppeldisverkefni	nhfo	uppeldisverkefni
 .	.	.
-
 Því	fpheþ	það
 hefur	sfg3en	hafa
 einnig	aa	einnig
@@ -4135,7 +3932,6 @@ hér	aa	hér
 áður	aa	áður
 fyrr	aam	fyrr
 .	.	.
-
 Margir	lkfnsf	margur
 félagsfræðingar	nkfn	félagsfræðingur
 eru	sfg3fn	vera
@@ -4155,7 +3951,6 @@ t.d.	as	t.d.
 í	aþ	í
 bændasamfélaginu	nheþg	bændasamfélag
 .	.	.
-
 Tilgangur	nken	tilgangur
 hennar	fpvee	hún
 er	sfg3en	vera
@@ -4168,7 +3963,6 @@ en	c	en
 öðrum	fohfþ	annar
 menningarsvæðum	nhfþ	menningarsvæði
 .	.	.
-
 Fyrir	ao	fyrir
 iðnvæðingu	nveo	iðnvæðing
 á	aþ	á
@@ -4184,7 +3978,6 @@ fyrir	aþ	fyrir
 formlegri	lveþsf	formlegur
 menntun	nveþ	menntun
 .	.	.
-
 Þessi	fahfn	þessi
 tvö	tfhfn	tveir
 verkefni	nhfn	verkefni
@@ -4213,7 +4006,6 @@ breyttum	lkfþsf	breyttur
 og	c	og
 atvinnuháttum	nkfþ	atvinnuhættir
 .	.	.
-
 Í	aþ	í
 leiðinni	nveþg	leið
 fær	sfg3en	fá
@@ -4231,7 +4023,6 @@ og	c	og
 meðlima	nkfe	meðlimur
 sinna	fekfe	sinn
 .	.	.
-
 Fræðimenn	nkfn	fræðimaður
 sem	ct	sem
 aðhyllast	sfm3fn	aðhyllast
@@ -4264,7 +4055,6 @@ sem	ct	sem
 fjölskyldan	nveng	fjölskylda
 tilheyrir	sfg3en	tilheyra
 .	.	.
-
 Veiti	svg3en	veita
 fullorðnu	lheþsf	fullorðinn
 fólki	nheþ	fólk
@@ -4275,7 +4065,6 @@ eiginmaður	nken	eiginmaður
 /	/	/
 eiginkona	nven	eiginkona
 .	.	.
-
 Á	aþ	á
 grundvelli	nkeþ	grundvöllur
 þessa	fahee	þessi
@@ -4300,7 +4089,6 @@ og	c	og
 karlmannlegan	lkeosf	karlmannlegur
 hátt	nkeo	háttur
 .	.	.
-
 Staðalhlutverk	nhfn	staðalhlutverk
 foreldranna	nkfeg	foreldrar
 fela	sfg3fn	fela
@@ -4321,7 +4109,6 @@ um	ao	um
 allt	foheo	allur
 heimilishald	nheo	heimilishald
 .	.	.
-
 Að	c	að
 hagsmunir	nkfn	hagsmunir
 og	c	og
@@ -4331,7 +4118,6 @@ snúist	svm3fn	snúa
 um	ao	um
 heimilið	nheog	heimili
 .	.	.
-
 Að	c	að
 hún	fpven	hún
 láti	svg3en	láta
@@ -4342,7 +4128,6 @@ tilfinningalega	lveosf	tilfinningalegur
 vellíðan	nveo	vellíðan
 fjölskyldunnar	nveeg	fjölskylda
 .	.	.
-
 Skylda	nven	skylda
 eiginmannsins	nkeeg	eiginmaður
 sé	svg3en	vera
@@ -4354,7 +4139,6 @@ farborða	nkeo	farborði
 efnahagslegu	lheþsf	efnahagslegur
 tilliti	nheþ	tillit
 .	.	.
-
 Að	cn	að
 beina	sng	beina
 athafnasemi	nveþ	athafnasemi
@@ -4371,7 +4155,6 @@ fyrir	ao	fyrir
 heim	nkeo	heimur
 fjölskyldunnar	nveeg	fjölskylda
 .	.	.
-
 Bent	sþghen	benda
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -4404,7 +4187,6 @@ Oakley	e	Oakley
 1980b	ta	1980b
 )	)	)
 .	.	.
-
 Oakley	e	Oakley
 nefnir	sfg3en	nefna
 í	aþ	í
@@ -4413,7 +4195,6 @@ sambandi	nheþ	samband
 uppeldisverkefni	nheo	uppeldisverkefni
 fjölskyldunnar	nveeg	fjölskylda
 .	.	.
-
 Börn	nhfn	barn
 eru	sfg3fn	vera
 mikilvægari	lhfnvm	mikilvægur
@@ -4427,7 +4208,6 @@ fengið	ssg	fá
 nýja	lveosf	nýr
 merkingu	nveo	merking
 .	.	.
-
 Þessu	faheþ	þessi
 til	ae	til
 stuðnings	nkee	stuðningur
@@ -4440,7 +4220,6 @@ og	c	og
 þýðingu	nveo	þýðing
 foreldrahlutverksins	nheeg	foreldrahlutverk
 .	.	.
-
 Umönnun	nven	umönnun
 barna	nhfe	barn
 er	sfg3en	vera
@@ -4455,7 +4234,6 @@ fengið	ssg	fá
 annað	foheo	annar
 innihald	nheo	innihald
 .	.	.
-
 Lengi	aa	lengi
 vel	aa	vel
 voru	sfg3fþ	vera
@@ -4468,7 +4246,6 @@ sérfræðingarnir	nkfng	sérfræðingur
 umönnun	nveþ	umönnun
 barna	nhfe	barn
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 er	sfg3en	vera
@@ -4503,7 +4280,6 @@ og	c	og
 öðrum	fokfþ	annar
 fjölmiðlum	nkfþ	fjölmiðill
 .	.	.
-
 Foreldrar	nkfn	foreldrar
 hafa	sfg3fn	hafa
 orðið	ssg	verða
@@ -4515,7 +4291,6 @@ vegna	ae	vegna
 þessa	fahee	þessi
 upplýsingaflæðis	nhee	upplýsingaflæði
 .	.	.
-
 Í	aþ	í
 því	fpheþ	það
 er	sfg3en	vera
@@ -4540,7 +4315,6 @@ upp	aa	upp
 börn	nhfo	barn
 sín	fehfo	sinn
 .	.	.
-
 Uppeldishlutverk	nhen	uppeldishlutverk
 fjölskyldunnar	nveeg	fjölskylda
 hefur	sfg3en	hafa
@@ -4572,7 +4346,6 @@ Oakley	e	Oakley
 1980b	ta	1980b
 )	)	)
 .	.	.
-
 Fjölskyldan	nveng	fjölskylda
 er	sfg3en	vera
 í	ao	í
@@ -4588,7 +4361,6 @@ stuðnings	nkee	stuðningur
 meðlima	nkfe	meðlimur
 sinna	fekfe	sinn
 .	.	.
-
 Félagsfræðilegt	lhensf	félagsfræðilegur
 hugtak	nhen	hugtak
 í	aþ	í
@@ -4601,7 +4373,6 @@ fjölskylduhyggja	nven	fjölskylduhyggja
 familism	e	familism
 )	)	)
 .	.	.
-
 Hún	fpven	hún
 felur	sfg3en	fela
 í	aþ	í
@@ -4621,7 +4392,6 @@ og	c	og
 börn	nhfn	barn
 þeirra	fpkfe	hann
 .	.	.
-
 Fjölskylduhyggja	nven	fjölskylduhyggja
 felur	sfg3en	fela
 í	aþ	í
@@ -4635,7 +4405,6 @@ hluta	nkeþ	hluti
 á	aþ	á
 tilfinningum	nvfþ	tilfinning
 .	.	.
-
 Fjölskyldusambandið	nheng	fjölskyldusamband
 er	sfg3en	vera
 þar	aa	þar
@@ -4653,7 +4422,6 @@ einnig	aa	einnig
 forsendur	nvfn	forsenda
 fjölskyldunnar	nveeg	fjölskylda
 .	.	.
-
 Ef	c	ef
 atvinna	nven	atvinna
 fólks	nhee	fólk
@@ -4680,7 +4448,6 @@ oft	aa	oft
 eini	lkenvf	einn
 kosturinn	nkeng	kostur
 .	.	.
-
 Áherslan	nveng	áhersla
 er	sfg3en	vera
 því	aa	því
@@ -4694,7 +4461,6 @@ hvað	fshen	hver
 þetta	faheo	þessi
 varðar	sfg3en	varða
 .	.	.
-
 7.3.2	ta	7.3.2
 Hjúskapur	nken	hjúskapur
 og	c	og
@@ -4724,7 +4490,6 @@ Cockerham	e	Cockerham
 1996	ta	1996
 )	)	)
 .	.	.
-
 154	ta	154
 Nýleg	lvensf	nýlegur
 rannsókn	nven	rannsókn
@@ -4751,7 +4516,6 @@ o.fl.	as	o.fl.
 2002	ta	2002
 )	)	)
 .	.	.
-
 155	ta	155
 Rannsóknin	nveng	rannsókn
 gefur	sfg3en	gefa
@@ -4766,7 +4530,6 @@ gegn	aþ	gegn
 andlegri	lveþsf	andlegur
 vanlíðan	nveþ	vanlíðan
 .	.	.
-
 Giftar	lvfnsf	giftur
 konur	nvfn	kona
 og	c	og
@@ -4787,7 +4550,6 @@ einhleypar	lvfnsf	einhleypur
 eða	c	eða
 fráskildar	lvfnsf	fráskilinn
 .	.	.
-
 Þessi	faven	þessi
 niðurstaða	nven	niðurstaða
 er	sfg3en	vera
@@ -4822,7 +4584,6 @@ o.fl.	as	o.fl.
 2000	ta	2000
 )	)	)
 .	.	.
-
 156	ta	156
 Jákvæð	lhfnsf	jákvæður
 áhrif	nhfn	áhrif
@@ -4863,7 +4624,6 @@ sálarkreppur	nvfo	sálarkreppa
 og	c	og
 streitu	nveo	streita
 .	.	.
-
 En	c	en
 nefna	sng	nefna
 ber	sfg3en	bera
@@ -4888,7 +4648,6 @@ orsakavöldum	nkfþ	orsakavaldur
 afbrigðilegs	lheesf	afbrigðilegur
 atferlis	nhee	atferli
 .	.	.
-
 Aðstæður	nvfn	aðstæður
 sem	ct	sem
 leiða	sfg3fn	leiða
@@ -4916,7 +4675,6 @@ Kessler	e	Kessler
 1993	ta	1993
 )	)	)
 .	.	.
-
 Að	aþ	að
 teknu	lheþsf	tekinn
 tilliti	nheþ	tillit
@@ -4948,7 +4706,6 @@ Cockerham	e	Cockerham
 1996	ta	1996
 )	)	)
 .	.	.
-
 157	ta	157
 Algengt	lhensf	algengur
 er	sfg3en	vera
@@ -4964,7 +4721,6 @@ félagslegra	lhfesf	félagslegur
 hlutverka	nhfe	hlutverk
 þeirra	fphfe	það
 .	.	.
-
 Fjölskyldan	nveng	fjölskylda
 mótar	sfg3en	móta
 börn	nhfo	barn
@@ -4981,7 +4737,6 @@ af	aþ	af
 á	aþ	á
 fullorðinsaldri	nkeþ	fullorðinsaldur
 .	.	.
-
 Fjölskyldan	nveng	fjölskylda
 kennir	sfg3en	kenna
 þeim	fphfþ	það

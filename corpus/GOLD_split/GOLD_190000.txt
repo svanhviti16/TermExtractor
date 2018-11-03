@@ -39,7 +39,6 @@ sig	fpvfo	sig
 bláan	lkeosf	blár
 bjarma	nkeo	bjarmi
 .	.	.
-
 Og	c	og
 hann	fpken	hann
 hafði	sfg3eþ	hafa
@@ -84,7 +83,6 @@ með	aþ	með
 furðuharkalegum	lvfþsf	furðuharkalegur
 aðferðum	nvfþ	aðferð
 .	.	.
-
 Þeir	fpkfn	hann
 ráku	sfg3fþ	reka
 pennaodd	nkeo	pennaoddur
@@ -118,7 +116,6 @@ að	cn	að
 blikka	sng	blikka
 augunum	nhfþg	auga
 .	.	.
-
 Þá	aa	þá
 var	sfg3eþ	vera
 hún	fpven	hún
@@ -134,7 +131,6 @@ hana	fpveo	hún
 milli	ae	milli
 sín	fpkfe	sig
 .	.	.
-
 Nema	c	nema
 í	ao	í
 þriðja	lheovf	þriðji
@@ -142,7 +138,6 @@ og	c	og
 síðasta	lheove	síðari
 skiptið	nheog	skipti
 .	.	.
-
 Þá	aa	þá
 hlupu	sfg3fþ	hlaupa
 þeir	fpkfn	hann
@@ -156,7 +151,6 @@ skildu	sfg3fþ	skilja
 eftir	aa	eftir
 opnar	lvfosf	opinn
 .	.	.
-
 Kannski	aa	kannski
 var	sfg3eþ	vera
 það	fphen	það
@@ -206,14 +200,11 @@ hjartað	nheog	hjarta
 í	aþ	í
 kokinu	nheþg	kok
 .	.	.
-
 Kerlingin	nveng	kerling
 ?	?	?
-
 Þvílíkt	fbhen	þvílíkur
 rangnefni	nhen	rangnefni
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 ekki	aa	ekki
@@ -225,7 +216,6 @@ um	ao	um
 þetta	fahen	þessi
 var	sfg3eþ	vera
 .	.	.
-
 Hálfgerð	lvensf	hálfgerður
 stelpa	nven	stelpa
 ,	,	,
@@ -236,7 +226,6 @@ og	c	og
 öðrum	fovfþ	annar
 stofnunum	nvfþ	stofnun
 .	.	.
-
 Óskiljanlegt	lhensf	óskiljanlegur
 hvað	fshen	hver
 hún	fpven	hún
@@ -249,7 +238,6 @@ gengin	sþgven	ganga
 í	aþ	í
 minningunni	nveþg	minning
 .	.	.
-
 Núna	aa	núna
 var	sfg3eþ	vera
 hún	fpven	hún
@@ -264,7 +252,6 @@ hjálpsemi	nveþ	hjálpsemi
 við	ao	við
 aðra	fokfo	annar
 .	.	.
-
 Einn	tfken	einn
 ,	,	,
 tveir	tfkfn	tveir
@@ -288,7 +275,6 @@ honum	fpkeþ	hann
 að	aþ	að
 dyrunum	nvfþg	dyr
 .	.	.
-
 Konan	nveng	kona
 var	sfg3eþ	vera
 búin	lvensf	búinn
@@ -313,7 +299,6 @@ risti	sfg3eþ	rista
 undarlega	aa	undarlega
 djúpt	aa	djúpt
 .	.	.
-
 Svona	aa	svona
 gerir	sfg3en	gera
 kvölin	nveng	kvöl
@@ -349,7 +334,6 @@ straumur	nken	straumur
 öllu	foheþ	allur
 draslinu	nheþg	drasl
 .	.	.
-
 Lárus	nken-s	Lárus
 minn	feken	minn
 ,	,	,
@@ -360,7 +344,6 @@ benti	sfg3eþ	benda
 á	ao	á
 ljósarofann	nkeog	ljósarofi
 .	.	.
-
 Ýttu	sbg2en	ýta
 á	ao	á
 takkann	nkeog	takki
@@ -368,7 +351,6 @@ takkann	nkeog	takki
 fyrir	ao	fyrir
 mig	fp1eo	ég
 .	.	.
-
 Lárus	nken-s	Lárus
 settist	sfm3eþ	setja
 aftur	aa	aftur
@@ -407,17 +389,14 @@ hann	fpken	hann
 sendur	sþgken	senda
 burt	aa	burt
 .	.	.
-
 Fer	sfg3en	fara
 sæmilega	aa	sæmilega
 um	ao	um
 þig	fp2eo	þú
 ?	?	?
-
 spurði	sfg3eþ	spyrja
 konan	nveng	kona
 .	.	.
-
 Já	au	já
 ,	,	,
 elskan	nveng	elska
@@ -427,7 +406,6 @@ góða	lvenvf	góður
 svaraði	sfg3eþ	svara
 Sveinn	nken-s	Sveinn
 .	.	.
-
 Heppinn	lkensf	heppinn
 varstu	sfg2eþ	vera
 að	c	að
@@ -439,7 +417,6 @@ fann	sfg3eþ	finna
 sagði	sfg3eþ	segja
 konan	nveng	kona
 .	.	.
-
 Bleik	lhfnsf	bleikur
 eyru	nhfn	eyra
 Lárusar	nkee-s	Lárus
@@ -447,7 +424,6 @@ urðu	sfg3fþ	verða
 enn	aa	enn
 bleikari	lhfnvm	bleikur
 .	.	.
-
 Vel	aa	vel
 á	aa	á
 minnst	sþmhen	minna
@@ -462,7 +438,6 @@ erfiðismunum	nkfþ	erfiðismunir
 að	aþ	að
 Lárusi	nkeþ-s	Lárus
 .	.	.
-
 Hvað	fsheo	hver
 varstu	sfg2eþ	vera
 að	cn	að
@@ -471,7 +446,6 @@ heima	aa	heima
 hjá	aþ	hjá
 mér	fp1eþ	ég
 ?	?	?
-
 Konan	nveng	kona
 kímdi	sfg3eþ	kíma
 ,	,	,
@@ -495,7 +469,6 @@ einkasamtalið	nheog	einkasamtal
 aftur	aa	aftur
 í	aa	í
 .	.	.
-
 Kannski	aa	kannski
 leyndi	sfg3eþ	leyna
 hún	fpven	hún
@@ -530,7 +503,6 @@ viðstöddum	lkfþsf	viðstaddur
 er	sfg3en	vera
 innanbrjósts	aa	innanbrjósts
 .	.	.
-
 Ég	fp1en	ég
 var	sfg1eþ	vera
 búinn	lkensf	búinn
@@ -547,7 +519,6 @@ sagði	sfg3eþ	segja
 Lárus	nken-s	Lárus
 hraðmæltur	lkensf	hraðmæltur
 .	.	.
-
 Þú	fp2en	þú
 veist	sfg2en	vita
 ,	,	,
@@ -560,7 +531,6 @@ töluðum	sfg1fþ	tala
 um	aa	um
 áðan	aa	áðan
 .	.	.
-
 En	c	en
 þú	fp2en	þú
 svaraðir	sfg2eþ	svara
@@ -579,7 +549,6 @@ símanum	nkeþg	sími
 eða	c	eða
 eitthvað	foheo	einhver
 .	.	.
-
 Síðan	aa	síðan
 keyrði	sfg1eþ	keyra
 ég	fp1en	ég
@@ -626,7 +595,6 @@ fór	sfg1eþ	fara
 bara	aa	bara
 inn	aa	inn
 .	.	.
-
 Sveinn	nken-s	Sveinn
 dró	sfg3eþ	draga
 andann	nkeog	andi
@@ -653,7 +621,6 @@ honum	fpkeþ	hann
 var	sfg3eþ	vera
 misboðið	sþghen	misbjóða
 .	.	.
-
 Hann	fpken	hann
 átti	sfg3eþ	eiga
 að	cn	að
@@ -673,7 +640,6 @@ hendur	nvfo	hönd
 velgjörðarmann	nkeo	velgjörðarmaður
 sinn	fekeo	sinn
 .	.	.
-
 Og	c	og
 hvað	fsheo	hver
 lá	sfg3eþ	liggja
@@ -684,7 +650,6 @@ að	cn	að
 segja	sng	segja
 mér	fp1eþ	ég
 ?	?	?
-
 sagði	sfg3eþ	segja
 Sveinn	nken-s	Sveinn
 þótt	c	þótt
@@ -718,7 +683,6 @@ einhvers	fokee	einhver
 konar	nkee	konar
 leynimakki	nheþ	leynimakk
 .	.	.
-
 Þegar	c	þegar
 Lárus	nken-s	Lárus
 svaraði	sfg3eþ	svara
@@ -742,7 +706,6 @@ lögregluna	nveog	lögregla
 á	aþ	á
 hælunum	nkfþg	hæll
 .	.	.
-
 Greinileg	lhfosf	greinilegur
 sárindi	nhfo	sárindi
 var	sfg3eþ	vera
@@ -757,7 +720,6 @@ sagði	sfg3eþ	segja
 :	:	:
 Nei	au	nei
 .	.	.
-
 Og	c	og
 hann	fpken	hann
 þrjóskaðist	sfm3eþ	þrjóskast
@@ -784,7 +746,6 @@ sem	ct	sem
 að	cn	að
 vita	sng	vita
 .	.	.
-
 Þú	fp2en	þú
 getur	sfg2en	geta
 keyrt	ssg	keyra
@@ -809,7 +770,6 @@ stal	sfg3eþ	stela
 frá	aþ	frá
 þér	fp2eþ	þú
 .	.	.
-
 Þú	fp2en	þú
 varst	sfg2eþ	vera
 ekki	aa	ekki
@@ -820,7 +780,6 @@ að	aþ	að
 sagði	sfg3eþ	segja
 Sveinn	nken-s	Sveinn
 .	.	.
-
 En	c	en
 ég	fp1en	ég
 var	sfg1eþ	vera
@@ -848,14 +807,12 @@ svona	aa	svona
 í	ao	í
 hann	fpkeo	hann
 .	.	.
-
 Hvað	fshen	hver
 finnst	sfm3en	finna
 þér	fp2eþ	þú
 ,	,	,
 vinur	nken	vinur
 ?	?	?
-
 Lárus	nken-s	Lárus
 yppti	sfg3eþ	yppta
 öxlum	nvfþ	öxl
@@ -864,7 +821,6 @@ fullkomlega	aa	fullkomlega
 miður	aam	lítt
 sín	fpkee	sig
 .	.	.
-
 Hann	fpken	hann
 virtist	sfm3eþ	virða
 þrá	sng	þrá
@@ -880,7 +836,6 @@ gera	sng	gera
 sig	fpkeo	sig
 ómissandi	lkeoof	ómissandi
 .	.	.
-
 Strákgreyið	nheng	strákgrey
 vissi	sfg3eþ	vita
 ekki	aa	ekki
@@ -908,7 +863,6 @@ detta	sng	detta
 niður	aa	niður
 dauður	lkensf	dauður
 .	.	.
-
 VIII	ta	viii
 Sunnudagur	nken-s	Sunnudagur
 Lóa	nven-s	Lóa
@@ -947,7 +901,6 @@ frá	aþ	frá
 í	ao	í
 fyrra	lheovm	fyrri
 .	.	.
-
 Litirnir	nkfng	litur
 ofur	aa	ofur
 raunverulegir	lkfnsf	raunverulegur
@@ -956,7 +909,6 @@ skjannahvítri	lveþsf	skjannahvítur
 birtu	nveþ	birta
 morgunsins	nkeeg	morgunn
 .	.	.
-
 Með	ao	með
 undarlegan	lkeosf	undarlegur
 titring	nkeo	titringur
@@ -981,7 +933,6 @@ eyrað	nheng	eyra
 greindi	svg3eþ	greina
 þá	aa	þá
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 alls	fohee	allur
@@ -1012,7 +963,6 @@ fjósi	nheþ	fjós
 eftir	ao	eftir
 mjaltir	nvfo	mjaltir
 .	.	.
-
 Hún	fpven	hún
 þvoði	sfg3eþ	þvo
 hægt	aa	hægt
@@ -1023,7 +973,6 @@ blandaranum	nkeþg	blandari
 og	c	og
 snúningshnífinn	nkeog	snúningshnífur
 .	.	.
-
 Næringardrykkurinn	nkeng	næringardrykkur
 beið	sfg3eþ	bíða
 þess	fphee	það
@@ -1070,7 +1019,6 @@ nýkominn	lkensf	nýkominn
 á	ao	á
 markaðinn	nkeog	markaður
 .	.	.
-
 Tilhugsunin	nveng	tilhugsun
 um	ao	um
 vinnuna	nveog	vinna
@@ -1094,7 +1042,6 @@ og	c	og
 á	aþ	á
 sjónvarpsskjá	nkeþ	sjónvarpsskjár
 .	.	.
-
 Ökuferðirnar	nvfng	ökuferð
 með	aþ	með
 föður	nkeþ	faðir
@@ -1145,7 +1092,6 @@ upp	aa	upp
 maga	nkeþ	magi
 hennar	fpvee	hún
 .	.	.
-
 Sumir	fokfn	sumur
 farþegarnir	nkfng	farþegi
 tóku	sfg3fþ	taka
@@ -1172,7 +1118,6 @@ loftinu	nheþg	loft
 og	c	og
 stillt	lvensf	stilltur
 .	.	.
-
 Og	c	og
 þögul	lvensf	þögull
 þegar	c	þegar
@@ -1200,7 +1145,6 @@ endurnar	nvfog	önd
 á	aþ	á
 Tjörninni	nveþgs	Tjörn
 .	.	.
-
 Aðrir	fokfn	annar
 ökumenn	nkfn	ökumaður
 virtust	sfm3fþ	virða
@@ -1232,7 +1176,6 @@ með	aþ	með
 stikuðum	lhfþsf	stikaður
 lóðamörkum	nhfþ	lóðamark
 .	.	.
-
 Þegar	c	þegar
 hann	fpken	hann
 hafði	sfg3eþ	hafa
@@ -1254,7 +1197,6 @@ velktur	lkensf	velktur
 og	c	og
 næfurþunnur	lkensf	næfurþunnur
 .	.	.
-
 Hann	fpken	hann
 rétti	sfg3eþ	rétta
 henni	fpveþ	hún
@@ -1281,7 +1223,6 @@ gefa	sng	gefa
 til	aa	til
 baka	aa	baka
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 alltaf	aa	alltaf
@@ -1321,7 +1262,6 @@ breiðari	lvfnvm	breiður
 en	c	en
 bílsætið	nheng	bílsæti
 .	.	.
-
 Farþegarnir	nkfng	farþegi
 voru	sfg3fþ	vera
 alltaf	aa	alltaf
@@ -1348,7 +1288,6 @@ hún	fpven	hún
 yrði	svg3eþ	verða
 stór	lvensf	stór
 .	.	.
-
 Eða	c	eða
 bankastjóri	nken	bankastjóri
 ,	,	,
@@ -1366,7 +1305,6 @@ fallegum	lkeþsf	fallegur
 gaddfreðnum	lkeþsf	gaddfreðinn
 sólskinsdegi	nkeþ	sólskinsdagur
 .	.	.
-
 Farþeginn	nkeng	farþegi
 ,	,	,
 hokinn	lkensf	hokinn
@@ -1388,7 +1326,6 @@ hvernig	aa	hvernig
 læt	sfg1en	láta
 ég	fp1en	ég
 ?	?	?
-
 Við	fp1fn	ég
 fáum	sfg1fn	fá
 ekki	aa	ekki
@@ -1399,7 +1336,6 @@ en	c	en
 ungu	lveovf	ungur
 konu	nveo	kona
 .	.	.
-
 Svo	aa	svo
 töluðu	sfg3fþ	tala
 þeir	fpkfn	hann
@@ -1429,7 +1365,6 @@ upp	aa	upp
 yfir	ao	yfir
 húsþökin	nhfog	húsþak
 .	.	.
-
 Upp	aa	upp
 í	ao	í
 himininn	nkeog	himinn
@@ -1442,7 +1377,6 @@ en	c	en
 nokkur	foken	nokkur
 auglýsingahiminn	nken	auglýsingahiminn
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 góð	lvensf	góður
@@ -1465,7 +1399,6 @@ af	aþ	af
 lífi	nheþ	líf
 hennar	fpvee	hún
 .	.	.
-
 Núna	aa	núna
 þurfti	sfg3eþ	þurfa
 hún	fpven	hún
@@ -1541,7 +1474,6 @@ hafði	sfg3eþ	hafa
 pússað	ssg	pússa
 þær	fpvfo	hún
 .	.	.
-
 Og	c	og
 þá	aa	þá
 ,	,	,
@@ -1565,7 +1497,6 @@ af	aþ	af
 áreynslulausri	lveþsf	áreynslulaus
 fegurðinni	nveþg	fegurð
 .	.	.
-
 Nei	au	nei
 annars	aa	annars
 ,	,	,
@@ -1587,14 +1518,12 @@ handan	aa	handan
 við	ao	við
 dyrnar	nvfog	dyr
 .	.	.
-
 Annars	fokee	annar
 konar	nkee	konar
 sæla	nven	sæla
 ,	,	,
 hvernig	aa	hvernig
 ?	?	?
-
 Hennar	fpvee	hún
 hlutverk	nhen	hlutverk
 var	sfg3eþ	vera
@@ -1612,7 +1541,6 @@ um	ao	um
 þetta	faheo	þessi
 hvernig	aa	hvernig
 .	.	.
-
 Hafði	sfg3eþ	hafa
 verið	ssg	vera
 hennar	fpvee	hún
@@ -1626,7 +1554,6 @@ var	sfg3eþ	vera
 ekki	aa	ekki
 lengur	aam	lengi
 .	.	.
-
 Hún	fpven	hún
 tók	sfg3eþ	taka
 um	ao	um
@@ -1639,7 +1566,6 @@ var	sfg3eþ	vera
 orðið	sþghen	verða
 volgt	lhensf	volgur
 .	.	.
-
 Margrét	nven-s	Margrét
 hafði	sfg3eþ	hafa
 viðbjóð	nkeo	viðbjóður
@@ -1649,7 +1575,6 @@ sem	ct	sem
 var	sfg3eþ	vera
 volgt	lhensf	volgur
 .	.	.
-
 Í	aþ	í
 frystinum	nkeþg	frystir
 var	sfg3eþ	vera
@@ -1663,7 +1588,6 @@ eins	aa	eins
 og	c	og
 hjörtu	nhfn	hjarta
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 næstum	aa	næstum
@@ -1680,7 +1604,6 @@ urðu	sfg3fþ	verða
 að	cn	að
 duga	sng	duga
 .	.	.
-
 Lófinn	nkeng	lófi
 dofnaði	sfg3eþ	dofna
 undan	aþ	undan
@@ -1713,7 +1636,6 @@ glasið	nheog	glas
 til	ae	til
 Margrétar	nvee-s	Margrét
 .	.	.
-
 Einkennileg	lvensf	einkennilegur
 þreyta	nven	þreyta
 og	c	og
@@ -1757,7 +1679,6 @@ Breakfast	e	Breakfast
 in	e	in
 America	e	America
 .	.	.
-
 Nælonkjóllinn	nkeng	nælonkjóll
 að	cn	að
 springa	sng	springa
@@ -1774,7 +1695,6 @@ hvíttenntu	lheþsf	hvíttenntur
 átakanlegu	lheþsf	átakanlegur
 brosi	nheþ	bros
 .	.	.
-
 Það	fphen	það
 vantaði	sfg3eþ	vanta
 aðeins	aa	aðeins
@@ -1782,7 +1702,6 @@ svuntuna	nveog	svunta
 og	c	og
 glasabakkann	nkeog	glasabakki
 .	.	.
-
 Björg	nven-s	Björg
 var	sfg3eþ	vera
 vöknuð	lvensf	vaknaður
@@ -1823,7 +1742,6 @@ sanna	lvenvf	sannur
 bölvun	nven	bölvun
 mannkyns	nhee	mannkyn
 .	.	.
-
 Öguð	lhfnsf	agaður
 og	c	og
 skipuleg	lhfnsf	skipulegur
@@ -1847,7 +1765,6 @@ margra	lvfesf	margur
 á	aþ	á
 markaði	nkeþ	markaður
 .	.	.
-
 Með	aþ	með
 öguðum	lhfþsf	agaður
 og	c	og
@@ -1863,7 +1780,6 @@ með	aþ	með
 viðunandi	lveþof	viðunandi
 nákvæmni	nveþ	nákvæmni
 .	.	.
-
 Stundum	aa	stundum
 kann	sfg3en	kunna
 markaðsverð	nhen	markaðsverð
@@ -1889,10 +1805,8 @@ verulega	aa	verulega
 þolinmæði	nveo	þolinmæði
 fjárfesta	nkfe	fjárfestir
 .	.	.
-
 3	ta	3
 .	.	.
-
 Öryggisbilið	nheng	öryggisbil
 Hægt	lhensf	hægur
 er	sfg3en	vera
@@ -1926,7 +1840,6 @@ innra	lhenvm	innri
 verðmæti	nhen	verðmæti
 þess	fphee	það
 .	.	.
-
 Öryggisbil	nheo	öryggisbil
 nefndi	sfg3eþ	nefna
 Graham	e	Graham
@@ -1938,7 +1851,6 @@ innra	lheþvm	innri
 verðmæti	nheþ	verðmæti
 hlutabréfs	nhee	hlutabréf
 .	.	.
-
 Hann	fpken	hann
 mælti	sfg3eþ	mæla
 með	aþ	með
@@ -1962,7 +1874,6 @@ af	aþ	af
 innra	lheþvm	innri
 verðmæti	nheþ	verðmæti
 .	.	.
-
 Hann	fpken	hann
 stefndi	sfg3eþ	stefna
 sjálfur	fbken	sjálfur
@@ -1981,7 +1892,6 @@ virði	nheo	virði
 50	ta	50
 sent	nhfo	sent
 .	.	.
-
 Með	aþ	með
 því	faheþ	sá
 móti	nheþ	mót
@@ -1994,7 +1904,6 @@ hagnaður	nken	hagnaður
 mikillar	lveesf	mikill
 áhættu	nvee	áhætta
 .	.	.
-
 Það	fphen	það
 síðarnefnda	lhenvf	síðarnefndur
 er	sfg3en	vera
@@ -2004,7 +1913,6 @@ augum	nhfþ	auga
 allra	fokfe	allur
 fjárfesta	nkfe	fjárfestir
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 boðskapur	nken	boðskapur
@@ -2025,7 +1933,6 @@ fara	sng	fara
 eftir	aþ	eftir
 honum	fpkeþ	hann
 .	.	.
-
 Aðferðir	nvfn	aðferð
 Grahams	e	Grahams
 við	ao	við
@@ -2074,7 +1981,6 @@ að	aþ	að
 frádregnum	lvfþsf	frádreginn
 skammtímaskuldum	nvfþ	skammtímaskuld
 .	.	.
-
 Ekkert	fohen	enginn
 tillit	nhen	tillit
 var	sfg3eþ	vera
@@ -2090,7 +1996,6 @@ vörumerkja	nhfe	vörumerki
 eða	c	eða
 viðskiptavildar	nvee	viðskiptavild
 .	.	.
-
 Graham	e	Graham
 vildi	sfg3eþ	vilja
 aðeins	aa	aðeins
@@ -2122,7 +2027,6 @@ hluta	nkfe	hlutur
 raunverulegs	lheesf	raunverulegur
 verðmætis	nhee	verðmæti
 .	.	.
-
 Afgangurinn	nkeng	afgangur
 af	aþ	af
 fyrirtækinu	nheþg	fyrirtæki
@@ -2135,7 +2039,6 @@ neitt	foheo	neinn
 aðferð	nveþ	aðferð
 hans	fpkee	hann
 .	.	.
-
 Graham	e	Graham
 mælti	sfg3eþ	mæla
 síðan	aa	síðan
@@ -2153,7 +2056,6 @@ að	aþ	að
 frádregnum	lvfþsf	frádreginn
 skammtímakröfum	nvfþ	skammtímakrafa
 .	.	.
-
 Þegar	c	þegar
 formúlan	nveng	formúla
 gengur	sfg3en	ganga
@@ -2165,7 +2067,6 @@ hagnaður	nken	hagnaður
 á	aþ	á
 viðskiptunum	nhfþg	viðskipti
 .	.	.
-
 Á	aþ	á
 árunum	nhfþg	ár
 1946	ta	1946
@@ -2191,7 +2092,6 @@ fjögurra	tfhfe	fjórir
 ára	nhfe	ár
 fresti	nkeþ	frestur
 .	.	.
-
 Á	aþ	á
 sama	fbheþ	sami
 tímabili	nheþ	tímabil
@@ -2207,7 +2107,6 @@ aðeins	aa	aðeins
 um	aa	um
 2,53%	tp	2,53%
 .	.	.
-
 Á	aþ	á
 myndinni	nveþg	mynd
 sést	sfm3en	sjá
@@ -2221,7 +2120,6 @@ en	c	en
 ávöxtun	nven	ávöxtun
 skuldabréfa	nhfe	skuldabréf
 .	.	.
-
 Hlutabréf	nhfn	hlutabréf
 í	aþ	í
 Wells	e	Wells
@@ -2267,7 +2165,6 @@ en	c	en
 ávöxtun	nven	ávöxtun
 skuldabréfa	nhfe	skuldabréf
 .	.	.
-
 Í	aþ	í
 þessu	faheþ	þessi
 tilviki	nheþ	tilvik
@@ -2298,7 +2195,6 @@ liðlega	aa	liðlega
 7%	tp	7%
 ávöxtun	nven	ávöxtun
 .	.	.
-
 Wells	e	Wells
 Fargo	e	Fargo
 er	sfg3en	vera
@@ -2320,7 +2216,6 @@ og	c	og
 fleiri	lhfþvm	margur
 löndum	nhfþ	land
 .	.	.
-
 Hugsun	nven	hugsun
 Grahams	e	Grahams
 byggðist	sfm3eþ	byggja
@@ -2339,7 +2234,6 @@ algerlega	aa	algerlega
 aðskiljanleg	lhfnsf	aðskiljanlegur
 fyrirbæri	nhfn	fyrirbæri
 .	.	.
-
 Síðara	lhenvm	síðari
 hugtakið	nheng	hugtak
 verður	sfg3en	verða
@@ -2372,7 +2266,6 @@ eða	c	eða
 framtíðartekjum	nvfþ	framtíðartekjur
 þess	fphee	það
 .	.	.
-
 Í	aa	í
 og	c	og
 með	aa	með
@@ -2393,7 +2286,6 @@ að	aþ	að
 frádregnum	lvfþsf	frádreginn
 skammtímakröfum	nvfþ	skammtímakrafa
 .	.	.
-
 Þeim	favfþ	sá
 eignum	nvfþ	eign
 er	sfg3en	vera
@@ -2414,7 +2306,6 @@ og	c	og
 meta	sng	meta
 nákvæmlega	aa	nákvæmlega
 .	.	.
-
 Innra	lhenvm	innri
 verðmæti	nhen	verðmæti
 fyrirtækis	nhee	fyrirtæki
@@ -2427,7 +2318,6 @@ tekjum	nvfþ	tekja
 í	aþ	í
 framtíðinni	nveþg	framtíð
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 oft	aa	oft
@@ -2463,7 +2353,6 @@ og	c	og
 leggja	sng	leggja
 saman	aa	saman
 .	.	.
-
 Innra	lhenvm	innri
 verðmæti	nhen	verðmæti
 er	sfg3en	vera
@@ -2498,11 +2387,9 @@ skráð	sþghen	skrá
 á	aþ	á
 markaði	nkeþ	markaður
 .	.	.
-
 General	e	General
 Electric	e	Electric
 Co.	as	Co.
-
 Verð	nhen	verð
 og	c	og
 innra	lhenvm	innri
@@ -2530,7 +2417,6 @@ fyrirtækisins	nheeg	fyrirtæki
 á	aþ	á
 hlut	nkeþ	hlutur
 .	.	.
-
 Frávik	nhfn	frávik
 markaðsverðs	nhee	markaðsverð
 á	aþ	á
@@ -2559,7 +2445,6 @@ eða	c	eða
 selja	sng	selja
 hlutabréf	nhfo	hlutabréf
 .	.	.
-
 General	e	General
 Electric	e	Electric
 er	sfg3en	vera
@@ -2587,7 +2472,6 @@ heimili	nheo	heimili
 í	aþ	í
 Bandaríkjunum	nhfþgs	Bandaríki
 .	.	.
-
 Graham	e	Graham
 leit	sfg3eþ	líta
 þannig	aa	þannig
@@ -2602,7 +2486,6 @@ eftir	aþ	eftir
 duttlungum	nkfþ	duttlungur
 markaðarins	nkeeg	markaður
 .	.	.
-
 Frávik	nhfn	frávik
 markaðsverðs	nhee	markaðsverð
 frá	aþ	frá
@@ -2620,7 +2503,6 @@ eru	sfg3fn	vera
 oft	aa	oft
 illskýranleg	lhfnsf	illskýranlegur
 .	.	.
-
 Á	aþ	á
 endanum	nkeþg	endi
 getur	sfg3en	geta
@@ -2635,7 +2517,6 @@ raunverulegu	lheþsf	raunverulegur
 verðmæti	nheþ	verðmæti
 fyrirtækjanna	nhfeg	fyrirtæki
 .	.	.
-
 Þessari	faveþ	þessi
 hugsun	nveþ	hugsun
 svipar	sfg3en	svipa
@@ -2655,7 +2536,6 @@ sjá	sng	sjá
 kafla	nkeo	kafli
 )	)	)
 .	.	.
-
 Á	aþ	á
 henni	fpveþ	hún
 grundvallast	sfm3en	grundvalla
@@ -2674,7 +2554,6 @@ til	ae	til
 þessa	fakee	þessi
 dags	nkee	dagur
 .	.	.
-
 Annað	fohen	annar
 kerfi	nhen	kerfi
 Grahams	e	Grahams
@@ -2715,7 +2594,6 @@ með	ao	með
 einkunnina	nveog	einkunn
 AAA	as	AAA
 .	.	.
-
 Ef	c	ef
 AAA	as	AAA
 skuldabréf	nhfn	skuldabréf
@@ -2738,7 +2616,6 @@ hlutfalli	nheþ	hlutfall
 undir	aþ	undir
 5	ta	5
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 setti	sfg3eþ	setja
@@ -2748,7 +2625,6 @@ um	ao	um
 skuldsetningu	nveo	skuldsetning
 fyrirtækjanna	nhfeg	fyrirtæki
 .	.	.
-
 Hún	fpven	hún
 mátti	sfg3eþ	mega
 ekki	aa	ekki
@@ -2772,7 +2648,6 @@ net	e	net
 worth	e	worth
 )	)	)
 .	.	.
-
 Graham	e	Graham
 taldi	sfg3eþ	telja
 að	c	að
@@ -2798,7 +2673,6 @@ markaðarins	nkeeg	markaður
 þeim	fakeþ	sá
 tíma	nkeþ	tími
 .	.	.
-
 Advanced	e	Advanced
 Securities	e	Securities
 Analysis	e	Analysis
@@ -2827,7 +2701,6 @@ háskólann	nkeog	háskóli
 New	e	New
 York	e	York
 .	.	.
-
 Sem	aa	sem
 fjárfestir	sfg3en	fjárfesta
 á	aþ	á
@@ -2849,7 +2722,6 @@ fékk	sfg3eþ	fá
 í	ao	í
 stað	nkeo	staður
 .	.	.
-
 Fyrsta	lhenve	fyrstur
 námskeiðið	nheng	námskeið
 í	aþ	í
@@ -2871,7 +2743,6 @@ sögufræga	lheovf	sögufrægur
 Wall	e	Wall
 Street	e	Street
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 árið	nheog	ár
@@ -2881,7 +2752,6 @@ Warren	e	Warren
 Buffett	e	Buffett
 fæddist	sfm3eþ	fæða
 .	.	.
-
 Meðal	ae	meðal
 nemenda	nkfe	nemandi
 Grahams	e	Grahams
@@ -2916,7 +2786,6 @@ aðgengilegar	lvfosf	aðgengilegur
 fyrir	ao	fyrir
 nemendur	nkfo	nemandi
 .	.	.
-
 Dodd	e	Dodd
 varð	sfg3eþ	verða
 síðar	aam	síðar
@@ -2934,7 +2803,6 @@ og	c	og
 á	aþ	á
 hlutabréfamarkaði	nkeþ	hlutabréfamarkaður
 .	.	.
-
 Eftir	ao	eftir
 að	c	að
 Graham	e	Graham
@@ -2953,7 +2821,6 @@ að	cn	að
 skrifa	sng	skrifa
 bók	nveo	bók
 .	.	.
-
 Dodd	e	Dodd
 átti	sfg3eþ	eiga
 þykka	lkfosf	þykkur
@@ -2975,7 +2842,6 @@ hann	fpken	hann
 meðhöfundur	nken	meðhöfundur
 Grahams	e	Grahams
 .	.	.
-
 Prófessor	nken	prófessor
 í	aþ	í
 fjármálum	nhfþ	fjármál
@@ -3014,7 +2880,6 @@ og	c	og
 erlendum	lkeþsf	erlendur
 markaði	nkeþ	markaður
 .	.	.
-
 Hefðin	nveng	hefð
 í	aþ	í
 samningum	nkfþ	samningur
@@ -3029,7 +2894,6 @@ greiða	sng	greiða
 og	c	og
 4%	tp	4%
 .	.	.
-
 Security	e	Security
 Analysis	e	Analysis
 :	:	:
@@ -3047,7 +2911,6 @@ fyrst	aae	fyrr
 árið	nheog	ár
 1934	ta	1934
 .	.	.
-
 Hún	fpven	hún
 er	sfg3en	vera
 biblía	nven	biblía
@@ -3072,7 +2935,6 @@ bókaverslana	nvfe	bókaverslun
 í	aþ	í
 Bandaríkjunum	nhfþgs	Bandaríki
 .	.	.
-
 Graham	e	Graham
 hélt	sfg3eþ	halda
 námskeiðið	nheog	námskeið
@@ -3105,7 +2967,6 @@ lofti	nheþ	loft
 miklu	lheþsf	mikill
 lengur	aam	lengi
 .	.	.
-
 Um	ao	um
 1970	ta	1970
 dvínuðu	sfg3fþ	dvína
@@ -3133,7 +2994,6 @@ að	cn	að
 breytast	snm	breyta
 aftur	aa	aftur
 .	.	.
-
 Framlag	nhen	framlag
 þeirra	fpkfe	hann
 Grahams	e	Grahams
@@ -3171,7 +3031,6 @@ enn	aa	enn
 fullu	lheþsf	fullur
 gildi	nheþ	gildi
 .	.	.
-
 Í	aþ	í
 frægri	lveþsf	frægur
 ræðu	nveþ	ræða
@@ -3201,7 +3060,6 @@ Grahams	e	Grahams
 höfðu	sfg3fþ	hafa
 náð	ssg	ná
 .	.	.
-
 Í	aþ	í
 ræðunni	nveþg	ræða
 réðst	sfm3eþ	ráða
@@ -3215,7 +3073,6 @@ markað	nkeo	markaður
 eða	c	eða
 slembiröltskenningunni	nveþg	slembiröltskenning
 .	.	.
-
 Í	aþ	í
 henni	fpveþ	hún
 felst	sfm3en	fela
@@ -3234,7 +3091,6 @@ hlutabréfa	nhfe	hlutabréf
 hverjum	fokeþ	hver
 tíma	nkeþ	tími
 .	.	.
-
 Framvindan	nveng	framvinda
 ráðist	svm3en	ráða
 af	aþ	af
@@ -3251,7 +3107,6 @@ hækkunar	nvee	hækkun
 eða	c	eða
 lækkunar	nvee	lækkun
 .	.	.
-
 Enginn	foken	enginn
 einn	tfken	einn
 fjárfestir	nken	fjárfestir
@@ -3266,7 +3121,6 @@ en	c	en
 sá	faken	sá
 næsti	lkenve	næstur
 .	.	.
-
 Buffett	e	Buffett
 benti	sfg3eþ	benda
 á	ao	á
@@ -3297,7 +3151,6 @@ betri	lkeþvm	góður
 en	c	en
 markaðurinn	nkeng	markaður
 .	.	.
-
 Máli	nheþ	mál
 sínu	feheþ	sinn
 til	ae	til
@@ -3320,7 +3173,6 @@ umfram	ao	umfram
 á	aþ	á
 ári	nheþ	ár
 .	.	.
-
 Árið	nheog	ár
 1990	ta	1990
 efndi	sfg3eþ	efna
@@ -3335,7 +3187,6 @@ virðisfjárfestingu	nveo	virðisfjárfesting
 New	e	New
 York	e	York
 .	.	.
-
 Námstefnan	nveng	námstefna
 var	sfg3eþ	vera
 hugsuð	sþgven	hugsa
@@ -3362,7 +3213,6 @@ hverju	foheþ	hver
 ári	nheþ	ár
 síðan	aa	síðan
 .	.	.
-
 Á	aþ	á
 námstefnunni	nveþg	námstefna
 hafa	sfg3fn	hafa
@@ -3392,7 +3242,6 @@ og	c	og
 Luis	e	Luis
 Sanders	e	Sanders
 .	.	.
-
 Þessi	faven	þessi
 árlega	lvenvf	árlegur
 námstefna	nven	námstefna
@@ -3424,7 +3273,6 @@ lofti	nheþ	loft
 við	ao	við
 skólann	nkeog	skóli
 .	.	.
-
 Hann	fpken	hann
 gaf	sfg3eþ	gefa
 nýlega	aa	nýlega
@@ -3449,7 +3297,6 @@ Biema	e	Biema
 2001	ta	2001
 )	)	)
 .	.	.
-
 Hreinar	lvfnsf	hreinn
 og	c	og
 tærar	lvfnsf	tær
@@ -3482,7 +3329,6 @@ verulega	aa	verulega
 tímans	nkeeg	tími
 rás	nveþ	rás
 .	.	.
-
 Þó	aa	þó
 eru	sfg3fn	vera
 þeir	fpkfn	hann
@@ -3494,7 +3340,6 @@ trúir	lkfnsf	trúr
 aðferðafræði	nveþ	aðferðafræði
 læriföðurins	nkeeg	lærifaðir
 .	.	.
-
 Walter	e	Walter
 Schloss	e	Schloss
 er	sfg3en	vera
@@ -3505,7 +3350,6 @@ virðisfjárfestir	nken	virðisfjárfestir
 í	aþ	í
 Bandaríkjunum	nhfþgs	Bandaríki
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 nemandi	nken	nemandi
@@ -3531,7 +3375,6 @@ fyrirtæki	nheo	fyrirtæki
 New	e	New
 York	e	York
 .	.	.
-
 Schloss	e	Schloss
 rekur	sfg3en	reka
 mjög	aa	mjög
@@ -3549,7 +3392,6 @@ en	c	en
 hundrað	tfhfe	hundrað
 fyrirtækja	nhfe	fyrirtæki
 .	.	.
-
 Verðið	nheng	verð
 ræður	sfg3en	ráða
 mestu	lheþse	mikill
@@ -3573,7 +3415,6 @@ hann	fpken	hann
 íhugi	svg3en	íhuga
 kaup	nheo	kaup
 .	.	.
-
 Schloss	e	Schloss
 er	sfg3en	vera
 síðan	aa	síðan
@@ -3591,7 +3432,6 @@ náð	ssg	ná
 innra	lheþvm	innri
 verðmæti	nheþ	verðmæti
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 þannig	aa	þannig
@@ -3621,7 +3461,6 @@ skattgreiðslum	nvfþ	skattgreiðsla
 í	aþ	í
 lágmarki	nheþ	lágmark
 .	.	.
-
 Graham	e	Graham
 flutti	sfg3eþ	flytja
 á	ao	á
@@ -3654,7 +3493,6 @@ fjárfestingarvinnu	nveþ	fjárfestingarvinna
 sinni	feveþ	sinn
 áfram	aa	áfram
 .	.	.
-
 Bréf	nhen	bréf
 sem	ct	sem
 Benjamin	e	Benjamin
@@ -3694,7 +3532,6 @@ vinnu	nveo	vinna
 Wall	e	Wall
 Street	e	Street
 .	.	.
-
 Það	fphen	það
 hófst	sfm3eþ	hefja
 með	aþ	með
@@ -3704,7 +3541,6 @@ orðum	nhfþ	orð
 Kæri	lkenvf	kær
 Warren	e	Warren
 .	.	.
-
 Í	aþ	í
 síðustu	lveþve	síðari
 viku	nveþ	vika
@@ -3731,7 +3567,6 @@ höfum	sfg1fn	hafa
 eignast	ssm	eigna
 þar	aa	þar
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 eins	aa	eins
@@ -3744,7 +3579,6 @@ saman	aa	saman
 í	ao	í
 eitt	tfheo	einn
 .	.	.
-
 Ef	c	ef
 ykkur	fp2fþ	þú
 skyldi	svg3eþ	skulu
@@ -3763,7 +3597,6 @@ endilega	aa	endilega
 eftir	aþ	eftir
 ykkur	fp2fþ	þú
 .	.	.
-
 Við	fp1fn	ég
 getum	sfg1fn	geta
 ekki	aa	ekki
@@ -3776,7 +3609,6 @@ nýju	lhfovf	nýr
 húsakynnin	nhfog	húsakynni
 okkar	fp1fe	ég
 ...	...	...
-
 Warren	e	Warren
 Buffett	e	Buffett
 er	sfg3en	vera
@@ -3796,7 +3628,6 @@ viðskiptum	nhfþ	viðskipti
 með	ao	með
 hlutabréf	nhfo	hlutabréf
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 án	ae	án
@@ -3810,7 +3641,6 @@ sig	fpkfo	sig
 við	ao	við
 virðisfjárfestaskólann	nkeog	virðisfjárfestaskóli
 .	.	.
-
 Hann	fpken	hann
 lauk	sfg3eþ	ljúka
 prófi	nheþ	próf
@@ -3836,7 +3666,6 @@ og	c	og
 Columbia	e	Columbia
 háskólunum	nkfþg	háskóli
 .	.	.
-
 Harvard	e	Harvard
 hafnaði	sfg3eþ	hafna
 honum	fpkeþ	hann
@@ -3853,7 +3682,6 @@ nemandi	nken	nemandi
 Benjamins	e	Benjamins
 Graham	e	Graham
 .	.	.
-
 Árangur	nken	árangur
 Buffetts	e	Buffetts
 við	ao	við
@@ -3882,7 +3710,6 @@ og	c	og
 hnyttin	lhfosf	hnyttinn
 tilsvör	nhfo	tilsvar
 .	.	.
-
 Bréf	nhfn	bréf
 stjórnarformanns	nkee	stjórnarformaður
 í	aþ	í
@@ -3903,7 +3730,6 @@ með	ao	með
 á	aþ	á
 hlutabréfum	nhfþ	hlutabréf
 .	.	.
-
 Áður	aa	áður
 en	c	en
 Buffett	e	Buffett
@@ -3928,7 +3754,6 @@ lagt	ssg	leggja
 peninga	nkfo	peningur
 í	aa	í
 .	.	.
-
 Árið	nheog	ár
 1969	ta	1969
 taldi	sfg3eþ	telja
@@ -3947,7 +3772,6 @@ lokaði	sfg3eþ	loka
 hann	fpken	hann
 félaginu	nheþg	félag
 .	.	.
-
 Eignir	nvfn	eign
 kunningja	nkfe	kunningi
 hans	fpkee	hann
@@ -3963,7 +3787,6 @@ eða	c	eða
 árum	nhfþ	ár
 áður	aa	áður
 .	.	.
-
 Berkshire	e	Berkshire
 Hathaway	e	Hathaway
 hafði	sfg3eþ	hafa
@@ -3984,7 +3807,6 @@ var	sfg3eþ	vera
 í	aþ	í
 vefnaði	nkeþ	vefnaður
 .	.	.
-
 Buffett	e	Buffett
 keypti	sfg3eþ	kaupa
 sjálfur	fbken	sjálfur
@@ -4003,7 +3825,6 @@ upp	aa	upp
 árið	nheog	ár
 1969	ta	1969
 .	.	.
-
 Ef	c	ef
 litið	sþghen	líta
 er	sfg3en	vera
@@ -4044,7 +3865,6 @@ dollara	nkfo	dollari
 milljónir	nvfo	milljón
 dollara	nkfe	dollari
 .	.	.
-
 Sambærileg	lvensf	sambærilegur
 hækkun	nven	hækkun
 S	nhee	s
@@ -4061,7 +3881,6 @@ var	sfg3eþ	vera
 á	aþ	á
 ári	nheþ	ár
 .	.	.
-
 Framúrskarandi	aa	framúrskarandi
 árangur	nken	árangur
 Warrens	e	Warrens
@@ -4086,7 +3905,6 @@ hlut	nkeo	hlutur
 í	aþ	í
 fyrirtæki	nheþ	fyrirtæki
 .	.	.
-
 Það	fphen	það
 þarf	sfg3en	þurfa
 hins	fakee	hinn
@@ -4111,7 +3929,6 @@ heiðarlegir	lkfnsf	heiðarlegur
 og	c	og
 hæfir	lkfnsf	hæfur
 .	.	.
-
 Þessi	fahfn	þessi
 orð	nhfn	orð
 eru	sfg3fn	vera
@@ -4120,7 +3937,6 @@ eftir	aþ	eftir
 Warren	e	Warren
 Buffett	e	Buffett
 .	.	.
-
 Hann	fpken	hann
 bætir	sfg3en	bæta
 við	aa	við
@@ -4161,7 +3977,6 @@ til	ae	til
 stjórnenda	nkfe	stjórnandi
 fyrirtækjanna	nhfeg	fyrirtæki
 .	.	.
-
 Á	aa	á
 meðal	ae	meðal
 stærstu	lvfeve	stór
@@ -4213,7 +4028,6 @@ hlutur	nken	hlutur
 Washington	e	Washington
 Post	e	Post
 Co.	as	Co.
-
 (	(	(
 18%	tp	18%
 hlutur	nken	hlutur
@@ -4223,13 +4037,11 @@ Wells	e	Wells
 Fargo	e	Fargo
 &	e	&
 Co.	as	Co.
-
 (	(	(
 3%	tp	3%
 hlutur	nken	hlutur
 )	)	)
 .	.	.
-
 Virðisfjárfestingin	nveng	virðisfjárfesting
 hefur	sfg3en	hafa
 þróast	ssm	þróa
@@ -4248,7 +4060,6 @@ upphafs	nhee	upphaf
 21.	ta	21.
 aldarinnar	nveeg	öld
 .	.	.
-
 Árið	nheog	ár
 1997	ta	1997
 kom	sfg3eþ	koma
@@ -4265,7 +4076,6 @@ tengdadóttur	nveo	tengdadóttir
 Warrens	e	Warrens
 Buffett	e	Buffett
 .	.	.
-
 Við	ao	við
 ritun	nveo	ritun
 bókarinnar	nveeg	bók
@@ -4279,7 +4089,6 @@ gamals	lkeesf	gamall
 vinar	nkee	vinur
 Buffettfjölskyldunnar	nveegs	Buffettfjölskylda
 .	.	.
-
 (	(	(
 Mary	e	Mary
 Buffett	e	Buffett
@@ -4290,7 +4099,6 @@ Clark	e	Clark
 1997	ta	1997
 )	)	)
 .	.	.
-
 Í	aþ	í
 bókinni	nveþg	bók
 bregður	sfg3en	bregða
@@ -4308,7 +4116,6 @@ henni	fpveþ	hún
 fyrir	ao	fyrir
 sjónir	nvfo	sjón
 .	.	.
-
 Lýsing	nven	lýsing
 hennar	fpvee	hún
 auðveldar	sfg3en	auðvelda
@@ -4330,7 +4137,6 @@ fjárfesta	nkfe	fjárfestir
 og	c	og
 fræðimanna	nkfe	fræðimaður
 .	.	.
-
 Greining	nven	greining
 Mary	e	Mary
 á	aþ	á
@@ -4345,7 +4151,6 @@ sér	fpvfþ	sig
 djúpar	lvfosf	djúpur
 rætur	nvfo	rót
 .	.	.
-
 Frá	aþ	frá
 Benjamin	e	Benjamin
 Graham	e	Graham
@@ -4379,7 +4184,6 @@ kaup	nheo	kaup
 á	aþ	á
 hlutabréfum	nhfþ	hlutabréf
 .	.	.
-
 Philip	e	Philip
 A.	as	A.
 Fisher	e	Fisher
@@ -4404,7 +4208,6 @@ Profits	e	Profits
 1958	ta	1958
 )	)	)
 .	.	.
-
 Frá	aþ	frá
 honum	fpkeþ	hann
 fékk	sfg3eþ	fá
@@ -4430,7 +4233,6 @@ byggð	sþghfn	byggja
 frábærri	lveþsf	frábær
 viðskiptahugmynd	nveþ	viðskiptahugmynd
 .	.	.
-
 Jafnframt	aa	jafnframt
 fékk	sfg3eþ	fá
 hann	fpken	hann
@@ -4454,7 +4256,6 @@ að	aþ	að
 eilífu	lheþsf	eilífur
 !	!	!
 »	»	»
-
 Lawrence	e	Lawrence
 N.	as	N.
 Bloomberg	e	Bloomberg
@@ -4465,7 +4266,6 @@ hlut	nkeo	hlutur
 aðferð	nveþ	aðferð
 Buffetts	e	Buffetts
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 fjárfestir	nken	fjárfestir
@@ -4477,7 +4277,6 @@ fjórða	lkeþvf	fjórði
 20.	ta	20.
 aldarinnar	nveeg	öld
 .	.	.
-
 Frá	aþ	frá
 honum	fpkeþ	hann
 er	sfg3en	vera
@@ -4501,7 +4300,6 @@ Buffett	e	Buffett
 nýttu	sfg3fþ	nýta
 sér	fpkfþ	sig
 .	.	.
-
 Í	aþ	í
 1951	ta	1951
 útgáfunni	nveþg	útgáfa
@@ -4517,7 +4315,6 @@ Bloombergs	e	Bloombergs
 getið	sþghen	geta
 sérstaklega	aa	sérstaklega
 .	.	.
-
 John	e	John
 Burr	e	Burr
 Williams	e	Williams
@@ -4538,7 +4335,6 @@ kom	sfg3eþ	koma
 árið	nheog	ár
 1938	ta	1938
 .	.	.
-
 Frá	aþ	frá
 honum	fpkeþ	hann
 kom	sfg3eþ	koma
@@ -4558,7 +4354,6 @@ tekjum	nvfþ	tekja
 í	aþ	í
 framtíðinni	nveþg	framtíð
 .	.	.
-
 Frá	aþ	frá
 Williams	e	Williams
 og	c	og
@@ -4577,7 +4372,6 @@ inn	aa	inn
 í	ao	í
 virðisleiðina	nveog	virðisleið
 .	.	.
-
 John	e	John
 Maynard	e	Maynard
 Keynes	e	Keynes
@@ -4619,7 +4413,6 @@ ekki	aa	ekki
 frá	aþ	frá
 því	fpheþ	það
 .	.	.
-
 Edgar	e	Edgar
 Smith	e	Smith
 var	sfg3eþ	vera
@@ -4636,7 +4429,6 @@ kom	sfg3eþ	koma
 árið	nheog	ár
 1924	ta	1924
 .	.	.
-
 Bókin	nveng	bók
 er	sfg3en	vera
 að	aþ	að
@@ -4673,7 +4465,6 @@ verðmæti	nheo	verðmæti
 tímans	nkeeg	tími
 rás	nveþ	rás
 .	.	.
-
 Og	c	og
 síðast	aae	síðar
 en	c	en
@@ -4705,7 +4496,6 @@ um	ao	um
 áratuga	nkfe	áratugur
 skeið	nheo	skeið
 .	.	.
-
 Munger	e	Munger
 hvatti	sfg3eþ	hvetja
 Buffett	e	Buffett
@@ -4754,7 +4544,6 @@ gert	ssg	gera
 sínum	fekeþ	sinn
 tíma	nkeþ	tími
 .	.	.
-
 Þessi	faven	þessi
 lýsing	nven	lýsing
 Mary	e	Mary
@@ -4784,7 +4573,6 @@ byrjun	nveo	byrjun
 21.	ta	21.
 aldarinnar	nveeg	öld
 .	.	.
-
 Warren	e	Warren
 Buffett	e	Buffett
 leggur	sfg3en	leggja
@@ -4802,7 +4590,6 @@ hlutum	nkfþ	hlutur
 hverju	foheþ	hver
 fyrirtæki	nheþ	fyrirtæki
 .	.	.
-
 Raunverulegur	lkensf	raunverulegur
 rekstur	nken	rekstur
 fyrirtækjanna	nhfeg	fyrirtæki
@@ -4826,7 +4613,6 @@ hann	fpken	hann
 kaupir	sfg3en	kaupa
 á	aa	á
 .	.	.
-
 Myndin	nveng	mynd
 með	aþ	með
 þróun	nveþ	þróun
@@ -4847,7 +4633,6 @@ skilað	ssg	skila
 frábærum	lkeþsf	frábær
 árangri	nkeþ	árangur
 .	.	.
-
 Hugsun	nven	hugsun
 Buffetts	e	Buffetts
 byggir	sfg3en	byggja
@@ -4882,7 +4667,6 @@ meira	lheovm	mikill
 frábæru	lheþsf	frábær
 fyrirtæki	nheþ	fyrirtæki
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 í	aþ	í
@@ -4916,7 +4700,6 @@ miðað	ssg	miða
 kaupin	nhfog	kaup
 við	aa	við
 .	.	.
-
 Með	aþ	með
 þessum	fakeþ	þessi
 hætti	nkeþ	háttur
@@ -4936,7 +4719,6 @@ til	ae	til
 langs	lkeesf	langur
 tíma	nkee	tími
 .	.	.
-
 Jafnframt	aa	jafnframt
 sparast	sfm3fn	spara
 skattgreiðslur	nvfn	skattgreiðsla
@@ -4949,7 +4731,6 @@ með	aþ	með
 aukinni	lveþsf	aukinn
 veltu	nveþ	velta
 .	.	.
-
 Boðskapur	nken	boðskapur
 Warrens	e	Warrens
 Buffett	e	Buffett
@@ -4981,7 +4762,6 @@ reksturinn	nkeng	rekstur
 stenst	sfm3en	standa
 væntingar	nvfo	vænting
 .	.	.
-
 Kauptu	sbg2en	kaupa
 svo	aa	svo
 ennþá	aa	ennþá
@@ -4992,7 +4772,6 @@ lækkar	sfg3en	lækka
 á	aþ	á
 markaði	nkeþ	markaður
 .	.	.
-
 Þrátt	aa	þrátt
 fyrir	ao	fyrir
 að	cn	að

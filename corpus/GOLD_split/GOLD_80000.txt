@@ -143,7 +143,6 @@ blásið	ssg	blása
 sápukúlur	nvfo	sápukúla
 (	(	(
 X	x	x
-
 )	)	)
 kveikt	ssg	kveikja
 bál	nheo	bál
@@ -159,7 +158,6 @@ n	x	n
 í	ao	í
 partý	nheo	partý
 ..	..	..
-
 (	(	(
 )	)	)
 verið	ssg	vera
@@ -260,18 +258,15 @@ að	cn	að
 spjalla	sng	spjalla
 við	ao	við
 manneskjuna	nveog	manneskja
-
 Rangfærslur	nvfn	rangfærsla
 mars	nkeo	mars
 18	ta	18
 ,	,	,
 2006	ta	2006
-
 Stjórnarformaður	nken	stjórnarformaður
 KB-Banka	nkee-s	KB-banki
 segir	sfg3en	segja
 :	:	:
-
 Kaupþing	nhen-s	Kaupþing
 banki	nken	banki
 hefur	sfg3en	hafa
@@ -308,7 +303,6 @@ aftur	aa	aftur
 og	c	og
 aftur	aa	aftur
 .	.	.
-
 Þetta	faheo	þessi
 sagði	sfg3eþ	segja
 Sigurður	nken-s	Sigurður
@@ -330,7 +324,6 @@ var	sfg3eþ	vera
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Mikið	lhensf	mikill
 væri	svg1eþ	vera
 ég	fp1en	ég
@@ -361,20 +354,17 @@ fréttir	nvfo	frétt
 af	aþ	af
 rekstrinum	nkeþg	rekstur
 .	.	.
-
 Það	fphen	það
 hlýtur	sfg3en	hljóta
 að	cn	að
 vera	sng	vera
 ljúft	lhensf	ljúfur
 .	.	.
-
 Lyklar	nkfn	lykill
 mars	nkeo	mars
 17	ta	17
 ,	,	,
 2006	ta	2006
-
 Svona	aa	svona
 mun	sfg3en	munu
 Google	e	Google
@@ -383,13 +373,11 @@ eftir	ao	eftir
 20	ta	20
 ár	nhfo	ár
 .	.	.
-
 Ég	fp1en	ég
 get	sfg1en	geta
 ekki	aa	ekki
 beðið	ssg	bíða
 !	!	!
-
 Ferð	nven	ferð
 til	ae	til
 Barca	e	Barca
@@ -399,7 +387,6 @@ mars	nkeo	mars
 15	ta	15
 ,	,	,
 2006	ta	2006
-
 Ég	fp1en	ég
 fór	sfg1eþ	fara
 í	ao	í
@@ -413,7 +400,6 @@ Liverpool	e	Liverpool
 síðustu	lveþve	síðari
 viku	nveþ	vika
 .	.	.
-
 Upphaflega	lhenvf	upphaflegur
 tilefnið	nheng	tilefni
 var	sfg3eþ	vera
@@ -436,7 +422,6 @@ hér	aa	hér
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Árið	nheng	ár
 2005	ta	2005
 var	sfg3eþ	vera
@@ -467,7 +452,6 @@ ferð	nveo	ferð
 til	ae	til
 Barcelona	e	Barcelona
 .	.	.
-
 Við	fp1fn	ég
 eyddum	sfg1fþ	eyða
 þriðjudeginum	nkeþg	þriðjudagur
@@ -484,7 +468,6 @@ verksmiðjur	nvfo	verksmiðja
 nágrenni	nheþ	nágrenni
 borgarinnar	nveeg	borg
 .	.	.
-
 Aðalmálið	nheng	aðalmál
 var	sfg3eþ	vera
 þó	aa	þó
@@ -495,7 +478,6 @@ Chelsea	e	Chelsea
 á	aþ	á
 þriðjudagskvöldinu	nheþg	þriðjudagskvöld
 .	.	.
-
 Hótelið	nheng	hótel
 okkar	fp1fe	ég
 var	sfg3eþ	vera
@@ -526,7 +508,6 @@ bjór	nkeþ	bjór
 á	aþ	á
 leiðinni	nveþg	leið
 .	.	.
-
 Um	ao	um
 klukkutíma	nkeo	klukkutími
 fyrir	ao	fyrir
@@ -538,7 +519,6 @@ kominn	sþgken	koma
 að	aþ	að
 vellinum	nkeþg	völlur
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 farið	ssg	fara
@@ -557,7 +537,6 @@ leiki	nkfo	leikur
 spænsku	lveþvf	spænskur
 deildinni	nveþg	deild
 .	.	.
-
 Ég	fp1en	ég
 var	sfg1eþ	vera
 verulega	aa	verulega
@@ -585,7 +564,6 @@ og	c	og
 Chelsea	e	Chelsea
 liðið	nheog	lið
 .	.	.
-
 Leigubílstjórinn	nkeng	leigubílstjóri
 ,	,	,
 sem	ct	sem
@@ -607,7 +585,6 @@ sammála	lkfnof	sammála
 því	faheþ	sá
 áliti	nheþ	álit
 .	.	.
-
 Um	ao	um
 hálftíma	nkeo	hálftími
 fyrir	ao	fyrir
@@ -623,7 +600,6 @@ horfði	sfg1eþ	horfa
 á	ao	á
 upphitunina	nveog	upphitun
 .	.	.
-
 Mourinho	e	Mourinho
 kom	sfg3eþ	koma
 aðeins	aa	aðeins
@@ -636,7 +612,6 @@ duglega	aa	duglega
 á	ao	á
 hann	fpkeo	hann
 .	.	.
-
 Stuttu	lheþsf	stuttur
 fyrir	ao	fyrir
 leik	nkeo	leikur
@@ -655,20 +630,16 @@ Mourinho	e	Mourinho
 =	=	=
 Túlkur	nken	túlkur
 .	.	.
-
 Mjög	aa	mjög
 fyndið	lhensf	fyndinn
 .	.	.
-
 *	*	*
 *	*	*
 *	*	*
-
 Leikurinn	nkeng	leikur
 var	sfg3eþ	vera
 fínn	lkensf	fínn
 .	.	.
-
 Barcelona	e	Barcelona
 liðið	nheng	lið
 virtist	sfm3eþ	virða
@@ -676,7 +647,6 @@ vera	sng	vera
 frekar	aam	frekar
 rólegt	lhensf	rólegur
 .	.	.
-
 Chelsea	e	Chelsea
 sóttu	sfg3fþ	sækja
 aldrei	aa	aldrei
@@ -702,7 +672,6 @@ sérstaklega	aa	sérstaklega
 á	ao	á
 sig	fpkfo	sig
 .	.	.
-
 Þeir	fpkfn	hann
 sýndu	sfg3fþ	sýna
 þó	aa	þó
@@ -728,14 +697,12 @@ séð	ssg	sjá
 spila	sng	spila
 fótbolta	nkeo	fótbolti
 .	.	.
-
 Stemningin	nveng	stemning
 á	aþ	á
 leiknum	nkeþg	leikur
 var	sfg3eþ	vera
 góð	lvensf	góður
 .	.	.
-
 Dálítið	aa	dálítið
 öðruvísi	lvenof	öðruvísi
 en	c	en
@@ -745,7 +712,6 @@ vanur	lkensf	vanur
 frá	aþ	frá
 Englandi	nheþ-s	England
 .	.	.
-
 Stuðningsmenn	nkfn	stuðningsmaður
 Barca	e	Barca
 syngja	sfg3fn	syngja
@@ -754,7 +720,6 @@ eitt	tfheo	einn
 lag	nheo	lag
 ítrekað	aa	ítrekað
 .	.	.
-
 Það	fahen	sá
 lag	nhen	lag
 er	sfg3en	vera
@@ -781,12 +746,10 @@ Barca	e	Barca
 Baaaaarca	e	Baaaaarca
 !	!	!
 »	»	»
-
 í	ao	í
 enda	nkeo	endi
 þess	fphee	það
 .	.	.
-
 Þegar	c	þegar
 að	c	að
 98.000	ta	98.000
@@ -810,7 +773,6 @@ er	sfg3en	vera
 frábær	lkensf	frábær
 völlur	nken	völlur
 .	.	.
-
 Ronaldinho	e	Ronaldinho
 skoraði	sfg3eþ	skora
 svo	aa	svo
@@ -837,7 +799,6 @@ Europa	e	Europa
 »	»	»
 !	!	!
 »	»	»
-
 Chelsea	e	Chelsea
 fékk	sfg3eþ	fá
 svo	aa	svo
@@ -863,7 +824,6 @@ að	cn	að
 monta	sng	monta
 sig	fpkeo	sig
 .	.	.
-
 En	c	en
 eftir	ao	eftir
 allt	foheo	allur
@@ -881,11 +841,9 @@ Chelsea	e	Chelsea
 í	ao	í
 kennslustund	nveo	kennslustund
 .	.	.
-
 *	*	*
 *	*	*
 *	*	*
-
 Á	aþ	á
 miðvikudeginum	nkeþg	miðvikudagur
 fók	x	taka
@@ -896,7 +854,6 @@ beint	aa	beint
 til	ae	til
 Liverpool	e	Liverpool
 .	.	.
-
 Úr	aþ	úr
 15	ta	15
 stiga	nhfe	stig
@@ -913,7 +870,6 @@ típíska	lveosf	típískur
 enska	lveosf	enskur
 rigningu	nveo	rigning
 .	.	.
-
 Ég	fp1en	ég
 var	sfg1eþ	vera
 eitthvað	fohen	einhver
@@ -929,7 +885,6 @@ hótel	nheo	hótel
 í	aþ	í
 heimi	nkeþ	heimur
 .	.	.
-
 Hótelið	nheng	hótel
 var	sfg3eþ	vera
 svo	aa	svo
@@ -953,11 +908,9 @@ heldur	c	heldur
 aðeins	aa	aðeins
 baðkar	nhen	baðkar
 .	.	.
-
 Verulega	aa	verulega
 frumlegt	lhensf	frumlegur
 .	.	.
-
 Þegar	c	þegar
 að	c	að
 nær	aþm	nær
@@ -980,7 +933,6 @@ The	e	The
 Park	e	Park
 barinn	nkeog	bar
 .	.	.
-
 Það	fphen	það
 gekk	sfg3eþ	ganga
 eitthvað	fohen	einhver
@@ -993,7 +945,6 @@ komst	sfm1eþ	koma
 ég	fp1en	ég
 inn	aa	inn
 .	.	.
-
 Stemingin	nveng	steming
 þar	aa	þar
 inni	aa	inni
@@ -1001,14 +952,12 @@ var	sfg3eþ	vera
 auðvitað	aa	auðvitað
 frábær	lvensf	frábær
 .	.	.
-
 Staðurinn	nkeng	staður
 stappaður	lkensf	stappaður
 og	c	og
 allir	fokfn	allur
 syngjandi	slg	syngja
 .	.	.
-
 Ég	fp1en	ég
 var	sfg1eþ	vera
 þar	aa	þar
@@ -1039,7 +988,6 @@ ná	sng	ná
 í	ao	í
 þau	fphfo	það
 .	.	.
-
 Á	aþ	á
 Anfield	e	Anfield
 var	sfg1eþ	vera
@@ -1060,7 +1008,6 @@ sótti	sfg3eþ	sækja
 fyrri	lkeþvm	fyrri
 hálfleik	nkeþ	hálfleikur
 .	.	.
-
 Það	fphen	það
 vita	sfg3fn	vita
 auðvitað	aa	auðvitað
@@ -1069,7 +1016,6 @@ hvernig	aa	hvernig
 leikurinn	nkeng	leikur
 fór	sfg3eþ	fara
 .	.	.
-
 Liverpool	e	Liverpool
 klúðraði	sfg3eþ	klúðra
 sirka	aa	sirka
@@ -1090,14 +1036,12 @@ Liverpool	e	Liverpool
 myndi	svg3eþ	munu
 skora	sng	skora
 .	.	.
-
 Stemningin	nveng	stemning
 var	sfg3eþ	vera
 þó	aa	þó
 ótrúlega	aa	ótrúlega
 mögnuð	lvensf	magnaður
 .	.	.
-
 Stuðningsmenn	nkfn	stuðningsmaður
 Liverpool	e	Liverpool
 sungu	sfg3fþ	syngja
@@ -1117,7 +1061,6 @@ væri	svg3eþ	vera
 að	cn	að
 tapa	sng	tapa
 .	.	.
-
 Þegar	c	þegar
 að	c	að
 Benfica	e	Benfica
@@ -1145,7 +1088,6 @@ Never	e	Never
 Walk	e	Walk
 Alone	e	Alone
 .	.	.
-
 Einsog	c	einsog
 ensku	lhfnvf	enskur
 blöðin	nhfng	blað
@@ -1175,7 +1117,6 @@ jafn	aa	jafn
 erfiðum	lvfþsf	erfiður
 stundum	nvfþ	stund
 .	.	.
-
 Stuðningsmenn	nkfn	stuðningsmaður
 Liverpool	e	Liverpool
 eru	sfg3fn	vera
@@ -1184,7 +1125,6 @@ stuðningsmenn	nkfn	stuðningsmaður
 í	aþ	í
 heimi	nkeþ	heimur
 .	.	.
-
 Ég	fp1en	ég
 var	sfg1eþ	vera
 sannfærður	lkensf	sannfærður
@@ -1201,11 +1141,9 @@ mig	fp1eo	ég
 þeirri	faveþ	sá
 trú	nveþ	trú
 .	.	.
-
 *	*	*
 *	*	*
 *	*	*
-
 En	c	en
 það	fphen	það
 var	sfg3eþ	vera
@@ -1219,7 +1157,6 @@ detta	sng	detta
 útúr	aþ	útúr
 Evrópukeppninni	nveþgs	Evrópukeppni
 .	.	.
-
 En	c	en
 maður	nken	maður
 getur	sfg3en	geta
@@ -1241,7 +1178,6 @@ sig	fpkeo	sig
 við	ao	við
 vonbrigðin	nhfog	vonbrigði
 .	.	.
-
 En	c	en
 allavegana	aa	allavegana
 ,	,	,
@@ -1258,7 +1194,6 @@ næstu	lveþve	næstur
 umferð	nveþ	umferð
 Meistaradeildarinnar	nveegs	Meistaradeild
 .	.	.
-
 1+7	ta	1+7
 =	=	=
 1	ta	1
@@ -1266,7 +1201,6 @@ mars	nkeo	mars
 13	ta	13
 ,	,	,
 2006	ta	2006
-
 Ég	fp1en	ég
 veit	sfg1en	vita
 ekki	aa	ekki
@@ -1290,7 +1224,6 @@ sinni	nheþ	sinn
 einfalda	lveosf	einfaldur
 stærðfræði	nveo	stærðfræði
 .	.	.
-
 Ég	fp1en	ég
 hélt	sfg1eþ	halda
 að	c	að
@@ -1300,7 +1233,6 @@ að	cn	að
 vera	sng	vera
 traustvekjandi	lvfnof	traustvekjandi
 .	.	.
-
 Kannski	aa	kannski
 þarf	sfg1en	þurfa
 ég	fp1en	ég
@@ -1309,13 +1241,11 @@ skipta	sng	skipta
 um	ao	um
 banka	nkeo	banki
 .	.	.
-
 Fótboltaferð	nven	fótboltaferð
 mars	nkeo	mars
 05	ta	05
 ,	,	,
 2006	ta	2006
-
 Ég	fp1en	ég
 er	sfg1en	vera
 að	cn	að
@@ -1327,7 +1257,6 @@ fyrramálið	nheog	fyrramál
 massíva	lveosf	massívur
 fótboltaferð	nveo	fótboltaferð
 .	.	.
-
 Vona	sfg1en	vona
 að	c	að
 hún	fpven	hún
@@ -1339,7 +1268,6 @@ og	c	og
 síðasta	lvenve	síðari
 fótboltaferð	nven	fótboltaferð
 .	.	.
-
 Planið	nheng	plan
 er	sfg3en	vera
 semsagt	aa	semsagt
@@ -1351,7 +1279,6 @@ morgun	nkeo	morgunn
 til	ae	til
 Barcelona	e	Barcelona
 .	.	.
-
 Þar	aa	þar
 verð	sfg1en	verða
 ég	fp1en	ég
@@ -1388,7 +1315,6 @@ Barcelona-Chelsea	e	Barcelona-Chelsea
 Nou	e	Nou
 Camp	e	Camp
 !	!	!
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 náttúrulega	aa	náttúrulega
@@ -1404,7 +1330,6 @@ alveg	aa	alveg
 fáránlega	aa	fáránlega
 spenntur	lkensf	spenntur
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 séð	ssg	sjá
@@ -1424,7 +1349,6 @@ leik	nkeþ	leikur
 og	c	og
 núna	aa	núna
 .	.	.
-
 Á	ao	á
 miðvikudaginn	nkeog	miðvikudagur
 á	sfg1en	eiga
@@ -1436,7 +1360,6 @@ Barcelona	e	Barcelona
 til	ae	til
 Liverpool	e	Liverpool
 .	.	.
-
 Þar	aa	þar
 mun	sfg1en	munu
 ég	fp1en	ég
@@ -1453,7 +1376,6 @@ horfa	sng	horfa
 á	ao	á
 Liverpool-Benfica	e	Liverpool-Benfica
 .	.	.
-
 Þar	aa	þar
 þarf	sfg3en	þurfa
 Liverpool	e	Liverpool
@@ -1475,7 +1397,6 @@ að	c	að
 það	fphen	það
 gerist	svm3en	gera
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 einnig	aa	einnig
@@ -1494,7 +1415,6 @@ mark	nheo	mark
 þeim	fakeþ	sá
 leik	nkeþ	leikur
 .	.	.
-
 Gott	lhensf	góður
 ef	c	ef
 það	fphen	það
@@ -1508,7 +1428,6 @@ nefið	nheog	nef
 á	aþ	á
 mér	fp1eþ	ég
 .	.	.
-
 Allavegana	aa	allavegana
 ,	,	,
 býst	sfm1en	búa
@@ -1522,13 +1441,11 @@ en	c	en
 kem	sfg1en	koma
 heim	aa	heim
 .	.	.
-
 Ál-þjóð	nven	álþjóð
 mars	nkeo	mars
 02	ta	02
 ,	,	,
 2006	ta	2006
-
 Já	au	já
 ,	,	,
 ég	fp1en	ég
@@ -1549,7 +1466,6 @@ hér	aa	hér
 í	aþ	í
 bænum	nkeþg	bær
 .	.	.
-
 Og	c	og
 já	au	já
 ,	,	,
@@ -1572,7 +1488,6 @@ að	cn	að
 flytja	sng	flytja
 suður	aa	suður
 .	.	.
-
 En	c	en
 samt	aa	samt
 ,	,	,
@@ -1624,7 +1539,6 @@ hér	aa	hér
 á	aþ	á
 landi	nheþ	land
 .	.	.
-
 Og	c	og
 enn	aa	enn
 sorglegra	lhenvm	sorglegur
@@ -1657,7 +1571,6 @@ bjargi	svg3en	bjarga
 kjördæminu	nheþg	kjördæmi
 sínu	feheþ	sinn
 .	.	.
-
 En	c	en
 ég	fp1en	ég
 er	sfg1en	vera
@@ -1676,7 +1589,6 @@ hvernig	aa	hvernig
 allir	fokfn	allur
 hugsa	sfg3fn	hugsa
 .	.	.
-
 Tónlistarblogg	nhen	tónlistarblogg
 :	:	:
 Girl	e	Girl
@@ -1687,7 +1599,6 @@ febrúar	nkeo	febrúar
 28	ta	28
 ,	,	,
 2006	ta	2006
-
 Af	aþ	af
 einhverjum	fovfþ	einhver
 ástæðum	nvfþ	ástæða
@@ -1708,7 +1619,6 @@ dofnað	ssg	dofna
 að	aþ	að
 undanförnu	lheþsf	undanfarinn
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ekki	aa	ekki
@@ -1724,7 +1634,6 @@ laangt	lhensf	langur
 því	fpheþ	það
 frá	aþ	frá
 .	.	.
-
 En	c	en
 einhvern	fokeo	einhver
 veginn	nkeog	vegur
@@ -1739,7 +1648,6 @@ reynslu	nveþ	reynsla
 minni	feveþ	minn
 hér	aa	hér
 .	.	.
-
 Það	fphen	það
 kann	sfg3en	kunna
 þó	aa	þó
@@ -1763,7 +1671,6 @@ vaknað	ssg	vakna
 fljótlega	aa	fljótlega
 aftur	aa	aftur
 .	.	.
-
 En	c	en
 ég	fp1en	ég
 ætla	sfg1en	ætla
@@ -1782,7 +1689,6 @@ er	sfg3en	vera
 smá	lhenof	smá
 tónlistarblogg	nhen	tónlistarblogg
 .	.	.
-
 Ég	fp1en	ég
 ætla	sfg1en	ætla
 að	cn	að
@@ -1814,7 +1720,6 @@ atburði	nkfo	atburður
 mínu	feheþ	minn
 lífi	nheþ	líf
 .	.	.
-
 Ég	fp1en	ég
 veit	sfg1en	vita
 ekki	aa	ekki
@@ -1832,7 +1737,6 @@ gerast	snm	gera
 öðru	foheþ	annar
 hvoru	foheþ	hvor
 .	.	.
-
 Allavegana	aa	allavegana
 ,	,	,
 hérna	aa	hérna
@@ -1840,7 +1744,6 @@ er	sfg3en	vera
 fyrsta	lhenve	fyrstur
 lagið	nheng	lag
 :	:	:
-
 Girl	e	Girl
 from	e	from
 the	e	the
@@ -1857,7 +1760,6 @@ Mp3	ta	MP3
 skjal	nhen	skjal
 ,	,	,
 5,3mb	ta	5,3mb
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 fílað	ssg	fíla
@@ -1867,7 +1769,6 @@ Cash	e	Cash
 nokkur	fohfo	nokkur
 ár	nhfo	ár
 .	.	.
-
 Byrjaði	sfg1eþ	byrja
 að	cn	að
 fíla	sng	fíla
@@ -1886,7 +1787,6 @@ er	sfg3en	vera
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Ekki	aa	ekki
 það	fphen	það
 að	c	að
@@ -1913,7 +1813,6 @@ skilið	ssg	skilja
 enda	c	enda
 snillingur	nken	snillingur
 .	.	.
-
 Cash	e	Cash
 er	sfg3en	vera
 sennilega	aa	sennilega
@@ -1926,7 +1825,6 @@ byrjaði	sfg1eþ	byrja
 að	cn	að
 fíla	sng	fíla
 .	.	.
-
 Tengdi	sfg1eþ	tengja
 hann	fpkeo	hann
 eiginlega	aa	eiginlega
@@ -1950,7 +1848,6 @@ fyrir	aþ	fyrir
 mörgum	lhfþsf	margur
 árum	nhfþ	ár
 .	.	.
-
 En	c	en
 Cash	e	Cash
 hefur	sfg3en	hafa
@@ -1967,7 +1864,6 @@ fordóma	nkfo	fordómur
 á	aþ	á
 kántrítónlist	nveþ	kántrítónlist
 .	.	.
-
 Já	au	já
 ,	,	,
 fullt	lhensf	fullur
@@ -1977,7 +1873,6 @@ er	sfg3en	vera
 hreinasta	lhenve	hreinn
 drasl	nhen	drasl
 .	.	.
-
 En	c	en
 það	fphen	það
 þýðir	sfg3en	þýða
@@ -1992,7 +1887,6 @@ undir	ao	undir
 einn	tfkeo	einn
 hatt	nkeo	hattur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 einfaldlega	aa	einfaldlega
@@ -2014,7 +1908,6 @@ læra	sng	læra
 að	cn	að
 meta	sng	meta
 .	.	.
-
 Dylan	e	Dylan
 uppgötvaði	sfg1eþ	uppgötva
 ég	fp1en	ég
@@ -2026,7 +1919,6 @@ en	c	en
 miklu	lheþsf	mikill
 seinna	aam	seint
 .	.	.
-
 En	c	en
 í	aþ	í
 þessu	faheþ	þessi
@@ -2041,7 +1933,6 @@ Cash	e	Cash
 og	c	og
 Dylan	e	Dylan
 .	.	.
-
 Dylan	e	Dylan
 með	ao	með
 röddina	nveog	rödd
@@ -2066,7 +1957,6 @@ lagi	nheþ	lag
 eftir	ao	eftir
 Dylan	e	Dylan
 .	.	.
-
 Þetta	fahen	þessi
 lag	nhen	lag
 er	sfg3en	vera
@@ -2090,7 +1980,6 @@ gerir	sfg3en	gera
 það	fpheo	það
 sérstakt	lheosf	sérstakur
 .	.	.
-
 Lagið	nheng	lag
 er	sfg3en	vera
 tekið	sþghen	taka
@@ -2116,21 +2005,18 @@ hefur	sfg3en	hafa
 tekið	ssg	taka
 upp	aa	upp
 .	.	.
-
 Endalok	nhfn	endalok
 uppboðsins	nheeg	uppboð
 febrúar	nkeo	febrúar
 27	ta	27
 ,	,	,
 2006	ta	2006
-
 Jæja	au	jæja
 ,	,	,
 uppboðinu	nheþg	uppboð
 er	sfg3en	vera
 lokið	sþghen	ljúka
 .	.	.
-
 Það	fphen	það
 tók	sfg3eþ	taka
 yfir	aa	yfir
@@ -2145,7 +2031,6 @@ tengd	sþghfn	tengja
 átaki	nheþ	átak
 mínu	feheþ	minn
 .	.	.
-
 Ég	fp1en	ég
 seldi	sfg1eþ	selja
 nánast	aae	náið
@@ -2170,7 +2055,6 @@ fyrir	aa	fyrir
 mínu	feheþ	minn
 lífi	nheþ	líf
 .	.	.
-
 Íbúðin	nveng	íbúð
 og	c	og
 geymslan	nveng	geymsla
@@ -2196,7 +2080,6 @@ dót	nhen	dót
 sé	svg3en	vera
 farið	sþghen	fara
 .	.	.
-
 Sem	ct	sem
 segir	sfg3en	segja
 ansi	aa	ansi
@@ -2216,7 +2099,6 @@ saman	aa	saman
 gegnum	ao	gegnum
 árin	nhfog	ár
 .	.	.
-
 Ég	fp1en	ég
 fékk	sfg1eþ	fá
 einnig	aa	einnig
@@ -2248,20 +2130,16 @@ desember	nkee	desember
 laununum	nhfþg	laun
 mínum	fehfþ	minn
 .	.	.
-
 Niðurstaðan	nveng	niðurstaða
 ?	?	?
-
 Jú	au	jú
 ,	,	,
 ég	fp1en	ég
 safnaði	sfg1eþ	safna
 samtals	aa	samtals
 :	:	:
-
 500.000	ta	500.000
 krónum	nvfþ	króna
-
 Það	fphen	það
 er	sfg3en	vera
 svo	aa	svo
@@ -2277,7 +2155,6 @@ von	nveo	von
 í	aþ	í
 upphafi	nheþ	upphaf
 .	.	.
-
 Viðbrögðin	nhfng	viðbragð
 voru	sfg3fþ	vera
 miklu	lheþsf	mikill
@@ -2299,7 +2176,6 @@ standa	sng	standa
 í	aþ	í
 þessu	faheþ	þessi
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 talað	ssg	tala
@@ -2317,7 +2193,6 @@ víða	aa	víða
 vakið	ssg	vekja
 athygli	nveo	athygli
 .	.	.
-
 Ég	fp1en	ég
 vil	sfg1en	vilja
 þakka	sng	þakka
@@ -2329,7 +2204,6 @@ tóku	sfg3fþ	taka
 í	aþ	í
 þessu	faheþ	þessi
 .	.	.
-
 Sérstakt	lheosf	sérstakur
 hrós	nheo	hrós
 fær	sfg3en	fá
@@ -2353,7 +2227,6 @@ dósum	nvfþ	dós
 hverfinu	nheþg	hverfi
 sínu	feheþ	sinn
 .	.	.
-
 Ég	fp1en	ég
 þakka	sfg1en	þakka
 öllum	fokfþ	allur
@@ -2374,7 +2247,6 @@ peninga	nkfo	peningur
 með	aþ	með
 mér	fp1eþ	ég
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 viss	lkensf	viss
@@ -2388,7 +2260,6 @@ varið	sþghen	verja
 hjá	aþ	hjá
 Oxfam	e	Oxfam
 .	.	.
-
 Peningurinn	nkeng	peningur
 allur	foken	allur
 (	(	(
@@ -2414,7 +2285,6 @@ er	sfg3en	vera
 mikill	lkensf	mikill
 peningur	nken	peningur
 .	.	.
-
 Ég	fp1en	ég
 millifærði	sfg1eþ	millifæra
 peningana	nkfog	peningur
@@ -2438,7 +2308,6 @@ peningum	nkfþ	peningur
 góðar	lvfosf	góður
 hendur	nvfo	hönd
 .	.	.
-
 Ég	fp1en	ég
 mun	sfg1en	munu
 setja	sng	setja
@@ -2453,15 +2322,12 @@ peningagjöfinni	nveþg	peningagjöf
 þær	fpvfn	hún
 koma	sfg3fn	koma
 .	.	.
-
 Jafnrétti	nhen	jafnrétti
 ?	?	?
-
 febrúar	nkeo	febrúar
 24	ta	24
 ,	,	,
 2006	ta	2006
-
 Ekki	aa	ekki
 það	fphen	það
 að	c	að
@@ -2504,7 +2370,6 @@ máli	nheþ	mál
 nýsköpunarverðlaunum	nhfþ	nýsköpunarverðlaun
 forsetans	nkeeg	forseti
 .	.	.
-
 Halda	sfg3fn	halda
 menn	nkfn	maður
 því	fpheþ	það
@@ -2525,7 +2390,6 @@ vegna	ae	vegna
 kyns	nhee	kyn
 þeirra	fpvfe	hún
 ?	?	?
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 hreinlega	aa	hreinlega
@@ -2543,7 +2407,6 @@ barnalega	aa	barnalega
 á	ao	á
 hlutina	nkfog	hlutur
 .	.	.
-
 Ég	fp1en	ég
 á	sfg1en	eiga
 bara	aa	bara
@@ -2571,7 +2434,6 @@ er	sfg3en	vera
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 Er	sfg3en	vera
 ekki	aa	ekki
 nær	aþm	nær
@@ -2593,15 +2455,12 @@ einhvers	fokee	einhver
 konar	nkee	konar
 jafnréttishetjum	nvfþ	jafnréttishetja
 ?	?	?
-
 Barca	e	Barca
 !	!	!
-
 febrúar	nkeo	febrúar
 22	ta	22
 ,	,	,
 2006	ta	2006
-
 Hólí	e	Hólí
 sjitt	aa	sjitt
 hvað	fshen	hver
@@ -2610,7 +2469,6 @@ er	sfg3en	vera
 gott	lhensf	góður
 lið	nhen	lið
 !	!	!
-
 Það	fphen	það
 er	sfg3en	vera
 yyyyndislegt	x	yyyyndislegt
@@ -2639,32 +2497,27 @@ sem	ct	sem
 í	ao	í
 hlut	nkeo	hlutur
 .	.	.
-
 Lionel	e	Lionel
 Messi	e	Messi
 er	sfg3en	vera
 18	ta	18
 ára	nhfe	ár
 !	!	!
-
 Hann	fpken	hann
 er	sfg3en	vera
 fæddur	sþgken	fæða
 1987	ta	1987
 .	.	.
-
 Eru	sfg3fn	vera
 menn	nkfn	maður
 ekkert	fohen	enginn
 að	cn	að
 grínast	snm	grína
 ?	?	?
-
 Þvílíkur	fbken	þvílíkur
 ótrúlegur	lkensf	ótrúlegur
 snillingur	nken	snillingur
 .	.	.
-
 Barca	e	Barca
 átti	sfg3eþ	eiga
 23	ta	23
@@ -2677,18 +2530,15 @@ leiknum	nkeþg	leikur
 í	ao	í
 kvöld	nheo	kvöld
 .	.	.
-
 23	ta	23
 skot	nhfo	skot
 á	aa	á
 móti	aþ	móti
 CHELSEA	e	CHELSEA
 !	!	!
-
 Á	aþ	á
 útivelli	nkeþ	útivöllur
 .	.	.
-
 Já	au	já
 ,	,	,
 þeir	fpkfn	hann
@@ -2701,7 +2551,6 @@ skýrir	sfg3en	skýra
 ekki	aa	ekki
 allt	foheo	allur
 .	.	.
-
 Ég	fp1en	ég
 segi	sfg1en	segja
 það	fpheo	það
@@ -2716,7 +2565,6 @@ heimi	nkeþ	heimur
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Held	sfg1en	halda
 að	c	að
 aðeins	aa	aðeins
@@ -2729,7 +2577,6 @@ lið	nheo	lið
 í	aþ	í
 Meistaradeildinni	nveþgs	Meistaradeild
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 búinn	lkensf	búinn
@@ -2754,12 +2601,10 @@ aftur	aa	aftur
 gott	lheosf	góður
 skap	nheo	skap
 .	.	.
-
 Húrra	au	húrra
 fyrir	aþ	fyrir
 því	fpheþ	það
 .	.	.
-
 Og	c	og
 húrra	au	húrra
 fyrir	aþ	fyrir
@@ -2780,10 +2625,8 @@ horfa	sng	horfa
 seinni	lkeovm	seinn
 leikinn	nkeog	leikur
 !	!	!
-
 HÚRRA	au	húrra
 !	!	!
-
 Já	au	já
 ,	,	,
 og	c	og
@@ -2791,14 +2634,12 @@ húrra	au	húrra
 fyrir	aþ	fyrir
 fótbolta	nkeþ	fótbolti
 !	!	!
-
 Breaking	e	Breaking
 News	e	News
 febrúar	nkeo	febrúar
 22	ta	22
 ,	,	,
 2006	ta	2006
-
 Nú	aa	nú
 skiptum	sfg1fn	skipta
 við	fp1fn	ég
@@ -2808,12 +2649,10 @@ live	e	live
 til	ae	til
 Lundúna	nvfe-s	Lundúnir
 !	!	!
-
 «	«	«
 Gott	lheosf	góður
 kvöld	nheo	kvöld
 .	.	.
-
 Hér	aa	hér
 í	aþ	í
 London	e	London
@@ -2823,7 +2662,6 @@ með	aþ	með
 kyrrum	lhfþsf	kyrr
 kjörum	nhfþ	kjör
 .	.	.
-
 Þó	aa	þó
 eru	sfg3fn	vera
 helstu	lhfnve	heldri
@@ -2837,7 +2675,6 @@ er	sfg3en	vera
 Stamford	e	Stamford
 Bridge	e	Bridge
 .	.	.
-
 Ég	fp1en	ég
 endurtek	sfg1en	endurtaka
 ,	,	,
@@ -2850,7 +2687,6 @@ Bridge	e	Bridge
 !	!	!
 !	!	!
 !	!	!
-
 Og	c	og
 hann	fpken	hann
 ætlar	sfg3en	ætla
@@ -2861,13 +2697,11 @@ fótbolta	nkeo	fótbolti
 í	ao	í
 kvöld	nheo	kvöld
 !	!	!
-
 Ég	fp1en	ég
 endurtek	sfg1en	endurtaka
 ,	,	,
 fótbolta	nkeo	fótbolti
 »	»	»
-
 Fyrirgefið	sbg2fn	fyrirgefa
 ,	,	,
 við	fp1fn	ég
@@ -2877,7 +2711,6 @@ rjúfa	sng	rjúfa
 útsendingu	nveo	útsending
 frá	aþ	frá
 Lundúnum	nvfþ-s	Lundúnir
-
 «	«	«
 Í	aþ	í
 dómssal	nkeþ	dómssalur
@@ -2895,7 +2728,6 @@ innflutningi	nkeþ	innflutningur
 fjórum	tfkfþ	fjórir
 bílum	nkfþ	bíll
 .	.	.
-
 Ég	fp1en	ég
 endurtek	sfg1en	endurtaka
 ,	,	,
@@ -2905,7 +2737,6 @@ fjórum	tfkfþ	fjórir
 bílum	nkfþ	bíll
 .	.	.
 »	»	»
-
 Fleira	lhenvm	margur
 er	sfg3en	vera
 ekki	aa	ekki
@@ -2914,7 +2745,6 @@ fréttum	nvfþ	frétt
 í	ao	í
 kvöld	nheo	kvöld
 .	.	.
-
 Múrinn	nkengs	Múr
 og	c	og
 Hugo	nken-s	Hugo
@@ -2922,7 +2752,6 @@ febrúar	nkeo	febrúar
 20	ta	20
 ,	,	,
 2006	ta	2006
-
 Þau	fphfn	það
 á	aþ	á
 Múrnum	nkeþgs	Múr
@@ -2935,7 +2764,6 @@ fyrir	aþ	fyrir
 Hugo	nkeþ-s	Hugo
 Chávez	e	Chávez
 .	.	.
-
 Af	aþ	af
 hverju	fsheþ	hver
 er	sfg3en	vera
@@ -2943,7 +2771,6 @@ erfitt	lhensf	erfiður
 að	cn	að
 skilja	sng	skilja
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 er	sfg3en	vera
@@ -2977,7 +2804,6 @@ hættuna	nveog	hætta
 í	aþ	í
 suðri	nheþ	suður
 .	.	.
-
 Í	aþ	í
 þeirri	faveþ	sá
 grein	nveþ	grein
@@ -2992,7 +2818,6 @@ feitletranir	nvfn	feitletrun
 mínar	fevfn	minn
 )	)	)
 :	:	:
-
 Rice	e	Rice
 sagði	sfg3eþ	segja
 að	c	að
@@ -3024,7 +2849,6 @@ braut	nveþ	braut
 lýðræðislegra	lkfesf	lýðræðislegur
 stjórnarhátta	nkfe	stjórnarháttur
 .	.	.
-
 Það	fphen	það
 virðist	sfm3en	virða
 því	aa	því
@@ -3082,7 +2906,6 @@ desember	nkee	desember
 síðasta	lheþve	síðari
 ári	nheþ	ár
 .	.	.
-
 Framlag	nhen	framlag
 Bandaríkjastjórnar	nvee-s	Bandaríkjastjórn
 til	ae	til
@@ -3112,7 +2935,6 @@ ER	sfg3en	vera
 við	ao	við
 lýðræðið	nheog	lýðræði
 .	.	.
-
 Þrátt	aa	þrátt
 fyrir	ao	fyrir
 að	c	að
@@ -3132,7 +2954,6 @@ sé	svg3en	vera
 góður	lkensf	góður
 gæi	nken	gæi
 .	.	.
-
 Já	au	já
 ,	,	,
 hann	fpken	hann
@@ -3156,7 +2977,6 @@ komst	sfm3eþ	koma
 til	ae	til
 valda	nhfe	vald
 .	.	.
-
 Bara	aa	bara
 til	ae	til
 að	cn	að
@@ -3192,7 +3012,6 @@ með	ao	með
 ný	lhfosf	nýr
 lög	nhfo	lag
 .	.	.
-
 Vegna	ae	vegna
 þess	fphee	það
 að	c	að
@@ -3228,7 +3047,6 @@ aðeins	aa	aðeins
 einfaldan	lkeosf	einfaldur
 meirihluta	nkeo	meirihluti
 .	.	.
-
 Hann	fpken	hann
 hefur	sfg3en	hafa
 nú	aa	nú
@@ -3246,7 +3064,6 @@ hlutverk	nheo	hlutverk
 stjórn	nveþ	stjórn
 hersins	nkeeg	her
 .	.	.
-
 Chávez	e	Chávez
 stjórnar	sfg3en	stjórna
 einnig	aa	einnig
@@ -3259,7 +3076,6 @@ kosningar	nvfo	kosning
 í	aþ	í
 Venezuela	e	Venezuela
 .	.	.
-
 Chávez	e	Chávez
 hefur	sfg3en	hafa
 gefið	ssg	gefa
@@ -3279,7 +3095,6 @@ um	ao	um
 eitt	tfheo	einn
 ár	nheo	ár
 .	.	.
-
 Hann	fpken	hann
 hefur	sfg3en	hafa
 stækkað	ssg	stækka
@@ -3300,7 +3115,6 @@ hliðhollum	lkfþsf	hliðhollur
 sjálfum	fbkeþ	sjálfur
 sér	fpkeþ	sig
 .	.	.
-
 Hugo	nken-s	Hugo
 Chávez	e	Chávez
 ER	sfg3en	vera
@@ -3311,7 +3125,6 @@ lýðræðið	nheog	lýðræði
 þessum	fakeþ	þessi
 heimshluta	nkeþ	heimshluti
 .	.	.
-
 Hversu	aa	hversu
 mikið	lheosf	mikill
 þarf	sfg3en	þurfa
@@ -3329,7 +3142,6 @@ teljast	snm	telja
 við	ao	við
 lýðræði	nheo	lýðræði
 ?	?	?
-
 Rice	e	Rice
 sagði	sfg3eþ	segja
 ennfremur	aa	ennfremur
@@ -3345,7 +3157,6 @@ væru	svg3fþ	vera
 sérstaklega	aa	sérstaklega
 hættuleg	lhfnsf	hættulegur
 «	«	«
-
 og	c	og
 að	c	að
 «	«	«
@@ -3363,7 +3174,6 @@ almennings	nkee	almenningur
 í	aþ	í
 Venesúela	nheþ-s	Venesúela
 .	.	.
-
 Ekki	aa	ekki
 er	sfg3en	vera
 ljóst	lhensf	ljós
@@ -3381,7 +3191,6 @@ sjálfu	fbheþ	sjálfur
 í	aþ	í
 landinu	nheþg	land
 ?	?	?
-
 Fólki	nheþ	fólk
 ,	,	,
 sem	ct	sem
@@ -3390,7 +3199,6 @@ mótmælt	ssg	mótmæla
 í	aþ	í
 Venezuela	e	Venezuela
 .	.	.
-
 Það	fphen	það
 þykir	sfg3en	þykja
 hreint	aa	hreint
@@ -3415,7 +3223,6 @@ stjórn	nveþ	stjórn
 Hugo	e	Hugo
 Cavez	e	Cavez
 .	.	.
-
 Hægt	lhensf	hægur
 er	sfg3en	vera
 að	cn	að
@@ -3429,7 +3236,6 @@ embættismönnum	nkfþ	embættismaður
 vanvirðingu	nveo	vanvirðing
 »	»	»
 .	.	.
-
 Auðvitað	aa	auðvitað
 er	sfg3en	vera
 ástandið	nheng	ástand
@@ -3464,7 +3270,6 @@ og	c	og
 hans	fpkee	hann
 stjórnarháttum	nkfþ	stjórnarháttur
 .	.	.
-
 Hann	fpken	hann
 hefur	sfg3en	hafa
 ekki	aa	ekki
@@ -3483,7 +3288,6 @@ pólitískum	lkfþsf	pólitískur
 andstæðingum	nkfþ	andstæðingur
 sínum	fekfþ	sinn
 .	.	.
-
 Vissulega	aa	vissulega
 er	sfg3en	vera
 það	fphen	það
@@ -3503,7 +3307,6 @@ Bush	e	Bush
 og	c	og
 félögum	nkfþ	félagi
 .	.	.
-
 Til	ae	til
 dæmis	nhee	dæmi
 lagði	sfg3eþ	leggja
@@ -3532,7 +3335,6 @@ Kúbverjum	nkfþ-s	Kúbverji
 stórum	lkeþsf	stór
 stíl	nkeþ	stíll
 .	.	.
-
 Hvað	fsheo	hver
 nákvæmlega	aa	nákvæmlega
 hefur	sfg3en	hafa
@@ -3542,7 +3344,6 @@ sér	fpkeþ	sig
 í	aþ	í
 þessu	faheþ	þessi
 ?	?	?
-
 Getur	sfg3en	geta
 hann	fpken	hann
 nefnt	ssg	nefna
@@ -3564,7 +3365,6 @@ olíu	nveo	olía
 til	ae	til
 líknarfélaga	nhfe	líknarfélag
 ?	?	?
-
 Eða	c	eða
 er	sfg3en	vera
 þetta	fahen	þessi
@@ -3591,7 +3391,6 @@ koma	sfg3fn	koma
 frá	aþ	frá
 Bandaríkjunum	nhfþgs	Bandaríki
 ?	?	?
-
 Ekki	aa	ekki
 þarf	sfg3en	þurfa
 að	cn	að
@@ -3611,14 +3410,12 @@ allar	fovfn	allur
 aðrar	fovfn	annar
 ríkisstjórnir	nvfn	ríkisstjórn
 .	.	.
-
 Hvaða	fshen	hvaða
 bull	nhen	bull
 er	sfg3en	vera
 þetta	fahen	þessi
 eiginlega	aa	eiginlega
 ?	?	?
-
 Á	ao	á
 sama	fbkeo	samur
 hátt	nkeo	háttur
@@ -3638,7 +3435,6 @@ allar	fovfn	allur
 aðrar	fovfn	annar
 ríkisstjórnir	nvfn	ríkisstjórn
 .	.	.
-
 Málið	nheng	mál
 er	sfg3en	vera
 auðvitað	aa	auðvitað
@@ -3656,7 +3452,6 @@ flestar	lvfnse	margur
 aðrar	fovfn	annar
 ríkisstjórnir	nvfn	ríkisstjórn
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ekki	aa	ekki
@@ -3682,7 +3477,6 @@ eigi	svg3fn	eiga
 skilið	ssg	skilja
 gagnrýni	nveo	gagnrýni
 .	.	.
-
 Þeir	fpkfn	hann
 á	aþ	á
 Múrnum	nkeþgs	Múr
@@ -3695,7 +3489,6 @@ fyrir	aþ	fyrir
 Hugo	nkeþ-s	Hugo
 Chávez	e	Chávez
 .	.	.
-
 Já	au	já
 ,	,	,
 Hugo	nken-s	Hugo
@@ -3714,7 +3507,6 @@ fólks	nhee	fólk
 í	aþ	í
 landinu	nheþg	land
 .	.	.
-
 En	c	en
 hann	fpken	hann
 hefur	sfg3en	hafa
@@ -3728,7 +3520,6 @@ gríðarlega	aa	gríðarlega
 hás	lheesf	hár
 olíuverðs	nhee	olíuverð
 .	.	.
-
 Og	c	og
 já	au	já
 ,	,	,
@@ -3740,7 +3531,6 @@ sem	ct	sem
 dissar	sfg3en	dissa
 Bandaríkin	nhfogs	Bandaríki
 .	.	.
-
 (	(	(
 og	c	og
 já	au	já
@@ -3755,7 +3545,6 @@ mati	nheþ	mat
 mikill	lkensf	mikill
 kostur	nken	kostur
 )	)	)
-
 En	c	en
 ef	c	ef
 ekki	aa	ekki
@@ -3790,7 +3579,6 @@ fótum	nkfþ	fótur
 en	c	en
 áður	aa	áður
 .	.	.
-
 Atvinna	nven	atvinna
 í	aþ	í
 boði	nheþ	boð
@@ -3798,7 +3586,6 @@ febrúar	nkeo	febrúar
 19	ta	19
 ,	,	,
 2006	ta	2006
-
 Ef	c	ef
 þið	fp2fn	þú
 hafið	sfg2fn	hafa
@@ -3820,7 +3607,6 @@ beint	aa	beint
 í	ao	í
 mig	fp1eo	ég
 .	.	.
-
 Hvalkjöt	nhen	hvalkjöt
 á	ao	á
 diskinn	nkeog	diskur
@@ -3832,7 +3618,6 @@ febrúar	nkeo	febrúar
 16	ta	16
 ,	,	,
 2006	ta	2006
-
 Ég	fp1en	ég
 get	sfg1en	geta
 hreinlega	aa	hreinlega
@@ -3848,7 +3633,6 @@ færslu	nveo	færsla
 þessari	faveþ	þessi
 bloggsíðu	nveþ	bloggsíða
 .	.	.
-
 Verð	sfg1en	verða
 bara	aa	bara
 að	cn	að
@@ -3857,10 +3641,8 @@ skrifa	sng	skrifa
 um	ao	um
 eitthvað	foheo	einhver
 .	.	.
-
 Allavegana	aa	allavegana
 ...	...	...
-
 Á	ao	á
 miðvikudaginn	nkeog	miðvikudagur
 var	sfg1eþ	vera
@@ -3872,7 +3654,6 @@ mat	nkeþ	matur
 á	aþ	á
 Humarhúsinu	nheþgs	humarhús
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ekki	aa	ekki
@@ -3883,7 +3664,6 @@ fyrir	ao	fyrir
 eina	foveo	einn
 staðreynd	nveo	staðreynd
 .	.	.
-
 Á	aþ	á
 matseðli	nkeþ	matseðill
 Humarhússins	nheegs	humarhús
@@ -3903,7 +3683,6 @@ namminamm	au	namminamm
 »	»	»
 )	)	)
 .	.	.
-
 Ég	fp1en	ég
 hvatti	sfg1eþ	hvetja
 útlendingana	nkfog	útlendingur
@@ -3914,7 +3693,6 @@ prófa	sng	prófa
 teljandi	lkeeof	teljandi
 árangurs	nkee	árangur
 .	.	.
-
 Þegar	c	þegar
 þau	fphfn	það
 svo	aa	svo
@@ -3937,7 +3715,6 @@ aldrei	aa	aldrei
 prófað	ssg	prófa
 hval	nkeo	hvalur
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 hins	fakee	hinn
@@ -3955,7 +3732,6 @@ allt	foheo	allur
 mitt	feheo	minn
 líf	nheo	líf
 .	.	.
-
 Sá	faken	sá
 áróður	nken	áróður
 gengur	sfg3en	ganga
@@ -4004,7 +3780,6 @@ og	c	og
 er	sfg3en	vera
 til	aa	til
 .	.	.
-
 Ég	fp1en	ég
 vissi	sfg1eþ	vita
 að	c	að
@@ -4022,14 +3797,12 @@ um	ao	um
 þann	fakeo	sá
 fyrri	lkeovm	fyrri
 .	.	.
-
 Ég	fp1en	ég
 ákvað	sfg1eþ	ákveða
 að	cn	að
 prófa	sng	prófa
 matinn	nkeog	matur
 .	.	.
-
 Hvalkjötið	nheng	hvalkjöt
 kom	sfg3eþ	koma
 á	ao	á
@@ -4048,7 +3821,6 @@ sósu	nveþ	sósa
 og	c	og
 wasabi	e	wasabi
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 skemmst	aae	skammt
@@ -4061,7 +3833,6 @@ kjötið	nheng	kjöt
 var	sfg3eþ	vera
 viðbjóður	nken	viðbjóður
 .	.	.
-
 Ekki	aa	ekki
 alveg	aa	alveg
 jafnviðbjóðslegt	lhensf	jafnviðbjóðslegur
@@ -4087,7 +3858,6 @@ samt	aa	samt
 verulega	aa	verulega
 vont	lhensf	vondur
 .	.	.
-
 (	(	(
 Ég	fp1en	ég
 tek	sfg1en	taka
@@ -4119,7 +3889,6 @@ undantekningu	nveþ	undantekning
 algjörlega	aa	algjörlega
 frábær	lkensf	frábær
 .	.	.
-
 Einnig	aa	einnig
 var	sfg3eþ	vera
 þjónustan	nveng	þjónusta
@@ -4146,7 +3915,6 @@ fulla	lveosf	fullur
 endurgreiðslu	nveo	endurgreiðsla
 .	.	.
 )	)	)
-
 Hvalkjöt	nhen	hvalkjöt
 er	sfg3en	vera
 ekki	aa	ekki
@@ -4165,7 +3933,6 @@ hafa	sfg3fn	hafa
 haldið	ssg	halda
 fram	aa	fram
 .	.	.
-
 Já	au	já
 ,	,	,
 það	fphen	það
@@ -4180,7 +3947,6 @@ ekki	aa	ekki
 nálægt	aþ	nálægt
 því	fpheþ	það
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 hreinlega	aa	hreinlega
@@ -4200,7 +3966,6 @@ matur	nken	matur
 sé	svg3en	vera
 góður	lkensf	góður
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 því	aa	því
@@ -4225,7 +3990,6 @@ sælgæti	nhen	sælgæti
 á	ao	á
 bragðið	nheog	bragð
 .	.	.
-
 Þetta	fahen	þessi
 á	sfg3en	eiga
 því	aa	því
@@ -4259,9 +4023,7 @@ góður	lkensf	góður
 á	ao	á
 bragðið	nheog	bragð
 .	.	.
-
 p.s.	as	p.s.
-
 Bendi	sfg1en	benda
 líka	aa	líka
 á	ao	á
@@ -4280,14 +4042,12 @@ jákvæðar	lvfosf	jákvæður
 hvalaveiðgreinar	nvfo	hvalaveiðgrein
 á	aþ	á
 vísi.is	v	vísi.is
-
 Gengi	nhen	gengi
 hlutabréfa	nhfe	hlutabréf
 febrúar	nkeo	febrúar
 15	ta	15
 ,	,	,
 2006	ta	2006
-
 Þetta	fahen	þessi
 ,	,	,
 dömur	nvfn	dama
@@ -4302,23 +4062,19 @@ síðustu	lkfove	síðari
 12	ta	12
 mánuði	nkfo	mánuður
 :	:	:
-
 Er	sfg3en	vera
 þetta	fahen	þessi
 eðlilegt	lhensf	eðlilegur
 ?	?	?
-
 Roger	e	Roger
 Waters	e	Waters
 til	ae	til
 Íslands	nhee-s	Ísland
 !	!	!
-
 febrúar	nkeo	febrúar
 15	ta	15
 ,	,	,
 2006	ta	2006
-
 Jess	au	jess
 jess	au	jess
 JESSSSSS	au	jess
@@ -4327,7 +4083,6 @@ JESSSSSS	au	jess
 !	!	!
 !	!	!
 !	!	!
-
 Roger	e	Roger
 Waters	e	Waters
 spilar	sfg3en	spila
@@ -4338,7 +4093,6 @@ júní	nkeo	júní
 !	!	!
 !	!	!
 !	!	!
-
 Fyrir	ao	fyrir
 þá	fakfo	sá
 ,	,	,
@@ -4359,7 +4113,6 @@ helsta	lheþve	heldri
 blómaskeiði	nheþ	blómaskeið
 hljómsveitarinnar	nveeg	hljómsveit
 .	.	.
-
 Ég	fp1en	ég
 sá	sfg1eþ	sjá
 Waters	e	Waters
@@ -4398,7 +4151,6 @@ Park	e	Park
 Chicago	e	Chicago
 )	)	)
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 reyndar	aa	reyndar
@@ -4421,7 +4173,6 @@ síðustu	lhfove	síðari
 2-3	ta	2-3
 ár	nhfo	ár
 .	.	.
-
 Á	aþ	á
 nokkurra	fohfe	nokkur
 ára	nhfe	ár
@@ -4443,7 +4194,6 @@ diska	nkfo	diskur
 með	aþ	með
 þeim	fpkfþ	hann
 .	.	.
-
 Ég	fp1en	ég
 veit	sfg1en	vita
 ekki	aa	ekki
@@ -4468,19 +4218,16 @@ látið	ssg	láta
 mig	fp1eo	ég
 dreyma	sng	dreyma
 .	.	.
-
 Þetta	fahen	þessi
 verður	sfg3en	verða
 æði	nhen	æði
 !	!	!
-
 Cheney	e	Cheney
 skotinn	sþgken	skjóta
 febrúar	nkeo	febrúar
 14	ta	14
 ,	,	,
 2006	ta	2006
-
 Einsog	c	einsog
 flestir	lkfnse	margur
 ættu	svg3fþ	eiga
@@ -4499,7 +4246,6 @@ sinn	fekeo	sinn
 um	ao	um
 helgina	nveog	helgi
 .	.	.
-
 Þetta	fahen	þessi
 samtal	nhen	samtal
 er	sfg3en	vera
@@ -4512,7 +4258,6 @@ besta	lkeþve	góður
 í	aþ	í
 heimi	nkeþ	heimur
 :	:	:
-
 Jon	e	Jon
 Stewart	e	Stewart
 :	:	:
@@ -4533,7 +4278,6 @@ analyst	e	analyst
 Rob	e	Rob
 Corddry	e	Corddry
 .	.	.
-
 Rob	e	Rob
 ,	,	,
 obviously	e	obviously
@@ -4542,7 +4286,6 @@ very	e	very
 unfortunate	e	unfortunate
 situation	e	situation
 .	.	.
-
 How	e	How
 is	e	is
 the	e	the
@@ -4551,7 +4294,6 @@ president	e	president
 handling	e	handling
 it	e	it
 ?	?	?
-
 Rob	e	Rob
 Corddry	e	Corddry
 :	:	:
@@ -4572,7 +4314,6 @@ shoot	e	shoot
 Harry	e	Harry
 Wittington	e	Wittington
 .	.	.
-
 According	e	According
 to	e	to
 the	e	the
@@ -4588,7 +4329,6 @@ in	e	in
 the	e	the
 brush	e	brush
 .	.	.
-
 Everyone	e	Everyone
 believed	e	believed
 at	e	at
@@ -4601,7 +4341,6 @@ in	e	in
 the	e	the
 brush	e	brush
 .	.	.
-
 «	«	«
 And	e	And
 while	e	while
@@ -4634,7 +4373,6 @@ in	e	in
 the	e	the
 face	e	face
 .	.	.
-
 He	e	He
 believes	e	believes
 the	e	the
@@ -4659,7 +4397,6 @@ s	e	s
 face	e	face
 .	.	.
 »	»	»
-
 Jon	e	Jon
 Stewart	e	Stewart
 :	:	:
@@ -4669,7 +4406,6 @@ why	e	why
 ,	,	,
 Rob	e	Rob
 ?	?	?
-
 If	e	If
 he	e	he
 had	e	had
@@ -4690,7 +4426,6 @@ shot	e	shot
 him	e	him
 ?	?	?
 »	»	»
-
 Rob	e	Rob
 Corddry	e	Corddry
 :	:	:
@@ -4712,7 +4447,6 @@ to	e	to
 be	e	be
 decisive	e	decisive
 .	.	.
-
 To	e	To
 not	e	not
 have	e	have
@@ -4736,7 +4470,6 @@ is	e	is
 weak	e	weak
 .	.	.
 »	»	»
-
 Jon	e	Jon
 Stewart	e	Stewart
 :	:	:
@@ -4747,7 +4480,6 @@ s	e	s
 horrible	e	horrible
 .	.	.
 »	»	»
-
 Rob	e	Rob
 Corddry	e	Corddry
 :	:	:
@@ -4794,7 +4526,6 @@ re	e	re
 hunting	e	hunting
 them	e	them
 .	.	.
-
 I	e	I
 '	'	'
 m	e	m
@@ -4815,7 +4546,6 @@ little	e	little
 of	e	of
 theirs	e	theirs
 .	.	.
-
 Jon	e	Jon
 Stewart	e	Stewart
 :	:	:
@@ -4832,7 +4562,6 @@ laugh	e	laugh
 Rob	e	Rob
 .	.	.
 »	»	»
-
 Rob	e	Rob
 Corddry	e	Corddry
 :	:	:
@@ -4845,10 +4574,8 @@ is	e	is
 they	e	they
 do	e	do
 ...	...	...
-
 coo	e	coo
 ..	..	..
-
 they	e	they
 '	'	'
 re	e	re
@@ -4873,19 +4600,16 @@ to	e	to
 hunt	e	hunt
 them	e	them
 .	.	.
-
 Jig	e	Jig
 is	e	is
 up	e	up
 .	.	.
-
 Quails	e	Quails
 one	e	one
 ,	,	,
 America	e	America
 zero	e	zero
 .	.	.
-
 Jon	e	Jon
 Stewart	e	Stewart
 :	:	:
@@ -4909,7 +4633,6 @@ least	e	least
 sorry	e	sorry
 ?	?	?
 »	»	»
-
 Rob	e	Rob
 Corddry	e	Corddry
 :	:	:
@@ -4922,7 +4645,6 @@ does	e	does
 it	e	it
 make	e	make
 ?	?	?
-
 The	e	The
 bullets	e	bullets
 are	e	are
@@ -4934,7 +4656,6 @@ man	e	man
 s	e	s
 face	e	face
 .	.	.
-
 Let	e	Let
 '	'	'
 s	e	s
@@ -4947,7 +4668,6 @@ as	e	as
 a	e	a
 people	e	people
 ...	...	...
-
 to	e	to
 get	e	get
 him	e	him
@@ -4957,7 +4677,6 @@ of	e	of
 mask	e	mask
 .	.	.
 »	»	»
-
 Sjá	sng	sjá
 fleiri	lkfovm	margur
 Cheney	e	Cheney
@@ -4965,7 +4684,6 @@ tengda	lkfosf	tengdur
 brandara	nkfo	brandari
 hér	aa	hér
 .	.	.
-
 Athyglisvert	lhensf	athyglisverður
 að	cn	að
 bera	sng	bera
@@ -4977,7 +4695,6 @@ og	c	og
 Jay	e	Jay
 Leno	e	Leno
 .	.	.
-
 Brandararnir	nkfng	brandari
 úr	aþ	úr
 þeim	fakfþ	sá
@@ -4996,5 +4713,4 @@ Show	e	Show
 sinnum	nhfþ	sinn
 betra	lhenvm	góður
 .	.	.
-
 Ég	fp1en	ég

@@ -2,7 +2,6 @@ fram	aa	fram
 eftir	aþ	eftir
 nóttu	nveþ	nótt
 .	.	.
-
 Sextettinn	nkeng	sextett
 Sex	tfhfn	sex
 í	aþ	í
@@ -11,7 +10,6 @@ syngur	sfg3en	syngja
 nokkur	fohfo	nokkur
 lög	nhfo	lag
 .	.	.
-
 Skráning	nven	skráning
 í	aþ	í
 síma	nkeþ	sími
@@ -19,7 +17,6 @@ síma	nkeþ	sími
 fyrir	ao	fyrir
 20.	ta	20.
 sept.	as	sept.
-
 Minningarkort	nhfn	minningarkort
 Hrafnkelssjóður	nken-s	Hrafnkelssjóður
 (	(	(
@@ -27,7 +24,6 @@ stofnaður	sþgken	stofna
 1931	ta	1931
 )	)	)
 .	.	.
-
 Minningarkort	nhfn	minningarkort
 afgreidd	sþghfn	afgreiða
 í	aþ	í
@@ -36,14 +32,12 @@ símum	nkfþ	sími
 og	c	og
 5656611	ta	5656611
 .	.	.
-
 (	(	(
 Sak.	as	Sak.
 10	ta	10
 ,	,	,
 1.	ta	1.
 )	)	)
-
 Allt	fohen	allur
 fram	aa	fram
 streymir	sfg3en	streyma
@@ -64,11 +58,9 @@ horfin	sþgven	hverfa
 sumars	nhee	sumar
 blíða	nven	blíða
 .	.	.
-
 ---	x	---
 Kristján	nken-s	Kristján
 Jónsson	nken-s	Jónsson
-
 Skipin	nhfng	skip
 Reykjavíkurhöfn	nven-s	Reykjavíkurhöfn
 :	:	:
@@ -80,14 +72,12 @@ fer	sfg3en	fara
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Árni	nken-s	Árni
 Friðriksson	nken-s	Friðriksson
 fer	sfg3en	fara
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Hafnarfjarðarhöfn	nven-s	Hafnarfjarðarhöfn
 :	:	:
 Ikan	e	Ikan
@@ -101,12 +91,10 @@ kemur	sfg3en	koma
 á	ao	á
 morgun	nkeo	morgunn
 .	.	.
-
 Mannamót	nhfn	mannamót
 Aflagranda	nkeþ-s	Aflagrandi
 40	ta	40
 .	.	.
-
 Í	ao	í
 vetur	nkeo	vetur
 verður	sfg3en	verða
@@ -124,7 +112,6 @@ hefst	sfm3en	hefja
 þriðjud.	as	þriðjud.
 10.	ta	10.
 sept.	as	sept.
-
 Jóga	nhen	jóga
 hefst	sfm3en	hefja
 þriðjud.	as	þriðjud.
@@ -143,14 +130,12 @@ afgreiðslu	nveþ	afgreiðsla
 s.	as	s.
 5622571	ta	5622571
 .	.	.
-
 Félagsvist	nven	félagsvist
 á	ao	á
 morgun	nkeo	morgunn
 kl.	as	kl.
 14	ta	14
 .	.	.
-
 Búnaðarbankinn	nkengs	búnaðarbanki
 verður	sfg3en	verða
 með	ao	með
@@ -160,11 +145,9 @@ afgreiðslu	nveo	afgreiðsla
 sept.	as	sept.
 kl.	as	kl.
 10.15.	ta	10.15.
-
 Árskógar	nkfn-s	Árskógar
 4	ta	4
 .	.	.
-
 Á	ao	á
 morgun	nkeo	morgunn
 kl.	as	kl.
@@ -183,7 +166,6 @@ kl.	as	kl.
 16	ta	16
 myndlist	nven	myndlist
 .	.	.
-
 Púttvöllurinn	nkeng	púttvöllur
 er	sfg3en	vera
 opinn	lkensf	opinn
@@ -192,18 +174,15 @@ kl.	as	kl.
 alla	fokfo	allur
 daga	nkfo	dagur
 .	.	.
-
 Allar	fovfn	allur
 uppl.	as	uppl.
 í	aþ	í
 s.	as	s.
 5352700	ta	5352700
 .	.	.
-
 Bólstaðarhlíð	nven-s	Bólstaðarhlíð
 43	ta	43
 .	.	.
-
 Á	ao	á
 morgun	nkeo	morgunn
 kl.	as	kl.
@@ -233,36 +212,30 @@ kl.	as	kl.
 13-16	ta	13-16
 bútasaumur	nken	bútasaumur
 .	.	.
-
 Uppl.	as	uppl.
 í	aþ	í
 s.	as	s.
 5685052	ta	5685052
 .	.	.
-
 þriðjud.	as	þriðjud.
 17.	ta	17.
 sept.	as	sept.
 kl.	as	kl.
 12.30	ta	12.30
 .	.	.
-
 Haustlitaferð	nven	haustlitaferð
 í	ao	í
 Skorradalinn	nkeogs	Skorradalur
 .	.	.
-
 Ullarselið	nhengs	Ullarselið
 á	aþ	á
 Hvanneyri	nveþ-s	Hvanneyri
 heimsótt	sþghen	heimsækja
 .	.	.
-
 Kaffiveitingar	nvfn	kaffiveitingar
 á	aþ	á
 Hvanneyri	nveþ-s	Hvanneyri
 .	.	.
-
 Skráning	nven	skráning
 og	c	og
 greiðsla	nven	greiðsla
@@ -272,24 +245,20 @@ lagi	nheþ	lag
 miðvikud.	as	miðvikud.
 11.	ta	11.
 sept.	as	sept.
-
 Allir	fokfn	allur
 velkomnir	lkfnsf	velkominn
 .	.	.
-
 Uppl.	as	uppl.
 í	aþ	í
 s.	as	s.
 5685052	ta	5685052
 .	.	.
-
 Félag	nhen-s	Félag
 eldri	lkfevm	gamall
 borgara	nkfe	borgari
 í	aþ	í
 Kópavogi	nkeþ-s	Kópavogur
 .	.	.
-
 Félagsvist	nven	félagsvist
 í	aþ	í
 Gullsmára	nkeþ-s	Gullsmári
@@ -299,14 +268,12 @@ mánud.	as	mánud.
 kl.	as	kl.
 20.30	ta	20.30
 .	.	.
-
 Fótaaðgerðastofan	nveng	fótaaðgerðastofa
 opin	lvensf	opinn
 frá	aa	frá
 kl.	as	kl.
 10	ta	10
 .	.	.
-
 Skrifstofan	nveng	skrifstofa
 Gullsmára	nkeþ-s	Gullsmári
 9	ta	9
@@ -320,7 +287,6 @@ kl.	as	kl.
 s.	as	s.
 5541226	ta	5541226
 .	.	.
-
 Púttað	sþghen	pútta
 verður	sfg3en	verða
 á	aþ	á
@@ -333,7 +299,6 @@ laugardag	nkeo	laugardagur
 kl.	as	kl.
 10.30	ta	10.30
 .	.	.
-
 mánud.	as	mánud.
 16.	ta	16.
 sept.	as	sept.
@@ -344,7 +309,6 @@ ferð	nven	ferð
 í	aþ	í
 Borgarfirði	nkeþ-s	Borgarfjörður
 .	.	.
-
 Lagt	sþghen	leggja
 af	aþ	af
 stað	nkeþ	staður
@@ -360,7 +324,6 @@ kl	as	kl
 :	:	:
 8.15	ta	8.15
 .	.	.
-
 Áætluð	lvensf	áætlaður
 koma	nven	koma
 um	aa	um
@@ -378,11 +341,9 @@ er	sfg3en	vera
 kl.	as	kl.
 18	ta	18
 .	.	.
-
 Takmarkað	lhensf	takmarkaður
 sætaframboð	nhen	sætaframboð
 .	.	.
-
 Farin	sþgven	fara
 verður	sfg3en	verða
 hópferð	nven	hópferð
@@ -431,7 +392,6 @@ s	x	s
 564-5260	ta	564-5260
 )	)	)
 .	.	.
-
 Ferðanefndin	nveng	ferðanefnd
 :	:	:
 Bogi	nken-s	Bogi
@@ -448,13 +408,11 @@ s	x	s
 554-0999	ta	554-0999
 )	)	)
 .	.	.
-
 Félagsstarfið	nheng	félagsstarf
 ,	,	,
 Lönguhlíð	nveþ-s	Langahlíð
 3	ta	3
 .	.	.
-
 Á	ao	á
 morgun	nkeo	morgunn
 kl.	as	kl.
@@ -480,12 +438,10 @@ föndur	nhen	föndur
 og	c	og
 handavinna	nven	handavinna
 .	.	.
-
 Félagsstarf	nhen	félagsstarf
 aldraðra	lkfesf	aldraður
 Garðabæ	nkeþ-s	Garðabær
 .	.	.
-
 Leikfimi	nven	leikfimi
 karla	nkfe	karl
 á	aþ	á
@@ -500,7 +456,6 @@ mánu-	nkfþ	mánudagur
 og	c	og
 miðvikudögum	nkfþ	miðvikudagur
 .	.	.
-
 Skráning	nven	skráning
 í	ao	í
 hópastarfið	nheog	hópastarf
@@ -516,7 +471,6 @@ Félagsmiðstöðinni	nveþgs	Félagsmiðstöð
 í	aþ	í
 Kirkjuhvoli	nkeþ-s	Kirkjuhvoll
 .	.	.
-
 Kynning	nven	kynning
 á	aþ	á
 félagsstarfinu	nheþg	félagsstarf
@@ -530,12 +484,10 @@ sept.	as	sept.
 kl.	as	kl.
 14	ta	14
 .	.	.
-
 Fótaaðgerðarstofan	nveng	fótaaðgerðarstofa
 s.	as	s.
 8994223	ta	8994223
 .	.	.
-
 Garðakórinn	nkengs	Garðakór
 -	-	-
 æfingar	nvfn	æfing
@@ -546,11 +498,9 @@ kl.	as	kl.
 í	aþ	í
 Kirkjuhvoli	nkeþ-s	Kirkjuhvoll
 .	.	.
-
 Allir	fokfn	allur
 velkomnir	lkfnsf	velkominn
 .	.	.
-
 Ferð	nven	ferð
 eldri	lkfevm	gamall
 borgara	nkfe	borgari
@@ -558,7 +508,6 @@ borgara	nkfe	borgari
 Akranes	nheo-s	Akranes
 14.	ta	14.
 sept.	as	sept.
-
 Skráning	nven	skráning
 hjá	aþ	hjá
 Arndísi	nveþ-s	Arndís
@@ -567,12 +516,10 @@ s.	as	s.
 og	c	og
 8957826	ta	8957826
 .	.	.
-
 Félagsstarfið	nheng	félagsstarf
 Dalbraut	nveþ-s	Dalbraut
 18-20	ta	18-20
 .	.	.
-
 Á	ao	á
 morgun	nkeo	morgunn
 kl.	as	kl.
@@ -593,21 +540,18 @@ Hraunseli	nheþ-s	Hraunsel
 Flatahrauni	nheþ-s	Flatahraun
 3	ta	3
 .	.	.
-
 Á	ao	á
 morgun	nkeo	morgunn
 félagsvist	nven	félagsvist
 kl.	as	kl.
 13.30	ta	13.30
 .	.	.
-
 Á	ao	á
 þriðjudag	nkeo	þriðjudagur
 handavinna	nven	handavinna
 kl.	as	kl.
 13	ta	13
 .	.	.
-
 30	ta	30
 ,	,	,
 brids	nhen	brids
@@ -623,7 +567,6 @@ Hrafnistuvelli	nkeþ-s	Hrafnistuvöllur
 kl	as	kl
 14-16	ta	14-16
 .	.	.
-
 Orlofsferð	nven	orlofsferð
 að	aþ	að
 Höfðabrekku	nveþ-s	Höfðabrekka
@@ -637,13 +580,11 @@ Hraunseli	nheþ-s	Hraunsel
 kl.	as	kl.
 10	ta	10
 .	.	.
-
 Glerskurður	nken	glerskurður
 ,	,	,
 skráning	nven	skráning
 hafinn	x	hefja
 .	.	.
-
 Leikfimi	nven	leikfimi
 eldri	lkfevm	gamall
 borgara	nkfe	borgari
@@ -673,7 +614,6 @@ Hraunseli	nheþ-s	Hraunsel
 sími	nken	sími
 5550142	ta	5550142
 .	.	.
-
 Myndlistafólk	nhen	myndlistafólk
 fundur	nken	fundur
 á	ao	á
@@ -691,7 +631,6 @@ námskeiða	nhfe	námskeið
 í	ao	í
 vetur	nkeo	vetur
 .	.	.
-
 Félag	nhen-s	Félag
 eldri	lkfevm	gamall
 borgara	nkfe	borgari
@@ -701,7 +640,6 @@ Reykjavík	nveþ-s	Reykjavík
 Ásgarði	nkeþ-s	Ásgarður
 Glæsibæ	nkeþ-s	Glæsibær
 .	.	.
-
 Sunnud	as	sunnud
 :	:	:
 Dansleikur	nken	dansleikur
@@ -712,14 +650,12 @@ leikur	sfg3en	leika
 fyrir	aþ	fyrir
 dansi	nkeþ	dans
 .	.	.
-
 Mánud	as	mánud.
 :	:	:
 Brids	nhen	brids
 kl.	as	kl.
 13	ta	13
 .	.	.
-
 Danskennsla	nven	danskennsla
 framh.	as	framh.
 kl.	as	kl.
@@ -729,7 +665,6 @@ byrjendur	nkfn	byrjandi
 kl.	as	kl.
 20.30	ta	20.30
 .	.	.
-
 Þorvaldur	nken-s	Þorvaldur
 Lúðvíksson	nken-s	Lúðvíksson
 lögfræðingur	nken	lögfræðingur
@@ -749,14 +684,12 @@ tíma	nkeo	tími
 á	aþ	á
 skrifstofu	nveþ	skrifstofa
 FEB.	as	FEB.
-
 Þriðjud	x	þriðjud
 :	:	:
 Skák	nven	skák
 kl.	as	kl.
 13	ta	13
 .	.	.
-
 Miðvikud	as	miðvikud.
 :	:	:
 Göngu-hrólfar	nkfn-s	Göngu-Hrólfar
@@ -767,26 +700,22 @@ Glæsibæ	nkeþ-s	Glæsibær
 kl.	as	kl.
 10	ta	10
 .	.	.
-
 Söngfélag	nhen	söngfélag
 FEB	as	FEB
 kóræfing	nven	kóræfing
 kl.	as	kl.
 17	ta	17
 .	.	.
-
 Línudanskennsla	nven	línudanskennsla
 kl.	as	kl.
 19.15	ta	19.15
 .	.	.
-
 Réttarferð	nven	réttarferð
 í	ao	í
 Þverárrétt	nveo-s	Þverárrétt
 15.	ta	15.
 september	nkeo	september
 .	.	.
-
 Einnig	aa	einnig
 verður	sfg3en	verða
 komið	sþghen	koma
@@ -796,31 +725,26 @@ og	c	og
 að	aþ	að
 Deildartunguhver	nkeþ-s	Deildartunguhver
 .	.	.
-
 Brottför	nven	brottför
 frá	aþ	frá
 Ásgarði	nkeþ-s	Ásgarður
 kl.	as	kl.
 12	ta	12
 .	.	.
-
 Skráning	nven	skráning
 hafin	lvensf	hafinn
 .	.	.
-
 Upplýsingar	nvfn	upplýsing
 á	aþ	á
 skrifstofu	nveþ	skrifstofa
 FEB	as	FEB
 5882111	ta	5882111
 .	.	.
-
 Félagsstarfið	nheng	félagsstarf
 ,	,	,
 Hæðargarði	nkeþ-s	Hæðargarður
 31	ta	31
 .	.	.
-
 Á	ao	á
 morgun	nkeo	morgunn
 böðun	nven	böðun
@@ -836,18 +760,15 @@ félagsvist	nven	félagsvist
 kl.	as	kl.
 14	ta	14
 .	.	.
-
 Hárgreiðslustofan	nveng	hárgreiðslustofa
 opin	lvensf	opinn
 9-16.30	ta	9-16.30
 .	.	.
-
 Landsbankinn	nkengs	Landsbanki
 aðra	foveo	annar
 hverja	foveo	hver
 viku	nveo	vika
 .	.	.
-
 Sviðaveisla	nven	sviðaveisla
 verður	sfg3en	verða
 20	ta	20
@@ -855,7 +776,6 @@ sept.	as	sept.
 kl.	as	kl.
 12	ta	12
 .	.	.
-
 Kynning	nven	kynning
 á	aþ	á
 vetrarstarfi	nheþ	vetrarstarf
@@ -874,7 +794,6 @@ rjómaterta	nven	rjómaterta
 í	aþ	í
 kaffinu	nheþg	kaffi
 .	.	.
-
 Akstursþjónusta	nven	akstursþjónusta
 í	ao	í
 félagsmiðstöðina	nveog	félagsmiðstöð
@@ -884,12 +803,10 @@ Gerðuberg	nhen-s	Gerðuberg
 ,	,	,
 félagsstarf	nhen	félagsstarf
 .	.	.
-
 Á	ao	á
 morgun	nkeo	morgunn
 9-16	ta	9-16
 .	.	.
-
 30	ta	30
 vinnustofur	nvfn	vinnustofa
 opnar	lvfnsf	opinn
@@ -906,7 +823,6 @@ dans	nken	dans
 engin	fohfn	enginn
 skráningargjöld	nhfn	skráningargjald
 .	.	.
-
 Á	ao	á
 morgun	nkeo	morgunn
 hefst	sfm3en	hefja
@@ -914,7 +830,6 @@ glerskuður	nken	glerskurður
 kl.	as	kl.
 9	ta	9
 .	.	.
-
 Huga	nkee-s	Hugi
 Jóhannessonar	nkee-s	Jóhannesson
 opin	lvensf	opinn
@@ -925,26 +840,22 @@ listamaðurinn	nkeng	listamaður
 á	aþ	á
 staðnum	nkeþg	staður
 .	.	.
-
 Gjábakki	nken	gjábakki
 ,	,	,
 Fannborg	nveþ-s	Fannborg
 8	ta	8
 .	.	.
-
 Á	ao	á
 morgun	nkeo	morgunn
 handavinnustofan	nveng	handavinnustofa
 opin	lvensf	opinn
 .	.	.
-
 Leiðbeinandi	nken	leiðbeinandi
 á	aþ	á
 staðnum	nkeþg	staður
 kl.	as	kl.
 9-17	ta	9-17
 .	.	.
-
 Hæg	lvensf	hægur
 leikfimi	nven	leikfimi
 (	(	(
@@ -961,25 +872,21 @@ leikfimi	nven	leikfimi
 hefst	sfm3en	hefja
 17.	ta	17.
 sept.	as	sept.
-
 Skráið	sbg2fn	skrá
 þátttöku	nveo	þátttaka
 sem	ct	sem
 fyrst	aae	fyrr
 .	.	.
-
 Námskeiðin	nhfng	námskeið
 hefjast	sfm3fn	hefja
 þriðjudaginn	nkeog	þriðjudagur
 10.	ta	10.
 sept.	as	sept.
-
 Gullsmári	nken	gullsmári
 ,	,	,
 Gullsmára	nkeþ-s	Gullsmári
 13	ta	13
 .	.	.
-
 Opið	lhensf	opinn
 virka	lkfosf	virkur
 daga	nkfo	dagur
@@ -992,7 +899,6 @@ og	c	og
 heimabakað	lhensf	heimabakaður
 meðlæti	nhen	meðlæti
 .	.	.
-
 Spiluð	sþgven	spila
 félagsvist	nven	félagsvist
 á	aþ	á
@@ -1000,11 +906,9 @@ mánudögum	nkfþ	mánudagur
 kl.	as	kl.
 20.30	ta	20.30
 .	.	.
-
 Hraunbær	nken-s	Hraunbær
 105	ta	105
 .	.	.
-
 Á	ao	á
 morgun	nkeo	morgunn
 kl.	as	kl.
@@ -1030,11 +934,9 @@ kl.	as	kl.
 13	ta	13
 hárgreiðsla	nven	hárgreiðsla
 .	.	.
-
 Hvassaleiti	nheþ-s	Hvassaleiti
 56-58	ta	56-58
 .	.	.
-
 Á	ao	á
 morgun	nkeo	morgunn
 kl.	as	kl.
@@ -1059,20 +961,15 @@ kl.	as	kl.
 13.30	ta	13.30
 ganga	nven	ganga
 .	.	.
-
 Fótaaðgerðir	nvfn	fótaaðgerð
 .	.	.
-
 Allir	fokfn	allur
 velkomnir	lkfnsf	velkominn
 .	.	.
-
 Norðurbrún	nveþ-s	Norðurbrún
 1	ta	1
 .	.	.
-
 Kl.	as	kl.
-
 10-11	ta	10-11
 ganga	nven	ganga
 ,	,	,
@@ -1089,11 +986,9 @@ kl.	as	kl.
 opin	lvensf	opinn
 handavinnustofa	nven	handavinnustofa
 .	.	.
-
 Vesturgata	nven-s	Vesturgata
 7	ta	7
 .	.	.
-
 Á	ao	á
 morgun	nkeo	morgunn
 kl.	as	kl.
@@ -1106,7 +1001,6 @@ kl.	as	kl.
 9.15	ta	9.15
 handavinna	nven	handavinna
 .	.	.
-
 Mánud.	as	Mánud.
 9.	ta	9.
 sept.	as	sept.
@@ -1123,13 +1017,11 @@ og	c	og
 í	aþ	í
 Hvassaleiti	nheþ-s	Hvassaleiti
 .	.	.
-
 Kaffiveitingar	nvfn	kaffiveitingar
 að	aþ	að
 lokinni	lveþsf	lokinn
 sýningu	nveþ	sýning
 .	.	.
-
 Síðan	aa	síðan
 verður	sfg3en	verða
 farið	sþghen	fara
@@ -1146,7 +1038,6 @@ Bryggjuhverfi	nheo-s	bryggjuhverfi
 og	c	og
 fleira	lheovm	margur
 .	.	.
-
 Miðvikud.	as	Miðvikud.
 18.	ta	18.
 sept.	as	sept.
@@ -1160,14 +1051,11 @@ vetrarins	nkeeg	vetur
 skráning	nven	skráning
 hafin	lvensf	hafinn
 .	.	.
-
 Vitatorg	nhen-s	Vitatorg
 .	.	.
-
 Vetrardagskráin	nveng	vetrardagskrá
 komin	sþgven	koma
 .	.	.
-
 Á	ao	á
 morgun	nkeo	morgunn
 kl.	as	kl.
@@ -1204,7 +1092,6 @@ og	c	og
 frjáls	lhfnsf	frjáls
 spil	nhfn	spil
 .	.	.
-
 Laus	lhfnsf	laus
 pláss	nhfn	pláss
 í	aþ	í
@@ -1223,18 +1110,15 @@ mósaík	nveþ	mósaík
 og	c	og
 smiðju	nveþ	smiðja
 .	.	.
-
 Upplýsingar	nvfn	upplýsing
 í	aþ	í
 síma	nkeþ	sími
 5610300	ta	5610300
 .	.	.
-
 Allir	fokfn	allur
 aldurshópar	nkfn	aldurshópur
 velkomnir	lkfnsf	velkominn
 .	.	.
-
 Háteigskirkja	nven-s	Háteigskirkja
 ,	,	,
 eldri	lkfnvm	gamall
@@ -1247,14 +1131,11 @@ kl.	as	kl.
 ,	,	,
 kaffi	nhen	kaffi
 .	.	.
-
 Gullsmárabrids	nhen-s	gullsmárabrids
 .	.	.
-
 Eldri	lkfnvm	gamall
 borgarar	nkfn	borgari
 .	.	.
-
 Brids	nhen	brids
 að	aþ	að
 Gullsmára	nkeþ-s	Gullsmári
@@ -1264,7 +1145,6 @@ mánu-	nkfo	mánudagur
 og	c	og
 fimmtudaga	nkfo	fimmtudagur
 .	.	.
-
 Skráning	nven	skráning
 kl.	as	kl.
 12.45	ta	12.45
@@ -1275,12 +1155,10 @@ stundvíslega	aa	stundvíslega
 kl.	as	kl.
 13	ta	13
 .	.	.
-
 Nýir	lkfnsf	nýr
 þátttakendur	nkfn	þátttakandi
 velkomnir	lkfnsf	velkominn
 .	.	.
-
 Sjálfsbjörg	nven-s	Sjálfsbjörg
 félag	nhen	félag
 fatlaðra	lkfesf	fatlaður
@@ -1290,18 +1168,15 @@ höfuðborgarsvæðinu	nheþg	höfuðborgarsvæði
 Hátúni	nheþ-s	Hátún
 12	ta	12
 .	.	.
-
 Á	ao	á
 morgun	nkeo	morgunn
 kl.	as	kl.
 19	ta	19
 bridge	e	bridge
 .	.	.
-
 ITC	as	ITC
 harpa	nven	harpa
 .	.	.
-
 Fyrsti	lkenve	fyrstur
 fundur	nken	fundur
 vetrarins	nkeeg	vetur
@@ -1317,7 +1192,6 @@ hefst	sfm3en	hefja
 kl.	as	kl.
 20	ta	20
 .	.	.
-
 Sinawik	e	Sinawik
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
@@ -1332,14 +1206,12 @@ Sögu	nveþ-s	Saga
 kl.	as	kl.
 20	ta	20
 .	.	.
-
 (	(	(
 Lúk.	as	Lúk.
 14	ta	14
 ,	,	,
 34.	ta	34.
 )	)	)
-
 Þú	fp2en	þú
 sæla	lvenvf	sæll
 heimsins	nkeeg	heimur
@@ -1359,7 +1231,6 @@ og	c	og
 læknar	sfg3en	lækna
 sár	nhfo	sár
 .	.	.
-
 Æ	au	æ
 ,	,	,
 hverf	sbg2en	hverfa
@@ -1385,7 +1256,6 @@ blæði	svg3en	blæða
 hjartans	nheeg	hjarta
 sár	nhen	sár
 .	.	.
-
 Mér	fp1eþ	ég
 himneskt	lhensf	himneskur
 ljós	nhen	ljós
@@ -1413,10 +1283,8 @@ og	c	og
 huggast	snm	hugga
 læt	sfg1en	láta
 .	.	.
-
 Kristján	nken-s	Kristján
 Jónsson	nken-s	Jónsson
-
 Skipin	nhfng	skip
 Reykjavíkurhöfn	nven-s	Reykjavíkurhöfn
 :	:	:
@@ -1428,14 +1296,12 @@ fer	sfg3en	fara
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Bjarni	nken-s	Bjarni
 Sæmundsson	nken-s	Sæmundsson
 fer	sfg3en	fara
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Hafnarfjarðarhöfn	nven-s	Hafnarfjarðarhöfn
 :	:	:
 Celo	e	Celo
@@ -1445,13 +1311,11 @@ fór	sfg3eþ	fara
 í	aa	í
 gær	aa	gær
 .	.	.
-
 Örvar	nken-s	Örvar
 kom	sfg3eþ	koma
 í	aa	í
 gær	aa	gær
 .	.	.
-
 Mannamót	nhfn	mannamót
 Aflagrandi	nken-s	Aflagrandi
 40	ta	40
@@ -1466,7 +1330,6 @@ kl.	as	kl.
 14	ta	14
 bingó	nhen	bingó
 .	.	.
-
 Árskógar	nkfn-s	Árskógar
 4.	ta	4.
 kl.	as	kl.
@@ -1484,11 +1347,9 @@ kl.	as	kl.
 10-16	ta	10-16
 púttvöllurinn	nkeng	púttvöllur
 .	.	.
-
 Bólstaðarhlíð	nven-s	Bólstaðarhlíð
 43	ta	43
 .	.	.
-
 Kl.	as	kl.
 8-16	ta	8-16
 ,	,	,
@@ -1510,7 +1371,6 @@ kl.	as	kl.
 13-16	ta	13-16
 spilað	sþghen	spila
 .	.	.
-
 Eldri	lkfnvm	gamall
 borgarar	nkfn	borgari
 í	aþ	í
@@ -1520,7 +1380,6 @@ Kjalarnesi	nheþ-s	Kjalarnes
 og	c	og
 Kjós	nveþ-s	Kjós
 .	.	.
-
 Félagsstarfið	nheng	félagsstarf
 er	sfg3en	vera
 á	aþ	á
@@ -1528,14 +1387,12 @@ mánu-	nkfþ	mánudagur
 og	c	og
 fimmtudögum	nkfþ	fimmtudagur
 .	.	.
-
 Mánud	as	mánud.
 :	:	:
 Kl.	as	kl.
 16	ta	16
 leikfimi	nven	leikfimi
 .	.	.
-
 Fimmtud	as	fimmtud.
 :	:	:
 kl.	as	kl.
@@ -1565,7 +1422,6 @@ DAMOS	nxeþ-s	Damos
 kl.	as	kl.
 17-19	ta	17-19
 .	.	.
-
 Laugardagar	nkfn	laugardagur
 :	:	:
 kl.	as	kl.
@@ -1579,14 +1435,12 @@ okt.	as	okt.
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Námskeið	nhen	námskeið
 í	aþ	í
 postulínsmálun	nveþ	postulínsmálun
 byrjar	sfg3en	byrja
 18.	ta	18.
 nóv.	as	nóv.
-
 Uppl.	as	uppl.
 og	c	og
 skráningar	nvfn	skráning
@@ -1594,12 +1448,10 @@ Svanhildur	nven-s	Svanhildur
 s.	as	s.
 5868014	ta	5868014
 e.h.	as	e.h.
-
 Félagsstarfið	nheng	félagsstarf
 Dalbraut	nveþ-s	Dalbraut
 18-20	ta	18-20
 .	.	.
-
 Kl.	as	kl.
 9-12	ta	9-12
 aðstoð	nven	aðstoð
@@ -1620,14 +1472,12 @@ daga	nkfo	dagur
 nema	c	nema
 mánudaga	nkfo	mánudagur
 .	.	.
-
 Félag	nhen-s	Félag
 eldri	lkfevm	gamall
 borgara	nkfe	borgari
 í	aþ	í
 Kópavogi	nkeþ-s	Kópavogur
 .	.	.
-
 Félagsvist	nven	félagsvist
 spiluð	sþgven	spila
 í	aþ	í
@@ -1639,7 +1489,6 @@ Gjábakka	nkeþ-s	Gjábakki
 kl.	as	kl.
 20.30	ta	20.30
 .	.	.
-
 FEBK	as	FEBK
 stendur	sfg3en	standa
 fyrir	aþ	fyrir
@@ -1653,7 +1502,6 @@ kl.	as	kl.
 í	aþ	í
 Gjábakka	nkeþ-s	Gjábakki
 .	.	.
-
 Dagskrá	nven	dagskrá
 :	:	:
 Hljóðfæraleikur	nken	hljóðfæraleikur
@@ -1662,12 +1510,10 @@ upplestur	nken	upplestur
 og	c	og
 fleira	lhenvm	margur
 .	.	.
-
 Kaffi	nhen	kaffi
 og	c	og
 meðlæti	nhen	meðlæti
 .	.	.
-
 Farin	sþgven	fara
 verður	sfg3en	verða
 hópferð	nven	hópferð
@@ -1691,7 +1537,6 @@ Akureyri	nveþ-s	Akureyri
 laugard.	as	laugard.
 12	ta	12
 okt.	as	okt.
-
 Mánud.	as	Mánud.
 16.	ta	16.
 sept.	as	sept.
@@ -1704,7 +1549,6 @@ ferð	nven	ferð
 í	aþ	í
 Borgarfirði	nkeþ-s	Borgarfjörður
 .	.	.
-
 Lagt	sþghen	leggja
 af	aþ	af
 stað	nkeþ	staður
@@ -1723,7 +1567,6 @@ er	sfg3en	vera
 kl.	as	kl.
 18	ta	18
 .	.	.
-
 Þátttökulistar	nkfn	þátttökulisti
 og	c	og
 upplýsingar	nvfn	upplýsing
@@ -1766,15 +1609,12 @@ s	x	s
 5540999	ta	5540999
 )	)	)
 .	.	.
-
 Félagsstarfið	nheng	félagsstarf
 ,	,	,
 Lönguhlíð	nveþ-s	Langahlíð
 3	ta	3
 .	.	.
-
 Kl.	as	kl.
-
 8	ta	8
 böðun	nven	böðun
 ,	,	,
@@ -1794,15 +1634,12 @@ leikfimi	nven	leikfimi
 kl.	as	kl.
 13	ta	13
 .	.	.
-
 Opið	lhensf	opinn
 hús	nhen	hús
-
 spilað	sþghen	spila
 á	ao	á
 spil	nhfo	spil
 .	.	.
-
 Félag	nhen-s	Félag
 eldri	lkfevm	gamall
 borgara	nkfe	borgari
@@ -1813,7 +1650,6 @@ Hraunseli	nheþ-s	Hraunsel
 Flatahrauni	nheþ-s	Flatahraun
 3	ta	3
 .	.	.
-
 Brids	nhen	brids
 kl.	as	kl.
 13.30	ta	13.30
@@ -1823,7 +1659,6 @@ Hrafnistuvelli	nkeþ-s	Hrafnistuvöllur
 kl.	as	kl.
 14-16	ta	14-16
 .	.	.
-
 Á	ao	á
 morgun	nkeo	morgunn
 ganga	nven	ganga
@@ -1838,7 +1673,6 @@ Firðinum	nkeþgs	Fjörður
 kl.	as	kl.
 9.50	ta	9.50
 .	.	.
-
 Biljardstofan	nveng	biljarðstofa
 opin	lvensf	opinn
 virka	lkfosf	virkur
@@ -1851,7 +1685,6 @@ skráning	nven	skráning
 í	aþ	í
 Hraunseli	nheþ-s	Hraunsel
 .	.	.
-
 Leikfimi	nven	leikfimi
 eldri	lkfevm	gamall
 borgara	nkfe	borgari
@@ -1876,7 +1709,6 @@ Hraunseli	nheþ-s	Hraunsel
 s.	as	s.
 5550142	ta	5550142
 .	.	.
-
 Félag	nhen-s	Félag
 eldri	lkfevm	gamall
 borgara	nkfe	borgari
@@ -1886,7 +1718,6 @@ Reykjavík	nveþ-s	Reykjavík
 Ásgarði	nkeþ-s	Ásgarður
 Glæsibæ	nkeþ-s	Glæsibær
 .	.	.
-
 Kaffistofan	nveng	kaffistofa
 opin	lvensf	opinn
 virka	lkfosf	virkur
@@ -1895,7 +1726,6 @@ frá	aþ	frá
 kl.	as	kl.
 10-13	ta	10-13
 .	.	.
-
 Kaffi	nhen	kaffi
 ,	,	,
 blöðin	nhfng	blað
@@ -1904,26 +1734,22 @@ matur	nken	matur
 í	aþ	í
 hádegi	nheþ	hádegi
 .	.	.
-
 Félagið	nheng	félag
 hefur	sfg3en	hafa
 opnað	ssg	opna
 heimasíðu	nveo	heimasíða
 www.feb.is	v	www.feb.is
 .	.	.
-
 Réttarferð	nven	réttarferð
 í	ao	í
 Þverárrétt	nveo-s	Þverárrétt
 15.	ta	15.
 september	nkeo	september
 .	.	.
-
 Leiðsögumaður	nken	leiðsögumaður
 Sigurður	nken-s	Sigurður
 Kristinsson	nken-s	Kristinsson
 .	.	.
-
 Einnig	aa	einnig
 verður	sfg3en	verða
 komið	sþghen	koma
@@ -1933,12 +1759,10 @@ og	c	og
 að	aþ	að
 Deildartunguhver	nkeþ-s	Deildartunguhver
 .	.	.
-
 Selt	sþghen	selja
 verður	sfg3en	verða
 réttarkaffi	nhen	réttarkaffi
 .	.	.
-
 Þeir	fpkfn	hann
 sem	ct	sem
 eiga	sfg3fn	eiga
@@ -1950,7 +1774,6 @@ miðann	nkeog	miði
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Brottför	nven	brottför
 frá	aþ	frá
 Ásgarði	nkeþ-s	Ásgarður
@@ -1958,7 +1781,6 @@ Glæsibæ	nkeþ-s	Glæsibær
 kl.	as	kl.
 12	ta	12
 .	.	.
-
 Sunnudagur	nken	sunnudagur
 :	:	:
 Dansleikur	nken	dansleikur
@@ -1969,7 +1791,6 @@ leikur	sfg3en	leika
 fyrir	aþ	fyrir
 dansi	nkeþ	dans
 .	.	.
-
 Silfurlínan	nveng	silfurlína
 er	sfg3en	vera
 opin	lvensf	opinn
@@ -1980,7 +1801,6 @@ miðvikudögum	nkfþ	miðvikudagur
 kl.	as	kl.
 10-12	ta	10-12
 .	.	.
-
 Skrifstofa	nven	skrifstofa
 félagsins	nheeg	félag
 er	sfg3en	vera
@@ -1991,7 +1811,6 @@ Faxafen	nheo-s	Faxafen
 s.	as	s.
 5882111	ta	5882111
 .	.	.
-
 Félagsstarfið	nheng	félagsstarf
 er	sfg3en	vera
 áfram	aa	áfram
@@ -1999,23 +1818,19 @@ er	sfg3en	vera
 Ásgarði	nkeþ-s	Ásgarður
 Glæsibæ	nkeþ-s	Glæsibær
 .	.	.
-
 Upplýsingar	nvfn	upplýsing
 á	aþ	á
 skrifstofu	nveþ	skrifstofa
 FEB.	as	FEB.
-
 Félagsstarfið	nheng	félagsstarf
 Hæðargarði	nkeþ-s	Hæðargarður
 31	ta	31
 .	.	.
-
 Kl.	as	kl.
 9-12	ta	9-12
 böðun	nven	böðun
 ,	,	,
 kl.	as	kl.
-
 9-16.30	ta	9-16.30
 opin	lvensf	opinn
 vinnustofa	nven	vinnustofa
@@ -2044,7 +1859,6 @@ bridge	e	bridge
 og	c	og
 spilamennska	nven	spilamennska
 .	.	.
-
 Sviðaveisla	nven	sviðaveisla
 verður	sfg3en	verða
 20.	ta	20.
@@ -2052,12 +1866,10 @@ sept.	as	sept.
 kl.	as	kl.
 12	ta	12
 .	.	.
-
 Gerðuberg	nhen-s	Gerðuberg
 ,	,	,
 félagsstarf	nhen	félagsstarf
 .	.	.
-
 Kl.	as	kl.
 9-16.30	ta	9-16.30
 vinnustofur	nvfn	vinnustofa
@@ -2084,25 +1896,21 @@ kóræfing	nven	kóræfing
 hjá	aþ	hjá
 Gerðubergskórnum	nkeþgs	Gerðubergskór
 .	.	.
-
 Nýir	lkfnsf	nýr
 félagar	nkfn	félagi
 velkomnir	lkfnsf	velkominn
 .	.	.
-
 Síðustu	lkfnve	síðari
 sýningadagar	nkfn	sýningadagur
 hjá	aþ	hjá
 Huga	nkeþ-s	Hugi
 Jóhannessyni	nkeþ-s	Jóhannesson
 .	.	.
-
 Veitingar	nvfn	veiting
 í	aþ	í
 Kaffi	nheþ-s	Kaffi
 Bergi	nheþ-s	Berg
 .	.	.
-
 Allar	fovfn	allur
 upplýsingar	nvfn	upplýsing
 á	aþ	á
@@ -2112,13 +1920,11 @@ og	c	og
 síma	nkeþ	sími
 575-7720	ta	575-7720
 .	.	.
-
 Gjábakki	nken	gjábakki
 ,	,	,
 Fannborg	nveþ-s	Fannborg
 8	ta	8
 .	.	.
-
 Kl.	as	kl.
 9.30	ta	9.30
 málm-	nven	málmsmíði
@@ -2133,13 +1939,11 @@ kl.	as	kl.
 13	ta	13
 bókband	nhen	bókband
 .	.	.
-
 Gullsmári	nken	gullsmári
 ,	,	,
 Gullsmára	nkeþ-s	Gullsmári
 13	ta	13
 .	.	.
-
 Opið	lhensf	opinn
 virka	lkfosf	virkur
 daga	nkfo	dagur
@@ -2152,11 +1956,9 @@ og	c	og
 heimabakað	lhensf	heimabakaður
 meðlæti	nhen	meðlæti
 .	.	.
-
 Hraunbær	nken-s	Hraunbær
 105	ta	105
 .	.	.
-
 Kl.	as	kl.
 9	ta	9
 handavinna	nven	handavinna
@@ -2167,14 +1969,12 @@ fótaaðgerð	nven	fótaaðgerð
 og	c	og
 hárgreiðsla	nven	hárgreiðsla
 .	.	.
-
 Fræðslu-	nken	fræðslufundur
 og	c	og
 kynningarfundur	nken	kynningarfundur
 kl.	as	kl.
 14	ta	14
 .	.	.
-
 Dagskrá	nven	dagskrá
 :	:	:
 Lyf	nhfn	lyf
@@ -2182,11 +1982,9 @@ og	c	og
 inntaka	nven	inntaka
 þeirra	fphfe	það
 .	.	.
-
 -	-	-
 Beinþynning	nven	beinþynning
 .	.	.
-
 Lyfja-	nkfn	lyfjafræðingur
 og	c	og
 hjúkrunarfræðingar	nkfn	hjúkrunarfræðingur
@@ -2207,7 +2005,6 @@ til	ae	til
 að	cn	að
 mæta	sng	mæta
 .	.	.
-
 Kaffi	nhen	kaffi
 og	c	og
 meðlæti	nhen	meðlæti
@@ -2215,15 +2012,12 @@ verður	sfg3en	verða
 á	aþ	á
 boðstólum	nkfþ	boðstólar
 .	.	.
-
 Allir	fokfn	allur
 velkomnir	lkfnsf	velkominn
 .	.	.
-
 Hvassaleiti	nheþ-s	Hvassaleiti
 56-58	ta	56-58
 .	.	.
-
 Kl.	as	kl.
 9	ta	9
 böðun	nven	böðun
@@ -2236,11 +2030,9 @@ Fótaaðgerð	nven	fótaaðgerð
 ,	,	,
 hársnyrting	nven	hársnyrting
 .	.	.
-
 Allir	fokfn	allur
 velkomnir	lkfnsf	velkominn
 .	.	.
-
 Undir	aþ	undir
 liðnum	nkeþg	liður
 Mæðramorgun	x	mæðramorgunn
@@ -2269,7 +2061,6 @@ hver	foven	hver
 við	ao	við
 aðra	foveo	annar
 .	.	.
-
 Við	fp1fn	ég
 höfum	sfg1fn	hafa
 góða	lveosf	góður
@@ -2279,7 +2070,6 @@ barnavagna	nkfo	barnavagn
 og	c	og
 kerrur	nvfo	kerra
 .	.	.
-
 Börnin	nhfng	barn
 geta	sfg3fn	geta
 sofið	ssg	sofa
@@ -2287,11 +2077,9 @@ sofið	ssg	sofa
 ef	c	ef
 vill	sfg3en	vilja
 .	.	.
-
 Norðurbrún	nveþ-s	Norðurbrún
 1	ta	1
 .	.	.
-
 Kl.	as	kl.
 9-13	ta	9-13
 tréskurður	nken	tréskurður
@@ -2304,11 +2092,9 @@ kl.	as	kl.
 10-11	ta	10-11
 boccia	e	boccia
 .	.	.
-
 Vesturgata	nven-s	Vesturgata
 7	ta	7
 .	.	.
-
 Kl.	as	kl.
 9-16	ta	9-16
 fótaaðgerðir	nvfn	fótaaðgerð
@@ -2336,7 +2122,6 @@ kaffiveitingar	nvfn	kaffiveitingar
 allir	fokfn	allur
 velkomnir	lkfnsf	velkominn
 .	.	.
-
 Leikfimikennsla	nven	leikfimikennsla
 byrjar	sfg3en	byrja
 þriðjud.	as	þriðjud.
@@ -2355,10 +2140,8 @@ kl.	as	kl.
 Theodóra	nven-s	Theodóra
 Emilsdóttir	nven-s	Emilsdóttir
 .	.	.
-
 Vitatorg	nhen-s	Vitatorg
 .	.	.
-
 Kl.	as	kl.
 8.	ta	8.
 45	ta	45
@@ -2390,11 +2173,9 @@ kl.	as	kl.
 13.30	ta	13.30
 bingó	nhen	bingó
 .	.	.
-
 Vetrardagskráin	nveng	vetrardagskrá
 komin	sþgven	koma
 .	.	.
-
 Laus	lhfnsf	laus
 pláss	nhfn	pláss
 í	aþ	í
@@ -2413,29 +2194,24 @@ mósaik	nveþ	mósaik
 og	c	og
 smiðju	nveþ	smiðja
 .	.	.
-
 Upplýsingar	nvfn	upplýsing
 í	aþ	í
 síma	nkeþ	sími
 5610300	ta	5610300
 .	.	.
-
 Allir	fokfn	allur
 aldurshópar	nkfn	aldurshópur
 velkomnir	lkfnsf	velkominn
 .	.	.
-
 Hallgrímskirkja	nven	hallgrímskirkja
 ,	,	,
 eldri	lkfnvm	gamall
 borgarar	nkfn	borgari
 .	.	.
-
 Vetrarstarfið	nheng	vetrarstarf
 er	sfg3en	vera
 hafið	sþghen	hefja
 .	.	.
-
 Leikfimi	nven	leikfimi
 þriðjudaga	nkfo	þriðjudagur
 kl.	as	kl.
@@ -2447,37 +2223,31 @@ spil	nhen	spil
 og	c	og
 spjall	nhen	spjall
 .	.	.
-
 Uppl.	as	uppl.
 gefur	sfg3en	gefa
 Dagbjört	nven-s	Dagbjört
 s.	as	s.
 5101034	ta	5101034
 .	.	.
-
 Bridsdeild	nven	bridsdeild
 FEBK	as	FEBK
 Gjábakka	nkeþ-s	Gjábakki
 .	.	.
-
 Brids	nhen	brids
 kl.	as	kl.
 13.15	ta	13.15
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Hana-nú	aa	hananú
 ,	,	,
 Kópavogi	nkeþ-s	Kópavogur
 .	.	.
-
 Laugardagsgangan	nveng	laugardagsganga
 verður	sfg3en	verða
 á	ao	á
 morgun	nkeo	morgunn
 .	.	.
-
 Lagt	sþghen	leggja
 af	aþ	af
 stað	nkeþ	staður
@@ -2490,14 +2260,12 @@ Fannborg	nveþ-s	Fannborg
 kl.	as	kl.
 10	ta	10
 .	.	.
-
 Gott	lhensf	góður
 fólk	nhen	fólk
 ,	,	,
 gott	lhensf	góður
 rölt	nhen	rölt
 .	.	.
-
 Gengið	sþghen	ganga
 frá	aþ	frá
 Gullsmára	nkeþ-s	Gullsmári
@@ -2508,13 +2276,11 @@ kl.	as	kl.
 á	aþ	á
 laugardögum	nkfþ	laugardagur
 .	.	.
-
 Félag	nhen-s	Félag
 kennara	nkfe	kennari
 á	aþ	á
 eftirlaunum	nhfþ	eftirlaun
 .	.	.
-
 Félagsvistin	nveng	félagsvist
 laugard.	as	laugard.
 14.	ta	14.
@@ -2544,7 +2310,6 @@ seinasta	lheþve	seinn
 fréttabréfi	nheþ	fréttabréf
 FKE	as	FKE
 .	.	.
-
 Þórir	nken-s	Þórir
 Sigurðsson	nken-s	Sigurðsson
 segir	sfg3en	segja
@@ -2555,12 +2320,10 @@ kennara	nkfe	kennari
 á	aþ	á
 eftirlaunum	nhfþ	eftirlaun
 .	.	.
-
 Karlakórinn	nkeng	karlakór
 Kátir	lkfnsf	kátur
 karlar	nkfn	karl
 .	.	.
-
 Hefur	sfg3en	hefja
 æfingar	nvfo	æfing
 þriðjudaginn	nkeog	þriðjudagur
@@ -2575,12 +2338,10 @@ og	c	og
 Árskógum	nkfþ-s	Árskógar
 4	ta	4
 .	.	.
-
 Söngstjóri	nken	söngstjóri
 Úlrik	nken-s	Úlrik
 Ólason	nken-s	Ólason
 .	.	.
-
 Tekið	sþghen	taka
 við	aþ	við
 pöntunum	nvfþ	pöntun
@@ -2599,14 +2360,12 @@ s.	as	s.
 5532725	ta	5532725
 Stefán	nken-s	Stefán
 .	.	.
-
 Ungt	lhensf	ungur
 fólk	nhen	fólk
 með	ao	með
 ungana	nkfog	ungi
 sína	fekfo	sinn
 .	.	.
-
 Hitt	fahen	hinn
 húsið	nheng	hús
 býður	sfg3en	bjóða
@@ -2638,7 +2397,6 @@ eldri	lkfevm	gamall
 borgara	nkfe	borgari
 Suðurnesjum	nhfþ-s	Suðurnes
 .	.	.
-
 Bingó	nhen	bingó
 í	aþ	í
 Selinu	nheþgs	Sel
@@ -2651,7 +2409,6 @@ mánudagskvöld	nhfo	mánudagskvöld
 kl.	as	kl.
 20	ta	20
 .	.	.
-
 Minningarkort	nhfn	minningarkort
 Minningarspjöld	nhfn	minningarspjald
 Kristniboðssambandsins	nheegs	kristniboðssamband
@@ -2672,14 +2429,12 @@ Langholtsskóla	nkeþ-s	Langholtsskóli
 sími	nken	sími
 588-8899	ta	588-8899
 .	.	.
-
 (	(	(
 Gal.	as	Gal.
 5	ta	5
 ,	,	,
 1.	ta	1.
 )	)	)
-
 Skipin	nhfng	skip
 Reykjavíkurhöfn	nven-s	Reykjavíkurhöfn
 :	:	:
@@ -2690,7 +2445,6 @@ koma	sfg3fn	koma
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Hafnarfjarðarhöfn	nven-s	Hafnarfjarðarhöfn
 :	:	:
 Bitland	nhen-s	Bitland
@@ -2698,19 +2452,16 @@ kemur	sfg3en	koma
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Mannamót	nhfn	mannamót
 Aflagrandi	nken-s	Aflagrandi
 40	ta	40
 .	.	.
-
 Haustlitaferð	nven	haustlitaferð
 á	ao	á
 Þingvöll	nkeo-s	Þingvöllur
 miðvikudaginn	nkeog	miðvikudagur
 18	ta	18
 sept.	as	sept.
-
 Farið	sþghen	fara
 frá	aþ	frá
 Aflagranda	nkeþ-s	Aflagrandi
@@ -2730,7 +2481,6 @@ Kjalarnesi	nheþ-s	Kjalarnes
 og	c	og
 Kjós	nveþ-s	Kjós
 !	!	!
-
 Félagsstarfið	nheng	félagsstarf
 er	sfg3en	vera
 á	aþ	á
@@ -2738,14 +2488,12 @@ mánu-	nkfþ	mánudagur
 og	c	og
 fimmtudögum	nkfþ	fimmtudagur
 .	.	.
-
 Mánudagar	nkfn	mánudagur
 :	:	:
 Kl.	as	kl.
 16	ta	16
 leikfimi	nven	leikfimi
 .	.	.
-
 Laugardagar	nkfn	laugardagur
 :	:	:
 kl.	as	kl.
@@ -2759,7 +2507,6 @@ okt.	as	okt.
 kl.	as	kl.
 11	ta	11
 .	.	.
-
 Fimmtudagar	nkfn	fimmtudagur
 :	:	:
 kl.	as	kl.
@@ -2794,7 +2541,6 @@ postulínsmálun	nveþ	postulínsmálun
 byrjar	sfg3en	byrja
 18.	ta	18.
 nóv.	as	nóv.
-
 Uppl.	as	uppl.
 og	c	og
 skráningar	nvfn	skráning
@@ -2806,7 +2552,6 @@ Svanhildi	nveþ-s	Svanhildur
 s.	as	s.
 5868014	ta	5868014
 e.h.	as	e.h.
-
 Félag	nhen-s	Félag
 eldri	lkfevm	gamall
 borgara	nkfe	borgari
@@ -2818,7 +2563,6 @@ Hraunseli	nheþ-s	Hraunsel
 Flatahrauni	nheþ-s	Flatahraun
 3	ta	3
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 morgungangan	nveng	morgunganga
@@ -2835,7 +2579,6 @@ kl.	as	kl.
 Fimmtudaginn	nkeog	fimmtudagur
 19.	ta	19.
 sept.	as	sept.
-
 Opið	lhensf	opinn
 hús	nhen	hús
 í	aþ	í
@@ -2859,7 +2602,6 @@ beinþynningu	nveo	beinþynning
 og	c	og
 beinþéttnimælingu	nveo	beinþéttnimæling
 .	.	.
-
 Harmonikuleikur	nken	harmonikuleikur
 og	c	og
 söngur	nken	söngur
@@ -2868,7 +2610,6 @@ kaffi	nhen	kaffi
 á	aa	á
 eftir	aa	eftir
 .	.	.
-
 Einig	x	einnig
 verður	sfg3en	verða
 dagskrá	nven	dagskrá
@@ -2877,7 +2618,6 @@ félagsins	nheeg	félag
 vetur	nkeo	vetur
 kynnt	sþgven	kynna
 .	.	.
-
 Leikfimi	nven	leikfimi
 eldri	lkfevm	gamall
 borgara	nkfe	borgari
@@ -2905,7 +2645,6 @@ Hraunseli	nheþ-s	Hraunsel
 sími	nken	sími
 5550142	ta	5550142
 .	.	.
-
 Félag	nhen-s	Félag
 eldri	lkfevm	gamall
 borgara	nkfe	borgari
@@ -2927,7 +2666,6 @@ Kirkjuhvoli	nkeþ-s	Kirkjuhvoll
 kl.	as	kl.
 12	ta	12
 .	.	.
-
 Heimsókn	nven	heimsókn
 til	ae	til
 félags	nhee	félag
@@ -2943,7 +2681,6 @@ leiðsögn	nveþ	leiðsögn
 Bjarnfríðar	nvee-s	Bjarnfríður
 Leósdóttur	nvee-s	Leósdóttir
 .	.	.
-
 Upplýsingar	nvfo	upplýsing
 gefur	sfg3en	gefa
 Arndís	nven-s	Arndís
@@ -2954,7 +2691,6 @@ s.	as	s.
 ,	,	,
 8957826	ta	8957826
 .	.	.
-
 Garðakórinn	nkengs	Garðakór
 ,	,	,
 kór	nken	kór
@@ -2986,7 +2722,6 @@ raddir	nvfo	rödd
 sérstaklega	aa	sérstaklega
 karlaraddir	nvfo	karlarödd
 .	.	.
-
 Upplýsingar	nvfo	upplýsing
 gefur	sfg3en	gefa
 Hólmfríður	nven-s	Hólmfríður
@@ -2995,7 +2730,6 @@ Guðmundsdóttir	nven-s	Guðmundsdóttir
 s.	as	s.
 6566424	ta	6566424
 .	.	.
-
 Félag	nhen-s	Félag
 eldri	lkfevm	gamall
 borgara	nkfe	borgari
@@ -3005,7 +2739,6 @@ Reykjavík	nveþ-s	Reykjavík
 Ásgarði	nkeþ-s	Ásgarður
 Glæsibæ	nkeþ-s	Glæsibær
 .	.	.
-
 Kaffistofan	nveng	kaffistofa
 opin	lvensf	opinn
 virka	lkfosf	virkur
@@ -3014,7 +2747,6 @@ frá	aþ	frá
 kl.	as	kl.
 10-13	ta	10-13
 .	.	.
-
 Kaffi	nhen	kaffi
 ,	,	,
 blöðin	nhfng	blað
@@ -3023,14 +2755,12 @@ matur	nken	matur
 í	aþ	í
 hádegi	nheþ	hádegi
 .	.	.
-
 Félagið	nheng	félag
 hefur	sfg3en	hafa
 opnað	ssg	opna
 heimasíðu	nveo	heimasíða
 www.feb.is	v	www.feb.is
 .	.	.
-
 Réttarferð	nven	réttarferð
 í	ao	í
 Þverárrétt	nveo-s	þverárrétt
@@ -3038,12 +2768,10 @@ sunnudaginn	nkeog	sunnudagur
 15.	ta	15.
 september	nkeo	september
 .	.	.
-
 Leiðsögumaður	nken	leiðsögumaður
 Sigurður	nken-s	Sigurður
 Kristinsson	nken-s	Kristinsson
 .	.	.
-
 Einnig	aa	einnig
 verður	sfg3en	verða
 komið	sþghen	koma
@@ -3053,17 +2781,14 @@ og	c	og
 að	aþ	að
 Deildartunguhver	nkeþ-s	Deildartunguhver
 .	.	.
-
 Selt	sþghen	selja
 verður	sfg3en	verða
 réttarkaffi	nhen	réttarkaffi
 .	.	.
-
 Kaffihlaðborð	nhen	kaffihlaðborð
 í	aþ	í
 Munaðarnesi	nheþ-s	Munaðarnes
 .	.	.
-
 Brottför	nven	brottför
 frá	aþ	frá
 Ásgarði	nkeþ-s	Ásgarður
@@ -3071,7 +2796,6 @@ Glæsibæ	nkeþ-s	Glæsibær
 kl.	as	kl.
 12	ta	12
 .	.	.
-
 Sunnudagur	nken	sunnudagur
 :	:	:
 Athugið	sbg2fn	athuga
@@ -3085,7 +2809,6 @@ leikur	sfg3en	leika
 fyrir	aþ	fyrir
 dansi	nkeþ	dans
 .	.	.
-
 Mánudagur	nken	mánudagur
 :	:	:
 Brids	nhen	brids
@@ -3095,14 +2818,12 @@ Danskennsla	nven	danskennsla
 fellur	sfg3en	falla
 niður	aa	niður
 .	.	.
-
 Þriðjudagur	nken	þriðjudagur
 :	:	:
 Skák	nven	skák
 kl.	as	kl.
 13	ta	13
 .	.	.
-
 Miðvikudagur	nken	miðvikudagur
 :	:	:
 Göngu-hrólfar	nkfn-s	Göngu-Hrólfar
@@ -3113,19 +2834,16 @@ Glæsibæ	nkeþ-s	Glæsibær
 kl.	as	kl.
 10	ta	10
 .	.	.
-
 Söngfélag	nhen	söngfélag
 FEB	as	FEB
 kóræfing	nven	kóræfing
 kl.	as	kl.
 17	ta	17
 .	.	.
-
 Línudanskennsla	nven	línudanskennsla
 fellur	sfg3en	falla
 niður	aa	niður
 .	.	.
-
 Silfurlínan	nveng	silfurlína
 er	sfg3en	vera
 opin	lvensf	opinn
@@ -3136,7 +2854,6 @@ miðvikudögum	nkfþ	miðvikudagur
 kl.	as	kl.
 10-12	ta	10-12
 .	.	.
-
 Skrifstofa	nven	skrifstofa
 félagsins	nheeg	félag
 er	sfg3en	vera
@@ -3148,7 +2865,6 @@ Faxafeni	nheþ-s	Faxafen
 s.	as	s.
 5882111	ta	5882111
 .	.	.
-
 Félagsstarfið	nheng	félagsstarf
 er	sfg3en	vera
 áfram	aa	áfram
@@ -3156,17 +2872,14 @@ er	sfg3en	vera
 Ásgarði	nkeþ-s	Ásgarður
 Glæsibæ	nkeþ-s	Glæsibær
 .	.	.
-
 Upplýsingar	nvfn	upplýsing
 á	aþ	á
 skrifstofu	nveþ	skrifstofa
 FEB.	as	FEB.
-
 Gerðuberg	nhen-s	Gerðuberg
 ,	,	,
 félagsstarf	nhen	félagsstarf
 .	.	.
-
 Sund	nhen	sund
 og	c	og
 leikfimiæfingar	nvfn	leikfimiæfing
@@ -3190,7 +2903,6 @@ föstudögum	nkfþ	föstudagur
 kl.	as	kl.
 10	ta	10
 .	.	.
-
 Síðasta	lvenve	síðari
 sýningarhelgi	nven	sýningarhelgi
 á	aþ	á
@@ -3202,19 +2914,16 @@ listamaðurinn	nkeng	listamaður
 á	aþ	á
 staðnum	nkeþg	staður
 .	.	.
-
 Veitingar	nvfn	veiting
 í	aþ	í
 Kaffi	nheþ-s	Kaffi
 Berg	nheþ-s	berg
 .	.	.
-
 Gullsmári	nken	gullsmári
 ,	,	,
 Gullsmára	nkeþ-s	Gullsmári
 13	ta	13
 .	.	.
-
 Í	aþ	í
 tilefni	nheþ	tilefni
 af	aþ	af
@@ -3236,7 +2945,6 @@ Gullsmára	nkeþ-s	Gullsmári
 í	aþ	í
 september	nkeþ	september
 .	.	.
-
 Sýningin	nveng	sýning
 er	sfg3en	vera
 opin	lvensf	opinn
@@ -3250,11 +2958,9 @@ alla	fokfo	allur
 virka	lkfosf	virkur
 daga	nkfo	dagur
 .	.	.
-
 Allir	fokfn	allur
 velkomnir	lkfnsf	velkominn
 .	.	.
-
 Heitt	lhensf	heitur
 á	aþ	á
 könnunni	nveþg	kanna
@@ -3262,13 +2968,11 @@ og	c	og
 heimabakað	lhensf	heimabakaður
 meðlæti	nhen	meðlæti
 .	.	.
-
 Félag	nhen-s	Félag
 eldri	lkfevm	gamall
 borgara	nkfe	borgari
 Kópavogi	nkeþ-s	Kópavogur
 .	.	.
-
 Púttað	sþghen	pútta
 á	aþ	á
 Listatúni	nheþ-s	Listatún
@@ -3280,7 +2984,6 @@ laugardag	nkeo	laugardagur
 kl.	as	kl.
 10.30	ta	10.30
 .	.	.
-
 FEBK	as	FEBK
 stendur	sfg3en	standa
 fyrir	aþ	fyrir
@@ -3293,7 +2996,6 @@ kl.	as	kl.
 í	aþ	í
 Gjábakka	nkeþ-s	Gjábakki
 .	.	.
-
 Dagskrá	nven	dagskrá
 :	:	:
 Hljóðfæraleikur	nken	hljóðfæraleikur
@@ -3302,12 +3004,10 @@ upplestur	nken	upplestur
 og	c	og
 fleira	lhenvm	margur
 .	.	.
-
 Kaffi	nhen	kaffi
 og	c	og
 meðlæti	nhen	meðlæti
 .	.	.
-
 Farin	sþgven	fara
 verður	sfg3en	verða
 hópferð	nven	hópferð
@@ -3335,7 +3035,6 @@ október	nkeo	október
 á	aþ	á
 Akureyri	nveþ-s	Akureyri
 .	.	.
-
 Mánudag	nkeo	mánudagur
 16.	ta	16.
 sept.	as	sept.
@@ -3346,7 +3045,6 @@ ferð	nven	ferð
 í	aþ	í
 Borgarfirði	nkeþ-s	Borgarfjörður
 .	.	.
-
 Lagt	sþghen	leggja
 af	aþ	af
 stað	nkeþ	staður
@@ -3363,7 +3061,6 @@ Leiðsögumaður	nken	leiðsögumaður
 Nanna	nven-s	Nanna
 Kaaber	nven-s	Kaaber
 .	.	.
-
 Leiðin	nveng	leið
 sem	ct	sem
 ekin	sþgven	aka
@@ -3397,7 +3094,6 @@ Höfða	nkeþ-s	Höfði
 að	aþ	að
 Þverárrétt	nveþ-s	Þverárrétt
 .	.	.
-
 Í	aþ	í
 Þverárhlíð	nveþ-s	Þverárhlíð
 áætluð	lvensf	áætlaður
@@ -3424,7 +3120,6 @@ og	c	og
 Deildartunguhver	nken-s	Deildartunguhver
 skoðaður	sþgken	skoða
 .	.	.
-
 Þaðan	aa	þaðan
 ekið	sþghen	aka
 framhjá	aþ	framhjá
@@ -3441,7 +3136,6 @@ verður	sfg3en	verða
 snædd	sþgven	snæða
 kjötsúpa	nven	kjötsúpa
 .	.	.
-
 Eftir	ao	eftir
 matinn	nkeog	matur
 verður	sfg3en	verða
@@ -3474,14 +3168,12 @@ safni	nheþ	safn
 Landmælinga	nvfe-s	Landmæling
 Íslands	nhee-s	Ísland
 .	.	.
-
 Áætluð	lvensf	áætlaður
 heimkoma	nven	heimkoma
 er	sfg3en	vera
 kl.	as	kl.
 18	ta	18
 .	.	.
-
 Ferðanefndin	nveng	ferðanefnd
 ,	,	,
 Bogi	nken-s	Bogi
@@ -3504,7 +3196,6 @@ borgara	nkfe	borgari
 ,	,	,
 Suðurnesjum	nhfþ-s	Suðurnes
 .	.	.
-
 Bingó	nhen	bingó
 í	aþ	í
 Selinu	nheþgs	Sel
@@ -3518,11 +3209,9 @@ mánudagskvöld	nhfo	mánudagskvöld
 kl.	as	kl.
 20	ta	20
 .	.	.
-
 Vesturgata	nven-s	Vesturgata
 7	ta	7
 .	.	.
-
 Leikfimikennsla	nven	leikfimikennsla
 byrjar	sfg3en	byrja
 þriðjudaginn	nkeog	þriðjudagur
@@ -3539,7 +3228,6 @@ fimmtudögum	nkfþ	fimmtudagur
 kl.	as	kl.
 13-14	ta	13-14
 .	.	.
-
 Miðvikudaginn	nkeog	miðvikudagur
 18.	ta	18.
 september	nkeo	september
@@ -3553,14 +3241,11 @@ vetrarins	nkeeg	vetur
 skráning	nven	skráning
 hafin	lvensf	hafinn
 .	.	.
-
 Vitatorg	nhen-s	Vitatorg
 .	.	.
-
 Vetrardagskráin	nveng	vetrardagskrá
 komin	sþgven	koma
 .	.	.
-
 Laus	lhfnsf	laus
 pláss	nhfn	pláss
 í	aþ	í
@@ -3579,22 +3264,18 @@ mósaik	nveþ	mósaik
 og	c	og
 smiðju	nveþ	smiðja
 .	.	.
-
 Upplýsingar	nvfn	upplýsing
 í	aþ	í
 síma	nkeþ	sími
 5610300	ta	5610300
 .	.	.
-
 Allir	fokfn	allur
 aldurshópar	nkfn	aldurshópur
 velkomnir	lkfnsf	velkominn
 .	.	.
-
 Gönguklúbbur	nken	gönguklúbbur
 Hana-nú	nxee-s	hananú
 .	.	.
-
 Morgunganga	nven	morgunganga
 kl.	as	kl.
 10	ta	10
@@ -3602,25 +3283,20 @@ laugardagsmorgna	nkfo	laugardagsmorgunn
 frá	aþ	frá
 Gjábakka	nkeþ-s	Gjábakki
 .	.	.
-
 Krummakaffi	nhen	krummakaffi
 kl.	as	kl.
 9	ta	9
 .	.	.
-
 Allir	fokfn	allur
 velkomnir	lkfnsf	velkominn
 .	.	.
-
 Gigtarfélagið	nhengs	gigtarfélag
 .	.	.
-
 Leikfimi	nven	leikfimi
 alla	fokfo	allur
 daga	nkfo	dagur
 vikunnar	nveeg	vika
 .	.	.
-
 Létt	lvensf	léttur
 leikfimi	nven	leikfimi
 ,	,	,
@@ -3633,7 +3309,6 @@ jóga	nhen	jóga
 ,	,	,
 vatnsþjálfun	nven	vatnsþjálfun
 .	.	.
-
 Einn	tfken	einn
 ókeypis	lkenof	ókeypis
 prufutími	nken	prufutími
@@ -3642,7 +3317,6 @@ fyrir	ao	fyrir
 sem	ct	sem
 vilja	sfg3fn	vilja
 .	.	.
-
 Uppl.	as	uppl.
 á	aþ	á
 skrifstofu	nveþ	skrifstofa
@@ -3651,12 +3325,10 @@ GÍ	as	GÍ
 s.	as	s.
 5303600	ta	5303600
 .	.	.
-
 Stuðningsfundir	nkfn	stuðningsfundur
 fyrrverandi	lheeof	fyrrverandi
 reykingafólks	nhee	reykingafólk
 .	.	.
-
 Fólk	nhen	fólk
 sem	ct	sem
 sótt	ssg	sækja
@@ -3677,7 +3349,6 @@ Gerðubergi	nheþ-s	Gerðuberg
 kl.	as	kl.
 17.30	ta	17.30
 .	.	.
-
 GA-fundir	nkfn	GA-fundur
 spilafíkla	nkfo	spilafíkill
 ,	,	,
@@ -3714,7 +3385,6 @@ laugardögum	nkfþ	laugardagur
 kl.	as	kl.
 10.30	ta	10.30
 .	.	.
-
 Samtök	nhfn-s	Samtök
 þolenda	nkfe	þolandi
 kynferðislegs	lheesf	kynferðislegur
@@ -3728,7 +3398,6 @@ kl.	as	kl.
 Sólvallagötu	nveþ-s	Sólvallagata
 12	ta	12
 .	.	.
-
 Stuðst	sþmhen	styðja
 er	sfg3en	vera
 við	ao	við
@@ -3737,10 +3406,8 @@ spora	nhfe	spor
 kerfi	nheo	kerfi
 AA-samtakanna	nhfegs	AA-samtök
 .	.	.
-
 Kattholt	nhen-s	Kattholt
 .	.	.
-
 Flóamarkaður	nken	flóamarkaður
 í	aþ	í
 Kattholti	nheþ-s	Kattholt
@@ -3756,7 +3423,6 @@ fimmtudag	nkeo	fimmtudagur
 kl.	as	kl.
 14-17	ta	14-17
 .	.	.
-
 Leið	nven	leið
 10	ta	10
 og	c	og
@@ -3765,7 +3431,6 @@ ganga	sfg3fn	ganga
 að	aþ	að
 Kattholti	nheþ-s	Kattholt
 .	.	.
-
 Karlakórinn	nkeng	karlakór
 Kátir	lkfnsf	kátur
 karlar	nkfn	karl
@@ -3783,12 +3448,10 @@ og	c	og
 Árskógum	nkfþ-s	Árskógar
 4	ta	4
 .	.	.
-
 Söngstjóri	nken	söngstjóri
 Úlrik	nken-s	Úlrik
 Ólason	nken-s	Ólason
 .	.	.
-
 Tekið	sþghen	taka
 við	aþ	við
 pöntunum	nvfþ	pöntun
@@ -3807,14 +3470,12 @@ s.	as	s.
 5532725	ta	5532725
 Stefán	nken-s	Stefán
 .	.	.
-
 Frá	aþ	frá
 Félagi	nheþ-s	Félag
 kennara	nkfe	kennari
 á	aþ	á
 eftirlaunum	nhfþ	eftirlaun
 .	.	.
-
 Félagsvistin	nveng	félagsvist
 í	ao	í
 dag	nkeo	dagur
@@ -3845,7 +3506,6 @@ seinasta	lheþve	seinn
 fréttabréfi	nheþ	fréttabréf
 FKE	as	FKE
 .	.	.
-
 Þórir	nken-s	Þórir
 Sigurðsson	nken-s	Sigurðsson
 segir	sfg3en	segja
@@ -3856,20 +3516,17 @@ kennara	nkfe	kennari
 á	aþ	á
 eftirlaunum	nhfþ	eftirlaun
 .	.	.
-
 Kvenfélag	nhen-s	Kvenfélag
 Fríkirkjunnar	nveegs	Fríkirkja
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Fyrirhuguð	lvensf	fyrirhugaður
 haustferð	nven	haustferð
 laugardaginn	nkeog	laugardagur
 21.	ta	21.
 september	nkeo	september
 .	.	.
-
 Upplýsingar	nvfn	upplýsing
 hjá	aþ	hjá
 Ásu	nveþ-s	Ása
@@ -3885,14 +3542,12 @@ Sigurborgu	nveþ-s	Sigurborg
 s.	as	s.
 5875573	ta	5875573
 .	.	.
-
 (	(	(
 Matt.	as	Matt.
 16	ta	16
 ,	,	,
 26.	ta	26.
 )	)	)
-
 UM	ao	um
 þessar	favfo	þessi
 mundir	nvfo	mund
@@ -3906,7 +3561,6 @@ fjölbreyttu	lheþsf	fjölbreyttur
 vetrarstarfi	nheþ	vetrarstarf
 Bessastaðasóknar	nvee-s	Bessastaðasókn
 .	.	.
-
 ekki	aa	ekki
 bara	aa	bara
 hús	nhen	hús
@@ -3918,7 +3572,6 @@ sem	ct	sem
 skiptir	sfg3en	skipta
 máli	nheþ	mál
 .	.	.
-
 Starfsemin	nveng	starfsemi
 sem	ct	sem
 heild	nven	heild
@@ -3936,9 +3589,7 @@ um	ao	um
 framleiðslu	nveo	framleiðsla
 á	aþ	á
 merkingu	nveþ	merking
-
 .	.	.
-
 Framleiðsla	nven	framleiðsla
 á	aþ	á
 merkingu	nveþ	merking
@@ -3989,7 +3640,6 @@ fékk	sfg3eþ	fá
 aukið	lheosf	aukinn
 vægi	nheo	vægi
 .	.	.
-
 Sú	faven	sá
 þróun	nven	þróun
 er	sfg3en	vera
@@ -4026,7 +3676,6 @@ og	c	og
 listsköpunina	nveog	listsköpun
 sjálfa	fbveo	sjálfur
 .	.	.
-
 En	c	en
 þessi	faven	þessi
 þróun	nven	þróun
@@ -4078,7 +3727,6 @@ hin	x	hinn
 almenna	lkeovf	almennur
 áhorfanda	nkeo	áhorfandi
 .	.	.
-
 En	c	en
 hvar	aa	hvar
 skyldi	svg3eþ	skulu
@@ -4099,7 +3747,6 @@ eiga	sng	eiga
 sér	fpveþ	sig
 stað	nkeo	staður
 ?	?	?
-
 Hún	fpven	hún
 á	aþ	á
 sér	fpveþ	sig
@@ -4136,7 +3783,6 @@ lýtur	sfg3en	lúta
 að	aþ	að
 listum	nvfþ	list
 .	.	.
-
 Hvergi	aa	hvergi
 er	sfg3en	vera
 hún	fpven	hún
@@ -4172,7 +3818,6 @@ upp	aa	upp
 að	cn	að
 bjóða	sng	bjóða
 .	.	.
-
 Auk	ae	auk
 alls	fohee	allur
 þess	fahee	sá
@@ -4191,7 +3836,6 @@ fyrirlestra	nkfo	fyrirlestur
 og	c	og
 umræður	nvfo	umræða
 .	.	.
-
 Ekki	aa	ekki
 má	sfg3en	mega
 heldur	aam	heldur
@@ -4217,7 +3861,6 @@ með	aþ	með
 óformlegri	lkeþvm	óformlegur
 hætti	nkeþ	háttur
 .	.	.
-
 Heimur	nken	heimur
 þess	fahee	sá
 fagfólks	nhee	fagfólk
@@ -4283,7 +3926,6 @@ hann	fpken	hann
 orðaði	sfg3eþ	orða
 það	fpheo	það
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 því	aa	því
@@ -4305,7 +3947,6 @@ séu	svg3fn	vera
 á	aþ	á
 staðnum	nkeþg	staður
 .	.	.
-
 Hugmyndafræði	nven	hugmyndafræði
 í	aþ	í
 stöðugri	lveþsf	stöðugur
@@ -4336,7 +3977,6 @@ komu	sfg3fþ	koma
 síðasta	lkeþve	síðari
 mánuði	nkeþ	mánuður
 .	.	.
-
 Þemað	nheng	þema
 sem	ct	sem
 Francesco	e	Francesco
@@ -4354,7 +3994,6 @@ eins	aa	eins
 og	c	og
 kunnugt	lhensf	kunnugur
 er	sfg3en	vera
-
 Draumar	nkfn-s	Draumur
 og	c	og
 árekstrar	nkfn	árekstur
@@ -4380,7 +4019,6 @@ að	aþ	að
 þessu	faheþ	þessi
 sinni	nheþ	sinn
 .	.	.
-
 Höfundur	nken	höfundur
 greinarinnar	nveeg	grein
 ,	,	,
@@ -4390,7 +4028,6 @@ Gioni	e	Gioni
 segir	sfg3en	segja
 m.a.	as	m.a.
 :	:	:
-
 Fimmtugasti	lkenve	fimmtugur
 Feneyjatvíæringurinn	nkengs	Feneyjatvíæringur
 er	sfg3en	vera
@@ -4426,7 +4063,6 @@ endurspeglast	sfm3en	endurspegla
 sjóngleri	nheþ	sjóngler
 samtímalista	nvfe	samtímalist
 .	.	.
-
 Tvíæringurinn	nkengs	Tvíæringur
 í	ao	í
 ár	nheo	ár
@@ -4468,7 +4104,6 @@ upp	aa	upp
 stjörnuhæðir	nvfo	stjörnuhæð
 útópíunnar	nveeg	útópía
 .	.	.
-
 Hann	fpken	hann
 spannar	sfg3en	spanna
 allt	foheo	allur
@@ -4521,7 +4156,6 @@ og	c	og
 þeirra	fakfe	sá
 óþekktu	lkfevf	óþekktur
 .	.	.
-
 Tvíæringur	nken-s	Tvíæringur
 Bonamis	e	Bonamis
 gefur	sfg3en	gefa
@@ -4542,7 +4176,6 @@ eðli	nheþ	eðli
 og	c	og
 sundurleitni	nveþ	sundurleitni
 .	.	.
-
 Eins	aa	eins
 og	c	og
 lýsingin	nveng	lýsing
@@ -4561,7 +4194,6 @@ að	aþ	að
 þessu	faheþ	þessi
 sinni	nheþ	sinn
 .	.	.
-
 Francesco	e	Francesco
 Bonami	e	Bonami
 gerir	sfg3en	gera
@@ -4592,7 +4224,6 @@ fjölbreytileika	nkeo	fjölbreytileiki
 menningar	nvee	menning
 samtímans	nkeeg	samtími
 .	.	.
-
 Hugmyndin	nveng	hugmynd
 sem	ct	sem
 slík	fbven	slíkur
@@ -4627,7 +4258,6 @@ mest	aae	mikið
 í	aþ	í
 menningunni	nveþg	menning
 .	.	.
-
 Þótt	c	þótt
 sú	faven	sá
 þróun	nven	þróun
@@ -4676,7 +4306,6 @@ of	aa	of
 af	aþ	af
 forræðishyggju	nveþ	forræðishyggja
 .	.	.
-
 Hann	fpken	hann
 vill	sfg3en	vilja
 koma	sng	koma
@@ -4712,7 +4341,6 @@ Gioni	e	Gioni
 í	aþ	í
 artpress	e	artpress
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 þó	aa	þó
@@ -4763,7 +4391,6 @@ sínu	feheþ	sinn
 í	aþ	í
 samfélaginu	nheþg	samfélag
 .	.	.
-
 Hvað	fshen	hver
 hinn	gkeo	hinn
 hugmyndafræðilega	lkeovf	hugmyndafræðilegur
@@ -4796,7 +4423,6 @@ sitt	feheo	sinn
 við	ao	við
 almenning	nkeo	almenningur
 .	.	.
-
 Og	c	og
 það	fphen	það
 er	sfg3en	vera
@@ -4806,7 +4432,6 @@ hlið	nven	hlið
 þessa	fahee	þessi
 máls	nhee	mál
 .	.	.
-
 Á	aþ	á
 síðustu	lhfþve	síðari
 tíu	tfhfþ	tíu
@@ -4834,7 +4459,6 @@ að	cn	að
 þóknast	snm	þóknast
 áhorfandanum	nkeþg	áhorfandi
 .	.	.
-
 Sú	faven	sá
 stefna	nven	stefna
 snýst	sfm3en	snúa
@@ -4859,7 +4483,6 @@ sem	ct	sem
 þeim	fpkfþ	hann
 líkar	sfg3en	líka
 .	.	.
-
 Afleiðingin	nveng	afleiðing
 er	sfg3en	vera
 endalaus	lvensf	endalaus
@@ -4871,7 +4494,6 @@ impressjónistanna	nkfeg	impressjónisti
 og	c	og
 Picassos	e	Picassos
 .	.	.
-
 Söfn	nhfn	safn
 standa	sfg3fn	standa
 völtum	lkfþsf	valtur
@@ -4904,7 +4526,6 @@ sífellt	aa	sífellt
 klisjukenndari	lveovm	klisjukenndur
 tuggu	nveo	tugga
 .	.	.
-
 En	c	en
 hinn	gken	hinn
 raunverulegi	lkenvf	raunverulegur
@@ -4942,7 +4563,6 @@ okkar	fp1fe	ég
 í	ao	í
 geð	nheo	geð
 .	.	.
-
 Sá	faken	sá
 tónn	nken	tónn
 er	ct	er
@@ -4995,6 +4615,5 @@ Modern	e	Modern
 í	aþ	í
 London	e	London
 .	.	.
-
 Hún	fpven	hún
 segir	sfg3en	segja

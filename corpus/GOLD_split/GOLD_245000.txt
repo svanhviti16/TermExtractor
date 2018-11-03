@@ -1,7 +1,6 @@
 svíkja	sng	svíkja
 hann	fpkeo	hann
 ?	?	?
-
 Hann	fpken	hann
 getur	sfg3en	geta
 þó	aa	þó
@@ -41,7 +40,6 @@ búi	svg3en	búa
 til	aa	til
 fjarlægð	nveo	fjarlægð
 .	.	.
-
 Þessi	faken	þessi
 grunur	nken	grunur
 verður	sfg3en	verða
@@ -93,7 +91,6 @@ Pétur	nken-s	Pétur
 hefur	sfg3en	hafa
 haft	ssg	hafa
 .	.	.
-
 Árna	nkeo-s	Árni
 dreymir	sfg3en	dreyma
 líka	aa	líka
@@ -128,7 +125,6 @@ leikföngum	nhfþ	leikfang
 handa	aþ	handa
 börnunum	nhfþg	barn
 .	.	.
-
 Sá	faken	sá
 sem	ct	sem
 á	sfg3en	eiga
@@ -140,7 +136,6 @@ er	sfg3en	vera
 hættu	nveþ	hætta
 staddur	lkensf	staddur
 .	.	.
-
 Gvend	nkeo-s	Gvendur
 dreymir	sfg3en	dreyma
 um	ao	um
@@ -153,7 +148,6 @@ oft	aa	oft
 stígvél	nhfo	stígvél
 Árna	nkee-s	Árni
 .	.	.
-
 Einar	nken-s	Einar
 ætlar	sfg3en	ætla
 að	cn	að
@@ -252,20 +246,17 @@ og	c	og
 möguleikunum	nkfþg	möguleiki
 fjölgar	sfg3en	fjölga
 .	.	.
-
 Það	fphen	það
 hefur	sfg3en	hafa
 bætt	ssg	bæta
 í	ao	í
 vindinn	nkeog	vindur
 .	.	.
-
 Bárður	nken-s	Bárður
 lemur	sfg3en	lemja
 sjálfan	fbkeo	sjálfur
 sig	fpkeo	sig
 .	.	.
-
 Hann	fpken	hann
 bölvar	sfg3en	bölva
 sér	fpkeþ	sig
@@ -275,7 +266,6 @@ og	c	og
 í	aþ	í
 hljóði	nheþ	hljóð
 .	.	.
-
 Hann	fpkeo	hann
 dreymir	sfg3en	dreyma
 um	ao	um
@@ -345,7 +335,6 @@ lifum	sfg1fn	lifa
 við	fp1fn	ég
 annars	aa	annars
 ?	?	?
-
 Þarna	aa	þarna
 er	sfg3en	vera
 spurning	nven	spurning
@@ -354,7 +343,6 @@ að	cn	að
 glíma	sng	glíma
 við	aa	við
 .	.	.
-
 En	c	en
 hér	aa	hér
 er	sfg3en	vera
@@ -371,7 +359,6 @@ kuldanum	nkeþg	kuldi
 frá	aþ	frá
 sér	fpkeþ	sig
 ?	?	?
-
 Pétur	nken-s	Pétur
 gefur	sfg3en	gefa
 honum	fpkeþ	hann
@@ -428,7 +415,6 @@ og	c	og
 skýin	nhfng	ský
 dökkna	sfg3fn	dökkna
 .	.	.
-
 Landið	nheng	land
 er	sfg3en	vera
 horfið	sþghen	hverfa
@@ -467,7 +453,6 @@ er	sfg3en	vera
 næstum	aa	næstum
 kyrrstæður	lkensf	kyrrstæður
 .	.	.
-
 Árni	nken-s	Árni
 og	c	og
 Pétur	nken-s	Pétur
@@ -483,7 +468,6 @@ samt	aa	samt
 í	aþ	í
 stakknum	nkeþg	stakkur
 .	.	.
-
 Pétur	nken-s	Pétur
 byrjar	sfg3en	byrja
 að	cn	að
@@ -514,7 +498,6 @@ leggja	sfg3fn	leggja
 við	aa	við
 hlustir	nvfo	hlust
 .	.	.
-
 Fyrst	aae	fyrr
 eru	sfg3fn	vera
 það	fphen	það
@@ -531,7 +514,6 @@ hugrekki	nheo	hugrekki
 á	aþ	á
 sjónum	nkeþg	sjór
 .	.	.
-
 En	c	en
 hetjuskapur	nken	hetjuskapur
 og	c	og
@@ -555,7 +537,6 @@ verða	sfg3fn	verða
 fljótlega	aa	fljótlega
 klámfengnar	lvfnsf	klámfenginn
 .	.	.
-
 Pétur	nken-s	Pétur
 kann	sfg3en	kunna
 mikið	lheosf	mikill
@@ -570,7 +551,6 @@ tugum	nkfþ	tugur
 kannski	aa	kannski
 hundruðum	nhfþ	hundrað
 .	.	.
-
 Hann	fpken	hann
 hefur	sfg3en	hafa
 fært	ssg	færa
@@ -640,14 +620,12 @@ og	c	og
 tyggur	sfg3en	tyggja
 tóbakið	nheog	tóbak
 .	.	.
-
 Vísurnar	nvfng	vísa
 vella	sfg3fn	vella
 upp	aa	upp
 úr	aþ	úr
 honum	fpkeþ	hann
 .	.	.
-
 Eins	aa	eins
 og	c	og
 hann	fpken	hann
@@ -659,7 +637,6 @@ niður	ao	niður
 sjálfan	fbkeo	sjálfur
 heimskautakuldann	nkeog	heimskautakuldi
 .	.	.
-
 Þær	fpvfn	hún
 verða	sfg3fn	verða
 sífellt	aa	sífellt
@@ -670,7 +647,6 @@ og	c	og
 Pétur	nken-s	Pétur
 umbreytist	sfm3en	umbreyta
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 ekki	aa	ekki
@@ -731,7 +707,6 @@ og	c	og
 sínálægum	lkeþsf	sínálægur
 dauða	nkeþ	dauði
 .	.	.
-
 Pétri	nkeþ-s	Pétur
 funhitnar	sfg3en	funhitna
 og	c	og
@@ -836,7 +811,6 @@ frá	aþ	frá
 formanni	nkeþ	formaður
 þeirra	fpkfe	hann
 .	.	.
-
 Augu	nhfn	auga
 Einars	nkee-s	Einar
 uppglennt	lhfnsf	uppglenntur
@@ -884,7 +858,6 @@ skarfinum	nkeþg	skarfur
 þessi	faken	þessi
 kraftur	nken	kraftur
 !	!	!
-
 Strákurinn	nkeng	strákur
 sveiflast	sfm3en	sveifla
 á	aa	á
@@ -918,7 +891,6 @@ vísur	nvfn	vísa
 nema	c	nema
 ruddaskapur	nken	ruddaskapur
 ?	?	?
-
 En	c	en
 í	aþ	í
 næstu	lveþve	næstur
@@ -936,7 +908,6 @@ rífur	sfg3en	rífa
 í	ao	í
 strákinn	nkeog	strákur
 .	.	.
-
 Hann	fpken	hann
 bölvar	sfg3en	bölva
 sjálfum	fbkeþ	sjálfur
@@ -971,7 +942,6 @@ hrifningar	nvee	hrifning
 og	c	og
 andúðar	nvee	andúð
 .	.	.
-
 Pétur	nken-s	Pétur
 hefur	sfg3en	hafa
 tekið	ssg	taka
@@ -1147,7 +1117,6 @@ líta	sng	líta
 mann	nkeo	maður
 sinn	fekeo	sinn
 .	.	.
-
 Og	c	og
 mitt	aa	mitt
 í	aþ	í
@@ -1159,7 +1128,6 @@ augnablik	nhen	augnablik
 Pétur	nkeo-s	Pétur
 uppi	aa	uppi
 .	.	.
-
 Krafturinn	nkeng	kraftur
 ,	,	,
 kynngin	nveng	kynngi
@@ -1192,7 +1160,6 @@ fyllir	sfg3en	fylla
 hverja	foveo	hver
 frumu	nveo	fruma
 .	.	.
-
 Missa	sng	missa
 hana	fpveo	hún
 hvert	aa	hvert
@@ -1216,7 +1183,6 @@ hvað	fshen	hver
 er	sfg3en	vera
 lífið	nheng	líf
 ?	?	?
-
 Jú	au	jú
 ,	,	,
 það	fphen	það
@@ -1233,20 +1199,17 @@ og	c	og
 síðan	aa	síðan
 Andrea	nven-s	Andrea
 .	.	.
-
 Þrjátíu	tfhfn	þrjátíu
 ár	nhfn	ár
 með	aþ	með
 henni	fpveþ	hún
 .	.	.
-
 Hann	fpken	hann
 þekkir	sfg3en	þekkja
 ekkert	foheo	enginn
 annað	foheo	annar
 líf	nheo	líf
 .	.	.
-
 Hverfi	svg3en	hverfa
 hún	fpven	hún
 missir	sfg3en	missa
@@ -1281,12 +1244,10 @@ virðist	sfm3en	virða
 falla	sng	falla
 saman	aa	saman
 .	.	.
-
 Einar	nken-s	Einar
 bölvar	sfg3en	bölva
 lágt	aa	lágt
 .	.	.
-
 Þekkir	sfg3en	þekkja
 vísnaflokkinn	nkeog	vísnaflokkur
 sem	ct	sem
@@ -1300,7 +1261,6 @@ eftir	aþ	eftir
 síðustu	lhfþve	síðari
 erindunum	nhfþg	erindi
 .	.	.
-
 Óvænt	lvensf	óvæntur
 þögnin	nveng	þögn
 kemur	sfg3en	koma
@@ -1310,7 +1270,6 @@ aftur	aa	aftur
 til	ae	til
 þeirra	fpkfe	hann
 .	.	.
-
 Kemur	sfg3en	koma
 með	ao	með
 frostið	nheog	frost
@@ -1327,7 +1286,6 @@ snjókoman	nveng	snjókoma
 hefur	sfg3en	hafa
 nálgast	ssm	nálgast
 .	.	.
-
 Bárður	nken-s	Bárður
 nuddar	sfg3en	nudda
 handleggina	nkfog	handleggur
@@ -1383,13 +1341,11 @@ og	c	og
 ónýtum	lkeþsf	ónýtur
 hlut	nkeþ	hlutur
 .	.	.
-
 Báturinn	nkeng	bátur
 hefst	sfm3en	hefja
 og	c	og
 hnígur	sfg3en	hníga
 .	.	.
-
 Sjóveikin	nveng	sjóveiki
 sem	ct	sem
 hefur	sfg3en	hafa
@@ -1450,7 +1406,6 @@ eftir	aa	eftir
 á	aþ	á
 Íshafinu	nheþgs	Íshaf
 .	.	.
-
 Pétur	nken-s	Pétur
 hristir	sfg3en	hrista
 sig	fpkeo	sig
@@ -1478,7 +1433,6 @@ róum	svg1fn	róa
 að	aþ	að
 duflinu	nheþg	dufl
 .	.	.
-
 Árni	nken-s	Árni
 ,	,	,
 Bárður	nken-s	Bárður
@@ -1526,7 +1480,6 @@ og	c	og
 stækkar	sfg3en	stækka
 draumana	nkfog	draumur
 .	.	.
-
 Bárður	nken-s	Bárður
 festir	sfg3en	festa
 lóðahjólið	nheog	lóðahjól
@@ -1553,7 +1506,6 @@ talsvert	lheosf	talsverður
 af	aþ	af
 því	fpheþ	það
 .	.	.
-
 Pétur	nken-s	Pétur
 hallar	sfg3en	halla
 sér	fpkeþ	sig
@@ -1581,13 +1533,11 @@ hans	fpkee	hann
 ,	,	,
 formannslóðinni	nveþg	formannslóð
 .	.	.
-
 Eftirvæntingin	nveng	eftirvænting
 titrar	sfg3en	titra
 í	aþ	í
 þeim	fpkfþ	hann
 .	.	.
-
 Bárður	nken-s	Bárður
 dregur	sfg3en	draga
 ,	,	,
@@ -1610,7 +1560,6 @@ fær	sfg3en	fá
 óblíðar	lvfosf	óblíður
 viðtökur	nvfo	viðtaka
 .	.	.
-
 Pétur	nken-s	Pétur
 goggar	sfg3en	gogga
 fiskana	nkfog	fiskur
@@ -1690,7 +1639,6 @@ hér	aa	hér
 á	aþ	á
 jörðu	nveþ	jörð
 ?	?	?
-
 Fiskurinn	nkeng	fiskur
 er	sfg3en	vera
 með	ao	með
@@ -1781,14 +1729,12 @@ brimsaltri	lveþsf	brimsaltur
 úr	aþ	úr
 sér	fpkeþ	sig
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 drjúgt	lhensf	drjúgur
 af	aþ	af
 fiski	nkeþ	fiskur
 .	.	.
-
 Bárður	nken-s	Bárður
 byrjaður	sþgken	byrja
 að	cn	að
@@ -1809,7 +1755,6 @@ er	sfg3en	vera
 falleg	lvensf	fallegur
 stund	nven	stund
 .	.	.
-
 Einar	nken-s	Einar
 og	c	og
 Gvendur	nken-s	Gvendur
@@ -1830,7 +1775,6 @@ er	sfg3en	vera
 kominn	sþgken	koma
 morgunn	nken	morgunn
 .	.	.
-
 En	c	en
 þegar	c	þegar
 Bárður	nken-s	Bárður
@@ -1869,7 +1813,6 @@ en	c	en
 gleymdi	sfg1eþ	gleyma
 svolitlu	lheþsf	svolítill
 .	.	.
-
 En	c	en
 þetta	fahen	þessi
 er	sfg3en	vera
@@ -1907,7 +1850,6 @@ sjóndeildarhringurinn	nkeng	sjóndeildarhringur
 að	cn	að
 vera	sng	vera
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 veður	nhen	veður
@@ -1921,7 +1863,6 @@ hremma	sng	hremma
 innan	ae	innan
 skamms	lheesf	skammur
 .	.	.
-
 Árni	nken-s	Árni
 ,	,	,
 segir	sfg3en	segja
@@ -1968,7 +1909,6 @@ er	sfg3en	vera
 á	aþ	á
 þrotum	nhfþ	þrot
 .	.	.
-
 Öldurnar	nvfng	alda
 stækka	sfg3fn	stækka
 ,	,	,
@@ -2006,7 +1946,6 @@ alls	fohee	allur
 ekki	aa	ekki
 nóg	aa	nóg
 .	.	.
-
 Gleði	nven	gleði
 ,	,	,
 hamingja	nven	hamingja
@@ -2043,7 +1982,6 @@ heimskautavindi	nkeþ	heimskautavindur
 en	c	en
 þetta	faheo	þessi
 .	.	.
-
 Ást	nveo	ást
 mína	feveo	minn
 fyrir	ao	fyrir
@@ -2057,7 +1995,6 @@ fyrir	ao	fyrir
 aðra	foveo	annar
 peysu	nveo	peysa
 .	.	.
-
 Íshafsvindurinn	nkeng	Íshafsvindur
 blæs	sfg3en	blása
 ,	,	,
@@ -2073,7 +2010,6 @@ snjóflygsum	nvfþ	snjóflygsa
 úr	aþ	úr
 sér	fpkeþ	sig
 .	.	.
-
 Gvendur	nken-s	Gvendur
 og	c	og
 Einar	nken-s	Einar
@@ -2124,7 +2060,6 @@ upp	aa	upp
 köldu	lheþsf	kaldur
 djúpinu	nheþg	djúp
 .	.	.
-
 Pétur	nken-s	Pétur
 rígheldur	sfg3en	ríghalda
 sér	fpkeþ	sig
@@ -2207,11 +2142,9 @@ brestur	sfg3en	bresta
 á	aa	á
 veður	nhen	veður
 .	.	.
-
 Snjókoman	nveng	snjókoma
 þéttist	sfm3en	þétta
 .	.	.
-
 Samt	aa	samt
 varla	aa	varla
 hægt	lhensf	hægur
@@ -2220,7 +2153,6 @@ kalla	sng	kalla
 þetta	faheo	þessi
 snjókomu	nveo	snjókoma
 .	.	.
-
 Vindurinn	nkeng	vindur
 þeytir	sfg3en	þeyta
 snjókornum	nhfþ	snjókorn
@@ -2238,7 +2170,6 @@ helst	aae	heldur
 líta	sng	líta
 undan	aa	undan
 .	.	.
-
 Það	fphen	það
 brotnar	sfg3en	brotna
 úr	aþ	úr
@@ -2274,7 +2205,6 @@ Bárður	nken-s	Bárður
 sýpur	sfg3en	súpa
 hveljur	nvfo	hvelja
 .	.	.
-
 Og	c	og
 nær	aam	nær
 samstundis	aa	samstundis
@@ -2361,7 +2291,6 @@ annað	foheo	annar
 tók	sfg3eþ	taka
 vindurinn	nkeng	vindur
 .	.	.
-
 Snjókoman	nveng	snjókoma
 þéttist	sfm3en	þétta
 að	aþ	að
@@ -2391,7 +2320,6 @@ stækkandi	lvfnof	stækkandi
 dýpkandi	lkfnof	dýpkandi
 öldudalir	nkfn	öldudalur
 .	.	.
-
 Báturinn	nkeng	bátur
 lyftist	sfm3eþ	lyfta
 upp	aa	upp
@@ -2421,7 +2349,6 @@ lemur	sfg3en	lemja
 sig	fpkeo	sig
 ákaft	aa	ákaft
 .	.	.
-
 Strákurinn	nkeng	strákur
 reynir	sfg3en	reyna
 að	cn	að
@@ -2486,7 +2413,6 @@ hafa	sng	hafa
 báða	fokfo	báðir
 gegnblauta	lkfosf	gegnblautur
 .	.	.
-
 Helvíti	nhen	helvíti
 helvíti	nhen	helvíti
 helvíti	nhen	helvíti
@@ -2494,13 +2420,11 @@ helvíti	nhen	helvíti
 muldrar	sfg3en	muldra
 Bárður	nken-s	Bárður
 .	.	.
-
 Hvað	fshen	hver
 með	ao	með
 lóðina	nveog	lóð
 mína	feveo	minn
 !	!	!
-
 öskrar	sfg3en	öskra
 Einar	nken-s	Einar
 og	c	og
@@ -2559,7 +2483,6 @@ að	c	að
 dugi	svg3en	duga
 til	aa	til
 .	.	.
-
 Og	c	og
 Einar	nken-s	Einar
 öskrar	sfg3en	öskra
@@ -2607,7 +2530,6 @@ innra	lhenvm	innri
 með	aþ	með
 honum	fpkeþ	hann
 .	.	.
-
 Pétur	nken-s	Pétur
 er	sfg3en	vera
 formaður	nken	formaður
@@ -2664,7 +2586,6 @@ er	sfg3en	vera
 kolsvart	lhensf	kolsvartur
 helvíti	nhen	helvíti
 .	.	.
-
 Rúmlega	aa	rúmlega
 þriggja	tfkfe	þrír
 tíma	nkfe	tími
@@ -2693,7 +2614,6 @@ hangandi	slg	hanga
 á	aþ	á
 önglunum	nkfþg	öngull
 .	.	.
-
 Einar	nken-s	Einar
 horfir	sfg3en	horfa
 drápsaugum	nhfþ	drápsauga
@@ -2727,10 +2647,8 @@ fiski	nkeþ	fiskur
 heldur	c	heldur
 Bárður	nken-s	Bárður
 .	.	.
-
 Seglið	nheng	segl
 !	!	!
-
 gargar	sfg3en	garga
 Pétur	nken-s	Pétur
 upp	aa	upp
@@ -2782,7 +2700,6 @@ líf	nheo	líf
 og	c	og
 dauða	nkeo	dauði
 .	.	.
-
 Möstrin	nhfng	mastur
 tvö	tfhfn	tveir
 rísa	sfg3fn	rísa
@@ -2842,7 +2759,6 @@ næstum	aa	næstum
 á	ao	á
 hliðina	nveog	hlið
 .	.	.
-
 Þeir	fpkfn	hann
 horfa	sfg3fn	horfa
 beint	aa	beint
@@ -2851,7 +2767,6 @@ ofan	aa	ofan
 sogandi	lkeoof	sogandi
 sjóinn	nkeog	sjór
 .	.	.
-
 Himinninn	nkeng	himinn
 löngu	lheþsf	langur
 horfinn	sþgken	hverfa
@@ -2867,7 +2782,6 @@ lengur	aam	lengi
 enginn	foken	enginn
 sjóndeildarhringur	nken	sjóndeildarhringur
 .	.	.
-
 Báturinn	nkeng	bátur
 nær	sfg3en	ná
 aftur	aa	aftur
@@ -2882,7 +2796,6 @@ Pétur	nken-s	Pétur
 stýrir	sfg3en	stýra
 vel	aa	vel
 .	.	.
-
 Byrjað	sþghen	byrja
 að	cn	að
 rjúka	sng	rjúka
@@ -2952,7 +2865,6 @@ og	c	og
 frýs	sfg3en	frjósa
 þar	aa	þar
 .	.	.
-
 Mennirnir	nkfng	maður
 reyna	sfg3fn	reyna
 að	cn	að
@@ -3013,11 +2925,9 @@ og	c	og
 vindur	nken	vindur
 leyfir	sfg3en	leyfa
 .	.	.
-
 Þeir	fpkfn	hann
 hamast	sfm3fn	hamast
 .	.	.
-
 Lemja	sfg3fn	lemja
 snjó	nkeo	snjór
 og	c	og
@@ -3025,7 +2935,6 @@ frost	nheo	frost
 af	aþ	af
 bátnum	nkeþg	bátur
 .	.	.
-
 Þeir	fpkfn	hann
 reyna	sfg3fn	reyna
 að	cn	að
@@ -3083,7 +2992,6 @@ en	c	en
 ekki	aa	ekki
 einn	tfken	einn
 .	.	.
-
 Stakklaus	lkensf	stakklaus
 maður	nken	maður
 rennblotnar	sfg3en	rennblotna
@@ -3108,7 +3016,6 @@ hérna	aa	hérna
 opnu	lheþsf	opinn
 hafinu	nheþg	haf
 .	.	.
-
 Reyndu	sbg2en	reyna
 að	cn	að
 hamast	snm	hamast
@@ -3139,7 +3046,6 @@ lítur	sfg3en	líta
 vin	nkeo	vinur
 sinn	fekeo	sinn
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 næstum	aa	næstum
@@ -3179,7 +3085,6 @@ bláhvítur	lkensf	bláhvítur
 af	aþ	af
 kulda	nkeþ	kuldi
 .	.	.
-
 Bárður	nken-s	Bárður
 fer	sfg3en	fara
 með	ao	með
@@ -3263,7 +3168,6 @@ er	sfg3en	vera
 eyrna	nhfe	eyra
 lyst	nven	lyst
 .	.	.
-
 Strákurinn	nkeng	strákur
 reynir	sfg3en	reyna
 að	cn	að
@@ -3278,7 +3182,6 @@ kulda	nkeo	kuldi
 gegnum	ao	gegnum
 ótta	nkeo	ótti
 .	.	.
-
 Bárður	nken-s	Bárður
 kemur	sfg3en	koma
 enn	aa	enn
@@ -3355,7 +3258,6 @@ framan	aa	framan
 í	ao	í
 þá	fpkfo	hann
 .	.	.
-
 Strákurinn	nkeng	strákur
 heldur	sfg3en	halda
 áfram	aa	áfram
@@ -3373,7 +3275,6 @@ léttara	lhenvm	léttur
 um	ao	um
 andardrátt	nkeo	andardráttur
 .	.	.
-
 Vissan	nveng	vissa
 um	ao	um
 að	c	að
@@ -3432,7 +3333,6 @@ fyrir	aa	fyrir
 í	aþ	í
 barkanum	nkeþg	barki
 .	.	.
-
 Strákurinn	nkeng	strákur
 staulast	sfm3en	staula
 ,	,	,
@@ -3464,7 +3364,6 @@ helvítis	nhee	helvíti
 hlandhvolpurinn	nkeng	hlandhvolpur
 þinn	feken	þinn
 !	!	!
-
 því	fpheþ	það
 sá	faken	sá
 sem	ct	sem
@@ -3498,7 +3397,6 @@ utan	aa	utan
 um	ao	um
 þau	fphfo	það
 .	.	.
-
 Strákurinn	nkeng	strákur
 fer	sfg3en	fara
 alveg	aa	alveg
@@ -3509,7 +3407,6 @@ og	c	og
 kallar	sfg3en	kalla
 Bárður	nken-s	Bárður
 !	!	!
-
 hann	fpken	hann
 kallar	sfg3en	kalla
 nafnið	nheog	nafn
@@ -3539,7 +3436,6 @@ andar	sfg3en	anda
 brún	lhfosf	brúnn
 augun	nhfog	auga
 .	.	.
-
 Bárður	nken-s	Bárður
 horfir	sfg3en	horfa
 á	aa	á
@@ -3560,7 +3456,6 @@ hann	fpken	hann
 horfir	sfg3en	horfa
 þó	aa	þó
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 þrifið	sþghen	þrífa
@@ -3568,7 +3463,6 @@ er	sfg3en	vera
 hálsmál	nheo	hálsmál
 stráksins	nkeeg	strákur
 .	.	.
-
 Einar	nken-s	Einar
 togar	sfg3en	toga
 hann	fpkeo	hann
@@ -3602,7 +3496,6 @@ gnýrinn	nkeng	gnýr
 í	aþ	í
 vindinum	nkeþg	vindur
 .	.	.
-
 Strákurinn	nkeng	strákur
 lítur	sfg3en	líta
 á	ao	á
@@ -3618,7 +3511,6 @@ ofsa	nkeþ	ofsi
 hittir	sfg3en	hitta
 kinnbeinið	nheog	kinnbein
 .	.	.
-
 Einar	nken-s	Einar
 hrekkur	sfg3en	hrökkva
 undan	aþ	undan
@@ -3705,7 +3597,6 @@ lengur	aam	lengi
 í	aþ	í
 augunum	nhfþg	auga
 .	.	.
-
 Strákurinn	nkeng	strákur
 er	sfg3en	vera
 kominn	sþgken	koma
@@ -3766,7 +3657,6 @@ sinni	feveþ	sinn
 á	ao	á
 Bárð	nkeo-s	Bárður
 .	.	.
-
 Strákurinn	nkeng	strákur
 lítur	sfg3en	líta
 aftur	aa	aftur
@@ -3804,7 +3694,6 @@ honum	fpkeþ	hann
 nema	c	nema
 kuldinn	nkeng	kuldi
 .	.	.
-
 Ekkert	fohen	enginn
 er	sfg3en	vera
 mér	fp1eþ	ég
@@ -3813,7 +3702,6 @@ indælt	lhensf	indæll
 utan	ae	utan
 þín	fp2ee	þú
 .	.	.
-
 V	x	v
 Það	fphen	það
 er	sfg3en	vera
@@ -3826,7 +3714,6 @@ land	nheo	land
 undir	aþ	undir
 fótum	nkfþ	fótur
 .	.	.
-
 Þá	aa	þá
 hefur	sfg3en	hafa
 maður	nken	maður
@@ -3852,7 +3739,6 @@ og	c	og
 tættri	lveþsf	tættur
 snjókomunni	nveþg	snjókoma
 .	.	.
-
 Étið	ssg	éta
 margar	lvfosf	margur
 brauðsneiðar	nvfo	brauðsneið
@@ -3871,13 +3757,11 @@ kaffi	nheo	kaffi
 með	aþ	með
 púðursykri	nkeþ	púðursykur
 .	.	.
-
 Það	fphen	það
 verður	sfg3en	verða
 tæpast	aae	tæpt
 betra	lhenvm	góður
 .	.	.
-
 Hungrið	nheng	hungur
 farið	sþghen	fara
 að	cn	að
@@ -3901,7 +3785,6 @@ rúgbrauð	nhen	rúgbrauð
 sjálft	fbhen	sjálfur
 himnaríki	nhen	himnaríki
 .	.	.
-
 Og	c	og
 síðan	aa	síðan
 ,	,	,
@@ -3920,7 +3803,6 @@ fiskur	nken	fiskur
 með	aþ	með
 mörfloti	nheþ	mörflot
 .	.	.
-
 Hamingjan	nveng	hamingja
 er	sfg3en	vera
 að	cn	að
@@ -4005,7 +3887,6 @@ og	c	og
 eru	sfg3fn	vera
 sloppnir	lkfnsf	sloppinn
 .	.	.
-
 Gvendur	nken-s	Gvendur
 og	c	og
 Einar	nken-s	Einar
@@ -4027,7 +3908,6 @@ hans	fpkee	hann
 á	aa	á
 móti	aa	móti
 .	.	.
-
 Þeir	fpkfn	hann
 reru	sfg3fþ	róa
 ekki	aa	ekki
@@ -4068,7 +3948,6 @@ leist	sfm3eþ	líta
 ekki	aa	ekki
 á	aa	á
 .	.	.
-
 Og	c	og
 þeir	fakfn	sá
 sem	ct	sem
@@ -4105,7 +3984,6 @@ kjósa	sfg3fn	kjósa
 það	fpheo	það
 fyrrnefnda	lheovf	fyrrnefndur
 .	.	.
-
 Lífið	nheng	líf
 hefur	sfg3en	hafa
 það	fpheo	það
@@ -4143,7 +4021,6 @@ er	sfg3en	vera
 það	fphen	það
 alversta	lhenve	alverstur
 .	.	.
-
 Fjórir	tfkfn	fjórir
 úr	aþ	úr
 áhöfn	nveþ	áhöfn
@@ -4175,7 +4052,6 @@ utar	aam	utar
 geisar	sfg3en	geisa
 óveðrið	nheng	óveður
 .	.	.
-
 Veðrið	nheng	veður
 er	sfg3en	vera
 talsvert	aa	talsvert
@@ -4209,7 +4085,6 @@ sér	fpveþ	sig
 móti	aþ	móti
 honum	fpkeþ	hann
 .	.	.
-
 Kaffið	nheng	kaffi
 tilbúið	lhensf	tilbúinn
 inni	aa	inni
@@ -4283,7 +4158,6 @@ fara	sng	fara
 með	aþ	með
 himinskautum	nhfþ	himinskaut
 .	.	.
-
 Hann	fpken	hann
 hefur	sfg3en	hafa
 enn	aa	enn
@@ -4311,13 +4185,11 @@ inn	aa	inn
 á	ao	á
 bað	nheo	bað
 .	.	.
-
 «	«	«
 Helvítis	nhee	helvíti
 maðurinn	nkeng	maður
 !	!	!
 »	»	»
-
 tautar	sfg3en	tauta
 Guðmundur	nken-s	Guðmundur
 og	c	og
@@ -4338,12 +4210,10 @@ upp	aa	upp
 í	ao	í
 brú	nveo	brú
 .	.	.
-
 «	«	«
 Halló	au	halló
 !	!	!
 »	»	»
-
 segir	sfg3en	segja
 Guðmundur	nken-s	Guðmundur
 um	ao	um
@@ -4360,7 +4230,6 @@ fær	sfg3en	fá
 ekkert	foheo	enginn
 svar	nheo	svar
 .	.	.
-
 Hann	fpken	hann
 gengur	sfg3en	ganga
 beint	aa	beint
@@ -4381,7 +4250,6 @@ og	c	og
 bjallan	nveng	bjalla
 þagnar	sfg3en	þagna
 .	.	.
-
 «	«	«
 Hvert	aa	hvert
 í	aþ	í
@@ -4391,7 +4259,6 @@ heitasta	lheþve	heitur
 helvíti	nheþ	helvíti
 !	!	!
 »	»	»
-
 tautar	sfg3en	tauta
 Guðmundur	nken-s	Guðmundur
 ,	,	,
@@ -4413,7 +4280,6 @@ tungan	nveng	tunga
 í	aþ	í
 munninum	nkeþg	munnur
 .	.	.
-
 Hann	fpken	hann
 fer	sfg3en	fara
 yfir	ao	yfir
@@ -4426,7 +4292,6 @@ skipsins	nheeg	skip
 og	c	og
 hraða	nkeo	hraði
 .	.	.
-
 Kúrsinn	nkeng	kúrs
 er	sfg3en	vera
 réttur	lkensf	réttur
@@ -4446,7 +4311,6 @@ hvað	fshen	hver
 er	sfg3en	vera
 þetta	fahen	þessi
 ?	?	?
-
 Ratsjárskjárinn	nkeng	ratsjárskjár
 er	sfg3en	vera
 svartur	lkensf	svartur
@@ -4456,14 +4320,12 @@ nóttin	nveng	nótt
 fyrir	aa	fyrir
 utan	aa	utan
 !	!	!
-
 «	«	«
 Hvert	aa	hvert
 í	aa	í
 ...	...	...
 !	!	!
 »	»	»
-
 tautar	sfg3en	tauta
 Guðmundur	nken-s	Guðmundur
 og	c	og
@@ -4472,7 +4334,6 @@ hratt	aa	hratt
 með	aþ	með
 nefinu	nheþg	nef
 .	.	.
-
 Hann	fpken	hann
 bankar	sfg3en	banka
 í	ao	í
@@ -4495,7 +4356,6 @@ kemur	sfg3en	koma
 fyrir	aa	fyrir
 ekki	aa	ekki
 .	.	.
-
 Þar	aa	þar
 sem	c	sem
 ljósgeisli	nken	ljósgeisli
@@ -4525,13 +4385,11 @@ rykkornum	nhfþ	rykkorn
 og	c	og
 fingraförum	nhfþ	fingrafar
 .	.	.
-
 Hvað	fshen	hver
 er	sfg3en	vera
 að	cn	að
 gerast	snm	gera
 ?	?	?
-
 «	«	«
 Ég	fp1en	ég
 á	sfg1en	eiga
@@ -4540,7 +4398,6 @@ til	aa	til
 aukatekið	lheosf	aukatekinn
 ...	...	...
 »	»	»
-
 tautar	sfg3en	tauta
 Guðmundur	nken-s	Guðmundur
 og	c	og
@@ -4597,7 +4454,6 @@ kosti	nkeþ	kostur
 á	aa	á
 ...	...	...
 »	»	»
-
 segir	sfg3en	segja
 Guðmundur	nken-s	Guðmundur
 og	c	og
@@ -4605,7 +4461,6 @@ andar	sfg3en	anda
 aðeins	aa	aðeins
 léttar	aam	létt
 .	.	.
-
 Hann	fpken	hann
 steinþagnar	sfg3en	steinþagna
 í	aþ	í
@@ -4620,14 +4475,12 @@ svörtum	lkeþsf	svartur
 skjá	nkeþ	skjár
 GPS-staðsetningartækisins	nheegs	GPS-staðsetningartæki
 .	.	.
-
 «	«	«
 Hvað	fshen	hver
 í	aa	í
 ...	...	...
 ?	?	?
 »	»	»
-
 tautar	sfg3en	tauta
 Guðmundur	nken-s	Guðmundur
 og	c	og
@@ -4636,7 +4489,6 @@ sting	nkeo	stingur
 í	ao	í
 hjartað	nheog	hjarta
 .	.	.
-
 Hann	fpken	hann
 bankar	sfg3en	banka
 í	ao	í
@@ -4661,7 +4513,6 @@ birtast	sfm3fn	birta
 ekki	aa	ekki
 aftur	aa	aftur
 .	.	.
-
 Hvað	fshen	hver
 í	aþ	í
 heitasta	lheþve	heitur
@@ -4673,12 +4524,10 @@ hér	aa	hér
 á	aa	á
 ?	?	?
 !	!	!
-
 «	«	«
 JÓNAS	nken-s	Jónas
 !	!	!
 »	»	»
-
 öskrar	sfg3en	öskra
 Guðmundur	nken-s	Guðmundur
 og	c	og
@@ -4694,7 +4543,6 @@ fær	sfg3en	fá
 ekkert	foheo	enginn
 svar	nheo	svar
 .	.	.
-
 Guðmundur	nken-s	Guðmundur
 dregur	sfg3en	draga
 djúpt	aa	djúpt
@@ -4719,7 +4567,6 @@ fimmtíu	tfvfþ	fimmtíu
 í	aþ	í
 huganum	nkeþg	hugi
 .	.	.
-
 Hann	fpken	hann
 röltir	sfg3en	rölta
 yfir	aa	yfir
@@ -4744,7 +4591,6 @@ síðan	aa	síðan
 stól	nkeo	stóll
 skipstjórans	nkeeg	skipstjóri
 .	.	.
-
 Hann	fpken	hann
 rær	sfg3en	róa
 fram	aa	fram
@@ -4765,12 +4611,10 @@ sötrar	sfg3en	sötra
 ofsoðið	lheosf	ofsoð
 kaffið	nheog	kaffi
 .	.	.
-
 «	«	«
 Andskotinn	nkeng	andskoti
 sjálfur	fbken	sjálfur
 !	!	!
-
 Ég	fp1en	ég
 verð	sfg1en	verða
 að	cn	að
@@ -4794,7 +4638,6 @@ nokkurra	fovfe	nokkur
 mínútna	nvfe	mínúta
 bið	nveo	bið
 .	.	.
-
 Hann	fpken	hann
 stígur	sfg3en	stíga
 niður	aa	niður
@@ -4817,7 +4660,6 @@ inn	aa	inn
 á	ao	á
 brúna	nveog	brú
 .	.	.
-
 Einhver	foken	einhver
 sem	ct	sem
 kastar	sfg3en	kasta
@@ -4840,14 +4682,12 @@ upp	aa	upp
 í	ao	í
 nefið	nheog	nef
 .	.	.
-
 «	«	«
 Hver	fsken	hver
 er	sfg3en	vera
 þar	aa	þar
 ?	?	?
 »	»	»
-
 spyr	sfg3en	spyrja
 skipstjórinn	nkeng	skipstjóri
 kuldalega	aa	kuldalega
@@ -4862,7 +4702,6 @@ manndrápsglampa	nkeo	manndrápsglampi
 uppglenntum	lhfþsf	uppglenntur
 augunum	nhfþg	auga
 .	.	.
-
 XVI	ta	xvi
 04:17	ta	04:17
 Jónas	nken-s	Jónas
@@ -4892,7 +4731,6 @@ skella	sfg3fn	skella
 á	aþ	á
 honum	fpkeþ	hann
 .	.	.
-
 Hann	fpken	hann
 grípur	sfg3en	grípa
 um	ao	um
@@ -4927,7 +4765,6 @@ sér	fpkeþ	sig
 þriðju	lveþvf	þriðji
 tilraun	nveþ	tilraun
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 skárra	lhenvm	skárri
@@ -4954,7 +4791,6 @@ halda	sng	halda
 sér	fpkeþ	sig
 uppréttum	lkeþsf	uppréttur
 .	.	.
-
 Hann	fpken	hann
 neyðist	sfm3en	neyða
 til	ae	til
@@ -4992,7 +4828,6 @@ utan	aa	utan
 í	ao	í
 stýrishúsið	nheog	stýrishús
 .	.	.
-
 «	«	«
 Heilög	lvensf	heilagur
 María	nven-s	María

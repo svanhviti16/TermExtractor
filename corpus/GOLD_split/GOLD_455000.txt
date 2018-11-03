@@ -6,21 +6,18 @@ af	aþ	af
 Days	e	Days
 Later	e	Later
 .	.	.
-
 Myndin	nveng	mynd
 hefur	sfg3en	hafa
 hlotið	ssg	hljóta
 frábæra	lkfosf	frábær
 dóma	nkfo	dómur
 .	.	.
-
 Robert	e	Robert
 Carlyle	e	Carlyle
 er	sfg3en	vera
 viðurstyggilega	aa	viðurstyggilega
 góður	lkensf	góður
 !	!	!
-
 Idol-dómarinn	nkeng	idoldómari
 og	c	og
 söngkonan	nveng	söngkona
@@ -51,7 +48,6 @@ komast	snm	koma
 gegnum	ao	gegnum
 daginn	nkeog	dagur
 .	.	.
-
 Abdul	e	Abdul
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -82,7 +78,6 @@ við	ao	við
 að	cn	að
 stríða	sng	stríða
 .	.	.
-
 Abdul	e	Abdul
 hefur	sfg3en	hafa
 hrakið	ssg	hrekja
@@ -95,7 +90,6 @@ viðurkenna	sng	viðurkenna
 veikindi	nhfo	veikindi
 sín	fehfo	sinn
 .	.	.
-
 «	«	«
 Ég	fp1en	ég
 hef	sfg1en	hafa
@@ -111,7 +105,6 @@ títaníumplötur	nvfo	títaníumplata
 í	aþ	í
 hálsinum	nkeþg	háls
 .	.	.
-
 Ef	c	ef
 ég	fp1en	ég
 virðist	sfm1en	virða
@@ -130,7 +123,6 @@ er	sfg1en	vera
 í	aþ	í
 alvöru	nveþ	alvara
 .	.	.
-
 Ég	fp1en	ég
 fæ	sfg1en	fá
 verkjaköst	nhfo	verkjakast
@@ -158,7 +150,6 @@ daginn	nkeog	dagur
 segir	sfg3en	segja
 Abdul	e	Abdul
 .	.	.
-
 RSD	as	RSD
 er	sfg3en	vera
 krónískur	lkensf	krónískur
@@ -173,7 +164,6 @@ og	c	og
 skertri	lveþsf	skertur
 hreyfigetu	nveþ	hreyfigeta
 .	.	.
-
 Abdul	e	Abdul
 segir	sfg3en	segja
 að	c	að
@@ -194,7 +184,6 @@ sjúkdómnum	nkeþg	sjúkdómur
 hennar	fpvee	hún
 tilviki	nheþ	tilvik
 .	.	.
-
 «	«	«
 Mér	fp1eþ	ég
 hefur	sfg3en	hafa
@@ -224,7 +213,6 @@ hreinlega	aa	hreinlega
 gæfist	svm1eþ	gefa
 upp	aa	upp
 .	.	.
-
 En	c	en
 þá	aa	þá
 sá	sfg3eþ	sjá
@@ -235,7 +223,6 @@ við	ao	við
 mína	feveo	minn
 framkomu	nveo	framkoma
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 aldrei	aa	aldrei
@@ -266,12 +253,10 @@ er	sfg3en	vera
 hin	gven	hinn
 reiðasta	lvenve	reiður
 .	.	.
-
 Paula	e	Paula
 Abdul	e	Abdul
 með	ao	með
 taugasjúkdóm	nkeo	taugasjúkdómur
-
 Tuttugasta	lvenvf	tuttugasti
 og	c	og
 fyrsta	lvenve	fyrstur
@@ -287,7 +272,6 @@ kemur	sfg3en	koma
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Platan	nveng	plata
 heitir	sfg3en	heita
 Memory	e	Memory
@@ -315,7 +299,6 @@ Concord	e	Concord
 Music	e	Music
 Group	e	Group
 .	.	.
-
 Að	aþ	að
 venju	nveþ	venja
 semur	sfg3en	semja
@@ -334,7 +317,6 @@ hljóðfæri	nhfo	hljóðfæri
 á	aþ	á
 plötunni	nveþg	plata
 .	.	.
-
 Upptökur	nvfn	upptaka
 á	aþ	á
 plötunni	nveþg	plata
@@ -349,7 +331,6 @@ lauk	sfg3eþ	ljúka
 febrúar	nkeþ	febrúar
 síðastliðnum	lkeþsf	síðastliðinn
 .	.	.
-
 Síðasta	lvenve	síðari
 plata	nven	plata
 McCartneys	e	McCartneys
@@ -372,12 +353,10 @@ mjög	aa	mjög
 góðar	lvfosf	góður
 viðtökur	nvfo	viðtaka
 .	.	.
-
 Ný	lvensf	nýr
 plata	nven	plata
 frá	aþ	frá
 McCartney	e	McCartney
-
 Endurklippa	sng	endurklippa
 þurfti	sfg3eþ	þurfa
 tvö	tfhfo	tveir
@@ -394,7 +373,6 @@ að	c	að
 fengju	svg3fþ	fá
 flogakast	nheo	flogakast
 .	.	.
-
 Myndböndin	nhfng	myndband
 voru	sfg3fþ	vera
 gerð	sþghfn	gera
@@ -426,7 +404,6 @@ og	c	og
 á	aþ	á
 MTV	as	MTV
 .	.	.
-
 «	«	«
 Þetta	fahen	þessi
 verða	sfg3fn	verða
@@ -461,7 +438,6 @@ sem	ct	sem
 að	cn	að
 endurklippa	sng	endurklippa
 .	.	.
-
 Í	aþ	í
 fyrrnefnda	lheþvf	fyrrnefndur
 myndbandinu	nheþg	myndband
@@ -480,7 +456,6 @@ beint	sþghen	beina
 að	aþ	að
 hljómsveitinni	nveþg	hljómsveit
 .	.	.
-
 Virka	sfg3fn	virka
 þau	fphfn	það
 eins	aa	eins
@@ -495,7 +470,6 @@ myndböndum	nhfþ	myndband
 sem	c	sem
 þessum	fahfþ	þessi
 .	.	.
-
 Í	aþ	í
 myndbandinu	nheþg	myndband
 við	ao	við
@@ -518,7 +492,6 @@ myndbandið	nheog	myndband
 í	aþ	í
 sjónvarpi	nheþ	sjónvarp
 .	.	.
-
 Fjallað	sþghen	fjalla
 er	sfg3en	vera
 um	ao	um
@@ -536,7 +509,6 @@ breska	lheþvf	breskur
 tónlistartímaritinu	nheþg	tónlistartímarit
 NME	as	NME
 .	.	.
-
 Um	ao	um
 er	sfg3en	vera
 að	cn	að
@@ -560,7 +532,6 @@ og	c	og
 Filipino	e	Filipino
 Girl	e	Girl
 .	.	.
-
 «	«	«
 Þetta	fahen	þessi
 er	sfg3en	vera
@@ -577,7 +548,6 @@ bakið	nheog	bak
 á	aþ	á
 okkur	fp1fþ	ég
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 náttúrulega	aa	náttúrulega
@@ -595,11 +565,9 @@ stendur	sfg3en	standa
 blaðinu	nheþg	blað
 ,	,	,
 »	»	»
-
 segir	sfg3en	segja
 Gunnar	nken-s	Gunnar
 .	.	.
-
 Næsta	lvenve	næstur
 smáskífa	nven	smáskífa
 Jakobínarínu	nvee-s	Jakobínarína
@@ -636,7 +604,6 @@ Tónum	nkfþ-s	Tónn
 24.	ta	24.
 september	nkeo	september
 .	.	.
-
 Jakobínarína	nven-s	Jakobínarína
 spilaði	sfg3eþ	spila
 nýverið	aa	nýverið
@@ -662,7 +629,6 @@ að	aþ	að
 sögn	nveþ	sögn
 Gunnars	nkee-s	Gunnar
 .	.	.
-
 Í	aþ	í
 júlí	nkeþ	júlí
 fer	sfg3en	fara
@@ -679,7 +645,6 @@ nýjustu	lveove	nýr
 smáskífu	nveo	smáskífa
 sína	feveo	sinn
 .	.	.
-
 Dúettinn	nkeng	dúett
 Þrumukettir	nkfn-s	Þrumukettir
 hefur	sfg3en	hafa
@@ -691,7 +656,6 @@ við	ao	við
 Nordic	e	Nordic
 Notes	e	Notes
 .	.	.
-
 Plata	nven	plata
 sveitarinnar	nveeg	sveit
 ,	,	,
@@ -715,7 +679,6 @@ og	c	og
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Þrumkettir	nkfn-s	Þrumkettir
 voru	sfg3fþ	vera
 stofnaðir	sþgkfn	stofna
@@ -730,7 +693,6 @@ um	ao	um
 svipað	lheosf	svipaður
 leyti	nheo	leyti
 .	.	.
-
 Á	aa	á
 meðal	ae	meðal
 þeirra	fakfe	sá
@@ -752,7 +714,6 @@ Scholey	e	Scholey
 frá	aþ	frá
 Skotlandi	nheþ-s	Skotland
 .	.	.
-
 Áður	aa	áður
 hafði	sfg3eþ	hafa
 sveitin	nveng	sveit
@@ -779,7 +740,6 @@ pælandi	slg	pæla
 er	sfg3en	vera
 í	aa	í
 .	.	.
-
 Þrumukettir	nkfn-s	Þrumukettir
 spiluðu	sfg3fþ	spila
 nýverið	aa	nýverið
@@ -799,7 +759,6 @@ að	c	að
 þekktust	svm3fþ	þekkja
 ekki	aa	ekki
 .	.	.
-
 «	«	«
 Þetta	fahen	þessi
 eru	sfg3fn	vera
@@ -807,12 +766,10 @@ eiginlega	aa	eiginlega
 kattargrímur	nvfn	kattargríma
 ,	,	,
 »	»	»
-
 segir	sfg3en	segja
 annar	foken	annar
 Þrumukattanna	nkfegs	Þrumukattur
 .	.	.
-
 Vill	sfg3en	vilja
 hann	fpken	hann
 ekki	aa	ekki
@@ -827,7 +784,6 @@ rokkurunum	nkfþg	rokkari
 í	aþ	í
 Slipknot	e	Slipknot
 .	.	.
-
 «	«	«
 Við	fp1fn	ég
 erum	sfg1fn	vera
@@ -838,7 +794,6 @@ sem	ct	sem
 nota	sfg3fn	nota
 grímur	nvfo	gríma
 .	.	.
-
 Þetta	fahen	þessi
 tengist	sfm3en	tengja
 líka	aa	líka
@@ -859,7 +814,6 @@ gerði	sfg3eþ	gera
 það	fpheo	það
 .	.	.
 »	»	»
-
 Þrumukettir	nkfn-s	Þrumukettir
 í	aþ	í
 Þýskalandi	nheþ-s	Þýskaland
@@ -876,7 +830,6 @@ Williams	e	Williams
 sé	svg3en	vera
 ástfanginn	lkensf	ástfanginn
 .	.	.
-
 Sú	faven	sá
 heppna	lvenvf	heppinn
 heitir	sfg3en	heita
@@ -890,7 +843,6 @@ leikkona	nven	leikkona
 frá	aþ	frá
 Bandaríkjunum	nhfþgs	Bandaríki
 .	.	.
-
 Robbie	e	Robbie
 og	c	og
 Ayda	e	Ayda
@@ -926,7 +878,6 @@ stúlku	nveþ	stúlka
 langan	lkeosf	langur
 tíma	nkeo	tími
 .	.	.
-
 «	«	«
 Þau	fphfn	það
 eru	sfg3fn	vera
@@ -953,7 +904,6 @@ horfa	sng	horfa
 á	ao	á
 DVD	as	DVD
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 fallinn	lkensf	fallinn
@@ -965,11 +915,9 @@ er	sfg3en	vera
 gagnkvæm	lvensf	gagnkvæmur
 ,	,	,
 »	»	»
-
 segir	sfg3en	segja
 kunninginn	nkeng	kunningi
 .	.	.
-
 Ayda	e	Ayda
 þessi	faven	þessi
 hefur	sfg3en	hafa
@@ -990,7 +938,6 @@ of	e	of
 our	e	our
 Lives	e	Lives
 .	.	.
-
 Hún	fpven	hún
 þykir	sfg3en	þykja
 hin	gven	hinn
@@ -1010,10 +957,8 @@ hennar	fpvee	hún
 innri	lkeþvm	innri
 manni	nkeþ	maður
 .	.	.
-
 Robbie	e	Robbie
 ástfanginn	lkensf	ástfanginn
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 klárlega	aa	klárlega
@@ -1040,7 +985,6 @@ október	nkeo	október
 árið	nheog	ár
 2005	ta	2005
 .	.	.
-
 Eyjólfur	nken-s	Eyjólfur
 hafði	sfg3eþ	hafa
 mjög	aa	mjög
@@ -1049,7 +993,6 @@ reynslu	nveo	reynsla
 sem	ct	sem
 þjálfari	nken	þjálfari
 .	.	.
-
 Hafði	sfg3eþ	hafa
 aðeins	aa	aðeins
 þjálfað	ssg	þjálfa
@@ -1067,7 +1010,6 @@ með	ao	með
 það	faheo	sá
 lið	nheo	lið
 .	.	.
-
 Hann	fpken	hann
 hafði	sfg3eþ	hafa
 þó	aa	þó
@@ -1083,7 +1025,6 @@ sem	ct	sem
 réð	sfg3eþ	ráða
 Eyjólf	nkeo-s	Eyjólfur
 .	.	.
-
 Fyrsti	lkenve	fyrstur
 leikurinn	nkeng	leikur
 undir	aþ	undir
@@ -1095,7 +1036,6 @@ lok	nhfo	lok
 febrúar	nkee	febrúar
 2006	ta	2006
 .	.	.
-
 Vináttuleikur	nken	Vináttuleikur
 gegn	aþ	gegn
 Trinídad	e	Trinídad
@@ -1104,7 +1044,6 @@ Tóbagó	e	Tóbagó
 í	aþ	í
 London	e	London
 .	.	.
-
 «	«	«
 Engar	fovfn	enginn
 framfarir	nvfn	framför
@@ -1114,7 +1053,6 @@ leik	nkeþ	leikur
 Eyjólfs	nkee-s	Eyjólfur
 .	.	.
 »	»	»
-
 Það	fphen	það
 nákvæmlega	aa	nákvæmlega
 sama	fbhen	sami
@@ -1138,7 +1076,6 @@ síðan	aa	síðan
 Loftus	e	Loftus
 Road	e	Road
 .	.	.
-
 Í	aþ	í
 greininni	nveþg	grein
 um	ao	um
@@ -1152,7 +1089,6 @@ og	c	og
 engan	fokeo	enginn
 sóknarleik	nkeo	sóknarleikur
 .	.	.
-
 Það	fphen	það
 á	sfg3en	eiga
 einnig	aa	einnig
@@ -1160,7 +1096,6 @@ við	aa	við
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ekki	aa	ekki
@@ -1172,7 +1107,6 @@ framfarir	nvfo	framför
 neinu	foheþ	neinn
 sviði	nheþ	svið
 .	.	.
-
 Eyjólfur	nken-s	Eyjólfur
 er	sfg3en	vera
 búinn	lkensf	búinn
@@ -1189,7 +1123,6 @@ hefur	sfg3en	hafa
 liðið	nheng	lið
 unnið	ssg	vinna
 .	.	.
-
 Í	aþ	í
 fimm	tfkfþ	fimm
 leikjum	nkfþ	leikur
@@ -1199,7 +1132,6 @@ mistekist	ssm	mistaka
 að	cn	að
 skora	sng	skora
 .	.	.
-
 Mörkin	nhfng	mark
 eru	sfg3fn	vera
 þess	fphee	það
@@ -1207,7 +1139,6 @@ utan	ae	utan
 aðeins	aa	aðeins
 fimm	tfhfn	fimm
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 nokkuð	fohen	nokkur
@@ -1217,7 +1148,6 @@ marki	nheþ	mark
 í	aþ	í
 leik	nkeþ	leikur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 átakanleg	lvensf	átakanlegur
@@ -1231,7 +1161,6 @@ orð	nhfn	orð
 um	ao	um
 sóknarleikinn	nkeog	sóknarleikur
 .	.	.
-
 Samt	aa	samt
 eigum	sfg1fn	eiga
 við	fp1fn	ég
@@ -1239,7 +1168,6 @@ framherja	nkeo	framherji
 í	aþ	í
 heimsklassa	nkeþ	heimsklassi
 .	.	.
-
 Hann	fpken	hann
 hefur	sfg3en	hafa
 ekki	aa	ekki
@@ -1262,7 +1190,6 @@ skoraði	sfg3eþ	skora
 síðast	aae	síðar
 landsliðsmark	nheo	landsliðsmark
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ekki	aa	ekki
@@ -1281,7 +1208,6 @@ slakur	lkensf	slakur
 á	aþ	á
 köflum	nkfþ	kafli
 .	.	.
-
 Til	ae	til
 að	cn	að
 mynda	sng	mynda
@@ -1301,7 +1227,6 @@ sæti	nheþ	sæti
 okkar	fp1fe	ég
 riðils	nkee	riðill
 .	.	.
-
 Meira	lheovm	mikill
 að	cn	að
 segja	sng	segja
@@ -1309,7 +1234,6 @@ Liechtenstein	e	Liechtenstein
 lagði	sfg3eþ	leggja
 Letta	nkfo-s	Letti
 .	.	.
-
 Þessi	fahfn	þessi
 fjögur	tfhfn	fjórir
 mörk	nhfn	mark
@@ -1326,7 +1250,6 @@ leikjum	nkfþ	leikur
 í	aþ	í
 undankeppninni	nveþg	undankeppni
 .	.	.
-
 Í	aþ	í
 þessum	fakeþ	þessi
 bíl	nkeþ	bíll
@@ -1336,7 +1259,6 @@ eitthvað	foheo	einhver
 fyrir	ao	fyrir
 sig	fpkfo	sig
 .	.	.
-
 Ökumaðurinn	nkeng	ökumaður
 fær	sfg3en	fá
 lipran	lkeosf	lipur
@@ -1359,7 +1281,6 @@ sitja	sfg3fn	sitja
 í	aþ	í
 aftursætinu	nheþg	aftursæti
 .	.	.
-
 «	«	«
 Þetta	fahen	þessi
 er	sfg3en	vera
@@ -1385,7 +1306,6 @@ aftan	aa	aftan
 á	aþ	á
 framsætunum	nhfþg	framsæti
 .	.	.
-
 Geymslurýmið	nheng	geymslurými
 er	sfg3en	vera
 líka	aa	líka
@@ -1400,7 +1320,6 @@ og	c	og
 milli	ae	milli
 framsæta	nhfe	framsæti
 .	.	.
-
 Þar	aa	þar
 er	sfg3en	vera
 færanlegur	lkensf	færanlegur
@@ -1432,7 +1351,6 @@ aukabúnaður	nken	aukabúnaður
 í	aþ	í
 sumarferðunum	nvfþg	sumarferð
 .	.	.
-
 Bíllinn	nkeng	bíll
 er	sfg3en	vera
 raunar	aa	raunar
@@ -1442,7 +1360,6 @@ hannaður	lkensf	hannaður
 til	ae	til
 ferðalaga	nhfe	ferðalag
 .	.	.
-
 Renault	e	Renault
 Scenic	e	Scenic
 er	sfg3en	vera
@@ -1451,7 +1368,6 @@ mjög	aa	mjög
 í	aþ	í
 akstri	nkeþ	akstur
 .	.	.
-
 Bílstjórinn	nkeng	bílstjóri
 situr	sfg3en	sitja
 hátt	aa	hátt
@@ -1461,7 +1377,6 @@ sér	sfg3en	sjá
 vel	aa	vel
 yfir	aa	yfir
 .	.	.
-
 Bíllinn	nkeng	bíll
 er	sfg3en	vera
 þýður	lkensf	þýður
@@ -1475,7 +1390,6 @@ vel	aa	vel
 á	aþ	á
 veginum	nkeþg	vegur
 .	.	.
-
 Allar	fovfn	allur
 aðstæður	nvfn	aðstæður
 ökumanns	nkee	ökumaður
@@ -1516,7 +1430,6 @@ dæmi	nhfn	dæmi
 séu	svg3fn	vera
 tekin	sþghfn	taka
 .	.	.
-
 Þegar	c	þegar
 á	ao	á
 heildina	nveog	heild
@@ -1528,10 +1441,8 @@ alveg	aa	alveg
 til	ae	til
 fyrirmyndar	nvee	fyrirmynd
 .	.	.
-
 sigridur@frettabladid.is	v	sigridur@frettabladid.is
 steinunn@frettabladid.is	v	steinunn@frettabladid.is
-
 Hyundai	e	Hyundai
 hefur	sfg3en	hafa
 aldrei	aa	aldrei
@@ -1556,7 +1467,6 @@ og	c	og
 mars	nkeþ	mars
 síðastliðnum	lkeþsf	síðastliðinn
 .	.	.
-
 Allar	fovfn	allur
 þrjár	tfvfn	þrír
 verksmiðjur	nvfn	verksmiðja
@@ -1583,7 +1493,6 @@ fréttatilkynningu	nveþ	fréttatilkynning
 B	nxee-s	B
 &	c	&
 L.	nxee-s	L
-
 Kostir	nkfn	kostur
 :	:	:
 Ökumaður	nken	ökumaður
@@ -1595,7 +1504,6 @@ og	c	og
 sjá	sfg3fn	sjá
 því	aa	því
 vel	aa	vel
-
 Einstaklega	aa	einstaklega
 þægileg	lhfnsf	þægilegur
 sæti	nhfn	sæti
@@ -1608,7 +1516,6 @@ við	aa	við
 að	cn	að
 vera	sng	vera
 hörð	lhfnsf	harður
-
 Fótarými	nhen	fótarými
 farþega	nkfe	farþegi
 í	aþ	í
@@ -1623,7 +1530,6 @@ hæð	nven	hæð
 miðju	lheþsf	miður
 gólfi	nheþ	gólf
 )	)	)
-
 Mikið	lhensf	mikill
 geymslupláss	nhen	geymslupláss
 -	-	-
@@ -1632,14 +1538,12 @@ er	sfg3en	vera
 hver	foken	hver
 kimi	nken	kimi
 nýttur	sþgken	nýta
-
 Gallar	nkfn	galli
 :	:	:
 Svolítið	aa	svolítið
 þunglamalegur	lkensf	þunglamalegur
 í	aþ	í
 beygjum	nvfþ	beygja
-
 Verð	nhen	verð
 *	*	*
 Beinskiptur	lkensf	beinskiptur
@@ -1655,7 +1559,6 @@ aukabúnaður	nken	aukabúnaður
 er	sfg3en	vera
 fáanlegur	lkensf	fáanlegur
 .	.	.
-
 Falleg	lvensf	fallegur
 hönnun	nven	hönnun
 og	c	og
@@ -1665,7 +1568,6 @@ fyrir	ao	fyrir
 alla	foveo	allur
 fjölskylduna	nveog	fjölskylda
 .	.	.
-
 HÚSRÁÐ	nhfn	húsráð
 :	:	:
 BÍLAR	nkfn	bíll
@@ -1688,7 +1590,6 @@ fresti	nkeþ	frestur
 á	ao	á
 sumrin	nhfog	sumar
 .	.	.
-
 «	«	«
 Við	fp1fn	ég
 ætlum	sfg1fn	ætla
@@ -1717,7 +1618,6 @@ fyrirtæki	nhen	fyrirtæki
 í	aþ	í
 Garðabænum	nkeþgs	Garðabær
 .	.	.
-
 Björgvin	nken-s	Björgvin
 segir	sfg3en	segja
 alla	fokfo	allur
@@ -1738,7 +1638,6 @@ sem	ct	sem
 tengist	svm3en	tengja
 bílarafmagni	nheþ	bílarafmagn
 .	.	.
-
 Þeir	fpkfn	hann
 sjá	sfg3fn	sjá
 um	ao	um
@@ -1764,7 +1663,6 @@ hljómflutningstæki	nhfo	hljómflutningstæki
 og	c	og
 þjófavarnarkerfi	nhfo	þjófavarnarkerfi
 .	.	.
-
 «	«	«
 Þjófnaður	nken	þjófnaður
 á	aþ	á
@@ -1782,7 +1680,6 @@ eftir	aþ	eftir
 samkvæmt	aþ	samkvæmt
 því	fpheþ	það
 .	.	.
-
 Við	fp1fn	ég
 aðstoðum	sfg1fn	aðstoða
 fólk	nheo	fólk
@@ -1804,7 +1701,6 @@ stilla	sng	stilla
 næmi	nheo	næmi
 þess	fphee	það
 .	.	.
-
 Um	ao	um
 áramótin	nhfog	áramót
 getur	sfg3en	geta
@@ -1830,7 +1726,6 @@ springa	sfg3fn	springa
 segir	sfg3en	segja
 Björgvin	nken-s	Björgvin
 .	.	.
-
 Enn	aa	enn
 fremur	aam	fremur
 sér	sfg3en	sjá
@@ -1851,7 +1746,6 @@ gangsettur	sþgken	gangsetja
 með	aþ	með
 fjarstýringu	nveþ	fjarstýring
 .	.	.
-
 «	«	«
 Maður	nken	maður
 getur	sfg3en	geta
@@ -1880,7 +1774,6 @@ eldhúsgluggann	nkeog	eldhúsgluggi
 segir	sfg3en	segja
 Björgvin	nken-s	Björgvin
 .	.	.
-
 «	«	«
 Og	c	og
 þarf	sfg3en	þurfa
@@ -1894,7 +1787,6 @@ kaldan	lkeosf	kaldur
 bílinn	nkeog	bíll
 .	.	.
 »	»	»
-
 Björgvin	nken-s	Björgvin
 segir	sfg3en	segja
 allan	fokeo	allur
@@ -1916,7 +1808,6 @@ er	sfg3en	vera
 boði	nheþ	boð
 sérpöntunarþjónusta	nven	sérpöntunarþjónusta
 .	.	.
-
 Jafnframt	aa	jafnframt
 er	sfg3en	vera
 þar	aa	þar
@@ -1940,7 +1831,6 @@ og	c	og
 margt	lheosf	margur
 fleira	lheovm	margur
 .	.	.
-
 «	«	«
 Í	aþ	í
 raun	nveþ	raun
@@ -1969,11 +1859,9 @@ upp	aa	upp
 segir	sfg3en	segja
 Björgvin	nken-s	Björgvin
 .	.	.
-
 Þvottur	nken	þvottur
 og	c	og
 þjófavarnarkerfi	nhfn	þjófavarnarkerfi
-
 DAEWOO	e	DAEWOO
 lyftarar	nkfn	lyftari
 Rafmagnslyftarar	nkfn	rafmagnslyftari
@@ -1987,7 +1875,6 @@ frá	aþ	frá
 -	-	-
 15t	ta	15t
 .	.	.
-
 Partur	nken	partur
 -	-	-
 Spyrnan	nveng	spyrna
@@ -2007,7 +1894,6 @@ námskeið	nhen	námskeið
 hefst	sfm3en	hefja
 13.	ta	13.
 maí	nkeo	maí
-
 Hvað	fshen	hver
 ræður	sfg3en	ráða
 úrslitum	nhfþ	úrslit
@@ -2016,7 +1902,6 @@ val	nheo	val
 á	aþ	á
 bíl	nkeþ	bíll
 ?	?	?
-
 Vissar	lvfnsf	viss
 upplýsingar	nvfn	upplýsing
 úr	aþ	úr
@@ -2027,7 +1912,6 @@ dæmis	nhee	dæmi
 lág	lvensf	lágur
 bilanatíðni	nven	bilanatíðni
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 nýbúinn	lkensf	nýbúinn
@@ -2047,10 +1931,8 @@ vel	aa	vel
 slíkum	fbvfþ	slíkur
 prófunum	nvfþ	prófun
 .	.	.
-
 Jón	nken-s	Jón
 Sigurðsson	nken-s	Sigurðsson
-
 JÓN	nken-s	Jón
 HEIÐAR	nken-s	Heiðar
 ÓLAFSSON	nken-s	Ólafsson
@@ -2073,12 +1955,10 @@ KAUPA	sng	kaupa
 EINN	tfkeo	einn
 SLÍKAN	fbkeo	slíkur
 .	.	.
-
 Blessaður	lkensf	blessaður
 og	c	og
 sæll	lkensf	sæll
 !	!	!
-
 Mig	fp1eo	ég
 hefur	sfg3en	hafa
 lengið	x	lengi
@@ -2090,14 +1970,12 @@ með	aþ	með
 gamla	lheþvf	gamall
 laginu	nheþg	lag
 .	.	.
-
 Eyða	sfg3fn	eyða
 þessir	fakfn	þessi
 bílar	nkfn	bíll
 svakalega	aa	svakalega
 miklu	lheþsf	mikill
 ?	?	?
-
 Er	sfg3en	vera
 maður	nken	maður
 kannski	aa	kannski
@@ -2113,9 +1991,7 @@ gamlan	lkeosf	gamall
 amerískan	lkeosf	amerískur
 bíl	nkeo	bíll
 ?	?	?
-
 Jóhann	nken-s	Jóhann
-
 Ég	fp1en	ég
 kannast	sfm1en	kanna
 vel	aa	vel
@@ -2129,7 +2005,6 @@ alvöru	nvee	alvara
 amerískan	lkeosf	amerískur
 bíl	nkeo	bíll
 .	.	.
-
 Fátt	lhensf	fár
 er	sfg3en	vera
 töffaralegra	lhenvm	töffaralegur
@@ -2146,7 +2021,6 @@ sándi	nheþ	sánd
 opnu	lheþsf	opinn
 pústi	nheþ	púst
 .	.	.
-
 Þessir	fakfn	þessi
 gömlu	lkfnvf	gamall
 mótorar	nkfn	mótor
@@ -2174,7 +2048,6 @@ gengur	sfg3en	ganga
 og	c	og
 gerist	sfm3en	gera
 .	.	.
-
 Það	fahen	sá
 sem	ct	sem
 hefur	sfg3en	hafa
@@ -2197,7 +2070,6 @@ yfirleitt	aa	yfirleitt
 mjög	aa	mjög
 þungir	lkfnsf	þungur
 .	.	.
-
 Þumalputtareglan	nveng	þumalputtaregla
 er	sfg3en	vera
 sú	faven	sá
@@ -2216,7 +2088,6 @@ kílóum	nhfþ	kíló
 100	ta	100
 kílómetra	nkfo	kílómetri
 .	.	.
-
 Þannig	aa	þannig
 að	c	að
 bíll	nken	bíll
@@ -2232,7 +2103,6 @@ hverja	fokfo	hver
 100	ta	100
 kílómetra	nkfo	kílómetri
 .	.	.
-
 Á	aþ	á
 góðum	lkeþsf	góður
 degi	nkeþ	dagur
@@ -2259,7 +2129,6 @@ getur	sfg3en	geta
 eytt	ssg	eyða
 miklu	lheþsf	mikill
 .	.	.
-
 Ekki	aa	ekki
 má	sfg3en	mega
 svo	aa	svo
@@ -2273,7 +2142,6 @@ bílar	nkfn	bíll
 mikið	lheosf	mikill
 viðhald	nheo	viðhald
 .	.	.
-
 Ef	c	ef
 maður	nken	maður
 þarf	sfg3en	þurfa
@@ -2289,7 +2157,6 @@ að	c	að
 verði	svg3en	verða
 dýrt	lhensf	dýr
 .	.	.
-
 Ég	fp1en	ég
 ráðlegg	sfg1en	ráðleggja
 þér	fp2eþ	þú
@@ -2300,7 +2167,6 @@ láta	sng	láta
 drauminn	nkeog	draumur
 rætast	snm	ræta
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 eina	lvenvf	einn
@@ -2311,7 +2177,6 @@ losna	sng	losna
 við	ao	við
 löngunina	nveog	löngun
 .	.	.
-
 Hafðu	sbg2en	hafa
 svo	aa	svo
 vélina	nveog	vél
@@ -2324,13 +2189,11 @@ keyrðu	sbg2en	keyra
 skynsamlegum	lkeþsf	skynsamlegur
 hraða	nkeþ	hraði
 !	!	!
-
 Vantar	sfg3en	vanta
 þig	fp2eo	þú
 góð	lhfosf	góður
 ráð	nhfo	ráð
 ?	?	?
-
 Sendu	sbg2en	senda
 póst	nkeo	póstur
 á	ao	á
@@ -2346,7 +2209,6 @@ setja	sng	setja
 í	ao	í
 bíla	nkfo	bíll
 .	.	.
-
 SMÁ	lvfeof	smá
 AUGLÝSINGA	nvfe	auglýsing
 SÍMINN	nkeng	sími
@@ -2356,24 +2218,20 @@ ALLA	fokfo	allur
 DAGA	nkfo	dagur
 FRÁ	aþ	frá
 8-22	ta	8-22
-
 Bílskúrssala	nven	bílskúrssala
 Efstasundi	nheþ-s	Efstasund
 24	ta	24
 .	.	.
-
 Ýmsar	fovfn	ýmis
 barnavörur	nvfn	barnavara
 og	c	og
 ýmislegt	lhensf	ýmislegur
 fleira	lhenvm	margur
 .	.	.
-
 Opið	lhensf	opinn
 frá	aþ	frá
 12-16	ta	12-16
 .	.	.
-
 Coleman	e	Coleman
 Redwood	e	Redwood
 9	ta	9
@@ -2381,18 +2239,15 @@ fet	nhfn	fet
 Árg.	as	Árg.
 2000	ta	2000
 .	.	.
-
 Fortjald	nhen	fortjald
 ,	,	,
 ísskápur	nken	ísskápur
 og	c	og
 sólarsella	nven	sólarsella
 .	.	.
-
 Verð	nhen	verð
 730.000	ta	730.000
 .	.	.
-
 Til	ae	til
 sýnis	nhee	sýni
 hjá	aþ	hjá
@@ -2402,21 +2257,17 @@ sími	nken	sími
 533	ta	533
 1414	ta	1414
 .	.	.
-
 Coleman	e	Coleman
 Taos	e	Taos
 8	ta	8
 fet	nhfn	fet
 .	.	.
-
 Árg.	as	Árg.
 1998	ta	1998
 .	.	.
-
 Verð	nhen	verð
 420.000	ta	420.000
 .	.	.
-
 Til	ae	til
 sýnis	nhee	sýni
 hjá	aþ	hjá
@@ -2426,7 +2277,6 @@ sími	nken	sími
 533	ta	533
 1414	ta	1414
 .	.	.
-
 Coleman	e	Coleman
 Sea	e	Sea
 Pine	e	Pine
@@ -2435,15 +2285,12 @@ fet	nhfn	fet
 Árg.	as	Árg.
 1999	ta	1999
 .	.	.
-
 Hlaðin	lvensf	hlaðinn
 aukahlutum	nkfþ	aukahlutur
 .	.	.
-
 Verð	nhen	verð
 780.000	ta	780.000
 .	.	.
-
 Til	ae	til
 sýnis	nhee	sýni
 hjá	aþ	hjá
@@ -2453,28 +2300,23 @@ sími	nken	sími
 533	ta	533
 1414	ta	1414
 .	.	.
-
 Coleman	e	Coleman
 Taos	e	Taos
 8	ta	8
 fet	nhfn	fet
 .	.	.
-
 Árg.	as	Árg.
 2001	ta	2001
 .	.	.
-
 Einstaklega	aa	einstaklega
 vel	aa	vel
 með	aa	með
 farin	x	farinn
 vagn	nken	vagn
 .	.	.
-
 Verð	nhen	verð
 680.000	ta	680.000
 .	.	.
-
 Til	ae	til
 sýnis	nhee	sýni
 hjá	aþ	hjá
@@ -2484,7 +2326,6 @@ sími	nken	sími
 533	ta	533
 1414	ta	1414
 .	.	.
-
 Coleman	e	Coleman
 Santa	e	Santa
 Fe	e	Fe
@@ -2493,18 +2334,15 @@ fet	nhfn	fet
 Árg.	as	Árg.
 2002	ta	2002
 .	.	.
-
 Einstaklega	aa	einstaklega
 vel	aa	vel
 með	aa	með
 farin	x	farinn
 vagn	nken	vagn
 .	.	.
-
 Verð	nhen	verð
 930.000	ta	930.000
 .	.	.
-
 Til	ae	til
 sýnis	nhee	sýni
 hjá	aþ	hjá
@@ -2514,7 +2352,6 @@ sími	nken	sími
 533	ta	533
 1414	ta	1414
 .	.	.
-
 Coleman	e	Coleman
 Sedona	e	Sedona
 8	ta	8
@@ -2522,18 +2359,15 @@ fet	nhfn	fet
 Árg.	as	Árg.
 1993	ta	1993
 .	.	.
-
 Fortjald	nhen	fortjald
 ,	,	,
 gamall	lkensf	gamall
 og	c	og
 góður	lkensf	góður
 .	.	.
-
 Verð	nhen	verð
 460.000	ta	460.000
 .	.	.
-
 Til	ae	til
 sýnis	nhee	sýni
 hjá	aþ	hjá
@@ -2543,7 +2377,6 @@ sími	nken	sími
 533	ta	533
 1414	ta	1414
 .	.	.
-
 Evró	nxen-s	Evró
 -	-	-
 Notaðir	lkfnsf	notaður
@@ -2556,7 +2389,6 @@ Sími	nken	sími
 533	ta	533
 1414	ta	1414
 www.evro.is	v	www.evro.is
-
 HONDA	e	HONDA
 CRF	as	CRF
 450	ta	450
@@ -2564,11 +2396,9 @@ R	x	r
 árg.	as	árg.
 2002	ta	2002
 .	.	.
-
 Verð	nhen	verð
 590	ta	590
 þ.	as	þ.
-
 TOYOTA	e	Toyota
 LANDCR	e	LANDCR
 90	ta	90
@@ -2578,40 +2408,32 @@ VX	as	VX
 38	ta	38
 )	)	)
 nýsk.	as	nýsk.
-
 5/99	ta	5/99
 km	as	km
 115	ta	115
 .	.	.
-
 Ssk	as	Ssk
 .	.	.
-
 Verð	nhen	verð
 3.690	ta	3.690
 ,	,	,
 lán	nhen	lán
 1.950	ta	1.950
 þ.	as	þ.
-
 Ath.	as	Ath.
 skipti	nhfo	skipti
 .	.	.
-
 NISSAN	e	NISSAN
 PRIMERA	e	PRIMERA
 ELEGANCE	e	ELEGANCE
 2000	ta	2000
 nýsk.	as	nýsk.
-
 2002	ta	2002
 km	as	km
 20	ta	20
 þ.	as	þ.
-
 Ssk	as	Ssk
 .	.	.
-
 Verð	nhen	verð
 1.990	ta	1.990
 þ.	as	þ.
@@ -2619,7 +2441,6 @@ Verð	nhen	verð
 lán	nhen	lán
 1.600	ta	1.600
 þ.	as	þ.
-
 ATH.	as	ATH.
 SKIPTI	nhfo	skipti
 Á	aþ	á
@@ -2632,7 +2453,6 @@ LTD	e	LTD
 /	/	/
 OVERLAND	e	OVERLAND
 .	.	.
-
 Nýja	lvenvf	nýr
 bílahöllin	nveng	bílahöll
 Funahöfða	nkeþ-s	Funahöfði
@@ -2640,13 +2460,11 @@ Funahöfða	nkeþ-s	Funahöfði
 ,	,	,
 112	ta	112
 Rvk.	as	Rvk.
-
 Sími	nken	sími
 :	:	:
 567	ta	567
 2277	ta	2277
 www.notadirbilar.is	v	www.notadirbilar.is
-
 TOYOTA	e	Toyota
 LAND	e	LAND
 CRUISER	e	CRUISER
@@ -2672,20 +2490,16 @@ DRIFLÆSINGAR	nvfn	driflæsing
 ,	,	,
 NÝ	lhfnsf	nýr
 35	ta	35
-
 DEKK	nhfn	dekk
 O.FL.	as	O.FL.
-
 TOPPEINTAK	nhen	toppeintak
 !	!	!
-
 V.	as	V.
 2.950	ta	2.950
 Þ.	as	Þ.
 ATH.	as	ATH.
 skipti	nhfo	skipti
 .	.	.
-
 S.	as	s.
 864	ta	864
 2430	ta	2430
@@ -2693,13 +2507,11 @@ eða	c	eða
 565	ta	565
 2430	ta	2430
 .	.	.
-
 Patrol	e	Patrol
 '	'	'
 93	ta	93
 árg.	as	árg.
 38	ta	38
-
 dekk	nhfn	dekk
 ,	,	,
 aukatankur	nken	aukatankur
@@ -2710,25 +2522,21 @@ allt	fohen	allur
 það	fahen	sá
 helsta	lhenve	heldri
 .	.	.
-
 Ekinn	lkensf	ekinn
 177	ta	177
 þ.	as	þ.
-
 Lítur	sfg3en	líta
 nánast	aae	náið
 út	aa	út
 sem	c	sem
 nýr	lkensf	nýr
 .	.	.
-
 Uppl.	as	uppl.
 í	aþ	í
 s.	as	s.
 894	ta	894
 4005	ta	4005
 .	.	.
-
 TOYOTA	e	Toyota
 LANDCRUISER	e	LANDCRUISER
 100	ta	100
@@ -2759,7 +2567,6 @@ SKIPTI	nhfo	skipti
 STÓRGLÆSILEGUR	lkensf	stórglæsilegur
 JEPPI	nken	jeppi
 !	!	!
-
 Litla	lvenvf	lítill
 bílasalan	nveng	bílasala
 Funahöfða	nkeþ-s	Funahöfði
@@ -2767,13 +2574,11 @@ Funahöfða	nkeþ-s	Funahöfði
 ,	,	,
 112	ta	112
 Rvk.	as	Rvk.
-
 Sími	nken	sími
 :	:	:
 587	ta	587
 7777	ta	7777
 www.litla.is	v	www.litla.is
-
 Öflugur	lkensf	öflugur
 vinnuþjarkur	nken	vinnuþjarkur
 í	aþ	í
@@ -2782,14 +2587,12 @@ standi	nheþ	stand
 !	!	!
 !	!	!
 !	!	!
-
 M.Benz	e	M.Benz
 709	ta	709
 dísel	nxeo	dísel
 árg.	as	árg.
 1990	ta	1990
 .	.	.
-
 Sturtupallur	nken	sturtupallur
 ,	,	,
 krókur	nken	krókur
@@ -2801,10 +2604,8 @@ nýskoðaður	lkensf	nýskoðaður
 !	!	!
 !	!	!
 !	!	!
-
 V	x	v
 .	.	.
-
 880	ta	880
 þ.	as	þ.
 +	+	+
@@ -2812,7 +2613,6 @@ VSK	as	VSK
 !	!	!
 !	!	!
 !	!	!
-
 Til	ae	til
 sýnis	nhee	sýni
 og	c	og
@@ -2827,7 +2627,6 @@ sími	nken	sími
 562	ta	562
 1717	ta	1717
 .	.	.
-
 Sjá	sng	sjá
 fleiri	lvfovm	margur
 myndir	nvfo	mynd
@@ -2837,7 +2636,6 @@ www.bilalif.is	v	www.bilalif.is
 *	*	*
 *	*	*
 ATH.	as	ATH.
-
 opið	lhensf	opinn
 9:00	ta	9:00
 til	ae	til
@@ -2845,7 +2643,6 @@ til	ae	til
 *	*	*
 *	*	*
 *	*	*
-
 Skoda	e	Skoda
 Felicia	e	Felicia
 sendibíll	nken	sendibíll
@@ -2860,14 +2657,12 @@ km	as	km
 árg.	as	árg.
 12/98	ta	12/98
 .	.	.
-
 V.	as	V.
 350	ta	350
 þús.	as	þús.
 +	+	+
 vsk	as	vsk
 .	.	.
-
 «	«	«
 Þessi	faken	þessi
 vill	sfg3en	vilja
@@ -2876,14 +2671,12 @@ komast	snm	koma
 vinnu	nveo	vinna
 »	»	»
 .	.	.
-
 Ath.	as	Ath.
 tveir	tfkfn	tveir
 bílar	nkfn	bíll
 í	aþ	í
 boði	nheþ	boð
 .	.	.
-
 VOLVO	e	VOLVO
 850	ta	850
 stw	e	stw
@@ -2903,7 +2696,6 @@ sjálfskiptur	lkensf	sjálfskiptur
 ,	,	,
 spoiler	e	spoiler
 .	.	.
-
 V.	as	V.
 1.090	ta	1.090
 þús.	as	þús.
@@ -2913,7 +2705,6 @@ Fasteign	nven	fasteign
 hjólum	nhfþ	hjól
 »	»	»
 .	.	.
-
 Peugeot	e	Peugeot
 205	ta	205
 FOREVER	e	FOREVER
@@ -2929,7 +2720,6 @@ aðeins	aa	aðeins
 þ.	as	þ.
 km	as	km
 .	.	.
-
 Beinskiptur	lkensf	beinskiptur
 ,	,	,
 topplúga	nven	topplúga
@@ -2938,7 +2728,6 @@ rafm.	as	rafm.
 í	aþ	í
 rúðum	nvfþ	rúða
 .	.	.
-
 Verð	nhen	verð
 aðeins	aa	aðeins
 290	ta	290
@@ -2952,7 +2741,6 @@ gott	lhensf	góður
 viðhald	nhen	viðhald
 »	»	»
 .	.	.
-
 Subaru	e	Subaru
 Impreza	e	Impreza
 2.0L	ta	2.0l
@@ -2968,20 +2756,16 @@ aðeins	aa	aðeins
 þús.	as	þús.
 km	as	km
 .	.	.
-
 17	ta	17
 »	»	»
-
 álfelgur	nvfn	álfelga
 ,	,	,
 spoiler	e	spoiler
 ,	,	,
 ofl.	as	ofl.
-
 V.	as	V.
 940	ta	940
 þús.	as	þús.
-
 Áhvíl.	as	áhvíl.
 435	ta	435
 þús.	as	þús.
@@ -2990,7 +2774,6 @@ Sportlegur	lkensf	sportlegur
 vagn	nken	vagn
 »	»	»
 .	.	.
-
 Chrysler	e	Chrysler
 PT	e	PT
 Cruiser	e	Cruiser
@@ -3008,7 +2791,6 @@ ekinn	lkensf	ekinn
 þús.	as	þús.
 km	as	km
 .	.	.
-
 Sjálfskiptur	lkensf	sjálfskiptur
 ,	,	,
 leðurinnrétting	nven	leðurinnrétting
@@ -3018,7 +2800,6 @@ sóllúga	nven	sóllúga
 krómfelgur	nvfn	krómfelga
 ofl.	as	ofl.
 ofl.	as	ofl.
-
 V.	as	V.
 2.380	ta	2.380
 þús.	as	þús.
@@ -3032,7 +2813,6 @@ hann	fpkeo	hann
 þennan	fakeo	þessi
 »	»	»
 .	.	.
-
 Bílasala	nven-s	Bílasala
 Matthíasar	nkee-s	Matthías
 -	-	-
@@ -3047,7 +2827,6 @@ Sími	nken	sími
 562	ta	562
 1717	ta	1717
 www.bilalif.is	v	www.bilalif.is
-
 VW	as	VW
 Vento	e	Vento
 1,8	ta	1,8
@@ -3072,18 +2851,15 @@ vetrardekk	nhfn	vetrardekk
 felgum	nvfþ	felga
 fylgja	sfg3fn	fylgja
 .	.	.
-
 Verð	nhen	verð
 390.000	ta	390.000
 .	.	.
-
 Hyundai	e	Hyundai
 Sonata	e	Sonata
 10/1996	ta	10/1996
 ekinn	lkensf	ekinn
 107	ta	107
 þ.	as	þ.
-
 km	as	km
 ,	,	,
 beinskiptur	lkensf	beinskiptur
@@ -3094,11 +2870,9 @@ dráttarbeisli	nhen	dráttarbeisli
 ,	,	,
 geislaspilari	nken	geislaspilari
 .	.	.
-
 Verð	nhen	verð
 590.000	ta	590.000
 .	.	.
-
 Daihatsu	e	Daihatsu
 Feroza	e	Feroza
 árg.	as	árg.
@@ -3106,20 +2880,16 @@ Feroza	e	Feroza
 ekinn	lkensf	ekinn
 101	ta	101
 þ.	as	þ.
-
 km	as	km
 ,	,	,
 beinskiptur	lkensf	beinskiptur
 ,	,	,
 31	ta	31
-
 dekk	nhfn	dekk
 .	.	.
-
 Verð	nhen	verð
 490.000	ta	490.000
 .	.	.
-
 Daihatsu	e	Daihatsu
 Rocky	e	Rocky
 2,8	ta	2,8
@@ -3130,12 +2900,10 @@ dísel	nxen	dísel
 ekinn	lkensf	ekinn
 250þkm	as	250þkm
 33	ta	33
-
 dekk	nhfn	dekk
 verð	nhen	verð
 290,000	ta	290,000
 .	.	.
-
 Renault	e	Renault
 Clio	e	Clio
 RN	as	RN
@@ -3158,11 +2926,9 @@ sumar-	nhfn	sumardekk
 og	c	og
 vetrardekk	nhfn	vetrardekk
 .	.	.
-
 Verð	nhen	verð
 390.000	ta	390.000
 .	.	.
-
 Renault	e	Renault
 Clio	e	Clio
 RN	as	RN
@@ -3182,7 +2948,6 @@ dyra	nvfe	dyr
 ný	lvensf	nýr
 tímareim	nven	tímareim
 .	.	.
-
 Frábær	lkensf	frábær
 vinnubíll	nken	vinnubíll
 á	aþ	á
@@ -3190,7 +2955,6 @@ TILBOÐSVERÐI	nheþ	tilboðsverð
 190.000	ta	190.000
 STGR	as	STGR
 .	.	.
-
 Nissan	e	Nissan
 Micra	e	Micra
 GX	as	GX
@@ -3201,19 +2965,15 @@ ekinn	lkensf	ekinn
 þ.	as	þ.
 km	as	km
 .	.	.
-
 3	ta	3
 dyra	nvfe	dyr
 .	.	.
-
 5	ta	5
 gíra	nkfe	gír
 .	.	.
-
 Verð	nhen	verð
 490.000	ta	490.000
 .	.	.
-
 Daewoo	e	Daewoo
 Lanos	e	Lanos
 1,6	ta	1,6
@@ -3229,15 +2989,12 @@ ABS	as	ABS
 ,	,	,
 álfelgur	nvfn	álfelga
 .	.	.
-
 TILBOÐSVERÐ	nhen	tilboðsverð
 335.000	ta	335.000
 .	.	.
-
 Bílabúð	nven-s	bílabúð
 Benna	nkee-s	Benni
 ehf.	as	ehf.
-
 Notaðir	lkfnsf	notaður
 bílar	nkfn	bíll
 Bíldshöfði	nken-s	Bíldshöfði
@@ -3245,87 +3002,72 @@ Bíldshöfði	nken-s	Bíldshöfði
 ,	,	,
 110	ta	110
 Rvk.	as	Rvk.
-
 Sími	nken	sími
 :	:	:
 587	ta	587
 1000	ta	1000
 www.benni.is	v	www.benni.is
-
 Jeep	e	Jeep
 Wrangler	e	Wrangler
 1993	ta	1993
 2.5	ta	2.5
 vél	nven	vél
 .	.	.
-
 Beinskiptur	lkensf	beinskiptur
 ,	,	,
 hvítur	lkensf	hvítur
 .	.	.
-
 Verð	nhen	verð
 680	ta	680
 þús.	as	þús.
-
 Möguleiki	nken	möguleiki
 á	aþ	á
 50%	tp	50%
 í	aþ	í
 VN	as	VN
 .	.	.
-
 Uppl.	as	uppl.
 540	ta	540
 5800	ta	5800
 .	.	.
-
 Ford	e	Ford
 Mustang	e	Mustang
 1971	ta	1971
 351	ta	351
 vél	nven	vél
 .	.	.
-
 Blár	lkensf	blár
 með	aþ	með
 gráum	lvfþsf	grár
 strípum	nvfþ	strípur
 .	.	.
-
 Flott	lhensf	flottur
 eintak	nhen	eintak
 .	.	.
-
 Verð	nhen	verð
 1.190	ta	1.190
 þús.	as	þús.
-
 Uppl.	as	uppl.
 í	aþ	í
 s.	as	s.
 540	ta	540
 5800	ta	5800
 .	.	.
-
 Bílamiðstöðin	nvengs	Bílamiðstöðin
 Hyrjarhöfða	nkeþ-s	Hyrjarhöfði
 2	ta	2
 ,	,	,
 112	ta	112
 Rvk.	as	Rvk.
-
 Sími	nken	sími
 :	:	:
 540	ta	540
 5800	ta	5800
 www.bilasala.is	v	www.bilasala.is
-
 Góðir	lkfnsf	góður
 viðskipavinir	nkfn	viðskipavinur
 athugið	sbg2fn	athuga
 .	.	.
-
 Bílasala	nven-s	Bílasala
 Íslands	nhee-s	Ísland
 er	sfg3en	vera
@@ -3342,9 +3084,7 @@ og	c	og
 Stórhöfða	nkeþ-s	Stórhöfði
 26	ta	26
 .	.	.
-
 bilasalaislands.is	v	bilasalaislands.is
-
 NISSAN	e	NISSAN
 TERRANO	e	TERRANO
 II	ta	II
@@ -3352,74 +3092,59 @@ SLX	e	SLX
 DÍSEL	nxen	dísel
 TÚRBÓ	nxen	TÚRBÓ
 .	.	.
-
 Árgerð	nven	árgerð
 1996	ta	1996
 .	.	.
-
 Ekinn	lkensf	ekinn
 178	to	178
 þúsund	tfkfo	þúsund
 km	as	km
 .	.	.
-
 Nýskráður	lkensf	nýskráður
 1996	ta	1996
 .	.	.
-
 Næsta	lvenve	næstur
 skoðun	nven	skoðun
 2004	ta	2004
 .	.	.
-
 Árgerð	nven	árgerð
 1996	ta	1996
 .	.	.
-
 Ekinn	lkensf	ekinn
 178	to	178
 þúsund	tfkfo	þúsund
 km	as	km
 .	.	.
-
 Nýskráður	lkensf	nýskráður
 1996	ta	1996
 .	.	.
-
 Næsta	lvenve	næstur
 skoðun	nven	skoðun
 2004	ta	2004
 .	.	.
-
 Ekkert	fohen	enginn
 áhvílandi	lhenof	áhvílandi
 .	.	.
-
 Skipti	nhfn	skipti
 á	aþ	á
 dýrari	lkeþvm	dýr
 .	.	.
-
 SUZUKI	e	SUZUKI
 DRZ	e	DRZ
 400	ta	400
 .	.	.
-
 Ekið	ssg	aka
 um	aa	um
 3	ta	3
 þ.	as	þ.
 km	as	km
 .	.	.
-
 Verð	nhen	verð
 630.	ta	630.
 þús.	as	þús.
-
 Ekkert	fohen	enginn
 áhvílandi	lhenof	áhvílandi
 .	.	.
-
 Bílasala	nven-s	Bílasala
 Íslands	nhee-s	Ísland
 Stórhöfða	nkeþ-s	Stórhöfði
@@ -3430,13 +3155,11 @@ Skógarhlíð	nveþ-s	Skógarhlíð
 ,	,	,
 110	ta	110
 Rvk.	as	Rvk.
-
 Sími	nken	sími
 :	:	:
 510	ta	510
 4900	ta	4900
 www.bilasalaislands.is	v	www.bilasalaislands.is
-
 Til	ae	til
 Sölu	nvee	sala
 MMC	as	MMC
@@ -3453,33 +3176,28 @@ ek.	as	ek.
 þ.	as	þ.
 km	as	km
 .	.	.
-
 Fallegur	lkensf	fallegur
 7	ta	7
 manna	nkfe	maður
 bíll	nken	bíll
 .	.	.
-
 Verð	nhen	verð
 1.490.000	ta	1.490.000
 ,	,	,
 bílalán	nhen	bílalán
 1.000.000	ta	1.000.000
 .	.	.
-
 Skipti	nhfn	skipti
 möguleg	lhfnsf	mögulegur
 á	aþ	á
 ódýrari	lkeþvm	ódýr
 .	.	.
-
 Uppl.	as	uppl.
 í	aþ	í
 s.	as	s.
 860	ta	860
 1998	ta	1998
 .	.	.
-
 Bílasala	nven-s	Bílasala
 Reykjavíkur	nvee-s	Reykjavík
 Bíldshöfða	nkeþ-s	Bíldshöfði
@@ -3487,13 +3205,11 @@ Bíldshöfða	nkeþ-s	Bíldshöfði
 ,	,	,
 112	ta	112
 Rvk.	as	Rvk.
-
 Sími	nken	sími
 :	:	:
 587	ta	587
 8888	ta	8888
 www.bilasalarvk.is	v	www.bilasalarvk.is
-
 CHEVROLET	e	CHEVROLET
 CAMARO	e	CAMARO
 Z-28	ta	Z-28
@@ -3502,7 +3218,6 @@ ANNIVERSARY	e	ANNIVERSARY
 árgerð	nven	árgerð
 2002	ta	2002
 .	.	.
-
 Álfelgur	nvfn	álfelga
 ,	,	,
 ttoppur	x	toppur
@@ -3511,21 +3226,18 @@ leðurinnrétting	nven	leðurinnrétting
 og	c	og
 fleira	lhenvm	margur
 .	.	.
-
 Bíllinn	nkeng	bíll
 er	sfg3en	vera
 eins	aa	eins
 og	c	og
 nýr	lkensf	nýr
 .	.	.
-
 Upplýsingar	nvfn	upplýsing
 í	aþ	í
 síma	nkeþ	sími
 893	ta	893
 6404	ta	6404
 .	.	.
-
 PONTIAC	e	PONTIAC
 GRAND	e	Grand
 PRIX	e	PRIX
@@ -3535,52 +3247,41 @@ COUPE	e	COUPE
 '	'	'
 94	ta	94
 .	.	.
-
 Ek.	as	ek.
 88	ta	88
 þús.	as	þús.
 míl.	as	míl.
-
 Spoilerkitt	nhen	spoilerkitt
 allan	fokeo	allur
 hringinn	nkeog	hringur
 .	.	.
-
 CD	as	CD
 .	.	.
-
 16	ta	16
-
 álf	x	Álfur
 .	.	.
-
 Ný	lhfnsf	nýr
 dekk	nhfn	dekk
 og	c	og
 fl.	as	fl.
-
 Skoðaður	lkensf	skoðaður
 '	'	'
 05	ta	05
 .	.	.
-
 Mjög	aa	mjög
 vel	aa	vel
 með	aa	með
 farinn	sþgken	fara
 .	.	.
-
 Tilboð	nhfn	tilboð
 óskast	sfm3fn	óska
 .	.	.
-
 Uppl.	as	uppl.
 í	aþ	í
 s.	as	s.
 847	ta	847
 0256	ta	0256
 .	.	.
-
 Lancer	e	Lancer
 '	'	'
 93	ta	93
@@ -3601,13 +3302,11 @@ eða	c	eða
 dýrari	lkeþvm	dýr
 bíl	nkeþ	bíll
 .	.	.
-
 Uppl.	as	uppl.
 s.	as	s.
 897	ta	897
 1309	ta	1309
 .	.	.
-
 Daihatsu	e	Daihatsu
 Terios	e	Terios
 árg.	as	árg.
@@ -3616,22 +3315,18 @@ ekinn	lkensf	ekinn
 70.000	ta	70.000
 km	as	km
 .	.	.
-
 Sumar-	nhfn	sumardekk
 og	c	og
 vetrardekk	nhfn	vetrardekk
 fylgja	sfg3fn	fylgja
 .	.	.
-
 Drátt-	nven	drátt-
 arkúla	nven	arkúla
 .	.	.
-
 Sími	nken	sími
 869	ta	869
 2840	ta	2840
 .	.	.
-
 Nissan	e	Nissan
 Sunny	e	Sunny
 árg.	as	árg.
@@ -3640,24 +3335,20 @@ Sunny	e	Sunny
 Ek.	as	ek.
 151.000	ta	151.000
 .	.	.
-
 Skoðaður	lkensf	skoðaður
 '	'	'
 05	ta	05
 .	.	.
-
 Uppl.	as	uppl.
 í	aþ	í
 síma	nkeþ	sími
 821	ta	821
 7384	ta	7384
 .	.	.
-
 Bíll	nken	bíll
 til	ae	til
 leigu	nvee	leiga
 .	.	.
-
 Hyundai	e	Hyundai
 Matrix	e	Matrix
 nýsk.	as	nýsk.
@@ -3678,21 +3369,18 @@ ca	as	ca
 þús.	as	þús.
 á	aþ	á
 mán.	as	mán.
-
 Uppl.	as	uppl.
 í	aþ	í
 s.	as	s.
 663	ta	663
 6040	ta	6040
 .	.	.
-
 Fólksbíll	nken	fólksbíll
 með	aþ	með
 skotti	nheþ	skott
 og	c	og
 krók	nkeþ	krókur
 .	.	.
-
 Árg.	as	Árg.
 '	'	'
 92	ta	92
@@ -3700,23 +3388,19 @@ krók	nkeþ	krókur
 e.	as	e.
 144	ta	144
 þús.	as	þús.
-
 Vertrardekk	nhfn	vertrardekk
 fylgja	sfg3fn	fylgja
 .	.	.
-
 Verð	nhen	verð
 200	ta	200
 þúsund	ta	þúsund
 .	.	.
-
 Uppl.	as	uppl.
 í	aþ	í
 síma	nkeþ	sími
 690	ta	690
 1881	ta	1881
 .	.	.
-
 Toyota	e	Toyota
 Carina	e	Carina
 E	e	E
@@ -3725,12 +3409,9 @@ E	e	E
 Ek.	as	ek.
 190.000	ta	190.000
 .	.	.
-
 14	ta	14
-
 &	c	&
 15	ta	15
-
 Álf.	as	álf.
 ,	,	,
 vetrard.	as	vetrard.
@@ -3745,21 +3426,17 @@ sætum	nhfþ	sæti
 ,	,	,
 dr.beisli	nhen	dr.beisli
 .	.	.
-
 Toppbíll	nken	toppbíll
 .	.	.
-
 Ath.	as	Ath.
 sk.	as	sk.
 á	aþ	á
 Enduro	e	Enduro
 hjóli	nheþ	hjól
 .	.	.
-
 S.	as	s.
 899	ta	899
 9968	ta	9968
-
 Til	ae	til
 sölu	nvee	sala
 toppeintak	nhen	toppeintak
@@ -3773,17 +3450,14 @@ Corolla	e	Corolla
 ekin	lvensf	aka
 206	ta	206
 þ.	as	þ.
-
 Verð	nhen	verð
 aðeins	aa	aðeins
 150	ta	150
 þús.	as	þús.
-
 S.	as	s.
 696	ta	696
 9398	ta	9398
 .	.	.
-
 Til	ae	til
 sölu	nvee	sala
 Toyota	e	Toyota
@@ -3792,19 +3466,15 @@ XL	as	XL
 '	'	'
 90	ta	90
 .	.	.
-
 Sk	x	SK
 '	'	'
 05	ta	05
 .	.	.
-
 Ek.	as	ek.
 140	ta	140
 þ.	as	þ.
-
 Fjarst.	as	Fjarst.
 saml.	as	saml.
-
 Ný	lhfnsf	nýr
 sumardekk	nhfn	sumardekk
 ,	,	,
@@ -3814,16 +3484,13 @@ felgum	nvfþ	felga
 ,	,	,
 krókur	nken	krókur
 .	.	.
-
 Verð	nhen	verð
 150	ta	150
 þús.	as	þús.
-
 S.	as	s.
 864	ta	864
 3560	ta	3560
 .	.	.
-
 Mitsubishi	e	Mitsubishi
 Lancer	e	Lancer
 1300cc	ta	1300cc
@@ -3835,25 +3502,20 @@ Lancer	e	Lancer
 Ek.	as	ek.
 173	ta	173
 þ.	as	þ.
-
 Beinsk.	as	beinsk.
-
 Verð	nhen	verð
 180	ta	180
 þ.	as	þ.
-
 S.	as	s.
 864	ta	864
 2257	ta	2257
 .	.	.
-
 SMÁ	lvfeof	smá
 AUGLÝSINGA	nvfe	auglýsing
 SÍMINN	nkeng	sími
 ER	sfg3en	vera
 550	ta	550
 5000	ta	5000
-
 AFGREIÐSLAN	nveng	afgreiðsla
 ER	sfg3en	vera
 OPIN	lvensf	opinn
@@ -3862,7 +3524,6 @@ VIRKA	lkfosf	virkur
 DAGA	nkfo	dagur
 FRÁ	aþ	frá
 9-19	ta	9-19
-
 AFGREIÐSLAN	nveng	afgreiðsla
 ER	sfg3en	vera
 OPIN	lvensf	opinn
@@ -3871,7 +3532,6 @@ HELGAR	nvfo	helgi
 FRÁ	aþ	frá
 9-17	ta	9-17
 15	ta	15
-
 TIL	ae	til
 BIRTINGAR	nvee	birting
 NÆSTA	lkeove	næstur
@@ -3880,7 +3540,6 @@ DAG	nkeo	dagur
 AÐ	cn	að
 PANTA	sng	panta
 FYRIR	aa	fyrir
-
 Til	ae	til
 sölu	nvee	sala
 HONDA	e	HONDA
@@ -3895,20 +3554,17 @@ WR	e	WR
 árg.	as	árg.
 2003	ta	2003
 .	.	.
-
 Topphjól	nhfn	topphjól
 í	aþ	í
 góðu	lheþsf	góður
 standi	nheþ	stand
 .	.	.
-
 Uppl.	as	uppl.
 í	aþ	í
 síma	nkeþ	sími
 897	ta	897
 7007	ta	7007
 .	.	.
-
 Volvo	e	Volvo
 460	ta	460
 turbo	e	turbo
@@ -3916,18 +3572,15 @@ turbo	e	turbo
 '	'	'
 90	ta	90
 .	.	.
-
 Tilboð	nhfn	tilboð
 óskast	sfm3fn	óska
 .	.	.
-
 Uppl.	as	uppl.
 í	aþ	í
 s.	as	s.
 899	ta	899
 2103	ta	2103
 .	.	.
-
 MMC	as	MMC
 Galant	e	Galant
 árg.	as	árg.
@@ -3938,20 +3591,16 @@ skoðaður	lkensf	skoðaður
 '	'	'
 05	ta	05
 .	.	.
-
 Góður	lkensf	góður
 bíll	nken	bíll
 .	.	.
-
 Ekinn	lkensf	ekinn
 208	ta	208
 þús.	as	þús.
-
 Sími	nken	sími
 867	ta	867
 8064	ta	8064
 .	.	.
-
 Toyota	e	Toyota
 Corolla	e	Corolla
 '	'	'
@@ -3960,27 +3609,22 @@ Corolla	e	Corolla
 Ek.	as	ek.
 150	ta	150
 þús.	as	þús.
-
 Bíllinn	nkeng	bíll
 er	sfg3en	vera
 rauður	lkensf	rauður
 .	.	.
-
 Útvarp	nhen	útvarp
 .	.	.
-
 í	aþ	í
 finu	x	fina
 formi	nheþ	form
 .	.	.
-
 S.	as	s.
 697	ta	697
 6305	ta	6305
 ,	,	,
 Ísak	nken-s	Ísak
 .	.	.
-
 Nissan	e	Nissan
 Sunny	e	Sunny
 árgerð	nven	árgerð
@@ -3995,12 +3639,10 @@ næsta	lvenve	næstur
 skoðun	nven	skoðun
 09/05	ta	09/05
 .	.	.
-
 Sími	nken	sími
 847	ta	847
 0995	ta	0995
 .	.	.
-
 MMC	as	MMC
 Galant	e	Galant
 GTi	e	GTi
@@ -4012,14 +3654,12 @@ GTi	e	GTi
 þarfnast	sfm3en	þarfnast
 lagfæringar	nvee	lagfæring
 .	.	.
-
 Uppl.	as	uppl.
 í	aþ	í
 s.	as	s.
 694	ta	694
 4358	ta	4358
 .	.	.
-
 Saab	e	Saab
 900	ta	900
 '	'	'
@@ -4031,28 +3671,23 @@ fæst	sfm3en	fá
 á	ao	á
 40	ta	40
 þús.	as	þús.
-
 Sk.	as	Sk.
 '	'	'
 05	ta	05
 ,	,	,
 smurbók	nven	smurbók
 .	.	.
-
 S.	as	s.
 820	ta	820
 4780	ta	4780
 .	.	.
-
 Peugeot	e	Peugeot
 405	ta	405
 GR.	as	GR.
-
 Árg.	as	Árg.
 '	'	'
 92	ta	92
 .	.	.
-
 Vegna	ae	vegna
 bilunar	nvee	bilun
 í	aþ	í
@@ -4062,7 +3697,6 @@ hann	fpken	hann
 á	aþ	á
 hálfvirði	nheþ	hálfvirði
 .	.	.
-
 Uppl.	as	uppl.
 í	aþ	í
 síma	nkeþ	sími
@@ -4072,54 +3706,44 @@ síma	nkeþ	sími
 421	ta	421
 4317	ta	4317
 .	.	.
-
 Toyota	e	Toyota
 Corolla	e	Corolla
 Hatch-back	e	Hatch-back
 '	'	'
 92	ta	92
 .	.	.
-
 Ek.	as	ek.
 197	ta	197
 þús.	as	þús.
-
 Nýskoðaður	lkensf	nýskoðaður
 .	.	.
-
 Verð	nhen	verð
 130.000	ta	130.000
 .	.	.
-
 Uppl.	as	uppl.
 í	aþ	í
 s.	as	s.
 697	ta	697
 7166	ta	7166
 .	.	.
-
 Honda	e	Honda
 Civic	e	Civic
 '	'	'
 89	ta	89
 .	.	.
-
 Sk	x	SK
 '	'	'
 05	ta	05
 .	.	.
-
 Verð	nhen	verð
 70	ta	70
 þús.	as	þús.
-
 Uppl.	as	uppl.
 í	aþ	í
 s.	as	s.
 822	ta	822
 2806	ta	2806
 .	.	.
-
 Til	ae	til
 sölu	nvee	sala
 MMC	as	MMC
@@ -4145,7 +3769,6 @@ Verðhugmynd	nven	verðhugmynd
 190	ta	190
 þúsund	ta	þúsund
 .	.	.
-
 Upplýsingar	nvfn	upplýsing
 í	aþ	í
 síma	nkeþ	sími
@@ -4155,7 +3778,6 @@ síma	nkeþ	sími
 426	ta	426
 8689	ta	8689
 .	.	.
-
 Nissan	e	Nissan
 Sunny	e	Sunny
 station	e	station
@@ -4172,20 +3794,17 @@ skoðun	nven	skoðun
 '	'	'
 05	ta	05
 .	.	.
-
 Verð	nhen	verð
 150	ta	150
 þ.	as	þ.
 eða	c	eða
 tilboð	nhen	tilboð
 .	.	.
-
 Uppl.	as	uppl.
 í	aþ	í
 893	ta	893
 6752	ta	6752
 .	.	.
-
 Til	ae	til
 sölu	nvee	sala
 Toyota	e	Toyota
@@ -4205,70 +3824,57 @@ og	c	og
 góður	lkensf	góður
 bíll	nken	bíll
 .	.	.
-
 Verð	nhen	verð
 90	ta	90
 þúsund	ta	þúsund
 .	.	.
-
 Upplýsingar	nvfn	upplýsing
 í	aþ	í
 síma	nkeþ	sími
 663	ta	663
 4493	ta	4493
 .	.	.
-
 Renault	e	Renault
 Nevada	e	Nevada
 4x4	ta	4x4
 st.	as	st.
-
 '	'	'
 91	ta	91
 .	.	.
-
 Blásans	nxen-s	Blásans
 ,	,	,
 nýsk.	as	nýsk.
 '	'	'
 05	ta	05
 .	.	.
-
 Verð	nhen	verð
 110.000	ta	110.000
 .	.	.
-
 S.	as	s.
 864	ta	864
 1243	ta	1243
 .	.	.
-
 Bronco	e	Bronco
 II	ta	II
 árgerð	nven	árgerð
 '	'	'
 88	ta	88
 .	.	.
-
 Bilaðar	lvfnsf	bilaður
 bremsur	nvfn	bremsa
 .	.	.
-
 50	ta	50
 þ.	as	þ.
-
 Uppl.	as	uppl.
 í	aþ	í
 síma	nkeþ	sími
 699	ta	699
 8109	ta	8109
 .	.	.
-
 Bíll	nken	bíll
 til	ae	til
 sölu	nvee	sala
 .	.	.
-
 Hyundai	e	Hyundai
 Accent	e	Accent
 '	'	'
@@ -4276,77 +3882,62 @@ Accent	e	Accent
 keyrður	lkensf	keyrður
 170.000	ta	170.000
 .	.	.
-
 Sjálfskiptur	lkensf	sjálfskiptur
 .	.	.
-
 Boddí	nhen	boddí
 örlítið	aa	örlítið
 laskað	lhensf	laskaður
 .	.	.
-
 Verð	nhen	verð
 kr.	as	kr.
 200.000	ta	200.000
 .	.	.
-
 Sími	nken	sími
 865	ta	865
 7694	ta	7694
 .	.	.
-
 Mazda	e	Mazda
 323	ta	323
 GLX	e	GLX
 '	'	'
 90	ta	90
 .	.	.
-
 Ekinn	lkensf	ekinn
 177	ta	177
 þús.	as	þús.
-
 Ssk.	as	Ssk.
 með	ao	með
 '	'	'
 05	ta	05
 skoðun	nveo	skoðun
 .	.	.
-
 Vetrardekk	nhfn	vetrardekk
 á	aþ	á
 felgum	nvfþ	felga
 fylgja	sfg3fn	fylgja
 .	.	.
-
 Dráttarkúla	nven	dráttarkúla
 .	.	.
-
 Verð	nhen	verð
 100	ta	100
 þús.	as	þús.
-
 Sími	nken	sími
 551	ta	551
 8437	ta	8437
 .	.	.
-
 Fallegur	lkensf	fallegur
 Galant	e	Galant
 '	'	'
 89	ta	89
 .	.	.
-
 nýsk.	as	nýsk.
 m	as	m
 /	/	/
 bilaða	lveosf	bilaður
 sjálfsk.	as	sjálfsk.
-
 V.	as	V.
 40	ta	40
 þ.	as	þ.
-
 Óska	sfg1en	óska
 einnig	aa	einnig
 eftir	aþ	eftir
@@ -4355,7 +3946,6 @@ gúmmíbát	nkeþ	gúmmíbátur
 4-6	ta	4-6
 manna	nkfe	maður
 .	.	.
-
 Uppl.	as	uppl.
 í	aþ	í
 s.	as	s.
@@ -4365,20 +3955,17 @@ og	c	og
 483	ta	483
 4614	ta	4614
 .	.	.
-
 MMC	as	MMC
 Galant	e	Galant
 '	'	'
 91	ta	91
 4x4	ta	4x4
 .	.	.
-
 Ford	e	Ford
 Mustang	e	Mustang
 '	'	'
 98	ta	98
 .	.	.
-
 Varahlutir	nkfn	varahlutur
 í	ao	í
 MMC	as	MMC
@@ -4397,12 +3984,10 @@ Accord	e	Accord
 '	'	'
 94	ta	94
 .	.	.
-
 S.	as	s.
 868	ta	868
 3069	ta	3069
 .	.	.
-
 MMC	as	MMC
 Colt	e	Colt
 árg.	as	árg.
@@ -4419,35 +4004,29 @@ sk.	as	sk.
 ek.	as	ek.
 195	ta	195
 þús.	as	þús.
-
 Verð	nhen	verð
 75	ta	75
 þús.	as	þús.
-
 Uppl.	as	uppl.
 í	aþ	í
 s.	as	s.
 862	ta	862
 7641	ta	7641
 .	.	.
-
 Daihatsu	e	Daihatsu
 Rocky	e	Rocky
 '	'	'
 85	ta	85
 .	.	.
-
 Tilboð	nhfn	tilboð
 óskast	sfm3fn	óska
 .	.	.
-
 Uppl.	as	uppl.
 í	aþ	í
 síma	nkeþ	sími
 893	ta	893
 0173	ta	0173
 .	.	.
-
 Opel	e	Opel
 Astra	e	Astra
 station	e	station
@@ -4456,7 +4035,6 @@ station	e	station
 '	'	'
 95	ta	95
 .	.	.
-
 Farin	lvensf	farinn
 tímareim	nven	tímareim
 ,	,	,
@@ -4465,7 +4043,6 @@ annars	aa	annars
 góðu	lheþsf	góður
 standi	nheþ	stand
 .	.	.
-
 Uppl.	as	uppl.
 í	aþ	í
 s.	as	s.
@@ -4476,14 +4053,12 @@ Víðir	nken-s	Víðir
 eða	c	eða
 Alva	nven-s	Alva
 .	.	.
-
 Útsala	nven	útsala
 á	aþ	á
 tveimur	tfkfþ	tveir
 góðum	lkfþsf	góður
 bílum	nkfþ	bíll
 .	.	.
-
 VW	as	VW
 Jetta	e	Jetta
 '	'	'
@@ -4501,63 +4076,53 @@ vetrard.	as	vetrard.
 fylgja	sfg3fn	fylgja
 ,	,	,
 .	.	.
-
 Mazda	e	Mazda
 323	ta	323
 '	'	'
 87	ta	87
 .	.	.
-
 Uppl.	as	uppl.
 í	aþ	í
 s.	as	s.
 690	ta	690
 8304	ta	8304
 .	.	.
-
 Nissan	e	Nissan
 Sunny	e	Sunny
 árg.	as	árg.
 '	'	'
 91	ta	91
 .	.	.
-
 Upplýsingar	nvfn	upplýsing
 í	aþ	í
 síma	nkeþ	sími
 892	ta	892
 5849	ta	5849
 .	.	.
-
 80	ta	80
 þús.	as	þús.
 stgr	as	stgr
 .	.	.
-
 Nissan	e	Nissan
 Sunny	e	Sunny
 SLX	e	SLX
 1600	ta	1600
 .	.	.
-
 Ssk.	as	Ssk.
 ek.	as	ek.
 192	ta	192
 þús.	as	þús.
-
 Góður	lkensf	góður
 bíll	nken	bíll
 ,	,	,
 þarfnast	sfm3en	þarfnast
 lagf.	as	lagf.
-
 Uppl.	as	uppl.
 í	aþ	í
 s.	as	s.
 867	ta	867
 2430	ta	2430
 .	.	.
-
 Toyota	e	Toyota
 Corolla	e	Corolla
 '	'	'
@@ -4565,7 +4130,6 @@ Corolla	e	Corolla
 ekinn	lkensf	ekinn
 200	ta	200
 þ.	as	þ.
-
 Einnig	aa	einnig
 til	ae	til
 sölu	nvee	sala
@@ -4576,12 +4140,10 @@ Corolla	e	Corolla
 ekinn	lkensf	ekinn
 250	ta	250
 þ.	as	þ.
-
 Sími	nken	sími
 694	ta	694
 7168	ta	7168
 .	.	.
-
 Chevrolet	e	Chevrolet
 Monza	e	Monza
 árg.	as	árg.
@@ -4592,20 +4154,16 @@ ek.	as	ek.
 aðeins	aa	aðeins
 18	ta	18
 þús.	as	þús.
-
 Ný	lhfnsf	nýr
 sumar-	as	sumard.
 &	c	&
 vetrard.	as	vetrard.
-
 S.	as	s.
 867	ta	867
 4410	ta	4410
 .	.	.
-
 Tilboð	nhfn	tilboð
 .	.	.
-
 Skoda	e	Skoda
 Felicia	e	Felicia
 '	'	'
@@ -4621,14 +4179,12 @@ mjög	aa	mjög
 góðu	lheþsf	góður
 standi	nheþ	stand
 .	.	.
-
 Upplýsingar	nvfn	upplýsing
 í	aþ	í
 síma	nkeþ	sími
 899	ta	899
 8534	ta	8534
 .	.	.
-
 Til	ae	til
 sölu	nvee	sala
 Toyota	e	Toyota
@@ -4647,14 +4203,12 @@ standi	nheþ	stand
 verð	nhen	verð
 80	ta	80
 þús.	as	þús.
-
 Uppl.	as	uppl.
 í	aþ	í
 s.	as	s.
 866	ta	866
 7347	ta	7347
 .	.	.
-
 Til	ae	til
 sölu	nvee	sala
 Mazda	e	Mazda
@@ -4674,12 +4228,10 @@ skoðaður	lkensf	skoðaður
 '	'	'
 05	ta	05
 .	.	.
-
 Verð	nhen	verð
 150	ta	150
 þúsund	ta	þúsund
 .	.	.
-
 Einnig	aa	einnig
 á	aþ	á
 sama	fbkeþ	sami
@@ -4688,14 +4240,12 @@ til	ae	til
 sölu	nvee	sala
 slöngubátur	nken	slöngubátur
 .	.	.
-
 Upplýsingar	nvfn	upplýsing
 í	aþ	í
 síma	nkeþ	sími
 864	ta	864
 7730	ta	7730
 .	.	.
-
 Daihatsu	e	Daihatsu
 Feroza	e	Feroza
 árg.	as	árg.
@@ -4705,7 +4255,6 @@ Feroza	e	Feroza
 ek.	as	ek.
 130	ta	130
 þús.	as	þús.
-
 Vetrardekk	nhfn	vetrardekk
 fylgja	sfg3fn	fylgja
 með	aa	með
@@ -4713,14 +4262,12 @@ með	aa	með
 verð	nhen	verð
 250	ta	250
 þús.	as	þús.
-
 Uppl.	as	uppl.
 í	aþ	í
 s.	as	s.
 898	ta	898
 9008	ta	9008
 .	.	.
-
 Til	ae	til
 sölu	nvee	sala
 Honda	e	Honda
@@ -4740,19 +4287,16 @@ endurskoðun	nveo	endurskoðun
 smá	lveeof	smá
 lagfæringar	nvee	lagfæring
 .	.	.
-
 Staðgreitt	sþghen	staðgreiða
 70	ta	70
 þúsund	ta	þúsund
 .	.	.
-
 Upplýsingar	nvfn	upplýsing
 í	aþ	í
 síma	nkeþ	sími
 849	ta	849
 1122	ta	1122
 .	.	.
-
 Mazda	e	Mazda
 323	ta	323
 árg.	as	árg.
@@ -4772,75 +4316,61 @@ ef	c	ef
 er	sfg3en	vera
 eftir	aa	eftir
 .	.	.
-
 Skoða	sfg1en	skoða
 öll	fohfo	allur
 skipti	nhfo	skipti
 .	.	.
-
 Uppl.	as	uppl.
 í	aþ	í
 s.	as	s.
 868	ta	868
 3596	ta	3596
 .	.	.
-
 Galant	e	Galant
 árgerð	nven	árgerð
 '	'	'
 89	ta	89
 .	.	.
-
 Ekinn	lkensf	ekinn
 180.000	ta	180.000
 .	.	.
-
 Skoðaður	lkensf	skoðaður
 '	'	'
 05	ta	05
 .	.	.
-
 Mikið	aa	mikið
 endurnýjaður	lkensf	endurnýjaður
 .	.	.
-
 Topplúga	nven	topplúga
 ,	,	,
 geislaspilari	nken	geislaspilari
 .	.	.
-
 S.	as	s.
 848	ta	848
 4320	ta	4320
 .	.	.
-
 Renault	e	Renault
 Clio	e	Clio
 '	'	'
 95	ta	95
 .	.	.
-
 Lítið	aa	lítið
 ekinn	lkensf	ekinn
 ;	;	;
 92.000	ta	92.000
 km	as	km
 .	.	.
-
 Verð	nhen	verð
 260.000	ta	260.000
 kr.	as	kr.
-
 Gott	lhensf	góður
 eintak	nhen	eintak
 .	.	.
-
 Finna	nven-s	Finna
 ,	,	,
 847	ta	847
 5947	ta	5947
 .	.	.
-
 Til	ae	til
 sölu	nvee	sala
 Mitsubishi	e	Mitsubishi
@@ -4848,7 +4378,6 @@ Galant	e	Galant
 '	'	'
 93	ta	93
 .	.	.
-
 Verð	nhen	verð
 390	ta	390
 þús.	as	þús.
@@ -4858,14 +4387,12 @@ Visa	nxen-s	Visa
 euro	e	euro
 )	)	)
 .	.	.
-
 Uppl.	as	uppl.
 í	aþ	í
 s.	as	s.
 822	ta	822
 0311	ta	0311
 .	.	.
-
 Mjög	aa	mjög
 gott	lhensf	góður
 sumartilboð	nhen	sumartilboð
@@ -4875,7 +4402,6 @@ Polo	e	Polo
 '	'	'
 96	ta	96
 .	.	.
-
 Listaverð	nhen	listaverð
 430	ta	430
 Þ.	as	Þ.
@@ -4885,17 +4411,14 @@ Tilboð	nhen	tilboð
 S.	as	s.
 867	ta	867
 8230	ta	8230
-
 Hyundai	e	Hyundai
 Accent	e	Accent
 nýskr.	as	nýskr.
 11/98	ta	11/98
 .	.	.
-
 ek.	as	ek.
 59	ta	59
 þ.	as	þ.
-
 1500	ta	1500
 vél	nven	vél
 ,	,	,
@@ -4905,11 +4428,9 @@ rafm.	as	rafm.
 í	aþ	í
 rúð	x	rýja
 .	.	.
-
 Vetrard.	as	Vetrard.
 fylgja	sfg3fn	fylgja
 .	.	.
-
 Engin	foven	enginn
 útb.	as	útb.
 ,	,	,
@@ -4922,7 +4443,6 @@ er	sfg3en	vera
 ca	as	ca
 390	ta	390
 þ.	as	þ.
-
 Einn	tfken	einn
 eig.	as	eig.
 ,	,	,
@@ -4930,7 +4450,6 @@ lítur	sfg3en	líta
 vel	aa	vel
 út	aa	út
 .	.	.
-
 S.	as	s.
 896	ta	896
 6099	ta	6099
@@ -4938,7 +4457,6 @@ S.	as	s.
 567	ta	567
 6998	ta	6998
 .	.	.
-
 Opel	e	Opel
 Astra	e	Astra
 1.6	ta	1.6
@@ -4954,11 +4472,9 @@ tímareim	nveo	tímareim
 og	c	og
 vatnsdælu	nveo	vatnsdæla
 .	.	.
-
 Verð	nhen	verð
 370	ta	370
 þ.	as	þ.
-
 Uppl.	as	uppl.
 í	aþ	í
 s.	as	s.
@@ -4968,7 +4484,6 @@ s.	as	s.
 692	ta	692
 1929	ta	1929
 .	.	.
-
 BMW	as	BMW
 525i	ta	525i
 árg.	as	árg.
@@ -4989,12 +4504,10 @@ tölvukubbur	nken	tölvukubbur
 ,	,	,
 lækkaður	lkensf	lækkaður
 .	.	.
-
 Sjón	nven	sjón
 er	sfg3en	vera
 sögu	nveþ	saga
 ríkari	lvenvm	ríkur
 .	.	.
-
 Er	sfg3en	vera
 til	ae	til

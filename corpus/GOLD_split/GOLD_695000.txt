@@ -1,4 +1,3 @@
-
 Eina	lvenvf	einn
 varanlega	lvenvf	varanlegur
 lausnin	nveng	lausn
@@ -10,7 +9,6 @@ viðsnúningur	nken	viðsnúningur
 á	aþ	á
 viðskiptahallanum	nkeþg	viðskiptahalli
 .	.	.
-
 Innflutningur	nken	innflutningur
 á	aþ	á
 erlendu	lheþsf	erlendur
@@ -24,7 +22,6 @@ krónuna	nveog	króna
 ,	,	,
 tímabundið	aa	tímabundið
 .	.	.
-
 Bjarni	nken-s	Bjarni
 Kristjánsson	nken-s	Kristjánsson
 á	aþ	á
@@ -48,7 +45,6 @@ spá	sng	spá
 um	ao	um
 framhaldið	nheog	framhald
 .	.	.
-
 Seðlabankinn	nkengs	Seðlabanki
 og	c	og
 bankarnir	nkfng	banki
@@ -70,7 +66,6 @@ stöðunni	nveþg	staða
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Framboð	nhen	framboð
 sé	svg3en	vera
 þó	aa	þó
@@ -79,7 +74,6 @@ meira	lhenvm	mikill
 en	c	en
 eftirspurnin	nveng	eftirspurn
 .	.	.
-
 Ekkert	fohen	enginn
 bendi	svg3en	benda
 til	ae	til
@@ -90,7 +84,6 @@ sé	svg3en	vera
 að	cn	að
 breytast	snm	breyta
 .	.	.
-
 Hannes	nken-s	Hannes
 G.	as	G.
 Sigurðsson	nken-s	Sigurðsson
@@ -117,7 +110,6 @@ hafi	svg3en	hafa
 komið	ssg	koma
 fram	aa	fram
 .	.	.
-
 Mat	nhen	mat
 samtakanna	nhfeg	samtök
 sé	svg3en	vera
@@ -132,7 +124,6 @@ ekki	aa	ekki
 efnahagslegar	lvfosf	efnahagslegur
 forsendur	nvfo	forsenda
 .	.	.
-
 Hún	fpven	hún
 hafi	svg3en	hafa
 verið	ssg	vera
@@ -145,7 +136,6 @@ fyrir	ao	fyrir
 síðustu	lvfove	síðari
 hreyfingar	nvfo	hreyfing
 .	.	.
-
 Rannveig	nven-s	Rannveig
 Sigurðardóttir	nven-s	Sigurðardóttir
 ,	,	,
@@ -178,7 +168,6 @@ endanum	nkeþg	endi
 veikja	sng	veikja
 krónuna	nveog	króna
 .	.	.
-
 Það	fphen	það
 hafi	svg3en	hafa
 verið	ssg	vera
@@ -187,7 +176,6 @@ koma	sng	koma
 á	ao	á
 daginn	nkeog	dagur
 .	.	.
-
 Veiking	nven	veiking
 krónunnar	nveeg	króna
 hafi	svg3en	hafa
@@ -209,7 +197,6 @@ gefi	svg3fn	gefa
 tilefni	nheo	tilefni
 til	aa	til
 .	.	.
-
 ALLIR	fokfn	allur
 FISKMARKAÐIR	nkfn	fiskmarkaður
 Blálanga	nven	blálanga
@@ -342,7 +329,6 @@ Ufsi	nken	ufsi
 93,560	ta	93,560
 Und	e	Und
 .	.	.
-
 Ýsa	nven	ýsa
 194	ta	194
 130	ta	130
@@ -351,7 +337,6 @@ Und	e	Und
 916,361	ta	916,361
 Und	e	Und
 .	.	.
-
 Þorskur	nken	þorskur
 171	ta	171
 100	ta	100
@@ -383,7 +368,6 @@ Samtals	aa	samtals
 AUSTFJARÐAMARKAÐURINN	nkengs	austfjarðamarkaður
 Und	e	Und
 .	.	.
-
 Þorskur	nken	þorskur
 150	ta	150
 150	ta	150
@@ -475,7 +459,6 @@ Steinbítur	nken	steinbítur
 266,475	ta	266,475
 Und	e	Und
 .	.	.
-
 Ýsa	nven	ýsa
 194	ta	194
 166	ta	166
@@ -484,7 +467,6 @@ Und	e	Und
 414,094	ta	414,094
 Und	e	Und
 .	.	.
-
 Þorskur	nken	þorskur
 154	ta	154
 100	ta	100
@@ -547,7 +529,6 @@ Sv-Bland	nhen	sv-bland
 140	ta	140
 Und	e	Und
 .	.	.
-
 Ýsa	nven	ýsa
 150	ta	150
 150	ta	150
@@ -556,7 +537,6 @@ Und	e	Und
 49,500	ta	49,500
 Und	e	Und
 .	.	.
-
 Þorskur	nken	þorskur
 136	ta	136
 136	ta	136
@@ -655,7 +635,6 @@ Ufsi	nken	ufsi
 21,716	ta	21,716
 Und	e	Und
 .	.	.
-
 Ýsa	nven	ýsa
 185	ta	185
 151	ta	151
@@ -664,7 +643,6 @@ Und	e	Und
 226,281	ta	226,281
 Und	e	Und
 .	.	.
-
 Þorskur	nken	þorskur
 171	ta	171
 136	ta	136
@@ -733,7 +711,6 @@ Ufsi	nken	ufsi
 15,744	ta	15,744
 Und	e	Und
 .	.	.
-
 Þorskur	nken	þorskur
 146	ta	146
 146	ta	146
@@ -784,7 +761,6 @@ Skrápflúra	nven	skrápflúra
 41,470	ta	41,470
 Und	e	Und
 .	.	.
-
 Þorskur	nken	þorskur
 150	ta	150
 148	ta	148
@@ -811,7 +787,6 @@ FISKMARKAÐUR	nken-s	Fiskmarkaður
 FLATEYRAR	nvee-s	Flateyri
 Und	e	Und
 .	.	.
-
 Ýsa	nven	ýsa
 155	ta	155
 155	ta	155
@@ -886,7 +861,6 @@ Ufsi	nken	ufsi
 8,514	ta	8,514
 Und	e	Und
 .	.	.
-
 Ýsa	nven	ýsa
 190	ta	190
 190	ta	190
@@ -895,7 +869,6 @@ Und	e	Und
 38,190	ta	38,190
 Und	e	Und
 .	.	.
-
 Þorskur	nken	þorskur
 150	ta	150
 149	ta	149
@@ -946,7 +919,6 @@ Lúða	nven	lúða
 12,675	ta	12,675
 Und	e	Und
 .	.	.
-
 Þorskur	nken	þorskur
 129	ta	129
 129	ta	129
@@ -997,7 +969,6 @@ Ufsi	nken	ufsi
 1,736	ta	1,736
 Und	e	Und
 .	.	.
-
 Þorskur	nken	þorskur
 129	ta	129
 129	ta	129
@@ -1084,7 +1055,6 @@ Stórkjafta	nven	stórkjafta
 40	ta	40
 Und	e	Und
 .	.	.
-
 Ýsa	nven	ýsa
 156	ta	156
 156	ta	156
@@ -1177,7 +1147,6 @@ Ufsi	nken	ufsi
 17,815	ta	17,815
 Und	e	Und
 .	.	.
-
 Ýsa	nven	ýsa
 194	ta	194
 166	ta	166
@@ -1186,7 +1155,6 @@ Und	e	Und
 139,010	ta	139,010
 Und	e	Und
 .	.	.
-
 Þorskur	nken	þorskur
 143	ta	143
 143	ta	143
@@ -1255,7 +1223,6 @@ Steinbítur	nken	steinbítur
 2,044	ta	2,044
 Und	e	Und
 .	.	.
-
 Þorskur	nken	þorskur
 129	ta	129
 129	ta	129
@@ -1446,7 +1413,6 @@ Skarkoli	nken	skarkoli
 Steinbítur	nken	steinbítur
 104	ta	104
 104	ta	104
-
 104	ta	104
 5	ta	5
 520	ta	520
@@ -1491,7 +1457,6 @@ Steinbítur	nken	steinbítur
 2,750	ta	2,750
 Und	e	Und
 .	.	.
-
 Þorskur	nken	þorskur
 123	ta	123
 123	ta	123
@@ -1530,7 +1495,6 @@ Lúða	nven	lúða
 940	ta	940
 Und	e	Und
 .	.	.
-
 Ýsa	nven	ýsa
 130	ta	130
 130	ta	130
@@ -1539,7 +1503,6 @@ Und	e	Und
 2,210	ta	2,210
 Und	e	Und
 .	.	.
-
 Þorskur	nken	þorskur
 129	ta	129
 129	ta	129
@@ -1562,7 +1525,6 @@ Samtals	aa	samtals
 227	ta	227
 4,171	ta	4,171
 946,743	ta	946,743
-
 HUGVIT	nhen-s	Hugvit
 hf.	as	hf.
 setti	sfg3eþ	setja
@@ -1584,7 +1546,6 @@ Smáralind	nveþ-s	Smáralind
 í	aþ	í
 Kópavogi	nkeþ-s	Kópavogur
 .	.	.
-
 Valgerður	nven-s	Valgerður
 Sverrisdóttir	nven-s	Sverrisdóttir
 ,	,	,
@@ -1598,7 +1559,6 @@ kerfinu	nheþg	kerfi
 úr	aþ	úr
 hlaði	nheþ	hlað
 .	.	.
-
 Á	aþ	á
 sama	fbkeþ	sami
 tíma	nkeþ	tími
@@ -1627,7 +1587,6 @@ um	ao	um
 notkun	nveo	notkun
 kerfisins	nheeg	kerfi
 .	.	.
-
 Að	aþ	að
 sögn	nveþ	sögn
 Jóns	nkee-s	Jón
@@ -1654,7 +1613,6 @@ við	ao	við
 íslensk	lhfosf	íslenskur
 fyrirtæki	nhfo	fyrirtæki
 .	.	.
-
 Þrátt	aa	þrátt
 fyrir	ao	fyrir
 að	c	að
@@ -1678,7 +1636,6 @@ Bretlandi	nheþ-s	Bretland
 og	c	og
 Danmörku	nveþ-s	Danmörk
 .	.	.
-
 Hugvit	nhen-s	Hugvit
 hf.	as	hf.
 bindur	sfg3en	binda
@@ -1715,7 +1672,6 @@ samtali	nheþ	samtal
 við	ao	við
 Morgunblaðið	nheogs	Morgunblað
 .	.	.
-
 Að	aþ	að
 sögn	nveþ	sögn
 Jóns	nkee-s	Jón
@@ -1751,7 +1707,6 @@ raunverulegum	lkeþsf	raunverulegur
 í	aþ	í
 rekstri	nkeþ	rekstur
 .	.	.
-
 Í	aþ	í
 FRAMHALDI	nheþ	framhald
 af	aþ	af
@@ -1773,7 +1728,6 @@ lækka	sng	lækka
 vexti	nkfo	vöxtur
 sína	fekfo	sinn
 .	.	.
-
 Sparisjóðirnir	nkfng	sparisjóður
 munu	sfg3fn	munu
 einnig	aa	einnig
@@ -1788,7 +1742,6 @@ fyrir	aa	fyrir
 hve	aa	hve
 mikið	aa	mikið
 .	.	.
-
 Breytingarnar	nvfng	breyting
 hjá	aþ	hjá
 sparisjóðunum	nkfþg	sparisjóður
@@ -1828,7 +1781,6 @@ eða	c	eða
 hvers	fokee	hver
 mánaðar	nkee	mánuður
 .	.	.
-
 Búnaðarbankinn	nkengs	Búnaðarbanki
 hefur	sfg3en	hafa
 sent	ssg	senda
@@ -1870,7 +1822,6 @@ lækka	sng	lækka
 vaxtakjör	nhfo	vaxtakjör
 sín	fehfo	sinn
 .	.	.
-
 Kjör	nhfn	kjör
 óverðtryggðra	lhfesf	óverðtryggður
 útlána	nhfe	útlán
@@ -1893,7 +1844,6 @@ yfirleitt	aa	yfirleitt
 um	ao	um
 0,6%	tp	0,6%
 .	.	.
-
 Jafnframt	aa	jafnframt
 hefur	sfg3en	hafa
 Búnaðarbankinn	nkengs	Búnaðarbanki
@@ -1909,7 +1859,6 @@ innlána	nhfe	innlán
 um	ao	um
 0,1%	tp	0,1%
 .	.	.
-
 Íslandsbanki	nken-s	Íslandsbanki
 hefur	sfg3en	hafa
 tekið	ssg	taka
@@ -1932,7 +1881,6 @@ vextir	nkfn	vöxtur
 verða	sfg3fn	verða
 óbreyttir	lkfnsf	óbreyttur
 .	.	.
-
 Svipaða	lveosf	svipaður
 sögu	nveo	saga
 er	sfg3en	vera
@@ -1958,7 +1906,6 @@ vextir	nkfn	vöxtur
 haldast	sfm3fn	halda
 óbreyttir	lkfnsf	óbreyttur
 .	.	.
-
 Vaxtabyrði	nven	vaxtabyrði
 skuldabréfa	nhfe	skuldabréf
 lækkar	sfg3en	lækka
@@ -1991,7 +1938,6 @@ stofnað	sþghen	stofna
 til	ae	til
 skuldarinnar	nveeg	skuld
 .	.	.
-
 Þetta	fahen	þessi
 stafar	sfg3en	stafa
 af	aþ	af
@@ -2003,7 +1949,6 @@ vextir	nkfn	vöxtur
 skuldabréfa	nhfe	skuldabréf
 tvískiptir	lkfnsf	tvískiptur
 .	.	.
-
 Annars	fokee	annar
 vegar	nkee	vegur
 er	sfg3en	vera
@@ -2022,7 +1967,6 @@ breytist	sfm3en	breyta
 ekki	aa	ekki
 nú	aa	nú
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 eru	sfg3fn	vera
@@ -2043,7 +1987,6 @@ breytingum	nvfþ	breyting
 á	ao	á
 morgun	nkeo	morgunn
 .	.	.
-
 Árleg	lvensf	árlegur
 vaxtabyrði	nven	vaxtabyrði
 af	aþ	af
@@ -2067,7 +2010,6 @@ eiga	sfg3fn	eiga
 sér	fpvfþ	sig
 stað	nkeo	staður
 .	.	.
-
 HAGNAÐUR	nken	hagnaður
 Sölumiðstöðvar	nvee-s	Sölumiðstöð
 Hraðfrystihúsanna	nhfegs	Hraðfrystihús
@@ -2090,7 +2032,6 @@ tímabil	nheo	tímabil
 í	ao	í
 fyrra	lheovm	fyrri
 .	.	.
-
 Hagnaður	nken	hagnaður
 af	aþ	af
 rekstri	nkeþ	rekstur
@@ -2116,7 +2057,6 @@ fréttatilkynningu	nveþ	fréttatilkynning
 frá	aþ	frá
 SH	as	SH
 .	.	.
-
 Búist	sþmhen	búa
 er	sfg3en	vera
 við	aþ	við
@@ -2129,7 +2069,6 @@ fyrir	ao	fyrir
 í	aþ	í
 heild	nveþ	heild
 .	.	.
-
 Heildartekjur	nvfn	heildartekjur
 á	aþ	á
 tímabilinu	nheþg	tímabil
@@ -2146,7 +2085,6 @@ tímabili	nheþ	tímabil
 í	ao	í
 fyrra	lheovm	fyrri
 .	.	.
-
 Tekjur	nvfn	tekja
 samstæðunnar	nveeg	samstæða
 eru	sfg3fn	vera
@@ -2156,7 +2094,6 @@ mestu	lheþse	mikill
 erlendri	lveþsf	erlendur
 mynt	nveþ	mynt
 .	.	.
-
 Hagnaður	nken	hagnaður
 fyrir	ao	fyrir
 fjármagnsliði	nkfo	fjármagnsliður
@@ -2171,7 +2108,6 @@ tímabilinu	nheþg	tímabil
 í	ao	í
 fyrra	lheovm	fyrri
 .	.	.
-
 Í	aþ	í
 tilkynningu	nveþ	tilkynning
 segir	sfg3en	segja
@@ -2186,7 +2122,6 @@ jafnvægi	nheþ	jafnvægi
 á	aþ	á
 árinu	nheþg	ár
 .	.	.
-
 Niðurstaða	nven	niðurstaða
 efnahagsreiknings	nkee	efnahagsreikningur
 var	sfg3eþ	vera
@@ -2198,7 +2133,6 @@ aukning	nven	aukning
 frá	aþ	frá
 áramótum	nhfþ	áramót
 .	.	.
-
 Heildarskuldir	nvfn	heildarskuld
 að	aþ	að
 frádregnum	lkfþsf	frádreginn
@@ -2209,19 +2143,16 @@ námu	sfg3fþ	nema
 2,4	ta	2,4
 milljörðum	nkfþ	milljarður
 .	.	.
-
 Eginfjárhlutfall	nhen	eiginfjárhlutfall
 var	sfg3eþ	vera
 17,7%	tp	17,7%
 .	.	.
-
 Um	ao	um
 horfur	nvfo	horfa
 segir	sfg3en	segja
 í	aþ	í
 fréttatilkynningunni	nveþg	fréttatilkynning
 :	:	:
-
 Þótt	c	þótt
 atburðirnir	nkfng	atburður
 11.	ta	11.
@@ -2250,7 +2181,6 @@ og	c	og
 með	aa	með
 óvissu	nveþ	óvissa
 .	.	.
-
 En	c	en
 að	aþ	að
 öllu	foheþ	allur
@@ -2278,7 +2208,6 @@ nálægt	aa	nálægt
 800	ta	800
 milljónum	nvfþ	milljón
 .	.	.
-
 SAMDRÁTTUR	nken	samdráttur
 hefur	sfg3en	hafa
 orðið	ssg	verða
@@ -2310,7 +2239,6 @@ hina	fakfo	hinn
 tvo	tfkfo	tveir
 þættina	nkfog	þáttur
 .	.	.
-
 Þar	aa	þar
 þarf	sfg3en	þurfa
 til	ae	til
@@ -2322,7 +2250,6 @@ hálfu	nveþ	hálfa
 hins	ghee	hinn
 opinbera	lheevf	opinber
 .	.	.
-
 Framlag	nhen	framlag
 ríkisfjármálanna	nhfeg	ríkisfjármál
 væri	svg3eþ	vera
@@ -2334,7 +2261,6 @@ Seðlabankans	nkeegs	Seðlabanki
 yrði	svg3eþ	verða
 náð	ssg	ná
 .	.	.
-
 Þetta	fahen	þessi
 kom	sfg3eþ	koma
 fram	aa	fram
@@ -2364,7 +2290,6 @@ Seðlabankans	nkeegs	Seðlabanki
 ,	,	,
 Peningamála	nhfe-s	Peningamál
 .	.	.
-
 Framsögu	nveo	framsaga
 höfðu	sfg3fþ	hafa
 Birgir	nken-s	Birgir
@@ -2384,7 +2309,6 @@ hjá	aþ	hjá
 Þróunarfélagi	nheþ-s	Þróunarfélag
 Íslands	nhee-s	Ísland
 .	.	.
-
 Lagt	sþghen	leggja
 var	sfg3eþ	vera
 út	aa	út
@@ -2402,7 +2326,6 @@ og	c	og
 verðbólguspá	nveþ	verðbólguspá
 Seðlabankans	nkeegs	Seðlabanki
 .	.	.
-
 Telur	sfg3en	telja
 Seðlabankann	nkeogs	Seðlabanki
 fullbjartsýnan	lkeosf	fullbjartsýnn
@@ -2441,7 +2364,6 @@ hækka	sng	hækka
 eftir	ao	eftir
 það	fpheo	það
 .	.	.
-
 Andri	nken-s	Andri
 lýsti	sfg3eþ	lýsa
 áhyggjum	nvfþ	áhyggja
@@ -2449,7 +2371,6 @@ af	aþ	af
 miklum	lkeþsf	mikill
 viðskiptahalla	nkeþ	viðskiptahalli
 .	.	.
-
 Svona	lkenof	svona
 hallarekstur	nken	hallarekstur
 gengur	sfg3en	ganga
@@ -2472,7 +2393,6 @@ heimili	nheþ	heimili
 sagði	sfg3eþ	segja
 Andri	nken-s	Andri
 .	.	.
-
 Áframhaldandi	lkenof	áframhaldandi
 vöxtur	nken	vöxtur
 samneyslu	nvee	samneysla
@@ -2499,7 +2419,6 @@ kom	sfg3eþ	koma
 máli	nheþ	mál
 Andra	nkee-s	Andri
 .	.	.
-
 Sökum	ae	sökum
 viðskiptahallans	nkeeg	viðskiptahalli
 er	sfg3en	vera
@@ -2527,7 +2446,6 @@ var	sfg3eþ	vera
 í	ao	í
 fyrradag	nkeo	fyrradagur
 .	.	.
-
 Hann	fpken	hann
 telur	sfg3en	telja
 horfur	nvfo	horfa
@@ -2547,7 +2465,6 @@ heldur	c	heldur
 ekki	aa	ekki
 góðar	lvfnsf	góður
 .	.	.
-
 Hugmynd	nven	hugmynd
 að	aþ	að
 auknum	lkeþsf	aukinn
@@ -2565,7 +2482,6 @@ með	aþ	með
 föstum	lkfþsf	fastur
 vöxtum	nkfþ	vöxtur
 .	.	.
-
 Þegar	c	þegar
 skuldarinn	nkeng	skuldari
 er	sfg3en	vera
@@ -2586,7 +2502,6 @@ eftir	aþ	eftir
 peningum	nkfþ	peningur
 aukist	svm3en	auka
 .	.	.
-
 Þetta	fahen	þessi
 á	sfg3en	eiga
 til	ae	til
@@ -2616,7 +2531,6 @@ milljarða	nkfo	milljarður
 nokkrum	fohfþ	nokkur
 árum	nhfþ	ár
 .	.	.
-
 Hugmynd	nven	hugmynd
 Andra	nkee-s	Andri
 er	sfg3en	vera
@@ -2649,7 +2563,6 @@ tuttugu	tfhfe	tuttugu
 ára	nhfe	ár
 endurgreiðslutíma	nkee	endurgreiðslutími
 .	.	.
-
 Afföll	nhfn	afföll
 af	aþ	af
 tveggja	tfvfe	tveir
@@ -2671,7 +2584,6 @@ við	ao	við
 3%	tp	3%
 ávöxtunarkröfu	nveo	ávöxtunarkrafa
 .	.	.
-
 Þessi	faven	þessi
 ávöxtunarkrafa	nven	ávöxtunarkrafa
 tæki	svg3eþ	taka
@@ -2721,7 +2633,6 @@ kosti	nkeþ	kostur
 sagði	sfg3eþ	segja
 Andri	nken-s	Andri
 .	.	.
-
 Halda	sng	halda
 áfram	aa	áfram
 á	aþ	á
@@ -2776,7 +2687,6 @@ daga	nkfo	dagur
 og	c	og
 vikur	nvfo	vika
 .	.	.
-
 Hann	fpken	hann
 hrósaði	sfg3eþ	hrósa
 Seðlabankanum	nkeþgs	Seðlabanki
@@ -2792,7 +2702,6 @@ mikinn	lkeosf	mikill
 á	aþ	á
 alþjóðavettvangi	nkeþ	alþjóðavettvangur
 .	.	.
-
 Hann	fpken	hann
 sagði	sfg3eþ	segja
 að	cn	að
@@ -2819,7 +2728,6 @@ væri	svg3eþ	vera
 erfitt	lhensf	erfiður
 verk	nhen	verk
 .	.	.
-
 Vaxtahækkanir	nvfn	vaxtahækkun
 undanfarinna	lhfesf	undanfarinn
 ára	nhfe	ár
@@ -2837,7 +2745,6 @@ einkaneyslu	nveo	einkaneysla
 og	c	og
 fjárfestingar	nvfo	fjárfesting
 .	.	.
-
 Margeir	nken-s	Margeir
 benti	sfg3eþ	benda
 á	ao	á
@@ -2854,7 +2761,6 @@ erlendar	lvfnsf	erlendur
 skammtímaskuldir	nvfn	skammtímaskuld
 þjóðarbúsins	nheeg	þjóðarbú
 .	.	.
-
 Þessar	favfn	þessi
 skuldir	nvfn	skuld
 hefðu	svg3fþ	hafa
@@ -2873,7 +2779,6 @@ lækkandi	slg	lækka
 á	aa	á
 móti	aa	móti
 .	.	.
-
 Þetta	fahen	þessi
 hlutfall	nhen	hlutfall
 var	sfg3eþ	vera
@@ -2894,7 +2799,6 @@ að	aþ	að
 sögn	nveþ	sögn
 Margeirs	nkee-s	Margeir
 .	.	.
-
 Ég	fp1en	ég
 tel	sfg1en	telja
 að	c	að
@@ -2926,7 +2830,6 @@ gegn	aþ	gegn
 opinberum	lhfþsf	opinber
 útgjöldum	nhfþ	útgjöld
 .	.	.
-
 Forsenda	nven	forsenda
 þess	fphee	það
 að	c	að
@@ -2954,7 +2857,6 @@ sín	fehfo	sinn
 segir	sfg3en	segja
 Margeir	nken-s	Margeir
 .	.	.
-
 Raungengi	nhen	raungengi
 krónunnar	nveeg	króna
 mun	sfg3en	munu
@@ -2987,7 +2889,6 @@ Morgunblaðinu	nheþgs	Morgunblað
 í	aa	í
 gær	aa	gær
 .	.	.
-
 Birgir	nken-s	Birgir
 Ísleifur	nken-s	Ísleifur
 lagði	sfg3eþ	leggja
@@ -3007,7 +2908,6 @@ um	ao	um
 eftir	ao	eftir
 breytinguna	nveog	breyting
 .	.	.
-
 Seðlabankinn	nkengs	Seðlabanki
 hefur	sfg3en	hafa
 áður	aa	áður
@@ -3032,7 +2932,6 @@ með	aa	með
 til	ae	til
 lengdar	nvee	lengd
 .	.	.
-
 Raungengi	nhen	raungengi
 krónunnar	nveeg	króna
 mun	sfg3en	munu
@@ -3042,7 +2941,6 @@ hækka	sng	hækka
 næstu	lhfþve	næstur
 misserum	nhfþ	misseri
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 er	sfg3en	vera
@@ -3069,7 +2967,6 @@ en	c	en
 í	aþ	í
 viðskiptalöndunum	nhfþg	viðskiptaland
 .	.	.
-
 Seðlabankastjóri	nken	seðlabankastjóri
 sagðist	sfm3eþ	segja
 vonast	snm	vona
@@ -3086,7 +2983,6 @@ hærra	lheþvm	hár
 raungengi	nheþ	raungengi
 krónunnar	nveeg	króna
 .	.	.
-
 Tímasetning	nven	tímasetning
 og	c	og
 umfang	nhen	umfang
@@ -3109,7 +3005,6 @@ náist	svm3en	ná
 árið	nheog	ár
 2003	ta	2003
 .	.	.
-
 Framlag	nhen	framlag
 ríkisfjármálanna	nhfeg	ríkisfjármál
 verður	sfg3en	verða
@@ -3126,7 +3021,6 @@ lok	nhfo	lok
 erindis	nhee	erindi
 síns	fehee	sinn
 .	.	.
-
 Hann	fpken	hann
 ræddi	sfg3eþ	ræða
 peningamálastefnu	nveo	peningamálastefna
@@ -3145,7 +3039,6 @@ m.a.	as	m.a.
 á	ao	á
 góma	nkfo	gómur
 .	.	.
-
 Okkar	fp1fe	ég
 skoðun	nven	skoðun
 var	sfg3eþ	vera
@@ -3215,7 +3108,6 @@ lendum	svg1fn	lenda
 mikilli	lveþsf	mikill
 óðaverðbólgu	nveþ	óðaverðbólga
 .	.	.
-
 Birgir	nken-s	Birgir
 Ísleifur	nken-s	Ísleifur
 svaraði	sfg3eþ	svara
@@ -3230,7 +3122,6 @@ svo	aa	svo
 miklu	lheþsf	mikill
 ofþenslutímabili	nheþ	ofþenslutímabil
 .	.	.
-
 Launin	nhfng	laun
 á	aþ	á
 Íslandi	nheþ-s	Ísland
@@ -3247,7 +3138,6 @@ síðustu	lhfþve	síðari
 tveimur	tfhfþ	tveir
 árum	nhfþ	ár
 .	.	.
-
 Þar	aa	þar
 er	sfg3en	vera
 auðvitað	aa	auðvitað
@@ -3267,7 +3157,6 @@ síðustu	lhfþve	síðari
 tveimur	tfhfþ	tveir
 árum	nhfþ	ár
 .	.	.
-
 Bæði	c	bæði
 þær	favfn	sá
 tekjur	nvfn	tekja
@@ -3302,7 +3191,6 @@ sækja	sng	sækja
 sér	fpkeþ	sig
 hnefa	nkeo	hnefi
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 það	fphen	það
@@ -3320,7 +3208,6 @@ vel	aa	vel
 í	aþ	í
 ístaðinu	nheþg	ístað
 .	.	.
-
 Þeir	fpkfn	hann
 horfa	sfg3fn	horfa
 þess	fphee	það
@@ -3347,7 +3234,6 @@ að	aþ	að
 sér	fpkfþ	sig
 höndum	nvfþ	hönd
 .	.	.
-
 Birgir	nken-s	Birgir
 Ísleifur	nken-s	Ísleifur
 telur	sfg3en	telja
@@ -3372,7 +3258,6 @@ upp	aa	upp
 eigin	lvfoof	eigin
 spýtur	nvfo	spýta
 .	.	.
-
 SJÁVARÚTVEGSRÁÐUNEYTIÐ	nhengs	Sjávarútvegsráðuneyti
 efnir	sfg3en	efna
 til	ae	til
@@ -3406,7 +3291,6 @@ frumsýnt	sþghen	frumsýna
 með	aþ	með
 vorinu	nheþg	vor
 .	.	.
-
 Börnin	nhfng	barn
 eru	sfg3fn	vera
 eins	tfhee	einn
@@ -3415,7 +3299,6 @@ og	c	og
 þriggja	tfhfe	þrír
 ára	nhfe	ár
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 því	aa	því
@@ -3439,7 +3322,6 @@ uppeldi	nheo	uppeldi
 ungra	lhfesf	ungur
 barna	nhfe	barn
 .	.	.
-
 Engu	foheþ	enginn
 síður	aam	síður
 er	sfg3en	vera
@@ -3463,7 +3345,6 @@ kaffi	nheo	kaffi
 og	c	og
 súkkulaðirúsínur	nvfo	súkkulaðirúsína
 .	.	.
-
 Desember	nken	desember
 er	sfg3en	vera
 alltaf	aa	alltaf
@@ -3475,7 +3356,6 @@ okkur	fp1fþ	ég
 segir	sfg3en	segja
 Vigdís	nven-s	Vigdís
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 mjög	aa	mjög
@@ -3493,7 +3373,6 @@ gjarnan	aa	gjarnan
 hjá	aþ	hjá
 mér	fp1eþ	ég
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 oft	aa	oft
@@ -3513,7 +3392,6 @@ sinni	nheþ	sinn
 á	ao	á
 aðfangadag	nkeo	aðfangadagur
 .	.	.
-
 Málið	nheng	mál
 er	sfg3en	vera
 það	fphen	það
@@ -3525,7 +3403,6 @@ vandlát	lvensf	vandlátur
 á	ao	á
 gjafir	nvfo	gjöf
 .	.	.
-
 Á	aþ	á
 hverju	foheþ	hver
 ári	nheþ	ár
@@ -3542,7 +3419,6 @@ búðaráp	nheo	búðaráp
 þeim	fakeþ	sá
 tilgangi	nkeþ	tilgangur
 .	.	.
-
 Ég	fp1en	ég
 sé	sfg1en	sjá
 kannski	aa	kannski
@@ -3555,7 +3431,6 @@ en	c	en
 hugsa	sfg1en	hugsa
 þá	aa	þá
 :	:	:
-
 Nei	au	nei
 ,	,	,
 best	lhense	góður
@@ -3571,7 +3446,6 @@ eitthvað	foheo	einhver
 enn	aa	enn
 betra	lheovm	góður
 .	.	.
-
 Kassarnir	nkfng	kassi
 með	aþ	með
 jólaskrautinu	nheþg	jólaskraut
@@ -3587,7 +3461,6 @@ desember	nkeo	desember
 heimili	nheþ	heimili
 Vigdísar	nvee-s	Vigdís
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 svo	aa	svo
@@ -3608,7 +3481,6 @@ finnst	sfm3en	finna
 mjög	aa	mjög
 skemmtilegt	lhensf	skemmtilegur
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 ekki	aa	ekki
@@ -3635,7 +3507,6 @@ aðventukrans	nkeo	aðventukrans
 úr	aþ	úr
 greni	nheþ	greni
 .	.	.
-
 Í	aþ	í
 foreldrahúsum	nhfþ	foreldrahús
 skreyttum	sfg1fþ	skreyta
@@ -3668,7 +3539,6 @@ svo	aa	svo
 á	ao	á
 aðfangadagsmorgun	nkeo	aðfangadagsmorgunn
 .	.	.
-
 Kannski	aa	kannski
 fær	sfg3en	fá
 Dagur	nken-s	Dagur
@@ -3678,11 +3548,9 @@ með	aa	með
 í	ao	í
 ár	nheo	ár
 .	.	.
-
 Konfekt	nhen	konfekt
 og	c	og
 laufabrauð	nhen	laufabrauð
-
 Ég	fp1en	ég
 baka	sfg1en	baka
 ekki	aa	ekki
@@ -3699,7 +3567,6 @@ fæ	sfg1en	fá
 hjá	aþ	hjá
 mömmu	nveþ	mamma
 .	.	.
-
 Annars	aa	annars
 eru	sfg3fn	vera
 aðventuverkin	nhfng	aðventuverk
@@ -3707,7 +3574,6 @@ ekki	aa	ekki
 svo	aa	svo
 mörg	lhfnsf	margur
 .	.	.
-
 Það	fphen	það
 eru	sfg3fn	vera
 þrjár	tfvfn	þrír
@@ -3719,7 +3585,6 @@ að	aþ	að
 kransinum	nkeþg	krans
 frátöldum	lkeþsf	frátalinn
 .	.	.
-
 Ein	tfven	einn
 er	sfg3en	vera
 sú	faven	sá
@@ -3728,7 +3593,6 @@ búa	sng	búa
 til	aa	til
 konfekt	nheo	konfekt
 .	.	.
-
 Ég	fp1en	ég
 og	c	og
 vinkona	nven	vinkona
@@ -3753,7 +3617,6 @@ höfum	sfg1fn	hafa
 það	fpheo	það
 huggulegt	lheosf	huggulegur
 .	.	.
-
 Vigdís	nven-s	Vigdís
 segir	sfg3en	segja
 að	c	að
@@ -3767,7 +3630,6 @@ laufabrauð	nheo	laufabrauð
 með	aþ	með
 fjölskyldunni	nveþg	fjölskylda
 .	.	.
-
 Laufabrauðið	nheng	laufabrauð
 hefur	sfg3en	hafa
 fylgt	ssg	fylgja
@@ -3785,7 +3647,6 @@ bjó	sfg3eþ	búa
 á	aþ	á
 Ísafirði	nkeþ-s	Ísafjörður
 .	.	.
-
 Við	fp1fn	ég
 gerum	sfg1fn	gera
 laufabrauðið	nheog	laufabrauð
@@ -3808,7 +3669,6 @@ tekið	ssg	taka
 virkan	lkeosf	virkur
 þátt	nkeo	þáttur
 .	.	.
-
 Sonur	nken	sonur
 minn	feken	minn
 skar	sfg3eþ	skera
@@ -3828,7 +3688,6 @@ rúmlega	aa	rúmlega
 tveggja	tfhfe	tveir
 ára	nhfe	ár
 .	.	.
-
 Ætli	svg3en	ætla
 hann	fpken	hann
 verði	svg3en	verða
@@ -3839,7 +3698,6 @@ liðtækur	lkensf	liðtækur
 í	ao	í
 ár	nheo	ár
 .	.	.
-
 Foreldrar	nkfn	foreldrar
 Vigdísar	nvee-s	Vigdís
 eru	sfg3fn	vera
@@ -3863,7 +3721,6 @@ samband	nheo	samband
 á	aþ	á
 unglingsaldri	nkeþ	unglingsaldur
 .	.	.
-
 Vigdís	nven-s	Vigdís
 vann	sfg3eþ	vinna
 meðal	ae	meðal
@@ -3893,7 +3750,6 @@ bólusetningu	nveo	bólusetning
 gegn	aþ	gegn
 blaðamannsstarfinu	nheþg	blaðamannsstarf
 .	.	.
-
 Enda	c	enda
 ekki	aa	ekki
 skrítið	lhensf	skrítinn
@@ -3921,7 +3777,6 @@ opnuviðtal	nheo	opnuviðtal
 að	aa	að
 auki	aa	auki
 .	.	.
-
 Og	c	og
 allt	fohen	allur
 handskrifað	sþghen	handskrifa
@@ -3935,7 +3790,6 @@ Vigdís	nven-s	Vigdís
 og	c	og
 hlær	sfg3en	hlæja
 .	.	.
-
 Seinna	aam	seint
 fékk	sfg1eþ	fá
 ég	fp1en	ég
@@ -3946,7 +3800,6 @@ fannst	sfm3eþ	finna
 stórkostleg	lvensf	stórkostlegur
 framför	nven	framför
 .	.	.
-
 Eftir	ao	eftir
 stúdentspróf	nheo	stúdentspróf
 lágu	sfg3fþ	liggja
@@ -3969,7 +3822,6 @@ að	cn	að
 búa	sng	búa
 í	aa	í
 .	.	.
-
 Þar	aa	þar
 nam	sfg3eþ	nema
 hún	fpven	hún
@@ -3980,7 +3832,6 @@ en	c	en
 Jakob	nken-s	Jakob
 stjórnmálafræði	nveo	stjórnmálafræði
 .	.	.
-
 Eftir	ao	eftir
 að	c	að
 heim	aa	heim
@@ -4001,7 +3852,6 @@ með	aþ	með
 svolítilli	lveþsf	svolítill
 kennslu	nveþ	kennsla
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 mjög	aa	mjög
@@ -4019,7 +3869,6 @@ með	ao	með
 lítil	lhfosf	lítill
 börn	nhfo	barn
 .	.	.
-
 Þess	fphee	það
 vegna	ae	vegna
 er	sfg3en	vera
@@ -4049,7 +3898,6 @@ við	ao	við
 frábæra	lheovf	frábær
 leikrit	nheo	leikrit
 .	.	.
-
 Kærasta	lvenve	kær
 hefðin	nveng	hefð
 Þriðja	lvenvf	þriðji
@@ -4063,7 +3911,6 @@ er	sfg3en	vera
 á	ao	á
 jólakortin	nhfog	jólakort
 .	.	.
-
 Við	fp1fn	ég
 höfðum	sfg1fþ	hafa
 það	fpheo	það
@@ -4085,7 +3932,6 @@ okkur	fp1fþ	ég
 að	aþ	að
 kortunum	nhfþg	kort
 .	.	.
-
 Í	aþ	í
 minni	feveþ	minn
 fjölskyldu	nveþ	fjölskylda
@@ -4099,7 +3945,6 @@ pakkarnir	nkfng	pakki
 segir	sfg3en	segja
 Vigdís	nven-s	Vigdís
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 enn	aa	enn
@@ -4120,7 +3965,6 @@ við	fp1fn	ég
 í	aþ	í
 þessu	faheþ	þessi
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 hitað	sþghen	hita
@@ -4135,7 +3979,6 @@ smákökur	nvfn	smákaka
 fylgja	sfg3fn	fylgja
 með	aa	með
 .	.	.
-
 Kortin	nhfng	kort
 eru	sfg3fn	vera
 opnuð	sþghfn	opna
@@ -4151,7 +3994,6 @@ lesið	ssg	lesa
 og	c	og
 skoðað	ssg	skoða
 .	.	.
-
 Þau	fphfn	það
 eru	sfg3fn	vera
 svo	aa	svo
@@ -4170,7 +4012,6 @@ eða	c	eða
 eitthvað	fohen	einhver
 álíka	lhenof	álíka
 .	.	.
-
 Það	fphen	það
 eru	sfg3fn	vera
 helgispjöll	nhfn	helgispjöll
@@ -4182,7 +4023,6 @@ fyrir	ao	fyrir
 þennan	fakeo	þessi
 tíma	nkeo	tími
 .	.	.
-
 Vigdís	nven-s	Vigdís
 sendir	sfg3en	senda
 um	aa	um
@@ -4197,7 +4037,6 @@ býr	sfg3en	búa
 til	aa	til
 sjálf	fbven	sjálfur
 .	.	.
-
 Ég	fp1en	ég
 fékk	sfg1eþ	fá
 þetta	faheo	þessi
@@ -4221,7 +4060,6 @@ búa	sng	búa
 til	aa	til
 sjálf	fbven	sjálfur
 .	.	.
-
 Ég	fp1en	ég
 skrifa	sfg1en	skrifa
 líka	aa	líka
@@ -4251,7 +4089,6 @@ ekki	aa	ekki
 dags	nkee	dagur
 daglega	aa	daglega
 .	.	.
-
 Við	fp1fn	ég
 eigum	sfg1fn	eiga
 marga	lkfosf	margur
@@ -4270,7 +4107,6 @@ kveðju	nveo	kveðja
 um	ao	um
 jólin	nhfog	jól
 .	.	.
-
 Og	c	og
 þótt	c	þótt
 ég	fp1en	ég
@@ -4286,7 +4122,6 @@ næst	aae	nærri
 þetta	faheo	þessi
 alltaf	aa	alltaf
 .	.	.
-
 Kortin	nhfng	kort
 eru	sfg3fn	vera
 kærasta	lvenve	kær
@@ -4307,7 +4142,6 @@ frá	aþ	frá
 um	ao	um
 tvítugt	lheosf	tvítugur
 .	.	.
-
 Vigdís	nven-s	Vigdís
 vill	sfg3en	vilja
 hafa	sng	hafa
@@ -4324,7 +4158,6 @@ myndir	nvfn	mynd
 eru	sfg3fn	vera
 bannorð	nhfn	bannorð
 .	.	.
-
 Ein	fohfo	einn
 jólin	nhfog	jól
 skar	sfg3eþ	skera
@@ -4339,7 +4172,6 @@ hún	fpven	hún
 til	aa	til
 pappírinn	nkeog	pappír
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 áður	aa	áður
@@ -4353,7 +4185,6 @@ Vigdís	nven-s	Vigdís
 og	c	og
 hlær	sfg3en	hlæja
 .	.	.
-
 Ég	fp1en	ég
 geri	sfg1en	gera
 það	fpheo	það
@@ -4371,7 +4202,6 @@ stofugólfið	nheng	stofugólf
 var	sfg3eþ	vera
 undirlagt	lhensf	undirlagður
 .	.	.
-
 Í	aþ	í
 desemberbyrjun	nveþ	desemberbyrjun
 er	sfg3en	vera
@@ -4393,7 +4223,6 @@ dráttum	nkfþ	dráttur
 stundum	aa	stundum
 fyrr	aam	fyrr
 .	.	.
-
 Í	ao	í
 ár	nheo	ár
 ætla	sfg1en	ætla
@@ -4412,7 +4241,6 @@ gera	sng	gera
 nokkrar	fovfo	nokkur
 prufur	nvfo	prufa
 .	.	.
-
 Ég	fp1en	ég
 nota	sfg1en	nota
 grafíkpappír	nkeo	grafíkpappír
@@ -4427,7 +4255,6 @@ alveg	aa	alveg
 frábær	lkensf	frábær
 pappír	nken	pappír
 .	.	.
-
 Fyrst	aae	fyrr
 rissa	sfg1en	rissa
 ég	fp1en	ég
@@ -4445,7 +4272,6 @@ beint	aa	beint
 á	ao	á
 kortin	nhfog	kort
 .	.	.
-
 Vigdís	nven-s	Vigdís
 notar	sfg3en	nota
 ódýra	lveosf	ódýr
@@ -4474,7 +4300,6 @@ mjög	aa	mjög
 fallega	lveosf	fallegur
 áferð	nveo	áferð
 .	.	.
-
 Og	c	og
 þá	aa	þá
 má	sfg3en	mega
@@ -4496,7 +4321,6 @@ jólakort	nhfo	jólakort
 ársins	nheeg	ár
 2000	ta	2000
 .	.	.
-
 Peking	e	Peking
 Sesselja	nven-s	Sesselja
 Friðriksdóttir	nven-s	Friðriksdóttir
@@ -4514,7 +4338,6 @@ hrifningu	nveo	hrifning
 gesta	nkfe	gestur
 sinna	fekfe	sinn
 .	.	.
-
 Sesselja	nven-s	Sesselja
 segir	sfg3en	segja
 að	c	að
@@ -4530,7 +4353,6 @@ auk	ae	auk
 gott	lheosf	góður
 bragð	nheo	bragð
 .	.	.
-
 Þar	aa	þar
 sem	ct	sem
 matreiðslan	nveng	matreiðsla
@@ -4560,7 +4382,6 @@ elda	sng	elda
 eftir	aþ	eftir
 henni	fpveþ	hún
 .	.	.
-
 Fyllt	lvensf	fylltur
 Peking-önd	nven-s	Peking-önd
 1	ta	1
@@ -4584,7 +4405,6 @@ púrtvín	nhen	púrtvín
 2	ta	2
 msk	as	msk
 .	.	.
-
 púðursykur	nken	púðursykur
 börkur	nken	börkur
 af	aþ	af
@@ -4603,7 +4423,6 @@ um	aa	um
 30	ta	30
 mínútur	nvfo	mínúta
 .	.	.
-
 Soðið	nheng	soð
 er	sfg3en	vera
 geymt	sþghen	geyma
@@ -4614,7 +4433,6 @@ og	c	og
 látin	sþgven	láta
 kólna	sng	kólna
 .	.	.
-
 Börkur	nken	börkur
 af	aþ	af
 appelsínu	nveþ	appelsína
@@ -4628,7 +4446,6 @@ skorin	sþghfn	skera
 í	ao	í
 tvennt	lheosf	tvennur
 .	.	.
-
 Döðlur	nvfn	daðla
 eru	sfg3fn	vera
 skornar	sþgvfn	skera
@@ -4642,7 +4459,6 @@ séu	svg3fn	vera
 þær	fpvfn	hún
 stórar	lvfnsf	stór
 .	.	.
-
 Öllu	foheþ	allur
 hráefni	nheþ	hráefni
 er	sfg3en	vera
@@ -4661,7 +4477,6 @@ en	c	en
 er	sfg3en	vera
 fyllt	sþgven	fylla
 .	.	.
-
 Fylling	nven	fylling
 er	sfg3en	vera
 sett	sþgven	setja
@@ -4676,7 +4491,6 @@ lokað	sþghen	loka
 með	aþ	með
 tannstönglum	nkfþ	tannstöngull
 .	.	.
-
 Öndin	nveng	önd
 er	sfg3en	vera
 steikt	sþgven	steikja
@@ -4690,7 +4504,6 @@ klukkutíma	nkeo	klukkutími
 við	ao	við
 180°C	ta	180°c
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 hún	fpven	hún
@@ -4704,7 +4517,6 @@ hækkaður	sþgken	hækka
 í	ao	í
 200°C	ta	200°c
 .	.	.
-
 Öndin	nveng	önd
 er	sfg3en	vera
 þá	aa	þá
@@ -4716,24 +4528,19 @@ legi	nkeþ	lögur
 1	ta	1
 msk	as	msk
 .	.	.
-
 sykur	nken	sykur
 1½	ta	1½
 tsk	as	tsk
 .	.	.
-
 salt	nhen	salt
 1	ta	1
 msk	as	msk
 .	.	.
-
 síróp	nhen	síróp
 1msk	as	1msk
 .	.	.
-
 appelsínusafi	nken	appelsínusafi
 .	.	.
-
 Að	aþ	að
 svo	aa	svo
 búnu	lheþsf	búinn
@@ -4759,7 +4566,6 @@ brún	nven	brún
 á	ao	á
 lit	nkeo	litur
 .	.	.
-
 Andasósa	nven	andasósa
 4	ta	4
 dl	as	dl
@@ -4779,7 +4585,6 @@ appelsínu	nveþ	appelsína
 2	ta	2
 msk	as	msk
 .	.	.
-
 sérrí	nhen	sérrí
 eða	c	eða
 púrtvín	nhen	púrtvín
@@ -4787,11 +4592,9 @@ andakraftur	nken	andakraftur
 eftir	aþ	eftir
 smekk	nkeþ	smekkur
 .	.	.
-
 2	ta	2
 msk	as	msk
 .	.	.
-
 rjómi	nken	rjómi
 ,	,	,
 ef	c	ef
@@ -4804,7 +4607,6 @@ ofan	aa	ofan
 af	aþ	af
 soðinu	nheþg	soð
 .	.	.
-
 Best	lhense	góður
 er	sfg3en	vera
 að	cn	að
@@ -4816,7 +4618,6 @@ er	sfg3en	vera
 orðið	sþghen	verða
 kalt	lhensf	kaldur
 .	.	.
-
 Soð	nhen	soð
 ,	,	,
 appelsínusafi	nken	appelsínusafi
@@ -4831,7 +4632,6 @@ matvinnsluvél	nveo	matvinnsluvél
 og	c	og
 maukað	sþghen	mauka
 .	.	.
-
 Þar	aa	þar
 með	aa	með
 er	sfg3en	vera
@@ -4840,7 +4640,6 @@ uppistaða	nven	uppistaða
 í	ao	í
 sósuna	nveog	sósa
 .	.	.
-
 Hún	fpven	hún
 er	sfg3en	vera
 sett	sþgven	setja
@@ -4859,7 +4658,6 @@ bætt	sþghen	bæta
 út	aa	út
 í	aa	í
 .	.	.
-
 Nauðsynlegt	lhensf	nauðsynlegur
 er	sfg3en	vera
 að	cn	að
@@ -4877,7 +4675,6 @@ kraft	nkeo	kraftur
 í	ao	í
 hana	fpveo	hún
 .	.	.
-
 Sósan	nveng	sósa
 er	sfg3en	vera
 þykkt	sþgven	þykkja
@@ -4886,7 +4683,6 @@ maizena-mjöli	nheþ	maizena-mjöl
 eða	c	eða
 sósujafnara	nkeþ	sósujafnari
 .	.	.
-
 Ekki	aa	ekki
 er	sfg3en	vera
 nauðsynlegt	lhensf	nauðsynlegur
@@ -4910,7 +4706,6 @@ og	c	og
 mildi	svg3en	milda
 bragðið	nheog	bragð
 .	.	.
-
 Hún	fpven	hún
 kýs	sfg3en	kjósa
 að	cn	að
@@ -4930,7 +4725,6 @@ kominn	sþgken	koma
 í	ao	í
 hana	fpveo	hún
 .	.	.
-
 Danmörk	nven-s	Danmörk
 Hér	aa	hér
 er	sfg3en	vera
@@ -4945,7 +4739,6 @@ landsins	nheeg	land
 frá	aþ	frá
 Danmörku	nveþ-s	Danmörk
 .	.	.
-
 Mælt	sþghen	mæla
 er	sfg3en	vera
 með	aþ	með
@@ -4957,7 +4750,6 @@ gulrótarstrimlum	nkfþ	gulrótarstrimill
 sem	c	sem
 meðlæti	nheþ	meðlæti
 .	.	.
-
 Dönsk	lvensf	danskur
 önd	nven	önd
 1	ta	1
@@ -4990,11 +4782,9 @@ hann	fpkeo	hann
 og	c	og
 þerra	sng	þerra
 .	.	.
-
 Þeir	fpkfn	hann
 eru	sfg3fn	vera
 geymdir	sþgkfn	geyma
 til	ae	til
 sósugerðar	nvee	sósugerð
 .	.	.
-

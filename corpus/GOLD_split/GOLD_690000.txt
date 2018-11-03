@@ -16,7 +16,6 @@ ketti	nkfo	köttur
 í	ao	í
 fellibúr	nhfo	fellibúr
 .	.	.
-
 Löglega	aa	löglega
 skráðum	lkfþsf	skráður
 köttum	nkfþ	köttur
@@ -31,7 +30,6 @@ færðir	sþgkfn	færa
 í	ao	í
 dýrageymslu	nveo	dýrageymsla
 .	.	.
-
 Hafi	svg3en	hafa
 þeirra	fpkfe	hann
 ekki	aa	ekki
@@ -55,14 +53,12 @@ kostnaði	nkeþ	kostnaður
 eða	c	eða
 aflífaðir	sþgkfn	aflífa
 .	.	.
-
 Viðfangsefnið	nheng	viðfangsefni
 heltók	sfg3eþ	heltaka
 mig	fp1eo	ég
 :	:	:
 Keflavík	nveþ-s	Keflavík
 |	|	|
-
 Þegar	c	þegar
 ég	fp1en	ég
 keypti	sfg1eþ	kaupa
@@ -80,7 +76,6 @@ innra	aam	innra
 með	aþ	með
 mér	fp1eþ	ég
 .	.	.
-
 Mér	fp1eþ	ég
 fannst	sfm3eþ	finna
 eins	aa	eins
@@ -98,12 +93,10 @@ hefði	svg1eþ	hafa
 áður	aa	áður
 gert	ssg	gera
 .	.	.
-
 --	--	--
 >	>	>
 Keflavík	nven-s	Keflavík
 |	|	|
-
 Þegar	c	þegar
 ég	fp1en	ég
 keypti	sfg1eþ	kaupa
@@ -121,7 +114,6 @@ innra	aam	innra
 með	aþ	með
 mér	fp1eþ	ég
 .	.	.
-
 Mér	fp1eþ	ég
 fannst	sfm3eþ	finna
 eins	aa	eins
@@ -139,7 +131,6 @@ hefði	svg1eþ	hafa
 áður	aa	áður
 gert	ssg	gera
 .	.	.
-
 Þetta	fahen	þessi
 viðfangsefni	nhen	viðfangsefni
 heltók	sfg3eþ	heltaka
@@ -171,7 +162,6 @@ að	cn	að
 mála	sng	mála
 myndir	nvfo	mynd
 .	.	.
-
 Kolbrún	nven-s	Kolbrún
 segist	sfm3en	segja
 hafa	sng	hafa
@@ -186,7 +176,6 @@ að	cn	að
 verða	sng	verða
 hárgreiðsludama	nven	hárgreiðsludama
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 alltaf	aa	alltaf
@@ -201,7 +190,6 @@ væri	svg3eþ	vera
 rétta	lheovf	réttur
 svarið	nheog	svar
 .	.	.
-
 Svo	aa	svo
 kom	sfg3eþ	koma
 í	ao	í
@@ -225,7 +213,6 @@ leið	sfg3eþ	líða
 segir	sfg3en	segja
 Kolbrún	nven-s	Kolbrún
 .	.	.
-
 Hún	fpven	hún
 vann	sfg3eþ	vinna
 um	ao	um
@@ -250,7 +237,6 @@ að	cn	að
 sinna	sng	sinna
 börnunum	nhfþg	barn
 .	.	.
-
 Fékk	sfg3eþ	fá
 hún	fpven	hún
 útrás	nveo	útrás
@@ -272,7 +258,6 @@ að	cn	að
 selja	sng	selja
 munina	nkfog	munur
 .	.	.
-
 Í	aþ	í
 undirmeðvitundinni	nveþg	undirmeðvitund
 blundaði	sfg3eþ	blunda
@@ -283,7 +268,6 @@ að	cn	að
 mála	sng	mála
 myndir	nvfo	mynd
 .	.	.
-
 Fyrir	aþ	fyrir
 þremur	tfhfþ	þrír
 árum	nhfþ	ár
@@ -300,7 +284,6 @@ við	ao	við
 að	cn	að
 mála	sng	mála
 .	.	.
-
 Það	fphen	það
 breytti	sfg3eþ	breyta
 lífi	nheþ	líf
@@ -311,7 +294,6 @@ og	c	og
 hún	fpven	hún
 segir	sfg3en	segja
 .	.	.
-
 Yfir	ao	yfir
 hana	fpveo	hún
 kom	sfg3eþ	koma
@@ -345,7 +327,6 @@ aftur	aa	aftur
 í	ao	í
 tímann	nkeog	tími
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 alltaf	aa	alltaf
@@ -355,7 +336,6 @@ leiða	sng	leiða
 mig	fp1eo	ég
 áfram	aa	áfram
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 ekki	aa	ekki
@@ -365,7 +345,6 @@ tilbúin	lvensf	tilbúinn
 málverkið	nheog	málverk
 fyrr	aam	fyrr
 .	.	.
-
 En	c	en
 nú	aa	nú
 tók	sfg1eþ	taka
@@ -386,7 +365,6 @@ eitthvað	foheo	einhver
 fyrir	ao	fyrir
 hendur	nvfo	hönd
 .	.	.
-
 Krafturinn	nkeng	kraftur
 býr	sfg3en	búa
 í	aþ	í
@@ -417,7 +395,6 @@ markmið	nhen	markmið
 þeim	fakeþ	sá
 tíma	nkeþ	tími
 .	.	.
-
 Nú	aa	nú
 er	sfg3en	vera
 sá	faken	sá
@@ -426,7 +403,6 @@ orðinn	sþgken	verða
 að	aþ	að
 veruleika	nkeþ	veruleiki
 .	.	.
-
 Sýning	nven	sýning
 á	aþ	á
 málverkum	nhfþ	málverk
@@ -445,7 +421,6 @@ Energia	e	Energia
 í	aþ	í
 Smáralind	nveþ-s	Smáralind
 .	.	.
-
 Þar	aa	þar
 eru	sfg3fn	vera
 verk	nhfn	verk
@@ -458,13 +433,11 @@ að	c	að
 undanförnum	lkfþsf	undanfarinn
 mánuðum	nkfþ	mánuður
 .	.	.
-
 Sýningin	nveng	sýning
 stendur	sfg3en	standa
 út	ao	út
 mánuðinn	nkeog	mánuður
 .	.	.
-
 Þá	aa	þá
 stefnir	sfg3en	stefna
 hún	fpven	hún
@@ -489,7 +462,6 @@ Ljósanótt	nveo-s	ljósanótt
 í	aþ	í
 Reykjanesbæ	nkeþ-s	Reykjanesbær
 .	.	.
-
 Kolbrún	nven-s	Kolbrún
 hefur	sfg3en	hafa
 ekki	aa	ekki
@@ -507,7 +479,6 @@ liti	nkfo	litur
 og	c	og
 aðferðir	nvfo	aðferð
 .	.	.
-
 Hún	fpven	hún
 segist	sfm3en	segja
 alltaf	aa	alltaf
@@ -525,7 +496,6 @@ nýst	ssm	nýta
 henni	fpveþ	hún
 vel	aa	vel
 .	.	.
-
 Hún	fpven	hún
 segist	sfm3en	segja
 hafa	sng	hafa
@@ -539,14 +509,12 @@ menntunar	nvee	menntun
 þessu	faheþ	þessi
 sviði	nheþ	svið
 .	.	.
-
 En	c	en
 það	fphen	það
 verði	svg3en	verða
 ekki	aa	ekki
 strax	aa	strax
 .	.	.
-
 Hún	fpven	hún
 segist	sfm3en	segja
 ekki	aa	ekki
@@ -586,7 +554,6 @@ sýningunni	nveþg	sýning
 í	aþ	í
 Smáralind	nveþ-s	Smáralind
 .	.	.
-
 Að	aþ	að
 því	fpheþ	það
 komi	svg3en	koma
@@ -602,7 +569,6 @@ sem	ct	sem
 henti	svg3eþ	henda
 henni	fpveþ	hún
 .	.	.
-
 Og	c	og
 margt	lhensf	margur
 gæti	svg3eþ	geta
@@ -616,7 +582,6 @@ höggmyndalist	nven	höggmyndalist
 og	c	og
 portrettmálun	nven	portrettmálun
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 fyrst	aae	fyrr
@@ -628,7 +593,6 @@ rekur	sfg3en	reka
 mig	fp1eo	ég
 áfram	aa	áfram
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 alltaf	aa	alltaf
@@ -653,7 +617,6 @@ með	aþ	með
 að	cn	að
 skrifa	sng	skrifa
 .	.	.
-
 Nú	aa	nú
 eru	sfg3fn	vera
 það	fphen	það
@@ -662,7 +625,6 @@ málverkin	nhfng	málverk
 segir	sfg3en	segja
 Kolbrún	nven-s	Kolbrún
 .	.	.
-
 Eftir	ao	eftir
 að	c	að
 Kolbrún	nven-s	Kolbrún
@@ -680,7 +642,6 @@ spennufall	nhen	spennufall
 hjá	aþ	hjá
 henni	fpveþ	hún
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 alltaf	aa	alltaf
@@ -688,7 +649,6 @@ nóg	lhensf	nógur
 að	cn	að
 gera	sng	gera
 .	.	.
-
 Fjölskyldan	nveng	fjölskylda
 og	c	og
 fiskbúðin	nveng	fiskbúðin
@@ -719,7 +679,6 @@ að	cn	að
 undirbúa	sng	undirbúa
 sýninguna	nveog	sýning
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 því	aa	því
@@ -731,7 +690,6 @@ heim	aa	heim
 frá	aþ	frá
 opnuninni	nveþg	opnun
 .	.	.
-
 Hún	fpven	hún
 segist	sfm3en	segja
 nú	aa	nú
@@ -754,7 +712,6 @@ af	aþ	af
 fallegum	lvfþsf	fallegur
 konum	nvfþ	kona
 .	.	.
-
 Hún	fpven	hún
 reiknar	sfg3en	reikna
 þó	aa	þó
@@ -782,7 +739,6 @@ efni	nhfo	efni
 auknum	lkeþsf	aukinn
 mæli	nkeþ	mælir
 .	.	.
-
 Drengur	nken	drengur
 fyrir	aþ	fyrir
 bíl	nkeþ	bíll
@@ -790,7 +746,6 @@ bíl	nkeþ	bíll
 Fimm	tfhfe	fimm
 ára	nhfe	ár
 ...	...	...
-
 :	:	:
 Drengur	nken	drengur
 fyrir	aþ	fyrir
@@ -812,7 +767,6 @@ síðdegis	aa	síðdegis
 í	ao	í
 fyrradag	nkeo	fyrradagur
 .	.	.
-
 Hann	fpken	hann
 slasaðist	sfm3eþ	slasa
 lítilsháttar	aa	lítilsháttar
@@ -838,7 +792,6 @@ Heilbrigðisstofnun	nveo-s	Heilbrigðisstofnun
 Suðurnesja	nhfe-s	Suðurnes
 til	aa	til
 ...	...	...
-
 --	--	--
 >	>	>
 Drengur	nken	drengur
@@ -861,7 +814,6 @@ síðdegis	aa	síðdegis
 í	ao	í
 fyrradag	nkeo	fyrradagur
 .	.	.
-
 Hann	fpken	hann
 slasaðist	sfm3eþ	slasa
 lítilsháttar	aa	lítilsháttar
@@ -888,7 +840,6 @@ Suðurnesja	nhfe-s	Suðurnes
 til	ae	til
 skoðunar	nvee	skoðun
 .	.	.
-
 52	ta	52
 sóttu	sfg3fþ	sækja
 námskeið	nheo	námskeið
@@ -908,7 +859,6 @@ lauk	sfg3eþ	ljúka
 á	aþ	á
 dögunum	nkfþg	dagur
 .	.	.
-
 Skólinn	nkeng	skóli
 hefur	sfg3en	hafa
 nú	aa	nú
@@ -917,7 +867,6 @@ starfað	ssg	starfa
 eitt	tfheo	einn
 ár	nheo	ár
 .	.	.
-
 --	--	--
 >	>	>
 Reykjanesbær	nken-s	Reykjanesbær
@@ -932,7 +881,6 @@ lauk	sfg3eþ	ljúka
 á	aþ	á
 dögunum	nkfþg	dagur
 .	.	.
-
 Skólinn	nkeng	skóli
 hefur	sfg3en	hafa
 nú	aa	nú
@@ -941,7 +889,6 @@ starfað	ssg	starfa
 eitt	tfheo	einn
 ár	nheo	ár
 .	.	.
-
 Í	ao	í
 vetur	nkeo	vetur
 var	sfg3eþ	vera
@@ -978,7 +925,6 @@ tækni	nveþ	tækni
 og	c	og
 mósaik-námskeið	nheo	mósaik-námskeið
 .	.	.
-
 Fimm	tfkfn	fimm
 kennarar	nkfn	kennari
 störfuðu	sfg3fþ	starfa
@@ -1006,7 +952,6 @@ og	c	og
 Þuríður	nven-s	Þuríður
 Sigurðardóttir	nven-s	Sigurðardóttir
 .	.	.
-
 Nemendur	nkfn	nemandi
 voru	sfg3fþ	vera
 alls	fohee	allur
@@ -1027,14 +972,12 @@ sóttu	sfg3fþ	sækja
 þrjú	tfhfo	þrír
 námskeið	nhfo	námskeið
 .	.	.
-
 Nemendur	nkfn	nemandi
 voru	sfg3fþ	vera
 á	aþ	á
 öllum	fokeþ	allur
 aldri	nkeþ	aldur
 .	.	.
-
 Við	ao	við
 útskrift	nveo	útskrift
 fá	sfg3fn	fá
@@ -1060,7 +1003,6 @@ bak	nheo	bak
 við	ao	við
 námskeiðið	nheog	námskeið
 .	.	.
-
 Starfsárið	nheng	starfsár
 hefur	sfg3en	hafa
 gengið	ssg	ganga
@@ -1105,7 +1047,6 @@ metnað	nkeo	metnaður
 í	ao	í
 starfið	nheog	starf
 .	.	.
-
 Sýna	sfg3fn	sýna
 saman	aa	saman
 í	aþ	í
@@ -1132,7 +1073,6 @@ Saltfiskseturs	nhee-s	saltfisksetur
 í	aþ	í
 Grindavík	nveþ-s	Grindavík
 .	.	.
-
 Sýningin	nveng	sýning
 var	sfg3eþ	vera
 opnuð	sþgven	opna
@@ -1146,7 +1086,6 @@ sjómannadagshátíðina	nveog	sjómannadagshátíð
 Sjóarann	nkeogs	Sjóari
 síkáta	lkeovf	síkátur
 .	.	.
-
 --	--	--
 >	>	>
 Grindavík	nveþ-s	Grindavík
@@ -1170,7 +1109,6 @@ Saltfiskseturs	nhee-s	saltfisksetur
 í	aþ	í
 Grindavík	nveþ-s	Grindavík
 .	.	.
-
 Sýningin	nveng	sýning
 var	sfg3eþ	vera
 opnuð	sþgven	opna
@@ -1184,7 +1122,6 @@ sjómannadagshátíðina	nveog	sjómannadagshátíð
 Sjóarann	nkeogs	Sjóari
 síkáta	lkeovf	síkátur
 .	.	.
-
 Verk	nhfn	verk
 Lindu	nvee-s	Linda
 eru	sfg3fn	vera
@@ -1198,7 +1135,6 @@ sem	ct	sem
 ég	fp1en	ég
 sé	sfg1en	sjá
 ?	?	?
-
 Myndefnið	nheng	myndefni
 er	sfg3en	vera
 aðallega	aa	aðallega
@@ -1213,7 +1149,6 @@ tíma	nkfo	tími
 í	aþ	í
 Grindavík	nveþ-s	Grindavík
 .	.	.
-
 Öll	fohfn	allur
 verkin	nhfng	verk
 eru	sfg3fn	vera
@@ -1226,7 +1161,6 @@ flest	lhfnse	margur
 þessu	faheþ	þessi
 ári	nheþ	ár
 .	.	.
-
 Verk	nhfn	verk
 Rúnu	nvee-s	Rúna
 Hans	nvee-s	Hans
@@ -1242,7 +1176,6 @@ mér	fp1eþ	ég
 til	ae	til
 þín	fp2ee	þú
 .	.	.
-
 Hún	fpven	hún
 er	sfg3en	vera
 að	aþ	að
@@ -1265,7 +1198,6 @@ námi	nheþ	nám
 í	aþ	í
 iðnskóla	nkeþ	iðnskóli
 .	.	.
-
 Sýningin	nveng	sýning
 er	sfg3en	vera
 í	aþ	í
@@ -1278,7 +1210,6 @@ til	ae	til
 4.	ta	4.
 júlí	nkee	júlí
 .	.	.
-
 Salurinn	nkeng	salur
 er	sfg3en	vera
 opin	x	opinn
@@ -1290,7 +1221,6 @@ klukkan	nveng	klukka
 til	aa	til
 18	ta	18
 .	.	.
-
 Staður	nken	staður
 á	aa	á
 milli	ae	milli
@@ -1299,7 +1229,6 @@ heima	nkfe	heimur
 :	:	:
 Reykjanesbær	nken-s	Reykjanesbær
 |	|	|
-
 Markmiðið	nheng	markmið
 er	sfg3en	vera
 að	cn	að
@@ -1346,12 +1275,10 @@ Jónsdóttir	nven-s	Jónsdóttir
 ,	,	,
 forstöðumaður	nken	forstöðumaður
 ...	...	...
-
 --	--	--
 >	>	>
 Reykjanesbær	nken-s	Reykjanesbær
 |	|	|
-
 Markmiðið	nheng	markmið
 er	sfg3en	vera
 að	cn	að
@@ -1400,7 +1327,6 @@ forstöðumaður	nken	forstöðumaður
 Byggðasafns	nhee-s	Byggðasafn
 Reykjanesbæjar	nkee-s	Reykjanesbær
 .	.	.
-
 Árni	nken-s	Árni
 Sigfússon	nken-s	Sigfússon
 bæjarstjóri	nken	bæjarstjóri
@@ -1417,7 +1343,6 @@ sýningarsal	nkeþ	sýningarsalur
 í	aþ	í
 Duushúsum	nhfþ-s	Duushús
 .	.	.
-
 Sýningin	nveng	sýning
 er	sfg3en	vera
 haldin	sþgven	halda
@@ -1438,7 +1363,6 @@ fyrst	aae	fyrr
 opnað	sþghen	opna
 almenningi	nkeþ	almenningur
 .	.	.
-
 Opnunardaginn	nkeog	opnunardagur
 ber	sfg3en	bera
 upp	aa	upp
@@ -1457,7 +1381,6 @@ sem	ct	sem
 mynda	sfg3fn	mynda
 Reykjanesbæ	nkeo-s	Reykjanesbær
 .	.	.
-
 Á	aþ	á
 sýningunni	nveþg	sýning
 eru	sfg3fn	vera
@@ -1471,7 +1394,6 @@ ljósmynda	nvfe	ljósmynd
 og	c	og
 hreyfimynda	nvfe	hreyfimynd
 .	.	.
-
 Mest	lhense	mikill
 hlutir	nkfn	hlutur
 úr	aþ	úr
@@ -1482,30 +1404,25 @@ frá	aþ	frá
 tuttugustu	lveþvf	tuttugasti
 öldinni	nveþg	öld
 .	.	.
-
 Björn	nken-s	Björn
 G.	as	G.
 Björnsson	nken-s	Björnsson
 hannaði	sfg3eþ	hanna
 sýninguna	nveog	sýning
 .	.	.
-
 Sýningin	nveng	sýning
 heitir	sfg3en	heita
 :	:	:
-
 Milli	ae	milli
 tveggja	tfkfe	tveir
 heima	nkfe	heimur
 .	.	.
-
 Á	sfg3en	eiga
 fortíðin	nveng	fortíð
 erindi	nheo	erindi
 við	ao	við
 framtíðina	nveog	framtíð
 ?	?	?
-
 Vísar	sfg3en	vísa
 heitið	nheng	heiti
 til	ae	til
@@ -1534,7 +1451,6 @@ varnarliðsins	nheeg	varnarlið
 og	c	og
 alþjóðaflugvallarins	nkeeg	alþjóðaflugvöllur
 .	.	.
-
 Sigrún	nven-s	Sigrún
 Ásta	nven-s	Ásta
 bætir	sfg3en	bæta
@@ -1563,7 +1479,6 @@ framtíðarinnar	nveeg	framtíð
 í	aþ	í
 huga	nkeþ	hugi
 .	.	.
-
 Byggðasafnið	nheng	byggðasafn
 stendur	sfg3en	standa
 á	aþ	á
@@ -1580,7 +1495,6 @@ um	ao	um
 framtíð	nveo	framtíð
 þess	fphee	það
 .	.	.
-
 Það	fphen	það
 hefur	sfg3en	hafa
 haft	ssg	hafa
@@ -1600,7 +1514,6 @@ tveimur	tfkfþ	tveir
 öðrum	fokfþ	annar
 stöðum	nkfþ	staður
 .	.	.
-
 Nú	aa	nú
 er	sfg3en	vera
 búið	lhensf	búinn
@@ -1613,7 +1526,6 @@ vegna	ae	vegna
 ástands	nhee	ástand
 hússins	nheeg	hús
 .	.	.
-
 Sigrún	nven-s	Sigrún
 Ásta	nven-s	Ásta
 segir	sfg3en	segja
@@ -1644,7 +1556,6 @@ safnsins	nheeg	safn
 í	aþ	í
 framtíðinni	nveþg	framtíð
 .	.	.
-
 Til	ae	til
 þess	fphee	það
 þurfi	svg3en	þurfa
@@ -1664,7 +1575,6 @@ bæta	sng	bæta
 aðgengi	nheo	aðgengi
 fatlaðra	lkfesf	fatlaður
 .	.	.
-
 Áfram	aa	áfram
 verði	svg3en	verða
 þó	aa	þó
@@ -1677,7 +1587,6 @@ heimili	nhfo	heimili
 þessum	fahfþ	þessi
 húsum	nhfþ	hús
 .	.	.
-
 Því	aa	því
 hafi	svg3en	hafa
 verið	ssg	vera
@@ -1694,7 +1603,6 @@ safnið	nheog	safn
 annars	fokee	annar
 staðar	nkee	staður
 .	.	.
-
 Hún	fpven	hún
 segir	sfg3en	segja
 að	c	að
@@ -1707,7 +1615,6 @@ til	ae	til
 lykta	nvfe	lykt
 leidd	lhfnsf	leiddur
 .	.	.
-
 Í	aþ	í
 sýningunni	nveþg	sýning
 í	aþ	í
@@ -1730,7 +1637,6 @@ eftir	aa	eftir
 gömlum	lkeþsf	gamall
 kjörkassa	nkeþ	kjörkassi
 .	.	.
-
 Reiknað	sþghen	reikna
 er	sfg3en	vera
 með	aþ	með
@@ -1740,7 +1646,6 @@ standi	svg3en	standa
 í	ao	í
 ár	nheo	ár
 .	.	.
-
 Sex	tfhfn	sex
 vélhjólaslys	nhfn	vélhjólaslys
 á	aþ	á
@@ -1769,7 +1674,6 @@ til	ae	til
 4.	ta	4.
 júní	nkee	júní
 .	.	.
-
 --	--	--
 >	>	>
 SLÖKKVILIÐ	nhen-s	Slökkvilið
@@ -1795,7 +1699,6 @@ til	ae	til
 4.	ta	4.
 júní	nkee	júní
 .	.	.
-
 Á	aþ	á
 þessum	fakeþ	þessi
 tíma	nkeþ	tími
@@ -1826,7 +1729,6 @@ vef	nkeþ	vefur
 Brunavarna	nvfe-s	Brunavörn
 Suðurnesja	nhfe-s	Suðurnes
 .	.	.
-
 Slysin	nhfng	slys
 voru	sfg3fþ	vera
 misalvarleg	lhfnsf	misalvarlegur
@@ -1845,7 +1747,6 @@ sjúkraflutningamanna	nkfe	sjúkraflutningamaður
 Brunavarna	nvfe-s	Brunavörn
 Suðurnesja	nhfe-s	Suðurnes
 .	.	.
-
 Óhöppin	nhfng	óhapp
 og	c	og
 slysin	nhfng	slys
@@ -1865,7 +1766,6 @@ urðu	sfg3fþ	verða
 um	ao	um
 helgar	nvfo	helgi
 .	.	.
-
 Fyrsta	lhenve	fyrstur
 óhappið	nheng	óhapp
 varð	sfg3eþ	verða
@@ -1886,7 +1786,6 @@ rétt	aa	rétt
 við	ao	við
 Ramma-húsið	nheogs	Rammahús
 .	.	.
-
 Ökumaður	nken	ökumaður
 var	sfg3eþ	vera
 fluttur	sþgken	flytja
@@ -1902,7 +1801,6 @@ háskólasjúkrahús	nheo	háskólasjúkrahús
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Þá	aa	þá
 missti	sfg3eþ	missa
 vélhjólamaður	nken	vélhjólamaður
@@ -1917,7 +1815,6 @@ Faxabraut	nveo-s	Faxabraut
 í	aþ	í
 Keflavík	nveþ-s	Keflavík
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 einnig	aa	einnig
@@ -1931,7 +1828,6 @@ sjúkrahús	nheo	sjúkrahús
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Nokkrum	fokfþ	nokkur
 dögum	nkfþ	dagur
 síðar	aam	síðar
@@ -1962,7 +1858,6 @@ sjúkrahús	nheo	sjúkrahús
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Skömmu	lheþsf	skammur
 síðar	aam	síðar
 var	sfg3eþ	vera
@@ -1979,7 +1874,6 @@ grasbalanum	nkeþg	grasbali
 við	ao	við
 göngustígana	nkfog	göngustígur
 .	.	.
-
 Þegar	c	þegar
 að	aa	að
 var	sfg3eþ	vera
@@ -2000,7 +1894,6 @@ ekki	aa	ekki
 aðhlynningu	nveo	aðhlynning
 sjúkraflutningamanna	nkfe	sjúkraflutningamaður
 .	.	.
-
 Í	aþ	í
 byrjun	nveþ	byrjun
 þessa	fakee	þessi
@@ -2027,7 +1920,6 @@ að	aþ	að
 sárum	nhfþ	sár
 hans	fpkee	hann
 .	.	.
-
 Síðasta	lhenve	síðari
 slysið	nheng	slys
 og	c	og
@@ -2052,7 +1944,6 @@ Garðbraut	nveþ-s	Garðbraut
 í	aþ	í
 Garði	nkeþ-s	Garður
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 fín	lvensf	fínn
@@ -2063,11 +1954,9 @@ og	c	og
 skólanum	nkeþg	skóli
 í	aþ	í
 heild	nveþ	heild
-
 :	:	:
 Grindavík	nveþ-s	Grindavík
 |	|	|
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 fín	lvensf	fínn
@@ -2088,12 +1977,10 @@ nemandi	nken	nemandi
 Grunnskóla	nkeþ-s	Grunnskóli
 Grindavíkur	nvee-s	Grindavík
 .	.	.
-
 --	--	--
 >	>	>
 Grindavík	nveþ-s	Grindavík
 |	|	|
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 fín	lvensf	fínn
@@ -2114,7 +2001,6 @@ nemandi	nken	nemandi
 Grunnskóla	nkeþ-s	Grunnskóli
 Grindavíkur	nvee-s	Grindavík
 .	.	.
-
 Hann	fpken	hann
 og	c	og
 bekkjarfélagi	nken	bekkjarfélagi
@@ -2150,7 +2036,6 @@ náðu	sfg3fþ	ná
 þessum	fakeþ	þessi
 árangri	nkeþ	árangur
 .	.	.
-
 Nemendur	nkfn	nemandi
 í	aþ	í
 10.-	ta	10.-
@@ -2167,7 +2052,6 @@ nú	aa	nú
 samræmdum	lhfþsf	samræmdur
 prófum	nhfþ	próf
 .	.	.
-
 Meðaleinkunnir	nvfn	meðaleinkunn
 þeirra	fpkfe	hann
 voru	sfg3fþ	vera
@@ -2196,7 +2080,6 @@ minnsta	lkeþve	lítill
 mögulega	lkeþvf	mögulegur
 mun	nkeþ	munur
 .	.	.
-
 Glæsilegasti	lkenve	glæsilegur
 árangurinn	nkeng	árangur
 var	sfg3eþ	vera
@@ -2215,7 +2098,6 @@ fyrir	ao	fyrir
 ofan	aa	ofan
 landsmeðaltal	nheo	landsmeðaltal
 .	.	.
-
 Fréttaritari	nken	fréttaritari
 náði	sfg3eþ	ná
 í	ao	í
@@ -2234,7 +2116,6 @@ klára	lkfosf	klár
 fyrir	ao	fyrir
 knattspyrnuleik	nkeo	knattspyrnuleikur
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 gaman	nhen	gaman
@@ -2244,7 +2125,6 @@ vetur	nkeo	vetur
 yndislegur	lkensf	yndislegur
 vetur	nken	vetur
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 mikill	lkensf	mikill
@@ -2264,7 +2144,6 @@ að	c	að
 skipti	svg3eþ	skipta
 máli	nheþ	mál
 .	.	.
-
 Þá	aa	þá
 skiptir	sfg3en	skipta
 það	fphen	það
@@ -2296,7 +2175,6 @@ auki	aa	auki
 sagði	sfg3eþ	segja
 Bogi	nken-s	Bogi
 .	.	.
-
 Ég	fp1en	ég
 held	sfg1en	halda
 að	c	að
@@ -2319,7 +2197,6 @@ er	sfg3en	vera
 grunnurinn	nkeng	grunnur
 lagður	sþgken	leggja
 .	.	.
-
 Þá	aa	þá
 höfum	sfg1fn	hafa
 við	fp1fn	ég
@@ -2337,7 +2214,6 @@ sjálfstraust	nheo	sjálfstraust
 sagði	sfg3eþ	segja
 Alexander	nken-s	Alexander
 .	.	.
-
 Árangur	nken	árangur
 þessara	fakfe	þessi
 krakka	nkfe	krakki
@@ -2359,7 +2235,6 @@ hefur	sfg3en	hafa
 einkennt	ssg	einkenna
 árganginn	nkeog	árgangur
 .	.	.
-
 Áberandi	lkenof	áberandi
 er	sfg3en	vera
 einnig	aa	einnig
@@ -2381,7 +2256,6 @@ gítarspili	nheþ	gítarspil
 í	aþ	í
 frímínútum	nvfþ	frímínútur
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 því	aa	því
@@ -2407,7 +2281,6 @@ nú	aa	nú
 á	aþ	á
 dögunum	nkfþg	dagur
 .	.	.
-
 á	aþ	á
 tímabilinu	nheþg	tímabil
 janúar-sept.	as	janúar-sept.
@@ -2418,7 +2291,6 @@ alls	fohee	allur
 milljónum	nvfþ	milljón
 króna	nvfe	króna
 .	.	.
-
 Að	aþ	að
 meðtöldum	lkeþsf	meðtalinn
 innlögðum	lkeþsf	innlagður
@@ -2436,7 +2308,6 @@ félagsins	nheeg	félag
 milljónum	nvfþ	milljón
 króna	nvfe	króna
 .	.	.
-
 Hagnaður	nken	hagnaður
 fyrirtækisins	nheeg	fyrirtæki
 fyrir	ao	fyrir
@@ -2453,7 +2324,6 @@ eru	sfg3fn	vera
 af	aþ	af
 veltu	nveþ	velta
 .	.	.
-
 Veltufé	nhen	veltufé
 frá	aþ	frá
 rekstri	nkeþ	rekstur
@@ -2462,7 +2332,6 @@ er	sfg3en	vera
 milljónir	nvfn	milljón
 króna	nvfe	króna
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 rekstrarreikningi	nkeþ	rekstrarreikningur
 nam	sfg3eþ	nema
@@ -2472,7 +2341,6 @@ tímabilsins	nheeg	tímabil
 milljónum	nvfþ	milljón
 króna	nvfe	króna
 .	.	.
-
 Gengistap	nhen	gengistap
 félagsins	nheeg	félag
 var	sfg3eþ	vera
@@ -2485,7 +2353,6 @@ aukningu	nveo	aukning
 í	aþ	í
 fjármagnsgjöldum	nhfþ	fjármagnsgjald
 .	.	.
-
 Verkfall	nhen	verkfall
 sjómanna	nkfe	sjómaður
 hafði	sfg3eþ	hafa
@@ -2495,7 +2362,6 @@ neikvæð	lhfosf	neikvæður
 rekstur	nkeo	rekstur
 félagsins	nheeg	félag
 .	.	.
-
 Tekjuskattsskuldbinding	nven	tekjuskattsskuldbinding
 nemur	sfg3en	nema
 145	ta	145
@@ -2506,7 +2372,6 @@ lok	nhfo	lok
 september	nkee	september
 2001	ta	2001
 .	.	.
-
 Bókfært	lhensf	bókfærður
 eigið	lhensf	eiginn
 fé	nhen	fé
@@ -2526,7 +2391,6 @@ hlutafé	nhen	hlutafé
 milljón	tfvfe	milljón
 króna	nvfe	króna
 .	.	.
-
 Eiginfjárhlutfall	nhen	eiginfjárhlutfall
 í	ao	í
 lok	nhfo	lok
@@ -2534,7 +2398,6 @@ tímabilsins	nheeg	tímabil
 var	sfg3eþ	vera
 17,25%	tp	17,25%
 .	.	.
-
 Meðalfjöldi	nken	meðalfjöldi
 starfa	nhfe	starf
 á	aþ	á
@@ -2549,7 +2412,6 @@ gjöld	nhfn	gjald
 228,7	ta	228,7
 milljónir	nvfn	milljón
 .	.	.
-
 SÆPLAST	nhen-s	Sæplast
 hf.	as	hf.
 var	sfg3eþ	vera
@@ -2565,7 +2427,6 @@ níu	tfkfo	níu
 mánuði	nkfo	mánuður
 ársins	nheeg	ár
 .	.	.
-
 Veltufé	nhen	veltufé
 frá	aþ	frá
 rekstri	nkeþ	rekstur
@@ -2576,7 +2437,6 @@ um	aa	um
 milljónir	nvfn	milljón
 króna	nvfe	króna
 .	.	.
-
 Hagnaður	nken	hagnaður
 á	aþ	á
 3.	ta	3.
@@ -2594,7 +2454,6 @@ tæpar	lvfnsf	tæpur
 100	ta	100
 milljónir	nvfn	milljón
 .	.	.
-
 Í	aþ	í
 tilkynningu	nveþ	tilkynning
 frá	aþ	frá
@@ -2631,7 +2490,6 @@ krónu	nveo	króna
 nafnvirðis	nhee	nafnvirði
 hlutabréfa	nhfe	hlutabréf
 .	.	.
-
 Tekjur	nvfn	tekja
 félagsins	nheeg	félag
 voru	sfg3fþ	vera
@@ -2655,7 +2513,6 @@ króna	nvfe	króna
 þriðja	lkeþvf	þriðji
 ársfjórðungi	nkeþ	ársfjórðungur
 .	.	.
-
 Tekjurnar	nvfng	tekja
 hafa	sfg3fn	hafa
 aukist	ssm	auka
@@ -2675,7 +2532,6 @@ fyrstu	lkfove	fyrstur
 mánuði	nkfo	mánuður
 ársins	nheeg	ár
 .	.	.
-
 Hagnaður	nken	hagnaður
 fyrir	ao	fyrir
 afskriftir	nvfo	afskrift
@@ -2700,7 +2556,6 @@ króna	nvfe	króna
 þriðja	lkeþvf	þriðji
 ársfjórðungi	nkeþ	ársfjórðungur
 .	.	.
-
 EBITDA	as	EBITDA
 var	sfg3eþ	vera
 um	aa	um
@@ -2715,7 +2570,6 @@ og	c	og
 þriðja	lkeþvf	þriðji
 ársfjórðungi	nkeþ	ársfjórðungur
 .	.	.
-
 Á	aþ	á
 sama	fbkeþ	sami
 ársfjórðungi	nkeþ	ársfjórðungur
@@ -2734,7 +2588,6 @@ heild	nveþ	heild
 um	aa	um
 12,1%	tp	12,1%
 .	.	.
-
 Afskriftir	nvfn	afskrift
 eru	sfg3fn	vera
 um	aa	um
@@ -2765,7 +2618,6 @@ tíma	nkeþ	tími
 í	ao	í
 fyrra	lheovm	fyrri
 .	.	.
-
 Á	aþ	á
 3.	ta	3.
 ársfjórðungi	nkeþ	ársfjórðungur
@@ -2788,7 +2640,6 @@ tíma	nkeþ	tími
 í	ao	í
 fyrra	lheovm	fyrri
 .	.	.
-
 Fjármagnsgjöld	nhfn	fjármagnsgjald
 eru	sfg3fn	vera
 tæpar	lvfnsf	tæpur
@@ -2826,7 +2677,6 @@ tíma	nkeþ	tími
 árið	nheog	ár
 2000	ta	2000
 .	.	.
-
 Á	aþ	á
 þriðja	lkeþvf	þriðji
 ársfjórðungi	nkeþ	ársfjórðungur
@@ -2850,7 +2700,6 @@ tap	nhen	tap
 á	aþ	á
 rekstrinum	nkeþg	rekstur
 .	.	.
-
 Eignir	nvfn	eign
 Sæplasts	nhee-s	Sæplast
 hf.	as	hf.
@@ -2873,7 +2722,6 @@ um	ao	um
 milljónir	nvfo	milljón
 króna	nvfe	króna
 .	.	.
-
 Eigið	lhensf	eiginn
 fé	nhen	fé
 var	sfg3eþ	vera
@@ -2892,13 +2740,11 @@ milljón	nveo	milljón
 frá	aþ	frá
 áramótum	nhfþ	áramót
 .	.	.
-
 Eiginfjárhlutfall	nhen	eiginfjárhlutfall
 er	sfg3en	vera
 því	aa	því
 29%	tp	29%
 .	.	.
-
 Skuldirnar	nvfng	skuld
 voru	sfg3fþ	vera
 1.768	ta	1.768
@@ -2913,12 +2759,10 @@ króna	nvfe	króna
 frá	aþ	frá
 áramótum	nhfþ	áramót
 .	.	.
-
 Veltufjárhlutfall	nhen	veltufjárhlutfall
 er	sfg3en	vera
 1,51	ta	1,51
 .	.	.
-
 Í	aþ	í
 tilkynningu	nveþ	tilkynning
 Sæplasts	nhee-s	Sæplast
@@ -2952,7 +2796,6 @@ allt	foheo	allur
 þetta	faheo	þessi
 ár	nheo	ár
 .	.	.
-
 Smám	aa	smám
 saman	aa	saman
 sé	svg3en	vera
@@ -2991,7 +2834,6 @@ samlegðaráhrif	nhfn	samlegðaráhrif
 sem	ct	sem
 fylgja	sfg3fn	fylgja
 .	.	.
-
 Þá	aa	þá
 segir	sfg3en	segja
 að	c	að
@@ -3008,7 +2850,6 @@ tíma	nkeþ	tími
 í	ao	í
 fyrra	lheovm	fyrri
 .	.	.
-
 Breytt	lhensf	breyttur
 skipulag	nhen	skipulag
 rekstrarins	nkeeg	rekstur
@@ -3034,7 +2875,6 @@ rekstrarins	nkeeg	rekstur
 verið	ssg	vera
 breytt	sþghen	breyta
 .	.	.
-
 Markmið	nhfn	markmið
 þeirra	favfe	sá
 skipulagsbreytinga	nvfe	skipulagsbreyting
@@ -3095,7 +2935,6 @@ framleiðslu	nveþ	framleiðsla
 og	c	og
 rekstri	nkeþ	rekstur
 .	.	.
-
 Starfsemi	nven	starfsemi
 Sæplasts	nhee-s	Sæplast
 hf.	as	hf.
@@ -3113,7 +2952,6 @@ framleiðslusvið	nheo	framleiðslusvið
 og	c	og
 fjármálasvið	nheo	fjármálasvið
 .	.	.
-
 Framkvæmdastjóri	nken	framkvæmdastjóri
 markaðssviðs	nhee	markaðssvið
 matvælaiðnaðar	nkee	matvælaiðnaður
@@ -3130,7 +2968,6 @@ hf.	as	hf.
 í	aþ	í
 Kanada	nheþ-s	Kanada
 .	.	.
-
 Framkvæmdastjóri	nken	framkvæmdastjóri
 markaðssviðs	nhee	markaðssvið
 flota	nkfe	floti
@@ -3146,7 +2983,6 @@ markaðsstjóri	nken	markaðsstjóri
 í	aþ	í
 Noregi	nkeþ-s	Noregur
 .	.	.
-
 Framleiðslusvið	nhen	framleiðslusvið
 annast	sfm3en	anna
 samhæfingu	nveo	samhæfing
@@ -3169,7 +3005,6 @@ jafnframt	aa	jafnframt
 framkvæmdastjóri	nken	framkvæmdastjóri
 framleiðslusviðs	nhee	framleiðslusvið
 .	.	.
-
 Unnið	sþghen	vinna
 er	sfg3en	vera
 að	aþ	að
@@ -3177,7 +3012,6 @@ ráðningu	nveþ	ráðning
 framkvæmdastjóra	nkee	framkvæmdastjóri
 fjármálasviðs	nhee	fjármálasvið
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 mun	sfg3en	munu
@@ -3201,7 +3035,6 @@ samræmingu	nveo	samræming
 og	c	og
 stefnumörkun	nveo	stefnumörkun
 .	.	.
-
 ALLIR	fokfn	allur
 FISKMARKAÐIR	nkfn	fiskmarkaður
 Blálanga	nven	blálanga
@@ -3324,7 +3157,6 @@ Ufsi	nken	ufsi
 165,293	ta	165,293
 Und	e	Und
 .	.	.
-
 Ýsa	nven	ýsa
 180	ta	180
 119	ta	119
@@ -3333,7 +3165,6 @@ Und	e	Und
 1,046,836	ta	1,046,836
 Und	e	Und
 .	.	.
-
 Þorskur	nken	þorskur
 157	ta	157
 116	ta	116
@@ -3448,7 +3279,6 @@ Ufsi	nken	ufsi
 2,088	ta	2,088
 Und	e	Und
 .	.	.
-
 Ýsa	nven	ýsa
 166	ta	166
 151	ta	151
@@ -3457,7 +3287,6 @@ Und	e	Und
 267,563	ta	267,563
 Und	e	Und
 .	.	.
-
 Þorskur	nken	þorskur
 128	ta	128
 128	ta	128
@@ -3520,7 +3349,6 @@ Ufsi	nken	ufsi
 25,381	ta	25,381
 Und	e	Und
 .	.	.
-
 Ýsa	nven	ýsa
 145	ta	145
 136	ta	136
@@ -3529,7 +3357,6 @@ Und	e	Und
 120,733	ta	120,733
 Und	e	Und
 .	.	.
-
 Þorskur	nken	þorskur
 129	ta	129
 120	ta	120
@@ -3630,7 +3457,6 @@ Ufsi	nken	ufsi
 5,032	ta	5,032
 Und	e	Und
 .	.	.
-
 Ýsa	nven	ýsa
 149	ta	149
 141	ta	141
@@ -3639,7 +3465,6 @@ Und	e	Und
 37,617	ta	37,617
 Und	e	Und
 .	.	.
-
 Þorskur	nken	þorskur
 155	ta	155
 120	ta	120
@@ -3698,7 +3523,6 @@ Steinbítur	nken	steinbítur
 20,538	ta	20,538
 Und	e	Und
 .	.	.
-
 Ýsa	nven	ýsa
 134	ta	134
 134	ta	134
@@ -3707,7 +3531,6 @@ Und	e	Und
 3,484	ta	3,484
 Und	e	Und
 .	.	.
-
 Þorskur	nken	þorskur
 142	ta	142
 132	ta	132
@@ -3740,7 +3563,6 @@ Lúða	nven	lúða
 7,185	ta	7,185
 Und	e	Und
 .	.	.
-
 Ýsa	nven	ýsa
 180	ta	180
 151	ta	151
@@ -3809,7 +3631,6 @@ Steinbítur	nken	steinbítur
 7,910	ta	7,910
 Und	e	Und
 .	.	.
-
 Ýsa	nven	ýsa
 145	ta	145
 145	ta	145
@@ -3818,7 +3639,6 @@ Und	e	Und
 17,400	ta	17,400
 Und	e	Und
 .	.	.
-
 Þorskur	nken	þorskur
 130	ta	130
 130	ta	130
@@ -3893,7 +3713,6 @@ Steinbítur	nken	steinbítur
 180	ta	180
 Und	e	Und
 .	.	.
-
 Ýsa	nven	ýsa
 157	ta	157
 151	ta	151
@@ -3992,7 +3811,6 @@ Ufsi	nken	ufsi
 87,877	ta	87,877
 Und	e	Und
 .	.	.
-
 Ýsa	nven	ýsa
 175	ta	175
 140	ta	140
@@ -4001,7 +3819,6 @@ Und	e	Und
 119,296	ta	119,296
 Und	e	Und
 .	.	.
-
 Þorskur	nken	þorskur
 157	ta	157
 145	ta	145
@@ -4040,7 +3857,6 @@ Steinbítur	nken	steinbítur
 840	ta	840
 Und	e	Und
 .	.	.
-
 Þorskur	nken	þorskur
 120	ta	120
 116	ta	116
@@ -4176,7 +3992,6 @@ Ufsi	nken	ufsi
 34,366	ta	34,366
 Und	e	Und
 .	.	.
-
 Ýsa	nven	ýsa
 146	ta	146
 140	ta	140
@@ -4185,7 +4000,6 @@ Und	e	Und
 13,200	ta	13,200
 Und	e	Und
 .	.	.
-
 Þorskur	nken	þorskur
 131	ta	131
 128	ta	128
@@ -4260,7 +4074,6 @@ Ufsi	nken	ufsi
 10,549	ta	10,549
 Und	e	Und
 .	.	.
-
 Ýsa	nven	ýsa
 170	ta	170
 119	ta	119
@@ -4269,7 +4082,6 @@ Und	e	Und
 222,563	ta	222,563
 Und	e	Und
 .	.	.
-
 Þorskur	nken	þorskur
 118	ta	118
 116	ta	116
@@ -4298,7 +4110,6 @@ Samtals	aa	samtals
 184	ta	184
 16,615	ta	16,615
 3,049,166	ta	3,049,166
-
 RÁÐHERRA	nken	ráðherra
 viðskipta	nhfe	viðskipti
 og	c	og
@@ -4325,7 +4136,6 @@ og	c	og
 birgja	nkfe	birgir
 þeirra	fpkfe	hann
 .	.	.
-
 Lögfræðingur	nken	lögfræðingur
 Samtaka	nhfe-s	Samtök
 verslunarinnar	nveeg	verslun
@@ -4347,7 +4157,6 @@ hér	aa	hér
 á	aþ	á
 landi	nheþ	land
 .	.	.
-
 Reglum	nvfþ	regla
 þessum	favfþ	þessi
 er	sfg3en	vera
@@ -4369,7 +4178,6 @@ stórmarkaða	nkfe	stórmarkaður
 á	aþ	á
 Bretlandi	nheþ-s	Bretland
 .	.	.
-
 Er	sfg3en	vera
 talið	sþghen	telja
 að	c	að
@@ -4396,7 +4204,6 @@ og	c	og
 fyrirsjáanlegri	lkeovm	fyrirsjáanlegur
 grunn	nkeo	grunnur
 .	.	.
-
 Þessi	faven	þessi
 niðurstaða	nven	niðurstaða
 breskra	lhfesf	breskur
@@ -4414,7 +4221,6 @@ markaðshlutdeild	nveo	markaðshlutdeild
 á	aþ	á
 dagvörumarkaði	nkeþ	dagvörumarkaður
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 falla	sfg3fn	falla
@@ -4432,7 +4238,6 @@ beint	sþghen	beina
 að	aþ	að
 þeim	fphfþ	það
 .	.	.
-
 Reglurnar	nvfng	regla
 voru	sfg3fþ	vera
 unnar	sþgvfn	vinna
@@ -4447,7 +4252,6 @@ birgja	nkfe	birgir
 og	c	og
 stórmarkaða	nkfe	stórmarkaður
 .	.	.
-
 Reglunum	nvfþg	regla
 er	sfg3en	vera
 ætlað	sþghen	ætla
@@ -4470,7 +4274,6 @@ sín	fpkfe	sig
 á	aa	á
 milli	ae	milli
 .	.	.
-
 Kvartanir	nvfn	kvörtun
 vegna	ae	vegna
 hugsalegra	lhfesf	hugsanlegur
@@ -4485,7 +4288,6 @@ milli	ae	milli
 aðila	nkfe	aðili
 samkomulagsins	nheeg	samkomulag
 .	.	.
-
 Ef	c	ef
 misbrestur	nken	misbrestur
 verður	sfg3en	verða
@@ -4513,7 +4315,6 @@ raunhæft	lhensf	raunhæfur
 viðkomandi	lheþof	viðkomandi
 máli	nheþ	mál
 .	.	.
-
 Kostnaður	nken	kostnaður
 vegna	ae	vegna
 þessa	fahee	þessi
@@ -4526,7 +4327,6 @@ hverju	foheþ	hver
 einstaka	lheþof	einstaka
 máli	nheþ	mál
 .	.	.
-
 Samkeppnisyfirvöld	nhfn	samkeppnisyfirvöld
 hafa	sfg3fn	hafa
 eftirlit	nheo	eftirlit
@@ -4536,7 +4336,6 @@ reglunum	nvfþg	regla
 sé	svg3en	vera
 framfylgt	sþghen	framfylgja
 .	.	.
-
 Ef	c	ef
 óháðum	lkeþsf	óháður
 úrskurðaraðila	nkeþ	úrskurðaraðili
@@ -4559,7 +4358,6 @@ að	cn	að
 rannsaka	sng	rannsaka
 málið	nheog	mál
 .	.	.
-
 Þörf	nven	þörf
 á	aþ	á
 samskiptareglum	nvfþ	samskiptaregla
@@ -4605,7 +4403,6 @@ ekki	aa	ekki
 stöðu	nveo	staða
 sína	feveo	sinn
 .	.	.
-
 Hún	fpven	hún
 segir	sfg3en	segja
 að	c	að
@@ -4634,7 +4431,6 @@ einhvers	fokee	einhver
 konar	nkee	konar
 samskiptareglum	nvfþ	samskiptaregla
 .	.	.
-
 Slíkt	fbheo	slíkur
 yrði	svg3eþ	verða
 væntanlega	aa	væntanlega
@@ -4656,7 +4452,6 @@ brugðið	sþghen	bregða
 frá	aþ	frá
 reglunum	nvfþg	regla
 .	.	.
-
 Það	fphen	það
 yrði	svg3eþ	verða
 aðeins	aa	aðeins
@@ -4674,7 +4469,6 @@ hvers	fokee	hver
 konar	nkee	konar
 samskiptareglur	nvfo	samskiptaregla
 .	.	.
-
 Það	fphen	það
 þarf	sfg3en	þurfa
 hins	fakee	hinn
@@ -4691,7 +4485,6 @@ með	aþ	með
 þátttöku	nveþ	þátttaka
 samkeppnisyfirvalda	nhfe	samkeppnisyfirvöld
 .	.	.
-
 Í	aþ	í
 skýrslu	nveþ	skýrsla
 Samkeppnisstofnunar	nvee-s	Samkeppnisstofnun
@@ -4717,7 +4510,6 @@ viðskiptahætti	nkfo	viðskiptaháttur
 stóru	lhfevf	stór
 fyrirtækjanna	nhfeg	fyrirtæki
 .	.	.
-
 Sú	faven	sá
 vinna	nven	vinna
 er	sfg3en	vera
@@ -4730,7 +4522,6 @@ engar	fovfn	enginn
 niðurstöður	nvfn	niðurstaða
 komnar	sþgvfn	koma
 .	.	.
-
 Í	aþ	í
 ljósi	nheþ	ljós
 þeirra	fpvfe	hún
@@ -4749,7 +4540,6 @@ segir	sfg3en	segja
 Guðrún	nven-s	Guðrún
 Ásta	nven-s	Ásta
 .	.	.
-
 NOKKRAR	fovfn	nokkur
 sveiflur	nvfn	sveifla
 urðu	sfg3fþ	verða
@@ -4760,7 +4550,6 @@ krónunnar	nveeg	króna
 í	aa	í
 gær	aa	gær
 .	.	.
-
 Lokagildi	nhen	lokagildi
 vísitölunnar	nveeg	vísitala
 var	sfg3eþ	vera
@@ -4788,7 +4577,6 @@ stig	nhfn	stig
 upphafi	nheþ	upphaf
 dags	nkee	dagur
 .	.	.
-
 Gengi	nhen	gengi
 krónunnar	nveeg	króna
 lækkaði	sfg3eþ	lækka
@@ -4798,7 +4586,6 @@ um	ao	um
 í	aa	í
 gær	aa	gær
 .	.	.
-
 Veltan	nveng	velta
 á	aþ	á
 gjaldeyrismarkaði	nkeþ	gjaldeyrismarkaður
@@ -4809,14 +4596,12 @@ um	aa	um
 milljörðum	nkfþ	milljarður
 króna	nvfe	króna
 .	.	.
-
 Ekki	aa	ekki
 kom	sfg3eþ	koma
 til	ae	til
 inngripa	nhfe	inngrip
 Seðlabankans	nkeegs	Seðlabanki
 .	.	.
-
 Birgir	nken-s	Birgir
 Ísleifur	nken-s	Ísleifur
 Gunnarsson	nken-s	Gunnarsson
@@ -4836,7 +4621,6 @@ meiri	lvenvm	mikill
 en	c	en
 framboðið	nheng	framboð
 .	.	.
-
 Minni	lvfnvm	lítill
 líkur	nvfn	líkur
 á	aþ	á
@@ -4872,7 +4656,6 @@ orðin	sþgven	verða
 rúm	lhfnsf	rúmur
 20%	tp	20%
 .	.	.
-
 Krónan	nveng	króna
 hafi	svg3en	hafa
 veikst	ssm	veikja
@@ -4889,7 +4672,6 @@ valdi	svg3en	valda
 auknum	lkeþsf	aukinn
 verðbólguþrýstingi	nkeþ	verðbólguþrýstingur
 .	.	.
-
 Raunstýrivextir	nkfn	raunstýrivextir
 Seðlabankans	nkeegs	Seðlabanki
 muni	svg3fn	munu
@@ -4901,7 +4683,6 @@ með	aa	með
 aðhaldsstig	nhen	aðhaldsstig
 peningamálastefnunnar	nveeg	peningamálastefna
 .	.	.
-
 Að	aþ	að
 hennar	fpvee	hún
 mati	nheþ	mat
@@ -4915,7 +4696,6 @@ minni	lvfnvm	lítill
 en	c	en
 ella	aa	ella
 .	.	.
-
 Þetta	fahen	þessi
 gerist	sfm3en	gera
 á	aþ	á
@@ -4929,7 +4709,6 @@ sé	svg3en	vera
 að	cn	að
 aukast	snm	auka
 .	.	.
-
 Edda	nven-s	Edda
 Rós	nven-s	Rós
 segir	sfg3en	segja
@@ -4945,7 +4724,6 @@ og	c	og
 ytri	lkfevm	ytri
 þátta	nkfe	þáttur
 .	.	.
-
 Gengi	nhen	gengi
 krónunnar	nveeg	króna
 sé	svg3en	vera
@@ -4964,7 +4742,6 @@ sé	svg3en	vera
 sögulegu	lheþsf	sögulegur
 lágmarki	nheþ	lágmark
 .	.	.
-
 Vextir	nkfn	vöxtur
 séu	svg3fn	vera
 aftur	aa	aftur
@@ -4980,7 +4757,6 @@ sé	svg3en	vera
 mjög	aa	mjög
 hátt	lhensf	hár
 .	.	.
-
 Þetta	fahen	þessi
 endurspegli	svg3en	endurspegla
 mikla	lveosf	mikill

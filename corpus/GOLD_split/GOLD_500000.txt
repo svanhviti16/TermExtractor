@@ -1,10 +1,8 @@
-
 99	ta	99
 kr	as	kr
 /	/	/
 skeytið	nheng	skeyti
 .	.	.
-
 Glæsilegur	lkensf	glæsilegur
 War	e	War
 of	e	of
@@ -18,7 +16,6 @@ Coca	e	Coca
 Cola	e	Cola
 Margt	lhensf	margur
 fleira	lhenvm	margur
-
 SENDU	sbg2en	senda
 SMS	as	SMS
 SKEYTIÐ	nheog	skeyti
@@ -32,7 +29,6 @@ OG	c	og
 GÆTIR	svg2eþ	geta
 UNNIÐ	ssg	vinna
 !	!	!
-
 Nei	au	nei
 ,	,	,
 nei	au	nei
@@ -40,7 +36,6 @@ og	c	og
 aftur	aa	aftur
 nei	au	nei
 !	!	!
-
 Þú	fp2en	þú
 getur	sfg2en	geta
 ekki	aa	ekki
@@ -48,21 +43,17 @@ fengið	ssg	fá
 vinnu	nveo	vinna
 hér	aa	hér
 .	.	.
-
 Farðu	sbg2en	fara
 burt	aa	burt
 .	.	.
-
 Heitasti	lkenve	heitur
 klæðskiptingur	nken	klæðskiptingur
 heims	nkee	heimur
 er	sfg3en	vera
 mættur	sþgken	mæta
 ...	...	...
-
 Jói	nken-s	Jói
 !	!	!
-
 Ég	fp1en	ég
 fann	sfg1eþ	finna
 þennan	fakeo	þessi
@@ -74,7 +65,6 @@ hans	fpkee	hann
 Palla	nkee-s	Palli
 áðan	aa	áðan
 .	.	.
-
 Hmm	au	hmm
 ,	,	,
 látum	sfg1fn	láta
@@ -82,7 +72,6 @@ okkur	fp1fo	ég
 nú	aa	nú
 sjá	sng	sjá
 .	.	.
-
 Blekið	nheng	blek
 er	sfg3en	vera
 búið	lhensf	búinn
@@ -92,7 +81,6 @@ klessast	snm	klessa
 um	ao	um
 allt	foheo	allur
 ...	...	...
-
 það	fphen	það
 er	sfg3en	vera
 ekki	aa	ekki
@@ -102,7 +90,6 @@ lesa	sng	lesa
 hvað	fshen	hver
 stendur	sfg3en	standa
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 það	fahen	sá
@@ -111,10 +98,8 @@ er	sfg3en	vera
 svo	aa	svo
 óskiljanlegt	lhensf	óskiljanlegur
 !	!	!
-
 Snúlla	nven-s	Snúlla
 .	.	.
-
 Þú	fp2en	þú
 verður	sfg2en	verða
 að	cn	að
@@ -122,20 +107,16 @@ velja	sng	velja
 einn	fokeo	einn
 okkar	fp1fe	ég
 .	.	.
-
 Bara	aa	bara
 einn	fokeo	einn
 .	.	.
-
 Það	fphen	það
 verður	sfg3en	verða
 erfitt	lhensf	erfiður
 .	.	.
-
 Ég	fp1en	ég
 veit	sfg1en	vita
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 aldeilis	aa	aldeilis
@@ -148,7 +129,6 @@ mikið	lheosf	mikill
 á	aþ	á
 leikskólanum	nkeþg	leikskóli
 .	.	.
-
 Hvenær	aa	hvenær
 heldurðu	sfg2en	halda
 að	c	að
@@ -158,7 +138,6 @@ að	cn	að
 slaka	sng	slaka
 á	aa	á
 ?	?	?
-
 Allar	fovfn	allur
 nýjar	lvfnsf	nýr
 og	c	og
@@ -169,7 +148,6 @@ sumartilboði	nheþ	sumartilboð
 í	aþ	í
 verslunum	nvfþ	verslun
 Skífunnar	nveegs	Skífa
-
 JPV	as	JPV
 útgáfa	nven	útgáfa
 hefur	sfg3en	hafa
@@ -201,7 +179,6 @@ kom	sfg3eþ	koma
 hjá	aþ	hjá
 JPV	as	JPV
 .	.	.
-
 Vigdís	nven-s	Vigdís
 hefur	sfg3en	hafa
 lengi	aa	lengi
@@ -231,7 +208,6 @@ hlaut	sfg3eþ	hljóta
 góðar	lvfosf	góður
 viðtökur	nvfo	viðtaka
 .	.	.
-
 Þegar	c	þegar
 stjarna	nven	stjarna
 hrapar	sfg3en	hrapa
@@ -250,7 +226,6 @@ ljósi	nheþ	ljós
 til	ae	til
 ljóss	nhee	ljós
 .	.	.
-
 JPV	as	JPV
 útgáfa	nven	útgáfa
 gefur	sfg3en	gefa
@@ -267,7 +242,6 @@ bindum	nhfþ	bindi
 einni	tfveþ	einn
 bók	nveþ	bók
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 klukkan	nveng	klukka
@@ -284,7 +258,6 @@ RAX	as	RAX
 á	aþ	á
 Austurvelli	nkeþ-s	Austurvöllur
 .	.	.
-
 Sýningin	nveng	sýning
 ber	sfg3en	bera
 yfirskriftina	nveog	yfirskrift
@@ -302,7 +275,6 @@ kom	sfg3eþ	koma
 árið	nheog	ár
 2004	ta	2004
 .	.	.
-
 Sýndar	sþgvfn	sýna
 verða	sfg3fn	verða
 60	ta	60
@@ -331,7 +303,6 @@ við	ao	við
 náttúruöfl	nhfo	náttúruafl
 Norður-Atlantshafsins	nheegs	Norður-Atlantshaf
 .	.	.
-
 20	ta	20
 myndir	nvfn	mynd
 eru	sfg3fn	vera
@@ -339,7 +310,6 @@ frá	aþ	frá
 hverju	foheþ	hver
 landi	nheþ	land
 .	.	.
-
 «	«	«
 Mér	fp1eþ	ég
 fannst	sfm3eþ	finna
@@ -362,7 +332,6 @@ af	aþ	af
 fólkinu	nheþg	fólk
 þar	aa	þar
 .	.	.
-
 Þetta	fahen	þessi
 eru	sfg3fn	vera
 nágrannþjóðir	nvfn	nágrannþjóð
@@ -379,7 +348,6 @@ fyrir	ao	fyrir
 alla	foveo	allur
 nálægðina	nveog	nálægð
 .	.	.
-
 Á	aþ	á
 sýningunni	nveþg	sýning
 blanda	sfg1en	blanda
@@ -420,7 +388,6 @@ hann	fpkeo	hann
 í	aa	í
 gær	aa	gær
 .	.	.
-
 «	«	«
 Að	cn	að
 mála	sng	mála
@@ -456,7 +423,6 @@ frá	aþ	frá
 einhverjum	fokeþ	einhver
 öðrum	fokeþ	annar
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ekki	aa	ekki
@@ -503,7 +469,6 @@ teknar	sþgvfn	taka
 ára	nhfe	ár
 tímabili	nheþ	tímabil
 .	.	.
-
 «	«	«
 Ég	fp1en	ég
 held	sfg1en	halda
@@ -519,7 +484,6 @@ sýningar	nvfo	sýning
 síðustu	lhfove	síðari
 árin	nhfog	ár
 .	.	.
-
 Þær	fpvfn	hún
 hafa	sfg3fn	hafa
 verið	ssg	vera
@@ -545,7 +509,6 @@ fyrir	ao	fyrir
 slíka	fbveo	slíkur
 sýningu	nveo	sýning
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 gott	lhensf	góður
@@ -568,7 +531,6 @@ mikið	lhensf	mikill
 af	aþ	af
 fólki	nheþ	fólk
 .	.	.
-
 Í	aþ	í
 Ragnari	nkeþ-s	Ragnar
 eigum	sfg1fn	eiga
@@ -577,7 +539,6 @@ listaljósmyndara	nkeo	listaljósmyndari
 á	ao	á
 heimsmælikvarða	nkeo	heimsmælikvarði
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 mikill	lkensf	mikill
@@ -591,7 +552,6 @@ lönd	nhfo	land
 ljósmyndum	nvfþ	ljósmynd
 hans	fpkee	hann
 .	.	.
-
 Ragnar	nken-s	Ragnar
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -632,7 +592,6 @@ norðursins	nheeg	norður
 í	ao	í
 fyrra	lheovm	fyrri
 .	.	.
-
 Sýning	nven	sýning
 Ragnars	nkee-s	Ragnar
 á	aþ	á
@@ -643,12 +602,10 @@ til	ae	til
 1.	ta	1.
 september	nkee	september
 .	.	.
-
 EKKI	aa	ekki
 MISSA	sng	missa
 AF	aa	af
 ...	...	...
-
 ...	...	...
 sýningu	nveþ	sýning
 Ragnars	nkee-s	Ragnar
@@ -668,7 +625,6 @@ til	ae	til
 1.	ta	1.
 september	nkee	september
 .	.	.
-
 Myndin	nveng	mynd
 hér	aa	hér
 að	aa	að
@@ -677,7 +633,6 @@ er	sfg3en	vera
 af	aþ	af
 Ragnari	nkeþ-s	Ragnar
 .	.	.
-
 ...	...	...
 tónleikum	nkfþ	tónleikar
 með	aþ	með
@@ -696,12 +651,10 @@ klukkan	nveng	klukka
 á	ao	á
 laugardaginn	nkeog	laugardagur
 .	.	.
-
 Aðgangur	nken	aðgangur
 er	sfg3en	vera
 ókeypis	aa	ókeypis
 .	.	.
-
 ...	...	...
 tónleikum	nkfþ	tónleikar
 hljómsveitarinnar	nveeg	hljómsveit
@@ -722,7 +675,6 @@ Hljómalind	nveþ-s	Hljómalind
 klukkan	nveng	klukka
 21	ta	21
 .	.	.
-
 Vilhelm	nken-s	Vilhelm
 Anton	nken-s	Anton
 Jónsson	nken-s	Jónsson
@@ -748,7 +700,6 @@ laugardaginn	nkeog	laugardagur
 25.	ta	25.
 júní	nkeo	júní
 .	.	.
-
 Á	aþ	á
 sýningunni	nveþg	sýning
 eru	sfg3fn	vera
@@ -766,7 +717,6 @@ akrýlmálningu	nveþ	akrýlmálning
 og	c	og
 olíumálningu	nveþ	olíumálning
 .	.	.
-
 Naglbíturinn	nkeng	naglbítur
 tók	sfg3eþ	taka
 þá	faveo	sá
@@ -795,7 +745,6 @@ landsins	nheeg	land
 síðustu	lhfove	síðari
 árin	nhfog	ár
 .	.	.
-
 «	«	«
 Þetta	fahen	þessi
 er	sfg3en	vera
@@ -818,7 +767,6 @@ tónlist	nven	tónlist
 eða	c	eða
 myndlist	nven	myndlist
 .	.	.
-
 Mér	fp1eþ	ég
 finns	x	finna
 best	lhense	góður
@@ -846,7 +794,6 @@ fyrir	ao	fyrir
 sjálfan	fbkeo	sjálfur
 mig	fp1eo	ég
 .	.	.
-
 Maður	nken	maður
 er	sfg3en	vera
 að	cn	að
@@ -871,7 +818,6 @@ hjá	aþ	hjá
 segir	sfg3en	segja
 Vilhelm	nken-s	Vilhelm
 .	.	.
-
 Myndir	nvfn	mynd
 Vilhelms	nkee-s	Vilhelm
 eru	sfg3fn	vera
@@ -885,7 +831,6 @@ myndir	nvfn	mynd
 af	aþ	af
 fólki	nheþ	fólk
 .	.	.
-
 «	«	«
 Ég	fp1en	ég
 hlakka	sfg1en	hlakka
@@ -913,7 +858,6 @@ fluttist	sfm3eþ	flytja
 til	ae	til
 Reykjavíkur	nvee-s	Reykjavík
 .	.	.
-
 Sýningin	nveng	sýning
 á	aþ	á
 Akureyri	nveþ-s	Akureyri
@@ -944,10 +888,8 @@ til	ae	til
 2.	ta	2.
 júlí	nkee	júlí
 .	.	.
-
 Kl.	as	kl.
 18.00	ta	18.00
-
 Á	ao	á
 sunnudaginn	nkeog	sunnudagur
 klukkan	nveng	klukka
@@ -995,36 +937,29 @@ anarkisma	nkeo	anarkismi
 á	aþ	á
 íslensku	nveþ	íslenska
 .	.	.
-
 Aðgangseyrir	nken	aðgangseyrir
 er	sfg3en	vera
 500	ta	500
 krónur	nvfn	króna
 .	.	.
-
 menning@frettabladid.is	v	menning@frettabladid.is
-
 Naglbíturinn	nkeng	naglbítur
 hrár	lkensf	hrár
 og	c	og
 erótískur	lkensf	erótískur
-
 Bók	nven	bók
 Vigdísar	nvee-s	Vigdís
 seld	sþgven	selja
 til	ae	til
 Svífljóðar	nvee-s	Svífljóð
-
 Andlit	nhfn-s	Andlit
 norðursins	nheeg	norður
 á	aþ	á
 Austurvelli	nkeþ-s	Austurvöllur
-
 Á	aþ	á
 VINNUSTOFUNNI	nveþg	vinnustofa
 Á	aþ	á
 LAUGAVEGINUM	nkeþgs	Laugavegur
-
 Vilhelm	nken-s	Vilhelm
 Anton	nken-s	Anton
 Jónsson	nken-s	Jónsson
@@ -1046,7 +981,6 @@ morgun	nkeo	morgunn
 klukkan	nveng	klukka
 14	ta	14
 .	.	.
-
 SJÁLFHELDA	nven	sjálfhelda
 «	«	«
 Þessi	faven	þessi
@@ -1067,7 +1001,6 @@ ofan	aa	ofan
 af	aþ	af
 Skessuhorni	nheþ-s	Skessuhorn
 .	.	.
-
 Hestarnir	nkfng	hestur
 höfðu	sfg3fþ	hafa
 orðið	ssg	verða
@@ -1083,7 +1016,6 @@ upp	aa	upp
 vegna	ae	vegna
 þess	fphee	það
 .	.	.
-
 Þeim	fpkfþ	hann
 var	sfg3eþ	vera
 svo	aa	svo
@@ -1092,7 +1024,6 @@ nokkrum	fokfþ	nokkur
 dögum	nkfþ	dagur
 síðar	aam	síðar
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 verið	sþghen	vera
@@ -1157,7 +1088,6 @@ sýningunni	nveþg	sýning
 á	aþ	á
 Austurvelli	nkeþ-s	Austurvöllur
 .	.	.
-
 VIGDÍS	nven-s	Vigdís
 GRÍMSDÓTTIR	nven-s	Grímsdóttir
 Bók	nven	bók
@@ -1171,13 +1101,11 @@ seld	sþgven	selja
 til	ae	til
 Svíþjóðar	nvee-s	Svíþjóð
 .	.	.
-
 Afnemum	sfg1fn	afnema
 VSK	as	VSK
 af	aþ	af
 öllum	fovfþ	allur
 snyrtivörum	nvfþ	snyrtivara
-
 Dagana	nkfog	dagur
 23.-26.	ta	23.-26.
 júní	nkeo	júní
@@ -1188,7 +1116,6 @@ fríhafnardagar	nkfn	fríhafnardagur
 snyrtivöruverslunum	nvfþ	snyrtivöruverslun
 Hagkaupa	nhfe-s	Hagkaup
 .	.	.
-
 Að	aþ	að
 sjálfsögðu	lheþsf	sjálfsagður
 fær	sfg3en	fá
@@ -1199,7 +1126,6 @@ af	aþ	af
 þessari	faveþ	þessi
 sölu	nveþ	sala
 .	.	.
-
 Verðlækkunin	nveng	verðlækkun
 er	sfg3en	vera
 alfarið	aa	alfarið
@@ -1207,7 +1133,6 @@ alfarið	aa	alfarið
 kostnað	nkeo	kostnaður
 Hagkaupa	nhfe-s	Hagkaup
 .	.	.
-
 Álagður	lkensf	álagður
 virðisaukaskattur	nken	virðisaukaskattur
 á	ao	á
@@ -1221,7 +1146,6 @@ jafngildir	sfg3en	jafngilda
 19,68%	tp	19,68%
 afslætti	nkeþ	afsláttur
 .	.	.
-
 Á	aþ	á
 fríhafnardögum	nkfþ	fríhafnardagur
 afnemum	sfg1fn	afnema
@@ -1230,10 +1154,8 @@ VSK.	as	VSK.
 af	aþ	af
 snyrtivörumerkjum	nhfþ	snyrtivörumerki
 .	.	.
-
 LEIKUM	sfg1fn	leika
 NÚNA	aa	núna
-
 Falleg	lvensf	fallegur
 og	c	og
 brosmild	lvensf	brosmildur
@@ -1259,7 +1181,6 @@ Dýrfjörð	nken-s	Dýrfjörð
 menningarfulltrúi	nken	menningarfulltrúi
 Akureyrarbæjar	nkee-s	Akureyrarbær
 .	.	.
-
 Eggert	nken-s	Eggert
 Pétursson	nken-s	Pétursson
 myndlistarmaður	nken	myndlistarmaður
@@ -1279,7 +1200,6 @@ verða	sfg3fn	verða
 í	ao	í
 haust	nheo	haust
 .	.	.
-
 Verðlaunin	nhfng	verðlaun
 eru	sfg3fn	vera
 ein	fohfn	einn
@@ -1308,7 +1228,6 @@ er	sfg3en	vera
 sænskar	lvfnsf	sænskur
 krónur	nvfn	króna
 .	.	.
-
 Af	aþ	af
 115	ta	115
 tilnefningum	nvfþ	tilnefning
@@ -1341,7 +1260,6 @@ London	e	London
 árið	nheog	ár
 2006	ta	2006
 .	.	.
-
 Dómnefnd	nven	dómnefnd
 valdi	sfg3eþ	velja
 verðlaunahafa	nkeo	verðlaunahafi
@@ -1360,7 +1278,6 @@ frá	aþ	frá
 Nútímalistasafni	nheþ-s	nútímalistasafn
 Parísarborgar	nvee-s	Parísarborg
 .	.	.
-
 «	«	«
 Þetta	fahen	þessi
 er	sfg3en	vera
@@ -1368,7 +1285,6 @@ auðvitað	aa	auðvitað
 mikil	lvensf	mikill
 viðurkenning	nven	viðurkenning
 .	.	.
-
 En	c	en
 þetta	fahen	þessi
 hefur	sfg3en	hafa
@@ -1396,7 +1312,6 @@ gera	sng	gera
 segir	sfg3en	segja
 Eggert	nken-s	Eggert
 .	.	.
-
 Landsmenn	nkfn	landsmaður
 geta	sfg3fn	geta
 barið	ssg	berja
@@ -1424,7 +1339,6 @@ Hafnarhúsi	nheþ-s	Hafnarhús
 júní	nkeo	júní
 2006	ta	2006
 .	.	.
-
 Í	aþ	í
 fréttatilkynningu	nveþ	fréttatilkynning
 frá	aþ	frá
@@ -1447,7 +1361,6 @@ náttúru	nveþ	náttúra
 eða	c	eða
 grasafræði	nveþ	grasafræði
 .	.	.
-
 Í	aþ	í
 þeim	fphfþ	það
 er	sfg3en	vera
@@ -1468,7 +1381,6 @@ staðfræðileg	lhfnsf	staðfræðilegur
 sínum	fekeþ	sinn
 .	.	.
 »	»	»
-
 Stofnað	sþghen	stofna
 var	sfg3eþ	vera
 til	ae	til
@@ -1488,7 +1400,6 @@ myndlistarmenn	nkfo	myndlistarmaður
 á	aþ	á
 Norðurlöndunum	nhfþgs	Norðurlönd
 .	.	.
-
 Hreinn	nken-s	Hreinn
 Friðfinnsson	nken-s	Friðfinnsson
 hlaut	sfg3eþ	hljóta
@@ -1504,7 +1415,6 @@ tekið	ssg	taka
 í	aþ	í
 sýningunni	nveþg	sýning
 .	.	.
-
 Að	aþ	að
 þessu	faheþ	þessi
 sinni	nheþ	sinn
@@ -1523,7 +1433,6 @@ Petra	nven-s	Petra
 Lindholm	e	Lindholm
 þriðju	lhfovf	þriðji
 .	.	.
-
 «	«	«
 Ég	fp1en	ég
 tók	sfg1eþ	taka
@@ -1544,7 +1453,6 @@ athygli	nveo	athygli
 vegna	ae	vegna
 verðlaunanna	nhfeg	verðlaun
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ánægjulegt	lhensf	ánægjulegur
@@ -1560,7 +1468,6 @@ klára	sng	klára
 mikla	lveosf	mikill
 vinnutörn	nveo	vinnutörn
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 búinn	lkensf	búinn
@@ -1593,12 +1500,10 @@ er	sfg3en	vera
 fram	aa	fram
 undan	aa	undan
 .	.	.
-
 Menningin	nveng	menning
 eflir	sfg3en	efla
 ímynd	nveo	ímynd
 bæjarfélagsins	nheeg	bæjarfélag
-
 Gleðifréttir	nvfn	gleðifrétt
 frá	aþ	frá
 Gleðistofu	nveþ-s	gleðistofa
@@ -1616,7 +1521,6 @@ kl.	as	kl.
 16:30	ta	16:30
 og	c	og
 21:30	ta	21:30
-
 KALLI	nken-s	Kalli
 Á	aþ	á
 ÞAKINU	nheþg	þak
@@ -1629,7 +1533,6 @@ samstarfi	nheþ	samstarf
 við	ao	við
 Á	aþ	á
 þakinu	nheþg	þak
-
 Hundabúr	nhfn	hundabúr
 -	-	-
 Hvolpagrindur	nvfn	hvolpagrind
@@ -1639,13 +1542,11 @@ af	aþ	af
 nýjum	lvfþsf	nýr
 vörum	nvfþ	vara
 .	.	.
-
 30%	tp	30%
 afsláttur	nken	afsláttur
 af	aþ	af
 öllu	foheþ	allur
 .	.	.
-
 Tokyo	e	Tokyo
 gæludýravörur	nvfn	gæludýravara
 Hjallahrauni	nheþ-s	Hjallahraun
@@ -1653,7 +1554,6 @@ Hjallahrauni	nheþ-s	Hjallahraun
 Hafnarfirði	nkeþ-s	Hafnarfjörður
 s.	as	s.
 565-8444	ta	565-8444
-
 Blómamálari	nken	blómamálari
 fær	sfg3en	fá
 norræn	lhfosf	norrænn
@@ -1674,7 +1574,6 @@ ekki	aa	ekki
 eiginlegar	lvfnsf	eiginlegur
 náttúrumyndir	nvfn	náttúrumynd
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 mín	feven	minn
@@ -1682,7 +1581,6 @@ túlkun	nven	túlkun
 á	aþ	á
 náttúrunni	nveþg	náttúra
 .	.	.
-
 Mér	fp1eþ	ég
 finnst	sfm3en	finna
 eins	aa	eins
@@ -1713,7 +1611,6 @@ náttúrunni	nveþg	náttúra
 of	aa	of
 mikið	aa	mikið
 .	.	.
-
 Mér	fp1eþ	ég
 finnst	sfm3en	finna
 við	fp1fn	ég
@@ -1780,7 +1677,6 @@ laugardaginn	nkeog	laugardagur
 25.	ta	25.
 júlí	nkeo	júlí
 .	.	.
-
 Á	aþ	á
 sýningunni	nveþg	sýning
 eru	sfg3fn	vera
@@ -1789,7 +1685,6 @@ olíumyndir	nvfn	olíumynd
 eftir	ao	eftir
 Önnu	nveo-s	Anna
 .	.	.
-
 Þema	nhen	þema
 sýningarinnar	nveeg	sýning
 er	sfg3en	vera
@@ -1797,7 +1692,6 @@ verndun	nven	verndun
 íslenskrar	lveesf	íslenskur
 náttúru	nvee	náttúra
 .	.	.
-
 «	«	«
 Ef	c	ef
 fólki	nheþ	fólk
@@ -1841,7 +1735,6 @@ yfir	aa	yfir
 tuttugu	tfhfo	tuttugu
 ár	nhfo	ár
 .	.	.
-
 Sýning	nven	sýning
 Önnu	nvee-s	Anna
 í	aþ	í
@@ -1852,7 +1745,6 @@ til	ae	til
 10.	ta	10.
 júlí	nkee	júlí
 .	.	.
-
 ANNA	nven-s	Anna
 LEÓSDÓTTIR	nven-s	Leósdóttir
 «	«	«
@@ -1891,14 +1783,11 @@ málverkasýningu	nveo	málverkasýning
 um	ao	um
 helgina	nveog	helgi
 .	.	.
-
 Verndun	nven	verndun
 íslenskrar	lveesf	íslenskur
 náttúru	nvee	náttúra
-
 EGGERT	nken-s	Eggert
 PÉTURSSON	nken-s	Pétursson
-
 Eggert	nken-s	Eggert
 lærði	sfg3eþ	læra
 á	aþ	á
@@ -1915,14 +1804,12 @@ Maastricht	e	Maastricht
 í	aþ	í
 Hollandi	nheþ-s	Holland
 .	.	.
-
 Sverðberinn	nkengs	Sverðber
 seld	sþgven	selja
 til	ae	til
 Noregs	nkee-s	Noregur
 og	c	og
 Danmerkur	nvee-s	Danmörk
-
 Unglingasaga	nven	unglingasaga
 Ragnheiðar	nvee-s	Ragnheiður
 Gestsdóttur	nvee-s	Gestsdóttir
@@ -1937,7 +1824,6 @@ Danmerkur	nvee-s	Danmörk
 og	c	og
 Noregs	nkee-s	Noregur
 .	.	.
-
 Ragnheiður	nven-s	Ragnheiður
 hlaut	sfg3eþ	hljóta
 sem	c	sem
@@ -1962,7 +1848,6 @@ viðtöku	nveo	viðtaka
 júní	nkeo	júní
 næstkomandi	lkeoof	næstkomandi
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 danska	lhenvf	danskur
@@ -1997,7 +1882,6 @@ fyrir	aþ	fyrir
 allmörgum	lhfþsf	allmargur
 árum	nhfþ	ár
 .	.	.
-
 Í	aþ	í
 Noregi	nkeþ-s	Noregur
 mun	sfg3en	munu
@@ -2037,7 +1921,6 @@ menningu	nveþ	menning
 árið	nheog	ár
 2002	ta	2002
 .	.	.
-
 Listasumar	nhen-s	listasumar
 2005	ta	2005
 var	sfg3eþ	vera
@@ -2059,7 +1942,6 @@ til	ae	til
 Listasumri	nheþ-s	listasumar
 lýkur	sfg3en	ljúka
 .	.	.
-
 Alþjóðlega	lvenvf	alþjóðlegur
 leiklistahátíðin	nveng	leiklistahátíð
 Leikum	sfg1fn	leika
@@ -2093,7 +1975,6 @@ fram	aa	fram
 á	ao	á
 laugardagskvöld	nheo	laugardagskvöld
 .	.	.
-
 Þórgnýr	nken-s	Þórgnýr
 Dýrfjörð	nken-s	Dýrfjörð
 ,	,	,
@@ -2117,7 +1998,6 @@ jákvæð	lhfosf	jákvæður
 ímynd	nveo	ímynd
 bæjarins	nkeeg	bær
 .	.	.
-
 «	«	«
 Menningin	nveng	menning
 í	aþ	í
@@ -2158,7 +2038,6 @@ Akureyri	nveþ-s	Akureyri
 segir	sfg3en	segja
 Þórgnýr	nken-s	Þórgnýr
 .	.	.
-
 Í	aþ	í
 tengslum	nhfþ	tengsl
 við	ao	við
@@ -2198,13 +2077,10 @@ blúsperlur	nvfo	blúsperla
 Græna	lkeþvf	grænn
 hattinum	nkeþg	hattur
 .	.	.
-
 kk	x	kk
-
 Plata	nven	plata
 vikunnar	nveeg	vika
 ...	...	...
-
 HOT	e	HOT
 DAMN	e	DAMN
 !	!	!
@@ -2255,9 +2131,7 @@ mikinn	lkeosf	mikill
 einfaldleika	nkeo	einfaldleiki
 .	.	.
 »	»	»
-
 FB	as	FB
-
 Nýlega	aa	nýlega
 kom	sfg3eþ	koma
 út	aa	út
@@ -2280,7 +2154,6 @@ hér	aa	hér
 á	aþ	á
 landi	nheþ	land
 .	.	.
-
 Fyrsta	lvenve	fyrstur
 plata	nven	plata
 hans	fpkee	hann
@@ -2304,7 +2177,6 @@ hvarvetna	aa	hvarvetna
 góðar	lvfosf	góður
 viðtökur	nvfo	viðtaka
 .	.	.
-
 Kippi	nken	Kippi
 Kanínus	nken	Kanínus
 er	sfg3en	vera
@@ -2330,7 +2202,6 @@ leik	nkeo	leikur
 og	c	og
 störf	nhfo	starf
 .	.	.
-
 Hann	fpken	hann
 stefnir	sfg3en	stefna
 að	aþ	að
@@ -2344,7 +2215,6 @@ tvö	tfhfo	tveir
 til	ae	til
 viðbótar	nvee	viðbót
 .	.	.
-
 Guðmundur	nken-s	Guðmundur
 segist	sfm3en	segja
 alltaf	aa	alltaf
@@ -2358,7 +2228,6 @@ upp	aa	upp
 nýja	lveosf	nýr
 tónlist	nveo	tónlist
 .	.	.
-
 «	«	«
 Ég	fp1en	ég
 var	sfg1eþ	vera
@@ -2377,7 +2246,6 @@ yfir	ao	yfir
 langan	lkeosf	langur
 tíma	nkeo	tími
 .	.	.
-
 Síðan	aa	síðan
 gengur	sfg3en	ganga
 tónlistin	nveng	tónlist
@@ -2392,7 +2260,6 @@ fyrir	ao	fyrir
 þessi	fahfo	þessi
 hljóð	nhfo	hljóð
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 stórt	lhensf	stór
@@ -2406,7 +2273,6 @@ púsluspil	nhen	púsluspil
 segir	sfg3en	segja
 Guðmundur	nken-s	Guðmundur
 .	.	.
-
 Nýju	lveþvf	nýr
 plötunni	nveþg	plata
 hefur	sfg3en	hafa
@@ -2427,7 +2293,6 @@ strengjum	nkfþ	strengur
 og	c	og
 barnasöng	nkeþ	barnasöngur
 .	.	.
-
 «	«	«
 Þetta	fahen	þessi
 eru	sfg3fn	vera
@@ -2436,11 +2301,9 @@ hljóð	nhfn	hljóð
 umhverfinu	nheþg	umhverfi
 ,	,	,
 »	»	»
-
 segir	sfg3en	segja
 Guðmundur	nken-s	Guðmundur
 .	.	.
-
 «	«	«
 Þau	fphfn	það
 eru	sfg3fn	vera
@@ -2463,7 +2326,6 @@ eigi	svg3fn	eiga
 saman	aa	saman
 .	.	.
 »	»	»
-
 Guðmundur	nken-s	Guðmundur
 ,	,	,
 sem	ct	sem
@@ -2487,7 +2349,6 @@ aldrei	aa	aldrei
 neinum	fovfþ	neinn
 hljómsveitum	nvfþ	hljómsveit
 .	.	.
-
 Nafnið	nheng	nafn
 Kippi	nken	Kippi
 Kanínus	nken	Kanínus
@@ -2496,7 +2357,6 @@ sér	fpheþ	sig
 einkennilega	lveosf	einkennilegur
 sögu	nveo	saga
 .	.	.
-
 «	«	«
 Mamma	nven	mamma
 lærði	sfg3eþ	læra
@@ -2509,7 +2369,6 @@ eða	c	eða
 fimm	tfhfe	fimm
 ára	nhfe	ár
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 að	cn	að
@@ -2532,7 +2391,6 @@ hét	sfg3eþ	heita
 Kippi	nken	Kippi
 Kanínus	nken	Kanínus
 .	.	.
-
 Mér	fp1eþ	ég
 fannst	sfm3eþ	finna
 þetta	fahen	þessi
@@ -2545,7 +2403,6 @@ eftir	aþ	eftir
 nafni	nheþ	nafn
 .	.	.
 »	»	»
-
 Guðmundur	nken-s	Guðmundur
 sækir	sfg3en	sækja
 áhrif	nhfo	áhrif
@@ -2560,7 +2417,6 @@ frá	aþ	frá
 öðrum	fokfþ	annar
 raftónlistarmönnum	nkfþ	raftónlistarmaður
 .	.	.
-
 «	«	«
 Ég	fp1en	ég
 hef	sfg1en	hafa
@@ -2575,7 +2431,6 @@ hlustað	ssg	hlusta
 tónlistina	nveog	tónlist
 þar	aa	þar
 .	.	.
-
 Annars	aa	annars
 hlusta	sfg1en	hlusta
 ég	fp1en	ég
@@ -2587,7 +2442,6 @@ allan	fokeo	allur
 skalann	nkeog	skali
 .	.	.
 »	»	»
-
 Guðmundur	nken-s	Guðmundur
 ætlar	sfg3en	ætla
 að	cn	að
@@ -2613,12 +2467,9 @@ erlendis	aa	erlendis
 á	aþ	á
 næstunni	nveþg	næsta
 .	.	.
-
 freyr@frettabladid.is	v	freyr@frettabladid.is
-
 Krefjandi	lhenof	krefjandi
 púsluspil	nhen	púsluspil
-
 Poppmetaltríóið	nheng	poppmetaltríó
 Númer	nhen-s	Númer
 Núll	nhen-s	Núll
@@ -2629,7 +2480,6 @@ gefið	ssg	gefa
 laga	nhfe	lag
 smáskífu	nveo	smáskífa
 .	.	.
-
 Hljómsveitin	nveng	hljómsveit
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -2661,7 +2511,6 @@ saman	aa	saman
 fimm	tfhfo	fimm
 ár	nhfo	ár
 .	.	.
-
 Bassaleikari	nken	bassaleikari
 sveitarinnar	nveeg	sveit
 heitir	sfg3en	heita
@@ -2669,7 +2518,6 @@ Jón	nken-s	Jón
 Svanur	nken-s	Svanur
 Sveinsson	nken-s	Sveinsson
 .	.	.
-
 Gestur	nken-s	Gestur
 ,	,	,
 sem	ct	sem
@@ -2697,7 +2545,6 @@ og	c	og
 5tu	ta	5tu
 herdeildinni	nveþg	herdeild
 .	.	.
-
 «	«	«
 Við	fp1fn	ég
 hugsum	sfg1fn	hugsa
@@ -2713,7 +2560,6 @@ og	c	og
 eitt	tfheo	einn
 bónuslag	nheo	bónuslag
 .	.	.
-
 Við	fp1fn	ég
 eigum	sfg1fn	eiga
 upptekið	lheosf	upptekinn
@@ -2731,7 +2577,6 @@ hljóðblanda	sng	hljóðblanda
 segir	sfg3en	segja
 Gestur	nken-s	Gestur
 .	.	.
-
 «	«	«
 Við	fp1fn	ég
 höfum	sfg1fn	hafa
@@ -2758,7 +2603,6 @@ bætir	sfg3en	bæta
 hann	fpken	hann
 við	aa	við
 .	.	.
-
 Eiríkur	nken-s	Eiríkur
 Hilmisson	nken-s	Hilmisson
 og	c	og
@@ -2778,7 +2622,6 @@ Gestur	nken-s	Gestur
 vel	aa	vel
 söguna	nveog	saga
 .	.	.
-
 «	«	«
 Eiríkur	nken-s	Eiríkur
 vinnur	sfg3en	vinna
@@ -2801,7 +2644,6 @@ með	aa	með
 segir	sfg3en	segja
 hann	fpken	hann
 .	.	.
-
 «	«	«
 Hann	fpken	hann
 tekur	sfg3en	taka
@@ -2815,7 +2657,6 @@ vekja	sfg3fn	vekja
 hans	fpkee	hann
 .	.	.
 »	»	»
-
 Númer	nhen-s	Númer
 Núll	nhen-s	Núll
 spilar	sfg3en	spila
@@ -2830,7 +2671,6 @@ reykvísku	lveþvf	reykvískur
 kvennasveitinni	nveþg	kvennasveit
 Viðurstyggð	nveþ-s	Viðurstyggð
 .	.	.
-
 KIPPI	nken	Kippi
 KANINUS	nken	Kaninus
 Raftónlistarmaðurinn	nkeng	raftónlistarmaður
@@ -2847,9 +2687,7 @@ nefnist	sfm3en	nefna
 Happens	e	Happens
 Secretly	e	Secretly
 .	.	.
-
 tonlist@frettabladid.is	v	tonlist@frettabladid.is
-
 Jóhannes	nken-s	Jóhannes
 Birgir	nken-s	Birgir
 Pálmason	nken-s	Pálmason
@@ -2867,7 +2705,6 @@ Experiment	e	Experiment
 of	e	of
 Day	e	Day
 .	.	.
-
 Jóhannes	nken-s	Jóhannes
 ,	,	,
 sem	ct	sem
@@ -2885,7 +2722,6 @@ sem	ct	sem
 tilraunakenndu	lheþsf	tilraunakenndur
 hiphopi	e	hiphopi
 .	.	.
-
 «	«	«
 Það	fphen	það
 eru	sfg3fn	vera
@@ -2899,13 +2735,11 @@ blandast	sfm3fn	blanda
 saman	aa	saman
 ,	,	,
 »	»	»
-
 segir	sfg3en	segja
 Jóhannes	nken-s	Jóhannes
 um	ao	um
 gripinn	nkeog	gripur
 .	.	.
-
 «	«	«
 Platan	nveng	plata
 stoppar	sfg3en	stoppa
@@ -2922,7 +2756,6 @@ eitt	tfheo	einn
 lag	nheo	lag
 .	.	.
 »	»	»
-
 Birkir	nken-s	Birkir
 úr	aþ	úr
 hljómsveitinni	nveþg	hljómsveit
@@ -2946,7 +2779,6 @@ rappað	sþghen	rappa
 á	aþ	á
 íslensku	nveþ	íslenska
 .	.	.
-
 Jóhannes	nken-s	Jóhannes
 ,	,	,
 sem	ct	sem
@@ -2973,7 +2805,6 @@ Buck	e	Buck
 frá	aþ	frá
 Kanada	nheþ-s	Kanada
 .	.	.
-
 Einnig	aa	einnig
 má	sfg3en	mega
 greina	sng	greina
@@ -3002,10 +2833,8 @@ góðar	lvfosf	góður
 viðtökur	nvfo	viðtaka
 gagnrýnenda	nkfe	gagnrýnandi
 .	.	.
-
 Popptextinn	nkeng	popptexti
 ...	...	...
-
 «	«	«
 He	e	He
 called	e	called
@@ -3032,7 +2861,6 @@ a	e	a
 dude	e	dude
 .	.	.
 »	»	»
-
 Lagið	nheng	lag
 Hot	e	Hot
 Damn	e	Damn
@@ -3059,7 +2887,6 @@ lífsreynslu	nveþ	lífsreynsla
 í	aþ	í
 Amsterdam	nxeþ-s	Amsterdam
 .	.	.
-
 NÚMER	nhen-s	Númer
 NÚLL	nhen-s	Núll
 Frá	aþ	frá
@@ -3076,7 +2903,6 @@ Garðar	nken-s	Garðar
 Þór	nken-s	Þór
 Eiðsson	nken-s	Eiðsson
 .	.	.
-
 Heldur	sfg3en	halda
 efsta	lheþve	efri
 sætinu	nheþg	sæti
@@ -3102,7 +2928,6 @@ kom	sfg3eþ	koma
 byrjun	nveþ	byrjun
 mánaðarins	nkeeg	mánuður
 .	.	.
-
 Platan	nveng	plata
 er	sfg3en	vera
 í	aþ	í
@@ -3122,7 +2947,6 @@ selst	ssm	selja
 milljón	nveþ	milljón
 eintaka	nhfe	eintak
 .	.	.
-
 Í	aþ	í
 öðru	lheþsf	öðr
 sæti	nheþ	sæti
@@ -3164,7 +2988,6 @@ seldist	sfm3eþ	selja
 fyrstu	lveove	fyrstur
 vikuna	nveog	vika
 .	.	.
-
 Í	aþ	í
 þriðja	lheþvf	þriðji
 sæti	nheþ	sæti
@@ -3183,7 +3006,6 @@ nefnist	sfm3en	nefna
 Never	e	Never
 Gone	e	Gone
 .	.	.
-
 Bubbi	nken-s	Bubbi
 :	:	:
 Ást	nven-s	Ást
@@ -3198,7 +3020,6 @@ við	ao	við
 ástarmál	nhfo	ástarmál
 sín	fehfo	sinn
 .	.	.
-
 Þrjú	tfhfn	þrír
 lög	nhfn	lag
 skara	sfg3fn	skara
@@ -3212,7 +3033,6 @@ vantar	sfg3en	vanta
 afganginn	nkeog	afgangur
 .	.	.
 »	»	»
-
 FB	e	FB
 British	e	British
 Sea	e	Sea
@@ -3231,7 +3051,6 @@ nýjustu	lveþve	nýr
 von	nveþ	von
 Breta	nkfe-s	Breti
 .	.	.
-
 Ef	c	ef
 þetta	fahen	þessi
 er	sfg3en	vera
@@ -3259,7 +3078,6 @@ yfir	ao	yfir
 þá	fpkfo	hann
 .	.	.
 »	»	»
-
 BÖS	as	BÖS
 Coldplay	e	Coldplay
 :	:	:
@@ -3281,7 +3099,6 @@ eina	foveo	einn
 »	»	»
 plötu	nveo	plata
 .	.	.
-
 Full	lvensf	fullur
 af	aþ	af
 grípandi	lhfþof	grípandi
@@ -3305,7 +3122,6 @@ spila	sng	spila
 þau	fphfo	það
 .	.	.
 »	»	»
-
 BÖS	as	BÖS
 Fourt	e	Fourt
 Tet	e	Tet
@@ -3339,13 +3155,11 @@ gefin	sþgven	gefa
 sögu	nveþ	saga
 raftónlistar	nvee	raftónlist
 .	.	.
-
 Fullt	lhensf	fullur
 hús	nhen	hús
 stiga	nhfe	stig
 .	.	.
 »	»	»
-
 BÖS	as	BÖS
 Jane	e	Jane
 :	:	:
@@ -3369,7 +3183,6 @@ tónlist	nveþ	tónlist
 við	ao	við
 krútt-elektróník	nveo	krútt-elektróník
 .	.	.
-
 Falleg	lvensf	fallegur
 grúskaraplata	nven	grúskaraplata
 sem	ct	sem
@@ -3377,7 +3190,6 @@ róar	sfg3en	róa
 taugarnar	nvfog	taug
 .	.	.
 »	»	»
-
 BÖS	as	BÖS
 System	e	System
 of	e	of
@@ -3409,7 +3221,6 @@ aðra	foveo	annar
 frábæra	lveosf	frábær
 plötu	nveo	plata
 .	.	.
-
 Lög	nhfn	lag
 Mezmerize	e	Mezmerize
 eru	sfg3fn	vera
@@ -3421,7 +3232,6 @@ miður	aam	lítt
 lakari	lvfnvm	lakur
 .	.	.
 »	»	»
-
 BÖS	as	BÖS
 Jack	e	Jack
 Johnson	e	Johnson
@@ -3444,7 +3254,6 @@ yndislegt	lhensf	yndislegur
 lífið	nheng	líf
 er	sfg3en	vera
 .	.	.
-
 Og	c	og
 á	sfg3en	eiga
 örugglega	aa	örugglega
@@ -3457,7 +3266,6 @@ mörgum	lhfþsf	margur
 tilfellum	nhfþ	tilfelli
 .	.	.
 »	»	»
-
 BÖS	as	BÖS
 Birgir	nken-s	Birgir
 Örn	nken-s	Örn
@@ -3465,7 +3273,6 @@ Steinarsson	nken-s	Steinarsson
 &	c	&
 Freyr	nken-s	Freyr
 Bjarnason	nken-s	Bjarnason
-
 Gítarleikari	nken	gítarleikari
 snýr	sfg3en	snúa
 aftur	aa	aftur
@@ -3491,7 +3298,6 @@ og	c	og
 til	ae	til
 1993	ta	1993
 .	.	.
-
 The	e	The
 Cure	e	Cure
 varð	sfg3eþ	verða
@@ -3526,7 +3332,6 @@ og	c	og
 Jason	e	Jason
 Cooper	e	Cooper
 .	.	.
-
 Hljómsveitin	nveng	hljómsveit
 mun	sfg3en	munu
 spila	sng	spila
@@ -3545,7 +3350,6 @@ Spáni	nkeþ-s	Spánn
 5.	ta	5.
 ágúst	nkeo	ágúst
 .	.	.
-
 Eldsvoði	nken	eldsvoði
 hjá	aþ	hjá
 Ash	e	Ash
@@ -3573,7 +3377,6 @@ Factory	e	Factory
 Los	e	Los
 Angeles	e	Angeles
 .	.	.
-
 Eftir	ao	eftir
 að	c	að
 mikill	lkensf	mikill
@@ -3589,7 +3392,6 @@ eldinn	nkeog	eldur
 með	aþ	með
 slökkvitæki	nheþ	slökkvitæki
 .	.	.
-
 Þurfu	x	þurfu
 liðsmenn	nkfn	liðsmaður
 Ash	e	Ash
@@ -3605,7 +3407,6 @@ eftir	aþ	eftir
 nýrri	lveþsf	nýr
 rútu	nveþ	rúta
 .	.	.
-
 Keyrðu	sfg3fþ	keyra
 þau	fphfn	það
 rútuna	nveog	rúta
@@ -3623,7 +3424,6 @@ tónleika	nkfo	tónleikar
 skömmu	lheþsf	skammur
 síðar	aam	síðar
 .	.	.
-
 Þar	aa	þar
 tileinkaði	sfg3eþ	tileinka
 söngvarinn	nkeng	söngvari
@@ -3638,7 +3438,6 @@ Burn	e	Burn
 Baby	e	Baby
 Burn	e	Burn
 .	.	.
-
 RAIN	e	RAIN
 Jóhannes	nken-s	Jóhannes
 Birgir	nken-s	Birgir
@@ -3651,10 +3450,8 @@ Experiment	e	Experiment
 of	e	of
 Day	e	Day
 .	.	.
-
 Tilraunakennt	lhensf	tilraunakenndur
 hiphop	e	hiphop
-
 CHRIS	e	CHRIS
 MARTIN	e	MARTIN
 Söngvari	nken	söngvari
@@ -3670,7 +3467,6 @@ yfir	aþ	yfir
 nýju	lveþvf	nýr
 plötunni	nveþg	plata
 .	.	.
-
 THE	e	THE
 CURE	e	CURE
 Robert	e	Robert
@@ -3686,7 +3482,6 @@ gamla	lkeovf	gamall
 gítarleikarann	nkeog	gítarleikari
 sinn	fekeo	sinn
 .	.	.
-
 ASH	e	ASH
 Rokksveitin	nveng	rokksveit
 Ash	e	Ash
@@ -3698,7 +3493,6 @@ Bandaríkjunum	nhfþgs	Bandaríki
 á	aþ	á
 dögunum	nkfþg	dagur
 .	.	.
-
 ARNAR	nken-s	Arnar
 GUÐJÓNSSON	nken-s	Guðjónsson
 Hljómsveitin	nveng	hljómsveit
@@ -3720,7 +3514,6 @@ The	e	The
 Angela	e	Angela
 Test	e	Test
 .	.	.
-
 Smáskífa	nven	smáskífa
 frá	aþ	frá
 Númer	nheþ-s	númer
@@ -3750,7 +3543,6 @@ laugardaginn	nkeog	laugardagur
 25.	ta	25.
 júní	nkeo	júní
 .	.	.
-
 Sjónvarpsstöðin	nveng	sjónvarpsstöð
 Sirkus	nken-s	Sirkus
 fer	sfg3en	fara
@@ -3764,7 +3556,6 @@ með	aþ	með
 glæsilegri	lveþsf	glæsilegur
 dagskrá	nveþ	dagskrá
 .	.	.
-
 Stöðin	nveng	stöð
 leggur	sfg3en	leggja
 áherslu	nveo	áhersla
@@ -3775,7 +3566,6 @@ innlent	lheosf	innlendur
 sem	c	sem
 erlent	lheosf	erlendur
 .	.	.
-
 Stöðin	nveng	stöð
 verður	sfg3en	verða
 frístöð	nven	frístöð
@@ -3788,7 +3578,6 @@ prósent	nhfo	prósent
 í	aþ	í
 dreifingu	nveþ	dreifing
 .	.	.
-
 Hægt	lhensf	hægur
 verður	sfg3en	verða
 að	cn	að
@@ -3805,7 +3594,6 @@ og	c	og
 á	ao	á
 UHF	as	UHF
 .	.	.
-
 Meðal	ae	meðal
 þeirra	fakfe	sá
 íslensku	lkfevf	íslenskur
@@ -3831,7 +3619,6 @@ og	c	og
 Sigríður	nven-s	Sigríður
 Pétursdóttir	nven-s	Pétursdóttir
 .	.	.
-
 Einnig	aa	einnig
 mun	sfg3en	munu
 þátturinn	nkeng	þáttur
@@ -3856,7 +3643,6 @@ Mínútum	nvfþ-s	Mínúta
 verða	sfg3fn	verða
 endursýndir	sþgkfn	endursýna
 .	.	.
-
 Þessir	fakfn	þessi
 fjórir	tfkfn	fjórir
 þættir	nkfn	þáttur
@@ -3873,7 +3659,6 @@ yfir	aa	yfir
 Digital	e	Digital
 Ísland	nheo-s	Ísland
 .	.	.
-
 Þau	fahfn	sá
 nýmæli	nhfn	nýmæli
 hafa	sfg3fn	hafa
@@ -3907,7 +3692,6 @@ tónlistina	nveog	tónlist
 Íslenska	lkeþvf	íslenskur
 popplistanum	nkeþg	popplisti
 .	.	.
-
 Fjölmargir	lkfnsf	fjölmargur
 erlendir	lkfnsf	erlendur
 þættir	nkfn	þáttur
@@ -3916,7 +3700,6 @@ verða	sfg3fn	verða
 dagskrá	nveþ	dagskrá
 stöðvarinnar	nveeg	stöð
 .	.	.
-
 David	e	David
 Letterman	e	Letterman
 er	sfg3en	vera
@@ -3941,7 +3724,6 @@ gætu	svg3fþ	geta
 bjargað	ssg	bjarga
 mannslífum	nhfþ	mannslíf
 .	.	.
-
 Dr.	as	Dr.
 Vegas	e	Vegas
 er	sfg3en	vera
@@ -3959,7 +3741,6 @@ og	c	og
 Tom	e	Tom
 Sizemore	e	Sizemore
 .	.	.
-
 American	e	American
 Dad	e	Dad
 er	sfg3en	vera
@@ -3979,7 +3760,6 @@ vinsælu	lkfþvf	vinsæll
 ekkert	foheo	enginn
 eftir	aa	eftir
 .	.	.
-
 The	e	The
 Road	e	Road
 to	e	to
@@ -4007,7 +3787,6 @@ listamaðurinn	nkeng	listamaður
 í	aþ	í
 hópnum	nkeþg	hópur
 .	.	.
-
 Auk	ae	auk
 þessara	fakfe	þessi
 verða	sfg3fn	verða
@@ -4025,7 +3804,6 @@ Me	e	Me
 á	aþ	á
 dagskránni	nveþg	dagskrá
 .	.	.
-
 Sirkus	nken-s	Sirkus
 mun	sfg3en	munu
 svo	aa	svo
@@ -4052,7 +3830,6 @@ og	c	og
 The	e	The
 X-Files	e	X-Files
 .	.	.
-
 «	«	«
 Við	fp1fn	ég
 ætlum	sfg1fn	ætla
@@ -4066,7 +3843,6 @@ er	sfg3en	vera
 bara	aa	bara
 skemmtisýning	nven	skemmtisýning
 .	.	.
-
 Við	fp1fn	ég
 spilum	sfg1fn	spila
 Bítlalögin	nhfogs	Bítlalag
@@ -4079,7 +3855,6 @@ skondinn	lkeosf	skondinn
 hátt	nkeo	háttur
 ,	,	,
 »	»	»
-
 segir	sfg3en	segja
 Sigurjón	nken-s	Sigurjón
 Brink	nken-s	Brink
@@ -4108,7 +3883,6 @@ og	c	og
 Pálma	nkeþ-s	Pálmi
 Sigurhjartarsyni	nkeþ-s	Sigurhjartarson
 .	.	.
-
 «	«	«
 Sumir	fokfn	sumur
 halda	sfg3fn	halda
@@ -4133,7 +3907,6 @@ ekki	aa	ekki
 segir	sfg3en	segja
 Sigurjón	nken-s	Sigurjón
 .	.	.
-
 Þríeykið	nheng	þríeyki
 kallar	sfg3en	kalla
 sýninguna	nveog	sýning
@@ -4151,7 +3924,6 @@ tónleika	nkfo	tónleikar
 en	c	en
 söngleik	nkeo	söngleikur
 .	.	.
-
 «	«	«
 Þetta	fahen	þessi
 byrjaði	sfg3eþ	byrja
@@ -4178,7 +3950,6 @@ báðir	fokfn	báðir
 miklir	lkfnsf	mikill
 Bítlaaðdáendur	nkfn-s	Bítlaaðdáandi
 .	.	.
-
 Þetta	fahen	þessi
 teygðist	sfm3eþ	teygja
 í	ao	í
@@ -4200,7 +3971,6 @@ fimmtudagskvöldum	nhfþ	fimmtudagskvöld
 segir	sfg3en	segja
 Sigurjón	nken-s	Sigurjón
 .	.	.
-
 «	«	«
 Við	fp1fn	ég
 náðum	sfg1fþ	ná
@@ -4210,7 +3980,6 @@ stemningu	nveþ	stemning
 á	aþ	á
 Hverfisbarnum	nkeþgs	hverfisbar
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 örugglega	aa	örugglega
@@ -4232,7 +4001,6 @@ sýningu	nveo	sýning
 þessu	faheþ	þessi
 .	.	.
 »	»	»
-
 Jóhannes	nken-s	Jóhannes
 og	c	og
 Sigurjón	nken-s	Sigurjón
@@ -4273,7 +4041,6 @@ Bítlasýningunni	nveþgs	Bítlasýning
 á	ao	á
 fjalirnar	nvfog	fjöl
 .	.	.
-
 Um	aa	um
 160	ta	160
 astmasjúklingar	nkfn	astmasjúklingur
@@ -4313,7 +4080,6 @@ Krókhálsi	nkeþ-s	Krókháls
 110	ta	110
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Eitt	tfhen	einn
 af	aþ	af
 inntökuskilyrðum	nhfþ	inntökuskilyrði
@@ -4353,7 +4119,6 @@ astma	nhee	astma
 og	c	og
 ofnæmis	nhee	ofnæmi
 .	.	.
-
 Einungis	aa	einungis
 þeir	fakfn	sá
 sem	ct	sem
@@ -4370,7 +4135,6 @@ tekið	ssg	taka
 klínísku	lveþvf	klínískur
 rannsókninni	nveþg	rannsókn
 .	.	.
-
 Klíníska	lvenvf	klínískur
 rannsóknin	nveng	rannsókn
 tekur	sfg3en	taka
@@ -4388,7 +4152,6 @@ heimsóknum	nvfþ	heimsókn
 á	ao	á
 rannsóknarsetur	nheo	rannsóknarsetur
 .	.	.
-
 Þeir	fpkfn	hann
 sem	ct	sem
 kynnu	svg3fþ	kunna
@@ -4423,7 +4186,6 @@ síma	nkeþ	sími
 510	ta	510
 9900	ta	9900
 .	.	.
-
 Tekið	ssg	taka
 skal	sfg3en	skulu
 fram	aa	fram
@@ -4445,7 +4207,6 @@ taka	sng	taka
 í	aþ	í
 rannsókninni	nveþg	rannsókn
 .	.	.
-
 Taki	svg3fn	taka
 þeir	fpkfn	hann
 þátt	nkeo	þáttur
@@ -4471,7 +4232,6 @@ fyrir	aþ	fyrir
 ákvörðun	nveþ	ákvörðun
 sinni	feveþ	sinn
 .	.	.
-
 Hefur	sfg2en	hafa
 þú	fp2en	þú
 áhuga	nkeo	áhugi
@@ -4488,11 +4248,9 @@ lyfi	nheþ	lyf
 við	aþ	við
 astma	nheþ	astma
 ?	?	?
-
 Vissir	sfg2eþ	vita
 þú	fp2en	þú
 ...	...	...
-
 ...	...	...
 að	c	að
 lengsta	lhenve	langur
@@ -4519,7 +4277,6 @@ að	aa	að
 fimmtíu	tfkfn	fimmtíu
 sentímetrar	nkfn	sentímetri
 ?	?	?
-
 ...	...	...
 að	c	að
 stærsta	lvenve	stór
@@ -4543,7 +4300,6 @@ umfangsmeiri	lvenvm	umfangsmikill
 en	c	en
 Júpíter	nken-s	Júpíter
 ?	?	?
-
 ...	...	...
 að	c	að
 dýpsti	lkenve	djúpur
@@ -4556,7 +4312,6 @@ Zangbo-dalur	nken-s	Zangbo-dalur
 í	aþ	í
 Tíbet	nheþ-s	Tíbet
 ?	?	?
-
 Og	c	og
 er	sfg3en	vera
 fimm	to	fimm
@@ -4566,7 +4321,6 @@ djúpur	lkensf	djúpur
 að	aþ	að
 meðaltali	nheþ	meðaltal
 .	.	.
-
 ...	...	...
 að	c	að
 filippseyski	lkenvf	filippseyskur
@@ -4591,7 +4345,6 @@ millimetra	nkfe	millimetri
 að	aþ	að
 ummáli	nheþ	ummál
 ?	?	?
-
 Það	fphen	það
 samsvarar	sfg3en	samsvara
 því	fpheþ	það
@@ -4604,7 +4357,6 @@ stærð	nveo	stærð
 við	ao	við
 greipaldin	nhfog	greipaldi
 .	.	.
-
 ...	...	...
 að	c	að
 eitruðustu	lkfnve	eitraður
@@ -4619,7 +4371,6 @@ Rauðahafinu	nheþgs	Rauðahaf
 og	c	og
 Indlands-Kyrrahafssvæðinu	nheþgs	Indlands-Kyrrahafssvæði
 ?	?	?
-
 ...	...	...
 að	c	að
 minnsta	lvenve	lítill
@@ -4630,7 +4381,6 @@ er	sfg3en	vera
 Roborovski	e	Roborovski
 hamsturinn	nkeng	hamstur
 ?	?	?
-
 Hann	fpken	hann
 verður	sfg3en	verða
 yfirleitt	aa	yfirleitt
@@ -4647,7 +4397,6 @@ Mongólíu	nveþ-s	Mongólía
 og	c	og
 Kína	nheþ-s	Kína
 .	.	.
-
 ...	...	...
 að	c	að
 talið	sþghen	telja
@@ -4665,7 +4414,6 @@ undir	ao	undir
 lífræna	lveosf	lífrænn
 ræktun	nveo	ræktun
 ?	?	?
-
 Spurning	nven	spurning
 :	:	:
 Af	aþ	af
@@ -4681,7 +4429,6 @@ veg	nkeo	vegur
 fyrir	ao	fyrir
 þá	fpkfo	hann
 ?	?	?
-
 Svar	nhen	svar
 :	:	:
 Talið	sþghen	telja
@@ -4706,7 +4453,6 @@ mun	nkeþ	munur
 lengri	lveovm	langur
 sögu	nveo	saga
 .	.	.
-
 Hlutverk	nhen	hlutverk
 kattarins	nkeeg	köttur
 í	aþ	í
@@ -4735,7 +4481,6 @@ lengi	aa	lengi
 talin	sþghfn	telja
 verðmæt	lhfnsf	verðmætur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 einnig	aa	einnig
@@ -4762,7 +4507,6 @@ hinum	gkeþ	hinn
 sýnilega	lkeþvf	sýnilegur
 veruleika	nkeþ	veruleiki
 .	.	.
-
 Fornegyptar	nkfn-s	fornegypti
 eru	sfg3fn	vera
 taldir	sþgkfn	telja
@@ -4778,7 +4522,6 @@ bil	nheo	bil
 árum	nhfþ	ár
 f.	as	f.
 Kr.	as	kr.
-
 Egyptar	nkfn-s	Egypti
 urðu	sfg3fþ	verða
 svo	aa	svo
@@ -4793,7 +4536,6 @@ að	cn	að
 tilbiðja	sng	tilbiðja
 hann	fpkeo	hann
 .	.	.
-
 Hjá	aþ	hjá
 þeim	fpkfþ	hann
 var	sfg3eþ	vera
@@ -4816,7 +4558,6 @@ mána	nkee	máni
 og	c	og
 dauða	nkee	dauði
 .	.	.
-
 Mynd	nven	mynd
 kattargyðjunnar	nveeg	kattargyðja
 Bast	e	Bast
@@ -4825,7 +4566,6 @@ kona	nven	kona
 með	ao	með
 kattarhöfuð	nheo	kattarhöfuð
 .	.	.
-
 Frá	aþ	frá
 Egyptum	nkfþ-s	Egypti
 er	sfg3en	vera
@@ -4839,7 +4579,6 @@ hafi	svg3fn	hafa
 níu	tfhfo	níu
 líf	nhfo	líf
 .	.	.
-
 Kettir	nkfn	köttur
 í	aþ	í
 goðafræði	nveþ	goðafræði
@@ -4853,7 +4592,6 @@ gegna	sng	gegna
 grískri	lveþsf	grískur
 goðafræði	nveþ	goðafræði
 .	.	.
-
 Mánagyðjan	nveng	mánagyðja
 Artemis	e	Artemis
 var	sfg3eþ	vera
@@ -4878,7 +4616,6 @@ svo	aa	svo
 bar	sfg3eþ	bera
 undir	aa	undir
 .	.	.
-
 Artemis	e	Artemis
 var	sfg3eþ	vera
 í	aþ	í
@@ -4905,7 +4642,6 @@ eins	aa	eins
 og	c	og
 Artemis	e	Artemis
 .	.	.
-
 Hekata	e	Hekata
 var	sfg3eþ	vera
 einnig	aa	einnig
@@ -4920,7 +4656,6 @@ Hekötu	nveþ-s	Hekata
 næturferðum	nvfþ	næturferð
 hennar	fpvee	hún
 .	.	.
-
 Kötturinn	nkeng	köttur
 var	sfg3eþ	vera
 því	aa	því
@@ -4931,7 +4666,6 @@ og	c	og
 öðrum	fohfþ	annar
 myrkraverkum	nhfþ	myrkraverk
 .	.	.
-
 Kettir	nkfn	köttur
 eru	sfg3fn	vera
 fylgifiskar	nkfn	fylgifiskur
@@ -4951,7 +4685,6 @@ hennar	fpvee	hún
 hún	fpven	hún
 ferðaðist	sfm3eþ	ferðast
 .	.	.
-
 Auk	ae	auk
 þessa	fahee	þessi
 má	sfg3en	mega
@@ -4967,7 +4700,6 @@ og	c	og
 fleiri	lvfþvm	margur
 Asíuþjóðum	nvfþ-s	Asíuþjóð
 .	.	.
-
 Nornakettir	nkfn	nornaköttur
 og	c	og
 heimiliskettir	nkfn	heimilisköttur
@@ -4984,7 +4716,6 @@ sinni	feveþ	sinn
 til	ae	til
 kattarins	nkeeg	köttur
 .	.	.
-
 Á	ao	á
 hann	fpkeo	hann
 hefur	sfg3en	hafa

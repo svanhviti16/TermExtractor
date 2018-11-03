@@ -8,7 +8,6 @@ mjög	aa	mjög
 heitum	lkeþsf	heitur
 ofni	nkeþ	ofn
 .	.	.
-
 Þetta	fahen	þessi
 bragðast	sfm3en	bragða
 einkar	aa	einkar
@@ -19,7 +18,6 @@ með	aþ	með
 ísköldu	lheþsf	ískaldur
 öli	nheþ	öl
 .	.	.
-
 *	*	*
 Annar	foken	annar
 algengur	lkensf	algengur
@@ -33,7 +31,6 @@ síld	nveþ	síld
 og	c	og
 tómötum	nkfþ	tómatur
 .	.	.
-
 Til	ae	til
 tilbreytingar	nvee	tilbreyting
 má	sfg3en	mega
@@ -53,7 +50,6 @@ afar	aa	afar
 gómsætur	lkensf	gómsætur
 biti	nken	biti
 .	.	.
-
 Forréttur	nken	forréttur
 *	*	*
 Lítinn	lkeosf	lítill
@@ -88,7 +84,6 @@ síðan	aa	síðan
 ristaðar	lvfosf	ristaður
 franskbrauðsneiðar	nvfo	franskbrauðsneið
 .	.	.
-
 Setja	sng	setja
 síðan	aa	síðan
 hráa	lveosf	hrár
@@ -99,7 +94,6 @@ miðjuna	nveog	miðja
 hverri	foveþ	hver
 brauðsneið	nveþ	brauðsneið
 .	.	.
-
 Hafnarfjörður	nken-s	Hafnarfjörður
 -	-	-
 Fasteignastofan	nvengs	Fasteignastofan
@@ -113,7 +107,6 @@ við	ao	við
 Heiðvang	nkeo-s	Heiðvangur
 8	ta	8
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 steinhús	nhen	steinhús
@@ -131,7 +124,6 @@ sem	ct	sem
 er	sfg3en	vera
 34,7	ta	34,7
 ferm.	as	ferm.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 afar	aa	afar
@@ -157,7 +149,6 @@ segir	sfg3en	segja
 hjá	aþ	hjá
 Fasteignastofunni	nveþgs	Fasteignastofan
 .	.	.
-
 Mjög	aa	mjög
 góð	lvensf	góður
 aðkoma	nven	aðkoma
@@ -174,7 +165,6 @@ stétt	nven	stétt
 að	aþ	að
 húsi	nheþ	hús
 .	.	.
-
 Komið	sþghen	koma
 er	sfg3en	vera
 inn	aa	inn
@@ -182,7 +172,6 @@ inn	aa	inn
 flísalagða	lveosf	flísalagður
 forstofu	nveo	forstofa
 .	.	.
-
 Úr	aþ	úr
 forstofu	nveþ	forstofa
 er	sfg3en	vera
@@ -204,7 +193,6 @@ tvö	tfhfn	tveir
 minni	lhfnvm	lítill
 herbergi	nhfn	herbergi
 .	.	.
-
 Úr	aþ	úr
 forstofu	nveþ	forstofa
 er	sfg3en	vera
@@ -233,7 +221,6 @@ hornið	nheog	horn
 ,	,	,
 L-laga	lvfoof	l-laga
 .	.	.
-
 Stofan	nveng	stofa
 er	sfg3en	vera
 parketlögð	lvensf	parketlagður
@@ -243,7 +230,6 @@ er	sfg3en	vera
 fallegur	lkensf	fallegur
 arinn	nken	arinn
 .	.	.
-
 Borðstofan	nveng	borðstofa
 er	sfg3en	vera
 milli	ae	milli
@@ -257,7 +243,6 @@ parketi	nheþ	parket
 á	aþ	á
 gólfi	nheþ	gólf
 .	.	.
-
 Eldhús	nhen	eldhús
 er	sfg3en	vera
 einnig	aa	einnig
@@ -271,13 +256,11 @@ með	aa	með
 farinni	lveþsf	farinn
 innréttingu	nveþ	innrétting
 .	.	.
-
 Þar	aa	þar
 er	sfg3en	vera
 ágætur	lkensf	ágætur
 borðkrókur	nken	borðkrókur
 .	.	.
-
 Inn	aa	inn
 af	aþ	af
 eldhúsi	nheþ	eldhús
@@ -288,12 +271,10 @@ flísum	nvfþ	flís
 á	aþ	á
 gólfi	nheþ	gólf
 .	.	.
-
 Svefngangur	nken	svefngangur
 er	sfg3en	vera
 parketlagður	lkensf	parketlagður
 .	.	.
-
 Þaðan	aa	þaðan
 er	sfg3en	vera
 hægt	lhensf	hægur
@@ -304,7 +285,6 @@ inn	aa	inn
 stóra	lheovf	stór
 forstofuherbergið	nheog	forstofuherbergi
 .	.	.
-
 Hjónaherbergi	nhen	hjónaherbergi
 og	c	og
 tvö	tfhfn	tveir
@@ -318,7 +298,6 @@ gólfi	nheþ	gólf
 og	c	og
 skáp	nkeþ	skápur
 .	.	.
-
 Þvottahús	nhen	þvottahús
 er	sfg3en	vera
 dúklagt	lhensf	dúklagður
@@ -332,7 +311,6 @@ framan	aa	framan
 við	ao	við
 hús	nheo	hús
 .	.	.
-
 Séríbúð	nven	séríbúð
 í	aþ	í
 kjallara	nkeþ	kjallari
@@ -346,7 +324,6 @@ herbergi	nheþ	herbergi
 og	c	og
 salerni	nheþ	salerni
 .	.	.
-
 Parket	nhen	parket
 og	c	og
 flísar	nvfn	flís
@@ -354,7 +331,6 @@ eru	sfg3fn	vera
 á	aþ	á
 gólfum	nhfþ	gólf
 .	.	.
-
 Þar	aa	þar
 er	sfg3en	vera
 sérinngangur	nken	sérinngangur
@@ -373,7 +349,6 @@ hringstiga	nkeo	hringstigi
 úr	aþ	úr
 stofu	nveþ	stofa
 .	.	.
-
 Staðsetning	nven	staðsetning
 hússins	nheeg	hús
 er	sfg3en	vera
@@ -394,7 +369,6 @@ fallegt	lhensf	fallegur
 að	aþ	að
 Álftanesi	nheþ-s	Álftanes
 .	.	.
-
 Gatan	nveng	gata
 er	sfg3en	vera
 botnlangi	nken	botnlangi
@@ -411,14 +385,12 @@ sagði	sfg3eþ	segja
 að	aþ	að
 lokum	nhfþ	lok
 .	.	.
-
 Ásett	lhensf	ásettur
 verð	nhen	verð
 er	sfg3en	vera
 55	ta	55
 millj.	as	millj.
 kr.	as	kr.
-
 Reykjavík	nven-s	Reykjavík
 -	-	-
 Hjá	aþ	hjá
@@ -442,7 +414,6 @@ kjallara	nkeþ	kjallari
 miðbæ	nkeþ	miðbær
 Reykjavíkur	nvee-s	Reykjavík
 .	.	.
-
 Húsið	nheng	hús
 sem	ct	sem
 er	sfg3en	vera
@@ -466,7 +437,6 @@ eldhús	nheo	eldhús
 á	aþ	á
 miðhæðinni	nveþg	miðhæð
 .	.	.
-
 Á	aþ	á
 efri	lveþvm	efri
 hæð	nveþ	hæð
@@ -476,14 +446,12 @@ herbergi	nhfn	herbergi
 og	c	og
 baðherbergi	nhen	baðherbergi
 .	.	.
-
 Í	aþ	í
 kjallara	nkeþ	kjallari
 eru	sfg3fn	vera
 þrjár	tfvfn	þrír
 geymslur	nvfn	geymsla
 .	.	.
-
 Komið	sþghen	koma
 er	sfg3en	vera
 inn	aa	inn
@@ -497,7 +465,6 @@ er	sfg3en	vera
 lítil	lvensf	lítill
 snyrting	nven	snyrting
 .	.	.
-
 Þá	aa	þá
 eru	sfg3fn	vera
 tvær	tfvfn	tveir
@@ -505,7 +472,6 @@ samliggjandi	lvfnof	samliggjandi
 korklagðar	lvfnsf	korklagður
 stofur	nvfn	stofa
 .	.	.
-
 Eldhús	nhen	eldhús
 er	sfg3en	vera
 með	aþ	með
@@ -515,7 +481,6 @@ og	c	og
 er	sfg3en	vera
 rúmgott	lhensf	rúmgóður
 .	.	.
-
 Á	aþ	á
 efri	lveþvm	efri
 hæð	nveþ	hæð
@@ -527,7 +492,6 @@ og	c	og
 flísalagt	lhensf	flísalagður
 baðherbergi	nhen	baðherbergi
 .	.	.
-
 Í	aþ	í
 kjallara	nkeþ	kjallari
 eru	sfg3fn	vera
@@ -537,7 +501,6 @@ geymslur	nvfn	geymsla
 og	c	og
 sturtuherbergi	nhen	sturtuherbergi
 .	.	.
-
 Reykjavík	nven-s	Reykjavík
 -	-	-
 Húseignir	nvfn	húseign
@@ -555,7 +518,6 @@ hjá	aþ	hjá
 fasteignasölunni	nveþg	fasteignasala
 Lundi	nkeþ-s	Lundur
 .	.	.
-
 Þessi	faken	þessi
 reitur	nken	reitur
 er	sfg3en	vera
@@ -584,7 +546,6 @@ Gunnarsson	nken-s	Gunnarsson
 hjá	aþ	hjá
 Lundi	nkeþ-s	Lundur
 .	.	.
-
 Skipulag	nhen	skipulag
 og	c	og
 nýting	nven	nýting
@@ -602,7 +563,6 @@ er	sfg3en	vera
 grunnflötur	nken	grunnflötur
 400	ta	400
 ferm.	as	ferm.
-
 Í	aþ	í
 kjallara	nkeþ	kjallari
 hefur	sfg3en	hafa
@@ -612,7 +572,6 @@ samsetningaraðstaða	nven	samsetningaraðstaða
 ásamt	aþ	ásamt
 lager	nkeþ	lager
 .	.	.
-
 Á	aþ	á
 jarðhæð	nveþ	jarðhæð
 eru	sfg3fn	vera
@@ -622,7 +581,6 @@ með	aþ	með
 góðum	lkfþsf	góður
 gluggum	nkfþ	gluggi
 .	.	.
-
 Á	aþ	á
 2.	ta	2.
 hæð	nveþ	hæð
@@ -637,7 +595,6 @@ herbergja	nhfe	herbergi
 og	c	og
 samkomusalur	nken	samkomusalur
 .	.	.
-
 Á	aþ	á
 3.	ta	3.
 hæð	nveþ	hæð
@@ -650,7 +607,6 @@ minni	lveþvm	lítill
 og	c	og
 skrifstofurými	nheþ	skrifstofurými
 .	.	.
-
 Á	aþ	á
 4.	ta	4.
 hæð	nveþ	hæð
@@ -665,14 +621,12 @@ geymslur	nvfn	geymsla
 og	c	og
 skrifstofurými	nhen	skrifstofurými
 .	.	.
-
 Bakhúsið	nheng	bakhús
 hefur	sfg3en	hafa
 hýst	ssm	hýsa
 framleiðslu	nveo	framleiðsla
 Stálhúsgagna	nhfe-s	Stálhúsgögn
 .	.	.
-
 Húsið	nheng	hús
 er	sfg3en	vera
 450	ta	450
@@ -687,7 +641,6 @@ viðbyggingu	nveþ	viðbygging
 samtals	aa	samtals
 588	ta	588
 ferm.	as	ferm.
-
 Möguleikar	nkfn	möguleiki
 á	aþ	á
 hagnýtingu	nveþ	hagnýting
@@ -700,7 +653,6 @@ segir	sfg3en	segja
 Karl	nken-s	Karl
 Gunnarsson	nken-s	Gunnarsson
 .	.	.
-
 Fyrir	aa	fyrir
 liggur	sfg3en	liggja
 jákvæð	lvensf	jákvæður
@@ -714,7 +666,6 @@ aðalbyggingu	nveþ	aðalbygging
 í	ao	í
 íbúðir	nvfo	íbúð
 .	.	.
-
 Núverandi	lvfnof	núverandi
 byggingar	nvfn	bygging
 eru	sfg3fn	vera
@@ -738,7 +689,6 @@ má	sfg3en	mega
 samtals	aa	samtals
 2.733	ta	2.733
 ferm.	as	ferm.
-
 Verði	svg3en	verða
 bakhús	nhen	bakhús
 fjarlægt	sþghen	fjarlægja
@@ -755,13 +705,11 @@ aukningin	nveng	aukning
 um	aa	um
 720	ta	720
 ferm.	as	ferm.
-
 Óskað	sþghen	óska
 er	sfg3en	vera
 eftir	aþ	eftir
 tilboðum	nhfþ	tilboð
 .	.	.
-
 Hús	nhen	hús
 með	ao	með
 sögu	nveo	saga
@@ -780,7 +728,6 @@ hluta	nkeþ	hluti
 síðustu	lveeve	síðari
 aldar	nvee	öld
 .	.	.
-
 Árið	nheog	ár
 1941	ta	1941
 byggði	sfg3eþ	byggja
@@ -801,7 +748,6 @@ við	ao	við
 Skúlagötu	nveo-s	Skúlagata
 61	ta	61
 .	.	.
-
 Hús	nhen	hús
 þetta	fahen	þessi
 var	sfg3eþ	vera
@@ -815,7 +761,6 @@ allar	fovfo	allur
 götur	nvfo	gata
 síðan	aa	síðan
 .	.	.
-
 Árið	nheog	ár
 1946	ta	1946
 var	sfg3eþ	vera
@@ -831,7 +776,6 @@ og	c	og
 á	aþ	á
 framlóðinni	nveþg	framlóð
 .	.	.
-
 Upphaflega	aa	upphaflega
 var	sfg3eþ	vera
 þessi	faven	þessi
@@ -853,7 +797,6 @@ og	c	og
 tveimur	tfvfþ	tveir
 efri	lvfþvm	efri
 .	.	.
-
 Sama	fbheo	sami
 ár	nheo	ár
 var	sfg3eþ	vera
@@ -869,7 +812,6 @@ var	sfg3eþ	vera
 orðið	sþghen	verða
 588	ta	588
 ferm.	as	ferm.
-
 Tuttugu	tfhfþ	tuttugu
 árum	nhfþ	ár
 síðar	aam	síðar
@@ -905,7 +847,6 @@ hæðum	nvfþ	hæð
 auk	ae	auk
 kjallara	nkee	kjallari
 .	.	.
-
 Verzlunarrými	nhen	verzlunarrými
 á	aþ	á
 jarðhæð	nveþ	jarðhæð
@@ -921,7 +862,6 @@ sem	ct	sem
 íbúðum	nvfþ	íbúð
 fjölgaði	sfg3eþ	fjölga
 .	.	.
-
 Hjá	aþ	hjá
 Landsbankanum	nkeþgs	Landsbanki
 stendur	sfg3en	standa
@@ -946,7 +886,6 @@ er	sfg3en	vera
 hverju	foheþ	hver
 sinni	nheþ	sinn
 .	.	.
-
 Nú	aa	nú
 er	sfg3en	vera
 sá	faken	sá
@@ -991,7 +930,6 @@ byggja	sng	byggja
 þessu	faheþ	þessi
 ári	nheþ	ár
 .	.	.
-
 Ólíkar	lvfnsf	ólíkur
 framkvæmdir	nvfn	framkvæmd
 kalla	sfg3fn	kalla
@@ -999,7 +937,6 @@ kalla	sfg3fn	kalla
 mismunandi	lveoof	mismunandi
 fjármögnun	nveo	fjármögnun
 .	.	.
-
 Hér	aa	hér
 verða	sfg3fn	verða
 nefnd	sþghfn	nefna
@@ -1019,7 +956,6 @@ af	aþ	af
 einhverju	foheþ	einhver
 tagi	nheþ	tag
 .	.	.
-
 Sumarhúsalán	nhfn	sumarhúsalán
 Lánað	sþghen	lána
 er	sfg3en	vera
@@ -1046,7 +982,6 @@ sé	svg3en	vera
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 Lánin	nhfng	lán
 eru	sfg3fn	vera
 verðtryggð	lhfnsf	verðtryggður
@@ -1060,7 +995,6 @@ ráðast	sfm3fn	ráða
 af	aþ	af
 veðsetningarhlutfalli	nheþ	veðsetningarhlutfall
 .	.	.
-
 Nokkur	fohfn	nokkur
 atriði	nhfn	atriði
 varðandi	slg	varða
@@ -1071,7 +1005,6 @@ veðréttur	nken	veðréttur
 er	sfg3en	vera
 skilyrði	nhen	skilyrði
 .	.	.
-
 Vextir	nkfn	vöxtur
 ráðast	sfm3fn	ráða
 af	aþ	af
@@ -1083,7 +1016,6 @@ vextir	nkfn	vöxtur
 aðeins	aa	aðeins
 4,9%	tp	4,9%
 .	.	.
-
 Lánað	sþghen	lána
 er	sfg3en	vera
 allt	fohen	allur
@@ -1099,7 +1031,6 @@ hærra	lhenvm	hár
 en	c	en
 brunabótamat	nhen	brunabótamat
 .	.	.
-
 Lánstími	nken	lánstími
 er	sfg3en	vera
 5-15	ta	5-15
@@ -1109,7 +1040,6 @@ lágmarkslán	nhen	lágmarkslán
 kr.	as	kr.
 1,0	ta	1,0
 millj.	as	millj.
-
 Lánað	sþghen	lána
 er	sfg3en	vera
 bæði	c	bæði
@@ -1126,7 +1056,6 @@ afslátt	nkeo	afsláttur
 af	aþ	af
 lántökugjöldum	nhfþ	lántökugjald
 .	.	.
-
 Lánin	nhfng	lán
 greiðast	sfm3fn	greiða
 með	aþ	með
@@ -1140,7 +1069,6 @@ lækkandi	slg	lækka
 á	aþ	á
 lánstímanum	nkeþg	lánstími
 .	.	.
-
 Heimilt	lhensf	heimill
 er	sfg3en	vera
 að	cn	að
@@ -1160,7 +1088,6 @@ lánstímanum	nkeþg	lánstími
 án	ae	án
 þóknunar	nvee	þóknun
 .	.	.
-
 Lagfæringar	nvfn	lagfæring
 og	c	og
 endurbætur	nvfn	endurbót
@@ -1184,7 +1111,6 @@ framkvæmda	nvfe	framkvæmd
 á	aþ	á
 fasteignum	nvfþ	fasteignir
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 áhersla	nven	áhersla
@@ -1195,7 +1121,6 @@ kjör	nhfo	kjör
 og	c	og
 sveigjanleika	nkeo	sveigjanleiki
 .	.	.
-
 Sem	c	sem
 dæmi	nheo	dæmi
 um	ao	um
@@ -1209,13 +1134,11 @@ er	sfg3en	vera
 ekki	aa	ekki
 skilyrði	nhen	skilyrði
 .	.	.
-
 Lánstími	nken	lánstími
 er	sfg3en	vera
 7-40	ta	7-40
 ár	nhfn	ár
 .	.	.
-
 Lánað	sþghen	lána
 er	sfg3en	vera
 allt	fohen	allur
@@ -1235,7 +1158,6 @@ nemur	sfg3en	nema
 brunabótamati	nheþ	brunabótamat
 hennar	fpvee	hún
 .	.	.
-
 Mögulegt	lhensf	mögulegur
 er	sfg3en	vera
 að	cn	að
@@ -1251,7 +1173,6 @@ greiða	sng	greiða
 aðeins	aa	aðeins
 vexti	nkfo	vöxtur
 .	.	.
-
 Einnig	aa	einnig
 að	cn	að
 fresta	sng	fresta
@@ -1271,7 +1192,6 @@ fyrstu	lhfove	fyrstur
 tvö	tfhfo	tveir
 árin	nhfog	ár
 .	.	.
-
 Vextir	nkfn	vöxtur
 eru	sfg3fn	vera
 frá	aþ	frá
@@ -1281,7 +1201,6 @@ ráðast	sfm3fn	ráða
 af	aþ	af
 veðsetningarhlutfalli	nheþ	veðsetningarhlutfall
 .	.	.
-
 Vextir	nkfn	vöxtur
 eru	sfg3fn	vera
 breytanlegir	lkfnsf	breytanlegur
@@ -1290,7 +1209,6 @@ sjö	tfhfe	sjö
 ára	nhfe	ár
 fresti	nkeþ	frestur
 .	.	.
-
 Sveigjanleiki	nken	sveigjanleiki
 endurgreiðslu	nvee	endurgreiðsla
 er	sfg3en	vera
@@ -1320,7 +1238,6 @@ en	c	en
 vextir	nkfn	vöxtur
 greiddir	sþgkfn	greiða
 .	.	.
-
 Að	aþ	að
 sjálfsögðu	lheþsf	sjálfsagður
 geta	sfg3fn	geta
@@ -1349,7 +1266,6 @@ um	ao	um
 þau	fphfo	það
 gilda	sfg3fn	gilda
 .	.	.
-
 Nýbyggingalán	nhfn	nýbyggingalán
 Landsbankinn	nkengs	Landsbanki
 hefur	sfg3en	hafa
@@ -1364,7 +1280,6 @@ stærðum	nvfþ	stærð
 og	c	og
 gerðum	nvfþ	gerð
 .	.	.
-
 Fyrir	ao	fyrir
 fólk	nheo	fólk
 sem	ct	sem
@@ -1393,7 +1308,6 @@ sem	c	sem
 hagkvæmastri	lveþse	hagkvæmur
 fjármögnun	nveþ	fjármögnun
 .	.	.
-
 Helstu	lhfnve	heldri
 einkenni	nhfn	einkenni
 byggingalána	nhfe	byggingalán
@@ -1409,7 +1323,6 @@ reikningslán	nhfo	reikningslán
 algerum	lhfþsf	alger
 sérkjörum	nhfþ	sérkjör
 .	.	.
-
 Lánin	nhfng	lán
 eru	sfg3fn	vera
 hugsuð	sþghfn	hugsa
@@ -1419,7 +1332,6 @@ og	c	og
 smærri	lkfovm	smár
 verktaka	nkfo	verktaki
 .	.	.
-
 Lánað	sþghen	lána
 er	sfg3en	vera
 fyrir	aþ	fyrir
@@ -1440,7 +1352,6 @@ sem	c	sem
 á	sfg3en	eiga
 við	aa	við
 .	.	.
-
 Lánið	nheng	lán
 er	sfg3en	vera
 veitt	sþghen	veita
@@ -1459,14 +1370,12 @@ fasteign	nven	fasteign
 er	sfg3en	vera
 veðhæf	lvensf	veðhæfur
 .	.	.
-
 Lánað	sþghen	lána
 er	sfg3en	vera
 eftir	aþ	eftir
 framvindu	nveþ	framvinda
 verksins	nheeg	verk
 .	.	.
-
 Þegar	c	þegar
 ákveðnu	lheþsf	ákveðinn
 byggingastigi	nheþ	byggingastig
@@ -1489,7 +1398,6 @@ greiða	sng	greiða
 niður	aa	niður
 reikningslánið	nheog	reikningslán
 .	.	.
-
 Fylgigögn	nhfn	fylgigögn
 umsóknar	nvee	umsókn
 Kostnaðaráætlun	nven	kostnaðaráætlun
@@ -1527,7 +1435,6 @@ eftir	aa	eftir
 hverju	foheþ	hver
 sinni	nheþ	sinn
 .	.	.
-
 Þessi	faven	þessi
 upptalning	nven	upptalning
 er	sfg3en	vera
@@ -1573,7 +1480,6 @@ s.	as	s.
 410	ta	410
 4000	ta	4000
 .	.	.
-
 Eins	aa	eins
 eru	sfg3fn	vera
 gagnlegar	lvfnsf	gagnlegur
@@ -1584,7 +1490,6 @@ bankans	nkeeg	banki
 ,	,	,
 www.landsbanki.is	v	www.landsbanki.is
 .	.	.
-
 Eignavaktarinn	nkeng	eignavaktari
 hjá	aþ	hjá
 habil.is	v	habil.is
@@ -1603,7 +1508,6 @@ hafa	sfg3fn	hafa
 til	ae	til
 fasteignaleitar	nvee	fasteignaleit
 .	.	.
-
 Með	aþ	með
 því	fpheþ	það
 að	cn	að
@@ -1633,7 +1537,6 @@ viðkomandi	lkenof	viðkomandi
 hefur	sfg3en	hafa
 sett	ssg	setja
 .	.	.
-
 Notandinn	nkeng	notandi
 fær	sfg3en	fá
 sendan	sþgkeo	senda
@@ -1651,7 +1554,6 @@ bætist	sfm3en	bæta
 í	ao	í
 gagnagrunninn	nkeog	gagnagrunnur
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 lögum	nhfþ	lag
 um	ao	um
@@ -1695,7 +1597,6 @@ og	c	og
 ákvarðanir	nvfo	ákvörðun
 húsfunda	nkfe	húsfundur
 .	.	.
-
 Ein	tfven	einn
 af	aþ	af
 meginskyldum	nvfþ	meginskylda
@@ -1725,7 +1626,6 @@ efnahags-	nveo	efnahagsstaða
 og	c	og
 fjárhagsstöðu	nveo	fjárhagsstaða
 .	.	.
-
 Í	aþ	í
 því	fpheþ	það
 felst	sfm3en	fela
@@ -1750,7 +1650,6 @@ og	c	og
 bókhaldi	nheþ	bókhald
 félagsins	nheeg	félag
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 lögunum	nhfþg	lag
 skulu	sfg3fn	skulu
@@ -1774,7 +1673,6 @@ að	aþ	að
 viðstöddum	lkeþsf	viðstaddur
 stjórnarmanni	nkeþ	stjórnarmaður
 .	.	.
-
 Regla	nven	regla
 þessi	faven	þessi
 á	sfg3en	eiga
@@ -1809,7 +1707,6 @@ o.fl.	as	o.fl.
 þá	faveo	sá
 veru	nveo	vera
 .	.	.
-
 Reglan	nveng	regla
 er	sfg3en	vera
 sett	sþgven	setja
@@ -1827,7 +1724,6 @@ skapist	svm3en	skapa
 í	aþ	í
 bókhaldi	nheþ	bókhald
 .	.	.
-
 Mjög	aa	mjög
 mikilvægt	lhensf	mikilvægur
 er	sfg3en	vera
@@ -1864,7 +1760,6 @@ eigenda	nkfe	eigandi
 garð	nkeo	garður
 hússtjórna	nvfe	hússtjórn
 .	.	.
-
 Deilt	sþghen	deila
 um	ao	um
 heimild	nveo	heimild
@@ -1898,7 +1793,6 @@ aftur	aa	aftur
 í	ao	í
 tímann	nkeog	tími
 .	.	.
-
 Hússtjórn	nven	hússtjórn
 taldi	sfg3eþ	telja
 afhendingu	nveo	afhending
@@ -1926,7 +1820,6 @@ hafa	sng	hafa
 bókhaldi	nheþ	bókhald
 félagsins	nheeg	félag
 .	.	.
-
 Yfirlit	nhfn	yfirlit
 þessi	fahfn	þessi
 voru	sfg3fþ	vera
@@ -1946,7 +1839,6 @@ inn	aa	inn
 á	ao	á
 þau	fphfo	það
 .	.	.
-
 Þannig	aa	þannig
 taldi	sfg3eþ	telja
 hússtjórn	nven	hússtjórn
@@ -1961,7 +1853,6 @@ gögn	nhfo	gagn
 í	ao	í
 hendur	nvfo	hönd
 .	.	.
-
 Álitsbeiðandi	nken	álitsbeiðandi
 var	sfg3eþ	vera
 því	fpheþ	það
@@ -1995,7 +1886,6 @@ af	aþ	af
 stjórn	nveþ	stjórn
 félagsins	nheeg	félag
 .	.	.
-
 Stjórnin	nveng	stjórn
 taldi	sfg3eþ	telja
 beinlínis	aa	beinlínis
@@ -2019,7 +1909,6 @@ upplýsingar	nvfn	upplýsing
 úr	aþ	úr
 bönkum	nkfþ	banki
 .	.	.
-
 Í	aþ	í
 niðurstöðu	nveþ	niðurstaða
 kærunefndar	nvee	kærunefnd
@@ -2043,7 +1932,6 @@ og	c	og
 ábatasaman	lkeosf	ábatasamur
 hátt	nkeo	háttur
 .	.	.
-
 Þá	aa	þá
 kemur	sfg3en	koma
 fram	aa	fram
@@ -2070,7 +1958,6 @@ færslur	nvfo	færsla
 umræddum	lkfþsf	umræddur
 bankareikningum	nkfþ	bankareikningur
 .	.	.
-
 Nefndin	nveng	nefnd
 taldi	sfg3eþ	telja
 ákvæði	nhfo	ákvæði
@@ -2100,7 +1987,6 @@ gögnum	nhfþ	gagn
 frá	aþ	frá
 banka	nkeþ	banki
 .	.	.
-
 Þá	aa	þá
 taldi	sfg3eþ	telja
 nefndin	nveng	nefnd
@@ -2122,7 +2008,6 @@ skýran	lkeosf	skýr
 og	c	og
 skýlausan	lkeosf	skýlaus
 .	.	.
-
 Álit	nhen	álit
 þetta	fahen	þessi
 festir	sfg3en	festa
@@ -2172,7 +2057,6 @@ skilningi	nkeþ	skilningur
 þeirra	fahfe	sá
 orða	nhfe	orð
 .	.	.
-
 Mosfellsbær	nken-s	Mosfellsbær
 -	-	-
 Hjá	aþ	hjá
@@ -2196,7 +2080,6 @@ Arkarholt	nheo-s	Arkarholt
 í	aþ	í
 Mosfellsbæ	nkeþ-s	Mosfellsbær
 .	.	.
-
 Húsið	nheng	hús
 er	sfg3en	vera
 á	aþ	á
@@ -2212,7 +2095,6 @@ aukaíbúð	nveo	aukaíbúð
 neðri	lveþvm	neðri
 hæð	nveþ	hæð
 .	.	.
-
 Húsið	nheng	hús
 er	sfg3en	vera
 staðsteypt	lhensf	staðsteyptur
@@ -2228,7 +2110,6 @@ bárujárni	nheþ	bárujárn
 á	aþ	á
 þaki	nheþ	þak
 .	.	.
-
 Komið	sþghen	koma
 er	sfg3en	vera
 inn	aa	inn
@@ -2253,7 +2134,6 @@ flísum	nvfþ	flís
 á	aþ	á
 gólfi	nheþ	gólf
 .	.	.
-
 Úr	aþ	úr
 forstofu	nveþ	forstofa
 er	sfg3en	vera
@@ -2266,7 +2146,6 @@ flísum	nvfþ	flís
 á	aþ	á
 gólfi	nheþ	gólf
 .	.	.
-
 Þar	aa	þar
 á	ao	á
 vinstri	lveovf	vinstri
@@ -2279,7 +2158,6 @@ eikarparketi	nheþ	eikarparket
 á	aþ	á
 gólfi	nheþ	gólf
 .	.	.
-
 Úr	aþ	úr
 stofu	nveþ	stofa
 og	c	og
@@ -2303,14 +2181,12 @@ er	sfg3en	vera
 ágæt	lvensf	ágætur
 eikarinnrétting	nven	eikarinnrétting
 .	.	.
-
 Inn	aa	inn
 af	aþ	af
 eldhúsi	nheþ	eldhús
 er	sfg3en	vera
 borðstofa	nven	borðstofa
 .	.	.
-
 Á	ao	á
 hægri	lveovf	hægri
 hönd	nveo	hönd
@@ -2323,7 +2199,6 @@ flísum	nvfþ	flís
 á	aþ	á
 gólfi	nheþ	gólf
 .	.	.
-
 Þar	aa	þar
 á	ao	á
 vinstri	lveovf	vinstri
@@ -2340,7 +2215,6 @@ hlið	nveo	hlið
 er	sfg3en	vera
 fataherbergi	nhen	fataherbergi
 .	.	.
-
 Innst	aae	innar
 á	aþ	á
 gangi	nkeþ	gangur
@@ -2351,7 +2225,6 @@ eikarparketi	nheþ	eikarparket
 á	aþ	á
 gólfi	nheþ	gólf
 .	.	.
-
 Við	ao	við
 hlið	nveo	hlið
 hjónaherbergis	nhee	hjónaherbergi
@@ -2374,7 +2247,6 @@ eikarparketi	nheþ	eikarparket
 á	aþ	á
 gólfi	nheþ	gólf
 .	.	.
-
 Á	aa	á
 móti	aþ	móti
 baðherbergi	nheþ	baðherbergi
@@ -2386,7 +2258,6 @@ niður	aa	niður
 í	ao	í
 kjallara	nkeo	kjallari
 .	.	.
-
 Þar	aa	þar
 er	sfg3en	vera
 komið	sþghen	koma
@@ -2403,7 +2274,6 @@ gólfi	nheþ	gólf
 og	c	og
 kamínu	nveþ	kamína
 .	.	.
-
 Inn	aa	inn
 af	aþ	af
 þessu	faheþ	þessi
@@ -2417,7 +2287,6 @@ dúk	nkeþ	dúkur
 á	aþ	á
 gólfi	nheþ	gólf
 .	.	.
-
 Úr	aþ	úr
 fjölskylduherbergi	nheþ	fjölskylduherbergi
 er	sfg3en	vera
@@ -2430,7 +2299,6 @@ dúk	nkeþ	dúkur
 á	aþ	á
 gólfi	nheþ	gólf
 .	.	.
-
 Á	ao	á
 vinstri	lveovf	vinstri
 hönd	nveo	hönd
@@ -2444,7 +2312,6 @@ baðkari	nheþ	baðkar
 með	aþ	með
 sturtuaðstöðu	nveþ	sturtuaðstaða
 .	.	.
-
 Þar	aa	þar
 við	ao	við
 hlið	nveo	hlið
@@ -2466,7 +2333,6 @@ er	sfg3en	vera
 panelklætt	lhensf	panelklæddur
 gufubað	nhen	gufubað
 .	.	.
-
 Úr	aþ	úr
 holi	nheþ	hol
 er	sfg3en	vera
@@ -2486,7 +2352,6 @@ timburverönd	nveo	timburverönd
 í	ao	í
 norðaustur	nheo	norðaustur
 .	.	.
-
 Inn	aa	inn
 af	aþ	af
 forstofu	nveþ	forstofa
@@ -2495,7 +2360,6 @@ mjög	aa	mjög
 stórt	lhensf	stór
 þvottahús	nhen	þvottahús
 .	.	.
-
 Við	ao	við
 hlið	nveo	hlið
 íbúðarhúss	nhee	íbúðarhús
@@ -2508,7 +2372,6 @@ með	aþ	með
 góðri	lveþsf	góður
 lofthæð	nveþ	lofthæð
 .	.	.
-
 Fyrir	ao	fyrir
 framan	aa	framan
 húsið	nheog	hús
@@ -2529,7 +2392,6 @@ af	aþ	af
 Stanislas	e	Stanislas
 landslagsarkitekt	nkeþ	landslagsarkitekt
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 fallegt	lhensf	fallegur
@@ -2550,14 +2412,12 @@ hjá	aþ	hjá
 Fasteignasölu	nveþ-s	Fasteignasala
 Mosfellsbæjar	nkee-s	Mosfellsbær
 .	.	.
-
 Ásett	lhensf	ásettur
 verð	nhen	verð
 er	sfg3en	vera
 41,5	ta	41,5
 millj.	as	millj.
 kr.	as	kr.
-
 Á	aþ	á
 Egilsstöðum	nkfþ-s	Egilsstaðir
 og	c	og
@@ -2572,7 +2432,6 @@ liðlega	aa	liðlega
 260	ta	260
 íbúðir	nvfo	íbúð
 .	.	.
-
 Eru	sfg3fn	vera
 framkvæmdir	nvfn	framkvæmd
 við	ao	við
@@ -2612,7 +2471,6 @@ einkum	aa	einkum
 á	aþ	á
 Egilsstöðum	nkfþ-s	Egilsstaðir
 .	.	.
-
 Í	aþ	í
 Fjarðabyggð	nveþ-s	Fjarðabyggð
 hafa	sfg3fn	hafa
@@ -2624,7 +2482,6 @@ fyrir	ao	fyrir
 400	ta	400
 íbúðir	nvfo	íbúð
 .	.	.
-
 Framkvæmdir	nvfn	framkvæmd
 eru	sfg3fn	vera
 hafnar	sþgvfn	hefja
@@ -2643,7 +2500,6 @@ og	c	og
 á	aþ	á
 Eskifirði	nkeþ-s	Eskifjörður
 .	.	.
-
 Á	aþ	á
 Fljótsdalshéraði	nheþ-s	Fljótsdalshérað
 hefur	sfg3en	hafa
@@ -2661,7 +2517,6 @@ um	aa	um
 180	ta	180
 íbúðir	nvfo	íbúð
 .	.	.
-
 76	ta	76
 af	aþ	af
 165	ta	165
@@ -2678,7 +2533,6 @@ fjölbýlishúsum	nhfþ	fjölbýlishús
 á	aþ	á
 Egilsstöðum	nkfþ-s	Egilsstaðir
 .	.	.
-
 Þau	fphfn	það
 eru	sfg3fn	vera
 enn	aa	enn
@@ -2700,7 +2554,6 @@ fram	aa	fram
 háa	lveosf	hár
 elli	nveo	elli
 .	.	.
-
 Búin	lhfnsf	búinn
 að	cn	að
 lifa	sng	lifa
@@ -2722,7 +2575,6 @@ og	c	og
 sínum	fehfþ	sinn
 farborða	nkeo	farborði
 .	.	.
-
 Aldrei	aa	aldrei
 fengu	sfg3fþ	fá
 þau	fphfn	það
@@ -2749,7 +2601,6 @@ hér	aa	hér
 þeirra	fphfe	það
 bernsku	nveþ	bernska
 .	.	.
-
 En	c	en
 samkvæmt	aþ	samkvæmt
 öllum	fovfþ	allur
@@ -2786,7 +2637,6 @@ lendum	nvfþ	lenda
 sunnan	ae	sunnan
 heiða	nvfe	heiði
 .	.	.
-
 Samt	aa	samt
 ganga	sfg3fn	ganga
 þau	fphfn	það
@@ -2830,7 +2680,6 @@ til	ae	til
 að	cn	að
 lifa	sng	lifa
 .	.	.
-
 Já	au	já
 ,	,	,
 það	fphen	það
@@ -2882,7 +2731,6 @@ var	sfg3eþ	vera
 öll	fohfo	allur
 mál	nhfo	mál
 .	.	.
-
 Á	aþ	á
 engjum	nhfþ	engi
 á	aþ	á
@@ -2916,7 +2764,6 @@ slöfruð	sþghfn	slafra
 af	aþ	af
 áfergju	nveþ	áfergja
 .	.	.
-
 Og	c	og
 hvaða	fskfn	hvaða
 möguleikar	nkfn	möguleiki
@@ -2924,7 +2771,6 @@ voru	sfg3fþ	vera
 til	ae	til
 hreinlætis	nhee	hreinlæti
 ?	?	?
-
 Engin	fohfn	enginn
 voru	sfg3fþ	vera
 til	aa	til
@@ -2942,7 +2788,6 @@ palli	nkeþ	pallur
 yfir	aþ	yfir
 hlandforinni	nveþg	hlandfor
 .	.	.
-
 Ekkert	fohen	enginn
 var	sfg3eþ	vera
 baðkerið	nheng	baðker
@@ -2981,7 +2826,6 @@ og	c	og
 rindilslega	lkfosf	rindilslegur
 karla	nkfo	karl
 .	.	.
-
 Ung	lvensf	ungur
 kona	nven	kona
 skrifaði	sfg3eþ	skrifa
@@ -2996,7 +2840,6 @@ blað	nheo	blað
 allra	fokfe	allur
 landsmanna	nkfe	landsmaður
 .	.	.
-
 Ekki	aa	ekki
 var	sfg3eþ	vera
 það	fphen	það
@@ -3019,7 +2862,6 @@ trilla	sng	trilla
 niður	ao	niður
 kinnar	nvfo	kinn
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 ekki	aa	ekki
@@ -3045,7 +2887,6 @@ líka	aa	líka
 miklu	lveþvf	mikill
 geðshræringu	nveþ	geðshræring
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 sá	faken	sá
@@ -3073,7 +2914,6 @@ að	cn	að
 éta	sng	éta
 hrossakjöt	nheo	hrossakjöt
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 sannarlega	aa	sannarlega
@@ -3105,7 +2945,6 @@ svo	aa	svo
 yndislega	aa	yndislega
 falleg	lhfnsf	fallegur
 .	.	.
-
 Satt	lhensf	sannur
 er	sfg3en	vera
 það	fphen	það
@@ -3128,7 +2967,6 @@ ekki	aa	ekki
 undan	aa	undan
 skilinn	sþgken	skilja
 .	.	.
-
 En	c	en
 hvað	fsheo	hver
 skyldi	svg3eþ	skulu
@@ -3155,7 +2993,6 @@ að	c	að
 einhver	foken	einhver
 éti	svg3en	éta
 .	.	.
-
 Hinsvegar	aa	hinsvegar
 er	sfg3en	vera
 æði	nheþ	æði
@@ -3175,7 +3012,6 @@ að	c	að
 dýrin	nhfng	dýr
 borði	svg3fn	borða
 .	.	.
-
 Það	fphen	það
 væri	svg3eþ	vera
 sannarlega	aa	sannarlega
@@ -3201,7 +3037,6 @@ og	c	og
 disk	nkeo	diskur
 líka	aa	líka
 .	.	.
-
 En	c	en
 þetta	fahen	þessi
 var	sfg3eþ	vera
@@ -3243,7 +3078,6 @@ munns	nkee	munnur
 fallegu	lhfovf	fallegur
 folöldin	nhfog	folald
 .	.	.
-
 Lambakjöt	nhen	lambakjöt
 kemur	sfg3en	koma
 tæplega	aa	tæplega
@@ -3264,7 +3098,6 @@ renna	sfg3fn	renna
 af	aþ	af
 fjalli	nheþ	fjall
 ?	?	?
-
 Grísinn	nkeng	grís
 er	sfg3en	vera
 í	aþ	í
@@ -3288,7 +3121,6 @@ nei	au	nei
 ekki	aa	ekki
 nautakjöt	nhen	nautakjöt
 .	.	.
-
 En	c	en
 það	fphen	það
 er	sfg3en	vera
@@ -3307,7 +3139,6 @@ drepa	sng	drepa
 falleg	lhfosf	fallegur
 dýr	nhfo	dýr
 .	.	.
-
 Hamborgari	nken	hamborgari
 með	aþ	með
 öllu	foheþ	allur
@@ -3329,7 +3160,6 @@ fitu	nveþ	fita
 skítugri	lveþsf	skítugur
 pönnu	nveþ	panna
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 það	fphen	það
@@ -3355,7 +3185,6 @@ hana	fpveo	hún
 er	sfg3en	vera
 raðað	sþghen	raða
 .	.	.
-
 Hvað	fsheo	hver
 gerði	sfg3eþ	gera
 ekki	aa	ekki
@@ -3376,7 +3205,6 @@ af	aþ	af
 hjartans	nheeg	hjarta
 lyst	nveþ	lyst
 .	.	.
-
 Að	aþ	að
 vísu	lheþsf	vís
 fór	sfg3eþ	fara
@@ -3406,7 +3234,6 @@ handlangaði	sfg3eþ	handlanga
 hann	fpkeo	hann
 góðgætið	nheog	góðgæti
 .	.	.
-
 Enn	aa	enn
 ganga	sfg3fn	ganga
 hér	aa	hér
@@ -3440,7 +3267,6 @@ kölluð	sþgven	kalla
 daga	nkfo	dagur
 sláturtíð	nven	sláturtíð
 .	.	.
-
 Þá	aa	þá
 voru	sfg3fþ	vera
 til	ae	til
@@ -3457,7 +3283,6 @@ til	ae	til
 ára	nhfe	ár
 sinna	fehfe	sinn
 .	.	.
-
 Nokkrar	fovfn	nokkur
 gamlar	lvfnsf	gamall
 skjátur	nvfn	skjáta
@@ -3482,7 +3307,6 @@ sauðakjöt	nhen	sauðakjöt
 á	aþ	á
 borðum	nhfþ	borð
 .	.	.
-
 Ekki	aa	ekki
 var	sfg3eþ	vera
 snáði	nken	snáði
@@ -3497,7 +3321,6 @@ embætti	nheo	embætti
 í	aþ	í
 sláturtíðinni	nveþg	sláturtíð
 .	.	.
-
 Trénað	lhensf	trénaður
 ramfang	nhen	ramfang
 var	sfg3eþ	vera
@@ -3507,7 +3330,6 @@ bundið	sþghen	binda
 í	ao	í
 písk	nkeo	pískur
 .	.	.
-
 Þegar	c	þegar
 kindin	nveng	kind
 var	sfg3eþ	vera
@@ -3522,7 +3344,6 @@ strjúpanum	nkeþg	strjúpi
 í	ao	í
 bala	nkeo	bali
 .	.	.
-
 Þá	aa	þá
 var	sfg3eþ	vera
 um	ao	um
@@ -3567,7 +3388,6 @@ upp	aa	upp
 og	c	og
 skafa	sng	skafa
 .	.	.
-
 Síðan	aa	síðan
 var	sfg3eþ	vera
 hátíð	nven	hátíð
@@ -3622,7 +3442,6 @@ súrsa	sng	súrsa
 og	c	og
 reykja	sng	reykja
 .	.	.
-
 Í	ao	í
 þá	fakfo	sá
 daga	nkfo	dagur
@@ -3664,7 +3483,6 @@ sælgæti	nhen	sælgæti
 súrsaðir	lkfnsf	súrsaður
 selshreifar	nkfn	selshreifi
 .	.	.
-
 En	c	en
 nú	aa	nú
 er	sfg3en	vera
@@ -3708,7 +3526,6 @@ næstum	aa	næstum
 því	fpheþ	það
 tugthúsvist	nveo	tugthúsvist
 .	.	.
-
 En	c	en
 þá	aa	þá
 kemur	sfg3en	koma
@@ -3729,7 +3546,6 @@ skinkan	nveng	skinka
 og	c	og
 spægipylsan	nveng	spægipylsa
 ?	?	?
-
 Þvílík	fbven	þvílíkur
 bjánaspurning	nven	bjánaspurning
 ,	,	,
@@ -3740,7 +3556,6 @@ barnið	nheng	barn
 í	aþ	í
 vöggunni	nveþg	vagga
 .	.	.
-
 Þessi	faven	þessi
 munaðarvara	nven	munaðarvara
 kemur	sfg3en	koma
@@ -3750,7 +3565,6 @@ búðinni	nveþg	búð
 að	aþ	að
 sjálfsögðu	lheþsf	sjálfsagður
 .	.	.
-
 Eftir	ao	eftir
 Sigurð	nkeo-s	Sigurður
 Grétar	nkeo-s	Grétar
@@ -3758,7 +3572,6 @@ Guðmundsson	nkeo-s	Guðmundsson
 pípulagningameistara	nkeo	pípulagningameistari
 /	/	/
 sigg@simnet.is	v	sigg@simnet.is
-
 Akurskóli	nken-s	Akurskóli
 er	sfg3en	vera
 samnefnari	nken	samnefnari
@@ -3787,7 +3600,6 @@ inn	aa	inn
 í	ao	í
 hverfið	nheog	hverfi
 .	.	.
-
 Kaffiilminn	nkeog	kaffiilmur
 leggur	sfg3en	leggja
 út	aa	út
@@ -3812,7 +3624,6 @@ með	aþ	með
 menningarlegu	lheþsf	menningarlegur
 ívafi	nheþ	ívaf
 .	.	.
-
 Ekki	aa	ekki
 verður	sfg3en	verða
 litið	sþghen	líta
@@ -3831,14 +3642,12 @@ Coce-sjálfsala	nkeþ-s	Cocesjálfsali
 einu	foheþ	einn
 horninu	nheþg	horn
 .	.	.
-
 Suðurglugginn	nkeng	suðurgluggi
 vekur	sfg3en	vekja
 þó	aa	þó
 mesta	lveose	mikill
 athygli	nveo	athygli
 .	.	.
-
 Halldór	nkeo-s	Halldór
 Gíslason	nkeo-s	Gíslason
 ,	,	,
@@ -3863,7 +3672,6 @@ nemendanna	nkfeg	nemandi
 í	ao	í
 samfélagið	nheog	samfélag
 .	.	.
-
 Halldór	nken-s	Halldór
 útskýrir	sfg3en	útskýra
 að	c	að
@@ -3877,7 +3685,6 @@ sér	fpkeþ	sig
 nokkurn	fokeo	nokkur
 aðdraganda	nkeo	aðdragandi
 .	.	.
-
 Ég	fp1en	ég
 sagði	sfg1eþ	segja
 Hjálmari	nkeþ-s	Hjálmar
@@ -3901,7 +3708,6 @@ nema	c	nema
 væri	svg3eþ	vera
 kaffibar	nken	kaffibar
 .	.	.
-
 Eins	aa	eins
 og	c	og
 gefur	sfg3en	gefa
@@ -3929,7 +3735,6 @@ koma	sng	koma
 fyrir	aa	fyrir
 kaffibar	nkeþ	kaffibar
 .	.	.
-
 Á	aþ	á
 skrifstofunni	nveþg	skrifstofa
 þinni	feveþ	þinn
@@ -3956,7 +3761,6 @@ vegg	nkeo	veggur
 á	aþ	á
 skrifstofunni	nveþg	skrifstofa
 .	.	.
-
 Eftir	ao	eftir
 nokkra	foveo	nokkur
 umhugsun	nveo	umhugsun
@@ -3970,7 +3774,6 @@ varð	sfg3eþ	verða
 að	aþ	að
 veruleika	nkeþ	veruleiki
 .	.	.
-
 Miðað	sþghen	miða
 við	ao	við
 fjölnota	lheoof	fjölnota
@@ -3989,7 +3792,6 @@ nöfnum	nhfþ	nafn
 í	aþ	í
 skólanum	nkeþg	skóli
 .	.	.
-
 Kaffibarinn	nkeng	kaffibar
 er	sfg3en	vera
 náttúrlega	aa	náttúrlega
@@ -4010,7 +3812,6 @@ póstnúmerið	nheog	póstnúmer
 í	aþ	í
 hverfinu	nheþg	hverfi
 .	.	.
-
 Eins	aa	eins
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -4026,7 +3827,6 @@ flygli	nkeþ	flygill
 Jóns	nkee-s	Jón
 Leifs	nkee-s	Leifur
 .	.	.
-
 Að	aþ	að
 öllu	foheþ	allur
 gamni	nheþ	gaman
@@ -4037,7 +3837,6 @@ talað	sþghen	tala
 um	ao	um
 kaffibarinn	nkeog	kaffibar
 .	.	.
-
 Hingað	aa	hingað
 til	aa	til
 hafa	sfg3fn	hafa
@@ -4062,7 +3861,6 @@ horfa	sng	horfa
 á	ao	á
 sjónvarpið	nheog	sjónvarp
 .	.	.
-
 Annað	fohen	annar
 meginhlutverk	nhen	meginhlutverk
 kaffibarsins	nkeeg	kaffibar
@@ -4076,7 +3874,6 @@ sýningarsalur	nken	sýningarsalur
 fyrir	ao	fyrir
 nemendurnar	nkfog	nemönd
 .	.	.
-
 Hér	aa	hér
 sýnum	sfg1fn	sýna
 við	fp1fn	ég
@@ -4098,7 +3895,6 @@ og	c	og
 útskýrir	sfg3en	útskýra
 nánar	aam	náið
 :	:	:
-
 Eftir	ao	eftir
 að	c	að
 verkunum	nhfþg	verk
@@ -4116,7 +3912,6 @@ nemendur	nkfn	nemandi
 gegnum	ao	gegnum
 sýninguna	nveog	sýning
 .	.	.
-
 Markmiðið	nheng	markmið
 er	sfg3en	vera
 að	cn	að
@@ -4128,7 +3923,6 @@ umræðu	nveo	umræða
 um	ao	um
 verkið	nheog	verk
 .	.	.
-
 Eftir	ao	eftir
 gegnumganginn	nkeog	gegnumgangur
 gefa	sfg3fn	gefa
@@ -4146,7 +3940,6 @@ fleiri	lkfovm	margur
 í	ao	í
 hópinn	nkeog	hópur
 .	.	.
-
 Ég	fp1en	ég
 vil	sfg1en	vilja
 að	c	að
@@ -4154,7 +3947,6 @@ kaffibarinn	nkeng	kaffibar
 verði	svg3en	verða
 opnari	lkenvm	opinn
 .	.	.
-
 Hingað	aa	hingað
 komi	svg3en	koma
 fólk	nhen	fólk
@@ -4171,7 +3963,6 @@ með	aa	með
 í	aþ	í
 gegnumganginum	nkeþg	gegnumgangur
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 er	sfg3en	vera
@@ -4183,7 +3974,6 @@ vera	sng	vera
 á	aþ	á
 kaffibarnum	nkeþg	kaffibar
 .	.	.
-
 Halldór	nkeo-s	Halldór
 dreymir	sfg3en	dreyma
 um	ao	um
@@ -4193,14 +3983,12 @@ kaffisjálfsala	nkeo	kaffisjálfsali
 og	c	og
 samlokusölu	nveo	samlokusala
 .	.	.
-
 Kaffibarinn	nkeng	kaffibar
 er	sfg3en	vera
 enn	aa	enn
 í	aþ	í
 þróun	nveþ	þróun
 .	.	.
-
 Við	fp1fn	ég
 erum	sfg1fn	vera
 í	aþ	í
@@ -4218,7 +4006,6 @@ verði	svg3en	verða
 best	aae	vel
 háttað	sþghen	hátta
 .	.	.
-
 Núna	aa	núna
 verður	sfg3en	verða
 fólk	nhen	fólk
@@ -4234,7 +4021,6 @@ gos	nheo	gos
 í	aþ	í
 gossjálfsalanum	nkeþg	gossjálfsali
 .	.	.
-
 Ný	lhfnsf	nýr
 nemendaverk	nhfn	nemendaverk
 verða	sfg3fn	verða
@@ -4245,7 +4031,6 @@ kaffibarnum	nkeþg	kaffibar
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 Að	aþ	að
 því	fpheþ	það
 loknu	lheþsf	lokinn
@@ -4260,7 +4045,6 @@ tónlistaruppákomu	nveo	tónlistaruppákoma
 í	aþ	í
 hádaginu	x	hádegi
 .	.	.
-
 ÉG	fp1en	ég
 HEF	sfg1en	hafa
 alltaf	aa	alltaf
@@ -4273,7 +4057,6 @@ fara	sng	fara
 í	ao	í
 bókabúðir	nvfo	bókabúð
 .	.	.
-
 Eftir	ao	eftir
 tilkomu	nveo	tilkoma
 Netsins	nheegs	Net
@@ -4300,7 +4083,6 @@ ferð	nveo	ferð
 í	ao	í
 bókabúð	nveo	bókabúð
 .	.	.
-
 Aftur	aa	aftur
 á	aa	á
 móti	aa	móti
@@ -4315,7 +4097,6 @@ að	cn	að
 lesa	sng	lesa
 fagurbókmenntir	nvfo	fagurbókmenntir
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 aðallega	aa	aðallega
@@ -4344,7 +4125,6 @@ framkvæmdastjóri	nken	framkvæmdastjóri
 þróunarsviðs	nhee	þróunarsvið
 Eimskips	nhee-s	Eimskip
 .	.	.
-
 Þorkell	nken-s	Þorkell
 segir	sfg3en	segja
 að	c	að
@@ -4362,7 +4142,6 @@ sitt	feheo	sinn
 til	ae	til
 atvinnulífsins	nheeg	atvinnulíf
 .	.	.
-
 Eftir	aa	eftir
 á	aa	á
 að	cn	að
@@ -4389,7 +4168,6 @@ sem	ct	sem
 ungur	lkensf	ungur
 maður	nken	maður
 .	.	.
-
 Bókin	nveng	bók
 heitir	sfg3en	heita
 Trigger	e	Trigger
@@ -4403,7 +4181,6 @@ Michael	e	Michael
 J.	as	J.
 Kami	e	Kami
 .	.	.
-
 Hugmyndum	nvfþ	hugmynd
 Kamis	e	Kamis
 kynntist	sfm1eþ	kynna
@@ -4415,7 +4192,6 @@ um	aa	um
 árum	nhfþ	ár
 síðan	aa	síðan
 .	.	.
-
 Aðdragandinn	nkeng	aðdragandi
 að	aþ	að
 því	fpheþ	það
@@ -4431,7 +4207,6 @@ Eimskips	nhee-s	Eimskip
 árið	nheog	ár
 1979	ta	1979
 .	.	.
-
 Saman	aa	saman
 veltum	sfg1fþ	velta
 við	fp1fn	ég
@@ -4442,7 +4217,6 @@ um	ao	um
 framtíðarþróun	nveo	framtíðarþróun
 fyrirtækisins	nheeg	fyrirtæki
 .	.	.
-
 Úr	aa	úr
 varð	sfg3eþ	verða
 að	c	að
@@ -4462,7 +4236,6 @@ Kanada	nheþ-s	Kanada
 árið	nheog	ár
 1981	ta	1981
 .	.	.
-
 Í	ao	í
 kjölfarið	nheog	kjölfar
 á	aþ	á
@@ -4489,7 +4262,6 @@ Stjórnunarfélagsins	nheegs	Stjórnunarfélag
 sumarið	nheog	sumar
 1986	ta	1986
 .	.	.
-
 Kami	e	Kami
 dró	sfg3eþ	draga
 saman	aa	saman
@@ -4502,7 +4274,6 @@ Points	e	Points
 árið	nheog	ár
 1988	ta	1988
 .	.	.
-
 Þegar	c	þegar
 ég	fp1en	ég
 fletti	sfg1en	fletta
@@ -4534,7 +4305,6 @@ ekki	aa	ekki
 nema	c	nema
 von	nven	von
 .	.	.
-
 Hann	fpken	hann
 spáði	sfg3eþ	spá
 fyrir	aa	fyrir
@@ -4553,7 +4323,6 @@ af	aþ	af
 íslensku	lheþsf	íslenskur
 nútímasamfélagi	nheþ	nútímasamfélag
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 blandast	sfm3en	blanda
@@ -4575,7 +4344,6 @@ hætti	nkeþ	háttur
 sínum	fekeþ	sinn
 tíma	nkeþ	tími
 .	.	.
-
 Ég	fp1en	ég
 fór	sfg1eþ	fara
 að	cn	að
@@ -4597,7 +4365,6 @@ framtíðinni	nveþg	framtíð
 segir	sfg3en	segja
 Þorkell	nken-s	Þorkell
 .	.	.
-
 Eimskip	nhen-s	Eimskip
 fór	sfg3eþ	fara
 að	cn	að
@@ -4611,7 +4378,6 @@ miðjan	lkeosf	miður
 níunda	lkeovf	níundi
 áratuginn	nkeog	áratugur
 .	.	.
-
 Fjárfest	sþghen	fjárfesta
 var	sfg3eþ	vera
 í	aþ	í
@@ -4645,7 +4411,6 @@ dæmi	nhfn	dæmi
 séu	svg3fn	vera
 nefnd	sþghfn	nefna
 .	.	.
-
 Sumt	fohen	sumur
 gekk	sfg3eþ	ganga
 upp	aa	upp
@@ -4656,7 +4421,6 @@ ekki	aa	ekki
 viðurkennir	sfg3en	viðurkenna
 Þorkell	nken-s	Þorkell
 .	.	.
-
 Með	aþ	með
 tímanum	nkeþg	tími
 hefur	sfg3en	hafa
@@ -4697,7 +4461,6 @@ allra	fohfe	allur
 þessara	fahfe	þessi
 fyrirtækja	nhfe	fyrirtæki
 .	.	.
-
 Þorkell	nken-s	Þorkell
 kom	sfg3eþ	koma
 einnig	aa	einnig
@@ -4716,7 +4479,6 @@ tók	sfg3eþ	taka
 mótun	nveþ	mótun
 hlutabréfamarkaðar	nkee	hlutabréfamarkaður
 .	.	.
-
 Með	aþ	með
 því	fpheþ	það
 telur	sfg3en	telja
@@ -4732,7 +4494,6 @@ hér	aa	hér
 á	aþ	á
 landi	nheþ	land
 .	.	.
-
 Skemmtilegur	lkensf	skemmtilegur
 fyrirlesari	nken	fyrirlesari
 Þorkell	nken-s	Þorkell
@@ -4761,7 +4522,6 @@ lifandi	lkeþof	lifandi
 á	aþ	á
 efninu	nheþg	efni
 .	.	.
-
 Innan	ae	innan
 fyrirtækja	nhfe	fyrirtæki
 lagði	sfg3eþ	leggja
@@ -4790,7 +4550,6 @@ fram	aa	fram
 næsta	lkeove	næstur
 mánudagsmorgun	nkeo	mánudagsmorgunn
 eða	c	eða
-
 Take	e	Take
 Monday	e	Monday
 Morning	e	Morning
@@ -4803,7 +4562,6 @@ orðaði	sfg3eþ	orða
 svo	aa	svo
 skemmtilega	aa	skemmtilega
 .	.	.
-
 Bókaáhugi	nken	bókaáhugi
 Þorkels	nkee-s	Þorkell
 hefur	sfg3en	hafa
@@ -4823,7 +4581,6 @@ skrifað	ssg	skrifa
 nokkrar	fovfo	nokkur
 bækur	nvfo	bók
 .	.	.
-
 Ég	fp1en	ég
 skrifaði	sfg1eþ	skrifa
 bókina	nveog	bók
@@ -4852,7 +4609,6 @@ sameinaðist	x	sameina
 útgáfufélagi	nheþ	útgáfufélag
 Viðskiptablaðsins	nheegs	Viðskiptablað
 .	.	.
-
 Rekstur	nken	rekstur
 sérhæfðs	lheesf	sérhæfður
 viðskiptablaðs	nhee	viðskiptablað
@@ -4864,7 +4620,6 @@ hefur	sfg3en	hafa
 gengið	ssg	ganga
 ágætlega	aa	ágætlega
 .	.	.
-
 Það	fphen	það
 má	sfg3en	mega
 því	aa	því
@@ -4878,7 +4633,6 @@ hvað	fshen	hver
 það	fpheo	það
 varðar	sfg3en	varða
 .	.	.
-
 Þorkell	nken-s	Þorkell
 segist	sfm3en	segja
 hafa	sng	hafa
@@ -4906,7 +4660,6 @@ mér	fp1eþ	ég
 að	aþ	að
 tölvuskjánum	nkeþg	tölvuskjár
 .	.	.
-
 Kami	e	Kami
 hafði	sfg3eþ	hafa
 oft	aa	oft
@@ -4939,14 +4692,12 @@ erum	sfg1fn	vera
 að	cn	að
 gera	sng	gera
 .	.	.
-
 Ríkisstjórnin	nveng	ríkisstjórn
 hefur	sfg3en	hafa
 ákveðið	ssg	ákveða
 umfangsmiklar	lvfosf	umfangsmikill
 skattalækkanir	nvfo	skattalækkun
 .	.	.
-
 Má	sfg3en	mega
 þar	aa	þar
 nefna	sng	nefna
@@ -4962,7 +4713,6 @@ um	ao	um
 næstu	lhfove	næstur
 áramót	nhfo	áramót
 .	.	.
-
 Skattlagning	nven	skattlagning
 húsaleigubóta	nvfe	húsaleigubætur
 fellur	sfg3en	falla
@@ -4971,7 +4721,6 @@ frá	aþ	frá
 sama	fbkeþ	sami
 tíma	nkeþ	tími
 .	.	.
-
 Ríkissjóður	nken	ríkissjóður
 stendur	sfg3en	standa
 vel	aa	vel
@@ -4987,7 +4736,6 @@ Davíð	nken-s	Davíð
 Oddsson	nken-s	Oddsson
 forsætisráðherra	nken	forsætisráðherra
 .	.	.
-
 Helga	nven-s	Helga
 María	nven-s	María
 Bragadóttir	nven-s	Bragadóttir

@@ -1,7 +1,6 @@
 mennskra	lvfesf	mennskur
 tilfinninga	nvfe	tilfinning
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ótrúlegra	lhenvm	ótrúlegur
@@ -17,7 +16,6 @@ aftur	aa	aftur
 í	ao	í
 tímann	nkeog	tími
 .	.	.
-
 Þá	aa	þá
 var	sfg3eþ	vera
 fyrsta	lvenve	fyrstur
@@ -29,7 +27,6 @@ um	ao	um
 götur	nvfo	gata
 Reykjavíkurborgar	nvee-s	Reykjavíkurborg
 .	.	.
-
 Fyrsta	lvenve	fyrstur
 gangan	nveng	ganga
 okkar	fp1fe	ég
@@ -55,7 +52,6 @@ sýnileg	lhfnsf	sýnilegur
 íslenskri	lveþsf	íslenskur
 dagsbirtu	nveþ	dagsbirta
 .	.	.
-
 Deiglan	nvengs	Deigla
 tekur	sfg3en	taka
 undir	ao	undir
@@ -79,11 +75,9 @@ tekur	sfg3en	taka
 hátíðarhöldunum	nhfþg	hátíðarhald
 gagnkynhneigður	lkensf	gagnkynhneigður
 .	.	.
-
 Þá	aa	þá
 segir	sfg3en	segja
 :	:	:
-
 Þeir	fakfn	sá
 sem	ct	sem
 trúa	sfg3fn	trúa
@@ -108,7 +102,6 @@ eftir	aþ	eftir
 eigin	lvfþof	eigin
 tilfinningum	nvfþ	tilfinning
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 eitthvað	fohen	einhver
@@ -134,7 +127,6 @@ og	c	og
 maður	nken	maður
 sjálfur	fbken	sjálfur
 .	.	.
-
 Ef	c	ef
 svo	aa	svo
 væri	svg3eþ	vera
@@ -167,7 +159,6 @@ og	c	og
 hann	fpken	hann
 sjálfur	fbken	sjálfur
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 vitnað	sþghen	vitna
@@ -178,7 +169,6 @@ orða	nhfe	orð
 Margrétar	nvee-s	Margrét
 Pálu	nvee-s	Pála
 .	.	.
-
 Hún	fpven	hún
 segir	sfg3en	segja
 að	c	að
@@ -201,11 +191,9 @@ fyrir	aa	fyrir
 í	aþ	í
 skápnum	nkeþg	skápur
 .	.	.
-
 Hún	fpven	hún
 segir	sfg3en	segja
 :	:	:
-
 Við	fp1fn	ég
 ,	,	,
 lesbíur	nvfn	lesbía
@@ -244,7 +232,6 @@ ríkjum	nhfþ	ríki
 í	aþ	í
 skápnum	nkeþg	skápur
 .	.	.
-
 -	-	-
 Aðild	nven	aðild
 að	aþ	að
@@ -276,7 +263,6 @@ sambandinu	nheþg	samband
 því	faheþ	sá
 samhengi	nheþ	samhengi
 .	.	.
-
 Hann	fpken	hann
 telur	sfg3en	telja
 ummælin	nhfog	ummæli
@@ -288,7 +274,6 @@ bjartsýni	nvee	bjartsýni
 hjá	aþ	hjá
 aðildarsinnum	nkfþ	aðildarsinni
 .	.	.
-
 --	--	--
 >	>	>
 Jón	nken-s	Jón
@@ -313,7 +298,6 @@ sambandinu	nheþg	samband
 því	faheþ	sá
 samhengi	nheþ	samhengi
 .	.	.
-
 Hann	fpken	hann
 telur	sfg3en	telja
 ummælin	nhfog	ummæli
@@ -325,7 +309,6 @@ bjartsýni	nvee	bjartsýni
 hjá	aþ	hjá
 aðildarsinnum	nkfþ	aðildarsinni
 .	.	.
-
 Jón	nken-s	Jón
 Hákon	nken-s	Hákon
 segir	sfg3en	segja
@@ -338,7 +321,6 @@ Heimdallar	nkee-s	Heimdallur
 ,	,	,
 frelsi.is	v	frelsi.is
 :	:	:
-
 Það	fphen	það
 er	sfg3en	vera
 mikilvægt	lhensf	mikilvægur
@@ -372,7 +354,6 @@ inngöngu	nveo	innganga
 í	ao	í
 það	fpheo	það
 .	.	.
-
 Einhverjir	fokfn	einhver
 ættu	svg3fþ	eiga
 þá	aa	þá
@@ -408,7 +389,6 @@ gangi	svg3fn	ganga
 í	ao	í
 Evrópusambandið	nheogs	Evrópusamband
 .	.	.
-
 Í	aþ	í
 fréttum	nvfþ	frétt
 Ríkissjónvarpsins	nheegs	ríkissjónvarp
@@ -435,7 +415,6 @@ Reykjavík	nveþ-s	Reykjavík
 í	ao	í
 gærdag	nkeo	gærdagur
 .	.	.
-
 Hann	fpken	hann
 sagði	sfg3eþ	segja
 að	c	að
@@ -453,7 +432,6 @@ eins	aa	eins
 og	c	og
 annað	foheo	annar
 .	.	.
-
 Í	aþ	í
 samtali	nheþ	samtal
 við	ao	við
@@ -473,7 +451,6 @@ yfir	aþ	yfir
 mílna	nvfe	míla
 landhelginni	nveþg	landhelgi
 .	.	.
-
 Þessar	favfn	þessi
 fullyrðingar	nvfn	fullyrðing
 Fischlers	e	Fischlers
@@ -512,7 +489,6 @@ að	aþ	að
 sjávarútvegsmálum	nhfþ	sjávarútvegsmál
 kæmi	svg3eþ	koma
 .	.	.
-
 Aðrir	fokfn	annar
 ,	,	,
 jafnvel	aa	jafnvel
@@ -545,7 +521,6 @@ umræðum	nvfþ	umræða
 um	ao	um
 Evrópusambandið	nheogs	Evrópusamband
 .	.	.
-
 Frá	aþ	frá
 stofnun	nveþ	stofnun
 lýðveldins	x	lýðveldi
@@ -570,7 +545,6 @@ baráttu	nveo	barátta
 vegna	ae	vegna
 auðlindarinnar	nveeg	auðlind
 .	.	.
-
 Sjávarútvegur	nken	sjávarútvegur
 er	sfg3en	vera
 enn	aa	enn
@@ -590,7 +564,6 @@ leyti	nheþ	leyti
 á	aþ	á
 henni	fpveþ	hún
 .	.	.
-
 Þess	fphee	það
 vegna	ae	vegna
 hlýtur	sfg3en	hljóta
@@ -605,7 +578,6 @@ hér	aa	hér
 er	sfg3en	vera
 háttað	sþghen	hátta
 .	.	.
-
 Íslendingar	nkfn-s	Íslendingur
 eiga	sfg3fn	eiga
 að	cn	að
@@ -633,7 +605,6 @@ Halldórsson	nken-s	Halldórsson
 á	aþ	á
 frelsi.is	v	frelsi.is
 .	.	.
-
 is	e	is
 SKATTATILLÖGUR	nvfn	skattatillaga
 dönsku	lveevf	danskur
@@ -683,7 +654,6 @@ liggja	sfg3fn	liggja
 fyrir	aa	fyrir
 nú	aa	nú
 .	.	.
-
 Fogh	e	Fogh
 stendur	sfg3en	standa
 fast	aa	fast
@@ -738,7 +708,6 @@ Møller	e	Møller
 -	-	-
 Mærsk	e	Mærsk
 .	.	.
-
 En	c	en
 Fogh	e	Fogh
 hefur	sfg3en	hafa
@@ -752,7 +721,6 @@ fast	aa	fast
 kjarna	nkeo	kjarni
 skattbreytinganna	nvfeg	skattbreyting
 .	.	.
-
 Almenn	lvensf	almennur
 ánægja	nven	ánægja
 er	sfg3en	vera
@@ -773,7 +741,6 @@ fyrirtækja	nhfe	fyrirtæki
 til	ae	til
 góða	nkee	góði
 .	.	.
-
 En	c	en
 það	fphen	það
 er	sfg3en	vera
@@ -807,7 +774,6 @@ upphæð	nveo	upphæð
 til	ae	til
 frádráttar	nkee	frádráttur
 .	.	.
-
 Fyrir	aa	fyrir
 liggur	sfg3en	liggja
 að	c	að
@@ -830,7 +796,6 @@ beint	aa	beint
 gegn	aþ	gegn
 þeim	fpkfþ	hann
 .	.	.
-
 En	c	en
 þær	fpvfn	hún
 koma	sfg3fn	koma
@@ -852,7 +817,6 @@ mikla	lveosf	mikill
 alþjóðlega	lveosf	alþjóðlegur
 starfsemi	nveo	starfsemi
 .	.	.
-
 Það	fphen	það
 þarf	sfg3en	þurfa
 svo	aa	svo
@@ -930,7 +894,6 @@ látið	ssg	láta
 veðri	nheþ	veður
 vaka	sng	vaka
 .	.	.
-
 En	c	en
 hvers	fshee	hver
 vegna	ae	vegna
@@ -961,7 +924,6 @@ einmitt	aa	einmitt
 þeim	fakeþ	sá
 ranni	nkeþ	rannur
 ?	?	?
-
 Skuldettar	x	skuldettar
 yfirtökur	nvfn	yfirtaka
 erfiðari	lvfnvm	erfiður
@@ -989,7 +951,6 @@ fjárhæðum	nvfþ	fjárhæð
 undan	aþ	undan
 skatti	nkeþ	skattur
 .	.	.
-
 Um	ao	um
 leið	nveo	leið
 myndu	svg3fþ	munu
@@ -1034,7 +995,6 @@ fjárstreymi	nheþ	fjárstreymi
 fyrirtækinu	nheþg	fyrirtæki
 sjálfu	fbheþ	sjálfur
 .	.	.
-
 Enda	c	enda
 hefur	sfg3en	hafa
 danska	lvenvf	danskur
@@ -1067,7 +1027,6 @@ né	c	né
 vaxtamöguleikum	nkfþ	vaxtamöguleiki
 þeirra	fphfe	það
 .	.	.
-
 Og	c	og
 ekki	aa	ekki
 er	sfg3en	vera
@@ -1111,7 +1070,6 @@ lækkunar	nvee	lækkun
 á	aþ	á
 tekjuskattshlutfallinu	nheþg	tekjuskattshlutfall
 .	.	.
-
 Í	aþ	í
 raun	nveþ	raun
 má	sfg3en	mega
@@ -1127,7 +1085,6 @@ stærra	lheovm	stór
 evrópskt	lheosf	evrópskur
 samhengi	nheo	samhengi
 .	.	.
-
 Sumir	fokfn	sumur
 eru	sfg3fn	vera
 á	aþ	á
@@ -1181,7 +1138,6 @@ hagnaði	nkeþ	hagnaður
 eftir	ao	eftir
 skatta	nkfo	skattur
 .	.	.
-
 Þannig	aa	þannig
 munu	sfg3fn	munu
 fleiri	lhfnvm	margur
@@ -1220,7 +1176,6 @@ hyggjast	sfm3fn	hyggja
 gera	sng	gera
 nú	aa	nú
 .	.	.
-
 Undanfarar	nkfn	undanfari
 eru	sfg3fn	vera
 þeir	fpkfn	hann
@@ -1251,7 +1206,6 @@ einmitt	aa	einmitt
 því	faheþ	sá
 hlutverki	nheþ	hlutverk
 .	.	.
-
 HAGNAÐUR	nken	hagnaður
 Vinnslustöðvarinnar	nveegs	Vinnslustöð
 í	aþ	í
@@ -1270,7 +1224,6 @@ milljónir	nvfn	milljón
 árið	nheog	ár
 2005	ta	2005
 .	.	.
-
 Hagnaðurinn	nkeng	hagnaður
 dróst	sfm3eþ	draga
 því	aa	því
@@ -1303,7 +1256,6 @@ um	aa	um
 5,8	ta	5,8
 milljörðum	nkfþ	milljarður
 .	.	.
-
 Minni	lkenvm	lítill
 hagnaður	nken	hagnaður
 á	aþ	á
@@ -1337,7 +1289,6 @@ nam	sfg3eþ	nema
 796	ta	796
 milljónum	nvfþ	milljón
 .	.	.
-
 Þetta	fahen	þessi
 eru	sfg3fn	vera
 mikil	lhfnsf	mikill
@@ -1352,7 +1303,6 @@ gengishagnaður	nken	gengishagnaður
 280	ta	280
 milljónir	nvfn	milljón
 .	.	.
-
 Framlegð	nven	framlegð
 Vinnslustöðvarinnar	nveegs	Vinnslustöð
 ,	,	,
@@ -1389,7 +1339,6 @@ var	sfg3eþ	vera
 framlegðarhlutfallið	nheng	framlegðarhlutfall
 19,7%	tp	19,7%
 .	.	.
-
 Eftir	ao	eftir
 Arnór	nkeo-s	Arnór
 Gísla	nkeo-s	Gísli
@@ -1432,7 +1381,6 @@ fé	nheþ	fé
 erlenda	lveosf	erlendur
 mynt	nveo	mynt
 .	.	.
-
 En	c	en
 málið	nheng	mál
 virðist	sfm3en	virða
@@ -1467,7 +1415,6 @@ Kaupþings	nhee-s	Kaupþing
 um	ao	um
 áramótin	nhfog	áramót
 .	.	.
-
 Enn	aa	enn
 hækkar	sfg3en	hækka
 gjaldeyriseignin	nveng	gjaldeyriseign
@@ -1560,7 +1507,6 @@ mynt	nveo	mynt
 í	ao	í
 staðinn	nkeog	staður
 .	.	.
-
 Í	aþ	í
 ársreikningi	nkeþ	ársreikningur
 Kaupþings	nhee-s	Kaupþing
@@ -1597,7 +1543,6 @@ sínu	feheþ	sinn
 erlendar	lvfosf	erlendur
 myntir	nvfo	mynt
 .	.	.
-
 Ef	c	ef
 gengið	sþghen	ganga
 er	sfg3en	vera
@@ -1633,7 +1578,6 @@ fé	nheþ	fé
 erlenda	lveosf	erlendur
 mynt	nveo	mynt
 .	.	.
-
 Og	c	og
 er	sfg3en	vera
 varla	aa	varla
@@ -1648,7 +1592,6 @@ hans	fpkee	hann
 í	aþ	í
 fjölmiðlum	nkfþ	fjölmiðill
 .	.	.
-
 En	c	en
 ekki	aa	ekki
 má	sfg3en	mega
@@ -1681,7 +1624,6 @@ milljarðar	nkfn	milljarður
 fyrir	aþ	fyrir
 ári	nheþ	ár
 .	.	.
-
 Gjaldeyrisjöfnuður	nken	gjaldeyrisjöfnuður
 Glitnis	nkee-s	Glitnir
 var	sfg3eþ	vera
@@ -1701,7 +1643,6 @@ frá	aþ	frá
 lok	nhfo	lok
 september	nkee	september
 .	.	.
-
 Glitnir	nken-s	Glitnir
 er	sfg3en	vera
 því	aa	því
@@ -1726,7 +1667,6 @@ eða	c	eða
 22,5	ta	22,5
 milljarðar	nkfn	milljarður
 .	.	.
-
 Um	ao	um
 Landsbankann	nkeogs	Landsbanki
 þarf	sfg3en	þurfa
@@ -1746,7 +1686,6 @@ salt	nheo	salt
 þeim	fakeþ	sá
 bæ	nkeþ	bær
 .	.	.
-
 Um	ao	um
 áramótin	nhfog	áramót
 var	sfg3eþ	vera
@@ -1770,7 +1709,6 @@ mánaða	nkfe	mánuður
 uppgjöri	nheþ	uppgjör
 bankans	nkeeg	banki
 .	.	.
-
 Miðað	sþghen	miða
 við	ao	við
 uppgjör	nhfo	uppgjör
@@ -1796,7 +1734,6 @@ er	sfg3en	vera
 í	aþ	í
 reynd	nveþ	reynd
 .	.	.
-
 Þannig	aa	þannig
 var	sfg3eþ	vera
 gjaldeyrisjöfnuður	nken	gjaldeyrisjöfnuður
@@ -1845,7 +1782,6 @@ væntanlega	aa	væntanlega
 milljörðum	nkfþ	milljarður
 króna	nvfe	króna
 .	.	.
-
 Gríðarháar	lvfnsf	gríðarhár
 upphæðir	nvfn	upphæð
 Kaupþing	nhen-s	Kaupþing
@@ -1884,7 +1820,6 @@ gjaldeyrismarkaði	nkeþ	gjaldeyrismarkaður
 með	ao	með
 krónuna	nveog	króna
 .	.	.
-
 Hlutafé	nheþ	hlutafé
 því	faheþ	sá
 sem	ct	sem
@@ -1908,7 +1843,6 @@ skipt	sþghen	skipta
 í	ao	í
 krónur	nvfo	króna
 .	.	.
-
 Hvernig	aa	hvernig
 sem	c	sem
 á	ao	á
@@ -1980,7 +1914,6 @@ verki	nheþ	verk
 sama	fbkeþ	sami
 tíma	nkeþ	tími
 .	.	.
-
 Af	aþ	af
 hálfu	nveþ	hálfa
 Kaupþings	nhee-s	Kaupþing
@@ -2011,7 +1944,6 @@ verja	sng	verja
 þessar	favfo	þessi
 eignir	nvfo	eign
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 skiljanleg	lvensf	skiljanlegur
@@ -2023,7 +1955,6 @@ hún	fpven	hún
 kannski	aa	kannski
 nær	sfg3en	ná
 .	.	.
-
 En	c	en
 voru	sfg3fþ	vera
 þessar	favfn	þessi
@@ -2036,7 +1967,6 @@ myndi	svg3eþ	munu
 einhver	foken	einhver
 spyrja	sng	spyrja
 .	.	.
-
 Auðvitað	aa	auðvitað
 ekki	aa	ekki
 ;	;	;
@@ -2069,7 +1999,6 @@ með	aþ	með
 öðrum	fokeþ	annar
 hætti	nkeþ	háttur
 .	.	.
-
 Þannig	aa	þannig
 er	sfg3en	vera
 engum	fohfþ	enginn
@@ -2099,7 +2028,6 @@ við	ao	við
 íslensku	lveovf	íslenskur
 krónuna	nveog	króna
 .	.	.
-
 Enga	foveo	enginn
 aðra	foveo	annar
 ályktun	nveo	ályktun
@@ -2134,7 +2062,6 @@ af	aþ	af
 því	fpheþ	það
 verður	sfg3en	verða
 .	.	.
-
 Kjarni	nken	kjarni
 málsins	nheeg	mál
 er	sfg3en	vera
@@ -2155,7 +2082,6 @@ fjötur	nken	fjötur
 um	ao	um
 fót	nkeo	fótur
 .	.	.
-
 Gamla	lvenvf	gamall
 danska	lvenvf	danskur
 með	ao	með
@@ -2189,7 +2115,6 @@ við	ao	við
 evruna	nveog	evra
 eina	lveosf	einn
 .	.	.
-
 Sem	c	sem
 fyrr	aam	fyrr
 segir	sfg3en	segja
@@ -2230,7 +2155,6 @@ sé	svg3en	vera
 þræltrúlofuð	lvensf	þræltrúlofaður
 evrunni	nveþg	evra
 .	.	.
-
 Um	aa	um
 53,4	ta	53,4
 milljarðar	nkfn	milljarður
@@ -2262,7 +2186,6 @@ rúm	lhfnsf	rúmur
 annarri	foveþ	annar
 mynt	nveþ	mynt
 .	.	.
-
 Verulegur	lkensf	verulegur
 hluti	nken	hluti
 af	aþ	af
@@ -2297,7 +2220,6 @@ hliðina	nveog	hlið
 á	aþ	á
 evrunni	nveþg	evra
 .	.	.
-
 Aftur	aa	aftur
 á	aa	á
 móti	aa	móti
@@ -2318,7 +2240,6 @@ fremur	aam	fremur
 sjaldgæf	lvensf	sjaldgæfur
 sjón	nven	sjón
 .	.	.
-
 Í	aþ	í
 hnotskurn	nveþ	hnotskurn
 »	»	»
@@ -2330,7 +2251,6 @@ en	c	en
 í	ao	í
 fyrra	lheovm	fyrri
 .	.	.
-
 Í	aþ	í
 upphafi	nheþ	upphaf
 ársins	nheeg	ár
@@ -2343,7 +2263,6 @@ samkvæmt	aþ	samkvæmt
 tölum	nvfþ	tala
 Seðlabankans	nkeegs	Seðlabanki
 .	.	.
-
 Nú	aa	nú
 um	ao	um
 áramótin	nhfog	áramót
@@ -2356,7 +2275,6 @@ samkvæmt	aþ	samkvæmt
 uppgjörum	nhfþ	uppgjör
 bankanna	nkfeg	banki
 .	.	.
-
 »	»	»
 Langstærsti	lkenve	langstærstur
 hlutinn	nkeng	hluti
@@ -2374,7 +2292,6 @@ höndum	nvfþ	hönd
 Kaupþings	nhee-s	Kaupþing
 banka	nkee	banki
 .	.	.
-
 Glitnir	nken-s	Glitnir
 var	sfg3eþ	vera
 með	ao	með
@@ -2393,7 +2310,6 @@ og	c	og
 erlendrar	lveesf	erlendur
 myntar	nvee	mynt
 .	.	.
-
 HAGNAÐUR	nken	hagnaður
 Össurar	nkee-s	Össur
 hf.	as	hf.
@@ -2416,7 +2332,6 @@ samkvæmt	aþ	samkvæmt
 núverandi	lheþof	núverandi
 gengi	nheþ	gengi
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 umtalsverð	lvensf	umtalsverður
@@ -2443,7 +2358,6 @@ en	c	en
 síðasta	lheþve	síðari
 ári	nheþ	ár
 .	.	.
-
 Ekki	aa	ekki
 er	sfg3en	vera
 þó	aa	þó
@@ -2479,7 +2393,6 @@ varð	sfg3eþ	verða
 milli	ae	milli
 ára	nhfe	ár
 .	.	.
-
 Ef	c	ef
 litið	sþghen	líta
 er	sfg3en	vera
@@ -2511,7 +2424,6 @@ um	aa	um
 5%	tp	5%
 lækkun	nven	lækkun
 .	.	.
-
 Umsvif	nhfn	umsvif
 Össurar	nkee-s	Össur
 jukust	sfm3fþ	auka
@@ -2537,7 +2449,6 @@ um	aa	um
 milljónir	nvfn	milljón
 dollara	nkfe	dollari
 .	.	.
-
 Á	aþ	á
 undanförnum	lkfþsf	undanfarinn
 18	ta	18
@@ -2552,7 +2463,6 @@ fyrirtæki	nhfo	fyrirtæki
 nokkrum	fohfþ	nokkur
 smærri	lhfþvm	smár
 .	.	.
-
 Þrjú	tfhfo	þrír
 af	aþ	af
 þessum	fahfþ	þessi
@@ -2564,7 +2474,6 @@ keypti	sfg3eþ	kaupa
 síðasta	lheþve	síðari
 ári	nheþ	ár
 .	.	.
-
 Í	aþ	í
 janúar	nkeþ	janúar
 var	sfg3eþ	vera
@@ -2587,7 +2496,6 @@ keypt	sþghen	kaupa
 í	aþ	í
 desember	nkeþ	desember
 .	.	.
-
 Áætlað	sþghen	áætla
 er	sfg3en	vera
 að	c	að
@@ -2602,7 +2510,6 @@ veltu	nveo	velta
 um	ao	um
 20%	tp	20%
 .	.	.
-
 Samfara	aþ	samfara
 kaupunum	nhfþg	kaup
 á	aþ	á
@@ -2629,7 +2536,6 @@ gert	ssg	gera
 ráð	nheo	ráð
 fyrir	aa	fyrir
 .	.	.
-
 Það	fphen	það
 fer	sfg3en	fara
 því	aa	því
@@ -2664,7 +2570,6 @@ tilkynningu	nveþ	tilkynning
 vegna	ae	vegna
 uppgjörsins	nheeg	uppgjör
 .	.	.
-
 Hann	fpken	hann
 segir	sfg3en	segja
 félagið	nheog	félag
@@ -2680,9 +2585,7 @@ stoð-	nhfe	stoðtæki
 og	c	og
 stuðningstækja	nhfe	stuðningstæki
 .	.	.
-
 gretar@mbl.is	v	gretar@mbl.is
-
 STARFSVIÐTALIÐ	nheng	starfsviðtal
 er	sfg3en	vera
 það	fahen	sá
@@ -2695,7 +2598,6 @@ leitinni	nveþg	leit
 að	aþ	að
 starfi	nheþ	starf
 .	.	.
-
 Það	fphen	það
 eru	sfg3fn	vera
 alls	fohee	allur
@@ -2745,7 +2647,6 @@ greina	nvfe	grein
 í	ao	í
 starfið	nheog	starf
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 því	aa	því
@@ -2771,7 +2672,6 @@ geta	sfg3fn	geta
 skipt	ssg	skipta
 sköpum	nhfþ	skap
 .	.	.
-
 Þessi	fahfn	þessi
 ráð	nhfn	ráð
 eru	sfg3fn	vera
@@ -2782,7 +2682,6 @@ Ráðningarþjónustunnar	nveegs	Ráðningarþjónustan
 ,	,	,
 www.radning.is	v	www.radning.is
 .	.	.
-
 Úlit	nhen	úlit
 skiptir	sfg3en	skipta
 miklu	lheþsf	mikill
@@ -2809,7 +2708,6 @@ og	c	og
 kostur	nken	kostur
 er	sfg3en	vera
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 afskaplega	aa	afskaplega
@@ -2827,7 +2725,6 @@ fyrir	ao	fyrir
 bókaðan	lkeosf	bókaður
 tíma	nkeo	tími
 .	.	.
-
 Klæðaburður	nken	klæðaburður
 og	c	og
 útlit	nhen	útlit
@@ -2843,7 +2740,6 @@ snyrtilegur	lkensf	snyrtilegur
 til	ae	til
 fara	nvfe	för
 .	.	.
-
 Fas	nhen	fas
 og	c	og
 framkoma	nven	framkoma
@@ -2860,7 +2756,6 @@ hann	fpken	hann
 metur	sfg3en	meta
 umsækjanda	nkeo	umsækjandi
 .	.	.
-
 Hár	nhen	hár
 ,	,	,
 neglur	nvfn	nögl
@@ -2872,7 +2767,6 @@ vera	sng	vera
 í	aþ	í
 lagi	nheþ	lag
 .	.	.
-
 Ef	c	ef
 umsækjandi	nken	umsækjandi
 er	sfg3en	vera
@@ -2890,7 +2784,6 @@ hans	fpkee	hann
 í	aþ	í
 viðtalinu	nheþg	viðtal
 .	.	.
-
 Sýndu	sbg2en	sýna
 öryggi	nheo	öryggi
 og	c	og
@@ -2898,7 +2791,6 @@ og	c	og
 í	aþ	í
 framkomu	nveþ	framkoma
 .	.	.
-
 Heilsaðu	sbg2en	heilsa
 viðmælanda	nkeþ	viðmælandi
 þínum	fekeþ	þinn
@@ -2911,7 +2803,6 @@ kynntu	sbg2en	kynna
 með	aþ	með
 nafni	nheþ	nafn
 .	.	.
-
 Ágætt	lhensf	ágætur
 er	sfg3en	vera
 að	cn	að
@@ -2939,7 +2830,6 @@ gætu	svg3fþ	geta
 skipt	ssg	skipta
 máli	nheþ	mál
 .	.	.
-
 Vertu	sbg2en	vera
 vel	aa	vel
 undirbúinn	lkensf	undirbúinn
@@ -2990,7 +2880,6 @@ sem	ct	sem
 skiptir	sfg3en	skipta
 máli	nheþ	mál
 .	.	.
-
 Eins	aa	eins
 er	sfg3en	vera
 hægt	lhensf	hægur
@@ -3022,7 +2911,6 @@ sem	ct	sem
 til	ae	til
 fyrirtækisins	nheeg	fyrirtæki
 .	.	.
-
 Í	aþ	í
 starfsviðtalinu	nheþg	starfsviðtal
 þarft	sfg2en	þurfa
@@ -3042,13 +2930,11 @@ komið	ssg	koma
 á	ao	á
 óvart	lheosf	óvar
 .	.	.
-
 Svaraðu	sbg2en	svara
 samkvæmt	aþ	samkvæmt
 bestu	lveþve	góður
 samvisku	nveþ	samviska
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 mjög	aa	mjög
@@ -3092,7 +2978,6 @@ að	c	að
 verðir	svg2en	verða
 spurður	sþgken	spyrja
 .	.	.
-
 Að	aþ	að
 öllum	fohfþ	allur
 líkindum	nhfþ	líkindi
@@ -3125,7 +3010,6 @@ sem	ct	sem
 koma	sfg3fn	koma
 fram	aa	fram
 .	.	.
-
 Óhætt	lhensf	óhætt
 að	cn	að
 spyrja	sng	spyrja
@@ -3139,7 +3023,6 @@ umsækjandi	nken	umsækjandi
 spyrji	svg3en	spyrja
 spurninga	nvfe	spurning
 .	.	.
-
 Forðastu	sbg2en	forðasa
 að	cn	að
 spyrja	sng	spyrja
@@ -3155,7 +3038,6 @@ við	aa	við
 heimasíðu	nveþ	heimasíða
 fyrirtækisins	nheeg	fyrirtæki
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 mikilvægt	lhensf	mikilvægur
@@ -3179,7 +3061,6 @@ með	ao	með
 rangt	lheosf	rangur
 mál	nheo	mál
 .	.	.
-
 Svaraðu	sbg2en	svara
 skýrt	aa	skýrt
 og	c	og
@@ -3191,7 +3072,6 @@ augun	nhfog	auga
 á	aþ	á
 viðmælanda	nkeþ	viðmælandi
 .	.	.
-
 Það	fphen	það
 getur	sfg3en	geta
 virkað	ssg	virka
@@ -3216,7 +3096,6 @@ af	aþ	af
 fremsta	lheþve	fremri
 megni	nheþ	megn
 .	.	.
-
 Vertu	sbg2en	vera
 kurteis	lkensf	kurteis
 ,	,	,
@@ -3231,7 +3110,6 @@ kveddu	sbg2en	kveðja
 með	aþ	með
 handabandi	nheþ	handaband
 .	.	.
-
 Þegar	c	þegar
 atvinnuleitandi	nken	atvinnuleitandi
 fer	sfg3en	fara
@@ -3253,7 +3131,6 @@ skriflega	lveosf	skriflegur
 atvinnuumsókn	nveo	atvinnuumsókn
 viðkomandi	lkeeof	viðkomandi
 .	.	.
-
 Atvinnuviðtalið	nheng	atvinnuviðtal
 veitir	sfg3en	veita
 hins	fakee	hinn
@@ -3284,7 +3161,6 @@ sé	svg3en	vera
 vel	aa	vel
 undirbúinn	lkensf	undirbúinn
 .	.	.
-
 Atvinnuleitandi	nken	atvinnuleitandi
 getur	sfg3en	geta
 gert	ssg	gera
@@ -3296,7 +3172,6 @@ sig	fpkeo	sig
 undir	ao	undir
 atvinnuviðtalið	nheog	atvinnuviðtal
 .	.	.
-
 *	*	*
 Afla	sng	afla
 upplýsinga	nvfe	upplýsing
@@ -3306,7 +3181,6 @@ munu	sfg3fn	munu
 taka	sng	taka
 viðtalið	nheog	viðtal
 .	.	.
-
 Oftast	aae	oft
 er	sfg3en	vera
 boðað	sþghen	boða
@@ -3323,7 +3197,6 @@ um	ao	um
 þetta	faheo	þessi
 atriði	nheo	atriði
 .	.	.
-
 *	*	*
 Afla	sng	afla
 upplýsinga	nvfe	upplýsing
@@ -3340,7 +3213,6 @@ eða	c	eða
 á	aþ	á
 Internetinu	nheþgs	Internet
 .	.	.
-
 *	*	*
 Undirbúa	sng	undirbúa
 nokkrar	fovfo	nokkur
@@ -3355,7 +3227,6 @@ fá	sng	fá
 svör	nhfo	svar
 við	aa	við
 .	.	.
-
 Viðtalið	nheng	viðtal
 snýst	sfm3en	snúa
 ekki	aa	ekki
@@ -3375,7 +3246,6 @@ líst	sfm3en	líta
 á	ao	á
 vinnuveitandann	nkeog	vinnuveitandi
 .	.	.
-
 *	*	*
 Búa	sng	búa
 sig	fpkeo	sig
@@ -3388,7 +3258,6 @@ spurningum	nvfþ	spurning
 jákvæðan	lkeosf	jákvæður
 hátt	nkeo	háttur
 .	.	.
-
 *	*	*
 Útlitið	nheng	útlit
 er	sfg3en	vera
@@ -3415,12 +3284,10 @@ fínn	lkensf	fínn
 eða	c	eða
 áberandi	lkenof	áberandi
 .	.	.
-
 *	*	*
 Mæta	sng	mæta
 stundvíslega	aa	stundvíslega
 .	.	.
-
 Þegar	c	þegar
 í	ao	í
 viðtalið	nheog	viðtal
@@ -3435,7 +3302,6 @@ atriði	nhfo	atriði
 í	aþ	í
 huga	nkeþ	hugi
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ekkert	fohen	enginn
@@ -3447,14 +3313,12 @@ við	ao	við
 þessar	favfo	þessi
 kringumstæður	nvfo	kringumstæður
 .	.	.
-
 *	*	*
 Heilsa	sng	heilsa
 öllum	fokfþ	allur
 með	aþ	með
 handabandi	nheþ	handaband
 .	.	.
-
 *	*	*
 Láta	sng	láta
 viðmælendur	nkfo	viðmælandi
@@ -3463,7 +3327,6 @@ að	cn	að
 hefja	sng	hefja
 samtalið	nheog	samtal
 .	.	.
-
 *	*	*
 Horfa	sng	horfa
 á	ao	á
@@ -3476,7 +3339,6 @@ svara	sng	svara
 sem	ct	sem
 spyr	sfg3en	spyrja
 .	.	.
-
 *	*	*
 Rökstyðja	sng	rökstyðja
 öll	fohfo	allur
@@ -3493,7 +3355,6 @@ að	cn	að
 þóknast	snm	þóknast
 viðmælandanum	nkeþg	viðmælandi
 .	.	.
-
 *	*	*
 Aldrei	aa	aldrei
 að	cn	að
@@ -3506,7 +3367,6 @@ eða	c	eða
 fyrri	lhfovm	fyrri
 störf	nhfo	starf
 .	.	.
-
 *	*	*
 Láta	sng	láta
 í	ao	í
@@ -3521,7 +3381,6 @@ að	cn	að
 sækja	sng	sækja
 um	aa	um
 .	.	.
-
 *	*	*
 verjar	x	verjar
 eru	sfg3fn	vera
@@ -3531,7 +3390,6 @@ og	c	og
 veiku	lvfnvf	veikur
 hliðar	nvfn	hlið
 ?	?	?
-
 *	*	*
 Hvort	c	hvort
 líkar	sfg3en	líka
@@ -3544,7 +3402,6 @@ eða	c	eða
 í	aþ	í
 hópi	nkeþ	hópur
 ?	?	?
-
 *	*	*
 Hvað	fsheo	hver
 kallar	sfg2en	kalla
@@ -3552,7 +3409,6 @@ kallar	sfg2en	kalla
 gott	lheosf	góður
 starfsumhverfi	nheo	starfsumhverfi
 ?	?	?
-
 *	*	*
 Hvernig	aa	hvernig
 líkar	sfg3en	líka
@@ -3562,7 +3418,6 @@ vinna	sng	vinna
 undir	aþ	undir
 tímapressu	nveþ	tímapressa
 ?	?	?
-
 *	*	*
 Hefur	sfg2en	hafa
 þú	fp2en	þú
@@ -3574,7 +3429,6 @@ langan	lkeosf	langur
 tíma	nkeo	tími
 samfleytt	aa	samfleytt
 ?	?	?
-
 *	*	*
 Hvers	fshee	hver
 vegna	ae	vegna
@@ -3584,7 +3438,6 @@ að	cn	að
 ráða	sng	ráða
 þig	fp2eo	þú
 ?	?	?
-
 Gísli	nken-s	Gísli
 Hjálmtýsson	nken-s	Hjálmtýsson
 nam	sfg3eþ	nema
@@ -3626,7 +3479,6 @@ háskólann	nkeog	háskóli
 Santa	e	Santa
 Barbara	e	Barbara
 .	.	.
-
 Eftir	ao	eftir
 veruna	nveog	vera
 í	aþ	í
@@ -3646,7 +3498,6 @@ langaði	sfg3eþ	langa
 vinalegra	lheovm	vinalegur
 veðurfar	nheo	veðurfar
 .	.	.
-
 Það	fphen	það
 vildi	sfg3eþ	vilja
 bara	aa	bara
@@ -3669,7 +3520,6 @@ segir	sfg3en	segja
 Gísli	nken-s	Gísli
 hlæjandi	lkenof	hlæjandi
 .	.	.
-
 Umskiptin	nhfng	umskipti
 voru	sfg3fþ	vera
 því	aa	því
@@ -3679,7 +3529,6 @@ alla	fokfo	allur
 hugsanlega	lkfosf	hugsanlegur
 vegu	nkfo	vegur
 .	.	.
-
 Að	cn	að
 sjá	sng	sjá
 hugvitið	nheog	hugvit
@@ -3728,7 +3577,6 @@ sem	c	sem
 tæknilegur	lkensf	tæknilegur
 ráðgjafi	nken	ráðgjafi
 .	.	.
-
 Hann	fpken	hann
 hefur	sfg3en	hafa
 starfað	ssg	starfa
@@ -3749,7 +3597,6 @@ Háskólann	nkeogs	Háskóli
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Hvað	fshen	hver
 varðar	sfg3en	varða
 þá	faveo	sá
@@ -3770,7 +3617,6 @@ nörd	nken	nörd
 yngri	lhfþvm	ungur
 árum	nhfþ	ár
 .	.	.
-
 Ég	fp1en	ég
 ólst	sfm1eþ	ala
 hins	fakee	hinn
@@ -3796,7 +3642,6 @@ alltaf	aa	alltaf
 á	aþ	á
 stærðfræði	nveþ	stærðfræði
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 því	aa	því
@@ -3816,7 +3661,6 @@ háskóla	nkeþ	háskóli
 var	sfg3eþ	vera
 komið	sþghen	koma
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 hins	fakee	hinn
@@ -3836,7 +3680,6 @@ að	cn	að
 vera	sng	vera
 nörd	nhen	nörd
 .	.	.
-
 Brú	nven-s	Brú
 Venture	e	Venture
 Capital	e	Capital
@@ -3851,7 +3694,6 @@ og	c	og
 uppbyggingu	nveþ	uppbygging
 þeirra	fphfe	það
 .	.	.
-
 Gísli	nken-s	Gísli
 segir	sfg3en	segja
 að	c	að
@@ -3893,7 +3735,6 @@ nýsköpun	nveþ	nýsköpun
 og	c	og
 nýsköpunarvinnu	nveþ	nýsköpunarvinna
 .	.	.
-
 Þar	aa	þar
 vann	sfg1eþ	vinna
 ég	fp1en	ég
@@ -3918,7 +3759,6 @@ nýsköpunarfyrirtækja	nhfe	nýsköpunarfyrirtæki
 þessu	faheþ	þessi
 sviði	nheþ	svið
 .	.	.
-
 Þá	aa	þá
 var	sfg1eþ	vera
 ég	fp1en	ég
@@ -3953,7 +3793,6 @@ til	ae	til
 slíkra	fbkfe	slíkur
 skóla	nkfe	skóli
 .	.	.
-
 Það	fahen	sá
 sem	ct	sem
 er	sfg3en	vera
@@ -3974,7 +3813,6 @@ hagnýtt	lheosf	hagnýtur
 og	c	og
 arðbært	lheosf	arðbær
 .	.	.
-
 Gísli	nken-s	Gísli
 segir	sfg3en	segja
 markmið	nhen	markmið
@@ -3998,7 +3836,6 @@ og	c	og
 fyrirtækin	nhfog	fyrirtæki
 sjálf	fbhfo	sjálfur
 .	.	.
-
 Brú	nven-s	Brú
 einskorðar	sfg3en	einskorða
 sig	fpveo	sig
@@ -4032,7 +3869,6 @@ dæmi	nhfn	dæmi
 séu	svg3fn	vera
 nefnd	sþghfn	nefna
 .	.	.
-
 Við	fp1fn	ég
 veljum	sfg1fn	velja
 þau	fahfo	sá
@@ -4053,7 +3889,6 @@ stendur	sfg3en	standa
 að	aþ	að
 þeim	fphfþ	það
 .	.	.
-
 Við	fp1fn	ég
 fjárfestum	sfg1fn	fjárfesta
 í	aþ	í
@@ -4074,7 +3909,6 @@ með	aþ	með
 stjórnendum	nkfþ	stjórnandi
 þeirra	fphfe	það
 .	.	.
-
 Það	fphen	það
 skiptir	sfg3en	skipta
 því	aa	því
@@ -4089,7 +3923,6 @@ að	c	að
 traust	nhen	traust
 ríki	svg3en	ríkja
 .	.	.
-
 Afleitur	lkensf	afleitur
 golfari	nken	golfari
 Gísli	nken-s	Gísli
@@ -4122,7 +3955,6 @@ verkefni	nhfo	verkefni
 í	aþ	í
 gangi	nkeþ	gangur
 .	.	.
-
 Meðal	ae	meðal
 fyrirtækja	nhfe	fyrirtæki
 sem	ct	sem
@@ -4143,7 +3975,6 @@ og	c	og
 tölvuleikjaframleiðandinn	nkeng	tölvuleikjaframleiðandi
 CCP	as	CCP
 .	.	.
-
 Gísli	nken-s	Gísli
 segist	sfm3en	segja
 afleitur	lkensf	afleitur
@@ -4154,7 +3985,6 @@ hann	fpken	hann
 reyni	svg3en	reyna
 þó	aa	þó
 .	.	.
-
 Gísli	nken-s	Gísli
 er	sfg3en	vera
 giftur	lkensf	giftur
@@ -4192,7 +4022,6 @@ frítíma	nkee	frítími
 með	aþ	með
 fjölskyldunni	nveþg	fjölskylda
 .	.	.
-
 bjarni@mbl.is	v	bjarni@mbl.is
 Leiðrétting	nven	leiðrétting
 16.	ta	16.
@@ -4229,7 +4058,6 @@ CCP	as	CCP
 og	c	og
 Prokaria	e	Prokaria
 .	.	.
-
 Hið	ghen	hinn
 rétta	lhenvf	réttur
 er	sfg3en	vera
@@ -4243,7 +4071,6 @@ sína	fekfo	sinn
 áðurnefndum	lhfþsf	áðurnefndur
 fyrirtækjum	nhfþ	fyrirtæki
 .	.	.
-
 Eftir	ao	eftir
 Bjarna	nkeo-s	Bjarni
 Ólafsson	nkeo-s	Ólafsson
@@ -4257,7 +4084,6 @@ er	sfg3en	vera
 efa	nkee	efi
 Bakarameistarinn	nkengs	Bakarameistari
 .	.	.
-
 Verslanir	nvfn	verslun
 fyrirtækisins	nheeg	fyrirtæki
 eru	sfg3fn	vera
@@ -4284,7 +4110,6 @@ um	aa	um
 milljónum	nvfþ	milljón
 króna	nvfe	króna
 .	.	.
-
 Bakarameistarinn	nkengs	Bakarameistari
 var	sfg3eþ	vera
 stofnaður	sþgken	stofna
@@ -4301,7 +4126,6 @@ styttist	sfm3en	stytta
 afmæli	nheo	afmæli
 fyrirtækisins	nheeg	fyrirtæki
 .	.	.
-
 Óhætt	lhensf	óhætt
 er	sfg3en	vera
 að	cn	að
@@ -4313,7 +4137,6 @@ fyrir	ao	fyrir
 stærð	nveo	stærð
 þess	fphee	það
 .	.	.
-
 Hjónin	nhfng	hjón
 Sigþór	nken-s	Sigþór
 Sigurjónsson	nken-s	Sigurjónsson
@@ -4330,7 +4153,6 @@ enn	aa	enn
 þeirra	fphfe	það
 eigu	nveþ	eiga
 .	.	.
-
 Framkvæmdastjóri	nken	framkvæmdastjóri
 þess	fphee	það
 er	sfg3en	vera
@@ -4353,11 +4175,9 @@ Sigþórsdóttir	nven-s	Sigþórsdóttir
 er	sfg3en	vera
 starfsmannastjóri	nken	starfsmannastjóri
 .	.	.
-
 Tíu	tfhfe	tíu
 ára	nhfe	ár
 áætlun	nven	áætlun
-
 Allt	fohen	allur
 frá	aþ	frá
 stofnun	nveþ	stofnun
@@ -4379,7 +4199,6 @@ brauðmeti	nheo	brauðmeti
 segir	sfg3en	segja
 Vigfús	nken-s	Vigfús
 .	.	.
-
 Í	aþ	í
 upphafi	nheþ	upphaf
 sóttum	sfg1fþ	sækja
@@ -4418,7 +4237,6 @@ að	cn	að
 selja	sng	selja
 heilhveitihorn	nhfo	heilhveitihorn
 .	.	.
-
 Erlendir	lkfnsf	erlendur
 bakarameistarar	nkfn	bakarameistari
 voru	sfg3fþ	vera
@@ -4428,7 +4246,6 @@ aðstoðar	nvee	aðstoð
 og	c	og
 ráðleggingar	nvee	ráðlegging
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 hins	fakee	hinn
@@ -4459,7 +4276,6 @@ högum	sfg1fn	haga
 okkar	fp1fe	ég
 starfsemi	nveþ	starfsemi
 .	.	.
-
 Við	fp1fn	ég
 erum	sfg1fn	vera
 því	aa	því
@@ -4476,7 +4292,6 @@ aðeins	aa	aðeins
 viðtakendur	nkfn	viðtakandi
 hennar	fpvee	hún
 .	.	.
-
 Verslunin	nveng	verslun
 í	aþ	í
 Suðurveri	nheþ-s	Suðurver
@@ -4501,7 +4316,6 @@ en	c	en
 nú	aa	nú
 er	sfg3en	vera
 .	.	.
-
 Það	fahen	sá
 ár	nhen	ár
 markaði	sfg3eþ	marka
@@ -4524,7 +4338,6 @@ endurnýjaður	sþgken	endurnýja
 frá	aþ	frá
 grunni	nkeþ	grunnur
 .	.	.
-
 Um	ao	um
 leið	nveo	leið
 settum	sfg1fþ	setja
@@ -4542,7 +4355,6 @@ nýjungar	nvfo	nýjung
 í	aþ	í
 vöruúrvali	nheþ	vöruúrval
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 keyptum	sfg1fþ	kaupa
@@ -4559,7 +4371,6 @@ Bakarameistarann	nkeogs	Bakarameistari
 segir	sfg3en	segja
 Vigfús	nken-s	Vigfús
 .	.	.
-
 Fyrsta	lhenve	fyrstur
 skrefið	nheng	skref
 í	aþ	í
@@ -4578,7 +4389,6 @@ annað	ssg	anna
 aukinni	lveþsf	aukinn
 eftirspurn	nveþ	eftirspurn
 .	.	.
-
 Nú	aa	nú
 er	sfg3en	vera
 hins	fakee	hinn
@@ -4622,7 +4432,6 @@ Hádegismóa	nkfo-s	Hádegismóar
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Stækkunina	nveog	stækkun
 segir	sfg3en	segja
 Vigfús	nken-s	Vigfús
@@ -4642,7 +4451,6 @@ gert	ssg	gera
 hafa	x	hafa
 mögulega	aa	mögulega
 .	.	.
-
 Viðskiptavinir	nkfn	viðskiptavinur
 okkar	fp1fe	ég
 höfðu	sfg3fþ	hafa
@@ -4678,7 +4486,6 @@ orðin	sþghfn	verða
 sex	tfhfn	sex
 talsins	nheeg	tal
 .	.	.
-
 Hvað	fshen	hver
 varðar	sfg3en	varða
 tæknina	nveog	tækni
@@ -4712,7 +4519,6 @@ mjög	aa	mjög
 bakarana	nkfog	bakari
 sjálfa	fbkfo	sjálfur
 .	.	.
-
 Í	ao	í
 stað	nkeo	staður
 þess	fphee	það
@@ -4740,7 +4546,6 @@ mun	sfg3en	munu
 en	c	en
 áður	aa	áður
 .	.	.
-
 Umfangsmeiri	lkenvm	umfangsmikill
 bakstur	nken	bakstur
 er	sfg3en	vera
@@ -4774,7 +4579,6 @@ staðnum	nkeþg	staður
 hverju	foheþ	hver
 útibúi	nheþ	útibú
 .	.	.
-
 Eitt	fohen	einn
 af	aþ	af
 grundvallaratriðunum	nhfþg	grundvallaratriði
@@ -4787,7 +4591,6 @@ verið	ssg	vera
 ferskleiki	nken	ferskleiki
 vörunnar	nveeg	vara
 .	.	.
-
 Allri	foveþ	allur
 óseldri	lveþsf	óseldur
 brauðvöru	nveþ	brauðvara
@@ -4809,7 +4612,6 @@ alltaf	aa	alltaf
 sem	aa	sem
 ferskast	lhense	ferskur
 .	.	.
-
 Viðskiptavinurinn	nkeng	viðskiptavinur
 í	aþ	í
 fyrirrúmi	nheþ	fyrirrúm
@@ -4825,7 +4627,6 @@ að	aþ	að
 sögn	nveþ	sögn
 Vigfúsar	nkee-s	Vigfús
 .	.	.
-
 Skyndibiti	nken	skyndibiti
 er	sfg3en	vera
 vinsælli	lhenvm	vinsæll
@@ -4848,7 +4649,6 @@ og	c	og
 ýmsum	fokfþ	ýmis
 smáréttum	nkfþ	smáréttur
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 nýjung	nven	nýjung
@@ -4891,7 +4691,6 @@ um	ao	um
 þetta	faheo	þessi
 leyti	nheo	leyti
 .	.	.
-
 Meiri	lvenvm	mikill
 áhersla	nven	áhersla
 var	sfg3eþ	vera
@@ -4932,7 +4731,6 @@ verið	ssg	vera
 bætt	sþghen	bæta
 við	aa	við
 .	.	.
-
 Þannig	aa	þannig
 má	sfg3en	mega
 segja	sng	segja
@@ -4956,7 +4754,6 @@ að	aþ	að
 sögn	nveþ	sögn
 Vigfúsar	nkee-s	Vigfús
 .	.	.
-
 Við	fp1fn	ég
 erum	sfg1fn	vera
 með	ao	með
@@ -4977,7 +4774,6 @@ fyrsta	lkeevf	fyrstur
 flokks	nkee	flokkur
 kaffidrykki	nkfo	kaffidrykkur
 .	.	.
-
 Að	aþ	að
 sögn	nveþ	sögn
 Vigfúsar	nkee-s	Vigfús

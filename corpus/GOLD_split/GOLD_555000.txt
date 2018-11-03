@@ -2,7 +2,6 @@ a.m.k.	as	a.m.k.
 tveimur	tfhfþ	tveir
 aðildarríkjum	nhfþ	aðildarríki
 .	.	.
-
 Gildir	sfg3en	gilda
 þessi	faven	þessi
 regla	nven	regla
@@ -36,7 +35,6 @@ starfsmanna	nkfe	starfsmaður
 slíkan	fbkeo	slíkur
 rétt	nkeo	réttur
 .	.	.
-
 Rétt	lhensf	réttur
 er	sfg3en	vera
 hins	fakee	hinn
@@ -65,11 +63,9 @@ sbr.	as	sbr.
 mgr.	as	mgr.
 11.	ta	11.
 gr.	as	gr.
-
 Um	ao	um
 9.	ta	9.
 gr.	as	gr.
-
 Í	aþ	í
 greininni	nveþg	grein
 er	sfg3en	vera
@@ -101,7 +97,6 @@ að	c	að
 þær	fpvfn	hún
 hefjast	sfm3fn	hefja
 .	.	.
-
 Til	ae	til
 að	cn	að
 tryggja	sng	tryggja
@@ -135,7 +130,6 @@ berast	sfm3fn	bera
 fulltrúum	nkfþ	fulltrúi
 starfsmanna	nkfe	starfsmaður
 .	.	.
-
 Með	aþ	með
 þessu	faheþ	þessi
 móti	nheþ	mót
@@ -158,11 +152,9 @@ ráða	sfg3fn	ráða
 engu	foheþ	enginn
 um	aa	um
 .	.	.
-
 Um	ao	um
 10.	ta	10.
 gr.	as	gr.
-
 Í	aþ	í
 greininni	nveþg	grein
 er	sfg3en	vera
@@ -214,7 +206,6 @@ upplýsinga	nvfe	upplýsing
 og	c	og
 samráðs	nhee	samráð
 .	.	.
-
 Slík	fbven	slíkur
 ákvörðun	nven	ákvörðun
 verður	sfg3en	verða
@@ -235,7 +226,6 @@ eru	sfg3fn	vera
 í	aþ	í
 ákvæðinu	nheþg	ákvæði
 .	.	.
-
 Rétt	lhensf	réttur
 er	sfg3en	vera
 hins	fakee	hinn
@@ -267,7 +257,6 @@ og	c	og
 mgr.	as	mgr.
 11.	ta	11.
 gr.	as	gr.
-
 Í	aþ	í
 4.	ta	4.
 mgr.	as	mgr.
@@ -300,11 +289,9 @@ frá	aþ	frá
 fyrri	lveþvm	fyrri
 ákvörðun	nveþ	ákvörðun
 .	.	.
-
 Um	ao	um
 11.	ta	11.
 gr.	as	gr.
-
 Í	aþ	í
 greininni	nveþg	grein
 er	sfg3en	vera
@@ -338,7 +325,6 @@ tilskipunar	nvee	tilskipun
 nr.	as	nr.
 2001/86/EB	ta	2001/86/eb
 .	.	.
-
 Rétt	lhensf	réttur
 er	sfg3en	vera
 að	cn	að
@@ -367,7 +353,6 @@ en	c	en
 koma	sfg3fn	koma
 fram	aa	fram
 .	.	.
-
 Gert	sþghen	gera
 er	sfg3en	vera
 ráð	nhen	ráð
@@ -416,7 +401,6 @@ lögum	nhfþ	lag
 nr.	as	nr.
 61/1999	ta	61/1999
 .	.	.
-
 Í	aþ	í
 f-lið	nkeþ	f-liður
 1.	ta	1.
@@ -439,7 +423,6 @@ upplýsingamiðlun	nveþ	upplýsingamiðlun
 og	c	og
 samráði	nheþ	samráð
 .	.	.
-
 Á	aa	á
 meðal	ae	meðal
 annarra	fohfe	annar
@@ -471,7 +454,6 @@ er	sfg3en	vera
 að	cn	að
 ná	sng	ná
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 afar	aa	afar
@@ -515,7 +497,6 @@ hefur	sfg3en	hafa
 verið	ssg	vera
 stofnað	sþghen	stofna
 .	.	.
-
 Slíkar	fbvfn	slíkur
 breytingar	nvfn	breyting
 geta	sfg3fn	geta
@@ -528,7 +509,6 @@ sæta	nhfe	sæti
 í	aþ	í
 fulltrúanefndinni	nveþg	fulltrúanefnd
 .	.	.
-
 Rétt	lhensf	réttur
 er	sfg3en	vera
 að	cn	að
@@ -574,7 +554,6 @@ samkvæmt	aþ	samkvæmt
 þessari	faveþ	þessi
 grein	nveþ	grein
 .	.	.
-
 Í	aþ	í
 þeim	fahfþ	sá
 tilvikum	nhfþ	tilvik
@@ -605,7 +584,6 @@ aðila	nkfe	aðili
 sbr.	as	sbr.
 2.	ta	2.
 mgr.	as	mgr.
-
 Loks	aa	loks
 er	sfg3en	vera
 í	aþ	í
@@ -629,7 +607,6 @@ stofnað	sþghen	stofna
 við	ao	við
 umbreytingu	nveo	umbreyting
 .	.	.
-
 Er	sfg3en	vera
 þá	aa	þá
 óheimilt	lhensf	óheimill
@@ -647,11 +624,9 @@ var	sfg3eþ	vera
 í	aþ	í
 þátttökufélaginu	nheþg	þátttökufélag
 .	.	.
-
 Um	ao	um
 12.	ta	12.
 gr.	as	gr.
-
 Í	aþ	í
 greininni	nveþg	grein
 er	sfg3en	vera
@@ -680,7 +655,6 @@ málsmeðferð	nveo	málsmeðferð
 við	ao	við
 samningaviðræður	nvfo	samningaviðræður
 .	.	.
-
 Ákvæði	nhfn	ákvæði
 tilskipunar	nvee	tilskipun
 nr.	as	nr.
@@ -716,12 +690,10 @@ ríkis	nhee	ríki
 sérstöku	lveovf	sérstakur
 samninganefndina	nveog	samninganefnd
 .	.	.
-
 Um	ao	um
 III.	lkeovf	III.
 kafla	nkeo	kafli
 .	.	.
-
 Í	aþ	í
 kaflanum	nkeþg	kafli
 er	sfg3en	vera
@@ -739,7 +711,6 @@ viðauka	nkee	viðauki
 með	aþ	með
 tilskipuninni	nveþg	tilskipun
 .	.	.
-
 Geta	sfg3fn	geta
 ákvæði	nhfn	ákvæði
 kaflans	nkeeg	kafli
@@ -779,11 +750,9 @@ að	c	að
 uppfylltum	lhfþsf	uppfylltur
 skilyrðum	nhfþ	skilyrði
 .	.	.
-
 Um	ao	um
 13.	ta	13.
 gr.	as	gr.
-
 Greinin	nveng	grein
 svarar	sfg3en	svara
 til	ae	til
@@ -812,7 +781,6 @@ starfsmanna	nkfe	starfsmaður
 að	aþ	að
 Evrópufélagi	nheþ-s	Evrópufélag
 .	.	.
-
 Er	sfg3en	vera
 meginreglan	nveng	meginregla
 sú	faven	sá
@@ -876,7 +844,6 @@ aðildarríki	nheþ	aðildarríki
 sbr.	as	sbr.
 10.	ta	10.
 gr.	as	gr.
-
 Andstæð	lvensf	andstæður
 regla	nven	regla
 gildir	sfg3en	gilda
@@ -886,7 +853,6 @@ starfsmanna	nkfe	starfsmaður
 skv.	as	skv.
 16.	ta	16.
 gr.	as	gr.
-
 Gilda	sfg3fn	gilda
 þær	favfn	sá
 reglur	nvfn	regla
@@ -918,7 +884,6 @@ sem	ct	sem
 koma	sfg3fn	koma
 fram	aa	fram
 .	.	.
-
 Það	fphen	það
 getur	sfg3en	geta
 ávallt	aa	ávallt
@@ -941,7 +906,6 @@ byggist	svm3en	byggja
 ólíkum	lvfþsf	ólíkur
 reglum	nvfþ	regla
 .	.	.
-
 Þannig	aa	þannig
 má	sfg3en	mega
 nefna	sng	nefna
@@ -973,7 +937,6 @@ fulltrúa	nkfe	fulltrúi
 stjórn	nveþ	stjórn
 félags	nhee	félag
 .	.	.
-
 Í	aþ	í
 flestum	lhfþse	margur
 öðrum	fohfþ	annar
@@ -1010,7 +973,6 @@ stjórnarstofnanir	nvfo	stjórnarstofnun
 viðkomandi	lheeof	viðkomandi
 félags	nhee	félag
 .	.	.
-
 Þessi	fahfn	þessi
 ólíku	lhfnvf	ólíkur
 form	nhfn	form
@@ -1057,11 +1019,9 @@ gilda	sng	gilda
 í	aþ	í
 Evrópufélaginu	nheþgs	Evrópufélag
 .	.	.
-
 Um	ao	um
 14.	ta	14.
 gr.	as	gr.
-
 Í	aþ	í
 greininni	nveþg	grein
 er	sfg3en	vera
@@ -1074,7 +1034,6 @@ fulltrúanefndar	nvee	fulltrúanefnd
 starfsmanna	nkfe	starfsmaður
 Evrópufélags	nhee-s	Evrópufélag
 .	.	.
-
 Gert	sþghen	gera
 er	sfg3en	vera
 ráð	nhen	ráð
@@ -1125,7 +1084,6 @@ og	c	og
 í	aþ	í
 5.	ta	5.
 gr.	as	gr.
-
 Um	ao	um
 frekari	lvfovm	frekur
 skýringar	nvfo	skýring
@@ -1136,7 +1094,6 @@ með	aþ	með
 þeim	favfþ	sá
 greinum	nvfþ	grein
 .	.	.
-
 Gert	sþghen	gera
 er	sfg3en	vera
 ráð	nhen	ráð
@@ -1158,7 +1115,6 @@ reglulegra	lkfesf	reglulegur
 funda	nkfe	fundur
 nefndarinnar	nveeg	nefnd
 .	.	.
-
 Þess	fphee	það
 má	sfg3en	mega
 vænta	sng	vænta
@@ -1184,7 +1140,6 @@ framkvæmdaráðsins	nheeg	framkvæmdaráð
 starfsreglum	nvfþ	starfsregla
 sínum	fevfþ	sinn
 .	.	.
-
 Rétt	lhensf	réttur
 er	sfg3en	vera
 að	cn	að
@@ -1228,7 +1183,6 @@ gr.	as	gr.
 á	sfg3en	eiga
 við	aa	við
 .	.	.
-
 Að	aþ	að
 öðru	foheþ	annar
 leyti	nheþ	leyti
@@ -1237,11 +1191,9 @@ greinin	nveng	grein
 ekki	aa	ekki
 skýringa	nvfe	skýring
 .	.	.
-
 Um	ao	um
 15.	ta	15.
 gr.	as	gr.
-
 Í	aþ	í
 greininni	nveþg	grein
 er	sfg3en	vera
@@ -1269,7 +1221,6 @@ samráð	nheo	samráð
 við	ao	við
 nefndina	nveog	nefnd
 .	.	.
-
 Heimildir	nvfn	heimild
 þessar	favfn	þessi
 eru	sfg3fn	vera
@@ -1315,7 +1266,6 @@ Evrópufélagsins	nheegs	Evrópufélag
 einstöku	lheþsf	einstakur
 aðildarríki	nheþ	aðildarríki
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 greinin	nveng	grein
@@ -1365,7 +1315,6 @@ samkomulagi	nheþ	samkomulag
 um	ao	um
 málið	nheog	mál
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 greininni	nveþg	grein
 er	sfg3en	vera
@@ -1385,7 +1334,6 @@ bærri	lveþsf	bær
 stofnun	nveþ	stofnun
 Evrópufélagsins	nheegs	Evrópufélag
 .	.	.
-
 Er	sfg3en	vera
 samkvæmt	aþ	samkvæmt
 tilskipun	nveþ	tilskipun
@@ -1416,7 +1364,6 @@ sá	faken	sá
 aðili	nken	aðili
 er	sfg3en	vera
 .	.	.
-
 Einnig	aa	einnig
 á	sfg3en	eiga
 fulltrúanefndin	nveng	fulltrúanefnd
@@ -1444,7 +1391,6 @@ starfsmanna	nkfe	starfsmaður
 sbr.	as	sbr.
 3.	ta	3.
 mgr.	as	mgr.
-
 Framkvæmdaráð	nhen	framkvæmdaráð
 ,	,	,
 sem	ct	sem
@@ -1479,7 +1425,6 @@ kalla	sng	kalla
 saman	aa	saman
 fulltrúanefndina	nveog	fulltrúanefnd
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 greininni	nveþg	grein
 hefur	sfg3en	hafa
@@ -1512,7 +1457,6 @@ að	aþ	að
 áliti	nheþ	álit
 nefndarinnar	nveeg	nefnd
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 er	sfg3en	vera
@@ -1536,11 +1480,9 @@ er	sfg3en	vera
 eingöngu	aa	eingöngu
 ráðgefandi	lhenof	ráðgefandi
 .	.	.
-
 Um	ao	um
 16.	ta	16.
 gr.	as	gr.
-
 Eins	aa	eins
 og	c	og
 rakið	sþghen	rekja
@@ -1584,7 +1526,6 @@ fyrirkomulag	nheo	fyrirkomulag
 þátttöku	nveþ	þátttaka
 starfsmanna	nkfe	starfsmaður
 .	.	.
-
 Eins	aa	eins
 og	c	og
 fram	aa	fram
@@ -1632,7 +1573,6 @@ verið	ssg	vera
 af	aþ	af
 hluthöfum	nkfþ	hluthafi
 .	.	.
-
 Í	aþ	í
 3.	ta	3.
 mgr.	as	mgr.
@@ -1656,7 +1596,6 @@ starfsmanna	nkfe	starfsmaður
 einstökum	lhfþsf	einstakur
 aðildarríkjum	nhfþ	aðildarríki
 .	.	.
-
 Gert	sþghen	gera
 er	sfg3en	vera
 ráð	nhen	ráð
@@ -1685,7 +1624,6 @@ skiptist	svm3fn	skipta
 samkvæmt	aþ	samkvæmt
 hlutfallsreglu	nveþ	hlutfallsregla
 .	.	.
-
 Í	aþ	í
 þeim	fahfþ	sá
 tilvikum	nhfþ	tilvik
@@ -1737,7 +1675,6 @@ sæti	nheo	sæti
 samkvæmt	aþ	samkvæmt
 hlutfallsreglu	nveþ	hlutfallsregla
 .	.	.
-
 Hafa	sng	hafa
 verður	sfg3en	verða
 í	aþ	í
@@ -1773,7 +1710,6 @@ samkvæmt	aþ	samkvæmt
 þessari	faveþ	þessi
 grein	nveþ	grein
 .	.	.
-
 Ekki	aa	ekki
 þykir	sfg3en	þykja
 þörf	nven	þörf
@@ -1804,7 +1740,6 @@ fulltrúa	nkfe	fulltrúi
 stjórnarstofnanir	nvfo	stjórnarstofnun
 Evrópufélagsins	nheegs	Evrópufélag
 .	.	.
-
 Nægilegt	lhensf	nægilegur
 þykir	sfg3en	þykja
 að	cn	að
@@ -1818,7 +1753,6 @@ reglur	nvfo	regla
 að	aa	að
 lútandi	slg	lúta
 .	.	.
-
 Í	aþ	í
 þriðja	lkeþvf	þriðji
 viðauka	nkeþ	viðauki
@@ -1846,7 +1780,6 @@ aðildarríkjum	nhfþ	aðildarríki
 stjórnarstofnanir	nvfo	stjórnarstofnun
 Evrópufélagsins	nheegs	Evrópufélag
 .	.	.
-
 Í	aþ	í
 frumvarpinu	nheþg	frumvarp
 er	sfg3en	vera
@@ -1873,7 +1806,6 @@ starfsmanna	nkfe	starfsmaður
 sbr.	as	sbr.
 6.	ta	6.
 gr.	as	gr.
-
 Hvað	fshen	hver
 varðar	sfg3en	varða
 fulltrúa	nkfo	fulltrúi
@@ -1911,7 +1843,6 @@ fulltrúanefnd	nveþ	fulltrúanefnd
 starfsmanna	nkfe	starfsmaður
 Evrópufélagsins	nheegs	Evrópufélag
 .	.	.
-
 Í	aþ	í
 lokamálsgreininni	nveþg	lokamálsgrein
 er	sfg3en	vera
@@ -1939,12 +1870,10 @@ og	c	og
 aðrir	fokfn	annar
 stjórnarmenn	nkfn	stjórnarmaður
 .	.	.
-
 Um	ao	um
 IV.	lkeovf	IV.
 kafla	nkeo	kafli
 .	.	.
-
 Í	aþ	í
 lokakafla	nkeþ	lokakafli
 frumvarpsins	nheeg	frumvarp
@@ -1976,11 +1905,9 @@ er	sfg3en	vera
 III.	lkeevf	III.
 kafla	nkee	kafli
 .	.	.
-
 Um	ao	um
 17.	ta	17.
 gr.	as	gr.
-
 Í	aþ	í
 greininni	nveþg	grein
 er	sfg3en	vera
@@ -2004,18 +1931,15 @@ tilskipunar	nvee	tilskipun
 nr.	as	nr.
 2001/86/EB	ta	2001/86/eb
 .	.	.
-
 Hún	fpven	hún
 þarfnast	sfm3en	þarfnast
 ekki	aa	ekki
 sérstakra	lvfesf	sérstakur
 skýringa	nvfe	skýring
 .	.	.
-
 Um	ao	um
 18.	ta	18.
 gr.	as	gr.
-
 Í	aþ	í
 greininni	nveþg	grein
 er	sfg3en	vera
@@ -2048,7 +1972,6 @@ tilskipunar	nvee	tilskipun
 nr.	as	nr.
 2001/86/EB	ta	2001/86/eb
 .	.	.
-
 Greinin	nveng	grein
 er	sfg3en	vera
 að	aþ	að
@@ -2074,11 +1997,9 @@ ekki	aa	ekki
 sérstakra	lvfesf	sérstakur
 skýringa	nvfe	skýring
 .	.	.
-
 Um	ao	um
 19.	ta	19.
 gr.	as	gr.
-
 Ákvæði	nhfn	ákvæði
 frumvarpsins	nheeg	frumvarp
 og	c	og
@@ -2113,7 +2034,6 @@ fyrirtækja	nhfe	fyrirtæki
 nýja	lveosf	nýr
 framleiðslutækni	nveo	framleiðslutækni
 o.s.frv.	as	o.s.frv.
-
 Í	aþ	í
 greininni	nveþg	grein
 er	sfg3en	vera
@@ -2143,7 +2063,6 @@ binda	sng	binda
 upplýsingar	nvfo	upplýsing
 trúnaði	nkeþ	trúnaður
 .	.	.
-
 Sambærileg	lhfosf	sambærilegur
 ákvæði	nhfo	ákvæði
 er	sfg3en	vera
@@ -2174,7 +2093,6 @@ hópuppsagnir	nvfo	hópuppsögn
 nr.	as	nr.
 63/2000	ta	63/2000
 .	.	.
-
 Þagnarskylda	nven	þagnarskylda
 verður	sfg3en	verða
 aðeins	aa	aðeins
@@ -2205,7 +2123,6 @@ fá	sfg3fn	fá
 störfum	nhfþ	starf
 sínum	fehfþ	sinn
 .	.	.
-
 Ágreiningur	nken	ágreiningur
 um	aa	um
 hvort	c	hvort
@@ -2225,11 +2142,9 @@ dómstóla	nkfo	dómstóll
 sbr.	as	sbr.
 23.	ta	23.
 gr.	as	gr.
-
 Um	ao	um
 20.	ta	20.
 gr.	as	gr.
-
 Í	aþ	í
 greininni	nveþg	grein
 er	sfg3en	vera
@@ -2267,7 +2182,6 @@ tilskipunar	nvee	tilskipun
 nr.	as	nr.
 2001/86/EB	ta	2001/86/eb
 .	.	.
-
 Heimildina	nveog	heimild
 verður	sfg3en	verða
 að	cn	að
@@ -2297,7 +2211,6 @@ binda	sng	binda
 upplýsingar	nvfo	upplýsing
 trúnaði	nkeþ	trúnaður
 .	.	.
-
 Sambærilegt	lheosf	sambærilegur
 ákvæði	nheo	ákvæði
 er	sfg3en	vera
@@ -2313,7 +2226,6 @@ samstarfsráð	nhfo	samstarfsráð
 í	aþ	í
 fyrirtækjum	nhfþ	fyrirtæki
 .	.	.
-
 Heimilt	lhensf	heimill
 er	sfg3en	vera
 að	cn	að
@@ -2332,7 +2244,6 @@ dómstóla	nkfo	dómstóll
 sbr.	as	sbr.
 23.	ta	23.
 gr.	as	gr.
-
 Einnig	aa	einnig
 getur	sfg3en	geta
 varðað	ssg	varða
@@ -2351,19 +2262,16 @@ hendi	nveþ	hönd
 sbr.	as	sbr.
 22.	ta	22.
 gr.	as	gr.
-
 130.	ta	130.
 löggjafarþing	nhen	löggjafarþing
 2003-2004	ta	2003-2004
 .	.	.
-
 Þskj.	as	Þskj.
 635	ta	635
 -	-	-
 447.	ta	447.
 mál	nhen	mál
 .	.	.
-
 Frumvarp	nhen	frumvarp
 til	ae	til
 laga	nhfe	lag
@@ -2378,7 +2286,6 @@ alþingismanna	nkfe	alþingismaður
 og	c	og
 hæstaréttardómara	nkfe	hæstaréttardómari
 .	.	.
-
 Flm.	as	flm.
 :	:	:
 Halldór	nken-s	Halldór
@@ -2397,10 +2304,8 @@ Backman	nven-s	Backman
 Sigurjón	nken-s	Sigurjón
 Þórðarson	nken-s	Þórðarson
 .	.	.
-
 I.	lkensf	I.
 KAFLI	nken	kafli
-
 Eftirlaunaréttur	nken	eftirlaunaréttur
 ,	,	,
 lífeyrisiðgjald	nhen	lífeyrisiðgjald
@@ -2408,10 +2313,8 @@ og	c	og
 greiðsla	nven	greiðsla
 eftirlauna	nhfe	eftirlaun
 .	.	.
-
 1.	ta	1.
 gr.	as	gr.
-
 Forseti	nken	forseti
 Íslands	nhee-s	Ísland
 ,	,	,
@@ -2438,7 +2341,6 @@ nánari	lhfþvm	náinn
 lögum	nhfþ	lag
 þessum	fahfþ	þessi
 .	.	.
-
 Þeir	fpkfn	hann
 skulu	sfg3fn	skulu
 meðan	c	meðan
@@ -2465,7 +2367,6 @@ eru	sfg3fn	vera
 hverjum	fokeþ	hver
 tíma	nkeþ	tími
 .	.	.
-
 Skal	sfg3en	skulu
 upphæðin	nveng	upphæð
 dragast	snm	draga
@@ -2495,7 +2396,6 @@ laga	nhfe	lag
 um	ao	um
 sjóðinn	nkeog	sjóður
 .	.	.
-
 Iðgjaldagreiðslur	nvfn	iðgjaldagreiðsla
 skv.	as	skv.
 1.	ta	1.
@@ -2514,7 +2414,6 @@ reglum	nvfþ	regla
 um	ao	um
 hana	fpveo	hún
 .	.	.
-
 Ellilífeyrir	nken	ellilífeyrir
 ,	,	,
 makalífeyrir	nken	makalífeyrir
@@ -2538,17 +2437,13 @@ samkvæmt	aþ	samkvæmt
 lögum	nhfþ	lag
 þessum	fahfþ	þessi
 .	.	.
-
 II.	lkensf	II.
 KAFLI	nken	kafli
-
 Forseti	nken	forseti
 Íslands	nhee-s	Ísland
 .	.	.
-
 2.	ta	2.
 gr.	as	gr.
-
 Fyrrverandi	lkenof	fyrrverandi
 forseti	nken	forseti
 Íslands	nhee-s	Ísland
@@ -2573,7 +2468,6 @@ laga	nhfe	lag
 nr.	as	nr.
 10/1990	ta	10/1990
 .	.	.
-
 Eftirlaunin	nhfng	eftirlaun
 nema	sfg3fn	nema
 60%	tp	60%
@@ -2591,7 +2485,6 @@ Kjaradómi	nkeþ-s	Kjaradómur
 hverju	foheþ	hver
 sinni	nheþ	sinn
 .	.	.
-
 Ef	c	ef
 forseti	nken	forseti
 hefur	sfg3en	hafa
@@ -2616,10 +2509,8 @@ en	c	en
 tvö	tfhfo	tveir
 kjörtímabil	nhfo	kjörtímabil
 .	.	.
-
 3.	ta	3.
 gr.	as	gr.
-
 Nú	aa	nú
 andast	sfm3en	anda
 forseti	nken	forseti
@@ -2636,7 +2527,6 @@ laun	nhfo	laun
 sex	tfkfo	sex
 mánuði	nkfo	mánuður
 .	.	.
-
 Að	aþ	að
 þeim	fakeþ	sá
 tíma	nkeþ	tími
@@ -2656,7 +2546,6 @@ hefði	svg3eþ	hafa
 rétt	nkeo	réttur
 á	aa	á
 .	.	.
-
 Um	ao	um
 rétt	nkeo	réttur
 maka	nkee	maki
@@ -2676,20 +2565,15 @@ sbr.	as	sbr.
 mgr.	as	mgr.
 1.	ta	1.
 gr.	as	gr.
-
 Prentað	lhensf	prentaður
 upp	aa	upp
 .	.	.
-
 III.	lkenvf	III.
 KAFLI	nken	kafli
-
 Ráðherrar	nkfn	ráðherra
 .	.	.
-
 4.	ta	4.
 gr.	as	gr.
-
 Fyrrverandi	lkenof	fyrrverandi
 ráðherra	nken	ráðherra
 á	sfg3en	eiga
@@ -2706,7 +2590,6 @@ að	c	að
 :	:	:
 1	ta	1
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 65	ta	65
@@ -2714,10 +2597,8 @@ er	sfg3en	vera
 eða	c	eða
 eldri	lkenvm	gamall
 .	.	.
-
 2	ta	2
 .	.	.
-
 Hann	fpken	hann
 lætur	sfg3en	láta
 af	aþ	af
@@ -2730,10 +2611,8 @@ fullra	lhfesf	fullur
 að	aþ	að
 aldri	nkeþ	aldur
 .	.	.
-
 3	ta	3
 .	.	.
-
 Hann	fpken	hann
 hefur	sfg3en	hafa
 gegnt	aþ	gegnt
@@ -2770,7 +2649,6 @@ umfram	ao	umfram
 sex	tfhfo	sex
 ár	nhfo	ár
 .	.	.
-
 Aldursmarkið	nheng	aldursmark
 getur	sfg3en	geta
 þó	aa	þó
@@ -2785,10 +2663,8 @@ samkvæmt	aþ	samkvæmt
 þessum	fakeþ	þessi
 tölulið	nkeþ	töluliður
 .	.	.
-
 5.	ta	5.
 gr.	as	gr.
-
 Eftirlaunahlutfall	nhen	eftirlaunahlutfall
 fyrrverandi	lkfeof	fyrrverandi
 ráðherra	nkfe	ráðherra
@@ -2806,7 +2682,6 @@ hluta	nkeo	hluti
 úr	aþ	úr
 ári	nheþ	ár
 .	.	.
-
 Eftirlaunin	nhfng	eftirlaun
 fylgja	sfg3fn	fylgja
 ráðherralaunum	nhfþ	ráðherralaun
@@ -2831,7 +2706,6 @@ segir	sfg3en	segja
 til	aa	til
 um	aa	um
 .	.	.
-
 Eftirlaunaréttur	nken	eftirlaunaréttur
 samkvæmt	aþ	samkvæmt
 þessari	faveþ	þessi
@@ -2843,10 +2717,8 @@ meiri	lkenvm	mikill
 en	c	en
 70%	tp	70%
 .	.	.
-
 6.	ta	6.
 gr.	as	gr.
-
 Fyrrverandi	lkenof	fyrrverandi
 forsætisráðherra	nken	forsætisráðherra
 ,	,	,
@@ -2877,7 +2749,6 @@ forseti	nken	forseti
 sbr.	as	sbr.
 2.	ta	2.
 gr.	as	gr.
-
 Kjörtímabil	nhen	kjörtímabil
 samkvæmt	aþ	samkvæmt
 þessari	faveþ	þessi
@@ -2892,7 +2763,6 @@ samtals	aa	samtals
 í	aþ	í
 embætti	nheþ	embætti
 .	.	.
-
 Sé	svg3en	vera
 embættistími	nken	embættistími
 ekki	aa	ekki
@@ -2912,7 +2782,6 @@ hann	fpkeo	hann
 með	aþ	með
 fjórum	tfkfþ	fjórir
 .	.	.
-
 Hafi	svg3en	hafa
 fyrrverandi	lkenof	fyrrverandi
 forsætisráðherra	nken	forsætisráðherra
@@ -2934,7 +2803,6 @@ samkvæmt	aþ	samkvæmt
 þessari	faveþ	þessi
 grein	nveþ	grein
 .	.	.
-
 Eftirlaunin	nhfng	eftirlaun
 fylgja	sfg3fn	fylgja
 heildarlaunum	nhfþ	heildarlaun
@@ -2966,7 +2834,6 @@ segir	sfg3en	segja
 til	aa	til
 um	aa	um
 .	.	.
-
 Ákvæði	nhfn	ákvæði
 4.	ta	4.
 gr.	as	gr.
@@ -2979,7 +2846,6 @@ samkvæmt	aþ	samkvæmt
 þessari	faveþ	þessi
 grein	nveþ	grein
 .	.	.
-
 Réttur	nken	réttur
 eftir	aþ	eftir
 þessari	faveþ	þessi
@@ -2996,10 +2862,8 @@ og	c	og
 IV.	lkeþvf	iv.
 kafla	nkeþ	kafli
 .	.	.
-
 7.	ta	7.
 gr.	as	gr.
-
 Fyrrverandi	lkenof	fyrrverandi
 ráðherra	nken	ráðherra
 ,	,	,
@@ -3036,15 +2900,12 @@ fyrir	ao	fyrir
 þingmennsku	nveo	þingmennska
 sína	feveo	sinn
 .	.	.
-
 IV.	lkenvf	IV.
 KAFLI	nken	kafli
 Alþingismenn	nkfn	alþingismaður
 .	.	.
-
 8.	ta	8.
 gr.	as	gr.
-
 Fyrrverandi	lkenof	fyrrverandi
 alþingismaður	nken	alþingismaður
 á	sfg3en	eiga
@@ -3061,7 +2922,6 @@ að	c	að
 :	:	:
 1	ta	1
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 65	ta	65
@@ -3069,10 +2929,8 @@ er	sfg3en	vera
 eða	c	eða
 eldri	lkenvm	gamall
 .	.	.
-
 2	ta	2
 .	.	.
-
 Hann	fpken	hann
 lætur	sfg3en	láta
 af	aþ	af
@@ -3085,10 +2943,8 @@ fullra	lhfesf	fullur
 að	aþ	að
 aldri	nkeþ	aldur
 .	.	.
-
 3	ta	3
 .	.	.
-
 Hann	fpken	hann
 hefur	sfg3en	hafa
 átt	ssg	eiga
@@ -3127,7 +2983,6 @@ umfram	ao	umfram
 16	ta	16
 ár	nhfo	ár
 .	.	.
-
 Aldursmarkið	nheng	aldursmark
 getur	sfg3en	geta
 þó	aa	þó
@@ -3142,10 +2997,8 @@ samkvæmt	aþ	samkvæmt
 þessum	fakeþ	þessi
 tölulið	nkeþ	töluliður
 .	.	.
-
 9.	ta	9.
 gr.	as	gr.
-
 Eftirlaunahlutfall	nhen	eftirlaunahlutfall
 fyrrverandi	lkeeof	fyrrverandi
 alþingismanns	nkee	alþingismaður
@@ -3163,7 +3016,6 @@ hluta	nkeo	hluti
 úr	aþ	úr
 ári	nheþ	ár
 .	.	.
-
 Eftirlaunin	nhfng	eftirlaun
 fylgja	sfg3fn	fylgja
 þingfararkaupi	nheþ	þingfararkaup
@@ -3188,7 +3040,6 @@ segir	sfg3en	segja
 til	aa	til
 um	aa	um
 .	.	.
-
 Eftirlaunaréttur	nken	eftirlaunaréttur
 verður	sfg3en	verða
 aldrei	aa	aldrei
@@ -3196,7 +3047,6 @@ meiri	lkenvm	mikill
 en	c	en
 70%	tp	70%
 .	.	.
-
 Álagsgreiðslur	nvfn	álagsgreiðsla
 skv.	as	skv.
 3.	ta	3.
@@ -3222,10 +3072,8 @@ sem	ct	sem
 eru	sfg3fn	vera
 greiddar	sþgvfn	greiða
 .	.	.
-
 10.	ta	10.
 gr.	as	gr.
-
 Ljúki	svg3en	ljúka
 þingsetu	nveþ	þingseta
 fyrir	ao	fyrir
@@ -3250,7 +3098,6 @@ samkvæmt	aþ	samkvæmt
 þessum	fahfþ	þessi
 lögum	nhfþ	lag
 .	.	.
-
 Veita	sfg3fn	veita
 þá	aa	þá
 iðgjaldagreiðslur	nvfn	iðgjaldagreiðsla
@@ -3269,10 +3116,8 @@ lögum	nhfþ	lag
 um	ao	um
 sjóðinn	nkeog	sjóður
 .	.	.
-
 11.	ta	11.
 gr.	as	gr.
-
 Forseti	nken	forseti
 Alþingis	nhee-s	Alþingi
 öðlast	sfm3en	öðlast
@@ -3290,10 +3135,8 @@ hann	fpken	hann
 gegnir	sfg3en	gegna
 forsetaembættinu	nheþg	forsetaembætti
 .	.	.
-
 12.	ta	12.
 gr.	as	gr.
-
 Ráðherra	nken	ráðherra
 ,	,	,
 sem	ct	sem
@@ -3324,10 +3167,8 @@ hann	fpken	hann
 gegnir	sfg3en	gegna
 ráðherrastörfum	nhfþ	ráðherrastarf
 .	.	.
-
 13.	ta	13.
 gr.	as	gr.
-
 Fyrrverandi	lkenof	fyrrverandi
 alþingismaður	nken	alþingismaður
 ,	,	,
@@ -3364,10 +3205,8 @@ fyrir	ao	fyrir
 ráðherrastörf	nhfo	ráðherrastarf
 sín	fehfo	sinn
 .	.	.
-
 14.	ta	14.
 gr.	as	gr.
-
 Með	aa	með
 «	«	«
 alþingismaður	nken	alþingismaður
@@ -3387,7 +3226,6 @@ sæti	nheo	sæti
 á	aþ	á
 Alþingi	nheþ-s	Alþingi
 .	.	.
-
 Varaþingmaður	nken	varaþingmaður
 greiðir	sfg3en	greiða
 af	aþ	af
@@ -3416,7 +3254,6 @@ við	ao	við
 iðgjaldagreiðslur	nvfo	iðgjaldagreiðsla
 sínar	fevfo	sinn
 .	.	.
-
 Þegar	c	þegar
 réttindi	nhfn	réttindi
 alþingismanna	nkfe	alþingismaður
@@ -3439,15 +3276,12 @@ Alþingi	nheþ-s	Alþingi
 sem	c	sem
 varaþingmenn	nkfn	varaþingmaður
 .	.	.
-
 V.	lkenvf	V.
 KAFLI	nken	kafli
 Hæstaréttardómarar	nkfn	hæstaréttardómari
 .	.	.
-
 15.	ta	15.
 gr.	as	gr.
-
 Fyrrverandi	lkenof	fyrrverandi
 hæstaréttardómari	nken	hæstaréttardómari
 á	sfg3en	eiga
@@ -3464,7 +3298,6 @@ að	c	að
 :	:	:
 1	ta	1
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 65	ta	65
@@ -3472,10 +3305,8 @@ er	sfg3en	vera
 eða	c	eða
 eldri	lkenvm	gamall
 .	.	.
-
 2	ta	2
 .	.	.
-
 Hann	fpken	hann
 hefur	sfg3en	hafa
 gegnt	aþ	gegnt
@@ -3517,7 +3348,6 @@ en	c	en
 tíu	tfhfo	tíu
 ár	nhfo	ár
 .	.	.
-
 Eftirlaunahlutfallið	nheng	eftirlaunahlutfall
 er	sfg3en	vera
 6%	tp	6%
@@ -3533,7 +3363,6 @@ hluta	nkeo	hluti
 úr	aþ	úr
 ári	nheþ	ár
 .	.	.
-
 Eftirlaunin	nhfng	eftirlaun
 fylgja	sfg3fn	fylgja
 föstum	lhfþsf	fastur
@@ -3559,7 +3388,6 @@ segir	sfg3en	segja
 til	aa	til
 um	aa	um
 .	.	.
-
 Eftirlaunaréttur	nken	eftirlaunaréttur
 verður	sfg3en	verða
 aldrei	aa	aldrei
@@ -3567,7 +3395,6 @@ meiri	lkenvm	mikill
 en	c	en
 80%	tp	80%
 .	.	.
-
 Réttur	nken	réttur
 til	ae	til
 eftirlauna	nhfe	eftirlaun
@@ -3590,10 +3417,8 @@ skv.	as	skv.
 gr.	as	gr.
 stjórnarskrárinnar	nveeg	stjórnarskrá
 .	.	.
-
 VI.	lkenvf	VI.
 KAFLI	nken	kafli
-
 Maka-	nken	makalífeyrir
 og	c	og
 örorkulífeyrir	nken	örorkulífeyrir
@@ -3603,10 +3428,8 @@ biðlaun	nhfn	biðlaun
 skerðing	nven	skerðing
 greiðslna	nvfe	greiðsla
 o.fl.	as	o.fl.
-
 16.	ta	16.
 gr.	as	gr.
-
 Nú	aa	nú
 andast	sfm3en	anda
 sá	faken	sá
@@ -3647,7 +3470,6 @@ skv.	as	skv.
 mgr.	as	mgr.
 1.	ta	1.
 gr.	as	gr.
-
 Þegar	c	þegar
 greiðslum	nvfþ	greiðsla
 makalífeyris	nkee	makalífeyrir
@@ -3682,7 +3504,6 @@ umfram	ao	umfram
 fjárhæð	nveo	fjárhæð
 makalífeyrisins	nkeeg	makalífeyrir
 .	.	.
-
 Nú	aa	nú
 á	sfg3en	eiga
 sá	faken	sá
@@ -3736,10 +3557,8 @@ skv.	as	skv.
 mgr.	as	mgr.
 1.	ta	1.
 gr.	as	gr.
-
 17.	ta	17.
 gr.	as	gr.
-
 Réttindaávinnsla	nven	réttindaávinnsla
 samkvæmt	aþ	samkvæmt
 lögum	nhfþ	lag
@@ -3764,10 +3583,8 @@ greidd	sþghfn	greiða
 af	aþ	af
 þeim	fphfþ	það
 .	.	.
-
 18.	ta	18.
 gr.	as	gr.
-
 Enginn	foken	enginn
 á	sfg3en	eiga
 rétt	nkeo	réttur
@@ -3790,7 +3607,6 @@ biðlaun	nhfo	biðlaun
 fyrir	ao	fyrir
 það	fpheo	það
 .	.	.
-
 Sama	fbhen	sami
 gildir	sfg3en	gilda
 þótt	c	þótt
@@ -3806,10 +3622,8 @@ sbr.	as	sbr.
 mgr.	as	mgr.
 22.	ta	22.
 gr.	as	gr.
-
 19.	ta	19.
 gr.	as	gr.
-
 Nú	aa	nú
 tekur	sfg3en	taka
 sá	faken	sá
@@ -3861,7 +3675,6 @@ starfi	nheþ	starf
 er	sfg3en	vera
 tekið	sþghen	taka
 .	.	.
-
 Sama	fbven	sami
 skerðing	nven	skerðing
 verður	sfg3en	verða
@@ -3882,7 +3695,6 @@ samkvæmt	aþ	samkvæmt
 lögum	nhfþ	lag
 þessum	fahfþ	þessi
 .	.	.
-
 Skerðing	nven	skerðing
 greiðslna	nvfe	greiðsla
 samkvæmt	aþ	samkvæmt
@@ -3897,10 +3709,8 @@ er	sfg3en	vera
 af	aþ	af
 starfi	nheþ	starf
 .	.	.
-
 20.	ta	20.
 gr.	as	gr.
-
 Sá	faken	sá
 sem	ct	sem
 hefur	sfg3en	hafa
@@ -3922,13 +3732,11 @@ ríkisins	nheeg	ríki
 réttindahlutfalli	nheþ	réttindahlutfall
 sínu	feheþ	sinn
 .	.	.
-
 Sjóðurinn	nkeng	sjóður
 sendir	sfg3en	senda
 fjármálaráðuneyti	nheþ	fjármálaráðuneyti
 niðurstöðuna	nveog	niðurstaða
 .	.	.
-
 Verði	svg3en	verða
 ágreiningur	nken	ágreiningur
 má	sfg3en	mega
@@ -3939,7 +3747,6 @@ til	ae	til
 manna	nkfe	maður
 nefndar	nvee	nefnd
 .	.	.
-
 Forseti	nken	forseti
 Alþingis	nhee-s	Alþingi
 ,	,	,
@@ -3954,7 +3761,6 @@ hver	foken	hver
 í	ao	í
 nefndina	nveog	nefnd
 .	.	.
-
 Fjármálaráðherra	nken	fjármálaráðherra
 setur	sfg3en	setja
 nánari	lvfovm	náinn
@@ -3972,10 +3778,8 @@ Lífeyrissjóði	nkeþ-s	Lífeyrissjóður
 starfsmanna	nkfe	starfsmaður
 ríkisins	nheeg	ríki
 .	.	.
-
 VII.	lkenvf	VII.
 KAFLI	nken	kafli
-
 Gildistaka	nven	gildistaka
 ,	,	,
 brottfall	nhen	brottfall
@@ -3983,17 +3787,14 @@ laga	nhfe	lag
 ,	,	,
 lagaskil	nhfn	lagaskil
 o.fl.	as	o.fl.
-
 21.	ta	21.
 gr.	as	gr.
-
 Lög	nhfn	lag
 þessi	fahfn	þessi
 öðlast	sfm3fn	öðlast
 þegar	aa	þegar
 gildi	nheo	gildi
 .	.	.
-
 Jafnframt	aa	jafnframt
 falla	sfg3fn	falla
 úr	aþ	úr
@@ -4004,7 +3805,6 @@ og	c	og
 lagaákvæði	nhfn	lagaákvæði
 :	:	:
 a.	x	a.
-
 Lög	nhfn	lag
 um	ao	um
 eftirlaun	nhfo	eftirlaun
@@ -4017,9 +3817,7 @@ með	aþ	með
 síðari	lvfþvm	síðari
 breytingum	nvfþ	breyting
 .	.	.
-
 b.	x	b.
-
 Lög	nhfn	lag
 um	ao	um
 eftirlaun	nhfo	eftirlaun
@@ -4032,7 +3830,6 @@ með	aþ	með
 síðari	lvfþvm	síðari
 breytingum	nvfþ	breyting
 .	.	.
-
 c.	x	c
 5.	ta	5.
 og	c	og
@@ -4047,7 +3844,6 @@ forseta	nkee	forseti
 nr.	as	nr.
 10/1990	ta	10/1990
 .	.	.
-
 d.	x	d
 9.	ta	9.
 og	c	og
@@ -4064,9 +3860,7 @@ Lífeyrissjóð	nkeo-s	Lífeyrissjóður
 starfsmanna	nkfe	starfsmaður
 ríkisins	nheeg	ríki
 .	.	.
-
 e.	x	e
-
 Lög	nhfn	lag
 nr.	as	nr.
 92/1955	ta	92/1955
@@ -4076,10 +3870,8 @@ laun	nhfo	laun
 starfsmanna	nkfe	starfsmaður
 ríkisins	nheeg	ríki
 .	.	.
-
 22.	ta	22.
 gr.	as	gr.
-
 Lög	nhfn	lag
 þessi	fahfn	þessi
 taka	sfg3fn	taka
@@ -4106,7 +3898,6 @@ við	ao	við
 gildistöku	nveo	gildistaka
 laganna	nhfeg	lag
 .	.	.
-
 Nú	aa	nú
 hefur	sfg3en	hafa
 maður	nken	maður
@@ -4128,7 +3919,6 @@ makalífeyri	nkeo	makalífeyrir
 samkvæmt	aþ	samkvæmt
 þeim	fphfþ	það
 .	.	.
-
 Eldri	lhfnvm	gamall
 lög	nhfn	lag
 geta	sfg3fn	geta
@@ -4150,7 +3940,6 @@ sinn	nheo	sinn
 maí	nkeo	maí
 2003	ta	2003
 .	.	.
-
 Eftirlaun	nhfn	eftirlaun
 alþingismanna	nkfe	alþingismaður
 og	c	og
@@ -4180,7 +3969,6 @@ gildistöku	nveþ	gildistaka
 þessara	fahfe	þessi
 laga	nhfe	lag
 .	.	.
-
 Sama	fbhen	sami
 gildir	sfg3en	gilda
 um	ao	um
@@ -4196,7 +3984,6 @@ er	sfg3en	vera
 eldri	lhfþvm	gamall
 lögum	nhfþ	lag
 .	.	.
-
 Eignir	nvfn	eign
 alþingismanna-	nvee	alþingismannadeild
 og	c	og
@@ -4209,7 +3996,6 @@ renna	sfg3fn	renna
 í	ao	í
 ríkissjóð	nkeo	ríkissjóður
 .	.	.
-
 Hæstaréttardómurum	nkfþ	hæstaréttardómari
 ,	,	,
 sem	ct	sem
@@ -4263,10 +4049,8 @@ samkvæmt	aþ	samkvæmt
 reglum	nvfþ	regla
 deildarinnar	nveeg	deild
 .	.	.
-
 23.	ta	23.
 gr.	as	gr.
-
 Breyting	nven	breyting
 á	aþ	á
 lögum	nhfþ	lag
@@ -4283,7 +4067,6 @@ með	aþ	með
 síðari	lvfþvm	síðari
 breytingum	nvfþ	breyting
 .	.	.
-
 Eftirfarandi	lvfnof	eftirfarandi
 breytingar	nvfn	breyting
 verða	sfg3fn	verða
@@ -4318,7 +4101,6 @@ greitt	aa	greitt
 á	ao	á
 þingfararkaup	nheo	þingfararkaup
 .	.	.
-
 Þeir	fakfn	sá
 alþingismenn	nkfn	alþingismaður
 ,	,	,
@@ -4348,7 +4130,6 @@ greitt	aa	greitt
 á	ao	á
 þingfararkaup	nheo	þingfararkaup
 .	.	.
-
 Formenn	nkfn	formaður
 þingnefnda	nvfe	þingnefnd
 ,	,	,
@@ -4367,7 +4148,6 @@ greitt	aa	greitt
 á	ao	á
 þingfararkaup	nheo	þingfararkaup
 .	.	.
-
 Enn	aa	enn
 fremur	aam	fremur
 er	sfg3en	vera
@@ -4398,7 +4178,6 @@ sérstök	lvensf	sérstakur
 er	sfg3en	vera
 til	aa	til
 .	.	.
-
 Enginn	foken	enginn
 getur	sfg3en	geta
 fengið	ssg	fá
@@ -4409,7 +4188,6 @@ samkvæmt	aþ	samkvæmt
 þessari	faveþ	þessi
 málsgrein	nveþ	málsgrein
 .	.	.
-
 b.	x	b.
 5.	ta	5.
 gr.	as	gr.
@@ -4434,7 +4212,6 @@ og	c	og
 mgr.	as	mgr.
 9.	ta	9.
 gr.	as	gr.
-
 Ráðherra	nken	ráðherra
 á	sfg3en	eiga
 rétt	nkeo	réttur
@@ -4448,7 +4225,6 @@ lætur	sfg3en	láta
 af	aþ	af
 embætti	nheþ	embætti
 .	.	.
-
 Biðlaun	nhfn	biðlaun
 jafnhá	lhfnsf	jafnhár
 ráðherralaunum	nhfþ	ráðherralaun
@@ -4459,7 +4235,6 @@ greidd	sþghfn	greiða
 þrjá	tfkfo	þrír
 mánuði	nkfo	mánuður
 .	.	.
-
 Eftir	ao	eftir
 ráðherrastörf	nhfo	ráðherrastarf
 í	ao	í
@@ -4475,7 +4250,6 @@ biðlaun	nhfn	biðlaun
 sex	tfkfo	sex
 mánuði	nkfo	mánuður
 .	.	.
-
 Ákvæði	nhfn	ákvæði
 2.	ta	2.
 mgr.	as	mgr.
@@ -4489,10 +4263,8 @@ samkvæmt	aþ	samkvæmt
 þessari	faveþ	þessi
 grein	nveþ	grein
 .	.	.
-
 Greinargerð	nven	greinargerð
 .	.	.
-
 Með	aþ	með
 frumvarpi	nheþ	frumvarp
 þessu	faheþ	þessi
@@ -4517,7 +4289,6 @@ löggjafarvalds	nhee	löggjafarvald
 og	c	og
 dómsvalds	nhee	dómsvald
 .	.	.
-
 Jafnframt	aa	jafnframt
 er	sfg3en	vera
 gerð	sþgven	gera
@@ -4545,7 +4316,6 @@ og	c	og
 verið	ssg	vera
 hefur	sfg3en	hafa
 .	.	.
-
 Samhliða	aa	samhliða
 eru	sfg3fn	vera
 svo	aa	svo
@@ -4566,7 +4336,6 @@ iðgjaldahlutfallið	nheng	iðgjaldahlutfall
 er	sfg3en	vera
 hækkað	sþghen	hækka
 .	.	.
-
 Um	ao	um
 eftirlaun	nhfo	eftirlaun
 forseta	nkee	forseti
@@ -4584,7 +4353,6 @@ laun	nhfo	laun
 forseta	nkee	forseti
 Íslands	nhee-s	Ísland
 .	.	.
-
 Sérstök	lhfnsf	sérstakur
 lög	nhfn	lag
 gilda	sfg3fn	gilda
@@ -4608,7 +4376,6 @@ breytt	sþghen	breyta
 allnokkuð	fohen	allnokkur
 1982	ta	1982
 .	.	.
-
 Engin	fohfn	enginn
 sérstök	lhfnsf	sérstakur
 lagaákvæði	nhfn	lagaákvæði
@@ -4631,7 +4398,6 @@ dómstólalaga	nhfe	dómstólalag
 nr.	as	nr.
 15/1998	ta	15/1998
 .	.	.
-
 Þegar	c	þegar
 gerðar	sþgvfn	gera
 voru	sfg3fþ	vera
@@ -4665,7 +4431,6 @@ alþingismanna	nkfe	alþingismaður
 og	c	og
 ráðherra	nkfe	ráðherra
 .	.	.
-
 Töldu	sfg3fþ	telja
 þá	aa	þá
 margir	lkfnsf	margur
@@ -4692,7 +4457,6 @@ Lífeyrissjóðs	nkee-s	Lífeyrissjóður
 starfsmanna	nkfe	starfsmaður
 ríkisins	nheeg	ríki
 .	.	.
-
 Ljóst	lhensf	ljós
 er	sfg3en	vera
 að	c	að
@@ -4715,7 +4479,6 @@ með	aþ	með
 núverandi	lheþof	núverandi
 iðgjaldafyrirkomulagi	nheþ	iðgjaldafyrirkomulag
 .	.	.
-
 Virðist	sfm3en	virða
 ekki	aa	ekki
 gerlegt	lhensf	gerlegur
@@ -4733,7 +4496,6 @@ og	c	og
 stórhækkuðu	lheþsf	stórhækkaður
 iðgjaldahlutfalli	nheþ	iðgjaldahlutfall
 .	.	.
-
 Raunar	aa	raunar
 er	sfg3en	vera
 vafasamt	lhensf	vafasamur
@@ -4763,7 +4525,6 @@ ríkissjóði	nkeþ	ríkissjóður
 að	cn	að
 ræða	sng	ræða
 .	.	.
-
 Því	aa	því
 hefur	sfg3en	hafa
 það	fahen	sá
@@ -4803,7 +4564,6 @@ stað	nkeo	staður
 upp	aa	upp
 gegnumstreymiskerfi	nheo	gegnumstreymiskerfi
 .	.	.
-
 Slíkt	fbhen	slíkur
 kerfi	nhen	kerfi
 gildir	sfg3en	gilda
@@ -4815,7 +4575,6 @@ og	c	og
 einnig	aa	einnig
 hæstaréttardómara	nkfo	hæstaréttardómari
 .	.	.
-
 Því	aa	því
 þykir	sfg3en	þykja
 fara	sng	fara
@@ -4843,7 +4602,6 @@ alþingismenn	nkfo	alþingismaður
 og	c	og
 hæstaréttardómara	nkfo	hæstaréttardómari
 .	.	.
-
 Breytingin	nveng	breyting
 byggist	sfm3en	byggja
 á	aþ	á
@@ -4861,7 +4619,6 @@ Lífeyrissjóðs	nkee-s	Lífeyrissjóður
 starfsmanna	nkfe	starfsmaður
 ríkisins	nheeg	ríki
 .	.	.
-
 Eftirlaunadeildir	nvfn	eftirlaunadeild
 alþingismanna	nkfe	alþingismaður
 og	c	og
@@ -4892,7 +4649,6 @@ yfir	aa	yfir
 á	ao	á
 ríkissjóð	nkeo	ríkissjóður
 .	.	.
-
 Forseti	nken	forseti
 Íslands	nhee-s	Ísland
 ,	,	,
@@ -4934,7 +4690,6 @@ frádráttar	nkee	frádráttur
 greiðslum	nvfþ	greiðsla
 ríkissjóðs	nkee	ríkissjóður
 .	.	.
-
 Í	aþ	í
 ljósi	nheþ	ljós
 þess	fphee	það
@@ -4969,7 +4724,6 @@ launum	nhfþ	laun
 af	aþ	af
 heildarlaunum	nhfþ	heildarlaun
 .	.	.
-
 Samhliða	aþ	samhliða
 þessari	faveþ	þessi
 skipulagsbreytingu	nveþ	skipulagsbreyting
@@ -4987,7 +4741,6 @@ m.a.	as	m.a.
 til	ae	til
 einföldunar	nvee	einföldun
 .	.	.
-
 Slíkar	fbvfn	slíkur
 efnisbreytingar	nvfn	efnisbreyting
 er	x	vera
@@ -4995,6 +4748,5 @@ er	x	vera
 helstar	lvfnse	heldri
 :	:	:
 a.	x	a.
-
 Réttindaávinnsla	nven	réttindaávinnsla
 alþingismanna	nkfe	alþingismaður

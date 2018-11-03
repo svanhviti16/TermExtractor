@@ -18,7 +18,6 @@ ekki	aa	ekki
 brjóta	sng	brjóta
 landslög	nhfo	landslög
 o.s.frv.	as	o.s.frv.
-
 Börn	nhfn	barn
 læra	sfg3fn	læra
 einnig	aa	einnig
@@ -33,7 +32,6 @@ og	c	og
 mismun	nkeþ	mismunur
 þeirra	fphfe	það
 .	.	.
-
 Karlmannleg	lvensf	karlmannlegur
 og	c	og
 kvenleg	lvensf	kvenlegur
@@ -69,7 +67,6 @@ karlkyn	nheo	karlkyn
 eða	c	eða
 kvenkyn	nheo	kvenkyn
 .	.	.
-
 Kynhlutverk	nhfn	kynhlutverk
 eru	sfg3fn	vera
 ekki	aa	ekki
@@ -84,7 +81,6 @@ Oakley	e	Oakley
 1980b	ta	1980b
 )	)	)
 .	.	.
-
 158	ta	158
 Hægt	lhensf	hægur
 er	sfg3en	vera
@@ -97,7 +93,6 @@ kerfi	nheo	kerfi
 samtvinnaðra	lhfesf	samtvinnaður
 hlutverka	nhfe	hlutverk
 .	.	.
-
 Hlutverk	nhfn	hlutverk
 eiginmanns	nkee	eiginmaður
 og	c	og
@@ -119,7 +114,6 @@ skilgreinanleg	lhfnsf	skilgreinanlegur
 innbyrðis	lhfeof	innbyrðis
 tengsla	nhfe	tengsl
 .	.	.
-
 Aðgreining	nven	aðgreining
 á	aþ	á
 grundvelli	nkeþ	grundvöllur
@@ -132,7 +126,6 @@ sem	ct	sem
 einkennir	sfg3en	einkenna
 fjölskyldugerðina	nveog	fjölskyldugerð
 .	.	.
-
 Þetta	fahen	þessi
 á	sfg3en	eiga
 einkum	aa	einkum
@@ -140,7 +133,6 @@ við	aa	við
 um	ao	um
 kyn	nheo	kyn
 .	.	.
-
 Hlutverk	nhen	hlutverk
 konunnar	nveeg	kona
 í	aþ	í
@@ -167,7 +159,6 @@ Oakley	e	Oakley
 1980a	ta	1980a
 )	)	)
 .	.	.
-
 159	ta	159
 Sem	c	sem
 fjölskyldumeðlimir	nkfn	fjölskyldumeðlimur
@@ -176,13 +167,10 @@ konur	nvfn	kona
 :	:	:
 Húsmæður	nvfn	húsmóðir
 .	.	.
-
 Eiginkonur	nvfn	eiginkona
 .	.	.
-
 Mæður	nvfn	móðir
 .	.	.
-
 Oakley	e	Oakley
 (	(	(
 1980a	ta	1980a
@@ -201,7 +189,6 @@ jafngilda	sng	jafngilda
 karlkyns	nhee	karlkyn
 hliðstæðu	nveo	hliðstæða
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 skarast	sfm3en	skara
@@ -215,7 +202,6 @@ við	ao	við
 hlutverk	nheo	hlutverk
 eiginkonunnar	nveeg	eiginkona
 .	.	.
-
 Sem	c	sem
 eiginkonu	nveþ	eiginkona
 er	sfg3en	vera
@@ -242,7 +228,6 @@ fyrir	aþ	fyrir
 hreinum	lhfþsf	hreinn
 fötum	nhfþ	fat
 o.s.frv.	as	o.s.frv.
-
 Ekki	aa	ekki
 er	sfg3en	vera
 þess	fphee	það
@@ -255,7 +240,6 @@ verk	nhfo	verk
 fyrir	ao	fyrir
 hana	fpveo	hún
 !	!	!
-
 Á	ao	á
 svipaðan	lkeosf	svipaður
 hátt	nkeo	háttur
@@ -280,7 +264,6 @@ einskonar	lhenof	einskonar
 framhald	nhen	framhald
 hins	fakee	hinn
 .	.	.
-
 Venjubundin	lvensf	venjubundinn
 líkamleg	lvensf	líkamlegur
 umhirða	nven	umhirða
@@ -290,7 +273,6 @@ er	sfg3en	vera
 ábyrgð	nveo	ábyrgð
 móður	nvee	móðir
 .	.	.
-
 Hvað	fshen	hver
 varðar	sfg3en	varða
 húsbóndann	nkeog	húsbóndi
@@ -309,7 +291,6 @@ sé	svg3en	vera
 hlutverk	nhen	hlutverk
 fyrirvinnunnar	nveeg	fyrirvinna
 .	.	.
-
 Bent	sþghen	benda
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -336,7 +317,6 @@ ala	sng	ala
 upp	aa	upp
 börn	nhfo	barn
 .	.	.
-
 Af	aþ	af
 konum	nvfþ	kona
 er	sfg3en	vera
@@ -366,14 +346,12 @@ fjölskyldunnar	nveeg	fjölskylda
 sem	ct	sem
 hóps	nkee	hópur
 .	.	.
-
 Ímyndin	nveng	ímynd
 kona-húsmóðir-eiginkona	nven	kona-húsmóðir-eiginkona
 er	sfg3en	vera
 menningarleg	lvensf	menningarlegur
 fyrirmynd	nven	fyrirmynd
 .	.	.
-
 Að	aþ	að
 mati	nheþ	mat
 Oakley	e	Oakley
@@ -399,7 +377,6 @@ fjölskyldu	nvee	fjölskylda
 og	c	og
 veikinda	nhfe	veikindi
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 henni	fpveþ	hún
 má	sfg3en	mega
@@ -425,7 +402,6 @@ tvo	tfkfo	tveir
 flokka	nkfo	flokkur
 ,	,	,
 þ.e.	as	þ.e.
-
 Rannsóknir	nvfo	rannsókn
 þar	aa	þar
 sem	c	sem
@@ -438,7 +414,6 @@ veikindi	nhfn	veikindi
 verða	sfg3fn	verða
 í	aa	í
 .	.	.
-
 Rannsóknir	nvfo	rannsókn
 þar	aa	þar
 sem	c	sem
@@ -450,7 +425,6 @@ orsök	nven	orsök
 ákveðins	lkeesf	ákveðinn
 veikindaferils	nkee	veikindaferill
 .	.	.
-
 Að	aþ	að
 mati	nheþ	mat
 Oakley	e	Oakley
@@ -475,7 +449,6 @@ tengjast	sfm3fn	tengja
 þeim	fakeþ	sá
 síðari	lkeþvm	síðari
 .	.	.
-
 Hún	fpven	hún
 bendir	sfg3en	benda
 jafnframt	aa	jafnframt
@@ -495,7 +468,6 @@ notið	ssg	njóta
 athygli	nvee	athygli
 rannsakenda	nkfe	rannsakandi
 .	.	.
-
 Við	ao	við
 þetta	faheo	þessi
 má	sfg3en	mega
@@ -531,7 +503,6 @@ annarra	fohfe	annar
 sjónarmiða	nhfe	sjónarmið
 einnig	aa	einnig
 .	.	.
-
 7.3.3	ta	7.3.3
 Fjölskyldan	nveng	fjölskylda
 sem	ct	sem
@@ -549,7 +520,6 @@ fjölskyldu	nvee	fjölskylda
 og	c	og
 veikinda	nhfe	veikindi
 .	.	.
-
 Hér	aa	hér
 á	aa	á
 eftir	aa	eftir
@@ -564,7 +534,6 @@ af	aþ	af
 þeim	fakeþ	sá
 toga	nkeþ	togi
 .	.	.
-
 Davis	e	Davis
 (	(	(
 1963	ta	1963
@@ -577,7 +546,6 @@ við	aþ	við
 alvarlegum	lkeþsf	alvarlegur
 sjúkdómi	nkeþ	sjúkdómur
 .	.	.
-
 Rannsóknin	nveng	rannsókn
 beindist	sfm3eþ	beina
 að	aþ	að
@@ -594,7 +562,6 @@ börnin	nhfng	barn
 fengu	sfg3fþ	fá
 lömunarveiki	nveo	lömunarveiki
 .	.	.
-
 Fjölskyldur	nvfn	fjölskylda
 barnanna	nhfeg	barn
 voru	sfg3fþ	vera
@@ -607,7 +574,6 @@ voru	sfg3fþ	vera
 skoðuð	sþghfn	skoða
 í	aa	í
 .	.	.
-
 Börnin	nhfng	barn
 voru	sfg3fþ	vera
 lögð	sþghfn	leggja
@@ -632,7 +598,6 @@ fjölskylduaðstæðunum	nvfþg	fjölskylduaðstæður
 að	aþ	að
 nýju	lheþsf	nýr
 .	.	.
-
 Davis	e	Davis
 (	(	(
 1963	ta	1963
@@ -664,7 +629,6 @@ til	ae	til
 alvarlegrar	lveesf	alvarlegur
 fötlunar	nvee	fötlun
 ?	?	?
-
 Hefur	sfg3en	hafa
 það	fphen	það
 áhrif	nhfo	áhrif
@@ -682,7 +646,6 @@ hið	gheo	hinn
 læknisfræðilega	lheovf	læknisfræðilegur
 ástand	nheo	ástand
 ?	?	?
-
 Hvaða	fsvfn	hvaða
 breytingar	nvfn	breyting
 verða	sfg3fn	verða
@@ -694,7 +657,6 @@ fjölskyldunni	nveþg	fjölskylda
 vegna	ae	vegna
 sjúkdómsferilsins	nkeeg	sjúkdómsferill
 ?	?	?
-
 Hvernig	aa	hvernig
 stuðla	sfg3fn	stuðla
 viðbrögð	nhfn	viðbragð
@@ -704,7 +666,6 @@ að	aþ	að
 mismunandi	lvfþof	mismunandi
 niðurstöðum	nvfþ	niðurstaða
 ?	?	?
-
 Rannsakendurnir	nkfng	rannsakandi
 hittu	sfg3fþ	hitta
 foreldra	nkfo	foreldrar
@@ -734,7 +695,6 @@ að	c	að
 af	aþ	af
 endurhæfingarstofnun	nveþ	endurhæfingarstofnun
 .	.	.
-
 Sumar	fovfn	sumur
 fjölskyldnanna	nvfeg	fjölskylda
 brugðust	sfm3fþ	bregða
@@ -752,7 +712,6 @@ sína	feveo	sinn
 og	c	og
 einingu	nveo	eining
 .	.	.
-
 Níu	tfhfn	níu
 af	aþ	af
 börnunum	nhfþg	barn
@@ -766,7 +725,6 @@ vegna	ae	vegna
 veikinda	nhfe	veikindi
 sinna	fehfe	sinn
 .	.	.
-
 Fjórar	tfvfn	fjórir
 fjölskyldur	nvfn	fjölskylda
 barna	nhfe	barn
@@ -796,7 +754,6 @@ normalization	e	normalization
 jafnvægisleitni	nven	jafnvægisleitni
 )	)	)
 .	.	.
-
 Tvær	tfvfn	tveir
 fjölskyldur	nvfn	fjölskylda
 alvarlega	aa	alvarlega
@@ -815,7 +772,6 @@ bug	nkeo	bugur
 sem	c	sem
 léttvægri	lveþsf	léttvægur
 .	.	.
-
 Fjölskyldur	nvfn	fjölskylda
 þriggja	tfhfe	þrír
 barna	nhfe	barn
@@ -869,7 +825,6 @@ Davis	e	Davis
 1963	ta	1963
 )	)	)
 .	.	.
-
 Friedman	e	Friedman
 (	(	(
 1963	ta	1963
@@ -902,7 +857,6 @@ voru	sfg3fþ	vera
 með	ao	með
 blóðkrabbamein	nheo	blóðkrabbamein
 .	.	.
-
 Í	aþ	í
 þessari	faveþ	þessi
 rannsókn	nveþ	rannsókn
@@ -925,7 +879,6 @@ sjúkdóms	nkee	sjúkdómur
 á	ao	á
 fjölskyldulíf	nheo	fjölskyldulíf
 .	.	.
-
 Friedman	e	Friedman
 komst	sfm3eþ	koma
 að	aþ	að
@@ -967,7 +920,6 @@ veikindi	nhfo	veikindi
 barna	nhfe	barn
 sinna	fehfe	sinn
 .	.	.
-
 Að	aþ	að
 vissu	lheþsf	viss
 marki	nheþ	mark
@@ -995,7 +947,6 @@ að	aþ	að
 mati	nheþ	mat
 Friedman	e	Friedman
 .	.	.
-
 Þrátt	aa	þrátt
 fyrir	ao	fyrir
 að	c	að
@@ -1020,7 +971,6 @@ að	cn	að
 gera	sng	gera
 það	fpheo	það
 .	.	.
-
 Ákvörðun	nven	ákvörðun
 foreldranna	nkfeg	foreldrar
 byggði	sfg3eþ	byggja
@@ -1040,7 +990,6 @@ takast	snm	taka
 við	ao	við
 aðstæðurnar	nvfog	aðstæður
 .	.	.
-
 Almennt	aa	almennt
 sá	sfg3eþ	sjá
 Friedman	e	Friedman
@@ -1054,7 +1003,6 @@ umönnunarhlutverkið	nheog	umönnunarhlutverk
 en	c	en
 feður	nkfn	faðir
 .	.	.
-
 Hann	fpken	hann
 dró	sfg3eþ	draga
 þá	faveo	sá
@@ -1069,7 +1017,6 @@ fyrri	lveovm	fyrri
 sjálfsmynd	nveo	sjálfsmynd
 foreldranna	nkfeg	foreldrar
 .	.	.
-
 Óvænt	lvensf	óvæntur
 niðurstaða	nven	niðurstaða
 rannsóknarinnar	nveeg	rannsókn
@@ -1115,7 +1062,6 @@ foreldrarnir	nkfng	foreldrar
 lýstu	sfg3fþ	lýsa
 þeim	fphfþ	það
 .	.	.
-
 Þannig	aa	þannig
 höfnuðu	sfg3fþ	hafna
 foreldrar	nkfn	foreldrar
@@ -1132,7 +1078,6 @@ sínum	fekfþ	sinn
 eigin	lkfþof	eigin
 foreldrum	nkfþ	foreldrar
 .	.	.
-
 Rannsókn	nven	rannsókn
 Yarrow	e	Yarrow
 (	(	(
@@ -1152,7 +1097,6 @@ af	aþ	af
 ofangreindu	lheþsf	ofangreindur
 tagi	nheþ	tag
 .	.	.
-
 Hann	fpken	hann
 rannsakaði	sfg3eþ	rannsaka
 nánar	aam	náið
@@ -1162,7 +1106,6 @@ eiginkvenna	nvfe	eiginkona
 geðsjúkra	lkfesf	geðsjúkur
 manna	nkfe	maður
 .	.	.
-
 Athyglin	nveng	athygli
 beindist	sfm3eþ	beina
 m.a.	as	m.a.
@@ -1188,7 +1131,6 @@ umhverfisins	nheeg	umhverfi
 utan	ae	utan
 fjölskyldunnar	nveeg	fjölskylda
 .	.	.
-
 Einnig	aa	einnig
 má	sfg3en	mega
 nefna	sng	nefna
@@ -1205,7 +1147,6 @@ barna	nhfe	barn
 með	ao	með
 aðlögunarvandamál	nhfo	aðlögunarvandamál
 .	.	.
-
 Þessi	faven	þessi
 rannsókn	nven	rannsókn
 er	sfg3en	vera
@@ -1217,7 +1158,6 @@ fjölskylduna	nveog	fjölskylda
 sem	c	sem
 sjúkdómssamhengi	nheo	sjúkdómssamhengi
 .	.	.
-
 Hún	fpven	hún
 gefur	sfg3en	gefa
 vísbendingu	nveo	vísbending
@@ -1247,7 +1187,6 @@ aðgangur	nken	aðgangur
 að	aþ	að
 fjölskyldunni	nveþg	fjölskylda
 .	.	.
-
 Dæmi	nhen	dæmi
 um	ao	um
 þetta	faheo	þessi
@@ -1267,7 +1206,6 @@ sinni	feveþ	sinn
 tengdamóður	nveþ	tengdamóðir
 eiginmannsins	nkeeg	eiginmaður
 .	.	.
-
 Ófullnægjandi	lhenof	ófullnægjandi
 samband	nhen	samband
 af	aþ	af
@@ -1310,7 +1248,6 @@ stömun	nveþ	stömun
 ósjálfráðum	lhfþsf	ósjálfráður
 þvaglátum	nhfþ	þvaglát
 o.s.frv.	as	o.s.frv.
-
 Í	aþ	í
 bókinni	nveþg	bók
 Samfélag	nhen-s	Samfélag
@@ -1333,7 +1270,6 @@ og	c	og
 heilbrigði	nheo	heilbrigði
 barna	nhfe	barn
 .	.	.
-
 Þar	aa	þar
 kemur	sfg3en	koma
 m.a.	as	m.a.
@@ -1362,7 +1298,6 @@ né	c	né
 eina	tfveo	einn
 átt	nveo	átt
 .	.	.
-
 Einstakar	lvfnsf	einstakur
 fjölskyldur	nvfn	fjölskylda
 geta	sfg3fn	geta
@@ -1379,7 +1314,6 @@ sem	ct	sem
 verða	sfg3fn	verða
 fyrir	aa	fyrir
 .	.	.
-
 Engu	foheþ	enginn
 að	aa	að
 síður	aam	síður
@@ -1407,7 +1341,6 @@ heilbrigði	nheo	heilbrigði
 barna	nhfe	barn
 þeirra	fpkfe	hann
 .	.	.
-
 Besta	lvenve	góður
 leiðin	nveng	leið
 til	ae	til
@@ -1450,7 +1383,6 @@ Wilson	e	Wilson
 1989	ta	1989
 )	)	)
 .	.	.
-
 160	ta	160
 Nefna	sng	nefna
 mætti	svg3eþ	mega
@@ -1473,7 +1405,6 @@ verður	sfg3en	verða
 staðar	nkee	staður
 numið	sþghen	nema
 .	.	.
-
 7.3.4	ta	7.3.4
 Fjölskyldan	nveng	fjölskylda
 og	c	og
@@ -1492,7 +1423,6 @@ fjölskyldunnar	nveeg	fjölskylda
 heilbrigði	nheo	heilbrigði
 einstaklinga	nkfe	einstaklingur
 .	.	.
-
 Meginástæðan	nveng	meginástæða
 er	sfg3en	vera
 gagnrýnislaus	lvensf	gagnrýnislaus
@@ -1504,7 +1434,6 @@ fjölskyldunnar	nveeg	fjölskylda
 og	c	og
 fjölskyldulífsins	nheeg	fjölskyldulíf
 .	.	.
-
 Fræðimenn	nkfn	fræðimaður
 sálgreiningarinnar	nveeg	sálgreining
 hafa	sfg3fn	hafa
@@ -1525,7 +1454,6 @@ og	c	og
 fyrir	ao	fyrir
 einstaklinginn	nkeog	einstaklingur
 .	.	.
-
 Í	ao	í
 stað	nkeo	staður
 þess	fphee	það
@@ -1565,7 +1493,6 @@ institution	e	institution
 ,	,	,
 þ	nhen	þ
 .	.	.
-
 Potum	sfg1fn	pota
 í	ao	í
 litlar	lvfosf	lítill
@@ -1585,7 +1512,6 @@ hvað	fshen	hver
 hann	fpken	hann
 heitir	sfg3en	heita
 .	.	.
-
 Nudd	nhen	nudd
 verður	sfg3en	verða
 ávallt	aa	ávallt
@@ -1593,7 +1519,6 @@ að	cn	að
 vera	sng	vera
 leikur	nken	leikur
 .	.	.
-
 Í	ao	í
 eina	lheovf	einn
 skiptið	nheog	skipti
@@ -1614,7 +1539,6 @@ er	sfg3en	vera
 með	ao	með
 magakveisu	nveo	magakveisa
 .	.	.
-
 Barnið	nheng	barn
 veit	sfg3en	vita
 þá	aa	þá
@@ -1637,7 +1561,6 @@ sem	ct	sem
 það	fphen	það
 skilur	sfg3en	skilja
 .	.	.
-
 Við	fp1fn	ég
 lifum	sfg1fn	lifa
 á	aþ	á
@@ -1658,7 +1581,6 @@ snerta	sfg3fn	snerta
 og	c	og
 strjúka	sfg3fn	strjúka
 .	.	.
-
 Börn	nhfn	barn
 sem	ct	sem
 hafa	sfg3fn	hafa
@@ -1697,7 +1619,6 @@ gerir	sfg3en	gera
 hræðslan	nveng	hræðsla
 sitt	feheo	sinn
 .	.	.
-
 Ég	fp1en	ég
 trúi	sfg1en	trúa
 því	fpheþ	það
@@ -1733,7 +1654,6 @@ snertir	sfg3en	snerta
 óeðlilegum	lkeþsf	óeðlilegur
 tilgangi	nkeþ	tilgangur
 .	.	.
-
 Barnið	nheng	barn
 gerir	sfg3en	gera
 sér	fpheþ	sig
@@ -1741,7 +1661,6 @@ grein	nveo	grein
 fyrir	aþ	fyrir
 mismuninum	nkeþg	mismunur
 .	.	.
-
 Þessi	fahfn	þessi
 börn	nhfn	barn
 munu	sfg3fn	munu
@@ -1762,7 +1681,6 @@ við	ao	við
 foreldri	nheo	foreldri
 sitt	feheo	sinn
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 ekki	aa	ekki
@@ -1771,7 +1689,6 @@ um	ao	um
 þessa	faveo	þessi
 hugmynd	nveo	hugmynd
 .	.	.
-
 Er	sfg3en	vera
 ekki	aa	ekki
 eðlilegt	lhensf	eðlilegur
@@ -1800,7 +1717,6 @@ undir	ao	undir
 furðulegheit	nhfo	furðulegheit
 mannlífsins	nheeg	mannlíf
 ?	?	?
-
 Það	fphen	það
 er	sfg3en	vera
 því	aa	því
@@ -1814,7 +1730,6 @@ undirbúa	sng	undirbúa
 þau	fphfo	það
 vel	aa	vel
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 kynnst	ssm	kynna
@@ -1834,7 +1749,6 @@ með	aþ	með
 jákvæðum	lkeþsf	jákvæður
 árangri	nkeþ	árangur
 .	.	.
-
 Undir	aþ	undir
 handleiðslu	nveþ	handleiðsla
 fagfólks	nhee	fagfólk
@@ -1855,7 +1769,6 @@ nudda	sfg3fn	nudda
 hvert	fohen	hver
 annað	foheo	annar
 .	.	.
-
 Mér	fp1eþ	ég
 er	sfg3en	vera
 sagt	sþghen	segja
@@ -1869,7 +1782,6 @@ róist	svm3fn	róa
 til	ae	til
 muna	nkfe	munur
 .	.	.
-
 Allar	fovfn	allur
 lifandi	lvfnof	lifandi
 verur	nvfn	vera
@@ -1885,7 +1797,6 @@ loft	nheo	loft
 og	c	og
 næringu	nveo	næring
 .	.	.
-
 Um	ao	um
 það	fpheo	það
 segir	sfg3en	segja
@@ -1909,7 +1820,6 @@ barninu	nheþg	barn
 lífsnauðsynleg	lvensf	lífsnauðsynlegur
 næring	nven	næring
 .	.	.
-
 Sú	faven	sá
 næring	nven	næring
 er	sfg3en	vera
@@ -1925,7 +1835,6 @@ vítamín	nhfn	vítamín
 og	c	og
 prótín	nhfn	prótín
 .	.	.
-
 Ef	c	ef
 barnið	nheng	barn
 fær	sfg3en	fá
@@ -1944,7 +1853,6 @@ gerist	sfm3en	gera
 stundum	aa	stundum
 .	.	.
 »	»	»
-
 Dr.	as	dr.
 Fredrik	e	Fredrik
 Leboyer	e	Leboyer
@@ -1977,7 +1885,6 @@ ungbarnanuddið	nheog	ungbarnanudd
 á	aþ	á
 Vesturlöndum	nhfþ-s	Vesturland
 .	.	.
-
 Hann	fpken	hann
 kynntist	sfm3eþ	kynna
 ungbarnanuddinu	nheþg	ungbarnanudd
@@ -2011,7 +1918,6 @@ og	c	og
 fögur	lvensf	fagur
 list	nven	list
 .	.	.
-
 Fullur	lkensf	fullur
 virðingar	nvee	virðing
 og	c	og
@@ -2026,7 +1932,6 @@ nudda	sng	nudda
 börn	nhfo	barn
 sín	fehfo	sinn
 .	.	.
-
 Þessi	faven	þessi
 upplifun	nven	upplifun
 varð	sfg3eþ	verða
@@ -2042,7 +1947,6 @@ kom	sfg3eþ	koma
 árið	nheog	ár
 l976	ta	l976
 .	.	.
-
 Bandaríski	lkenvf	bandarískur
 sjúkraþjálfinn	nkeng	sjúkraþjálfi
 og	c	og
@@ -2065,7 +1969,6 @@ hlotið	ssg	hljóta
 alþjóðlega	lveosf	alþjóðlegur
 viðurkenningu	nveo	viðurkenning
 .	.	.
-
 Í	aþ	í
 Nýju-Gíneu	nveþ-s	Nýju-Gínea
 er	sfg3en	vera
@@ -2090,7 +1993,6 @@ móður	nveo	móðir
 sína	feveo	sinn
 .	.	.
 »	»	»
-
 Þar	aa	þar
 ,	,	,
 eins	aa	eins
@@ -2118,7 +2020,6 @@ kynslóð	nveþ	kynslóð
 til	ae	til
 kynslóðar	nvee	kynslóð
 .	.	.
-
 Ég	fp1en	ég
 trúi	sfg1en	trúa
 því	fpheþ	það
@@ -2134,7 +2035,6 @@ fram	aa	fram
 líða	sfg3fn	líða
 stundir	nvfn	stund
 .	.	.
-
 Barnið	nheng	barn
 og	c	og
 kærleikurinn	nkeng	kærleikur
@@ -2173,7 +2073,6 @@ barnið	nheng	barn
 er	sfg3en	vera
 fætt	sþghen	fæða
 .	.	.
-
 Ég	fp1en	ég
 veit	sfg1en	vita
 þú	fp2en	þú
@@ -2195,7 +2094,6 @@ hvað	fshen	hver
 er	sfg3en	vera
 velkomið	lhensf	velkominn
 .	.	.
-
 Í	aþ	í
 mínum	fekeþ	minn
 huga	nkeþ	hugi
@@ -2223,7 +2121,6 @@ gefir	svg2en	gefa
 barninu	nheþg	barn
 tíma	nkeo	tími
 .	.	.
-
 Já	au	já
 ,	,	,
 það	fphen	það
@@ -2248,7 +2145,6 @@ til	ae	til
 hamingjusamrar	lveesf	hamingjusamur
 ævi	nvee	ævi
 .	.	.
-
 Að	aþ	að
 sjálfsögðu	lheþsf	sjálfsagður
 er	sfg1en	vera
@@ -2275,7 +2171,6 @@ við	ao	við
 öldugang	nkeo	öldugangur
 lífsins	nheeg	líf
 .	.	.
-
 Mikilvægasta	lvenve	mikilvægur
 uppsprettan	nveng	uppspretta
 til	ae	til
@@ -2294,7 +2189,6 @@ manneskjunnar	nveeg	manneskja
 og	c	og
 uppalandans	nkeeg	uppalandi
 .	.	.
-
 Það	fahen	sá
 samspil	nhen	samspil
 leggur	sfg3en	leggja
@@ -2304,10 +2198,8 @@ lífshlaupi	nheþ	lífshlaup
 í	aþ	í
 jafnvægi	nheþ	jafnvægi
 .	.	.
-
 Dekur	nhen	dekur
 .	.	.
-
 Ást	nven	ást
 og	c	og
 umhyggja	nven	umhyggja
@@ -2315,7 +2207,6 @@ er	sfg3en	vera
 ekki	aa	ekki
 dekur	nhen	dekur
 .	.	.
-
 Barninu	nheþg	barn
 er	sfg3en	vera
 að	aþ	að
@@ -2336,7 +2227,6 @@ hvað	fsheo	hver
 má	sfg3en	mega
 ekki	aa	ekki
 .	.	.
-
 Oft	aa	oft
 stjórna	sfg3fn	stjórna
 þessi	fahfn	þessi
@@ -2365,7 +2255,6 @@ viti	svg3fn	vita
 það	fpheo	það
 sjálf	fbhfn	sjálfur
 .	.	.
-
 Oft	aa	oft
 lendum	sfg1fn	lenda
 við	fp1fn	ég
@@ -2388,7 +2277,6 @@ enn	aa	enn
 meiri	lhfþvm	mikill
 vandræðum	nhfþ	vandræði
 .	.	.
-
 Barninu	nheþg	barn
 er	sfg3en	vera
 fyrirmunað	sþghen	fyrirmuna
@@ -2409,7 +2297,6 @@ fjögurra	tfhfe	fjórir
 ára	nhfe	ár
 aldur	nkeo	aldur
 .	.	.
-
 Ást	nven	ást
 og	c	og
 elska	nven	elska
@@ -2424,7 +2311,6 @@ að	aþ	að
 góðu	lheþsf	góður
 lífi	nheþ	líf
 .	.	.
-
 Í	aþ	í
 starfi	nheþ	starf
 mínu	feheþ	minn
@@ -2455,7 +2341,6 @@ húfu	nveo	húfa
 elskan	nveng	elska
 ?	?	?
 »	»	»
-
 Barnið	nheng	barn
 skilur	sfg3en	skilja
 ekki	aa	ekki
@@ -2470,7 +2355,6 @@ Viltu	sfg2en	vilja
 þessa	faveo	þessi
 frekar	aam	frekar
 ?	?	?
-
 Nei	au	nei
 ,	,	,
 elskan	nveng	elska
@@ -2479,7 +2363,6 @@ frekar	aam	frekar
 þessa	faveo	þessi
 !	!	!
 »	»	»
-
 Ekki	aa	ekki
 líður	sfg3en	líða
 á	aþ	á
@@ -2520,7 +2403,6 @@ réð	sfg3eþ	ráða
 ekki	aa	ekki
 við	aa	við
 .	.	.
-
 Sálfræðingurinn	nkeng	sálfræðingur
 Grethe	e	Grethe
 Krag	e	Krag
@@ -2549,7 +2431,6 @@ velja	sng	velja
 milli	ae	milli
 hluta	nkfe	hlutur
 .	.	.
-
 Til	ae	til
 dæmis	nhee	dæmi
 þegar	c	þegar
@@ -2570,7 +2451,6 @@ eða	c	eða
 súrmjólk	nveo	súrmjólk
 ?	?	?
 »	»	»
-
 þá	aa	þá
 hendir	sfg3en	henda
 drengurinn	nkeng	drengur
@@ -2592,7 +2472,6 @@ bara	aa	bara
 fá	sng	fá
 morgunmat	nkeo	morgunmatur
 !	!	!
-
 Grethe	e	Grethe
 Krag	e	Krag
 Muller	e	Muller
@@ -2636,7 +2515,6 @@ neikvæðar	lvfnsf	neikvæður
 fyrir	ao	fyrir
 barnið	nheog	barn
 .	.	.
-
 Hún	fpven	hún
 segir	sfg3en	segja
 að	c	að
@@ -2666,7 +2544,6 @@ sem	ct	sem
 ekki	aa	ekki
 skilja	sng	skilja
 .	.	.
-
 Barnalæknirinn	nkeng	barnalæknir
 og	c	og
 rithöfundurinn	nkeng	rithöfundur
@@ -2701,7 +2578,6 @@ eða	c	eða
 þeim	fakeþ	sá
 bláa	lkeþvf	blár
 ?	?	?
-
 Að	cn	að
 hjálpa	sng	hjálpa
 börnum	nhfþ	barn
@@ -2719,7 +2595,6 @@ virðingu	nveo	virðing
 fyrir	aþ	fyrir
 þeim	fpvfþ	hún
 .	.	.
-
 Börn	nhfn	barn
 eru	sfg3fn	vera
 komin	sþghfn	koma
@@ -2753,7 +2628,6 @@ yfir	ao	yfir
 annað	foheo	annar
 .	.	.
 »	»	»
-
 Aðfinnslur	nvfn	aðfinnsla
 og	c	og
 gagnrýni	nven	gagnrýni
@@ -2779,7 +2653,6 @@ grein	nveo	grein
 fyrir	aþ	fyrir
 því	fpheþ	það
 .	.	.
-
 Í	aþ	í
 Bandaríkjunum	nhfþgs	Bandaríki
 fór	sfg3eþ	fara
@@ -2810,7 +2683,6 @@ börn	nhfo	barn
 tvær	tfvfo	tveir
 vikur	nvfo	vika
 .	.	.
-
 Neminn	nkeng	nemi
 nam	sfg3eþ	nema
 allt	foheo	allur
@@ -2821,7 +2693,6 @@ var	sfg3eþ	vera
 við	ao	við
 börnin	nhfog	barn
 .	.	.
-
 Þegar	c	þegar
 hlustað	sþghen	hlusta
 var	sfg3eþ	vera
@@ -2844,7 +2715,6 @@ voru	sfg3fþ	vera
 neikvæðar	lvfnsf	neikvæður
 athugasemdir	nvfn	athugasemd
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 hrópað	sþghen	hrópa
@@ -2858,7 +2728,6 @@ gerir	sfg2en	gera
 mig	fp1eo	ég
 brjálaða	lveosf	brjálaður
 !	!	!
-
 Hvað	fshen	hver
 ,	,	,
 ertu	sfg2en	vera
@@ -2884,7 +2753,6 @@ buxurnar	nvfog	buxur
 ert	sfg2en	vera
 sóði	nken	sóði
 .	.	.
-
 /	/	/
 Heyrðu	sbg2en	heyra
 ,	,	,
@@ -2916,7 +2784,6 @@ að	cn	að
 sofa	sng	sofa
 !	!	!
 »	»	»
-
 Hver	fsken	hver
 kannast	sfm3en	kanna
 því	fpheþ	það
@@ -2925,7 +2792,6 @@ ekki	aa	ekki
 við	ao	við
 þetta	faheo	þessi
 ?	?	?
-
 Að	aþ	að
 sjálfsögðu	lheþsf	sjálfsagður
 þarf	sfg3en	þurfa
@@ -2966,7 +2832,6 @@ beðið	sþghen	bíða
 er	sfg3en	vera
 um	ao	um
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 hluti	nken	hluti
@@ -2974,7 +2839,6 @@ af	aþ	af
 góðu	lheþsf	góður
 uppeldi	nheþ	uppeldi
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 getur	sfg3en	geta
@@ -3012,7 +2876,6 @@ hæglega	aa	hæglega
 tekið	ssg	taka
 yfirhöndina	nveog	yfirhönd
 .	.	.
-
 Neikvæð	lvensf	neikvæður
 persónubundin	lvensf	persónubundinn
 gagnrýni	nven	gagnrýni
@@ -3027,7 +2890,6 @@ ekki	aa	ekki
 milli	ae	milli
 hjóna	nhfe	hjón
 .	.	.
-
 Slík	fbven	slíkur
 gagnrýni	nven	gagnrýni
 er	sfg3en	vera
@@ -3036,7 +2898,6 @@ raun	nveþ	raun
 andlegt	lhensf	andlegur
 ofbeldi	nhen	ofbeldi
 .	.	.
-
 Jákvæðar	lvfnsf	jákvæður
 kærleiksríkar	lvfnsf	kærleiksríkur
 athugasemdir	nvfn	athugasemd
@@ -3051,7 +2912,6 @@ uppeldi	nheþ	uppeldi
 andleg	lvensf	andlegur
 næring	nven	næring
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 leyft	ssg	leyfa
@@ -3066,7 +2926,6 @@ raun	nveþ	raun
 ekki	aa	ekki
 erfitt	lhensf	erfiður
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 gefur	sfg3en	gefa
@@ -3077,7 +2936,6 @@ að	c	að
 gerir	sfg3en	gera
 kröfur	nvfo	krafa
 !	!	!
-
 Kröfur	nvfo	krafa
 sem	ct	sem
 eru	sfg3fn	vera
@@ -3087,7 +2945,6 @@ fyrir	ao	fyrir
 okkur	fp1fo	ég
 sjálf	fbhfo	sjálfur
 .	.	.
-
 Barnauppeldi	nhen	barnauppeldi
 gerir	sfg3en	gera
 meðal	ae	meðal
@@ -3108,7 +2965,6 @@ gleymum	svg1fn	gleyma
 þeim	fpvfþ	hún
 sjálf	fbhfn	sjálfur
 .	.	.
-
 Það	fphen	það
 gerir	sfg3en	gera
 einnig	aa	einnig
@@ -3136,7 +2992,6 @@ ekki	aa	ekki
 að	aþ	að
 barninu	nheþg	barn
 .	.	.
-
 Barn	nhen	barn
 ,	,	,
 sem	ct	sem
@@ -3152,7 +3007,6 @@ skilur	sfg3en	skilja
 það	fpheo	það
 ekki	aa	ekki
 .	.	.
-
 Blessað	lhensf	blessaður
 barnið	nheng	barn
 veit	sfg3en	vita
@@ -3168,7 +3022,6 @@ og	c	og
 veröldin	nveng	veröld
 hrynur	sfg3en	hrynja
 .	.	.
-
 Að	cn	að
 tjasla	sng	tjasla
 brotunum	nhfþg	brot
@@ -3177,7 +3030,6 @@ er	sfg3en	vera
 ekki	aa	ekki
 auðvelt	lhensf	auðveldur
 .	.	.
-
 Foreldrar	nkfn	foreldrar
 gleyma	sfg3fn	gleyma
 þegar	c	þegar
@@ -3195,7 +3047,6 @@ kemst	sfm3en	koma
 það	fphen	það
 upp	aa	upp
 .	.	.
-
 Þau	fahfn	sá
 litlu	lhfnvf	lítill
 geta	sfg3fn	geta
@@ -3215,7 +3066,6 @@ vonbrigðin	nhfog	vonbrigði
 jafnvel	aa	jafnvel
 inni	aa	inni
 .	.	.
-
 Stundum	aa	stundum
 sýna	sfg3fn	sýna
 þau	fphfn	það
@@ -3233,7 +3083,6 @@ gerst	ssm	gera
 með	ao	með
 barnið	nheog	barn
 !	!	!
-
 Nýlegar	lvfnsf	nýlegur
 rannsóknir	nvfn	rannsókn
 sýna	sfg3fn	sýna
@@ -3250,7 +3099,6 @@ allt	fohen	allur
 til	ae	til
 frumbernsku	nvee	frumbernska
 .	.	.
-
 Í	aþ	í
 álagi	nheþ	álag
 og	c	og
@@ -3282,7 +3130,6 @@ ekki	aa	ekki
 við	ao	við
 vandann	nkeog	vandi
 .	.	.
-
 Hið	ghen	hinn
 sama	fbhen	sami
 getur	sfg3en	geta
@@ -3323,7 +3170,6 @@ gert	sþghen	gera
 í	aþ	í
 málinu	nheþg	mál
 .	.	.
-
 Þekkt	lhfnsf	þekktur
 fyrirbæri	nhfn	fyrirbæri
 sem	ct	sem
@@ -3350,7 +3196,6 @@ sínum	fehfþ	sinn
 oftar	aam	oft
 feðra	nkfe	faðir
 .	.	.
-
 Þær	favfo	sá
 skelfilegu	lvfosf	skelfilegu
 athafnir	nvfo	athöfn
@@ -3365,7 +3210,6 @@ foreldris	nhee	foreldri
 í	aþ	í
 æsku	nveþ	æska
 .	.	.
-
 Að	aþ	að
 sjálfsögðu	lheþsf	sjálfsagður
 ber	sfg3en	bera
@@ -3383,7 +3227,6 @@ og	c	og
 beinlínis	aa	beinlínis
 hættulegt	lhensf	hættulegur
 .	.	.
-
 Að	cn	að
 faðmast	snm	faðma
 Mig	fp1eo	ég
@@ -3419,7 +3262,6 @@ pempíulegir	lkfnsf	pempíulegur
 eða	c	eða
 kvenlegir	lkfnsf	kvenlegur
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 telja	sfg3fn	telja
@@ -3444,7 +3286,6 @@ fram	aa	fram
 eftir	aþ	eftir
 aldri	nkeþ	aldur
 .	.	.
-
 Ég	fp1en	ég
 bið	sfg1en	biðja
 ykkur	fp2fo	þú
@@ -3455,7 +3296,6 @@ gleymið	sfg2fn	gleyma
 því	fpheþ	það
 ekki	aa	ekki
 .	.	.
-
 Og	c	og
 svo	aa	svo
 eru	sfg3fn	vera
@@ -3488,7 +3328,6 @@ hreysti	nveo	hreysti
 ,	,	,
 töffaraskap	nkeo	töffaraskapur
 .	.	.
-
 Allt	fohen	allur
 er	sfg3en	vera
 þetta	fahen	þessi
@@ -3531,7 +3370,6 @@ minn	feken	minn
 elska	sfg1en	elska
 þig	fp2eo	þú
 .	.	.
-
 Ég	fp1en	ég
 segi	sfg1en	segja
 því	fpheþ	það
@@ -3559,7 +3397,6 @@ pabba	nkee	pabbi
 að	cn	að
 halda	sng	halda
 .	.	.
-
 Draumur	nken	draumur
 Ég	fp1en	ég
 á	sfg1en	eiga
@@ -3576,7 +3413,6 @@ deila	sng	deila
 með	aþ	með
 þér	fp2eþ	þú
 .	.	.
-
 Ef	c	ef
 við	fp1fn	ég
 fylltum	svg1fþ	fylla
@@ -3611,7 +3447,6 @@ heimurinn	nkeng	heimur
 yrði	svg3eþ	verða
 betri	lkenvm	góður
 .	.	.
-
 Er	sfg3en	vera
 ekki	aa	ekki
 allt	fohen	allur
@@ -3629,7 +3464,6 @@ og	c	og
 neikvæðum	lvfþsf	neikvæður
 innprentunum	nvfþ	innprentun
 ?	?	?
-
 Kærleiksleysi	nhen	kærleiksleysi
 dregur	sfg3en	draga
 í	ao	í
@@ -3643,7 +3477,6 @@ reiði	nveo	reiði
 jafnvel	aa	jafnvel
 hatur	nheo	hatur
 .	.	.
-
 Er	sfg3en	vera
 ekki	aa	ekki
 hatur	nhen	hatur
@@ -3667,7 +3500,6 @@ að	cn	að
 vita	sng	vita
 af	aa	af
 ?	?	?
-
 Engin	fohfn	enginn
 tvö	tfhfn	tveir
 börn	nhfn	barn
@@ -3702,7 +3534,6 @@ er	sfg3en	vera
 á	aa	á
 haldið	sþghen	halda
 .	.	.
-
 Öll	fohfn	allur
 börn	nhfn	barn
 hafa	sfg3fn	hafa
@@ -3725,7 +3556,6 @@ elskum	sfg1fn	elska
 þau	fphfo	það
 fyrir	aa	fyrir
 .	.	.
-
 Er	sfg3en	vera
 ekki	aa	ekki
 sagt	sþghen	segja
@@ -3744,7 +3574,6 @@ inn	aa	inn
 í	ao	í
 himnaríki	nheo	himnaríki
 .	.	.
-
 Eða	c	eða
 ,	,	,
 ef	c	ef
@@ -3767,7 +3596,6 @@ inn	aa	inn
 í	ao	í
 himnaríki	nheo	himnaríki
 !	!	!
-
 Sakleysi	nhen	sakleysi
 barna	nhfe	barn
 ,	,	,
@@ -3788,7 +3616,6 @@ sem	ct	sem
 eftir	aa	eftir
 tekur	sfg3en	taka
 .	.	.
-
 Okkur	fp1fþ	ég
 er	sfg3en	vera
 sagt	sþghen	segja
@@ -3803,7 +3630,6 @@ sinnum	nhfþ	sinn
 á	aþ	á
 sólarhring	nkeþ	sólarhringur
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 viss	lvensf	viss
@@ -3813,7 +3639,6 @@ að	c	að
 er	sfg3en	vera
 rétt	lhensf	réttur
 .	.	.
-
 Hugsið	sbg2fn	hugsa
 ykkur	fp2fþ	þú
 hvílík	fbhfn	hvílíkur
@@ -3833,7 +3658,6 @@ og	c	og
 betri	lveevm	góður
 líðanar	nvee	líðan
 .	.	.
-
 Að	cn	að
 fá	sng	fá
 að	cn	að
@@ -3848,7 +3672,6 @@ til	ae	til
 eru	sfg3fn	vera
 forréttindi	nhfn	forréttindi
 .	.	.
-
 Njótum	sfg1fn	njóta
 þeirra	fahfe	sá
 forréttinda	nhfe	forréttindi
@@ -3859,7 +3682,6 @@ felst	sfm3en	fela
 djúpstæð	lvensf	djúpstæður
 viska	nven	viska
 .	.	.
-
 Lærum	sfg1fn	læra
 af	aa	af
 og	c	og
@@ -3869,7 +3691,6 @@ fast	aa	fast
 þann	fakeo	sá
 lærdóm	nkeo	lærdómur
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 eins	aa	eins
@@ -3879,7 +3700,6 @@ hefði	svg3eþ	hafa
 vitjað	ssg	vitja
 mín	fp1ee	ég
 .	.	.
-
 Ég	fp1en	ég
 veit	sfg1en	vita
 ekki	aa	ekki
@@ -3887,7 +3707,6 @@ hvað	fshen	hver
 það	fphen	það
 er	sfg3en	vera
 .	.	.
-
 En	c	en
 ekkert	fohen	enginn
 í	aþ	í
@@ -3902,7 +3721,6 @@ meira	aam	meira
 en	c	en
 þér	fp2eþ	þú
 .	.	.
-
 Þig	fp2eo	þú
 aldrei	aa	aldrei
 undir	aþ	undir
@@ -3916,14 +3734,12 @@ ber	sfg1en	bera
 hjarta	nheþ	hjarta
 mér	fp1eþ	ég
 .	.	.
-
 Gunnar	nken-s	Gunnar
 Dal	nken-s	Dal
 Ekki	aa	ekki
 spilla	sfg3fn	spilla
 mér	fp1eþ	ég
 .	.	.
-
 Ég	fp1en	ég
 veit	sfg1en	vita
 vel	aa	vel
@@ -3946,7 +3762,6 @@ að	cn	að
 prófa	sng	prófa
 þig	fp2eo	þú
 .	.	.
-
 Ekki	aa	ekki
 hika	sng	hika
 við	ao	við
@@ -3968,7 +3783,6 @@ veitir	sfg3en	veita
 mér	fp1eþ	ég
 öryggi	nheo	öryggi
 .	.	.
-
 Ekki	aa	ekki
 leyfa	sng	leyfa
 mér	fp1eþ	ég
@@ -3993,7 +3807,6 @@ strax	aa	strax
 í	aþ	í
 byrjun	nveþ	byrjun
 .	.	.
-
 Ekki	aa	ekki
 láta	sng	láta
 mér	fp1eþ	ég
@@ -4017,7 +3830,6 @@ hvað	fshen	hver
 er	sfg1en	vera
 stór	lkensf	stór
 .	.	.
-
 Ekki	aa	ekki
 leiðrétta	sng	leiðrétta
 mig	fp1eo	ég
@@ -4037,7 +3849,6 @@ mig	fp1eo	ég
 í	aþ	í
 einrúmi	nheþ	einrúm
 .	.	.
-
 Ekki	aa	ekki
 láta	sng	láta
 mig	fp1eo	ég
@@ -4058,14 +3869,12 @@ mig	fp1eo	ég
 verðmætamati	nheþ	verðmætamat
 mínu	feheþ	minn
 .	.	.
-
 Ekki	aa	ekki
 hlífa	sng	hlífa
 mér	fp1eþ	ég
 við	aþ	við
 afleiðingunum	nvfþg	afleiðing
 .	.	.
-
 Stundum	aa	stundum
 þarf	sfg1en	þurfa
 ég	fp1en	ég
@@ -4082,7 +3891,6 @@ ekki	aa	ekki
 alltaf	aa	alltaf
 sársaukalaust	lhensf	sársaukalaus
 .	.	.
-
 Ekki	aa	ekki
 æsa	sng	æsa
 þig	fp2eo	þú
@@ -4114,7 +3922,6 @@ að	cn	að
 hindra	sng	hindra
 mig	fp1eo	ég
 .	.	.
-
 Ekki	aa	ekki
 gera	sfg3fn	gera
 of	aa	of
@@ -4134,7 +3941,6 @@ ná	sng	ná
 athygli	nveþ	athygli
 þinni	feveþ	þinn
 .	.	.
-
 Ekki	aa	ekki
 þrasa	sng	þrasa
 ,	,	,
@@ -4148,7 +3954,6 @@ og	c	og
 heyri	svg1en	heyra
 ekkert	foheo	enginn
 .	.	.
-
 Ekki	aa	ekki
 gleyma	sng	gleyma
 því	fpheþ	það
@@ -4173,7 +3978,6 @@ sjálfum	fbkeþ	sjálfur
 mér	fp1eþ	ég
 samkvæmur	lkensf	samkvæmur
 .	.	.
-
 Ekki	aa	ekki
 gefa	sng	gefa
 mér	fp1eþ	ég
@@ -4191,7 +3995,6 @@ svo	aa	svo
 miklum	lhfþsf	mikill
 vonbrigðum	nhfþ	vonbrigði
 .	.	.
-
 Ekki	aa	ekki
 treysta	sng	treysta
 um	aa	um
@@ -4200,7 +4003,6 @@ of	aa	of
 heiðarleika	nkeo	heiðarleiki
 minn	fekeo	minn
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 auðvelt	lhensf	auðveldur
@@ -4212,7 +4014,6 @@ svo	aa	svo
 segi	svg1en	segja
 ósatt	lheosf	ósannur
 .	.	.
-
 Ekki	aa	ekki
 vera	sng	vera
 sjálfri	fbveþ	sjálfur
@@ -4230,7 +4031,6 @@ að	cn	að
 treysta	sng	treysta
 þér	fp2eþ	þú
 .	.	.
-
 Ekki	aa	ekki
 gera	sng	gera
 lítið	lheosf	lítill
@@ -4259,7 +4059,6 @@ að	cn	að
 skilja	sng	skilja
 mig	fp1eo	ég
 .	.	.
-
 Ekki	aa	ekki
 daufheyrast	sfm3fn	daufheyrast
 þegar	c	þegar
@@ -4280,7 +4079,6 @@ annarra	fokfe	annar
 eftir	aþ	eftir
 svörum	nhfþ	svar
 .	.	.
-
 Ekki	aa	ekki
 gefa	sng	gefa
 í	ao	í
@@ -4294,7 +4092,6 @@ nn	x	nn
 og	c	og
 gallalaus	lvensf	gallalaus
 .	.	.
-
 Það	fphen	það
 verður	sfg3en	verða
 svo	aa	svo
@@ -4312,7 +4109,6 @@ að	c	að
 ert	sfg2en	vera
 hvorugt	fohen	hvorugur
 .	.	.
-
 Ekki	aa	ekki
 líta	sng	líta
 á	ao	á
@@ -4324,7 +4120,6 @@ biðja	sng	biðja
 mig	fp1eo	ég
 afsökunar	nvee	afsökun
 .	.	.
-
 Mér	fp1eþ	ég
 hitnar	sfg3en	hitna
 um	ao	um
@@ -4345,7 +4140,6 @@ um	ao	um
 en	c	en
 áður	aa	áður
 .	.	.
-
 Ekki	aa	ekki
 gleyma	sng	gleyma
 hversu	aa	hversu
@@ -4355,7 +4149,6 @@ vex	sfg1en	vaxa
 og	c	og
 þroskast	sfm1en	þroska
 .	.	.
-
 Það	fphen	það
 hlýtur	sfg3en	hljóta
 að	cn	að
@@ -4370,7 +4163,6 @@ en	c	en
 reyndu	sbg2en	reyna
 samt	aa	samt
 .	.	.
-
 Ekki	aa	ekki
 gleyma	sng	gleyma
 hversu	aa	hversu
@@ -4388,7 +4180,6 @@ prófa	sng	prófa
 mig	fp1eo	ég
 áfram	aa	áfram
 .	.	.
-
 ÉG	fp1en	ég
 mundi	svg1eþ	munu
 ekkert	fohen	enginn
@@ -4406,7 +4197,6 @@ að	cn	að
 umbera	sng	umbera
 mig	fp1eo	ég
 .	.	.
-
 Ekki	aa	ekki
 gleyma	sng	gleyma
 að	c	að
@@ -4429,7 +4219,6 @@ er	sfg3en	vera
 það	fphen	það
 ekki	aa	ekki
 ?	?	?
-
 (	(	(
 Ókunnur	lkensf	ókunnur
 höfundur	nken	höfundur
@@ -4438,15 +4227,12 @@ höfundur	nken	höfundur
 úr	aþ	úr
 ensku	nveþ	enska
 .	.	.
-
 Þ.Á	as	Þ.Á
 .	.	.
 )	)	)
-
 Heimilið	nheng	heimili
 og	c	og
 fjölskyldan	nveng	fjölskylda
-
 Dýrmætasta	lvenve	dýrmætur
 eign	nven	eign
 hverrar	fovee	hver
@@ -4454,7 +4240,6 @@ hverrar	fovee	hver
 er	sfg3en	vera
 fjöldskyldan	nveng	fjöldskylda
 .	.	.
-
 Um	ao	um
 þessar	favfo	þessi
 mundir	nvfo	mund
@@ -4482,7 +4267,6 @@ skilningi	nkeþ	skilningur
 okkar	fp1fe	ég
 nú	aa	nú
 .	.	.
-
 Tíðni	nven	tíðni
 hjónaskilnaða	nkfe	hjónaskilnaður
 tvöfaldaðist	sfm3eþ	tvöfalda
@@ -4507,7 +4291,6 @@ voru	sfg3fþ	vera
 enn	aa	enn
 tíðari	lhfnvm	tíður
 .	.	.
-
 Nýverið	aa	nýverið
 birtist	sfm3eþ	birta
 grein	nven	grein
@@ -4523,7 +4306,6 @@ dauðadæmt	lhensf	dauðadæmdur
 Norðurlöndum	nhfþ-s	Norðurlönd
 ?	?	?
 »	»	»
-
 Þar	aa	þar
 kemur	sfg3en	koma
 fram	aa	fram
@@ -4539,7 +4321,6 @@ helmingur	nken	helmingur
 hjóna	nhfe	hjón
 skilji	svg3en	skilja
 .	.	.
-
 Þetta	fahen	þessi
 þýðir	sfg3en	þýða
 að	c	að
@@ -4569,7 +4350,6 @@ móður-	nveo	móðurfjölskylda
 eða	c	eða
 föðurfjölskyldu	nveo	föðurfjölskylda
 .	.	.
-
 Árið	nheog	ár
 l996	ta	l996
 skildu	sfg3fþ	skilja
@@ -4588,7 +4368,6 @@ hjón	nhfn	hjón
 á	aþ	á
 mínútu	nveþ	mínúta
 .	.	.
-
 Í	aþ	í
 Demographic	e	Demographic
 Yearbook	e	Yearbook
@@ -4620,7 +4399,6 @@ aukist	ssm	auka
 í	ao	í
 50%	tp	50%
 .	.	.
-
 Í	aþ	í
 sama	fbheþ	sami
 riti	nheþ	rit
@@ -4645,7 +4423,6 @@ og	c	og
 skólagöngu	nveo	skólaganga
 snertir	sfg3en	snerta
 .	.	.
-
 Nýverið	aa	nýverið
 las	sfg1eþ	lesa
 ég	fp1en	ég
@@ -4665,7 +4442,6 @@ l00	tfhfe	l00
 brúðkaupsafmælið	nheog	brúðkaupsafmæli
 sitt	feheo	sinn
 .	.	.
-
 Konan	nveng	kona
 var	sfg3eþ	vera
 ll6	tfhfe	ll6
@@ -4676,7 +4452,6 @@ hennar	fpvee	hún
 l26	tfhfe	l26
 ára	nhfe	ár
 .	.	.
-
 Mikið	lhensf	mikill
 var	sfg3eþ	vera
 um	ao	um
@@ -4690,7 +4465,6 @@ læti	nhfo	læti
 af	aþ	af
 hamingju	nveþ	hamingja
 .	.	.
-
 Hvernig	aa	hvernig
 má	sfg3en	mega
 það	fphen	það
@@ -4724,7 +4498,6 @@ fegurðarinnar	nveeg	fegurð
 sem	ct	sem
 var	sfg3eþ	vera
 .	.	.
-
 Svörin	nhfng	svar
 eru	sfg3fn	vera
 trúlega	aa	trúlega
@@ -4733,7 +4506,6 @@ mörg	lhfnsf	margur
 og	c	og
 hjónaskilnaðirnir	nkfng	hjónaskilnaður
 .	.	.
-
 Þó	aa	þó
 ekki	aa	ekki
 hafi	svg3en	hafa
@@ -4783,7 +4555,6 @@ tilfinningalega	aa	tilfinningalega
 eða	c	eða
 félagslega	aa	félagslega
 .	.	.
-
 Lífsafstaða	nven	lífsafstaða
 og	c	og
 sjónarmið	nhfn	sjónarmið
@@ -4795,7 +4566,6 @@ fjarlægist	sfm3en	fjarlægja
 hvert	fohen	hver
 annað	foheo	annar
 .	.	.
-
 Það	fahen	sá
 sem	ct	sem
 er	sfg3en	vera
@@ -4824,7 +4594,6 @@ sársauka	nkee	sársauki
 og	c	og
 niðurlægingar	nvee	niðurlæging
 .	.	.
-
 Öllum	fokfþ	allur
 líður	sfg3en	líða
 illa	aa	illa
@@ -4833,7 +4602,6 @@ ekki	aa	ekki
 síst	aae	síður
 börnunum	nhfþg	barn
 .	.	.
-
 Börnin	nhfng	barn
 verða	sfg3fn	verða
 þolendur	nkfn	þolandi
@@ -4862,7 +4630,6 @@ henni	fpveþ	hún
 er	sfg3en	vera
 ætlað	sþghen	ætla
 .	.	.
-
 Að	c	að
 tveir	tfkfn	tveir
 fullorðnir	lkfnsf	fullorðinn
@@ -4876,7 +4643,6 @@ ekki	aa	ekki
 sök	nven	sök
 barnanna	nhfeg	barn
 .	.	.
-
 Öllum	fokfþ	allur
 foreldrum	nkfþ	foreldrar
 ætti	svg3eþ	eiga
@@ -4901,7 +4667,6 @@ sín	fehfo	sinn
 friðsamlegan	lkeosf	friðsamlegur
 hátt	nkeo	háttur
 .	.	.
-
 Það	fphen	það
 liggur	sfg3en	liggja
 í	aþ	í
@@ -4926,7 +4691,6 @@ sem	c	sem
 jafnvægi	nhen	jafnvægi
 ríkir	sfg3en	ríkja
 .	.	.
-
 Virðing	nven	virðing
 foreldra	nkfe	foreldrar
 fyrir	aþ	fyrir
@@ -4942,7 +4706,6 @@ gleymast	snm	gleyma
 leiðir	nvfn	leið
 skilji	svg3fn	skilja
 .	.	.
-
 Börn	nhfn	barn
 sem	ct	sem
 ekki	aa	ekki
@@ -4962,14 +4725,12 @@ alla	foveo	allur
 þess	fphee	það
 dæmi	nheo	dæmi
 .	.	.
-
 Börn	nhfn	barn
 verða	sfg3fn	verða
 að	cn	að
 geta	sng	geta
 treyst	ssg	treysta
 .	.	.
-
 Barni	nheþ	barn
 sem	ct	sem
 ekki	aa	ekki

@@ -30,14 +30,12 @@ of	aa	of
 mikið	lheosf	mikill
 vald	nheo	vald
 .	.	.
-
 Tæknin	nveng	tækni
 þróast	sfm3en	þróa
 út	aa	út
 frá	aþ	frá
 hugmyndafræði	nveþ	hugmyndafræði
 .	.	.
-
 Hinn	gken	hinn
 vestræni	lkenvf	vestrænn
 heimur	nken	heimur
@@ -65,7 +63,6 @@ hann	fpkeo	hann
 á	ao	á
 filmu	nveo	filma
 .	.	.
-
 Hvatning	nven	hvatning
 Guðmundar	nkee-s	Guðmundur
 Kamban	nkee-s	Kamban
@@ -117,7 +114,6 @@ taldi	sfg3eþ	telja
 útbreidda	lveosf	útbreiddur
 erlendis	aa	erlendis
 .	.	.
-
 Honum	fpkeþ	hann
 þótti	sfg3eþ	þykja
 mikilvægt	lhensf	mikilvægur
@@ -136,7 +132,6 @@ taldi	sfg3eþ	telja
 í	aþ	í
 lykilstöðu	nveþ	lykilstaða
 .	.	.
-
 Það	fahen	sá
 sem	ct	sem
 Guðmundur	nken-s	Guðmundur
@@ -178,7 +173,6 @@ um	ao	um
 heim	nkeo	heimur
 allan	fokeo	allur
 .	.	.
-
 Vald	nhen	vald
 áhorfandans	nkeeg	áhorfandi
 lá	sfg3eþ	liggja
@@ -207,7 +201,6 @@ sá	sfg3eþ	sjá
 af	aþ	af
 landinu	nheþg	land
 .	.	.
-
 Þótt	c	þótt
 hugmyndir	nvfn	hugmynd
 hans	fpkee	hann
@@ -262,7 +255,6 @@ kjölfar	nheo	kjölfar
 Íslandsmyndar	nvee-s	Íslandsmynd
 Fitzpatricks	e	Fitzpatricks
 .	.	.
-
 Kamban	nkeþ-s	Kamban
 þótti	sfg3eþ	þykja
 mikilvægt	lhensf	mikilvægur
@@ -282,7 +274,6 @@ vald	nheo	vald
 þágu	nveþ	þága
 þjóðarinnar	nveeg	þjóð
 .	.	.
-
 Þótt	c	þótt
 ýmsir	fokfn	ýmis
 hafi	svg3fn	hafa
@@ -318,7 +309,6 @@ fyrir	ao	fyrir
 íslenska	lkfosf	íslenskur
 lesendur	nkfo	lesandi
 .	.	.
-
 Það	fphen	það
 mætti	svg3eþ	mega
 því	aa	því
@@ -346,7 +336,6 @@ leggjast	snm	leggja
 gerð	nveo	gerð
 Íslandsmyndar	nvee-s	Íslandsmynd
 .	.	.
-
 Sú	faven	sá
 ákvörðun	nven	ákvörðun
 skilaði	sfg3eþ	skila
@@ -376,10 +365,8 @@ fjórða	lkeevf	fjórði
 20.	ta	20.
 aldar	nvee	öld
 .	.	.
-
 1	ta	1
 .	.	.
-
 Þótt	c	þótt
 marxískar	lvfnsf	marxískur
 kenningar	nvfn	kenning
@@ -402,7 +389,6 @@ afmörkun	nveo	afmörkun
 á	aþ	á
 lagahugtakinu	nheþg	lagahugtak
 .	.	.
-
 Þessar	favfn	þessi
 kenningar	nvfn	kenning
 ræða	sfg3fn	ræða
@@ -424,7 +410,6 @@ niðurstöðu	nveþ	niðurstaða
 um	ao	um
 lög	nhfo	lag
 .	.	.
-
 Líkt	aa	líkt
 og	c	og
 við	fp1fn	ég
@@ -438,7 +423,6 @@ er	sfg3en	vera
 ást	nven	ást
 ?	?	?
 »	»	»
-
 til	ae	til
 fullnustu	nvee	fullnusta
 með	aþ	með
@@ -474,7 +458,6 @@ eru	sfg3fn	vera
 lög	nhfn	lag
 ?	?	?
 »	»	»
-
 með	aþ	með
 því	fpheþ	það
 að	cn	að
@@ -485,7 +468,6 @@ og	c	og
 afleiðingum	nvfþ	afleiðing
 laganna	nhfeg	lag
 .	.	.
-
 Þrátt	aa	þrátt
 fyrir	ao	fyrir
 þetta	faheo	þessi
@@ -529,7 +511,6 @@ niðurstöðu	nveþ	niðurstaða
 um	ao	um
 lög	nhfo	lag
 .	.	.
-
 Þessar	favfn	þessi
 fullyrðingar	nvfn	fullyrðing
 eru	sfg3fn	vera
@@ -553,7 +534,6 @@ hafa	sfg3fn	hafa
 í	aþ	í
 samfélaginu	nheþg	samfélag
 .	.	.
-
 Þessar	favfn	þessi
 fullyrðingar	nvfn	fullyrðing
 verða	sfg3fn	verða
@@ -568,7 +548,6 @@ fullyrðingum	nvfþ	fullyrðing
 um	ao	um
 lögin	nhfog	lag
 .	.	.
-
 Þvert	aa	þvert
 á	aa	á
 móti	aa	móti
@@ -591,7 +570,6 @@ lög	nhfn	lag
 ?	?	?
 »	»	»
 .	.	.
-
 Þær	fpvfn	hún
 verða	sfg3fn	verða
 hvorki	c	hvorki
@@ -612,7 +590,6 @@ endranær	aa	endranær
 haft	ssg	hafa
 þýðingu	nveo	þýðing
 .	.	.
-
 Empírískar	lvfnsf	empírískur
 kenningar	nvfn	kenning
 um	ao	um
@@ -629,7 +606,6 @@ með	aþ	með
 sjálfstæðum	lkeþsf	sjálfstæður
 hætti	nkeþ	háttur
 .	.	.
-
 Þær	fpvfn	hún
 benda	sfg3fn	benda
 þó	aa	þó
@@ -645,7 +621,6 @@ við	ao	við
 afmörkun	nveo	afmörkun
 hugtaksins	nheeg	hugtak
 .	.	.
-
 Ef	c	ef
 lögin	nhfng	lag
 hafa	sfg3fn	hafa
@@ -676,7 +651,6 @@ við	ao	við
 afmörkun	nveo	afmörkun
 lagahugtaksins	nheeg	lagahugtak
 .	.	.
-
 Því	fpheþ	það
 aðeins	aa	aðeins
 að	c	að
@@ -701,7 +675,6 @@ fyrir	ao	fyrir
 afmörkun	nveo	afmörkun
 lagahugtaksins	nheeg	lagahugtak
 .	.	.
-
 Sú	faven	sá
 ályktun	nven	ályktun
 verður	sfg3en	verða
@@ -732,7 +705,6 @@ orsakir	nvfo	orsök
 og	c	og
 afleiðingar	nvfo	afleiðing
 .	.	.
-
 Ef	c	ef
 slík	fbven	slíkur
 ályktun	nven	ályktun
@@ -760,16 +732,13 @@ sjálfstæðrar	lveesf	sjálfstæður
 afmörkunar	nvee	afmörkun
 lagahugtaksins	nheeg	lagahugtak
 .	.	.
-
 4	ta	4
 .	.	.
-
 Í	ao	í
 ÁTT	nveo	átt
 AÐ	aþ	að
 AFMÖRKUN	nveþ	afmörkun
 HUGTAKS	nhee	hugtak
-
 Með	aþ	með
 afmörkun	nveþ	afmörkun
 hugtaks	nhee	hugtak
@@ -786,7 +755,6 @@ undir	ao	undir
 einn	tfkeo	einn
 hatt	nkeo	hattur
 .	.	.
-
 Tungumálið	nheng	tungumál
 gerir	sfg3en	gera
 okkur	fp1fþ	ég
@@ -805,7 +773,6 @@ hugtaksins	nheeg	hugtak
 með	aþ	með
 orðum	nhfþ	orð
 .	.	.
-
 Þessi	faven	þessi
 lýsing	nven	lýsing
 er	sfg3en	vera
@@ -825,7 +792,6 @@ orðið	ssg	verða
 sameign	nven	sameign
 margra	lkfesf	margur
 .	.	.
-
 Hugtök	nhfn	hugtak
 eru	sfg3fn	vera
 þannig	aa	þannig
@@ -845,7 +811,6 @@ eða	c	eða
 óhlutstæðra	lhfesf	óhlutstæður
 orða	nhfe	orð
 .	.	.
-
 Eins	aa	eins
 og	c	og
 áður	aa	áður
@@ -863,7 +828,6 @@ eða	c	eða
 minna	aam	lítið
 óljós	lvensf	óljós
 .	.	.
-
 Tungumálið	nheng	tungumál
 lætur	sfg3en	láta
 okkur	fp1fo	ég
@@ -874,7 +838,6 @@ hendur	nvfo	hönd
 fullafmörkuð	lhfosf	fullafmarkaður
 hugtök	nhfo	hugtak
 .	.	.
-
 Þegar	c	þegar
 um	ao	um
 er	sfg3en	vera
@@ -912,7 +875,6 @@ og	c	og
 áður	aa	áður
 greinir	sfg3en	greina
 .	.	.
-
 Þótt	c	þótt
 hugtök	nhfn	hugtak
 lýsi	svg3fn	lýsa
@@ -927,7 +889,6 @@ tíma	nkeþ	tími
 og	c	og
 rúmi	nheþ	rúm
 .	.	.
-
 Hugtök	nhfn	hugtak
 eru	sfg3fn	vera
 til	aa	til
@@ -944,7 +905,6 @@ að	cn	að
 lýsa	sng	lýsa
 raunveruleikanum	nkeþg	raunveruleiki
 .	.	.
-
 Orðið	nheng	orð
 «	«	«
 stóll	nken	stóll
@@ -977,7 +937,6 @@ geri	svg3en	gera
 að	aþ	að
 stólum	nkfþ	stóll
 .	.	.
-
 Orðið	nheng	orð
 «	«	«
 hvítt	lhensf	hvítur
@@ -1009,7 +968,6 @@ geri	svg3en	gera
 þá	fpkfo	hann
 hvíta	lkfosf	hvítur
 .	.	.
-
 Við	fp1fn	ég
 getum	sfg1fn	geta
 komið	ssg	koma
@@ -1054,7 +1012,6 @@ eru	sfg3fn	vera
 hvítir	lkfnsf	hvítur
 )	)	)
 .	.	.
-
 Því	fpheþ	það
 getur	sfg3en	geta
 alveg	aa	alveg
@@ -1092,7 +1049,6 @@ borð	nhfo	borð
 og	c	og
 hillur	nvfo	hilla
 .	.	.
-
 Merking	nven	merking
 orða	nhfe	orð
 og	c	og
@@ -1131,7 +1087,6 @@ og	c	og
 einkenna	nhfe	einkenni
 þeirra	fpkfe	hann
 .	.	.
-
 Af	aþ	af
 þessu	faheþ	þessi
 leiðir	sfg3en	leiða
@@ -1172,7 +1127,6 @@ festa	sng	festa
 hendur	nvfo	hönd
 á	aa	á
 .	.	.
-
 Með	aþ	með
 afmörkun	nveþ	afmörkun
 hugtaka	nhfe	hugtak
@@ -1186,7 +1140,6 @@ raunveruleikanum	nkeþg	raunveruleiki
 víðasta	lkeþve	víður
 skilningi	nkeþ	skilningur
 .	.	.
-
 Við	fp1fn	ég
 stöndum	sfg1fn	standa
 andspænis	aþ	andspænis
@@ -1208,7 +1161,6 @@ og	c	og
 venslum	nhfþ	vensl
 þeirra	fpkfe	hann
 .	.	.
-
 Við	fp1fn	ég
 getum	sfg1fn	geta
 þó	aa	þó
@@ -1231,7 +1183,6 @@ báðir	fokfn	báðir
 sömu	fbhfo	sami
 einkenni	nhfo	einkenni
 .	.	.
-
 Þrátt	aa	þrátt
 fyrir	ao	fyrir
 algengar	lvfosf	algengur
@@ -1261,7 +1212,6 @@ morgni	nkeþ	morgunn
 !	!	!
 )	)	)
 .	.	.
-
 Ef	c	ef
 við	fp1fn	ég
 leggjum	svg1fn	leggja
@@ -1284,7 +1234,6 @@ bréfsefnið	nheng	bréfsefni
 einnig	aa	einnig
 hvítt	lhensf	hvítur
 .	.	.
-
 Málarameistarinn	nkeng	málarameistari
 sem	ct	sem
 málaði	sfg3eþ	mála
@@ -1322,7 +1271,6 @@ veðrun	nveþ	veðrun
 og	c	og
 ryki	nheþ	ryk
 .	.	.
-
 Af	aþ	af
 þessu	faheþ	þessi
 sjáum	sfg1fn	sjá
@@ -1357,7 +1305,6 @@ að	aþ	að
 ákveðnu	lheþsf	ákveðinn
 marki	nheþ	mark
 .	.	.
-
 Nýfallinn	lkensf	nýfallinn
 snjór	nken	snjór
 kann	sfg3en	kunna
@@ -1368,7 +1315,6 @@ hvítari	lkenvm	hvítur
 en	c	en
 Safnahúsið	nhengs	Safnahús
 .	.	.
-
 Óháð	lhensf	óháður
 merkingu	nveþ	merking
 orðsins	nheeg	orð
@@ -1398,7 +1344,6 @@ bylgjulengdum	nvfþ	bylgjulengd
 frá	aþ	frá
 hlutum	nkfþ	hlutur
 .	.	.
-
 Þessar	favfn	þessi
 staðreyndir	nvfn	staðreynd
 kunna	sfg3fn	kunna
@@ -1429,7 +1374,6 @@ ekki	aa	ekki
 fullkomlega	aa	fullkomlega
 hvítur	lkensf	hvítur
 .	.	.
-
 Efni	nheþ	efni
 hugtaka	nhfe	hugtak
 (	(	(
@@ -1456,7 +1400,6 @@ getum	sfg1fn	geta
 kallað	ssg	kalla
 dæmigerð	lhfosf	dæmigerður
 .	.	.
-
 Jafnvel	aa	jafnvel
 þótt	c	þótt
 hlutur	nken	hlutur
@@ -1479,7 +1422,6 @@ einkenni	nhfo	einkenni
 ákveðnum	lkeþsf	ákveðinn
 mæli	nkeþ	mælir
 .	.	.
-
 Hlutir	nkfn	hlutur
 geta	sfg3fn	geta
 því	aa	því
@@ -1488,7 +1430,6 @@ mismunandi	aa	mismunandi
 mikið	aa	mikið
 hvítir	lkfnsf	hvítur
 .	.	.
-
 Sá	faken	sá
 hlutur	nken	hlutur
 sem	ct	sem
@@ -1506,7 +1447,6 @@ dæmigert	lhensf	dæmigerður
 fyrir	ao	fyrir
 hvítt	lheosf	hvítur
 .	.	.
-
 Með	aþ	með
 því	fpheþ	það
 að	cn	að
@@ -1540,7 +1480,6 @@ merkingu	nveo	merking
 samhengi	nheþ	samhengi
 )	)	)
 .	.	.
-
 Ef	c	ef
 þetta	fahen	þessi
 liggur	sfg3en	liggja
@@ -1570,7 +1509,6 @@ hann	fpkeo	hann
 gráan	lkeosf	grár
 »	»	»
 .	.	.
-
 Að	aþ	að
 minnsta	lkeþve	lítill
 kosti	nkeþ	kostur
@@ -1594,7 +1532,6 @@ augljóslega	aa	augljóslega
 vera	sng	vera
 tilgangslaus	lkensf	tilgangslaus
 .	.	.
-
 Ágreiningsaðilarnir	nkfng	ágreiningsaðili
 væru	svg3fþ	vera
 eftir	aa	eftir
@@ -1633,7 +1570,6 @@ hvítt	lhensf	hvítur
 og	c	og
 grátt	lhensf	grár
 .	.	.
-
 Með	aþ	með
 sambærilegum	lkeþsf	sambærilegur
 hætti	nkeþ	háttur
@@ -1674,7 +1610,6 @@ sem	ct	sem
 lög	nhfo	lag
 »	»	»
 .	.	.
-
 Slíkur	fbken	slíkur
 ágreiningur	nken	ágreiningur
 um	ao	um
@@ -1686,7 +1621,6 @@ um	ao	um
 keisarans	nkeeg	keisari
 skegg	nheo	skegg
 .	.	.
-
 Öðru	foheþ	annar
 máli	nheþ	mál
 gegnir	sfg3en	gegna
@@ -1705,7 +1639,6 @@ lagðar	sþgvfn	leggja
 til	ae	til
 grundvallar	nkee	grundvöllur
 .	.	.
-
 Í	aþ	í
 slíku	fbheþ	slíkur
 tilviki	nheþ	tilvik
@@ -1717,7 +1650,6 @@ efnislegt	lheosf	efnislegur
 inntak	nheo	inntak
 hugtaka	nhfe	hugtak
 .	.	.
-
 Álitamálið	nheng	álitamál
 er	sfg3en	vera
 þá	aa	þá
@@ -1737,7 +1669,6 @@ undir	ao	undir
 tiltekið	lheosf	tiltekinn
 hugtak	nheo	hugtak
 .	.	.
-
 Þegar	c	þegar
 um	ao	um
 er	sfg3en	vera
@@ -1758,7 +1689,6 @@ með	aþ	með
 þessum	fakeþ	þessi
 hætti	nkeþ	háttur
 .	.	.
-
 Tveir	tfkfn	tveir
 menn	nkfn	maður
 ,	,	,
@@ -1805,7 +1735,6 @@ grátt	lhensf	grár
 á	ao	á
 litinn	nkeog	litur
 .	.	.
-
 Ríkjandi	lvenof	ríkjandi
 samstaða	nven	samstaða
 um	ao	um
@@ -1821,7 +1750,6 @@ riðlast	ssm	riðla
 eða	c	eða
 breyst	ssm	breyta
 .	.	.
-
 Það	fahen	sá
 sem	ct	sem
 eitt	foheo	einn
@@ -1837,7 +1765,6 @@ ekki	aa	ekki
 réttlátt	lhensf	réttlátur
 lengur	aam	lengi
 .	.	.
-
 Með	aþ	með
 sama	fbkeþ	sami
 hætti	nkeþ	háttur
@@ -1858,7 +1785,6 @@ teljist	svm3en	telja
 dæmigerð	lhfnsf	dæmigerður
 lög	nhfn	lag
 .	.	.
-
 Ágreiningur	nken	ágreiningur
 sem	ct	sem
 þessi	faken	þessi
@@ -1870,7 +1796,6 @@ afmörkun	nveþ	afmörkun
 hugtakinu	nheþg	hugtak
 lög	nhfn	lag
 .	.	.
-
 Eins	aa	eins
 og	c	og
 áður	aa	áður
@@ -1891,7 +1816,6 @@ orðanna	nhfeg	orð
 samkvæmt	aþ	samkvæmt
 málvenju	nveþ	málvenja
 .	.	.
-
 Almenn	lvensf	almennur
 málvenja	nven	málvenja
 leysir	sfg3en	leysa
@@ -1922,7 +1846,6 @@ við	ao	við
 afmörkun	nveo	afmörkun
 hugtaksins	nheeg	hugtak
 .	.	.
-
 En	c	en
 með	aþ	með
 vísan	nveþ	vísan
@@ -1937,7 +1860,6 @@ talið	ssg	telja
 öðru	foheþ	annar
 mikilvægara	lhenvm	mikilvægur
 ?	?	?
-
 Verðum	sfg1fn	verða
 við	fp1fn	ég
 e.t.v.	as	e.t.v.
@@ -1959,7 +1881,6 @@ réttlæti	nhen	réttlæti
 og	c	og
 o.s.frv	as	o.s.frv
 ?	?	?
-
 4.1	ta	4.1
 Almennum	lhfþsf	almennur
 einkennum	nhfþ	einkenni
@@ -1967,7 +1888,6 @@ safnað	sþghen	safna
 saman	aa	saman
 undir	ao	undir
 hugtak	nheo	hugtak
-
 Þegar	c	þegar
 svara	sng	svara
 skal	sfg3en	skulu
@@ -2015,7 +1935,6 @@ undir	ao	undir
 eitt	tfheo	einn
 hugtak	nheo	hugtak
 .	.	.
-
 Tökum	svg1fn	taka
 sem	c	sem
 dæmi	nheo	dæmi
@@ -2025,7 +1944,6 @@ hugtaksins	nheeg	hugtak
 stóll	nken	stóll
 »	»	»
 .	.	.
-
 Öll	fohfn	allur
 höfum	sfg1fn	hafa
 við	fp1fn	ég
@@ -2061,7 +1979,6 @@ við	fp1fn	ég
 sjáum	svg1fn	sjá
 hann	fpkeo	hann
 .	.	.
-
 Hugtök	nhfn	hugtak
 eru	sfg3fn	vera
 samkvæmt	aþ	samkvæmt
@@ -2071,7 +1988,6 @@ samkvæmt	aþ	samkvæmt
 abstrakt	lhfnsf	abstrakt
 )	)	)
 .	.	.
-
 Í	aþ	í
 afmörkun	nveþ	afmörkun
 hugtaksins	nheeg	hugtak
@@ -2087,7 +2003,6 @@ hvers	fokee	hver
 konar	nkee	konar
 stóla	nkfe	stóll
 .	.	.
-
 Afmörkun	nven	afmörkun
 hugtaka	nhfe	hugtak
 er	sfg3en	vera
@@ -2103,7 +2018,6 @@ fræðilegri	lveþsf	fræðilegur
 )	)	)
 hugsun	nven	hugsun
 .	.	.
-
 Með	aþ	með
 hjálp	nveþ	hjálp
 hugtaka	nhfe	hugtak
@@ -2135,7 +2049,6 @@ konkret	lheosf	konkret
 bera	sng	bera
 fyrir	aa	fyrir
 .	.	.
-
 En	c	en
 hvaða	fshen	hvaða
 einkenni	nhen	einkenni
@@ -2151,7 +2064,6 @@ eða	c	eða
 eitthvað	fohen	einhver
 annað	fohen	annar
 ?	?	?
-
 Hvaða	fshfo	hvaða
 einkenni	nhfo	einkenni
 eða	c	eða
@@ -2172,7 +2084,6 @@ frá	aþ	frá
 öðrum	fokfþ	annar
 hlutum	nkfþ	hlutur
 ?	?	?
-
 Hvernig	aa	hvernig
 er	sfg3en	vera
 ,	,	,
@@ -2184,7 +2095,6 @@ hinn	gken	hinn
 dæmigerði	lkenvf	dæmigerður
 stóll	nken	stóll
 ?	?	?
-
 Þegar	c	þegar
 litið	sþghen	líta
 er	sfg3en	vera
@@ -2211,7 +2121,6 @@ eru	sfg3fn	vera
 fullkomlega	aa	fullkomlega
 tilviljunarkennd	lhfnsf	tilviljunarkenndur
 .	.	.
-
 Við	fp1fn	ég
 sjáum	sfg1fn	sjá
 til	ae	til
@@ -2235,7 +2144,6 @@ eða	c	eða
 kringlóttir	lkfnsf	kringlóttur
 ,	,	,
 o.s.frv.	as	o.s.frv.
-
 Þessi	fahfn	þessi
 einkenni	nhfn	einkenni
 geta	sfg3fn	geta
@@ -2248,7 +2156,6 @@ afmörkun	nveo	afmörkun
 hugtaksins	nheeg	hugtak
 stóll	nken	stóll
 .	.	.
-
 Þessi	fahfn	þessi
 einkenni	nhfn	einkenni
 eru	sfg3fn	vera
@@ -2289,7 +2196,6 @@ orða	sng	orða
 þessa	faveo	þessi
 hugsun	nveo	hugsun
 .	.	.
-
 Önnur	fohfn	annar
 einkenni	nhfn	einkenni
 geta	sfg3fn	geta
@@ -2298,7 +2204,6 @@ valdið	ssg	valda
 meiri	lkeþvm	mikill
 vafa	nkeþ	vafi
 .	.	.
-
 Í	aþ	í
 fljótu	lheþsf	fljótur
 bragði	nheþ	bragð
@@ -2311,7 +2216,6 @@ með	ao	með
 fjóra	tfkfo	fjórir
 fætur	nkfo	fótur
 .	.	.
-
 Kemur	sfg3en	koma
 e.t.v.	as	e.t.v.
 til	ae	til
@@ -2336,7 +2240,6 @@ er	sfg3en	vera
 mjög	aa	mjög
 algengt	lhensf	algengur
 ?	?	?
-
 Er	sfg3en	vera
 stóll	nken	stóll
 með	ao	með
@@ -2357,7 +2260,6 @@ aðeins	aa	aðeins
 með	ao	með
 þrjá	tfkfo	þrír
 ?	?	?
-
 Í	ao	í
 stað	nkeo	staður
 þess	fphee	það
@@ -2389,7 +2291,6 @@ til	ae	til
 ákveðinna	lvfesf	ákveðinn
 þarfa	nvfe	þörf
 .	.	.
-
 Stólar	nkfn	stóll
 eru	sfg3fn	vera
 hannaðir	sþgkfn	hanna
@@ -2405,7 +2306,6 @@ eða	c	eða
 hagsmunum	nkfþ	hagsmunir
 manna	nkfe	maður
 .	.	.
-
 Stólar	nkfn	stóll
 eru	sfg3fn	vera
 með	aþ	með
@@ -2429,7 +2329,6 @@ notaðir	sþgkfn	nota
 til	ae	til
 þess	fphee	það
 .	.	.
-
 Ef	c	ef
 þetta	fahen	þessi
 einkenni	nhen	einkenni
@@ -2447,7 +2346,6 @@ einkenni	nhfn	einkenni
 eru	sfg3fn	vera
 tíðust	lhfnse	tíður
 .	.	.
-
 Engu	foheþ	enginn
 máli	nheþ	mál
 skiptir	sfg3en	skipta
@@ -2476,7 +2374,6 @@ sitja	sng	sitja
 á	aþ	á
 þeim	fpkfþ	hann
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 það	fphen	það
@@ -2489,7 +2386,6 @@ hugtakið	nheog	hugtak
 «	«	«
 stóll	nken	stóll
 »	»	»
-
 með	aþ	með
 vísan	nveþ	vísan
 til	ae	til
@@ -2510,7 +2406,6 @@ og	c	og
 mannlegar	lvfosf	mannlegur
 þarfir	nvfo	þörf
 .	.	.
-
 Sama	fbhen	sami
 getur	sfg3en	geta
 átt	ssg	eiga
@@ -2535,7 +2430,6 @@ eða	c	eða
 óbeinum	lkeþsf	óbeinn
 hætti	nkeþ	háttur
 .	.	.
-
 Hér	aa	hér
 verður	sfg3en	verða
 því	fpheþ	það
@@ -2566,7 +2460,6 @@ manna	nkfe	maður
 þau	fphfn	það
 þjóna	sfg3fn	þjóna
 .	.	.
-
 Að	aþ	að
 þessu	faheþ	þessi
 leyti	nheþ	leyti
@@ -2595,7 +2488,6 @@ einhverrar	fovee	einhver
 afstöðu	nvee	afstaða
 manna	nkfe	maður
 .	.	.
-
 Til	ae	til
 þess	fphee	það
 að	cn	að
@@ -2607,7 +2499,6 @@ eru	sfg3fn	vera
 stólar	nkfn	stóll
 ?	?	?
 »	»	»
-
 verður	sfg3en	verða
 því	aa	því
 að	cn	að
@@ -2617,7 +2508,6 @@ fyrir	aþ	fyrir
 þessari	faveþ	þessi
 afstöðu	nveþ	afstaða
 .	.	.
-
 Þetta	faheo	þessi
 má	sfg3en	mega
 orða	sng	orða
@@ -2638,7 +2528,6 @@ og	c	og
 nota	sng	nota
 stóla	nkfo	stóll
 .	.	.
-
 Afmörkun	nveþ	afmörkun
 hugtaks	nhee	hugtak
 með	aþ	með
@@ -2653,7 +2542,6 @@ mannlegar	lvfosf	mannlegur
 fylgja	sfg3fn	fylgja
 vandkvæði	nhfn	vandkvæði
 .	.	.
-
 Sumir	fokfn	sumur
 nota	sfg3fn	nota
 stóla	nkfo	stóll
@@ -2676,7 +2564,6 @@ ljósaperu	nveo	ljósapera
 í	aþ	í
 loftljósi	nheþ	loftljós
 .	.	.
-
 Sá	faken	sá
 sem	ct	sem
 vill	sfg3en	vilja
@@ -2714,7 +2601,6 @@ sitja	sng	sitja
 á	aþ	á
 þeim	fpkfþ	hann
 .	.	.
-
 Hvers	fshee	hver
 vegna	ae	vegna
 eru	sfg3fn	vera
@@ -2728,7 +2614,6 @@ og	c	og
 þau	fphfn	það
 fyrri	lhfnvm	fyrri
 ?	?	?
-
 Hvers	fshee	hver
 vegna	ae	vegna
 má	sfg3en	mega
@@ -2750,7 +2635,6 @@ notkun	nveo	notkun
 á	aþ	á
 þeim	fpkfþ	hann
 ?	?	?
-
 Flestir	lkfnse	margur
 munu	sfg3fn	munu
 vera	sng	vera
@@ -2765,7 +2649,6 @@ ekki	aa	ekki
 mjög	aa	mjög
 áhugaverð	lvensf	áhugaverður
 .	.	.
-
 Ástæðan	nveng	ástæða
 er	sfg3en	vera
 vafalaust	aa	vafalaust
@@ -2782,7 +2665,6 @@ og	c	og
 hvað	fshen	hver
 ekki	aa	ekki
 .	.	.
-
 Þótt	c	þótt
 stólar	nkfn	stóll
 þjóni	svg3fn	þjóna
@@ -2803,7 +2685,6 @@ hvað	fshen	hver
 er	sfg3en	vera
 stóll	nken	stóll
 .	.	.
-
 A.m.k.	as	A.m.k.
 mun	sfg3en	munu
 enginn	foken	enginn
@@ -2828,7 +2709,6 @@ og	c	og
 annað	fohen	annar
 ekki	aa	ekki
 .	.	.
-
 Af	aþ	af
 þessum	favfþ	þessi
 ástæðum	nvfþ	ástæða
@@ -2857,7 +2737,6 @@ sínum	fekfþ	sinn
 önnur	fohfo	annar
 viðfangsefni	nhfo	viðfangsefni
 .	.	.
-
 Afmörkun	nven	afmörkun
 þessa	fahee	þessi
 hugtaks	nhee	hugtak
@@ -2884,7 +2763,6 @@ og	c	og
 háttsemi	nveo	háttsemi
 manna	nkfe	maður
 .	.	.
-
 Eflaust	aa	eflaust
 getum	sfg1fn	geta
 við	fp1fn	ég
@@ -2920,7 +2798,6 @@ dæmigerð	lhfosf	dæmigerður
 einkenni	nhfo	einkenni
 stóls	nkee	stóll
 .	.	.
-
 Þegar	c	þegar
 um	ao	um
 er	sfg3en	vera
@@ -2948,13 +2825,10 @@ háðar	lvfnsf	háður
 meiri	lkeþvm	mikill
 ágreiningi	nkeþ	ágreiningur
 .	.	.
-
 5	ta	5
 .	.	.
-
 EINKENNI	nhfn	einkenni
 LAGANNA	nhfeg	lag
-
 Við	fp1fn	ég
 erum	sfg1fn	vera
 nú	aa	nú
@@ -2969,7 +2843,6 @@ orðið	nheng	orð
 «	«	«
 lög	nhfn	lag
 »	»	»
-
 eigi	svg3en	eiga
 sér	fpheþ	sig
 einhverja	foveo	einhver
@@ -2998,7 +2871,6 @@ dyrum	nvfþ	dyr
 og	c	og
 dyngjum	nvfþ	dyngja
 .	.	.
-
 Afmörkun	nven	afmörkun
 lagahugtaksins	nheeg	lagahugtak
 felst	sfm3en	fela
@@ -3018,7 +2890,6 @@ einkennum	nhfþ	einkenni
 samfélagslegs	lheesf	samfélagslegur
 fyrirbæris	nhee	fyrirbæri
 .	.	.
-
 Þetta	fahen	þessi
 fyrirbæri	nhen	fyrirbæri
 er	sfg3en	vera
@@ -3047,7 +2918,6 @@ ræða	sng	ræða
 um	ao	um
 það	fpheo	það
 .	.	.
-
 Þegar	c	þegar
 við	fp1fn	ég
 ræðum	sfg1fn	ræða
@@ -3073,7 +2943,6 @@ samkvæmt	aþ	samkvæmt
 íslenskri	lveþsf	íslenskur
 tungu	nveþ	tunga
 .	.	.
-
 Ef	c	ef
 aðrir	fokfn	annar
 eiga	sfg3fn	eiga
@@ -3098,7 +2967,6 @@ um	ao	um
 notkun	nveo	notkun
 orðanna	nhfeg	orð
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ennfremur	aa	ennfremur
@@ -3123,7 +2991,6 @@ hugtakinu	nheþg	hugtak
 skiljanlegu	lheþsf	skiljanlegur
 máli	nheþ	mál
 .	.	.
-
 Með	aþ	með
 þessu	faheþ	þessi
 er	sfg3en	vera
@@ -3144,7 +3011,6 @@ orðinu	nheþg	orð
 lög	nhfn	lag
 »	»	»
 .	.	.
-
 Málvenjur	nvfn	málvenja
 gefa	sfg3fn	gefa
 talsvert	lheosf	talsverður
@@ -3159,7 +3025,6 @@ orðið	ssg	verða
 lög	nhfn	lag
 »	»	»
 .	.	.
-
 Orðið	nheng	orð
 lög	nhfn	lag
 er	sfg3en	vera
@@ -3194,7 +3059,6 @@ reglur	nvfn	regla
 tungumálsins	nheeg	tungumál
 brotnar	sþgvfn	brjóta
 .	.	.
-
 Engin	foven	enginn
 afmörkun	nven	afmörkun
 á	aþ	á
@@ -3220,7 +3084,6 @@ hefur	sfg3en	hafa
 verið	ssg	vera
 rakið	sþghen	rekja
 .	.	.
-
 Afmörkun	nven	afmörkun
 hugtaksins	nheeg	hugtak
 lög	nhfn	lag
@@ -3234,7 +3097,6 @@ málvenja	nven	málvenja
 stendur	sfg3en	standa
 til	aa	til
 .	.	.
-
 Jafnvel	aa	jafnvel
 getur	sfg3en	geta
 verið	ssg	vera
@@ -3265,7 +3127,6 @@ samkvæmt	aþ	samkvæmt
 almennum	lvfþsf	almennur
 málvenjum	nvfþ	málvenja
 .	.	.
-
 Þessi	fahfn	þessi
 frávik	nhfn	frávik
 ættu	svg3fþ	eiga
@@ -3292,7 +3153,6 @@ eru	sfg3fn	vera
 nægilega	aa	nægilega
 skýr	lhfnsf	skýr
 .	.	.
-
 Í	aþ	í
 stuttu	lheþsf	stuttur
 máli	nheþ	mál
@@ -3321,7 +3181,6 @@ teljast	sfm3fn	telja
 dæmigerð	lhfnsf	dæmigerður
 lög	nhfn	lag
 .	.	.
-
 Áður	aa	áður
 en	c	en
 lengra	aam	langt
@@ -3361,9 +3220,7 @@ við	ao	við
 afmörkun	nveo	afmörkun
 lagahugtaksins	nheeg	lagahugtak
 .	.	.
-
 a.	x	a.
-
 Það	fphen	það
 sem	ct	sem
 almennt	aa	almennt
@@ -3390,7 +3247,6 @@ að	cn	að
 haga	sng	haga
 sér	fpkfþ	sig
 .	.	.
-
 Þessi	fahfo	þessi
 viðmið	nhfo	viðmið
 (	(	(
@@ -3402,7 +3258,6 @@ einnig	aa	einnig
 kalla	sng	kalla
 reglur	nvfo	regla
 .	.	.
-
 Reyndar	aa	reyndar
 fjalla	sfg3fn	fjalla
 sumar	fovfn	sumur
@@ -3429,7 +3284,6 @@ og	c	og
 þess	fakee	sá
 háttar	nkee	háttur
 .	.	.
-
 Skipan	nven	skipan
 samfélagsins	nheeg	samfélag
 hefur	sfg3en	hafa
@@ -3453,7 +3307,6 @@ eru	sfg3fn	vera
 grundvelli	nkeþ	grundvöllur
 laga	nhfe	lag
 .	.	.
-
 Ef	c	ef
 fallist	sþmhen	falla
 er	sfg3en	vera
@@ -3483,7 +3336,6 @@ hvað	fshen	hver
 reglur	nvfn	regla
 eru	sfg3fn	vera
 .	.	.
-
 Fljótt	aa	fljótt
 á	aa	á
 litið	sþghen	líta
@@ -3518,7 +3370,6 @@ og	c	og
 félagslegum	lhfþsf	félagslegur
 viðmiðum	nhfþ	viðmið
 .	.	.
-
 Jafnvel	aa	jafnvel
 þótt	c	þótt
 fallist	sþmhen	falla
@@ -3545,9 +3396,7 @@ að	cn	að
 afmarka	sng	afmarka
 lagahugtakið	nheog	lagahugtak
 .	.	.
-
 b.	x	b.
-
 Við	fp1fn	ég
 sjáum	sfg1fn	sjá
 að	c	að
@@ -3576,7 +3425,6 @@ brjóta	sng	brjóta
 gegn	aþ	gegn
 þeim	fphfþ	það
 .	.	.
-
 Almennt	aa	almennt
 er	sfg3en	vera
 litið	sþghen	líta
@@ -3592,7 +3440,6 @@ komast	snm	koma
 hjá	aþ	hjá
 þeim	fpvfþ	hún
 .	.	.
-
 Til	ae	til
 þess	fphee	það
 að	c	að
@@ -3620,7 +3467,6 @@ koma	sng	koma
 viðurlögunum	nhfþg	viðurlag
 fram	aa	fram
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 þessu	faheþ	þessi
 virðist	sfm3en	virða
@@ -3640,7 +3486,6 @@ liggur	sfg3en	liggja
 til	ae	til
 grundvallar	nkee	grundvöllur
 .	.	.
-
 Siðferði	nhen	siðferði
 virðist	sfm3en	virða
 ekki	aa	ekki
@@ -3657,7 +3502,6 @@ að	aþ	að
 þessu	faheþ	þessi
 leyti	nheþ	leyti
 .	.	.
-
 Það	fphen	það
 skapar	sfg3en	skapa
 hins	fakee	hinn
@@ -3681,7 +3525,6 @@ lög	nhfo	lag
 bundið	sþghen	binda
 viðurlögum	nhfþ	viðurlag
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 sjáum	sfg1fn	sjá
@@ -3716,7 +3559,6 @@ verði	svg3fn	verða
 beittir	sþgkfn	beita
 viðurlögum	nhfþ	viðurlag
 .	.	.
-
 Eru	sfg3fn	vera
 viðurlögin	nhfng	viðurlag
 og	c	og
@@ -3738,7 +3580,6 @@ við	ao	við
 afmörkun	nveo	afmörkun
 lagahugtaksins	nheeg	lagahugtak
 ?	?	?
-
 Snúast	sfm3fn	snúa
 lögin	nhfng	lag
 ef	c	ef
@@ -3756,7 +3597,6 @@ beita	sng	beita
 menn	nkfo	maður
 illu	lheþsf	illur
 ?	?	?
-
 Ættum	svg1fþ	eiga
 við	fp1fn	ég
 e.t.v.	as	e.t.v.
@@ -3793,9 +3633,7 @@ lex	e	lex
 imperfecta	e	imperfecta
 )	)	)
 ?	?	?
-
 c.	x	c
-
 Mönnum	nkfþ	maður
 virðist	sfm3en	virða
 ekki	aa	ekki
@@ -3836,7 +3674,6 @@ og	c	og
 fordæmi	nhfo	fordæmi
 )	)	)
 .	.	.
-
 Menn	nkfn	maður
 komast	sfm3fn	koma
 að	aþ	að
@@ -3847,7 +3684,6 @@ samkvæmt	aþ	samkvæmt
 ákveðnum	lvfþsf	ákveðinn
 aðferðum	nvfþ	aðferð
 .	.	.
-
 Menn	nkfn	maður
 virðast	sfm3fn	virða
 þannig	aa	þannig
@@ -3880,7 +3716,6 @@ trúa	sfg3fn	trúa
 yfirleitt	aa	yfirleitt
 sjálfir	fbkfn	sjálfur
 .	.	.
-
 Við	ao	við
 ályktanir	nvfo	ályktun
 um	ao	um
@@ -3902,7 +3737,6 @@ skynsemi	nveo	skynsemi
 eða	c	eða
 samvisku	nveo	samviska
 .	.	.
-
 Siðferði	nhen	siðferði
 grundvallast	sfm3en	grundvalla
 þannig	aa	þannig
@@ -3911,7 +3745,6 @@ ekki	aa	ekki
 manngerðum	lvfþsf	manngerður
 heimildum	nvfþ	heimild
 .	.	.
-
 Ef	c	ef
 við	fp1fn	ég
 bætum	sfg1fn	bæta
@@ -3951,7 +3784,6 @@ nánari	lveevm	náinn
 afmörkunar	nvee	afmörkun
 lagahugtaksins	nheeg	lagahugtak
 ?	?	?
-
 Höfum	sfg1fn	hafa
 við	fp1fn	ég
 þá	aa	þá
@@ -3962,9 +3794,7 @@ lögin	nhfog	lag
 frá	aþ	frá
 siðferði	nheþ	siðferði
 ?	?	?
-
 d.	x	d
-
 Menn	nkfn	maður
 innan	ae	innan
 ákveðinna	lvfesf	ákveðinn
@@ -3986,7 +3816,6 @@ flestum	lhfþse	margur
 samfélögum	nhfþ	samfélag
 nútímans	nkeeg	nútími
 .	.	.
-
 Þótt	c	þótt
 menn	nkfn	maður
 trúi	svg3fn	trúa
@@ -4031,7 +3860,6 @@ um	ao	um
 gildandi	lkeoof	gildandi
 rétt	nkeo	réttur
 .	.	.
-
 Eru	sfg3fn	vera
 lögin	nhfng	lag
 e.t.v.	as	e.t.v.
@@ -4057,7 +3885,6 @@ lög	nhfn	lag
 hverjum	fokeþ	hver
 tíma	nkeþ	tími
 ?	?	?
-
 Er	sfg3en	vera
 það	fphen	það
 þá	aa	þá
@@ -4082,9 +3909,7 @@ sbr.	as	sbr.
 c-lið	nkeo	c-liður
 )	)	)
 ?	?	?
-
 e.	x	e
-
 Lagareglur	nvfn	lagaregla
 eru	sfg3fn	vera
 í	aþ	í
@@ -4102,7 +3927,6 @@ svokölluðum	lkfþsf	svokallaður
 handhöfum	nkfþ	handhafi
 lagasetningarvalds	nhee	lagasetningarvald
 .	.	.
-
 Um	ao	um
 þennan	fakeo	þessi
 tilbúning	nkeo	tilbúningur
@@ -4128,7 +3952,6 @@ taldar	sþgvfn	telja
 til	ae	til
 laga	nhfe	lag
 .	.	.
-
 Kemur	sfg3en	koma
 samt	aa	samt
 sem	c	sem
@@ -4143,7 +3966,6 @@ við	ao	við
 þetta	faheo	þessi
 einkenni	nheo	einkenni
 ?	?	?
-
 Er	sfg3en	vera
 megineinkenni	nhen	megineinkenni
 laga	sng	laga
@@ -4165,7 +3987,6 @@ fyrir	ao	fyrir
 vilja	nkeo	vilji
 einhverra	fokfe	einhver
 ?	?	?
-
 Ættum	svg1fþ	eiga
 við	fp1fn	ég
 ef	c	ef
@@ -4202,7 +4023,6 @@ hér	aa	hér
 að	aa	að
 framan	aa	framan
 ?	?	?
-
 Samkvæmt	aþ	samkvæmt
 þessu	faheþ	þessi
 væru	svg3fþ	vera
@@ -4234,9 +4054,7 @@ að	aþ	að
 vilja	nkeþ	vilji
 þeirra	fpkfe	hann
 .	.	.
-
 f.	x	f
-
 Þótt	c	þótt
 menn	nkfn	maður
 séu	svg3fn	vera
@@ -4269,7 +4087,6 @@ efni	nheo	efni
 gildandi	lhfeof	gildandi
 laga	nhfe	lag
 .	.	.
-
 Í	aþ	í
 vafatilvikum	nhfþ	vafatilvik
 þurfa	sfg3fn	þurfa
@@ -4298,7 +4115,6 @@ eðlilegt	lheosf	eðlilegur
 og	c	og
 sanngjarnt	lheosf	sanngjarn
 .	.	.
-
 Verður	sfg3en	verða
 ekki	aa	ekki
 að	cn	að
@@ -4307,7 +4123,6 @@ að	cn	að
 einkenni	nheo	einkenni
 laganna	nhfeg	lag
 ?	?	?
-
 Er	sfg3en	vera
 megineinkenni	nhen	megineinkenni
 laganna	nhfeg	lag
@@ -4328,10 +4143,8 @@ siðferðilegum	lvfþsf	siðferðilegur
 hugmyndum	nvfþ	hugmynd
 manna	nkfe	maður
 ?	?	?
-
 g	x	g
 .	.	.
-
 Sumir	fokfn	sumur
 sem	ct	sem
 fara	sfg3fn	fara
@@ -4369,7 +4182,6 @@ ekki	aa	ekki
 beittir	sþgkfn	beita
 viðurlögum	nhfþ	viðurlag
 .	.	.
-
 Enn	aa	enn
 aðrir	fokfn	annar
 velta	sfg3fn	velta
@@ -4388,7 +4200,6 @@ brjóta	sfg3fn	brjóta
 )	)	)
 hugsunarlaust	aa	hugsunarlaust
 .	.	.
-
 Hafa	sfg3fn	hafa
 lögin	nhfng	lag
 siðferðilegt	lheosf	siðferðilegur
@@ -4401,7 +4212,6 @@ kosti	nkeþ	kostur
 einhverjum	fohfþ	einhver
 tilvikum	nhfþ	tilvik
 ?	?	?
-
 Er	sfg3en	vera
 það	fphen	það
 ef	c	ef
@@ -4425,7 +4235,6 @@ lykilinn	nkeog	lykill
 að	aþ	að
 lagahugtakinu	nheþg	lagahugtak
 ?	?	?
-
 Ættum	svg1fþ	eiga
 við	fp1fn	ég
 samkvæmt	aþ	samkvæmt
@@ -4444,7 +4253,6 @@ grundvöllur	nken	grundvöllur
 siðferðilegrar	lveesf	siðferðilegur
 skyldu	nvee	skylda
 ?	?	?
-
 Eða	c	eða
 eru	sfg3fn	vera
 lögin	nhfng	lag
@@ -4453,7 +4261,6 @@ til	aa	til
 vill	sfg3en	vilja
 slæm	lhfnsf	slæmur
 ?	?	?
-
 Fela	sfg3fn	fela
 þau	fphfn	það
 í	aþ	í
@@ -4462,7 +4269,6 @@ kúgun	nveo	kúgun
 og	c	og
 ofbeldi	nheo	ofbeldi
 ?	?	?
-
 Er	sfg3en	vera
 það	fphen	það
 þá	aa	þá
@@ -4475,7 +4281,6 @@ mestu	lheþse	mikill
 máli	nheþ	mál
 skiptir	sfg3en	skipta
 ?	?	?
-
 Öll	fohfn	allur
 framangreind	lhfnsf	framangreindur
 einkenni	nhfn	einkenni
@@ -4497,7 +4302,6 @@ hér	aa	hér
 að	aa	að
 framan	aa	framan
 .	.	.
-
 Vandamálið	nheng	vandamál
 er	sfg3en	vera
 að	c	að
@@ -4538,7 +4342,6 @@ fellur	sfg3en	falla
 utan	ae	utan
 hugtaksins	nheeg	hugtak
 .	.	.
-
 Ef	c	ef
 áhersla	nven	áhersla
 er	sfg3en	vera
@@ -4560,7 +4363,6 @@ lög	nhfn	lag
 utan	ae	utan
 lagahugtaksins	nheeg	lagahugtak
 .	.	.
-
 Þótt	c	þótt
 áhersla	nven	áhersla
 sé	svg3en	vera
@@ -4605,7 +4407,6 @@ andstæðar	lvfnsf	andstæður
 slíkum	fbvfþ	slíkur
 heimildum	nvfþ	heimild
 .	.	.
-
 Þótt	c	þótt
 áhersla	nven	áhersla
 sé	svg3en	vera
@@ -4632,7 +4433,6 @@ gætu	svg3fþ	geta
 verið	ssg	vera
 það	fphen	það
 .	.	.
-
 Með	aþ	með
 þessu	faheþ	þessi
 er	sfg3en	vera
@@ -4663,7 +4463,6 @@ talið	ssg	telja
 til	ae	til
 laga	nhfe	lag
 .	.	.
-
 Við	fp1fn	ég
 komumst	sfm1fn	koma
 ekki	aa	ekki
@@ -4677,7 +4476,6 @@ við	ao	við
 afmörkun	nveo	afmörkun
 hugtaksins	nheeg	hugtak
 .	.	.
-
 Þetta	fahen	þessi
 val	nhen	val
 getur	sfg3en	geta
@@ -4713,7 +4511,6 @@ haga	sng	haga
 gerðum	nvfþ	gerð
 sínum	fevfþ	sinn
 .	.	.
-
 Við	fp1fn	ég
 stöndum	sfg1fn	standa
 andspænis	aþ	andspænis
@@ -4724,7 +4521,6 @@ með	ao	með
 mörg	lhfosf	margur
 einkenni	nhfo	einkenni
 .	.	.
-
 Góð	lvensf	góður
 kenning	nven	kenning
 um	ao	um
@@ -4741,7 +4537,6 @@ með	aþ	með
 einhverjum	fokeþ	einhver
 hætti	nkeþ	háttur
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 er	sfg3en	vera
@@ -4764,7 +4559,6 @@ við	ao	við
 afmörkun	nveo	afmörkun
 lagahugtaksins	nheeg	lagahugtak
 .	.	.
-
 Þótt	c	þótt
 ljóst	lhensf	ljós
 sé	svg3en	vera
@@ -4814,7 +4608,6 @@ en	c	en
 önnur	fohfn	annar
 lög	nhfn	lag
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 framangreindu	lheþsf	framangreindur
 verður	sfg3en	verða
@@ -4844,7 +4637,6 @@ hér	aa	hér
 að	aa	að
 framan	aa	framan
 .	.	.
-
 Þar	aa	þar
 sem	ct	sem
 hér	aa	hér
@@ -4881,7 +4673,6 @@ mannlegu	lvfþvf	mannlegur
 þau	fphfn	það
 þjóna	sfg3fn	þjóna
 .	.	.
-
 Þetta	faheo	þessi
 má	sfg3en	mega
 einnig	aa	einnig
@@ -4912,7 +4703,6 @@ og	c	og
 mannlegar	lvfosf	mannlegur
 þarfir	nvfo	þörf
 .	.	.
-
 5.1	ta	5.1
 Afmörkun	nven	afmörkun
 lagahugtaksins	nheeg	lagahugtak
@@ -4922,7 +4712,6 @@ til	ae	til
 siðferðilegs	lheesf	siðferðilegur
 gildis	nhee	gildi
 laganna	nhfeg	lag
-
 Í	aþ	í
 fyrsta	lheþve	fyrstur
 lagi	nheþ	lag
@@ -4941,7 +4730,6 @@ siðferðilegs	lheesf	siðferðilegur
 gildis	nhee	gildi
 þeirra	fphfe	það
 .	.	.
-
 Með	aþ	með
 þessu	faheþ	þessi
 er	sfg3en	vera
@@ -4973,7 +4761,6 @@ og	c	og
 beita	sng	beita
 þeim	fphfþ	það
 .	.	.
-
 Hins	fakee	hinn
 vegar	nkee	vegur
 er	sfg3en	vera

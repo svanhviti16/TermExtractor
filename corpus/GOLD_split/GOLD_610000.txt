@@ -8,7 +8,6 @@ sem	aa	sem
 og	c	og
 varavelli	nkeþ	varavöllur
 .	.	.
-
 Sem	c	sem
 fyrr	aam	fyrr
 þurfa	sfg3fn	þurfa
@@ -33,7 +32,6 @@ sinna	sng	sinna
 slíku	fbheþ	slíkur
 hlutverki	nheþ	hlutverk
 .	.	.
-
 Segja	sng	segja
 má	sfg3en	mega
 að	c	að
@@ -59,7 +57,6 @@ er	ct	er
 varða	sfg3fn	varða
 þessar	favfo	þessi
 .	.	.
-
 Vegna	ae	vegna
 þessa	fahee	þessi
 er	sfg3en	vera
@@ -79,7 +76,6 @@ varðandi	slg	varða
 framtíð	nveo	framtíð
 innanlandsflugs	nhee	innanlandsflug
 .	.	.
-
 Skoði	svg3fn	skoða
 allar	fovfo	allur
 raunhæfar	lvfosf	raunhæfur
@@ -127,7 +123,6 @@ nota	sng	nota
 auknu	lkeþsf	auknu
 mæli	nkeþ	mælir
 .	.	.
-
 Í	aþ	í
 framhaldi	nheþ	framhald
 af	aþ	af
@@ -156,7 +151,6 @@ uppbyggingarsvæðum	nhfþ	uppbyggingarsvæði
 í	aþ	í
 nágrannabyggðum	nvfþ	nágrannabyggð
 .	.	.
-
 uppbyggingu	nveþ	uppbygging
 á	aþ	á
 flugvallarsvæðinu	nheþg	flugvallarsvæði
@@ -219,7 +213,6 @@ og	c	og
 fjölbreytt	lheosf	fjölbreyttur
 fjölskyldusvæði	nheo	fjölskyldusvæði
 .	.	.
-
 Þess	fphee	það
 verði	svg3en	verða
 jafnframt	aa	jafnframt
@@ -248,7 +241,6 @@ Elliðavatni	nheþ-s	Elliðavatn
 og	c	og
 Heiðmörk	nveþ-s	Heiðmörk
 .	.	.
-
 Slík	fbhfn	slíkur
 útivistarsvæði	nhfn	útivistarsvæði
 eru	sfg3fn	vera
@@ -264,7 +256,6 @@ fagurleika	nkee	fagurleiki
 og	c	og
 framtíðar	nvee	framtíð
 .	.	.
-
 Með	aþ	með
 slíku	fbheþ	slíkur
 fyrirkomulagi	nheþ	fyrirkomulag
@@ -287,7 +278,6 @@ hana	fpveo	hún
 sækja	sfg3fn	sækja
 heim	aa	heim
 .	.	.
-
 Gerum	svg1fn	gera
 góða	lveosf	góður
 borg	nveo	borg
@@ -314,7 +304,6 @@ verið	ssg	vera
 stoltir	lkfnsf	stoltur
 af	aa	af
 .	.	.
-
 Höfundur	nken	höfundur
 er	sfg3en	vera
 fulltrúi	nken	fulltrúi
@@ -326,7 +315,6 @@ og	c	og
 þarfar	lvfosf	þarfur
 framfarir	nvfo	framför
 .	.	.
-
 AÐILAR	nkfn	aðili
 eru	sfg3fn	vera
 sammála	lkfnof	sammála
@@ -442,7 +430,6 @@ varðveita	sng	varðveita
 öryggi	nheo	öryggi
 Norður-Atlantshafssvæðisins	nheegs	Norður-Atlantshafssvæði
 ...	...	...
-
 Svona	aa	svona
 hljómar	sfg3en	hljóma
 5.	ta	5.
@@ -457,7 +444,6 @@ Washington	e	Washington
 apríl	nkeo	apríl
 1949	ta	1949
 .	.	.
-
 Tveimur	tfhfþ	tveir
 árum	nhfþ	ár
 seinna	aam	seint
@@ -467,7 +453,6 @@ við	ao	við
 Bandaríkin	nhfogs	Bandaríki
 gerður	sþgken	gera
 .	.	.
-
 Einhliða	lvenof	einhliða
 tilkynning	nven	tilkynning
 Bandaríkjanna	nhfegs	Bandaríki
@@ -484,12 +469,10 @@ sér	fpveþ	sig
 uppsögn	nveo	uppsögn
 varnarsamningsins	nkeeg	varnarsamningur
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 ágætt	lhensf	ágætur
 .	.	.
-
 Þær	favfn	sá
 ógnir	nvfn	ógn
 sem	ct	sem
@@ -512,7 +495,6 @@ gerður	sþgken	gera
 árið	nheog	ár
 1951	ta	1951
 .	.	.
-
 Kalda	lheþvf	kaldur
 stríðinu	nheþg	stríð
 er	sfg3en	vera
@@ -526,7 +508,6 @@ Sovétríkin	nhfngs	Sovétríkin
 eru	sfg3fn	vera
 horfin	sþghfn	hverfa
 .	.	.
-
 Vörnin	nveng	vörn
 sem	ct	sem
 felst	sfm3en	fela
@@ -549,7 +530,6 @@ rekstur	nkeo	rekstur
 á	aþ	á
 björgunarþyrlum	nvfþ	björgunarþyrla
 .	.	.
-
 Við	fp1fn	ég
 því	aa	því
 kvatt	ssg	kveðja
@@ -567,13 +547,11 @@ Miðnesheiði	nveþ-s	Miðnesheiði
 eitthvað	foheo	einhver
 uppbyggilegra	lheovm	uppbyggilegur
 .	.	.
-
 Farið	ssg	fara
 hefur	sfg3en	hafa
 fé	nhen	fé
 betra	lhenvm	góður
 .	.	.
-
 Höfundur	nken	höfundur
 er	sfg3en	vera
 dósent	nken	dósent
@@ -584,14 +562,12 @@ Viðskiptaháskólann	nkeogs	Viðskiptaháskóli
 á	aþ	á
 Bifröst	nveþ-s	Bifröst
 .	.	.
-
 VATNSAFLSVIRKJUNUM	nvfþ	vatnsaflsvirkjun
 fylgja	sfg3fn	fylgja
 nær	aa	nær
 alltaf	aa	alltaf
 miðlunarlón	nhfn	miðlunarlón
 .	.	.
-
 Við	ao	við
 gerð	nveo	gerð
 þeirra	fphfe	það
@@ -610,7 +586,6 @@ ekki	aa	ekki
 verða	sfg3fn	verða
 bætt	sþghfn	bæta
 .	.	.
-
 Lónin	nhfng	lón
 hafa	sfg3fn	hafa
 mikil	lhfosf	mikill
@@ -621,7 +596,6 @@ landslag	nheo	landslag
 og	c	og
 náttúrufar	nheo	náttúrufar
 .	.	.
-
 Eðlilega	aa	eðlilega
 eru	sfg3fn	vera
 þessi	fahfn	þessi
@@ -633,7 +607,6 @@ og	c	og
 vekja	sfg3fn	vekja
 andúð	nveo	andúð
 .	.	.
-
 Minna	aa	minna
 er	sfg3en	vera
 aftur	aa	aftur
@@ -651,7 +624,6 @@ og	c	og
 lífríki	nheo	lífríki
 neðan	aa	neðan
 .	.	.
-
 Fáir	lkfnsf	fár
 hafa	sfg3fn	hafa
 lýst	ssg	lýsa
@@ -667,7 +639,6 @@ fyrir	aþ	fyrir
 ósum	nkfþ	ós
 fljótanna	nhfeg	fljót
 .	.	.
-
 Áhrif	nhfn	áhrif
 Þriggja	tfhfe	þrír
 gljúfra	nhfe	gljúfur
@@ -698,7 +669,6 @@ fiskveiðar	nvfo	fiskveiði
 í	aþ	í
 Austur-Kínahafi	nheþ-s	Austur-Kínahaf
 .	.	.
-
 Það	fahen	sá
 sem	ct	sem
 þar	aa	þar
@@ -719,7 +689,6 @@ hafsins	nheeg	haf
 umhverfis	ao	umhverfis
 landið	nheog	land
 .	.	.
-
 Þriggja	tfhfe	þrír
 gljúfra	nhfe	gljúfur
 stíflan	nveng	stífla
@@ -743,7 +712,6 @@ frá	aþ	frá
 ósum	nkfþ	ós
 Gulafljóts	nhee-s	Gulafljót
 .	.	.
-
 Byrjað	sþghen	byrja
 var	sfg3eþ	vera
 að	cn	að
@@ -754,7 +722,6 @@ hennar	fpvee	hún
 árið	nheog	ár
 2003	ta	2003
 .	.	.
-
 Vísindamenn	nkfn	vísindamaður
 undir	aþ	undir
 stjórn	nveþ	stjórn
@@ -776,7 +743,6 @@ frá	aþ	frá
 árinu	nheþg	ár
 1998	ta	1998
 .	.	.
-
 Þeir	fpkfn	hann
 komust	sfm3fþ	koma
 að	aþ	að
@@ -799,7 +765,6 @@ minnkaði	sfg3eþ	minnka
 þörungasvifið	nheng	þörungasvif
 verulega	aa	verulega
 .	.	.
-
 Framburður	nken	framburður
 næringarefna	nhfe	næringarefni
 er	sfg3en	vera
@@ -815,7 +780,6 @@ sérstaklega	aa	sérstaklega
 framburður	nken	framburður
 næringarefna	nhfe	næringarefni
 .	.	.
-
 Þau	fphfn	það
 falla	sfg3fn	falla
 út	aa	út
@@ -833,7 +797,6 @@ falla	sfg3fn	falla
 til	ae	til
 botns	nkee	botn
 .	.	.
-
 Munar	sfg3en	muna
 þar	aa	þar
 mest	aae	mikið
@@ -854,7 +817,6 @@ eru	sfg3fn	vera
 mikilvægustu	lkfnve	mikilvægur
 svifþörungarnir	nkfng	svifþörungur
 .	.	.
-
 Til	ae	til
 viðbótar	nvee	viðbót
 minnkaði	sfg3eþ	minnka
@@ -866,7 +828,6 @@ ferskvatns	nhee	ferskvatn
 í	ao	í
 hafið	nheog	haf
 .	.	.
-
 Munar	sfg3en	muna
 þar	aa	þar
 mest	aae	mikið
@@ -877,7 +838,6 @@ voru	sfg3fþ	vera
 tekin	sþghfn	taka
 af	aa	af
 .	.	.
-
 Hvort	fohen	hvor
 tveggja	tfhfe	tveir
 er	sfg3en	vera
@@ -900,7 +860,6 @@ eru	sfg3fn	vera
 efstu	lhfþve	efri
 þrepunum	nhfþg	þrep
 .	.	.
-
 Verulegar	lvfnsf	verulegur
 breytingar	nvfn	breyting
 urðu	sfg3fþ	verða
@@ -921,14 +880,12 @@ um	ao	um
 heilbrigt	lheosf	heilbrigður
 lífkerfi	nheo	lífkerfi
 .	.	.
-
 Í	ao	í
 þeirra	fpkfe	hann
 stað	nkeo	staður
 komu	sfg3fþ	koma
 svipuþörungar	nkfn	svipuþörungur
 .	.	.
-
 Svipuþörungarnir	nkfng	svipuþörungur
 þurfa	sfg3fn	þurfa
 ekki	aa	ekki
@@ -936,7 +893,6 @@ eins	aa	eins
 mikinn	lkeosf	mikill
 kísil	nkeo	kísill
 .	.	.
-
 Þeir	fpkfn	hann
 geta	sfg3fn	geta
 eytt	ssg	eyða
@@ -957,7 +913,6 @@ með	aa	með
 töldum	lkfþsf	talinn
 fiskum	nkfþ	fiskur
 .	.	.
-
 Vísindamennirnir	nkfng	vísindamaður
 fundu	sfg3fþ	finna
 að	c	að
@@ -986,7 +941,6 @@ niður	aa	niður
 16.000	ta	16.000
 km2	ta	km2
 .	.	.
-
 Þetta	fahen	þessi
 hefur	sfg3en	hafa
 nú	aa	nú
@@ -997,7 +951,6 @@ aflabresti	nkeþ	aflabrestur
 á	aþ	á
 hafsvæðinu	nheþg	hafsvæði
 .	.	.
-
 Áhrif	nhfn	áhrif
 vatnsaflsvirkjana	nvfe	vatnsaflsvirkjun
 á	aþ	á
@@ -1010,7 +963,6 @@ vorflóð	nhfn	vorflóð
 vel	aa	vel
 þekkt	lhfnsf	þekktur
 .	.	.
-
 Fyrir	ao	fyrir
 ofan	aa	ofan
 ósa	nkfo	ós
@@ -1028,7 +980,6 @@ af	aþ	af
 framburði	nkeþ	framburður
 ánna	nvfeg	á
 .	.	.
-
 Flæðiengin	nhfng	flæðiengi
 hafa	sfg3fn	hafa
 gefið	ssg	gefa
@@ -1046,7 +997,6 @@ til	ae	til
 heyskapar	nkee	heyskapur
 og	c	og
 beitar	nvee	beit
-
 Þau	fphfn	það
 eru	sfg3fn	vera
 enn	aa	enn
@@ -1055,7 +1005,6 @@ mikilvæg	lhfnsf	mikilvægur
 fyrir	ao	fyrir
 landbúnað	nkeo	landbúnaður
 .	.	.
-
 Meginhluti	nken	meginhluti
 framburðar	nkee	framburður
 ánna	nvfeg	á
@@ -1069,7 +1018,6 @@ sýnilegur	lkensf	sýnilegur
 brúnleitum	lkeþsf	brúnleitur
 lit	nkeþ	litur
 .	.	.
-
 Áhrif	nhfn	áhrif
 hans	fpkee	hann
 á	ao	á
@@ -1080,7 +1028,6 @@ ekki	aa	ekki
 eins	aa	eins
 augljós	lhfnsf	augljós
 .	.	.
-
 Þessi	fahfn	þessi
 áhrif	nhfn	áhrif
 hafa	sfg3fn	hafa
@@ -1095,7 +1042,6 @@ með	aa	með
 umhverfismati	nheþ	umhverfismat
 virkjanna	nhfeg	virki
 .	.	.
-
 Því	aa	því
 er	sfg3en	vera
 full	lvensf	fullur
@@ -1125,12 +1071,10 @@ um	ao	um
 byggingu	nveo	bygging
 þeirra	fpvfe	hún
 .	.	.
-
 Höfundur	nken	höfundur
 er	sfg3en	vera
 líffræðingur	nken	líffræðingur
 .	.	.
-
 BINDINDI	nhen	bindindi
 er	sfg3en	vera
 bezt	lhense	góður
@@ -1145,7 +1089,6 @@ af	aþ	af
 hjartans	nheeg	hjarta
 innstu	lveþve	innri
 sannfæringu	nveþ	sannfæring
-
 Sú	faven	sá
 lífsstefna	nven	lífsstefna
 færir	sfg3en	færa
@@ -1171,7 +1114,6 @@ minna	fekfe	minn
 árum	nhfþ	ár
 áður	aa	áður
 .	.	.
-
 Ég	fp1en	ég
 lét	sfg1eþ	láta
 þau	fphfo	það
@@ -1226,7 +1168,6 @@ af	aa	af
 hrein	lvensf	hreinn
 ógæfa	nven	ógæfa
 .	.	.
-
 Þetta	fahen	þessi
 eru	sfg3fn	vera
 einföld	lhfnsf	einfaldur
@@ -1275,7 +1216,6 @@ að	cn	að
 byrja	sng	byrja
 aldrei	aa	aldrei
 .	.	.
-
 Þessar	favfn	þessi
 hugleiðingar	nvfn	hugleiðing
 mínar	fevfn	minn
@@ -1334,7 +1274,6 @@ og	c	og
 máske	aa	máske
 eðlilegt	lhensf	eðlilegur
 .	.	.
-
 Blygðunarlaust	aa	blygðunarlaust
 er	sfg3en	vera
 dýrðarmyndin	nveng	dýrðarmynd
@@ -1366,7 +1305,6 @@ baki	nheþ	bak
 býr	sfg3en	búa
 mikill	lkensf	mikill
 .	.	.
-
 Áfengissala	nven	áfengissala
 stóreykst	sfm3en	stórauka
 ár	nheo	ár
@@ -1382,7 +1320,6 @@ snerta	sng	snerta
 alltof	aa	alltof
 fáa	lkfosf	fár
 .	.	.
-
 Nýjasta	lvenve	nýr
 brellan	nveng	brella
 til	ae	til
@@ -1467,7 +1404,6 @@ bletti	nkeþ	blettur
 eða	c	eða
 hrukku	nveþ	hrukka
 .	.	.
-
 Einu	lhfnvf	einn
 sýnilegu	lhfnvf	sýnilegur
 viðbrögðin	nhfng	viðbragð
@@ -1517,7 +1453,6 @@ með	aþ	með
 eða	c	eða
 hvað	fshen	hver
 .	.	.
-
 Á	aþ	á
 sama	fbkeþ	sami
 tíma	nkeþ	tími
@@ -1542,7 +1477,6 @@ verði	svg3fn	verða
 stærra	lhenvm	stór
 vandamál	nhen	vandamál
 .	.	.
-
 Ég	fp1en	ég
 hlýt	sfg1en	hljóta
 að	cn	að
@@ -1612,7 +1546,6 @@ fer	sfg3en	fara
 miður	aam	lítt
 síversnandi	lhenof	síversnandi
 ?	?	?
-
 Sá	faken	sá
 sem	ct	sem
 algáðum	lhfþsf	algáður
@@ -1663,7 +1596,6 @@ sem	ct	sem
 margsannaðar	lvfnsf	margsannaður
 eru	sfg3fn	vera
 .	.	.
-
 Ég	fp1en	ég
 spyr	sfg1en	spyrja
 í	aþ	í
@@ -1689,14 +1621,12 @@ vísa	sng	vísa
 sér	fpkfþ	sig
 veg	nkeo	vegur
 ?	?	?
-
 Höfundur	nken	höfundur
 er	sfg3en	vera
 formaður	nken	formaður
 fjölmiðlanefndar	nvee	fjölmiðlanefnd
 IOGT	as	IOGT
 .	.	.
-
 BROTTFÖR	nven	brottför
 Bandaríkjahers	nkee-s	Bandaríkjaher
 frá	aþ	frá
@@ -1714,7 +1644,6 @@ fyrir	aþ	fyrir
 55	ta	55
 árum	nhfþ	ár
 .	.	.
-
 Í	ao	í
 morgunsárið	nheog	morgunsár
 7.	ta	7.
@@ -1732,7 +1661,6 @@ væri	svg3eþ	vera
 ný	aa	ný
 hersetið	lhensf	hersetinn
 .	.	.
-
 Tilkynningin	nveng	tilkynning
 kom	sfg3eþ	koma
 en	c	en
@@ -1758,7 +1686,6 @@ Framsóknarflokks	nkee-s	Framsóknarflokkur
 og	c	og
 Alþýðuflokks	nkee-s	Alþýðuflokkur
 .	.	.
-
 Þetta	fahen	þessi
 gerðist	sfm3eþ	gera
 þrátt	aa	þrátt
@@ -1787,7 +1714,6 @@ her	nken	her
 á	aþ	á
 friðartímum	nkfþ	friðartími
 .	.	.
-
 Því	fpheþ	það
 var	sfg3eþ	vera
 borið	sþghen	bera
@@ -1810,7 +1736,6 @@ horfði	svg3eþ	horfa
 samskiptum	nhfþ	samskipti
 stórvelda	nhfe	stórveldi
 .	.	.
-
 Alþingi	nhen-s	Alþingi
 kom	sfg3eþ	koma
 hvergi	aa	hvergi
@@ -1833,7 +1758,6 @@ verið	ssg	vera
 með	aþ	með
 leynd	nveþ	leynd
 .	.	.
-
 drjúgi	lkenvf	drjúgur
 mannsaldur	nken	mannsaldur
 sem	ct	sem
@@ -1865,7 +1789,6 @@ og	c	og
 net	nhfo	net
 sín	fehfo	sinn
 .	.	.
-
 Herstöðvar	nvfn	herstöð
 verða	sfg3fn	verða
 hvarvetna	aa	hvarvetna
@@ -1876,7 +1799,6 @@ hýsilinn	nkeog	hýsill
 háðan	lkeosf	háður
 sér	fpvfþ	sig
 .	.	.
-
 Herstöðin	nveng	herstöð
 á	aþ	á
 Keflavíkurflugvelli	nkeþ-s	Keflavíkurflugvöllur
@@ -1887,7 +1809,6 @@ var	sfg3eþ	vera
 engin	foven	enginn
 undantekning	nven	undantekning
 .	.	.
-
 Eftir	ao	eftir
 hrun	nheo	hrun
 Sovétríkjanna	nhfegs	Sovétríkin
@@ -1913,7 +1834,6 @@ dygðu	svg3fþ	duga
 ekki	aa	ekki
 lengur	aam	lengi
 .	.	.
-
 Fjárhagslegir	lkfnsf	fjárhagslegur
 hagsmunir	nkfn	hagsmunir
 af	aþ	af
@@ -1935,7 +1855,6 @@ talsmönnum	nkfþ	talsmaður
 við	ao	við
 heygarðshorn	nheo	heygarðshorn
 .	.	.
-
 Þótt	c	þótt
 óvinurinn	nkeng	óvinur
 hafi	svg3en	hafa
@@ -1963,7 +1882,6 @@ haldið	sþghen	halda
 á	aþ	á
 lofti	nheþ	loft
 .	.	.
-
 Bandaríkin	nhfngs	Bandaríki
 voru	sfg3fþ	vera
 þrábeðin	sþghfn	þrábiðja
@@ -1983,7 +1901,6 @@ frá	aþ	frá
 bæjardyrum	nvfþ	bæjardyr
 séð	sþghen	sjá
 .	.	.
-
 Augljóst	lhensf	augljós
 er	sfg3en	vera
 að	c	að
@@ -2008,7 +1925,6 @@ dvöl	nveo	dvöl
 bandaríkjahers	nkee	Bandaríkjaher
 hérlendis	aa	hérlendis
 .	.	.
-
 Í	aþ	í
 því	faheþ	sá
 ljósi	nheþ	ljós
@@ -2041,7 +1957,6 @@ Sjálfstæðisflokksins	nkeegs	Sjálfstæðisflokkur
 til	ae	til
 Washington	e	Washington
 .	.	.
-
 Hreinar	lvfnsf	hreinn
 leppstjórnir	nvfn	leppstjórn
 hafa	sfg3fn	hafa
@@ -2066,7 +1981,6 @@ sem	ct	sem
 þeir	fpkfn	hann
 standa	sfg3fn	standa
 .	.	.
-
 Viðbrögðin	nhfng	viðbragð
 af	aþ	af
 hálfu	nveþ	hálfa
@@ -2081,7 +1995,6 @@ höfuð	nheo	höfuð
 af	aþ	af
 skömminni	nveþg	skömm
 .	.	.
-
 Nú	aa	nú
 er	sfg3en	vera
 kallað	sþghen	kalla
@@ -2125,7 +2038,6 @@ með	aþ	með
 herstöðvasamningnum	nkeþg	herstöðvasamningur
 1951	ta	1951
 .	.	.
-
 Andstaðan	nveng	andstaða
 herstöðvastefnunni	nveþg	herstöðvastefna
 Eldra	lhenvm	gamall
@@ -2149,7 +2061,6 @@ hingað	aa	hingað
 erlendan	lkeosf	erlendur
 her	nkeo	her
 .	.	.
-
 Afstaðan	nveng	afstaða
 til	ae	til
 herstöðvanna	nvfeg	herstöð
@@ -2165,7 +2076,6 @@ skipt	ssg	skipta
 andstæðar	lvfosf	andstæður
 fylkingar	nvfo	fylking
 .	.	.
-
 Hver	foken	hver
 og	c	og
 einn	foken	einn
@@ -2177,7 +2087,6 @@ tengdar	lvfosf	tengdur
 sögu	nveþ	saga
 hernámsins	nheeg	hernám
 .	.	.
-
 Sá	faken	sá
 sem	ct	sem
 þetta	faheo	þessi
@@ -2198,7 +2107,6 @@ komu	nveo	koma
 bandaríska	lkeevf	bandarískur
 hersins	nkeeg	her
 .	.	.
-
 Ég	fp1en	ég
 þreytti	sfg1eþ	þreyta
 þá	aa	þá
@@ -2218,7 +2126,6 @@ ungra	lkfesf	ungur
 framsóknarmanna	nkfe	framsóknarmaður
 eystra	aam	eystra
 .	.	.
-
 Traust	nhen	traust
 mitt	fehen	minn
 á	aþ	á
@@ -2243,7 +2150,6 @@ inngönguna	nveog	innganga
 í	ao	í
 NATÓ	nxeo-s	NATÓ
 .	.	.
-
 Andstaðan	nveng	andstaða
 gegn	aþ	gegn
 herstöðvunum	nvfþg	herstöð
@@ -2261,7 +2167,6 @@ inn	aa	inn
 miðju	nveo	miðja
 stjórnmálanna	nhfeg	stjórnmál
 .	.	.
-
 Mikill	lkensf	mikill
 er	sfg3en	vera
 sómi	nken	sómi
@@ -2293,7 +2198,6 @@ málstað	nkeo	málstaður
 hins	fahee	hinn
 risaveldisins	nheeg	risaveldi
 .	.	.
-
 Nú	aa	nú
 geta	sfg3fn	geta
 menn	nkfn	maður
@@ -2323,7 +2227,6 @@ léttvægt	lhensf	léttvægur
 mælikvarða	nkeo	mælikvarði
 Pentagons	e	Pentagons
 .	.	.
-
 Skýrustu	lhfnve	skýr
 áhrifamestu	lhfnve	áhrifamikill
 rök	nhfn	rök
@@ -2348,7 +2251,6 @@ styrjaldar	nvee	styrjöld
 stríðandi	lvfeof	stríðandi
 fylkinga	nvfe	fylking
 .	.	.
-
 Óháð	lhensf	óháður
 Ísland	nhen-s	Ísland
 án	ae	án
@@ -2364,7 +2266,6 @@ enn	aa	enn
 fullu	lheþsf	fullur
 gildi	nheþ	gildi
 .	.	.
-
 Í	aþ	í
 hugsanlegum	lhfþsf	hugsanlegur
 styrjaldarástökum	nhfþ	styrjaldarástak
@@ -2381,7 +2282,6 @@ herstöðvar	nvfo	herstöð
 landi	nheþ	land
 sínu	feheþ	sinn
 .	.	.
-
 Enginn	foken	enginn
 reynir	sfg3en	reyna
 svo	aa	svo
@@ -2401,7 +2301,6 @@ eða	c	eða
 fyrirsjáanlegri	lveþsf	fyrirsjáanlegur
 framtíð	nveþ	framtíð
 .	.	.
-
 Því	aa	því
 eiga	sfg3fn	eiga
 Íslendingar	nkfn-s	Íslendingur
@@ -2422,7 +2321,6 @@ sér	fpkfþ	sig
 utan	ae	utan
 hernaðarbandalaga	nhfe	hernaðarbandalag
 .	.	.
-
 Öryggismál	nhfn	öryggismál
 í	aþ	í
 víðu	lheþsf	víður
@@ -2461,7 +2359,6 @@ austri	nheþ	austur
 og	c	og
 vestri	nheþ	vestur
 .	.	.
-
 Höfundur	nken	höfundur
 er	sfg3en	vera
 fyrrverandi	lkenof	fyrrverandi
@@ -2469,7 +2366,6 @@ alþingismaður	nken	alþingismaður
 og	c	og
 ráðherra	nken	ráðherra
 .	.	.
-
 MENNINGAR-	nven	menningarstofnun
 og	c	og
 vísindastofnun	nven	vísindastofnun
@@ -2492,19 +2388,15 @@ upp	aa	upp
 dag	nkeo	dagur
 vatnsins	nheeg	vatn
 .	.	.
-
 Í	ao	í
 ár	nheo	ár
 er	sfg3en	vera
 þema	nhen	þema
 dagsins	nkeeg	dagur
-
 Vatn	nhen	vatn
 og	c	og
 menning	nven	menning
-
 .	.	.
-
 Það	fphen	það
 var	sfg3eþ	vera
 valið	sþghen	velja
@@ -2527,7 +2419,6 @@ jafnfjölbreytt	lhensf	jafnfjölbreyttur
 er	x	vera
 margar	lvfnsf	margur
 .	.	.
-
 Vatn	nhen	vatn
 er	sfg3en	vera
 nátengt	lhensf	nátengdur
@@ -2559,7 +2450,6 @@ tónlist	nveþ	tónlist
 eða	c	eða
 kvikmyndum	nvfþ	kvikmynd
 .	.	.
-
 Í	aþ	í
 hugum	nkfþ	hugi
 margra	lkfesf	margur
@@ -2573,7 +2463,6 @@ undirstaða	nven	undirstaða
 mannlegs	lheesf	mannlegur
 lífs	nhee	líf
 .	.	.
-
 Öll	fohfn	allur
 helstu	lhfnve	heldri
 samfélög	nhfn	samfélag
@@ -2605,7 +2494,6 @@ nota	nhfe	not
 daglegu	lheþsf	daglegur
 lífi	nheþ	líf
 .	.	.
-
 Líf	nhen	líf
 okkar	fp1fe	ég
 hefur	sfg3en	hafa
@@ -2629,7 +2517,6 @@ og	c	og
 framleiðslu	nvee	framleiðsla
 matvæla	nhfe	matvæli
 .	.	.
-
 Líkami	nken	líkami
 okkar	fp1fe	ég
 er	sfg3en	vera
@@ -2655,7 +2542,6 @@ daga	nkfo	dagur
 án	ae	án
 vatns	nhee	vatn
 .	.	.
-
 Vatnið	nheng	vatn
 er	sfg3en	vera
 í	aþ	í
@@ -2673,7 +2559,6 @@ land	nheo	land
 sem	ct	sem
 úrkoma	nven	úrkoma
 .	.	.
-
 Stór	lkensf	stór
 hluti	nken	hluti
 mannkyns	nhee	mannkyn
@@ -2699,7 +2584,6 @@ og	c	og
 heilnæmu	lheþsf	heilnæmur
 vatni	nheþ	vatn
 .	.	.
-
 Meginþorri	nken	meginþorri
 þessa	fahee	þessi
 fólks	nhee	fólk
@@ -2711,7 +2595,6 @@ Afríku	nveþ-s	Afríka
 og	c	og
 Mið-Austurlöndum	nhfþ-s	Mið-Austurlönd
 .	.	.
-
 Vatnsskorturinn	nkeng	vatnsskortur
 setur	sfg3en	setja
 mikið	lheosf	mikill
@@ -2722,7 +2605,6 @@ menningu	nveo	menning
 þjóða	nvfe	þjóð
 og	c	og
 .	.	.
-
 Ástæður	nvfn	ástæða
 vatnsskortsins	nkeeg	vatnsskortur
 geta	sfg3fn	geta
@@ -2742,7 +2624,6 @@ breytinga	nvfe	breyting
 á	aþ	á
 árfarvegum	nkfþ	árfarvegur
 .	.	.
-
 Vatnsskortur	nken	vatnsskortur
 getur	sfg3en	geta
 einnig	aa	einnig
@@ -2762,7 +2643,6 @@ og	c	og
 skipulagningu	nveþ	skipulagning
 vatnsauðlindanna	nvfeg	vatnsauðlind
 .	.	.
-
 Þrátt	aa	þrátt
 fyrir	ao	fyrir
 að	c	að
@@ -2785,7 +2665,6 @@ að	cn	að
 nýta	sng	nýta
 það	fpheo	það
 .	.	.
-
 Mengun	nven	mengun
 vatns	nhee	vatn
 Mengun	nven	mengun
@@ -2807,7 +2686,6 @@ vatn	nheo	vatn
 til	ae	til
 neyslu	nvee	neysla
 .	.	.
-
 Mengað	lhensf	mengaður
 vatn	nhen	vatn
 getur	sfg3en	geta
@@ -2821,7 +2699,6 @@ sér	fpheþ	sig
 fiskdauða	nkeo	fiskdauði
 og	c	og
 .	.	.
-
 Yfirleitt	aa	yfirleitt
 eru	sfg3fn	vera
 það	fphen	það
@@ -2834,7 +2711,6 @@ hafa	sfg3fn	hafa
 gæði	nhfo	gæði
 vatns	nhee	vatn
 .	.	.
-
 Ýmis	fohfn	ýmis
 úrgangsefni	nhfn	úrgangsefni
 frá	aþ	frá
@@ -2852,7 +2728,6 @@ neyslu	nvee	neysla
 og	c	og
 afþreyingar	nvee	afþreying
 .	.	.
-
 Stór	lkensf	stór
 hluti	nken	hluti
 vatnsmengunar	nvee	vatnsmengun
@@ -2880,7 +2755,6 @@ niðurgangi	nkeþ	niðurgangur
 og	c	og
 lifrarbólgu	nveþ	lifrarbólga
 .	.	.
-
 Aðrir	fokfn	annar
 sjúkdómar	nkfn	sjúkdómur
 eins	aa	eins
@@ -2896,7 +2770,6 @@ manna	nkfe	maður
 með	aþ	með
 skordýrum	nhfþ	skordýr
 .	.	.
-
 Talið	sþghen	telja
 er	sfg3en	vera
 að	c	að
@@ -2915,7 +2788,6 @@ sjúkdóma	nkfe	sjúkdómur
 s.s.	as	s.s.
 malaríu	nvee	malaría
 .	.	.
-
 Talið	sþghen	telja
 er	sfg3en	vera
 að	cn	að
@@ -2933,7 +2805,6 @@ til	ae	til
 vatnsborinna	lkfesf	vatnsborinn
 sjúkdóma	nkfe	sjúkdómur
 .	.	.
-
 Meginuppspretta	nven	meginuppspretta
 þessara	favfe	þessi
 sóttkveikja	nvfe	sóttkveikja
@@ -2948,7 +2819,6 @@ skólp	nhen	skólp
 frá	aþ	frá
 mönnum	nkfþ	maður
 .	.	.
-
 Dýraleifar	nvfn	dýraleifar
 frá	aþ	frá
 fóðrunarstöðvum	nvfþ	fóðrunarstöð
@@ -2968,7 +2838,6 @@ uppspretta	nven	uppspretta
 sjúkdómavaldandi	lvfeof	sjúkdómavaldandi
 lífvera	nvfe	lífvera
 .	.	.
-
 Hreinsun	nven	hreinsun
 frárennslis	nhee	frárennsli
 og	c	og
@@ -2992,7 +2861,6 @@ og	c	og
 ómenguðu	lheþsf	ómengaður
 vatni	nheþ	vatn
 .	.	.
-
 Á	aþ	á
 Vesturlöndum	nhfþ-s	Vesturland
 eru	sfg3fn	vera
@@ -3013,7 +2881,6 @@ sóttkveikja	nvfe	sóttkveikja
 í	aþ	í
 yfirborðsvatni	nheþ	yfirborðsvatn
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 neysluvatn	nhen	neysluvatn
@@ -3029,7 +2896,6 @@ sóttkveikja	nvfe	sóttkveikja
 eru	sfg3fn	vera
 sjaldgæfar	lvfnsf	sjaldgæfur
 .	.	.
-
 Íbúar	nkfn	íbúi
 þróunarlandanna	nhfeg	þróunarland
 búa	sfg3fn	búa
@@ -3038,7 +2904,6 @@ við	ao	við
 sambærilegar	lvfosf	sambærilegur
 aðstæður	nvfo	aðstæður
 .	.	.
-
 Ástandið	nheng	ástand
 er	sfg3en	vera
 sérstaklega	aa	sérstaklega
@@ -3074,7 +2939,6 @@ fyrir	ao	fyrir
 íbúa	nkfo	íbúi
 svæðanna	nhfeg	svæði
 .	.	.
-
 Alþjóða	lvenof	alþjóða
 heilbrigðisstofnunin	nveng	heilbrigðisstofnun
 telur	sfg3en	telja
@@ -3092,7 +2956,6 @@ til	ae	til
 vatnsborinna	lvfesf	vatnsborinn
 sýkinga	nvfe	sýking
 .	.	.
-
 Alþjóðabankinn	nkeng	alþjóðabanki
 telur	sfg3en	telja
 að	c	að
@@ -3115,7 +2978,6 @@ af	aþ	af
 iðrasjúkdómum	nkfþ	iðrasjúkdómur
 á	aþ	á
 ári	nheþ	ár
-
 Það	fphen	það
 hefði	svg3eþ	hafa
 einnig	aa	einnig
@@ -3137,7 +2999,6 @@ barna	nhfe	barn
 hverju	foheþ	hver
 ári	nheþ	ár
 .	.	.
-
 Einnig	aa	einnig
 mætti	svg3eþ	mega
 koma	sng	koma
@@ -3155,7 +3016,6 @@ iðraorma	nkfe	iðraormur
 eða	c	eða
 ögðusýkinga	nvfe	ögðusýking
 .	.	.
-
 Vatnsauðurinn	nkeng	vatnsauður
 á	aþ	á
 Íslandi	nheþ-s	Ísland
@@ -3172,7 +3032,6 @@ miðað	sþghen	miða
 við	ao	við
 íbúafjölda	nkeo	íbúafjöldi
 .	.	.
-
 Ef	c	ef
 borið	sþghen	bera
 er	sfg3en	vera
@@ -3201,7 +3060,6 @@ meira	lheovm	mikill
 en	c	en
 Bandaríkjamenn	nkfn-s	Bandaríkjamaður
 .	.	.
-
 Neysluvatn	nhen	neysluvatn
 hérlendis	aa	hérlendis
 er	sfg3en	vera
@@ -3217,7 +3075,6 @@ og	c	og
 reglugerð	nveþ	reglugerð
 neysluvatn	nheo	neysluvatn
 .	.	.
-
 Meirihluti	nken	meirihluti
 þjóðarinnar	nveeg	þjóð
 á	sfg3en	eiga
@@ -3243,7 +3100,6 @@ sérstaklega	aa	sérstaklega
 yfir	ao	yfir
 sumarmánuðina	nkfog	sumarmánuður
 .	.	.
-
 Við	fp1fn	ég
 Íslendingar	nkfn-s	Íslendingur
 erum	sfg1fn	vera
@@ -3269,7 +3125,6 @@ af	aþ	af
 gnótt	nveþ	gnótt
 vatns	nhee	vatn
 .	.	.
-
 Við	fp1fn	ég
 höfum	sfg1fn	hafa
 aðgang	nkeo	aðgangur
@@ -3281,7 +3136,6 @@ húsahitunar	nvee	húsahitun
 og	c	og
 afþreyingar	nvee	afþreying
 .	.	.
-
 Notkun	nven	notkun
 sundlauga	nvfe	sundlaug
 og	c	og
@@ -3300,7 +3154,6 @@ er	sfg3en	vera
 í	aþ	í
 Finnlandi	nheþ-s	Finnland
 .	.	.
-
 Mörg	lhfnsf	margur
 af	aþ	af
 okkar	fp1fe	ég
@@ -3323,7 +3176,6 @@ en	c	en
 við	ao	við
 lækjarnið	nkeo	lækjarniður
 .	.	.
-
 Höfundur	nken	höfundur
 er	sfg3en	vera
 sérfræðingur	nken	sérfræðingur
@@ -3337,7 +3189,6 @@ hennar	fpvee	hún
 Íslensku	lveþvf	íslenskur
 vatnafræðinefndinni	nveþg	vatnafræðinefnd
 .	.	.
-
 www.ust.is	v	www.ust.is
 http://www.unesco.org	v	http://www.unesco.org
 /	/	/
@@ -3347,7 +3198,6 @@ water_celebrations	e	water_celebrations
 /	/	/
 decades	e	decades
 /	/	/
-
 Í	aþ	í
 FRÉTTUM	nvfþ	frétt
 stöðvar	nvee	stöð
@@ -3356,7 +3206,6 @@ hinn	gkeo	hinn
 20.	ta	20.
 þ.m	as	þ.m
 .	.	.
-
 var	sfg3eþ	vera
 rætt	sþghen	ræða
 við	ao	við
@@ -3366,7 +3215,6 @@ Skarphéðinsson	nkeo-s	Skarphéðinsson
 þingmann	nkeo	þingmaður
 Samfylkingar	nvee-s	Samfylking
 .	.	.
-
 Þingmaðurinn	nkeng	þingmaður
 fór	sfg3eþ	fara
 mikinn	lkeosf	mikill
@@ -3396,7 +3244,6 @@ vegna	ae	vegna
 vinnubragða	nhfe	vinnubrögð
 embættisins	nheeg	embætti
 .	.	.
-
 Ummæli	nhfn	ummæli
 þingmannsins	nkeeg	þingmaður
 verða	sfg3fn	verða
@@ -3426,7 +3273,6 @@ Ríkislögreglustjóra	nkee-s	ríkislögreglustjóri
 í	aþ	í
 Baugsmálinu	nheþgs	Baugsmál
 .	.	.
-
 Menn	nkfn	maður
 hafa	sfg3fn	hafa
 verið	ssg	vera
@@ -3445,7 +3291,6 @@ rannsóknar	nvee	rannsókn
 vinnubrögðum	nhfþ	vinnubrögð
 ákæruvaldsins	nheeg	ákæruvald
 ?	?	?
-
 Ber	sfg3en	bera
 þingmaðurinn	nkeng	þingmaður
 einungis	aa	einungis
@@ -3470,7 +3315,6 @@ kröfum	nvfþ	krafa
 öðrum	fohfþ	annar
 málum	nhfþ	mál
 ?	?	?
-
 Enginn	foken	enginn
 reis	sfg3eþ	rísa
 upp	aa	upp
@@ -3528,7 +3372,6 @@ sakborningar	nkfn	sakborningur
 voru	sfg3fþ	vera
 sýknaðir	sþgkfn	sýkna
 .	.	.
-
 Var	sfg3eþ	vera
 þá	aa	þá
 ekki	aa	ekki
@@ -3544,7 +3387,6 @@ allir	fokfn	allur
 voru	sfg3fþ	vera
 sýknaðir	sþgkfn	sýkna
 ?	?	?
-
 Gilda	sfg3fn	gilda
 slík	fbhfn	slíkur
 viðbrögð	nhfn	viðbragð
@@ -3553,12 +3395,10 @@ aðeins	aa	aðeins
 máli	nheþ	mál
 Baugsmanna	nkfe-s	Baugsmaður
 ?	?	?
-
 Höfundur	nken	höfundur
 er	sfg3en	vera
 lögfræðingur	nken	lögfræðingur
 .	.	.
-
 HANN	fpken	hann
 fékk	sfg3eþ	fá
 bók	nveo	bók
@@ -3603,7 +3443,6 @@ sig	fpveo	sig
 fyrir	ao	fyrir
 heimilisstörfin	nhfog	heimilisstarf
 .	.	.
-
 Hann	fpken	hann
 hefur	sfg3en	hafa
 aldrei	aa	aldrei
@@ -3649,7 +3488,6 @@ hvað	fshen	hver
 með	ao	með
 það	fpheo	það
 ?	?	?
-
 Við	fp1fn	ég
 fögnum	sfg1fn	fagna
 þessu	faheþ	þessi
@@ -3658,7 +3496,6 @@ fögnum	sfg1fn	fagna
 ekki	aa	ekki
 satt	lhensf	sannur
 ?	?	?
-
 Ég	fp1en	ég
 er	sfg1en	vera
 ekkert	fohen	enginn
@@ -3708,7 +3545,6 @@ til	ae	til
 16	ta	16
 aldurs	nkee	aldur
 .	.	.
-
 Og	c	og
 ekki	aa	ekki
 skipti	sfg3eþ	skipta
@@ -3750,7 +3586,6 @@ hver	foken	hver
 annar	foken	annar
 nýbúi	nken	nýbúi
 .	.	.
-
 En	c	en
 nú	aa	nú
 hafa	sfg3fn	hafa
@@ -3762,7 +3597,6 @@ hefur	sfg3en	hafa
 verið	ssg	vera
 gefið	sþghen	gefa
 .	.	.
-
 Ég	fp1en	ég
 fagna	sfg1en	fagna
 því	fpheþ	það
@@ -3799,7 +3633,6 @@ kveða	sfg3fn	kveða
 á	aa	á
 um	aa	um
 .	.	.
-
 Mundi	nken-s	Mundi
 minn	feken	minn
 ,	,	,
@@ -3836,7 +3669,6 @@ u.þ.b.	as	u.þ.b.
 þremur	tfkfþ	þrír
 mánuðum	nkfþ	mánuður
 .	.	.
-
 Ég	fp1en	ég
 bendi	sfg1en	benda
 þér	fp2eþ	þú
@@ -3876,7 +3708,6 @@ en	c	en
 kemur	sfg2en	koma
 heim	aa	heim
 .	.	.
-
 Mundi	nken-s	Mundi
 minn	feken	minn
 ,	,	,
@@ -3900,7 +3731,6 @@ eins	aa	eins
 og	c	og
 Bobby	e	Bobby
 .	.	.
-
 Já	au	já
 ,	,	,
 ég	fp1en	ég
@@ -3918,7 +3748,6 @@ Fischer	e	Fischer
 karlinum	nkeþg	karl
 fordæmið	nheog	fordæmi
 !	!	!
-
 TOBY	e	TOBY
 SIGRÚN	nven-s	Sigrún
 HERMAN	e	HERMAN
@@ -3935,12 +3764,10 @@ starfsráðgjafi	nken	starfsráðgjafi
 101	ta	101
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Frá	aþ	frá
 Toby	e	Toby
 Sigrúnu	nveþ-s	Sigrún
 Herman	e	Herman
-
 TONY	e	TONY
 Blair	e	Blair
 hefur	sfg3en	hafa
@@ -3978,7 +3805,6 @@ röngu	lheþsf	rangur
 að	cn	að
 standa	sng	standa
 .	.	.
-
 Þarna	aa	þarna
 er	sfg3en	vera
 Blair	e	Blair
@@ -3987,7 +3813,6 @@ segja	sng	segja
 tóma	lveosf	tómur
 vitleysu	nveo	vitleysa
 .	.	.
-
 Þó	aa	þó
 að	c	að
 toppklíka	nven	toppklíka
@@ -4003,7 +3828,6 @@ ekkert	foheo	enginn
 í	aþ	í
 efnum	nhfþ	efni
 .	.	.
-
 En	c	en
 nokkurra	fohfe	nokkur
 ára	nhfe	ár
@@ -4036,7 +3860,6 @@ gæti	svg3eþ	geta
 komið	ssg	koma
 fram	aa	fram
 .	.	.
-
 En	c	en
 þegar	c	þegar
 að	aþ	að
@@ -4063,7 +3886,6 @@ nú	aa	nú
 stjórna	sfg3fn	stjórna
 málum	nhfþ	mál
 .	.	.
-
 Sumir	fokfn	sumur
 leiðtogar	nkfn	leiðtogi
 hafa	sfg3fn	hafa
@@ -4085,7 +3907,6 @@ sanns	lkeesf	sannur
 vegar	nkee	vegur
 færa	sng	færa
 .	.	.
-
 Einn	foken	einn
 þeirra	fpkfe	hann
 er	sfg3en	vera
@@ -4131,7 +3952,6 @@ milljón	nven	milljón
 af	aþ	af
 70	ta	70
 ?	?	?
-
 Það	fphen	það
 er	sfg3en	vera
 heldur	aam	heldur
@@ -4166,7 +3986,6 @@ framtíðinni	nveþg	framtíð
 eða	c	eða
 hvað	fshen	hver
 ?	?	?
-
 Ég	fp1en	ég
 nefni	sfg1en	nefna
 þetta	faheo	þessi
@@ -4202,7 +4021,6 @@ ESB	as	ESB
 í	aa	í
 gegn	aa	gegn
 .	.	.
-
 Þjóðverjar	nkfn-s	Þjóðverji
 geta	sfg3fn	geta
 sjálfsagt	aa	sjálfsagt
@@ -4226,7 +4044,6 @@ al-tyrknesk	lhfnsf	altyrkneskur
 og	c	og
 af-þýsk	lhfnsf	afþýskur
 .	.	.
-
 Þannig	aa	þannig
 skilar	sfg3en	skila
 fjölmenningin	nveng	fjölmenning
@@ -4240,7 +4057,6 @@ fyrir	aþ	fyrir
 í	aþ	í
 framtíðinni	nveþg	framtíð
 .	.	.
-
 Þegar	aa	þegar
 virðist	sfm3en	virða
 sums	fokee	sumur
@@ -4252,7 +4068,6 @@ hvað	fshen	hver
 það	fpheo	það
 varðar	sfg3en	varða
 .	.	.
-
 Eitt	fohen	einn
 af	aþ	af
 því	faheþ	sá
@@ -4303,7 +4118,6 @@ sem	aa	sem
 að	cn	að
 afkristnast	snm	afkristna
 .	.	.
-
 Þjóðir	nvfn	þjóð
 Evrópu	nvee-s	Evrópa
 leggja	sfg3fn	leggja
@@ -4334,7 +4148,6 @@ innan	ae	innan
 þeirra	fahfe	sá
 vébanda	nhfe	vébönd
 .	.	.
-
 En	c	en
 málið	nheng	mál
 er	sfg3en	vera
@@ -4344,7 +4157,6 @@ ekki	aa	ekki
 svo	aa	svo
 einfalt	lhensf	einfaldur
 .	.	.
-
 Múslímar	nkfn	múslími
 eru	sfg3fn	vera
 yfirleitt	aa	yfirleitt
@@ -4365,7 +4177,6 @@ mestu	lheþse	mikill
 lífi	nheþ	líf
 þeirra	fpkfe	hann
 .	.	.
-
 Það	fphen	það
 þýðir	sfg3en	þýða
 að	c	að
@@ -4386,7 +4197,6 @@ sem	c	sem
 hálfa	lveosf	hálfur
 öld	nveo	öld
 .	.	.
-
 Þeir	fakfn	sá
 sem	ct	sem
 taka	sfg3fn	taka
@@ -4402,7 +4212,6 @@ ekki	aa	ekki
 yfir	ao	yfir
 höfuð	nheo	höfuð
 .	.	.
-
 Sagan	nveng	saga
 sannar	sfg3en	sanna
 það	fpheo	það
@@ -4439,14 +4248,12 @@ trú	nveo	trú
 sína	feveo	sinn
 alvarlega	aa	alvarlega
 .	.	.
-
 Niðurstaðan	nveng	niðurstaða
 getur	sfg3en	geta
 ekki	aa	ekki
 orðið	ssg	verða
 önnur	foven	annar
 .	.	.
-
 Sú	faven	sá
 var	sfg3eþ	vera
 tíðin	nveng	tíð
@@ -4469,7 +4276,6 @@ og	c	og
 stöðvaði	sfg3eþ	stöðva
 innrásina	nveog	innrás
 .	.	.
-
 Nú	aa	nú
 er	sfg3en	vera
 enginn	foken	enginn
@@ -4485,7 +4291,6 @@ til	ae	til
 slíkra	fbhfe	slíkur
 afreka	nhfe	afrek
 .	.	.
-
 Sú	faven	sá
 var	sfg3eþ	vera
 tíðin	nveng	tíð
@@ -4501,7 +4306,6 @@ hvert	fohen	hver
 við	ao	við
 annað	foheo	annar
 .	.	.
-
 En	c	en
 þá	aa	þá
 sáu	sfg3fþ	sjá
@@ -4516,7 +4320,6 @@ henni	fpveþ	hún
 góðu	lheþsf	góður
 heilli	nheþ	heill
 .	.	.
-
 Nú	aa	nú
 eru	sfg3fn	vera
 leiðtogar	nkfn	leiðtogi
@@ -4531,7 +4334,6 @@ hefð	nven	hefð
 og	c	og
 yfirborðsmál	nhen	yfirborðsmál
 .	.	.
-
 Vín	nven-s	Vín
 mun	sfg3en	munu
 því	aa	því
@@ -4550,7 +4352,6 @@ aðrar	fovfn	annar
 höfuðborgir	nvfn	höfuðborg
 Evrópu	nvee-s	Evrópa
 .	.	.
-
 Hálfmáninn	nkeng	hálfmáni
 á	sfg3en	eiga
 eftir	aa	eftir
@@ -4562,7 +4363,6 @@ yfir	aþ	yfir
 stað	nkeo	staður
 krossins	nkeeg	kross
 !	!	!
-
 Múslímar	nkfn	múslími
 munu	sfg3fn	munu
 vinna	sng	vinna
@@ -4594,7 +4394,6 @@ sinn	fekeo	sinn
 eina	lkeovf	einn
 guð	nkeo	guð
 .	.	.
-
 þarf	sfg3en	þurfa
 eitthvað	fohen	einhver
 mikið	lhensf	mikill
@@ -4610,7 +4409,6 @@ breytt	sþghen	breyta
 úr	aþ	úr
 þessu	faheþ	þessi
 .	.	.
-
 RÚNAR	nken-s	Rúnar
 KRISTJÁNSSON	nken-s	Kristjánsson
 ,	,	,
@@ -4619,11 +4417,9 @@ Bogabraut	nveþ-s	Bogabraut
 ,	,	,
 Skagaströnd	nveþ-s	Skagaströnd
 .	.	.
-
 Frá	aþ	frá
 Rúnari	nkeþ-s	Rúnar
 Kristjánssyni	nkeþ-s	Kristjánsson
-
 NOKKRAR	fovfn	nokkur
 spurningar	nvfn	spurning
 til	ae	til
@@ -4667,7 +4463,6 @@ Guðmundssonar	nkee-s	Guðmundsson
 fréttastjórastarfið	nheog	fréttastjórastarf
 forðum	aa	forðum
 .	.	.
-
 Þeir	fpkfn	hann
 einblíndu	svg3fþ	einblína
 bara	aa	bara
@@ -4681,7 +4476,6 @@ hópi	nkeþ	hópur
 sem	c	sem
 hæstráðanda	nkeo	hæstráðandi
 .	.	.
-
 Telur	sfg2en	telja
 þú	fp2en	þú
 að	c	að
@@ -4706,7 +4500,6 @@ yfir	ao	yfir
 feril	nkeo	ferill
 hennar	fpvee	hún
 ?	?	?
-
 Hvaða	fsheo	hvaða
 faglega	lheovf	faglegur
 mat	nheo	mat
@@ -4723,7 +4516,6 @@ leið	nveo	leið
 sínum	fekeþ	sinn
 tíma	nkeþ	tími
 ?	?	?
-
 Telur	sfg2en	telja
 þú	fp2en	þú
 að	c	að
@@ -4782,7 +4574,6 @@ fréttastjóri	nken	fréttastjóri
 hálft	lheosf	hálfur
 ár	nheo	ár
 ?	?	?
-
 Þú	fp2en	þú
 segir	sfg2en	segja
 að	c	að
@@ -4798,7 +4589,6 @@ mat	nheo	mat
 sé	svg3en	vera
 fyrirsláttur	nken	fyrirsláttur
 .	.	.
-
 Hver	fsven	hver
 telur	sfg2en	telja
 þú	fp2en	þú
@@ -4821,7 +4611,6 @@ að	cn	að
 stjórna	sng	stjórna
 fréttastofunni	nveþg	fréttastofa
 ?	?	?
-
 Mér	fp1eþ	ég
 finnst	sfm3en	finna
 vera	sng	vera
@@ -4836,7 +4625,6 @@ sem	ct	sem
 þeir	fpkfn	hann
 meina	sfg3fn	meina
 .	.	.
-
 Ég	fp1en	ég
 velti	sfg1en	velta
 því	fpheþ	það
@@ -4861,7 +4649,6 @@ mann	nkeo	maður
 stöðu	nveo	staða
 fréttaritstjóra	nkee	fréttaritstjóri
 .	.	.
-
 Ég	fp1en	ég
 sendi	sfg1en	senda
 fyrrum	aa	fyrrum
@@ -4890,7 +4677,6 @@ standa	sfg3fn	standa
 nú	aa	nú
 í	aa	í
 .	.	.
-
 ÞORGRÍMUR	nken-s	Þorgrímur
 GESTSSON	nken-s	Gestsson
 ,	,	,
@@ -4902,11 +4688,9 @@ fréttamaður	nken	fréttamaður
 árunum	nhfþg	ár
 1983-1991	ta	1983-1991
 .	.	.
-
 Frá	aþ	frá
 Þorgrími	nkeþ-s	Þorgrímur
 Gestssyni	nkeþ-s	Gestsson
-
 NOKKUR	foven	nokkur
 umræða	nven	umræða
 hefur	sfg3en	hafa
@@ -4922,7 +4706,6 @@ hættulegar	lvfnsf	hættulegur
 heilsu	nveþ	heilsa
 manna	nkfe	maður
 .	.	.
-
 Í	aþ	í
 þeirri	faveþ	sá
 umræðu	nveþ	umræða
@@ -4955,7 +4738,6 @@ sem	ct	sem
 reyknum	nkeþg	reykur
 veldur	sfg3en	valda
 .	.	.
-
 Í	aþ	í
 ljósi	nheþ	ljós
 þessarar	favee	þessi
@@ -4992,7 +4774,6 @@ Bandaríkjunum	nhfþgs	Bandaríki
 árið	nheog	ár
 1997	ta	1997
 .	.	.
-
 Niðurstaða	nven	niðurstaða
 skýrslunnar	nveeg	skýrsla
 var	sfg3eþ	vera

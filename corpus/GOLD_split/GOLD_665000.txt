@@ -2,7 +2,6 @@
 >	>	>
 GULLBRÚÐKAUP	nhen	gullbrúðkaup
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 ,	,	,
@@ -28,18 +27,15 @@ Galtarlæk	nkeþ-s	Galtarlækur
 í	aþ	í
 Skilmannahreppi	nkeþ-s	Skilmannahreppur
 .	.	.
-
 60	ta	60
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 :	:	:
 60	ta	60
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 ,	,	,
@@ -60,7 +56,6 @@ Fífumýri	nveþ-s	Fífumýri
 ,	,	,
 Garðabæ	nkeþ-s	Garðabær
 .	.	.
-
 Jóhann	nken-s	Jóhann
 Ingi	nken-s	Ingi
 og	c	og
@@ -85,14 +80,12 @@ laugardag	nkeo	laugardagur
 ,	,	,
 kl	as	kl
 ....	....	....
-
 --	--	--
 >	>	>
 60	ta	60
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 ,	,	,
@@ -113,7 +106,6 @@ Fífumýri	nveþ-s	Fífumýri
 ,	,	,
 Garðabæ	nkeþ-s	Garðabær
 .	.	.
-
 Jóhann	nken-s	Jóhann
 Ingi	nken-s	Ingi
 og	c	og
@@ -139,18 +131,15 @@ laugardag	nkeo	laugardagur
 kl.	as	kl.
 17-19	ta	17-19
 .	.	.
-
 50	ta	50
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 :	:	:
 50	ta	50
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 ,	,	,
@@ -168,7 +157,6 @@ Hlíðarhjalla	nkeþ-s	Hlíðarhjalli
 ,	,	,
 Kópavogi	nkeþ-s	Kópavogur
 .	.	.
-
 Eiginmaður	nken	eiginmaður
 hennar	fpvee	hún
 er	sfg3en	vera
@@ -176,7 +164,6 @@ Christopher	e	Christopher
 John	e	John
 Taylor	e	Taylor
 .	.	.
-
 Þau	fphfn	það
 taka	sfg3fn	taka
 á	aa	á
@@ -195,14 +182,12 @@ dag	nkeo	dagur
 milli	ae	milli
 kl	as	kl
 ....	....	....
-
 --	--	--
 >	>	>
 50	ta	50
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 ,	,	,
@@ -220,7 +205,6 @@ Hlíðarhjalla	nkeþ-s	Hlíðarhjalli
 ,	,	,
 Kópavogi	nkeþ-s	Kópavogur
 .	.	.
-
 Eiginmaður	nken	eiginmaður
 hennar	fpvee	hún
 er	sfg3en	vera
@@ -228,7 +212,6 @@ Christopher	e	Christopher
 John	e	John
 Taylor	e	Taylor
 .	.	.
-
 Þau	fphfn	það
 taka	sfg3fn	taka
 á	aa	á
@@ -248,18 +231,15 @@ milli	ae	milli
 kl.	as	kl.
 14-18	ta	14-18
 .	.	.
-
 30	ta	30
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 :	:	:
 30	ta	30
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 ,	,	,
@@ -278,21 +258,18 @@ Unufelli	nheþ-s	Unufell
 ,	,	,
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Hann	fpken	hann
 verður	sfg3en	verða
 að	c	að
 heiman	aa	heiman
 á	aa	á
 ...	...	...
-
 --	--	--
 >	>	>
 30	ta	30
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 ,	,	,
@@ -311,7 +288,6 @@ Unufelli	nheþ-s	Unufell
 ,	,	,
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Hann	fpken	hann
 verður	sfg3en	verða
 að	c	að
@@ -319,18 +295,15 @@ heiman	aa	heiman
 á	ao	á
 afmælisdaginn	nkeog	afmælisdagur
 .	.	.
-
 50	ta	50
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 :	:	:
 50	ta	50
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 ,	,	,
@@ -350,7 +323,6 @@ Belgsholti	nheþ-s	Belgsholt
 í	aþ	í
 Melasveit	nveþ-s	Melasveit
 .	.	.
-
 Haraldur	nken-s	Haraldur
 og	c	og
 kona	nven	kona
@@ -368,14 +340,12 @@ gestum	nkfþ	gestur
 laugardaginn	nkeog	laugardagur
 26	ta	26
 .	.	.
-
 --	--	--
 >	>	>
 50	ta	50
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 ,	,	,
@@ -395,7 +365,6 @@ Belgsholti	nheþ-s	Belgsholt
 í	aþ	í
 Melasveit	nveþ-s	Melasveit
 .	.	.
-
 Haraldur	nken-s	Haraldur
 og	c	og
 kona	nven	kona
@@ -420,7 +389,6 @@ kl	as	kl
 ,	,	,
 með	aþ	með
 hlöðuballsstemmningu	nveþ	hlöðuballsstemmning
-
 (	(	(
 næg	lhfnsf	nægur
 tjaldstæði	nhfn	tjaldstæði
@@ -428,18 +396,15 @@ tjaldstæði	nhfn	tjaldstæði
 túninu	nheþg	tún
 )	)	)
 .	.	.
-
 50	ta	50
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 :	:	:
 50	ta	50
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 Fimmtug	lvensf	fimmtugur
 er	sfg3en	vera
 er	sfg3en	vera
@@ -457,7 +422,6 @@ Vörðu	nveþ-s	Varða
 ,	,	,
 Djúpavogi	nkeþ-s	Djúpivogur
 .	.	.
-
 Í	aþ	í
 tilefni	nheþ	tilefni
 dagsins	nkeeg	dagur
@@ -482,14 +446,12 @@ Berufjörð	nkeo-s	Berufjörður
 laugardaginn	nkeog	laugardagur
 26	ta	26
 .	.	.
-
 --	--	--
 >	>	>
 50	ta	50
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 Fimmtug	lvensf	fimmtugur
 er	sfg3en	vera
 er	sfg3en	vera
@@ -507,7 +469,6 @@ Vörðu	nveþ-s	Varða
 ,	,	,
 Djúpavogi	nkeþ-s	Djúpivogur
 .	.	.
-
 Í	aþ	í
 tilefni	nheþ	tilefni
 dagsins	nkeeg	dagur
@@ -535,18 +496,15 @@ júlí	nkeo	júlí
 frá	aþ	frá
 kl	as	kl
 17:00	ta	17:00
-
 50	ta	50
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 :	:	:
 50	ta	50
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 Kristín	nven-s	Kristín
 Magnea	nven-s	Magnea
 Eggertsdóttir	nven-s	Eggertsdóttir
@@ -562,7 +520,6 @@ föstudaginn	nkeog	föstudagur
 25.	ta	25.
 júlí	nkeo	júlí
 .	.	.
-
 Af	aþ	af
 því	faheþ	sá
 tilefni	nheþ	tilefni
@@ -589,14 +546,12 @@ Síðumúla	nkeþ-s	Síðumúli
 á	aþ	á
 afmælisdeginum	nkeþg	afmælisdagur
 ...	...	...
-
 --	--	--
 >	>	>
 50	ta	50
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 Kristín	nven-s	Kristín
 Magnea	nven-s	Magnea
 Eggertsdóttir	nven-s	Eggertsdóttir
@@ -612,7 +567,6 @@ föstudaginn	nkeog	föstudagur
 25.	ta	25.
 júlí	nkeo	júlí
 .	.	.
-
 Af	aþ	af
 því	faheþ	sá
 tilefni	nheþ	tilefni
@@ -641,7 +595,6 @@ afmælisdeginum	nkeþg	afmælisdagur
 kl.	as	kl.
 20	ta	20
 .	.	.
-
 Þau	fphfn	það
 vonast	sfm3fn	vona
 til	ae	til
@@ -655,18 +608,15 @@ vini	nkfo	vinur
 og	c	og
 vinnufélaga	nkfo	vinnufélagi
 .	.	.
-
 50	ta	50
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 :	:	:
 50	ta	50
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 Bergur	nken-s	Bergur
 Pálsson	nken-s	Pálsson
 ,	,	,
@@ -678,7 +628,6 @@ fimmtugur	lkensf	fimmtugur
 27.	ta	27.
 júlí	nkeo	júlí
 nk.	as	nk.
-
 Eiginkona	nven	eiginkona
 hans	fpkee	hann
 er	sfg3en	vera
@@ -702,14 +651,12 @@ nk.	as	nk.
 frá	aþ	frá
 kl	as	kl
 ....	....	....
-
 --	--	--
 >	>	>
 50	ta	50
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 Bergur	nken-s	Bergur
 Pálsson	nken-s	Pálsson
 ,	,	,
@@ -721,7 +668,6 @@ fimmtugur	lkensf	fimmtugur
 27.	ta	27.
 júlí	nkeo	júlí
 nk.	as	nk.
-
 Eiginkona	nven	eiginkona
 hans	fpkee	hann
 er	sfg3en	vera
@@ -746,18 +692,15 @@ frá	aþ	frá
 kl.	as	kl.
 20	ta	20
 .	.	.
-
 70	ta	70
 Ára	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 :	:	:
 70	ta	70
 Ára	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 laugardaginn	nkeog	laugardagur
@@ -773,7 +716,6 @@ Uppsalavegi	nkeþ-s	Uppsalavegur
 ,	,	,
 Húsavík	nveþ-s	Húsavík
 .	.	.
-
 Hann	fpken	hann
 og	c	og
 eiginkona	nven	eiginkona
@@ -785,14 +727,12 @@ að	aa	að
 heiman	aa	heiman
 í	aa	í
 ...	...	...
-
 --	--	--
 >	>	>
 70	ta	70
 Ára	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 laugardaginn	nkeog	laugardagur
@@ -808,7 +748,6 @@ Uppsalavegi	nkeþ-s	Uppsalavegur
 ,	,	,
 Húsavík	nveþ-s	Húsavík
 .	.	.
-
 Hann	fpken	hann
 og	c	og
 eiginkona	nven	eiginkona
@@ -821,14 +760,11 @@ heiman	aa	heiman
 í	ao	í
 dag	nkeo	dagur
 .	.	.
-
 BRÚÐKAUP	nhen	brúðkaup
 .	.	.
-
 :	:	:
 BRÚÐKAUP	nhen	brúðkaup
 .	.	.
-
 Gefin	sþghfn	gefa
 voru	sfg3fþ	vera
 saman	aa	saman
@@ -839,7 +775,6 @@ október	nkeo	október
 2002	ta	2002
 af	aþ	af
 sr.	as	sr.
-
 Vigfúsi	nkeþ-s	Vigfús
 Þór	nkeþ-s	Þór
 Árnasyni	nkeþ-s	Árnason
@@ -850,18 +785,15 @@ og	c	og
 Magnús	nken-s	Magnús
 Erlingsson	nken-s	Erlingsson
 .	.	.
-
 Heimili	nhen	heimili
 þeirra	fphfe	það
 er	sfg3en	vera
 í	aa	í
 ...	...	...
-
 --	--	--
 >	>	>
 BRÚÐKAUP	nhen	brúðkaup
 .	.	.
-
 Gefin	sþghfn	gefa
 voru	sfg3fþ	vera
 saman	aa	saman
@@ -882,14 +814,12 @@ og	c	og
 Magnús	nken-s	Magnús
 Erlingsson	nken-s	Erlingsson
 .	.	.
-
 Heimili	nhen	heimili
 þeirra	fphfe	það
 er	sfg3en	vera
 í	aþ	í
 Hafnarfirði	nkeþ-s	Hafnarfjörður
 .	.	.
-
 ÞRÁINN	nken-s	Þráinn
 GUÐMUNDSSON	nken-s	Guðmundsson
 :	:	:
@@ -937,7 +867,6 @@ sjötugur	lkensf	sjötugur
 24.	ta	24.
 apríl	nkeo	apríl
 sl.	as	sl.
-
 Ólíklegt	lhensf	ólíklegur
 er	sfg3en	vera
 að	c	að
@@ -961,7 +890,6 @@ til	ae	til
 Þráins	nkee-s	Þráinn
 Guðmundssonar	nkee-s	Guðmundsson
 .	.	.
-
 Í	ao	í
 nær	aam	nær
 40	ta	40
@@ -985,7 +913,6 @@ skákmála	nhfe	skákmál
 í	aþ	í
 landinu	nheþg	land
 .	.	.
-
 Nú	aa	nú
 um	ao	um
 stundir	nvfo	stund
@@ -1006,7 +933,6 @@ Jóhanns	nkee-s	Jóhann
 Þóris	nkee-s	Þórir
 Jónssonar	nkee-s	Jónsson
 .	.	.
-
 Mér	fp1eþ	ég
 er	sfg3en	vera
 til	ae	til
@@ -1029,7 +955,6 @@ hefur	sfg3en	hafa
 Þráni	nkeþ-s	Þráinn
 Guðmundssyni	nkeþ-s	Guðmundsson
 .	.	.
-
 Þráinn	nken-s	Þráinn
 fæddist	sfm3eþ	fæða
 á	aþ	á
@@ -1038,7 +963,6 @@ Siglufirði	nkeþ-s	Siglufjörður
 apríl	nkeo	apríl
 1933	ta	1933
 .	.	.
-
 Faðir	nken	faðir
 hans	fpkee	hann
 var	sfg3eþ	vera
@@ -1060,7 +984,6 @@ Siglufjarðar	nkee-s	Siglufjörður
 á	aþ	á
 síldarárunum	nhfþg	síldarár
 .	.	.
-
 Móðir	nven	móðir
 Þráins	nkee-s	Þráinn
 var	sfg3eþ	vera
@@ -1073,7 +996,6 @@ Upsaströnd	nkeþ-s	Upsaströndur
 við	ao	við
 Dalvík	nveo-s	Dalvík
 .	.	.
-
 Þráinn	nken-s	Þráinn
 kynntist	sfm3eþ	kynna
 ungur	lkensf	ungur
@@ -1088,7 +1010,6 @@ frá	aþ	frá
 MA	as	MA
 1953	ta	1953
 .	.	.
-
 Hann	fpken	hann
 tók	sfg3eþ	taka
 kennarapróf	nheo	kennarapróf
@@ -1103,7 +1024,6 @@ við	ao	við
 Háskóla	nkeo-s	Háskóli
 Íslands	nhee-s	Ísland
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 kennari	nken	kennari
@@ -1127,7 +1047,6 @@ eða	c	eða
 til	ae	til
 1993	ta	1993
 .	.	.
-
 Þráinn	nken-s	Þráinn
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -1136,7 +1055,6 @@ gæfumaður	nken	gæfumaður
 einkalífi	nheþ	einkalíf
 sínu	feheþ	sinn
 .	.	.
-
 Kona	nven	kona
 Þráins	nkee-s	Þráinn
 er	sfg3en	vera
@@ -1160,7 +1078,6 @@ hans	fpkee	hann
 Þuríður	nven-s	Þuríður
 Þorsteinsdóttir	nven-s	Þorsteinsdóttir
 .	.	.
-
 Hafa	sfg3fn	hafa
 þau	fahfn	sá
 hjón	nhfn	hjón
@@ -1175,7 +1092,6 @@ koma	sng	koma
 heimili	nheo	heimili
 þeirra	fphfe	það
 .	.	.
-
 Þau	fphfn	það
 Þráinn	nken-s	Þráinn
 og	c	og
@@ -1210,7 +1126,6 @@ sem	ct	sem
 er	sfg3en	vera
 viðskiptafræðingur	nken	viðskiptafræðingur
 .	.	.
-
 Þráinn	nken-s	Þráinn
 var	sfg3eþ	vera
 skólastjóri	nken	skólastjóri
@@ -1224,7 +1139,6 @@ fræðslustjóri	nken	fræðslustjóri
 í	aþ	í
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Starf	nhen	starf
 Þráins	nkee-s	Þráinn
 að	aþ	að
@@ -1256,7 +1170,6 @@ starf	nheo	starf
 og	c	og
 árangursríkt	lheosf	árangursríkur
 .	.	.
-
 Þó	aa	þó
 er	sfg3en	vera
 ótalið	lhensf	ótalinn
@@ -1276,7 +1189,6 @@ ferli	nkeþ	ferill
 í	aþ	í
 starfi	nheþ	starf
 .	.	.
-
 Hann	fpken	hann
 hafði	sfg3eþ	hafa
 með	aþ	með
@@ -1303,7 +1215,6 @@ réttindi	nhfo	réttindi
 til	ae	til
 framhaldsskólanáms	nhee	framhaldsskólanám
 .	.	.
-
 Þótt	c	þótt
 við	ao	við
 Námsflokka	nkfo-s	Námsflokkur
@@ -1327,7 +1238,6 @@ fullorðinsfræðslu	nvee	fullorðinsfræðsla
 okkar	fp1fe	ég
 landi	nheþ	land
 .	.	.
-
 Síðustu	lhfove	síðari
 ár	nhfo	ár
 hefur	sfg3en	hafa
@@ -1355,7 +1265,6 @@ frístundum	nvfþ	frístund
 fjölmörgum	lhfþsf	fjölmargur
 áhugamálum	nhfþ	áhugamál
 .	.	.
-
 Þau	fahfo	sá
 ár	nhfo	ár
 sem	ct	sem
@@ -1370,7 +1279,6 @@ við	fp1fn	ég
 nánir	lkfnsf	náinn
 samstarfsmenn	nkfn	samstarfsmaður
 .	.	.
-
 Þegar	c	þegar
 ég	fp1en	ég
 horfi	sfg1en	horfa
@@ -1387,7 +1295,6 @@ traustur	lkensf	traustur
 Þráinn	nken-s	Þráinn
 er	sfg3en	vera
 .	.	.
-
 Það	fahen	sá
 sem	ct	sem
 hann	fpken	hann
@@ -1406,7 +1313,6 @@ að	cn	að
 hafa	sng	hafa
 áhyggjur	nvfo	áhyggja
 .	.	.
-
 Þar	aa	þar
 fór	sfg3eþ	fara
 saman	aa	saman
@@ -1427,7 +1333,6 @@ mál	nhfo	mál
 til	ae	til
 lykta	nvfe	lykt
 .	.	.
-
 Þráinn	nken-s	Þráinn
 er	sfg3en	vera
 virtur	lkensf	virtur
@@ -1448,7 +1353,6 @@ hann	fpkeo	hann
 ýmis	fohfo	ýmis
 trúnaðarstörf	nhfo	trúnaðarstarf
 .	.	.
-
 Hann	fpken	hann
 var	sfg3eþ	vera
 forseti	nken	forseti
@@ -1457,7 +1361,6 @@ Skáksambandsins	nheegs	Skáksamband
 til	ae	til
 1989	ta	1989
 .	.	.
-
 Mörg	lhfosf	margur
 ár	nhfo	ár
 var	sfg3eþ	vera
@@ -1481,7 +1384,6 @@ fararstjóri	nken	fararstjóri
 íslensku	lveevf	íslenskur
 Ólympíuskáksveitarinnar	nveegs	Ólympíuskáksveit
 .	.	.
-
 Þráinn	nken-s	Þráinn
 var	sfg3eþ	vera
 útnefndur	sþgken	útnefna
@@ -1504,7 +1406,6 @@ náð	ssg	ná
 því	faheþ	sá
 marki	nheþ	mark
 .	.	.
-
 Í	ao	í
 mörg	lhfosf	margur
 ár	nhfo	ár
@@ -1533,7 +1434,6 @@ var	sfg3eþ	vera
 frumkvöðull	nken	frumkvöðull
 að	aa	að
 .	.	.
-
 Þá	aa	þá
 fór	sfg3eþ	fara
 fram	aa	fram
@@ -1561,7 +1461,6 @@ fyrstu	lhfþve	fyrstur
 við	ao	við
 skákborðið	nheog	skákborð
 .	.	.
-
 Teflt	sþghen	tefla
 var	sfg3eþ	vera
 ýmist	c	ýmist
@@ -1572,7 +1471,6 @@ eða	c	eða
 í	aþ	í
 Bandaríkjunum	nhfþgs	Bandaríki
 .	.	.
-
 Þetta	fahen	þessi
 unglingastarf	nhen	unglingastarf
 var	sfg3eþ	vera
@@ -1580,7 +1478,6 @@ var	sfg3eþ	vera
 skákhreyfingu	nveþ	skákhreyfing
 mikilvægt	lhensf	mikilvægur
 .	.	.
-
 Mest	aae	mikið
 hefur	sfg3en	hafa
 þó	aa	þó
@@ -1604,7 +1501,6 @@ fram	aa	fram
 árið	nheog	ár
 1972	ta	1972
 .	.	.
-
 Þráinn	nken-s	Þráinn
 var	sfg3eþ	vera
 þá	aa	þá
@@ -1644,7 +1540,6 @@ komið	ssg	koma
 á	aþ	á
 skákmótum	nhfþ	skákmót
 .	.	.
-
 Nú	aa	nú
 eru	sfg3fn	vera
 horfnir	sþgkfn	hverfa
@@ -1666,7 +1561,6 @@ og	c	og
 Guðlaugur	nken-s	Guðlaugur
 Guðmundsson	nken-s	Guðmundsson
 .	.	.
-
 Eftir	aa	eftir
 standa	sfg3fn	standa
 úr	aþ	úr
@@ -1688,7 +1582,6 @@ aftan	aa	aftan
 sjálfrar	fbvee	sjálfur
 eldlínunnar	nveeg	eldlína
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 áður	aa	áður
@@ -1725,7 +1618,6 @@ eril	nkeo	erill
 þessara	fakfe	þessi
 mánaða	nkfe	mánuður
 .	.	.
-
 Þar	aa	þar
 var	sfg3eþ	vera
 þáttur	nken	þáttur
@@ -1733,7 +1625,6 @@ var	sfg3eþ	vera
 Guðmundssonar	nkee-s	Guðmundsson
 stór	lkensf	stór
 .	.	.
-
 Í	ao	í
 huga	nkeo	hugi
 minn	fekeo	minn
@@ -1753,7 +1644,6 @@ ráða	nhfe	ráð
 naut	sfg3eþ	njóta
 við	aa	við
 .	.	.
-
 Þeir	fpkfn	hann
 Þráinn	nken-s	Þráinn
 og	c	og
@@ -1799,7 +1689,6 @@ meðan	c	meðan
 Guðlaugur	nken-s	Guðlaugur
 lifði	sfg3eþ	lifa
 .	.	.
-
 Þráinn	nken-s	Þráinn
 ritaði	sfg3eþ	rita
 sögu	nveo	saga
@@ -1809,7 +1698,6 @@ Skáksambands	nhee-s	Skáksamband
 tveim	tfhfþ	tveir
 bindum	nhfþ	bindi
 .	.	.
-
 Er	sfg3en	vera
 það	fphen	það
 mál	nhen	mál
@@ -1830,7 +1718,6 @@ skákhreyfingarinnar	nveeg	skákhreyfing
 en	c	en
 hann	fpken	hann
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 upp	aa	upp
@@ -1860,7 +1747,6 @@ sögu	nveo	saga
 sína	feveo	sinn
 skráða	lveosf	skráður
 .	.	.
-
 Í	aþ	í
 því	faheþ	sá
 efni	nheþ	efni
@@ -1869,7 +1755,6 @@ framtíðin	nveng	framtíð
 þakka	sng	þakka
 honum	fpkeþ	hann
 .	.	.
-
 Þráinn	nken-s	Þráinn
 Guðmundsson	nken-s	Guðmundsson
 hefur	sfg3en	hafa
@@ -1896,7 +1781,6 @@ náð	ssg	ná
 athyglisverða	lheþvf	athyglisverður
 marki	nheþ	mark
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 snarpur	lkensf	snarpur
@@ -1916,7 +1800,6 @@ sem	ct	sem
 er	sfg3en	vera
 skeinuhættur	lkensf	skeinuhættur
 .	.	.
-
 Ólíklegt	lhensf	ólíklegur
 þykir	sfg3en	þykja
 mér	fp1eþ	ég
@@ -1934,7 +1817,6 @@ Guðmundssonar	nkee-s	Guðmundsson
 í	aþ	í
 félagsmálum	nhfþ	félagsmál
 .	.	.
-
 Hygg	sfg1en	hyggja
 ég	fp1en	ég
 að	c	að
@@ -1957,7 +1839,6 @@ félagsmál	nhfo	félagsmál
 innan	ae	innan
 hreyfingarinnar	nveeg	hreyfing
 .	.	.
-
 Með	aþ	með
 þessari	faveþ	þessi
 síðbúnu	lveþvf	síðbúinn
@@ -1985,19 +1866,15 @@ um	ao	um
 fram	aa	fram
 undan	aa	undan
 .	.	.
-
 Guðm.	as	Guðm.
 G.	as	G.
 Þórarinsson	nken-s	Þórarinsson
 .	.	.
-
 Brúðkaup	nhen	brúðkaup
 .	.	.
-
 :	:	:
 Brúðkaup	nhen	brúðkaup
 .	.	.
-
 Gefin	sþghfn	gefa
 voru	sfg3fþ	vera
 saman	aa	saman
@@ -2009,7 +1886,6 @@ sl.	as	sl.
 ,	,	,
 af	aþ	af
 sr.	as	sr.
-
 Svavari	nkeþ-s	Svavar
 Jónssyni	nkeþ-s	Jónsson
 ,	,	,
@@ -2020,18 +1896,15 @@ Kristján	nken-s	Kristján
 Valur	nken-s	Valur
 Gunnarsson	nken-s	Gunnarsson
 .	.	.
-
 Heimili	nhen	heimili
 þeirra	fphfe	það
 er	sfg3en	vera
 á	aa	á
 ...	...	...
-
 --	--	--
 >	>	>
 Brúðkaup	nhen	brúðkaup
 .	.	.
-
 Gefin	sþghfn	gefa
 voru	sfg3fþ	vera
 saman	aa	saman
@@ -2043,7 +1916,6 @@ sl.	as	sl.
 ,	,	,
 af	aþ	af
 sr.	as	sr.
-
 Svavari	nkeþ-s	Svavar
 Jónssyni	nkeþ-s	Jónsson
 ,	,	,
@@ -2054,25 +1926,21 @@ Kristján	nken-s	Kristján
 Valur	nken-s	Valur
 Gunnarsson	nken-s	Gunnarsson
 .	.	.
-
 Heimili	nhen	heimili
 þeirra	fphfe	það
 er	sfg3en	vera
 á	aþ	á
 Akureyri	nveþ-s	Akureyri
 .	.	.
-
 80	ta	80
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 :	:	:
 80	ta	80
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 Á	ao	á
 morgun	nkeo	morgunn
 ,	,	,
@@ -2086,7 +1954,6 @@ verður	sfg3en	verða
 Guðjónsson	nken-s	Guðjónsson
 múrarameistari	nken	múrarameistari
 .	.	.
-
 Af	aþ	af
 því	faheþ	sá
 tilefni	nheþ	tilefni
@@ -2111,14 +1978,12 @@ kl.	as	kl.
 15	ta	15
 á	aa	á
 ...	...	...
-
 --	--	--
 >	>	>
 80	ta	80
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 Á	ao	á
 morgun	nkeo	morgunn
 ,	,	,
@@ -2132,7 +1997,6 @@ verður	sfg3en	verða
 Guðjónsson	nken-s	Guðjónsson
 múrarameistari	nken	múrarameistari
 .	.	.
-
 Af	aþ	af
 því	faheþ	sá
 tilefni	nheþ	tilefni
@@ -2158,18 +2022,15 @@ kl.	as	kl.
 á	ao	á
 afmælisdaginn	nkeog	afmælisdagur
 .	.	.
-
 60	ta	60
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 :	:	:
 60	ta	60
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 Jónína	nven-s	Jónína
 H.	as	H.
 Jónsdóttir	nven-s	Jónsdóttir
@@ -2185,7 +2046,6 @@ laugardaginn	nkeog	laugardagur
 2.	ta	2.
 ágúst	nkeo	ágúst
 .	.	.
-
 Eiginmaður	nken	eiginmaður
 Jónínu	nvee-s	Jónína
 ,	,	,
@@ -2201,7 +2061,6 @@ lést	sfm3eþ	láta
 júní	nkeo	júní
 1985	ta	1985
 .	.	.
-
 Jónína	nven-s	Jónína
 tekur	sfg3en	taka
 á	aa	á
@@ -2214,14 +2073,12 @@ Skipholti	nheþ-s	Skipholt
 70	ta	70
 kl	as	kl
 ....	....	....
-
 --	--	--
 >	>	>
 60	ta	60
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 Jónína	nven-s	Jónína
 H.	as	H.
 Jónsdóttir	nven-s	Jónsdóttir
@@ -2237,7 +2094,6 @@ laugardaginn	nkeog	laugardagur
 2.	ta	2.
 ágúst	nkeo	ágúst
 .	.	.
-
 Eiginmaður	nken	eiginmaður
 Jónínu	nvee-s	Jónína
 ,	,	,
@@ -2253,7 +2109,6 @@ lést	sfm3eþ	láta
 júní	nkeo	júní
 1985	ta	1985
 .	.	.
-
 Jónína	nven-s	Jónína
 tekur	sfg3en	taka
 á	aa	á
@@ -2267,18 +2122,15 @@ Skipholti	nheþ-s	Skipholt
 kl.	as	kl.
 15	ta	15
 .	.	.
-
 90	ta	90
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 :	:	:
 90	ta	90
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 Níræð	lvensf	níræður
 er	sfg3en	vera
 í	ao	í
@@ -2297,7 +2149,6 @@ Stóragerði	nheþ-s	Stóragerði
 ,	,	,
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Hún	fpven	hún
 tekur	sfg3en	taka
 á	aa	á
@@ -2319,14 +2170,12 @@ kl.	as	kl.
 12	ta	12
 á	aa	á
 ...	...	...
-
 --	--	--
 >	>	>
 90	ta	90
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 Níræð	lvensf	níræður
 er	sfg3en	vera
 í	ao	í
@@ -2345,7 +2194,6 @@ Stóragerði	nheþ-s	Stóragerði
 ,	,	,
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Hún	fpven	hún
 tekur	sfg3en	taka
 á	aa	á
@@ -2368,14 +2216,11 @@ kl.	as	kl.
 á	aþ	á
 hádegi	nheþ	hádegi
 .	.	.
-
 BRÚÐKAUP	nhen	brúðkaup
 .	.	.
-
 :	:	:
 BRÚÐKAUP	nhen	brúðkaup
 .	.	.
-
 Gefin	sþghfn	gefa
 voru	sfg3fþ	vera
 saman	aa	saman
@@ -2383,18 +2228,15 @@ sunnudaginn	nkeog	sunnudagur
 22.	ta	22.
 júní	nkeo	júní
 sl.	as	sl.
-
 Svava	nven-s	Svava
 Skaftadóttir	nven-s	Skaftadóttir
 og	c	og
 Abi	e	Abi
 ...	...	...
-
 --	--	--
 >	>	>
 BRÚÐKAUP	nhen	brúðkaup
 .	.	.
-
 Gefin	sþghfn	gefa
 voru	sfg3fþ	vera
 saman	aa	saman
@@ -2402,25 +2244,21 @@ sunnudaginn	nkeog	sunnudagur
 22.	ta	22.
 júní	nkeo	júní
 sl.	as	sl.
-
 Svava	nven-s	Svava
 Skaftadóttir	nven-s	Skaftadóttir
 og	c	og
 Abi	e	Abi
 Giddingo	e	Giddingo
 .	.	.
-
 40	ta	40
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 :	:	:
 40	ta	40
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 ,	,	,
@@ -2433,7 +2271,6 @@ Páll	nken-s	Páll
 Ólafsson	nken-s	Ólafsson
 fertugur	lkensf	fertugur
 .	.	.
-
 Hann	fpken	hann
 býr	sfg3en	búa
 í	aþ	í
@@ -2460,18 +2297,15 @@ vinum	nkfþ	vinur
 og	c	og
 kunningjum	nkfþ	kunningi
 .	.	.
-
 Síminn	nkeng	sími
 er	sfg3en	vera
 ...	...	...
-
 --	--	--
 >	>	>
 40	ta	40
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 ,	,	,
@@ -2484,7 +2318,6 @@ Páll	nken-s	Páll
 Ólafsson	nken-s	Ólafsson
 fertugur	lkensf	fertugur
 .	.	.
-
 Hann	fpken	hann
 býr	sfg3en	búa
 í	aþ	í
@@ -2511,23 +2344,19 @@ vinum	nkfþ	vinur
 og	c	og
 kunningjum	nkfþ	kunningi
 .	.	.
-
 Síminn	nkeng	sími
 er	sfg3en	vera
 5534923	ta	5534923
 .	.	.
-
 70	ta	70
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 :	:	:
 70	ta	70
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 ,	,	,
@@ -2546,19 +2375,16 @@ Bræðraborgarstíg	nkeþ-s	Bræðraborgarstígur
 ,	,	,
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Guðrún	nven-s	Guðrún
 er	sfg3en	vera
 að	c	að
 ...	...	...
-
 --	--	--
 >	>	>
 70	ta	70
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 ,	,	,
@@ -2577,24 +2403,20 @@ Bræðraborgarstíg	nkeþ-s	Bræðraborgarstígur
 ,	,	,
 Reykjavík	nveþ-s	Reykjavík
 .	.	.
-
 Guðrún	nven-s	Guðrún
 er	sfg3en	vera
 að	aa	að
 heiman	aa	heiman
 .	.	.
-
 50	ta	50
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 :	:	:
 50	ta	50
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 föstudaginn	nkeog	föstudagur
@@ -2626,14 +2448,12 @@ Njarðvík	nveþ-s	Njarðvík
 eftir	ao	eftir
 kl	as	kl
 ....	....	....
-
 --	--	--
 >	>	>
 50	ta	50
 ÁRA	nhfe	ár
 afmæli	nhen	afmæli
 .	.	.
-
 Í	ao	í
 dag	nkeo	dagur
 föstudaginn	nkeog	föstudagur
@@ -2666,7 +2486,6 @@ eftir	ao	eftir
 kl.	as	kl.
 19:00	ta	19:00
 .	.	.
-
 VERÐKÖNNUN	nven	verðkönnun
 á	aþ	á
 varahlutum	nkfþ	varahlutur
@@ -2692,7 +2511,6 @@ mest	aae	mikið
 fyrir	ao	fyrir
 varahluti	nkfo	varahlutur
 .	.	.
-
 Dæmi	nhfn	dæmi
 eru	sfg3fn	vera
 um	ao	um
@@ -2706,7 +2524,6 @@ varahlutakörfunni	nveþg	varahlutakarfa
 og	c	og
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Þetta	fahen	þessi
 kemur	sfg3en	koma
 fram	aa	fram
@@ -2738,7 +2555,6 @@ febrúar	nkeþ	febrúar
 og	c	og
 mars	nkeþ	mars
 sl.	as	sl.
-
 Könnunin	nveng	könnun
 beindist	sfm3eþ	beina
 að	aþ	að
@@ -2756,7 +2572,6 @@ fólksbifreiða	nvfe	fólksbifreið
 og	c	og
 jeppa	nkfe	jeppi
 .	.	.
-
 Við	ao	við
 umreikning	nkeo	umreikningur
 yfir	aa	yfir
@@ -2777,7 +2592,6 @@ Seðlabanka	nkeþ-s	Seðlabanki
 mars	nkeo	mars
 2001	ta	2001
 .	.	.
-
 Verð	nhen	verð
 á	aþ	á
 varahlutum	nkfþ	varahlutur
@@ -2791,7 +2605,6 @@ tilvikum	nhfþ	tilvik
 af	aþ	af
 13	ta	13
 .	.	.
-
 Verðið	nheng	verð
 var	sfg3eþ	vera
 áberandi	aa	áberandi
@@ -2799,7 +2612,6 @@ lægst	lhense	lágur
 í	aþ	í
 Þýskalandi	nheþ-s	Þýskaland
 .	.	.
-
 Ekki	aa	ekki
 eru	sfg3fn	vera
 lagðir	sþgkfn	leggja
@@ -2828,7 +2640,6 @@ bílahluti	nkfo	bílahlutur
 við	ao	við
 innflutning	nkeo	innflutningur
 .	.	.
-
 HYUNDAI	e	HYUNDAI
 afhjúpaði	sfg3eþ	afhjúpa
 Clix-hugmyndabílinn	nkeogs	Clixhugmyndabíll
@@ -2862,7 +2673,6 @@ gæti	svg3eþ	geta
 litið	ssg	líta
 út	aa	út
 .	.	.
-
 Hönnunarmiðstöð	nven	hönnunarmiðstöð
 Hyundai	e	Hyundai
 í	aþ	í
@@ -2896,7 +2706,6 @@ stefnum	nvfþ	stefna
 evrópskri	lveþsf	evrópskur
 bílahönnun	nveþ	bílahönnun
 .	.	.
-
 Framvegis	aa	framvegis
 mun	sfg3en	munu
 hönnunarmiðstöðin	nveng	hönnunarmiðstöð
@@ -2919,7 +2728,6 @@ Angeles	e	Angeles
 og	c	og
 Tókýó	nxeþ-s	Tókýó
 .	.	.
-
 Nýr	lkensf	nýr
 smábíll	nken	smábíll
 Hyundai	e	Hyundai
@@ -2931,7 +2739,6 @@ markað	nkeo	markaður
 næsta	lheþve	næstur
 ári	nheþ	ár
 .	.	.
-
 Clix-hugmyndabíllinn	nkengs	Clixhugmyndabíll
 er	sfg3en	vera
 einmitt	aa	einmitt
@@ -2942,7 +2749,6 @@ undirvagn	nkeo	undirvagn
 og	c	og
 smábíllinn	nkeng	smábíll
 .	.	.
-
 Smábílnum	nkeþg	smábíll
 verður	sfg3en	verða
 hleypt	sþghen	hleypa
@@ -2961,7 +2767,6 @@ júlí	nkeþ	júlí
 í	aþ	í
 Evrópu	nveþ-s	Evrópa
 .	.	.
-
 Hyundai	e	Hyundai
 ráðgerir	sfg3en	ráðgera
 að	cn	að
@@ -2994,7 +2799,6 @@ seljist	svm3fn	selja
 í	aþ	í
 Evrópu	nveþ-s	Evrópa
 .	.	.
-
 Næstu	lvfnve	næstur
 kynslóðir	nvfn	kynslóð
 Accent	e	Accent
@@ -3015,7 +2819,6 @@ hannaðar	sþgvfn	hanna
 í	aþ	í
 Evrópu	nveþ-s	Evrópa
 .	.	.
-
 EIN	tfven	einn
 af	aþ	af
 þeim	favfþ	sá
@@ -3051,7 +2854,6 @@ Frankfurt	e	Frankfurt
 á	aþ	á
 dögunum	nkfþg	dagur
 .	.	.
-
 Gírkassinn	nkeng	gírkassi
 ,	,	,
 sem	ct	sem
@@ -3083,7 +2885,6 @@ af	aþ	af
 þessari	faveþ	þessi
 tækninýjung	nveþ	tækninýjung
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 fyrsta	lvenve	fyrstur
@@ -3097,7 +2898,6 @@ fram	aa	fram
 hefur	sfg3en	hafa
 komið	ssg	koma
 .	.	.
-
 Hún	fpven	hún
 var	sfg3eþ	vera
 þróuð	sþgven	þróa
@@ -3119,7 +2919,6 @@ sjálfskiptingar	nvfo	sjálfskipting
 fyrir	ao	fyrir
 fyrirtækið	nheog	fyrirtæki
 .	.	.
-
 6HP26	ta	6hp26
 er	sfg3en	vera
 líka	aa	líka
@@ -3150,7 +2949,6 @@ tökkum	nkfþ	takki
 í	aþ	í
 stýrinu	nheþg	stýri
 .	.	.
-
 Þetta	fahen	þessi
 sparar	sfg3en	spara
 rými	nheo	rými
@@ -3179,7 +2977,6 @@ frá	aþ	frá
 einum	tfkeþ	einn
 snúningsrofa	nkeþ	snúningsrofi
 .	.	.
-
 ZF	e	ZF
 Friedrichshafen	e	Friedrichshafen
 hóf	sfg3eþ	hefja
@@ -3202,7 +2999,6 @@ bíla	nkfe	bíll
 m.	as	m.
 millistærðarbíla	nkfe	millistærðarbíll
 .	.	.
-
 Skiptingin	nveng	skipting
 eykur	sfg3en	auka
 sparneytni	nveo	sparneytni
@@ -3216,7 +3012,6 @@ mati	nheþ	mat
 ZF	e	ZF
 Friedrichshafen	e	Friedrichshafen
 .	.	.
-
 Um	ao	um
 leið	nveo	leið
 bætir	sfg3en	bæta
@@ -3230,11 +3025,9 @@ kyrrstöðu	nveþ	kyrrstaða
 km	as	km
 /	/	/
 klst.	as	klst.
-
 um	ao	um
 2-5%	tp	2-5%
 .	.	.
-
 Gírkassinn	nkeng	gírkassi
 er	sfg3en	vera
 89	ta	89
@@ -3250,7 +3043,6 @@ fimm	tfhfe	fimm
 gírkassi	nken	gírkassi
 fyrirtækisins	nheeg	fyrirtæki
 .	.	.
-
 Hann	fpken	hann
 er	sfg3en	vera
 líka	aa	líka
@@ -3267,7 +3059,6 @@ mun	nkeþ	munur
 minni	lkenvm	lítill
 umfangs	nhee	umfang
 .	.	.
-
 Gírkassinn	nkeng	gírkassi
 er	sfg3en	vera
 með	ao	með
@@ -3284,7 +3075,6 @@ bíllinn	nkeng	bíll
 er	sfg3en	vera
 kyrrstæður	lkensf	kyrrstæður
 .	.	.
-
 HVER	fshfn	hver
 eru	sfg3fn	vera
 áhrif	nhfn	áhrif
@@ -3309,7 +3099,6 @@ særindum	nhfþ	særindi
 í	aþ	í
 hálsi	nkeþ	háls
 ?	?	?
-
 Rannsóknir	nvfn	rannsókn
 á	aþ	á
 skammtímaáhrifum	nhfþ	skammtímaáhrif
@@ -3338,7 +3127,6 @@ heimsókna	nvfe	heimsókn
 til	ae	til
 heimilislæknisins	nkeeg	heimilislæknir
 .	.	.
-
 Langtímaáhrifin	nhfng	langtímaáhrif
 ekki	aa	ekki
 ljós	lhfnsf	ljós
@@ -3378,7 +3166,6 @@ mannslíkamanum	nkeþg	mannslíkami
 löngu	lheþsf	langur
 tímabili	nheþ	tímabil
 .	.	.
-
 Það	fahen	sá
 eina	lhenvf	einn
 sem	ct	sem
@@ -3420,7 +3207,6 @@ fjölda	nkeo	fjöldi
 að	aþ	að
 velli	nkeþ	völlur
 .	.	.
-
 Bílaiðnaðinum	nkeþg	bílaiðnaður
 hefur	sfg3en	hafa
 á	aþ	á
@@ -3435,7 +3221,6 @@ allverulega	aa	allverulega
 mengandi	lkeþof	mengandi
 útblæstri	nkeþ	útblástur
 .	.	.
-
 Reyndar	aa	reyndar
 tala	sfg3fn	tala
 tölurnar	nvfng	tala
@@ -3459,7 +3244,6 @@ sl.	as	sl.
 þremur	tfkfþ	þrír
 áratugum	nkfþ	áratugur
 .	.	.
-
 Taflan	nveng	tafla
 er	sfg3en	vera
 fengin	sþgven	fá
@@ -3467,7 +3251,6 @@ frá	aþ	frá
 bílaframleiðandanum	nkeþg	bílaframleiðandi
 Renault	e	Renault
 .	.	.
-
 SKODA	e	SKODA
 Superb	e	Superb
 lúxusbíllinn	nkeng	lúxusbíll
@@ -3486,7 +3269,6 @@ birst	ssm	birta
 af	aþ	af
 langbaksútgáfunni	nveþg	langbaksútgáfa
 .	.	.
-
 Bíllinn	nkeng	bíll
 líkist	sfm3en	líkja
 ekki	aa	ekki
@@ -3526,7 +3308,6 @@ auk	ae	auk
 mikinn	lkeosf	mikill
 búnað	nkeo	búnaður
 .	.	.
-
 Bíllinn	nkeng	bíll
 verður	sfg3en	verða
 boðinn	sþgken	bjóða
@@ -3541,7 +3322,6 @@ Comfort	e	Comfort
 og	c	og
 Elegance	e	Elegance
 .	.	.
-
 Staðalbúnaður	nken	staðalbúnaður
 í	aþ	í
 öllum	fovfþ	allur
@@ -3556,7 +3336,6 @@ loftkæling	nven	loftkæling
 og	c	og
 hemlunarátaksdreifing	nven	hemlunarátaksdreifing
 .	.	.
-
 Dýrustu	lvfnve	dýr
 gerðirnar	nvfng	gerð
 verða	sfg3fn	verða
@@ -3566,7 +3345,6 @@ lítra	nkfe	lítri
 V6	x	v6
 vél	nveo	vél
 .	.	.
-
 Stallbakurinn	nkeng	stallbakur
 kemur	sfg3en	koma
 á	ao	á
@@ -3588,7 +3366,6 @@ en	c	en
 ári	nheþ	ár
 síðar	aam	síðar
 .	.	.
-
 Líklegt	lhensf	líklegur
 þykir	sfg3en	þykja
 að	c	að
@@ -3599,7 +3376,6 @@ boðinn	sþgken	bjóða
 með	aþ	með
 fjórhjóladrifi	nheþ	fjórhjóladrif
 .	.	.
-
 SVO	aa	svo
 virðist	sfm3en	virða
 sem	c	sem
@@ -3611,7 +3387,6 @@ sáralítil	lhfosf	sáralítill
 heilastarfsemi	nveo	heilastarfsemi
 manna	nkfe	maður
 .	.	.
-
 Vísindamenn	nkfn	vísindamaður
 hjá	aþ	hjá
 DaimlerChrysler	e	DaimlerChrysler
@@ -3641,7 +3416,6 @@ bíl	nkeo	bíll
 án	ae	án
 vandræða	nhfe	vandræði
 .	.	.
-
 Vísindamennirnir	nkfng	vísindamaður
 gerðu	sfg3fþ	gera
 mælingar	nvfo	mæling
@@ -3661,7 +3435,6 @@ var	sfg3eþ	vera
 í	aþ	í
 lágmarki	nheþ	lágmark
 .	.	.
-
 Annað	fohen	annar
 kom	sfg3eþ	koma
 hins	fakee	hinn
@@ -3677,7 +3450,6 @@ gerðar	sþgvfn	gera
 á	aþ	á
 farþegum	nkfþ	farþegi
 .	.	.
-
 Þetta	fahen	þessi
 hefur	sfg3en	hafa
 komið	ssg	koma
@@ -3698,7 +3470,6 @@ einmitt	aa	einmitt
 öfugt	lhensf	öfugur
 farið	sþghen	fara
 .	.	.
-
 Vél	nven	vél
 :	:	:
 Fjórir	tfkfn	fjórir
@@ -3710,7 +3481,6 @@ rsm	x	rsm
 átta	tfkfn	átta
 venlar	nkfn	venill
 .	.	.
-
 Afl	nhen	afl
 :	:	:
 115	ta	115
@@ -3720,7 +3490,6 @@ við	ao	við
 sn.	as	sn.
 /	/	/
 mín.	as	mín.
-
 Tog	nhen	tog
 :	:	:
 170	ta	170
@@ -3730,7 +3499,6 @@ við	ao	við
 sn.	as	sn.
 /	/	/
 mín.	as	mín.
-
 Drifbúnaður	nken	drifbúnaður
 :	:	:
 Sítengd	lhfnsf	sítengdur
@@ -3740,7 +3508,6 @@ aldrif	nhfn	aldrif
 gíra	nkfe	gír
 handskipting	nven	handskipting
 .	.	.
-
 Fjöðrun	nven	fjöðrun
 :	:	:
 MacPherson	e	MacPherson
@@ -3751,45 +3518,38 @@ fjölliða	nven	fjölliða
 að	aa	að
 aftan	aa	aftan
 .	.	.
-
 Hemlar	nkfn	hemill
 :	:	:
 ABS	as	ABS
 ,	,	,
 diskar	nkfn	diskur
 .	.	.
-
 Lengd	nven	lengd
 :	:	:
 4.513	ta	4.513
 mm	as	mm
 .	.	.
-
 Breidd	nven	breidd
 :	:	:
 1.731	ta	1.731
 mm	as	mm
 .	.	.
-
 Hæð	nven	hæð
 :	:	:
 1.481	ta	1.481
 mm	as	mm
 .	.	.
-
 Farangursrými	nhen	farangursrými
 :	:	:
 448-1.412	ta	448-1.412
 lítrar	nkfn	lítri
 .	.	.
-
 Eigin	lvenof	eigin
 þyngd	nven	þyngd
 :	:	:
 1.375-1.485	ta	1.375-1.485
 kg	as	kg
 .	.	.
-
 Hröðun	nven	hröðun
 :	:	:
 11,8	ta	11,8
@@ -3801,14 +3561,12 @@ kyrrstöðu	nveþ	kyrrstaða
 km	as	km
 hraða	nkeo	hraði
 .	.	.
-
 Hámarkshraði	nken	hámarkshraði
 :	:	:
 193	ta	193
 km	as	km
 /	/	/
 klst.	as	klst.
-
 Eyðsla	nven	eyðsla
 :	:	:
 8,8	ta	8,8
@@ -3817,17 +3575,14 @@ lítrar	nkfn	lítri
 blönduðum	lkeþsf	blandaður
 akstri	nkeþ	akstur
 .	.	.
-
 Verð	nhen	verð
 :	:	:
 1.880.000	ta	1.880.000
 kr.	as	kr.
-
 Umboð	nhen	umboð
 :	:	:
 Hekla	nven-s	Hekla
 hf.	as	hf.
-
 FLUTTIR	sþgkfn	flytja
 voru	sfg3fþ	vera
 inn	aa	inn
@@ -3841,7 +3596,6 @@ en	c	en
 þann	fakeo	sá
 tíunda	lkeovf	tíundi
 .	.	.
-
 Á	aþ	á
 árabilinu	nheþg	árabil
 1980	ta	1980
@@ -3865,7 +3619,6 @@ innflutningurinn	nkeng	innflutningur
 87.120	ta	87.120
 bílar	nkfn	bíll
 .	.	.
-
 Þetta	fahen	þessi
 kemur	sfg3en	koma
 fram	aa	fram
@@ -3891,7 +3644,6 @@ tryggingafélaga	nhfe	tryggingafélag
 og	c	og
 lánafyrirtækja	nhfe	lánafyrirtæki
 .	.	.
-
 Í	aþ	í
 samantektinni	nveþg	samantekt
 segir	sfg3en	segja
@@ -3929,7 +3681,6 @@ hans	fpkee	hann
 í	aþ	í
 umræðunni	nveþg	umræða
 .	.	.
-
 Í	aþ	í
 heild	nveþ	heild
 þarf	sfg3en	þurfa
@@ -3948,7 +3699,6 @@ endurnýjun	nven	endurnýjun
 verði	svg3en	verða
 eðlileg	lvensf	eðlilegur
 .	.	.
-
 Í	aþ	í
 raun	nveþ	raun
 hafa	sfg3fn	hafa
@@ -3966,7 +3716,6 @@ en	c	en
 á	aa	á
 undan	aa	undan
 .	.	.
-
 Þjóðinni	nveþg	þjóð
 hefur	sfg3en	hafa
 fjölgað	ssg	fjölga
@@ -3985,7 +3734,6 @@ frá	aþ	frá
 til	ae	til
 2001	ta	2001
 .	.	.
-
 Sala	nven	sala
 á	aþ	á
 árinu	nheþg	ár
@@ -4020,7 +3768,6 @@ helmingur	nken	helmingur
 af	aþ	af
 endurnýjunarþörfinni	nveþg	endurnýjunarþörf
 .	.	.
-
 Meðalaldur	nken	meðalaldur
 bílaflotans	nkeeg	bílafloti
 hér	aa	hér
@@ -4041,7 +3788,6 @@ hvar	aa	hvar
 í	aþ	í
 Evrópulöndunum	nhfþgs	Evrópuland
 .	.	.
-
 Meðalaldurinn	nkeng	meðalaldur
 fer	sfg3en	fara
 hækkandi	slg	hækka
@@ -4057,7 +3803,6 @@ um	aa	um
 7,6	ta	7,6
 ár	nhfn	ár
 .	.	.
-
 Sá	faken	sá
 meðalaldur	nken	meðalaldur
 er	sfg3en	vera
@@ -4071,7 +3816,6 @@ flestum	lhfþse	margur
 öðrum	fohfþ	annar
 Evrópulöndum	nhfþ-s	Evrópuland
 .	.	.
-
 Þá	aa	þá
 segir	sfg3en	segja
 ennfremur	aa	ennfremur
@@ -4103,7 +3847,6 @@ um	ao	um
 rúm	lhfosf	rúmur
 20%	tp	20%
 .	.	.
-
 Til	ae	til
 viðbótar	nvee	viðbót
 komi	svg3en	koma
@@ -4116,7 +3859,6 @@ jafnmikill	lkensf	jafnmikill
 og	c	og
 nú	aa	nú
 .	.	.
-
 MENGUN	nven	mengun
 frá	aþ	frá
 nýjum	lkfþsf	nýr
@@ -4129,7 +3871,6 @@ einkum	aa	einkum
 eftir	ao	eftir
 1995	ta	1995
 .	.	.
-
 Algengur	lkensf	algengur
 nýr	lkensf	nýr
 fólksbíll	nken	fólksbíll
@@ -4146,7 +3887,6 @@ fyrir	aþ	fyrir
 10	ta	10
 árum	nhfþ	ár
 .	.	.
-
 Þetta	fahen	þessi
 kemur	sfg3en	koma
 fram	aa	fram
@@ -4180,7 +3920,6 @@ gróðurhúsalofttegunda	nvfe	gróðurhúsalofttegund
 frá	aþ	frá
 samgöngum	nvfþ	samgöngur
 .	.	.
-
 Algengur	lkensf	algengur
 nýr	lkensf	nýr
 fólksbíll	nken	fólksbíll
@@ -4195,7 +3934,6 @@ hvern	fokeo	hver
 ekinn	lkeosf	ekinn
 kílómetra	nkeo	kílómetri
 .	.	.
-
 Fyrir	aþ	fyrir
 10	ta	10
 árum	nhfþ	ár
@@ -4205,7 +3943,6 @@ fólksbíll	nken	fólksbíll
 350	ta	350
 grömm	nhfo	gramm
 .	.	.
-
 Þá	aa	þá
 voru	sfg3fþ	vera
 bílvélar	nvfn	bílvél
@@ -4218,7 +3955,6 @@ og	c	og
 nú	aa	nú
 þekkist	sfm3en	þekkja
 .	.	.
-
 Þessi	faken	þessi
 búnaður	nken	búnaður
 er	sfg3en	vera
@@ -4245,7 +3981,6 @@ grömm	nhfo	gramm
 hvern	fokeo	hver
 kílómetra	nkeo	kílómetri
 .	.	.
-
 Tæplega	aa	tæplega
 60%	tp	60%
 fólksbíla	nkfe	fólksbíll
@@ -4286,7 +4021,6 @@ minnkað	ssg	minnka
 um	ao	um
 16%	tp	16%
 .	.	.
-
 Jafnframt	aa	jafnframt
 er	sfg3en	vera
 ljóst	lhensf	ljós
@@ -4303,7 +4037,6 @@ bílaflotans	nkeeg	bílafloti
 væri	svg3eþ	vera
 örari	lvenvm	ör
 .	.	.
-
 Í	aþ	í
 samantekt	nveþ	samantekt
 Vina	nkfe-s	Vinur
@@ -4350,7 +4083,6 @@ tonn	nhfn	tonn
 á	aþ	á
 ári	nheþ	ár
 .	.	.
-
 Miðað	sþghen	miða
 er	sfg3en	vera
 við	ao	við
@@ -4361,7 +4093,6 @@ fyrir	ao	fyrir
 hvern	fokeo	hver
 bíl	nkeo	bíll
 .	.	.
-
 Ef	c	ef
 á	ao	á
 hinn	fakeo	hinn
@@ -4396,7 +4127,6 @@ er	sfg3en	vera
 minni	lvenvm	lítill
 losun	nven	losun
 .	.	.
-
 Bílar	nkfn	bíll
 sem	ct	sem
 komu	sfg3fþ	koma
@@ -4414,7 +4144,6 @@ en	c	en
 eldri	lkfnvm	gamall
 bílar	nkfn	bíll
 .	.	.
-
 Tæplega	aa	tæplega
 60%	tp	60%
 fólksbíla	nkfe	fólksbíll
@@ -4428,7 +4157,6 @@ framleidd	sþghfn	framleiða
 fyrir	ao	fyrir
 1995	ta	1995
 .	.	.
-
 NÝR	lkensf	nýr
 Mercedes-Benz	e	Mercedes-Benz
 SL	e	SL
@@ -4464,7 +4192,6 @@ til	ae	til
 ársins	nheeg	ár
 2003	ta	2003
 .	.	.
-
 Ekki	aa	ekki
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -4486,7 +4213,6 @@ meiri	lvenvm	mikill
 en	c	en
 framleiðsluáætlanir	nvfn	framleiðsluáætlun
 .	.	.
-
 Í	aþ	í
 Bretlandi	nheþ-s	Bretland
 hafa	sfg3fn	hafa
@@ -4508,7 +4234,6 @@ framleidda	lkfosf	framleiddur
 fyrir	ao	fyrir
 Bretlandsmarkað	nkeo-s	Bretlandsmarkaður
 .	.	.
-
 Fastlega	aa	fastlega
 er	sfg3en	vera
 búist	sþmhen	búa
@@ -4532,7 +4257,6 @@ langt	aa	langt
 yfir	aþ	yfir
 listaverði	nheþ	listaverð
 .	.	.
-
 NÝR	lkensf	nýr
 Opel	e	Opel
 Vectra	e	Vectra
@@ -4543,7 +4267,6 @@ markað	nkeo	markaður
 næsta	lheþve	næstur
 ári	nheþ	ár
 .	.	.
-
 Mikil	lvensf	mikill
 samkeppni	nven	samkeppni
 er	sfg3en	vera
@@ -4579,7 +4302,6 @@ Mondeo	e	Mondeo
 og	c	og
 Laguna	e	Laguna
 .	.	.
-
 Auk	ae	auk
 þess	fphee	það
 eru	sfg3fn	vera
@@ -4598,7 +4320,6 @@ gerbreytt	lvensf	gerbreyttur
 Nissan	e	Nissan
 Primera	e	Primera
 .	.	.
-
 Það	fphen	það
 verður	sfg3en	verða
 því	aa	því
@@ -4620,7 +4341,6 @@ með	aþ	með
 nýjum	lkeþsf	nýr
 Vectra	e	Vectra
 .	.	.
-
 Ný	lvensf	nýr
 Vectra	e	Vectra
 verður	sfg3en	verða
@@ -4639,7 +4359,6 @@ fimm	tfvfe	fimm
 dyra	nvfe	dyr
 hlaðbaksútgáfum	nvfþ	hlaðbaksútgáfa
 .	.	.
-
 Bíllinn	nkeng	bíll
 er	sfg3en	vera
 á	aþ	á
@@ -4655,7 +4374,6 @@ en	c	en
 núverandi	lvenof	núverandi
 gerð	nven	gerð
 .	.	.
-
 Hjólhafið	nheng	hjólhaf
 eykst	sfm3en	auka
 um	ao	um
@@ -4673,7 +4391,6 @@ fótarými	nheþ	fótarými
 fyrir	ao	fyrir
 farþega	nkfo	farþegi
 .	.	.
-
 Sporvíddin	nveng	sporvídd
 verður	sfg3en	verða
 sömuleiðis	aa	sömuleiðis
@@ -4697,7 +4414,6 @@ pláss	nheo	pláss
 innandyra	aa	innandyra
 meira	lheovm	mikill
 .	.	.
-
 Bíllinn	nkeng	bíll
 verður	sfg3en	verða
 boðinn	sþgken	bjóða
@@ -4710,7 +4426,6 @@ og	c	og
 hestafla	nhfe	hestafl
 dísilvélum	nvfþ	dísilvél
 .	.	.
-
 Þá	aa	þá
 verður	sfg3en	verða
 bíllinn	nkeng	bíll
@@ -4722,7 +4437,6 @@ sjálfskiptingu	nveþ	sjálfskipting
 með	aþ	með
 valskiptingu	nveþ	valskipting
 .	.	.
-
 Ekki	aa	ekki
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -4742,7 +4456,6 @@ miklum	lkeþsf	mikill
 og	c	og
 öryggisbúnaði	nkeþ	öryggisbúnaður
 .	.	.
-
 Væntanlega	aa	væntanlega
 verða	sfg3fn	verða
 hliðarbelgir	nkfn	hliðarbelgur
@@ -4754,7 +4467,6 @@ spólvörn	nveþ	spólvörn
 og	c	og
 loftkælingu	nveþ	loftkæling
 .	.	.
-
 Eins	aa	eins
 og	c	og
 í	aþ	í
@@ -4769,7 +4481,6 @@ ræsir	sfg3en	ræsa
 rúðuþurrkur	nvfo	rúðuþurrka
 sjálfkrafa	aa	sjálfkrafa
 .	.	.
-
 Opel	e	Opel
 segir	sfg3en	segja
 að	c	að
@@ -4797,7 +4508,6 @@ fjölliðafjöðrun	nveo	fjölliðafjöðrun
 að	aa	að
 aftan	aa	aftan
 .	.	.
-
 Meðal	ae	meðal
 nýjunga	nvfe	nýjung
 er	sfg3en	vera
@@ -4820,7 +4530,6 @@ Opel	e	Opel
 í	aþ	í
 framtíðinni	nveþg	framtíð
 .	.	.
-
 Yfirbyggingin	nveng	yfirbygging
 er	sfg3en	vera
 að	aþ	að
@@ -4831,7 +4540,6 @@ til	aa	til
 og	c	og
 magnesíum	nheþ	magnesíum
 .	.	.
-
 Ný	lvensf	nýr
 Opel	e	Opel
 Vectra	e	Vectra
@@ -4844,7 +4552,6 @@ Genf	e	Genf
 í	aþ	í
 mars	nkeþ	mars
 .	.	.
-
 MG	as	MG
 setur	sfg3en	setja
 á	ao	á
@@ -4858,7 +4565,6 @@ sem	ct	sem
 kallast	sfm3en	kalla
 X80	x	x80
 .	.	.
-
 Bíllinn	nkeng	bíll
 var	sfg3eþ	vera
 sýndur	sþgken	sýna
@@ -4867,7 +4573,6 @@ bílasýningunni	nveþg	bílasýning
 í	aþ	í
 Frankfurt	e	Frankfurt
 .	.	.
-
 Sætaskipan	nven	sætaskipan
 er	sfg3en	vera
 2+2	ta	2+2
@@ -4884,7 +4589,6 @@ farþegasæti	nhfn	farþegasæti
 að	aa	að
 aftan	aa	aftan
 .	.	.
-
 Bíllinn	nkeng	bíll
 á	sfg3en	eiga
 að	cn	að
@@ -4902,7 +4606,6 @@ er	sfg3en	vera
 Mustang	e	Mustang
 V8	x	V8
 .	.	.
-
 MG	as	MG
 segir	sfg3en	segja
 að	c	að
@@ -4922,7 +4625,6 @@ GT	as	GT
 og	c	og
 Jaguar	e	Jaguar
 .	.	.
-
 IB	as	IB
 ehf.	as	ehf.
 og	c	og
@@ -4940,14 +4642,12 @@ Fossnesi	nheþ-s	Fossnes
 á	aþ	á
 Selfossi	nkeþ-s	Selfoss
 .	.	.
-
 Húsnæðið	nheng	húsnæði
 er	sfg3en	vera
 í	aþ	í
 eigu	nveþ	eiga
 IB	as	IB
 ehf.	as	ehf.
-
 Í	aþ	í
 húsinu	nheþg	hús
 er	sfg3en	vera
@@ -4959,7 +4659,6 @@ bifreiðaeigendur	nkfo	bifreiðaeigandi
 á	aþ	á
 Suðurlandi	nheþ-s	Suðurland
 .	.	.
-
 Reksturinn	nkeng	rekstur
 skiptist	sfm3en	skipta
 þannig	aa	þannig
@@ -4990,7 +4689,6 @@ Toyota	e	Toyota
 á	aþ	á
 Suðurlandi	nheþ-s	Suðurland
 .	.	.
-
 Bílasala	nven-s	Bílasala
 Suðurlands	nhee-s	Suðurland
 ,	,	,

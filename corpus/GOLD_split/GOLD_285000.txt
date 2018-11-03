@@ -30,14 +30,12 @@ hefði	svg3eþ	hafa
 sér	fpveþ	sig
 stað	nkeo	staður
 .	.	.
-
 Kenning	nven	kenning
 Tranters	e	Tranters
 er	sfg3en	vera
 vissulega	aa	vissulega
 umdeilanleg	lvensf	umdeilanlegur
 .	.	.
-
 Sturlunga	nven-s	Sturlunga
 er	sfg3en	vera
 svo	aa	svo
@@ -65,7 +63,6 @@ að	cn	að
 sanna	sng	sanna
 kenningu	nveo	kenning
 .	.	.
-
 En	c	en
 óneitanlega	aa	óneitanlega
 er	sfg3en	vera
@@ -79,7 +76,6 @@ er	sfg3en	vera
 hún	fpven	hún
 hárrétt	lvensf	hárréttur
 .	.	.
-
 2.8.4	ta	2.8.4
 Arons	nkee-s	Aron
 saga	nven	saga
@@ -125,7 +121,6 @@ að	cn	að
 flokka	sng	flokka
 þar	aa	þar
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 Arons	nkee-s	Aron
@@ -141,7 +136,6 @@ gefin	sþgven	gefa
 með	aþ	með
 Sturlungu	nveþ-s	Sturlunga
 .	.	.
-
 81	ta	81
 Aron	nken-s	Aron
 Hjörleifsson	nken-s	Hjörleifsson
@@ -159,7 +153,6 @@ laust	aa	laust
 fyrir	ao	fyrir
 1200	ta	1200
 .	.	.
-
 Hann	fpken	hann
 gerðist	sfm3eþ	gera
 tryggur	lkensf	tryggur
@@ -179,7 +172,6 @@ vígaferla	nhfe	vígaferli
 liði	nheþ	lið
 biskups	nkee	biskup
 .	.	.
-
 Síðar	aam	síðar
 komst	sfm3eþ	koma
 hann	fpken	hann
@@ -205,7 +197,6 @@ lést	sfm3eþ	láta
 Noregi	nkeþ-s	Noregur
 1255	ta	1255
 .	.	.
-
 Aron	nken-s	Aron
 var	sfg3eþ	vera
 þekktur	lkensf	þekktur
@@ -219,7 +210,6 @@ meira	aam	meira
 en	c	en
 Sturlungaaldar	nvee-s	Sturlungaöld
 .	.	.
-
 Frá	aþ	frá
 Aroni	nkeþ-s	Aron
 er	sfg3en	vera
@@ -231,7 +221,6 @@ sögu	nveþ	saga
 Sturlu	nkee-s	Sturla
 Þórðarsonar	nkee-s	Þórðarson
 .	.	.
-
 Í	aþ	í
 aðalatriðum	nhfþ	aðalatriði
 ber	sfg3en	bera
@@ -251,7 +240,6 @@ ber	sfg3en	bera
 á	aa	á
 milli	aa	milli
 .	.	.
-
 Af	aþ	af
 því	fpheþ	það
 ályktaði	sfg3eþ	álykta
@@ -276,7 +264,6 @@ hluta	nkeþ	hluti
 14.	ta	14.
 aldar	nvee	öld
 .	.	.
-
 Björn	nken-s	Björn
 taldi	sfg3eþ	telja
 muninn	nkeog	munur
@@ -311,7 +298,6 @@ lengur	aam	lengi
 milli	ae	milli
 manna	nkfe	maður
 .	.	.
-
 82	ta	82
 Þannig	aa	þannig
 notaði	sfg3eþ	nota
@@ -336,7 +322,6 @@ sbr.	as	sbr.
 2.6.3	ta	2.6.3
 )	)	)
 .	.	.
-
 Jón	nken-s	Jón
 Jóhannesson	nken-s	Jóhannesson
 fellst	sfm3en	falla
@@ -362,7 +347,6 @@ miðja	lveosf	miður
 14.	ta	14.
 öld	nveo	öld
 .	.	.
-
 Yngri	lvenvm	ungur
 getur	sfg3en	geta
 hún	fpven	hún
@@ -384,7 +368,6 @@ A	nhen	A
 2.7.2	ta	2.7.2
 )	)	)
 .	.	.
-
 En	c	en
 elsta	lhenve	gamall
 handrit	nhen	handrit
@@ -399,7 +382,6 @@ frá	aþ	frá
 um	ao	um
 1400	ta	1400
 .	.	.
-
 Jón	nken-s	Jón
 Jóhannesson	nken-s	Jóhannesson
 er	sfg3en	vera
@@ -443,7 +425,6 @@ skrifaði	sfg3eþ	skrifa
 sögu	nveo	saga
 sína	feveo	sinn
 .	.	.
-
 83	ta	83
 2.8.5	ta	2.8.5
 Heimildargildi	nhen	heimildargildi
@@ -468,7 +449,6 @@ atburðum	nkfþ	atburður
 bókstaflegum	lkeþsf	bókstaflegur
 skilningi	nkeþ	skilningur
 .	.	.
-
 Ef	c	ef
 fylgt	sþghen	fylgja
 er	sfg3en	vera
@@ -527,7 +507,6 @@ séu	svg3fn	vera
 Sturlungu	nveþ-s	Sturlunga
 )	)	)
 .	.	.
-
 Minnsta	lhenve	lítill
 bilið	nheng	bil
 getur	sfg3en	geta
@@ -554,7 +533,6 @@ og	c	og
 samtímaleg	lhfosf	samtímalegur
 skjöl	nhfo	skjal
 .	.	.
-
 Í	aþ	í
 Formála	nkeþ-s	formáli
 Sturlungu	nvee-s	Sturlunga
@@ -585,7 +563,6 @@ eru	sfg3fn	vera
 frá	aa	frá
 .	.	.
 »	»	»
-
 84	ta	84
 Í	aþ	í
 frásögn	nveþ	frásögn
@@ -607,7 +584,6 @@ féllu	sfg3fþ	falla
 56	ta	56
 talsins	nheeg	tal
 .	.	.
-
 85	ta	85
 Augljóst	lhensf	augljós
 virðist	sfm3en	virða
@@ -620,7 +596,6 @@ skrá	nven	skrá
 um	ao	um
 mannfall	nheo	mannfall
 .	.	.
-
 Í	aþ	í
 Þórðar	nkee-s	Þórður
 sögu	nveþ	saga
@@ -647,7 +622,6 @@ Gissuri	nkeþ-s	Gissur
 árið	nheog	ár
 1246	ta	1246
 .	.	.
-
 86	ta	86
 Í	aþ	í
 sömu	fbveþ	sami
@@ -670,7 +644,6 @@ síðar	aam	síðar
 sama	fbheo	sami
 ár	nheo	ár
 .	.	.
-
 <	<	<
 ...	...	...
 >	>	>
@@ -718,7 +691,6 @@ sagna	nvfe	saga
 í	aþ	í
 Sturlungu	nveþ-s	Sturlunga
 .	.	.
-
 88	ta	88
 En	c	en
 megnið	nheng	megn
@@ -738,7 +710,6 @@ sem	ct	sem
 mynda	sfg3fn	mynda
 safnið	nheog	safn
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 reist	sþghen	reisa
@@ -754,7 +725,6 @@ heyrnarvotta	nkfe	heyrnarvottur
 eftir	aþ	eftir
 heyrnarvottum	nkfþ	heyrnarvottur
 .	.	.
-
 Varla	aa	varla
 er	sfg3en	vera
 hægt	lhensf	hægur
@@ -774,7 +744,6 @@ stutt	sþghen	styðja
 óháðum	lvfþsf	óháður
 heimildum	nvfþ	heimild
 .	.	.
-
 Sögur	nvfn	saga
 Sturlungu	nvee-s	Sturlunga
 hafa	sfg3fn	hafa
@@ -797,7 +766,6 @@ um	ao	um
 sem	ct	sem
 gerðist	sfm3eþ	gera
 .	.	.
-
 Þær	fpvfn	hún
 eru	sfg3fn	vera
 víða	aa	víða
@@ -828,7 +796,6 @@ sbr.	as	sbr.
 3.6.3	ta	3.6.3
 )	)	)
 .	.	.
-
 Lítið	lhensf	lítill
 hefur	sfg3en	hafa
 verið	ssg	vera
@@ -865,7 +832,6 @@ framlag	nheo	framlag
 safnanda	nkee	safnandi
 Sturlungu	nvee-s	Sturlunga
 .	.	.
-
 Þá	aa	þá
 hefur	sfg3en	hafa
 Úlfar	nken-s	Úlfar
@@ -876,7 +842,6 @@ um	ao	um
 þetta	faheo	þessi
 efni	nheo	efni
 .	.	.
-
 Hann	fpken	hann
 hefur	sfg3en	hafa
 bent	ssg	benda
@@ -897,7 +862,6 @@ fundið	ssg	finna
 og	c	og
 Íslendingaþáttum	nkfþ-s	Íslendingaþáttur
 .	.	.
-
 Þar	aa	þar
 sé	svg3en	vera
 að	cn	að
@@ -908,7 +872,6 @@ og	c	og
 þrjú	tfhfo	þrír
 ófriðarmynstur	nhfo	ófriðarmynstur
 .	.	.
-
 Það	fphen	það
 sé	svg3en	vera
 því	aa	því
@@ -935,7 +898,6 @@ en	c	en
 Íslendingasögur	nvfn-s	Íslendingasaga
 skáldskapur	nken	skáldskapur
 .	.	.
-
 89	ta	89
 Nú	aa	nú
 er	sfg1en	vera
@@ -955,7 +917,6 @@ en	c	en
 í	aþ	í
 veruleika	nkeþ	veruleiki
 .	.	.
-
 Ef	c	ef
 menn	nkfn	maður
 fara	sfg3fn	fara
@@ -983,7 +944,6 @@ og	c	og
 oftast	aae	oft
 heimkomu	nveo	heimkoma
 .	.	.
-
 Ef	c	ef
 menn	nkfn	maður
 eiga	sfg3fn	eiga
@@ -1023,7 +983,6 @@ og	c	og
 eða	c	eða
 sætt	nveþ	sætt
 .	.	.
-
 90	ta	90
 Engu	foheþ	enginn
 að	aa	að
@@ -1049,7 +1008,6 @@ skáldskapinn	nkeog	skáldskapur
 taka	sng	taka
 völdin	nhfog	vald
 .	.	.
-
 Annars	fokee	annar
 staðar	nkee	staður
 bendir	sfg3en	benda
@@ -1089,7 +1047,6 @@ hver	fshfn	hver
 þau	fphfn	það
 voru	sfg3fþ	vera
 .	.	.
-
 91	ta	91
 Hversu	aa	hversu
 traust	lvensf	traustur
@@ -1109,7 +1066,6 @@ heillandi	lvenof	heillandi
 sem	c	sem
 heimild	nven	heimild
 .	.	.
-
 Ólíkt	aa	ólíkt
 biskupasögum	nvfþ	biskupasaga
 (	(	(
@@ -1131,7 +1087,6 @@ skoðunum	nvfþ	skoðun
 og	c	og
 túlkunum	nvfþ	túlkun
 .	.	.
-
 Sumar	fovfn	sumur
 sögurnar	nvfng	saga
 eru	sfg3fn	vera
@@ -1148,7 +1103,6 @@ með	aþ	með
 söguhetju	nveþ	söguhetja
 sinni	feveþ	sinn
 .	.	.
-
 Aðrar	fovfn	annar
 ,	,	,
 og	c	og
@@ -1165,7 +1119,6 @@ manna	nkfe	maður
 og	c	og
 málefna	nhfe	málefni
 .	.	.
-
 En	c	en
 ekki	aa	ekki
 síst	aae	síður
@@ -1203,7 +1156,6 @@ aðstæðum	nvfþ	aðstæður
 kringum	ao	kringum
 meginviðburði	nkfo	meginviðburður
 .	.	.
-
 Svo	aa	svo
 að	c	að
 aðeins	aa	aðeins
@@ -1244,7 +1196,6 @@ Króksfjarðareyjum	nvfþ-s	Króksfjarðareyjar
 til	ae	til
 sauðfjárbeitar	nvee	sauðfjárbeit
 .	.	.
-
 Deilan	nveng	deila
 kemur	sfg3en	koma
 auðvitað	aa	auðvitað
@@ -1306,7 +1257,6 @@ höfðingja	nkee	höfðingi
 12.	ta	12.
 öld	nveþ	öld
 .	.	.
-
 Þannig	aa	þannig
 verður	sfg3en	verða
 fjármaðurinn	nkeng	fjármaður
@@ -1322,7 +1272,6 @@ kirkjunnar	nveeg	kirkja
 á	aþ	á
 miðöldum	nvfþ	miðöld
 .	.	.
-
 93	ta	93
 Eins	aa	eins
 og	c	og
@@ -1355,7 +1304,6 @@ og	c	og
 pólitískrar	lveesf	pólitískur
 menningar	nvee	menning
 .	.	.
-
 Sögur	nvfn	saga
 eins	aa	eins
 og	c	og
@@ -1387,7 +1335,6 @@ komst	sfm3eþ	koma
 þar	aa	þar
 á	aa	á
 .	.	.
-
 Góð	lvensf	góður
 ástæða	nven	ástæða
 er	sfg3en	vera
@@ -1441,7 +1388,6 @@ raun	nveþ	raun
 og	c	og
 veru	nveþ	vera
 .	.	.
-
 94	ta	94
 Um	ao	um
 stórhöfðingjaveldið	nheog	stórhöfðingjaveldi
@@ -1474,7 +1420,6 @@ síðan	aa	síðan
 ómetanlegar	lvfnsf	ómetanlegur
 heimildir	nvfn	heimild
 .	.	.
-
 Vel	aa	vel
 er	sfg3en	vera
 hægt	lhensf	hægur
@@ -1489,7 +1434,6 @@ gersamlega	aa	gersamlega
 á	ao	á
 þær	fpvfo	hún
 .	.	.
-
 Þá	aa	þá
 verða	sfg3fn	verða
 fræðimenn	nkfn	fræðimaður
@@ -1515,7 +1459,6 @@ svo	aa	svo
 afleitur	lkensf	afleitur
 kostur	nken	kostur
 .	.	.
-
 2.8.6	ta	2.8.6
 Útgáfur	nvfn	útgáfa
 Einu	lveovf	einn
@@ -1534,7 +1477,6 @@ Kålund	e	Kålund
 árunum	nhfþg	ár
 1906-11	ta	1906-11
 .	.	.
-
 Þar	aa	þar
 er	sfg3en	vera
 farið	sþghen	fara
@@ -1564,7 +1506,6 @@ er	sfg3en	vera
 glötuð	lvensf	glataður
 sjálf	fbven	sjálfur
 .	.	.
-
 Textinn	nkeng	texti
 er	sfg3en	vera
 prentaður	sþgken	prenta
@@ -1584,7 +1525,6 @@ upp	aa	upp
 aðgreindar	lvfosf	aðgreindur
 sögur	nvfo	saga
 .	.	.
-
 95	ta	95
 Þetta	fahen	þessi
 er	sfg3en	vera
@@ -1597,7 +1537,6 @@ endilega	aa	endilega
 að	cn	að
 þekkja	sng	þekkja
 .	.	.
-
 Hér	aa	hér
 í	aþ	í
 bók	nveþ	bók
@@ -1630,7 +1569,6 @@ samræmdri	lveþsf	samræmdur
 stafsetningu	nveþ	stafsetning
 fornri	lveþsf	forn
 .	.	.
-
 Í	aþ	í
 þessari	faveþ	þessi
 útgáfu	nveþ	útgáfa
@@ -1658,7 +1596,6 @@ verið	ssg	vera
 véfengt	sþghen	véfengja
 síðan	aa	síðan
 .	.	.
-
 Þessi	faven	þessi
 útgáfa	nven	útgáfa
 er	sfg3en	vera
@@ -1667,7 +1604,6 @@ margan	lkeosf	margur
 hátt	nkeo	háttur
 meistaraverk	nhen	meistaraverk
 .	.	.
-
 Inngangur	nken	inngangur
 Jóns	nkee-s	Jón
 Jóhannessonar	nkee-s	Jóhannesson
@@ -1694,7 +1630,6 @@ sem	ct	sem
 hann	fpken	hann
 skrifaði	sfg3eþ	skrifa
 .	.	.
-
 Góðar	lvfnsf	góður
 textaskýringar	nvfn	textaskýring
 og	c	og
@@ -1726,7 +1661,6 @@ tíma	nkeþ	tími
 í	aþ	í
 sögunni	nveþg	saga
 .	.	.
-
 Síðan	aa	síðan
 var	sfg3eþ	vera
 Sturlunga	nven-s	Sturlunga
@@ -1744,7 +1678,6 @@ með	aþ	með
 íslenskri	lveþsf	íslenskur
 nútímastafsetningu	nveþ	nútímastafsetning
 .	.	.
-
 Sjálfur	fbken	sjálfur
 textinn	nkeng	texti
 er	sfg3en	vera
@@ -1774,7 +1707,6 @@ eru	sfg3fn	vera
 þriðja	lheþvf	þriðji
 bindinu	nheþg	bindi
 .	.	.
-
 Hér	aa	hér
 er	sfg3en	vera
 textinn	nkeng	texti
@@ -1807,7 +1739,6 @@ greiningu	nveþ	greining
 Jóns	nkee-s	Jón
 Jóhannessonar	nkee-s	Jóhannesson
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 vafalaust	aa	vafalaust
@@ -1837,7 +1768,6 @@ að	cn	að
 vera	sng	vera
 yfirþyrmandi	lhenof	yfirþyrmandi
 .	.	.
-
 97	ta	97
 Sturlunga	nkfe-s	Sturlungur
 saga	nven	saga
@@ -1851,7 +1781,6 @@ dönsku	nveþ	danska
 Kristians	nkee-s	Kristian
 Kålund	e	Kålund
 .	.	.
-
 98	ta	98
 Þýsk	lvensf	þýskur
 þýðing	nven	þýðing
@@ -1867,7 +1796,6 @@ nokkuð	fohen	nokkur
 frjálslega	aa	frjálslega
 þýdd	sþgven	þýða
 .	.	.
-
 99	ta	99
 Ensk	lvensf	enskur
 þýðing	nven	þýðing
@@ -1880,7 +1808,6 @@ mátt	ssg	mega
 vera	sng	vera
 betri	lvenvm	góður
 .	.	.
-
 100	ta	100
 Loks	aa	loks
 hefur	sfg3en	hafa
@@ -1891,7 +1818,6 @@ komið	ssg	koma
 á	aþ	á
 frönsku	nveþ	franska
 .	.	.
-
 101	ta	101
 2.9	ta	2.9
 Sögur	nvfn	saga
@@ -1943,7 +1869,6 @@ sem	ct	sem
 hafi	svg3fn	hafa
 hugsað	ssg	hugsa
 .	.	.
-
 Þess	fphee	það
 vegna	ae	vegna
 eru	sfg3fn	vera
@@ -1959,7 +1884,6 @@ flest	lhfose	margur
 atriði	nhfo	atriði
 Íslandssögu	nvee-s	Íslandssaga
 .	.	.
-
 En	c	en
 sögur	nvfn	saga
 geta	sfg3fn	geta
@@ -1996,7 +1920,6 @@ af	aþ	af
 íslenskum	lkeþsf	íslenskur
 veruleika	nkeþ	veruleiki
 .	.	.
-
 Því	fpheþ	það
 verður	sfg3en	verða
 ekki	aa	ekki
@@ -2027,7 +1950,6 @@ gerast	sfm3fn	gera
 á	aþ	á
 Íslandi	nheþ-s	Ísland
 .	.	.
-
 Hér	aa	hér
 eru	sfg3fn	vera
 til	ae	til
@@ -2044,7 +1966,6 @@ málum	nhfþ	mál
 en	c	en
 norrænu	lhfþvf	norrænn
 .	.	.
-
 En	c	en
 nærri	aa	nærri
 má	sfg3en	mega
@@ -2077,7 +1998,6 @@ hirt	sþghen	hirða
 um	aa	um
 heldur	aam	heldur
 .	.	.
-
 Áður	aa	áður
 en	c	en
 kemur	sfg3en	koma
@@ -2099,7 +2019,6 @@ hverjar	fsvfn	hver
 þær	fpvfn	hún
 eru	sfg3fn	vera
 .	.	.
-
 2.9.1	ta	2.9.1
 Konungasögur	nvfn	konungasaga
 Meginhluti	nken	meginhluti
@@ -2149,7 +2068,6 @@ lést	sfm3eþ	láta
 árið	nheog	ár
 1280	ta	1280
 .	.	.
-
 Einkum	aa	einkum
 fjalla	sfg3fn	fjalla
 margar	lvfnsf	margur
@@ -2166,7 +2084,6 @@ sem	ct	sem
 ríkti	sfg3eþ	ríkja
 1161-84	ta	1161-84
 .	.	.
-
 Um	ao	um
 þessa	fakfo	þessi
 menn	nkfo	maður
@@ -2185,7 +2102,6 @@ einkum	aa	einkum
 aukið	ssg	auka
 við	aa	við
 .	.	.
-
 Gífurlega	aa	gífurlega
 umfangsmikil	lhfnsf	umfangsmikill
 fræði	nhfn	fræði
@@ -2206,7 +2122,6 @@ rekja	sng	rekja
 þau	fphfo	það
 hér	aa	hér
 .	.	.
-
 1	ta	1
 Elstu	lvfnve	gamall
 sögurnar	nvfng	saga
@@ -2217,7 +2132,6 @@ sagnabálki	nkeþ	sagnabálkur
 eru	sfg3fn	vera
 glataðar	lvfnsf	glataður
 .	.	.
-
 En	c	en
 um	ao	um
 það	fpheo	það
@@ -2255,7 +2169,6 @@ fróðleik	nkeo	fróðleikur
 um	ao	um
 Noregskonunga	nkfo-s	Noregskonungur
 .	.	.
-
 2	ta	2
 Þá	aa	þá
 verður	sfg3en	verða
@@ -2273,7 +2186,6 @@ annars	aa	annars
 er	sfg3en	vera
 óþekktur	lkensf	óþekktur
 .	.	.
-
 Vitað	sþghen	vita
 207	ta	207
 er	sfg3en	vera
@@ -2300,7 +2212,6 @@ Noregi	nkeþ-s	Noregur
 árunum	nhfþg	ár
 1136-39	ta	1136-39
 .	.	.
-
 3	ta	3
 Í	aþ	í
 nýjustu	lveþve	nýr
@@ -2323,7 +2234,6 @@ hans	fpkee	hann
 ,	,	,
 1136-39	ta	1136-39
 .	.	.
-
 Í	aþ	í
 Heimskringlu	nveþ-s	Heimskringla
 segir	sfg3en	segja
@@ -2344,7 +2254,6 @@ skrifuð	sþgven	skrifa
 12.	ta	12.
 öld	nveþ	öld
 .	.	.
-
 4	ta	4
 Elstu	lvfnve	gamall
 varðveittu	lvfnvf	varðveittur
@@ -2367,7 +2276,6 @@ hluta	nkeþ	hluti
 12.	ta	12.
 aldar	nvee	öld
 .	.	.
-
 Önnur	foven	annar
 heitir	sfg3en	heita
 Historia	e	Historia
@@ -2402,7 +2310,6 @@ eða	c	eða
 kannski	aa	kannski
 Þjóðrekr	nken-s	Þjóðrekr
 .	.	.
-
 Hin	faven	hinn
 heitir	sfg3en	heita
 Historia	e	Historia
@@ -2413,7 +2320,6 @@ eftir	ao	eftir
 óþekktan	lkeosf	óþekktur
 höfund	nkeo	höfundur
 .	.	.
-
 Báðar	fovfn	báðir
 eru	sfg3fn	vera
 þessar	favfn	þessi
@@ -2430,7 +2336,6 @@ hárfagra	lkeþvf	hárfagur
 til	ae	til
 1130	ta	1130
 .	.	.
-
 Historia	e	Historia
 Norwegiae	e	Norwegiae
 hefst	sfm3en	hefja
@@ -2453,7 +2358,6 @@ nær	sfg3en	ná
 til	ae	til
 1015	ta	1015
 .	.	.
-
 5	ta	5
 Sögurnar	nvfng	saga
 voru	sfg3fþ	vera
@@ -2503,7 +2407,6 @@ af	aþ	af
 sögu	nveþ	saga
 Theodricusar	e	Theodricusar
 .	.	.
-
 8	ta	8
 Norskt	lhensf	norskur
 er	sfg3en	vera
@@ -2566,7 +2469,6 @@ miðja	lveosf	miður
 12.	ta	12.
 öld	nveo	öld
 .	.	.
-
 9	ta	9
 Um	ao	um
 svipað	lheosf	svipaður
@@ -2582,7 +2484,6 @@ Loftssyni	nkeþ-s	Loftsson
 Odda	nkeþ-s	Oddi
 (	(	(
 d.	as	d.
-
 1197	ta	1197
 )	)	)
 kvæðið	nheng	kvæði
@@ -2595,7 +2496,6 @@ erindi	nhfn	erindi
 undir	aþ	undir
 fornyrðislagi	nheþ	fornyrðislag
 .	.	.
-
 10	ta	10
 Það	fphen	það
 er	sfg3en	vera
@@ -2623,7 +2523,6 @@ konungasagnaritun	nveþ	konungasagnaritun
 Sæmundar	nkee-s	Sæmundur
 fróða	lkeevf	fróður
 .	.	.
-
 Í	aþ	í
 40.	ta	40.
 erindi	nheþ	erindi
@@ -2676,7 +2575,6 @@ aldar	nvee	öld
 Sverri	nkeo-s	Sverrir
 Sigurðsson	nkeo-s	Sigurðsson
 .	.	.
-
 Ólafur	nken-s	Ólafur
 helgi	lkenvf	helgur
 hafði	sfg3eþ	hafa
@@ -2700,7 +2598,6 @@ hann	fpken	hann
 geri	svg3en	gera
 kraftaverk	nhfo	kraftaverk
 .	.	.
-
 Um	ao	um
 það	fpheo	það
 eru	sfg3fn	vera
@@ -2709,7 +2606,6 @@ vitnisburðir	nkfn	vitnisburður
 kvæðum	nhfþ	kvæði
 skálda	nhfe	skáld
 .	.	.
-
 Ekki	aa	ekki
 fer	sfg3en	fara
 því	fpheþ	það
@@ -2758,7 +2654,6 @@ hluta	nkeþ	hluti
 13.	ta	13.
 aldar	nvee	öld
 .	.	.
-
 11	ta	11
 Þá	aa	þá
 eru	sfg3fn	vera
@@ -2803,7 +2698,6 @@ við	aa	við
 2.5.2	ta	2.5.2
 )	)	)
 .	.	.
-
 12	ta	12
 Um	ao	um
 Ólaf	nkeo-s	Ólafur
@@ -2824,7 +2718,6 @@ lok	nhfo	lok
 12.	ta	12.
 aldar	nvee	öld
 .	.	.
-
 Annar	foken	annar
 höfundanna	nkfeg	höfundur
 var	sfg3eþ	vera
@@ -2850,7 +2743,6 @@ glötuð	lvensf	glataður
 að	aþ	að
 mestu	lheþse	mikill
 .	.	.
-
 Hinn	faken	hinn
 hét	sfg3eþ	heita
 Oddur	nken-s	Oddur
@@ -2874,7 +2766,6 @@ margt	lheosf	margur
 sögu	nveþ	saga
 konungs	nkee	konungur
 .	.	.
-
 13	ta	13
 Þriðji	lkenvf	þriðji
 Þingeyramunkurinn	nkengs	Þingeyramunkur
@@ -2900,7 +2791,6 @@ fyrstu	lveove	fyrstur
 viðtalsbók	nveo	viðtalsbók
 Íslendings	nkee-s	Íslendingur
 .	.	.
-
 Í	aþ	í
 prologus	nkeþ	prologus
 Sverris	nkee-s	Sverrir
@@ -2945,7 +2835,6 @@ henni	fpveþ	hún
 var	sfg3eþ	vera
 lokið	sþghen	ljúka
 .	.	.
-
 15	ta	15
 Jafnframt	aþ	jafnframt
 sagnaritun	nveþ	sagnaritun
@@ -2961,7 +2850,6 @@ með	ao	með
 í	aþ	í
 sögumiðju	nveþ	sögumiðja
 .	.	.
-
 Frá	aþ	frá
 fyrri	lkeþvm	fyrri
 hluta	nkeþ	hluti
@@ -3000,7 +2888,6 @@ eru	sfg3fn	vera
 ,	,	,
 varðveittar	lvfnsf	varðveittur
 .	.	.
-
 Önnur	foven	annar
 er	sfg3en	vera
 kölluð	sþgven	kalla
@@ -3048,7 +2935,6 @@ sína	feveo	sinn
 fyrir	aþ	fyrir
 konungdómi	nkeþ	konungdómur
 .	.	.
-
 Allar	fovfn	allur
 líkur	nvfn	líkur
 benda	sfg3fn	benda
@@ -3075,7 +2961,6 @@ er	sfg3en	vera
 öllu	foheþ	allur
 íslensku	lheþsf	íslenskur
 .	.	.
-
 Drjúgur	lkensf	drjúgur
 hluti	nken	hluti
 af	aþ	af
@@ -3102,7 +2987,6 @@ kaflar	nkfn	kafli
 í	aþ	í
 Morkinskinnu	nveþ-s	Morkinskinna
 .	.	.
-
 16	ta	16
 Hin	faven	hinn
 handritsnefnda	lvenvf	handritsnefndur
@@ -3120,7 +3004,6 @@ Kaupmannahöfn	nveþ-s	Kaupmannahöfn
 árið	nheog	ár
 1728	ta	1728
 .	.	.
-
 Sagan	nveng	saga
 byrjar	sfg3en	byrja
 á	aþ	á
@@ -3143,7 +3026,6 @@ atburða	nkfe	atburður
 ársins	nheeg	ár
 1177	ta	1177
 .	.	.
-
 Handrit	nhen	handrit
 bókarinnar	nveeg	bók
 er	sfg3en	vera
@@ -3164,7 +3046,6 @@ Noregi	nkeþ-s	Noregur
 af	aþ	af
 heimamanni	nkeþ	heimamaður
 .	.	.
-
 17	ta	17
 Útgefandi	nken	útgefandi
 sögunnar	nveeg	saga
@@ -3205,7 +3086,6 @@ líklega	aa	líklega
 verið	ssg	vera
 íslenskur	lkensf	íslenskur
 .	.	.
-
 18	ta	18
 Þótt	c	þótt
 það	fphen	það
@@ -3238,7 +3118,6 @@ verka	nhfe	verk
 voru	sfg3fþ	vera
 það	fphen	það
 .	.	.
-
 Ef	c	ef
 sú	faven	sá
 niðurstaða	nven	niðurstaða
@@ -3274,7 +3153,6 @@ rökum	nhfþ	rök
 fyrir	aþ	fyrir
 sönnuninni	nveþg	sönnun
 .	.	.
-
 Þá	aa	þá
 kemur	sfg3en	koma
 að	aþ	að
@@ -3287,7 +3165,6 @@ talist	ssm	telja
 hápunktur	nken	hápunktur
 konungasagnaritunar	nvee	konungasagnaritun
 .	.	.
-
 Hún	fpven	hún
 spannar	sfg3en	spanna
 tímann	nkeog	tími
@@ -3310,7 +3187,6 @@ sögu	nvee	saga
 ,	,	,
 1177	ta	1177
 .	.	.
-
 Í	aþ	í
 Íslenskum	lhfþsf	íslenskur
 fornritum	nhfþ	fornrit
@@ -3336,7 +3212,6 @@ mikið	aa	mikið
 af	aþ	af
 neðanmálsgreinum	nvfþ	neðanmálsgrein
 .	.	.
-
 19	ta	19
 Lengi	aa	lengi
 var	sfg3eþ	vera
@@ -3364,7 +3239,6 @@ fram	aa	fram
 áleitnar	lvfnsf	áleitinn
 efasemdir	nvfn	efasemd
 .	.	.
-
 20	ta	20
 Á	ao	á
 hinn	fakeo	hinn
@@ -3404,7 +3278,6 @@ sbr.	as	sbr.
 2.6.5	ta	2.6.5
 )	)	)
 .	.	.
-
 21	ta	21
 En	c	en
 ályktanir	nvfn	ályktun
@@ -3450,7 +3323,6 @@ en	c	en
 eftir	ao	eftir
 1220	ta	1220
 .	.	.
-
 Þessi	fahfn	þessi
 hugtök	nhfn	hugtak
 eru	sfg3fn	vera
@@ -3460,7 +3332,6 @@ eðlis	nhee	eðli
 og	c	og
 mana	nhen	mana
 .	.	.
-
 Codrington	e	Codrington
 lýsti	sfg3eþ	lýsa
 því	fpheþ	það
@@ -3473,7 +3344,6 @@ væri	svg3eþ	vera
 hlaðinn	lkensf	hlaðinn
 mana	nheþ	mana
 .	.	.
-
 Sæi	svg3eþ	sjá
 maður	nken	maður
 stein	nkeo	steinn
@@ -3516,7 +3386,6 @@ fólgið	ssg	fela
 sér	fpkeþ	sig
 mana	nheo	mana
 .	.	.
-
 Maðurinn	nkeng	maður
 fór	sfg3eþ	fara
 því	fpheþ	það
@@ -3526,7 +3395,6 @@ að	aþ	að
 rótum	nvfþ	rót
 aldintrés	nhee	aldintré
 .	.	.
-
 Bæri	svg3eþ	bera
 tréð	nheng	tré
 góðan	lkeosf	góður
@@ -3561,7 +3429,6 @@ finna	sng	finna
 nýjan	lkeosf	nýr
 stein	nkeo	steinn
 .	.	.
-
 Yfirleitt	aa	yfirleitt
 var	sfg3eþ	vera
 ekki	aa	ekki
@@ -3585,7 +3452,6 @@ Codrington	e	Codrington
 1891:163	ta	1891:163
 )	)	)
 .	.	.
-
 trúarbragðafræðingar	nkfn	trúarbragðafræðingur
 eru	sfg3fn	vera
 ekki	aa	ekki
@@ -3603,7 +3469,6 @@ um	ao	um
 upphaf	nheo	upphaf
 trúarbragða	nhfe	trúarbrögð
 .	.	.
-
 telja	sfg3fn	telja
 sumir	fokfn	sumur
 að	c	að
@@ -3631,7 +3496,6 @@ geta	sng	geta
 ,	,	,
 kunna	sng	kunna
 .	.	.
-
 Aðrir	fokfn	annar
 halda	sfg3fn	halda
 fast	aa	fast
@@ -3657,14 +3521,12 @@ jafna	sng	jafna
 við	ao	við
 töframátt	nkeo	töframáttur
 .	.	.
-
 töfrar	nkfn	töfrar
 eru	sfg3fn	vera
 ætíð	aa	ætíð
 tengdir	sþgkfn	tengja
 athöfn	nveþ	athöfn
 .	.	.
-
 Mana	nhen	mana
 verður	sfg3en	verða
 notað	sþghen	nota
@@ -3684,7 +3546,6 @@ ekki	aa	ekki
 töfrum	nkfþ	töfrar
 sjálfkrafa	aa	sjálfkrafa
 .	.	.
-
 Krafthleðsla	nven	krafthleðsla
 hluta	nkfe	hlutur
 ,	,	,
@@ -3718,7 +3579,6 @@ við	ao	við
 siðræn	lhfosf	siðrænn
 lögmál	nhfo	lögmál
 .	.	.
-
 Hinn	gken	hinn
 guðlegi	lkenvf	guðlegur
 máttur	nken	máttur
@@ -3749,7 +3609,6 @@ trúa	sfg3fn	trúa
 ákveðnum	lkfþsf	ákveðinn
 hlutum	nkfþ	hlutur
 .	.	.
-
 tilbeiðsla	nven	tilbeiðsla
 og	c	og
 lotning	nven	lotning
@@ -3772,7 +3631,6 @@ sambandi	nheþ	samband
 við	ao	við
 mana	nheo	mana
 .	.	.
-
 Guðlegir	lkfnsf	guðlegur
 hlutir	nkfn	hlutur
 eru	sfg3fn	vera
@@ -3789,7 +3647,6 @@ með	ao	með
 að	cn	að
 fara	sng	fara
 .	.	.
-
 Það	fphen	það
 má	sfg3en	mega
 því	aa	því
@@ -3860,7 +3717,6 @@ finna	sng	finna
 í	aþ	í
 trúarhugmyndum	nvfþ	trúarhugmynd
 .	.	.
-
 Máttarvöld	nhfn	máttarvöld
 eru	sfg3fn	vera
 talin	sþghfn	telja
@@ -3920,7 +3776,6 @@ hafa	sfg3fn	hafa
 þessum	fahfþ	þessi
 öflum	nhfþ	afl
 .	.	.
-
 Mana	nhen	mana
 er	sfg3en	vera
 hins	fakee	hinn
@@ -3930,7 +3785,6 @@ og	c	og
 virkar	sfg3en	virka
 blint	lhensf	blindur
 .	.	.
-
 Aðeins	aa	aðeins
 fáum	lkfþsf	fár
 tekst	sfm3en	taka
@@ -3946,7 +3800,6 @@ góðum	lkeþsf	góður
 eða	c	eða
 illum	lkeþsf	illur
 .	.	.
-
 Því	aa	því
 er	sfg3en	vera
 vafasamt	lhensf	vafasamur
@@ -3962,7 +3815,6 @@ hugmyndum	nvfþ	hugmynd
 um	ao	um
 máttarvöldin	nhfog	máttarvöld
 .	.	.
-
 Þó	aa	þó
 verður	sfg3en	verða
 að	cn	að
@@ -4008,7 +3860,6 @@ ekki	aa	ekki
 upphaf	nhen	upphaf
 trúar	nvee	trú
 .	.	.
-
 Bannhelgi	nven	bannhelgi
 ,	,	,
 tabú	nhen	tabú
@@ -4021,7 +3872,6 @@ bannhelgin	nveng	bannhelgi
 ,	,	,
 tabú	nhen	tabú
 .	.	.
-
 tabú	nhen	tabú
 er	sfg3en	vera
 eins	aa	eins
@@ -4035,7 +3885,6 @@ merkir	sfg3en	merkja
 hið	ghen	hinn
 bannaða	lhenvf	bannaður
 .	.	.
-
 Steiner	e	Steiner
 fjallar	sfg3en	fjalla
 ítarlega	aa	ítarlega
@@ -4052,7 +3901,6 @@ o.	as	o.
 á.	as	á.
 )	)	)
 .	.	.
-
 Bannhelgin	nveng	bannhelgi
 fjallar	sfg3en	fjalla
 um	ao	um
@@ -4068,7 +3916,6 @@ snerta	sng	snerta
 né	c	né
 nefna	sng	nefna
 .	.	.
-
 Meðal	ae	meðal
 allra	fovfe	allur
 þjóða	nvfe	þjóð
@@ -4083,7 +3930,6 @@ máttur	nken	máttur
 sé	svg3en	vera
 mismunandi	lkenof	mismunandi
 .	.	.
-
 Í	aþ	í
 þjóðtrú	nveþ	þjóðtrú
 og	c	og
@@ -4104,7 +3950,6 @@ dæmi	nhfo	dæmi
 um	ao	um
 hana	fpveo	hún
 .	.	.
-
 Þegar	c	þegar
 brotið	sþghen	brjóta
 er	sfg3en	vera
@@ -4125,7 +3970,6 @@ eða	c	eða
 jafnvel	aa	jafnvel
 dauða	nkee	dauði
 .	.	.
-
 Brot	nhen	brot
 gegn	aþ	gegn
 bannhelgi	nveþ	bannhelgi
@@ -4142,7 +3986,6 @@ brjóta	sfg3fn	brjóta
 gegn	aþ	gegn
 henni	fpveþ	hún
 .	.	.
-
 Aðrir	fokfn	annar
 geta	sfg3fn	geta
 liðið	ssg	líða
@@ -4177,7 +4020,6 @@ og	c	og
 hvað	fshen	hver
 bannað	lhensf	bannaður
 .	.	.
-
 Samfélög	nhfn	samfélag
 hafa	sfg3fn	hafa
 mörg	lhfosf	margur
@@ -4197,7 +4039,6 @@ samfélaginu	nheþg	samfélag
 í	aþ	í
 heild	nveþ	heild
 .	.	.
-
 Stundum	aa	stundum
 er	sfg3en	vera
 gripið	sþghen	grípa
@@ -4241,7 +4082,6 @@ stafa	sfg3fn	stafa
 af	aþ	af
 því	fpheþ	það
 .	.	.
-
 Þegar	c	þegar
 brotið	nheng	brot
 beinist	sfm3en	beina
@@ -4282,7 +4122,6 @@ heldur	aam	heldur
 samfélaginu	nheþg	samfélag
 öllu	foheþ	allur
 .	.	.
-
 Þar	aa	þar
 af	aa	af
 leiðandi	slg	leiða
@@ -4306,7 +4145,6 @@ snúist	svm3en	snúa
 gegn	aþ	gegn
 honum	fpkeþ	hann
 .	.	.
-
 Bannhelgin	nveng	bannhelgi
 getur	sfg3en	geta
 orðið	ssg	verða
@@ -4333,7 +4171,6 @@ um	ao	um
 alla	foveo	allur
 háttsemi	nveo	háttsemi
 .	.	.
-
 Sums	fokee	sumur
 staðar	nkee	staður
 var	sfg3eþ	vera
@@ -4365,7 +4202,6 @@ leiða	sng	leiða
 til	ae	til
 hnignunar	nvee	hnignun
 .	.	.
-
 Þegar	c	þegar
 sæfarinn	nkeng	sæfari
 mikli	lkenvf	mikill
@@ -4386,7 +4222,6 @@ Hawaiieyja	nvfe-s	Hawaiieyjar
 árið	nheog	ár
 1789	ta	1789
 .	.	.
-
 Þar	aa	þar
 var	sfg3eþ	vera
 honum	fpkeþ	hann
@@ -4410,7 +4245,6 @@ búið	ssg	búa
 á	aþ	á
 Hawaii	e	Hawaii
 .	.	.
-
 Einn	fokeo	einn
 góðan	lkeosf	góður
 veðurdag	nkeo	veðurdagur
@@ -4426,7 +4260,6 @@ hvarf	sfg3eþ	hverfa
 þjóð	nveþ	þjóð
 sinni	feveþ	sinn
 .	.	.
-
 Áður	aa	áður
 en	c	en
 hann	fpken	hann
@@ -4440,7 +4273,6 @@ aftur	aa	aftur
 vængjuðu	lheþsf	vængjaður
 fleyi	nheþ	fley
 .	.	.
-
 Þegar	c	þegar
 svo	aa	svo
 Cook	e	Cook
@@ -4464,7 +4296,6 @@ hylltur	sþgken	hylla
 sem	c	sem
 guð	nken	guð
 .	.	.
-
 Honum	fpkeþ	hann
 voru	sfg3fþ	vera
 færðar	sþgvfn	færa
@@ -4488,7 +4319,6 @@ utan	aa	utan
 um	ao	um
 stytturnar	nvfog	stytta
 .	.	.
-
 En	c	en
 þá	aa	þá
 varð	sfg3eþ	verða
@@ -4498,7 +4328,6 @@ alvarlega	aa	alvarlega
 í	aþ	í
 messunni	nveþg	messa
 .	.	.
-
 Hann	fpken	hann
 skipaði	sfg3eþ	skipa
 mönnum	nkfþ	maður
@@ -4515,7 +4344,6 @@ hafa	sng	hafa
 í	ao	í
 eldinn	nkeog	eldur
 .	.	.
-
 Þetta	fahen	þessi
 olli	sfg3eþ	valda
 miklu	lheþsf	mikill
@@ -4528,7 +4356,6 @@ vanhelgun	nven	vanhelgun
 dvalarstað	nkeþ	dvalarstaður
 guðanna	nkfeg	guð
 .	.	.
-
 Suma	fokfo	sumur
 fór	sfg3eþ	fara
 að	cn	að
@@ -4554,7 +4381,6 @@ bara	aa	bara
 dauðlegur	lkensf	dauðlegur
 maður	nken	maður
 .	.	.
-
 Hann	fpken	hann
 sló	sfg3eþ	slá
 Cook	e	Cook
@@ -4572,7 +4398,6 @@ hvers	fshee	hver
 kyns	nhee	kyn
 var	sfg3eþ	vera
 .	.	.
-
 Enginn	foken	enginn
 guð	nken	guð
 hefði	svg3eþ	hafa
@@ -4581,7 +4406,6 @@ sér	fpkeþ	sig
 undan	aþ	undan
 höggi	nheþ	högg
 .	.	.
-
 Maðurinn	nkeng	maður
 sló	sfg3eþ	slá
 aftur	aa	aftur
@@ -4598,7 +4422,6 @@ o.	as	o.
 á.	as	á.
 )	)	)
 .	.	.
-
 Maðurinn	nkeng	maður
 ,	,	,
 sem	ct	sem
@@ -4620,7 +4443,6 @@ vissulega	aa	vissulega
 hættulega	lveosf	hættulegur
 aðferð	nveo	aðferð
 .	.	.
-
 Hvort	c	hvort
 sem	c	sem
 Cook	e	Cook
@@ -4635,7 +4457,6 @@ ströngustu	lvfove	strangur
 reglur	nvfo	regla
 bannhelginnar	nveeg	bannhelgi
 .	.	.
-
 Hann	fpken	hann
 hafði	sfg3eþ	hafa
 svívirt	ssg	svívirða
@@ -4649,7 +4470,6 @@ og	c	og
 öryggi	nheþ	öryggi
 íbúanna	nkfeg	íbúi
 .	.	.
-
 Og	c	og
 það	fphen	það
 sem	ct	sem
@@ -4668,7 +4488,6 @@ hafði	sfg3eþ	hafa
 sjálfur	fbken	sjálfur
 sett	ssg	setja
 .	.	.
-
 Það	fphen	það
 eitt	lhensf	einn
 hlaut	sfg3eþ	hljóta
@@ -4695,7 +4514,6 @@ brotið	ssg	brjóta
 eigin	lvfoof	eigin
 reglur	nvfo	regla
 .	.	.
-
 Hvað	fshen	hver
 sem	ct	sem
 því	fpheþ	það
@@ -4720,7 +4538,6 @@ væri	svg3eþ	vera
 með	aþ	með
 felldu	lheþsf	felldur
 .	.	.
-
 Það	fphen	það
 fylgir	sfg3en	fylgja
 sögunni	nveþg	saga
@@ -4755,7 +4572,6 @@ og	c	og
 samskipti	nhfo	samskipti
 fólksins	nheeg	fólk
 .	.	.
-
 Hvort	c	hvort
 þar	aa	þar
 hefur	sfg3en	hafa
@@ -4769,7 +4585,6 @@ er	sfg3en	vera
 ekki	aa	ekki
 vitað	sþghen	vita
 .	.	.
-
 Það	fphen	það
 er	sfg3en	vera
 algengt	lhensf	algengur
@@ -4785,7 +4600,6 @@ mæðu	nvee	mæða
 litlu	lheþsf	lítill
 samfélagi	nheþ	samfélag
 .	.	.
-
 Meðal	ae	meðal
 Maori	e	Maori
 á	aþ	á
@@ -4805,7 +4619,6 @@ að	cn	að
 mata	sng	mata
 þá	fpkfo	hann
 .	.	.
-
 Stórhættulegt	lhensf	stórhættulegur
 var	sfg3eþ	vera
 að	cn	að
@@ -4820,7 +4633,6 @@ höfðu	sfg3fþ	hafa
 sjálfir	fbkfn	sjálfur
 snert	ssg	snerta
 .	.	.
-
 Höfðingjar	nkfn	höfðingi
 höfðu	sfg3fþ	hafa
 víða	aa	víða
@@ -4842,7 +4654,6 @@ að	aþ	að
 eigin	lveþof	eigin
 vild	nveþ	vild
 .	.	.
-
 Bannhelgin	nveng	bannhelgi
 var	sfg3eþ	vera
 með	aþ	með
@@ -4878,7 +4689,6 @@ sem	ct	sem
 þeim	fpkfþ	hann
 sýndist	sfm3eþ	sýna
 .	.	.
-
 tabú	nhen	tabú
 var	sfg3eþ	vera
 ekki	aa	ekki
@@ -4907,7 +4717,6 @@ algilt	lhensf	algildur
 og	c	og
 það	fphen	það
 .	.	.
-
 Dæmi	nhen	dæmi
 um	ao	um
 bannhelgi	nveo	bannhelgi
@@ -4919,7 +4728,6 @@ er	sfg3en	vera
 fornritum	nhfþ	fornrit
 Íslendinga	nkfe-s	Íslendingur
 .	.	.
-
 Nægir	sfg3en	nægja
 þar	aa	þar
 að	cn	að
@@ -4953,7 +4761,6 @@ Hrafnkelssaga	nven-s	Hrafnkelssaga
 Eyrbyggja	nven-s	Eyrbyggja
 )	)	)
 .	.	.
-
 Samfélagið	nheng	samfélag
 grípur	sfg3en	grípa
 oft	aa	oft
@@ -4972,7 +4779,6 @@ brotum	nhfþ	brot
 gegn	aþ	gegn
 henni	fpveþ	hún
 .	.	.
-
 Sama	fbheþ	sami
 máli	nheþ	mál
 gegnir	sfg3en	gegna

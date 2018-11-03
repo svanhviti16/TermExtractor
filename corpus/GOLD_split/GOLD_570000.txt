@@ -1,4 +1,3 @@
-
 Ef	c	ef
 það	fphen	það
 stæði	svg3eþ	standa
@@ -26,14 +25,12 @@ hálsliðir	nkfn	hálsliður
 gamalli	lveþsf	gamall
 konu	nveþ	kona
 .	.	.
-
 Er	sfg3en	vera
 maðurinn	nkeng	maður
 ekki	aa	ekki
 að	cn	að
 grínast	snm	grína
 !	!	!
-
 Skyndilega	aa	skyndilega
 líður	sfg3en	líða
 mér	fp1eþ	ég
@@ -46,7 +43,6 @@ að	cn	að
 skilja	sng	skilja
 við	aa	við
 .	.	.
-
 Þetta	fahen	þessi
 var	sfg3eþ	vera
 ekki	aa	ekki
@@ -76,7 +72,6 @@ taldar	sþgvfn	telja
 löggild	lhfnsf	löggildur
 gamalmenni	nhfn	gamalmenni
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 ára	nhfe	ár
@@ -88,7 +83,6 @@ með	ao	með
 gamla	lkfosf	gamall
 hálsliði	nkfo	hálsliður
 .	.	.
-
 Þetta	fahen	þessi
 er	sfg3en	vera
 sennilega	aa	sennilega
@@ -103,7 +97,6 @@ fara	sng	fara
 á	ao	á
 orkídeu-sýningu	nveo	orkídeu-sýning
 .	.	.
-
 Kom	sfg1eþ	koma
 sjálfri	fbveþ	sjálfur
 mér	fp1eþ	ég
@@ -124,7 +117,6 @@ komast	snm	koma
 á	ao	á
 blómasýningu	nveo	blómasýning
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 bara	aa	bara
@@ -133,7 +125,6 @@ eldast	snm	elda
 svona	aa	svona
 hratt	aa	hratt
 .	.	.
-
 Ætti	svg1eþ	eiga
 að	cn	að
 drífa	sng	drífa
@@ -148,7 +139,6 @@ hreinlega	aa	hreinlega
 um	ao	um
 seinan	lkeosf	seinn
 .	.	.
-
 Dr.	as	Dr.
 Dan	e	Dan
 heldur	sfg3en	halda
@@ -160,7 +150,6 @@ Færðu	sfg2en	fá
 oft	aa	oft
 höfuðverki	nkfo	höfuðverkur
 ?	?	?
-
 Já	au	já
 ,	,	,
 reyndar	aa	reyndar
@@ -178,19 +167,16 @@ og	c	og
 er	sfg1en	vera
 ég	fp1en	ég
 .	.	.
-
 Hvað	fshen	hver
 hefurðu	sfg2en	hafa
 haft	ssg	hafa
 höfuðverki	nkfo	höfuðverkur
 lengi	aa	lengi
 ?	?	?
-
 spyr	sfg3en	spyrja
 hann	fpken	hann
 næst	aae	nærri
 .	.	.
-
 Ég	fp1en	ég
 verð	sfg1en	verða
 að	cn	að
@@ -209,7 +195,6 @@ man	sfg1en	muna
 eftir	aþ	eftir
 mér	fp1eþ	ég
 .	.	.
-
 Fer	sfg1en	fara
 aldrei	aa	aldrei
 út	aa	út
@@ -224,7 +209,6 @@ apótek	nheo	apótek
 í	aþ	í
 farteskinu	nheþg	farteski
 .	.	.
-
 Hvað	fshen	hver
 tekurðu	sfg2en	taka
 verkjalyf	nhfo	verkjalyf
@@ -232,12 +216,10 @@ oft	aa	oft
 í	aþ	í
 viku	nveþ	vika
 ?	?	?
-
 spyr	sfg3en	spyrja
 hann	fpken	hann
 þvínæst	aa	þvínátt
 .	.	.
-
 Kannski	aa	kannski
 svona	aa	svona
 þrisvar	aa	þrisvar
@@ -247,18 +229,15 @@ viku	nveþ	vika
 segi	sfg1en	segja
 ég	fp1en	ég
 .	.	.
-
 Finnst	sfm3en	finna
 þér	fp2eþ	þú
 það	fphen	það
 eðlilegt	lhensf	eðlilegur
 ?	?	?
-
 spyr	sfg3en	spyrja
 hann	fpken	hann
 alvarlega	aa	alvarlega
 .	.	.
-
 Ég	fp1en	ég
 yppti	sfg1eþ	yppta
 öxlum	nvfþ	öxl
@@ -266,7 +245,6 @@ eins	aa	eins
 og	c	og
 bjáni	nken	bjáni
 .	.	.
-
 Þar	aa	þar
 fékk	sfg1eþ	fá
 ég	fp1en	ég
@@ -285,7 +263,6 @@ viljað	ssg	vilja
 viðurkenna	sng	viðurkenna
 það	fpheo	það
 .	.	.
-
 Þar	aa	þar
 á	aa	á
 ofan	aa	ofan
@@ -315,7 +292,6 @@ aðstoðar	nvee	aðstoð
 af	aþ	af
 þessu	faheþ	þessi
 .	.	.
-
 Fannst	sfm3eþ	finna
 þessir	fakfn	þessi
 verkir	nkfn	verkur
@@ -328,7 +304,6 @@ orðin	sþgven	verða
 vön	lvensf	vanur
 þeim	fpkfþ	hann
 .	.	.
-
 Svolítið	aa	svolítið
 bara	aa	bara
 eins	aa	eins
@@ -345,7 +320,6 @@ af	aa	af
 og	c	og
 til	aa	til
 .	.	.
-
 Hver	fsken	hver
 hefur	sfg3en	hafa
 sinn	fekeo	sinn
@@ -359,7 +333,6 @@ hafa	sfg3fn	hafa
 dugað	ssg	duga
 mér	fp1eþ	ég
 .	.	.
-
 Í	aa	í
 gegnum	ao	gegnum
 hugann	nkeog	hugi
@@ -377,7 +350,6 @@ um	ao	um
 skaðsemi	nveo	skaðsemi
 verkjatöfluáts	nhee	verkjatöfluát
 .	.	.
-
 Ég	fp1en	ég
 hef	sfg1en	hafa
 einhverra	fokfe	einhver
@@ -391,7 +363,6 @@ upp	aa	upp
 sjálfa	fbveo	sjálfur
 mig	fp1eo	ég
 .	.	.
-
 Hvers	fskee	hver
 skonar	x	skonur
 sjálfsblekking	nven	sjálfsblekking
@@ -399,7 +370,6 @@ er	sfg3en	vera
 þetta	fahen	þessi
 eiginlega	aa	eiginlega
 !	!	!
-
 Ég	fp1en	ég
 sættist	sfm1en	sætta
 á	ao	á
@@ -413,7 +383,6 @@ viku	nveþ	vika
 fimm	tfkfo	fimm
 mánuði	nkfo	mánuður
 .	.	.
-
 Hann	fpken	hann
 heitir	sfg3en	heita
 því	fpheþ	það
@@ -436,7 +405,6 @@ jafnframt	aa	jafnframt
 ótímabær	lhfosf	ótímabær
 hrörnunareinkenni	nhfo	hrörnunareinkenni
 .	.	.
-
 En	c	en
 ábyrgðin	nveng	ábyrgð
 er	sfg3en	vera
@@ -448,7 +416,6 @@ ekki	aa	ekki
 í	aþ	í
 töfluformi	nheþ	töfluform
 .	.	.
-
 Ég	fp1en	ég
 fæ	sfg1en	fá
 æfingar	nvfo	æfing
@@ -460,7 +427,6 @@ gera	sng	gera
 heima	aa	heima
 samviskusamlega	aa	samviskusamlega
 .	.	.
-
 Ég	fp1en	ég
 fæ	sfg1en	fá
 líka	aa	líka
@@ -475,7 +441,6 @@ til	ae	til
 að	cn	að
 laga	sng	laga
 .	.	.
-
 Þegar	c	þegar
 ég	fp1en	ég
 leggst	sfm1en	leggja
@@ -489,7 +454,6 @@ minn	feken	minn
 betri	lkenvm	góður
 helmingur	nken	helmingur
 :	:	:
-
 Gleymdirðu	sfg2eþ	gleyma
 ekki	aa	ekki
 prjónunum	nkfþg	prjónn
@@ -498,12 +462,10 @@ prjónunum	nkfþg	prjónn
 gamla	lvenvf	gamall
 mín	feven	minn
 ?	?	?
-
 Ég	fp1en	ég
 svara	sfg1en	svara
 engu	foheþ	enginn
 .	.	.
-
 Ég	fp1en	ég
 er	sfg1en	vera
 ekki	aa	ekki
@@ -520,7 +482,6 @@ um	ao	um
 gömlu	lkfovf	gamall
 hálsliðina	nkfog	hálsliður
 .	.	.
-
 Ég	fp1en	ég
 hitti	sfg1en	hitta
 Dr.	as	Dr.
@@ -529,7 +490,6 @@ Dan	e	Dan
 í	aþ	í
 viku	nveþ	vika
 .	.	.
-
 Hann	fpken	hann
 hengir	sfg3en	hengja
 lóð	nhfo	lóð
@@ -549,14 +509,12 @@ lengur	aam	lengi
 og	c	og
 lengur	aam	lengi
 .	.	.
-
 Hnykkir	sfg3en	hnykkja
 mér	fp1eþ	ég
 til	aa	til
 og	c	og
 frá	aa	frá
 .	.	.
-
 Núna	aa	núna
 tveimur	tfkfþ	tveir
 mánuðum	nkfþ	mánuður
@@ -582,10 +540,8 @@ hætt	sþgven	hætta
 í	aþ	í
 dópinu	nheþg	dóp
 .	.	.
-
 |	|	|
 steinunnolina@mbl.is	v	steinunnolina@mbl.is
-
 FISKMARKAÐUR	nken-s	Fiskmarkaður
 AUSTURLANDS	nhee-s	Austurland
 Blálanga	nven	blálanga
@@ -593,7 +549,6 @@ Blálanga	nven	blálanga
 35	ta	35
 35..	ta	35..
 .	.	.
-
 :	:	:
 FISKMARKAÐUR	nken-s	Fiskmarkaður
 AUSTURLANDS	nhee-s	Austurland
@@ -647,7 +602,6 @@ Lúða	nven	lúða
 15,841	ta	15,841
 Skarkoli	nken	skarkoli
 ...	...	...
-
 --	--	--
 >	>	>
 FISKMARKAÐUR	nken-s	Fiskmarkaður
@@ -719,7 +673,6 @@ Steinbítur	nken	steinbítur
 71,309	ta	71,309
 Und	e	Und
 .	.	.
-
 ýsa	nven	ýsa
 32	ta	32
 28	ta	28
@@ -805,7 +758,6 @@ Ufsi	nken	ufsi
 140,420	ta	140,420
 Und	e	Und
 .	.	.
-
 ýsa	nven	ýsa
 33	ta	33
 33	ta	33
@@ -814,7 +766,6 @@ Und	e	Und
 4,851	ta	4,851
 Und	e	Und
 .	.	.
-
 þorskur	nken	þorskur
 74	ta	74
 64	ta	64
@@ -853,7 +804,6 @@ Steinbítur	nken	steinbítur
 354,319	ta	354,319
 Und	e	Und
 .	.	.
-
 þorskur	nken	þorskur
 76	ta	76
 76	ta	76
@@ -917,7 +867,6 @@ Ufsi	nken	ufsi
 3,109	ta	3,109
 Und	e	Und
 .	.	.
-
 ýsa	nven	ýsa
 36	ta	36
 36	ta	36
@@ -997,7 +946,6 @@ Ufsi	nken	ufsi
 2,313	ta	2,313
 Und	e	Und
 .	.	.
-
 þorskur	nken	þorskur
 86	ta	86
 86	ta	86
@@ -1036,7 +984,6 @@ Ufsi	nken	ufsi
 11,808	ta	11,808
 Und	e	Und
 .	.	.
-
 þorskur	nken	þorskur
 64	ta	64
 64	ta	64
@@ -1134,7 +1081,6 @@ Ufsi	nken	ufsi
 462	ta	462
 Und	x	und
 .	.	.
-
 ýsa	nven	ýsa
 36	ta	36
 36	ta	36
@@ -1143,7 +1089,6 @@ Und	x	und
 9,252	ta	9,252
 Und	e	Und
 .	.	.
-
 þorskur	nken	þorskur
 62	ta	62
 62	ta	62
@@ -1255,7 +1200,6 @@ Ufsi	nken	ufsi
 181,863	ta	181,863
 Und	e	Und
 .	.	.
-
 ufsi	nken	ufsi
 6	ta	6
 6	ta	6
@@ -1319,7 +1263,6 @@ Ufsi	nken	ufsi
 17,094	ta	17,094
 Und	e	Und
 .	.	.
-
 ýsa	nven	ýsa
 29	ta	29
 29	ta	29
@@ -1359,7 +1302,6 @@ Ufsi	nken	ufsi
 1,755	ta	1,755
 Und	e	Und
 .	.	.
-
 þorskur	nken	þorskur
 63	ta	63
 63	ta	63
@@ -1409,7 +1351,6 @@ Ufsi	nken	ufsi
 22,924	ta	22,924
 Und	e	Und
 .	.	.
-
 þorskur	nken	þorskur
 64	ta	64
 64	ta	64
@@ -1477,7 +1418,6 @@ Ufsi	nken	ufsi
 1,219	ta	1,219
 Und	e	Und
 .	.	.
-
 þorskur	nken	þorskur
 61	ta	61
 61	ta	61
@@ -1593,7 +1533,6 @@ Ufsi	nken	ufsi
 209,336	ta	209,336
 Und	e	Und
 .	.	.
-
 ýsa	nven	ýsa
 51	ta	51
 43	ta	43
@@ -1602,7 +1541,6 @@ Und	e	Und
 7,749	ta	7,749
 Und	e	Und
 .	.	.
-
 þorskur	nken	þorskur
 109	ta	109
 76	ta	76
@@ -1664,7 +1602,6 @@ Ufsi	nken	ufsi
 42,698	ta	42,698
 Und	e	Und
 .	.	.
-
 ýsa	nven	ýsa
 47	ta	47
 47	ta	47
@@ -1673,7 +1610,6 @@ Und	e	Und
 2,350	ta	2,350
 Und	e	Und
 .	.	.
-
 þorskur	nken	þorskur
 80	ta	80
 66	ta	66
@@ -1833,7 +1769,6 @@ Ufsi	nken	ufsi
 203,762	ta	203,762
 Und	e	Und
 .	.	.
-
 þorskur	nken	þorskur
 113	ta	113
 92	ta	92
@@ -1901,7 +1836,6 @@ Steinbítur	nken	steinbítur
 115,560	ta	115,560
 Und	e	Und
 .	.	.
-
 ýsa	nven	ýsa
 36	ta	36
 36	ta	36
@@ -1910,7 +1844,6 @@ Und	e	Und
 9,576	ta	9,576
 Und	e	Und
 .	.	.
-
 þorskur	nken	þorskur
 63	ta	63
 61	ta	61
@@ -2037,7 +1970,6 @@ Ufsi	nken	ufsi
 256,785	ta	256,785
 Und	e	Und
 .	.	.
-
 ýsa	nven	ýsa
 65	ta	65
 31	ta	31
@@ -2046,7 +1978,6 @@ Und	e	Und
 126,031	ta	126,031
 Und	e	Und
 .	.	.
-
 þorskur	nken	þorskur
 99	ta	99
 32	ta	32
@@ -2074,7 +2005,6 @@ Samtals	aa	samtals
 117	ta	117
 198,373	ta	198,373
 23,169,657	ta	23,169,657
-
 Sjómannadagsblað	nhen-s	Sjómannadagsblað
 Austurlands	nhee-s	Austurland
 2004	ta	2004
@@ -2088,7 +2018,6 @@ er	sfg3en	vera
 komið	sþghen	koma
 út	aa	út
 .	.	.
-
 Á	aa	á
 meðal	ae	meðal
 greinahöfunda	nkfe	greinahöfundur
@@ -2112,7 +2041,6 @@ Magna	nkeo-s	Magni
 Kristjánsson	nkeo-s	Kristjánsson
 skipstjóra	nkeo	skipstjóri
 .	.	.
-
 --	--	--
 >	>	>
 Sjómannadagsblað	nhen-s	Sjómannadagsblað
@@ -2121,7 +2049,6 @@ er	sfg3en	vera
 komið	sþghen	koma
 út	aa	út
 .	.	.
-
 Á	aa	á
 meðal	ae	meðal
 greinahöfunda	nkfe	greinahöfundur
@@ -2145,7 +2072,6 @@ Magna	nkeo-s	Magni
 Kristjánsson	nkeo-s	Kristjánsson
 skipstjóra	nkeo	skipstjóri
 .	.	.
-
 Þá	aa	þá
 eru	sfg3fn	vera
 í	aþ	í
@@ -2158,7 +2084,6 @@ og	c	og
 breitt	aa	breitt
 Austurlandi	nheþ-s	Austurland
 .	.	.
-
 Efnisatriði	nhfn	efnisatriði
 eru	sfg3fn	vera
 um	aa	um
@@ -2173,7 +2098,6 @@ annað	foheo	annar
 hundrað	nheo	hundrað
 ljósmyndir	nvfn	ljósmynd
 .	.	.
-
 Ritstjóri	nken	ritstjóri
 Sjómannadagsblaðs	nhee-s	Sjómannadagsblað
 Austurlands	nhee-s	Austurland
@@ -2182,7 +2106,6 @@ Kristján	nken-s	Kristján
 J.	as	J.
 Kristjánsson	nken-s	Kristjánsson
 .	.	.
-
 Á	aþ	á
 höfuðborgarsvæðinu	nheþg	höfuðborgarsvæði
 er	sfg3en	vera
@@ -2221,7 +2144,6 @@ Garðatorgi	nheþ-s	Garðatorg
 í	aþ	í
 Garðabæ	nkeþ-s	Garðabær
 .	.	.
-
 Á	aþ	á
 Akureyri	nveþ-s	Akureyri
 er	sfg3en	vera
@@ -2239,7 +2161,6 @@ Pennanum	nkeþgs	Penni
 á	aþ	á
 Glerártorgi	nheþ-s	Glerártorg
 .	.	.
-
 Einnig	aa	einnig
 er	sfg3en	vera
 hægt	lhensf	hægur
@@ -2253,14 +2174,12 @@ Netinu	nheþgs	Net
 slóðinni	nveþg	slóð
 www.local.is	v	www.local.is
 .	.	.
-
 ALLIR	fokfn	allur
 Blálanga	nven	blálanga
 60	ta	60
 40	ta	40
 55..	ta	55..
 .	.	.
-
 :	:	:
 ALLIR	fokfn	allur
 FISKMARKAÐIR	nkfn	fiskmarkaður
@@ -2313,7 +2232,6 @@ Langa	nven	langa
 70	ta	70
 12,923..	ta	12,923..
 .	.	.
-
 --	--	--
 >	>	>
 ALLIR	fokfn	allur
@@ -2447,7 +2365,6 @@ Ufsi	nken	ufsi
 1,399,992	ta	1,399,992
 Und	e	Und
 .	.	.
-
 ýsa	nven	ýsa
 55	ta	55
 38	ta	38
@@ -2455,7 +2372,6 @@ Und	e	Und
 1,759	ta	1,759
 Und	e	Und
 .	.	.
-
 þorskur	nken	þorskur
 88	ta	88
 58	ta	58
@@ -2536,7 +2452,6 @@ Ufsi	nken	ufsi
 81,601	ta	81,601
 Und	e	Und
 .	.	.
-
 þorskur	nken	þorskur
 64	ta	64
 58	ta	58
@@ -2580,7 +2495,6 @@ Ufsi	nken	ufsi
 994	ta	994
 Und	e	Und
 .	.	.
-
 ýsa	nven	ýsa
 55	ta	55
 55	ta	55
@@ -2589,7 +2503,6 @@ Und	e	Und
 4,125	ta	4,125
 Und	e	Und
 .	.	.
-
 þorskur	nken	þorskur
 75	ta	75
 66	ta	66
@@ -2699,7 +2612,6 @@ Ufsi	nken	ufsi
 1,909	ta	1,909
 Und	e	Und
 .	.	.
-
 ýsa	nven	ýsa
 38	ta	38
 38	ta	38
@@ -2779,7 +2691,6 @@ Ufsi	nken	ufsi
 4,944	ta	4,944
 Und	e	Und
 .	.	.
-
 þorskur	nken	þorskur
 70	ta	70
 70	ta	70
@@ -2853,7 +2764,6 @@ Steinbítur	nken	steinbítur
 9,048	ta	9,048
 Und	e	Und
 .	.	.
-
 ýsa	nven	ýsa
 42	ta	42
 42	ta	42
@@ -2862,7 +2772,6 @@ Und	e	Und
 2,520	ta	2,520
 Und	e	Und
 .	.	.
-
 þorskur	nken	þorskur
 88	ta	88
 88	ta	88
@@ -3029,7 +2938,6 @@ Ufsi	nken	ufsi
 220	ta	220
 Und	e	Und
 .	.	.
-
 þorskur	nken	þorskur
 65	ta	65
 65	ta	65
@@ -3085,7 +2993,6 @@ Ufsi	nken	ufsi
 18,030	ta	18,030
 Und	e	Und
 .	.	.
-
 þorskur	nken	þorskur
 61	ta	61
 58	ta	58
@@ -3153,7 +3060,6 @@ Steinbítur	nken	steinbítur
 3,784	ta	3,784
 Und	e	Und
 .	.	.
-
 þorskur	nken	þorskur
 71	ta	71
 71	ta	71
@@ -3263,7 +3169,6 @@ Ufsi	nken	ufsi
 188,715	ta	188,715
 Und	e	Und
 .	.	.
-
 þorskur	nken	þorskur
 87	ta	87
 77	ta	77
@@ -3326,7 +3231,6 @@ Ufsi	nken	ufsi
 52,872	ta	52,872
 Und	e	Und
 .	.	.
-
 þorskur	nken	þorskur
 82	ta	82
 73	ta	73
@@ -3461,7 +3365,6 @@ Ufsi	nken	ufsi
 211,800	ta	211,800
 Und	e	Und
 .	.	.
-
 þorskur	nken	þorskur
 88	ta	88
 80	ta	80
@@ -3512,7 +3415,6 @@ Steinbítur	nken	steinbítur
 7,500	ta	7,500
 Und	e	Und
 .	.	.
-
 ýsa	nven	ýsa
 41	ta	41
 41	ta	41
@@ -3521,7 +3423,6 @@ Und	e	Und
 8,856	ta	8,856
 Und	e	Und
 .	.	.
-
 þorskur	nken	þorskur
 83	ta	83
 62	ta	62
@@ -3650,7 +3551,6 @@ Ufsi	nken	ufsi
 241,087	ta	241,087
 Und	e	Und
 .	.	.
-
 ýsa	nven	ýsa
 50	ta	50
 42	ta	42
@@ -3659,7 +3559,6 @@ Und	e	Und
 11,428	ta	11,428
 Und	e	Und
 .	.	.
-
 þorskur	nken	þorskur
 81	ta	81
 65	ta	65
@@ -3688,7 +3587,6 @@ Samtals	aa	samtals
 115	ta	115
 121,320	ta	121,320
 13,903,170	ta	13,903,170
-
 Koddaslagur	nken	koddaslagur
 :	:	:
 Hátíðarhöld	nhfn	hátíðarhald
@@ -3708,7 +3606,6 @@ og	c	og
 fleiri	lvfþvm	margur
 keppnisgreinum	nvfþ	keppnisgrein
 .	.	.
-
 Á	aþ	á
 myndinni	nveþg	mynd
 má	sfg3en	mega
@@ -3730,7 +3627,6 @@ hann	fpkeo	hann
 niður	aa	niður
 í	aa	í
 ...	...	...
-
 --	--	--
 >	>	>
 Hátíðarhöld	nhfn	hátíðarhald
@@ -3749,7 +3645,6 @@ og	c	og
 fleiri	lvfþvm	margur
 keppnisgreinum	nvfþ	keppnisgrein
 .	.	.
-
 Á	aþ	á
 myndinni	nveþg	mynd
 má	sfg3en	mega
@@ -3772,13 +3667,10 @@ niður	aa	niður
 í	aþ	í
 koddaslagnum	nkeþg	koddaslagur
 .	.	.
-
 Húsavík	nveþ-s	Húsavík
 .	.	.
-
 Morgunblaðið	nhengs	Morgunblað
 .	.	.
-
 Meðalþyngd	nven	meðalþyngd
 þorsksins	nkeeg	þorskur
 minnkar	sfg3en	minnka
@@ -3806,7 +3698,6 @@ breyttri	lveþsf	breyttur
 göngu	nveþ	ganga
 loðnunnar	nveeg	loðna
 .	.	.
-
 Því	aa	því
 er	sfg3en	vera
 lagt	sþghen	leggja
@@ -3820,7 +3711,6 @@ sókn	nveþ	sókn
 þann	fakeo	sá
 gula	lkeovf	gulur
 .	.	.
-
 --	--	--
 >	>	>
 ÞORSKURINN	nkeng	þorskur
@@ -3844,7 +3734,6 @@ breyttri	lveþsf	breyttur
 göngu	nveþ	ganga
 loðnunnar	nveeg	loðna
 .	.	.
-
 Því	aa	því
 er	sfg3en	vera
 lagt	sþghen	leggja
@@ -3858,7 +3747,6 @@ sókn	nveþ	sókn
 þann	fakeo	sá
 gula	lkeovf	gulur
 .	.	.
-
 Stofnar	nkfn	stofn
 ýsu	nvee	ýsa
 og	c	og
@@ -3887,7 +3775,6 @@ taldir	sþgkfn	telja
 í	aþ	í
 lágmarki	nheþ	lágmark
 .	.	.
-
 Hér	aa	hér
 fara	sfg3fn	fara
 á	aa	á
@@ -3921,7 +3808,6 @@ verið	ssg	vera
 ráð	nhen	ráð
 fyrir	aa	fyrir
 .	.	.
-
 Minni	lvenvm	lítill
 meðalþyngd	nven	meðalþyngd
 þorsks	nkee	þorskur
@@ -3934,7 +3820,6 @@ eða	c	eða
 stofnstærð	nveþ	stofnstærð
 loðnu	nvee	loðna
 .	.	.
-
 Undanfarinn	lkeosf	undanfarinn
 áratug	nkeo	áratugur
 hefur	sfg3en	hafa
@@ -3963,7 +3848,6 @@ að	aþ	að
 þessu	faheþ	þessi
 sinni	nheþ	sinn
 .	.	.
-
 Í	aþ	í
 núverandi	lveþof	núverandi
 úttekt	nveþ	úttekt
@@ -3983,7 +3867,6 @@ stofnmælingu	nveþ	stofnmæling
 í	aþ	í
 mars	nkeþ	mars
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 núverandi	lveþof	núverandi
 úttekt	nveþ	úttekt
@@ -4009,7 +3892,6 @@ um	aa	um
 þús.	as	þús.
 tonn	nhfn	tonn
 .	.	.
-
 Í	aþ	í
 úttektinni	nveþg	úttekt
 árið	nheog	ár
@@ -4025,7 +3907,6 @@ upphafi	nheþ	upphaf
 þús.	as	þús.
 tonn	nhfn	tonn
 .	.	.
-
 Meginskýring	nven	meginskýring
 á	aþ	á
 lægra	lheþvm	lágur
@@ -4046,7 +3927,6 @@ var	sfg3eþ	vera
 ráð	nhen	ráð
 fyrir	aa	fyrir
 .	.	.
-
 Þessi	faven	þessi
 lækkun	nven	lækkun
 á	aþ	á
@@ -4069,7 +3949,6 @@ hærri	lkenvm	hár
 en	c	en
 ella	aa	ella
 .	.	.
-
 Á	aþ	á
 undanförnum	lhfþsf	undanfarinn
 árum	nhfþ	ár
@@ -4092,7 +3971,6 @@ að	c	að
 með	aþ	með
 aflareglu	nveþ	aflaregla
 .	.	.
-
 Með	aþ	með
 aflareglu	nveþ	aflaregla
 var	sfg3eþ	vera
@@ -4104,7 +3982,6 @@ og	c	og
 meðalveiðidánartölu	nveþ	meðalveiðidánartala
 0,4	ta	0,4
 .	.	.
-
 Árið	nheog	ár
 2003	ta	2003
 var	sfg3eþ	vera
@@ -4114,7 +3991,6 @@ og	c	og
 meðalveiðidánartala	nven	meðalveiðidánartala
 0,7	ta	0,7
 .	.	.
-
 Á	aþ	á
 undanförnum	lhfþsf	undanfarinn
 þremur	tfhfþ	þrír
@@ -4136,7 +4012,6 @@ meginorsök	nven	meginorsök
 háa	lheevf	hár
 veiðihlutfalls	nhee	veiðihlutfall
 .	.	.
-
 hlutfall	nhen	hlutfall
 ungs	lkeesf	ungur
 fisks	nkee	fiskur
@@ -4150,7 +4025,6 @@ til	ae	til
 hækkunar	nvee	hækkun
 meðalveiðidánartölu	nvee	meðalveiðidánartala
 .	.	.
-
 Árgangar	nkfn	árgangur
 í	aþ	í
 tæpu	lheþsf	tæpur
@@ -4181,7 +4055,6 @@ metinn	sþgken	meta
 mjög	aa	mjög
 lélegur	lkensf	lélegur
 .	.	.
-
 Samkvæmt	aþ	samkvæmt
 núverandi	lveþof	núverandi
 aflareglu	nveþ	aflaregla
@@ -4193,7 +4066,6 @@ tonn	nhfn	tonn
 fiskveiðiárið	nheog	fiskveiðiár
 2004/2005	ta	2004/2005
 .	.	.
-
 Áætlað	sþghen	áætla
 er	sfg3en	vera
 að	c	að
@@ -4229,7 +4101,6 @@ tonn	nhfo	tonn
 árið	nheog	ár
 2005	ta	2005
 .	.	.
-
 Nefnd	nven	nefnd
 sem	ct	sem
 sjávarútvegsráðherra	nken	sjávarútvegsráðherra
@@ -4248,7 +4119,6 @@ skýrslu	nveþ	skýrsla
 apríl	nkeþ	apríl
 2004	ta	2004
 .	.	.
-
 Meginniðurstaða	nven	meginniðurstaða
 nefndarinnar	nveeg	nefnd
 er	sfg3en	vera
@@ -4279,7 +4149,6 @@ tíma	nkee	tími
 er	sfg3en	vera
 litið	sþghen	líta
 .	.	.
-
 Hafrannsóknastofnunin	nvengs	Hafrannsóknastofnunin
 telur	sfg3en	telja
 brýnt	lheosf	brýnn
@@ -4298,7 +4167,6 @@ grundvelli	nkeþ	grundvöllur
 þessara	favfe	þessi
 tillagna	nvfe	tillaga
 .	.	.
-
 Í	aþ	í
 ljósi	nheþ	ljós
 lítils	lheesf	lítill
@@ -4327,7 +4195,6 @@ verði	svg3en	verða
 í	aþ	í
 gildi	nheþ	gildi
 .	.	.
-
 Líkur	nvfn	líkur
 eru	sfg3fn	vera
 á	aþ	á
@@ -4339,7 +4206,6 @@ vaxandi	slg	vaxa
 næstu	lhfove	næstur
 árin	nhfog	ár
 .	.	.
-
 Að	aþ	að
 teknu	lheþsf	tekinn
 tilliti	nheþ	tillit
@@ -4372,7 +4238,6 @@ samkvæmt	aþ	samkvæmt
 núgildandi	lveþof	núgildandi
 aflareglu	nveþ	aflaregla
 .	.	.
-
 Þannig	aa	þannig
 aukast	sfm3fn	auka
 líkur	nvfn	líkur
@@ -4397,7 +4262,6 @@ fisks	nkee	fiskur
 verði	svg3en	verða
 hærra	lhenvm	hár
 .	.	.
-
 Aldraðir	lkfnsf	aldraður
 sjómenn	nkfn	sjómaður
 heiðraðir	sþgkfn	heiðra
@@ -4411,7 +4275,6 @@ Reykjavík	nveþ-s	Reykjavík
 á	ao	á
 sjómannadaginn	nkeog	sjómannadagur
 .	.	.
-
 Að	aþ	að
 vanda	nkeþ	vandi
 heiðraði	sfg3eþ	heiðra
@@ -4422,7 +4285,6 @@ fyrir	ao	fyrir
 störf	nhfo	starf
 þeirra	fpkfe	hann
 .	.	.
-
 Að	aþ	að
 þessu	faheþ	þessi
 sinni	nheþ	sinn
@@ -4431,10 +4293,8 @@ heiðraðir	sþgkfn	heiðra
 fimm	tfkfn	fimm
 sjómenn	nkfn	sjómaður
 .	.	.
-
 Þeir	fpkfn	hann
 f.v.	as	f.v.
-
 --	--	--
 >	>	>
 HÁTÍÐ	nven-s	Hátíð
@@ -4446,7 +4306,6 @@ Reykjavík	nveþ-s	Reykjavík
 á	ao	á
 sjómannadaginn	nkeog	sjómannadagur
 .	.	.
-
 Að	aþ	að
 vanda	nkeþ	vandi
 heiðraði	sfg3eþ	heiðra
@@ -4457,7 +4316,6 @@ fyrir	ao	fyrir
 störf	nhfo	starf
 þeirra	fpkfe	hann
 .	.	.
-
 Að	aþ	að
 þessu	faheþ	þessi
 sinni	nheþ	sinn
@@ -4466,7 +4324,6 @@ heiðraðir	sþgkfn	heiðra
 fimm	tfkfn	fimm
 sjómenn	nkfn	sjómaður
 .	.	.
-
 Þeir	fpkfn	hann
 voru	sfg3fþ	vera
 f.v.	as	f.v.
@@ -4496,7 +4353,6 @@ gjaldkeri	nken	gjaldkeri
 Sjómannafélags	nhee-s	Sjómannafélag
 Reykjavíkur	nvee-s	Reykjavík
 .	.	.
-
 Arthur	nken-s	Arthur
 kjörinn	sþgken	kjósa
 formaður	nken	formaður
@@ -4537,7 +4393,6 @@ Lissabon	e	Lissabon
 í	aþ	í
 Portúgal	nheþ-s	Portúgal
 .	.	.
-
 --	--	--
 >	>	>
 Arthur	nken-s	Arthur
@@ -4576,7 +4431,6 @@ Lissabon	e	Lissabon
 í	aþ	í
 Portúgal	nheþ-s	Portúgal
 .	.	.
-
 Um	aa	um
 150	ta	150
 aðilar	nkfn	aðili
@@ -4607,7 +4461,6 @@ stjórn	nveþ	stjórn
 frá	aþ	frá
 upphafi	nheþ	upphaf
 .	.	.
-
 Fulltrúar	nkfn	fulltrúi
 LS	as	LS
 í	aþ	í
@@ -4627,7 +4480,6 @@ Friðriksdóttir	nven-s	Friðriksdóttir
 skrifstofustjóri	nken	skrifstofustjóri
 LS	as	LS
 .	.	.
-
 var	sfg3eþ	vera
 kjörinn	sþgken	kjósa
 formaður	nken	formaður
@@ -4648,7 +4500,6 @@ kona	nven	kona
 formennskunni	nveþg	formennska
 samtímis	aa	samtímis
 .	.	.
-
 Á	aþ	á
 vef	nkeþ	vefur
 LS	as	LS
@@ -4682,7 +4533,6 @@ hafsins	nheeg	haf
 og	c	og
 fiskveiða	nvfe	fiskveiði
 .	.	.
-
 Samtökin	nhfng	samtök
 eiga	sfg3fn	eiga
 nú	aa	nú
@@ -4706,7 +4556,6 @@ fiskveiðar	nvfo	fiskveiði
 undirnefnd	nveþ	undirnefnd
 hans	fpkee	hann
 .	.	.
-
 Eins	aa	eins
 og	c	og
 alkunna	nven	alkunna
@@ -4733,7 +4582,6 @@ hámæli	nheo	hámæli
 víðsfjarri	aþ	víðsfjarri
 raunveruleikanum	nkeþg	raunveruleiki
 .	.	.
-
 Fiskimenn	nkfn	fiskimaður
 ,	,	,
 ekki	aa	ekki
@@ -4767,7 +4615,6 @@ fiskveiðar	nvfo	fiskveiði
 -	-	-
 hverskonar	lvfoof	hverskonar
 .	.	.
-
 Á	aþ	á
 þessu	faheþ	þessi
 eru	sfg3fn	vera
@@ -4787,7 +4634,6 @@ vera	sng	vera
 á	aþ	á
 varðbergi	nheþ	varðberg
 .	.	.
-
 Þá	aa	þá
 er	sfg3en	vera
 ekki	aa	ekki
@@ -4807,7 +4653,6 @@ aðra	fokfo	annar
 tengda	lkfosf	tengdur
 fiskveiðunum	nvfþg	fiskveiði
 .	.	.
-
 Má	sfg3en	mega
 þar	aa	þar
 nefna	sng	nefna
@@ -4826,7 +4671,6 @@ segir	sfg3en	segja
 á	aþ	á
 LS	as	LS
 .	.	.
-
 FISKMARKAÐUR	nken-s	Fiskmarkaður
 AUSTURLANDS	nhee-s	Austurland
 Hlýri	nken	hlýri
@@ -4834,7 +4678,6 @@ Hlýri	nken	hlýri
 74	ta	74
 74..	ta	74..
 .	.	.
-
 :	:	:
 FISKMARKAÐUR	nken-s	Fiskmarkaður
 AUSTURLANDS	nhee-s	Austurland
@@ -4876,7 +4719,6 @@ Ufsi	nken	ufsi
 30	ta	30
 Und	e	Und
 .	.	.
-
 ýsa	nven	ýsa
 34	ta	34
 34	ta	34
@@ -4885,7 +4727,6 @@ Und	e	Und
 1,428	ta	1,428
 Und	e	Und
 .	.	.
-
 --	--	--
 >	>	>
 FISKMARKAÐUR	nken-s	Fiskmarkaður
@@ -4927,7 +4768,6 @@ Ufsi	nken	ufsi
 30	ta	30
 Und	e	Und
 .	.	.
-
 ýsa	nven	ýsa
 34	ta	34
 34	ta	34
@@ -4936,7 +4776,6 @@ Und	e	Und
 1,428	ta	1,428
 Und	e	Und
 .	.	.
-
 þorskur	nken	þorskur
 73	ta	73
 71	ta	71
@@ -4987,7 +4826,6 @@ Ufsi	nken	ufsi
 1,352	ta	1,352
 Und	e	Und
 .	.	.
-
 ýsa	nven	ýsa
 34	ta	34
 34	ta	34
@@ -4996,5 +4834,4 @@ Und	e	Und
 646	ta	646
 Und	e	Und
 .	.	.
-
 þorskur	nken	þorskur
