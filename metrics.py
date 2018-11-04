@@ -21,4 +21,7 @@ with open(test_path) as test_file:
         test.add(term)
 
 print("File to test: " + test_path)
+print("Precision: " + str(precision(reference, test)))
+print("Recall: " + str(recall(reference, test)))
 print("F-measure: " + str(f_measure(reference, test, alpha=0.5)))
+

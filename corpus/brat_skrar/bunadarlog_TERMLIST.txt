@@ -1,115 +1,122 @@
+Almenn ákvæði
+Alþingi
+Bændasamtök Íslands
+Búfjárrækt
+Búfjársýning
+Búfé
+Búgreinafélag
+Búgreinasamband
+Búnaðarfélag
+Búnaðarlög
+Búnaðarsamband
+Búnaðarþing
+Erfðanefnd landbúnaðarins
+Fagráð
+Framkvæmdanefnd búvörusamninga
+Framleiðnisjóður landbúnaðarins
+Frumvarp
+Hafrannsóknastofnun
+Hagstofa Íslands
+Jarðabætur
+Kynbótaverkefni
+Landbúnaðarháskóli Íslands
+Landbúnaðarráðherra
+Landgreiðsla
+Landsráðunautur
+Leiðbeiningarmiðstöð
+Leiðbeiningarþjónusta
+Matvælastofnun
+Náttúrufræðistofnun Íslands
+Ræktunarstöð
+Ríkissjóður
+Skógræktin
+Skýrsluhald
+Sláturleyfishafi
+Stofnverndarsjóður
 alifugl
-alþingi
 atvinnugreinaflokkun
 atvinnugreinanúmer
 atvinnuuppbygging
-bændasamtök
+atvinnuvega- og nýsköpunarráðuneyti
 búfjárafurð
 búfjárframleiðsla
-búfjárins
 búfjármat
 búfjárrækt
 búfjárstofn
-búfjársýning
 búfjártegund
 búfræði
 búfé
 búgrein
-búgreina
 búgreinafélag
-búgreinasamband
 búnaðarfélag
-búnaðarlag
 búnaðarsamband
-búnaðarþing
-búrekstri
 búrekstur
 búskaparháttur
-búskapi
 búskapur
 búvara
 búvísindi
 búvöruframleiðsla
-búvörulagi
+búvörulög
 einangrunarstöð
 eldisfiskur
 erfðaauðlind
 erfðaefni
-erfðanefnd
+erfðanefnd landbúnaðarins
 fagráð
-fagráða
 fagstjóri
 fagsvið
-fagsviði
 forsetaúrskurður
-framkvæmdanefnd
+framkvæmdanefnd búvörusamninga
 framleiðni
-framleiðnisjóður
-frumvarp
 fræðslumál
-fóðuröflunar
+fóðuröflun
 garðyrkja
 garðyrkjubýli
 geit
-hafrannsóknastofnun
-hagstofa
 hross
 héraðsráðunautur
-jarðabæta
-jarðabóta
-jarðeigna
+jarðabætur
+jarðeign
 kanína
-kynbóta
 kynbótadómur
 kynbótagripur
-kynbótamati
+kynbótamat
 kynbótaskýrsluhald
-kynbótastarfi
-kynbótaverkefni
-landbæta
-landbúnaðarháskóli
+kynbótastarf
+landbætur
 landbúnaðarnot
 landbúnaðarráðherra
 landbúnaður
-landgreiðsla
-landgreiðsln
+landgreiðslur
 landgæði
 landnýting
-landsráðunauti
-landsráðunautur
-landssamband
+landssamband búgreinafélaga
 leiðbeiningarmiðstöð
 leiðbeiningarþjónusta
-leiðbeiningarþjónustur
 loðdýr
-líffræðilegur
+líffræðileg fjölbreytni
+lífræn búvöruframleiðsla
 lífrænn
-lífrænni
-lífrænnur
+lífræn framleiðsla
 lögbýli
-matvælastofnun
 málefnasvið
 nautgriparækt
-nautgripur
-náttúrufræðistofnun
+nautgripir
 nýliðun
-rekstraraðilur
+rekstraraðili
 rekstrarbygging
-ráðunauti
 ráðunautur
 ræktunarmarkmið
 ræktunarstarf
 ræktunarstöð
-ríkissjóður
 sauðfjárrækt
 sauðfé
-sjálfbæri
-sjálfbærur
-skógrækt
-skýrsluhald
+sjálfbær landnýting
+sjálfbær þróun
+sjálfbær
+sjávarútvegs- og landbúnaðarráðherra
 skýrsluhaldshugbúnaður
 slátrun
-sláturleyfishöfi
 stofn
 stofnræktun
 stofnverndarbú
@@ -120,7 +127,7 @@ uppeldisstöð
 virðisaukaskattsnúmer
 vistkerfi
 vistrænn
+þróunarframlag
 úrvalskynbótagripur
 útvalsathugun
-þróunarframlag
-þróunarstarfi
+þróunarstarf

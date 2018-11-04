@@ -14,7 +14,7 @@ with open("stopwords/stopwords_is_extra.txt", "r") as stopwords_file:
 # Creating list of punctuation
 punct_list = list(punctuation)
 # adding Icelandic quotation marks and other punctuation
-punct_list.extend(("„", "“", "…", "«"))
+punct_list.extend(("„", "“", "…", "«", "–"))
 
 # Returns a list where stopwords, punctuation and digits have been removed
 def exclude_stoptokens(corpus_file):

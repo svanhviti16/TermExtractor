@@ -7,8 +7,17 @@ try:
 except:
     print("Please provide a corpus file")
 
+
+# checks word for stopwords, punctuation, numbers and length (don't want words shorter than 5 chars)
+def isValid(word):
+    if len(word) > 4 and word not in stopwords_is and word not in punct_list and not re.match(r"[0-9]+|[0-9]+\/[0-9]+|[0-9]+\.|[A-Za-zÞÆÖÐÚÁÍÓÉþæöðúáíóé]+\.", word):
+        return True
+
+
 # will hold a list of tuples containing the corpus data
 working_words = []
+# words to search in, excluding stopwords
+working_no_stoptokens = []
 # the list of possible termlist candidates
 candidates = []
 
@@ -36,33 +45,33 @@ with open(file_path) as corp_file:
     for line in lines:
         if line.strip():
             if len(line.split()) is 3:
-                # get tuples with all the info, excluding stoptokens
-                #if line[2] not in stopwords_is and line[2] not in punct_list and not re.match(r"[0-9]+|[0-9]+\/[0-9]+|[0-9]+\.|[A-Za-zÞÆÖÐÚÁÍÓÉþæöðúáíóé]+\.", line[2]):
+                # get tuples with all the info
+                lemma = line.split()[2]
                 working_words.append(tuple(line.split()))
-
+                if isValid(lemma):
+                    working_no_stoptokens.append(tuple(line.split()))
+                    
 # indexing the tuples
 for idx, (token, tag, lemma) in enumerate(working_words):
     # looking for nouns
     if re.match(noun_any_case, tag):
-        # looking for a noun followed by a noun in the genetive (ex. Bændasamtök Íslands)
-        if re.match(noun_genetive, working_words[idx+1][1]):
-            # checking one further for another genetive 
-            if re.match(noun_genetive, working_words[idx+2][1]):
-                #print(working_words[idx][2], working_words[idx+1][0], working_words[idx+2][0])
-                candidates.append(" ".join((working_words[idx][2], working_words[idx+1][0], working_words[idx+2][0])))
-            else: 
-                #print(working_words[idx][2], working_words[idx+1][0])
-                candidates.append(" ".join((working_words[idx][2], working_words[idx+1][0])))
-
+        if(idx + 1 < len(lemma)):
+            # looking for a noun followed by a noun in the genetive (ex. Bændasamtök Íslands)
+            if re.match(noun_genetive, working_words[idx+1][1]):
+                # checking one further for another genetive 
+                if(idx + 2 < len(working_words)):
+                    if re.match(noun_genetive, working_words[idx+2][1]):
+                        candidates.append(" ".join((working_words[idx][2], working_words[idx+1][0], working_words[idx+2][0])))
+                else: 
+                    candidates.append(" ".join((working_words[idx][2], working_words[idx+1][0])))
         else:
-            #print(working_words[idx][2])
             candidates.append(working_words[idx][2])
     # looking for ADJ + NOUN phrases
     if re.match(adjective_any_case, tag):
         # TODO: check if same case as ADJ
         if re.match(noun_genetive, working_words[idx+1][1]):
-            #print(working_words[idx][0], working_words[idx+1][0], working_words[idx+2][0])
-            candidates.append(" ".join((working_words[idx][0], working_words[idx+1][0], working_words[idx+2][0])))
+            candidates.append(" ".join((working_words[idx][0], working_words[idx+1][0])))
+
 
 def percentage(word):
     return (candidates.count(word) / len(candidates) * 100)
@@ -78,3 +87,5 @@ new_set = set()
 new_set.update(new_list)
 for term in new_set:
     print(term)
+
+

@@ -18,6 +18,10 @@ java -classpath ../IceNLP/dist/IceNLPCore.jar is.iclt.icenlp.runner.RunLemmald -
 # combining files to fit Gullstaðall format
 awk '{print $1 " " $3 " " $2}' output/lemmatized.txt > output/lemmatized_clean.txt
 
+
+
+
+
 # PoS tagging the original file sentence by sentence using IceTagger
 # 2 2 stands for input with one sentence per line and output with one sentence per line
 # TODO: try with raw text

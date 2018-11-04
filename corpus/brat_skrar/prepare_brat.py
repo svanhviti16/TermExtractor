@@ -3,7 +3,7 @@ import sys
 # accepts a .txt file in the Gullstaðall format and returns 
 # a simple alphabetically sorted termlist from the lemmas
 
-
+# ef í listanum eru
 
 if len(sys.argv) < 2 or not sys.argv[1].endswith(".txt"):
     print("Usage: python3 prepare_brat <filename.txt>")

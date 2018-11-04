@@ -1,13 +1,32 @@
+Afurðastöð
+Alþjóðaviðskiptastofnun
+Alþýðusamband Íslands
+Bandalags starfsmanna ríkis og bæja
+Bændasamtök Íslands
+Búvörulög
+Búvara
+Framkvæmdanefnd búvörusamninga
+Framleiðandi
+Félagi atvinnurekenda
+Garðyrkjubýli
+Greiðslumark
+Gæðastýrð sauðfjárframleiðsla
+Heildargreiðslumark
+Landgræðsla ríkisins
+Landssamband kúabænda
+Landssamtök sauðfjárbænda
+Lögbýli
+Matvælastofnun
+Skógræktin
+Verðlagsnefnd
+Verðlagsnefnd búvara
+Verðlagsár
+Vetrarfóðraðar kindur
 afurðastöð
 alifiskur
 alifugl
-alþjóðaviðskiptastofnun
-alþýðusamband
 atvinnugreinaflokkun
 atvinnugreinanúmer
-atvinnuvegasjúklingur
-bandalag
-bændasamtök
 búfjárbeit
 búfjárhald
 búfé
@@ -16,68 +35,52 @@ búgreinafélag
 búgreinasamtök
 bústofn
 búvara
-búvöruframleiðandi
+búvöruframleiðendi
 búvöruframleiðsla
-búvörulag
+búvara
 búvörusamningur
 fallþungi
-framkvæmdanefnd
-framleiðandi
-félagi
-félagsbúi
-garðyrkjuafurð
-garðyrkjubýli
+framkvæmdanefnd búvörusamninga
+félagsbú
+garðyrkjuafurðir
 garðyrkjustöð
 gemlingur
 greiðslumark
 greiðslumarkshafi
 gróðrarstöð
-gæðastýrða
-gæðastýrður
-hagþjónustur
-heildargreiðslumark
-heimaslátra
+gæðastýrð sauðfjárframleiðsla
+hagþjónusta landbúnaðarins
+heimaslátraður
 hlunnindi
-hrossi
+hross
 jarðalag
 jarðareigandi
 jörð
 landbótaáætlun
 landbúnaðarhráefni
-landbúnaðarvara
 landbúnaður
-landgræðsla
-landssamband
-landssamtök
+landbúnaðarvara
 loðdýr
 líflamb
 lögbýli
-matvælastofnun
-mjólkurafurðir
-nautgripakjöt
-nautgripakjöti
-nautgriparæktar
+mjólkurafurð
 nautgripur
+nautgripakjöt
+nautgriparækt
 nytjajurt
 ríkisbú
-sauðfjárafurð
+sauðfjárafurðir
 sauðfjárbóndi
-sauðfjárbúi
+sauðfjárbú
 sauðfjárrækt
-sauðfjárræktar
 sauðfjársjúkdómur
 sauðfé
-sjávarútvegsstyrkur
 skrautjurt
-skógræktari
 sláturdýr
-svína
-takmarka
+svín
 verðlagsnefnd
-verðlagsár
-vetrarfóðraður
-vetrarfóðruður
+vetrarfóðuð kind
 ylrækt
-álagsgreiðsla
+Álagsgreiðsla
 ærgildi
 útirækt

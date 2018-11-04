@@ -1,6 +1,4 @@
 Búvörulög
-sjávarútvegs-
-atvinnuvega-
 búvöruframleiðslu
 búvara
 búvara
@@ -34,7 +32,7 @@ skrautjurtir
 Greiðslumark
 ærgilda
 lögbýli
-Gæðastýrð
+Gæðastýrð sauðfjárframleiðsla
 Heildargreiðslumark
 ærgilda
 greiðslumarki
@@ -43,28 +41,28 @@ Lögbýli
 jörð
 jarðalaga
 Verðlagsár
-Vetrarfóðraðar
+Vetrarfóðraðar kindur
 búfjárhald
 landbúnaðarvara
-Bændasamtök
+Bændasamtök Íslands
 búvara
-Bændasamtaka
+Bændasamtaka Íslands
 búvara
-Bændasamtök
+Bændasamtök Íslands
 búvöru
-Bændasamtökum
+Bændasamtökum Íslands
 búvöruframleiðenda
-Bændasamtaka
-Bændasamtök
+Bændasamtaka Íslands
+Bændasamtök Íslands
 búvara
-Bændasamtökum
+Bændasamtökum Íslands
 búvörum
-Verðlagsnefnd
+Verðlagsnefnd búvara
 búvöruframleiðenda
 búvara
-Bandalags
-Alþýðusambands
-Bændasamtaka
+Bandalags starfsmanna ríkis og bæja
+Alþýðusambands Íslands
+Bændasamtaka Íslands
 búgreinasamtaka
 búgreinafélög
 afurðastöðva
@@ -77,7 +75,7 @@ sauðfé
 greiðslumark
 lögbýli
 sauðfjár
-vetrarfóðruðum
+vetrarfóðruðum kindum
 sauðfjárrækt
 bústofni
 lögbýli
@@ -91,55 +89,55 @@ afurðastöðvum
 afurðastöðva
 landbúnaðarins
 Verðlagsnefnd
-Bændasamtaka
+Bændasamtaka Íslands
 afurðastöð
 Verðlagsnefnd
 nautgripakjöti
-Landssambandi
+Landssambandi kúabænda
 nautgripakjöts
 verðlagsnefndar
 Verðlagsnefnd
 sauðfjárafurða
 sauðfjárbúi
 verðlagsnefndar
-Landssamtökum
+Landssamtökum sauðfjárbænda
 sauðfjárafurða
 búvara
-Bændasamtökum
+Bændasamtökum Íslands
 búvöruframleiðenda
-hagþjónustu
+hagþjónustu landbúnaðarins
 Afurðastöð
 atvinnugreinanúmer
 atvinnugreinaflokkun
 búvörusamninga
-Framkvæmdanefnd
+Framkvæmdanefnd búvörusamninga
 Matvælastofnun
 búfjárbeit
 heimaslátruðu
 landbótaáætlun
-Gæðastýrð
+Gæðastýrð sauðfjárframleiðsla
 greiðslumarks
 gemlinga
 sauðfjársjúkdóma
 líflömbum
 fallþunga
-Framkvæmdanefnd
+Framkvæmdanefnd búvörusamninga
 sauðfjárafurða
 nautgriparæktar
 greiðslumarkshafa
-framkvæmdanefndar
+framkvæmdanefndar búvörusamninga
 garðyrkjuafurða
 landbúnaðarvara
 Alþjóðaviðskiptastofnunarinnar
 takmarki
-hagþjónustu
+hagþjónustu landbúnaðarins
 mjólkurafurðir
 Matvælastofnunar
 jarðareiganda
 Skógræktarinnar
-Landgræðslu
-gæðastýrða
+Landgræðslu ríkisins
+gæðastýrða sauðfjárframleiðslu
 sláturdýra
 afurðastöðvum
 landbúnaðarhráefni
-Félagi
+Félagi atvinnurekenda

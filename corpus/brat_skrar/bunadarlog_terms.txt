@@ -2,9 +2,11 @@ Frumvarp
 Búnaðarlög
 Alþingi
 málefnasvið
+sjávarútvegs- og landbúnaðarráðherra
+atvinnuvega- og nýsköpunarráðuneyti
 forsetaúrskurði
 Jarðabætur
-Almenn
+Almenn ákvæði
 Búfjárrækt
 búrekstri
 landbætur
@@ -23,7 +25,7 @@ kanínur
 alifuglar
 eldisfiskar
 Leiðbeiningarmiðstöð
-Bændasamtaka
+Bændasamtaka Íslands
 Búnaðarfélag
 Búgreinafélag
 Búnaðarsamband
@@ -45,12 +47,12 @@ fagstjóri
 skýrsluhaldshugbúnaður
 leiðbeiningarþjónusta
 búvöruframleiðsluna
-lífrænnar
+lífrænnar framleiðslu
 nýliðun
-Framleiðnisjóðs
+Framleiðnisjóðs landbúnaðarins
 landbúnaðar
 stofni
-sjálfbæra
+sjálfbæra landnýtingu
 lögbýli
 garðyrkjubýli
 Búnaðarþing
@@ -59,24 +61,24 @@ búfé
 búrekstri
 búnaðarfélaga
 búgreinafélaga
-landssamband
+landssamband búgreinafélaga
 ræktunarstarfs
 búgreinar
 ráðunautur
 búvara
-Bændasamtök
+Bændasamtök Íslands
 landbúnaði
-Bændasamtaka
+Bændasamtaka Íslands
 atvinnuuppbyggingar
 framleiðni
-Bændasamtök
-Bændasamtök
+Bændasamtök Íslands
+Bændasamtök Íslands
 landbúnað
 atvinnugreinanúmer
 virðisaukaskattsnúmer
 atvinnugreinaflokkun
-Hagstofu
-Framleiðnisjóður
+Hagstofu Íslands
+Framleiðnisjóður landbúnaðarins
 lögbýli
 garðyrkjubýli
 lögbýli
@@ -98,7 +100,7 @@ búgrein
 fagsviði
 fagráðum
 Fagráð
-Bændasamtaka
+Bændasamtaka Íslands
 búrekstur
 búnaðarsambandi
 búnaðarfélag
@@ -113,8 +115,8 @@ landbúnaði
 landnýtingu
 sjálfbærri
 vistkerfa
-líffræðilegrar
-sjálfbæra
+líffræðilegrar fjölbreytni
+sjálfbæra þróun
 búskaparhátta
 lífrænna
 vistrænna
@@ -139,9 +141,9 @@ búfjárafurða
 stofnræktunar
 útvalsathugana
 Kynbótaverkefni
-líffræðilegrar
+líffræðilegrar fjölbreytni
 Skýrsluhald
-Bændasamtök
+Bændasamtök Íslands
 kynbótaskýrsluhald
 búgrein
 fagráðum
@@ -151,10 +153,10 @@ ræktunarstöðva
 erfðaefnis
 Ríkissjóður
 ræktunarstöðva
-Bændasamtök
+Bændasamtök Íslands
 Búfjársýningar
 búfjármat
-Bændasamtaka
+Bændasamtaka Íslands
 búgreinar
 Fagráð
 kynbótadóma
@@ -173,13 +175,13 @@ stofnverndarsjóð
 búgreinum
 búfjártegundum
 fagráð
-Erfðanefnd
-erfðanefnd
-Bændasamtökum
-Landbúnaðarháskóla
+Erfðanefnd landbúnaðarins
+erfðanefnd landbúnaðarins
+Bændasamtökum Íslands
+Landbúnaðarháskóla Íslands
 Skógræktinni
 Hafrannsóknastofnun
-Náttúrufræðistofnun
+Náttúrufræðistofnun Íslands
 erfðaauðlinda
 landbúnaði
 erfðaauðlinda
@@ -199,10 +201,10 @@ Leiðbeiningarþjónustan
 búskapur
 leiðbeiningarþjónustu
 leiðbeiningarmiðstöð
-Bændasamtaka
+Bændasamtaka Íslands
 búfjárrækt
 búvísindum
-Bændasamtaka
+Bændasamtaka Íslands
 búgreinum
 kynbótum
 búgrein
@@ -211,26 +213,26 @@ fagstjórar
 búfræðum
 landbúnaðarins
 landbúnaði
-Bændasamtaka
+Bændasamtaka Íslands
 Landsráðunautar
 fagstjórar
 ráðunautar
-Framkvæmdanefnd
-Framkvæmdanefnd
+Framkvæmdanefnd búvörusamninga
+Framkvæmdanefnd búvörusamninga
 búvörulaga
-framkvæmdanefndar
+framkvæmdanefndar búvörusamninga
 Þróunarframlög
 Þróunarframlög
 garðyrkju
 nautgriparækt
 sauðfjárrækt
 búgreinum
-Framleiðnisjóður
+Framleiðnisjóður landbúnaðarins
 búgrein
 fagráðs
-lífrænni
+lífrænni framleiðslu
 lífrænum
-lífræna
+lífræna búvöruframleiðslu
 Landbúnaðarráðherra
 lögbýlum
 héraðsráðunautum
