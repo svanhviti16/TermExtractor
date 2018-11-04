@@ -1,6 +1,6 @@
 import sys
 
-# accepts a .txt file in the Gullstaðll format and returns 
+# accepts a .txt file in the Gullstaðall format and returns 
 # a simple alphabetically sorted termlist from the lemmas
 
 
