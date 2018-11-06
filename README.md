@@ -13,7 +13,7 @@ To install the needed packages, run:
 
 ```pip install rake-nltk```
 
-For IceNLP, download the .zip folder on [https://github.com/hrafnl/icenlp/releases](https://github.com/hrafnl/icenlp/releases). The program needs the IceNLP project folder to be located in the same directory as the TermExtractor project folder in order to prepare the data, otherwise, adjustments are needed in the shell script ```./prepare.sh```.
+For IceNLP, download the .zip folder on [https://github.com/hrafnl/icenlp/releases](https://github.com/hrafnl/icenlp/releases). The program needs the IceNLP project folder to be located in the same directory as the TermExtractor project folder in order to prepare the data, otherwise, adjustments are needed in the shell script ```prepare.sh```.
 
 
 ## Running the program
