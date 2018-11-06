@@ -1,6 +1,6 @@
 # TermExtractor
 
-This is a term extraction tool for Icelandic written in Python 3. It was implemented using three different term extraction methods, namely the RAKE algorithm, PoS pattern matching (NP chunking) and tf-idf (term frequency * inverted document frequency)
+This is a term extraction tool for Icelandic written in Python 3. It was implemented using three different term extraction methods, namely the RAKE algorithm, PoS pattern matching (NP chunking) and tf-idf (term frequency * inverted document frequency). It can be used to produce a candidate list of terms from a given text document.
 
 ## Dependencies
 The program makes use of two natural language processing tools [NLTK](http://www.nltk.org/) and [IceNLP](https://github.com/hrafnl/icenlp). It also uses the [rake-nltk](https://github.com/csurfer/rake-nltk) implementation of the [RAKE algorithm](https://www.researchgate.net/publication/227988510_Automatic_Keyword_Extraction_from_Individual_Documents).
