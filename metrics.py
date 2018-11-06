@@ -1,10 +1,12 @@
 from nltk.metrics import *
 import sys
 
-# Calculates the f-measure of a given list of the highest ranking terms
-# reference file is a hand-annotated termlist
+# Calculates the precision, recall and f-measure of a given term list of the highest ranking terms
+# reference file is a hand-annotated termlist given as the second command line argument
+
 try:
     test_path = sys.argv[1]
+    reference_path = sys.argv[2]
 except:
     print('Please provide a file path')
 
@@ -12,7 +14,7 @@ except:
 reference = set()
 test = set()
 
-with open("termlists/bunadarlog_TERMLIST.txt") as reference_file:
+with open(reference_path) as reference_file:
     for term in reference_file:
         reference.add(term)
 

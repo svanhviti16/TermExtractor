@@ -1,7 +1,12 @@
 from rake_nltk import Metric, Rake
 from string import punctuation
 import numpy as np
-import re
+import re, sys
+
+try:
+    file_path = sys.argv[1]
+except:
+    print("Please provide a file to work on")
 
 stopwords = []
     
@@ -14,8 +19,6 @@ punct_list = list(punctuation)
 # adding Icelandic quotation marks and other punctuation
 punct_list.extend(("„", "“", "…", "«"))
 
-
-
 r = Rake(
     stopwords = stopwords,
     punctuations = punct_list,
@@ -23,7 +26,7 @@ r = Rake(
     max_length=2
 )
 
-with open("output/bunadarlog_lemmatized_clean.txt") as corp_file:
+with open(file_path) as corp_file:
     corpus_list = []
     tokens_string = ""
     lines = corp_file.readlines()
@@ -40,10 +43,15 @@ for line in corpus_list:
         token_list.append(line[0])
 
 
-print(r.extract_keywords_from_text(token_string))
+r.extract_keywords_from_text(token_string)
 
-rake_terms = r.get_ranked_phrases()[:250]
+rake_terms = r.get_ranked_phrases()
 
 for term in rake_terms:
     print(term)
 
+# getting rid of duplicates
+new_set = set()
+new_set.update(rake_terms)
+for term in new_set:
+    print(term)

@@ -1,9 +1,11 @@
 from string import punctuation
 from collections import defaultdict
 from operator import itemgetter
-import re, os, math
+import re, os, math, sys
 
-# tf-idf = Term Frequency, Inverse Document Frequency
+# Script for calculating tf-idf = Term Frequency, Inverse Document Frequency
+
+working_path = sys.argv[1]
 
 # Icelandic stopwords
 with open("stopwords/stopwords_is_extra.txt", "r") as stopwords_file:
@@ -36,7 +38,7 @@ word_idf = defaultdict(lambda: 0)
 working_words = []
 
 # Fetching the document to be worked on
-with open("output/lemmatized_clean.txt") as corp_file:
+with open(working_path) as corp_file:
     lines = corp_file.readlines()
     for line in lines:
         if line.strip():
@@ -47,7 +49,7 @@ with open("output/lemmatized_clean.txt") as corp_file:
 working_words = exclude_stoptokens(working_words)
 
 # Fetching the gold corpus from a local directory and counting the tokens and documents
-file_paths = os.listdir("corpus/GOLD_split/")
+file_paths = os.listdir("corpus/Gold_standard/GOLD_split/")
 
 # +1 is the document we're looking at, it is added to the corpus
 document_count = len(file_paths) + 1
@@ -56,63 +58,60 @@ documents_list = []
 for path in file_paths:
     total_words = []
     # file path with ~ 200 files from the Gold standard
-    with open("corpus/GOLD_split/" + path) as g_file:
+    with open("corpus/Gold_standard/GOLD_split/" + path) as g_file:
         lines = g_file.readlines()
         for line in lines:
             if line.strip():
-                # omitting lines with no lemmas
+                # omitting lines with no lemmas (some numbers (tag 'ta'))
                 if len(line.split()) is 3:
                     lemma = line.split()[2]
                 if lemma not in stopwords_is and lemma not in punct_list and not re.match(r"[0-9]+|[0-9]+\/[0-9]+|[0-9]+\.|[A-Za-zÞÆÖÐÚÁÍÓÉþæöðúáíóé]+\.", lemma):
                     # adding the lemmas to a list, omitting stopwords and other unwanted tokens
                     total_words.append(lemma)
+
     # registering whether a word appears in the document
     for word in total_words:
         word_idf[word] += 1
     # adding a list of all lemmas in a document into a list
     documents_list.append(total_words)
 
-    vocabulary.update(total_words)
-
 # adding the list of working words to the documents list
 documents_list.append(working_words)
+
+# updating the set with all the words in the corpus
+vocabulary.update(total_words)
 
 # we also want the working_words into the vocabulary
 vocabulary.update(working_words)
 
-# and calculate the idf for each word
+# and also calculate the idf for each word in the document we're working on
 for word in working_words:
     word_idf[word] += 1
 
 # now getting the vocabulary size
 vocabulary = list(vocabulary)
 vocabulary_size = len(vocabulary)
-print("VOCABULARY SIZE: " + str(vocabulary_size))
 
 # Calculate idf for all words in the vocabulary
 for word in vocabulary:
     word_idf[word] = math.log(document_count / float(1 + word_idf[word]))
-    #print(word)
 
-# tf = term frequency
+# tf is the term frequency
 # word frequency in the document divided by the document length
 def word_tf(word, document):
-    print("Word frequency in a document: " + str(float(document.count(word))))
     return float(document.count(word)) / len(document)
  
 def tf_idf(word, document):
     if word not in vocabulary:
         return .0
-    print("IDF " + str(word_idf[word]))
     return word_tf(word, document) * word_idf[word]
 
 # testing tf idf function
-print("Bændasamtök: " + str(tf_idf("Bændasamtök", working_words)))
-print("Bóndi: " + str(tf_idf("bóndi", working_words)))
-print("Skjaldbaka: " + str(tf_idf("skjaldbaka", working_words)))
-print("Búvara: " + str(tf_idf("búvara", working_words)))
-print("Sauðfjárrækt: " + str(tf_idf("sauðfjárrækt", working_words)))
-print("og: " + str(tf_idf("og", working_words)))
+#print("Bændasamtök: " + str(tf_idf("Bændasamtök", working_words)))
+#print("Bóndi: " + str(tf_idf("bóndi", working_words)))
+#print("Skjaldbaka: " + str(tf_idf("skjaldbaka", working_words)))
+#print("Búvara: " + str(tf_idf("búvara", working_words)))
+#print("Sauðfjárrækt: " + str(tf_idf("sauðfjárrækt", working_words)))
 
 working_set = set()
 working_set.update(working_words)
@@ -122,6 +121,7 @@ for word in working_set:
     tf_idf_results.append((word, tf_idf(word, working_words)))
 
 tf_idf_results.sort(key=itemgetter(1), reverse=True)
+# returning the first 150 terms by value
 new_list = [ seq[0] for seq in tf_idf_results[:150] ]
 
 for term in new_list:
