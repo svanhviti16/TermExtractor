@@ -4,8 +4,11 @@ from operator import itemgetter
 import re, os, math, sys
 
 # Script for calculating tf-idf = Term Frequency, Inverse Document Frequency
-
-working_path = sys.argv[1]
+try:
+    working_path = sys.argv[1]
+except IndexError:
+    print("Usage: " + os.path.basename(__file__) + " <filename.txt>")
+    sys.exit(1)
 
 # Icelandic stopwords
 with open("stopwords/stopwords_is_extra.txt", "r") as stopwords_file:

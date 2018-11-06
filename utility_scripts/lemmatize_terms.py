@@ -1,5 +1,7 @@
 import sys
 
+# For lemmatizing termlists, used once for testing purposes
+
 termlist_file = sys.argv[1]
 lemma_file = sys.argv[2]
 

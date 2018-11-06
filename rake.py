@@ -1,12 +1,13 @@
 from rake_nltk import Metric, Rake
 from string import punctuation
 import numpy as np
-import re, sys
+import re, sys, os
 
 try:
     file_path = sys.argv[1]
-except:
-    print("Please provide a file to work on")
+except IndexError:
+    print("Usage: " + os.path.basename(__file__) + " <filename.txt>")
+    sys.exit(1)
 
 stopwords = []
     

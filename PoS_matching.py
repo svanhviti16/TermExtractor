@@ -1,12 +1,12 @@
-import sys, re 
+import sys, re, os
 from operator import itemgetter
 from string import punctuation
 
 try:
     file_path = sys.argv[1]
-except:
-    print("Please provide a file to work on")
-
+except IndexError:
+    print("Usage: " + os.path.basename(__file__) + " <filename.txt>")
+    sys.exit(1)
 
 # checks word for stopwords, punctuation, numbers and length (don't want words shorter than 5 chars)
 def isValid(word):
