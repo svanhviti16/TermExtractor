@@ -13,7 +13,7 @@ For IceNLP, download the .zip folder on [https://github.com/hrafnl/icenlp/releas
 
 
 ## Running the program
-To use, run main.sh in the console with a .txt containing some text to extract terms from using the following command:
+To use, run ```main.sh``` in the console with a ```.txt``` file containing some text to extract terms from, using the following command:
 
 ```$ ./main.sh <filename.txt>```
 
