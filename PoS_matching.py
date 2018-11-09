@@ -1,3 +1,5 @@
+# coding: utf-8
+
 import sys, re, os
 from operator import itemgetter
 from string import punctuation

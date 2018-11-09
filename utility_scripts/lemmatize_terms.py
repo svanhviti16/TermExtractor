@@ -1,3 +1,5 @@
+# coding: utf-8
+
 import sys
 
 # For lemmatizing termlists, used once for testing purposes

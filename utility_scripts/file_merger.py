@@ -1,3 +1,4 @@
+# coding: utf-8
 
 # A script to join all .txt files in a folder of .txt files into a single file.
 # Accepts a directory path as a single argument

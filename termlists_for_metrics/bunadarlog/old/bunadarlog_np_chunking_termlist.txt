@@ -1,7 +1,7 @@
 búvísindi
 búvöruframleiðsla
-sláturleyfishafi
-viðkomandi fagráð
+sláturleyfishöfi
+viðkomandi fagráðs
 nautgripur
 málefni
 stofn
@@ -12,11 +12,11 @@ króna
 tengilið
 búgrein
 neytendur
-landgreiðsla
+landgreiðsln
 upplýsing
 sjóður
 hópur
-viðkomandi aðildarfélag
+viðkomandi aðildarfélaga
 umsjón
 vistrænn
 hús
@@ -30,14 +30,14 @@ fagstjóri
 árangur
 tak
 nýliðun
-forkaupsréttur
+forkaupsrétt
 skýrsluhald
 skuldbinding
-búgrein
+búgreina
 erfðaefni
 leiðbeiningarþjónusta
 –
-einstakur samningsliður
+einstakra samningsliða
 ræktunarmarkmið
 stofnverndarbú
 framlag
@@ -51,19 +51,19 @@ samráðsvettvangur
 búgreinasamband
 landnýting
 miðlun
-lífrænn
+lífrænnur
 skipulag
 ráðstöfun
 búfjárafurð
-fagsvið
+fagsviði
 reynsla
 hagstofa
 félag
 fundargerð
 ráðuneyti
 atvinnugreinanúmer
-íslenskt búfé
-hentug tölvuforrit
+íslensks búfjár
+hentugra tölvuforrita
 regla
 loðdýr
 afkoma
@@ -71,7 +71,7 @@ umsögn
 búgreinafélag
 samstarf
 fjárveiting
-búskapur
+búskapi
 landbúnaðarráðherra
 leiðbeiningarmiðstöð
 fjárlag
@@ -83,7 +83,7 @@ framkvæmdanefnd
 hlutfall
 hlutverk
 uppeldisstöð
-fagráð
+fagráða
 yfirumsjón
 málsgrein
 markmið
@@ -102,11 +102,11 @@ dómstarf
 undirflokkur
 fagsvið
 starfsskilyrði
-tilnefning
+tilnefninga
 bændasamtök
 framleiðni
 hagræðing
-handhafi
+handhafur
 búnaðarsamband
 einangrunarstöð
 yfirstjórn
@@ -124,7 +124,7 @@ vinnsla
 greiðslutilhögun
 vistkerfi
 landbúnaðarnot
-ákveðið hlutfall
+ákveðins hlutfalls
 framleiðandi
 númer
 jörð
@@ -134,13 +134,13 @@ atvinnugreinaflokkun
 tilfærsla
 sýning
 krafa
-jarðabætur
+jarðabæta
 velferð
 búvörusamningur
-fóðuröflun
+fóðuröflunar
 þáttur
-kynbætur
-bætt lífskjör
+kynbóta
+bættra lífskjara
 fræðigrein
 samkeppnishæfni
 landbúnaðarháskóli
@@ -151,12 +151,12 @@ sauðfjárrækt
 ráðherra
 formaður
 framleiðsla
-rekstraraðili
+rekstraraðilur
 framleiðnisjóður
 bóndi
 þróun
 stund
-búrekstur
+búrekstri
 rekstrarbygging
 þjónusta
 landsvísa
@@ -168,10 +168,10 @@ grein
 kennsla
 þróunarframlag
 búnaðarfélag
-afurð
-svið
+afurða
+sviði
 ríkissjóður
-sjálfstæður rekstraraðili
+sjálfstæða rekstraraðila
 þekking
 lögbýli
 kynni
@@ -183,7 +183,7 @@ landssamband
 innflutningur
 lífrænn
 tilgangur
-landsráðunautur
+landsráðunauti
 ráðgjöf
 hross
 þörf
@@ -196,13 +196,13 @@ endurbót
 starfsregla
 garðyrkja
 janúar
-kynbótamat
+kynbótamati
 tilnefning
 fagráð
 búfé
 afgreiðsla
-einstakur bóndi
-innlendur aðili
+einstakra bænda
+innlendra aðila
 rannsókn
 frumvarp
 framleiðsluháttur
@@ -221,35 +221,35 @@ frestur
 verndun
 jarðabóta
 ræktunarstarf
-sanngjarn
+sanngjörna
 átaksverkefni
-greiðsla
+greiðsln
 landgreiðsla
 eftirlit
 umhverfisvernd
-þróunarstarf
+þróunarstarfi
 búfjárframleiðsla
 samræmi
 starfssvið
 ástand
 varðveisla
 útflutningur
-viðkomandi búnaðarsamband
-búvörulög
+viðkomandi búnaðarsambands
+búvörulagi
 stuðningur
 áætlun
-samningur
+samning
 jarðarhlutur
 greiðsla
-sameiginlegt ræktunarstarf
+sameiginlegs ræktunarstarfs
 úrvalskynbótagripur
 heilnæmi
 miðstöð
-ráðunautur
+ráðunauti
 efling
 almenningur
 búrekstur
-nýliðun
+nýliðunar
 hjálpartæki
 tölvuforrit
 júlí
@@ -267,12 +267,12 @@ planta
 eiginleiki
 kynbótadómur
 meginþáttur
-kynbótastarf
+kynbótastarfi
 nýting
 staðfesting
 samtök
 erfðaauðlind
-sjálfbærni
+sjálfbæri
 aðstoð
 ágreiningur
 kafli
@@ -288,7 +288,7 @@ stjórnvald
 sveit
 búfræði
 kynslóðaskipti
-erlendur aðili
+erlenda aðila
 septóna
 svín
 deild
@@ -302,19 +302,19 @@ samningur
 slátrun
 fyrirmæli
 té
-stjórnsýslustig
+stjórnsýslustigi
 aðstaða
 starfsemi
 ráðgjafi
 kynbótaskýrsluhald
 úrval
-landbætur
+landbæta
 starfsreynsla
-hlutaðeigandi deild
+hlutaðeigandi deildar
 lán
 tilhögun
 stefnumörkun
-samþykkt
+samþykktar
 ísat2008
 bráðabirgð
 gjaldskrá
@@ -338,7 +338,7 @@ búfjártegund
 breyting
 skýrsluhaldshugbúnaður
 býli
-umsókn
+umsókna
 samningsaðili
 landverndarbúð
 stefna

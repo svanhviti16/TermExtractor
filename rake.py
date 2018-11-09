@@ -1,3 +1,5 @@
+# coding: utf-8
+
 from rake_nltk import Metric, Rake
 from string import punctuation
 import numpy as np
@@ -48,8 +50,8 @@ r.extract_keywords_from_text(token_string)
 
 rake_terms = r.get_ranked_phrases()
 
-for term in rake_terms:
-    print(term)
+#for term in rake_terms:
+#    print(term)
 
 # getting rid of duplicates
 new_set = set()

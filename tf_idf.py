@@ -1,3 +1,5 @@
+# coding: utf-8
+
 from string import punctuation
 from collections import defaultdict
 from operator import itemgetter
@@ -124,8 +126,9 @@ for word in working_set:
     tf_idf_results.append((word, tf_idf(word, working_words)))
 
 tf_idf_results.sort(key=itemgetter(1), reverse=True)
-# returning the first 150 terms by value
-new_list = [ seq[0] for seq in tf_idf_results[:150] ]
+# returning the terms by value
+#new_list = [ seq[0] for seq in tf_idf_results[:150] ]
+new_list = [ seq[0] for seq in tf_idf_results ]
 
 for term in new_list:
     print(term)
