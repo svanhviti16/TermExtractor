@@ -17,7 +17,7 @@ To use, run ```main.sh``` in the console with a ```.txt``` file containing some 
 
 ```$ ./main.sh <filename.txt>```
 
-The script executes a series of scripts and produces four termlists in the folder output/<filename>/termlists, one for each approach used and a combined list from the other three.
+The script executes a series of scripts and produces four termlists in the folder output/\<filename\>/termlists, one for each approach used and a combined list from the other three.
   
 Each Python script can also be run independently using Python 3.
 
